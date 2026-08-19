@@ -53,72 +53,72 @@
 
 **Персонажі**
 
-| Оригінал             | Переклад             |
-| -------------------- | -------------------- |
-| Brok                 | Брок                 |
-| Graff                | Графф                |
-| Sin                  | Сін                  |
-| Wes                  | Вес                  |
-| Shay                 | Шей                  |
-| Remn                 | Ремн                 |
-| Tribot               | Трибот               |
-| Cop                  | Поліцейський         |
-| Bolt                 | Болт                 |
-| Chief                | Шеф                  |
-| Squealers Chief      | Шеф Верескунів       |
-| Squealer / Squealers | Верескун / Верескуни |
-| Kins                 | Кінс                 |
-| Dart                 | Дарт                 |
-| Tramp                | Волоцюга             |
-| Ott                  | Отт                  |
-| Klay                 | Клей                 |
-| Director             | Директорка           |
-| Stubot               | Стюбот               |
-| R.J.                 | Р. Джей              |
-| Hacker               | Гакер                |
-| Dr. Hush             | Д-р Гаш              |
-| Guard                | Вартовий             |
-| Mink                 | Мінк                 |
-| Tidy                 | Тайді                |
-| Dr. Gherkin          | Д-р Геркін           |
-| Lia                  | Лія                  |
-| Dee                  | Ді                   |
-| Merchant             | Крамарка             |
-| Government           | Уряд                 |
-| Giant shell          | Величезний панцир    |
-| Meety-Me             | Голограф             |
-| AI                   | ШІ                   |
-| Military             | Військовий           |
-| Pound                | Наглядач             |
-| Blind bot            | Сліпий бот           |
-| Nela                 | Нела                 |
-| Drone                | Дрон                 |
-| Wax                  | Вакс                 |
-| Reed                 | Рід                  |
-| Sox                  | Сокс                 |
-| Phil                 | Філ                  |
-| Rogue                | Роуг                 |
-| Seldo                | Селдо                |
-| Steel                | Сталь                |
-| Mope                 | Моп                  |
-| Vlad                 | Влад                 |
-| Matt                 | Метт                 |
-| Sly                  | Слай                 |
-| Boyd                 | Бойд                 |
-| Rok                  | Рок                  |
-| Puzzles              | Пазлс                |
-| Tenderjaw            | Щелепка              |
-| Bubbles              | Баблс                |
-| Sharpteeth           | Гострозуб            |
-| Ivy                  | Айві                 |
-| Clint                | Клінт                |
-| Crix                 | Крікс                |
-| Rogue                | Роуг                 |
-| Whikk                | Вікк                 |
-| Merengue             | Меренг               |
-| Lye                  | Лай                  |
-| Fennel               | Феннел               |
-| Stranger             | Незнайомець          |
+| Оригінал        | Переклад                 |
+| --------------- | ------------------------ |
+| Brok            | Брок                     |
+| Graff           | Графф                    |
+| Sin             | Сін                      |
+| Wes             | Вес                      |
+| Shay            | Шей                      |
+| Remn            | Ремн                     |
+| Tribot          | Трибот                   |
+| Cop             | Поліцейський             |
+| Bolt            | Болт                     |
+| Chief           | Шеф                      |
+| Squealers Chief | Шеф Верескунів           |
+| Squealers       | Верескуни                |
+| Kins            | Кінс                     |
+| Dart            | Дарт                     |
+| Tramp           | Волоцюга                 |
+| Ott             | Отт                      |
+| Klay            | Клей                     |
+| Director        | Директорка               |
+| Stubot          | Студбот                  |
+| R.J.            | Р. Джей                  |
+| Hacker          | Гакер                    |
+| Dr. Hush        | Д-р Гаш                  |
+| Guard           | Вартовий                 |
+| Mink            | Мінк                     |
+| Tidy            | Тайді                    |
+| Dr. Gherkin     | Д-р Геркін               |
+| Lia             | Лія                      |
+| Dee             | Ді                       |
+| Merchant        | Крамарка                 |
+| Government      | Уряд                     |
+| Giant shell     | Величезний панцир        |
+| Meety-Me        | Голограф                 |
+| AI              | ШІ                       |
+| Military        | Військовий               |
+| Pound           | Наглядач                 |
+| Blind bot       | Сліпий бот               |
+| Nela            | Нела                     |
+| Drone           | Дрон                     |
+| Wax             | Вакс                     |
+| Reed            | Рід                      |
+| Sox             | Сокс                     |
+| Phil            | Філ                      |
+| Rogue           | Роуг                     |
+| Seldo           | Селдо                    |
+| Steel           | Сталь                    |
+| Mope            | Моп                      |
+| Vlad            | Влад                     |
+| Matt            | Метт                     |
+| Sly             | Слай                     |
+| Boyd            | Бойд                     |
+| Rok             | Рок                      |
+| Puzzles         | Пазлс                    |
+| Tenderjaw       | Щелепка                  |
+| Bubbles         | Баблс                    |
+| Sharpteeth      | Гострозуб                |
+| Ivy             | Айві                     |
+| Clint           | Клінт                    |
+| Crix            | Крікс                    |
+| Rogue           | Роуг                     |
+| Whikk           | Вікк                     |
+| Merengue        | Меренг                   |
+| Lye             | Лай                      |
+| Fennel          | Феннел                   |
+| Stranger        | Незнайомець / Незнайомка |
 
 **Локації та світобудова**
 
@@ -219,6 +219,8 @@
 | Dr. (звання) | Д-р (скорочення через дефіс, напр. Д-р Гаш, Д-р Геркін)              |
 | blanket      | ковдра                                                               |
 | target       | ціль                                                                 |
+| statuette    | статуетка                                                            |
+| sticker      | наліпка                                                              |
 
 **Ігровий процес**
 
