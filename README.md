@@ -289,6 +289,7 @@
 
 | Оригінал           | Переклад                       | Примітки                       |
 | ------------------ | ------------------------------ | ------------------------------ |
+| Point & Click      | Point & Click                  | Не перекладаємо                |
 | EXP                | ДОСВІД                         |                                |
 | Ad / ads           | реклама / реклами              |                                |
 | Ad coupon          | рекламний флаєр                |                                |
@@ -309,8 +310,8 @@
 | Shadow ads         | тіньові реклами                |                                |
 | Shadow points      | тіньові очки                   |                                |
 | Progress           | прогрес                        |                                |
-| Summary            | підсумки                       |                                |
 | Save progress      | прогрес гри                    |                                |
+| Summary            | підсумки                       |                                |
 
 **Бій**
 
@@ -342,47 +343,48 @@
 
 **Графічний Інтерфейс**
 
-| Оригінал                         | Переклад                              | Примітки |
-| -------------------------------- | ------------------------------------- | -------- |
-| Controller / gamepad             | контролер                             |          |
-| Controls                         | керування                             |          |
-| Blink                            | блимання                              |          |
-| Icon                             | іконка                                |          |
-| Hotspots                         | точки взаємодії                       |          |
-| Press                            | натиснути                             |          |
-| Hold                             | утримувати                            |          |
-| Unlock                           | розблокувати                          |          |
-| Switch                           | перемикати                            |          |
-| Settings                         | налаштування                          |          |
-| Touch controls                   | сенсорне керування                    |          |
-| Virtual stick                    | віртуальний джойстик                  |          |
-| Virtual buttons                  | віртуальні кнопки                     |          |
-| Magnifying glass / Magnify       | лупа / збільшення                     |          |
-| Tap / Double tap                 | натискання / подвійне натискання      |          |
-| Long press                       | тривале натискання                    |          |
-| Swipe                            | провести                              |          |
-| Pinch in / Pinch out             | зведення пальців / розведення пальців |          |
-| Two-finger hold                  | утримання двома пальцями              |          |
-| Resolution                       | роздільна здатність                   |          |
-| Vsync / Vertical synchronization | вертикальна синхронізація             |          |
-| Fullscreen                       | повноекранний режим                   |          |
-| Windowed                         | віконний режим                        |          |
-| Fully narrated                   | повне озвучення                       |          |
-| Positional audio                 | позиційне аудіо                       |          |
-| High constrast text              | висококонтрастний текст               |          |
-| Screen shaking                   | тремтіння екрана                      |          |
-| Accessibility menu               | меню доступності                      |          |
-| High contrast characters         | висококонтрастні персонажі            |          |
-| Simplified rooms                 | спрощені кімнати                      |          |
-| Repeat buttons                   | кнопки повтору                        |          |
-| Repeat speech                    | повторити діалогову репліку           |          |
-| Repeat instructions              | повторити вказівки                    |          |
-| Clipboard narration              | озвучення буфера обміну               |          |
-| Hotspots aligned                 | вирівнювання точок взаємодії          |          |
-| Left Click                       | клік ЛКМ                              |          |
-| Right Click                      | клік ПКМ                              |          |
-| Middle Click                     | клік колеса миші                      |          |
-| Touch gestures                   | сенсорні жести                        |          |
+| Оригінал                                   | Переклад                                  | Примітки |
+| ------------------------------------------ | ----------------------------------------- | -------- |
+| Controller / gamepad                       | контролер                                 |          |
+| Controls                                   | керування                                 |          |
+| Blink                                      | блимання                                  |          |
+| Icon                                       | іконка                                    |          |
+| Hotspots                                   | точки взаємодії                           |          |
+| Press                                      | натиснути                                 |          |
+| Hold                                       | утримувати                                |          |
+| Unlock                                     | розблокувати                              |          |
+| Switch                                     | перемикати                                |          |
+| Settings                                   | налаштування                              |          |
+| Touch controls                             | сенсорне керування                        |          |
+| Virtual stick                              | віртуальний джойстик                      |          |
+| Virtual buttons                            | віртуальні кнопки                         |          |
+| Magnifying glass / Magnify                 | лупа / збільшення                         |          |
+| Tap / Double tap                           | натискання / подвійне натискання          |          |
+| Long press                                 | тривале натискання                        |          |
+| Swipe                                      | провести                                  |          |
+| Pinch in / Pinch out                       | зведення пальців / розведення пальців     |          |
+| Two-finger hold                            | утримання двома пальцями                  |          |
+| Resolution                                 | роздільна здатність                       |          |
+| Vsync / Vertical synchronization           | вертикальна синхронізація                 |          |
+| Fullscreen                                 | повноекранний режим                       |          |
+| Windowed                                   | віконний режим                            |          |
+| Fully narrated                             | повне озвучення                           |          |
+| Positional audio                           | позиційне аудіо                           |          |
+| High constrast text                        | висококонтрастний текст                   |          |
+| Screen shaking                             | тремтіння екрана                          |          |
+| Accessibility menu                         | меню доступності                          |          |
+| High contrast characters                   | висококонтрастні персонажі                |          |
+| Simplified rooms                           | спрощені кімнати                          |          |
+| Repeat buttons                             | кнопки повтору                            |          |
+| Repeat speech                              | повторити діалогову репліку               |          |
+| Repeat instructions                        | повторити вказівки                        |          |
+| Clipboard narration                        | озвучення буфера обміну                   |          |
+| Hotspots aligned                           | вирівнювання точок взаємодії              |          |
+| Left Click                                 | клік ЛКМ                                  |          |
+| Right Click                                | клік ПКМ                                  |          |
+| Middle Click                               | клік колеса миші                          |          |
+| Touch gestures                             | сенсорні жести                            |          |
+| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |          |
 
 **Інше**
 
@@ -408,6 +410,7 @@
 | My old man          | мій старий                                                                                                         | Про Брока                              |
 | Croc                | крокодил / крок                                                                                                    |                                        |
 | Tutor               | опікун                                                                                                             |                                        |
+| Stepson             | прийомний син                                                                                                      |                                        |
 | IQ                  | IQ                                                                                                                 |                                        |
 | Dough               | бабло                                                                                                              | Розмовне позначення грошей             |
 | Mister              | пан                                                                                                                |                                        |
@@ -422,6 +425,7 @@
 | Female              | жінка                                                                                                              |                                        |
 | 3/4 view            | ракурс у 3/4 (три чверті)                                                                                          |                                        |
 | citizen certificate | посвідчення громадянина                                                                                            |                                        |
+| handyman            | майстер на всі руки                                                                                                |                                        |
 
 **Вигуки**
 
