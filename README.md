@@ -114,7 +114,6 @@
 | Ivy             | Айві              |          |
 | Clint           | Клінт             |          |
 | Crix            | Крікс             |          |
-| Rogue           | Роуг              |          |
 | Whikk           | Вікк              |          |
 | Merengue        | Меренг            |          |
 | Lye             | Лай               |          |
@@ -188,8 +187,8 @@
 | Pipe-Mail                              | Поштомат                      |                                                        |
 | Aircar                                 | аеромобіль                    |                                                        |
 | Hoverbike                              | аероцикл                      |                                                        |
-| Propulsed Bycicle                      | реактивний велосипед          |                                                        |
-| Floating char                          | повітряний стілець            |                                                        |
+| Propulsed Bicycle                      | реактивний велосипед          |                                                        |
+| Floating chair                         | повітряний стілець            |                                                        |
 | Temperature Regulating Clothes         | одяг із терморегуляцією       |                                                        |
 | E-Physical Libraries                   | електронно-фізичні бібліотеки |                                                        |
 | Showlet                                | душлет                        |                                                        |
@@ -383,7 +382,7 @@
 | Windowed                                   | віконний режим                            |          |
 | Fully narrated                             | повне озвучення                           |          |
 | Positional audio                           | позиційне аудіо                           |          |
-| High constrast text                        | висококонтрастний текст                   |          |
+| High contrast text                         | висококонтрастний текст                   |          |
 | Screen shaking                             | тремтіння екрана                          |          |
 | Accessibility menu                         | меню доступності                          |          |
 | High contrast characters                   | висококонтрастні персонажі                |          |
@@ -444,7 +443,7 @@
 | Handkerchief        | хустинка                                                                                                           |                                        |
 | Dumping goods       | викидання речей                                                                                                    |                                        |
 | ID                  | номер                                                                                                              |                                        |
-| Cat fur             | Котяча шерсть                                                                                                      |                                        |
+| Cat fur             | котяча шерсть                                                                                                      |                                        |
 
 **Вигуки**
 
