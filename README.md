@@ -187,6 +187,7 @@
 | Sorain                             | Сорейн                                 | Назва країни                   |
 | Media                              | ЗМІ                                    |                                |
 | Garbage Disposal Center            | Центр Переробки Сміття                 |                                |
+| Engineer Lab 21                    | Інженерна Лабораторія 21               |                                |
 
 **Календар і Релігія**
 
@@ -482,6 +483,7 @@
 | Male                     | чоловік                                                                                                            |                                        |
 | Female                   | жінка                                                                                                              |                                        |
 | 3/4 view                 | ракурс у 3/4 (три чверті)                                                                                          |                                        |
+| front-facing view        | анфас                                                                                                              |                                        |
 | Citizen certificate      | посвідчення громадянина                                                                                            |                                        |
 | Handyman                 | майстер на всі руки                                                                                                |                                        |
 | Worm                     | хробак                                                                                                             |                                        |
@@ -505,6 +507,7 @@
 | Handcuffs                | кайданки                                                                                                           |                                        |
 | Subject                  | суб'єкт                                                                                                            |
 | Commissioner             | комісар                                                                                                            |                                        |
+| Nephew                   | небіж                                                                                                              |                                        |
 
 **Вигуки**
 
@@ -564,6 +567,7 @@
 | (Burp)                                    | (Ригає)                           |
 | (Sneeze)                                  | (Апчхи)                           |
 | (Whispers) / (Whisper)                    | (Шепіт)                           |
+| (Footsteps)                               | (Кроки)                           |
 
 **Фрази**
 
