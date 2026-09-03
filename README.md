@@ -18,7 +18,7 @@ People who speak Native Ukrainian can contribute to the translation. If you woul
 
 1. Register at the [Translation Website](https://www.brokgame.com/translate.php). **You have to speak Native Ukrainian** to be able to register.
 
-2. Open the Ukrainian translation on the website and start filling in the missing texts. Make sure to follow the (Translation Guide (UKR))[guide.md] for consistency and quality.
+2. Open the Ukrainian translation on the website and start filling in the missing texts. Make sure to follow the [Translation Guide (UKR)](guide.md) for consistency and quality.
 
 3. Nothing else is currently required. I am already keeping track of the progress and doing proofreading. You can help either by filling in the missing texts or suggesting improvements to the Translation Guide via pull requests.
 
