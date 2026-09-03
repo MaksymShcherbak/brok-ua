@@ -8,10 +8,10 @@ The process is as follows:
 
 ```mermaid
 flowchart TB
-subgraph Row1["Phase 1: Translation"]
+subgraph Row1["Translation"]
 direction TB
 A["The translation file (.txt) is exported from the website"]
-B["AI translates the file (have to feed it the [Translation Guide](guide.md) for consistent results)"]
+B["AI translates the file (**Important**: feed it the Translation Guide for consistent results)"]
 C["AI-translated file (.txt) is imported back to the website"]
 D["Human proofreads the translation and makes edits"]
 E["The file is downloaded again and proofread by AI"]
