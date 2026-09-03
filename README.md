@@ -1,18 +1,18 @@
 # Ukrainian Translation for BROK: The InvestiGator 🇺🇦 🐊
 
-Welcome to the Ukrainian translation project for BROK: The InvestiGator!
+Welcome to the Ukrainian translation project for **BROK: The InvestiGator**!
 
 We are volunteers dedicated to bringing the game to Ukrainian-speaking players. Our goal is to provide a complete and accurate translation of the game's text.
 
-The unofficial project lead and the owner of this repository is Maksym Shcherbak. Contact me at [maxim.shherbak@gmail.com](mailto:maxim.shherbak@gmail.com) if you have any questions.
+The unofficial project lead and the owner of this repository is **Maksym Shcherbak**. Contact me at [maxim.shherbak@gmail.com](mailto:maxim.shherbak@gmail.com) if you have any questions.
 
 Check out some of the pages:
 
-- [Translation Guide (UKR)](guide.md).
-- [Translation Process](process.md).
-- [Roadmap](roadmap.md).
+- [📜 Translation Guide (UKR)](guide.md).
+- [🗺️ Roadmap](roadmap.md).
+- [🕒 Translation Process](process.md).
 
-## Contributing
+## Contributing 🌐
 
 People who speak Native Ukrainian can contribute to the translation. If you would like to help, please follow these steps:
 
@@ -22,7 +22,7 @@ People who speak Native Ukrainian can contribute to the translation. If you woul
 
 3. Nothing else is currently required. I am already keeping track of the progress and doing proofreading. You can help either by filling in the missing texts or suggesting improvements to the Translation Guide via pull requests.
 
-## Testing the Translation
+## Testing the Translation 🎮
 
 You can also test the translation in the game. To do this, download the translation from the website (Export ZIP) and **replace the files in one of the ready-made translations (for example, in the rus folder)**.
 

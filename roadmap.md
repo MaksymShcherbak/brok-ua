@@ -1,4 +1,4 @@
-# Roadmap
+# Roadmap 🗺️
 
 The project started as a tribute to BROK: The Investigator, a game which brought me joy and nostalgia towards classic Point & Click adventures.
 

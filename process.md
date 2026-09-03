@@ -1,4 +1,4 @@
-# Translation Process
+# Translation Process 🕒
 
 While the translation could be done manually, I use a special process to speed everything up.
 
