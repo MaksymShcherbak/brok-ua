@@ -265,7 +265,7 @@
 | Pipe-Pill                              | Пігулкомат                           |                                                        |
 | Pipe-Mail                              | Поштомат                             |                                                        |
 | Pipe terminal                          | термінал поштової мережі             |                                                        |
-| Aircar                                 | аеромобіль                           |                                                        |
+| Aircar / Hovercar                      | аеромобіль                           |                                                        |
 | Hoverbike                              | аероцикл                             |                                                        |
 | Propulsed Bicycle                      | реактивний велосипед                 |                                                        |
 | Floating chair                         | повітряний стілець                   |                                                        |
@@ -522,7 +522,7 @@
 | Stall / stand  | прилавок                             |                                        |
 | Weight         | важок                                | Предмет в бункерній головоломці Граффа |
 | Handkerchief   | хустинка                             |                                        |
-| Dough / Moolah | бабки / бабло                        | Розмовне позначення грошей             |
+| Dough / Moolah | гроші / бабки / бабло                | Розмовне позначення грошей             |
 | Cat fur        | котяча шерсть                        |                                        |
 | Glass shell    | скляна оболонка                      |                                        |
 | Cup            | кухоль                               |                                        |
@@ -563,67 +563,67 @@
 
 **Вигуки**
 
-| Оригінал                                  | Переклад                          |
-| ----------------------------------------- | --------------------------------- |
-| Aaah! / Argh!                             | А-аа! / А-ай! / Ар-р! / А-ах!     |
-| Aww...                                    | Ох...                             |
-| Awww...                                   | О-ох...                           |
-| Ok.                                       | Добре. / Гаразд.                  |
-| Ouch                                      | Ай                                |
-| Oh                                        | A / О / Ах / Ох                   |
-| Huh? / Uh? / Eh?                          | Га? / Що?                         |
-| Hmm...                                    | Гмм...                            |
-| Hmmph...                                  | Гм-мм...                          |
-| No / Nope / Nah                           | Ні                                |
-| Nooo!                                     | Ні-і!                             |
-| Oh no!                                    | О ні!                             |
-| Ooof! / Urgh!                             | У-ух! / Гр-р!                     |
-| A-choo!                                   | А-апчхи!                          |
-| Erm... / Err... / Uh...                   | Е-е...                            |
-| What the...?                              | Що за...?                         |
-| What the heck?                            | Що за чорт?                       |
-| Darn! / Damn! / Crap!                     | Чорт! / Чорт забирай! / Дідько!   |
-| Oh well. / Well.                          | Ну що ж.                          |
-| Well                                      | Ну                                |
-| Woah                                      | Ого                               |
-| Oops / Woops                              | Ой / Ой-ой / Йой                  |
-| Yikes! / Geez!                            | Йой!                              |
-| Uh oh...                                  | Ой-ой...                          |
-| Yeah / Yup / Yep                          | Так / Угу                         |
-| Mmrph. / Mrrph.                           | М-ммм.                            |
-| Man...                                    | Ох... / Оце так...                |
-| Hey!                                      | Гей!                              |
-| Hello?                                    | Агов? / Здоров? / Алло? (телефон) |
-| Phew...                                   | Фух...                            |
-| Pheew...                                  | Фу-ух...                          |
-| Tsk / Pft / Pfft / Ugh / Urgh / Gah / Eww | Пхе / Тьху / Фу                   |
-| Poof!                                     | Шух!                              |
-| Ngggh...!                                 | У-уух...!                         |
-| Shh...                                    | Ш-ш...                            |
-| Ow ow ow!                                 | Ай-ай-ай!                         |
-| Oh boy...                                 | Ой леле...                        |
-| You don't say...                          | І не кажи...                      |
-| Come on!                                  | Давай! / Ну ж бо!                 |
-| Of course!                                | Звісно! Авжеж!                    |
-| Bye bye!                                  | Прощавай!                         |
-| It's pointless.                           | Марно.                            |
-| Actually...                               | Власне...                         |
-| Get lost. / Get out of here.              | Геть. / Забирайся звідси.         |
-| (Sigh)                                    | (Зітхає)                          |
-| (Yawn)                                    | (Позіхає)                         |
-| (Cough) / (Cough, cough)                  | (Кашляє)                          |
-| (Cough, cough, cough)                     | (Сильно кашляє)                   |
-| (Gulp) / Gulp!                            | (Ковтає слину)                    |
-| (Knocking)                                | (Стук)                            |
-| (Knock, knock)                            | (Тук-тук)                         |
-| (Pants) / (Panting) / (Pant, pant)        | (Важко дихає)                     |
-| (Sniff) / (Smells)                        | (Нюхає)                           |
-| (Burp)                                    | (Ригає)                           |
-| (Sneeze)                                  | (Апчхи)                           |
-| (Whispers) / (Whisper) / (Whispering)     | (Шепіт)                           |
-| (Footsteps)                               | (Кроки)                           |
-| (Sobs)                                    | (Ридає)                           |
-| (Crack)                                   | (Хрускіт) / (Тріскіт)             |
+| Оригінал                                  | Переклад                               |
+| ----------------------------------------- | -------------------------------------- |
+| Aaah! / Argh!                             | А-аа! / А-ай! / Ар-р! / А-ах!          |
+| Aww...                                    | Ох...                                  |
+| Awww...                                   | О-ох...                                |
+| Ok.                                       | Добре. / Гаразд.                       |
+| Ouch                                      | Ай                                     |
+| Oh                                        | A / О / Ах / Ох                        |
+| Huh? / Uh? / Eh?                          | Га? / Що?                              |
+| Hmm...                                    | Гмм...                                 |
+| Hmmph...                                  | Гм-мм...                               |
+| No / Nope / Nah                           | Ні                                     |
+| Nooo!                                     | Ні-і!                                  |
+| Oh no!                                    | О ні!                                  |
+| Ooof! / Urgh!                             | У-ух! / Гр-р!                          |
+| A-choo!                                   | А-апчхи!                               |
+| Erm... / Err... / Uh...                   | Е-е...                                 |
+| What the...?                              | Що за...?                              |
+| What the heck?                            | Що за чорт?                            |
+| Darn! / Damn! / Crap!                     | Чорт! / Чорт забирай! / Дідько!        |
+| Oh well. / Well.                          | Ну що ж.                               |
+| Well                                      | Ну                                     |
+| Woah                                      | Ого                                    |
+| Oops / Woops                              | Ой / Ой-ой / Йой                       |
+| Yikes! / Geez!                            | Йой!                                   |
+| Uh oh...                                  | Ой-ой...                               |
+| Yeah / Yup / Yep                          | Так / Угу                              |
+| Mmrph. / Mrrph.                           | М-ммм.                                 |
+| Man...                                    | Ох... / Оце так...                     |
+| Hey!                                      | Гей!                                   |
+| Hello?                                    | Агов? / Здоров? / Алло? (телефон)      |
+| Phew...                                   | Фух...                                 |
+| Pheew...                                  | Фу-ух...                               |
+| Tsk / Pft / Pfft / Ugh / Urgh / Gah / Eww | Пхе / Тьху / Фу                        |
+| Poof!                                     | Шух!                                   |
+| Ngggh...!                                 | У-уух...!                              |
+| Shh...                                    | Ш-ш...                                 |
+| Ow ow ow!                                 | Ай-ай-ай!                              |
+| Oh boy...                                 | Ой леле...                             |
+| You don't say...                          | І не кажи...                           |
+| Come on!                                  | Давай! / Ну ж бо!                      |
+| Of course!                                | Звісно! Авжеж!                         |
+| Bye bye!                                  | Прощавай!                              |
+| It's pointless.                           | Марно.                                 |
+| Actually...                               | Власне...                              |
+| Get lost. / Get out of here.              | Геть. / Забирайся звідси. / Відчепись. |
+| (Sigh)                                    | (Зітхає)                               |
+| (Yawn)                                    | (Позіхає)                              |
+| (Cough) / (Cough, cough)                  | (Кашляє)                               |
+| (Cough, cough, cough)                     | (Сильно кашляє)                        |
+| (Gulp) / Gulp!                            | (Ковтає слину)                         |
+| (Knocking)                                | (Стук)                                 |
+| (Knock, knock)                            | (Тук-тук)                              |
+| (Pants) / (Panting) / (Pant, pant)        | (Важко дихає)                          |
+| (Sniff) / (Smells)                        | (Нюхає)                                |
+| (Burp)                                    | (Ригає)                                |
+| (Sneeze)                                  | (Апчхи)                                |
+| (Whispers) / (Whisper) / (Whispering)     | (Шепіт)                                |
+| (Footsteps)                               | (Кроки)                                |
+| (Sobs)                                    | (Ридає)                                |
+| (Crack)                                   | (Хрускіт) / (Тріскіт)                  |
 
 **Фрази**
 
@@ -640,3 +640,4 @@
 | "Open me when desperate" / "Open when desperate" / "Open this when truly desperate"           | Відкрити лише у безвихідній ситуації                                    | Конверт Шей                        |
 | Target acquired.                                                                              | Ціль виявлено.                                                          | Триботи                            |
 | I'm right behind you.                                                                         | Я йтиму слідом.                                                         |                                    |
+| I can't go on like this.                                                                      | Я так більше не можу. / Я не можу далі так жити.                        |                                    |
