@@ -2,23 +2,19 @@
 
 Welcome to the Ukrainian translation project for **BROK: The InvestiGator**!
 
-We are volunteers dedicated to bringing the game to Ukrainian-speaking players. Our goal is to provide a complete and accurate translation of the game's text.
-
 The unofficial project lead and the owner of this repository is **Maksym Shcherbak**. Contact me at [maxim.shherbak@gmail.com](mailto:maxim.shherbak@gmail.com) if you have any questions.
 
 Check out some of the pages:
 
-| Language | File                                | Description                            |
-| -------- | ----------------------------------- | -------------------------------------- |
-| 🇺🇦 UKR    | [📜 Translation Guide](guide.md)     | The main reference document            |
-| 🇺🇦 UKR    | [👥 Formality Rules](formality.md)   | Character relationships and Formality  |
-| 🇺🇦 UKR    | [⭕ Common Errors](common-errors.md) | Common translation errors              |
-| 🇬🇧 EN     | [🕒 Translation Process](process.md) | Description of the translation process |
-| 🇬🇧 EN     | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
+| Language  | File                                | Description                            |
+| --------- | ----------------------------------- | -------------------------------------- |
+| 🇺🇦 **UKR** | [📜 Translation Guide](guide.md)     | The main reference document            |
+| 🇺🇦 **UKR** | [👥 Formality Rules](formality.md)   | Character relationships and Formality  |
+| 🇺🇦 **UKR** | [⭕ Common Errors](common-errors.md) | Common translation errors              |
+| 🇬🇧 **EN**  | [🕒 Translation Process](process.md) | Description of the translation process |
+| 🇬🇧 **EN**  | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
 
 ## Contributing 🌐
-
-- Big thanks for **Kenzie** for helping with the translation!
 
 People who speak Native Ukrainian can contribute to the translation. If you would like to help, please follow these steps:
 
@@ -27,6 +23,10 @@ People who speak Native Ukrainian can contribute to the translation. If you woul
 2. Open the Ukrainian translation on the website and start filling in the missing texts. Make sure to follow the [Translation Guide (UKR)](guide.md) for consistency and quality.
 
 3. Nothing else is currently required. I am already keeping track of the progress and doing proofreading. You can help either by filling in the missing texts or suggesting improvements to the Translation Guide via pull requests.
+
+**Credits**
+
+- Big thanks for **Kenzie** for helping with the translation!
 
 ## Testing the Translation 🎮
 
