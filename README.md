@@ -8,9 +8,13 @@ The unofficial project lead and the owner of this repository is **Maksym Shcherb
 
 Check out some of the pages:
 
-- [📜 Translation Guide (UKR)](guide.md).
-- [🗺️ Roadmap](roadmap.md).
-- [🕒 Translation Process](process.md).
+| Language | File                                | Description                            |
+| -------- | ----------------------------------- | -------------------------------------- |
+| 🇺🇦 UKR    | [📜 Translation Guide](guide.md)     | The main reference document            |
+| 🇺🇦 UKR    | [👥 Formality Rules](formality.md)   | Character relationships and Formality  |
+| 🇺🇦 UKR    | [⭕ Common Errors](common-errors.md) | Common translation errors              |
+| 🇬🇧 EN     | [🕒 Translation Process](process.md) | Description of the translation process |
+| 🇬🇧 EN     | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
 
 ## Contributing 🌐
 
