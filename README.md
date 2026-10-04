@@ -14,6 +14,8 @@ Check out some of the pages:
 
 ## Contributing 🌐
 
+- Big thanks for **Kenzie** for helping with the translation!
+
 People who speak Native Ukrainian can contribute to the translation. If you would like to help, please follow these steps:
 
 1. Register at the [Translation Website](https://www.brokgame.com/translate.php). **You have to speak Native Ukrainian** to be able to register.
