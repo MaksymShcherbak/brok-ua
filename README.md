@@ -11,8 +11,8 @@ Check out some of the pages:
 | 🇺🇦 **UKR** | [📜 Translation Guide](guide.md)     | The main reference document            |
 | 🇺🇦 **UKR** | [👥 Formality Rules](formality.md)   | Character relationships and Formality  |
 | 🇺🇦 **UKR** | [⭕ Common Errors](common-errors.md) | Common translation errors              |
-| 🇬🇧 **EN**  | [🕒 Translation Process](process.md) | Description of the translation process |
-| 🇬🇧 **EN**  | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
+| 🇬🇧 **ENG** | [🕒 Translation Process](process.md) | Description of the translation process |
+| 🇬🇧 **ENG** | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
 
 ## Contributing 🌐
 
