@@ -4,7 +4,7 @@ The project started as a tribute to BROK: The Investigator, a game which brought
 
 The translation started on 30.06.2026 and is still ongoing. I plan to finish it by 31.10.2026, but it depends on my schedule.
 
-More detailed information can be seen in the diagram.
+**Edit (01.10.2026)**: I am behind schedule, so the deadline might be extended to 30.11.2026.
 
 ```mermaid
 flowchart TB
