@@ -169,7 +169,6 @@
 | Poko                              | Поко                              | Карткова гра                        |
 | Bot Liberation                    | Визволення Ботів                  | Підпільний рух активістів на Верхах |
 | Pill shortage                     | нестача пігулок                   |                                     |
-| TechDream                         | ТехноМрія                         | Музика на радіо                     |
 
 **Місця**
 
@@ -375,6 +374,8 @@
 | Proto-copier                           | псерокс                              |                                                        |
 | Material printer                       | принтер матеріалів                   |                                                        |
 | PaintTV                                | ТелеКартина                          |                                                        |
+| TechDream                              | ТехноМрія                            | Музика на радіо                                        |
+| TechnoJunkie                           | ТехноМанія                           | Наукове шоу                                            |
 
 **Їжа**
 
@@ -440,7 +441,8 @@
 | Point & Click                              | Point & Click                             | Не перекладаємо                |
 | EXP                                        | ДОСВІД                                    |                                |
 | Ad (Advertisement) / ads                   | реклама / реклами                         |                                |
-| coupon / flyer                             | флаєр                                     |                                |
+| coupon                                     | купон (на гроші) / флаєр (рекламний)      |                                |
+| flyer                                      | флаєр                                     |                                |
 | Lifebar / life bar                         | шкала здоров'я                            |                                |
 | Inventory                                  | інвентар                                  |                                |
 | Chapter                                    | розділ                                    |                                |
