@@ -316,6 +316,7 @@
 | Cleaning bot                           | бот-прибиральник                     |                                                        |
 | Auto-Clean Tribot                      | Трибот-прибиральник                  |                                                        |
 | Maintenance bot                        | сервісний бот                        |                                                        |
+| Fix-bot                                | бот-ремонтник                        |                                                        |
 | Text conversation                      | листування                           |                                                        |
 | Quantanium                             | квантаній                            |                                                        |
 | Force field                            | силове поле                          |                                                        |
@@ -356,6 +357,7 @@
 | Dumping goods                          | викидання речей                      |                                                        |
 | Xytiphate                              | кситифат                             |                                                        |
 | Holo Point                             | Голографічна Точка                   |                                                        |
+| Holo-news                              | голографічні новини                  |                                                        |
 | Tracking device                        | пристрій відстеження                 |                                                        |
 | Cabin                                  | кабіна                               |                                                        |
 | Hearing aid                            | слуховий апарат                      |                                                        |
@@ -630,7 +632,7 @@
 | What the...?                              | Що за...?                              |
 | What the heck?                            | Що за чорт?                            |
 | Darn! / Damn! / Crap!                     | Чорт! / Чорт забирай! / Дідько!        |
-| Oh well. / Well.                          | Ну що ж.                               |
+| Oh well. / Well.                          | Що ж. / Ну що ж.                       |
 | Well                                      | Ну                                     |
 | Woah                                      | Ого                                    |
 | Oops / Woops                              | Ой / Ой-ой / Йой                       |
@@ -650,6 +652,7 @@
 | Shh...                                    | Ш-ш...                                 |
 | Ow ow ow!                                 | Ай-ай-ай!                              |
 | Oh boy...                                 | Ой леле...                             |
+| Oh my gosh...                             | Ой леле... / Матінко рідна...          |
 | You don't say...                          | І не кажи...                           |
 | Come on!                                  | Ну ж бо! Нумо!                         |
 | Of course!                                | Звісно! Авжеж!                         |
