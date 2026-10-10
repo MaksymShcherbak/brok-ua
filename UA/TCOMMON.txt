@@ -3215,7 +3215,7 @@ PC_SPEAKER=Динамік
 PC_BED=Ліжко
 
 ### Trap
-PC_TRAP=Пастка
+PC_TRAP=Люк
 
 ### To hall
 PC_TO_HALL=У коридор

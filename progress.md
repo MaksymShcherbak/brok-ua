@@ -41,7 +41,7 @@
 | THINTS1   | Done                | Done          |
 | THINTS2   | Done                | Done          |
 | THINTS3   | Done                | Done          |
-| THINTS4   | To Do               | To Do         |
+| THINTS4   | Done                | Done          |
 | THINTS5   | To Do               | To Do         |
 | THINTS6   | To Do               | To Do         |
 | TMENU     | Done                | Done          |

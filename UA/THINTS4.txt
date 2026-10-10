@@ -5,335 +5,335 @@
 
 #----- Hints BROK --------
 ### Dude, go to the building in front of you!
-HINT_CH4_150_START1=
+HINT_CH4_150_START1=Чуваче, іди до будівлі навпроти!
 
 
 ### That man just won't open his door. You might have to force him!
-HINT_CH4_150_MINKDOOR1=
+HINT_CH4_150_MINKDOOR1=Той чоловік ніяк не відчинить двері. Можливо, доведеться його змусити!
 
 ### Either insist or... break his door.
-HINT_CH4_150_MINKDOOR2=
+HINT_CH4_150_MINKDOOR2=Або наполягай, або... виламай двері.
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### You scared Dr. Mink. Only one solution left - break his door!
-HINT_CH4_150_MINKDOORBREAK1=
+HINT_CH4_150_MINKDOORBREAK1=Ти налякав доктора Мінка. Лишився один вихід - виламати двері!
 
 ### Examine the corpse and the lamp next to it. Also, check the blood spot on the lamp, Croc dude.
-HINT_CH4_150_BODY1=
+HINT_CH4_150_BODY1=Оглянь тіло й лампу поруч. А ще перевір пляму крові на лампі, чуваче.
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Check Dr. Hush's room!
-HINT_CH4_150_HUSH1=
+HINT_CH4_150_HUSH1=Перевір кімнату доктора Гаша!
 
 ### Check the restroom!
-HINT_CH4_150_RESTROOM1=
+HINT_CH4_150_RESTROOM1=Перевір вбиральню!
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Turn on that robot in Dr. Hush's room!
-HINT_CH4_150_TIDY1=
+HINT_CH4_150_TIDY1=Увімкни того робота в кімнаті доктора Гаша!
 
 ### You better talk more to that robot dude.
-HINT_CH4_150_TIDYMORE1=
+HINT_CH4_150_TIDYMORE1=Тобі варто більше поговорити з тим роботом.
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Croc dude, ask Dr. Mink about Dr. Hush and Tidy!
-HINT_CH4_150_TALKMINK1=
+HINT_CH4_150_TALKMINK1=Чуваче, запитай доктора Мінка про доктора Гаша й Тайді!
 
 ### Take a look at the power socket behind the corpse.
-HINT_CH4_150_POWER1=
+HINT_CH4_150_POWER1=Глянь на розетку за тілом.
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Talk to Ott.
-HINT_CH4_150_TALKOTT1=
+HINT_CH4_150_TALKOTT1=Поговори з Оттом.
 
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Croc dude, ask that guard guy about the situation and insist until he gives you access to the monitor!
-HINT_CH4_160_GUARDMONITORACCESS1=
+HINT_CH4_160_GUARDMONITORACCESS1=Чуваче, запитай того охоронця про ситуацію та наполягай, доки він не дасть тобі доступ до монітора!
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Check the monitor the guard has on his desk! In particular the info about the entrance door... (on the bottom right)
-HINT_CH4_160_GUARDMONITORSEE1=
+HINT_CH4_160_GUARDMONITORSEE1=Перевір монітор на столі охоронця! Зокрема інформацію про вхідні двері... (унизу праворуч)
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### You'd better interrogate that suspicious guard, Croc dude! Ask him why he's lying to start the real deal.
-HINT_CH4_160_GUARDSTART1=
+HINT_CH4_160_GUARDSTART1=Тобі варто допитати того підозрілого охоронця, чуваче! Запитай, чому він бреше, щоб почати справжнє розслідування.
 
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Croc dude, get that lamp from Dr. Hush's room!
-HINT_CH4_160_HUSHLAMP1=
+HINT_CH4_160_HUSHLAMP1=Чуваче, забери ту лампу з кімнати доктора Гаша!
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Go to Dr. Mink's room and try to use his tablet, Croc dude. Use the lamp from Dr. Hush's room directly on the last icon.
-HINT_CH4_160_HUSHLAMPCLUE1=
+HINT_CH4_160_HUSHLAMPCLUE1=Іди до кімнати доктора Мінка й спробуй скористатися його планшетом, чуваче. Використай лампу з кімнати доктора Гаша на останній іконці.
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Ask the guard about Dr. Hush.
-HINT_CH4_160_HUSHASK1=
+HINT_CH4_160_HUSHASK1=Запитай охоронця про доктора Гаша.
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Check the monitor for Dr. Hush's room.
-HINT_CH4_160_DRHUSHROOM1=
+HINT_CH4_160_DRHUSHROOM1=Перевір кімнату доктора Гаша на моніторі.
 
 # NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
 ### Use the "Meety-me" from the restroom!
-HINT_CH4_160_MEETYME1=
+HINT_CH4_160_MEETYME1=Скористайся "Голографом" із вбиральні!
 
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### At this point, you need take a decision yourself Croc dude! Who do you think is the culprit?##When you've decided, go see Mink and talk about "the investigation"! After that, I'll help ya getting the missing clues for your interrogation.
-HINT_CH4_160_DECISION1=
+HINT_CH4_160_DECISION1=На цьому етапі тобі треба самому ухвалити рішення, чуваче! Як гадаєш, хто винуватець?##Коли вирішиш, іди до Мінка й поговори про "розслідування"! Після цього я допоможу тобі дістати решту зачіпок для допиту.
 
 
 ### Take the lamp near the body, Croc dude!
-HINT_CH4_160_BODYLAMPTAKE1=
+HINT_CH4_160_BODYLAMPTAKE1=Забери лампу біля тіла, чуваче!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Use Dr. Mink's tablet, Croc dude. Try examining the lamp which was next to the body!
-HINT_CH4_160_BODYLAMPEXAMINE1=
+HINT_CH4_160_BODYLAMPEXAMINE1=Скористайся планшетом доктора Мінка, чуваче. Спробуй оглянути лампу біля тіла!
 
 
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Open that fridge from the restroom! (the left side) Dr. Mink might have some info about an Antburger...
-HINT_CH4_160_BURGER1=
+HINT_CH4_160_BURGER1=Відчини той холодильник у вбиральні! (ліворуч) Можливо, доктор Мінк знає щось про мурахобургер...
 
 ### Check that little trap on the floor of the restroom (left side). There's something red jutting out of that grinder! Pick it up!
-HINT_CH4_160_WRAPPING1=
+HINT_CH4_160_WRAPPING1=Перевір підлогу вбиральні (ліворуч). З того подрібнювача стирчить щось червоне! Підбери!
 
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Croc dude, you see those black marks on Dr. Hush's hands? You may need to get a closer look at them!
-HINT_CH4_160_NANITESHANDS1=
+HINT_CH4_160_NANITESHANDS1=Чуваче, бачиш ті чорні плями на руках доктора Гаша? Варто придивитися ближче!
 
 ### Use your magnifying glass.
-HINT_CH4_160_NANITESHANDS2=
+HINT_CH4_160_NANITESHANDS2=Скористайся лупою.
 
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Croc dude, check that plant on the guard's desk!
-HINT_CH4_160_LABFLOWER1=
+HINT_CH4_160_LABFLOWER1=Чуваче, перевір ту рослину на столі охоронця!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Pretty sure you didn't check what that flower you took actually is! Examine it on Dr. Mink's tablet surface mode (last icon)
-HINT_CH4_160_PLANTCHECK1=
+HINT_CH4_160_PLANTCHECK1=Майже певен, ти так і не перевірив, що то за квітка! Оглянь її на планшеті доктора Мінка в режимі поверхні (остання іконка)
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Use Dr. Mink's tablet and this time, use the third icon (medical search). Ask Ott about the Phoenixy flower!
-HINT_CH4_160_PLANTNANITES1=
+HINT_CH4_160_PLANTNANITES1=Скористайся планшетом доктора Мінка й цього разу натисни третю іконку (медичний пошук). Запитай Отта про квітку Фенікса!
 
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Did you check that spot on the floor in Dr. Hush's room? Take a closer look!
-HINT_CH4_160_FLOORCOFFEE1=
+HINT_CH4_160_FLOORCOFFEE1=Ти перевірив ту пляму на підлозі в кімнаті доктора Гаша? Придивись уважніше!
 
 ### Use your magnifying glass.
-HINT_CH4_160_FLOORCOFFEE2=
+HINT_CH4_160_FLOORCOFFEE2=Скористайся лупою.
 
 
 ### That sink in the restroom! What secrets could lie deep inside it?...
-HINT_CH4_160_SINKNANITES1=
+HINT_CH4_160_SINKNANITES1=Той умивальник у вбиральні! Які таємниці могли б ховатися в його глибині...?
 
 ### Use your magnifying glass.
-HINT_CH4_160_SINKNANITES2=
+HINT_CH4_160_SINKNANITES2=Скористайся лупою.
 
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### You forgot to check that painting at the back of Dr. Hush's room, Croc dude!
-HINT_CH4_160_PAINTING1=
+HINT_CH4_160_PAINTING1=Ти забув перевірити ту картину в кімнаті доктора Гаша, чуваче!
 
 
 ### There seems to be something off about that wall where the painting was, don't ya think?
-HINT_CH4_160_FAKEWALL1=
+HINT_CH4_160_FAKEWALL1=Схоже, з тією стіною, де висіла картина, щось не так, га?
 
 ### Switch to action mode and use your fists on that wall!
-HINT_CH4_160_FAKEWALL2=
+HINT_CH4_160_FAKEWALL2=Перемкнися в режим бійки та гати кулаками по стіні!
 
 
 ### Use the monitoring and check the restroom info.
-HINT_CH4_160_TIDYROOM1=
+HINT_CH4_160_TIDYROOM1=Зазирни в моніторинг і перевір інформацію про вбиральню.
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Check the screen in Dr. Hush's room!
-HINT_CH4_160_TIDYCHARGE1=
+HINT_CH4_160_TIDYCHARGE1=Перевір екран у кімнаті доктора Гаша!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Use Dr. Mink's tablet and press the second icon to release the ladder. Then access it, Croc dude!
-HINT_CH4_160_TOMATOVENT1=
+HINT_CH4_160_TOMATOVENT1=Скористайся планшетом доктора Мінка й натисни другу іконку, щоб випустити драбину. А тоді заберись нею, чуваче!
 
 ### In the restroom, check the coffee cup! (on the shelf to the right)
-HINT_CH4_160_COFFEE1=
+HINT_CH4_160_COFFEE1=У вбиральні перевір кавовий кухоль! (на полиці праворуч)
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### See that button on that workbench in the middle of Dr. Hush's room? Push it, then take a look at the ramp that opened!
-HINT_CH4_160_RAMP1=
+HINT_CH4_160_RAMP1=Бачиш кнопку на тому верстаку посеред кімнати доктора Гаша? Натисни її, а тоді глянь на пандус, що відкрився!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### There's that weird column of light in Dr. Mink's room (near the bed) Check it!
-HINT_CH4_160_COLUMN1=
+HINT_CH4_160_COLUMN1=У кімнаті доктора Мінка є той дивний стовп світла (біля ліжка). Перевір!
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### There are some biscuits on that ramp in Dr. Hush's room. Check them (but no eating!)
-HINT_CH4_160_CRUMBS1=
+HINT_CH4_160_CRUMBS1=На тому пандусі в кімнаті доктора Гаша є печиво. Перевір його (але не їж!)
 
 ### Croc dude, check the right part of the fridge in the restroom!
-HINT_CH4_160_CLOTHES1=
+HINT_CH4_160_CLOTHES1=Чуваче, перевір праву частину холодильника у вбиральні!
 
 ### Amongst the clothes that you've scattered in the restroom... There are some little round things! Check that, Croc dude!
-HINT_CH4_160_PILLHUSH1=
+HINT_CH4_160_PILLHUSH1=Серед розкиданого у вбиральні одягу... Є якісь дрібні круглі штуки! Перевір, чуваче!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Use Dr. Mink's tablet. Examine the pill you got from the restroom with the last icon. Then ask Ott to do a medical search for it! (third icon)
-HINT_CH4_160_ACCEL5001=
+HINT_CH4_160_ACCEL5001=Скористайся планшетом доктора Мінка. Оглянь пігулку з вбиральні останньою іконкою. А тоді попроси Отта зробити медичний пошук! (третя іконка)
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### In Dr. Hush's room, check the materials at the left of the room!
-HINT_CH4_160_MANIAC1=
+HINT_CH4_160_MANIAC1=У кімнаті доктора Гаша перевір матеріали, що знаходяться ліворуч!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Check that speaker in Dr. Mink's room!
-HINT_CH4_160_MINKMUSIC1=
+HINT_CH4_160_MINKMUSIC1=Перевір той динамік у кімнаті доктора Мінка!
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Take Dr. Hush's tablet! (on the floating chair in his room)
-HINT_CH4_160_TABLETHUSH1=
+HINT_CH4_160_TABLETHUSH1=Забери планшет доктора Гаша! (на повітряному стільці в його кімнаті)
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Use Dr. Hush's tablet on... Dr. Hush! Yeah, I know how weird this sounds but you need his finger to unlock it. In particular, his right hand!
-HINT_CH4_160_TABLETEXAMINE1=
+HINT_CH4_160_TABLETEXAMINE1=Використай планшет доктора Гаша на... докторі Гаші! Так, знаю, як дивно це звучить, але тобі потрібен його палець, щоб розблокувати планшет. Зокрема його права рука!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Talk to Dr. Mink and finish this interrogation!
-HINT_CH4_160_MINKFINISH1=
+HINT_CH4_160_MINKFINISH1=Поговори з доктором Мінком і закінчи цей допит!
 
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### There's something under the bed in Mink's room...
-HINT_CH4_160_GUARDSTAIN1=
+HINT_CH4_160_GUARDSTAIN1=Під ліжком у кімнаті Мінка щось є...
 
 ### In the restroom, check the fridge! (left side)
-HINT_CH4_160_BURGERUNFROZEN1=
+HINT_CH4_160_BURGERUNFROZEN1=У вбиральні перевір холодильник! (ліворуч)
 
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Examine the lamp you found next to the body with Dr. Mink's tablet (last icon)
-HINT_CH4_160_WRONGLAMP1=
+HINT_CH4_160_WRONGLAMP1=Оглянь лампу, яку ти знайшов біля тіла, на планшеті доктора Мінка (остання іконка)
 
 
 ### Go home, fast!
-HINT_CH4_175_HOME1=
+HINT_CH4_175_HOME1=Швидше додому!
 
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### There's some material in front of Shay's garage.
-HINT_CH4_190_MATERIALP1A1=
+HINT_CH4_190_MATERIALP1A1=Перед гаражем Шей є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1A2=
+HINT_CH4_190_MATERIALP1A2=Ось:
 
 ### There's some material at the Border Post.
-HINT_CH4_190_MATERIALP1B1=
+HINT_CH4_190_MATERIALP1B1=На прикордонному пості є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1B2=
+HINT_CH4_190_MATERIALP1B2=Ось:
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### There's some material in Graff's bedroom.
-HINT_CH4_190_MATERIALP1C1=
+HINT_CH4_190_MATERIALP1C1=У спальні Граффа є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1C2=
+HINT_CH4_190_MATERIALP1C2=Ось:
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### There's some material outside of the hacker's place.
-HINT_CH4_190_MATERIALP1D1=
+HINT_CH4_190_MATERIALP1D1=Біля лігва гакера є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1D2=
+HINT_CH4_190_MATERIALP1D2=Ось:
 
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### There's some material in Drumer Street.
-HINT_CH4_190_MATERIALP1E1=
+HINT_CH4_190_MATERIALP1E1=На вулиці на Верхах є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1E2=
+HINT_CH4_190_MATERIALP1E2=Ось:
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### There's some material inside Shay's garage.
-HINT_CH4_190_MATERIALP1F1=
+HINT_CH4_190_MATERIALP1F1=У гаражі Шей є матеріал.
 
 ### Here :
-HINT_CH4_190_MATERIALP1F2=
+HINT_CH4_190_MATERIALP1F2=Ось:
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### There's some material inside the Trasher Hunt. (Ya know, the door at the top of Brok's building) Just play and find the treasure!
-HINT_CH4_190_MATERIALP1G1=
+HINT_CH4_190_MATERIALP1G1=У "мисливстві за мотлохом" є матеріал. (ну, знаєш, двері на верхівці будівлі Брока) Просто пограй і знайди скарб!
 
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Croc dude, if you've got incomplete stuff to do... It's now or never! In any case, talk to Shay to start your evening fight.
-HINT_CH4_190_BEFOREFIGHT1=
+HINT_CH4_190_BEFOREFIGHT1=Чуваче, якщо маєш незавершені справи... То роби їх зараз або ніколи! У будь-якому разі поговори з Шей, щоб почати вечірній бій.
 
 
 
 ### Pinpoint the vent
-HINT_CH4_160_PINPOINT_DRHUSHVENT1=
+HINT_CH4_160_PINPOINT_DRHUSHVENT1=Вкажи на вентиляцію
 
 ### Pinpoint the lever near the trap
-HINT_CH4_160_PINPOINT_LEVER1=
+HINT_CH4_160_PINPOINT_LEVER1=Вкажи на важіль біля люка
 
 ### Pinpoint the fake wall
-HINT_CH4_160_PINPOINT_FAKEWALL1=
+HINT_CH4_160_PINPOINT_FAKEWALL1=Вкажи на фальшиву стіну
 
 ### Pinpoint the lamp
-HINT_CH4_160_PINPOINT_MISTAKE1=
+HINT_CH4_160_PINPOINT_MISTAKE1=Вкажи на лампу
 
 
 
 #----- Hints GRAFF --------
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Just talk to Klay, kitty.
-HINT_CH4_160_KLAYSWALLOW1=
+HINT_CH4_160_KLAYSWALLOW1=Просто поговори з Клеєм, кошенятко.
 
 ### Kitty, take a look at that screen on the floor! (yup, a footscreen)
-HINT_CH4_160_SCREEN1=
+HINT_CH4_160_SCREEN1=Кошенятко, глянь на той екран на підлозі! (так, підлоговий екран)
 
 ### Try pressing that button in the middle of the room!
-HINT_CH4_160_BUTTONTRY1=
+HINT_CH4_160_BUTTONTRY1=Спробуй натиснути ту кнопку посеред кімнати!
 
 ### Maybe you can exit? You didn't even check those doors!
-HINT_CH4_160_DOORSIDE1=
+HINT_CH4_160_DOORSIDE1=Може, виберешся? Ти навіть не перевірив ті двері!
 
 ### Hey, I know those bots are scary but you might want to take a look at them!
-HINT_CH4_160_TRIBOTS1=
+HINT_CH4_160_TRIBOTS1=Гей, знаю, ті боти страшні, але тобі варто на них глянути!
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Just talk to Klay, kitty.
-HINT_CH4_160_KLAYTALK1=
+HINT_CH4_160_KLAYTALK1=Просто поговори з Клеєм, кошенятко.
 
 ### Kitty, you'll need to move forward. Just try and avoid those lasers. They always do the same movements so watch carefully! You might have to jump sometimes.##If you really can't pass them, I've got a tip for you! (which will cost you another ad, obviously)
-HINT_CH4_160_LASERS1=
+HINT_CH4_160_LASERS1=Кошенятко, тобі треба рухатися вперед. Просто спробуй оминути ті лазери. Вони завжди рухаються однаково, тож уважно стеж! Іноді доведеться стрибати.##Якщо зовсім не пройдеш, у мене є підказка! (яка, очевидно, коштуватиме ще однієї реклами)
 
 #NB : Almost the same as HINT_CH1_20_PYRAMIDINSIDEINSIDE1
 ### Open the panel near the entrance where you come from. Your goal is to get the power out to deactivate the room lasers. Rotate the buttons until the electricity beam crosses all the "minus" buttons and none of the "plus" buttons! Here's a solution :
-HINT_CH4_160_LASERS2=
+HINT_CH4_160_LASERS2=Відчини панель біля входу, звідки ти прийшов. Твоя задача - вимкнути живлення, щоб деактивувати лазери в кімнаті. Повертай кнопки, доки електричний промінь не перетне всі кнопки з мінусом та жодної з плюсом! Ось рішення:
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Man, you're in big trouble! I wouldn't want to be in your place! Hmm, so...##That Squealer next to the bunker will sell you a pill for a high price. You may want to borrow some money from your old man and play at the Trasher Hunt to get enough. If you've got any food left, restore your health regularly.##Or you can, ya know... Go back home.
-HINT_CH4_165_GETPILL1=
+HINT_CH4_165_GETPILL1=Ох, ти в великій халепі! Я б не хотів опинитися на твоєму місці! Хм, отже...##Той Верескун біля бункера продасть тобі пігулку за шалену ціну. Тобі варто позичити трохи грошей у свого старого й пограти у "мисливство за мотлохом", щоб назбирати. Якщо в тебе ще лишилася їжа, регулярно відновлюй здоров'я.##Або можеш, знаєш... Повернутися додому.
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Call Klay. Who knows... Maybe he'll help you. And a certain bot might help at school!
-HINT_CH4_165_GETPILL2=
+HINT_CH4_165_GETPILL2=Подзвони Клеєві. Хтозна... Може, він допоможе. А один бот може допомогти тобі в школі!
 
 ### Check the drawer.
-HINT_CH4_180_PAPER1=
+HINT_CH4_180_PAPER1=Перевір шухляду.
 
 

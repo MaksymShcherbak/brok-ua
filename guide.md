@@ -413,6 +413,9 @@
 | Cryo-chamber                           | кріокамера                           |                                                        |
 | Mecha                                  | меха                                 |                                                        |
 | Elevator / lift                        | ліфт                                 |                                                        |
+| Workbench                              | верстак                              |                                                        |
+| Vent                                   | вентиляція                           |                                                        |
+| Monitoring                             | моніторинг                           |                                                        |
 
 **Їжа**
 
