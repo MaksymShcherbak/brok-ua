@@ -8,7 +8,7 @@
 
 #----- Hints --------
 ### Hey croc dude, if you wanna meet that client, try getting out of the apartment first! Maybe something around here could help you get rid of the hoover without touching it directly?
-HINT_CH1_10_HOOVER1=Гей, кроколюде, якщо ти хочеш зустрітися з клієнтом, спробуй, для початку, вийти з квартири! Можливо, щось навколо тебе зможе допомогти позбутися цього пилососа, не торкаючись його руками?
+HINT_CH1_10_HOOVER1=Гей, чуваче, якщо ти хочеш зустрітися з клієнтом, спробуй, для початку, вийти з квартири! Можливо, щось навколо тебе зможе допомогти позбутися цього пилососа, не торкаючись його руками?
 
 ### Take the stick and attack the hoover with it. Of course, you'll need to switch to action mode first!
 HINT_CH1_10_HOOVER2=Візьми палицю та вдар нею пилосос. Звісно, спочатку тобі треба перемкнутися на режим бійки!
@@ -19,14 +19,14 @@ HINT_CH1_10_ENTERSECTOR56X1=Щоб відчинити вхідні двері С
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin sent you the code in a phone message - 4098. The device to type the code only has three buttons.##I doubt you're clever enough to figure out how to type it, so if you can't afford using another ad, just smash buttons randomly like you usually do.
-HINT_CH1_10_ENTERSECTOR56X2=Сін надіслав тобі код у повідомленні - 4098. Пристрій для введення коду має лише 3 кнопки.##Сумніваюся, що ти достатньо розумний, щоб зрозуміти, як його надрукувати. Тож, якщо ти не можеш дозволити собі використати ще один рекламний флаєр, просто клацай кнопки в довільному порядку, як зазвичай робиш.
+HINT_CH1_10_ENTERSECTOR56X2=Сін надіслав тобі код у повідомленні - 4098. Пристрій для введення коду має лише 3 кнопки.##Сумніваюся, що ти достатньо розумний, щоб зрозуміти, як його надрукувати. Тож, якщо ти не можеш використати ще один рекламний флаєр, просто клацай кнопки в довільному порядку, як ти це зазвичай робиш.
 
 ### Left button is two and multiplies the digit by two, right button is three and multiplies by three. Middle button changes the digit.##To enter 4098, press the buttons in this order : left, left, middle, middle, right, right, middle, left, left, left.
 HINT_CH1_10_ENTERSECTOR56X3=Ліва кнопка - два і помножує цифру на два, права кнопка - три та помножує цифру на три, середня кнопка змінює цифру.##Щоб ввести 4098, натискай кнопки в такому порядку: ліва, ліва, середня, середня, права, права, середня, ліва, ліва, ліва.
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### What are you waiting for, croc dude? Enter Center Basic 568 and talk to Sin! His apartment is the first door on the right.
-HINT_CH1_10_MEETSIN1=Чого ти чекаєш, кроколюде? Заходь у Базовий Центр 568 та поговори з Сіном! Його квартира - перші двері праворуч.
+HINT_CH1_10_MEETSIN1=Чого ти чекаєш, чуваче? Заходь у Базовий Центр 568 та поговори з Сіном! Його квартира - перші двері праворуч.
 
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
@@ -36,7 +36,7 @@ HINT_CH1_20_MORETALK1=Тобі краще запитати в Сіна біль�
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### You can't access Drumer Street without authorization. Maybe your friend Shay has a trick up her sleeve!
-HINT_CH1_20_DRUMERBEFORESHAY1=Ти не можеш потрапити на вулицю на Верхах без авторизації. Можливо, твоя подруга Шей має козир у рукаві!
+HINT_CH1_20_DRUMERBEFORESHAY1=Ти не можеш потрапити на Верхи без авторизації. Можливо, твоя подруга Шей має козир у рукаві!
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Looks like Shay is at it again... To open the garage, you need to press both buttons quickly while avoiding the saw-of-the-ultimate-death!
@@ -50,10 +50,10 @@ HINT_CH1_20_ENTERSHAY2=Кращий варіант - натиснути прав
 HINT_CH1_20_TALKSHAY1=Поговори з Шей! Вона має знати спосіб перетнути кордон.
 
 ### Your ultimate goal is to reach the top of the pyramid! Wow, that's high!##How to achieve that, you say?... Have you tried talking with that sobby robot?
-HINT_CH1_20_PYRAMIDBEFORE1=Твоя ціль - досягти верхівки піраміди! Ох, як високо!##Як цього досягти, питаєш...? Пробував поговорити з цим плаксивим роботом?
+HINT_CH1_20_PYRAMIDBEFORE1=Твоя ціль - досягти верхівки піраміди! Ох, як високо!##Як це зробити, питаєш...? Пробував поговорити з цим плаксивим роботом?
 
 ### This depressing bot used to work for the sorting center. Access it, and you might find a way to get on top. Just ask him to open it!
-HINT_CH1_20_PYRAMIDBEFORE2=Цей депресивний робот раніше працював у центрі сортування. Потрапиш туди і, можливо, знайдеш спосіб дістатися на верх. Просто попроси його відкрити!
+HINT_CH1_20_PYRAMIDBEFORE2=Цей депресивний робот раніше працював у центрі сортування. Потрапиш туди і, можливо, знайдеш спосіб дістатися нагору. Просто попроси його відкрити!
 
 ### Enter the sorting center and... well, try the buttons on that commands panel. Oh, you can move packages! Can I suggest messing with it?
 HINT_CH1_20_PYRAMIDCURRENT1=Увійди у центр сортування і, ну, спробуй ці кнопки на панелі керування. Ого, ти можеш пересувати пакунки! Може, спробуєш щось із цим зробити?
@@ -65,10 +65,10 @@ HINT_CH1_20_PYRAMIDCURRENT2=Гей! Ти помітив, що можеш діс�
 HINT_CH1_20_PYRAMIDCURRENT3=Використовуй панель керування внизу будівлі. Спробуй відправити високий пакунок у праву (трикутну) трубу, він застрягне! Зроби так само з квадратним пакунком. Потім застрибни на них, щоб дістатися до центральної платформи зверху!
 
 ### Almost there! Don't even think about it croc dude, you'll never make that jump to the pyramid.##If only you could lower that filthy plank to get across...
-HINT_CH1_20_PYRAMIDTOP1=Майже на місці! Навіть не думай, кроколюде, ти в житті не застрибнеш на цю піраміду!##Якби ж тільки ти міг опустити цю брудну дошку, щоб пройти...
+HINT_CH1_20_PYRAMIDTOP1=Майже на місці! Навіть не думай, чуваче, ти в житті не перестрибнеш цю відстань!##Якби ж тільки ти міг опустити цю брудну дошку, щоб пройти...
 
 ### You've got exactly what you need in your inventory to release that plank, croc dude. Believe me. You do!
-HINT_CH1_20_PYRAMIDTOP2=У твоєму інвентарі є саме те, що треба, щоб звільнити цю дошку, кроколюде. Повір мені, є.
+HINT_CH1_20_PYRAMIDTOP2=У твоєму інвентарі є саме те, що треба, щоб звільнити цю дошку, чуваче. Повір мені, є.
 
 ### Your apartment key doubles as a screwdriver. Use it on the right side plank, punch it and get across the pyramid!
 HINT_CH1_20_PYRAMIDTOP3=Ключ від твоєї квартири можна використовувати як викрутку. Застосуй його до дошки праворуч, вдар по ній та пройди через піраміду!
@@ -77,7 +77,7 @@ HINT_CH1_20_PYRAMIDTOP3=Ключ від твоєї квартири можна �
 HINT_CH1_20_PYRAMIDENTER1=Увійди у піраміду.
 
 ### Avoid the lasers, croc dude! Take your time to study the situation. It may even be possible to deactivate those lasers if you look carefully...
-HINT_CH1_20_PYRAMIDINSIDETOP1=Уникай лазерів, кроколюде! Не поспішай, вивчи ситуацію. Може, навіть існує спосіб деактивувати їх, якщо ти придивишся уважно...
+HINT_CH1_20_PYRAMIDINSIDETOP1=Уникай лазерів, чуваче! Не поспішай, вивчи ситуацію. Може, навіть існує спосіб деактивувати їх, якщо ти придивишся уважно...
 
 ### Those arrow buttons on the floor indicate which direction lasers will go when you press 'em.##As for the numbers on the floor? That's how many buttons you need to activate. Good luck!
 HINT_CH1_20_PYRAMIDINSIDETOP2=Ті кнопки зі стрілками на підлозі вказують, куди рухатимуться лазери при натисканні.##А як щодо цифр на підлозі? Це число кнопок, які тобі потрібно активувати. Успіхів!
@@ -99,14 +99,14 @@ HINT_CH1_20_PYRAMIDINSIDEBOTTOM1=Ця трикутна кнопка не лиш�
 HINT_CH1_20_PYRAMIDINSIDEBOTTOM2=Зліва направо, натискай на номери частин: 2, 4, 8, 13
 
 ### Hold your breath and try the scanner at the border post...
-HINT_CH1_20_PYRAMIDOK1=Затримай дихання та спробуй сканер на прикордонному посту...
+HINT_CH1_20_PYRAMIDOK1=Схрести пальці та спробуй сканер на прикордонному посту...
 
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Enter Drumer street.
-HINT_CH1_20_BORDER1=Увійди на вулицю на Верхах.
+HINT_CH1_20_BORDER1=Увійди на Верхи.
 
 ### The back alley, croc dude! If only it wasn't for that energy barrier... Surely someone has the key to disable it!
-HINT_CH1_30_ELECTRICBARRIER1=Задній провулок, кроколюде! Якби тільки не цей енергетичний бар'єр... Певно, у когось є ключ, щоб вимкнути його!
+HINT_CH1_30_ELECTRICBARRIER1=Задній провулок, чуваче! Якби тільки не цей енергетичний бар'єр... Певно, у когось є ключ, щоб вимкнути його!
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
@@ -121,7 +121,7 @@ HINT_CH1_30_ELECTRICBARRIER3=Ненавиджу триботів. Так, нав
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Pred Toy": "Наповнювана водою іграшка"
 ### Use the Pred toy on the fountain water, then stuff it into the Pipe-Mail. Wait a few seconds, and ta-da!##In case you didn't pick it up yet (open your eyes, croc dude!), it's located at the top of the building near your home, near the Trasher Hunt.
-HINT_CH1_30_ELECTRICBARRIER4=Використай наповнювану водою іграшку на воді з фонтану, потім засунь її у поштомат. Зачекай кілька секунд. Та-да!##Якщо ж ти її ще не взяв, відкрий очі, кроколюде! Вона знаходиться наверху твого будинку, біля мисливства за мотлохом.
+HINT_CH1_30_ELECTRICBARRIER4=Використай наповнювану водою іграшку на воді з фонтану, потім засунь її у поштомат. Зачекай кілька секунд. Та-да!##Якщо ж ти її ще не взяв, відкрий очі, чуваче! Вона знаходиться нагорі твого будинку, біля "мисливства за мотлохом".
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Distracting the Tribot cop is the way to go! But you'd better do something to that power socket so he can't recharge anymore!
@@ -138,7 +138,7 @@ HINT_CH1_30_TRIBOTKEY1=Візьми ключ, що залишив Трибот-�
 HINT_CH1_30_ALLEY1=Увійди у провулок
 
 ### Don't tell me you didn't break those crates? Use your fists, croc dude!##When you're done, check out the sewers grate! Maybe you could spot what you're looking for?
-HINT_CH1_40_SEWERSGRATE1=Тільки не кажи мені, що не зруйнував ці ящики? Використовуй свої кулаки, кроколюде!##Коли закінчиш, перевір каналізаційну решітку! Можливо, знайдеш те, що шукаєш?
+HINT_CH1_40_SEWERSGRATE1=Тільки не кажи мені, що не додумався зламати ці ящики? Використовуй свої кулаки, чуваче!##Коли закінчиш, перевір каналізаційну решітку! Можливо, знайдеш те, що шукаєш?
 
 ### You obviously can't see the bottom of the sewers very well from there. But I'm pretty sure you can improve that situation with some "magical" item!
 HINT_CH1_40_SEWERSGRATE2=Очевидно, звідси ти не можеш добре роздивитися нижню частину каналізації. Але я майже впевнений, що ти в змозі покращити ситуацію за допомогою одного "магічного" предмета!
@@ -156,7 +156,7 @@ HINT_CH1_40_SEWERSMANHOLE2=На деяких кнопках є подряпин�
 HINT_CH1_40_SEWERSBEFORE1=Обстеж сліди, де залишилося трохи води. Потім забери хустинку та рухайся далі каналізацією.
 
 ### Having trouble with those mines, croc dude? Just walk slowly. Those mines are invisible devices programmed to appear when you get close enough.##Oh and... There's a way to get rid of them! Wanna know? That will cost you another ad!
-HINT_CH1_50_BEFORERAT1=Проблеми з тими мінами, кроколюде? Просто йди повільніше. Це невидимі пристрої, запрограмовані з'являтися, коли ти достатньо близько.##Ого, а ще є спосіб їх позбутися! Хочеш дізнатися? Це коштуватиме ще одного рекламного флаєра!
+HINT_CH1_50_BEFORERAT1=Проблеми з тими мінами, чуваче? Просто йди повільніше. Це невидимі пристрої, запрограмовані з'являтися, коли ти достатньо близько.##Ого, а ще є спосіб їх позбутися! Хочеш дізнатися? Це коштуватиме ще одного рекламного флаєра!
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
@@ -167,20 +167,20 @@ HINT_CH1_50_BEFORERAT2=Візьми пульт керування в кварт�
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Really? You won't fight them?! Wow, I'm learning a new side of you everyday!##Of course, you'll need to progress anyway, so you'll have to find another way to get rid of those rats. Hey, isn't that a pipe behind the Squealers?... Maybe it's connected to that Pipe-Mail from the street above?
-HINT_CH1_50_RATSPIPE1=Серйозно? Ти не битимешся з ними?! Вау, я щодня відкриваю тебе з нового боку.##Звісно, тобі все одно знадобиться просунутися далі, тож ти маєш знайти інший спосіб позбутися цих щурів. Гей, а це хіба не труба позаду верескунів?... Може, вона з'єднана з поштоматом на вулиці зверху?
+HINT_CH1_50_RATSPIPE1=Серйозно? Ти не битимешся з ними?! Вау, я щодня відкриваю тебе з нового боку.##Звісно, тобі все одно потрібно просунутися далі, тож ти маєш знайти інший спосіб позбутися цих щурів. Гей, а це хіба не труба позаду верескуні...? Може, вона з'єднана з поштоматом на вулиці зверху?
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Did you pick up the broken mine near those rats? Putting it inside the Pipe-Mail on Drumer street could have some... interesting effects!##But alas, it's broken... Maybe try asking for a friend's opinion?
-HINT_CH1_50_RATSPIPE2=Ти підібрав зламану міну поблизу тих верескунів? Покласти її у поштомат на вулиці на Верхах може мати... цікавий ефект!##Але, на жаль, вона зламана... Може, спробуєш запитати думку друзів?
+HINT_CH1_50_RATSPIPE2=Ти підібрав зламану міну поблизу тих верескунів? Покласти її у поштомат на вулиці на Верхах може мати... цікавий ефект!##Але, на жаль, вона зламана... Може, спробуєш запитати думку подруги?
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Shay is always the best person to ask for just about everything. Remember that small robot in the corridor outside of your apartment?##You'll need to mix the mine with the powder leaking out from it! Then put the mine into the Pipe-Mail and ask it to recycle.
-HINT_CH1_50_RATSPIPE3=Шей - найкраща людина, у якої можна запитати майже про все, що завгодно. Пам'ятаєш того маленького робота у коридорі, на виході з твоєї квартири?##Тобі буде потрібно наповнити міну порошком, що висипається з нього! Потім покласти міну в поштомат і попросити переробити.
+HINT_CH1_50_RATSPIPE3=Шей - найкраща людина, у якої можна запитати майже про все, що завгодно. Пам'ятаєш того маленького робота у коридорі, на виході з твоєї квартири?##Тобі буде потрібно наповнити міну порошком, що висипається з нього! Потім покласти міну в поштомат і попросити викинути.
 
 ### Hey croc dude, I bet the gun you're looking for is stuck inside that circuitry! You can surely get it out by using that snake. Just try pushing it as much as possible to the exit. Make several attempts if you need to!
-HINT_CH1_50_GUNBEFORE1=Гей, кроколюде, я закладаюся, що пістолет, який ти шукаєш, застряг у цій штуковині! Ти точно зможеш його витягнути, використовуючи цю змійку. Просто спробуй якомога сильніше штовхати його до виходу! Зроби кілька спроб, якщо треба!
+HINT_CH1_50_GUNBEFORE1=Гей, чуваче, я закладаюся, що пістолет, який ти шукаєш, застряг у цій штуковині! Ти точно зможеш його витягнути, використовуючи змійку. Просто спробуй якомога сильніше штовхати його до виходу! Зроби кілька спроб, якщо треба!
 
 ### Solution :
 HINT_CH1_50_GUNBEFORE2=Рішення:
@@ -190,20 +190,20 @@ HINT_CH1_50_GUNAFTER1=Досліди цей пістолет!
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Before you give the gun back, check Sin's mirror. You missed a picture on the side, croc dude!
-HINT_CH1_60_PICTURE1=Перш ніж повертати пістолет, перевір дзеркало Сіна. Ти пропустив фотографію збоку, кроколюде!
+HINT_CH1_60_PICTURE1=Перш ніж повертати пістолет, перевір дзеркало Сіна. Ти пропустив фотографію збоку, чуваче!
 
 ### You got the gun. Go back and talk to your client, croc dude!
-HINT_CH1_60_BACKTOSIN1=Ти отримав пістолет. Повертайся та поспілкуйся зі своїм клієнтом, кроколюде!
+HINT_CH1_60_BACKTOSIN1=Ти отримав пістолет. Повертайся та поспілкуйся зі своїм клієнтом, чуваче!
 
 #HINT_CH1_60_SINMISSINGCLUE1=Looking for the truth? You better have solid proof! If you're missing some clue, press their icon during the interrogation to give you an indication where to search.
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Ya got all the clues ya need, croc dude! Interrogate Sin!
-HINT_CH1_60_SININTERROGATION1=Ти отримав всі потрібні зачіпки, кроколюде! Допитай Сіна!
+HINT_CH1_60_SININTERROGATION1=Ти отримав всі потрібні зачіпки, чуваче! Допитай Сіна!
 
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### You missed something around Sin's bed, croc dude! First, bring it down!
-HINT_CH1_60_CLUE_SIN_REMOTECONTROL_NO1=Ти пропустив дещо поблизу ліжка Сіна, кроколюде! Спершу, опусти його!
+HINT_CH1_60_CLUE_SIN_REMOTECONTROL_NO1=Ти пропустив дещо поблизу ліжка Сіна, чуваче! Спершу опусти його!
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Take the remote control hanging in the upper-right corner of Sin's bed.
@@ -221,13 +221,13 @@ HINT_CH1_60_CLUE_DRUMERSTREET_CAMERAOFF1=В аптеці, в задній час
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Don't hesitate to enter other guys' bathroom! You missed something at Sin's, croc dude.
-HINT_CH1_60_CLUE_DRUMERSTREET_PILL_NO1=Не соромся заходити у ванну інших хлопців! Ти щось пропустив у Сіна, кроколюде.
+HINT_CH1_60_CLUE_DRUMERSTREET_PILL_NO1=Не соромся заходити у ванну інших хлопців! Ти щось пропустив у Сіна, чуваче.
 
 ### Take that pill next to the cup.
 HINT_CH1_60_CLUE_DRUMERSTREET_PILL_NO2=Візьми цю пігулку, що поруч із кухлем.
 
 ### The pharmacy offers a scanner to detect products. This might come in handy!
-HINT_CH1_60_CLUE_DRUMERSTREET_PILL_YES1=В аптеці є сканер для виявлення продуктів. Це може стати в нагоді!
+HINT_CH1_60_CLUE_DRUMERSTREET_PILL_YES1=В аптеці є сканер для виявлення продуктів. Це може стати в пригоді!
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Show Sin's pill on the pharmacy scanner to find out what it is!
@@ -244,7 +244,7 @@ HINT_CH1_60_CLUE_DRUMERSTREET_DRAWERFORCED1=Гей! Ти перевірив лі
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Time to fight Sin, croc dude! Avoid his glasses or block them with your guard button. Make sure you stock enough food!
-HINT_CH1_70_FIGHTSIN1=Час битися з Сіном, кроколюде! Уникай його окулярів або блокуй їх кнопкою захисту. Подбай про запас їжі!
+HINT_CH1_70_FIGHTSIN1=Час битися з Сіном, чуваче! Уникай його склянок або блокуй їх кнопкою захисту. Переконайся, що у тебе достатньо їжі!
 
 
 

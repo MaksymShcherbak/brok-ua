@@ -340,6 +340,8 @@
 | Heptamide                              | гептамід                             | Міцний сплав, з якого зроблено кулон Брока             |
 | High tech technology / High technology | передові технології                  |                                                        |
 | Power barrier                          | силовий бар'єр                       |                                                        |
+| Power source                           | джерело живлення                     |                                                        |
+| Energy barrier                         | енергетичний бар'єр                  |                                                        |
 | Protective barrier                     | захисний бар'єр                      |                                                        |
 | Barrier device                         | бар'єрний пристрій                   |                                                        |
 | Shared Source                          | Спільне Джерело                      | База даних слів різними мовами, розроблена Трикутником |
@@ -388,6 +390,8 @@
 | Portal                                 | вхід                                 |                                                        |
 | Power container                        | енергоблок                           |                                                        |
 | Indicator                              | індикатор                            |                                                        |
+| Ear buds                               | навушники-вкладиші                   |                                                        |
+| Neon bulb                              | неонова лампочка                     |                                                        |
   
 **Їжа**
 
@@ -527,6 +531,8 @@
 | Middle Click                               | клік колеса миші                          |                                |
 | Touch gestures                             | сенсорні жести                            |                                |
 | (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                |
+| Croc dude                                  | чуваче                                    | Ігрові підказки                |
+| Kitty                                      | кошенятко                                 | Ігрові підказки                |
 
 **Бій**
 
@@ -566,6 +572,7 @@
 | Chest          | скриня                               |                                        |
 | Sink           | умивальник                           |                                        |
 | Front door     | вхідні двері                         |                                        |
+| Gate           | ворота                               |                                        |
 | String         | мотузка                              |                                        |
 | Stick          | палиця                               |                                        |
 | Statuette      | статуетка                            |                                        |
@@ -594,6 +601,7 @@
 | Ramp           | пандус                               |                                        |
 | Painting       | картина                              |                                        |
 | Little box     | коробочка                            |                                        |
+| Pebbles        | камінці                              |                                        |
 
 **Інше**
 

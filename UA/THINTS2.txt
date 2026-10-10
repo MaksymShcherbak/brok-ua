@@ -6,11 +6,11 @@
 #----- Hints GRAFF --------
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Kitty, if you expect me to give you the replies... You're mistaken! Pretty sure you'll get the correct answers at the end of the day, anyway. But if you're adventurous, why not take a look-see at Ott for some replies?##Actually you don't even have to answer anything! Just click on the upper right button on your tablet to send and you're good to go!
-HINT_CH2_80_TRIAL1=Кошенятко, якщо ти сподіваєшся, що я дам тобі відповіді, ти помиляєшся! Впевнений, ти все одно отримаєш правильні відповіді зрештою. Але якщо ж ти авантюрист, чому б тобі не підглянути відповіді в Отта?##Насправді, ти навіть не зобов'язаний щось відповідати. Просто натисни на кнопку у правому верхньому куті на своєму планшеті, надішли, і готово!
+HINT_CH2_80_TRIAL1=Кошенятко, якщо ти сподіваєшся, що я дам тобі відповіді, ти помиляєшся! Впевнений, ти все одно отримаєш правильні відповіді зрештою. Але якщо ж ти авантюрист, чому б тобі не підглянути відповіді в Отта?##А, взагалі, ти навіть не зобов'язаний щось відповідати. Просто натисни на кнопку у правому верхньому куті на своєму планшеті, надішли, і готово!
 
 
 ### Kitty, you totally went nuts! Finish the job and destroy all inventions.
-HINT_CH2_100_DESTROYALL1=Кошенятко, ти зовсім з глузду з'їхав! Закінчи роботу та знищ всі винаходи.
+HINT_CH2_100_DESTROYALL1=Кошенятко, ти зовсім з глузду з'їхав! Закінчи свою роботу та знищ усі винаходи.
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Talk to Ott.
@@ -18,20 +18,20 @@ HINT_CH2_100_TALKOTT1=Поговори з Оттом.
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Kitty, go talk to Shay - you know, that crazy inventor living in a garage!
-HINT_CH2_100_TALKSHAY1=Котику, піди поговори з Шей, ну, знаєш, тією божевільною винахідницею, що живе в гаражі!
+HINT_CH2_100_TALKSHAY1=Кошенятко, піди поговори з Шей, ну, знаєш, тією божевільною винахідницею, що живе в гаражі!
 
 ### Time for a walk, kitty! Go to Sector 56X and... take a visit to the far right.
-HINT_CH2_100_DRONE1=Час прогулятися, котику! Йди у Сектор 56X та... зазирни до самого правого краю.
+HINT_CH2_100_DRONE1=Час прогулятися, кошенятко! Йди у Сектор 56X та... зазирни до самого правого краю.
 
 ### So, about that drone... You're on your own! Will you help that girl or flee like a wimp? Maybe pebbles can help!
-HINT_CH2_100_DRONE2=Тож щодо цього дрона... розбирайся сам! Допоможеш цій дівчині чи втечеш як слабак? Може, галька стане в пригоді?
+HINT_CH2_100_DRONE2=Тож щодо цього дрона... розбирайся сам! Допоможеш цій дівчині чи втечеш як слабак? Може, камінці стануть в пригоді?
 
 
 ### Get an "Untail" statuette from the seller. If she's still there, click on the statuette to get one. If not... Help yourself!
 HINT_CH2_100_STATUETTE1=Отримай статуетку Безхвостя від крамарки. Якщо вона досі там, клацни на неї, щоб узяти. Якщо ж ні, бери сам!
 
 ### Kitty, you need melted plastic to repair your invention. The statuette would be perfect for that! Have you seen something to burn it with?
-HINT_CH2_100_PLASTIC1=Котику, щоб полагодити свій винахід, тобі потрібен розплавлений пластик. Статуетка ідеально підійде для цього! Ти бачив щось, чим можна її спалити?
+HINT_CH2_100_PLASTIC1=Кошенятко, щоб полагодити свій винахід, тобі потрібен розплавлений пластик. Статуетка ідеально підійде для цього! Ти бачив щось, чим можна її спалити?
 
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 ### Come back to your home. The tramp has a stove! Burn the statuette on it.
@@ -48,7 +48,7 @@ HINT_CH2_100_REPAIR1=Серйозно? Я маю все тобі казати? �
 HINT_CH2_100_GETSCREWDRIVER1=Тобі потрібна викрутка з гаража Шей. Позич її! Вона серед інструментів на повітряному стільці.
 
 ### Kitty, you need something to electrocute anyone who would dare touch your invention. Go to Sector 56X!
-HINT_CH2_100_OPENPANEL1=Кошенятко, тобі потрібно щось, щоб вдарити струмом будь-кого, хто посміє торкнутися твого винаходу. Йди у Сектор 56X!
+HINT_CH2_100_OPENPANEL1=Кошенятко, тобі потрібно щось, що вдарить струмом будь-кого, хто посміє торкнутися твого винаходу. Йди у Сектор 56X!
 
 # NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
 ### That button which serves as infophone (at the right of the gate) should do the job! But in order to take it, you'll need to deactivate it first...
@@ -58,14 +58,14 @@ HINT_CH2_100_OPENPANEL2=Кнопка, що слугує інфофоном сп�
 HINT_CH2_100_OPENPANEL3=Використай викрутку, щоб відкрити панель на лівій стороні воріт.
 
 ### Kitty, you need to deactivate two wires from the panel. There's a paw print icon at the bottom with two wires going out of it.##Follow them (with your eyes!), they're all uniquely designed. Then turn the thumb wheels at the top corresponding to them.
-HINT_CH2_100_CUTWIRES1=Котику, тобі треба деактивувати два дроти на панелі. Знизу є іконка відбитка лапи з двома дротами, що виходять з неї.##Простеж за ними (очима!). Усі вони унікальні. Потім поверни відповідні коліщатка вгорі.
+HINT_CH2_100_CUTWIRES1=Кошенятко, тобі треба деактивувати два дроти на панелі. Знизу є іконка відбитка лапи з двома дротами, що виходять з неї.##Простеж за ними (очима!). Усі вони унікальні. Потім поверни відповідні коліщатка вгорі.
 
 ### Press the following thumb wheels (from left to right) : 5 and 7.
 HINT_CH2_100_CUTWIRES2=Натисни наступні коліщатка зліва направо: 5 і 7.
 
 # NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
 ### Take that button now! Of course it's inserted into the infophone. Use something to pull it out.
-HINT_CH2_100_GETBUTTON1=Тепер візьми цю кнопку. Звісно, вона вставлена в інфофон. Використай щось, щоб дістати її.
+HINT_CH2_100_GETBUTTON1=Тепер візьми цю кнопку. Звісно, вона вмонтована в інфофон. Використай щось, щоб дістати її.
 
 ### The screwdriver again!
 HINT_CH2_100_GETBUTTON2=Знову викрутка!
@@ -75,12 +75,12 @@ HINT_CH2_100_USEBUTTON1=Повертайся до школи та причепи
 
 
 ### Put that force field on your desk, kitty. (Next to your invention, obviously)
-HINT_CH2_100_PUTFORCE1=Постав силове поле на свій стіл, котику. Біля свого винаходу, звісно.
+HINT_CH2_100_PUTFORCE1=Постав силове поле на свій стіл, кошенятко. Біля свого винаходу, звісно.
 
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Kitty, go back in Shay's garage and check the big box near the entrance.
-HINT_CH2_100_GETDETECTOR1=Котику, повертайся до гаража Шей та перевір велику коробку біля входу.
+HINT_CH2_100_GETDETECTOR1=Кошенятко, повертайся до гаража Шей та перевір велику коробку біля входу.
 
 ### Connect that detector to the force field next to your invention!
 HINT_CH2_100_PUTDETECTOR1=Доєднай детектор до силового поля біля свого винаходу!
@@ -100,11 +100,11 @@ HINT_CH2_100_GIVENEARBUDS1=Тобі потрібен спосіб не дати 
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Give him the ear buds Shay gave you earlier!
-HINT_CH2_100_GIVENEARBUDS2=Віддай йому навушники, що раніше дала тобі Шей!
+HINT_CH2_100_GIVENEARBUDS2=Віддай йому навушники-вкладиші, що раніше дала тобі Шей!
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### In order to get Klay's fingerprint, you might want to apply something on his finger first... How do cheap detectives get fingerprints?
-HINT_CH2_100_APPLIEDFLOUR1=Щоб узяти відбиток пальця Клея, ти, можливо, захочеш спочатку нанести щось йому на палець... Як дешеві детективи беруть відбитки пальців?
+HINT_CH2_100_APPLIEDFLOUR1=Щоб узяти відбиток пальця Клея, спочатку потрібно нанести щось йому на палець... Як дешеві детективи беруть відбитки пальців?
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Apply flour on Klay's fingers!
@@ -118,7 +118,7 @@ HINT_CH2_100_APPLIEDSTICKER1=Майже готово! Застосуй налі�
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Final step, kitty. Just use Klay's print on the detector (hooked up to the force field on your desk)
-HINT_CH2_100_USESTICKER1=Останній крок, котику. Просто застосуй відбиток Клея до детектора, причепленого до силового поля на своєму столі.
+HINT_CH2_100_USESTICKER1=Останній крок, кошенятко. Просто застосуй відбиток Клея до детектора, причепленого до силового поля на твоєму столі.
 
 
 
@@ -129,12 +129,12 @@ HINT_CH2_100_KLAYFOUL1=Машина Клея реагує на неприємн�
 
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Sure, the Slums stink. But there's a specific place that stinks the most! I hope you like getting wet, kitty.
-HINT_CH2_100_KLAYFOUL2=Нетрі, звісно, смердять. Але є конкретне місце, що смердить найсильніше! Сподіваюся, тобі подобається мокнути, котику.
+HINT_CH2_100_KLAYFOUL2=Нетрі, звісно, смердять. Але є конкретне місце, що смердить найсильніше! Сподіваюся, тобі подобається бути мокрим, кошенятко.
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Take a bath in the water outside Shay's garage, kitty! Then come back quickly to the fair to "use" Klay's machine. Something wonderful should happen!
-HINT_CH2_100_KLAYFOUL3=Викупайся у воді біля гаража Шей, кошенятко! Потім швидко повертайся на ярмарок, щоб використати машину Клея! Має статися щось дивовижне!
+HINT_CH2_100_KLAYFOUL3=Скупайся у воді біля гаража Шей, кошенятко! Потім швидко повертайся на ярмарок, щоб використати машину Клея! Має статися щось дивовижне!
 
 
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
@@ -143,10 +143,10 @@ HINT_CH2_100_STUBOTVR1=Винахід Студбота використовує 
 
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### Use the learner headset under your desk, kitty! Then check Stubot's invention to learn how to break it.
-HINT_CH2_100_STUBOTVR2=Використай навчальний VR-шолом під своїм столом, котику! Потім перевір винахід Студбота, щоб дізнатися, як зламати його!
+HINT_CH2_100_STUBOTVR2=Використай навчальний VR-шолом під своїм столом, кошенятко! Потім перевір винахід Студбота, щоб дізнатися, як зламати його!
 
 ### Have you seen a bright light that you could potentially carry with you? I like you kitty, so here's a hint : Sector 56X.
-HINT_CH2_100_STUBOTNEON1=Бачив яскраве світло, яке потенційно міг би носити з собою? Ти мені подобаєшся, котику, тож ось підказка: Сектор 56X.
+HINT_CH2_100_STUBOTNEON1=Бачив яскраве світло, яке ти міг би взяти з собою? Ти мені подобаєшся, кошенятко, тож ось підказка: Сектор 56X.
 
 ### The bridge! Climb on top of it and get that bright neon bulb!
 HINT_CH2_100_STUBOTNEON2=Міст! Піднімись нагору та візьми цю яскраву неонову лампочку!
@@ -164,7 +164,7 @@ HINT_CH2_120_GRAFFBEDROOM1=Використай комп'ютер.
 
 #----- Hints BROK --------
 ### You took your decision, croc dude! Now get outta here!
-HINT_CH2_100_GETOUTFIGHT1=Ти прийняв рішення, кроколюде! Тепер іди звідси!
+HINT_CH2_100_GETOUTFIGHT1=Ти прийняв рішення, чуваче! Тепер іди звідси!
 
 
 ### Find a way to get out!##What do you mean, that doesn't help? Okay, why don't you try pressing those panels buttons?
@@ -174,17 +174,17 @@ HINT_CH2_100_GETOUTPANEL1=Знайди спосіб вибратися!##Що-щ
 HINT_CH2_100_GETOUTPANEL2=Натисни другу кнопку (віртуальна бібліотека) та спробуй прочитати книгу. Встанови це бісове оновлення!
 
 ### Did you notice? After the failed update, the library got back to version "Beta 0.8"! Try reading up to page 3, croc dude!
-HINT_CH2_100_GETOUTDEBUG1=Ти це помітив? Після невдалого оновлення бібліотека повернулася до версії "Beta 0.8". Спробуй дочитати до третьої сторінки, кроколюде!
+HINT_CH2_100_GETOUTDEBUG1=Ти це помітив? Після невдалого оновлення бібліотека повернулася до версії "Beta 0.8". Спробуй дочитати до третьої сторінки, чуваче!
 
 ### Did you notice the weird blueprint on page 3? What could it represent? Maybe your cell?...
 HINT_CH2_100_GETOUTDEBUG2=Ти помітив це дивне креслення на третій сторінці? Що воно може означати? Може, твою камеру...?
 
 ### Walk through every corner of your cell as indicated. Make sure the bed isn't in the way (if yes, change the panel mode)##Then: start from bottom left corner, move to upper right corner, then bottom right corner and finally, upper left corner. Something should happen!
-HINT_CH2_100_GETOUTDEBUG3=Пройдися до кожного кута, як показано. Впевнися, що на шляху немає ліжка (якщо так, зміни режим кнопки)##Потім почни з нижнього лівого кута, рухайся у правий верхній, потім у правий нижній і, зрештою, верхній лівий кут. Має статися щось!
+HINT_CH2_100_GETOUTDEBUG3=Пройдися до кожного кута, як показано. Впевнися, що на шляху немає ліжка (якщо так, зміни режим кнопки)##Потім почни з нижнього лівого кута, рухайся у правий верхній, потім у правий нижній і, зрештою, верхній лівий кут. Має щось статися!
 
 
 ### All out of items, croc dude?... No worries! You can get the purr-fect tool to escape!##Make sure you press the third button in your cell (bathroom) then check the bottom left corner of the shower. Nice find!
-HINT_CH2_100_GETOUTCATFUR1=Немає предметів, кроколюде...? Не хвилюйся! Ти можеш отримати ідеальний інструмент для втечі!##Обов'язково натисни третю кнопку своєї камери (вбиральня), потім перевір нижній лівий кут душу. Гарна знахідка!
+HINT_CH2_100_GETOUTCATFUR1=Немає предметів, чуваче...? Не хвилюйся! Ти можеш отримати ідеальний інструмент для втечі!##Обов'язково натисни третю кнопку своєї камери (вбиральня), потім перевір нижній лівий кут душу. Гарна знахідка!
 
 
 ### Try pressing those buttons in your cell.
@@ -194,7 +194,7 @@ HINT_CH2_100_BUTTONS1=Спробуй понатискати ті кнопки в
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Croc dude, any attempt to get out of here will require you to get rid of the guard. Maybe Sin can help?
-HINT_CH2_100_GETOUTBREAK1=Кроколюде, щоб вибратися звідси, тобі в будь-якому разі доведеться позбутися охоронця. Можливо, Сін може допомогти?
+HINT_CH2_100_GETOUTBREAK1=Чуваче, щоб вибратися звідси, тобі в будь-якому разі доведеться позбутися охоронця. Можливо, Сін може допомогти?
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Ask Sin to switch buttons. Choose the third one (bathroom).##Hey, you can access the sink from that tiny hole in the barrier! Do it and break that sink pipe!
@@ -204,7 +204,7 @@ HINT_CH2_100_GETOUTBREAK2=Попроси Сіна перемкнути кноп�
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### The sink is broken? Good! Now ask Sin to switch to fourth button to call R.J. and to fix the sink. (Make sure you've talked to Sin about R.J. twice to convince him) While he's busy fixing the problem... Time to act, croc dude!
-HINT_CH2_100_GETOUTTRICK1=Умивальник зламаний? Добре! Тепер попроси Сіна перемкнути на четверту кнопку, щоб викликати Р. Джея й полагодити його. (Обов'язково двічі поговори з Сіном про Р. Джея, щоб переконати його) Поки він зайнятий вирішенням проблеми, час діяти, кроколюде!
+HINT_CH2_100_GETOUTTRICK1=Умивальник зламаний? Добре! Тепер попроси Сіна перемкнути на четверту кнопку, щоб викликати Р. Джея й полагодити його. (Обов'язково двічі поговори з Сіном про Р. Джея, щоб переконати його) Поки він зайнятий вирішенням проблеми, час діяти, чуваче!
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Put cat fur inside R.J.'s hat on top of the sink (through the laser's defect). Remember, the dude is allergic!
@@ -232,17 +232,17 @@ HINT_CH2_100_GETOUTCAMERA2=Продовжуй штовхати сидіння у
 HINT_CH2_100_GETOUTJAIL1=Чого ти чекаєш? Забери свої речі біля виходу та забирайся!
 
 ### Those bots are idiots, they don't see very far. Just try not to walk right in front of them, croc dude!
-HINT_CH2_100_GETOUTPOLICE1=Ці боти - ідіоти, вони бачать не дуже далеко. Просто спробуй не йти прямо перед ними, кроколюде!
+HINT_CH2_100_GETOUTPOLICE1=Ці боти - ідіоти, вони бачать не дуже далеко. Просто спробуй не йти прямо перед ними, чуваче!
 
 
 ### Press the button next to that window, croc dude!
-HINT_CH2_130_WINDOW1=Натисни на кнопку поруч із цим вікном, кроколюде!
+HINT_CH2_130_WINDOW1=Натисни на кнопку поруч із цим вікном, чуваче!
 
 ### Take a look-see at that first window!
 HINT_CH2_130_LOOKA1=Подивись у перше вікно!
 
 ### Check that second window and decide if you wanna look (or not!)
-HINT_CH2_130_LOOKB1=Перевір друге вікно і виріши, хочеш подивитися чи ні!
+HINT_CH2_130_LOOKB1=Перевір друге вікно і виріши, хочеш зазирнути чи ні!
 
 ### A third window has appeared. Take a look!
 HINT_CH2_130_LOOKC1=З'явилося третє вікно! Подивись!
@@ -251,7 +251,7 @@ HINT_CH2_130_LOOKC1=З'явилося третє вікно! Подивись!
 HINT_CH2_130_PROGRESS1=Рухайся коридором. Зверни увагу на панелі на підлозі...
 
 ### Go to far right of the corridor!
-HINT_CH2_130_GORIGHT1=Йди у крайній правий поворот коридору!
+HINT_CH2_130_GORIGHT1=Йди у крайню праву частину коридору!
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Be super careful and try to grab Graff without triggering any mine!

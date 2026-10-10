@@ -81,7 +81,7 @@ CH1_CALL_SIN_PANEL-2=Власне, я вже стою перед вашою бу
 
 # Brok
 ### I... just have a small problem. The metal gate is closed. How do I get in?
-CH1_CALL_SIN_PANEL-3=В мене просто... невеличка проблема. Металева брама зачинена. Як мені дістатися всередину?
+CH1_CALL_SIN_PANEL-3=В мене просто... невеличка проблема. Металеві ворота зачинені. Як мені дістатися всередину?
 
 
 # Sin
