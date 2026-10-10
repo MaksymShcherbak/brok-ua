@@ -56,6 +56,7 @@
 
 - якщо термін має бути написаний з **малої** літери, він і в таблиці з **малої**.
 - якщо термін має бути написаний з **великої** літери, то він і в таблиці з **великої**.
+- виняток: **перша літера рядка** майже завжди з **великої**.
 
 **Ігри та проєкти**
 
@@ -84,7 +85,6 @@
 | Shay                 | Шей               |                                     |
 | Remn                 | Ремн              |                                     |
 | Tribot               | Трибот            |                                     |
-| Cop                  | Поліцейський      |                                     |
 | Bolt                 | Болт              |                                     |
 | Squealers Chief      | Шеф Верескунів    |                                     |
 | Squealers            | Верескуни         |                                     |
@@ -139,6 +139,18 @@
 | Ric                  | Рік               | Справжнє ім'я волоцюги              |
 | Grandpa              | дідусь            |                                     |
 | Fenton               | Фентон            | Колишній викладач Центру            |
+
+**Фауна**
+
+| Оригінал      | Переклад     |
+| ------------- | ------------ |
+| Bobcat        | рись         |
+| Buzzard       | канюк        |
+| Muskrat       | ондатра      |
+| Mink          | норка        |
+| Mountain lion | пума         |
+| Warthog       | бородавочник |
+| Otter         | видра        |
 
 **Світ**
 
@@ -204,6 +216,8 @@
 | Restroom                           | вбиральня                |                                |
 | The hall                           | коридор                  |                                |
 | Facility                           | установа                 |                                |
+| Landfill / dump                    | звалище                  |                                |
+| Highway                            | шосе                     |                                |
 
 **Календар і Релігія**
 
@@ -238,7 +252,7 @@
 | Guard                     | охоронець (більшість випадків; офіційна посада, наприклад в лабораторії) / вартовий (стоїть на варті у Верескунів) |                                      |
 | Security agent            | агент служби безпеки                                                                                               |                                      |
 | Military                  | військовий                                                                                                         |                                      |
-| Cop                       | коп                                                                                                                |                                      |
+| Cop                       | поліцейський / коп                                                                                                 |                                      |
 | Stranger                  | незнайомець / незнайомка                                                                                           |                                      |
 | Boss                      | бос                                                                                                                |                                      |
 | Chief                     | шеф                                                                                                                |                                      |
@@ -395,7 +409,11 @@
 | Indicator                              | індикатор                            |                                                        |
 | Ear buds                               | навушники-вкладиші                   |                                                        |
 | Neon bulb                              | неонова лампочка                     |                                                        |
-  
+| Membrane                               | мембрана                             |                                                        |
+| Cryo-chamber                           | кріокамера                           |                                                        |
+| Mecha                                  | меха                                 |                                                        |
+| Elevator / lift                        | ліфт                                 |                                                        |
+
 **Їжа**
 
 | Оригінал            | Переклад              | Примітки                  |
@@ -454,88 +472,188 @@
 | Clouding vision        | помутніння зору             |                       |
 | Spontaneous combustion | самозаймання                |                       |
 
+**Керування**
+
+| Оригінал                 | Переклад                              | Примітки        |
+| ------------------------ | ------------------------------------- | --------------- |
+| Backslash                | обернена скісна риска                 |                 |
+| Slash                    | скісна риска                          |                 |
+| Open bracket             | відкриваюча дужка                     |                 |
+| Close bracket            | закриваюча дужка                      |                 |
+| Comma                    | кома                                  |                 |
+| Dot                      | крапка                                |                 |
+| Semicolon                | крапка з комою                        |                 |
+| Hyphen                   | дефіс                                 |                 |
+| Equals                   | знак "дорівнює"                       |                 |
+| Exclamation point        | знак оклику                           |                 |
+| Quotation mark           | лапка                                 |                 |
+| Space                    | пробіл                                |                 |
+| Mouse left click         | ліва кнопка миші                      |                 |
+| Mouse middle click       | середня кнопка миші                   |                 |
+| Mouse right click        | права кнопка миші                     |                 |
+| Mouse wheel scroll       | прокрутка коліщатка миші              |                 |
+| Enter                    | (без змін)                            | Латиницею       |
+| Esc                      | (без змін)                            | Латиницею       |
+| Tab                      | (без змін)                            | Латиницею       |
+| Backspace                | (без змін)                            | Латиницею       |
+| Delete                   | (без змін)                            | Латиницею       |
+| Insert                   | (без змін)                            | Латиницею       |
+| Home                     | (без змін)                            | Латиницею       |
+| End                      | (без змін)                            | Латиницею       |
+| Pause                    | (без змін)                            | Латиницею       |
+| Page Up                  | (без змін)                            | Латиницею       |
+| Page Down                | (без змін)                            | Латиницею       |
+| Shift                    | (без змін)                            | Латиницею       |
+| Ctrl                     | (без змін)                            | Латиницею       |
+| Alt                      | (без змін)                            | Латиницею       |
+| Command                  | (без змін)                            | Латиницею       |
+| Option                   | (без змін)                            | Латиницею       |
+| Logo                     | (без змін)                            | Латиницею       |
+| Capslock                 | (без змін)                            | Латиницею       |
+| Num Lock                 | (без змін)                            | Латиницею       |
+| Scroll Lock              | (без змін)                            | Латиницею       |
+| Numpad 0-9               | Numpad 0-9                            |                 |
+| Numpad asterisk          | Numpad зірочка                        |                 |
+| Numpad dot               | Numpad крапка                         |                 |
+| Numpad minus             | Numpad мінус                          |                 |
+| Numpad plus              | Numpad плюс                           |                 |
+| Numpad slash             | Numpad скісна риска                   |                 |
+| Directional pad (DPAD)   | хрестовина                            | Xbox, SteamDeck |
+| Directional buttons      | кнопки напрямку                       | PS, Switch      |
+| Directional pad up       | хрестовина вгору                      | Xbox, SteamDeck |
+| Directional pad down     | хрестовина вниз                       | Xbox, SteamDeck |
+| Directional pad left     | хрестовина вліво                      | Xbox, SteamDeck |
+| Directional pad right    | хрестовина вправо                     | Xbox, SteamDeck |
+| Directional button up    | кнопка вгору                          | PS, Switch      |
+| Directional button down  | кнопка вниз                           | PS, Switch      |
+| Directional button left  | кнопка вліво                          | PS, Switch      |
+| Directional button right | кнопка вправо                         | PS, Switch      |
+| Left stick               | лівий джойстик                        |                 |
+| Right stick              | правий джойстик                       |                 |
+| Right stick press        | натискання правого джойстика          |                 |
+| Cross                    | хрест                                 | PS              |
+| Circle                   | круг                                  | PS              |
+| Square                   | квадрат                               | PS              |
+| Triangle                 | трикутник                             | PS              |
+| L1                       | (без змін)                            | Латиницею       |
+| L2                       | (без змін)                            | Латиницею       |
+| LB                       | (без змін)                            | Латиницею       |
+| LT                       | (без змін)                            | Латиницею       |
+| R1                       | (без змін)                            | Латиницею       |
+| R2                       | (без змін)                            | Латиницею       |
+| RB                       | (без змін)                            | Латиницею       |
+| RT                       | (без змін)                            | Латиницею       |
+| L button                 | кнопка L                              | Switch          |
+| R button                 | кнопка R                              | Switch          |
+| Touchpad button          | сенсорна панель                       | PS              |
+| Options button           | кнопка Options                        | PS              |
+| Menu button              | кнопка Menu                           |                 |
+| View button              | кнопка View                           |                 |
+| Start button             | кнопка Start                          |                 |
+| Back button              | кнопка Back                           |                 |
+| Home button              | кнопка Home                           |                 |
+| Minus button             | кнопка мінус                          |                 |
+| Plus button              | кнопка плюс                           |                 |
+| Unknown input            | невідоме введення                     |                 |
+| Controller / gamepad     | контролер                             |                 |
+| Controls                 | керування                             |                 |
+| Press                    | натиснути                             |                 |
+| Hold                     | утримувати                            |                 |
+| Switch                   | перемикати                            |                 |
+| Touch controls           | сенсорне керування                    |                 |
+| Virtual stick            | віртуальний джойстик                  |                 |
+| Virtual buttons          | віртуальні кнопки                     |                 |
+| Tap / Double tap         | натискання / подвійне натискання      |                 |
+| Long press               | тривале натискання                    |                 |
+| Swipe                    | провести                              |                 |
+| Pinch in / Pinch out     | зведення пальців / розведення пальців |                 |
+| Two-finger hold          | утримання двома пальцями              |                 |
+| Left Click               | клік ЛКМ                              |                 |
+| Right Click              | клік ПКМ                              |                 |
+| Middle Click             | клік колеса миші                      |                 |
+| Touch gestures           | сенсорні жести                        |                 |
+| Swipe up-right           | провести вгору-вправо                 |                 |
+
 **Ігровий процес**
 
-| Оригінал                                   | Переклад                                  | Примітки                       |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------ |
-| Point & Click                              | Point & Click                             | Не перекладаємо                |
-| EXP                                        | ДОСВІД                                    |                                |
-| Ad (Advertisement) / ads                   | реклама / реклами                         |                                |
-| coupon                                     | купон (на гроші) / флаєр (рекламний)      |                                |
-| flyer                                      | флаєр                                     |                                |
-| Lifebar / life bar                         | шкала здоров'я                            |                                |
-| Inventory                                  | інвентар                                  |                                |
-| Chapter                                    | розділ                                    |                                |
-| Puzzle                                     | головоломка                               |                                |
-| Trial                                      | випробування                              |                                |
-| Exam                                       | іспит                                     |                                |
-| Examination board                          | екзаменаційна комісія                     |                                |
-| Test                                       | тест                                      |                                |
-| First-class penalty                        | штраф першого класу                       |                                |
-| Final scores                               | підсумкові бали                           |                                |
-| Clue                                       | зачіпка                                   |                                |
-| Hint                                       | підказка                                  |                                |
-| Cutscene                                   | ігрова сцена                              |                                |
-| Points                                     | очки (ігрові) / бали (у школі)            |                                |
-| Uni / Unis                                 | Юні                                       |                                |
-| Credits                                    | гроші / кошти                             |                                |
-| Adventure mode                             | режим пригоди                             |                                |
-| Co-op / co-op mode                         | кооперативний режим                       |                                |
-| Main player                                | головний гравець                          | Головний гравець у кооперативі |
-| Host                                       | господар                                  | Головний гравець у кооперативі |
-| Shadow ads                                 | тіньові реклами                           |                                |
-| Shadow points                              | тіньові очки                              |                                |
-| Progress                                   | прогрес                                   |                                |
-| Save progress                              | прогрес гри                               |                                |
-| Summary                                    | підсумки                                  |                                |
-| Room                                       | кімната                                   | Одна ігрова локація            |
-| Full game                                  | повна версія гри                          |                                |
-| Additional content                         | додатковий вміст                          |                                |
-| DLC                                        | доповнення                                |                                |
-| Extras                                     | додатки                                   |                                |
-| Controller / gamepad                       | контролер                                 |                                |
-| Controls                                   | керування                                 |                                |
-| Blink                                      | блимання                                  |                                |
-| Icon                                       | іконка                                    |                                |
-| Hotspots                                   | точки взаємодії                           |                                |
-| Press                                      | натиснути                                 |                                |
-| Hold                                       | утримувати                                |                                |
-| Unlock                                     | розблокувати                              |                                |
-| Switch                                     | перемикати                                |                                |
-| Disable                                    | вимкнути                                  |                                |
-| Settings                                   | налаштування                              |                                |
-| Touch controls                             | сенсорне керування                        |                                |
-| Virtual stick                              | віртуальний джойстик                      |                                |
-| Virtual buttons                            | віртуальні кнопки                         |                                |
-| Magnifying glass / Magnify                 | лупа / збільшення                         |                                |
-| Tap / Double tap                           | натискання / подвійне натискання          |                                |
-| Long press                                 | тривале натискання                        |                                |
-| Swipe                                      | провести                                  |                                |
-| Pinch in / Pinch out                       | зведення пальців / розведення пальців     |                                |
-| Two-finger hold                            | утримання двома пальцями                  |                                |
-| Resolution                                 | роздільна здатність                       |                                |
-| Vsync / Vertical synchronization           | вертикальна синхронізація                 |                                |
-| Fullscreen                                 | повноекранний режим                       |                                |
-| Windowed                                   | віконний режим                            |                                |
-| Fully narrated                             | повне озвучення                           |                                |
-| Positional audio                           | позиційне аудіо                           |                                |
-| High contrast text                         | висококонтрастний текст                   |                                |
-| Screen shaking                             | тремтіння екрана                          |                                |
-| Accessibility menu                         | меню доступності                          |                                |
-| High contrast characters                   | висококонтрастні персонажі                |                                |
-| Simplified rooms                           | спрощені кімнати                          |                                |
-| Repeat buttons                             | кнопки повтору                            |                                |
-| Repeat speech                              | повторити діалогову репліку               |                                |
-| Repeat instructions                        | повторити вказівки                        |                                |
-| Clipboard narration                        | озвучення буфера обміну                   |                                |
-| Hotspots aligned                           | вирівнювання точок взаємодії              |                                |
-| Left Click                                 | клік ЛКМ                                  |                                |
-| Right Click                                | клік ПКМ                                  |                                |
-| Middle Click                               | клік колеса миші                          |                                |
-| Touch gestures                             | сенсорні жести                            |                                |
-| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                |
-| Croc dude                                  | чуваче                                    | Ігрові підказки                |
-| Kitty                                      | кошенятко                                 | Ігрові підказки                |
+| Оригінал                                   | Переклад                                  | Примітки                                         |
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------ |
+| Point & Click                              | Point & Click                             | Не перекладаємо                                  |
+| EXP                                        | ДОСВІД                                    |                                                  |
+| Ad (Advertisement) / ads                   | реклама / реклами                         |                                                  |
+| coupon                                     | купон (на гроші) / флаєр (рекламний)      |                                                  |
+| flyer                                      | флаєр                                     |                                                  |
+| Lifebar / life bar                         | шкала здоров'я                            |                                                  |
+| Inventory                                  | інвентар                                  |                                                  |
+| Chapter                                    | розділ                                    |                                                  |
+| Puzzle                                     | головоломка                               |                                                  |
+| Trial                                      | випробування                              |                                                  |
+| Exam                                       | іспит                                     |                                                  |
+| Examination board                          | екзаменаційна комісія                     |                                                  |
+| Test                                       | тест                                      |                                                  |
+| First-class penalty                        | штраф першого класу                       |                                                  |
+| Final scores                               | підсумкові бали                           |                                                  |
+| Clue                                       | зачіпка                                   |                                                  |
+| Hint                                       | підказка                                  |                                                  |
+| Cutscene                                   | ігрова сцена                              |                                                  |
+| Points                                     | очки (ігрові) / бали (у школі)            |                                                  |
+| Uni / Unis                                 | Юні                                       |                                                  |
+| Credits                                    | гроші / кошти                             |                                                  |
+| Adventure mode                             | режим пригоди                             |                                                  |
+| Co-op / co-op mode                         | кооперативний режим                       |                                                  |
+| Main player                                | головний гравець                          | Головний гравець у кооперативі                   |
+| Host                                       | господар                                  | Головний гравець у кооперативі                   |
+| Shadow ads                                 | тіньові реклами                           |                                                  |
+| Shadow points                              | тіньові очки                              |                                                  |
+| Progress                                   | прогрес                                   |                                                  |
+| Save progress                              | прогрес гри                               |                                                  |
+| Summary                                    | підсумки                                  |                                                  |
+| Room                                       | кімната                                   | Одна ігрова локація                              |
+| Full game                                  | повна версія гри                          |                                                  |
+| Additional content                         | додатковий вміст                          |                                                  |
+| DLC                                        | доповнення                                |                                                  |
+| Extras                                     | додатки                                   |                                                  |
+| Blink                                      | блимання                                  |                                                  |
+| Icon                                       | іконка                                    |                                                  |
+| Hotspots                                   | точки взаємодії                           |                                                  |
+| Unlock                                     | розблокувати                              |                                                  |
+| Disable                                    | вимкнути                                  |                                                  |
+| Settings                                   | налаштування                              |                                                  |
+| Magnifying glass / Magnify                 | лупа / збільшення                         |                                                  |
+| Resolution                                 | роздільна здатність                       |                                                  |
+| Vsync / Vertical synchronization           | вертикальна синхронізація                 |                                                  |
+| Fullscreen                                 | повноекранний режим                       |                                                  |
+| Windowed                                   | віконний режим                            |                                                  |
+| Fully narrated                             | повне озвучення                           |                                                  |
+| Positional audio                           | позиційне аудіо                           |                                                  |
+| High contrast text                         | висококонтрастний текст                   |                                                  |
+| Screen shaking                             | тремтіння екрана                          |                                                  |
+| Accessibility menu                         | меню доступності                          |                                                  |
+| High contrast characters                   | висококонтрастні персонажі                |                                                  |
+| Simplified rooms                           | спрощені кімнати                          |                                                  |
+| Repeat buttons                             | кнопки повтору                            |                                                  |
+| Repeat speech                              | повторити діалогову репліку               |                                                  |
+| Repeat instructions                        | повторити вказівки                        |                                                  |
+| Clipboard narration                        | озвучення буфера обміну                   |                                                  |
+| Hotspots aligned                           | вирівнювання точок взаємодії              |                                                  |
+| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                                  |
+| Croc dude                                  | чуваче                                    | Ігрові підказки                                  |
+| Kitty                                      | кошенятко                                 | Ігрові підказки                                  |
+| Credits / End titles                       | титри                                     | Не плутати з Credits = гроші / кошти (див. вище) |
+| Junction                                   | вузол                                     |                                                  |
+| Node                                       | вузол                                     |                                                  |
+| Gauge                                      | шкала                                     |                                                  |
+| Boost                                      | прискорення / підвищення                  |                                                  |
+| Cell                                       | камера                                    |                                                  |
+| Screen reader                              | екранний зчитувач                         |                                                  |
+| Brawl points                               | очки бійки                                |                                                  |
+| Brain points                               | очки розуму                               |                                                  |
+| Debug                                      | налагодження                              |                                                  |
+| Fight difficulty                           | рівень складності битв                    |                                                  |
+| Relaxed                                    | Розслаблений                              |                                                  |
+| Standard                                   | Звичайний                                 |                                                  |
+| Hardcore                                   | Жорсткий                                  |                                                  |
+| Mania                                      | Манія                                     |                                                  |
 
 **Бій**
 
@@ -608,6 +726,9 @@
 | Painting       | картина                              |                                      |
 | Little box     | коробочка                            |                                      |
 | Pebbles        | камінці                              |                                      |
+| Hoodie         | худі                                 |                                      |
+| Ladder         | драбина                              |                                      |
+| Bulletin board | дошка оголошень                      |                                      |
 
 **Інше**
 
@@ -673,7 +794,7 @@
 | Phew...                                   | Фух...                                 |
 | Pheew...                                  | Фу-ух...                               |
 | Tsk / Pft / Pfft / Ugh / Urgh / Gah / Eww | Пхе / Тьху / Фу                        |
-| Psst!                                     | Пс-c!                                  |  |
+| Psst!                                     | Пс-c!                                  |
 | Poof!                                     | Шух!                                   |
 | Ngggh...!                                 | У-уух...!                              |
 | Shh...                                    | Ш-ш...                                 |

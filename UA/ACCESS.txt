@@ -47,7 +47,7 @@ TUTORIAL_MOVE_MSG2=Для взаємодії натисніть
 TUTORIAL_OPENINV_MSG1=Відкрийте інвентар за допомогою
 
 ### Or click the upper right icon
-TUTORIAL_OPENINV_MSG2=Або натисніть позначку в правому верхньому куті
+TUTORIAL_OPENINV_MSG2=Або натисніть іконку в правому верхньому куті
 
 ### Then select an item by pressing
 TUTORIAL_OPENINV_MSG3=Потім оберіть предмет, натиснувши
@@ -59,7 +59,7 @@ TUTORIAL_OPENINV_MSG4=Ви почуєте "в руці", що означає, щ
 TUTORIAL_OR=Або
 
 ### To punch the door, click on it or press
-TUTORIAL_PUNCH_MSG_MOUSE1=Щоб вибити двері, клікніть на них або натисніть
+TUTORIAL_PUNCH_MSG_MOUSE1=Щоб вибити двері, клацніть по них або натисніть
 
 
 # Inputs
@@ -106,7 +106,7 @@ INPUT_ALTR=Правий Alt
 INPUT_B=B
 
 ### Backslash
-INPUT_BACKSLASH=обернена скісна риска
+INPUT_BACKSLASH=Обернена скісна риска
 
 ### Backspace
 INPUT_BACKSPACE=Backspace
@@ -118,7 +118,7 @@ INPUT_C=C
 INPUT_CAPSLOCK=Capslock
 
 ### Closebracket
-INPUT_CLOSEBRACKET=Права душка
+INPUT_CLOSEBRACKET=Закриваюча дужка
 
 ### Comma
 INPUT_COMMA=Кома
@@ -334,7 +334,7 @@ INPUT_NUMPADSLASH=Numpad скісна риска
 INPUT_O=O
 
 ### Open bracket
-INPUT_OPENBRACKET=Ліва душка
+INPUT_OPENBRACKET=Відкриваюча дужка
 
 ### Option
 INPUT_OPTION=Option
@@ -364,7 +364,7 @@ INPUT_R=R
 INPUT_S=S
 
 ### Scroll lock
-INPUT_SCROLLLOCK=Scroll lock
+INPUT_SCROLLLOCK=Scroll Lock
 
 ### Semicolon
 INPUT_SEMICOLON=Крапка з комою
@@ -420,7 +420,7 @@ GAMEPAD_ACTION1_STEAMDECK=A
 GAMEPAD_ACTION1_SWITCH=B
 
 ### A
-GAMEPAD_ACTION1_SWITCHPRO=A
+GAMEPAD_ACTION1_SWITCHPRO=B
 
 ### A
 GAMEPAD_ACTION1_XBOX360=A
@@ -441,7 +441,7 @@ GAMEPAD_ACTION2_STEAMDECK=B
 GAMEPAD_ACTION2_SWITCH=A
 
 ### B
-GAMEPAD_ACTION2_SWITCHPRO=B
+GAMEPAD_ACTION2_SWITCHPRO=A
 
 ### B
 GAMEPAD_ACTION2_XBOX360=B
@@ -459,10 +459,10 @@ GAMEPAD_ACTION3_PS5=Квадрат
 GAMEPAD_ACTION3_STEAMDECK=X
 
 ### Y
-GAMEPAD_ACTION3_SWITCH=YY
+GAMEPAD_ACTION3_SWITCH=Y
 
 ### X
-GAMEPAD_ACTION3_SWITCHPRO=X
+GAMEPAD_ACTION3_SWITCHPRO=Y
 
 ### X
 GAMEPAD_ACTION3_XBOX360=X
@@ -483,7 +483,7 @@ GAMEPAD_ACTION4_STEAMDECK=Y
 GAMEPAD_ACTION4_SWITCH=X
 
 ### Y
-GAMEPAD_ACTION4_SWITCHPRO=Y
+GAMEPAD_ACTION4_SWITCHPRO=X
 
 ### Y
 GAMEPAD_ACTION4_XBOX360=Y
@@ -504,7 +504,7 @@ GAMEPAD_DOWN_PS5=Кнопка вниз
 GAMEPAD_DOWN_STEAMDECK=Хрестовина вниз
 
 ### Directional button down
-GAMEPAD_DOWN_SWITCH=Хрестовина вниз
+GAMEPAD_DOWN_SWITCH=Кнопка вниз
 
 ### Directional pad down
 GAMEPAD_DOWN_SWITCHPRO=Хрестовина вниз
@@ -546,7 +546,7 @@ GAMEPAD_LEFT_PS5=Кнопка вліво
 GAMEPAD_LEFT_STEAMDECK=Хрестовина вліво
 
 ### Directional button left
-GAMEPAD_LEFT_SWITCH=Хрестовина вліво
+GAMEPAD_LEFT_SWITCH=Кнопка вліво
 
 ### Directional pad left
 GAMEPAD_LEFT_SWITCHPRO=Хрестовина вліво
@@ -567,7 +567,7 @@ GAMEPAD_RIGHT_PS5=Кнопка вправо
 GAMEPAD_RIGHT_STEAMDECK=Хрестовина вправо
 
 ### Directional button right
-GAMEPAD_RIGHT_SWITCH=Хрестовина вправо
+GAMEPAD_RIGHT_SWITCH=Кнопка вправо
 
 ### Directional pad right
 GAMEPAD_RIGHT_SWITCHPRO=Хрестовина вправо
@@ -591,10 +591,10 @@ GAMEPAD_SELECT_PS5=Сенсорна панель
 GAMEPAD_SELECT_STEAMDECK=Кнопка View
 
 ### Minus button
-GAMEPAD_SELECT_SWITCH=Кнопка Мінус
+GAMEPAD_SELECT_SWITCH=Кнопка мінус
 
 ### Minus button
-GAMEPAD_SELECT_SWITCHPRO=Кнопка Мінус
+GAMEPAD_SELECT_SWITCHPRO=Кнопка мінус
 
 ### View button
 GAMEPAD_SELECT_XBOX360=Кнопка View
@@ -654,10 +654,10 @@ GAMEPAD_START_PS5=Кнопка Options
 GAMEPAD_START_STEAMDECK=Кнопка Menu
 
 ### Plus button
-GAMEPAD_START_SWITCH=Кнопка Плюс
+GAMEPAD_START_SWITCH=Кнопка плюс
 
 ### Plus button
-GAMEPAD_START_SWITCHPRO=Кнопка Плюс
+GAMEPAD_START_SWITCHPRO=Кнопка плюс
 
 ### Start button
 GAMEPAD_START_XBOX360=Кнопка Start
@@ -666,67 +666,67 @@ GAMEPAD_START_XBOX360=Кнопка Start
 GAMEPAD_START_XBOXONE=Кнопка Menu
 
 ### Left stick
-GAMEPAD_STICKLEFT_PS4=Лівий стік
+GAMEPAD_STICKLEFT_PS4=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_PS5=Лівий стік
+GAMEPAD_STICKLEFT_PS5=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_STEAMDECK=Лівий стік
+GAMEPAD_STICKLEFT_STEAMDECK=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_SWITCH=Лівий стік
+GAMEPAD_STICKLEFT_SWITCH=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_SWITCHPRO=Лівий стік
+GAMEPAD_STICKLEFT_SWITCHPRO=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_XBOX360=Лівий стік
+GAMEPAD_STICKLEFT_XBOX360=Лівий джойстик
 
 ### Left stick
-GAMEPAD_STICKLEFT_XBOXONE=Лівий стік
+GAMEPAD_STICKLEFT_XBOXONE=Лівий джойстик
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_PS4=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_PS4=Натискання правого джойстика
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_PS5=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_PS5=Натискання правого джойстика
 
 ### Right joystick press
-GAMEPAD_STICKRIGHTPRESS_STEAMDECK=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_STEAMDECK=Натискання правого джойстика
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_SWITCH=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_SWITCH=Натискання правого джойстика
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_SWITCHPRO=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_SWITCHPRO=Натискання правого джойстика
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_XBOX360=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_XBOX360=Натискання правого джойстика
 
 ### Right stick press
-GAMEPAD_STICKRIGHTPRESS_XBOXONE=Натискання правого стіка
+GAMEPAD_STICKRIGHTPRESS_XBOXONE=Натискання правого джойстика
 
 ### Right stick
-GAMEPAD_STICKRIGHT_PS4=Правий стік
+GAMEPAD_STICKRIGHT_PS4=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_PS5=Правий стік
+GAMEPAD_STICKRIGHT_PS5=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_STEAMDECK=Правий стік
+GAMEPAD_STICKRIGHT_STEAMDECK=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_SWITCH=Правий стік
+GAMEPAD_STICKRIGHT_SWITCH=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_SWITCHPRO=Правий стік
+GAMEPAD_STICKRIGHT_SWITCHPRO=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_XBOX360=Правий стік
+GAMEPAD_STICKRIGHT_XBOX360=Правий джойстик
 
 ### Right stick
-GAMEPAD_STICKRIGHT_XBOXONE=Правий стік
+GAMEPAD_STICKRIGHT_XBOXONE=Правий джойстик
 
 ### L2
 GAMEPAD_TRIGGERLEFT_PS4=L2
@@ -771,7 +771,7 @@ GAMEPAD_TRIGGERRIGHT_XBOX360=RT
 GAMEPAD_TRIGGERRIGHT_XBOXONE=RT
 
 ### Unknown input
-GAMEPAD_UNKNOWN=Невідомий ввід
+GAMEPAD_UNKNOWN=Невідоме введення
 
 ### Directional button up
 GAMEPAD_UP_PS4=Кнопка вгору
@@ -783,7 +783,7 @@ GAMEPAD_UP_PS5=Кнопка вгору
 GAMEPAD_UP_STEAMDECK=Хрестовина вгору
 
 ### Directional button up
-GAMEPAD_UP_SWITCH=Хрестовина вгору
+GAMEPAD_UP_SWITCH=Кнопка вгору
 
 ### Directional pad up
 GAMEPAD_UP_SWITCHPRO=Хрестовина вгору
@@ -792,7 +792,7 @@ GAMEPAD_UP_SWITCHPRO=Хрестовина вгору
 GAMEPAD_UP_XBOX360=Хрестовина вгору
 
 ### Directional pad up
-GAMEPAD_UP_XBOXONE=Хрестовина вгоруХрестовина вгору
+GAMEPAD_UP_XBOXONE=Хрестовина вгору
 
 
 # For spelling numbers
@@ -827,84 +827,84 @@ AUDIOD_CHAPTER6=Розділ 6: Визволення
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### The main character you're playing is Brok. Brok is a chubby yet strong alligator person wearing a brown detective coat, a black tank top, blue pants and a purple fedora. He has a grey metal plate on his muzzle, and wears a pendant shaped like a magatama, and is not wearing shoes.
-AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте — Брок. Брок пухкий, але сильний чоловік-аліга́тор, одягнений у плащ дитектива, чорну майку, блакитні штани та фіолетовий фетровий капелюх. На морді у нього сіра металева пластина, він носить кулон у формі магатами та ходить без взуття.
+AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте - Брок. Брок пухкий, але сильний чоловік-алігатор, одягнений у плащ детектива, чорну майку, блакитні штани та фіолетовий фетровий капелюх. На морді у нього сіра металева пластина, він носить кулон у формі магатами та ходить без взуття.
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### The Squealer Chief is a burly rat wearing a somewhat ragged jacket. He has grey fur with what appears to be dyed blue hair.
-AUDIOD_CHAR_CHIEFRAT=Шеф Верескунів — кремезний пацюк, одягнений у дещо подерту куртку. У нього сіра шерсть і нібито пофарбоване в синій волосся.
+AUDIOD_CHAR_CHIEFRAT=Шеф Верескунів - кремезний пацюк, одягнений у дещо подерту куртку. У нього сіра шерсть і волосся, яке ніби пофарбоване в синій колір.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok faces a dingo wearing a hoodie, very slim and with brown fur, equipped in each hand with what looks like telescopic batons.
-AUDIOD_CHAR_DEE=Брок бачить динго в толстовці з капюшоном, дуже худого та з коричневою шерстю, в кожній руці якого - щось схоже на телескопічні кийки.
+AUDIOD_CHAR_DEE=Брок бачить динго в худі з капюшоном, дуже худого та з коричневою шерстю, в кожній руці якого - щось схоже на телескопічні кийки.
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### The director is a robot that resembles a female bear. She is white and purple.
-AUDIOD_CHAR_DIRECTOR=Директорка — робот, що скидається на ведмедицю. Вона білого та фіолетового кольорів.
+AUDIOD_CHAR_DIRECTOR=Директорка - робот, що скидається на ведмедицю. Вона білого та фіолетового кольорів.
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Dr. Gherkin is a tall, scrawny, bespectacled stork. He is wearing a briefcase and looks kinda old.
-AUDIOD_CHAR_GHERKIN=Доктор Геркін — високий, худорлявий лелека в окулярах. Він носить портфель та виглядає трохи старим
+AUDIOD_CHAR_GHERKIN=Доктор Геркін - високий, худорлявий лелека в окулярах. Він носить портфель та виглядає трохи старим.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff is a grey teenaged cat with a big nose, wearing a red hoodie and baggy pants. Contrary to Brok, he has some sneakers shoes.
-AUDIOD_CHAR_GRAFF=Графф — сірий кіт-підліток з великим носом, одягнений у червону толстовку та мішкуваті штані. На відміну від Брока, у нього є кросівки.
+AUDIOD_CHAR_GRAFF=Графф - сірий кіт-підліток з великим носом, одягнений у червоне худі та мішкуваті штани. На відміну від Брока, у нього є кросівки.
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### The Guard is a somewhat portly rat. He has a typical black guard outfit, comprising a tie with white and pink stripes.
-AUDIOD_CHAR_GUARD=Вартовий — доволі Огрядний пацюк. На ньому типовий чорний костюм охоронця, що складається з краватки з білими та рожевими смугами.
+AUDIOD_CHAR_GUARD=Охоронець - доволі огрядний пацюк. На ньому типовий чорний костюм охоронця, що складається з краватки з білими та рожевими смугами.
 
 ### The Gloom is a mouse who doesn’t seem very physically capable. He always has his computer equipement around, including a mouse shaped like a...mouse. He seems to be wearing a black hat, or could it be a wig?
-AUDIOD_CHAR_HACKER=Гакер — миша, яка здається не дуже сильною фізично. Його комп'ютерне обладнання завжди поруч із ним, включно з мишкою у формі... Миші. Здається, він носить чорну шляпу, чи, можливо, це перука?
+AUDIOD_CHAR_HACKER=Похмурий - миша, яка здається не дуже сильною фізично. Своє комп'ютерне обладнання він завжди тримає поруч, включно з мишкою у формі... миші. Здається, він носить чорну шляпу, чи, можливо, це перука?
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Dr. Hush is a bobcat scientist. He's wearing a lab coat just like Dr. Mink.
-AUDIOD_CHAR_HUSH=Доктор Гаш — вчений-рись. Він одягнений у лабораторний халат, як і доктор Мінк.
+AUDIOD_CHAR_HUSH=Доктор Гаш - вчений-рись. Він одягнений у лабораторний халат, як і доктор Мінк.
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay is a scrawny mountain lion wearing a preppy outfit. He has yellow fur. The director is a robot that resembles a female bear. She is white and purple.
-AUDIOD_CHAR_KLAY=Клей — худорлява пума у вбранні стилю преппі. У нього жовта шерсть. Директорка — робот, що скидається на ведмедицю. Вона білого та фіолетового кольорів.
+AUDIOD_CHAR_KLAY=Клей - худорлява пума у вбранні в стилі преппі. У нього жовта шерсть. Директорка - робот, що скидається на ведмедицю. Вона білого та фіолетового кольорів.
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Dr. Mink is a slightly chubby mink with brown fur. He's wearing a white lab coat with a tie. He has a somewhat crazy look in his eyes.
-AUDIOD_CHAR_MINK=Доктор Мінк — дещо пухка норка з коричневою шерстю. Він одягнений у білий лабораторний халат і краватку. У його очах є щось божевільне.
+AUDIOD_CHAR_MINK=Доктор Мінк - дещо пухка норка з коричневою шерстю. Він одягнений у білий лабораторний халат і краватку. У його очах є щось божевільне.
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Ott is a small and kinda chubby teenaged hybrid, between a warthog and an otter, having a warthog's snout but his ears are reminiscent of an otter. He has brown fur.
-AUDIOD_CHAR_OTT=Отт, маленький і повненький гібрид-підліток борода́вочника та видри, має морду бородавочника, але вуха скидаються на видру. У нього коричнева шерсть.
+AUDIOD_CHAR_OTT=Отт, маленький і повненький гібрид-підліток бородавочника та видри, має морду бородавочника, але вуха в нього як у видри. У нього коричнева шерсть.
 
 ### RJ is a huge, burly, brown bear cop.
-AUDIOD_CHAR_RJ=Р. Джей. — здоровенний кремезний бурий ведмідь-поліціянт
+AUDIOD_CHAR_RJ=Р. Джей - здоровенний кремезний бурий ведмідь-поліцейський.
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Shay is a blue buzzard bird with futuristic glasses. She's wearing a pink and brown outfit.
-AUDIOD_CHAR_SHAY=Шей — синій канюк із футуристичними окулярами. Вона у рожево-коричневому вбранні.
+AUDIOD_CHAR_SHAY=Шей - синій канюк із футуристичними окулярами. Вона у рожево-коричневому вбранні.
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin is a worried, chubby orange kangaroo wearing a police uniform.
-AUDIOD_CHAR_SIN=Сін — схвилььований пухкий помаранчевий кенгуру, одягнений у поліцейську уніформу
+AUDIOD_CHAR_SIN=Сін - схвильований пухкий помаранчевий кенгуру, одягнений у поліцейську уніформу.
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy is an oval shaped robot. He is using tracks, a row of wheels like a tank to move around and has two long arms. His head sports a colored circular shape which changes according to his mood.
-AUDIOD_CHAR_TIDY=Тайді — робот овальної форми. Для пересування він використовує гусениці, ряд коліс, як у танка. У нього є дві довгі руки, а на голові красується кольоровий круг, що змінюється в залежності від його настрою.
+AUDIOD_CHAR_TIDY=Тайді - робот овальної форми. Для пересування він використовує гусениці, ряд коліс, як у танка. У нього є дві довгі руки, а на голові красується кольоровий круг, що змінюється залежно від його настрою.
 
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 ### The Tramp is an old, weary muskrat, wearing military dog tags.
-AUDIOD_CHAR_TRAMP=Волоцюга — стара, втомлена ондатра з військовими жетонами.
+AUDIOD_CHAR_TRAMP=Волоцюга - стара, втомлена ондатра з військовими жетонами.
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes is a slender looking otter. He's kinda old with very bushy eyebrows covering his eyes.
-AUDIOD_CHAR_WES=Вес — струнка з вигляду видра. Він трохи старий, з дуже густими бровами, які прикривають очі.
+AUDIOD_CHAR_WES=Вес - струнка з вигляду видра. Він трохи старий, з дуже густими бровами, які прикривають очі.
 
 ### Extra scene. Under a heavy rain and storm at night, a flash of light happens from afar, and the camera pans to reveal the entrance of a hospital called Central Light.
-AUDIOD_CREDITS_EXTRA1=Додаткова сцена. Вночі, під час сильного дощу та грози, здалеку з'являється спалах світла і камера повертається, показуючи вхід лікарні під назвою Центральне Світло.
+AUDIOD_CREDITS_EXTRA1=Додаткова сцена. Вночі, під час сильного дощу та грози, здалеку з'являється спалах світла і камера переміщується, показуючи вхід лікарні під назвою Центральне Світло.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Extra scene. In a secret room with a server. In background, we see notes displayed with the conversation between Graff and the mysterious online character, with the faces of the three Triangle members displayed. Someone is lying down inside a cryo-chamber.
-AUDIOD_CREDITS_REMN=Додаткова сцена. В секретній кімнаті з сервером. На фоні ми бачимо нотатки переписки між Граффом і загадковим онлайн персонажем, а також обличча трьох членів трикутника. Хтось лежить у кріокамері.
+AUDIOD_CREDITS_REMN=Додаткова сцена. В секретній кімнаті з сервером. На фоні ми бачимо нотатки переписки між Граффом і загадковим онлайн-персонажем, а також облич трьох членів Трикутника. Хтось лежить у кріокамері.
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
@@ -913,7 +913,7 @@ AUDIOD_CREDITS_FRAMEPIC=Фотографія в рамці з Сіном, Ді �
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### At the hacker's place.
-AUDIOD_CREDITS_HACKERROOM=У гакера
+AUDIOD_CREDITS_HACKERROOM=У гакера.
 
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### In the Drums laboratory.
@@ -925,7 +925,7 @@ AUDIOD_CREDITS_POLICE=У відділку поліції. Отт один.
 
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
 ### At the Consciousness Center.
-AUDIOD_CREDITS_SCHOOL=В центрі свідомості.
+AUDIOD_CREDITS_SCHOOL=У Центрі Свідомості.
 
 # NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
 ### Sector 56X, in front of the merchant's store.
@@ -939,11 +939,11 @@ AUDIOD_CREDITS_SEWERS=В каналізації.
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok winds up in the Atlasia map. In the northeast is a lake that has a river flowing westward. On either side of it are two radioactive waste dumps. To the southeast is the dome that the Drums reside in.
-AUDIOD_EVMAP=Брок опиняється на карті Атлазії. На північному сході є озеро з річкою, що йде на захід. По обидва боки від нього знаходяться звалища радиоактивних відходів. На північному сході — купол, де живуть мешканці Верхів.
+AUDIOD_EVMAP=Брок опиняється на карті Атлазії. На північному сході є озеро з річкою, що йде на захід. По обидва боки від нього знаходяться звалища радіоактивних відходів. На південному сході - купол, де живуть мешканці Верхів.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff finds himself tied up in a small room located on the bottom left which looks like a dirty kitchen that the rats made for themselves in the sewers. The opening to the hallway is directly to the right of that, with a ladder at the end of it. This hallway extends to the right, with another room directly beside the one Graff was held in, with approximately the same size.
-AUDIOD_PC05D=Графф опиняється зв'язаним у маленькій кімнаті зліва знизу, яка має вигляд брудної кухні, що облаштували для себе пацюки в каналізації. Вихід до коридору - прямо зправа, зі сходами в кінці. Коридор простягається направо. Прямо поруч із тією, де утримують Граффа, є інша кімната приблизно такого ж розміру.
+AUDIOD_PC05D=Графф опиняється зв'язаним у маленькій кімнаті зліва знизу, яка має вигляд брудної кухні, яку пацюки облаштували для себе в каналізації. Вихід до коридору - прямо справа, зі сходами в кінці. Коридор простягається направо. Прямо поруч із тією, де утримують Граффа, є інша кімната приблизно такого ж розміру.
 
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
@@ -952,11 +952,11 @@ AUDIOD_PC05D=Графф опиняється зв'язаним у маленьк
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### On the picture, we can see Brok stepping on the Squealers chief defeated in the military suit, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
-AUDIOD_PC05D_THEPICTURE=На фотографії ми бачимо Брока, що наступає на переможеного шефа Верескунів у військовій формі, ботів, що святкують перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
+AUDIOD_PC05D_THEPICTURE=На фотографії ми бачимо Брока, що наступає на переможеного шефа Верескунів у військовій формі, бота, що святкує перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok faces a dingo wearing a hoodie, very slim and with brown fur, equipped in each hand with what looks like telescopic batons.
-AUDIOD_BM02_DEE=Брок бачить динго в толстовці з капюшоном, дуже худого та з коричневою шерстю, в кожній руці якого - щось схоже на телескопічні кийки.
+AUDIOD_BM02_DEE=Брок бачить динго в худі з капюшоном, дуже худого та з коричневою шерстю, в кожній руці якого - щось схоже на телескопічні кийки.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees the bear RJ in police outfit, ready to fight him.
@@ -965,7 +965,7 @@ AUDIOD_BM02_RJ=Брок бачить ведмедя Р. Джея у поліце
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Graff and Ott enter a wide room from an elevator in the top left corner, with several exhibits and signs strewn about, as well as a conspicuous piano at the center of the room.
-AUDIOD_PC17=Графф і Отт входять до просторної кімнати з ліфту в лівому верхньому куті. У кімнаті скрізь розкинуті експонати та таблички, а в центрі стоїть помітне піаніно.
+AUDIOD_PC17=Графф і Отт входять до просторної кімнати з ліфта в лівому верхньому куті. У кімнаті скрізь розкинуті експонати та таблички, а в центрі стоїть помітне піаніно.
 
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
@@ -979,7 +979,7 @@ AUDIOD_PC17_THEPICTURE=На фотографії ми бачимо, здаєть
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok awakens in his apartment which is pretty small. At the bottom left corner is Brok’s mattress. There’s a table at the center of the room, with a fridge and front door in the back. Beside Brok’s mattress is the couch along the bottom wall. At the rightmost wall is another door leading to his stepson Graff’s bedroom.
-AUDIOD_PC01=Брок прокидається в своїй доволі маленькій квартирі. Його матрац лежить в лівому нижньому куті. В центрі кімнати розташований стіл, позаду — холодильник і вхідні двері. Поруч із матрацом Брока, коло нижньої стіни стоїть диван. Біля правої стіни є ще одні двері, що ведуть у спальню його пасинка Граффа.
+AUDIOD_PC01=Брок прокидається у своїй доволі маленькій квартирі. Його матрац лежить в лівому нижньому куті. У центрі кімнати розташований стіл, позаду - холодильник і вхідні двері. Поруч із матрацом Брока, коло нижньої стіни стоїть диван. Біля правої стіни є ще одні двері, що ведуть у спальню свого прийомного сина Граффа.
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -1015,7 +1015,7 @@ AUDIOD_PC01_THEPICTURE=Графф показує фото, яке дав йом�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a hallway with a corridor that juts to the upper part of the screen towards two doors. In the middle of the room is a glass bulletin board. The exit is a staircase that doesn’t completely cover the right part of the room.
-AUDIOD_PC02=Брок входить до передпокою з коридором, який виступає у верхню частину екрана в сторону двох дверей.
+AUDIOD_PC02=Брок входить до передпокою з коридором, який виступає у верхню частину екрана в бік двох дверей. Посеред кімнати - скляна дошка оголошень. Вихід - сходи, що не повністю закривають праву частину кімнати.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok encounters lasers blocking the way out.
@@ -1024,12 +1024,12 @@ AUDIOD_PC02_LASERS=Брок стикається з лазерами, які б�
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok exits the building from the left. The air is polluted and the ground littered with trash. In the background we can see a landfill. To the right is a pipe and a small area where a Tramp lingers in. There’s a small elevator northeast of the entrance to go on the roof of the building. The rooftop, while bigger, has less stuff around it. It wraps around the lower area, with an entrance to the Trasher hunt in the northwest part of the building rooftop.
-AUDIOD_PC03=Брок виходить з будівлі зліва. Повітря забруднене, а земля завалена сміттям. На задньому плані ми можемо побачити звалище. Справа є труба та маленький простір, де перебуває волоцюга. На північному сході від входу розташований невеличкий ліфт, щоб піднятися на дах будівлі. Дах хоч і більший, але навколо менше речей. Він хоплює нижню частину з входом у мисливство за мотлохом у північній західній частині.
+AUDIOD_PC03=Брок виходить з будівлі зліва. Повітря забруднене, а земля завалена сміттям. На задньому плані ми можемо побачити звалище. Справа є труба та маленький простір, де перебуває волоцюга. На північному сході від входу розташований невеличкий ліфт, щоб піднятися на дах будівлі. Дах хоч і більший, але навколо менше речей. Він огинає нижню частину з входом у мисливство за мотлохом у північно-західній частині.
 
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a long stretch of road. This is a clear contrast with the Slums, with brightly colored stores in a futuristic fashion. Some floating cars are passing by silently in foreground. There are two buildings along the upper part, a gym and a pharmacy. Between those two buildings is an alley entrance. To the right of the pharmacy is a giant fountain.
-AUDIOD_PC04=
+AUDIOD_PC04=Брок виходить на довгу ділянку дороги. Це різкий контраст із Нетрями: тут яскраво оздоблені магазини у футуристичному стилі. На передньому плані безшумно пролітають кілька аеромобілів. Уздовж верхньої частини розташовані дві будівлі - спортзал і аптека. Між цими двома будівлями є вхід у провулок. Праворуч від аптеки - величезний фонтан.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok puts the item inside.
@@ -1041,71 +1041,71 @@ AUDIOD_PC04B=Брок входить до довгого коридору з л�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters an oval shaped room with a small corridor making him go upwards to enter the rest of it at the start. There’s a display of products at the center of the room with a few more along the walls as well. On the right are screens which are inviting the user to interact with.
-AUDIOD_PC04C=
+AUDIOD_PC04C=Брок входить до овальної кімнати, де на початку невеликий коридор змушує його піднятися вгору, щоб потрапити до решти приміщення. У центрі кімнати - вітрина з товарами, ще кілька - уздовж стін. Праворуч - екрани, що запрошують користувача до взаємодії.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok climbs down from the ladder into a long, curved corridor consisting of a small gap for water and two platforms spanning the length of either side of the alley connected by a single, small stone bridge. On the right platform there is also a pool of acid that spans the length of the platform as well.
-AUDIOD_PC05=Брок спускається сходами у довгий вигнутий коридор, що складається з невеличкого отвору для води та двох платформ, що простяглися по обом сторонам провулка, з'єднані невеликим кам'яним мостиком. На правій платформі також є калюжа кислоти, що простяглася на всю довжину.
+AUDIOD_PC05=Брок спускається сходами у довгий вигнутий коридор, що складається з невеличкого отвору для води та двох платформ, що простяглися по обидва боки провулка й з'єднані невеликим кам'яним мостиком. На правій платформі також є калюжа кислоти, що простяглася на всю довжину.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a very long hallway from the left, continuing from the previous room. The upper platform is where Brok stands. The river part underneath has no water, but it does have some acid in the bottommost right part of it just before a connecting bridge.
-AUDIOD_PC05B=
+AUDIOD_PC05B=Брок входить зліва до дуже довгого коридору, що продовжується з попередньої кімнати. Брок стоїть на верхній платформі. У нижній частині, схожій на русло річки, немає води, але в найнижчій правій частині, просто перед з'єднувальним мостом, є трохи кислоти.
 
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### An object falls down into the basket. The pipe is probably connected to the Drums Street Pipe-Pill from above.
-AUDIOD_PC05B_FALL=Об'єкт падає в кошик. Труба, ймовірно, з'єднана з поштоматом на вулиці на Верхах.
+AUDIOD_PC05B_FALL=Об'єкт падає в кошик. Труба, ймовірно, з'єднана з Пігулкоматом на вулиці на Верхах.
 
 ### The item fell into the basket.
-AUDIOD_PC05B_ITEMFALL=Предмет падає в кошик.
+AUDIOD_PC05B_ITEMFALL=Предмет упав у кошик.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees a group of three tough rats. Behind them is a basket with a pipe coming out from the ceiling.
-AUDIOD_PC05B_RATS=
+AUDIOD_PC05B_RATS=Брок бачить трьох дужих пацюків. Позаду них - кошик, а зі стелі виходить труба.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a very small rectangular room. There’s a slightly higher platform that he starts on and a slightly lower platform. Machinery is displayed on the right, preventing from continuing further. It appears the machine is filtering the water, with a big pool stored in the lower right corner.
-AUDIOD_PC05C=
+AUDIOD_PC05C=Брок входить до дуже маленької прямокутної кімнати. Є трохи вища платформа, на якій він починає, і трохи нижча платформа. Праворуч розташовані механізми, що не дають рухатися далі. Схоже, машина фільтрує воду, збираючи її у великий резервуар у нижньому правому куті.
 
 # NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a very long stretch of road. Not too far from the entrance walking to the right is a merchant stall. There is an arching bridge with some platforms Brok can climb up to reach the roof of it. To the far right there is a building with a metal gate blocking the entrance.
-AUDIOD_PC06=
+AUDIOD_PC06=Брок виходить на дуже довгу ділянку дороги. Неподалік від входу, якщо йти праворуч, стоїть прилавок крамарки. Є арочний міст із кількома платформами, якими Брок може вилізти на його верх. Далеко праворуч є будівля, вхід до якої перекривають металеві ворота.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees the girl with a hoodie he met in VR Arena in Chapter 2 climbing down the rocks.
-AUDIOD_PC06_DEE=Брок бачить дівчину в толстовці, яку зустрів у розділі 2. Вона спускається скалами.
+AUDIOD_PC06_DEE=Брок бачить дівчину в худі, яку зустрів на Віртуальній Арені в розділі 2. Вона спускається скалами.
 
 ### Enter a four-digit code.
 AUDIOD_PC06_ENTERCODE=Уведіть чотиризначний код.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters from the right side a long hallway jutting to the north. There are five doors along said hallway: two on the right wall, two on the left wall, and one at the northernmost part. There is also a small alcove at the lower left part of the room.
-AUDIOD_PC07=
+AUDIOD_PC07=Брок входить справа до довгого коридору, що виступає на північ. Уздовж цього коридору п'ять дверей: дві на правій стіні, дві на лівій стіні та одна в найпівнічнішій частині. Також у нижній лівій частині кімнати є маленька ніша.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Brok enters the small room from the north. His client Sin is waiting a bit below. At the bottom left corner there’s a combination wardrobe and fridge and right beside it is a table. To the right of the door is a small drawer. This apartment has a second room, which is located to the right. Sin is standing next to the entrance. In that very small room there is a shower at the bottom right corner as well as a mirror to the north of it.
-AUDIOD_PC07B=
+AUDIOD_PC07B=Брок входить до маленької кімнати з півночі. Його клієнт Сін чекає трохи нижче. У нижньому лівому куті - шафодильник, а просто поруч із ним - стіл. Праворуч від дверей - маленька шухляда. У цій квартирі є друга кімната, розташована праворуч. Сін стоїть біля входу. У тій дуже маленькій кімнаті в нижньому правому куті є душ, а на північ від нього - дзеркало.
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Suddenly, the wall explodes. The police chief Wes appears, accompanied by a Tribot. Wes is a slender looking otter. He's kinda old with very bushy eyebrows covering his eyes.
-AUDIOD_PC07B_WESAPPEARS=
+AUDIOD_PC07B_WESAPPEARS=Раптом стіна вибухає. З'являється шеф поліції Вес у супроводі Трибота. Вес - струнка з вигляду видра. Він трохи старий, з дуже густими бровами, які прикривають очі.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters the area from the right side. Northwards leads to a lake with two islands, the closer one smaller while the further one goes all the way to the right. A boat is floating in the lake upside down on the right side. On the left there’s a small hexagonal fence that leads to the garage itself.
-AUDIOD_PC08=
+AUDIOD_PC08=Брок входить на цю ділянку справа. На північ веде шлях до озера з двома островами: ближчий - менший, а дальший тягнеться аж до правого краю. Справа в озері догори дном плаває човен. Ліворуч є невелика шестикутна огорожа, що веде до самого гаража.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### The garage disappeared, and Brok no longer has a detective hat.
-AUDIOD_PC08_OUTOFLOOP=
+AUDIOD_PC08_OUTOFLOOP=Гараж зник, і в Брока більше немає капелюха детектива.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Brok enters from the northern entrance to a slightly big room. There’s a large desk by the southwest corner as well as shelves all along the left wall. There’s an entrance to another room on the right wall. Shay is working at her desk on the bottom left corner of the room.
-AUDIOD_PC08B=
+AUDIOD_PC08B=Брок входить через північний вхід до доволі великої кімнати. У південно-західному куті - великий стіл, а вздовж усієї лівої стіни - полиці. На правій стіні є вхід до іншої кімнати. Шей працює за своїм столом у нижньому лівому куті кімнати.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok arrives in a strange place looking like a beach in space with light particles floating around.
@@ -1113,22 +1113,22 @@ AUDIOD_PC08B_BEACH=Брок прибуває в дивне місце, схож�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### A strange, distorted figure appears, which looks like exactly like Brok with a red color.
-AUDIOD_PC08B_BEACHCLONE=З'являється дивна спотворена фігура, схожа на Брока ЧЕРВОНОГО КОЛЬОРУ
+AUDIOD_PC08B_BEACHCLONE=З'являється дивна спотворена фігура, схожа на Брока, лише червоного кольору.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok and Graff are hugging for the very first time and last time.
-AUDIOD_PC08B_HUGTILL=Брок І Графф обіймаються вперше і востаннє.
+AUDIOD_PC08B_HUGTILL=Брок і Графф обіймаються вперше і востаннє.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff exits the time machine and ends up in a dark place with a very old Brok waiting on a rocking chair.
-AUDIOD_PC08B_TILLENDTIME=Графф виходить із машини часу та опиняється в темному місці, де дуже старий брок чекає на нього в кріслі-гойдалці.
+AUDIOD_PC08B_TILLENDTIME=Графф виходить із машини часу та опиняється в темному місці, де дуже старий Брок чекає на нього в кріслі-гойдалці.
 
 # NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a very small room. There’s a drawer right beside the entrance with a bed to the right of it. The Virtual Arena cabin is in the far right part of the room, with some scattered doodads all around.
-AUDIOD_PC08C=
+AUDIOD_PC08C=Брок входить до дуже маленької кімнати. Просто біля входу - шухляда, а праворуч від неї - ліжко. У дальній правій частині кімнати - кабіна Віртуальної Арени, а навколо розкидано чимало дрібничок.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
@@ -1138,18 +1138,18 @@ AUDIOD_PC08C_HUG=Брок обіймає Шей, поки гараж зника�
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a rectangular shaped room from the right. There are slightly raised bars by the entrance on the left, to give an impression of a hallway that one would have to walk around or jump over. At the northern part of the room is a door that leads to the chief office. Three bots are guarding the place. One is located beneath a long counter along the rightmost wall. Another one is in the bottom left corner, while the last one is watching from the top left corner.
-AUDIOD_PC09=
+AUDIOD_PC09=Брок входить справа до прямокутної кімнати. Ліворуч біля входу є трохи підняті прути, що створюють враження коридору, який довелося б обійти або перестрибнути. У північній частині кімнати є двері, що ведуть до кабінету шефа. Місце охороняють три боти. Один розташований під довгою стійкою вздовж найправішої стіни. Ще один - у нижньому лівому куті, а останній спостерігає з верхнього лівого кута.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters the jail, which is composed of three cells on the left half of the room. Brok is led to his small cell, which is the bottom most one. The other half of the room is a semi-circle shape, with the exit to the right.
-AUDIOD_PC09B=
+AUDIOD_PC09B=Брок входить до в'язниці, ліва половина якої складається з трьох камер. Брока ведуть до його маленької камери - найнижчої. Інша половина кімнати має форму півкола, а вихід - праворуч.
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok enters the small circular room from the northwestern door. This is the chief office. We can see a black board filled with cases, clues and suspect information written in background. Along the upper part of the room is a large desk. Graff's friend Ott is using this desk, working at a computer. On the lower right part of the room is an even bigger desk. A couple of chairs are scattered around the room as well.
-AUDIOD_PC09C=
+AUDIOD_PC09C=Брок входить до маленької круглої кімнати через північно-західні двері. Це кабінет шефа. На задньому плані видно дошку, заповнену справами, зачіпками та інформацією про підозрюваних. Уздовж верхньої частини кімнати - великий стіл. За ним працює друг Граффа Отт, сидячи за комп'ютером. У нижній правій частині кімнати - ще більший стіл. По кімнаті також розкидано кілька стільців.
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### This is a picture of Wes in three-quarters angle.
@@ -1157,7 +1157,7 @@ AUDIOD_PC09C_WESPICTURE=Фотографія Веса під кутом у тр�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok is led to the small hallway in the upper part of the room before being escorted to the square shaped room itself, with a giant triangular table at the center of it.
-AUDIOD_PC09D=
+AUDIOD_PC09D=Брока ведуть до маленького коридору у верхній частині кімнати, а потім супроводжують до самої квадратної кімнати з величезним трикутним столом посередині.
 
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
@@ -1166,11 +1166,11 @@ AUDIOD_PC09D=
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Graff is sitting at his desk beside other students: Ott, Klay and Stubot. The consciousness center is fully covered by a large, transparent glass, through which we can see all the Slums in background. Their desks are set up directly beside each other making a small table in the middle of the rectangular shaped building. At the northeast part of the building is a big door that leads into the outer area, which is also rectangular shaped. The exit of this room is located at the center in the far background of the area.
-AUDIOD_PC10=
+AUDIOD_PC10=Графф сидить за своїм столом поруч з іншими студентами: Оттом, Клеєм і Студботом. Центр Свідомості повністю накритий великим прозорим склом, крізь яке на задньому плані видно всі Нетрі. Їхні столи стоять упритул один до одного, утворюючи маленький стіл посеред прямокутної будівлі. У північно-східній частині будівлі є великі двері, що ведуть на зовнішню територію, яка теж прямокутна. Вихід із цієї кімнати розташований по центру в дальній частині території.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok wakes up in a small apartment room in fire. There’s two doors, one on the right side of the room and one on the left. There’s flaming debris blocking the door on the right as well as some debris around.
-AUDIOD_PC11=
+AUDIOD_PC11=Брок прокидається в маленькій квартирі, охопленій вогнем. Є двоє дверей: одні з правого боку кімнати, одні з лівого. Двері праворуч перекриває палаюче сміття, та й довкола чимало уламків.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees a picture frame composed exclusively of a triangle pattern.
@@ -1178,23 +1178,23 @@ AUDIOD_PC11_FRAME=Брок бачить фоторамку, що складає�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a slightly longer room which seems like a living room.  There are four doors, two on the left side and two on the right side. A device stands at the center of the room and three robots are scattered. There’s flames all along the bottom of the room.
-AUDIOD_PC11B=
+AUDIOD_PC11B=Брок входить до трохи довшої кімнати, схожої на вітальню. Є четверо дверей: двоє з лівого боку та двоє з правого. У центрі кімнати стоїть пристрій, а навколо розкидані три роботи. Уздовж нижньої частини кімнати вирує полум'я.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a longer room. In the first half there’s the door Brok came in from, a giant rock on the upper part of his path and a hole in the lower half with a toppled shelf making a bridge across it. The second half of the room is more open, with a bed at the top part and a shelf beside it. Below them is a toppled part of the building with someone caught under it.
-AUDIOD_PC11C=
+AUDIOD_PC11C=Брок входить до довшої кімнати. У першій половині - двері, з яких прийшов Брок, величезна скеля у верхній частині шляху та діра в нижній половині, через яку перекинута полиця утворює місток. Друга половина кімнати просторіша: вгорі - ліжко, а поруч - полиця. Під ними - завалена частина будівлі, під якою хтось затиснутий.
 
 ### On the wall is briefly written "Guilty".
 AUDIOD_PC11C_GUILTY=На стіні коротко написано "винний".
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok finds himself in a strange dark place looking like an old hospital. He arrives from the left, and this is a very, very long hallway.
-AUDIOD_PC11D=
+AUDIOD_PC11D=Брок опиняється в дивному темному місці, схожому на стару лікарню. Він приходить зліва, і це дуже-дуже довгий коридор.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees Graff sitting in the middle of a bedroom to the right, surrounded by mines.
-AUDIOD_PC11D_GRAFFBEDROOM=Брок бачить Граффа, який сидить по середині спальні справа, оточений мінами.
+AUDIOD_PC11D_GRAFFBEDROOM=Брок бачить Граффа, який сидить посередині спальні справа, оточений мінами.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -1212,7 +1212,7 @@ AUDIOD_PC11D_WRONGSHOW=Брок бачить три тіла своїх друз
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a big area from the south-left entrance. Two buildings are visible, the left one is the postal service with an antenna on top and the right one is the security building with a roof shaped like a pyramid. Along the bottom of the area are two statues, with some benches directly above them. To the right is the dome itself, seemingly made of glass. The entrance is guarded by a scanner and a security camera.
-AUDIOD_PC12=
+AUDIOD_PC12=Брок входить на велику територію через вхід у південно-лівій частині. Видно дві будівлі: ліва - пошта з антеною на даху, а права - будівля служби безпеки з дахом у формі піраміди. Уздовж нижньої частини території стоять дві статуї, а просто над ними - кілька лавок. Праворуч - сам Купол, який здається скляним. Вхід охороняють сканер і камера спостереження.
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
@@ -1223,7 +1223,7 @@ AUDIOD_PC12_DRUMER=Графф, Клей, Отт і директорка стоя
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff is walking away while looking at Brok with tears in his eyes, smiling.
-AUDIOD_PC12_DRUMERLEAVE=Графф іде, зі сльозами на очах дивлячись на брока та усміхається.
+AUDIOD_PC12_DRUMERLEAVE=Графф іде, зі сльозами на очах дивлячись на Брока та усміхається.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees a few citizens with protest signs in front of the border.
@@ -1231,10 +1231,10 @@ AUDIOD_PC12_PROTEST=Брок бачить кількох громадян з п�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters from the top-left of the building. There are several platforms and laser traps further down the building. At the far bottom is a computer located on the right side and a strange large device with the number 15 on the left. The exit is in the southern part of the bottom room.
-AUDIOD_PC12B=
+AUDIOD_PC12B=Брок входить з верхнього лівого кута будівлі. Нижче в будівлі є кілька платформ і лазерних пасток. У самому низу праворуч розташований комп'ютер, а ліворуч - дивний великий пристрій із числом 15. Вихід - у південній частині нижньої кімнати.
 
 ### Turn the knobs until the power gets to 0.
-AUDIOD_PC12B_KNOBS=Крутіть регулятори, доки потужність не досягне 0
+AUDIOD_PC12B_KNOBS=Крутіть регулятори, доки потужність не досягне 0.
 
 ### A rotating shape appears on-screen, made of four triangles.
 AUDIOD_PC12B_MAINFRAME=На екрані з'являється і обертається фігура, складена з чотирьох трикутників.
@@ -1251,11 +1251,11 @@ AUDIOD_PC13_FALL=Брок стрибає на зустріч смерті. Це 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok takes a selfie where he appears funny, with Graff clearly unprepared in the background.
-AUDIOD_PC13_SELFIE=Брок робить селфі, де він має кумедний вигляд, а на фоні — явно не готовий Граф.
+AUDIOD_PC13_SELFIE=Брок робить селфі, де він має кумедний вигляд, а на задньому плані - явно не готовий Граф.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a dark street from the east side. It feels like people are living here but no one can be seen. There’s a giant square shaped hole about halfway down the street on the southern side. North of that hole is one platform that can be created, and just to the right of that is another platform slightly above it with some clothes hanging, and yet another platform to the right and slightly above that.
-AUDIOD_PC14=
+AUDIOD_PC14=Брок входить на темну вулицю зі східного боку. Здається, що тут живуть люди, але нікого не видно. Приблизно посеред вулиці, з південного боку, є величезна квадратна діра. На північ від цієї діри є платформа, яку можна створити, а трохи праворуч від неї - друга платформа, трохи вище, з розвішаним одягом, і ще одна платформа праворуч і трохи вище за неї.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
@@ -1265,7 +1265,7 @@ AUDIOD_PC14_CORNERED=Отт і Графф загнані в кут кілько�
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff arrives on the scene and sees Brok kicking the rats' butts.
-AUDIOD_PC14_GRAFFARRIVES=Графф прибуває на місце події та бачить, як Брок надерає дупи пацюкам.
+AUDIOD_PC14_GRAFFARRIVES=Графф прибуває на місце події та бачить, як Брок надирає дупи пацюкам.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees a rat on the phone in front of a hole in the ground.
@@ -1273,18 +1273,18 @@ AUDIOD_PC14_RAT=Брок бачить пацюка, який розмовляє 
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok walks into a street corner and is right beside a building. There’s a crossing at the street but the northern part doesn’t go very far. A  big bear with a policeman outfit is guarding a door.
-AUDIOD_PC14B=
+AUDIOD_PC14B=Брок заходить за ріг вулиці й опиняється просто біля будівлі. На вулиці є перехрестя, але північна частина веде недалеко. Двері охороняє великий ведмідь у поліцейській формі.
 
 # NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters the small room from the northeast entrance. It looks like an abandoned restaurant. There’s a large counter sprawling at the top left part of the room and a table at the center of the same room, which serves as the desk for a hacker mouse. Some pizzant leftovers are on the ground while there's a mess of equipment in background.
-AUDIOD_PC14C=
+AUDIOD_PC14C=Брок входить до маленької кімнати через північно-східний вхід. Вона схожа на покинутий ресторан. У верхній лівій частині кімнати розкинулася велика стійка, а в центрі - стіл, за яким працює гакер-миша. На підлозі валяються рештки мурахопіци, а на задньому плані - безлад з обладнання.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott exit a hovercar to stand in front of a long series of connected buildings. Directly to the south of them is the highway for the hovercars that they zoom by on periodically.
-AUDIOD_PC15=
+AUDIOD_PC15=Брок і Отт виходять з аеромобіля й опиняються перед довгим рядом з'єднаних будівель. Прямо на південь від них - шосе для аеромобілів, якими вони час від часу проносяться повз.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
@@ -1295,27 +1295,27 @@ AUDIOD_PC15_BIKE=Брок залазить на байк, поки Тайді в
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter a small oval shaped room. A delivery tube is to the right while the Guard’s desk is to the left. There are three doors on the north part of the room.
-AUDIOD_PC15B=
+AUDIOD_PC15B=Брок і Отт входять до маленької овальної кімнати. Праворуч - труба доставки, ліворуч - стіл охоронця. У північній частині кімнати - троє дверей.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter a small square shaped room. There is a small floating desk on the lower left part of the room, a long table at the center, a bed directly north of that and another desk to the right of the bed. A small robot is sitting on the right side of the room, connected by a wire to a wall.
-AUDIOD_PC15C=
+AUDIOD_PC15C=Брок і Отт входять до маленької квадратної кімнати. У нижній лівій частині - маленький повітряний стіл, у центрі - довгий стіл, просто на північ від нього - ліжко, а праворуч від ліжка - ще один стіл. Праворуч у кімнаті сидить маленький робот, з'єднаний дротом зі стіною.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter from the bottomleft side a small corner circle shaped room. The room is a bit messy, with a ton of electronic devices and a mess of wires. At the center of the room is a table while a bed is to the north of it. There’s a sink directly to the right of the bed. At the top leftmost corner of the room is a desk with a box on top. Dr. Mink is a slightly chubby mink with brown fur. He's wearing a white lab coat with a tie. He has a somewhat crazy look in his eyes.
-AUDIOD_PC15D=
+AUDIOD_PC15D=Брок і Отт входять із нижнього лівого боку до маленької кімнати в кутку, круглої форми. У кімнаті трохи безладно: сила-силенна електронних пристроїв і плутанина з дротів. У центрі - стіл, а на північ від нього - ліжко. Прямо праворуч від ліжка - умивальник. У верхньому лівому куті кімнати - стіл, на якому стоїть коробка. Доктор Мінк - дещо пухка норка з коричневою шерстю. Він одягнений у білий лабораторний халат і краватку. У його очах є щось божевільне.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter a small circular room. At the center of the room is a device and a large couch in background. A shower is on the left and a sink is on the right. A wardrobe made of two parts is in the top right corner.
-AUDIOD_PC15E=
+AUDIOD_PC15E=Брок і Отт входять до маленької круглої кімнати. У центрі кімнати - пристрій, а на задньому плані - великий диван. Ліворуч - душ, праворуч - умивальник. У верхньому правому куті - шафа, що складається з двох частин.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a small room. At the top left part is the console to play Trasher Hunt. On the right there's a window through which we can observe the landfill.
-AUDIOD_PC16=Брок входить в маленьку кімнату. У верхній лівій частині розташована консоль для гри в мисливство за мотлохом. Справа — вікно, через яке ми можемо спостерігати за звалищем.
+AUDIOD_PC16=Брок входить у маленьку кімнату. У верхній лівій частині розташована консоль для гри в мисливство за мотлохом. Справа - вікно, через яке ми можемо спостерігати за звалищем.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### RJ gives Brok a crushing hug.
@@ -1325,21 +1325,21 @@ AUDIOD_PC14B_RJHUG=Р. Джей. міцно обіймає Брока.
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters from the left, and sees a long plastic-like material in the north side on which plants are growing. It is overlooking a factory in background shaped like an elephant. The dome is visible from afar, with many Drums triangular buildings. A small sentry box is located at the opposite end of the room.
-AUDIOD_PC18=
+AUDIOD_PC18=Брок входить зліва й бачить довгий матеріал, схожий на пластик, у північній частині, на якому ростуть рослини. З нього відкривається вид на завод на задньому плані у формі слона. Здалеку видно Купол із багатьма трикутними будівлями Верхів. У протилежному кінці кімнати розташована маленька вартова будка.
 
 ### The fixbot fixed the holes in the membrane.
-AUDIOD_PC18_FIXBOT=Рем-бот залатав дірки в мембрані.
+AUDIOD_PC18_FIXBOT=Бот-ремонтник залатав дірки в мембрані.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok sees a group of robots on the left.
-AUDIOD_PC18_ROBOTS=Брок бачіть групу роботів зліва.
+AUDIOD_PC18_ROBOTS=Брок бачить групу роботів зліва.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff wakes up in a giant area comprising four rooms. The whole place feels oppressing, empty with no living soul around. The room he woke up in is at the bottom center, very small and oval shaped. The room to the left is a long corridor leading to a puzzle. The room to the right has a small hall that leads to a long oval shaped room with a different puzzle. The final room to the north is an average sized square shaped room with a big scale at the topmost center of it and a crate to the left. There is also a short wall surrounding the room that is traversable.
-AUDIOD_PC19=
+AUDIOD_PC19=Графф прокидається у величезному просторі з чотирьох кімнат. Усе навколо гнітюче, порожнє, жодної живої душі. Кімната, у якій він прокинувся, - унизу по центру, дуже маленька й овальна. Кімната ліворуч - довгий коридор, що веде до головоломки. Кімната праворуч має маленький зал, який веде до довгої овальної кімнати з іншою головоломкою. Остання кімната на півночі - квадратна кімната середнього розміру з великими вагами у найвищій центральній частині та ящиком ліворуч. Також кімнату оточує невисока стіна, яку можна перетнути.
 
 ### The hologram is a triangle with "three times" written on it.
-AUDIOD_PC19_HOLOGRAM=Голограма — трикутник, на якому написано "Тричі"
+AUDIOD_PC19_HOLOGRAM=Голограма - трикутник, на якому написано "Тричі".
 
 ### There are several pipes connected, through which a ball must cross to reach a goal at the end.
 AUDIOD_PC19_PIPEGAME=Між собою з'єднані кілька труб, через які повинен пройти м'ячик, щоб досягти цілі.
@@ -1351,7 +1351,7 @@ AUDIOD_PC19_TRIANGLEGROUND=На землі зображено трикутник
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Graff enters the new room and sees Klay. This is a small, rectangular shaped room, with two doors on the right which must lead outside. Klay is standing at the center of the room, next to a button. There are panels on the ground behind him, and some kind of shackles on a wall on the left. Graff comes from a passage on the top left, and another passage exists on the bottom left from which Klay probably came from. There is back room with a transparent window, in which a dozen of Tribots are standing. In foreground we can see a bed.
-AUDIOD_PC19B=
+AUDIOD_PC19B=Графф входить до нової кімнати й бачить Клея. Це маленька прямокутна кімната з двома дверима праворуч, які, певно, ведуть назовні. Клей стоїть у центрі кімнати біля кнопки. Позаду нього на підлозі - панелі, а на стіні ліворуч - якісь кайдани. Графф приходить із проходу у верхньому лівому куті, а ще один прохід є в нижньому лівому, звідки, ймовірно, прийшов Клей. Є задня кімната з прозорим вікном, у якій стоїть дюжина Триботів. На передньому плані видно ліжко.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -1371,14 +1371,14 @@ AUDIOD_PC19B_PILL2=Клей хапає пігулку Граффа.
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Graff exits the bunker building to a wide stretch of road that the building is in the center of. Without any doubt, this is the Slums. There’s debris all around the bunker.
-AUDIOD_PC19D=
+AUDIOD_PC19D=Графф виходить із будівлі бункера на широку ділянку дороги, посеред якої вона стоїть. Без сумніву, це Нетрі. Навколо бункера - уламки.
 
 ### There are two rows of identical buttons. Each button activates or deactivates some power panels. After each press, I will tell you how much power is left. Press the buttons until it reaches zero.
-AUDIOD_PC19D_POWERPUZZLE=
+AUDIOD_PC19D_POWERPUZZLE=Є два ряди однакових кнопок. Кожна кнопка вмикає або вимикає певні панелі живлення. Після кожного натискання я повідомлятиму, скільки потужності залишилося. Натискайте кнопки, доки вона не досягне нуля.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters from the left a very large rectangular area. In the middle of it is a landfill. We can see a desert background with a sunset sky.
-AUDIOD_PC20=
+AUDIOD_PC20=Брок входить зліва на дуже велику прямокутну територію. Посеред неї - звалище. На задньому плані видно пустелю та небо із заходом сонця.
 
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
@@ -1413,7 +1413,7 @@ AUDIOD_PC20_HUGEBOTFALL=Стається вибух, що змушує меху 
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### A giant mecha bot emerges from the ground, controlled by Wes inside the cockpit. It has two giant arms and legs, with a cockpit at the top.
-AUDIOD_PC20_MECHA=Гігантський меха-бот з'являється з-під землі, керований Весом з середини кабіни. У нього по дві величезні руки і ноги та кабіна зверху.
+AUDIOD_PC20_MECHA=Гігантський меха-бот з'являється з-під землі, керований Весом зсередини кабіни. У нього по дві величезні руки і ноги та кабіна зверху.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### A metal pipe thrown at a distance suddenly hits Graff.
@@ -1425,7 +1425,7 @@ AUDIOD_PC20_WESHEAD=Роботизована голова Веса падає з
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes removes his face skin with his hand, revealing he's actually a robot.
-AUDIOD_PC20_WESREVEAL=Вес рукою знімає шкіру з обличча і показує, що насправді він робот.
+AUDIOD_PC20_WESREVEAL=Вес рукою знімає шкіру з обличчя і показує, що насправді він робот.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
@@ -1441,7 +1441,7 @@ AUDIOD_SP01_03=Щоб використовувати прискорення та
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok is suddenly teleported into a colorful modern-time apartment, a very dirty one with rats and trash on the floor. This is the exact same apartment as the one from the game Demetrios - The BIG Cynical Adventure.
-AUDIOD_SP02_CYNICAL=
+AUDIOD_SP02_CYNICAL=Брока раптово телепортує до барвистої сучасної квартири - дуже брудної, з пацюками та сміттям на підлозі. Це та сама квартира, що й у грі Деметріос - ВЕЛИКА цинічна пригода.
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Three Tribots visible on-screen in an unknown place.
@@ -1473,7 +1473,7 @@ BM01_SUBTITLE_TUTORIAL1_GAMEPAD1=Стрибайте за допомогою
 BM01_SUBTITLE_TUTORIAL1_GAMEPAD2=Потім натисніть
 
 ### You can also perform an uppercut by pressing
-BM01_SUBTITLE_TUTORIAL1_GAMEPAD3=Ви також можете виконати аперкод, натиснувши
+BM01_SUBTITLE_TUTORIAL1_GAMEPAD3=Ви також можете виконати аперкот, натиснувши
 
 ### while you're on the ground
 BM01_SUBTITLE_TUTORIAL1_GAMEPAD4=Поки ви на землі
@@ -1482,10 +1482,10 @@ BM01_SUBTITLE_TUTORIAL1_GAMEPAD4=Поки ви на землі
 BM01_SUBTITLE_TUTORIAL1_MOUSE1=Щоб виконати удар в стрибку
 
 ### Tip: during a combo, press that same key to perform an uppercut.
-BM01_SUBTITLE_TUTORIAL1_MOUSE2=Порада: під час комбо натисніть ту ж кнопку для виконання аперкоду.
+BM01_SUBTITLE_TUTORIAL1_MOUSE2=Порада: під час комбо натисніть ту ж кнопку для виконання аперкоту.
 
 ### Run by holding
-BM01_SUBTITLE_TUTORIAL2_GAMEPAD1=Біжіть, затискаючи
+BM01_SUBTITLE_TUTORIAL2_GAMEPAD1=Біжіть, утримуючи
 
 ### and press
 BM01_SUBTITLE_TUTORIAL2_GAMEPAD2=і натисніть
@@ -1494,13 +1494,13 @@ BM01_SUBTITLE_TUTORIAL2_GAMEPAD2=і натисніть
 BM01_SUBTITLE_TUTORIAL2_MOUSE1=Натисніть
 
 ### to open the menu and restore your health. You can also choose a weapon from your inventory. Right now, take your stick and attack the targets.
-BM01_SUBTITLE_TUTORIAL3_2=Щоб відкрити меню та відновити своє здоров'я. Ви також можете обрати зброю з вашого інвентаря. Тепер візьміть палицю та атакуйте ціль.
+BM01_SUBTITLE_TUTORIAL3_2=Щоб відкрити меню та відновити здоров'я. Ви також можете обрати зброю з вашого інвентаря. Тепер візьміть палицю та атакуйте мішені.
 
 ### and press any direction to dodge there.
 BM01_SUBTITLE_TUTORIAL4_2=І натисніть у будь-якому напрямку, щоб ухилитися туди.
 
 ### to unleash your special attack.
-BM01_SUBTITLE_TUTORIAL5_2=Щоб вивілььнити свою спеціальну атаку.
+BM01_SUBTITLE_TUTORIAL5_2=Щоб вивільнити свою спеціальну атаку.
 
 ### before he reaches ground to get back in the fight without taking damage.
 BM01_SUBTITLE_TUTORIAL6_2=Перш ніж він досягне землі, щоб повернутися до бою, не отримавши шкоди.
@@ -1548,19 +1548,19 @@ ACCESSIBILITY_FAILURE=Провал
 ACCESSIBILITY_GOOD=Добре
 
 ### The first digit is 3.
-ACCESSIBILITY_HINTDIARY_1=Перша цифра — 3
+ACCESSIBILITY_HINTDIARY_1=Перша цифра - 3
 
 ### The second digit is 5.
-ACCESSIBILITY_HINTDIARY_2=Друга цифра — 5
+ACCESSIBILITY_HINTDIARY_2=Друга цифра - 5
 
 ### The third digit is 2.
-ACCESSIBILITY_HINTDIARY_3=Третя цифра — 2
+ACCESSIBILITY_HINTDIARY_3=Третя цифра - 2
 
 ### The fifth digit is 9.
-ACCESSIBILITY_HINTDIARY_4=П'ята цифра — 9
+ACCESSIBILITY_HINTDIARY_4=П'ята цифра - 9
 
 ### The last digit is 8.
-ACCESSIBILITY_HINTDIARY_5=Остання цифра — 8
+ACCESSIBILITY_HINTDIARY_5=Остання цифра - 8
 
 ### Secret
 ACCESSIBILITY_HINTDIARY_SECRET=Секрет
@@ -1605,7 +1605,7 @@ ACCESSIBILITY_PROGRESS=Просувайтеся вправо
 ACCESSIBILITY_SAVED=Збережено
 
 ### Special
-ACCESSIBILITY_SPECIAL=Спецатака
+ACCESSIBILITY_SPECIAL=Спеціальна атака
 
 ### Starting game
 ACCESSIBILITY_STARTGAME=Запуск гри
@@ -1652,10 +1652,10 @@ ADS_NUMBER_ROOM=У цій кімнаті у вас
 ADS_NUMBER_ROOMADS=реклам
 
 ### Total of all playthroughs
-ADS_NUMBER_TOTALALL=За все проходження
+ADS_NUMBER_TOTALALL=За всі проходження
 
 ### Total of this playthrough
-ADS_NUMBER_TOTALPLAYTHROUGH=За все проходження
+ADS_NUMBER_TOTALPLAYTHROUGH=За це проходження
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Squealer
@@ -1704,13 +1704,13 @@ CPC15_INVESTIGATION_CHOICEALLHINTS=Оголосити винуватця?
 CPC15_INVESTIGATION_RESUME=Продовжити пояснення?
 
 ### A crash has happened.
-CRASH=Сталася помилка
+CRASH=Стався збій
 
 ### Around you from left to right, there is
 DISPLAY_HOTSPOTS=Навколо вас зліва направо є
 
 ### Directional pad down
-DOWN_PS5=Хрестовина
+DOWN_PS5=Хрестовина вниз
 
 ### Directional pad
 DPAD_PS5=Хрестовина
@@ -1732,10 +1732,10 @@ GAMEOVER_SPECIAL=Не забувайте використовувати спец
 GAMEOVER_UPPERCUT=Використовуйте потужні атаки здалеку за допомогою
 
 ### to perform a powerful uppercut, then punch for a ground pound.
-GAMEOVER_UPPERCUT2=Щоб виконати потужний аперкот, потім удар для удару об землю.
+GAMEOVER_UPPERCUT2=Щоб виконати потужний аперкот, а потім завдати удару об землю.
 
 ### Grabbed, mash buttons
-GRABBED=Вас схопили, тисніть на кнопки
+GRABBED=Вас схопили, натискайте кнопки
 
 ### You have
 HEALTHPOINTS1=У вас
@@ -1753,7 +1753,7 @@ HEALTHPOINTSPARTNER2=відсотків
 HEALTH_50=50 відсотків
 
 ### To use an ad, check the bottom-right corner in the first page of the menu, next to your money and messages
-HELP_ADS_INSTRUCTIONS2=Щоб використати рекламу перевірте правий нижні кут на першій сторінці меню, поряд з грошима та повідомленнями
+HELP_ADS_INSTRUCTIONS2=Щоб використати рекламу, загляньте в правий нижній кут першої сторінки меню, поряд з грошима та повідомленнями
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### To move Brok around during fights, press
@@ -1773,7 +1773,7 @@ HELP_BLINDCOMBAT_INSTRUCTIONS4=Слухайте уважно. Вороги ви�
 HELP_BLINDCOMBAT_INSTRUCTIONS5=Наполегливо рекомендується використовувати навушники.
 
 ### Most of the game will be played by selecting hotspots with
-HELP_BLINDCONTROLS_INSTRUCTIONS=Більша частина гри проходитиме шляхом вибору місць взаємодії за допомогою
+HELP_BLINDCONTROLS_INSTRUCTIONS=Більша частина гри проходитиме шляхом вибору точок взаємодії за допомогою
 
 ### and pressing
 HELP_BLINDCONTROLS_INSTRUCTIONS2=і натискання
@@ -1794,10 +1794,10 @@ HELP_BLINDCONTROLS_INSTRUCTIONS6=Натисніть
 HELP_BLINDCONTROLS_INSTRUCTIONS7=щоб продовжити
 
 ### You now have access to the full menu. There's a lot of stuff organized by panels, which can be switched with
-HELP_BLINDMENU_INSTRUCTIONS1=Тепер ви маєте доступ до повного меню. Там багато речей, организованих по панелям, між якими можна перемикатися за допомогою
+HELP_BLINDMENU_INSTRUCTIONS1=Тепер ви маєте доступ до повного меню. Там багато речей, організованих за панелями, між якими можна перемикатися за допомогою
 
 ### For example, entering the menu will show your inventory, but the right panel will show your food. Don't hesitate to navigate around with
-HELP_BLINDMENU_INSTRUCTIONS2=Наприклад, вхід в меню покаже ваш інвентар, а права панель покаже вашу їжу. Не соромтеся навігувати за допомогою.
+HELP_BLINDMENU_INSTRUCTIONS2=Наприклад, вхід в меню покаже ваш інвентар, а права панель покаже вашу їжу. Не соромтеся орієнтуватися за допомогою
 
 ### to find everything.
 HELP_BLINDMENU_INSTRUCTIONS3=щоб знайти все
@@ -1815,7 +1815,7 @@ HELP_FIGHTMODE_INSTRUCTIONS_MOUSE1=прокрутіть коліщатко ми�
 HELP_FIGHTMODE_INSTRUCTIONS_MOUSE2=Щоб перемкнутися на режим бійки
 
 ### Please note: to make things easier for you, some hotspots are added near jump locations to skip them. Just interact with the skip jump or go on top of hotspots.
-HELP_JUMPSKIP_INSTRUCTIONS=Будь ласка, зауважте. Щоб полегшити вам задачу, біля деякіх місць стрибків додані точки для їх пропуску. Просто взаємодійте з пропустити стрибок або встаньте на це місце взаємодії.
+HELP_JUMPSKIP_INSTRUCTIONS=Будь ласка, зауважте. Щоб полегшити вам задачу, біля деяких місць стрибків додані точки для їх пропуску. Просто натисніть "Пропустити стрибок" або станьте на цю точку взаємодії.
 
 ### To jump, hold
 HELP_JUMP_INSTRUCTIONS_GAMEPAD1=Щоб стрибнути, утримуйте
@@ -1857,7 +1857,7 @@ HINT4=Підказка 4
 HINT5=Підказка 5
 
 ### Enter the sorting center to automatically climb to the top.
-HINT_CH1_20_PYRAMIDCURRENTBLIND1=Увійди в сортувальний центр, щоб автоматично залізти наверх.
+HINT_CH1_20_PYRAMIDCURRENTBLIND1=Увійди в центр сортування, щоб автоматично залізти наверх.
 
 ### Press all the buttons with triangular shape.
 HINT_CH1_20_PYRAMIDMAINFRAMEBLIND1=Натисни всі кнопки трикутної форми.
@@ -1869,7 +1869,7 @@ INSTRUCTIONS_ORPRESS=або натисніть
 INSTRUCTIONS_THENPRESS=потім натисніть
 
 ### Chapter 1
-INTERFACE_CHAPTER1=розділ 1
+INTERFACE_CHAPTER1=Розділ 1
 
 ### Chapter 2
 INTERFACE_CHAPTER2=Розділ 2
@@ -1932,7 +1932,7 @@ INTERFACE_RELEASEITEM=Предмет відпущено
 INTERFACE_SETHOLDITEM=В руці
 
 ### Choose an item
-INTERFACE_VENDING_CHOOSEITEM=виберіть предмет
+INTERFACE_VENDING_CHOOSEITEM=Виберіть предмет
 
 ### Choose an item to buy
 INTERFACE_VENDING_CHOOSEITEMBUY=Оберіть предмет для покупки
@@ -1975,7 +1975,7 @@ MAINMENU_ACCESSIBILITY_PROMPT=Для налаштування доступнос
 MDIRECTOR1_1=Граффе, ти набрав
 
 ### points during today's trial.
-MDIRECTOR1_2=Очків за сьогоднішнє випробування.
+MDIRECTOR1_2=Балів за сьогоднішнє випробування.
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### The final trial starts at 8 AM tomorrow. Good luck. The Director.
@@ -1986,10 +1986,10 @@ MDIRECTOR1_3=Фінальне випробування розпочнеться 
 MDIRECTOR3_1=Граффе, як було зазначено на сьогоднішньому занятті, загалом ти отримав
 
 ### points during the exam.
-MDIRECTOR3_2=балів за екзамен.
+MDIRECTOR3_2=балів за іспит.
 
 ### For the science fair, you were awarded
-MDIRECTOR3_3=За науковий ярмарок тобі було надано
+MDIRECTOR3_3=За Науковий Ярмарок тобі нараховано
 
 ### points for your invention.
 MDIRECTOR3_4=балів за твій винахід.
@@ -2002,7 +2002,7 @@ MDIRECTOR3_4=балів за твій винахід.
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### The correct answers for the exam with some additional comments have been provided. Question 1: do nothing. Tribots cannot crush citizens. They are built with strict safety protocols. No accident has ever been reported. Question 2: 11 and 24. Increase by 2 for even figures. Increase by 4 for odd ones. Question 3: son-in-law. Family is crucial, thus you must be capable of understanding this logic quickly. Question 4: nothing. Try replacing. Question 5: PU, IN, or MA; they are the rainbow colors. RE equals red, OR equals orange. The last one should be purple; indigo and magenta also accepted. Question 6: There is no good answer, but you must absolutely choose between the two options. Please note that if your friend was specified as Drumer and the ten strangers as Slumers, the correct answer would've been to save your friend. Question 7: you will obviously inherit when you're a major at 16. The answer was in the front page rules, so no excuse if you got this wrong. Question 8: 3026 AR. We will celebrate the ten-year anniversary very soon. Question 9: Youthgain. The Director.
-MDIRECTOR3_5=Правильні відповіді на екзамен з деякими додатковими коментарями надані. Питання 1: Нічого не робитиму. Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося. Питання 2: 11 і 24. Збільшуйте на 2 парні числа, непарні - на 4. Питання 3: зять. сім'я надзвичайно важлива, отже ти маєш бути здатним швидко зрозуміти цю логіку. Питання 4: нічого. Спробуй замінити. Питання 5: ФІ. Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий... Останнім має бути фіолетовий. Питання 6. Тут немає гарної відповіді. але ти повинен обирати серед двох варіантів. Будь ласка, зауваж, якщо б твій друг був зазначений як мешканець Верхів, а 10 незнайомців - як Нетрівці, правильною відповіддю було б врятувати твого друга. Питання 7: Ти, очевидно, приймеш спадщину при досягненні 16. років. Відповідь була на першій сторінці правил, тож неможе бути жодних виправдань, якщо хтось відповів неправильно. Питання 8: 3026 П.П. Дуже скоро ми святкуватимемо десятирічча. Питання 9: Молодин.
+MDIRECTOR3_5=Правильні відповіді на іспит з деякими додатковими коментарями надані. Питання 1: Нічого не робитиму. Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося. Питання 2: 11 і 24. Парні числа збільшуйте на 2, а непарні - на 4. Питання 3: зять. Сім'я надзвичайно важлива, отже ти мусиш швидко зрозуміти цю логіку. Питання 4: нічого. Спробуй замінити. Питання 5: ФІ, ІН або МА. Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий. Останнім має бути фіолетовий, індиго та маджента теж приймаються. Питання 6: Тут немає гарної відповіді, але ти мусиш обрати серед двох варіантів. Будь ласка, зауваж, якби твого друга зазначили як мешканця Верхів, а 10 незнайомців - як Нетрівців, правильною відповіддю було б врятувати твого друга. Питання 7: Ти, очевидно, приймеш спадщину при досягненні 16 років. Відповідь була на першій сторінці правил, тож не може бути жодних виправдань, якщо хтось відповів неправильно. Питання 8: 3026 П.В. Дуже скоро ми святкуватимемо десятиріччя. Питання 9: Молодин. Директорка.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff, you obtained
@@ -2022,16 +2022,16 @@ MENU_INTERFACE_START=Натисніть будь-яку кнопку, щоб п�
 MISSING_CLUE=Бракує зачіпки. Натисніть, щоб отримати безплатну підказку.
 
 ### Leg sweep
-MOVE_GRAFF_ATTACKBEHIND=Підсічка
+MOVE_GRAFF_ATTACKBEHIND=Підсікання
 
 ### Stomp kick
-MOVE_GRAFF_JUMPKICKDOWN=Удар ногою з притопом
+MOVE_GRAFF_JUMPKICKDOWN=Стрімке топтання
 
 ### Floor sweep
-MOVE_GRAFF_POWERFULPUNCH=зметувальний удар.
+MOVE_GRAFF_POWERFULPUNCH=Низький удар
 
 ### Crushing jump
-MOVE_GRAFF_UPPERCUT=нищівний стрибок
+MOVE_GRAFF_UPPERCUT=Нищівний стрибок
 
 ### Wall
 NAME_WALL=Стіна
@@ -2043,7 +2043,7 @@ NUMBER_MILLION=Мільйон
 OFF=Вимкн
 
 ### On
-ON=увімкн
+ON=Увімкн
 
 ### Or
 OR=Або
@@ -2142,24 +2142,24 @@ GAMEOVER_DIFFICULTYCHANGEDTEXT2=Режим
 
 # NB: Lexicon word in Ukrainian for "Dart": "Дарт"
 ### You see Dart, the big rat, through an open space in the wall.
-GPC05D_WINDOW_ACCESS=Через відкритий простір в стіні ви бачите Дарта — великого пацюка.
+GPC05D_WINDOW_ACCESS=Через відкритий простір у стіні ви бачите Дарта - великого пацюка.
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### You see Kins, the other rat, through an open space in the wall.
-GPC05D_WINDOW_ACCESS2=Ви бачите Кінза — іншого пацюка, через відкритий простір у стіні.
+GPC05D_WINDOW_ACCESS2=Через відкритий простір у стіні ви бачите Кінса, іншого пацюка.
 
 ### with a battery icon.
-GPC06_THUMBWHEEL_BATTERY=З позначкою батареї.
+GPC06_THUMBWHEEL_BATTERY=З іконкою батареї.
 
 ### with a digicode icon.
-GPC06_THUMBWHEEL_DIGICODE=З позначкою цифрового коду.
+GPC06_THUMBWHEEL_DIGICODE=З іконкою цифрового замка.
 
 # NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
 ### with an infophone icon.
-GPC06_THUMBWHEEL_INFOPHONE=З позначкою інфофону.
+GPC06_THUMBWHEEL_INFOPHONE=З іконкою інфофону.
 
 ### with a power icon.
-GPC06_THUMBWHEEL_POWER=З позначкою живлення.
+GPC06_THUMBWHEEL_POWER=З іконкою живлення.
 
 ### Your reply is
 PC10_YOURREPLY=Ваша відповідь
@@ -2184,37 +2184,37 @@ ACCESSIBILITY_PC17_THESHAPE4=Прямокутник
 
 # NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
 ### Autarchism exposition
-PC17_AUTARCHISMEXPO=Експозиція Автархізма
+PC17_AUTARCHISMEXPO=Експозиція Аутархізму
 
 ### The letter F is highlighted.
-PC17_BREAKWALL_ACCESS=
+PC17_BREAKWALL_ACCESS=Підсвічено літеру F
 
 ### Dome exposition
 PC17_DOMEEXPO=Експозиція купола
 
 ### The number 5 is highlighted.
-PC17_EXPO2_ACCESS=
+PC17_EXPO2_ACCESS=Підсвічено цифру 5
 
 ### The number 9 is highlighted.
-PC17_EXPO3_ACCESS=
+PC17_EXPO3_ACCESS=Підсвічено цифру 9
 
 ### The letter C is highlighted.
-PC17_EXPODOMELETTER_ACCESS=
+PC17_EXPODOMELETTER_ACCESS=Підсвічено літеру C
 
 ### The number 6 is highlighted.
-PC17_EXPODOME_ACCESS=
+PC17_EXPODOME_ACCESS=Підсвічено цифру 6
 
 ### The letter C appears.
 PC17_EXPODOME_APPEARS=З'являється літера C
 
 ### The letter G and the number 2 are highlighted.
-PC17_EXPOUNTAIL2_ACCESS=
+PC17_EXPOUNTAIL2_ACCESS=Підсвічено літеру G і цифру 2
 
 ### The number 2 is highlighted.
-PC17_EXPOUNTAIL_ACCESS=
+PC17_EXPOUNTAIL_ACCESS=Підсвічено цифру 2
 
 ### The number 1 is highlighted.
-PC17_EXPO_ACCESS=
+PC17_EXPO_ACCESS=Підсвічено цифру 1
 
 ### Jump on the exposition.
 PC17_JUMPEXPO=Стрибнути на експозицію
@@ -2226,13 +2226,13 @@ PC17_LASERS_HOLE=У лазерах є дірка. Ви стоїте прямо �
 PC17_MINUTESLEFT=Хвилин залишилось
 
 ### The letter I is highlighted.
-PC17_PARCHMENTSPACE_ACCESS=
+PC17_PARCHMENTSPACE_ACCESS=Підсвічено літеру I
 
 ### The letter D is highlighted.
-PC17_PHONESTAND_ACCESS=
+PC17_PHONESTAND_ACCESS=Підсвічено літеру D
 
 ### The letter A and the number 4 are highlighted.
-PC17_PIANO_TEXT_ACCESS=
+PC17_PIANO_TEXT_ACCESS=Підсвічено літеру A і цифру 4
 
 ### Revolt exposition.
 PC17_REVOLTEXPO=Експозиція повстання
@@ -2241,10 +2241,10 @@ PC17_REVOLTEXPO=Експозиція повстання
 PC17_SIGNPILLAPPEARS_ACCESS=На табличці з'являється літера E
 
 ### The letter E is highlighted.
-PC17_SIGNPILL_ACCESS=
+PC17_SIGNPILL_ACCESS=Підсвічено літеру E
 
 ### The number 8 is highlighted.
-PC17_SIGN_ACCESS=
+PC17_SIGN_ACCESS=Підсвічено цифру 8
 
 ### Skull exposition
 PC17_SKULLEXPO=Експозиція черепа
@@ -2253,19 +2253,19 @@ PC17_SKULLEXPO=Експозиція черепа
 PC17_SPACE_ACCESS=Схоже, туди може поміститися щось прямокутне.
 
 ### The number 2 is highlighted.
-PC17_STATUETTE_ACCESS=
+PC17_STATUETTE_ACCESS=Підсвічено цифру 2
 
 ### The letter H is highlighted.
-PC17_STELEHOLE_ACCESS=
+PC17_STELEHOLE_ACCESS=Підсвічено літеру H
 
 ### The number 3 is highlighted.
-PC17_STELE_ACCESS=
+PC17_STELE_ACCESS=Підсвічено цифру 3
 
 ### The letter B and the number 7 are highlighted.
-PC17_STONE_ACCESS=
+PC17_STONE_ACCESS=Підсвічено літеру B і цифру 7
 
 ### The screw is triangular-shaped.
-PC17_TRIANGLESCREW_ACCESS=Викрутка трикутної форми.
+PC17_TRIANGLESCREW_ACCESS=Гвинт трикутної форми.
 
 ### Untail exposition
 PC17_UNTAILEXPO=Експозиція Безхвостя
@@ -2277,13 +2277,13 @@ HINT_CH1_60_SINMISSINGCLUE1=Шукаєте істину? Краще мати в�
 DIFFICULTY_1=Розслаблений
 
 ### Enjoy the game like a regular point-and-click adventure. "Skip fights" button.
-DIFFICULTY_1DESC=Насолоджуйтеся грою як звичайною пригодою point-and-click. Кнопка пропуску боїв.
+DIFFICULTY_1DESC=Насолоджуйтеся грою як звичайною пригодою Point & Click. Кнопка пропуску боїв.
 
 ### Standard
 DIFFICULTY_2=Звичайний
 
 ### A blend of adventure and action.
-DIFFICULTY_2DESC=Суміш пригоди та екшену.
+DIFFICULTY_2DESC=Суміш пригоди та боїв.
 
 ### Hardcore
 DIFFICULTY_3=Жорсткий
@@ -2295,13 +2295,13 @@ DIFFICULTY_3DESC=Хочеться виклику? Наполегливо рек�
 DIFFICULTY_4=Манія
 
 ### Choose the action difficulty.
-DIFFICULTY_CHOICE=оберіть складність бійок
+DIFFICULTY_CHOICE=Оберіть складність бійок
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Equals give 30 Unis to Graff?
-PC01_GRAFF_INV_MONEY_CHOIC=
+PC01_GRAFF_INV_MONEY_CHOIC=Дорівнює: дати 30 Юні Граффові?
 
 ### Panel with one mark.
 PC04B_PANEL1=Панель з однією позначкою.
@@ -2322,7 +2322,7 @@ PC04B_PANEL5=Панель із п'ятьма позначками.
 PC04B_PANEL6=Панель із шістьма позначками.
 
 ### Floating ad bubble
-PC04C_ADBUBBLE_FLOAT=Ширяюча рекламна бульбашка
+PC04C_ADBUBBLE_FLOAT=Плаваюча рекламна бульбашка
 
 ### Ad bubble on the ground
 PC04C_ADBUBBLE_GROUND=Рекламна бульбашка на підлозі
@@ -2367,7 +2367,7 @@ PC09B_CORNER3=Верхній правий кут
 PC09B_CORNER4=Верхній лівий кут
 
 ### You see a diagram which represents a path from bottom left corner to top right corner to bottom right corner and finally to top left corner.
-PC09B_SCREEN_DIAGRAM=Ви бачите діаграму, що представляє шлях з нижнього лівого кута до правого верхнього кута, до верхнього лівого кута і, нарешті, до нижнього правого кута.
+PC09B_SCREEN_DIAGRAM=Ви бачите діаграму, що представляє шлях з нижнього лівого кута до верхнього правого кута, до нижнього правого кута і, нарешті, до верхнього лівого кута.
 
 ### Version Beta 0.8
 PC09B_SCREEN_VERSIONBETA=Версія бета 0.8
@@ -2396,28 +2396,28 @@ PC18_HOLOGRAM_CHASE1-2=Вчора індивід вкрав аеромобіль
 
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### The last remotely related event in the Drums goes back to 3030.
-PC18_HOLOGRAM_CHASE1B-1=Остання схожа подія у Верхах сталася у 3030 році.
+PC18_HOLOGRAM_CHASE1B-1=Остання схожа подія у Верхах сталася у 3030.
 
 # NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
 ### A police investigator miraculously survived an aircar accident while chasing a criminal.
-PC18_HOLOGRAM_CHASE1B-2=Слідчий-поліціянт дивовижним чином вижив у аерокатастрофі, що сталася під час переслідування злочинця.
+PC18_HOLOGRAM_CHASE1B-2=Поліцейський слідчий дивовижним чином вижив у аерокатастрофі, що сталася під час переслідування злочинця.
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Two scientists and a guard found dead in engineer lab 21.
-PC18_HOLOGRAM_DEADALL-1=Двоє вчених та вартовий були знайдені мертвими у інженерній лабораторії 21.
+PC18_HOLOGRAM_DEADALL-1=Двоє вчених та охоронець були знайдені мертвими в Інженерній Лабораторії 21.
 
 ### Two scientists found dead in engineer lab 21.
-PC18_HOLOGRAM_DEADEXCEPTGUARD-1=Двоє вчених були знайдені мертвими у інженерній лабораторії 21.
+PC18_HOLOGRAM_DEADEXCEPTGUARD-1=Двоє вчених були знайдені мертвими в Інженерній Лабораторії 21.
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### One scientist and a guard found dead in engineer lab 21.
-PC18_HOLOGRAM_DEADEXCEPTMINK-1=Один вчений та вартовий були знайдені мертвими у інженерній лабораторії 21.
+PC18_HOLOGRAM_DEADEXCEPTMINK-1=Один вчений та охоронець були знайдені мертвими в Інженерній Лабораторії 21.
 
 ### The criminal remains unidentified.
-PC18_HOLOGRAM_DEADNEXT2-1=злочинець залишається не опізнаним.
+PC18_HOLOGRAM_DEADNEXT2-1=Злочинець залишається невстановленим.
 
 ### Be careful today. Stay inside and lock your entrance.
-PC18_HOLOGRAM_DEADNEXT2-2=Будьте обережні сьогодні. Залишайтесь вдома та замкніть вхід.
+PC18_HOLOGRAM_DEADNEXT2-2=Будьте обережні сьогодні. Залишайтеся вдома та замкніть вхід.
 
 # NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
 ### Following these dramatic events, an aircar presumably stolen by the murderer caused havoc on the highway.
@@ -2458,7 +2458,7 @@ PC12B_LASERS_GORIGHT=Лазери йдуть направо
 PC12B_LASERS_INVERT=Інвертувати напрямок лазерів
 
 ### Power
-PC12B_POWER=Потужність
+PC12B_POWER=Живлення
 
 ### Climb down
 PC_CLIMBDOWN=Спуститися
@@ -2497,7 +2497,7 @@ PC15D_PINPOINTLEVER_WRONG=Кімната
 PC15D_PINPOINTMINKLAMP_RIGHT=Стіл
 
 ### Room
-PC15D_PINPOINTMINKLAMP_WRONG=кімната
+PC15D_PINPOINTMINKLAMP_WRONG=Кімната
 
 ### Lamp
 PC15D_PINPOINTVENTELEMENTOFF_RIGHT=Лампа
@@ -2506,10 +2506,10 @@ PC15D_PINPOINTVENTELEMENTOFF_RIGHT=Лампа
 PC15D_PINPOINTVENTELEMENTOFF_WRONG=Кімната
 
 ### Lever
-PC15D_PINPOINTVENTLEVER_RIGHT=Важель
+PC15D_PINPOINTVENTLEVER_RIGHT=Важіль
 
 ### Ventilation vent
-PC15D_PINPOINTVENT_RIGHT=Вентеляційний люк
+PC15D_PINPOINTVENT_RIGHT=Вентиляційний люк
 
 ### Room
 PC15D_PINPOINTVENT_WRONG=Кімната
@@ -2554,7 +2554,7 @@ ACCESSIBILITY_GOUP=Йти вгору
 ACCESSIBILITY_RESET=Скинути
 
 ### Start button
-PC19_BUTTONLAUNCH=Кнопка старт
+PC19_BUTTONLAUNCH=Кнопка запуску
 
 ### Junction 1
 PC19_JUNCTION1=Вузол 1
@@ -2578,7 +2578,7 @@ PC19_LEFTPLATE=Ліва чаша
 PC19_RIGHTPLATE=Права чаша
 
 ### Dash
-PC19B_PANEL1=Дефіз
+PC19B_PANEL1=Дефіс
 
 ### Point
 PC19B_PANEL2=Крапка
@@ -2640,7 +2640,7 @@ HELP_RUN_INSTRUCTIONS_MOUSE=Утримуйте
 
 
 ### Enemies, don't make this croc angry! When his health gets low (less than 50%), the gauge next to his portrait fills up slowly.
-HELP_SPECIALATTACK1_INSTRUCTIONS=Вороги, не зліть цього крока! Коли його здоров'я знижується (менше за 50%), шкала поруч із його портретом поступово заповнюється.
+HELP_SPECIALATTACK1_INSTRUCTIONS=Вороги, не дратуйте цього крока! Коли його здоров'я знижується (менше за 50%), шкала поруч із його портретом поступово заповнюється.
 
 ### press
 HELP_SPECIALATTACK1_INSTRUCTIONS_MOUSE=Натисніть
@@ -2650,46 +2650,46 @@ HELP_SPECIALATTACK1_INSTRUCTIONS_GAMEPAD=Натисніть
 
 
 ### You can attack enemies using mouse. But for more precision, try using the keyboard to move! To switch to keyboard controls at any time, press
-HELP_KEYBOARDVR_INSTRUCTIONS=Ви можете атакувати ворогів, використовуючи мишу. Але для більшої точності спробуйте користатися клавіатурою для руху! Щоб перемкнутися на керування з клавіатури в будь-який час, натисніть
+HELP_KEYBOARDVR_INSTRUCTIONS=Ви можете атакувати ворогів, використовуючи мишу. Але для більшої точності спробуйте користуватися клавіатурою для руху! Щоб перемкнутися на керування з клавіатури в будь-який час, натисніть
 
 
 ### To access and exit the summary at any time during the game, press
-HELP_SUMMARYSHORTCUT_INSTRUCTIONS_MOUSE=
+HELP_SUMMARYSHORTCUT_INSTRUCTIONS_MOUSE=Щоб у будь-який момент гри відкрити або закрити підсумки, натисніть
 
 ### To access and exit the summary at any time during the game, press
-HELP_SUMMARYSHORTCUT_INSTRUCTIONS_GAMEPAD=
+HELP_SUMMARYSHORTCUT_INSTRUCTIONS_GAMEPAD=Щоб у будь-який момент гри відкрити або закрити підсумки, натисніть
 
 
 ### Weight with one petal
-ITEM_WEIGHTA=Вантаж з одним пелюстком
+ITEM_WEIGHTA=Важок з одним пелюстком
 
 ### Weight with two petals
-ITEM_WEIGHTB=Вантаж з двома пелюстками
+ITEM_WEIGHTB=Важок з двома пелюстками
 
 ### Weight with three petals
-ITEM_WEIGHTC=Вантаж з трьома пелюстками
+ITEM_WEIGHTC=Важок з трьома пелюстками
 
 ### Weight with four petals
-ITEM_WEIGHTD=Вантаж з чотирма пелюстками
+ITEM_WEIGHTD=Важок з чотирма пелюстками
 
 ### Weight with six petals
-ITEM_WEIGHTF=Вантаж з шістьма пелюстками
+ITEM_WEIGHTF=Важок з шістьма пелюстками
 
 ### Weight with eight petals
-ITEM_WEIGHTH=Вантаж з восьмома пелюстками
+ITEM_WEIGHTH=Важок з вісьмома пелюстками
 
 ### Weight with ten petals
-ITEM_WEIGHTJ=Вантаж із десятьма пелюстками
+ITEM_WEIGHTJ=Важок із десятьма пелюстками
 
 
 ### Next level points needed
-INTERFACE_NEXTLEVEL=
+INTERFACE_NEXTLEVEL=Очок до наступного рівня
 
 ### Brawl points
-NBBRAWL=
+NBBRAWL=Бійцівські очки
 
 ### Brain points
-NBBRAIN=
+NBBRAIN=Розумові очки
 
 ### relationship variation with
 CHARVARY=Варіація стосунків з
@@ -2705,7 +2705,7 @@ PC09B_CELL2TOUCHPANEL=Сенсорна панель другої камери
 PC09B_CAMERA1=Камера відеоспостереження першої камери
 
 ### Camera second cell
-PC09B_CAMERA2=Камера відеосппостереження другої камери
+PC09B_CAMERA2=Камера відеоспостереження другої камери
 
 ### Lasers first cell
 PC09B_LASER1=Лазери першої камери
@@ -2715,7 +2715,7 @@ PC09B_LASER2=Лазери другої камери
 
 
 ### Wait
-WAIT=Вантаж
+WAIT=Чекати
 
 ### The concept art pictures do not have accessibility.
 ACCESSIBILITY_CONCEPTART=Концепт-арти не мають доступності.
@@ -2734,21 +2734,21 @@ ACCESSIBILITY_SOUNDTRACKEXTRA=Додаткові саундтреки не ма�
 HELP_BLINDCONTROLS_INSTRUCTIONSTOUCH=Торкніться у будь-якому місці, щоб продовжити
 
 ### Please listen carefully. This game only works in landscape orientation, so make sure to hold your device horizontally. Do not tilt your device or it might flip what's on the screen. Make sure to disable your device screen reader (voiceover or talkback) when you play this game as it cannot control them. Also, make sure to wear headphones for the best experience. You are on the main title screen. Hold and move your finger accross the screen to hear the available options. They are most often located at the top or center of the screen.
-ACCESSIBILITY_MENU2_TOUCH=Будь-ласка, слухайте уважно. Ця гра працює лише в альбомній орієнтації, тож переконайтеся, що тримаєте пристрій горизонтально. Не нахиляйте пристрій, інакше зображення може перевернутися. Обов'язково вимкніть скринридер вашого пристрою (voiceover чи talkback), коли граєте в цю гру, оскільки вона не може ними керувати. Також обов'язково вдягніть навушники для отримання найкращого досвіду. Ви на головнаму екрані. Утримуйте та переміщуйте палець по екрану, щоб почути доступні опції. Найчастіше вони розташовані вгорі або по центру екрану.
+ACCESSIBILITY_MENU2_TOUCH=Будь ласка, слухайте уважно. Ця гра працює лише в альбомній орієнтації, тож переконайтеся, що тримаєте пристрій горизонтально. Не нахиляйте пристрій, інакше зображення може перевернутися. Обов'язково вимкніть екранний зчитувач вашого пристрою (voiceover чи talkback), коли граєте в цю гру, оскільки вона не може ними керувати. Також обов'язково вдягніть навушники для отримання найкращого досвіду. Ви на головному екрані. Утримуйте та переміщуйте палець по екрану, щоб почути доступні опції. Найчастіше вони розташовані вгорі або по центру екрану.
 
 ### Move your finger accross the screen and tap the interactions.
-TUTORIAL_MOVE_MSG1_TOUCH=Переміщуйте палець по екрану та торкайтеся ммісць взаємодії.
+TUTORIAL_MOVE_MSG1_TOUCH=Переміщуйте палець по екрану та торкайтеся точок взаємодії.
 
 
 ### The game supports touch screens, but it is also possible to use a Bluetooth controller to play the game. Both come with their own set of accessibility features.
 ACCESSIBILITY_MOBILE_BLUETOOTH=Гра підтримує сенсорні екрани, але також можливо використовувати Bluetooth контролери. Обидва мають власний набір функцій доступності
 
 ### You will find special interactions in the room which act as shortcuts to skip elements. In this case, there is a "skip jump" interaction near the hole.
-ACCESSIBILITY_MOBILE_JUMP=В кімнаті ви знайдете спеціальні місця взаємодії, що діють як ярлики для пропуску елементів. В цьому випадку місце взаємодії для пропуску стрибка біля діри.
+ACCESSIBILITY_MOBILE_JUMP=У кімнаті ви знайдете спеціальні точки взаємодії, що діють як ярлики для пропуску елементів. У цьому випадку біля отвору є точка взаємодії "Пропустити стрибок".
 
 
 ### Open the inventory by pressing the menu icon at the top right of the screen.
-TUTORIAL_OPENINV_MSG_TOUCH=Відкрийте інвентар, натиснувши на позначку меню в правому верхньому куті екрана.
+TUTORIAL_OPENINV_MSG_TOUCH=Відкрийте інвентар, натиснувши на іконку меню в правому верхньому куті екрана.
 
 ### Your inventory is displayed, touch the item you just picked up to select it. You will hear "In hand", which means you can combine this item with any element in the room.
 TUTORIAL_SELECTINV_MSG_TOUCH=Відображається ваш інвентар. Торкніться предмета, який щойно взяли, щоб вибрати його. Ви почуєте "В руці", що означає, що ви можете поєднати цей предмет із будь-яким елементом в кімнаті.
@@ -2758,7 +2758,7 @@ TUTORIAL_SELECTINV_MSG_TOUCH=Відображається ваш інвента�
 TUTORIAL_USEINV_MSG_TOUCH=Торкніться будь-якого елемента, щоб використати предмет на ньому.
 
 ### Use the virtual stick in the bottom left to move around. Tap anywhere else to attack.
-TUTORIAL_FIGHT_MSG_TOUCH=Для переміщення використовуйте вертуальний стік у лівому нижньому куті, для атаки торкніться у будь-якому іншому місці.
+TUTORIAL_FIGHT_MSG_TOUCH=Для переміщення використовуйте віртуальний джойстик у лівому нижньому куті, для атаки торкніться у будь-якому іншому місці.
 
 ### Tap on the door on the right to punch it
 TUTORIAL_PUNCH_MSG_TOUCH=Торкніться дверей справа, щоб вибити їх.
@@ -2810,7 +2810,7 @@ GAMEPAD_RIGHT_VIRTUAL=Вправо
 GAMEPAD_UP_VIRTUAL=Вгору
 
 ### Left stick
-GAMEPAD_STICKLEFT_VIRTUAL=Лівий стік
+GAMEPAD_STICKLEFT_VIRTUAL=Лівий джойстик
 
 
 ### It is not recommended that you change this setting if you use blind accessiblity. Continue anyway?
@@ -2830,11 +2830,11 @@ INTERFACE_GORIGHT=Йти направо
 
 
 ### You can skip this puzzle by tapping the top right icon
-SKIP_PUZZLE_TOUCH=Ви можете пропустити цю головоломку, торкнувшись позначки у правому верхньому куті.
+SKIP_PUZZLE_TOUCH=Ви можете пропустити цю головоломку, торкнувшись іконки у правому верхньому куті.
 
 
 ### Higher
-INTERFACE_GOHIGHER=Вижче
+INTERFACE_GOHIGHER=Вище
 
 ### Lower
 INTERFACE_GOLOWER=Нижче
@@ -2842,32 +2842,32 @@ INTERFACE_GOLOWER=Нижче
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Game news. They don't have accessibility, please visit our socials accounts to get the latest BROK news
-GAME_NEWS=Новини гри. Вони не мають доступності, будь ласка, відвідайте наші сторінки у соцмережах, щоб отримувати останні новини БРОКА.
+GAME_NEWS=Новини гри. Вони не мають доступності, будь ласка, відвідайте наші сторінки у соцмережах, щоб отримувати останні новини Брока.
 
 
 ### To perform a jump kick, swipe up-right then tap fast. If you are moving to the left, you'll need to swipe up-left instead.
-BM01_SUBTITLE_TUTORIAL1_TOUCH1=
+BM01_SUBTITLE_TUTORIAL1_TOUCH1=Щоб виконати удар в стрибку, проведіть вгору-вправо, а тоді швидко торкніться. Якщо ви рухаєтеся вліво, натомість проведіть вгору-вліво.
 
 ### Swipe to the right to unleash an attack that can pierce through most defenses!
-BM01_SUBTITLE_TUTORIAL1_TOUCH2=
+BM01_SUBTITLE_TUTORIAL1_TOUCH2=Проведіть праворуч, щоб завдати атаки, яка пробиває більшість захистів!
 
 ### During fights, tap the top right icon to open the menu inventory. Take your stick and attack the targets!
-BM01_SUBTITLE_TUTORIAL1_TOUCH3=
+BM01_SUBTITLE_TUTORIAL1_TOUCH3=Під час боїв торкніться іконки у верхньому правому куті, щоб відкрити інвентар. Візьміть палицю та атакуйте мішені!
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Hold two fingers on the screen to guard. Swipe with two fingers in the direction you want to dodge.
-BM01_SUBTITLE_TUTORIAL1_TOUCH4=
+BM01_SUBTITLE_TUTORIAL1_TOUCH4=Утримуйте два пальці на екрані для захисту. Проведіть двома пальцями в тому напрямку, куди хочете ухилитися.
 
 ### Wait for the gauge to fill then touch the top left corner to unleash your special attack.
-BM01_SUBTITLE_TUTORIAL1_TOUCH5=
+BM01_SUBTITLE_TUTORIAL1_TOUCH5=Зачекайте, доки заповниться шкала, а тоді торкніться верхнього лівого кута, щоб вивільнити спеціальну атаку.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### When Brok gets thrown, swipe upwards before he reaches ground to get back into fight without taking damage.
-BM01_SUBTITLE_TUTORIAL1_TOUCH6=
+BM01_SUBTITLE_TUTORIAL1_TOUCH6=Коли Брока кидають, проведіть угору, перш ніж він торкнеться землі, щоб повернутися в бій без шкоди.
 
 
 ### The ground is cracked here
-PC02_AD_GROUNDCRACKED=
+PC02_AD_GROUNDCRACKED=Тут земля потріскалася
 
 
 
@@ -2875,48 +2875,48 @@ PC02_AD_GROUNDCRACKED=
 # DLC
 # -------
 ### C-Tokens
-MONEY_CTOKENS=
+MONEY_CTOKENS=C-жетони
 
 ### Completed
-CHALLENGE_COMPLETED=
+CHALLENGE_COMPLETED=Завершено
 
 ### Skipped
-CHALLENGE_SKIPPED=
+CHALLENGE_SKIPPED=Пропущено
 
 ### Community challenge
-CHALLENGE_COMMUNITY=
+CHALLENGE_COMMUNITY=Випробування спільноти
 
 ### Play as
-CHALLENGE_PLAYAS=
+CHALLENGE_PLAYAS=Грати за
 
 ### Character mod based on
-CHALLENGE_CHARMODBASED=
+CHALLENGE_CHARMODBASED=Мод персонажа на основі
 
 ### An ally died
-CHALLENGE_ALLYDIED=
+CHALLENGE_ALLYDIED=Союзник загинув
 
 ### Default is
-USERINPUT_DEFAULT=
+USERINPUT_DEFAULT=За замовчуванням
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok arrives from the bottom into the underground bar, with neon lights illuminating the place. To the right is a hedgehog with a bow tie, looking at a screen. A few tables are scattered in the middle and the far right of the room. The guests can change each time you enter the room. Drinks are served on the left side of the room by a big hyena, while a toad woman is using a tablet on the bottom left. In the foreground near her, you can find a jukebox and a sink which serves food. Cabins to play virtual challenges are located in the background.
-AUDIOD_PC21_BAR=
+AUDIOD_PC21_BAR=Брок входить знизу до підземного бару, осяяного неоновим світлом. Праворуч - їжак у метелику, який дивиться в екран. Кілька столиків розкидано посеред кімнати та в дальньому правому куті. Відвідувачі можуть змінюватися щоразу, коли ви входите до кімнати. Напої подає у лівій частині кімнати велика гієна, а жаба-жінка користується планшетом зліва внизу. На передньому плані біля неї є музичний автомат і умивальник, що подає їжу. Кабіни для віртуальних випробувань розташовані на задньому плані.
 
 
 ### To start The Brawl Bar immediately, press
-ACCESSIBILITY_STARTDLC=
+ACCESSIBILITY_STARTDLC=Щоб одразу почати Бійцівський бар, натисніть
 
 ### the icon on the right, or press 2 on the keyboard
-ACCESSIBILITY_STARTDLC_MOUSE=
+ACCESSIBILITY_STARTDLC_MOUSE=іконку праворуч або натисніть 2 на клавіатурі
 
 ### The Brawl Bar, play it now
-ACCESSIBILITY_STARTDLC_ICON=
+ACCESSIBILITY_STARTDLC_ICON=Бійцівський бар - грайте зараз
 
 ### You are playing as
-ACCESSIBILITY_MOVES_PLAYER=
+ACCESSIBILITY_MOVES_PLAYER=Ви граєте за
 
 
 ### You can scroll the options by pressing
-ACCESSIBILITY_CREATOR_ENTER=
+ACCESSIBILITY_CREATOR_ENTER=Ви можете гортати опції, натискаючи
 
 

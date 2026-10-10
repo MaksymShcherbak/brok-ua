@@ -509,7 +509,7 @@ INTERFACE_OR=або
 INTERFACE_USE_CONTROLS=Використовуйте будь-який спосіб керування, який забажаєте!
 
 ### Fight difficulty
-INTERFACE_CHOOSE_DIFFICULTY=Складність битв
+INTERFACE_CHOOSE_DIFFICULTY=Рівень складності битв
 
 ### Relaxed
 INTERFACE_CHOOSE_DIFFICULTY1=Розслаблений

@@ -3,7 +3,7 @@
 | Item      | Initial Translation | Proof-Reading |
 | :-------- | :------------------ | :------------ |
 | LEXICON   | Done                | Done          |
-| ACCESS    | To Do               | To Do         |
+| ACCESS    | Done                | Done          |
 | TBM01     | Done                | Done          |
 | TBM02     | Done                | Done          |
 | TBM03     | Postponed           | To Do         |
