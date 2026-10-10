@@ -1509,7 +1509,7 @@ PC19B_INIT1-1=А ось і ви...
 
 # Brok - And here, only Dee
 ### Huh...? What the heck are you doin'?!
-PC19B_INIT1-2=Га?... Якого біса ти робиш?!
+PC19B_INIT1-2=Га...? Якого біса ти робиш?!
 
 
 # Dee

@@ -991,7 +991,7 @@ CREDITS_SCENE_POLICE1A-17=Дякую!!!
 
 # Ott
 ### Woah!...
-CREDITS_SCENE_POLICE1A-18=Воу!...
+CREDITS_SCENE_POLICE1A-18=Воу...!
 
 
 # Ott

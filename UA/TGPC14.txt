@@ -111,7 +111,7 @@ GPC14_STORY180_SECOND5-5=Я не в настрої балакати! Відда�
 
 # Dart
 ### ...Oh no!... It's him!
-GPC14_STORY180_SECOND5-6=...О ні!... Це він!
+GPC14_STORY180_SECOND5-6=...О ні...! Це він!
 
 
 # Rat

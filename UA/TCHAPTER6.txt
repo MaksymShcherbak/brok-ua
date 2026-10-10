@@ -1521,7 +1521,7 @@ CH6_STORY300_INITSLUMER1-19=Ти не повинен був бути мешка�
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Me? A Drumer?...
-CH6_STORY300_INITSLUMER1-20=Я? Мешканець Верхів?...
+CH6_STORY300_INITSLUMER1-20=Я? Мешканець Верхів...?
 
 
 # Brok

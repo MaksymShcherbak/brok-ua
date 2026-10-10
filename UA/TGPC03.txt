@@ -139,7 +139,7 @@ GPC03_WELCOME_TRAMP1-3=Він їх добряче відгамселив!
 
 # Graff
 ### Did he?...
-GPC03_WELCOME_TRAMP1-4=Справді?...
+GPC03_WELCOME_TRAMP1-4=Справді...?
 
 
 # Graff
@@ -313,7 +313,7 @@ GPC03_WELCOME_TRAMP3-5=Він приніс мені рідкісні ліки, �
 
 # Graff
 ### Really?...
-GPC03_WELCOME_TRAMP3-6=Правда?...
+GPC03_WELCOME_TRAMP3-6=Правда...?
 
 
 #----------------------------------------------------
@@ -484,7 +484,7 @@ GPC03_STOVE_TRAMP_STATUETTE-1=Можу я...
 
 # Tramp
 ### What are you doing, my boy? Burning that holy symbol?...
-GPC03_STOVE_TRAMP_STATUETTE-2=Що ти робиш, мій хлопчику? Спалюєш цей святий символ?...
+GPC03_STOVE_TRAMP_STATUETTE-2=Що ти робиш, мій хлопчику? Спалюєш цей святий символ...?
 
 
 # Graff
@@ -633,7 +633,7 @@ GPC03_TRAMP_HIT3-1=Спробуй це, ти, стара... Річ!
 
 # Tramp
 ### What would your dad think?...
-GPC03_TRAMP_HIT3-2=Що б подумав твій тато?...
+GPC03_TRAMP_HIT3-2=Що б подумав твій тато...?
 
 
 # Graff

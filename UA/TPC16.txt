@@ -456,7 +456,7 @@ PC16_RESULT_UNIS200-2=Цікаво, хто губить стільки грош�
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Woah!... 500 Unis?!
-PC16_RESULT_UNIS500-1=Ого!... 500 Юні?!
+PC16_RESULT_UNIS500-1=Ого...! 500 Юні?!
 
 
 #----------------------------------------------------

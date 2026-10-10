@@ -183,7 +183,7 @@ PC17_EXPOSKULL1-5="Його було знайдено на дні океану, 
 
 # Graff
 ### "It belongs to an extinct species we've called Tamed Earthian. We've determined that this one was bipedal unlike most ancient animals.
-PC17_EXPOSKULL1-6="Він належить вимерлому виду, який ми назвали Приручений Землянин. Ми встановили, що цей вид був двоногим, на відміну від більшості древніх тварин."
+PC17_EXPOSKULL1-6="Він належить вимерлому виду, який ми назвали Приручений Землянин. Ми встановили, що цей вид був двоногим, на відміну від більшості стародавніх тварин."
 
 
 # Graff
@@ -215,7 +215,7 @@ PC17_PHONE1-1=Який дивний пристрій...
 
 # Graff
 ### Kinda looks like my phone but even mine doesn't look that ancient.
-PC17_PHONE1-2=Схоже на мій телефон, але навіть мій не виглядає настільки древнім.
+PC17_PHONE1-2=Схоже на мій телефон, але навіть мій не виглядає настільки стародавнім.
 
 
 # Graff
@@ -302,7 +302,7 @@ PC17_SIGN_SCREW_SCREWDRIVER-2=Моя викрутка не підійде... П�
 
 # Graff
 ### Obviously... That's some ancient panel here.
-PC17_SIGN_SCREW_SCREWDRIVER-3=Звісно... Це ж якась древня панель.
+PC17_SIGN_SCREW_SCREWDRIVER-3=Звісно... Це ж якась стародавня панель.
 
 
 # Graff
@@ -348,7 +348,7 @@ PC17_SIGN_DATE1-1=385 П.В... Ми користуємося цим вже та�
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### Looks like some ancient model of our Toxout pill.
-PC17_SIGN_PILL1-1=Схоже на древню модель нашої смогової пігулки.
+PC17_SIGN_PILL1-1=Схоже на стародавню модель нашої смогової пігулки.
 
 
 #----------------------------------------------------
@@ -443,7 +443,7 @@ PC17_PIANO_TEXT1-1="Починаючи з 9-го століття, технол�
 
 # Graff
 ### "Here is an ancient musical instrument we've carefully restored according to the materials found in direct proximity of its remains."
-PC17_PIANO_TEXT1-2="Ось древній музичний інструмент, який ми ретельно реставрували відповідно до матеріалів, знайдених безпосередньо поруч із його залишками."
+PC17_PIANO_TEXT1-2="Ось стародавній музичний інструмент, який ми ретельно реставрували відповідно до матеріалів, знайдених безпосередньо поруч із його залишками."
 
 
 #----------------------------------------------------

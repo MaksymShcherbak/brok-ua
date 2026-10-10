@@ -589,7 +589,7 @@ PC13_STORY110_SELFIE1-7=Вона ідеальна.
 
 # Brok
 ### Really?... Okay.
-PC13_STORY110_SELFIE1-8=Справді?... Гаразд.
+PC13_STORY110_SELFIE1-8=Справді...? Гаразд.
 
 
 # Brok
