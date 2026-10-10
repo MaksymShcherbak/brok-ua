@@ -37,7 +37,7 @@ HINT_CH3_140_LEVERSHOW1=Покажи той важіль Шей!
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Okay, so I guess you wanna do it the clever way. Noticed what R.J. said about elephants?... Pretty sure he would let one enter. If only you weren't a croc!
-HINT_CH3_140_DESGUISE1=Гаразд, тож, схоже, ти хочеш зробити це розумним способом. Помітив, що Р. Джей казав про слонів...? Майже певен, він би пропустив одного. Якби ж ти не був крокодилом!
+HINT_CH3_140_DESGUISE1=Гаразд, тож, схоже, ти хочеш зробити все по-розумному. Помітив, що Р. Джей казав про слонів...? Майже певен, він пропустив би одного. Якби ж ти не був крокодилом!
 
 ### You'll need various elements to prepare a disguise. First, you need a trunk. Check your surroundings, croc dude!
 HINT_CH3_140_DESGUISE2=Тобі знадобляться різні елементи, щоб приготувати маскування. Спершу потрібен хобот. Озирнися навколо, чуваче!
@@ -51,10 +51,10 @@ HINT_CH3_140_DESGUISE4=Використай різак для гуми на тр
 
 
 ### After the trunk, you'll need some large elephant ears! What could look like this in the surroundings?
-HINT_CH3_140_WINGS1=Після хобота тобі знадобляться великі слонові вуха! Що з довкілля могло б бути на них схожим?
+HINT_CH3_140_WINGS1=Після хобота тобі знадобляться великі слонові вуха! Що могло б бути на них схожим?
 
 ### That Untail statue in the back street has pretty wings...##Hey, how are you gonna get'em?
-HINT_CH3_140_WINGS2=У тієї статуї Безхвостя в задній вуличці гарні крила...##Гей, а як ти збираєшся їх узяти?
+HINT_CH3_140_WINGS2=У тієї статуї Безхвостя в задній вуличці гарні крила...##Гей, а як ти збираєшся їх витягти?
 
 ### Get into action mode and smash that statue. You don't have to totally destroy it, though!
 HINT_CH3_140_WINGS3=Увійди в режим бійки та розбий ту статую. Щоправда, повністю руйнувати її не обов'язково!
@@ -65,7 +65,7 @@ HINT_CH3_140_STRING1=Тобі потрібно чимось прив'язати 
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### There's a string in the hacker back street on that balcony. But it's out of reach! Or is it?...
-HINT_CH3_140_STRING2=У провулку гакера на тому балконі є мотузка. Але до неї не дістатися! Чи ні...?
+HINT_CH3_140_STRING2=У провулку гакера на тому балконі є мотузка. Але до неї неможливо дістатися! Чи все-таки можливо...?
 
 ### Untie the two brackets from the plank to release it. Then get into action mode in order to jump on that plank, and then onto the other! You should be able to reach that string.
 HINT_CH3_140_STRING3=Відв'яжи дві скоби від дошки, щоб її вивільнити. Потім увійди в режим бійки, щоб стрибнути на ту дошку, а далі на іншу! Так ти маєш дістатися до мотузки.
@@ -99,14 +99,14 @@ HINT_CH3_140_GIVEMONEY1=Ох... Віддати стільки грошей та�
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Find a way in Wes' office, croc dude. Seems like that blind bot can open the door... If only you could convince it! (Or destroy it)
-HINT_CH3_140_WESDOOR1=Знайди спосіб потрапити до кабінету Веса, чуваче. Схоже, той сліпий бот може відчинити двері... Якби ж ти зміг його переконати! (Або знищити його)
+HINT_CH3_140_WESDOOR1=Знайди спосіб потрапити до кабінету Веса, чуваче. Схоже, той сліпий бот може відчинити двері... Якби ж ти зміг його переконати! (Або знищити)
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Notice those cool panels on the floor of the police hall? They talk when you step on them! And with Wes's voice! Surely there's a purpose for this.
 HINT_CH3_140_WESDOOR2=Помітив ті класні підлогові панелі в коридорі відділку поліції? Вони говорять, коли на них стаєш! І голосом Веса! Певно, у цьому є якийсь сенс.
 
 ### Press the panels in a specific order to form a phrase the bot could understand!
-HINT_CH3_140_WESDOOR3=Натискай панелі в певному порядку, щоб скласти фразу, яку бот зміг зрозуміти!
+HINT_CH3_140_WESDOOR3=Натискай панелі в певному порядку, щоб скласти фразу, яку бот зміг би зрозуміти!
 
 # IMPORTANT : Make sure the sentence is exactly how you translated those words in TPC09
 ### You need to step on the panels successively to make the sentence : "Mister Pork, Please Enter My Office."
@@ -140,15 +140,15 @@ HINT_CH3_140_SOUND1=Щоб звук водоспаду запрацював, т�
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Hey, you'll need to get a picture of Wes to access his computer! I noticed a picture of him on the login screen. Try using that hackphone on it?
-HINT_CH3_140_PICTURETRY1=Гей, тобі потрібно дістати фотографію Веса, щоб отримати доступ до його комп'ютера! Я помітив його фотографію на екрані входу. Спробуй застосувати на ній гакерський телефон?
+HINT_CH3_140_PICTURETRY1=Гей, тобі потрібно дістати фотографію Веса, щоб отримати доступ до його комп'ютера! Я помітив його фотографію на екрані входу. Спробуєш застосувати на ній гакерський телефон?
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### That's right, you'll need a front view picture of Wes! How annoying. Any way to recreate it?...
-HINT_CH3_140_PICTUREFRONT1=Саме так, тобі потрібна фотографія Веса анфас! Як прикро. Є якийсь спосіб її відтворити...?
+HINT_CH3_140_PICTUREFRONT1=Саме так, тобі потрібна фотографія Веса анфас! Як незручно. Є якийсь спосіб її відтворити...?
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### In that box on the desk... There's an identikit device! And look, it has elements of Wes's face! That's your lucky day! Oh and don't forget to press that power button to switch it on.
-HINT_CH3_140_PICTUREFRONT2=У тій коробці на столі... Є пристрій-фоторобот! І дивись, у ньому є елементи обличчя Веса! Оце твій щасливий день! О, і не забудь натиснути ту кнопку живлення, щоб його увімкнути.
+HINT_CH3_140_PICTUREFRONT2=У тій коробці на столі... Є пристрій-фоторобот! І дивись, у ньому є елементи обличчя Веса! Оце твій щасливий день! О, і не забудь натиснути кнопку живлення, щоб його увімкнути.
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Recreate Wes's face. To do this, press these buttons (from top to bottom) : middle, right, left, right, middle.
@@ -174,7 +174,7 @@ HINT_CH3_140_PICTUREPRINTDO1=Роздрукуй цю дивовижну фото
 HINT_CH3_140_PICTUREHACK1=Час поєднати ту фотографію Веса з твоїм гакерським телефоном, чуваче!
 
 ### Hey! Use the holographic model on the computer sign-in circle!
-HINT_CH3_140_PICTUREUSE1=Гей! Застосуй голографічну модель на колі входу до комп'ютера!
+HINT_CH3_140_PICTUREUSE1=Гей! Застосуй голографічну модель до комп'ютера, щоб авторизуватись!
 
 
 
@@ -206,10 +206,10 @@ HINT_CH3_140_WEIGHTD2=Кошенятко, ті ваги - це розв'язок
 HINT_CH3_140_WEIGHTF1=Увійди в режим бійки та розбий той ящик кулаками!
 
 ### Noticed that floor crack at the bottom of the east room? That must be important... How to crack it open?
-HINT_CH3_140_WEIGHTC1=Помітив ту тріщину в підлозі внизу східної кімнати? Це, мабуть, важливо... Як її розкрити?
+HINT_CH3_140_WEIGHTC1=Помітив ту тріщину в підлозі внизу східної кімнати? Це, мабуть, важливо... Як її проломити?
 
 ### Jump on that spot several times (in action mode) to break it, kitty!
-HINT_CH3_140_WEIGHTC2=Стрибни на те місце кілька разів (у режимі бійки), щоб проламати його, кошенятко!
+HINT_CH3_140_WEIGHTC2=Стрибни на те місце кілька разів (у режимі бійки), щоб проламати підлогу, кошенятко!
 
 ### One weight is slightly hidden behind the right wall at the top.
 HINT_CH3_140_WEIGHTB1=Один важок трохи захований за правою стіною вгорі.
@@ -225,7 +225,7 @@ HINT_CH3_140_BALANCE2=Загальна вага на кожній чаші ма�
 HINT_CH3_140_BALANCE3=Символ "квітки" на кожному важку насправді позначає його значення. (натисни кнопку опису в інвентарі, щоб роздивитися уважніше) Наприклад, символ із трьома пелюстками означає, що цей важок дорівнює 3. Спробуй розділити свої важки на дві групи так, щоб сума в обох дорівнювала 17!
 
 ### On the left plate, put these weights : 1, 6 and 10. On the right plate, put : 2, 3, 4 and 8. Then pick up that triangle token released right to the balance!
-HINT_CH3_140_BALANCE4=На ліву чашу поклади ці важки: 1, 6 і 10. На праву чашу поклади: 2, 3, 4 і 8. Потім підбери той трикутний жетон, що звільниться праворуч від ваг!
+HINT_CH3_140_BALANCE4=На ліву чашу поклади ці важки: 1, 6 і 10. На праву чашу поклади: 2, 3, 4 і 8. Потім підбери той трикутний жетон, що з'явиться праворуч від ваг!
 
 
 ### In the west room, press the right button to launch the ball. After this, press the five buttons alternatively to change the orientation of pipe chunks. Don't let the ball fall!
@@ -251,13 +251,13 @@ HINT_CH3_140_TICTAC2=Постав кілька предметів зі свог�
 
 
 ### You got all three tokens! Did you notice they're shaped like triangles and that you can put them on the floor at the entrance?
-HINT_CH3_140_TRIANGLES1=У тебе всі три жетони! Ти помітив, що вони у формі трикутників і що їх можна покласти на підлогу біля входу?
+HINT_CH3_140_TRIANGLES1=У тебе є всі три жетони! Ти помітив, що вони у формі трикутників і що їх можна покласти на підлогу біля входу?
 
 ### Need to know which slots to put them? There must be a clue somewhere! Like... another triangle?
 HINT_CH3_140_TRIANGLES2=Потрібно знати, у які роз'єми їх вставити? Десь мусить бути зачіпка! Наприклад... ще один трикутник?
 
 ### That floating triangle in the west room isn't there for decorating. It indicates the exact shape and orientation of the slots you need to insert the tokens!
-HINT_CH3_140_TRIANGLES3=Той трикутник, що витає у західній кімнаті, там не для прикраси. Він указує точну форму й орієнтацію роз'ємів, куди треба вставити жетони!
+HINT_CH3_140_TRIANGLES3=Той трикутник у західній кімнаті не для прикраси. Він указує точну форму й позицію роз'ємів, куди треба вставити жетони!
 
 ### Put your tokens in the following slots :
 HINT_CH3_140_TRIANGLES4=Встав свої жетони в такі роз'єми:
