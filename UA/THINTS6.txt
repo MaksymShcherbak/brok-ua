@@ -15,7 +15,7 @@ HINT_CH6_255_HACKERMISSION1=Спитай гакера про своє проха
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### So... That hacker guy wants a ton of moolah. There aren't too many ways to get this within a day, kitty. Actually, there's only one. Think about what you picked up today...
-HINT_CH6_255_HACKERMONEY1=Тож... Той гакер хоче купу бабла. За день не так уже й багато способів це роздобути, кошенятко. Насправді, лише один. Подумай, що ти сьогодні знайшов...
+HINT_CH6_255_HACKERMONEY1=Тож... Той гакер хоче купу бабла. За день не так уже й багато способів стільки роздобути, кошенятко. Насправді, лише один. Подумай, що ти сьогодні знайшов...
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Show the hacker your bank statement.
@@ -39,7 +39,7 @@ HINT_CH6_290_ESCAPE1=Звідси можна вибратися кількома
 HINT_CH6_255_BUNKERENTER1=Чуваче... Якщо ти вирішиш розв'язати ту головоломку, ось моя порада: тисни все підряд! Нема коли думати! Але... гадаю, я дам тобі точний розв'язок першої частини.##Треба, щоб усі індикатори стали зеленими. Кожна кнопка вмикає одні й вимикає інші. Ось кнопки, які слід натиснути (згори зліва донизу справа): 1, 3, 7, 8.
 
 ### Here's a solution for the second part : 1, 9. (Is pressing two buttons too hard for you, croc?...)
-HINT_CH6_255_BUNKERENTER2=Ось розв'язок другої частини: 1, 9. (Невже натиснути дві кнопки для тебе занадто складно, чуваче?...)
+HINT_CH6_255_BUNKERENTER2=Ось розв'язок другої частини: 1, 9. (Невже натиснути дві кнопки для тебе занадто складно, чуваче...?)
 
 ### Just avoid those lasers, croc. If the kitty could do it, so can you!
 HINT_CH6_255_BUNKERLASERS1=Просто уникай тих лазерів, чуваче. Якщо кошенятко змогло, то й ти зможеш!
@@ -85,7 +85,7 @@ HINT_CH6_280_SINJAIL2=Скористайся пультом керування, 
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Search around the city for Graff. You know where he was the last time, right?... You might want to prepare yourself before going there, though.
-HINT_CH6_290_SEARCHGRAFF1=Пошукай Граффа по місту. Ти ж знаєш, де він був минулого разу, правда?... Щоправда, варто підготуватися, перш ніж туди йти.
+HINT_CH6_290_SEARCHGRAFF1=Пошукай Граффа по місту. Ти ж знаєш, де він був минулого разу, правда...? Щоправда, варто підготуватися, перш ніж туди йти.
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
@@ -98,7 +98,7 @@ HINT_CH6_290_SEARCHGRAFF2=Провулок гакера. Поговори з Р.
 HINT_CH6_320_KEYWORDS1=Чуваче, тобі треба скласти речення з трьох слів! На кшталт "Курка Любить Жир" (ні, цього не пробуй).##Воно пов'язане з тим, що ти щойно зрозумів. І для кожного слова є іконка - поглянь на них!
 
 ### Enter : TIME ERASES MEMORY
-HINT_CH6_320_KEYWORDS2=Ввести: Час Стирає Пам'ять
+HINT_CH6_320_KEYWORDS2=Введи: Час Стирає Пам'ять
 
 
 ### Remove the blanket from the machine!
@@ -114,6 +114,6 @@ HINT_CH6_320_PENDANT1=Чуваче... Застосуй кулон на роз'є
 HINT_CH6_320_EGG1=Відкрий те яйце, чуваче...
 
 ### Croc dude... Your destiny awaits you. Will you be up to it?...##Don't worry... I'm sticking with you, no matter the choice you make. We'll have more adventures together! (Sniffles)
-HINT_CH6_320_ENTEREGG1=Чуваче... На тебе чекає доля. Чи впораєшся...?##Не хвилюйся... Я з тобою, який би вибір ти не зробив. У нас буде ще багато пригод разом! (Шморгає носом)
+HINT_CH6_320_ENTEREGG1=Чуваче... На тебе чекає доля. Чи впораєшся...?##Не хвилюйся... Я з тобою, який би вибір ти не зробив. У нас буде ще багато пригод разом! (Шморгає)
 
 

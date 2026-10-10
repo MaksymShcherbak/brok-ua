@@ -16,7 +16,7 @@ HINT_CH5_210_BEFOREMUSEUM1=Кошенятко, чому б тобі не пос�
 HINT_CH5_210_GETPHONE1=Щось лежить на підлозі просто біля того трикутного каменю. Підбери!
 
 ### I bet you've got an ancient item in your inventory that could fill that empty spot on that stand! (the leftmost exposition)
-HINT_CH5_210_USEPHONE1=Б'юся об заклад, у твоєму інвентарі є якась древня річ, яка заповнить порожнє місце на тому стенді! (найлівіша експозиція)
+HINT_CH5_210_USEPHONE1=Б'юся об заклад, у твоєму інвентарі є якась стародавня річ, яка заповнить порожнє місце на тому стенді! (найлівіша експозиція)
 
 
 
@@ -59,7 +59,7 @@ HINT_CH5_210_REVOLT2=Використай пергамент із даху ті�
 
 
 ### That key hole on the side of that 'gender balance' stele... Take a look at it, kitty!
-HINT_CH5_210_KEYSLOTSEE1=Та замочна шпарина збоку тієї стели "гендерного балансу"... Глянь на неї, кошенятко!
+HINT_CH5_210_KEYSLOTSEE1=Замочна шпарина збоку стели "гендерного балансу"... Глянь на неї, кошенятко!
 
 
 ### The key to that 'gender balance' stele must be somewhere... But probably outside of the museum!##What could "CC Under STU seat" mean?
@@ -75,7 +75,7 @@ HINT_CH5_210_KEYSLOT3=...під стільцем Студбота, звісно.
 
 
 ### Use the key on the lock located on the side of that 'gender balance' stele.
-HINT_CH5_210_KEYUSE1=Використай ключ на замку збоку тієї стели "гендерного балансу".
+HINT_CH5_210_KEYUSE1=Використай ключ на замку збоку стели "гендерного балансу".
 
 
 
@@ -98,7 +98,7 @@ HINT_CH5_210_SETUNTAIL2=Використай свою статуетку Без�
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### That Toxout pill sign on the left, kitty... You probably didn't notice but something's off.
-HINT_CH5_210_SIGNSCREW1=Та табличка смогової пігулки ліворуч, кошенятко... Ти, певно, не помітив, але щось не так.
+HINT_CH5_210_SIGNSCREW1=Той знак смогової пігулки ліворуч, кошенятко... Ти, певно, не помітив, але з ним щось не так.
 
 ### A screw needs some... screwing! Unfortunately your screwdriver won't fit. However, notice the shape of the screw...
 HINT_CH5_210_SIGNSCREW2=Гвинт треба... вкрутити! На жаль, твоя викрутка не підійде. Проте придивись до форми гвинта...
@@ -110,7 +110,7 @@ HINT_CH5_210_SIGNSCREW3=Використай наконечник друкова
 
 
 ### You need to access this museum area that's off limits! Examine those lasers carefully...
-HINT_CH5_210_REMOVELASERS1=Тобі треба потрапити до цієї забороненої зони музею! Уважно оглянь ті лазери...
+HINT_CH5_210_REMOVELASERS1=Тобі треба потрапити до забороненої зони музею! Уважно оглянь ті лазери...
 
 ### There's a switch on the right wall of the room and an exact spot where lasers are malfunctioning. Surely that's an invitation to do... something?
 HINT_CH5_210_REMOVELASERS2=На правій стіні кімнати є перемикач, а також місце, де лазери не працюють. Хіба це не запрошення зробити... щось?
@@ -143,7 +143,7 @@ HINT_CH5_210_PIANO2=За кожну розв'язану головоломку �
 HINT_CH5_210_PIANO3=Біля кожного символу вказано дати. Одна з цифр цих дат завжди написана іншим кольором!##Зістав кожен символ із цією цифрою й натискай клавіші піаніно в такому порядку.
 
 ### Press the piano keys in this exact order (from left to right) : 4, 7, 8, 1, 9, 3, 2, 5, 6. Then press that 'return' key on the right to validate.
-HINT_CH5_210_PIANO4=Натискай клавіші піаніно точно в такому порядку (зліва направо): 4, 7, 8, 1, 9, 3, 2, 5, 6. Потім натисни ту клавішу "return" праворуч, щоб підтвердити.
+HINT_CH5_210_PIANO4=Натискай клавіші піаніно точно в такому порядку (зліва направо): 4, 7, 8, 1, 9, 3, 2, 5, 6. Потім натисни ту крайню клавішу праворуч, щоб підтвердити.
 
 
 #----- Hints BROK --------
@@ -158,7 +158,7 @@ HINT_CH5_220_LOOKWINDOW1=Глянь у вікно тієї вартової бу
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Croc dude, you gotta convince that guy to come out of there! One way or another... You can obviously hit that door. But he might not appreciate it.##There's a more clever way. Seems like he's worried about Tribots because he can hear them but there's none in sight! So... What is he hearing?
-HINT_CH5_220_GHERKINCONVINCE1=Чуваче, ти мусиш умовити того типа вийти звідти! Так чи інакше... Можеш, звісно, вдарити в ті двері. Але йому це може не сподобатись.##Є розумніший спосіб. Схоже, він боїться Триботів, бо чує їх, але ніде не видно! Тож... Що він чує?
+HINT_CH5_220_GHERKINCONVINCE1=Чуваче, ти мусиш умовити того типа вийти звідти! Так чи інакше... Можеш, звісно, вдарити в ті двері. Але йому це може не сподобатись.##Є розумніший спосіб. Схоже, він боїться Триботів, бо чує їх, хоча їх ніде й не видно! Тож... Що він чує?
 
 ### That noisy pump on the left! It's inside that sealed container. Except it's not sealed at all...##There might be some way to repair those holes in the membrane!
 HINT_CH5_220_GHERKINCONVINCE2=Той гучний насос ліворуч! Він усередині герметичного контейнера. От тільки він зовсім не герметичний...##Мабуть, ті дірки в мембрані якось можна залатати!
@@ -204,6 +204,6 @@ HINT_CH5_250_WAITFIX1=Іди в Сектор 56X і чекай, доки док 
 
 
 ### Advance to the right of the street to meet the journalist!
-HINT_CH5_250_GORIGHT1=Просунься праворуч по вулиці, щоб зустріти журналістку!
+HINT_CH5_250_GORIGHT1=Просунься далі по вулиці, щоб зустріти журналістку!
 
 
