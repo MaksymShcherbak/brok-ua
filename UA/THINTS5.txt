@@ -5,174 +5,174 @@
 
 #----- Hints GRAFF --------
 ### Go to school!
-HINT_CH5_210_START1=
+HINT_CH5_210_START1=Іди до школи!
 
 
 ### Kitty, why won't you follow your friend's advice and go to the museum?...
-HINT_CH5_210_BEFOREMUSEUM1=
+HINT_CH5_210_BEFOREMUSEUM1=Кошенятко, чому б тобі не послухати поради свого друга й не піти до музею...?
 
 
 ### There's something on the floor right next to that triangular stone. Pick it up!
-HINT_CH5_210_GETPHONE1=
+HINT_CH5_210_GETPHONE1=Щось лежить на підлозі просто біля того трикутного каменю. Підбери!
 
 ### I bet you've got an ancient item in your inventory that could fill that empty spot on that stand! (the leftmost exposition)
-HINT_CH5_210_USEPHONE1=
+HINT_CH5_210_USEPHONE1=Б'юся об заклад, у твоєму інвентарі є якась древня річ, яка заповнить порожнє місце на тому стенді! (найлівіша експозиція)
 
 
 
 ### Hey kitty, have you played with that triangular stone? It's connected to a 3D printer!
-HINT_CH5_210_TRIANGLEGAME1=
+HINT_CH5_210_TRIANGLEGAME1=Гей, кошенятко, уже грався з тим трикутним каменем? Він під'єднаний до 3D-принтера!
 
 ### You need to "win" this game. It consists in picking a shape during the first phase, then find that shape in the next phases.##When you're done, something will drop in the drawer below!
-HINT_CH5_210_TRIANGLEGAME2=
+HINT_CH5_210_TRIANGLEGAME2=Тобі треба "виграти" цю гру. Вона полягає в тому, що спершу обираєш фігуру, а потім шукаєш її на наступних етапах.##Коли закінчиш, щось упаде в шухляду знизу!
 
 
 ### Remember that triangular stone game? Play it until you get a half sphere. (Choose the half circle drawing during the first game phase)
-HINT_CH5_210_HALFSPHERE1=
+HINT_CH5_210_HALFSPHERE1=Пам'ятаєш ту гру на трикутному камені? Грай, доки не отримаєш півсферу. (На першому етапі гри вибери малюнок півкола)
 
 
 # NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
 ### That rebirth day exposition... It represents this country. Don't you think it lacks something important?...
-HINT_CH5_210_REBIRTH1=
+HINT_CH5_210_REBIRTH1=Та експозиція про день Відродження... Вона зображає цю країну. Не думаєш, що їй бракує чогось важливого...?
 
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
 ### The Dome, of course! There should be one. Maybe you could replace it?...
-HINT_CH5_210_REBIRTH2=
+HINT_CH5_210_REBIRTH2=Купол, звісно! Він там має бути. Може, ти міг би його замінити...?
 
 ### Use your half sphere.
-HINT_CH5_210_REBIRTH3=
+HINT_CH5_210_REBIRTH3=Використай свою півсферу.
 
 
 
 ### There's some parchment on top of that exposition panel! Surely there's a way you could access it, kitty.
-HINT_CH5_210_PARCHMENT1=
+HINT_CH5_210_PARCHMENT1=На тій експозиційній панелі лежить пергамент! Певно, туди можна якось дістатись, кошенятко.
 
 ### Jump on various platforms in the room to access the roof (the piano, the round stone and then this roof) Then pick up that parchment.
-HINT_CH5_210_PARCHMENT2=
+HINT_CH5_210_PARCHMENT2=Стрибай по різних платформах у кімнаті, щоб дістатись даху (піаніно, круглий камінь, а потім цей дах). Тоді підбери той пергамент.
 
 
 ### The revolt exposition... Don't bother reading that text, kitty. It's boring. What matters is that empty spot at the bottom!
-HINT_CH5_210_REVOLT1=
+HINT_CH5_210_REVOLT1=Експозиція повстання... Не читай того тексту, кошенятко. Нудно. Головне - те порожнє місце внизу!
 
 ### Use the parchment which was on the roof of that same exposition to fill that gap!
-HINT_CH5_210_REVOLT2=
+HINT_CH5_210_REVOLT2=Використай пергамент із даху тієї ж експозиції, щоб заповнити ту прогалину!
 
 
 ### That key hole on the side of that 'gender balance' stele... Take a look at it, kitty!
-HINT_CH5_210_KEYSLOTSEE1=
+HINT_CH5_210_KEYSLOTSEE1=Та замочна шпарина збоку тієї стели "гендерного балансу"... Глянь на неї, кошенятко!
 
 
 ### The key to that 'gender balance' stele must be somewhere... But probably outside of the museum!##What could "CC Under STU seat" mean?
-HINT_CH5_210_KEYSLOT1=
+HINT_CH5_210_KEYSLOT1=Ключ до тієї стели "гендерного балансу" десь та є... Але, ймовірно, поза музеєм!##Що може означати "ЦС. Під стільцем СТУД"?
 
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
 ### Go back to the Consciousness Center! And check...
-HINT_CH5_210_KEYSLOT2=
+HINT_CH5_210_KEYSLOT2=Повертайся до Центру Свідомості! І перевір...
 
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### ...under Stubot's seat, of course.
-HINT_CH5_210_KEYSLOT3=
+HINT_CH5_210_KEYSLOT3=...під стільцем Студбота, звісно.
 
 
 ### Use the key on the lock located on the side of that 'gender balance' stele.
-HINT_CH5_210_KEYUSE1=
+HINT_CH5_210_KEYUSE1=Використай ключ на замку збоку тієї стели "гендерного балансу".
 
 
 
 ### You need a new Untail statue, kitty. Where do you think you could get one?
-HINT_CH5_210_GETUNTAIL1=
+HINT_CH5_210_GETUNTAIL1=Тобі потрібна нова статуя Безхвостя, кошенятко. Як думаєш, де її взяти?
 
 # NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
 ### Sector 56X, of course! That merchant should be gone by now but her stand is still there.
-HINT_CH5_210_GETUNTAIL2=
+HINT_CH5_210_GETUNTAIL2=Сектор 56X, звісно! Крамарка вже мала б піти, але її прилавок досі на місці.
 
 
 # NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
 ### Two statues of the Untail, three pedestals...
-HINT_CH5_210_SETUNTAIL1=
+HINT_CH5_210_SETUNTAIL1=Дві статуї Безхвостя, три стенди...
 
 ### Use your Untail statuette on the middle pedestal.
-HINT_CH5_210_SETUNTAIL2=
+HINT_CH5_210_SETUNTAIL2=Використай свою статуетку Безхвостя на середньому стенді.
 
 
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### That Toxout pill sign on the left, kitty... You probably didn't notice but something's off.
-HINT_CH5_210_SIGNSCREW1=
+HINT_CH5_210_SIGNSCREW1=Та табличка смогової пігулки ліворуч, кошенятко... Ти, певно, не помітив, але щось не так.
 
 ### A screw needs some... screwing! Unfortunately your screwdriver won't fit. However, notice the shape of the screw...
-HINT_CH5_210_SIGNSCREW2=
+HINT_CH5_210_SIGNSCREW2=Гвинт треба... вкрутити! На жаль, твоя викрутка не підійде. Проте придивись до форми гвинта...
 
 ### Use the tip of the 3D printed triangular prism on that bottom right screw! (you can get such shape by playing that game on the triangular stone again and choosing a triangle shape)
-HINT_CH5_210_SIGNSCREW3=
+HINT_CH5_210_SIGNSCREW3=Використай наконечник друкованої трикутної призми на тому гвинті справа внизу! (таку фігуру можна отримати, знову зігравши в ту гру на трикутному камені й вибравши трикутник)
 
 
 
 
 ### You need to access this museum area that's off limits! Examine those lasers carefully...
-HINT_CH5_210_REMOVELASERS1=
+HINT_CH5_210_REMOVELASERS1=Тобі треба потрапити до цієї забороненої зони музею! Уважно оглянь ті лазери...
 
 ### There's a switch on the right wall of the room and an exact spot where lasers are malfunctioning. Surely that's an invitation to do... something?
-HINT_CH5_210_REMOVELASERS2=
+HINT_CH5_210_REMOVELASERS2=На правій стіні кімнати є перемикач, а також місце, де лазери не працюють. Хіба це не запрошення зробити... щось?
 
 ### Position yourself in front of that lasers gap and throw an item to the switch.
-HINT_CH5_210_REMOVELASERS3=
+HINT_CH5_210_REMOVELASERS3=Стань перед тією прогалиною в лазерах і жбурни щось у перемикач.
 
 
 ### Kitty, I bet you missed that 'X' mark on the far right wall. What does that kind of mark usually indicate?...
-HINT_CH5_210_MARK1=
+HINT_CH5_210_MARK1=Кошенятко, б'юся об заклад, ти не помітив позначку "X" на дальній правій стіні. Що зазвичай означає така позначка...?
 
 ### Switch to action mode and hit that mark!
-HINT_CH5_210_MARK2=
+HINT_CH5_210_MARK2=Перемкнись у режим бійки й вдар по тій позначці!
 
 
 ### A key is clearly missing from that old keyboard. Kitty, you'll need to replace it somehow!
-HINT_CH5_210_FIXKEY1=
+HINT_CH5_210_FIXKEY1=На тій старій клавіатурі явно бракує клавіші. Кошенятко, тобі треба якось її замінити!
 
 ### Use that triangular stone again and try to win a "rectangular" 3D printed shape. Then... Well, put it on the keyboard.
-HINT_CH5_210_FIXKEY2=
+HINT_CH5_210_FIXKEY2=Знову використай трикутний камінь і спробуй виграти "прямокутну" друковану фігуру. Потім... Ну, поклади її на клавіатуру.
 
 
 ### Your last step is this piano! Each key has a specific symbol. Surely you've seen them somewhere else in the room?...
-HINT_CH5_210_PIANO1=
+HINT_CH5_210_PIANO1=Твій останній крок - це піаніно! У кожної клавіші свій символ. Певно, ти бачив їх деінде в кімнаті...?
 
 ### For each puzzle you've solved, a symbol has appeared. For some others, they were already there in the scenery.##That's only half of the puzzle though. In which order should you press the keys?...
-HINT_CH5_210_PIANO2=
+HINT_CH5_210_PIANO2=За кожну розв'язану головоломку з'являвся символ. А деякі були в декораціях від самого початку.##Але це лише половина головоломки. У якому порядку натискати клавіші...?
 
 ### Next to each symbol, there are dates indicated. One of the figures of those dates is always written with a separate color!##Associate each symbol to this figure and press the piano keys in this order.
-HINT_CH5_210_PIANO3=
+HINT_CH5_210_PIANO3=Біля кожного символу вказано дати. Одна з цифр цих дат завжди написана іншим кольором!##Зістав кожен символ із цією цифрою й натискай клавіші піаніно в такому порядку.
 
 ### Press the piano keys in this exact order (from left to right) : 4, 7, 8, 1, 9, 3, 2, 5, 6. Then press that 'return' key on the right to validate.
-HINT_CH5_210_PIANO4=
+HINT_CH5_210_PIANO4=Натискай клавіші піаніно точно в такому порядку (зліва направо): 4, 7, 8, 1, 9, 3, 2, 5, 6. Потім натисни ту клавішу "return" праворуч, щоб підтвердити.
 
 
 #----- Hints BROK --------
 ### Exit the apartment.
-HINT_CH5_210_EXIT1=
+HINT_CH5_210_EXIT1=Виходь із квартири.
 
 ### Go to the factory. You'll need to go through the Border Post first.
-HINT_CH5_220_FACTORY1=
+HINT_CH5_220_FACTORY1=Іди на завод. Спершу доведеться пройти через прикордонний пост.
 
 ### Look at the window of that sentry box!
-HINT_CH5_220_LOOKWINDOW1=
+HINT_CH5_220_LOOKWINDOW1=Глянь у вікно тієї вартової будки!
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Croc dude, you gotta convince that guy to come out of there! One way or another... You can obviously hit that door. But he might not appreciate it.##There's a more clever way. Seems like he's worried about Tribots because he can hear them but there's none in sight! So... What is he hearing?
-HINT_CH5_220_GHERKINCONVINCE1=
+HINT_CH5_220_GHERKINCONVINCE1=Чуваче, ти мусиш умовити того типа вийти звідти! Так чи інакше... Можеш, звісно, вдарити в ті двері. Але йому це може не сподобатись.##Є розумніший спосіб. Схоже, він боїться Триботів, бо чує їх, але ніде не видно! Тож... Що він чує?
 
 ### That noisy pump on the left! It's inside that sealed container. Except it's not sealed at all...##There might be some way to repair those holes in the membrane!
-HINT_CH5_220_GHERKINCONVINCE2=
+HINT_CH5_220_GHERKINCONVINCE2=Той гучний насос ліворуч! Він усередині герметичного контейнера. От тільки він зовсім не герметичний...##Мабуть, ті дірки в мембрані якось можна залатати!
 
 ### Croc dude, I think you missed that little fix bot on the bottom left of the membrane. Take 'control' of it! Pretty sure you've already got the right thing for doing that...
-HINT_CH5_220_GHERKINCONVINCE3=
+HINT_CH5_220_GHERKINCONVINCE3=Чуваче, здається, ти пропустив того маленького бота-ремонтника внизу зліва на мембрані. Візьми його "під контроль"! Майже певен, у тебе вже є потрібна штука для цього...
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Use your remote control on the fix bot. Each shock will throw it around. Make it go over all five membrane holes to fix them (and ultimately cover the pump sound). After this, talk to Dr. Gherkin again to make him come out.##Tip : The movements are not random. The red light on the front of the bots indicates the direction it will move. Between each shock the bot rotates on its own. Wait for the right moment to use the remote control so it goes into the direction you want!
-HINT_CH5_220_GHERKINCONVINCE4=
+HINT_CH5_220_GHERKINCONVINCE4=Застосуй пульт керування на боті-ремонтнику. Кожен удар жбурлятиме його. Проведи його по всіх п'яти дірках у мембрані, щоб залатати їх (і зрештою заглушити звук насоса). Після цього поговори з доктором Геркіном ще раз, щоб він вийшов.##Порада: рухи не випадкові. Червоне світло спереду бота вказує напрямок його руху. Після кожного удару бот повертається сам. Чекай слушного моменту, щоб застосувати пульт керування й спрямувати бота в потрібному напрямку!
 
 
 ### Come back to the factory.
-HINT_CH5_220_GHERKINBACK1=
+HINT_CH5_220_GHERKINBACK1=Повертайся на завод.
 
 
 
@@ -180,30 +180,30 @@ HINT_CH5_220_GHERKINBACK1=
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Go to the Border Post. If you'd like to avoid a fight, try to hide and go behind the Pipe-Pill. Don't move, the Tribots won't see you!
-HINT_CH5_230_BORDERCROSS1=
+HINT_CH5_230_BORDERCROSS1=Іди до прикордонного посту. Якщо хочеш уникнути бійки, спробуй сховатися й зайти за Пігулкомат. Не рухайся - Триботи тебе не побачать!
 
 ### The easiest way to get rid of that nasty rat is... to leave. Just go back and come back to the alley and he'll be gone.
-HINT_CH5_230_GETRID1=
+HINT_CH5_230_GETRID1=Найлегший спосіб позбутися того паскудного пацюка - це... піти. Просто повернись і зайди в провулок знову - його вже не буде.
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Talk to R.J.
-HINT_CH5_230_HACKER1=
+HINT_CH5_230_HACKER1=Поговори з Р. Джеєм.
 
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Dude, what a choice! Who should you save first? I can't help you with that but I'll state the obvious - you'll need a daily pill to save R.J. As for the doc, I bet he returned to his favorite hiding place...
-HINT_CH5_240_SAVING1=
+HINT_CH5_240_SAVING1=Чуваче, ось це вибір! Кого рятувати першим? Тут я тобі не помічник, але скажу очевидне - щоб урятувати Р. Джея, тобі знадобиться щоденна пігулка. А щодо дока, то, б'юся об заклад, він повернувся до свого улюбленого сховку...
 
 ### To enter the pharmacy, use the code indicated in the "new citizen" message you've received on day 1.
-HINT_CH5_240_SAVING2=
+HINT_CH5_240_SAVING2=Щоб зайти в аптеку, використай код із повідомлення "Ласкаво просимо під Купол!", яке ти отримав першого дня.
 
 
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### Go to Sector 56X and wait until the doc ends fixing the Pipe-Pill.
-HINT_CH5_250_WAITFIX1=
+HINT_CH5_250_WAITFIX1=Іди в Сектор 56X і чекай, доки док полагодить Пігулкомат.
 
 
 ### Advance to the right of the street to meet the journalist!
-HINT_CH5_250_GORIGHT1=
+HINT_CH5_250_GORIGHT1=Просунься праворуч по вулиці, щоб зустріти журналістку!
 
 

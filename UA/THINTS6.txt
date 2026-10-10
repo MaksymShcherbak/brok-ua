@@ -6,114 +6,114 @@
 #----- Hints GRAFF --------
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Kitty, the hacker lives in the back street. Go meet him!
-HINT_CH6_255_HACKERGO1=
+HINT_CH6_255_HACKERGO1=Кошенятко, гакер живе у провулку. Іди познайомся з ним!
 
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Ask the hacker about your request.
-HINT_CH6_255_HACKERMISSION1=
+HINT_CH6_255_HACKERMISSION1=Спитай гакера про своє прохання.
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### So... That hacker guy wants a ton of moolah. There aren't too many ways to get this within a day, kitty. Actually, there's only one. Think about what you picked up today...
-HINT_CH6_255_HACKERMONEY1=
+HINT_CH6_255_HACKERMONEY1=Тож... Той гакер хоче купу бабла. За день не так уже й багато способів це роздобути, кошенятко. Насправді, лише один. Подумай, що ти сьогодні знайшов...
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Show the hacker your bank statement.
-HINT_CH6_255_HACKERMONEY2=
+HINT_CH6_255_HACKERMONEY2=Покажи гакерові виписку з банку.
 
 ### Talk to the big bear...
-HINT_CH6_255_HACKERRJ1=
+HINT_CH6_255_HACKERRJ1=Поговори з великим ведмедем...
 
 ### Go to the back street. That's your destiny...
-HINT_CH6_255_HACKERSTREET1=
+HINT_CH6_255_HACKERSTREET1=Іди в провулок гакера. Це твоя доля...
 
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### There are several ways to get outta here, kitty. So... for once, I'll just be listing some elements to help.##- Your friend Ott is in the next room.##- You can almost move anywhere you want while tied up but the rats might spot you!##- The exit is a ladder at the far right of the corridor.##- There's a metal bar at the right wall of your room but to get it you'll need to break free.##- That little hook next to that cupboard could help to cut the rope but it'll take (a lot of) time.##Choose your own path!
-HINT_CH6_290_ESCAPE1=
+HINT_CH6_290_ESCAPE1=Звідси можна вибратися кількома способами, кошенятко. Тож... цього разу я просто перелічу кілька підказок, які допоможуть.##- Твій друг Отт у сусідній кімнаті.##- Поки ти зв'язаний, ти можеш рухатися майже куди завгодно, але пацюки можуть тебе помітити!##- Вихід - драбина в самому кінці коридору, праворуч.##- Біля правої стіни твоєї кімнати є металевий прут, але щоб дістати його, тобі доведеться звільнитися.##- Той маленький гачок біля шафи допоміг би перерізати мотузку, але це забере (багато) часу.##Обери свій шлях!
 
 
 
 #----- Hints BROK --------
 ### Croc dude... If you choose to solve that puzzle, here's my advice for you : press everything! Ain't got time to think! But... I guess I'll give you the exact solution for the first part.##You need all lights to turn green. Each button activate some and deactivate others. Here are the buttons to press (from top left to bottom right) : 1, 3, 7, 8.
-HINT_CH6_255_BUNKERENTER1=
+HINT_CH6_255_BUNKERENTER1=Чуваче... Якщо ти вирішиш розв'язати ту головоломку, ось моя порада: тисни все підряд! Нема коли думати! Але... гадаю, я дам тобі точний розв'язок першої частини.##Треба, щоб усі індикатори стали зеленими. Кожна кнопка вмикає одні й вимикає інші. Ось кнопки, які слід натиснути (згори зліва донизу справа): 1, 3, 7, 8.
 
 ### Here's a solution for the second part : 1, 9. (Is pressing two buttons too hard for you, croc?...)
-HINT_CH6_255_BUNKERENTER2=
+HINT_CH6_255_BUNKERENTER2=Ось розв'язок другої частини: 1, 9. (Невже натиснути дві кнопки для тебе занадто складно, чуваче?...)
 
 ### Just avoid those lasers, croc. If the kitty could do it, so can you!
-HINT_CH6_255_BUNKERLASERS1=
+HINT_CH6_255_BUNKERLASERS1=Просто уникай тих лазерів, чуваче. Якщо кошенятко змогло, то й ти зможеш!
 
 ### Take a look at the frame on the right wall.
-HINT_CH6_260_BUNKERFRAME1=
+HINT_CH6_260_BUNKERFRAME1=Поглянь на рамку на правій стіні.
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Talk to Dee.
-HINT_CH6_260_BUNKERDEE1=
+HINT_CH6_260_BUNKERDEE1=Поговори з Ді.
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Interrogate Dr. Gherkin.
-HINT_CH6_260_BUNKERINTERROGATE1=
+HINT_CH6_260_BUNKERINTERROGATE1=Допитай доктора Геркіна.
 
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Find a way to get rid of these bots, croc! Just try opening that door and choose to fight or let Dee handle this.
-HINT_CH6_270_BUNKERBOTS1=
+HINT_CH6_270_BUNKERBOTS1=Знайди спосіб позбутися цих ботів, чуваче! Просто спробуй відчинити ті двері й обери - битися чи дати Ді з цим упоратися.
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Take a look at those wires behind that furniture in the room where the Tribots were. Then move the furniture!
-HINT_CH6_270_FURNITURE1=
+HINT_CH6_270_FURNITURE1=Поглянь на ті дроти за меблями в кімнаті, де стояли Триботи. А тоді посунь меблі!
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Check that control panel and ask Dr. Gherkin for his opinion!
-HINT_CH6_270_CONTROLPANEL1=
+HINT_CH6_270_CONTROLPANEL1=Перевір ту панель керування та спитай думку доктора Геркіна!
 
 ### Switch to action mode and destroy that button panel! Then pick up the box inside it.
-HINT_CH6_270_BUTTONBOX1=
+HINT_CH6_270_BUTTONBOX1=Перемкнися в режим бійки та знищ ту панель з кнопками! А тоді забери коробку, що всередині.
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Give the little box you have to Dr. Gherkin.
-HINT_CH6_270_GIVEBOX1=
+HINT_CH6_270_GIVEBOX1=Віддай маленьку коробку докторові Геркіну.
 
 
 ### You might be blocked by those lasers. Surely you've got something to deactivate them. Just use 'it' at the right time! And remember - those bots can only see what's in front of them.
-HINT_CH6_280_SINJAIL1=
+HINT_CH6_280_SINJAIL1=Ті лазери можуть тебе зупинити. Певно, у тебе знайдеться чим їх деактивувати. Просто застосуй 'це' у слушний момент! І пам'ятай - ті боти бачать лише те, що перед ними.
 
 ### Use your remote control to deactivate the lasers.
-HINT_CH6_280_SINJAIL2=
+HINT_CH6_280_SINJAIL2=Скористайся пультом керування, щоб деактивувати лазери.
 
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Search around the city for Graff. You know where he was the last time, right?... You might want to prepare yourself before going there, though.
-HINT_CH6_290_SEARCHGRAFF1=
+HINT_CH6_290_SEARCHGRAFF1=Пошукай Граффа по місту. Ти ж знаєш, де він був минулого разу, правда?... Щоправда, варто підготуватися, перш ніж туди йти.
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### The hacker back street. Go talk to R.J. if he's there, otherwise go to the hacker. Then visit the street.
-HINT_CH6_290_SEARCHGRAFF2=
+HINT_CH6_290_SEARCHGRAFF2=Провулок гакера. Поговори з Р. Джеєм, якщо він там, інакше йди до гакера. Потім відвідай провулок.
 
 
 
 ### Croc dude, you gotta assemble a sentence of three words! Like "CHICKEN LOVES FAT" (no, don't try that one).##It's linked to what you've just deduced. And for each word, there's an icon - look at them!
-HINT_CH6_320_KEYWORDS1=
+HINT_CH6_320_KEYWORDS1=Чуваче, тобі треба скласти речення з трьох слів! На кшталт "Курка Любить Жир" (ні, цього не пробуй).##Воно пов'язане з тим, що ти щойно зрозумів. І для кожного слова є іконка - поглянь на них!
 
 ### Enter : TIME ERASES MEMORY
-HINT_CH6_320_KEYWORDS2=
+HINT_CH6_320_KEYWORDS2=Ввести: Час Стирає Пам'ять
 
 
 ### Remove the blanket from the machine!
-HINT_CH6_320_UNCOVER1=
+HINT_CH6_320_UNCOVER1=Зніми ковдру з машини!
 
 ### Check the timeline (bottom right of the machine)
-HINT_CH6_320_TIMELINE1=
+HINT_CH6_320_TIMELINE1=Перевір лінію часу (унизу праворуч на машині)
 
 ### Croc... Use your pendant on the slot of the machine (on the left).
-HINT_CH6_320_PENDANT1=
+HINT_CH6_320_PENDANT1=Чуваче... Застосуй кулон на роз'єм машини (ліворуч).
 
 ### Open that egg, croc...
-HINT_CH6_320_EGG1=
+HINT_CH6_320_EGG1=Відкрий те яйце, чуваче...
 
 ### Croc dude... Your destiny awaits you. Will you be up to it?...##Don't worry... I'm sticking with you, no matter the choice you make. We'll have more adventures together! (Sniffles)
-HINT_CH6_320_ENTEREGG1=
+HINT_CH6_320_ENTEREGG1=Чуваче... На тебе чекає доля. Чи впораєшся...?##Не хвилюйся... Я з тобою, який би вибір ти не зробив. У нас буде ще багато пригод разом! (Шморгає носом)
 
 
