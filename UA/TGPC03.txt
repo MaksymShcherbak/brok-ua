@@ -84,7 +84,7 @@ GPC03_FIRST_TRAMP1-9=Подивись на мене, хлопчику. Ти сп
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### I'm alive right now because your dad stood up for me against Squealers this morning.
-GPC03_FIRST_TRAMP1-10=Прямо зараз я живий тому, що твій тато заступився за мене перед верескунами цього ранку.
+GPC03_FIRST_TRAMP1-10=Прямо зараз я живий тому, що твій тато заступився за мене перед Верескунами цього ранку.
 
 
 # Graff
@@ -129,7 +129,7 @@ GPC03_WELCOME_TRAMP1-1=Що саме зробив Брок?
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Long story short... I owed money to the Squealers. They were ready for payback.
-GPC03_WELCOME_TRAMP1-2=Коротше кажучі, я заборгував гроші верескунам. Вони були готові поквитатися.
+GPC03_WELCOME_TRAMP1-2=Коротше кажучі, я заборгував гроші Верескунам. Вони були готові поквитатися.
 
 
 # Tramp

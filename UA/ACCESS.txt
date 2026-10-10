@@ -832,7 +832,7 @@ AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### The Squealer Chief is a burly rat wearing a somewhat ragged jacket. He has grey fur with what appears to be dyed blue hair.
-AUDIOD_CHAR_CHIEFRAT=Шеф верескунів — кремезний пацюк, одягнений у дещо подерту куртку. У нього сіра шерсть і нібито пофарбоване в синій волосся.
+AUDIOD_CHAR_CHIEFRAT=Шеф Верескунів — кремезний пацюк, одягнений у дещо подерту куртку. У нього сіра шерсть і нібито пофарбоване в синій волосся.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok faces a dingo wearing a hoodie, very slim and with brown fur, equipped in each hand with what looks like telescopic batons.
@@ -952,7 +952,7 @@ AUDIOD_PC05D=Графф опиняється зв'язаним у маленьк
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### On the picture, we can see Brok stepping on the Squealers chief defeated in the military suit, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
-AUDIOD_PC05D_THEPICTURE=На фотографії ми бачимо Брока, що наступає на переможеного шефа верескунів у військовій формі, ботів, що святкують перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає верескуна.
+AUDIOD_PC05D_THEPICTURE=На фотографії ми бачимо Брока, що наступає на переможеного шефа Верескунів у військовій формі, ботів, що святкують перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok faces a dingo wearing a hoodie, very slim and with brown fur, equipped in each hand with what looks like telescopic batons.
@@ -974,7 +974,7 @@ AUDIOD_PC17=Графф і Отт входять до просторної кім
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### On the picture, we can see what seems like half of Brok stepping on the Squealers chief defeated in the military suit, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
-AUDIOD_PC17_THEPICTURE=На фотографії ми бачимо, здається, половину Брока, що наступає на переможеного шефа верескунів у військовій формі, бота, що святкує перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає верескуна.
+AUDIOD_PC17_THEPICTURE=На фотографії ми бачимо, здається, половину Брока, що наступає на переможеного шефа Верескунів у військовій формі, бота, що святкує перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -1011,7 +1011,7 @@ AUDIOD_PC01_PICTURE=Родинне фото. Брок усміхається т�
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff shows the picture the Squealers chief gave him, with Brok stepping on the chief, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
-AUDIOD_PC01_THEPICTURE=Графф показує фото, яке дав йому шеф верескунів, де Брок наступає на шефа, бот на задньому плані святкує перемогу, та хтось, схожий на волоцюгу, перемагає верескуна.
+AUDIOD_PC01_THEPICTURE=Графф показує фото, яке дав йому шеф Верескунів, де Брок наступає на шефа, бот на задньому плані святкує перемогу, та хтось, схожий на волоцюгу, перемагає Верескуна.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a hallway with a corridor that juts to the upper part of the screen towards two doors. In the middle of the room is a glass bulletin board. The exit is a staircase that doesn’t completely cover the right part of the room.
@@ -1386,7 +1386,7 @@ AUDIOD_PC20=
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok starts hitting the Squealers chief on the ground.
-AUDIOD_PC20_BROKHITS=Брок починає гамселити шефа верескунів, який лежить на землі.
+AUDIOD_PC20_BROKHITS=Брок починає гамселити шефа Верескунів, який лежить на землі.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"

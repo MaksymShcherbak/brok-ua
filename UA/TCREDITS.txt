@@ -1068,7 +1068,7 @@ CREDITS_SCENE_POLICE2A-13=Мені потрібен персонал. Люди, 
 # Rat
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### You want... a Squealer? To be a cop?!
-CREDITS_SCENE_POLICE2A-14=Ти хочеш... Щоб верескун? Був копом?!
+CREDITS_SCENE_POLICE2A-14=Ти хочеш... Щоб Верескун? Був копом?!
 
 
 # Rat

@@ -319,6 +319,7 @@
 | Drone                                  | дрон                                 |                                                        |
 | Cleaning bot                           | бот-прибиральник                     |                                                        |
 | Auto-Clean Tribot                      | Трибот-прибиральник                  |                                                        |
+| Hoover                                 | пилосос                              |                                                        |
 | Maintenance bot                        | сервісний бот                        |                                                        |
 | Fix-bot                                | бот-ремонтник                        |                                                        |
 | Text conversation                      | листування                           |                                                        |

@@ -167,12 +167,12 @@ HINT_CH1_50_BEFORERAT2=Візьми пульт керування в кварт�
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Really? You won't fight them?! Wow, I'm learning a new side of you everyday!##Of course, you'll need to progress anyway, so you'll have to find another way to get rid of those rats. Hey, isn't that a pipe behind the Squealers?... Maybe it's connected to that Pipe-Mail from the street above?
-HINT_CH1_50_RATSPIPE1=Серйозно? Ти не битимешся з ними?! Вау, я щодня відкриваю тебе з нового боку.##Звісно, тобі все одно потрібно просунутися далі, тож ти маєш знайти інший спосіб позбутися цих щурів. Гей, а це хіба не труба позаду верескуні...? Може, вона з'єднана з поштоматом на вулиці зверху?
+HINT_CH1_50_RATSPIPE1=Серйозно? Ти не битимешся з ними?! Вау, я щодня відкриваю тебе з нового боку.##Звісно, тобі все одно потрібно просунутися далі, тож ти маєш знайти інший спосіб позбутися цих щурів. Гей, а це хіба не труба позаду Верескунів...? Може, вона з'єднана з поштоматом на вулиці зверху?
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Did you pick up the broken mine near those rats? Putting it inside the Pipe-Mail on Drumer street could have some... interesting effects!##But alas, it's broken... Maybe try asking for a friend's opinion?
-HINT_CH1_50_RATSPIPE2=Ти підібрав зламану міну поблизу тих верескунів? Покласти її у поштомат на вулиці на Верхах може мати... цікавий ефект!##Але, на жаль, вона зламана... Може, спробуєш запитати думку подруги?
+HINT_CH1_50_RATSPIPE2=Ти підібрав зламану міну поблизу тих Верескунів? Покласти її у поштомат на вулиці на Верхах може мати... цікавий ефект!##Але, на жаль, вона зламана... Може, спробуєш запитати думку подруги?
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
