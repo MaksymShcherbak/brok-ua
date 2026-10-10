@@ -1,0 +1,2067 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dart (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - Kins (Unknown)
+#     Brok - Tramp (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Dart - Brok (Unknown)
+#     Dart - Kins (Unknown)
+#     Dart - Rat (Unknown)
+#     Dart - Tramp (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Tramp (Unknown)
+#     Kins - Brok (Unknown)
+#     Kins - Dart (Unknown)
+#     Kins - Rat (Unknown)
+#     Kins - Tramp (Unknown)
+#     Rat - Dart (Unknown)
+#     Rat - Kins (Unknown)
+#     Tramp - Brok (Unknown)
+#     Tramp - Dart (Unknown)
+#     Tramp - Gherkin (Unknown)
+#     Tramp - Kins (Unknown)
+#     Tribot - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#=SLUM OUTSIDE BROK SECTOR
+#-------------------------------
+
+#----- Interactions --------
+### Toy
+PC_TOY=Іграшка
+
+### Stove
+PC_STOVE=Піч
+
+### Advertisement
+PC_ADVERTISEMENT=Оголошення
+
+
+#----- Choices / Items --------
+### A medical prescription!
+GOT_TRAMPPRESCR=Медичний рецепт!
+
+### A lucky charm!
+GOT_LUCKYCHARM=Талісман удачі!
+
+
+#----- Topics --------
+### Rats
+TOPIC_RATS=Щури
+
+# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+### Give glucosite?
+PC03_GLUCOSITE_CHOICE=Дати глюкозит?
+
+
+
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - The Tramp's stove
+### That's warm.
+PC03_STOVE1-1=Тут тепло.
+
+
+# Tramp
+### The weather is rather nice but you know... Old people are always cold.
+PC03_STOVE1-2=Погода доволі гарна, але знаєш... Кажуть, старим людям завжди холодно.
+
+
+# Brok
+### Don't say that! You're not old.
+PC03_STOVE1-3=Не кажіть такого! Ви не старий.
+
+
+# Tramp
+### For living here... Yes I am.
+PC03_STOVE1-4=Для такого життя... Так, старий.
+
+
+#----------------------------------------------------
+# Brok
+### Nice and warm.
+PC03_STOVE2-1=Гарно й тепло.
+
+
+#----------------------------------------------------
+# Brok - The tramp is dead or gone
+### No way! I'm not stealing this...
+PC03_STOVE_AFTERDEATH-1=Ні за що! Я не буду це красти...
+
+
+# Brok
+### Even if he doesn't need it anymore... I... just can't...
+PC03_STOVE_AFTERDEATH-2=Навіть якщо це йому більше не потрібно... Я... просто не можу...
+
+
+#----------------------------------------------------
+# Brok - Brok takes a toy
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh! I remember this! Graff had a similar one when we first met!
+PC03_TOY1-1=О! Я пам'ятаю її! У Граффа була схожа іграшка, коли ми вперше зустрілися!
+
+
+# Brok
+### It's an inflatable cuddly toy. You just have to wet it a little and a few seconds later it gets all round like a balloon!
+PC03_TOY1-2=Це наповнювана водою м'яка іграшка. Треба лише трохи її намочити, і за кілька секунд вона стає круглою, як куля!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Maybe Graff will want one again!
+PC03_TOY1-3=Можливо, Графф знову захоче таку!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff always carried his with him. I wonder what happened to it?
+PC03_TOY2-1=Графф завжди носив свою із собою. Цікаво, що з нею сталося?
+
+
+# Brok
+### And... How come I totally forgot it existed?
+PC03_TOY2-2=І... Як так вийшло, що я геть забув про її існування?
+
+
+# Brok
+### I'm afraid someday I might even forget my name...
+PC03_TOY2-3=Боюся, колись я можу забути навіть власне ім'я...
+
+
+#----------------------------------------------------
+# Kins - Before the first fight with rats
+### ...don't play with us. Da boss won't like it.
+PC03_TRAMP_RAT_DIALOG1-1=...не грайся з нами. Босові це не сподобається.
+
+
+# Kins
+### So hand over da moolah!
+PC03_TRAMP_RAT_DIALOG1-2=То давай, гони бабло!
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Mister Squealer. Did you take a good look?
+PC03_TRAMP_RAT_DIALOG1-3=Пане Верескуне. Ви добре роздивилися?
+
+
+# Tramp
+### Do you really expect someone like me to have that kind of money...?
+PC03_TRAMP_RAT_DIALOG1-4=Ви справді думаєте, що у когось на кшталт мене є такі гроші...?
+
+
+# Kins
+### Who cares! Dem's da rules. You make a deal, you pay!
+PC03_TRAMP_RAT_DIALOG1-5=Плювати! Такі правила. Уклав угоду - плати!
+
+
+# Kins
+### Or else...
+PC03_TRAMP_RAT_DIALOG1-6=Або станеться щось погане...
+
+
+# Tramp
+### Oh, well. I guess this is gonna hurt then.
+PC03_TRAMP_RAT_DIALOG1-7=Ну що ж. Здається, це буде боляче.
+
+
+#----------------------------------------------------
+# Kins - Rats kill the Tramp if Brok goes away
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Go ahead, Dart.
+PC03_TRAMP_RAT_FLEE1-1=Вперед, Дарте.
+
+
+# Dart
+### Yer done for, old man!
+PC03_TRAMP_RAT_FLEE1-2=Тобі гаплик, старий!
+
+
+# Tramp
+### OUCH!!!
+PC03_TRAMP_RAT_FLEE1-3=АЙ!!!
+
+
+# Tramp
+### ...
+PC03_TRAMP_RAT_FLEE1-4=...
+
+
+# Kins
+### It's over.
+PC03_TRAMP_RAT_FLEE1-5=Готово.
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+### Quick. Gotta scout before da Body Recycling comes ta pick it up.
+PC03_TRAMP_RAT_FLEE1-6=Швидше. Треба тікати, поки не приїхала Служба Переробки Тіл.
+
+
+#----------------------------------------------------
+# Brok - Brok saves the Tramp
+### Hey! What's your problem?
+PC03_TRAMP_RAT_DIALOG2-1=Гей! У чому ваша проблема?
+
+
+# Brok
+### Leave the old man alone!
+PC03_TRAMP_RAT_DIALOG2-2=Облиште старого!
+
+
+# Kins
+### None of yer business. Get the heck outta here!
+PC03_TRAMP_RAT_DIALOG2-3=Не твоя справа. Забирайся до біса звідси!
+
+
+# Kins
+### As fer you...
+PC03_TRAMP_RAT_DIALOG2-4=А от шодо тебе...
+
+
+# Tramp
+### Oooff! Can you end me quickly? Please, I'm done suffering.
+PC03_TRAMP_RAT_DIALOG2-5=У-уух! Можете покінчити зі мною швидко? Будь ласка, з мене досить мук.
+
+
+# Kins
+### Oh, I'll make ya suffer, buddy!
+PC03_TRAMP_RAT_DIALOG2-6=О, ти в мене ще помучаєшся, друже!
+
+
+# Brok
+### Enough! You're gonna regret it!
+PC03_TRAMP_RAT_DIALOG2-7=Годі! Ви пошкодуєте про це!
+
+
+#----------------------------------------------------
+# Tramp - Rats ambush Brok when coming back
+### My boy! Watch out!
+PC03_FIGHT2_DIALOG1-1=Мій хлопче! Стережися!
+
+
+# Brok
+### Wha...
+PC03_FIGHT2_DIALOG1-2=Що...
+
+
+#----------------------------------------------------
+# Brok
+### Outta my way!
+PC03_FIGHT2_DIALOG2-1=З дороги!
+
+
+# Kins
+### You! Yer the one who's gotta scram!
+PC03_FIGHT2_DIALOG2-2=Гей ти! Це тобі треба валити звідси!
+
+
+# Brok
+### Didn't you learn your lesson...?
+PC03_FIGHT2_DIALOG2-3=Життя вас нічому не навчило...?
+
+
+# Kins
+### Didn't come here for ya. Dat guy owes us money.
+PC03_FIGHT2_DIALOG2-4=Ми прийшли не по тебе. Той чувак винен нам бабки.
+
+
+# Brok
+### You won't lay a finger on him!
+PC03_FIGHT2_DIALOG2-5=Не смійте його чіпати!
+
+
+# Kins
+### Count yer teeth, croc. Yer gonna lose a lot.
+PC03_FIGHT2_DIALOG2-6=Рахуй свої зуби, крок. Ти їх багато втратиш.
+
+
+# Brok
+### Try me!
+PC03_FIGHT2_DIALOG2-7=А ти спробуй!
+
+
+# Kins
+### Guys...
+PC03_FIGHT2_DIALOG2-8=Хлопці...
+
+
+#----------------------------------------------------
+# Kins
+### Not again...
+PC03_TRAMP_RAT_DIALOGEND2-1=Знову...
+
+
+# Dart
+### What's up wit dat guy?! Why can't we crush him?!
+PC03_TRAMP_RAT_DIALOGEND2-2=Шо не так з цим чуваком?! Чому ми не можемо його розчавити?!
+
+
+# Kins
+### Dun' care! I won't have him get my skin!
+PC03_TRAMP_RAT_DIALOGEND2-3=Плювати! Я не буду ризикувати своєю шкурою!
+
+
+#----------------------------------------------------
+# Brok
+### You okay?
+PC03_TRAMP_RAT_DIALOGEND2B-1=Ви в порядку?
+
+
+# Tramp
+### My boy, you're amazing.
+PC03_TRAMP_RAT_DIALOGEND2B-2=Мій хлопче, ти неймовірний.
+
+
+# Tramp
+### You would do well in the military!
+PC03_TRAMP_RAT_DIALOGEND2B-3=З тебе вийшов би чудовий військовий!
+
+
+# Brok
+### Me, a soldier? Ha!
+PC03_TRAMP_RAT_DIALOGEND2B-4=Я, солдат? Ха!
+
+
+# Brok
+### I can't follow someone else's orders. I can barely follow my own!
+PC03_TRAMP_RAT_DIALOGEND2B-5=Я не можу виконувати чужі накази. Я й власні ледве виконую!
+
+
+# Tramp
+### I know you can.
+PC03_TRAMP_RAT_DIALOGEND2B-6=Я знаю, що можеш.
+
+
+# Brok
+### Just a feeling but...
+PC03_TRAMP_RAT_DIALOGEND2B-7=Це лише відчуття, але...
+
+
+# Brok
+### You seem to know a lot about me.
+PC03_TRAMP_RAT_DIALOGEND2B-8=Здається, ви багато знаєте про мене.
+
+
+# Brok
+### Ya sure we've never met?
+PC03_TRAMP_RAT_DIALOGEND2B-9=Ви впевнені, що ми раніше не зустрічалися?
+
+
+# Tramp
+### Who knows! Maybe in another life.
+PC03_TRAMP_RAT_DIALOGEND2B-10=Хтозна! Можливо, в іншому житті.
+
+
+#----------------------------------------------------
+# Kins - After saving the Tramp the first time
+### Aww...
+PC03_TRAMP_RAT_DIALOGEND-1=Ох...
+
+
+# Kins
+### You'll pay for this!
+PC03_TRAMP_RAT_DIALOGEND-2=Ти заплатиш за це!
+
+
+# Tramp
+### They're gone. Are you OK?
+PC03_TRAMP_RAT_DIALOGEND-3=Вони пішли. У тебе все гаразд?
+
+
+# Brok
+### Don't worry about me.
+PC03_TRAMP_RAT_DIALOGEND-4=Не турбуйтеся про мене.
+
+
+# Brok
+### What was that about?
+PC03_TRAMP_RAT_DIALOGEND-5=Що це взагалі було?
+
+
+# Tramp
+### You really shouldn't have interfered. I don't have much longer to live, anyway!
+PC03_TRAMP_RAT_DIALOGEND-6=Тобі не варто було втручатися. Мені все одно залишилося жити недовго!
+
+
+# Brok
+### Don't say that! And... you didn't answer my question.
+PC03_TRAMP_RAT_DIALOGEND-7=Не кажіть такого! І... ви не відповіли на моє запитання.
+
+
+# Tramp
+### It's a long story... But in short, I owe money.
+PC03_TRAMP_RAT_DIALOGEND-8=Це довга історія... Але якщо коротко, я заборгував грошей.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Heartstraint": "Перенапруження серця"
+### You see, I've been diagnosed with Heartstraint, which is incurable.
+PC03_TRAMP_RAT_DIALOGEND-9=Знаєш, у мене діагностували перенапруження серця, а це невиліковна хвороба.
+
+
+# Tramp
+### Some days the pain is hard to bear. I figured those rats could provide me with some drugs to suppress it...
+PC03_TRAMP_RAT_DIALOGEND-10=Іноді біль важко терпіти. Я подумав, що ці щури зможуть дістати мені ліки, щоб його вгамувати...
+
+
+# Tramp
+### I just wanted to enjoy life before it's too late.
+PC03_TRAMP_RAT_DIALOGEND-11=Я просто хотів порадіти життю, поки не пізно.
+
+
+# Brok
+### I'm so sorry to hear that...
+PC03_TRAMP_RAT_DIALOGEND-12=Мені дуже прикро це чути...
+
+
+# Brok
+### Although... when there's life, there's hope. No disease is ever incurable.
+PC03_TRAMP_RAT_DIALOGEND-13=Хоча... поки є життя, є й надія. Жодна хвороба не є абсолютно невиліковною.
+
+
+# Brok
+### One just has to search thoroughly. I've lived with a chemist long enough to know that.
+PC03_TRAMP_RAT_DIALOGEND-14=Треба лише ретельно пошукати. Я прожив разом із хіміком достатньо довго, щоб це знати.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Theoretically. But no one cares about us Slumers.
+PC03_TRAMP_RAT_DIALOGEND-15=Теоретично. Але нікого не хвилюють мешканці Нетрів.
+
+
+# Brok
+### In any case, you shouldn't be staying here in the cold. Come to our apartment!
+PC03_TRAMP_RAT_DIALOGEND-16=У будь-якому разі вам не слід залишатися тут, на холоді. Ходімо до нашої квартири!
+
+
+# Brok
+### There's not much space but we'll find a way.
+PC03_TRAMP_RAT_DIALOGEND-17=Там не так багато місця, але ми щось вигадаємо.
+
+
+# Tramp
+### That's very nice of you! But I can't accept.
+PC03_TRAMP_RAT_DIALOGEND-18=Це дуже мило з твого боку! Але я не можу прийняти цю пропозицію.
+
+
+# Tramp
+### I've already caused you enough trouble as it is. I fear they'll come after you...
+PC03_TRAMP_RAT_DIALOGEND-19=Я й так створив тобі достатньо клопоту. Боюся, вони прийдуть по тебе...
+
+
+# Brok
+### Just let'em! I'll show them the meaning of "respect your elders."
+PC03_TRAMP_RAT_DIALOGEND-20=Нехай тільки спробують! Я навчу їх "поважати старих".
+
+
+# Brok
+### Erm... Sorry, I didn't mean to imply...
+PC03_TRAMP_RAT_DIALOGEND-21=Е-е... Вибачте, я не мав на увазі...
+
+
+# Tramp
+### Don't worry about it. But please don't insist. This is my choice.
+PC03_TRAMP_RAT_DIALOGEND-22=Не переймайся. Але, будь ласка, не наполягай. Це мій вибір.
+
+
+# Brok
+### Alright...
+PC03_TRAMP_RAT_DIALOGEND-23=Гаразд...
+
+
+# Brok
+### But I'll find a way to help you somehow. I promise.
+PC03_TRAMP_RAT_DIALOGEND-24=Але я знайду спосіб допомогти вам. Я обіцяю.
+
+
+# Tramp
+### You have your whole life ahead of you!
+PC03_TRAMP_RAT_DIALOGEND-25=У тебе все життя попереду!
+
+
+# Tramp
+### Don't waste it on people like me.
+PC03_TRAMP_RAT_DIALOGEND-26=Не марнуй його на таких, як я.
+
+
+# Brok
+### I want to! And it's my decision as well.
+PC03_TRAMP_RAT_DIALOGEND-27=Я хочу це зробити! І це також моє рішення.
+
+
+# Tramp
+### Ah ah!
+PC03_TRAMP_RAT_DIALOGEND-28=А-ха!
+
+
+# Tramp
+### Alright.
+PC03_TRAMP_RAT_DIALOGEND-29=Гаразд.
+
+
+# Tramp
+### Here's the last medical prescription I've got.
+PC03_TRAMP_RAT_DIALOGEND-30=Ось останній медичний рецепт, який у мене є.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### This dates back to my time as a Drumer. Before they expelled me...
+PC03_TRAMP_RAT_DIALOGEND-31=Він залишився ще з тих часів, коли я був мешканцем Верхів. До того, як мене вигнали...
+
+
+# Brok
+### Expelled?!
+PC03_TRAMP_RAT_DIALOGEND-32=Вигнали?!
+
+
+# Tramp
+### You know the rules. Only valid people are able to stay, unless you've got family to pay... and I don't.
+PC03_TRAMP_RAT_DIALOGEND-33=Ти знаєш правила. Залишатися можуть лише придатні люди або ті, за яких платить родина... а в мене нікого немає.
+
+
+# Tramp
+### This medicine helped stabilize my disease.
+PC03_TRAMP_RAT_DIALOGEND-34=Ці ліки допомагали стабілізувати моє захворювання.
+
+
+# Tramp
+### I'm not sure you can still get anything with this old cardboard piece but... Take it.
+PC03_TRAMP_RAT_DIALOGEND-35=Я не впевнений, що за такою старою картонкою ще можна щось отримати, але... Візьми її.
+
+
+#----------------------------------------------------
+# Tramp
+### I wish I had something more useful to offer you.
+PC03_TRAMP_RATDIALOGEND2-1=Шкода, що я не можу запропонувати тобі щось корисніше.
+
+
+# Brok
+### That's fine! I'll manage.
+PC03_TRAMP_RATDIALOGEND2-2=Нічого страшного! Я впораюся.
+
+
+# Tramp
+### Thank you, my boy...
+PC03_TRAMP_RATDIALOGEND2-3=Дякую, мій хлопче...
+
+
+#----------------------------------------------------
+# Brok - Player talks to the Tramp
+### Hi!
+PC03_TRAMP_WELCOME1-1=Вітаю!
+
+
+# Tramp
+### Hello, my boy.
+PC03_TRAMP_WELCOME1-2=Привіт, мій хлопче.
+
+
+# Tramp
+### I don't mind talking but I don't see how I could be of any use.
+PC03_TRAMP_WELCOME1-3=Я не проти побалакати, але не думаю, що можу бути чимось корисним.
+
+
+#----------------------------------------------------
+# Brok
+### How are you?
+PC03_TRAMP_WELCOME2-1=Як ви?
+
+
+# Tramp
+### My boy, that's exactly the question you shouldn't ask to an old dying fool like myself.
+PC03_TRAMP_WELCOME2-2=Мій хлопче, це саме те питання, яке не варто ставити старому дурню, що помирає.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! How ya doin'?
+PC03_TRAMP_WELCOME_MEDICINE2-1=Гей! Як справи?
+
+
+# Tramp
+### Great. The medicine is starting to work. I can feel my legs again!
+PC03_TRAMP_WELCOME_MEDICINE2-2=Чудово. Ліки починають діяти. Я знову відчуваю свої ноги!
+
+
+# Brok
+### Glad to hear!
+PC03_TRAMP_WELCOME_MEDICINE2-3=Радий це чути!
+
+
+#----------------------------------------------------
+# Brok
+### Those dog tags... You were in the military.
+PC03_TRAMP_HIMSELF1-1=Ці жетони... Ви були військовим.
+
+
+# Tramp
+### Good eye, boy!
+PC03_TRAMP_HIMSELF1-2=Гостре око, хлопче!
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### A few years ago, I was part of the resistance during the Autarchism fight.
+PC03_TRAMP_HIMSELF1-3=Кілька років тому... Я був частиною сил опору у битві в день Аутархізму.
+
+
+# Brok
+### Then surely you can face them.
+PC03_TRAMP_HIMSELF1-4=Тоді ви, напевно, можете дати їм відсіч.
+
+
+# Tramp
+### You may be a detective, but you still got a lot to learn.
+PC03_TRAMP_HIMSELF1-5=Може, ти й детектив, але тобі ще багато чому треба навчитися.
+
+
+# Tramp
+### My body is declining. I can barely stand on my feet.
+PC03_TRAMP_HIMSELF1-6=Моє тіло згасає. Я ледве на ногах тримаюся.
+
+
+# Tramp
+### This is pointless. I've accepted the fact that my life is over.
+PC03_TRAMP_HIMSELF1-7=Це марно. Я вже змирився з тим, що моє життя скінчилося.
+
+
+# Brok
+### I can't let you say that! I'll find a way to help!
+PC03_TRAMP_HIMSELF1-8=Я не можу дозволити вам так казати! Я знайду спосіб допомогти!
+
+
+# Tramp
+### Please don't give me false hope.
+PC03_TRAMP_HIMSELF1-9=Будь ласка, не давай мені марних надій.
+
+
+#----------------------------------------------------
+# Brok
+### Tell me. How come I've never seen you around?
+PC03_TRAMP_HIMSELF2-1=Скажіть. А чому я ніколи раніше не бачив вас тут?
+
+
+# Tramp
+### I go from street to street. Can't stay very long in one place.
+PC03_TRAMP_HIMSELF2-2=Я переходжу з вулиці на вулицю. Не можу довго лишатися на одному місці.
+
+
+# Tramp
+### Begging is forbidden and I can't afford a home. Our current society is quite contradictory.
+PC03_TRAMP_HIMSELF2-3=Жебракувати заборонено, а житло мені не по кишені. Теперішнє суспільство вельми суперечливе.
+
+
+# Brok
+### I see...
+PC03_TRAMP_HIMSELF2-4=Зрозуміло...
+
+
+# Brok
+### Why not try and leave the city? You could have a small, peaceful life as a farmer out there.
+PC03_TRAMP_HIMSELF2-5=Чому б не спробувати покинути місто? Ви могли б спокійно жити фермерським життям, десь далеко.
+
+
+# Tramp
+### You know it's not that simple. The borders are currently closed to everyone but high ranking citizens.
+PC03_TRAMP_HIMSELF2-6=Ти ж знаєш, це не так просто. Кордони зараз закриті для всіх, крім високопоставлених громадян.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Besides, Atlasia is my country. I was born here. I've defended it my entire life.
+PC03_TRAMP_HIMSELF2-7=До того ж, Атлазія - моя країна. Я тут народився. Я захищав її все своє життя.
+
+
+# Tramp
+### This is where my life should end.
+PC03_TRAMP_HIMSELF2-8=Тут моє життя і має завершитися.
+
+
+# Brok
+### Not like this...
+PC03_TRAMP_HIMSELF2-9=Тільки не так...
+
+
+# Tramp
+### This is my choice to make.
+PC03_TRAMP_HIMSELF2-10=Це мій власний вибір.
+
+
+#----------------------------------------------------
+# Brok
+### I was wondering...
+PC03_TRAMP_HIMSELF3-1=Мені от цікаво...
+
+
+# Tramp
+### Why do you care so much? We barely know each other.
+PC03_TRAMP_HIMSELF3-2=Чому тебе це так хвилює? Ми ж майже не знайомі.
+
+
+# Brok
+### Dunno... Ya sure about that? I don't feel that way somehow.
+PC03_TRAMP_HIMSELF3-3=Не знаю... Ви впевнені? Мені чомусь так не здається.
+
+
+# Brok
+### No one should give up on living. Life is the most precious thing in the world.
+PC03_TRAMP_HIMSELF3-4=Ніхто не повинен відмовлятися від життя. Життя - це найцінніше, що є у світі.
+
+
+# Tramp
+### The candor of youth.
+PC03_TRAMP_HIMSELF3-5=Ох, юнацька щирість.
+
+
+# Tramp
+### Someday... you'll understand.
+PC03_TRAMP_HIMSELF3-6=Колись... ти зрозумієш.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Those were Squealers, weren't they?
+PC03_TRAMP_RATS1-1=Це були Верескуни, чи не так?
+
+
+# Tramp
+### Correct.
+PC03_TRAMP_RATS1-2=Саме так.
+
+
+# Brok
+### I thought they were exiled a decade ago?
+PC03_TRAMP_RATS1-3=Я думав, їх вигнали ще десятиліття тому?
+
+
+# Tramp
+### Yes. At least, that's what most people believe.
+PC03_TRAMP_RATS1-4=Так. Принаймні, більшість людей у це вірить.
+
+
+# Tramp
+### However... Some of them stayed hidden in the shadows, infiltrating our society.
+PC03_TRAMP_RATS1-5=Однак... Деякі з них лишилися ховатись у тіні і проникли в наше суспільство.
+
+
+# Tramp
+### My disease made me weak... They took advantage of the situation.
+PC03_TRAMP_RATS1-6=Хвороба ослабила мене... Вони скористалися ситуацією.
+
+
+# Tramp
+### But I don't blame them.
+PC03_TRAMP_RATS1-7=Але я їх не виню.
+
+
+# Brok
+### How can you say that?! They just tried to murder you!
+PC03_TRAMP_RATS1-8=Як ви можете таке казати?! Вони щойно намагалися вбити вас!
+
+
+# Tramp
+### Yes... But I couldn't pay them back.
+PC03_TRAMP_RATS1-9=Так... Але я не зміг повернути їм борг.
+
+
+# Tramp
+### I don't regret it though. The drugs gave me more time.
+PC03_TRAMP_RATS1-10=Утім, я не шкодую. Препарати дали мені більше часу.
+
+
+# Tramp
+### I did everything I wanted.
+PC03_TRAMP_RATS1-11=Я зробив усе, що хотів.
+
+
+# Brok
+### Still, they shouldn't go as far as threatening to kill you. There's just... no excuse.
+PC03_TRAMP_RATS1-12=І все одно вони не повинні доходити до погроз убивством. Цьому... немає виправдання.
+
+
+# Tramp
+### Be careful, boy. There's no such thing as black and white.
+PC03_TRAMP_RATS1-13=Будь обережним, хлопче. У світі немає тільки чорного й білого.
+
+
+#----------------------------------------------------
+# Brok
+### I don't get it.
+PC03_TRAMP_RATS2-1=Я не розумію.
+
+
+# Brok
+### What would they gain from getting rid of you? You'd never pay them back.
+PC03_TRAMP_RATS2-2=Що вони отримають, позбувшись вас? Ви ж тоді ніколи не віддасте їм борг.
+
+
+# Tramp
+### I'll be an example.
+PC03_TRAMP_RATS2-3=Я стану прикладом для інших.
+
+
+# Tramp
+### I have more value dead than alive.
+PC03_TRAMP_RATS2-4=Мертвим я маю для них більшу цінність, ніж живим.
+
+
+# Brok
+### Well I won't let that happen!
+PC03_TRAMP_RATS2-5=Що ж, я не дозволю цьому статися!
+
+
+# Tramp
+### Please be careful. The last thing I'd want is to get you killed.
+PC03_TRAMP_RATS2-6=Будь ласка, будь обережним. Останнє, чого б я хотів, це твоєї смерті.
+
+
+# Brok
+### Don't you worry about me! I can defend myself.
+PC03_TRAMP_RATS2-7=Не турбуйтеся за мене! Я вмію за себе постояти.
+
+
+# Tramp
+### Probably... But their numbers are great. You can't beat them all.
+PC03_TRAMP_RATS2-8=Мабуть... Але їх дуже багато. Тобі не здолати їх усіх.
+
+
+# Brok
+### Bet on it?
+PC03_TRAMP_RATS2-9=Поспоримо?
+
+
+#----------------------------------------------------
+# Brok
+### (He said not to get involved, or I'd get into trouble...)
+PC03_TRAMP_THINK1-1=(Він казав не втручатися, бо в мене будуть неприємності...)
+
+
+# Brok
+### (Maybe he's right but I can't help it. I need to help the poor chap!)
+PC03_TRAMP_THINK1-2=(Можливо, він має рацію, але я нічого не можу із собою вдіяти. Я мушу допомогти бідоласі!)
+
+
+#----------------------------------------------------
+# Brok
+### I've gotta go but I'll be back soon.
+PC03_TRAMP_EXIT1-1=Мені час йти, але я скоро повернуся.
+
+
+# Tramp
+### Be careful, boy.
+PC03_TRAMP_EXIT1-2=Будь обережним, хлопче.
+
+
+#----------------------------------------------------
+# Brok
+### Stay here. I'll find a cure for ya.
+PC03_TRAMP_EXIT2-1=Залишайтеся тут. Я знайду для вас ліки.
+
+
+# Tramp
+### I can tell you're busy. Don't waste your precious time on me.
+PC03_TRAMP_EXIT2-2=Я бачу, що ти зайнятий. Не марнуй на мене свій дорогоцінний час.
+
+
+#----------------------------------------------------
+# Brok
+### That's for you!
+PC03_TRAMP_INV_TRAMPPRESCR_BEFORE-1=Це вам!
+
+
+# Tramp
+### My boy... Do you need some glasses?
+PC03_TRAMP_INV_TRAMPPRESCR_BEFORE-2=Мій хлопче... Тобі, бува, окуляри не потрібні?
+
+
+# Tramp
+### Why are you giving me back my medical prescription?
+PC03_TRAMP_INV_TRAMPPRESCR_BEFORE-3=Навіщо ти повертаєш мені мій медичний рецепт?
+
+
+# Brok
+### Oops!
+PC03_TRAMP_INV_TRAMPPRESCR_BEFORE-4=Ой!
+
+
+#----------------------------------------------------
+# Brok
+### It's... gonna be a little more complex than I thought.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-1=Усе... буде трохи складніше, ніж я думав.
+
+
+# Tramp
+### Oh.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-2=Ох.
+
+
+# Brok
+### But don't worry!
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-3=Але не хвилюйтеся!
+
+
+# Brok
+### I'm not giving up!
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-4=Я не здаюся!
+
+
+# Brok
+### Is there anything I can do for you until I get your medicine?
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-5=Можу я щось зробити для вас, поки не дістану ліки?
+
+
+# Tramp
+### Hmm...
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-6=Гмм...
+
+
+# Tramp
+### Some regular medicine helps a bit...
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-7=Деякі звичайні ліки трохи допомагають...
+
+
+# Brok
+### Tell me! Which one?
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-8=Скажіть! Які саме?
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+### Glucosite. But it's so expensive...
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-9=Глюкозит. Але він такий дорогий...
+
+
+# Tramp
+### I can't ask you...
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-10=Я не можу просити тебе...
+
+
+# Brok
+### I'll get you that.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-11=Я дістану його для вас.
+
+
+# Tramp
+### Don't. You'll only be delaying the inevitable.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-12=Не треба. Ти лише відтермінуєш неминуче.
+
+
+# Tramp
+### I know you and your son could use that money.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-13=Я знаю, що тобі та твоєму синові ці гроші згодилися б більше.
+
+
+# Brok
+### My son...? How do you...?
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-14=Моєму синові...? Звідки ви...?
+
+
+# Tramp
+### Just a guess.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-15=Просто припущення.
+
+
+# Brok
+### Well, I'll get some anyway!
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-16=Що ж, я все одно куплю його!
+
+
+# Tramp
+### Alright...
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-17=Гаразд...
+
+
+# Tramp
+### But promise me... You won't be foolish.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-18=Але пообіцяй мені... Що ти не діятимеш необачно.
+
+
+# Tramp
+### Keep this in mind.
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-19=Пам'ятай і будь обережним.
+
+
+# Brok
+### Sure!
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-20=Авжеж!
+
+
+#----------------------------------------------------
+# Tramp
+### Did you get my medicine?
+PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE2-1=Ти дістав мої ліки?
+
+
+#----------------------------------------------------
+# Brok
+### Here.
+PC03_TRAMP_GLUCOSITE_YES1-1=Ось.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+### Glucosite...?
+PC03_TRAMP_GLUCOSITE_YES1-2=Глюкозит...?
+
+
+# Tramp
+### My boy...
+PC03_TRAMP_GLUCOSITE_YES1-3=Мій хлопче...
+
+
+# Brok
+### Nah. Don't say anythin'.
+PC03_TRAMP_GLUCOSITE_YES1-4=Та ні. Нічого не кажіть.
+
+
+# Brok
+### Just take it.
+PC03_TRAMP_GLUCOSITE_YES1-5=Просто візьміть.
+
+
+# Tramp
+### Fine.
+PC03_TRAMP_GLUCOSITE_YES1-6=Добре.
+
+
+# Tramp
+### Thank you.
+PC03_TRAMP_GLUCOSITE_YES1-7=Дякую тобі.
+
+
+# Brok
+### I still intend to get your prescription medicine. Gotta find a doctor though.
+PC03_TRAMP_GLUCOSITE_YES1-8=Я все ще маю намір дістати ваші ліки за рецептом. Щоправда, треба знайти лікаря.
+
+
+# Tramp
+### Don't waste your life on this.
+PC03_TRAMP_GLUCOSITE_YES1-9=Не марнуй своє життя на це.
+
+
+# Tramp
+### Time is money and you're clearly lacking both.
+PC03_TRAMP_GLUCOSITE_YES1-10=Час - це гроші, а тобі явно бракує і того, і іншого.
+
+
+# Brok
+### I'll manage.
+PC03_TRAMP_GLUCOSITE_YES1-11=Я впораюся.
+
+
+#----------------------------------------------------
+# Brok
+### Sorry... I need more time.
+PC03_TRAMP_GLUCOSITE_NO1-1=Вибачте... Мені потрібно більше часу.
+
+
+# Tramp
+### That's okay.
+PC03_TRAMP_GLUCOSITE_NO1-2=Все гаразд.
+
+
+#----------------------------------------------------
+# Tramp
+### I feel a little better now...
+PC03_TRAMP_NOMEDICINE-1=Зараз я почуваюся трохи краще...
+
+
+# Brok
+### Great!
+PC03_TRAMP_NOMEDICINE-2=Чудово!
+
+
+# Tramp
+### ...but it won't last forever.
+PC03_TRAMP_NOMEDICINE-3=...але це ненадовго.
+
+
+# Brok
+### No worries. I'll get you your prescription!
+PC03_TRAMP_NOMEDICINE-4=Не хвилюйтеся. Я дістану ваш рецепт!
+
+
+#----------------------------------------------------
+# Brok
+### Here! Take this!
+PC03_TRAMP_INV_DEFAULT1-1=Ось! Візьміть це!
+
+
+# Tramp
+### My boy... I may be homeless but I'm not that desperate.
+PC03_TRAMP_INV_DEFAULT1-2=Мій хлопче... Я хоч і безхатько, але ще не в такому розпачі.
+
+
+#----------------------------------------------------
+# Brok
+### This should be useful to you!
+PC03_TRAMP_INV_DEFAULT2-1=Це стане вам у пригоді!
+
+
+# Tramp
+### Keep it. I won't have any use for it.
+PC03_TRAMP_INV_DEFAULT2-2=Залиш собі. Мені воно ні до чого.
+
+
+#----------------------------------------------------
+# Brok
+### I need help to pay my bills.
+PC03_TRAMP_INV_BILL1-1=Мені потрібна допомога, щоб сплатити рахунки.
+
+
+# Tramp
+### And... you're asking me...?
+PC03_TRAMP_INV_BILL1-2=І... ти питаєш про це мене...?
+
+
+# Brok
+### Oops... Sorry!
+PC03_TRAMP_INV_BILL1-3=Ой... Вибачте!
+
+
+#----------------------------------------------------
+# Tramp
+### We used some like these in the military.
+PC03_TRAMP_INV_MINEBROKEN-1=Ми використовували щось подібне у війську.
+
+
+# Tramp
+### You shouldn't carry this!
+PC03_TRAMP_INV_MINEBROKEN-2=Тобі не слід носити таке із собою!
+
+
+# Brok
+### Don't worry! It's broken!
+PC03_TRAMP_INV_MINEBROKEN-3=Не хвилюйтеся! Вона зламана!
+
+
+#----------------------------------------------------
+# Brok
+### Here. For you.
+PC03_TRAMP_INV_MONEY-1=Ось. Це вам.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### My boy. I may be a tramp, but money isn't what I need right now.
+PC03_TRAMP_INV_MONEY-2=Мій хлопче. Я може й волоцюга, але гроші це не те, що мені зараз потрібно.
+
+
+# Brok
+### Sorry... Just wanted to help.
+PC03_TRAMP_INV_MONEY-3=Вибачте... Просто хотів допомогти.
+
+
+# Tramp
+### Save your money. It'll be more useful to you.
+PC03_TRAMP_INV_MONEY-4=Прибережи свої гроші. Вони тобі знадобляться більше.
+
+
+#----------------------------------------------------
+# Tramp
+### I get it. But I really can't accept. Your home is your home.
+PC03_TRAMP_INV_APARTMENTKEY-1=Я розумію. Але справді не можу це прийняти. Твій дім - це твій дім.
+
+
+#----------------------------------------------------
+# Brok
+### Here! This should cure you!
+PC03_TRAMP_INV_PILL-1=Ось! Це має вас вилікувати!
+
+
+# Tramp
+### What is it?
+PC03_TRAMP_INV_PILL-2=Що це?
+
+
+# Brok
+### Erm...
+PC03_TRAMP_INV_PILL-3=Е-е...
+
+
+# Tramp
+### Sorry, boy. A placebo won't do me any good...
+PC03_TRAMP_INV_PILL-4=Вибач, хлопче. Плацебо мені не допоможе...
+
+
+#----------------------------------------------------
+# Tramp
+### Thank you my boy, but I already have one.
+PC03_TRAMP_INV_POLLUTIONPILL-1=Дякую, хлопче, але в мене вже є така.
+
+
+# Tramp
+### I still take my daily pills. I figured I could stop but death by suffocation scares me.
+PC03_TRAMP_INV_POLLUTIONPILL-2=Я все ще приймаю свої щоденні пігулки. Думав, що можу кинути, але смерть від задухи лякає мене.
+
+
+#----------------------------------------------------
+# Tramp
+### I used to be a master in martial arts!
+PC03_TRAMP_INV_STICK-1=Колись я був майстром бойових мистецтв!
+
+
+# Tramp
+### Now I can barely hold a spoon without dropping it...
+PC03_TRAMP_INV_STICK-2=Тепер я ледве можу втримати ложку, щоб не впустити...
+
+
+#----------------------------------------------------
+# Tramp
+### Go ahead.
+PC03_TRAMP_INV_GUN-1=Ну давай, зроби це.
+
+
+# Brok
+### Wait, no! I just meant to show you...
+PC03_TRAMP_INV_GUN-2=Чекайте, ні! Я просто хотів показати...
+
+
+#----------------------------------------------------
+# Brok
+### Here. This will keep you warm!
+PC03_TRAMP_INV_CATFUR-1=Ось. Це зігріє вас!
+
+
+# Tramp
+### Erm... How do I say this...
+PC03_TRAMP_INV_CATFUR-2=Е-е... Як би це сказати...
+
+
+# Brok
+### Forget it.
+PC03_TRAMP_INV_CATFUR-3=Забудьте.
+
+
+#----------------------------------------------------
+# Tramp - Player hits the Tramp
+### ...Ouch.
+PC03_TRAMP_HIT1-1=...Ай.
+
+
+# Brok
+### Oh, no! Sorry, I did not mean...
+PC03_TRAMP_HIT1-2=О ні! Вибачте, я не хотів...
+
+
+# Tramp
+### It's okay, my boy. Don't worry.
+PC03_TRAMP_HIT1-3=Усе гаразд, хлопче. Не хвилюйся.
+
+
+#----------------------------------------------------
+# Brok
+### Sorry... My hand slipped!
+PC03_TRAMP_HIT2-1=Вибачте... Рука здригнулася!
+
+
+# Tramp
+### I'm fine. More or less.
+PC03_TRAMP_HIT2-2=Я в нормі. Більш-менш.
+
+
+#----------------------------------------------------
+# Tramp
+### I see... So it wasn't an accident.
+PC03_TRAMP_HIT3-1=Зрозуміло... Виходить, це було не випадково.
+
+
+# Tramp
+### Very well. I'm ready. I prefer to die by your hands than theirs.
+PC03_TRAMP_HIT3-2=Що ж. Я готовий. Краще я помру від твоїх рук, ніж від їхніх.
+
+
+#----------------------------------------------------
+# Brok - Tramp dead
+### ...
+PC03_TRAMP_DEATH-1=...
+
+
+# Brok
+### ...He's... dead...
+PC03_TRAMP_DEATH-2=...Він... мертвий...
+
+
+#----------------------------------------------------
+# Brok - Player didn't get the medecine so tramp is dead
+### I couldn't get his medicine... But...
+PC03_TRAMP_DEATH_GLUCOSITE-1=Я не зміг дістати його ліки... Але...
+
+
+# Brok
+### There must have been a way! I... should have tried harder!
+PC03_TRAMP_DEATH_GLUCOSITE-2=Мав бути якийсь спосіб! Мені... треба було краще старатися!
+
+
+#----------------------------------------------------
+# Brok - Player kills the Tramp
+### Oh no... When did I become a murderer...?
+PC03_TRAMP_DEATH_US-1=О ні... Коли це я став убивцею...?
+
+
+# Brok
+### I ended his suffering but... Was it my choice to make...?
+PC03_TRAMP_DEATH_US-2=Я припинив його страждання, але... Чи мав я право робити такий вибір...?
+
+
+#----------------------------------------------------
+# Brok - Player fled
+### I knew what would happen... But I chose to flee...
+PC03_TRAMP_DEATH_THEM-1=Я знав, що станеться... Але вирішив утекти...
+
+
+#----------------------------------------------------
+# Brok
+### Too late to have regrets...
+PC03_TRAMP_DEATH_NEXT-1=Пізно про щось шкодувати...
+
+
+# Brok
+### (Sigh)
+PC03_TRAMP_DEATH_NEXT-2=(Зітхає)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+### Better call the Body Recycling service... So his death won't be entirely in vain.
+PC03_TRAMP_DEATH_NEXT-3=Краще зателефонувати в Службу Переробки Тіл... Щоб його смерть не була зовсім марною.
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Talk to the Tramp
+### Are you holding up?
+PC03_TRAMP_WELCOME_DAY2END-1=Тримаєтеся?
+
+
+# Tramp
+### ...Yes.
+PC03_TRAMP_WELCOME_DAY2END-2=...Так.
+
+
+# Brok
+### (He's trying to stay strong but I can see it...)
+PC03_TRAMP_WELCOME_DAY2END-3=(Він намагається триматися, але я ж бачу...)
+
+
+# Brok
+### (He's not well at all. I'd better get that prescription fast...)
+PC03_TRAMP_WELCOME_DAY2END-4=(Йому зовсім зле. Краще мені швидше дістати той рецепт...)
+
+
+#----------------------------------------------------
+# Brok
+### Hey! How are you today?
+PC03_TRAMP_WELCOME_DAY2-1=Вітаю! Як ви сьогодні?
+
+
+# Tramp
+### I've spent a horr--...
+PC03_TRAMP_WELCOME_DAY2-2=Ніч була жах--...
+
+
+# Tramp
+### Well... I'm still alive. Thanks to you.
+PC03_TRAMP_WELCOME_DAY2-3=Ну... Я все ще живий. Завдяки тобі.
+
+
+# Brok
+### Glad to hear!
+PC03_TRAMP_WELCOME_DAY2-4=Радий це чути!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### (I still need to find a doctor. But they all live in the Drums and I don't know any I could trust.)
+PC03_TRAMP_WELCOME_DAY2-5=(Мені все ще треба знайти лікаря. Але всі вони живуть на Верхах, і я не знаю нікого, кому міг би довіряти.)
+
+
+# Brok
+### (Hopefully I'll meet one today.)
+PC03_TRAMP_WELCOME_DAY2-6=(Сподіваюся, сьогодні когось зустріну.)
+
+
+#----------------------------------------------------
+# Brok
+### Hey! How are you today?
+PC03_TRAMP_WELCOME_DAY3-1=Вітаю! Як ви сьогодні?
+
+
+# Tramp
+### (Heavy breathing)
+PC03_TRAMP_WELCOME_DAY3-2=(Важко дихає)
+
+
+# Tramp
+### I'm... fine.
+PC03_TRAMP_WELCOME_DAY3-3=Я... у нормі.
+
+
+# Brok
+### (Oh no... He's on his last legs.)
+PC03_TRAMP_WELCOME_DAY3-4=(О ні... Він уже однією ногою в могилі.)
+
+
+# Brok
+### (Wait... Isn't my new client a doctor?)
+PC03_TRAMP_WELCOME_DAY3-5=(Стривайте... А хіба мій новий клієнт не лікар?)
+
+
+#----------------------------------------------------
+# Tramp
+### (Heavy breathing)
+PC03_TRAMP_GHERKIN1-1=(Важко дихає)
+
+
+# Brok
+### Doctor! Can you do something for him?
+PC03_TRAMP_GHERKIN1-2=Лікарю! Ви можете щось зробити для нього?
+
+
+# Gherkin
+### Oh no! Poor sir!
+PC03_TRAMP_GHERKIN1-3=О ні! Бідний добродію!
+
+
+# Gherkin
+### Why didn't you tell me about his condition?!
+PC03_TRAMP_GHERKIN1-4=Чому ви не сказали мені про його стан?!
+
+
+#----------------------------------------------------
+# Brok
+### Doesn't matter!
+PC03_TRAMP_GHERKINNO-1=Не має значення!
+
+
+#----------------------------------------------------
+# Brok
+### I did!
+PC03_TRAMP_GHERKINYES-1=Я казав!
+
+
+#----------------------------------------------------
+# Brok
+### Here's his prescription.
+PC03_TRAMP_GHERKIN2-1=Ось його рецепт.
+
+
+# Gherkin
+### Oh!
+PC03_TRAMP_GHERKIN2-2=О!
+
+
+# Gherkin
+### Sir, you're in luck. I have exactly what you need in my suitcase.
+PC03_TRAMP_GHERKIN2-3=Вам пощастило, пане. У моїй валізі є саме те, що вам потрібно.
+
+
+# Brok
+### Great!
+PC03_TRAMP_GHERKIN2-4=Чудово!
+
+
+# Tramp
+### Who... are you?...
+PC03_TRAMP_GHERKIN2-5=Хто... ви...?
+
+
+# Gherkin
+### This experimental high concentration formula should last a few years.
+PC03_TRAMP_GHERKIN2-6=Ця експериментальна висококонцентрована формула має прослужити кілька років.
+
+
+# Brok
+### Please! Swallow this!
+PC03_TRAMP_GHERKIN2-7=Будь ласка! Проковтніть це!
+
+
+# Tramp
+### ...
+PC03_TRAMP_GHERKIN2-8=...
+
+
+# Gherkin
+### It should have immediate effects.
+PC03_TRAMP_GHERKIN2-9=Вона має подіяти негайно.
+
+
+# Brok
+### Thank you so much, Doctor!
+PC03_TRAMP_GHERKIN2-10=Щиро дякую, докторе!
+
+
+#----------------------------------------------------
+# Brok - Day 2 end - Give his medicine!
+### I've got something for you!
+PC03_TRAMP_WELCOME_MEDICINE1-1=У мене дещо є для вас!
+
+
+# Brok
+### Here!
+PC03_TRAMP_WELCOME_MEDICINE1-2=Ось!
+
+
+# Tramp
+### ...Is this...?
+PC03_TRAMP_WELCOME_MEDICINE1-3=...Невже це...?
+
+
+# Brok
+### Yup. Your medicine!
+PC03_TRAMP_WELCOME_MEDICINE1-4=Так. Ваші ліки!
+
+
+# Tramp
+### My boy...
+PC03_TRAMP_WELCOME_MEDICINE1-5=Мій хлопче...
+
+
+# Tramp
+### That's... more than I could ever hope for...
+PC03_TRAMP_WELCOME_MEDICINE1-6=Це... більше, ніж я взагалі міг сподіватися...
+
+
+# Tramp
+### How can I ever repay you...?
+PC03_TRAMP_WELCOME_MEDICINE1-7=Як я можу тобі віддячити...?
+
+
+# Brok
+### No need. I'm just glad to help!
+PC03_TRAMP_WELCOME_MEDICINE1-8=Не потрібно. Я просто радий допомогти!
+
+
+# Tramp
+### Ah ah. Let me put all this away before we attract the wrong eyes.
+PC03_TRAMP_WELCOME_MEDICINE1-9=Ха-ха. Дай-но я сховаю все це, поки ми не привернули чужих очей.
+
+
+# Brok
+### Sure!
+PC03_TRAMP_WELCOME_MEDICINE1-10=Звісно!
+
+
+# Brok
+### And if those darn rats show up... I'll be there!
+PC03_TRAMP_WELCOME_MEDICINE1-11=А якщо з'являться ці кляті щури... я буду поруч!
+
+
+# Tramp
+### I'm pretty sure they wouldn't dare. You gave them a run for their money yesterday!
+PC03_TRAMP_WELCOME_MEDICINE1-12=Я майже впевнений, що вони не наважаться. Вчора ти дав їм добрячого прочухана!
+
+
+# Tramp
+### And with this I should be able to defend myself. My military skills are there, just waiting to be awakened.
+PC03_TRAMP_WELCOME_MEDICINE1-13=А з цим я й сам зможу захиститися. Мої військові навички нікуди не поділися, вони просто чекають свого часу.
+
+
+# Brok
+### Great!
+PC03_TRAMP_WELCOME_MEDICINE1-14=Чудово!
+
+
+# Brok
+### Well...
+PC03_TRAMP_WELCOME_MEDICINE1-15=Що ж...
+
+
+# Brok
+### Get better.
+PC03_TRAMP_WELCOME_MEDICINE1-16=Одужуйте.
+
+
+# Tramp
+### I will.
+PC03_TRAMP_WELCOME_MEDICINE1-17=Так і зроблю.
+
+
+# Tramp
+### These won't cure my disease but... It should stabilize it.
+PC03_TRAMP_WELCOME_MEDICINE1-18=Вони не вилікують мою хворобу, але... мають її стабілізувати.
+
+
+# Brok
+### Wish I could do more, though.
+PC03_TRAMP_WELCOME_MEDICINE1-19=Хотілося б зробити для вас більше.
+
+
+# Tramp
+### You just gave me a future.
+PC03_TRAMP_WELCOME_MEDICINE1-20=Ти щойно дав мені майбутнє.
+
+
+# Tramp
+### There's no better gift than this.
+PC03_TRAMP_WELCOME_MEDICINE1-21=Кращого подарунка й бути не може.
+
+
+# Brok
+### Yeah...
+PC03_TRAMP_WELCOME_MEDICINE1-22=Так...
+
+
+# Brok
+### Still, my offer to host you stands. Just for a while if you want.
+PC03_TRAMP_WELCOME_MEDICINE1-23=Усе ж, моя пропозиція прихистити вас лишається в силі. Хоча б ненадовго, якщо захочете.
+
+
+# Tramp
+### And I still have to respectfully decline.
+PC03_TRAMP_WELCOME_MEDICINE1-24=А я все ще змушений ввічливо відмовитись.
+
+
+# Brok
+### But...
+PC03_TRAMP_WELCOME_MEDICINE1-25=Але...
+
+
+# Tramp
+### Just like you... This is my choice.
+PC03_TRAMP_WELCOME_MEDICINE1-26=Так само, як ти зробив свій вибір... Я зробив свій.
+
+
+# Brok
+### Okay... Well, our door is open if you change your mind.
+PC03_TRAMP_WELCOME_MEDICINE1-27=Гаразд... Наші двері завжди відчинені, якщо ви зміните думку.
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Thank you, Brok.
+PC03_TRAMP_WELCOME_MEDICINE1-28=Дякую тобі, Броку.
+
+
+# Brok
+### ...
+PC03_TRAMP_WELCOME_MEDICINE1-29=...
+
+
+# Brok
+### (...?)
+PC03_TRAMP_WELCOME_MEDICINE1-30=(...?)
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Brok comes back and the Tramp is gone, leaving a letter for him
+### Huh...?
+PC03_TRAMP_GONE1-1=Га...?
+
+
+#----------------------------------------------------
+# Brok
+### He's gone...?
+PC03_TRAMP_GONE2-1=Він пішов...?
+
+
+# Brok
+### I hope nothing happened to...
+PC03_TRAMP_GONE2-2=Сподіваюся, з ним нічого не...
+
+
+# Brok
+### Wait. What's that?
+PC03_TRAMP_GONE2-3=Стривайте. Що це?
+
+
+#----------------------------------------------------
+# Brok
+### A letter...
+PC03_TRAMP_GONE3-1=Лист...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### "To Brok"...?
+PC03_TRAMP_GONE3-2="Брокові"...?
+
+
+# Tramp
+### "Hello, my boy."
+PC03_TRAMP_GONE3-3="Привіт, мій хлопче."
+
+
+# Tramp
+### "I've taken your suggestion and decided to live in a more quiet place."
+PC03_TRAMP_GONE3-4="Я послухав твоєї поради й вирішив жити в спокійнішому місці."
+
+
+# Tramp
+### "Although I'm a bit ashamed because... I lied to you."
+PC03_TRAMP_GONE3-5="Хоча мені трохи соромно, бо... я збрехав тобі."
+
+
+# Tramp
+### "There's a reason why I came here."
+PC03_TRAMP_GONE3-6="Була причина, чому я прийшов сюди."
+
+
+# Tramp
+### "I wanted to see my best friend's adoptive son before leaving this world."
+PC03_TRAMP_GONE3-7="Перед тим, як покинути цей світ, я хотів побачити прийомного сина свого найкращого друга."
+
+
+# Tramp
+### "You see... I knew your 'Grandpa'."
+PC03_TRAMP_GONE3-8="Річ у тім, що... я знав твого 'дідуся'."
+
+
+# Tramp
+### "When he died, I should have taken care of you. He asked me but I refused..."
+PC03_TRAMP_GONE3-9="Коли він помер, я мав подбати про тебе. Він просив мене, але я відмовився..."
+
+
+# Tramp
+### "Back then I was still young. I didn't think I could handle it... being in the military and all."
+PC03_TRAMP_GONE3-10="Тоді я був ще молодим. Я думав, що не впораюся з цим... військова служба й усе таке."
+
+
+# Tramp
+### "I've regretted this decision every day. You were all alone."
+PC03_TRAMP_GONE3-11="Я шкодував про це рішення щодня. Ти лишився зовсім один."
+
+
+# Tramp
+### "Despite this, I'm glad you turned into such a strong, good hearted person."
+PC03_TRAMP_GONE3-12="Попри це, я радий, що ти став таким сильним і добросердим."
+
+
+# Tramp
+### "You're exactly like him. Always wanting to help everyone."
+PC03_TRAMP_GONE3-13="Ти точно такий самий, як він. Завжди прагнеш усім допомогти."
+
+
+# Tramp
+### "I know because..."
+PC03_TRAMP_GONE3-14="Я знаю це, бо..."
+
+
+# Tramp
+### "Well... I promised I wouldn't say anything but..."
+PC03_TRAMP_GONE3-15="Ну... Я обіцяв нічого не казати, але..."
+
+
+# Tramp
+### "Let's just say... I got a chance to find out how tremendous you were a long time ago."
+PC03_TRAMP_GONE3-16="Скажімо так... Мені випала нагода дізнатися, наскільки ти неймовірний, вже дуже давно."
+
+
+# Tramp
+### "Be careful though. Life isn't so simple."
+PC03_TRAMP_GONE3-17="Але будь обережним. Життя не таке просте."
+
+
+# Tramp
+### "Don't let others abuse your kindness. Don't let it cloud your judgement."
+PC03_TRAMP_GONE3-18="Не дозволяй іншим зловживати твоєю добротою. Не дозволяй їй затьмарювати твій розум."
+
+
+# Tramp
+### "You gave me a second chance and convinced me to use the last few years of my life in a better way."
+PC03_TRAMP_GONE3-19="Ти дав мені другий шанс і переконав прожити останні роки мого життя краще."
+
+
+# Tramp
+### "I want to leave you a parting gift. Please put this to good use during your battles."
+PC03_TRAMP_GONE3-20="Я хочу залишити тобі прощальний подарунок. Використай його з користю у своїх боях."
+
+
+# Tramp
+### "Don't worry. We'll see each other again... Although I may be a little different!"
+PC03_TRAMP_GONE3-21="Не хвилюйся. Ми ще побачимося... Хоча я можу трохи змінитися до того моменту!"
+
+
+# Tramp
+### "Keep being strong for everyone"
+PC03_TRAMP_GONE3-22="Будь і надалі сильним заради всіх"
+
+
+# Tramp
+### "Your uncle Ric"
+PC03_TRAMP_GONE3-23="Твій дядько Рік"
+
+
+# Brok
+### Uncle...
+PC03_TRAMP_GONE3-24=Дядьку...
+
+
+# Brok
+### I wish you'd have told me... We didn't get to spend a lot of time together.
+PC03_TRAMP_GONE3-25=Якби ж ви мені сказали... Ми так мало часу провели разом.
+
+
+# Brok
+### There's a paper with my address here.
+PC03_TRAMP_GONE3-26=Тут папірець з моєю адресою.
+
+
+# Brok
+### And...
+PC03_TRAMP_GONE3-27=І...
+
+
+# Brok
+### Some kind of lucky charm.
+PC03_TRAMP_GONE3-28=Якийсь талісман удачі.
+
+
+#----------------------------------------------------
+# Brok
+### Sounds pretty useful!
+PC03_TRAMP_GONE4-1=Звучить досить корисно!
+
+
+# Brok
+### Thanks, Uncle. I'll keep this with me at all times.
+PC03_TRAMP_GONE4-2=Дякую, дядьку. Я завжди носитиму це з собою.
+
+
+# Brok
+### I'll never forget you...
+PC03_TRAMP_GONE4-3=Я ніколи вас не забуду...
+
+
+#----------------------------------------------------
+# Brok - Interaction with sticker
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hey, isn't this Graff's favorite band?
+PC03_STICKERDISPLAY1-1=Гей, хіба це не улюблений гурт Граффа?
+
+
+# Brok
+### Maybe I could buy him a ticket!
+PC03_STICKERDISPLAY1-2=Можливо, варто купити йому квиток!
+
+
+# Brok
+### If my finances allow it.
+PC03_STICKERDISPLAY1-3=Якщо мої фінанси дозволять.
+
+
+#----------------------------------------------------
+# Brok - Day 2 end - Drones visit Brok if bills unpaid
+### ...
+PC03_STORY175_DRONES-1=...
+
+
+# Brok
+### Drones...? What's it this time...
+PC03_STORY175_DRONES-2=Дрони...? Що цього разу...
+
+
+# Tribot
+### Slum citizen
+PC03_STORY175_DRONES-3=Мешканець Нетрів
+
+
+# Tribot
+### You have overdue bills
+PC03_STORY175_DRONES-4=У вас є прострочені рахунки
+
+
+# Tribot
+### Explain yourself
+PC03_STORY175_DRONES-5=Поясніть ситуацію
+
+
+# Brok
+### What do you expect?
+PC03_STORY175_DRONES-6=А ви чого чекали?
+
+
+# Brok
+### Dun' have the moolah!
+PC03_STORY175_DRONES-7=У мене немає бабла!
+
+
+# Tribot
+### You've got three seconds to pay
+PC03_STORY175_DRONES-8=У вас є три секунди на оплату
+
+
+# Brok
+### Three seconds?!
+PC03_STORY175_DRONES-9=Три секунди?!
+
+
+# Brok
+### Or else what...
+PC03_STORY175_DRONES-10=А інакше що...
+
+
+# Tribot
+### Delay expired
+PC03_STORY175_DRONES-11=Час очікування вичерпано
+
+
+# Tribot
+### Prepare for life expiration
+PC03_STORY175_DRONES-12=Приготуйтеся до припинення життєдіяльності
+
+
+# Brok
+### Oh well.
+PC03_STORY175_DRONES-13=Ну що ж.
+
+
+# Brok
+### Paid or not, bills always hurt.
+PC03_STORY175_DRONES-14=Оплачені чи ні, рахунки завжди б'ють боляче.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC03_STORY175_DRONES_WIN-1=...
+
+
+# Brok
+### Guess I should think twice about leaving bills unpaid. Next time they might bomb the whole district!
+PC03_STORY175_DRONES_WIN-2=Мабуть, треба двічі подумати перед тим, як залишати рахунки неоплаченими. Наступного разу вони можуть розбомбити весь район!
+
+
+#----------------------------------------------------
+# Tramp - Day 2 end - Brok comes back when Graff didn't take his Toxout pill
+### My boy!
+PC03_TRAMP_PILLWELCOME-1=Мій хлопче!
+
+
+# Tramp
+### Come back home, fast! Your son is in danger!
+PC03_TRAMP_PILLWELCOME-2=Повертайся додому, мерщій! Твій син у небезпеці!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff ?!
+PC03_TRAMP_PILLWELCOME-3=Графф?!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### No! Graff needs me!
+PC03_LEAVINGNOPE-1=Ні! Граффові потрібна моя допомога!
+
+
+#----------------------------------------------------
+# Tribot
+### Your debts shall be passed on to your legal heir
+PC03_STORY175_DRONES_LOSE-1=Борги будуть передані вашому законному спадкоємцю
+
+
+# Tribot
+### Thank you for your cooperation
+PC03_STORY175_DRONES_LOSE-2=Дякуємо за співпрацю
+
+
+#----------------------------------------------------
+# Tramp - Gameover after fighting
+### Oh no!...
+PC03_TRAMP_RAT_LOSE1-1=О ні...!
+
+
+# Dart
+### Too easy!
+PC03_TRAMP_RAT_LOSE1-2=Надто просто!
+
+
+# Dart
+### Your turn, old man.
+PC03_TRAMP_RAT_LOSE1-3=Твоя черга, старий.
+
+
+#----------------------------------------------------
+# Tramp - Gameover after fighting
+### Noooo!
+PC03_TRAMP_RAT_LOSE2-1=Ніііі!
+
+
+# Kins
+### Dis time, we got the last laugh!
+PC03_TRAMP_RAT_LOSE2-2=Цього разу сміємося ми!
+
+
+# Rat
+### Yeah! Dat's one totally dead croc!
+PC03_TRAMP_RAT_LOSE2-3=Ага! Цей крок геть мертвий!
+
+
+# Dart
+### Oops... Da boss said to bring him alive.
+PC03_TRAMP_RAT_LOSE2-4=Ой-ой... А бос казав притягнути його живим.
+
+
+# Kins
+### Ya dimwit! Why didn't you say so?!
+PC03_TRAMP_RAT_LOSE2-5=От бовдур! Нашо ти мовчав?!
+
+
+# Dart
+### Sorry guys...
+PC03_TRAMP_RAT_LOSE2-6=Пробачте, чуваки...
+
+
+#----------------------------------------------------
+# Brok
+### Wait... That one is different!
+PC03_STICKER_AD-1=Стривайте... Оця відрізняється!
+
+
+#----------------------------------------------------
+# Brok
+### I can't leave yet!
+PC03_LEAVINGNOPEALT-1=Я ще не можу піти!
+
+
+#----------------------------------------------------
+# Brok - Brok saves the Tramp
+### Hey! Leave the old man alone!
+PC03_TRAILER1-1=Гей! Облиште старого!
+
+
+# Kins
+### None of yer business. Get the heck outta here!
+PC03_TRAILER1-2=Не твоя справа. Забирайся до біса звідси!
+
+
+# Brok
+### Enough! You're gonna regret it!
+PC03_TRAILER1-3=Годі! Ви про це пошкодуєте!
+
+
+#----------------------------------------------------
+# Brok
+### ...He's... dead...
+PC03_TRAILER2-1=...Він... мертвий...
+
+
+#----------------------------------------------------
+# Unknown
+### I see...in this dimension he caught a disease.
+COOP_PC03_TRAMP1-1=Розумію... у цьому вимірі він підхопив хворобу.
+
+
+# Unknown
+### It makes him look so old. What a change.
+COOP_PC03_TRAMP1-2=Вона робить його на вигляд таким старим. Оце так зміна.
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,392 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Chiefrat (Unknown)
+#     Brok - Graff (Unknown)
+#     Chiefrat - Brok (Unknown)
+#     Chiefrat - Dart (Unknown)
+#     Chiefrat - Graff (Unknown)
+#     Chiefrat - Kins (Unknown)
+#     Dart - Chiefrat (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Chiefrat (Unknown)
+#     Kins - Chiefrat (Unknown)
+
+#-------------------------------
+#= BROK --- SEWERS BELOW
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+
+
+
+# Chiefrat - Day 3 - Graff has been kidnapped and Brok chose to save Graff from the Squealers
+### Finally here.
+PC05D_INIT1-1=Нарешті прийшов.
+
+
+# Chiefrat
+### So predictable. So easy to manipulate.
+PC05D_INIT1-2=Такий передбачуваний. Тобою так легко маніпулювати.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!...
+PC05D_INIT1-3=Броку...!
+
+
+# Brok
+### Release my boy! Now!
+PC05D_INIT1-4=Відпусти мого хлопця! Негайно!
+
+
+# Chiefrat
+### I will. Ya got my word.
+PC05D_INIT1-5=Відпущу. Даю слово.
+
+
+# Chiefrat
+### But only after I'm finished with ya... once and for all!
+PC05D_INIT1-6=Але тільки після того, як покінчу з тобою... раз і назавжди!
+
+
+# Brok
+### That revenge thing again...?
+PC05D_INIT1-7=Знову ця тема з помстою...?
+
+
+# Brok
+### I don't even know what you've got against me!
+PC05D_INIT1-8=Я навіть не знаю, що ти проти мене маєш!
+
+
+# Chiefrat
+### How dare you!
+PC05D_INIT1-9=Як ти смієш!
+
+
+# Chiefrat
+### You think losing sight of your actions will make you redeem them?
+PC05D_INIT1-10=Гадаєш, якшо ти забув про свої вчинки, це тебе виправдовує?
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Us Squealers... will never forget!
+PC05D_INIT1-11=Ми, Верескуни... ніколи не забудемо!
+
+
+# Kins
+### Yeah!
+PC05D_INIT1-12=Так!
+
+
+# Kins
+### Fight to the end...
+PC05D_INIT1-13=Борімося до кінця...
+
+
+# Chiefrat
+### To reclaim our due!
+PC05D_INIT1-14=Шоб повернути своє!
+
+
+#----------------------------------------------------
+# Chiefrat - After the fight the rat chief tries to escape and use Graff
+### ...
+PC05D_AFTERFIGHT1-1=...
+
+
+# Brok
+### Hey! Stay here and fight, you coward!
+PC05D_AFTERFIGHT1-2=Гей! Лишайся тут і бийся, боягузе!
+
+
+#----------------------------------------------------
+# Graff
+### Argh!
+PC05D_AFTERFIGHT1C-1=А-аа!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC05D_AFTERFIGHT1C-2=Граффе!
+
+
+# Chiefrat
+### If I can't have ya by brute force...
+PC05D_AFTERFIGHT1C-3=Якшо я не можу здолати тебе грубою силою...
+
+
+# Chiefrat
+### I'll ruin your life another way!
+PC05D_AFTERFIGHT1C-4=Я зіпсую твоє життя в інший спосіб!
+
+
+# Brok
+### You miserable...!
+PC05D_AFTERFIGHT1C-5=Ах ти нікчемо...!
+
+
+# Chiefrat
+### Step back or I break his neck!
+PC05D_AFTERFIGHT1C-6=Відступи, бо я зламаю йому шию!
+
+
+# Graff
+### ...
+PC05D_AFTERFIGHT1C-7=...
+
+
+# Graff
+### Liar...
+PC05D_AFTERFIGHT1C-8=Брехун...
+
+
+# Chiefrat
+### What did you say?!
+PC05D_AFTERFIGHT1C-9=Шо ти сказав?!
+
+
+# Graff
+### You said you weren't murderers!
+PC05D_AFTERFIGHT1C-10=Ви казали, що ви не вбивці!
+
+
+# Chiefrat
+### Only when we have to...
+PC05D_AFTERFIGHT1C-11=Тільки якщо доводиться...
+
+
+# Chiefrat
+### Look, croc!
+PC05D_AFTERFIGHT1C-12=Дивися, кроку!
+
+
+# Chiefrat
+### Look at him while his life gets drained away from his body!
+PC05D_AFTERFIGHT1C-13=Дивися, як з його тіла витікає життя!
+
+
+# Graff
+### Urrrgh!
+PC05D_AFTERFIGHT1C-14=У-ух!
+
+
+# Chiefrat
+### This is one memory you shall never forget!
+PC05D_AFTERFIGHT1C-15=Цей спогад ти точно ніколи не забудеш!
+
+
+# Brok
+### Noooo!
+PC05D_AFTERFIGHT1C-16=Нііі!
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC05D_AFTERFIGHT3-1=...!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC05D_AFTERFIGHT3-2=Граффе!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC05D_AFTERFIGHT4-1=...
+
+
+# Graff
+### I... got out of the ropes they tied me up with...
+PC05D_AFTERFIGHT4-2=Я... звільнився від мотузок, якими вони мене зв'язали...
+
+
+# Graff
+### While you were fighting... They weren't looking.
+PC05D_AFTERFIGHT4-3=Поки ти бився... Вони не дивилися.
+
+
+# Graff
+### I hid this pipe.
+PC05D_AFTERFIGHT4-4=Я сховав цю трубу.
+
+
+# Brok
+### That's my boy!
+PC05D_AFTERFIGHT4-5=Оце мій хлопчина!
+
+
+# Brok
+### ...
+PC05D_AFTERFIGHT4-6=...
+
+
+#----------------------------------------------------
+# Brok - Brok decides he needs to get rid of the rat chief once and for all
+### (Sigh)
+PC05D_AFTERFIGHT5-1=(Зітхає)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff. Get out of this room.
+PC05D_AFTERFIGHT5-2=Граффе. Вийди з цієї кімнати.
+
+
+# Graff
+### What...? Why...?
+PC05D_AFTERFIGHT5-3=Що...? Навіщо...?
+
+
+# Brok
+### I... don't want you to see this...
+PC05D_AFTERFIGHT5-4=Я... не хочу, щоб ти це бачив...
+
+
+# Graff
+### ...!
+PC05D_AFTERFIGHT5-5=...!
+
+
+# Graff
+### No! Don't do this!
+PC05D_AFTERFIGHT5-6=Ні! Не роби цього!
+
+
+# Brok
+### I have to...
+PC05D_AFTERFIGHT5-7=Я мушу...
+
+
+# Brok
+### So he can never hurt you again!
+PC05D_AFTERFIGHT5-8=Щоб він більше ніколи не завдав тобі шкоди!
+
+
+# Graff
+### No!
+PC05D_AFTERFIGHT5-9=Ні!
+
+
+# Brok
+### You heard him!
+PC05D_AFTERFIGHT5-10=Ти ж чув його!
+
+
+# Brok
+### He'll never stop...
+PC05D_AFTERFIGHT5-11=Він ніколи не зупиниться...
+
+
+# Brok
+### I... I must protect you!
+PC05D_AFTERFIGHT5-12=Я... я мушу захистити тебе!
+
+
+# Brok
+### Whatever the cost!
+PC05D_AFTERFIGHT5-13=Якою б не була ціна!
+
+
+# Brok
+### I promised your mother...
+PC05D_AFTERFIGHT5-14=Я обіцяв твоїй матері...
+
+
+# Graff
+### Please...!
+PC05D_AFTERFIGHT5-15=Будь ласка...!
+
+
+# Graff
+### Don't... I'm begging you...
+PC05D_AFTERFIGHT5-16=Не треба... Благаю тебе...
+
+
+# Brok
+### But... You'll never be safe!
+PC05D_AFTERFIGHT5-17=Але... Ти ніколи не будеш у безпеці!
+
+
+# Graff
+### I will...
+PC05D_AFTERFIGHT5-18=Буду...
+
+
+# Graff
+### I'll always be safe...
+PC05D_AFTERFIGHT5-19=Я завжди буду в безпеці...
+
+
+# Graff
+### As long as you're with me.
+PC05D_AFTERFIGHT5-20=Поки ти зі мною.
+
+
+# Brok
+### ...
+PC05D_AFTERFIGHT5-21=...
+
+
+#----------------------------------------------------
+# Brok
+### You're right...
+PC05D_AFTERFIGHT6-1=Твоя правда...
+
+
+# Brok
+### From now on... I'll stay close to you.
+PC05D_AFTERFIGHT6-2=Відтепер... я буду поруч із тобою.
+
+
+# Graff
+### Thank you...
+PC05D_AFTERFIGHT6-3=Дякую...
+
+
+#----------------------------------------------------
+# Chiefrat
+### Finally... I have my revenge.
+PC05D_BROKLOSE-1=Нарешті... Моя помста звершилася.
+
+
+# Kins
+### Hey, boss. Does that make you feel better?
+PC05D_BROKLOSE-2=Гей, босе. Тобі від цього полегшало?
+
+
+# Chiefrat
+### Yes. Yes, it does!
+PC05D_BROKLOSE-3=Так. Так, полегшало!
+
+
+# Chiefrat
+### Come on, everyone! Let's celebrate.
+PC05D_BROKLOSE-4=Усі йдіть сюди! Будемо святкувати.
+
+
+# Dart
+### Hey, he'll make for a nice couch!
+PC05D_BROKLOSE-5=Гей, а з нього вийде чудовий диван!
+
+
+#----------------------------------------------------
+

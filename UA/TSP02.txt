@@ -1,0 +1,508 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Extb (Unknown)
+#     Brok - Extc (Unknown)
+#     Brok - Extj (Unknown)
+#     Brok - Exts (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Extb - Brok (Unknown)
+#     Extb - Extc (Unknown)
+#     Extb - Exts (Unknown)
+#     Extc - Brok (Unknown)
+#     Extc - Extb (Unknown)
+#     Extc - Exts (Unknown)
+#     Extj - Brok (Unknown)
+#     Extj - Exts (Unknown)
+#     Exts - Brok (Unknown)
+#     Exts - Extb (Unknown)
+#     Exts - Extc (Unknown)
+#     Exts - Extj (Unknown)
+#     Shay - Brok (Unknown)
+#     Tribot - Brok (Unknown)
+#     Tribot - Unknown (Unknown)
+#     Tribot - Wes (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Tribot (Unknown)
+#     Unknown - Wes (Unknown)
+#     Wes - Tribot (Unknown)
+#     Wes - Unknown (Unknown)
+
+#-------------------------------
+#=  CYNICAL ENDING ROOM
+#-------------------------------
+
+#----- Interactions --------
+### Black box
+PC_BLACKBOX=
+
+### Cat
+PC_CAT=
+
+### Rat
+PC_RAT=
+
+### Cookie
+PC_COOKIE=
+
+
+# Tribot
+### Update in progress...
+SP02_DAY2ENDNIGHTMARE1-1=
+
+
+# Tribot
+### ...
+SP02_DAY2ENDNIGHTMARE1-2=
+
+
+# Tribot
+### Firmware installed.
+SP02_DAY2ENDNIGHTMARE1-3=
+
+
+# Tribot
+### Target defined.
+SP02_DAY2ENDNIGHTMARE1-4=
+
+
+#----------------------------------------------------
+# Unknown
+### (Phone ring)
+SP02_DAY2ALTERNATIVE-1=
+
+
+# Wes
+### Yes?
+SP02_DAY2ALTERNATIVE-2=
+
+
+# Unknown
+### (Indecipherable speech)
+SP02_DAY2ALTERNATIVE-3=
+
+
+# Wes
+### You did? You localized the third member?!
+SP02_DAY2ALTERNATIVE-4=
+
+
+# Unknown
+### (Indecipherable speech)
+SP02_DAY2ALTERNATIVE-5=
+
+
+# Wes
+### Great news. Your improved AI is a blessing.
+SP02_DAY2ALTERNATIVE-6=
+
+
+# Wes
+### You filled your part of the bargain and so did I. You're free now.
+SP02_DAY2ALTERNATIVE-7=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Good luck, Tidy.
+SP02_DAY2ALTERNATIVE-8=
+
+
+# Unknown
+### [...]
+SP02_DAY2ALTERNATIVE-9=
+
+
+# Wes
+### ...
+SP02_DAY2ALTERNATIVE-10=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribots.
+SP02_DAY2ALTERNATIVE-11=
+
+
+# Tribot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Yes, chief?
+SP02_DAY2ALTERNATIVE-12=
+
+
+# Wes
+### We've got a criminal bot on the loose.
+SP02_DAY2ALTERNATIVE-13=
+
+
+# Wes
+### Eliminate it.
+SP02_DAY2ALTERNATIVE-14=
+
+
+# Tribot
+### Very well.
+SP02_DAY2ALTERNATIVE-15=
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+SP02_CAMEO1-1=
+
+
+# Exts
+### Oh! Hello!
+SP02_CAMEO1-2=
+
+
+# Exts
+### Are you a friend of Bjorn?
+SP02_CAMEO1-3=
+
+
+# Brok
+### Huh?
+SP02_CAMEO1-4=
+
+
+# Extc
+### Oh! Awesome!!! A real life plushie!
+SP02_CAMEO1-5=
+
+
+# Extc
+### Can I rip off his head, Mommy?
+SP02_CAMEO1-6=
+
+
+# Extc
+### Pleaaase?
+SP02_CAMEO1-7=
+
+
+# Brok
+### What?!
+SP02_CAMEO1-8=
+
+
+# Exts
+### Come on, honey! He's not a plushie!
+SP02_CAMEO1-9=
+
+
+# Exts
+### He's human!
+SP02_CAMEO1-10=
+
+
+# Exts
+### ...I... think?...
+SP02_CAMEO1-11=
+
+
+# Brok
+### Hey! Of course I'm human!
+SP02_CAMEO1-12=
+
+
+# Brok
+### What ARE you?!
+SP02_CAMEO1-13=
+
+
+# Exts
+### Maybe we should ask your daddy!
+SP02_CAMEO1-14=
+
+
+# Extc
+### Eww! Next time you call him that, I'll make you eat your own soup!
+SP02_CAMEO1-15=
+
+
+# Exts
+### What's wrong with my soup?
+SP02_CAMEO1-16=
+
+
+# Brok
+### (Looks like I'm not the only one with parenting trouble...)
+SP02_CAMEO1-17=
+
+
+# Extc
+### Oh no...
+SP02_CAMEO1-18=
+
+
+# Extc
+### Look who's arrived. The brainless idiot.
+SP02_CAMEO1-19=
+
+
+# Exts
+### Hi Bjorn!
+SP02_CAMEO1-20=
+
+
+# Extb
+### Hey, Sandra! How are...
+SP02_CAMEO1-21=
+
+
+# Extb
+### ...What the heck?!
+SP02_CAMEO1-22=
+
+
+# Extb
+### What is this costumed weirdo doing in my apartment?
+SP02_CAMEO1-23=
+
+
+# Brok
+### I...
+SP02_CAMEO1-24=
+
+
+# Extb
+### Wait!!!
+SP02_CAMEO1-25=
+
+
+# Extb
+### Something...
+SP02_CAMEO1-26=
+
+
+# Extb
+### Something amazing is happening...
+SP02_CAMEO1-27=
+
+
+# Extb
+### ...I have a voice!
+SP02_CAMEO1-28=
+
+
+# Exts
+### ...
+SP02_CAMEO1-29=
+
+
+# Extc
+### ...
+SP02_CAMEO1-30=
+
+
+# Extb
+### No way!
+SP02_CAMEO1-31=
+
+
+# Extb
+### Look at the mess you've made to my apartment!
+SP02_CAMEO1-32=
+
+
+# Extb
+### You even crapped there!
+SP02_CAMEO1-33=
+
+
+# Brok
+### N... no!
+SP02_CAMEO1-34=
+
+
+# Brok
+### It was like this when I arrived from my time machine!
+SP02_CAMEO1-35=
+
+
+# Brok
+### There was this ray of light and...
+SP02_CAMEO1-36=
+
+
+# Extb
+### Yeah, right!
+SP02_CAMEO1-37=
+
+
+# Extb
+### And I have a machine to make money and clone myself!
+SP02_CAMEO1-38=
+
+
+# Exts
+### By the way! Where's Bjoline?
+SP02_CAMEO1-39=
+
+
+# Extj
+### Hi mommy! (burp)
+SP02_CAMEO1-40=
+
+
+# Brok
+### AaaaaAAAaaargh!
+SP02_CAMEO1-41=
+
+
+#----------------------------------------------------
+# Brok
+### Shayyy!
+SP02_CAMEO2-1=
+
+
+# Brok
+### Get me outta here!
+SP02_CAMEO2-2=
+
+
+# Shay
+### Bro'! This is all your fault!
+SP02_CAMEO2-3=
+
+
+# Brok
+### What did I do?!
+SP02_CAMEO2-4=
+
+
+# Shay
+### You've destroyed my machine!
+SP02_CAMEO2-5=
+
+
+# Shay
+### The one I've spent half of my life fixing!
+SP02_CAMEO2-6=
+
+
+# Shay
+### Now you're lost in time... forever!
+SP02_CAMEO2-7=
+
+
+# Brok
+### Oops.
+SP02_CAMEO2-8=
+
+
+# Brok
+### Can I try again?...
+SP02_CAMEO2-9=
+
+
+# Shay
+### Yeah. After the credits.
+SP02_CAMEO2-10=
+
+
+# Brok
+### Cool!
+SP02_CAMEO2-11=
+
+
+#----------------------------------------------------
+# Brok
+### Err...
+SP02_ARRIVE-1=
+
+
+#----------------------------------------------------
+# Brok
+### What is this place?
+SP02_ARRIVE2-1=
+
+
+# Brok
+### Eww... It reeks!
+SP02_ARRIVE2-2=
+
+
+#----------------------------------------------------
+# Brok
+### No handle?
+SP02_DOORCANNOT1-1=
+
+
+#----------------------------------------------------
+# Brok
+### What kind of demented person puts a coffin in their bedroom?
+SP02_DOORRIGHT1-1=
+
+
+#----------------------------------------------------
+# Brok
+### Can't open it! Where's the handle?
+SP02_DOORCANNOT2-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### A flat version of our livies?
+SP02_TV1-1=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+SP02_CAT1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Is that you?!
+SP02_CAT1-2=
+
+
+# Unknown
+### (Meow)
+SP02_CAT1-3=
+
+
+# Brok
+### Don't worry, son! I'll get you back to normal!
+SP02_CAT1-4=
+
+
+# Unknown
+### (Purr)
+SP02_CAT1-5=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### A Squealer?...
+SP02_RAT1-1=
+
+
+# Brok
+### That one already got a beating!
+SP02_RAT1-2=
+
+
+#----------------------------------------------------
+# Brok
+### Those guys are everywhere!
+SP02_RAT2-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### No thanks. I only collect ads!
+SP02_COOKIE1-1=
+
+
+#----------------------------------------------------
+

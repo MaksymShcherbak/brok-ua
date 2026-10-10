@@ -1,0 +1,2049 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Guard (Unknown)
+#     Brok - Mink (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Tidy (Unknown)
+#     Guard - Brok (Unknown)
+#     Guard - Mink (Unknown)
+#     Guard - Ott (Unknown)
+#     Mink - Brok (Unknown)
+#     Mink - Guard (Unknown)
+#     Mink - Ott (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Guard (Unknown)
+#     Ott - Mink (Unknown)
+#     Ott - Tidy (Unknown)
+#     Tidy - Brok (Unknown)
+#     Tidy - Ott (Unknown)
+
+#-------------------------------
+#= Case day 2
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### Announce the culprit anyway?
+CPC15_INVESTIGATION_CHOICE=Усе одно назвати ім'я злочинця?
+
+### Announce the culprit?
+CPC15_INVESTIGATION_CHOICEALLHINTS=Назвати ім'я злочинця?
+
+### Resume the explanation?
+CPC15_INVESTIGATION_RESUME=Продовжити пояснення?
+
+### The investigation
+TOPIC_INVESTIGATION=Розслідування
+
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok
+### Hmm... Upon further inspection, it's not very clean!
+CPC15_MAGNIFY_NANITE1-1=Гмм... Якщо придивитися, то тут не так уже й чисто.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Can't see any of those tiny bots from Dr. Mink though.
+CPC15_MAGNIFY_NANITE1-2=Проте я не бачу жодного з цих крихітних ботів доктора Мінка.
+
+
+#----------------------------------------------------
+# Brok
+### No nanite there.
+CPC15_MAGNIFY_NANITE2-1=Тут немає нанітів.
+
+
+#----------------------------------------------------
+# Brok
+### Oh! I've found...
+CPC15_MAGNIFY_NANITE3-1=О! Я знайшов...
+
+
+# Brok
+### Nothing at all.
+CPC15_MAGNIFY_NANITE3-2=Абсолютно нічого.
+
+
+#----------------------------------------------------
+# Brok
+### Let's look around.
+CPC15_OTT_BEFOREBODY-1=Давай оглянемось навколо.
+
+
+# Ott
+### Sure.
+CPC15_OTT_BEFOREBODY-2=Звісно.
+
+
+#----------------------------------------------------
+# Brok
+### You're okay?
+CPC15_OTT_FIRST-1=Ти в порядку?
+
+
+# Ott
+### Well... I didn't expect to investigate a murder on my first day.
+CPC15_OTT_FIRST-2=Ну... Не думав, що в перший же день доведеться розслідувати вбивство.
+
+
+# Ott
+### It's both neat and... kinda scary.
+CPC15_OTT_FIRST-3=Це водночас круто і... дещо лякає.
+
+
+# Ott
+### Knowing there's a killer around us...
+CPC15_OTT_FIRST-4=Знати, що десь поруч ходить вбивця...
+
+
+# Ott
+### You don't mind me staying close?
+CPC15_OTT_FIRST-5=Ви не проти, якщо я триматимусь поруч?
+
+
+# Brok
+### Of course.
+CPC15_OTT_FIRST-6=Звісно.
+
+
+# Ott
+### Thanks...
+CPC15_OTT_FIRST-7=Дякую...
+
+
+#----------------------------------------------------
+# Brok
+### What do you suggest?
+CPC15_OTT_BODY1-1=Що пропонуєш робити?
+
+
+# Ott
+### Maybe examining the body?
+CPC15_OTT_BODY1-2=Можливо, оглянемо тіло?
+
+
+# Brok
+### Yeah. Good idea!
+CPC15_OTT_BODY1-3=Так. Гарна ідея!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush has an office, doesn't he?
+CPC15_OTT_HUSHOFFICE1-1=У доктора Гаша є свій кабінет, чи не так?
+
+
+# Brok
+### True. We should give it a look-see.
+CPC15_OTT_HUSHOFFICE1-2=Саме так. Варто туди зазирнути.
+
+
+#----------------------------------------------------
+# Brok
+### Well... What should we do now?...
+CPC15_OTT_RESTROOM1-1=Ну... Що нам тепер робити...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok! I've noticed a restroom in the hall. We still haven't checked it!
+CPC15_OTT_RESTROOM1-2=Пане Броку! Я помітив вбиральню в коридорі. Ми її ще не перевірили!
+
+
+# Brok
+### Oh, yeah.
+CPC15_OTT_RESTROOM1-3=О, точно.
+
+
+#----------------------------------------------------
+# Brok
+### We inspected everything, didn't we?
+CPC15_OTT_MEETTIDY1-1=Ми ж усе перевірили, чи не так?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### I'm not sure. What about that bot in Dr. Hush's room?
+CPC15_OTT_MEETTIDY1-2=Я не впевнений. А як щодо того бота в кімнаті доктора Гаша?
+
+
+# Brok
+### Right. Let's check if that thing works!
+CPC15_OTT_MEETTIDY1-3=Точно. Давай перевіримо, чи працює ця штука!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy seems to have some important information.
+CPC15_OTT_TALKTIDY1-1=Здається, у Тайді є якась важлива інформація.
+
+
+# Ott
+### We should interrogate him.
+CPC15_OTT_TALKTIDY1-2=Нам слід його допитати.
+
+
+# Brok
+### I agree!
+CPC15_OTT_TALKTIDY1-3=Згоден!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### I better interrogate Dr. Mink.
+CPC15_OTT_TALKMINK1-1=Краще я допитаю доктора Мінка.
+
+
+# Ott
+### Why are you telling me? Go ahead.
+CPC15_OTT_TALKMINK1-2=А чого ви мені про це кажете? Ідіть, звісно.
+
+
+#----------------------------------------------------
+# Ott
+### So? Ready to announce who's the murderer?
+CPC15_OTT_TALKALMOST1-1=Ну що? Ви готові оголосити, хто вбивця?
+
+
+# Brok
+### Almost. Still a few things I need to check...
+CPC15_OTT_TALKALMOST1-2=Майже. Є ще кілька речей, які мені потрібно перевірити...
+
+
+#----------------------------------------------------
+# Brok
+### What do you think so far?
+CPC15_OTT_FIRSTSTAGE-1=Ну, що думаєш?
+
+
+# Ott
+### I've solved this!
+CPC15_OTT_FIRSTSTAGE-2=Я все розгадав!
+
+
+# Brok
+### Really?!
+CPC15_OTT_FIRSTSTAGE-3=Справді?!
+
+
+# Ott
+### You haven't?
+CPC15_OTT_FIRSTSTAGE-4=А ви ні?
+
+
+# Brok
+### Well... I'd like to hear your conclusion first.
+CPC15_OTT_FIRSTSTAGE-5=Ну... Я би спочатку хотів почути твої висновки.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Okay. Let's gather everyone in Dr. Mink's room!
+CPC15_OTT_FIRSTSTAGE-6=Гаразд. Зберімо всіх у кімнаті доктора Мінка!
+
+
+#----------------------------------------------------
+# Ott
+### I thought I had it! But...
+CPC15_OTT_SECOND1-1=Мені здавалося, що я все розгадав! Але...
+
+
+# Ott
+### You totally destroyed my theory in an instant.
+CPC15_OTT_SECOND1-2=Ви миттю розбили мою теорію вщент.
+
+
+# Brok
+### Don't feel bad.
+CPC15_OTT_SECOND1-3=Не засмучуйся.
+
+
+# Brok
+### If it hadn't been for that fake blood, I'd probably have thought the same too.
+CPC15_OTT_SECOND1-4=Якби не та фальшива кров, я б, мабуть, прийшов до таких самих висновків.
+
+
+#----------------------------------------------------
+# Brok
+### What would you do in my place?
+CPC15_OTT_SECOND2-1=Що би ти зробив на моєму місці?
+
+
+# Ott
+### Turn everything inside out!
+CPC15_OTT_SECOND2-2=Перевернув би тут усе догори дриґом!
+
+
+# Ott
+### We need as many clues as we can!
+CPC15_OTT_SECOND2-3=Нам потрібно якомога більше зачіпок!
+
+
+#----------------------------------------------------
+# Ott
+### ...Aww!
+CPC15_OTT_HIT1-1=...Ай!
+
+
+# Brok
+### Hmm... Sorry.
+CPC15_OTT_HIT1-2=Гмм... Вибач.
+
+
+# Ott
+### What was that for?!
+CPC15_OTT_HIT1-3=За що це було?!
+
+
+# Brok
+### I didn't wanna do that! I swear!
+CPC15_OTT_HIT1-4=Я не хотів цього робити! Присягаюся!
+
+
+#----------------------------------------------------
+# Ott
+### ...Ouch!
+CPC15_OTT_HIT2-1=...Ай! Боляче!
+
+
+# Brok
+### Don't stay in the middle like that!
+CPC15_OTT_HIT2-2=Не стій посеред проходу!
+
+
+#----------------------------------------------------
+# Ott
+### Hey!!! Stop it!
+CPC15_OTT_HIT3-1=Гей!!! Припиніть!
+
+
+# Brok
+### Sorry but you're bothering me! Move!
+CPC15_OTT_HIT3-2=Вибач, але ти мені заважаєш! Посунься!
+
+
+# Ott
+### What?!...
+CPC15_OTT_HIT3-3=Що...?!
+
+
+# Ott
+### You're insane!
+CPC15_OTT_HIT3-4=Ви божевільний!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Mister Guard! Mister Guard! Help!
+CPC15_OTT_HIT4-1=Пане охоронцю! Пане охоронцю! Допоможіть!
+
+
+# Ott
+### He's gone crazy!
+CPC15_OTT_HIT4-2=Він геть оскаженів!
+
+
+#----------------------------------------------------
+# Tidy
+### ...
+CPC15_TIDY_HIT1-1=...
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy. Does not. Feel.
+CPC15_TIDY_HIT1-2=Тайді. Нічого. Не відчуває.
+
+
+# Brok
+### Hmm!
+CPC15_TIDY_HIT1-3=Гмм!
+
+
+#----------------------------------------------------
+# Tidy
+### ...
+CPC15_TIDY_HIT2-1=...
+
+
+# Tidy
+### Warning.
+CPC15_TIDY_HIT2-2=Попередження.
+
+
+# Tidy
+### Broky. Not on. Close relations. List.
+CPC15_TIDY_HIT2-3=Брокі. Немає в списку. Близьких. Родичів.
+
+
+#----------------------------------------------------
+# Tidy
+### Broky dead!
+CPC15_TIDY_HIT3-1=Брокі мертвий!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok!
+CPC15_TIDY_HIT3-2=Пане Броку!
+
+
+#----------------------------------------------------
+# Mink
+### ...Aaarrgh!
+CPC15_MINK_HIT1-1=...А-а-ааа!
+
+
+# Mink
+### Are you crazy?!
+CPC15_MINK_HIT1-2=Ви здуріли?!
+
+
+# Brok
+### Hmm... Sorry.
+CPC15_MINK_HIT1-3=Гмм... Вибачте.
+
+
+#----------------------------------------------------
+# Brok
+### Oh! Oops!
+CPC15_MINK_HIT2-1=Ой! Ой-ой!
+
+
+# Mink
+### Aaaawwaah...
+CPC15_MINK_HIT2-2=Аа-а-у-ух...
+
+
+# Brok
+### Sorry! My bad!
+CPC15_MINK_HIT2-3=Вибачте! Моя провина!
+
+
+# Mink
+### I'll sue you for this!
+CPC15_MINK_HIT2-4=Я подам на вас до суду!
+
+
+# Brok
+### Wouldn't be the first time.
+CPC15_MINK_HIT2-5=Мені не звикати.
+
+
+# Mink
+### ...!
+CPC15_MINK_HIT2-6=...!
+
+
+#----------------------------------------------------
+# Mink
+### Aww aww aww!!!
+CPC15_MINK_HIT3-1=Ай-ай-ай!!!
+
+
+# Mink
+### My eyes! I'm blind!
+CPC15_MINK_HIT3-2=Мої очі! Я осліп!
+
+
+# Brok
+### No, you're not.
+CPC15_MINK_HIT3-3=Ні, не осліпли.
+
+
+# Mink
+### I... I'm gonna!...
+CPC15_MINK_HIT3-4=Я... Та я...!
+
+
+# Brok
+### Gonna what?...
+CPC15_MINK_HIT3-5=Що ви...?
+
+
+# Mink
+### ...
+CPC15_MINK_HIT3-6=...
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Guard! Quick!
+CPC15_MINK_HIT4-1=Охоронцю! Швидше, сюди!
+
+
+# Mink
+### That detective is after me!!!
+CPC15_MINK_HIT4-2=Цей детектив на мене накинувся!!!
+
+
+#----------------------------------------------------
+# Guard
+### Enough! Ya're good for jail, buddy!
+CPC15_GUARDJAIL1-1=Досить! Тобі пряма дорога до в'язниці, друже!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok... What's happening to you?...
+CPC15_GUARDJAIL1-2=Пане Броку... Що з вами відбувається...?
+
+
+# Brok
+### I...
+CPC15_GUARDJAIL1-3=Я...
+
+
+# Brok
+### ...didn't want to...
+CPC15_GUARDJAIL1-4=...не хотів...
+
+
+# Brok
+### Someone's controlling me...
+CPC15_GUARDJAIL1-5=Хтось мене контролює...
+
+
+# Guard
+### I'd rather send you to the closest mental hospital.
+CPC15_GUARDJAIL1-6=Краще я відправлю тебе в найближчу психлікарню.
+
+
+#----------------------------------------------------
+# Guard
+### I won't tolerate this kind of trouble during my watch!
+CPC15_GUARDFIGHT1-1=Я не терпітиму такого свавілля на моїй зміні!
+
+
+#----------------------------------------------------
+# Ott
+### Oh my...
+CPC15_GUARDFIGHT_LOSE1-1=Ох...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Thank you, Mister Guard.
+CPC15_GUARDFIGHT_LOSE1-2=Дякую, пане охоронцю.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Now we know what happened to Dr. Hush!
+CPC15_GUARDFIGHT_LOSE1-3=Тепер ми знаємо, що сталося з доктором Гашем!
+
+
+# Mink
+### That detective totally went off the rails!
+CPC15_GUARDFIGHT_LOSE1-4=Цей детектив остаточно злетів з котушок!
+
+
+# Guard
+### Indeed.
+CPC15_GUARDFIGHT_LOSE1-5=Точно.
+
+
+# Guard
+### Wait here. I'll call the cops.
+CPC15_GUARDFIGHT_LOSE1-6=Зачекайте тут. Я викличу копів.
+
+
+#----------------------------------------------------
+# Mink
+### ...!
+CPC15_GUARDFIGHT_WIN1-1=...!
+
+
+# Mink
+### N... No!
+CPC15_GUARDFIGHT_WIN1-2=Н... Ні!
+
+
+# Mink
+### What... are you going to do?!
+CPC15_GUARDFIGHT_WIN1-3=Що... ви збираєтеся зробити?!
+
+
+# Brok
+### Dunno. That depends on you, buddy.
+CPC15_GUARDFIGHT_WIN1-4=Не знаю. Це залежить від тебе, друже.
+
+
+# Mink
+### ...
+CPC15_GUARDFIGHT_WIN1-5=...
+
+
+# Mink
+### Aaaaahhhhh!!!
+CPC15_GUARDFIGHT_WIN1-6=Аа-а-а-а!!!
+
+
+# Brok
+### ...
+CPC15_GUARDFIGHT_WIN1-7=...
+
+
+# Brok
+### ...
+CPC15_GUARDFIGHT_WIN1-8=...
+
+
+# Brok
+### Well...
+CPC15_GUARDFIGHT_WIN1-9=Ну що ж...
+
+
+# Brok
+### Aside from that bot, no one's left in the facility.
+CPC15_GUARDFIGHT_WIN1-10=Окрім того бота, на території установи нікого не залишилося.
+
+
+# Brok
+### Case solved, I guess?...
+CPC15_GUARDFIGHT_WIN1-11=Справу розкрито. Здається...?
+
+
+#----------------------------------------------------
+# Guard
+### Hey!!!
+CPC15_GUARD_HIT1-1=Гей!!!
+
+
+# Guard
+### The situation isn't already bad enough for you?!
+CPC15_GUARD_HIT1-2=Ситуація ще недостатньо погана для тебе, чи що?!
+
+
+# Brok
+### Erm...
+CPC15_GUARD_HIT1-3=Е-е...
+
+
+#----------------------------------------------------
+# Guard
+### What the...?!
+CPC15_GUARD_HIT2-1=Що за...?!
+
+
+# Guard
+### I knew it! You darn racist !
+CPC15_GUARD_HIT2-2=Я так і знав! Ах ти ж расисте клятий!
+
+
+# Brok
+### No!... My hand slipped!
+CPC15_GUARD_HIT2-3=Ні...! Моя рука зісковзнула!
+
+
+# Guard
+### Got my eyes on you, pal.
+CPC15_GUARD_HIT2-4=Не спускатиму з тебе очей, друже.
+
+
+#----------------------------------------------------
+# Guard
+### Aww!!!
+CPC15_GUARD_HIT3-1=Ай!!!
+
+
+#----------------------------------------------------
+# Guard
+### That's it! You're a goner!
+CPC15_GUARD_HIT3B-1=Досить! Тобі кінець!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink, I have a few questions to ask you.
+CPC15_MINK_FIRST-1=Докторе Мінку, у мене до вас кілька запитань.
+
+
+# Mink
+### I was afraid you were going to say that.
+CPC15_MINK_FIRST-2=Я боявся, що ви це скажете.
+
+
+# Brok
+### But first. Please swear to tell the truth.
+CPC15_MINK_FIRST-3=Але спершу. Будь ласка, покляніться говорити правду.
+
+
+# Mink
+### Of course. I always do. Liars always end up contradicting themselves and revealing the truth.
+CPC15_MINK_FIRST-4=Звісно. Я завжди кажу правду. Брехуни рано чи пізно починають собі суперечити й самі виказують правду.
+
+
+# Mink
+### I do not want to waste time. Neither mine nor yours.
+CPC15_MINK_FIRST-5=Я не хочу гаяти часу. Ні свого, ні вашого.
+
+
+# Brok
+### Very well.
+CPC15_MINK_FIRST-6=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### What can you tell me about Dr. Hush?
+CPC15_MINK_DRHUSH1-1=Що ви можете розповісти мені про доктора Гаша?
+
+
+# Mink
+### He's my... Well, he was my colleague.
+CPC15_MINK_DRHUSH1-2=Він мій... Ну, він був моїм колегою.
+
+
+# Mink
+### He was dealing with macro-robotic, while I'm dealing with nano.
+CPC15_MINK_DRHUSH1-3=Я працюю з нанороботами, а він займався макророботами.
+
+
+# Mink
+### We've been selected to work in the same building as we're complementary.
+CPC15_MINK_DRHUSH1-4=Нас обрали для роботи в одній будівлі, оскільки ми доповнюємо один одного.
+
+
+# Brok
+### How was your relationship lately?
+CPC15_MINK_DRHUSH1-5=Ви останнім часом ладнали між собою?
+
+
+# Mink
+### I see where you're going.
+CPC15_MINK_DRHUSH1-6=Я бачу, до чого ви хилите.
+
+
+# Mink
+### Yes, it was a bit tense.
+CPC15_MINK_DRHUSH1-7=Так, між нами останнім часом було трохи напружено.
+
+
+# Brok
+### Why?
+CPC15_MINK_DRHUSH1-8=Чому?
+
+
+# Mink
+### The Government started shifting the funding to scientific projects.
+CPC15_MINK_DRHUSH1-9=Уряд почав перерозподіл фінансів між науковими проєктами.
+
+
+# Mink
+### In particular, they reduced the budget for nanotechnology projects in favor of AI research.
+CPC15_MINK_DRHUSH1-10=Зокрема, вони скоротили бюджет проєктів з нанотехнологій на користь досліджень зі ШІ.
+
+
+# Brok
+### So this directly impacted your experiments.
+CPC15_MINK_DRHUSH1-11=Отже, це безпосередньо вплинуло на ваші експерименти.
+
+
+# Mink
+### Listen. That's true, we've always had some disagreements.
+CPC15_MINK_DRHUSH1-12=Послухайте. Це правда, у нас завжди були деякі розбіжності.
+
+
+# Mink
+### But even with the budget alterations, I didn't hold a grudge against him!
+CPC15_MINK_DRHUSH1-13=Але навіть попри зміни в бюджеті, я не тримав на нього зла!
+
+
+# Mink
+### Actually... He's the one who changed.
+CPC15_MINK_DRHUSH1-14=Власне... Це він змінився.
+
+
+# Mink
+### He barely talked to me anymore. And when he did, the situation got... tense.
+CPC15_MINK_DRHUSH1-15=Він майже не розмовляв зі мною. А коли починав, ситуація ставала... напруженою.
+
+
+# Mink
+### Lately I could swear he was even trying to avoid me!
+CPC15_MINK_DRHUSH1-16=Присягаюся, останнім часом він намагався мене уникати!
+
+
+# Mink
+### I just figured he was too busy but now...
+CPC15_MINK_DRHUSH1-17=Я просто думав, що він надто зайнятий, але тепер...
+
+
+# Mink
+### I could never imagine he would end up like this.
+CPC15_MINK_DRHUSH1-18=Я й уявити не міг, що він так закінчить.
+
+
+#----------------------------------------------------
+# Brok
+### Any idea what could have happened?
+CPC15_MINK_DRHUSH2-1=Є якісь ідеї, що могло статися?
+
+
+# Mink
+### Honestly? Not the slightest.
+CPC15_MINK_DRHUSH2-2=Чесно? Навіть гадки не маю.
+
+
+# Mink
+### I was here all day. He wasn't! I'm sure of it!
+CPC15_MINK_DRHUSH2-3=Я був тут цілий день. А його тут не було! Я впевнений у цьому!
+
+
+# Brok
+### Well, the corpse is in the middle of your room.
+CPC15_MINK_DRHUSH2-4=Ну, труп лежить просто посеред вашої кімнати.
+
+
+# Brok
+### You should have seen him enter at some point!
+CPC15_MINK_DRHUSH2-5=Ви мали би помітити, коли він сюди увійшов!
+
+
+# Mink
+### No! I swear!
+CPC15_MINK_DRHUSH2-6=Ні! Присягаюся!
+
+
+# Mink
+### It's like... He magically appeared behind me when you entered the room!
+CPC15_MINK_DRHUSH2-7=Ніби... Він магічним чином з'явився позаду мене, коли ви увійшли до кімнати!
+
+
+# Brok
+### Magic, huh...
+CPC15_MINK_DRHUSH2-8=Магія, га...
+
+
+# Mink
+### I know how this sounds but you've got to believe me!
+CPC15_MINK_DRHUSH2-9=Я знаю, як це звучить, але ви мусите мені повірити!
+
+
+# Brok
+### Right now, I don't believe in anything other than facts.
+CPC15_MINK_DRHUSH2-10=Зараз я не вірю нічому, окрім фактів.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### About Dr. Hush...
+CPC15_MINK_DRHUSH3-1=Щодо доктора Гаша...
+
+
+# Mink
+### Again?
+CPC15_MINK_DRHUSH3-2=Знову?
+
+
+# Mink
+### It's tough summing up someone's life and personality in a few lines, you know!
+CPC15_MINK_DRHUSH3-3=Знаєте, важко підсумувати чиєсь життя та особистість кількома рядками!
+
+
+# Mink
+### You'll find out more about him by looking around his office.
+CPC15_MINK_DRHUSH3-4=Ви дізнаєтесь про нього більше, заглянувши в його кабінет.
+
+
+# Brok
+### (A nice way to say "I'm sick of your questions, do your job")
+CPC15_MINK_DRHUSH3-5=(Гарний спосіб сказати: "Мені набридли твої запитання, роби свою роботу")
+
+
+#----------------------------------------------------
+# Brok
+### I know it will sound harsh but...
+CPC15_MINK_DRHUSH4-1=Я знаю, що це прозвучить жорстко, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Do you believe Dr. Hush commited suicide?
+CPC15_MINK_DRHUSH4-2=Чи вірите ви, що доктор Гаш міг скоїти самогубство?
+
+
+# Mink
+### I can't deny that he had been acting strange recently, so...
+CPC15_MINK_DRHUSH4-3=Не можу заперечувати, що останнім часом він поводився дивно, тому...
+
+
+# Mink
+### I guess it's not outside the realm of possibility.
+CPC15_MINK_DRHUSH4-4=Гадаю, що це в межах можливого.
+
+
+# Mink
+### I just find it weird he would do this in my office.
+CPC15_MINK_DRHUSH4-5=Просто доволі дивно, що він зробив це саме в моєму кабінеті.
+
+
+# Brok
+### (Unless he really hated you...)
+CPC15_MINK_DRHUSH4-6=(Хіба що він вас справді ненавидів...)
+
+
+#----------------------------------------------------
+# Brok
+### How long have you been working here?
+CPC15_MINK_HIMSELF1-1=Як довго ви тут працюєте?
+
+
+# Mink
+### Since I majored in research, about 5 years ago.
+CPC15_MINK_HIMSELF1-2=Відтоді, як я здобув фах дослідника, минуло років п'ять.
+
+
+# Mink
+### We've both been selected to join this high rank facility. The kind of opportunity that you can't turn down!
+CPC15_MINK_HIMSELF1-3=Нас обох відібрали для роботи в цій престижній установі. Від таких можливостей просто не відмовляються!
+
+
+# Brok
+### So you've known each other for a long time?
+CPC15_MINK_HIMSELF1-4=Тож ви давно знайомі?
+
+
+# Mink
+### Yes. Although we've never really been close.
+CPC15_MINK_HIMSELF1-5=Так. Хоча ми ніколи по-справжньому не були близькими.
+
+
+# Brok
+### Does this mean you don't like each other?
+CPC15_MINK_HIMSELF1-6=То ви недолюблювали одне одного?
+
+
+# Mink
+### No. That's irrelevant.
+CPC15_MINK_HIMSELF1-7=Ні. Це не має значення.
+
+
+# Mink
+### We just do our jobs and are entirely dedicated to it.
+CPC15_MINK_HIMSELF1-8=Ми просто робимо свою роботу і повністю віддані їй.
+
+
+# Mink
+### We dedicate our lives so that humanity can progress.
+CPC15_MINK_HIMSELF1-9=Ми присвячуємо цьому життя, щоб людство могло рухатися вперед.
+
+
+# Brok
+### No friends? No family or children either?
+CPC15_MINK_HIMSELF1-10=Жодних друзів? Ані сім'ї, ані дітей?
+
+
+# Mink
+### Pfft! Loving a single person? Raising a handful of individuals?!
+CPC15_MINK_HIMSELF1-11=Пхе! Любити одну-єдину людину? Виховувати жменьку індивідів?!
+
+
+# Mink
+### We cannot afford to live such a petty life!
+CPC15_MINK_HIMSELF1-12=Ми не можемо дозволити собі жити таким дріб'язковим життям!
+
+
+# Mink
+### We will be immortalized for our work forever. It will impact the lives of thousands, possibly even millions!
+CPC15_MINK_HIMSELF1-13=Завдяки праці наші імена залишаться в історії назавжди. Наші досягнення змінять життя тисяч, а може, й мільйонів!
+
+
+# Brok
+### But... But...!
+CPC15_MINK_HIMSELF1-14=Але... Але...!
+
+
+# Mink
+### No but! I made this choice years ago, and I never regretted it for a second!
+CPC15_MINK_HIMSELF1-15=Жодних "але"! Я зробив цей вибір багато років тому і жодної секунди про це не шкодував!
+
+
+# Brok
+### (What a sad way to live...)
+CPC15_MINK_HIMSELF1-16=(Який сумний спосіб життя...)
+
+
+#----------------------------------------------------
+# Brok
+### So. What kind of scientist are you?
+CPC15_MINK_HIMSELF2-1=Отже. Чим саме ви займаєтеся як науковець?
+
+
+# Mink
+### I specialize in nanotechnology and biology. Anything that can help humanity to live longer!
+CPC15_MINK_HIMSELF2-2=Я спеціалізуюся на нанотехнологіях та біології. Все, що може допомогти людству жити довше!
+
+
+# Mink
+### We've been studying them for decades! However, a groundbreaking discovery was made in...
+CPC15_MINK_HIMSELF2-3=Ми вивчали ці науки десятиліттями! Проте справжній прорив стався у...
+
+
+# Brok
+### Sorry Doc. I'd prefer to stick to the matter at hand.
+CPC15_MINK_HIMSELF2-4=Вибачте, докторе. Я би волів зосередитися на суті справи.
+
+
+# Mink
+### Hmmph.
+CPC15_MINK_HIMSELF2-5=Гм-мм.
+
+
+#----------------------------------------------------
+# Brok
+### Sorry for earlier. Tell me more about your work.
+CPC15_MINK_HIMSELF3-1=Вибачте за те, що було раніше. Розкажіть докладніше про вашу роботу.
+
+
+# Mink
+### Currently I strive to improve the nanites efficiency.
+CPC15_MINK_HIMSELF3-2=Наразі я прагну підвищити ефективність нанітів.
+
+
+# Brok
+### Could these be used to kill someone?
+CPC15_MINK_HIMSELF3-3=Чи можна їх використати, щоб когось убити?
+
+
+# Mink
+### Doubtful but technically possible. With bad programming, they could destroy the host.
+CPC15_MINK_HIMSELF3-4=Сумнівно, але технічно можливо. Якщо їх неправильно запрограмувати, вони можуть знищити носія.
+
+
+# Mink
+### But we've been working on this technology for a while now. This never happens.
+CPC15_MINK_HIMSELF3-5=Але ми вже деякий час працюємо над цією технологією. Такого ніколи не трапляється.
+
+
+# Mink
+### Although...
+CPC15_MINK_HIMSELF3-6=Хоча...
+
+
+# Mink
+### ...
+CPC15_MINK_HIMSELF3-7=...
+
+
+# Brok
+### Go ahead?
+CPC15_MINK_HIMSELF3-8=Кажіть?
+
+
+# Mink
+### Destructive effects can happen if the nanites were mixed with specific organic elements.
+CPC15_MINK_HIMSELF3-9=Якщо змішати наніти з певними органічними елементами, можуть виникнути руйнівні наслідки.
+
+
+# Brok
+### Such as?... Corrosive acid?
+CPC15_MINK_HIMSELF3-10=Наприклад...? Їдка кислота?
+
+
+# Mink
+### That would definitely leave some traces!
+CPC15_MINK_HIMSELF3-11=Це точно залишило б якісь сліди!
+
+
+# Brok
+### Could it be possible to destroy a body without external damage?
+CPC15_MINK_HIMSELF3-12=Чи можливо таким способом знищити тіло зсередини, без зовнішніх пошкоджень?
+
+
+# Mink
+### I think I encountered some plants with this ailment. I would have to check my logs.
+CPC15_MINK_HIMSELF3-13=Здається, я вже зустрічав якісь рослини з такими властивостями. Варто було б перевірити свої нотатки.
+
+
+# Brok
+### Well, let's just assume it happened. How would we know?
+CPC15_MINK_HIMSELF3-14=Ну, припустімо, що це сталося. Як нам про це дізнатись?
+
+
+# Mink
+### The nanites are trained for survival. Once the host is near death, they leave.
+CPC15_MINK_HIMSELF3-15=Наніти націлені на виживання. Щойно носій опиняється на порозі смерті, вони залишають його.
+
+
+# Mink
+### But they couldn't last long on the outside.
+CPC15_MINK_HIMSELF3-16=Але вони не можуть довго протриматися зовні.
+
+
+# Mink - About 1 meter
+### You'd find inactive nanites less than three feet away from the body.
+CPC15_MINK_HIMSELF3-17=Ви б знайшли неактивні наніти менш ніж за один метр від тіла.
+
+
+# Brok
+### (I'd better check the surroundings for any nanites in unexpected places.)
+CPC15_MINK_HIMSELF3-18=(Краще мені перевірити околиці на наявність нанітів у несподіваних місцях.)
+
+
+# Brok
+### (Can't see them with my own eyes but I'm sure I have the right tool for the job!)
+CPC15_MINK_HIMSELF3-19=(Я не зможу розгледіти їх неозброєним оком, але впевнений, що маю потрібний інструмент!)
+
+
+#----------------------------------------------------
+# Brok
+### (I have bothered him enough)
+CPC15_MINK_HIMSELF4-1=(Я вже достатньо його потурбував...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### (Got a feeling those nanites played a part in Dr. Hush's demise. I'll need some proof...)
+CPC15_MINK_HIMSELF4-2=(Чуйка мені підказує, що наніти відіграли роль у смерті доктора Гаша. Треба знайти докази...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### What's your relationship with Tidy?
+CPC15_MINK_TIDY1-1=Які у вас стосунки з Тайді?
+
+
+# Mink
+### He's the maintenance bot. He just comes and goes, doing housework.
+CPC15_MINK_TIDY1-2=Це сервісний бот. Він просто ходить туди-сюди й порається по господарству.
+
+
+# Brok
+### Did he come today?
+CPC15_MINK_TIDY1-3=Він сьогодні приходив?
+
+
+# Mink
+### No. Until your arrival, no one entered my office this morning.
+CPC15_MINK_TIDY1-4=Ні. Ніхто не входив у мій кабінет до вашого приходу сьогодні вранці.
+
+
+# Brok
+### Are you certain?
+CPC15_MINK_TIDY1-5=Ви впевнені?
+
+
+# Mink
+### Hmm... Actually...
+CPC15_MINK_TIDY1-6=Гмм... Власне...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The guard did check if everything was okay, like he always does. But he didn't enter.
+CPC15_MINK_TIDY1-7=Охоронець, як завжди, приходив перевірити, чи все гаразд. Але він не заходив всередину.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### I've noticed the doors close automatically. How does Tidy open them?
+CPC15_MINK_TIDY1-8=Я помітив, що двері зачиняються автоматично. Як Тайді їх відчиняє?
+
+
+# Mink
+### Just like us. He pushes the buttons.
+CPC15_MINK_TIDY1-9=Так само, як і ми. Він натискає на кнопки.
+
+
+# Brok
+### Free to roam around, then?
+CPC15_MINK_TIDY1-10=Значить, він може ходити, де заманеться?
+
+
+# Mink
+### Yes. Well...
+CPC15_MINK_TIDY1-11=Так. Ну...
+
+
+# Mink
+### Except my room.
+CPC15_MINK_TIDY1-12=Окрім моєї кімнати.
+
+
+# Mink
+### I deny him access. He must knock at the door first. Then I allow him entry.
+CPC15_MINK_TIDY1-13=Я закрив йому доступ. Спочатку він повинен постукати в двері. Лише після цього я можу дозволити йому увійти.
+
+
+# Brok
+### How come?
+CPC15_MINK_TIDY1-14=Але чому?
+
+
+# Mink
+### You know... I don't want a bot bursting into my room in the middle of the night. That would be creepy.
+CPC15_MINK_TIDY1-15=Знаєте... Я не хочу, щоб бот увірвався до моєї кімнати посеред ночі. Це було б моторошно.
+
+
+# Brok
+### (Says the creepy scientist)
+CPC15_MINK_TIDY1-16=(Каже моторошний науковець)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### You said Tidy was lying. Is a bot truly capable of lies?
+CPC15_MINK_TIDY2-1=Ви сказали, що Тайді збрехав. Чи справді бот здатний на таке?
+
+
+# Mink
+### Usually, no.
+CPC15_MINK_TIDY2-2=Зазвичай ні.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### But I never programmed it. Keep in mind, Dr. Hush was doing AI experiments.
+CPC15_MINK_TIDY2-3=Але я ніколи його не програмував. Не забувайте, що доктор Гаш проводив експерименти з ШІ.
+
+
+# Mink
+### This could also be the result of a bug in the core.
+CPC15_MINK_TIDY2-4=Тож це може бути наслідком помилки в ядрі системи.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy could believe what he says is the truth, based on false information.
+CPC15_MINK_TIDY2-5=Тайді може щиро вірити, що він говорить правду, спираючись на якусь хибну інформацію.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### But you heard the recording. It was Dr. Hush's voice, wasn't it?
+CPC15_MINK_TIDY2-6=Але ж ви чули запис. Це був голос доктора Гаша, чи не так?
+
+
+# Mink
+### ...
+CPC15_MINK_TIDY2-7=...
+
+
+# Mink
+### I don't know... Yes, it sounded exactly like him but...
+CPC15_MINK_TIDY2-8=Я не знаю... Так, це звучало точно як він, але...
+
+
+# Mink
+### There must be some explanation...!
+CPC15_MINK_TIDY2-9=Має бути якесь пояснення...!
+
+
+# Brok
+### (Yeah. I just wish you'd give me one.)
+CPC15_MINK_TIDY2-10=(Ага. Мені якраз хотілося б, щоб ви мені його надали.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Do you think Tidy could have played a role in the murder?
+CPC15_MINK_TIDY3-1=Як ви думаєте, чи міг Тайді відіграти якусь роль у вбивстві?
+
+
+# Mink
+### I don't see how.
+CPC15_MINK_TIDY3-2=Не розумію, як це мало б статися.
+
+
+# Mink
+### He cannot access my office.
+CPC15_MINK_TIDY3-3=Він не може потрапити до мого кабінету.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Besides, Dr. Hush is his maker. He could never...
+CPC15_MINK_TIDY3-4=Крім того, доктор Гаш - його творець. Він не зміг би...
+
+
+# Brok
+### Hurt his creator directly, yeah.
+CPC15_MINK_TIDY3-5=Завдати прямої шкоди своєму творцю, так.
+
+
+# Brok
+### (Let's keep some distance with that reasoning.)
+CPC15_MINK_TIDY3-6=(Поки триматимусь подалі від таких висновків.)
+
+
+# Brok
+### (My trust with technology is limited. A true detective never turns down any lead!)
+CPC15_MINK_TIDY3-7=(Я не надто довіряю технологіям. А справжній детектив ніколи не відкидає жодної зачіпки!)
+
+
+#----------------------------------------------------
+# Mink
+### When can we expect the result of your investigation?
+CPC15_MINK_INVESTIGATION1-1=Тож коли нам чекати на результати вашого розслідування?
+
+
+# Brok
+### Well...
+CPC15_MINK_INVESTIGATION1-2=Ну...
+
+
+#----------------------------------------------------
+# Mink
+### Are you done investigating?
+CPC15_MINK_INVESTIGATION2-1=Ви закінчили розслідування?
+
+
+#----------------------------------------------------
+# Brok
+### No. I didn't finish interrogating everyone.
+CPC15_MINK_INVESTIGATION_NOTYET-1=Ні. Я ще не закінчив з усіма допитами.
+
+
+# Mink
+### You sure did interrogate me!
+CPC15_MINK_INVESTIGATION_NOTYET-2=Мене ви точно допитали достатньо!
+
+
+#----------------------------------------------------
+# Brok
+### (Can't shake the feeling that I may have missed some clues. I probably shouldn't make an announcement yet.)
+CPC15_MINK_INVESTIGATION_MANY-1=(Не можу позбутися відчуття, що я, можливо, пропустив деякі зачіпки. Мабуть, мені поки що не варто робити оголошення.)
+
+
+#----------------------------------------------------
+# Brok
+### (I'm certain I've missed one or two clues.)
+CPC15_MINK_INVESTIGATION_SEVERAL-1=(Упевнений, що я десь пропустив одну-дві зачіпки.)
+
+
+# Brok
+### (Maybe I still have enough evidence for my theory?)
+CPC15_MINK_INVESTIGATION_SEVERAL-2=(Та, можливо, наявних доказів вистачить, щоб підтвердити мою теорію?)
+
+
+#----------------------------------------------------
+# Brok
+### Be patient. This isn't an ordinary case.
+CPC15_INVESTIGATION_NO-1=Майте терпіння. Це непроста справа.
+
+
+# Mink
+### Too bad. All this stress is killing me!
+CPC15_INVESTIGATION_NO-2=Шкода. Весь цей стрес мене вбиває!
+
+
+#----------------------------------------------------
+# Brok
+### (Buuut... I'm getting hungry, so...)
+CPC15_MINK_INVESTIGATION_ANYWAY-1=(Алеее... Я вже майже зголоднів, тож...)
+
+
+# Brok
+### Okay. I guess it's worth a shot.
+CPC15_MINK_INVESTIGATION_ANYWAY-2=Гаразд. Гадаю, варто спробувати.
+
+
+# Mink
+### Are you sure? You don't seem that confident.
+CPC15_MINK_INVESTIGATION_ANYWAY-3=Ви справді впевнені? Бо вигляд у вас не надто впевнений.
+
+
+# Brok
+### I am. Mostly.
+CPC15_MINK_INVESTIGATION_ANYWAY-4=Упевнений. Здебільшого.
+
+
+# Mink
+### Very well... I'll gather everyone.
+CPC15_MINK_INVESTIGATION_ANYWAY-5=Добре... Я зберу всіх.
+
+
+#----------------------------------------------------
+# Brok
+### Yes. I'm ready to expose the truth.
+CPC15_MINK_INVESTIGATION_YES1-1=Так. Я готовий розкрити правду.
+
+
+# Mink
+### Impressive!
+CPC15_MINK_INVESTIGATION_YES1-2=Вражаюче!
+
+
+# Mink
+### Let's begin, then.
+CPC15_MINK_INVESTIGATION_YES1-3=Тоді почнемо.
+
+
+#----------------------------------------------------
+# Brok
+### I'm ready. Gather everyone!
+CPC15_MINK_INVESTIGATION_YES2-1=Я готовий. Збирайте всіх!
+
+
+# Mink
+### All right.
+CPC15_MINK_INVESTIGATION_YES2-2=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink?
+CPC15_MINK_WELCOME1-1=Докторе Мінку?
+
+
+#----------------------------------------------------
+# Brok
+### I need to understand something.
+CPC15_MINK_WELCOME2-1=Мені потрібно дещо зрозуміти.
+
+
+# Mink
+### You're not the only one.
+CPC15_MINK_WELCOME2-2=Не вам одному.
+
+
+#----------------------------------------------------
+# Mink
+### So, detective? How long is this going to take?
+CPC15_MINK_WELCOME3-1=Отже, детективе? Скільки це триватиме?
+
+
+#----------------------------------------------------
+# Brok
+### I'll look around for clues.
+CPC15_MINK_EXIT1-1=Я пошукаю зачіпки.
+
+
+# Mink
+### You better find out the culprit, because I wasn't involved in this!
+CPC15_MINK_EXIT1-2=Краще вам знайти справжнього злочинця, бо я до цього не причетний!
+
+
+#----------------------------------------------------
+# Brok
+### Just a moment. We'll continue this discussion later.
+CPC15_MINK_EXIT2-1=Зачекайте хвилинку. Ми продовжимо цю розмову пізніше.
+
+
+# Mink
+### I'm not the only one here! Interrogate the others!
+CPC15_MINK_EXIT2-2=Я тут не єдиний! Допитайте інших!
+
+
+#----------------------------------------------------
+# Brok
+### Does this seem important to you?
+CPC15_MINK_INV_DEFAULT1-1=Ця річ здається вам важливою?
+
+
+# Mink
+### What kind of question is this?
+CPC15_MINK_INV_DEFAULT1-2=Що це взагалі за запитання?
+
+
+# Brok
+### Just reply. Yes or no?
+CPC15_MINK_INV_DEFAULT1-3=Просто відповідайте. Так чи ні?
+
+
+# Mink
+### No!
+CPC15_MINK_INV_DEFAULT1-4=Ні!
+
+
+# Brok
+### Okay.
+CPC15_MINK_INV_DEFAULT1-5=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### I was wondering if...
+CPC15_MINK_INV_DEFAULT2-1=Мені було цікаво, чи...
+
+
+# Mink
+### That's amazing! How are you storing all these things?
+CPC15_MINK_INV_DEFAULT2-2=Вражаюче! І як ви взагалі вміщуєте у себе всі ці речі?
+
+
+# Mink
+### I'd love to study this mystery!
+CPC15_MINK_INV_DEFAULT2-3=З радістю дослідив би цю таємницю!
+
+
+# Brok
+### Couldn't you focus on the one at hand, first?
+CPC15_MINK_INV_DEFAULT2-4=Може, спершу розберемося зі справою, яка в нас під носом?
+
+
+#----------------------------------------------------
+# Brok
+### You're a doctor, right?
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-1=Ви ж лікар, так?
+
+
+# Mink
+### Depends.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-2=З чого ви взяли?
+
+
+# Brok
+### I need that medical prescription cancelled... Or something like that.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-3=Мені потрібно скасувати цей медичний рецепт... Чи щось типу того.
+
+
+# Mink
+### You mean updated.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-4=Ви маєте на увазі поновити.
+
+
+# Brok
+### Yeah! That.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-5=Так! Воно.
+
+
+# Mink
+### Well, I'm not that kind of doctor.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-6=Що ж, ви помилилися. Я доктор наук, не лікар.
+
+
+# Brok
+### Darn...
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-7=Дідько...
+
+
+# Mink
+### But you're in luck. I've got just the thing!
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-8=Але вам пощастило. У мене є саме те, що потрібно!
+
+
+# Brok
+### You do? Great!
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-9=Справді? Чудово!
+
+
+# Mink
+### Give me this.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-10=Дайте-но сюди.
+
+
+# Mink
+### There you go.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-11=Ось, тримайте.
+
+
+# Brok
+### Already?
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-12=Уже?
+
+
+# Brok
+### Thank you! You're a life saver.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-13=Дякую! Ви рятуєте життя.
+
+
+# Brok - Brok is referring to the tramp who urgently needs this medicine
+### And I mean... Literally.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-14=І я маю на увазі... Буквально.
+
+
+# Mink
+### Take this into consideration when solving this case.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-15=Візьміть це до уваги, коли будете розслідувати справу.
+
+
+# Brok
+### That wouldn't be very neutral...
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-16=Це порушило б мою неупередженість...
+
+
+# Brok
+### But I'm grateful. Thanks.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-17=І все ж я вдячний. Дякую вам.
+
+
+# Mink
+### Sure.
+CPC15_MINK_INV_TRAMPPRESCR_BEFORE-18=Звісно.
+
+
+#----------------------------------------------------
+# Mink
+### This again? I've already updated it.
+CPC15_MINK_INV_TRAMPPRESCR_AFTER-1=Знову? Я ж уже поновив цей рецепт.
+
+
+# Brok
+### Oh... That's right.
+CPC15_MINK_INV_TRAMPPRESCR_AFTER-2=О... Точно.
+
+
+#----------------------------------------------------
+# Brok
+### (He doesn't need it!)
+CPC15_MINK_INV_MONEY-1=(Йому це не потрібно!)
+
+
+#----------------------------------------------------
+# Mink
+### Hmm... I've seen this somewhere already.
+CPC15_MINK_INV_LABFLOWER-1=Гмм... Я вже десь це бачив.
+
+
+#----------------------------------------------------
+# Mink
+### Nice wig!
+CPC15_MINK_INV_CATFUR-1=Гарна перука!
+
+
+# Brok
+### That's not...
+CPC15_MINK_INV_CATFUR-2=Це не...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Hmm. 1000 Unis and it's yours!
+CPC15_MINK_INV_CATFUR-3=Гмм. 1,000 Юні і вона ваша!
+
+
+# Mink
+### I'll pass.
+CPC15_MINK_INV_CATFUR-4=Ні, дякую.
+
+
+#----------------------------------------------------
+# Mink
+### My poor lamp...
+CPC15_MINK_INV_LAMPMINK-1=Моя бідна лампа...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Well, good news! You can take Dr. Hush's. He doesn't need his anymore!
+CPC15_MINK_INV_LAMPMINK-2=Ну що ж, гарні новини! Можете взяти лампу доктора Гаша. Вона йому вже не потрібна!
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### That's Dr. Hush's?
+CPC15_MINK_INV_LAMPHUSH-1=Це належало докторові Гашеві?
+
+
+# Mink
+### Maybe you should analyze it with my tablet.
+CPC15_MINK_INV_LAMPHUSH-2=Може, вам варто проаналізувати це на моєму планшеті.
+
+
+# Brok
+### Why not!
+CPC15_MINK_INV_LAMPHUSH-3=Чом би й ні!
+
+
+#----------------------------------------------------
+# Brok
+### See? I'm a real detective!
+CPC15_MINK_INV_MAGNIFY-1=Бачите? Я справжній детектив!
+
+
+# Mink
+### I was expecting some badge.
+CPC15_MINK_INV_MAGNIFY-2=Я очікував якогось значка.
+
+
+# Brok
+### This is way cooler!
+CPC15_MINK_INV_MAGNIFY-3=Але це набагато крутіше!
+
+
+#----------------------------------------------------
+# Brok
+### What's that thing in the middle?
+CPC15_MINK_INV_MAPBUILDING-1=Що це за штука посередині?
+
+
+# Mink
+### Across the room? The vent duct.
+CPC15_MINK_INV_MAPBUILDING-2=Та, що проходить через кімнату? Це вентиляційний канал.
+
+
+# Brok
+### Interesting...
+CPC15_MINK_INV_MAPBUILDING-3=Цікаво...
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush's medication?
+CPC15_MINK_INV_PILLHUSH-1=Ліки доктора Гаша?
+
+
+# Brok
+### Which drug exactly?
+CPC15_MINK_INV_PILLHUSH-2=А що це за препарат?
+
+
+# Mink
+### No idea. Ask my tablet!
+CPC15_MINK_INV_PILLHUSH-3=Не знаю. Спитайте в мого планшета!
+
+
+#----------------------------------------------------
+# Mink
+### That's not mine!
+CPC15_MINK_INV_TABLETHUSH-1=Це не моє!
+
+
+# Brok
+### I know that! Just unlock it!
+CPC15_MINK_INV_TABLETHUSH-2=Я знаю! Просто розблокуйте його!
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Only Dr. Hush can.
+CPC15_MINK_INV_TABLETHUSH-3=Тільки доктор Гаш може це зробити.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Mc Fleas's Antburger. I love these too!
+CPC15_MINK_INV_WRAPPING-1=Мурахобургер від "МакБліх". Я теж їх обожнюю!
+
+
+# Mink
+### So you're a gourmet! Who would have thought?
+CPC15_MINK_INV_WRAPPING-2=Отже, ви гурман! Хто б міг подумати?
+
+
+# Brok
+### Indeed!
+CPC15_MINK_INV_WRAPPING-3=Авжеж!
+
+
+#----------------------------------------------------
+# Mink
+### ...!
+CPC15_MINK_INV_SCREW-1=...!
+
+
+# Mink
+### This is...!
+CPC15_MINK_INV_SCREW-2=Це ж...!
+
+
+# Brok
+### A screw?
+CPC15_MINK_INV_SCREW-3=Гвинт?
+
+
+# Mink
+### Not just any screw!
+CPC15_MINK_INV_SCREW-4=Це не просто якийсь гвинт!
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Bolt shaped screws are highly sought after by collectors!
+CPC15_MINK_INV_SCREW-5=Гвинти у формі блискавки - справжній скарб для колекціонерів!
+
+
+# Mink
+### And it's finally mine!
+CPC15_MINK_INV_SCREW-6=І нарешті він мій!
+
+
+# Brok
+### Hey, wait!
+CPC15_MINK_INV_SCREW-7=Гей, зачекайте!
+
+
+# Brok
+### I can't. This is a precious memory.
+CPC15_MINK_INV_SCREW-8=Я не можу його віддати. Це дорогоцінний спогад.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Very well. 10,000 Unis!
+CPC15_MINK_INV_SCREW-9=Гаразд. 10,000 Юні!
+
+
+# Brok
+### Huh?! But...
+CPC15_MINK_INV_SCREW-10=Що?! Але...
+
+
+# Mink
+### Shut up and take my money!
+CPC15_MINK_INV_SCREW-11=Заткніться і беріть мої гроші!
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. I've grown fond of it.
+CPC15_MINK_INV_SCREW_NO-1=Вибачте. Я вже прив'язався до нього.
+
+
+# Mink
+### Aww...
+CPC15_MINK_INV_SCREW_NO-2=Ох...
+
+
+#----------------------------------------------------
+# Brok
+### Deal!
+CPC15_MINK_INV_SCREW_YES-1=Домовилися!
+
+
+# Mink
+### Awesome!
+CPC15_MINK_INV_SCREW_YES-2=Чудово!
+
+
+#----------------------------------------------------
+# Mink
+### Hmm...!
+CPC15_MINK_INV_HOOVER-1=Гмм...!
+
+
+# Brok
+### Why the smile?
+CPC15_MINK_INV_HOOVER-2=Чому ви так посміхаєтесь?
+
+
+# Mink
+### I could use this cleaning bot!
+CPC15_MINK_INV_HOOVER-3=Мені б знадобився цей бот-прибиральник!
+
+
+# Brok
+### Really? This old thing?!
+CPC15_MINK_INV_HOOVER-4=Справді? Цей старий мотлох?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### What about Tidy?
+CPC15_MINK_INV_HOOVER-5=А як щодо Тайді?
+
+
+# Mink
+### Exactly. With this, I would never need him in my room ever again!
+CPC15_MINK_INV_HOOVER-6=Отож-бо. З цим ботом мені більше ніколи не доведеться пускати його до своєї кімнати!
+
+
+# Mink
+### I want it!
+CPC15_MINK_INV_HOOVER-7=Я хочу його!
+
+
+# Brok
+### Okay but... it's broken.
+CPC15_MINK_INV_HOOVER-8=Гаразд, але... він зламаний.
+
+
+# Mink
+### Oh, come on! I can repair this thing!
+CPC15_MINK_INV_HOOVER-9=О, та годі вже! Я можу його полагодити!
+
+
+# Mink
+### I'll buy it for... Hmm...
+CPC15_MINK_INV_HOOVER-10=Куплю його за... Гмм...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### A thousand Unis.
+CPC15_MINK_INV_HOOVER-11=Тисячу Юні.
+
+
+# Brok
+### That much?!
+CPC15_MINK_INV_HOOVER-12=Аж стільки?!
+
+
+#----------------------------------------------------
+# Brok
+### Deal!
+CPC15_MINK_INV_HOOVER_YES-1=Домовилися!
+
+
+# Mink
+### Yes!
+CPC15_MINK_INV_HOOVER_YES-2=Так!
+
+
+# Mink
+### Not such a bad day, after all!
+CPC15_MINK_INV_HOOVER_YES-3=Зрештою, не такий уже й поганий день!
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. I've grown fond of it.
+CPC15_MINK_INV_HOOVER_NO-1=Вибачте. Я вже прив'язався до нього.
+
+
+# Mink
+### Aww...
+CPC15_MINK_INV_HOOVER_NO-2=Ох...
+
+
+#----------------------------------------------------
+# Brok
+### (He doesn't really look trustworthy.)
+CPC15_MINK_THINK1-1=(Щось він не викликає довіри.)
+
+
+# Brok
+### (I'd better try and squeeze the facts out of him. See if there are contradictions in his statements.)
+CPC15_MINK_THINK1-2=(Спробую витиснути з нього факти. Подивлюся, чи немає суперечностей у його твердженнях.)
+
+
+#----------------------------------------------------
+# Mink
+### So, detective? How long is this going to take?
+CPC15_MINK_FIRSTSTAGE-1=Отже, детективе? Скільки це триватиме?
+
+
+# Brok
+### Right. It's time.
+CPC15_MINK_FIRSTSTAGE-2=Точно. Вже час.
+
+
+# Brok
+### We should all gather in your room.
+CPC15_MINK_FIRSTSTAGE-3=Ми всі маємо зібратися у вас у кімнаті.
+
+
+# Mink
+### Very well. I'll bring the others.
+CPC15_MINK_FIRSTSTAGE-4=Добре. Я приведу інших.
+
+
+#----------------------------------------------------
+# Brok
+### (I wonder. Is there any monitoring of the activity in this lab?)
+CPC15_MISSINGCLUE_MONITORING-1=(Цікаво. Чи є якась система моніторингу в цій лабораторії?)
+
+
+#----------------------------------------------------
+# Brok
+### (Missed somethin' in the restroom?)
+CPC15_MISSINGCLUE_RESTROOM-1=(Я щось пропустив у вбиральні?)
+
+
+#----------------------------------------------------
+# Brok
+### (I keep looking at what's on the ground. What if a clue was up there instead?)
+CPC15_MISSINGCLUE_CEILING-1=(Я постійно дивлюся на те, що на підлозі. А що, якщо зачіпка, навпаки, нагорі?)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### (I didn't check Dr. Hush's room thoroughly enough.)
+CPC15_MISSINGCLUE_HUSHROOM-1=(Я недостатньо ретельно перевірив кімнату доктора Гаша.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### (Did I miss something in Dr. Mink's room?)
+CPC15_MISSINGCLUE_MINKROOM-1=(Я щось пропустив у кімнаті доктора Мінка?)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### (I should take a better look at Dr. Hush's body...)
+CPC15_MISSINGCLUE_BODY-1=(Мені слід краще придивитися до тіла доктора Гаша...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### (Hmm... Maybe I should "play" a little more with Dr. Mink's tablet.)
+CPC15_MISSINGCLUE_TABLET-1=(Гмм... Можливо, мені варто трохи більше "погратися" з планшетом доктора Мінка.)
+
+
+#----------------------------------------------------
+# Brok
+### (Pretty sure I didn't finish interrogating everyone.)
+CPC15_MISSINGCLUE_INTERROGATE-1=(Упевнений, що я ще не закінчив усі допити.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### (Dr. Mink is a nanites specialist. Maybe I should check for nanites in unusual places?)
+CPC15_MISSINGCLUE_NANITES-1=(Доктор Мінк - спеціаліст з нанітів. Тож, можливо, мені варто пошукати нанітів у незвичайних місцях?)
+
+
+#----------------------------------------------------
+# Ott
+### What?...
+CPC15_JUMPBED1-1=Що...?
+
+
+#----------------------------------------------------
+# Mink
+### Are you crazy?
+CPC15_JUMPBED2-1=Ви з глузду з'їхали?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hmm... Ott seems to have an idea.
+CPC15_INVESTIGATION_TIME1-1=Гмм... Здається, в Отта є ідея.
+
+
+# Brok
+### Let's see what he's got.
+CPC15_INVESTIGATION_TIME1-2=Подивимось, що він скаже.
+
+
+#----------------------------------------------------
+# Brok
+### I feel I've got all the hints I need.
+CPC15_INVESTIGATION_TIME-1=Здається, у мене є всі необхідні підказки.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Time to gather everyone. Let's talk to Dr. Mink.
+CPC15_INVESTIGATION_TIME-2=Час збирати всіх разом. Треба поговорити з доктором Мінком.
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,209 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=HINTS - CHAPTER 5
+#-------------------------------
+
+#----- Hints GRAFF --------
+### Go to school!
+HINT_CH5_210_START1=
+
+
+### Kitty, why won't you follow your friend's advice and go to the museum?...
+HINT_CH5_210_BEFOREMUSEUM1=
+
+
+### There's something on the floor right next to that triangular stone. Pick it up!
+HINT_CH5_210_GETPHONE1=
+
+### I bet you've got an ancient item in your inventory that could fill that empty spot on that stand! (the leftmost exposition)
+HINT_CH5_210_USEPHONE1=
+
+
+
+### Hey kitty, have you played with that triangular stone? It's connected to a 3D printer!
+HINT_CH5_210_TRIANGLEGAME1=
+
+### You need to "win" this game. It consists in picking a shape during the first phase, then find that shape in the next phases.##When you're done, something will drop in the drawer below!
+HINT_CH5_210_TRIANGLEGAME2=
+
+
+### Remember that triangular stone game? Play it until you get a half sphere. (Choose the half circle drawing during the first game phase)
+HINT_CH5_210_HALFSPHERE1=
+
+
+# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+### That rebirth day exposition... It represents this country. Don't you think it lacks something important?...
+HINT_CH5_210_REBIRTH1=
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### The Dome, of course! There should be one. Maybe you could replace it?...
+HINT_CH5_210_REBIRTH2=
+
+### Use your half sphere.
+HINT_CH5_210_REBIRTH3=
+
+
+
+### There's some parchment on top of that exposition panel! Surely there's a way you could access it, kitty.
+HINT_CH5_210_PARCHMENT1=
+
+### Jump on various platforms in the room to access the roof (the piano, the round stone and then this roof) Then pick up that parchment.
+HINT_CH5_210_PARCHMENT2=
+
+
+### The revolt exposition... Don't bother reading that text, kitty. It's boring. What matters is that empty spot at the bottom!
+HINT_CH5_210_REVOLT1=
+
+### Use the parchment which was on the roof of that same exposition to fill that gap!
+HINT_CH5_210_REVOLT2=
+
+
+### That key hole on the side of that 'gender balance' stele... Take a look at it, kitty!
+HINT_CH5_210_KEYSLOTSEE1=
+
+
+### The key to that 'gender balance' stele must be somewhere... But probably outside of the museum!##What could "CC Under STU seat" mean?
+HINT_CH5_210_KEYSLOT1=
+
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### Go back to the Consciousness Center! And check...
+HINT_CH5_210_KEYSLOT2=
+
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### ...under Stubot's seat, of course.
+HINT_CH5_210_KEYSLOT3=
+
+
+### Use the key on the lock located on the side of that 'gender balance' stele.
+HINT_CH5_210_KEYUSE1=
+
+
+
+### You need a new Untail statue, kitty. Where do you think you could get one?
+HINT_CH5_210_GETUNTAIL1=
+
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### Sector 56X, of course! That merchant should be gone by now but her stand is still there.
+HINT_CH5_210_GETUNTAIL2=
+
+
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### Two statues of the Untail, three pedestals...
+HINT_CH5_210_SETUNTAIL1=
+
+### Use your Untail statuette on the middle pedestal.
+HINT_CH5_210_SETUNTAIL2=
+
+
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### That Toxout pill sign on the left, kitty... You probably didn't notice but something's off.
+HINT_CH5_210_SIGNSCREW1=
+
+### A screw needs some... screwing! Unfortunately your screwdriver won't fit. However, notice the shape of the screw...
+HINT_CH5_210_SIGNSCREW2=
+
+### Use the tip of the 3D printed triangular prism on that bottom right screw! (you can get such shape by playing that game on the triangular stone again and choosing a triangle shape)
+HINT_CH5_210_SIGNSCREW3=
+
+
+
+
+### You need to access this museum area that's off limits! Examine those lasers carefully...
+HINT_CH5_210_REMOVELASERS1=
+
+### There's a switch on the right wall of the room and an exact spot where lasers are malfunctioning. Surely that's an invitation to do... something?
+HINT_CH5_210_REMOVELASERS2=
+
+### Position yourself in front of that lasers gap and throw an item to the switch.
+HINT_CH5_210_REMOVELASERS3=
+
+
+### Kitty, I bet you missed that 'X' mark on the far right wall. What does that kind of mark usually indicate?...
+HINT_CH5_210_MARK1=
+
+### Switch to action mode and hit that mark!
+HINT_CH5_210_MARK2=
+
+
+### A key is clearly missing from that old keyboard. Kitty, you'll need to replace it somehow!
+HINT_CH5_210_FIXKEY1=
+
+### Use that triangular stone again and try to win a "rectangular" 3D printed shape. Then... Well, put it on the keyboard.
+HINT_CH5_210_FIXKEY2=
+
+
+### Your last step is this piano! Each key has a specific symbol. Surely you've seen them somewhere else in the room?...
+HINT_CH5_210_PIANO1=
+
+### For each puzzle you've solved, a symbol has appeared. For some others, they were already there in the scenery.##That's only half of the puzzle though. In which order should you press the keys?...
+HINT_CH5_210_PIANO2=
+
+### Next to each symbol, there are dates indicated. One of the figures of those dates is always written with a separate color!##Associate each symbol to this figure and press the piano keys in this order.
+HINT_CH5_210_PIANO3=
+
+### Press the piano keys in this exact order (from left to right) : 4, 7, 8, 1, 9, 3, 2, 5, 6. Then press that 'return' key on the right to validate.
+HINT_CH5_210_PIANO4=
+
+
+#----- Hints BROK --------
+### Exit the apartment.
+HINT_CH5_210_EXIT1=
+
+### Go to the factory. You'll need to go through the Border Post first.
+HINT_CH5_220_FACTORY1=
+
+### Look at the window of that sentry box!
+HINT_CH5_220_LOOKWINDOW1=
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Croc dude, you gotta convince that guy to come out of there! One way or another... You can obviously hit that door. But he might not appreciate it.##There's a more clever way. Seems like he's worried about Tribots because he can hear them but there's none in sight! So... What is he hearing?
+HINT_CH5_220_GHERKINCONVINCE1=
+
+### That noisy pump on the left! It's inside that sealed container. Except it's not sealed at all...##There might be some way to repair those holes in the membrane!
+HINT_CH5_220_GHERKINCONVINCE2=
+
+### Croc dude, I think you missed that little fix bot on the bottom left of the membrane. Take 'control' of it! Pretty sure you've already got the right thing for doing that...
+HINT_CH5_220_GHERKINCONVINCE3=
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Use your remote control on the fix bot. Each shock will throw it around. Make it go over all five membrane holes to fix them (and ultimately cover the pump sound). After this, talk to Dr. Gherkin again to make him come out.##Tip : The movements are not random. The red light on the front of the bots indicates the direction it will move. Between each shock the bot rotates on its own. Wait for the right moment to use the remote control so it goes into the direction you want!
+HINT_CH5_220_GHERKINCONVINCE4=
+
+
+### Come back to the factory.
+HINT_CH5_220_GHERKINBACK1=
+
+
+
+
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Go to the Border Post. If you'd like to avoid a fight, try to hide and go behind the Pipe-Pill. Don't move, the Tribots won't see you!
+HINT_CH5_230_BORDERCROSS1=
+
+### The easiest way to get rid of that nasty rat is... to leave. Just go back and come back to the alley and he'll be gone.
+HINT_CH5_230_GETRID1=
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Talk to R.J.
+HINT_CH5_230_HACKER1=
+
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Dude, what a choice! Who should you save first? I can't help you with that but I'll state the obvious - you'll need a daily pill to save R.J. As for the doc, I bet he returned to his favorite hiding place...
+HINT_CH5_240_SAVING1=
+
+### To enter the pharmacy, use the code indicated in the "new citizen" message you've received on day 1.
+HINT_CH5_240_SAVING2=
+
+
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Go to Sector 56X and wait until the doc ends fixing the Pipe-Pill.
+HINT_CH5_250_WAITFIX1=
+
+
+### Advance to the right of the street to meet the journalist!
+HINT_CH5_250_GORIGHT1=
+
+

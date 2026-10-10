@@ -1,0 +1,237 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=LIA APARTMENT NIGHTMARE (BEDROOM)
+#-------------------------------
+
+#----- Interactions --------
+### Flower bouquet
+PC_FLOWERS=Букет квітів
+
+### Decoration
+PC_BLANKET=Декорація
+
+### Front door
+PC_DOORFRONT=Вхідні двері
+
+### Toy
+PC_TOY=Іграшка
+
+### Frame
+PC_FRAME=Рамка
+
+### Door
+PC_DOORRIGHT=Двері
+
+### Fire
+PC_FIRE=Вогонь
+
+### To the lounge
+PC_LIVINGROOM=До вітальні
+
+
+#----- Choices / Items --------
+### A blanket!
+GOT_BLANKET=Ковдра!
+
+### Push the button?
+PC11_BUTTON_ASK=Натиснути кнопку?
+
+
+
+### Take the decorative blanket
+TUTORIAL_TAKE_BLANKET=Візьміть декоративну ковдру
+
+### Use the blanket on the fire near the door
+TUTORIAL_USE_BLANKET=Використайте ковдру на вогні біля дверей
+
+
+#----- Dialog --------
+
+# ----- Dialog --------
+### ...
+PC11_BEGIN1-1=...
+
+
+### Huh?
+PC11_BEGIN1-2=Га?
+
+
+### A fire? Where am I?
+PC11_BEGIN1-3=Пожежа? Де я?
+
+
+
+
+
+
+### Trouble!
+PC11_BEGIN2-1=Халепа!
+
+
+### I'd better get out of here, fast!
+PC11_BEGIN2-2=Краще забратися звідси, і якнайшвидше!
+
+
+
+
+### A flower bouquet...
+PC11_FLOWERS1-1=Букет квітів...
+
+
+### I wonder who they're for.
+PC11_FLOWERS1-2=Цікаво, для кого вони.
+
+
+
+### A decorative blanket, maybe? Looks sturdy.
+PC11_BLANKET1-1=Декоративна ковдра, мабуть? Ніби міцна.
+
+
+### I should take it.
+PC11_BLANKET1-2=Варто її забрати.
+
+
+
+### The front door!
+PC11_DOORFRONT1-1=Вхідні двері!
+
+
+
+### Nope. Front doors are usually impregnable.
+PC11_DOORFRONT2-1=Ні. Вхідні двері занадто міцні, щоб їх вибити.
+
+
+### There must be another way to escape!
+PC11_DOORFRONT2-2=Має бути інший шлях для втечі!
+
+
+
+# NB: Lexicon word in Ukrainian for "DigiWindow": "Цифрове вікно"
+### I wish it was a real one... but it's just a DigiWindow.
+PC11_WINDOW1-1=Якби ж це було справжнє вікно... а не цифрове.
+
+
+### And it's broken!
+PC11_WINDOW1-2=Та ще й розбите!
+
+
+
+### Must be one of those trendy voice services.
+PC11_BUTTON1-1=Мабуть, один із тих модних голосових сервісів.
+
+
+### Just press the button and ask whatever you want.
+PC11_BUTTON1-2=Просто натисни кнопку й запитай що завгодно.
+
+
+
+### Whoa! What's going on with the electricity?
+PC11_BUTTON1_YES1-1=Ого! Що діється з електрикою?
+
+
+
+### It's dead. There must be a short circuit somewhere.
+PC11_BUTTON2-1=Не працює. Десь, мабуть, коротке замикання.
+
+
+
+### Better find another way...
+PC11_BUTTON1_NO1-1=Краще знайти інший шлях...
+
+
+
+### Argh!!! Why did I do that?!
+PC11_BUTTON1_YES2-1=А-ай!!! Навіщо я це зробив?!
+
+
+
+### A toy?
+PC11_TOY1-1=Іграшка?
+
+
+### This looks familiar somehow...
+PC11_TOY1-2=Вона чомусь здається знайомою...
+
+
+
+### This is...
+PC11_FRAME1-1=Це...
+
+
+
+### Weird. What's this supposed to depict?
+PC11_FRAME1B-1=Дивно. Що тут мало бути зображено?
+
+
+
+### I bet this leads to the lounge, but it's closed and surrounded by fire.
+PC11_DOORRIGHT_FAR1-1=Б'юся об заклад, цей шлях веде до вітальні. Але двері зачинені й оточені вогнем.
+
+
+### On the other hand, the door is bent. Maybe the fire will eventually destroy it?
+PC11_DOORRIGHT_FAR1-2=З іншого боку, ці двері трохи погнуті. Може, вогонь врешті-решт їх знищить?
+
+
+### But I can't wait that long!
+PC11_DOORRIGHT_FAR1-3=Але я не можу так довго чекати!
+
+
+
+### That door is out of reach.
+PC11_DOORRIGHT_FAR2-1=До тих дверей не дістатися.
+
+
+
+### Impossible... It's jammed!
+PC11_DOORRIGHT_AFTER1-1=Неймовірно... Їх заклинило!
+
+
+### I need to get it open, no matter what!
+PC11_DOORRIGHT_AFTER1-2=Мені треба відчинити їх, що б там не було!
+
+
+
+
+### Oh no! It's jammed! I can't stay here!!!
+PC11_DOORRIGHT_CLOSE1-1=О ні! Їх заклинило! Я не можу тут залишатися!!!
+
+
+
+### Phew, that was close... My poor feet are killing me!
+PC11_DOORRIGHT_CLOSE1B-1=Фух, пронесло... Мої бідні ноги просто відпадають!
+
+
+### What a fool!
+PC11_DOORRIGHT_CLOSE1B-2=Який же я дурень!
+
+
+
+### My feet are burning!!!
+PC11_DOORRIGHT_CLOSE2-1=Мої ноги горять!!!
+
+
+
+### No idea how this happened but I'd better stay away from that fire!
+PC11_FIRE1-1=Гадки не маю, як усе це сталося, але краще триматися подалі від того вогню!
+
+
+
+### There! It's working but maybe not for long.
+PC11_FIRE_USEBLANKET-1=Ось так! Спрацювало, але, можливо, ненадовго.
+
+
+### I need to get past that door!
+PC11_FIRE_USEBLANKET-2=Мені треба пройти крізь ці двері!
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+
+
+
+
+

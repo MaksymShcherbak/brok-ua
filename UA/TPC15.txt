@@ -1,0 +1,659 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Ott (Unknown)
+#     Brok - Wes (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Wes (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Ott (Unknown)
+
+#-------------------------------
+#=In front of Lab Day 2
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+### Hoverbike
+PC_BIKE=Аероцикл
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Ott - Ott and Brok arrive from the Aircar. - Here Ott has a good relationship with Brok
+### It's here! The building right in front of us.
+PC15_FIRST1-1=Ось воно! Будівля якраз перед нами.
+
+
+#----------------------------------------------------
+# Brok - Here Ott was KOed by Brok
+### Well... Looks like we've arrived.
+PC15_FIRST_OTTKO1-1=Ну... Схоже, ми прибули.
+
+
+# Ott
+### ...
+PC15_FIRST_OTTKO1-2=...
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC15_OTT_NOPE1-1=...
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok...
+PC15_FIRST_OTTKO2-1=Пане Броку...
+
+
+# Ott
+### Why?...
+PC15_FIRST_OTTKO2-2=Чому...?
+
+
+# Brok
+### Uh?
+PC15_FIRST_OTTKO2-3=Га?
+
+
+# Ott
+### Why... did you hit me?
+PC15_FIRST_OTTKO2-4=Чому... ви мене вдарили?
+
+
+# Brok
+### Oh...
+PC15_FIRST_OTTKO2-5=Ох...
+
+
+# Brok
+### I... didn't have a choice...
+PC15_FIRST_OTTKO2-6=Я... не мав вибору...
+
+
+# Ott
+### We always have a choice.
+PC15_FIRST_OTTKO2-7=Вибір є завжди.
+
+
+# Ott
+### I guess you wanted to spy on my uncle's computer that much.
+PC15_FIRST_OTTKO2-8=Мабуть, вам так сильно хотілося пошпигувати за комп'ютером мого дядька.
+
+
+# Brok
+### Listen...
+PC15_FIRST_OTTKO2-9=Послухай...
+
+
+# Brok
+### It's a long story but...
+PC15_FIRST_OTTKO2-10=Це довга історія, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I did it for Graff.
+PC15_FIRST_OTTKO2-11=Я зробив це заради Граффа.
+
+
+# Ott
+### ...?
+PC15_FIRST_OTTKO2-12=...?
+
+
+# Ott
+### Alright...
+PC15_FIRST_OTTKO2-13=Гаразд...
+
+
+# Ott
+### We're meant to cooperate on this, so...
+PC15_FIRST_OTTKO2-14=На цій справі нам потрібно буде співпрацювати, тож...
+
+
+# Ott
+### I'll cooperate with you. But I'm not sure I can forget what happened.
+PC15_FIRST_OTTKO2-15=Я вам допоможу. Але я не впевнений, що зможу забути те, що сталося.
+
+
+# Brok
+### Fair enough.
+PC15_FIRST_OTTKO2-16=Справедливо.
+
+
+# Ott
+### Let's go.
+PC15_FIRST_OTTKO2-17=Ходімо.
+
+
+#----------------------------------------------------
+# Ott - Wandering around
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Where are you going, Mister Brok?
+PC15_GETFURTHER_OTT-1=Куди ви йдете, пане Броку?
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Watch out, Mister Brok!!!
+PC15_JETAREA_OTT-1=Обережно, пане Броку!!!
+
+
+#----------------------------------------------------
+# Ott - Get killed by aircar or by jumping
+### Oh nooooo!
+PC15_FALL_OTT-1=О ні-іііііі!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+### Now that's a cool hoverbike!
+PC15_BIKE1-1=Оце так крутий аероцикл!
+
+
+# Brok
+### When I was young, I always dreamt of riding one of these.
+PC15_BIKE1-2=Коли я був молодим, я завжди мріяв покататися на такому.
+
+
+# Brok
+### Still do, actually!
+PC15_BIKE1-3=Власне, і досі мрію!
+
+
+# Ott
+### That looks dangerous to me! I thought these were illegal...
+PC15_BIKE1-4=Здається, це небезпечна штука! Я думав, вони поза законом...
+
+
+# Brok
+### Can't make a real livin' without some risks.
+PC15_BIKE1-5=Не відчуєш смаку життя, якщо зовсім не ризикуватимеш.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC15_BIKE2-1=Гмм...
+
+
+# Ott
+### Don't tell me you're considering riding it?
+PC15_BIKE2-2=Тільки не кажіть, що ви збираєтеся на ньому поїхати?
+
+
+# Brok
+### You just read my mind!
+PC15_BIKE2-3=Ти щойно прочитав мої думки!
+
+
+#----------------------------------------------------
+# Brok
+### Lasers.
+PC15_ELEVATOR_FRONT-1=Лазери.
+
+
+# Ott
+### Hmm. Maybe we should...
+PC15_ELEVATOR_FRONT-2=Гмм. Може, нам варто...
+
+
+#----------------------------------------------------
+# Brok
+### !
+PC15_ELEVATOR_FRONT2-1=!
+
+
+# Ott
+### Someone heard us?
+PC15_ELEVATOR_FRONT2-2=Хтось нас почув?
+
+
+# Brok
+### Let's enter.
+PC15_ELEVATOR_FRONT2-3=Ходімо.
+
+
+#----------------------------------------------------
+# Brok
+### That elevator thing keeps pushing me back!
+PC15_ELEVATOR2_TRY-1=Цей ліфт мене постійно відштовхує!
+
+
+#----------------------------------------------------
+# Guard - After the investigation, Tidy flees on the highway. Brok takes the guard hovercar to chase it
+### Hey, wait! That's mine!
+PC15_STORY170_TIYDYFLEES1-1=Гей, зачекай! Це моє!
+
+
+# Guard
+### ...
+PC15_STORY170_TIYDYFLEES1-2=...
+
+
+# Guard - The sucker is Tidy (the bot). The hoverbiker belongs to the guard.
+### Okay, get that sucker and BRING IT BACK!
+PC15_STORY170_TIYDYFLEES1-3=Ну добре, злови цього бляшаного виродка і ПОВЕРНИ НАЗАД!
+
+
+#----------------------------------------------------
+# Brok - After the chase
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Hey chief!
+PC15_STORY180_BACK1-1=Гей, шефе!
+
+
+# Wes
+### ...
+PC15_STORY180_BACK1-2=...
+
+
+# Brok
+### I... Erm, got a little lost on my way back...
+PC15_STORY180_BACK1-3=Я... Е-е, трохи заблукав по дорозі назад...
+
+
+# Wes
+### ...
+PC15_STORY180_BACK1-4=...
+
+
+# Brok
+### Well. Here's that criminal bot.
+PC15_STORY180_BACK1-5=Ну що ж. Ось ваш робот-злочинець.
+
+
+# Brok
+### What's left of it, anyway.
+PC15_STORY180_BACK1-6=Принаймні те, що від нього залишилося.
+
+
+# Brok
+### There. You can have some scientists check its components and confirm...
+PC15_STORY180_BACK1-7=Тримайте. Можете доручити науковцям перевірити його компоненти і підтвердити...
+
+
+# Wes
+### Do you realize what you've done?
+PC15_STORY180_BACK1-8=Ти розумієш, що ти накоїв?
+
+
+# Brok
+### Yeah. I stopped a dangerous criminal at the risk of my life!
+PC15_STORY180_BACK1-9=Ага. Я зупинив небезпечного злочинця, ризикуючи власним життям!
+
+
+# Wes
+### You put hundreds of citizens at risk during your little highway escape!
+PC15_STORY180_BACK1-10=Під час своєї втечі на шосе ти наразив на небезпеку сотні громадян!
+
+
+# Brok
+### My escape?!
+PC15_STORY180_BACK1-11=Моєї втечі?!
+
+
+# Wes
+### People are in shock. There are news reports everywhere.
+PC15_STORY180_BACK1-12=Люди в шоці. У новинах тільки про це й говорять.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### You stole a hoverbike. You bumped into Aircars!
+PC15_STORY180_BACK1-13=Ти вкрав аероцикл. Ти врізався в аеромобілі!
+
+
+# Wes
+### Innocents could have been killed!
+PC15_STORY180_BACK1-14=Невинні люди могли загинути!
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### No chaos like this ever happened in the Drums for ages!
+PC15_STORY180_BACK1-15=Такого хаосу на Верхах не було вже багато років!
+
+
+# Brok
+### Good. I gave those rich folks some events to talk about.
+PC15_STORY180_BACK1-16=Ну добре. Я дав цим багатіям привід для пліток.
+
+
+# Brok
+### So what?...
+PC15_STORY180_BACK1-17=І що з того...?
+
+
+# Wes
+### You think that's funny?...
+PC15_STORY180_BACK1-18=Ти вважаєш це смішним...?
+
+
+# Brok
+### What did you expect me to do? Sit back and wait for that bag of screws to wreck the city?!
+PC15_STORY180_BACK1-19=А що ви очікували від мене? Сидіти склавши руки і чекати, поки цей мішок із гвинтами рознесе місто на шматки?!
+
+
+# Brok
+### There was no other way!
+PC15_STORY180_BACK1-20=Іншого виходу не було!
+
+
+# Wes
+### There's always another way.
+PC15_STORY180_BACK1-21=Інший вихід є завжди.
+
+
+# Wes
+### This robot wasn't much of a threat.
+PC15_STORY180_BACK1-22=Цей робот не становив великої загрози.
+
+
+# Wes
+### You, on the contrary...
+PC15_STORY180_BACK1-23=А ти, натомість...
+
+
+# Wes
+### Our collaboration ends here.
+PC15_STORY180_BACK1-24=Наша співпраця на цьому закінчується.
+
+
+# Brok
+### What? You're firing me?
+PC15_STORY180_BACK1-25=Що? Ви мене звільняєте?
+
+
+# Wes
+### Consider yourself lucky I don't throw you back in jail.
+PC15_STORY180_BACK1-26=Вважай, тобі пощастило, що я не кидаю тебе назад до в'язниці.
+
+
+# Brok
+### Perfect! I'm outta here!
+PC15_STORY180_BACK1-27=Чудово! Я звідси звалюю!
+
+
+# Brok
+### Don't call me back, 'cause next time...
+PC15_STORY180_BACK1-28=Навіть не дзвоніть мені, бо наступного разу...
+
+
+# Brok
+### I won't be here to save your bacon!
+PC15_STORY180_BACK1-29=Мене тут не буде, щоб врятувати вашу шкуру!
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC15_STORY180_OTTBAD1-1=...
+
+
+# Wes
+### This is for the best.
+PC15_STORY180_OTTBAD1-2=Так буде краще.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I'm sorry, Ott.
+PC15_STORY180_OTTBAD1-3=Мені шкода, Отте.
+
+
+# Wes
+### I shouldn't have let you stay around that dangerous man.
+PC15_STORY180_OTTBAD1-4=Я не повинен був дозволяти тобі кружляти біля цього небезпечного чоловіка.
+
+
+# Ott
+### You mean...
+PC15_STORY180_OTTBAD1-5=Ти хочеш сказати...
+
+
+# Wes
+### I know what he's done to you.
+PC15_STORY180_OTTBAD1-6=Я знаю, що він з тобою зробив.
+
+
+# Wes
+### Nothing justifies such brutality.
+PC15_STORY180_OTTBAD1-7=Ніщо не виправдовує таку жорстокість.
+
+
+# Ott
+### You're probably right...
+PC15_STORY180_OTTBAD1-8=Мабуть, ти маєш рацію...
+
+
+# Ott
+### Still...
+PC15_STORY180_OTTBAD1-9=І все ж...
+
+
+# Wes
+### Forget him.
+PC15_STORY180_OTTBAD1-10=Забудь про нього.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok!...
+PC15_STORY180_OTTGOOD1-1=Пане Броку...!
+
+
+# Wes
+### Nephew. Don't bother.
+PC15_STORY180_OTTGOOD1-2=Небоже. Не переймайся.
+
+
+# Wes
+### This man only brings misery to everyone around him.
+PC15_STORY180_OTTGOOD1-3=Цей чоловік приносить лише злидні всім навколо.
+
+
+# Ott
+### ...
+PC15_STORY180_OTTGOOD1-4=...
+
+
+# Wes
+### Listen to me. I forbid you to get close to him, ever again.
+PC15_STORY180_OTTGOOD1-5=Послухай мене. Я забороняю тобі наближатися до нього, відтепер і назавжди.
+
+
+# Ott
+### But...
+PC15_STORY180_OTTGOOD1-6=Але...
+
+
+# Wes
+### No but. The situation will get dangerous soon.
+PC15_STORY180_OTTGOOD1-7=Ніяких "але". Ситуація незабаром стане небезпечною.
+
+
+# Ott
+### What do you mean?...
+PC15_STORY180_OTTGOOD1-8=Що ти маєш на увазі...?
+
+
+# Wes - Like in PC09C, Wes uses the wrong word.
+### Come on, now. I've got to berry some suspects for another case.
+PC15_STORY180_OTTGOOD1-9=Нумо. Мені треба розтоптати деяких підозрюваних для іншої справи.
+
+
+# Ott
+### To berry?...
+PC15_STORY180_OTTGOOD1-10=Розтоптати...?
+
+
+# Wes
+### Yes. To interrogate.
+PC15_STORY180_OTTGOOD1-11=Так. Допитати.
+
+
+# Ott
+### Oh, I see! You're using codenames.
+PC15_STORY180_OTTGOOD1-12=А, зрозуміло! Ти використовуєш кодові назви.
+
+
+# Wes
+### ...
+PC15_STORY180_OTTGOOD1-13=...
+
+
+# Ott
+### I'll be right behind you, Uncle.
+PC15_STORY180_OTTGOOD1-14=Я йтиму слідом за тобою, дядьку.
+
+
+#----------------------------------------------------
+# Brok - AFter this scene, Brok thinks to himself
+### (I felt so angry and pointless...)
+PC15_STORY180_BACK2-1=(Я почувався таким злим і безпорадним...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Deep down... I knew Wes was right.)
+PC15_STORY180_BACK2-2=(Глибоко всередині... я знав, що Вес мав рацію.)
+
+
+# Brok
+### (This was just one little robot.)
+PC15_STORY180_BACK2-3=(Це був лише один маленький робот.)
+
+
+# Brok
+### (It couldn't have done so much damage... Could it?)
+PC15_STORY180_BACK2-4=(Він не міг завдати стільки шкоди... Чи міг?)
+
+
+# Brok
+### (Who knows.)
+PC15_STORY180_BACK2-5=(Хтозна.)
+
+
+# Brok
+### (But that's when I noticed it.)
+PC15_STORY180_BACK2-6=(Але саме тоді я це помітив.)
+
+
+# Brok
+### What the...?
+PC15_STORY180_BACK2-7=Що за...?
+
+
+# Brok
+### All these calls and messages?...
+PC15_STORY180_BACK2-8=Усі ці дзвінки та повідомлення...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! He's in trouble!
+PC15_STORY180_BACK2-9=Графф! Він у біді!
+
+
+# Brok
+### Shoot! I need to...
+PC15_STORY180_BACK2-10=Дідько! Мені треба...
+
+
+# Brok
+### I... I'm coming, son!
+PC15_STORY180_BACK2-11=Я... Я вже йду, синку!
+
+
+#----------------------------------------------------
+# Ott - Before the investigation, Brok talk to Ott
+### Got a bad feeling about this place...
+PC15_OTT1-1=Щось мені не подобається це місце...
+
+
+# Brok
+### Both of us then.
+PC15_OTT1-2=Мені теж.
+
+
+# Ott
+### ...
+PC15_OTT1-3=...
+
+
+# Brok
+### Don't worry. If anything happens, I'm here.
+PC15_OTT1-4=Не хвилюйся. Якщо щось станеться, я тут.
+
+
+# Ott
+### Thanks...
+PC15_OTT1-5=Дякую...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff is lucky to have you...
+PC15_OTT1-6=Граффу пощастило з вами...
+
+
+# Brok
+### ...
+PC15_OTT1-7=...
+
+
+#----------------------------------------------------
+# Brok
+### Hey, wait!
+PC15_OTT_HITGAMEOVER1-1=Гей, чекай!
+
+
+# Brok
+### Where are you going?
+PC15_OTT_HITGAMEOVER1-2=Куди ти йдеш?
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh)
+PC15_OTT_HITGAMEOVER2-1=(Зітхає)
+
+
+# Brok
+### I can't go on like this.
+PC15_OTT_HITGAMEOVER2-2=Я так більше не можу.
+
+
+#----------------------------------------------------
+# Ott
+### What are you doing?!
+PC15_BIKE_HIT1-1=Що ви робите?!
+
+
+#----------------------------------------------------
+# Ott
+### Please... Stop!...
+PC15_BIKE_HIT2-1=Будь ласка... Зупиніться...!
+
+
+#----------------------------------------------------
+

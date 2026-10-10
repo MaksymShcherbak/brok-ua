@@ -1,0 +1,808 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dart (Unknown)
+#     Brok - Graff (Unknown)
+#     Dart - Brok (Unknown)
+#     Dart - Graff (Unknown)
+#     Dart - Kins (Unknown)
+#     Dart - Ott (Unknown)
+#     Dart - Rat (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Dart (Unknown)
+#     Graff - Kins (Unknown)
+#     Graff - Ott (Unknown)
+#     Kins - Dart (Unknown)
+#     Kins - Graff (Unknown)
+#     Kins - Ott (Unknown)
+#     Ott - Dart (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Kins (Unknown)
+#     Rat - Dart (Unknown)
+
+#-------------------------------
+#= GRAFF - HACKER BACK STREET
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+### Run
+GPC14_CHOICE_RUN=Бігти
+
+### Talk
+GPC14_CHOICE_TALK=Говорити
+
+### Fight
+GPC14_CHOICE_FIGHT=Битися
+
+### Keep fighting
+GPC14_CHOICE_KEEPFIGHT=Продовжувати бій
+
+### Give up
+GPC14_CHOICE_GIVEUP=Здатися
+
+### Do nothing
+GPC14_CHOICE_DONOTHING=Нічого не робити
+
+
+#----- Topics --------
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# ----- Topics --------
+### Graff is not supposed to win this fight! Skip anyway?
+PC_CHOICE_GRAFF_SKIPFIGHT=Графф не повинен виграти в цьому бою! Усе одно пропустити?
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Room interactions
+### There sure are a lot of brutes around here...
+GPC14_STATUE_DESTROYED1-1=Тут точно повно громил...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### The Untail...
+GPC14_STATUE1-1=Безхвостий...
+
+
+#----------------------------------------------------
+# Graff - Day 2 end - Graff arrives and see Brok fighting
+### ...!
+GPC14_STORY180_SECOND1-1=...!
+
+
+#----------------------------------------------------
+# Rat - During this whole scene, Graff is hidden and mistakes this for Brok attempting to steal from the Squealers (when it's actually the opposite)
+### Argh... Does 'dat guy have steel fists or what?...
+GPC14_STORY180_SECOND5-1=Ар-р... У того хлопця кулаки зі сталі чи шо...?
+
+
+# Brok
+### Do you know who I am, little jerks?...
+GPC14_STORY180_SECOND5-2=Ви знаєте, хто я такий, дрібні бовдури...?
+
+
+# Brok
+### Well I bet your boss remembers.
+GPC14_STORY180_SECOND5-3=Ну, б'юся об заклад, ваш бос пам'ятає.
+
+
+# Dart
+### ...Da boss?...
+GPC14_STORY180_SECOND5-4=...Шеф...?
+
+
+# Brok
+### I'm not in the mood for talk! Gimme that phone, or else...
+GPC14_STORY180_SECOND5-5=Я не в настрої балакати! Віддайте телефон, бо інакше...
+
+
+# Dart
+### ...Oh no!... It's him!
+GPC14_STORY180_SECOND5-6=...О ні!... Це він!
+
+
+# Rat
+### Him who?!
+GPC14_STORY180_SECOND5-7=Хто він?!
+
+
+#----------------------------------------------------
+# Dart
+### He's da guy who blew us all up yesterday!
+GPC14_STORY180_SECOND5_BLOWUP-1=Це той тип, який учора підірвав нас усіх!
+
+
+#----------------------------------------------------
+# Dart
+### He's da guy who beat up our commander yesterday!
+GPC14_STORY180_SECOND5_BEAT-1=Це той тип, який учора відгамселив нашого командира!
+
+
+#----------------------------------------------------
+# Dart
+### We keep running into him!
+GPC14_STORY180_SECOND5_SEVERAL-1=Ми постійно на нього натрапляємо!
+
+
+#----------------------------------------------------
+# Rat
+### N... Nah way!!!
+GPC14_STORY180_SECOND5B-1=Т... Та ну ні за шо!!!
+
+
+# Dart
+### Dun' wanna die! Take that phone! And my money!
+GPC14_STORY180_SECOND5B-2=Не хочу вмирати! Забирай той телефон! І мої гроші!
+
+
+# Brok
+### Uh?...
+GPC14_STORY180_SECOND5B-3=Е-е...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### A 100 Unis redeemable coupon...
+GPC14_STORY180_SECOND6-1=Купон на 100 Юні...
+
+
+#----------------------------------------------------
+# Brok
+### Well... That was money easily won.
+GPC14_STORY180_SECOND7-1=Ну... Це були легкі гроші.
+
+
+# Brok
+### (Yawn) What a day. Let's get some shut-eye.
+GPC14_STORY180_SECOND7-2=(Позіхає) Ну й день. Пора й поспати.
+
+
+#----------------------------------------------------
+# Graff
+### What was that?...
+GPC14_STORY180_SECOND8-1=Що це було...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Is this... how Brok makes money?...
+GPC14_STORY180_SECOND8-2=Ось так... Брок заробляє гроші...?
+
+
+# Graff
+### ...
+GPC14_STORY180_SECOND8-3=...
+
+
+#----------------------------------------------------
+# Graff - Graff with Ott in day 3, getting ambushed by rats
+### ...!
+GPC14_RATSCOME1-1=...!
+
+
+#----------------------------------------------------
+# Kins
+### Whatta nice surprise!
+GPC14_RATSCOME2-1=Яка приємна несподіванка!
+
+
+# Kins
+### We didn't even have to look. Ya just came straight at us!
+GPC14_RATSCOME2-2=Нам навіть шукати не довелося. Ви самі прийшли прямо до нас!
+
+
+# Graff
+### ...
+GPC14_RATSCOME2-3=...
+
+
+# Ott
+### (Gulp)
+GPC14_RATSCOME2-4=(Ковтає слину)
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+GPC14_RATSCOME2-5=Граффе...!
+
+
+# Ott
+### What do we do?...
+GPC14_RATSCOME2-6=Що нам робити...?
+
+
+#----------------------------------------------------
+# Graff
+### What do you want?
+GPC14_CHOICE_TALK1-1=Чого ви хочете?
+
+
+# Kins - He means Graff only
+### You.
+GPC14_CHOICE_TALK1-2=Тебе.
+
+
+# Graff
+### Uh?! Why?
+GPC14_CHOICE_TALK1-3=А?! Навіщо?
+
+
+# Kins
+### Da boss will tell ya.
+GPC14_CHOICE_TALK1-4=Бос тобі розкаже.
+
+
+# Kins
+### Come.
+GPC14_CHOICE_TALK1-5=Йди сюди.
+
+
+# Graff
+### No way!
+GPC14_CHOICE_TALK1-6=Ні за що!
+
+
+# Kins
+### Not giving you a choice.
+GPC14_CHOICE_TALK1-7=А вибору в тебе немає.
+
+
+# Graff
+### Ooof!
+GPC14_CHOICE_TALK1-8=У-ух!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+GPC14_CHOICE_TALK1-9=Граффе!!!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+GPC14_CHOICE_RUN-1=Отте...
+
+
+# Graff
+### Run!!!
+GPC14_CHOICE_RUN-2=Тікай!!!
+
+
+#----------------------------------------------------
+# Graff
+### Ooof!!!
+GPC14_CHOICE_RUN2-1=У-ух!!!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+GPC14_CHOICE_RUN2-2=Граффе!!!
+
+
+# Kins
+### Ha ha ha!
+GPC14_CHOICE_RUN2-3=Ха-ха-ха!
+
+
+# Kins
+### You thought you could escape us? Miserable worm!
+GPC14_CHOICE_RUN2-4=Думав, зможеш утекти від нас? Нещасний хробак!
+
+
+#----------------------------------------------------
+# Ott
+### Let me go! Or else...
+GPC14_CHOICE_AFTER-1=Відпустіть мене! Бо інакше...
+
+
+# Dart
+### Else wha'?
+GPC14_CHOICE_AFTER-2=Інакше шо?
+
+
+# Ott
+### I... I'll call my uncle! He's a cop!
+GPC14_CHOICE_AFTER-3=Я... Я викличу свого дядька! Він коп!
+
+
+# Dart
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Can I, Kins? Can I?
+GPC14_CHOICE_AFTER-4=Можна мені, Кінсе? Можна?
+
+
+# Kins
+### Help yourself.
+GPC14_CHOICE_AFTER-5=Ну давай.
+
+
+# Ott
+### Argh...
+GPC14_CHOICE_AFTER-6=А-аа...
+
+
+#----------------------------------------------------
+# Graff
+### You want a piece of me?...
+GPC14_CHOICE_FIGHT-1=Хочете бійки зі мною...?
+
+
+# Graff
+### Go ahead! I'm ready!
+GPC14_CHOICE_FIGHT-2=Давайте! Я готовий!
+
+
+# Kins
+### Oh no! I'm scared!
+GPC14_CHOICE_FIGHT-3=О ні! Боюся, аж трушуся!
+
+
+# Graff
+### I'm not joking!
+GPC14_CHOICE_FIGHT-4=Я не жартую!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?... What are you doing?...
+GPC14_CHOICE_FIGHT-5=Граффе...? Що ти робиш...?
+
+
+# Dart
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Whatta we do, Kins?
+GPC14_CHOICE_FIGHT-6=Шо будемо робити, Кінсе?
+
+
+# Kins
+### Let's show dat little pretentious cat.
+GPC14_CHOICE_FIGHT-7=Давай поставимо на місце цього самовпевненого кота.
+
+
+#----------------------------------------------------
+# Dart - Win the fight
+### N... No way...
+GPC14_AFTERFIGHT-1=Н... Не може бути...
+
+
+# Dart
+### How can this little boy...
+GPC14_AFTERFIGHT-2=Як цей малий хлопчисько...
+
+
+# Graff
+### Leave us alone!
+GPC14_AFTERFIGHT-3=Залиште нас у спокої!
+
+
+# Ott
+### Ahhh!
+GPC14_AFTERFIGHT-4=А-аа!
+
+
+# Kins
+### The boss asked! No choice!
+GPC14_AFTERFIGHT-5=Бос наказав! Вибору немає!
+
+
+# Graff
+### This is me you're after! Release him!
+GPC14_AFTERFIGHT-6=Вам потрібен я! Відпустіть його!
+
+
+# Kins
+### Give up and we spare you both.
+GPC14_AFTERFIGHT-7=Здайтеся, і ми збережемо життя вам обом.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Don't mind me Graff! Run away!
+GPC14_AFTERFIGHT-8=Не зважай на мене, Граффе! Тікай!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC14_AFTERFIGHT_GIVEUP1-1=...
+
+
+# Graff
+### Alright...
+GPC14_AFTERFIGHT_GIVEUP1-2=Добре...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Take me. But let Ott leave.
+GPC14_AFTERFIGHT_GIVEUP1-3=Забирайте мене. Але відпустіть Отта.
+
+
+# Dart
+### Sorry! Boss needs both of you.
+GPC14_AFTERFIGHT_GIVEUP1-4=Вибачай! Шефу потрібні ви обидва.
+
+
+# Graff
+### Oooof!...
+GPC14_AFTERFIGHT_GIVEUP1-5=У-уух...!
+
+
+#----------------------------------------------------
+# Graff
+### I'm...
+GPC14_AFTERFIGHT_KILL1-1=Я...
+
+
+# Graff
+### Gonna kill you...!
+GPC14_AFTERFIGHT_KILL1-2=Уб'ю вас...!
+
+
+# Kins
+### Whaaa...!!!
+GPC14_AFTERFIGHT_KILL1-3=Шооо...!!!
+
+
+#----------------------------------------------------
+# Graff - The rat accidentally kills Ott
+### ...!!!
+GPC14_AFTERFIGHT_KILL2-1=...!!!
+
+
+# Kins
+### The... the boy!
+GPC14_AFTERFIGHT_KILL2-2=Хлоп... хлопчина!
+
+
+# Dart
+### You imbecile! Look what you've done!
+GPC14_AFTERFIGHT_KILL2-3=Ти, бовдуре! Подивися, шо ти наробив!
+
+
+# Kins
+### He got me frightened! I...
+GPC14_AFTERFIGHT_KILL2-4=Він мене налякав! Я...
+
+
+# Dart
+### We can't stay here!...
+GPC14_AFTERFIGHT_KILL2-5=Ми не можемо тут залишатися...!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### ...Ott...
+GPC14_AFTERFIGHT_KILL3-1=...Отте...
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL3-2=...
+
+
+# Graff
+### N... No...
+GPC14_AFTERFIGHT_KILL3-3=Н... Ні...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott... I'm begging you...
+GPC14_AFTERFIGHT_KILL3-4=Отте... Я благаю тебе...
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL3-5=...
+
+
+# Graff
+### Help!!!
+GPC14_AFTERFIGHT_KILL3-6=Допоможіть!!!
+
+
+# Graff
+### Somebody help!!!
+GPC14_AFTERFIGHT_KILL3-7=Хто-небудь, допоможіть!!!
+
+
+# Graff
+### Anyone...
+GPC14_AFTERFIGHT_KILL3-8=Хоч хтось...
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL3-9=...
+
+
+# Graff
+### This is...
+GPC14_AFTERFIGHT_KILL3-10=Це все...
+
+
+# Graff
+### All my fault...
+GPC14_AFTERFIGHT_KILL3-11=Моя провина...
+
+
+#----------------------------------------------------
+# Brok
+### The next events are a blur.
+GPC14_AFTERFIGHT_KILL4-1=Усі подальші події як у тумані.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### I remember entering the bunker with Dee and the doc.
+GPC14_AFTERFIGHT_KILL4-2=Я пам'ятаю, як увійшов до бункера разом із Ді та доком.
+
+
+# Brok
+### It was tough but we found a way to get rid of those bots surrounding us.
+GPC14_AFTERFIGHT_KILL4-3=Було важко, але ми знайшли спосіб позбутися ботів, які нас оточили.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### On the way out... I was getting worried about Graff.
+GPC14_AFTERFIGHT_KILL4-4=На шляху назад... Я почав хвилюватися за Граффа.
+
+
+# Brok
+### I searched for him for a while.
+GPC14_AFTERFIGHT_KILL4-5=Я якийсь час шукав його.
+
+
+# Brok
+### Until...
+GPC14_AFTERFIGHT_KILL4-6=Аж поки...
+
+
+#----------------------------------------------------
+# Brok - Brok arrives and sees Graff next, sit next to Ott's corpse
+### ...
+GPC14_AFTERFIGHT_KILL5-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+GPC14_AFTERFIGHT_KILL5-2=Граффе...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL6-1=...
+
+
+# Brok
+### Oh no...
+GPC14_AFTERFIGHT_KILL6-2=О ні...
+
+
+#----------------------------------------------------
+# Graff
+### Wake...
+GPC14_AFTERFIGHT_KILL7-1=Розбуди...
+
+
+# Graff
+### Wake him up...
+GPC14_AFTERFIGHT_KILL7-2=Розбуди його...
+
+
+# Graff
+### Please!...
+GPC14_AFTERFIGHT_KILL7-3=Будь ласка...!
+
+
+# Brok
+### ...
+GPC14_AFTERFIGHT_KILL7-4=...
+
+
+# Brok
+### I'm afraid... I can't...
+GPC14_AFTERFIGHT_KILL7-5=Боюся... Я не можу...
+
+
+#----------------------------------------------------
+# Brok
+### How long have you been here?...
+GPC14_AFTERFIGHT_KILL8-1=Як довго ти вже тут...?
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL8-2=...
+
+
+# Graff
+### I... can't leave him...
+GPC14_AFTERFIGHT_KILL8-3=Я... не можу залишити його...
+
+
+# Brok
+### I understand...
+GPC14_AFTERFIGHT_KILL8-4=Розумію...
+
+
+# Brok
+### I've only known him for a short while but...
+GPC14_AFTERFIGHT_KILL8-5=Я знав його зовсім трохи, але...
+
+
+# Brok
+### He was the best of us...
+GPC14_AFTERFIGHT_KILL8-6=Він був найкращим з нас...
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL8-7=...
+
+
+# Graff
+### His parents....
+GPC14_AFTERFIGHT_KILL8-8=Його батьки...
+
+
+# Graff
+### What are we gonna tell them...
+GPC14_AFTERFIGHT_KILL8-9=Що ми їм скажемо...
+
+
+# Brok
+### Let me take care of this.
+GPC14_AFTERFIGHT_KILL8-10=Я про це подбаю.
+
+
+# Brok
+### Lemme...
+GPC14_AFTERFIGHT_KILL8-11=Дай мені...
+
+
+# Brok
+### Take care of everything.
+GPC14_AFTERFIGHT_KILL8-12=Про все подбати.
+
+
+# Graff
+### ...
+GPC14_AFTERFIGHT_KILL8-13=...
+
+
+# Brok
+### Come with me.
+GPC14_AFTERFIGHT_KILL8-14=Ходімо зі мною.
+
+
+#----------------------------------------------------
+# Dart - Graff loses
+### Oops!... I think he's...
+GPC14_GRAFF_GAMEOVER-1=Ой...! Здається, він...
+
+
+# Kins
+### Idiot! What have you done!!!
+GPC14_GRAFF_GAMEOVER-2=Ідіоте! Шо ти наробив!!!
+
+
+# Kins
+### Da boss needed him alive!
+GPC14_GRAFF_GAMEOVER-3=Він потрібен шефові живим!
+
+
+# Dart
+### But...!
+GPC14_GRAFF_GAMEOVER-4=Але...!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!! Why...!
+GPC14_GRAFF_GAMEOVER-5=Граффе!!! Чому...!
+
+
+#----------------------------------------------------
+# Graff - Player chooses to do nothing
+### ...
+GPC14_CHOICE_DONOTHING1-1=...
+
+
+# Kins
+### What's da problem? Someone cut your tongue?...
+GPC14_CHOICE_DONOTHING1-2=У чому проблема? Язик відбрало...?
+
+
+# Ott
+### Go away! We don't want any trouble!
+GPC14_CHOICE_DONOTHING1-3=Ідіть геть! Нам не потрібні неприємності!
+
+
+# Dart
+### Oh but we do, pig boy!
+GPC14_CHOICE_DONOTHING1-4=А нам потрібні, поросятко!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! We can't fight 'em!
+GPC14_CHOICE_DONOTHING1-5=Граффе! Ми не зможемо з ними битися!
+
+
+# Ott
+### Maybe we should...
+GPC14_CHOICE_DONOTHING1-6=Може, нам варто...
+
+
+# Ott
+### Argh!
+GPC14_CHOICE_DONOTHING1-7=А-ай!
+
+
+# Dart
+### Shut up.
+GPC14_CHOICE_DONOTHING1-8=Замовкни.
+
+
+# Graff
+### You... monster!
+GPC14_CHOICE_DONOTHING1-9=Ви... чудовиська!
+
+
+# Dart
+### Oh! Look! Lil' pussy here is angry we beat his lover boy!
+GPC14_CHOICE_DONOTHING1-10=О! Дивіться! Маленька кішечка розлютилась, шо ми відгамселили її коханого!
+
+
+# Dart
+### What are ya gonna do about it, uh?!
+GPC14_CHOICE_DONOTHING1-11=І шо ти з цим зробиш, га?!
+
+
+# Graff
+### ...
+GPC14_CHOICE_DONOTHING1-12=...
+
+
+# Kins
+### Knock him down. He shan't see where we'll bring him.
+GPC14_CHOICE_DONOTHING1-13=Треба його вирубити. Він не має бачити, куди ми його відведемо.
+
+
+# Dart
+### Sure thing!
+GPC14_CHOICE_DONOTHING1-14=Без проблем!
+
+
+# Graff
+### Ooof!...
+GPC14_CHOICE_DONOTHING1-15=У-ух...!
+
+
+#----------------------------------------------------
+

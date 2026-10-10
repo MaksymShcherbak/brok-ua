@@ -1,0 +1,8257 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Director (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Sin (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Wes (Unknown)
+#     Director - Brok (Unknown)
+#     Director - Unknown (Unknown)
+#     Graffchat - Graff (Unknown)
+#     Graffchat - Nmerchat (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Graffchat (Unknown)
+#     Graff - Nmerchat (Unknown)
+#     Graff - Tribot (Unknown)
+#     Graff - Unknown (Unknown)
+#     Nmerchat - Graff (Unknown)
+#     Nmerchat - Graffchat (Unknown)
+#     Nmerchat - Unknown (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Unknown (Unknown)
+#     Sin - Brok (Unknown)
+#     Tribot - Brok (Unknown)
+#     Tribot - Graff (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Director (Unknown)
+#     Unknown - Graff (Unknown)
+#     Unknown - Nmerchat (Unknown)
+#     Unknown - Shay (Unknown)
+#     Wes - Brok (Unknown)
+
+#-------------------------------
+#=BROK'S HOME
+#-------------------------------
+
+#----- Interactions --------
+### Bedroom
+PC_BEDROOM=Спальня
+
+### Punchin' bag
+PC_PUNCHINGBAG=Боксерська груша
+
+### Plant
+PC_PLANT=Рослина
+
+### Fridge
+PC_FRIDGE=Холодильник
+
+### Cheese
+PC_FRIDGE_CHEESE=Сир
+
+### Fruit cup
+PC_FRUITCUP=Чаша з фруктами
+
+### Dish
+PC_DISH=Посуд
+
+### Clothes
+PC_CLOTHES=Одяг
+
+### Musical instrument
+PC_INSTRUMENT=Музичний інструмент
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Auto-Clean Tribot
+PC_HOOVER=Трибот-прибиральник
+
+### Chest
+PC_CHEST=Скриня
+
+### Flour
+PC_FLOUR=Борошно
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay's letter
+PC_SHAYLETTER=Лист від Шей
+
+
+#----- Choices / Items --------
+### A magnifying glass!
+GOT_MAGNIFY=Лупа!
+
+### A stick!
+GOT_STICK=Палиця!
+
+### A cleaning bot!
+GOT_HOOVER=Бот-прибиральник!
+
+### Cat fur!
+GOT_CATFUR=Котяча шерсть!
+
+### Put it back?
+PC01_PUNCHINGBAG_CHOICE=Почепити назад?
+
+### Cook with these ingredients?
+PC01_STORY110_COOKTHIS=Готувати з цих інгредієнтів?
+
+### Choose 3 ingredients to mix
+PC01_CHOOSE_INGREDIENTS=Оберіть 3 інгредієнти для готування
+
+### Do the dishes?
+PC01_DO_DISHES=Помити посуд?
+
+
+### Emergency call
+CHOICE_CALL=Екстрений виклик
+
+### Slap
+CHOICE_SLAP=Ляпас
+
+
+### Forgive me
+PC01_CHOICE_FORGIVE=Пробач мені
+
+### Let's forget this
+PC01_CHOICE_FORGET=Забудьмо про це
+
+### I'm hungry
+PC01_CHOICE_HUNGRY=Я голодний
+
+### What to write?
+PC01_DAY2END_CHOICEWRITE=Що написати?
+
+
+### Who's the priority?
+PC01_DAY2BEGIN_CHOICE=Хто в пріоритеті?
+
+### Who to call?
+PC01_STORY290_CHOICE=Кому подзвонити?
+
+### Leave
+PC01_CHOICE_LEAVE=Піти
+
+
+### Take a rest?
+PC01_BED_CHOICE=Відпочити?
+
+
+#----- Topics --------
+### School
+TOPIC_SCHOOL=Школа
+
+### Truth
+TOPIC_TRUTH=Сказати правду
+
+### Lie
+TOPIC_LIE=Збрехати
+
+### Do not reply
+TOPIC_NOREPLY=Не відповідати
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### What has Shay been hiding?
+INTERROGATION_SHAY=Що приховувала Шей?
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Give 30 Unis to Graff?
+PC01_GRAFF_INV_MONEY_CHOICE=Дати 30 Юні Граффові?
+
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+# Brok - Brok is waking up from his nightmare (intro scene).
+### Noooooooooooo!
+PC01_INTRO0-1=Ні-іііііііііі!
+
+
+#----------------------------------------------------
+# Brok
+### ...Huh?...
+PC01_INTRO1-1=...Га...?
+
+
+# Brok
+### ...Oh...
+PC01_INTRO1-2=...Ох...
+
+
+#----------------------------------------------------
+# Graff
+### Morning.
+PC01_INTRO1B-1=Доброго ранку.
+
+
+# Graff
+### Another nightmare, huh?
+PC01_INTRO1B-2=Знову кошмар, еге ж?
+
+
+# Brok
+### ...Erm... I guess...
+PC01_INTRO1B-3=...Е-е... Мабуть...
+
+
+# Graff
+### Somebody called you earlier.
+PC01_INTRO1B-4=Тобі хтось телефонував раніше.
+
+
+# Brok
+### Who?
+PC01_INTRO1B-5=Хто?
+
+
+# Graff
+### How would I know? Check your phone.
+PC01_INTRO1B-6=Звідки мені знати? Перевір свій телефон.
+
+
+# Brok
+### Right...
+PC01_INTRO1B-7=Точно...
+
+
+#----------------------------------------------------
+# Brok
+### Whoa! Six phone calls? From the same guy?!
+PC01_INTRO2-1=Ого! Шість пропущених? Від одного й того ж хлопця?!
+
+
+# Brok
+### I'd better call them back!
+PC01_INTRO2-2=Краще передзвоню йому!
+
+
+# Brok
+### ...
+PC01_INTRO2-3=...
+
+
+# Sin
+### Ah! Finally! I thought you'd never reply!
+PC01_INTRO2-4=А! Нарешті! Я вже думав, ви не відповісте!
+
+
+# Brok
+### Yeah, sorry... I had, err... personal issues!
+PC01_INTRO2-5=Так, вибачте... У мене були, е-е... особисті проблеми!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### So, tell me. Your name is Sin? You need my services?
+PC01_INTRO2-6=Тож скажіть. Вас звати Сін? Вам потрібні мої послуги?
+
+
+# Sin
+### Of course I do! You're my last hope!
+PC01_INTRO2-7=Звісно! Ви моя остання надія!
+
+
+# Sin
+### Please come to my apartment! I've sent you the address.
+PC01_INTRO2-8=Будь ласка, приходьте до моєї квартири! Я надіслав вам адресу.
+
+
+# Brok
+### Wait... Aren't you gonna tell...
+PC01_INTRO2-9=Зачекайте... Ви хіба не розкажете...
+
+
+# Sin
+### There's no time! And the line could be tapped!
+PC01_INTRO2-10=Немає часу! Та й лінію можуть прослуховувати!
+
+
+# Brok
+### Oh... 'Kay...
+PC01_INTRO2-11=О... Гаразд...
+
+
+# Sin
+### Hurry!
+PC01_INTRO2-12=Поспішайте!
+
+
+# Brok
+### ...
+PC01_INTRO2-13=...
+
+
+# Brok
+### (Sigh) Why do I only get weird clients...
+PC01_INTRO2-14=(Зітхає) Чому мені трапляються лише дивні клієнти...
+
+
+# Brok
+### I'd better get ready.
+PC01_INTRO2-15=Краще підготуватися.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### My good ol' sparring partner! It's had rough days but it's still kickin'!
+PC01_PUNCHINGBAG1-1=Мій старий добрий спаринг-партнер! Бачив чимало, але все ще тримається!
+
+
+# Brok
+### Whenever I feel like hittin' something, it's there for me!
+PC01_PUNCHINGBAG1-2=Коли мені хочеться когось вдарити, ця груша завжди поруч!
+
+
+# Brok
+### I can gain some experience by throwing a few punches! Just have to get myself into fighting position.
+PC01_PUNCHINGBAG1-3=Я зможу набути трохи досвіду, завдавши ударів! Треба лише зайняти бойову позицію.
+
+
+#----------------------------------------------------
+# Brok
+### ...Whoops.
+PC01_PUNCHINGBAG_DEATH1-1=...Ой.
+
+
+#----------------------------------------------------
+# Graff
+### You're such a lout.
+PC01_PUNCHINGBAG_DEATH1B-1=Ну ти й телепень.
+
+
+#----------------------------------------------------
+# Brok
+### Maybe I should put it back up.
+PC01_PUNCHINGBAG_BACK1-1=Може, варто почепити її назад.
+
+
+#----------------------------------------------------
+# Brok
+### What would a detective be without a magnifying glass?
+PC01_MAGNIFY1-1=Яким був би детектив без своєї лупи?
+
+
+# Brok
+### Not exactly high tech, but that's how I like it.
+PC01_MAGNIFY1-2=Це не зовсім передові технології, але мені так подобається.
+
+
+# Brok
+### I should take it.
+PC01_MAGNIFY1-3=Варто взяти її.
+
+
+#----------------------------------------------------
+# Brok
+### I bought it to bring some oxygen to the room. But it looks like it's dying...
+PC01_PLANT1-1=Я купив її, щоб додати трохи кисню в кімнату. Але вона, здається, вмирає...
+
+
+# Brok
+### Putting a plant in an underground apartment wasn't such a good idea.
+PC01_PLANT1-2=Ставити рослину в підземній квартирі було не найкращою ідеєю.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Not much left.
+PC01_FRIDGE_FIRST-1=Гмм... Мало що залишилося.
+
+
+#----------------------------------------------------
+# Brok
+### My hand should be enough!
+PC01_DOORFRIDGE_STICK-1=Моєї руки має вистачити!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### Ah... I remember! Someone paid me with this energy drink.
+PC01_FRIDGE_DRINK-1=А... Згадав! Хтось розплатився зі мною цим енергетичним напоєм.
+
+
+# Brok
+### I'll take it! Might get thirsty on the way.
+PC01_FRIDGE_DRINK-2=Я візьму його! Може, захочу пити в дорозі.
+
+
+#----------------------------------------------------
+# Brok
+### Urgh... Goat cheese.
+PC01_FRIDGE_CHEESE1-1=Тьху... Козячий сир.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I buy these for Graff. I refuse to eat something produced by another person's body. Gross!
+PC01_FRIDGE_CHEESE1-2=Я купую це для Граффа. Сам же я відмовляюся їсти те, що вироблено чужим тілом. Бридота!
+
+
+#----------------------------------------------------
+# Brok
+### What's that?... Some kind of paper?
+PC01_FRIDGE_ADVERT1-1=Що це...? Якийсь папірець?
+
+
+# Brok
+### Yup! That's an ad. Must have come with food we bought.
+PC01_FRIDGE_ADVERT1-2=Ага! Це реклама. Мабуть, йшла разом з купленими харчами.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! This probably came up with the "Chili Con Insect" I ate in bed last night!
+PC01_BED_ADVERT1-1=Гей! Це, мабуть, йшло в упаковці від "Чилі кон з комахами", яке я їв минулої ночі!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia...
+PC01_PICTURE1-1=Лія...
+
+
+# Brok
+### I still can't make any sense of these nightmares... It didn't happen that way. I wasn't there.
+PC01_PICTURE1-2=Я все ще не можу збагнути ці кошмари... Усе було не так. Мене там не було.
+
+
+#----------------------------------------------------
+# Brok
+### The only picture I have left.
+PC01_PICTURE_CLOSEUP1-1=Єдина фотографія, яка в мене залишилася.
+
+
+# Brok
+### We were happy together... Even if it was short-lived.
+PC01_PICTURE_CLOSEUP1-2=Ми були щасливі разом... Хоч це й тривало недовго.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### Pampalos fruits.
+PC01_FRUITCUP1-1=Фрукти пампалос.
+
+
+# Brok
+### These cost a fortune and are full of chemicals, but I like to eat real food!
+PC01_FRUITCUP1-2=Вони коштують статок і повні хімікатів, але я люблю їсти справжню їжу!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'll leave the other one for Graff.
+PC01_FRUITCUP1B-1=Інший залишу Граффові.
+
+
+# Graff
+### You know I don't like those.
+PC01_FRUITCUP1B-2=Ти ж знаєш, що я їх не люблю.
+
+
+# Brok
+### But ya gotta eat solid stuff! Can't grow up with sodas.
+PC01_FRUITCUP1B-3=Але ж ти мусиш їсти тверду їжу! Не можна рости на одній газованці.
+
+
+# Graff
+### I mean... Can't I?
+PC01_FRUITCUP1B-4=Ну... А чому це ні?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### I already took a Pampalos fruit. Should be enough.
+PC01_FRUITCUP2-1=Я вже взяв один пампалос. Має вистачити.
+
+
+#----------------------------------------------------
+# Brok
+### Nothing left.
+PC01_FRUITCUP_NOTHING-1=Нічого не залишилося.
+
+
+#----------------------------------------------------
+# Brok
+### It almost fills the room.
+PC01_GRAFFBED1-1=Воно займає майже всю кімнату.
+
+
+#----------------------------------------------------
+# Graff
+### Hey! Where do you think you're going?
+PC01_BEDROOMDOOR_GRAFF1-1=Гей! Куди ти зібрався?
+
+
+# Brok
+### Erm... Your room?
+PC01_BEDROOMDOOR_GRAFF1-2=Е-е... До твоєї кімнати?
+
+
+# Graff
+### Yes. My room.
+PC01_BEDROOMDOOR_GRAFF1-3=Так. До МОЄЇ кімнати.
+
+
+# Brok
+### Alright, alright! But I gotta clean it sometimes.
+PC01_BEDROOMDOOR_GRAFF1-4=Добре, добре! Але ж мені треба іноді там прибиратись.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### No, we have an Auto-Clean Tribot for that.
+PC01_BEDROOMDOOR_GRAFF1-5=Ні, для цього у нас є Трибот-прибиральник.
+
+
+# Brok
+### ...True.
+PC01_BEDROOMDOOR_GRAFF1-6=...Правда.
+
+
+#----------------------------------------------------
+# Graff
+### Paws off!
+PC01_BEDROOMDOOR_GRAFF2-1=Лапи геть!
+
+
+# Brok
+### Sorry!
+PC01_BEDROOMDOOR_GRAFF2-2=Вибач!
+
+
+#----------------------------------------------------
+# Brok
+### I'll leave him alone...
+PC01_BEDROOMDOOR_ALONE-1=Краще залишу його в спокої...
+
+
+#----------------------------------------------------
+# Graff - Trying to call on the phone in this room
+### Huh...? Why are you calling me...?
+PC01_CALL_GRAFF_THERE1-1=Га...? Навіщо ти мені дзвониш...?
+
+
+# Brok
+### Oh... Sorry! My finger slipped!
+PC01_CALL_GRAFF_THERE1-2=О... Вибач! Палець зісковзнув!
+
+
+# Graff
+### Seriously...
+PC01_CALL_GRAFF_THERE1-3=Серйозно...
+
+
+# Brok
+### Hey, yer lucky to have tiny paws! It's not easy for me.
+PC01_CALL_GRAFF_THERE1-4=Гей, тобі пощастило мати крихітні лапки! Мені це не так легко.
+
+
+#----------------------------------------------------
+# Brok
+### Better not. He's already in a bad mood.
+PC01_CALL_GRAFF_THERE2-1=Не треба. Він і так у поганому настрої.
+
+
+#----------------------------------------------------
+# Graff - Jumping on the table
+### What the...? What are you doing?!
+PC01_GRAFF_TABLE-1=Що за...? Що ти робиш?!
+
+
+# Brok
+### Just... training!
+PC01_GRAFF_TABLE-2=Просто... тренуюся!
+
+
+# Graff
+### ...
+PC01_GRAFF_TABLE-3=...
+
+
+#----------------------------------------------------
+# Brok - Player talks to Graff on first day
+### Hey. How're ya doin'?
+PC01_GRAFF_WELCOME1-1=Здоров. Як справи?
+
+
+# Graff
+### Don't you have some errand? Don't mind me.
+PC01_GRAFF_WELCOME1-2=У тебе хіба немає якихось доручень? Не зважай на мене.
+
+
+# Brok
+### But... I just wanna have a lil' chat before I go.
+PC01_GRAFF_WELCOME1-3=Але... Я просто хотів трохи побалакати перед тим, як піду.
+
+
+# Graff
+### Alright. What is it?
+PC01_GRAFF_WELCOME1-4=Гаразд. Про що?
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+PC01_GRAFF_WELCOME2-1=Гей!
+
+
+# Graff
+### What now?
+PC01_GRAFF_WELCOME2-2=Що тепер?
+
+
+#----------------------------------------------------
+# Brok
+### How are ya lately?
+PC01_GRAFF1-1=Як ти останнім часом?
+
+
+# Graff
+### I'm okay.
+PC01_GRAFF1-2=Я в нормі.
+
+
+# Brok
+### You're sure...? You don't seem very...
+PC01_GRAFF1-3=Ти впевнений...? Здаєшся мені не дуже...
+
+
+# Graff
+### I said I'M OKAY! Got it?!
+PC01_GRAFF1-4=Я сказав, що Я В НОРМІ! Зрозуміло?!
+
+
+# Brok
+### Alright...
+PC01_GRAFF1-5=Гаразд...
+
+
+# Brok
+### (He's stressed out...)
+PC01_GRAFF1-6=(Він сильно нервує...)
+
+
+#----------------------------------------------------
+# Brok
+### Look... I know I haven't been there a lot lately, what with all my work...
+PC01_GRAFF2-1=Слухай... Я знаю, що останнім часом мене не було поруч, через усі ці справи...
+
+
+# Graff
+### No problem. It's your life.
+PC01_GRAFF2-2=Без проблем. Це твоє життя.
+
+
+# Brok
+### But you're a part of it... Even if we have no blood ties...
+PC01_GRAFF2-3=Але ти його частина... Навіть якщо ми не кровні родичі...
+
+
+# Graff
+### I'm in the middle of a game. Did you really interrupt me for that claptrap?
+PC01_GRAFF2-4=Я зараз граю. Ти справді перервав мене заради цих балачок?
+
+
+# Brok
+### (Sigh) Kids...
+PC01_GRAFF2-5=(Зітхає) Діти...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (This is Graff. I've been taking care of him since his mother died five years ago.)
+PC01_GRAFF_THINK1-1=(Це Графф. Я піклуюся про нього відтоді, як його мати померла п'ять років тому.)
+
+
+# Brok
+### (Hard to believe it's been that long. I've been so busy trying to make ends meet, I've barely seen him grow up...)
+PC01_GRAFF_THINK1-2=(Важко повірити, що минуло стільки часу. Я був так зайнятий спробами звести кінці з кінцями, що майже не бачив, як він росте...)
+
+
+#----------------------------------------------------
+# Brok
+### How come you're not at school?
+PC01_GRAFF_SCHOOL1-1=Чому ти не в школі?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### You mean the Consciousness Center.
+PC01_GRAFF_SCHOOL1-2=Ти маєш на увазі Центр Свідомості.
+
+
+# Brok
+### Whatever. It used to be called "school" in my day.
+PC01_GRAFF_SCHOOL1-3=Неважливо. У мої часи це називали "школою".
+
+
+# Graff - Not important. Consider this teacher is male.
+### I'm taking at 10. My Eco-Manager teacher broke his ankle.
+PC01_GRAFF_SCHOOL1-4=У мене уроки почнуться о 10-й. Мій вчитель з еко-менеджменту зламав щиколотку.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Medi-Tribot": "Мед-Трибот"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### He doesn't have a Medi-Tribot! Can you believe it?!
+PC01_GRAFF_SCHOOL1-5=У нього немає Мед-Трибота! Уявляєш?!
+
+
+# Brok
+### We don't either.
+PC01_GRAFF_SCHOOL1-6=У нас теж немає.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Yeah, but that's only because you're poor as a church mouse. School teachers are Drumers.
+PC01_GRAFF_SCHOOL1-7=Так, але це лише тому, що ти бідний як церковна миша. А вчителі школи - це мешканці Верхів.
+
+
+# Brok
+### Yeah. A bunch of arrogant people who can't move a finger without a doohickey to help'em.
+PC01_GRAFF_SCHOOL1-8=Ага. Купа чваньків, які й пальцем не ворухнуть без якоїсь штукенції, що їм допомагає.
+
+
+# Graff
+### Yet you married one.
+PC01_GRAFF_SCHOOL1-9=І все ж ти одружився з такою.
+
+
+# Brok
+### Right... Your mom was different.
+PC01_GRAFF_SCHOOL1-10=Так... Твоя мама була іншою.
+
+
+#----------------------------------------------------
+# Brok
+### About school... I mean, the "Consc'..."
+PC01_GRAFF_SCHOOL2-1=Щодо школи... Тобто "Центру..."
+
+
+# Graff
+### The fair is today!
+PC01_GRAFF_SCHOOL2-2=Ярмарок сьогодні!
+
+
+# Brok
+### What fair?
+PC01_GRAFF_SCHOOL2-3=Який ярмарок?
+
+
+# Graff
+### The science fair! Don't tell me you already forgot?!
+PC01_GRAFF_SCHOOL2-4=Науковий Ярмарок! Тільки не кажи, що ти вже забув?!
+
+
+# Brok
+### Oh. Err...
+PC01_GRAFF_SCHOOL2-5=О. Е-е...
+
+
+# Graff
+### It's in the regulations! The presence of a parent or tutor is required for the vote.
+PC01_GRAFF_SCHOOL2-6=Це за правилами! Присутність одного з батьків або опікуна обов'язкова для голосування.
+
+
+# Graff
+### You must be there at 5 o'clock!
+PC01_GRAFF_SCHOOL2-7=Ти мусиш бути там о 5-й годині!
+
+
+# Brok
+### Okay, okay! I'll come! I promise!
+PC01_GRAFF_SCHOOL2-8=Добре, добре! Я прийду! Обіцяю!
+
+
+# Graff
+### You better.
+PC01_GRAFF_SCHOOL2-9=Краще б ти виконав цю обіцянку.
+
+
+#----------------------------------------------------
+# Brok
+### Did you prepare somethin' for that fair?
+PC01_GRAFF_FAIR1-1=Ти підготував щось для ярмарку?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Sure! The "Graff Recycler 110".
+PC01_GRAFF_FAIR1-2=Авжеж! "Утилізатор Графф 110".
+
+
+# Graff
+### I've been working on it for months!
+PC01_GRAFF_FAIR1-3=Я працював над ним місяцями!
+
+
+# Brok
+### Ahhh... So that's why you were so noisy in your room lately?
+PC01_GRAFF_FAIR1-4=А-а-а... Так ось чому ти останнім часом так шумів у своїй кімнаті?
+
+
+# Graff
+### Don't blame me! If the walls were better insulated, you wouldn't have to complain.
+PC01_GRAFF_FAIR1-5=Не звинувачуй мене! Якби стіни були краще ізольовані, тобі б не довелося скаржитися.
+
+
+# Brok
+### Not complaining... Just curious.
+PC01_GRAFF_FAIR1-6=Я не скаржуся... Просто цікавлюся.
+
+
+# Brok
+### And yeah... I wish we could afford a better apartment.
+PC01_GRAFF_FAIR1-7=Та й... Я б хотів, щоб ми могли дозволити собі кращу квартиру.
+
+
+# Brok
+### But for now, we'll have to make do.
+PC01_GRAFF_FAIR1-8=Але поки що доведеться задовольнятися цим.
+
+
+# Graff
+### Hopefully not for long. When I get my diploma...
+PC01_GRAFF_FAIR1-9=Сподіваюся, ненадовго. Коли я отримаю диплом...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Yeah. You'll have a new home... under the Dome.
+PC01_GRAFF_FAIR1-10=Еге ж. У тебе буде новий дім... під Куполом.
+
+
+# Graff
+### Can't wait!
+PC01_GRAFF_FAIR1-11=Не можу дочекатися!
+
+
+# Brok
+### ...
+PC01_GRAFF_FAIR1-12=...
+
+
+#----------------------------------------------------
+# Graff
+### Don't forget! 5 o'clock.
+PC01_GRAFF_FAIR2-1=Не забудь! О 5 годині.
+
+
+# Brok
+### Erm... What happens at 5 o'clock...?
+PC01_GRAFF_FAIR2-2=Е-е... А що станеться о 5 годині...?
+
+
+# Graff
+### The fair!!!
+PC01_GRAFF_FAIR2-3=Ярмарок!!!
+
+
+# Brok
+### Just kiddin'! Don't worry!
+PC01_GRAFF_FAIR2-4=Та я жартую! Не хвилюйся!
+
+
+# Graff
+### (Sigh)
+PC01_GRAFF_FAIR2-5=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok - Showing inventory to Graff
+### Do you want this? It's pretty cool!
+PC01_GRAFF_INV_DEFAULT1-1=Хочеш це? Досить крута штука!
+
+
+# Graff
+### Don't you have a client waiting for you?
+PC01_GRAFF_INV_DEFAULT1-2=Хіба на тебе не чекає клієнт?
+
+
+#----------------------------------------------------
+# Brok
+### Hey, take a look at...
+PC01_GRAFF_INV_DEFAULT2-1=Гей, подивися на...
+
+
+# Graff
+### Later.
+PC01_GRAFF_INV_DEFAULT2-2=Пізніше.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, you want some pocket money?
+PC01_GRAFF_INV_MONEY1-1=Гей, хочеш трохи кишенькових грошей?
+
+
+# Graff
+### Oh, sure!
+PC01_GRAFF_INV_MONEY1-2=О, звісно!
+
+
+# Graff
+### You know my account is limited.
+PC01_GRAFF_INV_MONEY1-3=Ти ж знаєш, що мій рахунок обмежений.
+
+
+# Graff
+### I prefer you give it to me directly instead of asking an AI for some.
+PC01_GRAFF_INV_MONEY1-4=Я волів би отримувати їх напряму замість того, щоб постійно просити у ШІ.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Here. 30 Unis.
+PC01_GRAFF_INV_MONEY_GIVE1-1=Тримай. 30 Юні.
+
+
+# Graff
+### Awesome. Thanks!
+PC01_GRAFF_INV_MONEY_GIVE1-2=Круто. Дякую!
+
+
+#----------------------------------------------------
+# Brok
+### Okay. I'll think about it.
+PC01_GRAFF_INV_MONEY_NO-1=Гаразд. Я подумаю про це.
+
+
+# Graff
+### What...? I thought you'd give it to me now.
+PC01_GRAFF_INV_MONEY_NO-2=Що...? Я думав, ти даси їх мені зараз.
+
+
+# Brok
+### I will. Later.
+PC01_GRAFF_INV_MONEY_NO-3=Я дам. Пізніше.
+
+
+# Graff
+### Hmmph.
+PC01_GRAFF_INV_MONEY_NO-4=Гм-мм.
+
+
+#----------------------------------------------------
+# Graff
+### Thanks again.
+PC01_GRAFF_INV_MONEY2-1=Ще раз дякую.
+
+
+# Brok
+### What will you buy with it?
+PC01_GRAFF_INV_MONEY2-2=Що ти на них купиш?
+
+
+# Graff
+### I'm not sure. Food, probably.
+PC01_GRAFF_INV_MONEY2-3=Не впевнений. Напевно, їжу.
+
+
+# Graff
+### Did you check our fridge?
+PC01_GRAFF_INV_MONEY2-4=Ти перевіряв наш холодильник?
+
+
+# Brok
+### Yeah...
+PC01_GRAFF_INV_MONEY2-5=Так...
+
+
+#----------------------------------------------------
+# Brok
+### This was your mother's.
+PC01_GRAFF_INV_PENDANT-1=Це належало твоїй матері.
+
+
+# Graff
+### So...?
+PC01_GRAFF_INV_PENDANT-2=І...?
+
+
+# Graff
+### Why are you showing me this now?
+PC01_GRAFF_INV_PENDANT-3=Чому ти показуєш мені це зараз?
+
+
+# Brok
+### Well...
+PC01_GRAFF_INV_PENDANT-4=Ну...
+
+
+# Brok
+### Someday it'll be yours.
+PC01_GRAFF_INV_PENDANT-5=Колись воно стане твоїм.
+
+
+# Graff
+### Great.
+PC01_GRAFF_INV_PENDANT-6=Чудово.
+
+
+#----------------------------------------------------
+# Brok - Stop talking to Graff
+### Take care!
+PC01_GRAFF_EXIT1-1=Бережи себе!
+
+
+# Graff
+### Yeah...
+PC01_GRAFF_EXIT1-2=Ага...
+
+
+#----------------------------------------------------
+# Brok
+### Gotta go.
+PC01_GRAFF_EXIT2-1=Мені час іти.
+
+
+# Graff
+### OK.
+PC01_GRAFF_EXIT2-2=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### ...I ought to say a word or two to Graff before leaving.
+PC01_GRAFF_LEAVEFIRST-1=...Краще сказати пару слів Граффові перед тим, як іти.
+
+
+#----------------------------------------------------
+# Graff - Hitting Graff
+### Awww!!!
+PC01_GRAFF_HIT1-1=А-ай...!!!
+
+
+# Graff
+### What got into you?
+PC01_GRAFF_HIT1-2=Що на тебе найшло?
+
+
+# Brok
+### Erm... Sorry...
+PC01_GRAFF_HIT1-3=Е-е... Вибач...
+
+
+#----------------------------------------------------
+# Graff
+### ARGH!!!
+PC01_GRAFF_HIT2-1=А-ААА!!!
+
+
+# Graff
+### ARE YOU CRAZY?! That's not funny!
+PC01_GRAFF_HIT2-2=ТИ ЩО, БОЖЕВІЛЬНИЙ?! Це не смішно!
+
+
+# Brok
+### Maybe you should quit playing those games! They're making you violent!
+PC01_GRAFF_HIT2-3=Можливо, тобі варто перестати грати в ці ігри! Вони роблять тебе жорстоким!
+
+
+# Graff
+### What...?! You're the violent one!
+PC01_GRAFF_HIT2-4=Що...?! Це ти тут жорстокий!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_GRAFF_HIT3-1=...
+
+
+#----------------------------------------------------
+# Graff
+### I HATE YOU!!!
+PC01_GRAFF_HITLEAVES1-1=Я ТЕБЕ НЕНАВИДЖУ!!!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_GRAFF_HITLEAVES2-1=...
+
+
+# Brok
+### He'll get over this...
+PC01_GRAFF_HITLEAVES2-2=У нього це пройде...
+
+
+# Brok
+### I hope.
+PC01_GRAFF_HITLEAVES2-3=Сподіваюся.
+
+
+#----------------------------------------------------
+# Graff - Hitting door
+### Hey...!
+PC01_GRAFF_HITBEDROOMDOOR1-1=Гей...!
+
+
+#----------------------------------------------------
+# Graff
+### Stop it! You'll break my door!
+PC01_GRAFF_HITBEDROOMDOOR2-1=Перестань! Ти зламаєш мої двері!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_GRAFF_HITBEDROOMDOOR3-1=...
+
+
+#----------------------------------------------------
+# Brok
+### Oops...!
+PC01_GRAFF_HITBEDROOMDOOR4-1=Йой...!
+
+
+# Graff
+### That's it. You're mental.
+PC01_GRAFF_HITBEDROOMDOOR4-2=Ну все. Ти псих.
+
+
+#----------------------------------------------------
+# Brok
+### It didn't break. Just unhinged.
+PC01_HITBEDROOMDOOR-1=Вони не зламалися. Просто злетіли з петель.
+
+
+# Brok
+### I'll put it back.
+PC01_HITBEDROOMDOOR-2=Я поставлю їх назад.
+
+
+#----------------------------------------------------
+# Brok - More room interactions
+### My stick!
+PC01_STICK1-1=Моя палиця!
+
+
+# Brok
+### This belonged to grandpa. He barely used it to walk but he taught me to fight with it!
+PC01_STICK1-2=Вона належала дідусеві. Він майже не використовував її для ходьби, але навчив мене битися нею!
+
+
+#----------------------------------------------------
+# Graff
+### It's your turn.
+PC01_DISH1-1=Зараз твоя черга.
+
+
+# Brok
+### What, already? Didn't I do it yesterday?
+PC01_DISH1-2=Що, вже? Хіба я не мив учора?
+
+
+# Graff
+### No. Last week.
+PC01_DISH1-3=Ні. Минулого тижня.
+
+
+# Brok
+### Man... Time flies.
+PC01_DISH1-4=Оце так... Час летить.
+
+
+#----------------------------------------------------
+# Brok
+### I don't have time to do the dishes right now.
+PC01_DISH2-1=У мене немає часу мити посуд просто зараз.
+
+
+#----------------------------------------------------
+# Graff
+### As usual...
+PC01_DISH3-1=Як завжди...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC01_DISH_POSSIBLE-1=Гмм...
+
+
+#----------------------------------------------------
+# Unknown
+### (Cleaning...)
+PC01_DISH_DOING-1=(Миє...)
+
+
+#----------------------------------------------------
+# Brok
+### Done!
+PC01_DISH_DONE-1=Готово!
+
+
+#----------------------------------------------------
+# Brok
+### I know, it's a mess...
+PC01_CLOTHES1-1=Я знаю, тут безлад...
+
+
+# Brok
+### But I'm used to it now! Gotta make the best out of each tiny bit of space available!
+PC01_CLOTHES1-2=Але я вже звик! Треба використовувати кожен клаптик вільного місця!
+
+
+#----------------------------------------------------
+# Brok
+### No need to change clothes right now! I've wearing my favorites!
+PC01_CLOTHES2-1=Немає потреби перевдягатися зараз! На мені мій улюблений одяг!
+
+
+#----------------------------------------------------
+# Brok
+### Oh, there's an ad under my clothes!
+PC01_CLOTHES_ADVERT1-1=О, під моїм одягом лежить реклама!
+
+
+# Brok
+### That could be useful!
+PC01_CLOTHES_ADVERT1-2=Може знадобитись!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+### A katshu. I used to play this instrument when I was young.
+PC01_INSTRUMENT1-1=Катшу. Я грав на цьому інструменті, коли був молодим.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+### I'm afraid I forgot how to play the katshu. These days I barely have time for any kind of leisure...
+PC01_INSTRUMENT2-1=Боюся, я вже забув, як грати на катшу. У мене ледве вистачає часу на будь-яке дозвілля...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia passed this on to Graff.
+PC01_CHEST1-1=Лія передала цю скриньку Граффові.
+
+
+# Brok
+### I promised myself I would never open it.
+PC01_CHEST1-2=Я пообіцяв собі, що ніколи її не відкрию.
+
+
+#----------------------------------------------------
+# Brok
+### Nah. That's private stuff.
+PC01_DRAWER1-1=Ні. Це приватні речі.
+
+
+#----------------------------------------------------
+# Brok
+### My bed.
+PC01_BED1-1=Моє ліжко.
+
+
+# Brok
+### Well... Rather a mattress, I guess.
+PC01_BED1-2=Ну... Радше матрац, мабуть.
+
+
+# Brok
+### Good enough for me! I don't have much time to sleep anyway.
+PC01_BED1-3=Мені цього цілком достатньо! Все одно у мене небагато часу на сон.
+
+
+#----------------------------------------------------
+# Brok
+### Maybe I should take a quick shut-eye...
+PC01_BED_HEALTH-1=Може, варто трішки подрімати...
+
+
+#----------------------------------------------------
+# Brok
+### Aaah! Much better.
+PC01_BED_HEALTH_BACK1-1=А-аа! Набагато краще.
+
+
+#----------------------------------------------------
+# Brok
+### Look at the time! Better get going.
+PC01_BED_HEALTH_BACK2-1=Ой, а вже час! Треба йти.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa... Too much stuff. I have more urgent business to attend to.
+PC01_MESS1-1=Ого... Тут занадто багато всього. А у мене є більш нагальні справи.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay gave us this. Graff is constantly using it.
+PC01_COMPUTER1-1=Шей нам його подарувала. Графф постійно ним користується.
+
+
+# Brok
+### Pretty sure this old thing eats half of our monthly energy bill but I don't have the heart to deprive him.
+PC01_COMPUTER1-2=Майже впевнений, що ця стара штуковина зжирає половину рахунку за електроенергію, але у мене не повертається рука, щоб відібрати її.
+
+
+#----------------------------------------------------
+# Graff - Jumping on the bed
+### What are you? Three years old?
+PC01_GRAFF_BED-1=Ти хто? Трирічна дитина?
+
+
+# Brok
+### I'm... just testing the resistance of my bed!
+PC01_GRAFF_BED-2=Я... просто перевіряю міцність свого ліжка!
+
+
+# Graff
+### Yeah, right...
+PC01_GRAFF_BED-3=Так, авжеж...
+
+
+#----------------------------------------------------
+# Brok - Coming back to the room
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### ...Looks like Graff went to school.
+PC01_GRAFF_AWAY1-1=...Схоже, Графф пішов до школи.
+
+
+#----------------------------------------------------
+# Graff
+### Back already?
+PC01_GRAFF_BACK1-1=Вже повернувся?
+
+
+# Brok
+### Yeah, I... forgot somethin'.
+PC01_GRAFF_BACK1-2=Так, я... дещо забув.
+
+
+# Graff
+### Typical.
+PC01_GRAFF_BACK1-3=Типово.
+
+
+#----------------------------------------------------
+# Brok - The hoover blocks the door
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Hey! What's going on with the Auto-Clean Tribot...?
+PC01_HOOVER1-1=Гей! Що відбувається з Триботом-прибиральником...?
+
+
+#----------------------------------------------------
+# Graff
+### Dunno. Been stuck like that since morning.
+PC01_HOOVER1_GRAFF-1=Не знаю. Застряг так із самого ранку.
+
+
+#----------------------------------------------------
+# Brok
+### Maybe I should...
+PC01_HOOVER1B-1=Може, мені варто...
+
+
+#----------------------------------------------------
+# Brok
+### Argh!!!
+PC01_HOOVER1C-1=А-ай!!!
+
+
+# Brok
+### That thing electrocuted me!
+PC01_HOOVER1C-2=Ця штука вдарила мене струмом!
+
+
+#----------------------------------------------------
+# Graff
+### Oh, well. Looks like we're both stuck at home today.
+PC01_HOOVER1C_GRAFF-1=Ну що ж. Схоже, ми обоє сьогодні застрягли вдома.
+
+
+# Brok
+### Impossible! I need to get rid of it!
+PC01_HOOVER1C_GRAFF-2=Аж ніяк! Мені треба позбутися його!
+
+
+#----------------------------------------------------
+# Brok
+### Gotta get rid of it without touching it with my hands...
+PC01_HOOVER2-1=Треба позбутися його, не торкаючись руками...
+
+
+#----------------------------------------------------
+# Brok
+### Yes! Good idea! But...
+PC01_HOOVER_ACTION-1=Так! Хороша ідея! Але...
+
+
+# Brok
+### When I wanna destroy something, I should put myself in action mode first... Then hit it!
+PC01_HOOVER_ACTION-2=Коли я хочу щось знищити, мені слід спочатку увійти в режим бійки... А потім вдарити!
+
+
+#----------------------------------------------------
+# Brok
+### Not sure I can get rid of it with that...
+PC01_HOOVER_OTHERS-1=Не впевнений, що це допоможе мені позбутися бота...
+
+
+# Brok
+### It's too short. I might touch that dangerous machine.
+PC01_HOOVER_OTHERS-2=Занадто коротке. Ризикую зачепити руками цю небезпечну машину.
+
+
+#----------------------------------------------------
+# Brok
+### Can't... That cleaning bot prevents me from reaching the handle!
+PC01_HOOVER_DOOR1-1=Не можу... Цей бот-прибиральник заважає мені дістатися до ручки!
+
+
+#----------------------------------------------------
+# Brok
+### Sorry, lil' bot...
+PC01_HOOVER_DESTROY1-1=Вибач, малий боте...
+
+
+#----------------------------------------------------
+# Graff
+### Great. Who's gonna do the cleaning now?
+PC01_HOOVER_DESTROY1B-1=Чудово. І хто тепер прибиратиме?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Don't worry. I'll have Shay fix it.
+PC01_HOOVER_DESTROY1B-2=Не хвилюйся. Я попрошу Шей відремонтувати його.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... The tank is full...
+PC01_HOOVER_DESTROY2-1=Гмм... Контейнер повний...
+
+
+# Brok
+### It collected a lot of fur. Must be what caused the issue.
+PC01_HOOVER_DESTROY2-2=Він зібрав багато шерсті. Мабуть, це й спричинило проблему.
+
+
+#----------------------------------------------------
+# Graff
+### Not my fault! Don't look at me like that!
+PC01_HOOVER_DESTROY2B-1=Не моя провина! Не дивись на мене так!
+
+
+# Brok
+### Oh no... Shouldn't have touched it - now I'm covered in cat fur...
+PC01_HOOVER_DESTROY2B-2=О ні... Не треба було торкатися - тепер я весь у котячій шерсті...
+
+
+#----------------------------------------------------
+# Graff
+### What...?
+PC01_HOOVER_DIEBY-1=Що...?
+
+
+#----------------------------------------------------
+# Graff - Day one ending cutscene : If Brok arrives on time, there's no (real) problem.
+### That was close...
+PC01_STORY110_ONTIME1-1=Пронесло...
+
+
+# Brok
+### We made it! That's the important part.
+PC01_STORY110_ONTIME1-2=Ми встигли! Це найголовніше.
+
+
+# Graff
+### You don't realize...
+PC01_STORY110_ONTIME1-3=Ти не розумієш...
+
+
+# Graff
+### One more minute and all those years of work would have been annihilated!
+PC01_STORY110_ONTIME1-4=Ще одна хвилина - і всі ці роки роботи пішли б коту під хвіст!
+
+
+# Graff
+### What's your excuse this time?
+PC01_STORY110_ONTIME1-5=Яке в тебе виправдання цього разу?
+
+
+#----------------------------------------------------
+# Graff
+### Don't you dare do that to me again!
+PC01_STORY110_ONTIME2-1=Не смій більше так зі мною чинити!
+
+
+# Brok
+### I'm sorry...
+PC01_STORY110_ONTIME2-2=Вибач...
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh)
+PC01_STORY110_ONTIME3-1=(Зітхає)
+
+
+# Brok
+### He's right.
+PC01_STORY110_ONTIME3-2=Він правий.
+
+
+#----------------------------------------------------
+# Brok - Day one ending cutscene : Graff got "0" because Brok didn't arrive on time for the science fair
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_STORY110_NORMAL1-1=Граффе!
+
+
+# Brok
+### Please... Talk to me!
+PC01_STORY110_NORMAL1-2=Будь ласка... Поговори зі мною!
+
+
+# Graff
+### ...
+PC01_STORY110_NORMAL1-3=...
+
+
+# Brok
+### I got a message from the school but...
+PC01_STORY110_NORMAL1-4=Я отримав повідомлення зі школи, але...
+
+
+# Brok
+### I... I need to hear it. From you.
+PC01_STORY110_NORMAL1-5=Я... мені треба почути це. Від тебе.
+
+
+# Graff
+### ...
+PC01_STORY110_NORMAL1-6=...
+
+
+# Graff
+### Simple.
+PC01_STORY110_NORMAL1-7=Усе просто.
+
+
+# Graff
+### They've decided to advance the year's trials this week, and made the science fair a part of it.
+PC01_STORY110_NORMAL1-8=Вони вирішили провести річні випробування цього тижня, зробивши Науковий Ярмарок їхньою частиною.
+
+
+# Graff
+### You weren't there, so I got a zero.
+PC01_STORY110_NORMAL1-9=Тебе не було, тож я отримав нуль.
+
+
+# Graff
+### Zero. Nil. Nada. Zip!
+PC01_STORY110_NORMAL1-10=Нуль. Нічого. Пусте місце!
+
+
+# Brok
+### Oh...
+PC01_STORY110_NORMAL1-11=О...
+
+
+# Brok
+### Look. I'm...
+PC01_STORY110_NORMAL1-12=Слухай. Мені...
+
+
+# Graff
+### Sorry?
+PC01_STORY110_NORMAL1-13=Шкода?
+
+
+# Graff
+### That's all you have to say? You're sorry?!
+PC01_STORY110_NORMAL1-14=Це все, що ти можеш сказати? Що тобі прикро?!
+
+
+# Graff
+### I told you! You needed to come!
+PC01_STORY110_NORMAL1-15=Я казав! Тобі треба було прийти!
+
+
+# Graff
+### You broke your promise! Again!
+PC01_STORY110_NORMAL1-16=Ти порушив свою обіцянку! Знову!
+
+
+# Brok
+### Well, I did come...
+PC01_STORY110_NORMAL1-17=Ну, я прийшов...
+
+
+# Graff
+### An hour late!!!
+PC01_STORY110_NORMAL1-18=На годину пізніше!!!
+
+
+# Brok
+### I know...
+PC01_STORY110_NORMAL1-19=Я знаю...
+
+
+# Graff
+### What's your excuse this time?
+PC01_STORY110_NORMAL1-20=Яке в тебе виправдання цього разу?
+
+
+# Brok
+### Erm...
+PC01_STORY110_NORMAL1-21=Е-е...
+
+
+#----------------------------------------------------
+# Brok
+### My investigation took an unexpected turn.
+PC01_STORY110_TRUTH1-1=Моє розслідування набуло несподіваного повороту.
+
+
+# Brok
+### I ended up in jail. I had to escape to...
+PC01_STORY110_TRUTH1-2=Я опинився у в'язниці. Мені довелося втекти, щоб...
+
+
+# Graff
+### Jail?!
+PC01_STORY110_TRUTH1-3=У в'язниці?!
+
+
+# Graff
+### Are you a criminal? Is that what you're hiding from me?!
+PC01_STORY110_TRUTH1-4=Ти злочинець? Це те, що ти приховуєш від мене?!
+
+
+# Brok
+### No, of course not...!
+PC01_STORY110_TRUTH1-5=Ні, звісно ні...!
+
+
+# Brok
+### I can explain...
+PC01_STORY110_TRUTH1-6=Я можу пояснити...
+
+
+# Graff
+### Stop. I don't wanna hear anymore.
+PC01_STORY110_TRUTH1-7=Стій. Я більше не хочу нічого чути.
+
+
+#----------------------------------------------------
+# Brok
+### Had a problem with my phone. The time was off.
+PC01_STORY110_LIE1-1=У мене виникла проблема з телефоном. Час збився.
+
+
+# Brok
+### It was an hour late, so... I arrived too late.
+PC01_STORY110_LIE1-2=Він відставав на годину, тому... я прийшов занадто пізно.
+
+
+# Brok
+### ...
+PC01_STORY110_LIE1-3=...
+
+
+# Graff
+### ...
+PC01_STORY110_LIE1-4=...
+
+
+# Graff
+### Next time you lie to me, at least find something more believable.
+PC01_STORY110_LIE1-5=Наступного разу, коли будеш брехати мені, хоча б вигадай щось більш правдоподібне.
+
+
+# Brok
+### It's true! I swear!
+PC01_STORY110_LIE1-6=Це правда! Присягаюся!
+
+
+# Graff
+### Ok. Show me your phone.
+PC01_STORY110_LIE1-7=Гаразд. Покажи свій телефон.
+
+
+# Brok
+### Erm...
+PC01_STORY110_LIE1-8=Е-е...
+
+
+# Brok
+### But... I fixed it...
+PC01_STORY110_LIE1-9=Але... Я вже його полагодив...
+
+
+# Graff
+### Right...
+PC01_STORY110_LIE1-10=Ну так, звісно...
+
+
+#----------------------------------------------------
+# Brok
+### I... can't tell you.
+PC01_STORY110_NOREPLY1-1=Я... не можу тобі сказати.
+
+
+# Graff
+### Of course not! Typical.
+PC01_STORY110_NOREPLY1-2=Звісно! Типово.
+
+
+# Brok
+### Believe me, I've tried but...
+PC01_STORY110_NOREPLY1-3=Повір мені, я намагався, але...
+
+
+#----------------------------------------------------
+# Graff
+### Do you even realize...?
+PC01_STORY110_AFTERCHOICE-1=Ти взагалі усвідомлюєш...?
+
+
+# Graff
+### I killed myself working on this project. Made sure everything worked well.
+PC01_STORY110_AFTERCHOICE-2=Я повністю віддався роботі над цим проєктом. Переконався, що все працює як слід.
+
+
+# Graff
+### All this work... The hours I poured into it...
+PC01_STORY110_AFTERCHOICE-3=Уся ця праця... Години, які я вклав у це...
+
+
+# Graff
+### All for nothing!
+PC01_STORY110_AFTERCHOICE-4=Все марно!
+
+
+# Graff
+### Because of you!
+PC01_STORY110_AFTERCHOICE-5=Через тебе!
+
+
+# Brok
+### ...
+PC01_STORY110_AFTERCHOICE-6=...
+
+
+# Graff
+### I hate you!
+PC01_STORY110_AFTERCHOICE-7=Я тебе ненавиджу!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC01_STORY110_AFTERCHOICE-8=Граффе...
+
+
+# Brok
+### (Sigh)
+PC01_STORY110_AFTERCHOICE-9=(Зітхає)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Great job, Brok...
+PC01_STORY110_AFTERCHOICE-10=Чудова робота, Броку...
+
+
+# Brok
+### This time you really blew it.
+PC01_STORY110_AFTERCHOICE-11=Цього разу ти справді все зіпсував.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_STORY110_BROKEN1-1=Граффе!
+
+
+# Brok
+### Hold on!
+PC01_STORY110_BROKEN1-2=Зачекай!
+
+
+# Graff
+### ...
+PC01_STORY110_BROKEN1-3=...
+
+
+# Brok
+### I got a message from the school! What does this mean...?
+PC01_STORY110_BROKEN1-4=Я отримав повідомлення зі школи! Що це означає...?
+
+
+# Brok
+### Excluded? What the heck happened?!
+PC01_STORY110_BROKEN1-5=Відрахований? Що, в біса, сталося?!
+
+
+# Graff
+### Simple.
+PC01_STORY110_BROKEN1-6=Усе просто.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I busted the whole thing! Smashed into everything! Klay, the inventions...
+PC01_STORY110_BROKEN1-7=Я розтрощив усе! Розбив дощенту! Клея, винаходи...
+
+
+# Graff
+### That's one event they'll remember for years to come! That will teach them!
+PC01_STORY110_BROKEN1-8=Це подія, яку вони пам'ятатимуть роками! Це буде їм уроком!
+
+
+# Brok
+### Are you crazy?! What got into you?!
+PC01_STORY110_BROKEN1-9=Ти з'їхав з глузду?! Що на тебе найшло?!
+
+
+# Brok
+### I didn't raise you like this!
+PC01_STORY110_BROKEN1-10=Я тебе не так виховував!
+
+
+# Graff
+### Raise?! Are you kidding me?
+PC01_STORY110_BROKEN1-11=Виховував?! Ти що, жартуєш?
+
+
+# Graff
+### You're never home!
+PC01_STORY110_BROKEN1-12=Тебе ніколи немає вдома!
+
+
+# Brok
+### Wait a minute... Are you putting the blame on me?!
+PC01_STORY110_BROKEN1-13=Хвилиночку... Ти перекладаєш провину на мене?!
+
+
+# Graff
+### Shouldn't I?
+PC01_STORY110_BROKEN1-14=А хіба ні?
+
+
+# Graff
+### After all, you didn't keep your promise! Again!
+PC01_STORY110_BROKEN1-15=Зрештою, ти не дотримався обіцянки! Знову!
+
+
+# Brok
+### Is that so?! You couldn't wait, so you caused havoc?!
+PC01_STORY110_BROKEN1-16=Ось як?! Ти не міг зачекати, тож влаштував хаос?!
+
+
+# Graff
+### No, but...
+PC01_STORY110_BROKEN1-17=Ні, але...
+
+
+# Brok
+### Then explain!
+PC01_STORY110_BROKEN1-18=Тоді поясни!
+
+
+# Brok
+### Why...?
+PC01_STORY110_BROKEN1-19=Чому...?
+
+
+# Graff
+### I don't know! I just...
+PC01_STORY110_BROKEN1-20=Я не знаю! Я просто...
+
+
+# Graff
+### I'm just... furious...
+PC01_STORY110_BROKEN1-21=Я просто... лютий...
+
+
+# Brok
+### With me?
+PC01_STORY110_BROKEN1-22=На мене?
+
+
+# Graff
+### Yes... No...
+PC01_STORY110_BROKEN1-23=Так... Ні...
+
+
+# Graff
+### Argh! Cut me some slack, will ya?
+PC01_STORY110_BROKEN1-24=А-аа! Відчепись від мене, добре?
+
+
+# Brok
+### ...
+PC01_STORY110_BROKEN1-25=...
+
+
+# Brok
+### You know... I'm here, if you wanna talk about...
+PC01_STORY110_BROKEN1-26=Знаєш... Я тут, якщо ти хочеш поговорити про...
+
+
+# Graff
+### No! Are you even listening?!
+PC01_STORY110_BROKEN1-27=Ні! Ти взагалі слухаєш?!
+
+
+# Graff
+### Leave me alone!
+PC01_STORY110_BROKEN1-28=Облиш мене!
+
+
+# Brok
+### ...
+PC01_STORY110_BROKEN1-29=...
+
+
+# Brok
+### What a day...
+PC01_STORY110_BROKEN1-30=Ну й день...
+
+
+#----------------------------------------------------
+# Brok
+### I need to find a way to redeem myself.
+PC01_STORY110_BROKREDEEM1-1=Мені потрібно знайти спосіб загладити провину.
+
+
+# Brok
+### Somehow...
+PC01_STORY110_BROKREDEEM1-2=Якось...
+
+
+# Brok
+### Tomorrow. The school. No matter how or what.
+PC01_STORY110_BROKREDEEM1-3=Завтра. До школи. Неважливо що або як.
+
+
+# Brok
+### I gotta convince them to put the blame on me and give him the mark his work deserves.
+PC01_STORY110_BROKREDEEM1-4=Я мушу переконати їх перекласти провину на мене і дати йому ту оцінку, на яку він заслуговує.
+
+
+#----------------------------------------------------
+# Brok
+### But...
+PC01_STORY100_COOKING1-1=Але...
+
+
+# Brok
+### I gotta do something right now... or I'll never be able to sleep.
+PC01_STORY100_COOKING1-2=Я маю зробити щось просто зараз... або ніколи не зможу заснути.
+
+
+# Brok
+### It's getting late.
+PC01_STORY100_COOKING1-3=Вже доволі пізно.
+
+
+# Brok
+### ...
+PC01_STORY100_COOKING1-4=...
+
+
+# Brok
+### I wish you were here, Grandpa. You always knew what to do for me.
+PC01_STORY100_COOKING1-5=Я хотів би, щоб ти був тут, дідусю. Ти завжди знав, що мені підказати.
+
+
+# Brok
+### ...
+PC01_STORY100_COOKING1-6=...
+
+
+# Brok
+### I know!
+PC01_STORY100_COOKING1-7=Придумав!
+
+
+# Brok
+### Grandpa always said: "Eating is the best stress reliever!"
+PC01_STORY100_COOKING1-8=Дідусь завжди казав: "Їжа - найкращий засіб проти стресу!"
+
+
+# Brok
+### I'll prepare dinner for him! The best food he's ever had!
+PC01_STORY100_COOKING1-9=Я приготую для нього вечерю! Найкращу їжу, яку він коли-небудь куштував!
+
+
+# Brok
+### Nobody can resist my cooking!
+PC01_STORY100_COOKING1-10=Ніхто не може встояти перед моїм куховарством!
+
+
+# Brok
+### Now... Let's see what I can gather!
+PC01_STORY100_COOKING1-11=Так... Подивимося, що я можу зібрати!
+
+
+#----------------------------------------------------
+# Brok
+### I forgot. I still haven't gone shopping.
+PC01_STORY110_COOKING2-1=Забув. Я все ще не ходив за покупками.
+
+
+# Brok
+### This is all I could find. Guess I'll have to make do.
+PC01_STORY110_COOKING2-2=Це все, що я зміг знайти. Гадаю, доведеться обійтися цим.
+
+
+#----------------------------------------------------
+# Brok
+### Cooking time!
+PC01_STORY110_COOKINGTIME-1=Час готувати!
+
+
+#----------------------------------------------------
+# Graff
+### Aaand... submit.
+PC01_STORY110_GRAFFNORMAL2-1=І-і-і... надіслати.
+
+
+# Graff
+### ...
+PC01_STORY110_GRAFFNORMAL2-2=...
+
+
+# Graff
+### Hmm. Maybe... I'm being a little too harsh.
+PC01_STORY110_GRAFFNORMAL2-3=Гмм. Може... я занадто суворий з ним.
+
+
+#----------------------------------------------------
+# Graff
+### When he told me he was stuck in jail... Was he for real?
+PC01_STORY110_GRAFFNORMAL3_TRUTH-1=Коли він сказав мені, що застряг у в'язниці... Це було серйозно?
+
+
+# Graff
+### Hmm... Probably. No reason to lie about something like that.
+PC01_STORY110_GRAFFNORMAL3_TRUTH-2=Гмм... Мабуть. Немає причин брехати про таке.
+
+
+# Graff
+### But why...?
+PC01_STORY110_GRAFFNORMAL3_TRUTH-3=Але чому...?
+
+
+# Graff
+### I don't like this.
+PC01_STORY110_GRAFFNORMAL3_TRUTH-4=Мені це не подобається.
+
+
+# Graff
+### Maybe I should have let him explain...
+PC01_STORY110_GRAFFNORMAL3_TRUTH-5=Може, мені варто було дати йому пояснити...
+
+
+#----------------------------------------------------
+# Graff
+### Then again... He screwed up again. He's totally unreliable.
+PC01_STORY110_GRAFFNORMAL3_LIE-1=З іншого боку... Він знову все зіпсував. На нього зовсім не можна покластися.
+
+
+# Graff
+### And worse... He blatantly lied to me!
+PC01_STORY110_GRAFFNORMAL3_LIE-2=І що гірше... Він нахабно збрехав мені!
+
+
+# Graff
+### How can I trust him...?
+PC01_STORY110_GRAFFNORMAL3_LIE-3=Як я можу йому довіряти...?
+
+
+# Graff
+### I... probably shouldn't. But...
+PC01_STORY110_GRAFFNORMAL3_LIE-4=Я... напевно, і не повинен. Але...
+
+
+# Graff
+### (Sigh) I don't know... Can there be a good reason for lying...?
+PC01_STORY110_GRAFFNORMAL3_LIE-5=(Зітхає) Я не знаю... Чи може бути поважна причина для брехні...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I wish Ott was online. He's the only one I can talk with about everything...
+PC01_STORY110_GRAFFNORMAL3_LIE-6=Хотілося б, щоб Отт був у мережі. Він єдиний, з ким я можу поговорити про все...
+
+
+#----------------------------------------------------
+# Graff
+### I don't know what to expect from him anymore...
+PC01_STORY110_GRAFFNORMAL3_NOREPLY-1=Я вже й не знаю, чого від нього очікувати...
+
+
+# Graff
+### Actually, I never did. After all these years, I still can't figure him out.
+PC01_STORY110_GRAFFNORMAL3_NOREPLY-2=Власне, ніколи й не знав. Після стількох років я все ще не можу його збагнути.
+
+
+# Graff
+### He could very well be the town's hero or the worst criminal ever... Neither would be a surprise.
+PC01_STORY110_GRAFFNORMAL3_NOREPLY-3=Він цілком міг би бути як героєм міста, так і найгіршим злочинцем... Нічого б мене не здивувало.
+
+
+# Graff
+### If only he wasn't so secretive...
+PC01_STORY110_GRAFFNORMAL3_NOREPLY-4=Якби тільки він не був таким потайливим...
+
+
+#----------------------------------------------------
+# Graff
+### I've written a lot... Hopefully it doesn't discourage someone from reading.
+PC01_STORY110_GRAFFBROKEN2-1=Я багато написав... Сподіваюся, це не відлякає читачів.
+
+
+# Graff
+### Now all I have to do is...
+PC01_STORY110_GRAFFBROKEN2-2=Тепер усе, що мені потрібно зробити, це...
+
+
+# Graff
+### Huh...?
+PC01_STORY110_GRAFFBROKEN2-3=Га...?
+
+
+# Graff
+### It won't send...
+PC01_STORY110_GRAFFBROKEN2-4=Воно не надсилається...
+
+
+# Graff
+### That stupid connection again... Argh!!!
+PC01_STORY110_GRAFFBROKEN2-5=Знову це дурне з'єднання... Ар-р!!!
+
+
+# Graff
+### (Sigh)
+PC01_STORY110_GRAFFBROKEN2-6=(Зітхає)
+
+
+# Graff
+### ...
+PC01_STORY110_GRAFFBROKEN2-7=...
+
+
+# Graff
+### Why am I acting like this...?
+PC01_STORY110_GRAFFBROKEN2-8=Чому я так поводжуся...?
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocking)
+PC01_STORY110_BROKCOMES-1=(Стук)
+
+
+# Graff
+### Huh?
+PC01_STORY110_BROKCOMES-2=Га?
+
+
+# Unknown
+### (Muffled sound)
+PC01_STORY110_BROKCOMES-3=(Приглушений звук)
+
+
+# Graff
+### Of course... That's him.
+PC01_STORY110_BROKCOMES-4=Звісно... Це він.
+
+
+# Graff
+### What part of "leave me alone" does he not understand?
+PC01_STORY110_BROKCOMES-5=Яку частину від "облиш мене" він не розуміє?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Graff...)
+PC01_STORY110_BROKCOMES-6=(Граффе...)
+
+
+# Brok
+### (Can you... come here, please?)
+PC01_STORY110_BROKCOMES-7=(Ти можеш... підійти сюди, будь ласка?)
+
+
+# Brok
+### (I won't talk about it. Promise.)
+PC01_STORY110_BROKCOMES-8=(Я не зачіпатиму цієї теми. Обіцяю.)
+
+
+# Graff
+### ...
+PC01_STORY110_BROKCOMES-9=...
+
+
+# Graff
+### Okay.
+PC01_STORY110_BROKCOMES-10=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### Something's wrong.
+PC01_STORY110_BROKUNDERSTAND1-1=Щось не так.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff is such a humble, hard working boy.
+PC01_STORY110_BROKUNDERSTAND1-2=Графф такий скромний, працьовитий хлопець.
+
+
+# Brok
+### I did notice he's changed recently... Did I just downplay it?
+PC01_STORY110_BROKUNDERSTAND1-3=Я помічав, що останнім часом він змінився... Але невже я недооцінив ситуацію?
+
+
+# Brok
+### Something made him go nuts...
+PC01_STORY110_BROKUNDERSTAND1-4=Щось змусило його збожеволіти...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Tomorrow... I'll need to talk to the school director.
+PC01_STORY110_BROKUNDERSTAND1-5=Завтра... Мені треба буде поговорити з директоркою школи.
+
+
+# Brok
+### Whether or not I can figure it out, I can't just let him destroy his future.
+PC01_STORY110_BROKUNDERSTAND1-6=Неважливо, чи зможу я з'ясувати причини чи ні, та я не можу дозволити йому зруйнувати своє майбутнє.
+
+
+#----------------------------------------------------
+# Graff
+### Look. I'm sorry for...
+PC01_STORY110_GRAFFCOMESNORMAL1-1=Слухай. Вибач за...
+
+
+# Brok
+### Nah. Don't say anything.
+PC01_STORY110_GRAFFCOMESNORMAL1-2=Ні. Нічого не кажи.
+
+
+# Brok
+### It's all my fault.
+PC01_STORY110_GRAFFCOMESNORMAL1-3=Це все моя провина.
+
+
+# Graff
+### But still. I shouldn't have said that.
+PC01_STORY110_GRAFFCOMESNORMAL1-4=Але все одно. Мені не слід було цього казати.
+
+
+# Brok
+### No worries.
+PC01_STORY110_GRAFFCOMESNORMAL1-5=Не переймайся.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY110_GRAFFCOMESBROKEN1-1=...
+
+
+# Graff
+### ...
+PC01_STORY110_GRAFFCOMESBROKEN1-2=...
+
+
+# Brok
+### Stop.
+PC01_STORY110_GRAFFCOMESBROKEN1-3=Перестань.
+
+
+# Graff
+### What?
+PC01_STORY110_GRAFFCOMESBROKEN1-4=Що?
+
+
+# Brok
+### You're overthinking things.
+PC01_STORY110_GRAFFCOMESBROKEN1-5=Ти накручуєш себе.
+
+
+# Graff
+### (Sigh)
+PC01_STORY110_GRAFFCOMESBROKEN1-6=(Зітхає)
+
+
+# Graff
+### How am I supposed to...
+PC01_STORY110_GRAFFCOMESBROKEN1-7=А як я, по-твоєму, мушу...
+
+
+# Brok
+### Focus on this.
+PC01_STORY110_GRAFFCOMESBROKEN1-8=Зосередься на цьому.
+
+
+#----------------------------------------------------
+# Brok
+### I've prepared dinner!
+PC01_STORY110_DINNER1-1=Я приготував вечерю!
+
+
+# Graff
+### Well... To be honest...
+PC01_STORY110_DINNER1-2=Ну... Чесно кажучи...
+
+
+# Graff
+### I... don't feel like eating right now.
+PC01_STORY110_DINNER1-3=Я... зараз не хочу їсти.
+
+
+# Graff
+### I just can't help thinking about... everything.
+PC01_STORY110_DINNER1-4=Я просто не можу не думати про... усе.
+
+
+# Brok
+### Come on! No one can think properly on an empty stomach.
+PC01_STORY110_DINNER1-5=Ну ж бо! Ніхто не може нормально думати на голодний шлунок.
+
+
+# Brok
+### Please!
+PC01_STORY110_DINNER1-6=Будь ласка!
+
+
+# Graff
+### ...Okay.
+PC01_STORY110_DINNER1-7=...Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### Here - for you.
+PC01_STORY110_COOKINGBAD-1=Ось - для тебе.
+
+
+# Graff
+### What's this...?
+PC01_STORY110_COOKINGBAD-2=Що це...?
+
+
+# Brok
+### I dunno. I improvised!
+PC01_STORY110_COOKINGBAD-3=Не знаю. Це імпровізація!
+
+
+# Brok
+### But it looks good!
+PC01_STORY110_COOKINGBAD-4=Але виглядає добре!
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGBAD-5=...
+
+
+# Graff
+### ("It looks funny" would be more appropriate...)
+PC01_STORY110_COOKINGBAD-6=("Виглядає дивно" було б доречніше...)
+
+
+# Brok
+### Come on! Don't be so picky!
+PC01_STORY110_COOKINGBAD-7=Та ну тебе! Не будь таким перебірливим!
+
+
+# Brok
+### Discovering new tastes makes life more fun!
+PC01_STORY110_COOKINGBAD-8=Відкриття нових смаків робить життя веселішим!
+
+
+# Graff
+### ...Okay.
+PC01_STORY110_COOKINGBAD-9=...Гаразд.
+
+
+# Graff
+### (Slurp)
+PC01_STORY110_COOKINGBAD-10=(Сьорб)
+
+
+# Brok
+### So! What do you think?
+PC01_STORY110_COOKINGBAD-11=Ну що! Що думаєш?
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGBAD-12=...
+
+
+# Graff
+### It's... pretty good...
+PC01_STORY110_COOKINGBAD-13=Це... досить непогано...
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGBAD-14=...
+
+
+# Brok
+### Oh...
+PC01_STORY110_COOKINGBAD-15=О...
+
+
+# Brok
+### Let me taste...
+PC01_STORY110_COOKINGBAD-16=Дай я спробую...
+
+
+# Brok
+### ...
+PC01_STORY110_COOKINGBAD-17=...
+
+
+# Brok
+### Urgh!
+PC01_STORY110_COOKINGBAD-18=Тьху!
+
+
+# Brok
+### That's... It's...
+PC01_STORY110_COOKINGBAD-19=Це... це...
+
+
+# Brok
+### ...Looks like I blew it again. I'm worthless.
+PC01_STORY110_COOKINGBAD-20=...Схоже, я знову все зіпсував. Я ні на що не здатний.
+
+
+# Graff
+### No, no, no! It's fine! Look!
+PC01_STORY110_COOKINGBAD-21=Ні, ні, ні! Усе гаразд! Подивися!
+
+
+# Graff
+### I'll eat all of it!
+PC01_STORY110_COOKINGBAD-22=Я з'їм усе!
+
+
+# Brok
+### You don't have to...
+PC01_STORY110_COOKINGBAD-23=Ти не мусиш...
+
+
+# Graff
+### (...)
+PC01_STORY110_COOKINGBAD-24=(...)
+
+
+# Graff
+### ...There! I'm stuffed!
+PC01_STORY110_COOKINGBAD-25=...Ось! Я наївся!
+
+
+# Brok
+### Ha ha...
+PC01_STORY110_COOKINGBAD-26=Ха-ха...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Thanks, Graff...
+PC01_STORY110_COOKINGBAD-27=Дякую, Граффе...
+
+
+# Brok
+### I thought I'd cheer you up but it's the other way 'round!
+PC01_STORY110_COOKINGBAD-28=Я думав підбадьорити тебе, але вийшло навпаки!
+
+
+# Brok
+### You never stop surprising me, kiddo.
+PC01_STORY110_COOKINGBAD-29=Ти не перестаєш мене дивувати, хлопче.
+
+
+# Brok
+### Your mother would be proud.
+PC01_STORY110_COOKINGBAD-30=Твоя мати пишалася б тобою.
+
+
+#----------------------------------------------------
+# Brok
+### Here, let me serve you.
+PC01_STORY110_COOKINGMEDIUM-1=Ось, дай я тобі насиплю.
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGMEDIUM-2=...
+
+
+# Graff
+### Looks good!
+PC01_STORY110_COOKINGMEDIUM-3=Виглядає добре!
+
+
+# Brok
+### You think so? I hope it is.
+PC01_STORY110_COOKINGMEDIUM-4=Ти так вважаєш? Сподіваюся, що так.
+
+
+# Graff
+### Hmm...
+PC01_STORY110_COOKINGMEDIUM-5=Гмм...
+
+
+# Graff
+### Yup! Not bad!
+PC01_STORY110_COOKINGMEDIUM-6=Ага! Непогано!
+
+
+# Brok
+### I'm glad. We're running out of ingredients so... It wasn't easy to prepare something.
+PC01_STORY110_COOKINGMEDIUM-7=Я радий. У нас закінчуються інгредієнти, тож... було непросто щось приготувати.
+
+
+# Graff
+### It's fine.
+PC01_STORY110_COOKINGMEDIUM-8=Усе гаразд.
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGMEDIUM-9=...
+
+
+# Graff
+### It's been a long time...
+PC01_STORY110_COOKINGMEDIUM-10=Багато часу минуло...
+
+
+# Graff
+### I mean... Since we've last eaten together.
+PC01_STORY110_COOKINGMEDIUM-11=Я маю на увазі... Відтоді як ми востаннє їли разом.
+
+
+# Graff
+### Usually I'd either prepare a meal for myself or you'd leave me a plate to heat.
+PC01_STORY110_COOKINGMEDIUM-12=Зазвичай я або готував сам собі, або ти залишав мені тарілку, щоб розігріти.
+
+
+# Graff
+### It's not the same...
+PC01_STORY110_COOKINGMEDIUM-13=Це зовсім не те...
+
+
+# Brok
+### You're right...
+PC01_STORY110_COOKINGMEDIUM-14=Твоя правда...
+
+
+# Brok
+### We should do this more often.
+PC01_STORY110_COOKINGMEDIUM-15=Ми повинні робити це частіше.
+
+
+# Graff
+### Yeah...
+PC01_STORY110_COOKINGMEDIUM-16=Так...
+
+
+#----------------------------------------------------
+# Brok
+### Here!
+PC01_STORY110_COOKINGGOOD-1=Тримай!
+
+
+# Graff
+### Hmmm...!
+PC01_STORY110_COOKINGGOOD-2=Гммм...!
+
+
+# Graff
+### This smells so good!
+PC01_STORY110_COOKINGGOOD-3=Пахне так смачно!
+
+
+# Graff
+### Quick! I'm starving!
+PC01_STORY110_COOKINGGOOD-4=Швидше! Я вмираю з голоду!
+
+
+# Brok
+### Hey! I thought you said...
+PC01_STORY110_COOKINGGOOD-5=Гей! Я думав, ти казав...
+
+
+# Graff
+### Doesn't matter. Gimme some!
+PC01_STORY110_COOKINGGOOD-6=Неважливо. Давай сюди!
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGGOOD-7=...
+
+
+# Graff
+### No way!
+PC01_STORY110_COOKINGGOOD-8=Неймовірно!
+
+
+# Brok
+### What? Is it bad?
+PC01_STORY110_COOKINGGOOD-9=Що? Погано?
+
+
+# Brok
+### Oh, great... I knew I shouldn't have put some...
+PC01_STORY110_COOKINGGOOD-10=Ох... Я так і знав, що не варто було додавати...
+
+
+# Graff
+### It's delicious!
+PC01_STORY110_COOKINGGOOD-11=Це смакота!
+
+
+# Brok
+### Is it...?
+PC01_STORY110_COOKINGGOOD-12=Справді...?
+
+
+# Brok
+### ...
+PC01_STORY110_COOKINGGOOD-13=...
+
+
+# Brok
+### Say, you're right!
+PC01_STORY110_COOKINGGOOD-14=Слухай, а ти правий!
+
+
+# Graff
+### What's your secret?
+PC01_STORY110_COOKINGGOOD-15=У чому твій секрет?
+
+
+# Brok
+### No idea! I had very few ingredients left... Ya know, no time to go shopping...
+PC01_STORY110_COOKINGGOOD-16=Поняття не маю! У мене майже не залишалося інгредієнтів... Знаєш, не було часу ходити за покупками...
+
+
+# Graff
+### You're a magician, then!
+PC01_STORY110_COOKINGGOOD-17=Тоді ти чарівник!
+
+
+# Brok
+### Aww... Thanks! I'm glad you like it!
+PC01_STORY110_COOKINGGOOD-18=Ох... Дякую! Я радий, що тобі подобається!
+
+
+# Brok
+### Actually... It's funny!
+PC01_STORY110_COOKINGGOOD-19=Взагалі-то... Це кумедно!
+
+
+# Brok
+### I thought I'd cheer you up but it's the other way 'round!
+PC01_STORY110_COOKINGGOOD-20=Я думав підбадьорити тебе, але вийшло навпаки!
+
+
+# Brok
+### You never stop surprising me, son.
+PC01_STORY110_COOKINGGOOD-21=Ти не перестаєш мене дивувати, хлопче.
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGGOOD-22=...
+
+
+# Graff
+### You know, this meal...
+PC01_STORY110_COOKINGGOOD-23=Знаєш, ця їжа...
+
+
+# Graff
+### It kinda reminds me of...
+PC01_STORY110_COOKINGGOOD-24=Вона мені трохи нагадує...
+
+
+# Brok
+### Your mother?
+PC01_STORY110_COOKINGGOOD-25=Твою матір?
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGGOOD-26=...
+
+
+# Brok
+### She never had any time for cooking.
+PC01_STORY110_COOKINGGOOD-27=У неї ніколи не було часу на готування.
+
+
+# Brok
+### But when she did...
+PC01_STORY110_COOKINGGOOD-28=Але коли вона готувала...
+
+
+# Brok
+### It was wonderful.
+PC01_STORY110_COOKINGGOOD-29=Це було неймовірно.
+
+
+# Graff
+### Just like you!
+PC01_STORY110_COOKINGGOOD-30=Прямо як у тебе!
+
+
+# Graff
+### I mean... You're the same... With cooking. No free time.
+PC01_STORY110_COOKINGGOOD-31=Я маю на увазі... Ви однакові... У готуванні. І в обох жодного вільного часу.
+
+
+# Brok
+### Yeah...
+PC01_STORY110_COOKINGGOOD-32=Так...
+
+
+# Graff
+### ...
+PC01_STORY110_COOKINGGOOD-33=...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY110_COOKINGAFTER1-1=...
+
+
+# Brok
+### ...
+PC01_STORY110_COOKINGAFTER1-2=...
+
+
+# Graff
+### About what happened...
+PC01_STORY110_COOKINGAFTER1-3=Щодо того, що сталося...
+
+
+# Brok
+### Wait.
+PC01_STORY110_COOKINGAFTER1-4=Зачекай.
+
+
+# Brok
+### Not here.
+PC01_STORY110_COOKINGAFTER1-5=Не тут.
+
+
+# Brok
+### This time... It's my turn to surprise you.
+PC01_STORY110_COOKINGAFTER1-6=Цього разу... Моя черга здивувати тебе.
+
+
+# Brok
+### Follow me!
+PC01_STORY110_COOKINGAFTER1-7=Іди за мною!
+
+
+# Graff
+### Uh?
+PC01_STORY110_COOKINGAFTER1-8=Га?
+
+
+# Graff
+### Where are you going?
+PC01_STORY110_COOKINGAFTER1-9=Куди ти йдеш?
+
+
+#----------------------------------------------------
+# Brok - Beginning of day 2 - Brok wakes after making another nightmare
+### ...
+PC01_DAY2BEGIN1-1=...
+
+
+# Brok
+### Another dream...
+PC01_DAY2BEGIN1-2=Ще один сон...
+
+
+# Brok
+### ...
+PC01_DAY2BEGIN1-3=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff isn't around.
+PC01_DAY2BEGIN1-4=Граффа немає поруч.
+
+
+# Brok
+### I'd better get up fast. Can't see from here but I bet the sun has been up for ages.
+PC01_DAY2BEGIN1-5=Треба вставати якомога швидше. Звідси не видно, але впевнений, що сонце вже давно зійшло.
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_DAY2BEGIN_WES-1=...!
+
+
+# Wes
+### Pork!
+PC01_DAY2BEGIN_WES-2=Борку!
+
+
+# Brok
+### Hey! Who gave you the right to barge in like this?!
+PC01_DAY2BEGIN_WES-3=Гей! Хто дав вам право так вриватися?!
+
+
+# Wes
+### The law!
+PC01_DAY2BEGIN_WES-4=Закон!
+
+
+# Brok
+### Oh... I forgot.
+PC01_DAY2BEGIN_WES-5=Ох... Я й забув.
+
+
+# Brok
+### Back to jail, huh?
+PC01_DAY2BEGIN_WES-6=Знову до в'язниці, га?
+
+
+# Wes - Wes uses the wrong word here. His brain has been "damaged"
+### This isn't a choice. It's a cherry.
+PC01_DAY2BEGIN_WES-7=Це не вибір. Це вишня.
+
+
+# Brok
+### Huh...?
+PC01_DAY2BEGIN_WES-8=Що...?
+
+
+# Brok
+### A... cherry?
+PC01_DAY2BEGIN_WES-9=В... вишня?
+
+
+# Wes
+### A cherry. Cherry.
+PC01_DAY2BEGIN_WES-10=Вишня. Вишня.
+
+
+# Wes
+### Yes. It's a request.
+PC01_DAY2BEGIN_WES-11=Так. Це прохання.
+
+
+# Wes
+### ...
+PC01_DAY2BEGIN_WES-12=...
+
+
+# Brok
+### Are you okay...?
+PC01_DAY2BEGIN_WES-13=З вами все гаразд...?
+
+
+# Wes
+### Whatever.
+PC01_DAY2BEGIN_WES-14=Плювати.
+
+
+# Wes
+### We've got a situation.
+PC01_DAY2BEGIN_WES-15=У нас виникла проблема.
+
+
+# Wes
+### Help us and I'll wipe the slate clean.
+PC01_DAY2BEGIN_WES-16=Допоможи нам, і я зніму з тебе всі звинувачення.
+
+
+# Brok
+### Me?... Helping the police?
+PC01_DAY2BEGIN_WES-17=Я...? Допомагати поліції?
+
+
+# Wes
+### We're very understaffed right now.
+PC01_DAY2BEGIN_WES-18=У нас зараз дуже бракує людей.
+
+
+# Wes
+### As per regulation 14-3032. In case of under-staffing, the highest ranking officer can requisition any citizen for help.
+PC01_DAY2BEGIN_WES-19=Згідно з постановою 14-3032. У разі нестачі кадрів офіцер найвищого рангу може залучити будь-якого громадянина до допомоги.
+
+
+# Brok
+### ...
+PC01_DAY2BEGIN_WES-20=...
+
+
+# Brok
+### Why me?
+PC01_DAY2BEGIN_WES-21=Чому саме я?
+
+
+# Wes
+### I've seen your actions.
+PC01_DAY2BEGIN_WES-22=Я бачив тебе у дії.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Despite some aggressive tendencies, you've solved Sin's case remarkably well.
+PC01_DAY2BEGIN_WES-23=Попри певні агресивні схильності, ти чудово розкрив справу Сіна.
+
+
+# Wes
+### You didn't blindly trust your client and uncovered the truth via uncommon methods.
+PC01_DAY2BEGIN_WES-24=Ти не став сліпо довіряти своєму клієнтові та виявив правду незвичними методами.
+
+
+# Wes
+### I've met so many detectives over the years.
+PC01_DAY2BEGIN_WES-25=За ці роки я зустрів багато детективів.
+
+
+# Wes
+### You... are one of a kind.
+PC01_DAY2BEGIN_WES-26=Ти... один такий у своєму роді.
+
+
+# Wes
+### We've known each other for a long time. Currently, you're the most qualified person I can trust.
+PC01_DAY2BEGIN_WES-27=Ми вже давно знайомі. Наразі ти найбільш кваліфікована особа, якій я можу довіряти.
+
+
+# Brok
+### Erm... Thanks... I guess?
+PC01_DAY2BEGIN_WES-28=Е-е... Дякую... Мабуть?
+
+
+# Brok
+### Okay. I don't have much choice, do I?
+PC01_DAY2BEGIN_WES-29=Добре. У мене ж немає особливого вибору, чи не так?
+
+
+# Wes
+### Not unless you want a special place on my wanted criminals list.
+PC01_DAY2BEGIN_WES-30=Хіба що ти хочеш особливе місце в моєму списку розшукуваних злочинців.
+
+
+# Wes
+### Come to my office in two hours.
+PC01_DAY2BEGIN_WES-31=Приходь до мого кабінету через дві години.
+
+
+# Brok
+### Wait! Won't you explain?
+PC01_DAY2BEGIN_WES-32=Зачекайте! Ви хіба не поясните?
+
+
+# Wes
+### Later.
+PC01_DAY2BEGIN_WES-33=Згодом.
+
+
+# Brok
+### (Sigh)
+PC01_DAY2BEGIN_WES-34=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... A message?
+PC01_DAY2BEGIN_WES2-1=Гмм... Повідомлення?
+
+
+#----------------------------------------------------
+# Brok
+### Better go to her garage first.
+PC01_DAY2BEGIN_WES3-1=Краще спочатку піти до її гаража.
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC01_DAY2BEGINB1-1=...?
+
+
+# Brok - Brok is on the phone with Wes.
+### Hello?
+PC01_DAY2BEGINB1-2=Алло?
+
+
+# Wes
+### Detective, we've got a situation.
+PC01_DAY2BEGINB1-3=Детективе, у нас виникла проблема.
+
+
+# Wes
+### I need you at my office.
+PC01_DAY2BEGINB1-4=Ти потрібен мені в моєму кабінеті.
+
+
+# Brok
+### What? Right now?
+PC01_DAY2BEGINB1-5=Що? Прямо зараз?
+
+
+# Wes
+### Immediately!
+PC01_DAY2BEGINB1-6=Негайно!
+
+
+# Brok
+### I was afraid you were gonna say that.
+PC01_DAY2BEGINB1-7=Я боявся, що ви це скажете.
+
+
+# Wes - The phone line becomes bad at this point
+### I will expl............ t........... b..........
+PC01_DAY2BEGINB1-8=Я пояс............ п........... б..........
+
+
+# Brok
+### Sorry, what?
+PC01_DAY2BEGINB1-9=Вибачте, що?
+
+
+# Wes
+### I said........ i......... f........ g........
+PC01_DAY2BEGINB1-10=Я сказав........ ц......... п........ з........
+
+
+# Brok - "metallic voice" here is a pun considering the end game reveal...
+### I can't hear ya, poor connection. You got a metallic voice.
+PC01_DAY2BEGINB1-11=Я не чую, поганий зв'язок. У вас якийсь металевий голос.
+
+
+# Wes
+### ...f.......k.......
+PC01_DAY2BEGINB1-12=...б.......к.......
+
+
+# Brok
+### Anyway! I'm coming, stay right where you are!
+PC01_DAY2BEGINB1-13=У будь-якому разі! Я вже йду, залишайтеся там, де ви є!
+
+
+# Unknown
+### [...]
+PC01_DAY2BEGINB1-14=[...]
+
+
+# Brok
+### ...
+PC01_DAY2BEGINB1-15=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Darn... I forgot! I promised Graff I'd fix the situation with his diploma!
+PC01_DAY2BEGINB1-16=Чорт... Я й забув! Я обіцяв Граффові врегулювати ситуацію з його дипломом!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### But if I don't make it to the police station in time, Wes might put me back in a cell. Or worse!
+PC01_DAY2BEGINB1-17=Але якщо я не дістануся до відділку поліції вчасно, Вес може посадити мене назад у камеру. Або ще гірше!
+
+
+# Brok
+### What should I do...?
+PC01_DAY2BEGINB1-18=Що ж мені робити...?
+
+
+#----------------------------------------------------
+# Brok
+### Yeah...
+PC01_DAY2BEGIN_CHOICEGRAFF1-1=Так...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'll always find a way out but I can't afford to disappoint Graff again.
+PC01_DAY2BEGIN_CHOICEGRAFF1-2=Я завжди знайду вихід із ситуації, але я не можу дозволити собі знову розчарувати Граффа.
+
+
+# Brok
+### Let's go!
+PC01_DAY2BEGIN_CHOICEGRAFF1-3=Вперед!
+
+
+#----------------------------------------------------
+# Brok
+### I can't afford getting in trouble with the law again...
+PC01_DAY2BEGIN_CHOICEWES1-1=Я не можу дозволити собі знову мати проблеми із законом...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### After all, the Director ain't going anywhere. I can go to school later.
+PC01_DAY2BEGIN_CHOICEWES1-2=Зрештою, директорка нікуди не дінеться. Я можу піти до школи пізніше.
+
+
+# Brok
+### Okay then, it's decided!
+PC01_DAY2BEGIN_CHOICEWES1-3=Ну що ж, вирішено!
+
+
+#----------------------------------------------------
+# Brok - End of day 2 - Brok comes back home and sees Graff collapsed on the floor
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh no!... Graff!
+PC01_DAY2END1-1=О ні...! Граффе!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_DAY2END2-1=...
+
+
+# Brok
+### He's breathing. Thank goodness.
+PC01_DAY2END2-2=Він дихає. Слава небесам.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_DAY2END_COLLAPSED1-1=...
+
+
+# Graff
+### ...?
+PC01_DAY2END_COLLAPSED1-2=...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...!
+PC01_DAY2END_COLLAPSED1-3=Граффе...!
+
+
+# Brok
+### You're okay?
+PC01_DAY2END_COLLAPSED1-4=Ти в порядку?
+
+
+# Graff
+### What...?
+PC01_DAY2END_COLLAPSED1-5=Що...?
+
+
+# Graff
+### I'm...alive...?
+PC01_DAY2END_COLLAPSED1-6=Я... живий...?
+
+
+# Brok
+### Seems so.
+PC01_DAY2END_COLLAPSED1-7=Здається, так.
+
+
+# Graff
+### But...
+PC01_DAY2END_COLLAPSED1-8=Але...
+
+
+# Graff
+### I don't feel the effects...
+PC01_DAY2END_COLLAPSED1-9=Я не відчуваю ефектів забруднення...
+
+
+# Graff
+### You gave me a pill?
+PC01_DAY2END_COLLAPSED1-10=Ти дав мені пігулку?
+
+
+# Brok
+### No... I just...
+PC01_DAY2END_COLLAPSED1-11=Ні... Я просто...
+
+
+# Brok
+### Found you unconscious here.
+PC01_DAY2END_COLLAPSED1-12=Знайшов тебе тут непритомного.
+
+
+# Graff
+### Here...?
+PC01_DAY2END_COLLAPSED1-13=Тут...?
+
+
+# Graff
+### I collapsed in the street...
+PC01_DAY2END_COLLAPSED1-14=Я знепритомнів на вулиці...
+
+
+# Graff
+### Someone... must have brought me here...
+PC01_DAY2END_COLLAPSED1-15=Хтось... мабуть, приніс мене сюди...
+
+
+# Brok
+### Hey, take it easy.
+PC01_DAY2END_COLLAPSED1-16=Гей, заспокойся.
+
+
+# Brok
+### Maybe you just have fuzzy memories.
+PC01_DAY2END_COLLAPSED1-17=У тебе можуть бути нечіткі спогади.
+
+
+# Graff
+### ...
+PC01_DAY2END_COLLAPSED1-18=...
+
+
+#----------------------------------------------------
+# Brok - Alternative : Brok comes back and Graff is standing, alive because he managed to buy a pill
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_DAY2END_TOOKPILL1-1=Граффе!
+
+
+# Brok
+### Thank goodness, you're okay!
+PC01_DAY2END_TOOKPILL1-2=Слава небесам, ти в порядку!
+
+
+# Graff
+### ...
+PC01_DAY2END_TOOKPILL1-3=...
+
+
+# Graff
+### I am...
+PC01_DAY2END_TOOKPILL1-4=Так...
+
+
+# Graff
+### But not thanks to you.
+PC01_DAY2END_TOOKPILL1-5=Але не завдяки тобі.
+
+
+# Brok
+### I'm sorry... I got your messages...
+PC01_DAY2END_TOOKPILL1-6=Вибач... Я отримав твої повідомлення...
+
+
+#----------------------------------------------------
+# Graff
+### Too late...
+PC01_DAY2END_NOTALK-1=Занадто пізно...
+
+
+#----------------------------------------------------
+# Graff
+### Did you just realize...?
+PC01_DAY2END_TALK-1=Ти усвідомлюєш...?
+
+
+# Graff
+### If I hadn't found a solution by myself...
+PC01_DAY2END_TALK-2=Якби я сам не знайшов рішення...
+
+
+# Graff
+### I'd be dead right now!
+PC01_DAY2END_TALK-3=Я був би вже мертвий!
+
+
+# Brok
+### I know... But...
+PC01_DAY2END_TALK-4=Я знаю... Але...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_DAY2END3-1=...
+
+
+# Brok - It's actually an ANTI pollution pill but they call it this way
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Looks like he didn't take his Toxout pill...
+PC01_DAY2END3-2=Схоже, він не прийняв свою смогову пігулку...
+
+
+# Brok
+### And he's unconscious...
+PC01_DAY2END3-3=І він непритомний...
+
+
+# Brok
+### What should I do...?!
+PC01_DAY2END3-4=Що ж мені робити...?!
+
+
+#----------------------------------------------------
+# Brok
+### Here...
+PC01_DAY2END_PILL1-1=Ось...
+
+
+# Brok
+### ...
+PC01_DAY2END_PILL1-2=...
+
+
+# Brok
+### I'm sorry. I wasn't here for you again...
+PC01_DAY2END_PILL1-3=Вибач. Я знову не був поруч у потрібний момент...
+
+
+# Brok
+### (Sigh)
+PC01_DAY2END_PILL1-4=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Yeah, I'd better call...
+PC01_DAY2END_CALL-1=Так, краще зателефонувати...
+
+
+# Brok
+### Argh...! I forgot...
+PC01_DAY2END_CALL-2=А-ах...! Я й забув...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### We're not in the Drums. No doctor's gonna travel up here... And I can't make Graff cross the boundary!
+PC01_DAY2END_CALL-3=Ми не на Верхах. Жоден лікар не поїде сюди... І я не зможу перевести Граффа через кордон!
+
+
+# Brok
+### I need to find another way... And fast!
+PC01_DAY2END_CALL-4=Потрібно знайти інший спосіб... Швидко!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Think, Brok... Just think...!
+PC01_DAY2END_CALL-5=Думай, Броку... Просто думай...!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_DAY2END_SLAP-1=...
+
+
+# Brok
+### Come on, my boy... Wake up!
+PC01_DAY2END_SLAP-2=Ну ж бо, хлопче... Прокидайся!
+
+
+# Brok
+### I... I need you to try...
+PC01_DAY2END_SLAP-3=Мені... Мені потрібно, щоб ти спробував...
+
+
+# Brok
+### Please... Do it for me...!
+PC01_DAY2END_SLAP-4=Будь ласка... Зроби це для мене...!
+
+
+# Brok
+### ...
+PC01_DAY2END_SLAP-5=...
+
+
+# Brok
+### It's not working...
+PC01_DAY2END_SLAP-6=Не спрацьовує...
+
+
+#----------------------------------------------------
+# Unknown - End of day 2 - A bot puts a pill underneath the door
+### (Sliding sound)
+PC01_DAY2END_BOTARRIVES1-1=(Звук ковзання)
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC01_DAY2END_BOTARRIVES2-1=...?
+
+
+#----------------------------------------------------
+# Brok
+### What...?
+PC01_DAY2END_BOTARRIVES3-1=Що...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### A Toxout pill?
+PC01_DAY2END_BOTARRIVES4-1=Смогова пігулка?
+
+
+#----------------------------------------------------
+# Brok - End of day 2 - Graff is unconscious
+### ...
+PC01_DAY2END_BROKBACKS1-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I shouldn't have done that mission for Wes...
+PC01_DAY2END_BROKBACKS1-2=Мені не слід було виконувати ту місію для Веса...
+
+
+# Brok
+### You told me... But I wouldn't listen...!
+PC01_DAY2END_BROKBACKS1-3=Ти казав мені... Але я не слухав...!
+
+
+# Brok
+### I'm so stupid.
+PC01_DAY2END_BROKBACKS1-4=Я такий дурний.
+
+
+# Brok
+### What if... You...
+PC01_DAY2END_BROKBACKS1-5=А що, якби... ти...
+
+
+# Brok
+### I'll never forgive myself...
+PC01_DAY2END_BROKBACKS1-6=Я ніколи собі не пробачу...
+
+
+# Graff
+### (Cough)
+PC01_DAY2END_BROKBACKS1-7=(Кашляє)
+
+
+# Brok
+### ...?
+PC01_DAY2END_BROKBACKS1-8=...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_DAY2END_BROKBACKS2-1=Граффе!
+
+
+# Graff
+### ...Dad...
+PC01_DAY2END_BROKBACKS2-2=...Татусю...
+
+
+# Brok
+### You're safe...! I'm here now.
+PC01_DAY2END_BROKBACKS2-3=Ти в безпеці...! Тепер я з тобою.
+
+
+# Graff
+### ...
+PC01_DAY2END_BROKBACKS2-4=...
+
+
+# Graff
+### It's you.
+PC01_DAY2END_BROKBACKS2-5=Це ти.
+
+
+#----------------------------------------------------
+# Brok
+### I was so worried...
+PC01_DAY2END_GRAFFWAKESB-1=Я так хвилювався...
+
+
+# Graff
+### Don't... touch me!
+PC01_DAY2END_GRAFFWAKESB-2=Не... чіпай мене!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_DAY2ENDB1-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...?
+PC01_DAY2ENDB1-2=Граффе...?
+
+
+#----------------------------------------------------
+# Brok - End of day 2 - Brok feels helpless after what happened
+### (Sigh)
+PC01_DAY2ENDB2-1=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### (At this moment, I felt so helpless.)
+PC01_DAY2ENDB3-1=(У цей момент я почувався таким безпорадним.)
+
+
+# Brok
+### (So much happened today.)
+PC01_DAY2ENDB3-2=(Сьогодні стільки всього сталося.)
+
+
+#----------------------------------------------------
+# Brok
+### (I knocked that big bear out for no other reason but my own personal interest...)
+PC01_DAY2END_RJATTACK-1=(Я вирубив того великого ведмедя без жодної іншої причини, окрім власних інтересів...)
+
+
+#----------------------------------------------------
+# Brok
+### (I feel ashamed for tricking that big bear who got fired because of this.)
+PC01_DAY2END_RJTRICK-1=(Мені соромно за те, що я обдурив того великого ведмедя, і його через це звільнили.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### (I smashed that hacker to get that chip.)
+PC01_DAY2END_HACKERATTACK-1=(Я відгамселив того гакера, щоб здобути той чип.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### (I got tricked by that hacker into spending a crazy amount of money to get that chip.)
+PC01_DAY2END_HACKERMONEY-1=(Той гакер обдурив мене, змусивши витратити шалені гроші на той чип.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (I broke the law by breaking into Wes' office...)
+PC01_DAY2END_HACKERMISSION-1=(Я порушив закон, увірвавшись до кабінету Веса...)
+
+
+# Brok
+### (I investigated a crazy murder case and...)
+PC01_DAY2END_HACKERMISSION-2=(Я розслідував божевільну справу про вбивство і...)
+
+
+#----------------------------------------------------
+# Brok
+### (I'm starting to question whether I found the true culprit...)
+PC01_DAY2END_MURDERWRONG-1=(Я починаю сумніватися, чи знайшов справжнього винуватця...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (I almost sent Graff's friend to jail...)
+PC01_DAY2END_MURDEROTT-1=(Я ледь не відправив друга Граффа до в'язниці...)
+
+
+#----------------------------------------------------
+# Brok
+### (The victim turned out to be alive... after I accidentally stepped on him...)
+PC01_DAY2END_MURDERALIVE-1=(Жертва виявилася живою... після того, як я випадково на неї наступив...)
+
+
+#----------------------------------------------------
+# Brok
+### (I chased that crazy bot, creating havoc...)
+PC01_DAY2END_MURDERTIDY-1=(Я гнався за тим божевільним ботом, влаштувавши безлад...)
+
+
+#----------------------------------------------------
+# Brok - Figuratively speaking - player can choose to go crazy and attack everyone
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### (I had to fight that guard after I went off the rails...)
+PC01_DAY2END_MURDERGUARD-1=(Мені довелося битися з тим охоронцем після того, як я злетів з котушок...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Graff almost died...)
+PC01_DAY2ENDB4-1=(Графф ледь не помер...)
+
+
+# Brok
+### (Am I doomed to fail everything I attempt?...)
+PC01_DAY2ENDB4-2=(Невже я приречений на провал у всьому, що намагаюся зробити...?)
+
+
+# Brok
+### (...)
+PC01_DAY2ENDB4-3=(...)
+
+
+# Brok
+### (To take my mind off it, I decided to prepare dinner.)
+PC01_DAY2ENDB4-4=(Щоб відволіктися від думок, я вирішив приготувати вечерю.)
+
+
+# Brok
+### (Well, with the little that was left anyway.)
+PC01_DAY2ENDB4-5=(Ну, з тих небагатьох інгредієнтів, що залишилися.)
+
+
+#----------------------------------------------------
+# Brok
+### There.
+PC01_DAY2ENDC1-1=Ось так.
+
+
+# Brok
+### It's not much but... That's the best I can do.
+PC01_DAY2ENDC1-2=Негусто, але... Це все, що я можу зараз зробити.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Dinner's ready.
+PC01_DAY2ENDC2-1=Граффе! Вечеря готова.
+
+
+# Brok
+### ...
+PC01_DAY2ENDC2-2=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...?
+PC01_DAY2ENDC2-3=Граффе...?
+
+
+# Brok
+### (It's been a while. I can't hear him...)
+PC01_DAY2ENDC2-4=(Минуло чимало часу. Я його не чую...)
+
+
+# Unknown
+### (Knocks, knocks)
+PC01_DAY2ENDC2-5=(Тук-тук)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Answer me!
+PC01_DAY2ENDC2-6=Граффе! Відповідай мені!
+
+
+# Brok
+### ...
+PC01_DAY2ENDC2-7=...
+
+
+#----------------------------------------------------
+# Graff
+### Hey! What the heck?!
+PC01_DAY2ENDC3-1=Гей! Що за чорт?!
+
+
+# Graff
+### You can't just barge in like this!
+PC01_DAY2ENDC3-2=Ти не можеш просто так вриватися!
+
+
+# Brok
+### You wouldn't answer. I was getting worried!
+PC01_DAY2ENDC3-3=Ти не відповідав. Я почав хвилюватися!
+
+
+# Graff
+### ...
+PC01_DAY2ENDC3-4=...
+
+
+# Brok
+### Come. I've prepared...
+PC01_DAY2ENDC3-5=Ходімо. Я приготував...
+
+
+# Graff
+### Not hungry.
+PC01_DAY2ENDC3-6=Я не голодний.
+
+
+# Brok
+### Then...
+PC01_DAY2ENDC3-7=Тоді...
+
+
+# Brok
+### Tell me what happened.
+PC01_DAY2ENDC3-8=Розкажи мені, що сталося.
+
+
+# Graff
+### What happened...?
+PC01_DAY2ENDC3-9=Що сталося...?
+
+
+#----------------------------------------------------
+# Graff
+### I'll tell you what!
+PC01_DAY2ENDC3_NORMAL-1=Я скажу тобі, що!
+
+
+# Graff
+### Some stupid kid took my pill!
+PC01_DAY2ENDC3_NORMAL-2=Одне дурне дитя забрало мою пігулку!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_DAY2ENDC3_KLAY-1=...
+
+
+# Graff
+### I... forgot my pill...
+PC01_DAY2ENDC3_KLAY-2=Я... забув свою пігулку...
+
+
+# Brok
+### How come? You never forget...
+PC01_DAY2ENDC3_KLAY-3=Як так? Ти ніколи не забуваєш...
+
+
+# Graff
+### Well, I'm not perfect!
+PC01_DAY2ENDC3_KLAY-4=Ну, я не ідеальний!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### All Pipe-Pills were offline! I had no way to get one!
+PC01_DAY2ENDC3_NEXT-1=Усі пігулкомати не працювали! Я ніяк не міг дістати її!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### The Pipe-Pills...?
+PC01_DAY2ENDC3_NEXT-2=Пігулкомати...?
+
+
+# Graff
+### I sent you hundreds of messages. Called you. But no!
+PC01_DAY2ENDC3_NEXT-3=Я надсилав тобі сотні повідомлень. Телефонував тобі. Але ж ні!
+
+
+# Graff
+### You didn't reply!
+PC01_DAY2ENDC3_NEXT-4=Ти не відповідав!
+
+
+# Graff
+### You left me alone, dying!
+PC01_DAY2ENDC3_NEXT-5=Ти залишив мене самого помирати!
+
+
+# Brok
+### I understand... I'm truly...
+PC01_DAY2ENDC3_NEXT-6=Я розумію... Мені справді...
+
+
+# Graff
+### Sorry?
+PC01_DAY2ENDC3_NEXT-7=Шкода?
+
+
+# Graff
+### You're sorry?!
+PC01_DAY2ENDC3_NEXT-8=Тобі шкода?!
+
+
+# Brok
+### Of course!
+PC01_DAY2ENDC3_NEXT-9=Звісно!
+
+
+# Graff
+### How many times have I heard this already? "I'm sorry!"
+PC01_DAY2ENDC3_NEXT-10=Скільки разів я це вже чув? "Мені шкода!"
+
+
+# Graff
+### Well, that's not good enough!
+PC01_DAY2ENDC3_NEXT-11=Що ж, цього недостатньо!
+
+
+# Graff
+### I'm sick of it!
+PC01_DAY2ENDC3_NEXT-12=Мені це набридло!
+
+
+# Graff
+### You can't just pretend you're sorry and be done with it!
+PC01_DAY2ENDC3_NEXT-13=Ти не можеш просто вдавати, що тобі шкода, і вважати справу закритою!
+
+
+# Graff
+### Where were you? Why couldn't you just answer my calls?!
+PC01_DAY2ENDC3_NEXT-14=Де ти був? Чому ти не міг просто відповісти на мої дзвінки?!
+
+
+# Brok
+### Long story...
+PC01_DAY2ENDC3_NEXT-15=Довга історія...
+
+
+# Graff
+### Obviously!
+PC01_DAY2ENDC3_NEXT-16=Очевидно!
+
+
+# Graff
+### Yet again, you didn't answer me! You never do!
+PC01_DAY2ENDC3_NEXT-17=І знову ти мені не відповідаєш! Як завжди!
+
+
+# Graff
+### For a while I thought the problem was me.
+PC01_DAY2ENDC3_NEXT-18=Якийсь час я думав, що проблема в мені.
+
+
+# Graff
+### But now I know!
+PC01_DAY2ENDC3_NEXT-19=Але тепер я знаю!
+
+
+# Graff
+### It's you!
+PC01_DAY2ENDC3_NEXT-20=Проблема в тобі!
+
+
+# Graff
+### You're never there when I need you!
+PC01_DAY2ENDC3_NEXT-21=Тебе ніколи немає поруч, коли ти мені потрібен!
+
+
+# Graff
+### You never tell me anything!
+PC01_DAY2ENDC3_NEXT-22=Ти ніколи мені нічого не розповідаєш!
+
+
+# Brok
+### ...
+PC01_DAY2ENDC3_NEXT-23=...
+
+
+# Brok
+### Alright, I'll explain. But...
+PC01_DAY2ENDC3_NEXT-24=Гаразд, я поясню. Але...
+
+
+# Brok
+### Please come. You gotta eat...
+PC01_DAY2ENDC3_NEXT-25=Будь ласка, ходімо. Тобі треба поїсти...
+
+
+# Graff
+### Perfect!
+PC01_DAY2ENDC3_NEXT-26=Чудово!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_DAY2ENDD1_ALTERNATIVE-1=...
+
+
+# Graff
+### Alright. In a while.
+PC01_DAY2ENDD1_ALTERNATIVE-2=Гаразд. Трохи пізніше.
+
+
+# Brok
+### Thanks.
+PC01_DAY2ENDD1_ALTERNATIVE-3=Дякую.
+
+
+#----------------------------------------------------
+# Graff
+### I'll eat... what, exactly?
+PC01_DAY2ENDD1-1=Я їстиму... що саме?
+
+
+# Graff
+### Oh... Leftovers! What a surprise!
+PC01_DAY2ENDD1-2=О... Залишки! Який сюрприз!
+
+
+# Graff
+### You didn't go shopping. Again!
+PC01_DAY2ENDD1-3=Ти не сходив за продуктами. Знову!
+
+
+# Brok
+### I'm s... I mean, I was busy...
+PC01_DAY2ENDD1-4=Мені ш... В сенсі, я був зайнятий...
+
+
+# Graff
+### Busy! Of course!
+PC01_DAY2ENDD1-5=Зайнятий! Ну звісно!
+
+
+# Graff
+### You think I wasn't?
+PC01_DAY2ENDD1-6=Думаєш, я ні?
+
+
+# Graff
+### Do you have any idea what I went through today?!
+PC01_DAY2ENDD1-7=У тебе є хоч найменше уявлення, через що я сьогодні пройшов?!
+
+
+# Brok
+### I guess...
+PC01_DAY2ENDD1-8=Здогадуюсь...
+
+
+# Graff
+### Why should I eat your food...?
+PC01_DAY2ENDD1-9=Чому я маю їсти твою їжу...?
+
+
+# Graff
+### I hardly know you!
+PC01_DAY2ENDD1-10=Я тебе майже не знаю!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### To me you're just a stranger pretending to offer me shelter, when in truth...
+PC01_DAY2ENDD1-11=Для мене ти просто незнайомець, який прикидається добряком і дає мені притулок, хоча насправді...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### That stranger took everything from me.
+PC01_DAY2ENDD1-12=Цей незнайомець відібрав у мене все.
+
+
+# Brok
+### What...?
+PC01_DAY2ENDD1-13=Що...?
+
+
+# Graff
+### You destroy everything you touch!
+PC01_DAY2ENDD1-14=Ти руйнуєш усе, до чого торкаєшся!
+
+
+# Graff
+### You're a failure! Worthless!
+PC01_DAY2ENDD1-15=Ти невдаха! Нікчема!
+
+
+# Brok
+### Now, wait a minute!
+PC01_DAY2ENDD1-16=Ану зачекай хвилинку!
+
+
+# Brok
+### You think it's easy to live in this world?!
+PC01_DAY2ENDD1-17=Думаєш, так легко жити в цьому світі?!
+
+
+# Brok
+### I'm doing my best so we can survive!
+PC01_DAY2ENDD1-18=Я роблю все можливе, щоб ми могли вижити!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I was destined to become Drumer!
+PC01_DAY2ENDD1-19=Мені судилося стати мешканцем Верхів!
+
+
+# Graff
+### I'm in this situation, living among trash, working hard to get out of this misery...
+PC01_DAY2ENDD1-20=Я опинився в такій ситуації, живу серед сміття, важко працюю, щоб вирватися з цих злиднів...
+
+
+# Graff
+### Because of you!
+PC01_DAY2ENDD1-21=Через тебе!
+
+
+# Brok
+### I know...
+PC01_DAY2ENDD1-22=Я знаю...
+
+
+#----------------------------------------------------
+# Brok
+### Listen...
+PC01_DAY2ENDD2-1=Послухай...
+
+
+# Graff
+### Arghhh!
+PC01_DAY2ENDD2-2=А-а-ааа!
+
+
+# Graff
+### Nooooo...! Stop!
+PC01_DAY2ENDD2-3=Ніііі...! Зупинися!
+
+
+# Brok
+### What...?
+PC01_DAY2ENDD2-4=Що...?
+
+
+# Graff
+### Don't... touch me!
+PC01_DAY2ENDD2-5=Не... чіпай мене!
+
+
+# Graff
+### Arghh...
+PC01_DAY2ENDD2-6=А-а-аа...
+
+
+# Graff
+### I... I can't.... breathe...
+PC01_DAY2ENDD2-7=Я... Я не можу... дихати...
+
+
+# Graff
+### No one...
+PC01_DAY2ENDD2-8=Ніхто...
+
+
+# Graff
+### Should touch me...
+PC01_DAY2ENDD2-9=Не має чіпати мене...
+
+
+# Brok
+### What's with you...?
+PC01_DAY2ENDD2-10=Що з тобою...?
+
+
+# Brok
+### Why do you always react like this when I try to be friendly?
+PC01_DAY2ENDD2-11=Чому ти завжди так реагуєш, коли я намагаюся бути приязним?
+
+
+# Brok
+### You know I wouldn't hurt ya!
+PC01_DAY2ENDD2-12=Ти ж знаєш, я б тебе не скривдив!
+
+
+# Graff
+### No...
+PC01_DAY2ENDD2-13=Ні...
+
+
+# Graff
+### You...
+PC01_DAY2ENDD2-14=Ти...
+
+
+# Graff
+### You lie...
+PC01_DAY2ENDD2-15=Ти брешеш...
+
+
+# Graff
+### Stay away...
+PC01_DAY2ENDD2-16=Тримайся подалі...
+
+
+# Brok
+### But...
+PC01_DAY2ENDD2-17=Але...
+
+
+# Graff
+### I just...
+PC01_DAY2ENDD2-18=Просто...
+
+
+# Graff
+### Stay away from me!!!
+PC01_DAY2ENDD2-19=Тримайся від мене подалі!!!
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_DAY2ENDD4-1=...!
+
+
+# Brok
+### ...(Sigh)
+PC01_DAY2ENDD4-2=...(Зітхає)
+
+
+# Brok
+### There ya go.
+PC01_DAY2ENDD4-3=Ну ось.
+
+
+# Brok
+### I'm the king of making situations worse.
+PC01_DAY2ENDD4-4=Я справжній майстер погіршувати ситуацію.
+
+
+# Brok
+### He's right...
+PC01_DAY2ENDD4-5=Він має рацію...
+
+
+# Brok
+### It's been five years now.
+PC01_DAY2ENDD4-6=Минуло вже п'ять років.
+
+
+# Brok
+### Maybe it's time to stop pretending I'm handling things correctly.
+PC01_DAY2ENDD4-7=Можливо, пора припинити вдавати, ніби я все роблю правильно.
+
+
+# Brok
+### Only a few days left. Time to give up...?
+PC01_DAY2ENDD4-8=Залишилося лише кілька днів. Невже час здатися...?
+
+
+# Brok
+### And accept that I failed. He'll never want me in his life...
+PC01_DAY2ENDD4-9=І визнати, що я зазнав поразки. Він ніколи більше не захоче бачити мене у своєму житті...
+
+
+# Brok
+### ...
+PC01_DAY2ENDD4-10=...
+
+
+#----------------------------------------------------
+# Brok
+### Hey...
+PC01_DAY2ENDD5-1=Гей...
+
+
+# Brok
+### You can be mad at me, kiddo... And you have every reason to.
+PC01_DAY2ENDD5-2=Ти можеш злитися на мене, хлопче... І маєш для цього всі підстави.
+
+
+# Brok
+### Doesn't matter.
+PC01_DAY2ENDD5-3=Неважливо.
+
+
+# Brok
+### The only important thing to me is that you're okay.
+PC01_DAY2ENDD5-4=Єдина річ, яка важлива для мене - це те, щоб у тебе все було гаразд.
+
+
+# Brok
+### And... I want you to know...
+PC01_DAY2ENDD5-5=І... Я хочу, щоб ти знав...
+
+
+# Brok
+### You're the only reason I keep moving forward in this awful existence.
+PC01_DAY2ENDD5-6=Ти єдина причина, чому я продовжую рухатися вперед у цьому жахливому світі.
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC01_DAY2ENDF1-1=...?
+
+
+#----------------------------------------------------
+# Brok
+### A paper...
+PC01_DAY2ENDF2-1=Записка...
+
+
+#----------------------------------------------------
+# Brok
+### "Forgive me"
+PC01_DAY2ENDF2_FORGIVE-1="Вибач мені"
+
+
+# Brok
+### You're already forgiven, kiddo.
+PC01_DAY2ENDF2_FORGIVE-2=Я вже тебе вибачив, хлопче.
+
+
+# Brok
+### I don't know where we'll go from here but...
+PC01_DAY2ENDF2_FORGIVE-3=Я не знаю, куди ми рухатимемося далі, але...
+
+
+# Brok
+### I'll do my best.
+PC01_DAY2ENDF2_FORGIVE-4=Я зроблю все, що в моїх силах.
+
+
+# Brok
+### And... I bet you're hungry, so...
+PC01_DAY2ENDF2_FORGIVE-5=І... Б'юся об заклад, що ти голодний, тож...
+
+
+#----------------------------------------------------
+# Brok
+### "I'm hungry..."
+PC01_DAY2ENDF2_HUNGRY-1="Я голодний..."
+
+
+# Brok
+### Sure...
+PC01_DAY2ENDF2_HUNGRY-2=Авжеж...
+
+
+# Brok
+### By the way...
+PC01_DAY2ENDF2_HUNGRY-3=Між іншим...
+
+
+# Brok
+### I'm glad you remembered that gift from years ago.
+PC01_DAY2ENDF2_HUNGRY-4=Я радий, що ти пам'ятаєш про той подарунок багаторічної давнини.
+
+
+#----------------------------------------------------
+# Brok
+### "Let's forget this..."
+PC01_DAY2ENDF2_FORGET-1="Забудьмо про це..."
+
+
+# Brok
+### Well... Wish I could but...
+PC01_DAY2ENDF2_FORGET-2=Що ж... Хотілося б мені, але...
+
+
+# Brok
+### You're right about a lot of matters and I can't just pretend I didn't hear them.
+PC01_DAY2ENDF2_FORGET-3=У багатьох речах ти маєш рацію, і я не можу просто вдавати, ніби не чув цього.
+
+
+# Brok
+### I want to better myself. I can't really promise but...
+PC01_DAY2ENDF2_FORGET-4=Я хочу стати кращим. Я не можу нічого обіцяти, але...
+
+
+# Brok
+### I'll try.
+PC01_DAY2ENDF2_FORGET-5=Я спробую.
+
+
+# Brok
+### And... I bet you're hungry, so...
+PC01_DAY2ENDF2_FORGET-6=І... Б'юся об заклад, що ти голодний, тож...
+
+
+#----------------------------------------------------
+# Brok
+### Here...
+PC01_DAY2ENDF2B-1=Ось...
+
+
+# Brok
+### Tomorrow will be a better day.
+PC01_DAY2ENDF2B-2=Завтра буде кращий день.
+
+
+# Brok
+### I have faith in you. No matter what obstacles you'll be facing in the future...
+PC01_DAY2ENDF2B-3=Я вірю в тебе. З якими б перешкодами ти не зіткнувся в майбутньому...
+
+
+# Brok
+### You'll overcome them.
+PC01_DAY2ENDF2B-4=Ти подолаєш їх.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_DAY2ENDF2C-1=...
+
+
+# Graff
+### Thanks...
+PC01_DAY2ENDF2C-2=Дякую...
+
+
+#----------------------------------------------------
+# Brok - Day 2 end - Shay calls Brok on the phone
+### Oh...! Erm...
+PC01_DAY2ENDF3_SHAY-1=О...! Е-е...
+
+
+# Brok
+### I'm late, right...?
+PC01_DAY2ENDF3_SHAY-2=Я запізнився, так...?
+
+
+# Shay
+### ...
+PC01_DAY2ENDF3_SHAY-3=...
+
+
+# Brok
+### But I'm exhausted. It's been an insane day!
+PC01_DAY2ENDF3_SHAY-4=Але я виснажений. Це був божевільний день!
+
+
+# Shay
+### ...
+PC01_DAY2ENDF3_SHAY-5=...
+
+
+# Brok
+### Yeah, like every day I guess...
+PC01_DAY2ENDF3_SHAY-6=Ну, як і будь-який інший день, мабуть...
+
+
+# Brok
+### Okay, okay. I'm on my way!
+PC01_DAY2ENDF3_SHAY-7=Добре, добре. Я вже йду!
+
+
+# Shay
+### See? I don't even have to say a word anymore!
+PC01_DAY2ENDF3_SHAY-8=Бачиш? Мені вже навіть не потрібно нічого казати!
+
+
+#----------------------------------------------------
+# Graff - End of day 2 - Coming back before fight
+### ...!
+PC01_DAY2END_ENTERBEDROOM-1=...!
+
+
+# Graff
+### What are you doing here?!
+PC01_DAY2END_ENTERBEDROOM-2=Що ти тут робиш?!
+
+
+# Brok
+### I'm...
+PC01_DAY2END_ENTERBEDROOM-3=Я...
+
+
+# Brok
+### Looking for stuff...
+PC01_DAY2END_ENTERBEDROOM-4=Шукаю речі...
+
+
+# Brok
+### Never mind.
+PC01_DAY2END_ENTERBEDROOM-5=Забудь.
+
+
+# Graff
+### Wait...
+PC01_DAY2END_ENTERBEDROOM-6=Зачекай...
+
+
+# Graff
+### It's okay. You can stay.
+PC01_DAY2END_ENTERBEDROOM-7=Все гаразд. Ти можеш залишитися.
+
+
+# Brok
+### Thanks.
+PC01_DAY2END_ENTERBEDROOM-8=Дякую.
+
+
+#----------------------------------------------------
+# Brok
+### You okay?
+PC01_DAY2END_ENTERBEDROOM1-1=Ти в порядку?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_DAY2END_ENTERBEDROOM_BAD-1=...
+
+
+#----------------------------------------------------
+# Graff
+### Yeah.
+PC01_DAY2END_ENTERBEDROOM_GOOD-1=Так.
+
+
+#----------------------------------------------------
+# Graff
+### Yeah! Better.
+PC01_DAY2END_ENTERBEDROOM_EXCELLENT-1=Так! Уже краще.
+
+
+# Brok
+### Glad to hear!
+PC01_DAY2END_ENTERBEDROOM_EXCELLENT-2=Радий це чути!
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_DAY2END_GRAFFKO-1=...!
+
+
+# Brok
+### What have I done...
+PC01_DAY2END_GRAFFKO-2=Що я наробив...
+
+
+# Brok
+### I can't go on like this.
+PC01_DAY2END_GRAFFKO-3=Я так більше не можу.
+
+
+#----------------------------------------------------
+# Brok - Day 3 start - Brok wakes up again, this time robots break in his apartment to kill him
+### Phew... Another nightmare.
+PC01_DAY3BEGIN1-1=Фух... Ще один кошмар.
+
+
+# Brok
+### At least that one didn't involve me...
+PC01_DAY3BEGIN1-2=Принаймні цей не стосувався мене...
+
+
+# Brok
+### It was totally absurd! It's not like bots would...
+PC01_DAY3BEGIN1-3=Це був повний абсурд! Не схоже, щоб боти...
+
+
+#----------------------------------------------------
+# Tribot
+### Sir.
+PC01_DAY3BEGIN2_ALTERNATIVE-1=Пане.
+
+
+# Tribot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Chief officer Wes will not need your services until further notice.
+PC01_DAY3BEGIN2_ALTERNATIVE-2=Шеф поліції Вес не потребуватиме ваших послуг до подальших розпоряджень.
+
+
+# Tribot
+### That is all.
+PC01_DAY3BEGIN2_ALTERNATIVE-3=Це все.
+
+
+#----------------------------------------------------
+# Brok
+### Huh?...
+PC01_DAY3BEGIN2_ALTERNATIVE2-1=Га...?
+
+
+#----------------------------------------------------
+# Graff
+### What happened? I heard noise.
+PC01_DAY3BEGIN2_ALTERNATIVE3-1=Що сталося? Я чув шум.
+
+
+# Brok
+### A bot with a message.
+PC01_DAY3BEGIN2_ALTERNATIVE3-2=Бот із повідомленням.
+
+
+# Brok
+### No job for me today, apparently!
+PC01_DAY3BEGIN2_ALTERNATIVE3-3=Виявляється, сьогодні для мене немає роботи!
+
+
+# Graff
+### Oh.
+PC01_DAY3BEGIN2_ALTERNATIVE3-4=О.
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_DAY3BEGIN2-1=...!
+
+
+# Brok
+### Hey! What are you doing here...?
+PC01_DAY3BEGIN2-2=Гей! Що ви тут робите...?
+
+
+# Brok
+### What do you want?!
+PC01_DAY3BEGIN2-3=Чого ви хочете?!
+
+
+# Tribot
+### ...
+PC01_DAY3BEGIN2-4=...
+
+
+#----------------------------------------------------
+# Graff
+### What the heck's happening?!
+PC01_DAY3BEGIN3-1=Що за чортівня відбувається?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Stay back!
+PC01_DAY3BEGIN3-2=Граффе! Назад!
+
+
+# Brok
+### I'll handle it!
+PC01_DAY3BEGIN3-3=Я упораюся сам!
+
+
+# Graff
+### What...?
+PC01_DAY3BEGIN3-4=Що...?
+
+
+#----------------------------------------------------
+# Graff
+### Nooooooooo!!!
+PC01_DAY3BEGIN_OVER-1=Ніііііііі!!!
+
+
+#----------------------------------------------------
+# Graff
+### Yeah! You got 'em good!
+PC01_DAY3BEGIN4-1=Так! Ти добре їх відгамселив!
+
+
+# Brok
+### Those bots...
+PC01_DAY3BEGIN4-2=Ці боти...
+
+
+# Brok
+### They broke in here to attack us!
+PC01_DAY3BEGIN4-3=Вони вдерлися сюди, щоб напасти на нас!
+
+
+# Graff
+### Why?
+PC01_DAY3BEGIN4-4=Чому?
+
+
+# Brok
+### Wish I knew...
+PC01_DAY3BEGIN4-5=Якби ж я знав...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Looks like ordinary Tribots. They shouldn't behave like this...
+PC01_DAY3BEGIN4-6=Схожі на звичайних Триботів. Вони не мали б поводитися так...
+
+
+# Graff
+### I bet someone's got a grudge against you!
+PC01_DAY3BEGIN4-7=Б'юся об заклад, що хтось має зуба на тебе!
+
+
+# Brok
+### ...
+PC01_DAY3BEGIN4-8=...
+
+
+# Graff
+### ...
+PC01_DAY3BEGIN4-9=...
+
+
+# Graff
+### About yesterday...
+PC01_DAY3BEGIN4-10=Щодо вчорашнього...
+
+
+# Graff
+### You must find the culprit.
+PC01_DAY3BEGIN4-11=Ти повинен знайти винуватця.
+
+
+# Brok
+### The culprit...?
+PC01_DAY3BEGIN4-12=Винуватця...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### What's happening with the Pipe-Pills.
+PC01_DAY3BEGIN4-13=Того, що відбувається з Пігулкоматами.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers must be behind it. They're selling pills at outrageous prices!
+PC01_DAY3BEGIN4-14=За цим напевно стоять Верескуни. Вони продають пігулки за нечуваними цінами!
+
+
+# Graff
+### And considering what happened just now...
+PC01_DAY3BEGIN4-15=І враховуючи те, що щойно сталося...
+
+
+# Graff
+### Who knows if the events aren't somehow linked.
+PC01_DAY3BEGIN4-16=Хто знає, можливо, ці події якось пов'язані між собою.
+
+
+# Graff
+### You're a detective. Time to investigate!
+PC01_DAY3BEGIN4-17=Ти детектив. Час проводити розслідування!
+
+
+# Graff
+### Besides, I've seen what you're capable of!
+PC01_DAY3BEGIN4-18=Крім того, я бачив, на що ти здатен!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### You can beat the crap out of those Squealers!
+PC01_DAY3BEGIN4-19=Ти можеш добряче надавати тим Верескунам!
+
+
+# Brok
+### I see. You're overestimating me, but...
+PC01_DAY3BEGIN4-20=Ясно. Ти переоцінюєш мене, але...
+
+
+# Brok
+### You realize I won't get paid for this?
+PC01_DAY3BEGIN4-21=Ти ж розумієш, що мені за це не заплатять?
+
+
+# Graff
+### Sometimes... We have to act for the greater good.
+PC01_DAY3BEGIN4-22=Іноді... Нам доводиться діяти заради вищого блага.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Besides. With the Haze... Slumers like us won't go very far without the Toxout pills.
+PC01_DAY3BEGIN4-23=До того ж. Через Смог... мешканці Нетрів довго не протягнуть без смогових пігулок.
+
+
+# Graff
+### I can skip meals for a day or two, if this means getting to the bottom of this!
+PC01_DAY3BEGIN4-24=Я можу недоїдати день чи два, якщо це допоможе дістатися істини!
+
+
+# Brok
+### Very well. I will investigate it!
+PC01_DAY3BEGIN4-25=Дуже добре. Я візьмуся за розслідування!
+
+
+# Brok
+### What about you?
+PC01_DAY3BEGIN4-26=А як щодо тебе?
+
+
+# Graff
+### I've got my last trial this morning.
+PC01_DAY3BEGIN4-27=Сьогодні вранці у мене останнє випробування.
+
+
+# Brok
+### Last? Already?!
+PC01_DAY3BEGIN4-28=Останнє? Вже?!
+
+
+# Brok
+### Maybe you shouldn't...
+PC01_DAY3BEGIN4-29=Може, тобі не варто...
+
+
+# Graff
+### No! No way I can skip it! This is crucial!
+PC01_DAY3BEGIN4-30=Ні! Я нізащо не можу його пропустити! Це вирішальний момент!
+
+
+# Brok
+### Will you be okay...?
+PC01_DAY3BEGIN4-31=З тобою все буде гаразд...?
+
+
+# Brok
+### I mean... Someone may be after us.
+PC01_DAY3BEGIN4-32=В сенсі... Хтось може полювати на нас.
+
+
+# Graff
+### Don't worry.
+PC01_DAY3BEGIN4-33=Не хвилюйся.
+
+
+# Graff
+### I'm certainly not as strong but...
+PC01_DAY3BEGIN4-34=Я, звісно, не такий сильний, але...
+
+
+# Graff
+### I can defend myself.
+PC01_DAY3BEGIN4-35=Я можу захистити себе.
+
+
+# Graff
+### It's not like we're living in a safe place. I'm used to it!
+PC01_DAY3BEGIN4-36=Не те щоб ми жили в безпечному місці. Я вже звик до цього!
+
+
+# Brok
+### Alright...
+PC01_DAY3BEGIN4-37=Гаразд...
+
+
+# Brok
+### Just... Be careful, okay...?
+PC01_DAY3BEGIN4-38=Просто... Будь обережним, добре...?
+
+
+# Brok
+### By the way... Here.
+PC01_DAY3BEGIN4-39=До речі... Ось, тримай.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### A Toxout pill...? But how...?
+PC01_DAY3BEGIN4-40=Смогова пігулка...? Але як...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay gave me one.
+PC01_DAY3BEGIN4-41=Шей дала мені одну.
+
+
+# Graff
+### Thanks! Hopefully that situation is resolved by tomorrow...
+PC01_DAY3BEGIN4-42=Дякую! Сподіваюся, до завтра ця ситуація вирішиться...
+
+
+# Graff
+### ...Oh my! I'm late!
+PC01_DAY3BEGIN4-43=...Ой леле! Я запізнююся!
+
+
+#----------------------------------------------------
+# Brok
+### And there he goes.
+PC01_DAY3BEGIN5-1=Ну ось він і побіг.
+
+
+# Brok
+### ...
+PC01_DAY3BEGIN5-2=...
+
+
+# Brok
+### I've got a bad feeling about today.
+PC01_DAY3BEGIN5-3=У мене погане передчуття щодо сьогоднішнього дня.
+
+
+# Brok - Let's consider a "meal-plaster" is solid food that can last for years.
+### Oh well. Better make some meal-plaster or whatever horrible food is left.
+PC01_DAY3BEGIN5-4=Ну що ж. Краще зробити якісь пайки, чи що там жахливе з їжі залишилося.
+
+
+# Brok
+### I'm sick of leaving for investigations on an empty stomach!
+PC01_DAY3BEGIN5-5=Набридло вирушати на розслідування з порожнім шлунком!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff asked me to investigate the pills shortage.
+PC01_DAY3STARTS-1=Графф попросив мене розслідувати дефіцит пігулок.
+
+
+# Brok
+### No time to lose. Let's go!
+PC01_DAY3STARTS-2=Не буду гаяти часу. Ходімо!
+
+
+#----------------------------------------------------
+# Brok - Day 3 end - Brok comes back after rescuing Sin
+### ...
+PC01_STORY290_INIT1-1=...
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks, knocks)
+PC01_STORY290_KNOCK1-1=(Тук-тук)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...?
+PC01_STORY290_KNOCK1-2=Граффе...?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_STORY290_KNOCK2-1=...
+
+
+# Brok
+### He didn't come back...?
+PC01_STORY290_KNOCK2-2=Він не повернувся...?
+
+
+# Brok
+### That's not normal...
+PC01_STORY290_KNOCK2-3=Це ненормально...
+
+
+# Brok
+### Maybe I should call...
+PC01_STORY290_KNOCK2-4=Може, варто подзвонити...
+
+
+#----------------------------------------------------
+# Brok
+### (...)
+PC01_STORY290_CALLGRAFF-1=(...)
+
+
+# Brok
+### Come on, my boy... Reply...!
+PC01_STORY290_CALLGRAFF-2=Ну ж бо, хлопче... Відповідай...!
+
+
+# Graff
+### "Hey, I'm not available. Call back later or reach my old man for anything urgent."
+PC01_STORY290_CALLGRAFF-3="Привіт, я зараз не можу говорити. Зателефонуйте пізніше або зв'яжіться з моїм старим, якщо це терміново."
+
+
+# Brok
+### ...
+PC01_STORY290_CALLGRAFF-4=...
+
+
+# Brok
+### When will I learn...
+PC01_STORY290_CALLGRAFF-5=Коли вже я навчуся...
+
+
+# Brok
+### I was so engrossed with this whole affair that I totally forgot to check on him... Again.
+PC01_STORY290_CALLGRAFF-6=Я був так захоплений усією цією справою, що зовсім забув провідати його... Знову.
+
+
+# Brok
+### If something happened...
+PC01_STORY290_CALLGRAFF-7=Якщо щось сталося...
+
+
+# Brok
+### No. Let's stop seeing the glass as half empty.
+PC01_STORY290_CALLGRAFF-8=Ні. Годі бачити склянку наполовину порожньою.
+
+
+# Brok
+### He's... Probably just celebrating with friends.
+PC01_STORY290_CALLGRAFF-9=Він... Мабуть, просто святкує з друзями.
+
+
+#----------------------------------------------------
+# Brok
+### I know! His school friend must know. Hmm...
+PC01_STORY290_CALLOTT-1=Точно! Його шкільний друг повинен знати. Гмм...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### There it is. Ott.
+PC01_STORY290_CALLOTT-2=Ось воно. Отт.
+
+
+# Brok
+### ...
+PC01_STORY290_CALLOTT-3=...
+
+
+# Brok
+### ...
+PC01_STORY290_CALLOTT-4=...
+
+
+# Brok
+### No reply...
+PC01_STORY290_CALLOTT-5=Не відповідає...
+
+
+# Brok
+### (Sigh) There, my stress levels just went up a notch...
+PC01_STORY290_CALLOTT-6=(Зітхає) Ну ось, мій рівень стресу підскочив ще вище...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Okay then. The school Director!
+PC01_STORY290_CALLDIRECTOR-1=Ну що ж. Тоді директорка школи!
+
+
+# Brok
+### ...
+PC01_STORY290_CALLDIRECTOR-2=...
+
+
+# Director
+### "Hello. This is a recording."
+PC01_STORY290_CALLDIRECTOR-3="Вітаю. Це автовідповідач."
+
+
+# Director
+### "I'm busy making preparations for the candidates who validated their diploma. Please be patient."
+PC01_STORY290_CALLDIRECTOR-4="Я зайнята підготовкою кандидатів, які підтвердили свій диплом. Будь ласка, зачекайте."
+
+
+# Unknown
+### (Click)
+PC01_STORY290_CALLDIRECTOR-5=(Клац)
+
+
+# Brok
+### Busy...? She's a machine! She should be able to multitask!
+PC01_STORY290_CALLDIRECTOR-6=Зайнята...? Вона ж машина! Вона мала б уміти робити кілька справ одночасно!
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh) Will this day never end...?
+PC01_STORY290_LEAVE-1=(Зітхає) Чи скінчиться колись цей день...?
+
+
+# Brok
+### I've left them a message but I'd better look around the city.
+PC01_STORY290_LEAVE-2=Я залишив їм повідомлення, але краще пошукати в місті.
+
+
+# Brok
+### Someone must know somethin'...
+PC01_STORY290_LEAVE-3=Хтось має щось знати...
+
+
+#----------------------------------------------------
+# Brok - Day 3 end - Brok comes back (after final boss) Can lead to Canonical, Fall and Slumer endings so there are dialog variations here!
+### You're here.
+PC01_STORY300_INIT1-1=Ти тут.
+
+
+# Brok
+### I was so scared to lose y...
+PC01_STORY300_INIT1-2=Я так боявся втратити т...
+
+
+# Graff
+### Stop this charade.
+PC01_STORY300_INIT1-3=Припини цей фарс.
+
+
+# Graff
+### I know everything.
+PC01_STORY300_INIT1-4=Я все знаю.
+
+
+# Brok
+### Uh...?
+PC01_STORY300_INIT1-5=Що...?
+
+
+#----------------------------------------------------
+# Graff
+### You...
+PC01_STORY300_INIT1B_VIOLENCE-1=Ти...
+
+
+# Graff
+### You killed that man...
+PC01_STORY300_INIT1B_VIOLENCE-2=Ти вбив того чоловіка...
+
+
+# Brok
+### I... didn't have a choice...
+PC01_STORY300_INIT1B_VIOLENCE-3=У мене... не було вибору...
+
+
+# Brok
+### He harmed you! Was ready to kill you!
+PC01_STORY300_INIT1B_VIOLENCE-4=Він зашкодив тобі! Готовий був тебе вбити!
+
+
+# Graff
+### You're wrong! He told me...
+PC01_STORY300_INIT1B_VIOLENCE-5=Ти помиляєшся! Він сказав мені...
+
+
+# Brok
+### Who cares what that beast said!
+PC01_STORY300_INIT1B_VIOLENCE-6=Кому є діло до того, що та тварюка сказала!
+
+
+# Brok
+### Wake up!
+PC01_STORY300_INIT1B_VIOLENCE-7=Прокинься!
+
+
+# Brok
+### This is our life here! Making hard decisions is part of it!
+PC01_STORY300_INIT1B_VIOLENCE-8=Це наше життя! Ухвалювати важкі рішення - його частина!
+
+
+# Brok
+### You never would've been safe with him around!
+PC01_STORY300_INIT1B_VIOLENCE-9=Ти ніколи не був би в безпеці, поки він живий!
+
+
+# Graff
+### Safe...? With you...?
+PC01_STORY300_INIT1B_VIOLENCE-10=У безпеці...? Поруч із тобою...?
+
+
+#----------------------------------------------------
+# Graff
+### I've seen it...
+PC01_STORY300_INIT1B-1=Я бачив це...
+
+
+# Graff
+### The violence...
+PC01_STORY300_INIT1B-2=Насилля...
+
+
+# Graff
+### That rage... in your eyes...
+PC01_STORY300_INIT1B-3=Лють... у твоїх очах...
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1B-4=...
+
+
+# Graff
+### What's it gonna be?
+PC01_STORY300_INIT1B-5=Як ти плануєш це зробити?
+
+
+# Graff
+### Drowned...? Choked to death?
+PC01_STORY300_INIT1B-6=Втопити...? Удушити до смерті?
+
+
+# Brok
+### What are you talking about?
+PC01_STORY300_INIT1B-7=Про що ти говориш?
+
+
+# Graff
+### The reason you got with my mother. The reason she died.
+PC01_STORY300_INIT1B-8=Причина, чому ти був з моєю матір'ю. Причина, чому вона померла.
+
+
+# Graff
+### The only reason you've been pretending to take care of me...
+PC01_STORY300_INIT1B-9=Єдина причина, чому ти вдавав, ніби дбаєш про мене...
+
+
+# Graff
+### So far.
+PC01_STORY300_INIT1B-10=Досі.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_STORY300_INIT1B2-1=...
+
+
+# Brok
+### I don't understand. Honest.
+PC01_STORY300_INIT1B2-2=Я не розумію. Чесно.
+
+
+# Graff
+### Obviously...
+PC01_STORY300_INIT1B2-3=Очевидно...
+
+
+# Brok
+### Listen. This has been a hard day for everyone.
+PC01_STORY300_INIT1B2-4=Послухай. Це був важкий день для всіх.
+
+
+# Brok
+### Tell me from the start...
+PC01_STORY300_INIT1B2-5=Розкажи мені все від початку...
+
+
+# Brok
+### Starting with your diploma.
+PC01_STORY300_INIT1B2-6=Починаючи з твого диплома.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott passed. Not me.
+PC01_STORY300_INIT1B2-7=Отт склав. Я - ні.
+
+
+# Brok
+### You... didn't...?
+PC01_STORY300_INIT1B2-8=Ти... ні...?
+
+
+# Brok
+### Oh no...
+PC01_STORY300_INIT1B2-9=О ні...
+
+
+# Graff
+### Does it even matter at this point...?
+PC01_STORY300_INIT1B2-10=Чи це взагалі має якесь значення...?
+
+
+# Brok
+### What happened...?
+PC01_STORY300_INIT1B2-11=Що сталося...?
+
+
+# Graff
+### As always... The same thing.
+PC01_STORY300_INIT1B2-12=Як завжди... Одне й те саме.
+
+
+#----------------------------------------------------
+# Graff
+### You.
+PC01_STORY300_INIT1C-1=Ти.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You're a Drumer.
+PC01_STORY300_INIT1C-2=Ти мешканець Верхів.
+
+
+# Brok
+### What...?
+PC01_STORY300_INIT1C-3=Що...?
+
+
+# Graff
+### Because of this lie, they inflicted a forty point penalty.
+PC01_STORY300_INIT1C-4=Через цю брехню мені призначили штраф у сорок балів.
+
+
+# Brok
+### That's a mistake!
+PC01_STORY300_INIT1C-5=Це якась помилка!
+
+
+# Brok
+### I told you, I was only a temporary cop...
+PC01_STORY300_INIT1C-6=Я ж казав тобі, що я був лише тимчасовим копом...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### I'll tell your Director! She will...
+PC01_STORY300_INIT1C-7=Я скажу вашій директорці! Вона...
+
+
+# Graff
+### Good luck with that!
+PC01_STORY300_INIT1C-8=Успіхів з цим!
+
+
+# Graff - Literally. The Director saves everyone in the last fight with Wes by overclocking and exploding with him
+### She just exploded, didn't she?!
+PC01_STORY300_INIT1C-9=Вона щойно вибухнула, чи не так?!
+
+
+# Graff
+### Why, by the way? I'd like to know.
+PC01_STORY300_INIT1C-10=До речі, чому? Хотів би я знати.
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1C-11=...
+
+
+# Brok
+### She... saved us all...
+PC01_STORY300_INIT1C-12=Вона... врятувала нас усіх...
+
+
+# Brok
+### I'll find another way!
+PC01_STORY300_INIT1C-13=Я знайду інший спосіб!
+
+
+# Graff
+### You know what's worse...?
+PC01_STORY300_INIT1C-14=Знаєш, що найгірше...?
+
+
+# Graff
+### You're starting to rub off on me...
+PC01_STORY300_INIT1C-15=Я починаю ставати схожим на тебе...
+
+
+#----------------------------------------------------
+# Graff
+### I couldn't admit defeat, so I... tried to cheat.
+PC01_STORY300_INIT1D-1=Я не міг визнати поразку, тому... спробував змахлювати.
+
+
+# Brok
+### You what?!
+PC01_STORY300_INIT1D-2=Ти що?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### That hacker...
+PC01_STORY300_INIT1D-3=Той гакер...
+
+
+# Graff
+### He said he could change the results.
+PC01_STORY300_INIT1D-4=Він сказав, що може змінити результати.
+
+
+# Graff
+### I accepted a deal.
+PC01_STORY300_INIT1D-5=Я уклав з ним угоду.
+
+
+# Brok
+### How...? What deal?
+PC01_STORY300_INIT1D-6=Як...? Яку угоду?
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1D-7=...
+
+
+# Brok
+### At least... Did it work?
+PC01_STORY300_INIT1D-8=Принаймні... Чи воно спрацювало?
+
+
+# Graff
+### I guess not...
+PC01_STORY300_INIT1D-9=Здається, ні...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### He sent Squealers after us. We got kidnapped...
+PC01_STORY300_INIT1D-10=Він підіслав до нас Верескунів. Нас викрали...
+
+
+# Graff
+### I...
+PC01_STORY300_INIT1D-11=Я...
+
+
+# Graff
+### I thought we were going to die... in those filthy sewers...
+PC01_STORY300_INIT1D-12=Я думав, ми помремо... у тій брудній каналізації...
+
+
+# Graff
+### You weren't there...!
+PC01_STORY300_INIT1D-13=Тебе там не було...!
+
+
+# Brok
+### I know... I'm... sorry...
+PC01_STORY300_INIT1D-14=Я знаю... Пробач мені...
+
+
+# Brok
+### I looked for you... But...
+PC01_STORY300_INIT1D-15=Я шукав тебе... Але...
+
+
+# Brok
+### Things got complex on my side as well... to say the least.
+PC01_STORY300_INIT1D-16=З мого боку все теж ускладнилося... м'яко кажучи.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### But I don't care what it takes! You deserve to be a Drumer!
+PC01_STORY300_INIT1D-17=Але мені байдуже, чого б це мені не коштувало! Ти заслуговуєш жити у Верхах!
+
+
+# Brok
+### I'll walk through fire for you...
+PC01_STORY300_INIT1D-18=Я крізь вогонь пройду заради тебе...
+
+
+# Brok
+### I'll do...anything ! You gotta believe me...!
+PC01_STORY300_INIT1D-19=Я зроблю... що завгодно! Повір мені...!
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1D-20=...
+
+
+# Graff
+### Yeah... How far would you go, huh...
+PC01_STORY300_INIT1D-21=Так... І як далеко ти пішов би, га...
+
+
+# Graff
+### To get what you want...
+PC01_STORY300_INIT1D-22=Щоб отримати бажане...
+
+
+# Brok
+### That rat... It was him, wasn't it?...
+PC01_STORY300_INIT1D-23=Той щур... Це був він, чи не так...?
+
+
+# Brok
+### Can't you see? He's turned you against me!
+PC01_STORY300_INIT1D-24=Хіба ти не бачиш? Він налаштував тебе проти мене!
+
+
+# Brok
+### He has a grudge!
+PC01_STORY300_INIT1D-25=Він тримає образу!
+
+
+# Graff
+### For what reason?!
+PC01_STORY300_INIT1D-26=З якої причини?!
+
+
+# Graff
+### Say it!
+PC01_STORY300_INIT1D-27=Скажи це!
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1D-28=...
+
+
+# Brok
+### I... I'm not sure.
+PC01_STORY300_INIT1D-29=Я... Я не впевнений.
+
+
+# Graff
+### A lie! Another lie!
+PC01_STORY300_INIT1D-30=Брехня! Ще одна брехня!
+
+
+# Brok
+### I swear!
+PC01_STORY300_INIT1D-31=Я присягаюся!
+
+
+# Brok
+### Ever since the accident... I've lost some memories.
+PC01_STORY300_INIT1D-32=Після того нещасного випадку... я втратив частину спогадів.
+
+
+# Brok
+### And I know it's the same for you!
+PC01_STORY300_INIT1D-33=І я знаю, що у тебе та сама проблема!
+
+
+# Brok
+### Why won't you understand?!
+PC01_STORY300_INIT1D-34=Чому ти не можеш зрозуміти?!
+
+
+# Graff
+### Because... I've got proof!
+PC01_STORY300_INIT1D-35=Бо... у мене є доказ!
+
+
+#----------------------------------------------------
+# Brok
+### A picture...?
+PC01_STORY300_INIT1E-1=Фото...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### This happened at Autarchism Day.
+PC01_STORY300_INIT1E-2=Це сталося в день Аутархізму.
+
+
+# Graff
+### You were there.
+PC01_STORY300_INIT1E-3=Ти був там.
+
+
+# Graff
+### You're responsible for the banishment of their clan.
+PC01_STORY300_INIT1E-4=Ти відповідальний за вигнання їхнього клану.
+
+
+# Brok
+### I... could not...
+PC01_STORY300_INIT1E-5=Я... не міг...
+
+
+# Brok
+### It's a fake! Obviously...!
+PC01_STORY300_INIT1E-6=Це підробка! Очевидно...!
+
+
+#----------------------------------------------------
+# Graff
+### Really?
+PC01_STORY300_INIT1E2-1=Справді?
+
+
+# Graff
+### Prove it.
+PC01_STORY300_INIT1E2-2=Доведи це.
+
+
+# Brok
+### Well...
+PC01_STORY300_INIT1E2-3=Ну...
+
+
+# Brok
+### Look!
+PC01_STORY300_INIT1E2-4=Подивися!
+
+
+# Brok
+### I couldn't have this hat!
+PC01_STORY300_INIT1E2-5=У мене не могло бути цього капелюха!
+
+
+# Brok
+### You offered it to me when we moved into this apartment. Remember?
+PC01_STORY300_INIT1E2-6=Ти подарував його мені, коли ми переїхали в цю квартиру. Пам'ятаєш?
+
+
+# Brok
+### So, I got this hat four years after this picture supposedly took place.
+PC01_STORY300_INIT1E2-7=Отже, цей капелюх з'явився в мене лише через чотири роки після того, як нібито зробили це фото.
+
+
+# Brok
+### It's a fake!
+PC01_STORY300_INIT1E2-8=Це фальшивка!
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1E2-9=...
+
+
+# Graff
+### I don't believe it.
+PC01_STORY300_INIT1E2-10=Я не вірю в це.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Those Squealers. They have no access to technology like this.
+PC01_STORY300_INIT1E2-11=Ті Верескуни. Вони не мають доступу до таких технологій.
+
+
+# Graff
+### They couldn't fake it!
+PC01_STORY300_INIT1E2-12=Вони не могли б цього підробити!
+
+
+# Brok
+### Yet they did.
+PC01_STORY300_INIT1E2-13=І все ж зробили це.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY300_INIT1E3-1=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott said something earlier...
+PC01_STORY300_INIT1E3-2=Отт дещо сказав раніше...
+
+
+# Graff
+### "Can someone really be family..."
+PC01_STORY300_INIT1E3-3="Чи можуть бути родиною..."
+
+
+# Graff
+### "...when they spend their life lying to the people close to them?..."
+PC01_STORY300_INIT1E3-4="...ті, хто проводить життя, брешучи близьким...?"
+
+
+# Graff
+### You said you had no more secrets...
+PC01_STORY300_INIT1E3-5=Ти казав, що в тебе більше немає секретів...
+
+
+# Graff
+### But you lied to me. Again.
+PC01_STORY300_INIT1E3-6=Але ти знову збрехав мені. Знову.
+
+
+# Graff
+### How many times has it been already?
+PC01_STORY300_INIT1E3-7=Скільки разів це вже було?
+
+
+# Brok
+### I don't get it...
+PC01_STORY300_INIT1E3-8=Я не розумію...
+
+
+# Graff
+### Take a look.
+PC01_STORY300_INIT1E3-9=Подивися.
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1E3-10=...
+
+
+# Brok
+### That bank account...
+PC01_STORY300_INIT1E3-11=Цей банківський рахунок...
+
+
+# Graff
+### That's my mother's name!
+PC01_STORY300_INIT1E3-12=На ньому ім'я моєї матері!
+
+
+# Graff
+### Explain!
+PC01_STORY300_INIT1E3-13=Поясни!
+
+
+# Graff
+### Why didn't you ever tell me?!
+PC01_STORY300_INIT1E3-14=Чому ти ніколи не казав мені?!
+
+
+# Graff
+### It's my inheritance!
+PC01_STORY300_INIT1E3-15=Це моя спадщина!
+
+
+# Brok
+### No...
+PC01_STORY300_INIT1E3-16=Ні...
+
+
+# Brok
+### She did open that account years ago.
+PC01_STORY300_INIT1E3-17=Вона справді відкрила той рахунок багато років тому.
+
+
+# Brok
+### But this money... It's not hers.
+PC01_STORY300_INIT1E3-18=Але ці гроші... Вони не її.
+
+
+# Graff
+### You mean it's yours?!
+PC01_STORY300_INIT1E3-19=Хочеш сказати, вони твої?!
+
+
+# Brok
+### ...Yes.
+PC01_STORY300_INIT1E3-20=...Так.
+
+
+#----------------------------------------------------
+# Graff
+### N... No way...!
+PC01_STORY300_INIT1E3B-1=Н... Не може бути...!
+
+
+# Graff
+### He was right...
+PC01_STORY300_INIT1E3B-2=Він був правий...
+
+
+# Brok
+### Wait! Listen to me!
+PC01_STORY300_INIT1E3B-3=Зачекай! Послухай мене!
+
+
+# Brok
+### Maybe you won't believe me but...
+PC01_STORY300_INIT1E3B-4=Може, ти й мені не повіриш, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Here in the Slums, there's no way to open a savings account.
+PC01_STORY300_INIT1E3B-5=Тут у Нетрях немає жодного способу відкрити ощадний рахунок.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### When I was put in charge of you... I knew you'd want to become a Drumer someday.
+PC01_STORY300_INIT1E3B-6=Коли я став твоїм опікуном... я знав, що ти колись захочеш жити у Верхах.
+
+
+# Brok
+### But your mother... She was the spender type.
+PC01_STORY300_INIT1E3B-7=Але твоя мати... Вона була з тих, хто все розтринькує.
+
+
+# Brok
+### There was nothing left.
+PC01_STORY300_INIT1E3B-8=Нічого не залишилося.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### I couldn't bear the thought of you starting a life under the Dome with zero credit, so...
+PC01_STORY300_INIT1E3B-9=Я не міг терпіти думки про те, що ти розпочнеш життя під Куполом з нулем на рахунку, тож...
+
+
+# Brok
+### I saved up money on this account.
+PC01_STORY300_INIT1E3B-10=Я збирав гроші на цьому рахунку.
+
+
+# Brok
+### For you.
+PC01_STORY300_INIT1E3B-11=Для тебе.
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1E3B-12=...
+
+
+# Graff
+### You're right. I don't believe it.
+PC01_STORY300_INIT1E3B-13=Дійсно. Я в це не вірю.
+
+
+# Brok
+### It's the truth!
+PC01_STORY300_INIT1E3B-14=Це правда!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 50 Unis. Each day, by automatic wire transfer.
+PC01_STORY300_INIT1E3B-15=50 Юні. Щодня, автоматичним банківським переказом.
+
+
+# Brok
+### It's been almost six years. Do the math.
+PC01_STORY300_INIT1E3B-16=Минуло майже шість років. Порахуй.
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1E3B-17=...
+
+
+#----------------------------------------------------
+# Brok
+### Huh?
+PC01_STORY300_INIT1B2_VIOLENT-1=Га?
+
+
+#----------------------------------------------------
+# Graff
+### This.
+PC01_STORY300_INIT1B2_VIOLENT2-1=Ось.
+
+
+#----------------------------------------------------
+# Graff
+### Just another lie...
+PC01_STORY300_INIT1F_VIOLENCE-1=Ще одна брехня...
+
+
+# Graff
+### But it doesn't matter.
+PC01_STORY300_INIT1F_VIOLENCE-2=Але це вже не має значення.
+
+
+# Graff
+### Because of all the trouble you've caused me lately...
+PC01_STORY300_INIT1F_VIOLENCE-3=Через усі ті клопоти, які ти завдав мені останнім часом...
+
+
+# Graff
+### I couldn't pass.
+PC01_STORY300_INIT1F_VIOLENCE-4=Я не склав.
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1F_VIOLENCE-5=...
+
+
+# Graff
+### So I attempted to cheat.
+PC01_STORY300_INIT1F_VIOLENCE-6=Тому я спробував змахлювати.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### That hacker made me an offer. But he ended up turning us in to those Squealers.
+PC01_STORY300_INIT1F_VIOLENCE-7=Той гакер зробив мені пропозицію. Але врешті-решт здав нас тим Верескунам.
+
+
+# Brok
+### Wait... What are you saying?
+PC01_STORY300_INIT1F_VIOLENCE-8=Зачекай... Про що ти кажеш?
+
+
+#----------------------------------------------------
+# Brok
+### I...
+PC01_STORY300_INIT1F-1=Я...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I wanted to make this a surprise. For the day you'd move to the Drums.
+PC01_STORY300_INIT1F-2=Я хотів зробити тобі сюрприз. На день, коли ти переїдеш на Верхи.
+
+
+# Graff
+### Newsflash!
+PC01_STORY300_INIT1F-3=Сенсація!
+
+
+# Graff
+### This will NEVER happen...!
+PC01_STORY300_INIT1F-4=Цього НІКОЛИ не станеться...!
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1F-5=...
+
+
+# Graff
+### Wait... Wait...
+PC01_STORY300_INIT1F-6=Стій... Зачекай...
+
+
+# Graff
+### You're telling me...
+PC01_STORY300_INIT1F-7=Ти хочеш сказати...
+
+
+# Graff
+### We've been living this horrible existence...
+PC01_STORY300_INIT1F-8=Ми жили цим жахливим життям...
+
+
+# Graff
+### Despite having access to all this money?!
+PC01_STORY300_INIT1F-9=Попри те, що мали доступ до всіх цих грошей?!
+
+
+# Graff
+### All these times I've been starved... Miserable...!
+PC01_STORY300_INIT1F-10=Увесь цей час, коли я голодував... Був нещасним...!
+
+
+# Graff
+### For nothing?!
+PC01_STORY300_INIT1F-11=Просто так?!
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1F-12=...
+
+
+# Brok
+### Not for nothin'...
+PC01_STORY300_INIT1F-13=Не просто так...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 50 Unis alone ain't much, but accumulated over six years...
+PC01_STORY300_INIT1F-14=Самі лише 50 Юні - це небагато, але накопичені за шість років...
+
+
+# Brok
+### It would give you a better life... Outside of this junk area.
+PC01_STORY300_INIT1F-15=Вони дали б тобі краще життя... Поза цим смітником.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY300_INIT1G-1=...
+
+
+# Graff
+### A better life...
+PC01_STORY300_INIT1G-2=Краще життя...
+
+
+# Graff
+### You know how you could achieve this...?!
+PC01_STORY300_INIT1G-3=Знаєш, як би ти міг його забезпечити...?!
+
+
+# Graff
+### By getting out of it.
+PC01_STORY300_INIT1G-4=Зникнувши з нього.
+
+
+# Brok
+### Please... Don't...
+PC01_STORY300_INIT1G-5=Будь ласка... Не треба...
+
+
+# Brok
+### I...
+PC01_STORY300_INIT1G-6=Я...
+
+
+# Brok
+### I'm really sorry...
+PC01_STORY300_INIT1G-7=Мені справді шкода...
+
+
+# Graff
+### Sorry won't cut it!
+PC01_STORY300_INIT1G-8=Вибачення тут не допоможуть!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### That Squealer was right.
+PC01_STORY300_INIT1G-9=Той Верескун мав рацію.
+
+
+# Graff
+### You only bring problems... to all the people around you.
+PC01_STORY300_INIT1G-10=Ти приносиш лише проблеми... усім, хто навколо тебе.
+
+
+# Brok
+### Listen...
+PC01_STORY300_INIT1G-11=Послухай...
+
+
+# Graff
+### Get out of here!
+PC01_STORY300_INIT1G-12=Забирайся звідси!
+
+
+#----------------------------------------------------
+# Graff
+### I'm almost an adult...
+PC01_STORY300_INIT1G2-1=Я вже майже дорослий...
+
+
+# Graff
+### I don't need you anymore!
+PC01_STORY300_INIT1G2-2=Ти мені більше не потрібен!
+
+
+# Brok
+### You're being unfair!
+PC01_STORY300_INIT1G2-3=Ти несправедливий до мене!
+
+
+# Brok
+### Can't you see? I did all of this for you.
+PC01_STORY300_INIT1G2-4=Хіба ти не бачиш? Я все це робив для тебе.
+
+
+# Brok
+### I just saved our world! And that's how you repay me?
+PC01_STORY300_INIT1G2-5=Я тільки-но врятував наш світ! І ось як ти мені дякуєш?
+
+
+# Graff
+### Saved?!
+PC01_STORY300_INIT1G2-6=Врятував?!
+
+
+# Graff
+### From my point of view, you just destroyed that robot.
+PC01_STORY300_INIT1G2-7=Як на мене, ти просто знищив того робота.
+
+
+# Graff
+### No, countless bots!
+PC01_STORY300_INIT1G2-8=Ні, незліченну кількість роботів!
+
+
+# Graff
+### You've destroyed our rulers.
+PC01_STORY300_INIT1G2-9=Ти знищив наших правителів.
+
+
+# Graff
+### My teacher...
+PC01_STORY300_INIT1G2-10=Мого вчителя...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's uncle...
+PC01_STORY300_INIT1G2-11=Дядька Отта...
+
+
+#----------------------------------------------------
+# Graff
+### You murdered someone. Right in front of me!
+PC01_STORY300_INITG2_VIOLENCE-1=Ти вбив когось. Просто в мене на очах!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### And if we hadn't been here, you would have beaten that Squealer to death...!
+PC01_STORY300_INITG2_NORMAL-1=І якби нас там не було, ти б забив того Верескуна до смерті...!
+
+
+#----------------------------------------------------
+# Graff
+### And who knows how many others?
+PC01_STORY300_INITG3-1=І хтозна, скількох ще?
+
+
+# Graff
+### Destroy. That's the only thing you do.
+PC01_STORY300_INITG3-2=Руйнувати. Це єдине, що ти вмієш.
+
+
+# Graff
+### You destroy everything around you!
+PC01_STORY300_INITG3-3=Ти нищиш усе навколо себе!
+
+
+#----------------------------------------------------
+# Brok
+### Stop this!
+PC01_STORY300_INITG4_VIOLENCE-1=Припини!
+
+
+# Brok
+### If she was here... What would your mother think...?
+PC01_STORY300_INITG4_VIOLENCE-2=Якби вона була тут... Що б сказала твоя мати...?
+
+
+#----------------------------------------------------
+# Graff
+### Everything's your fault...
+PC01_STORY300_INITG4-1=Ти в усьому винен...
+
+
+# Brok
+### Hey...
+PC01_STORY300_INITG4-2=Гей...
+
+
+# Graff
+### Arghhh!!!
+PC01_STORY300_INITG4-3=А-а-ааа!!!
+
+
+# Graff
+### Don't touch me!!!
+PC01_STORY300_INITG4-4=Не торкайся мене!!!
+
+
+# Graff
+### Stay away...!
+PC01_STORY300_INITG4-5=Тримайся подалі...!
+
+
+# Graff
+### I... I can defend myself...!
+PC01_STORY300_INITG4-6=Я... Я можу за себе постояти...!
+
+
+# Brok
+### Are you... afraid of me?
+PC01_STORY300_INITG4-7=Ти що... боїшся мене?
+
+
+# Brok
+### You know I'd never hurt ya.
+PC01_STORY300_INITG4-8=Ти знаєш, я ніколи б тебе не скривдив.
+
+
+# Graff
+### I...
+PC01_STORY300_INITG4-9=Я...
+
+
+# Graff
+### I don't know what to think!
+PC01_STORY300_INITG4-10=Я не знаю, що й думати!
+
+
+# Graff
+### All I know is...
+PC01_STORY300_INITG4-11=Усе, що я знаю...
+
+
+# Graff
+### I don't want you around anymore.
+PC01_STORY300_INITG4-12=Я більше не хочу тебе бачити поруч.
+
+
+# Graff
+### I'm sick of your lies!
+PC01_STORY300_INITG4-13=Мене нудить від твоєї брехні!
+
+
+# Graff
+### You've been using me. All you care about is the money!
+PC01_STORY300_INITG4-14=Ти користувався мною. Тебе хвилюють лише гроші!
+
+
+# Graff
+### Well, guess what...
+PC01_STORY300_INITG4-15=Що ж, знаєш що...
+
+
+#----------------------------------------------------
+# Graff
+### The money is gone!
+PC01_STORY300_INITG4B-1=Грошей більше немає!
+
+
+# Brok
+### What?!
+PC01_STORY300_INITG4B-2=Що?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### I paid the hacker with it. 100,000 Unis.
+PC01_STORY300_INITG4B-3=Я заплатив гакерові. 100,000 Юні.
+
+
+# Graff
+### And now... I guess they've evaporated.
+PC01_STORY300_INITG4B-4=І тепер... гадаю, вони випарувалися.
+
+
+# Graff
+### Vanished.
+PC01_STORY300_INITG4B-5=Зникли.
+
+
+# Brok
+### Are you insane...?!
+PC01_STORY300_INITG4B-6=Ти що, з глузду з'їхав...?!
+
+
+# Brok
+### What have you done?!
+PC01_STORY300_INITG4B-7=Що ти наробив?!
+
+
+# Brok
+### For years, I killed myself to save this money, through blood, sweat, and tears!
+PC01_STORY300_INITG4B-8=Роками я виснажував себе, працював, щоб заощадити ці гроші - ціною крові, поту та сліз!
+
+
+# Graff
+### Work?!
+PC01_STORY300_INITG4B-9=Працював?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Is that a new word for "stealing?" Like you did with those Squealers yesterday?!
+PC01_STORY300_INITG4B-10=Це новий синонім до слова "красти"? Як ти зробив із тими Верескунами вчора?!
+
+
+# Brok
+### How could you do this...
+PC01_STORY300_INITG4B-11=Як ти міг таке зробити...
+
+
+# Graff
+### I had no choice! I had to try and fix the mess you've caused!
+PC01_STORY300_INITG4B-12=У мене не було вибору! Я мусив виправити безлад, який ти влаштував!
+
+
+# Brok
+### The mess I have caused?!
+PC01_STORY300_INITG4B-13=Безлад, який я влаштував?!
+
+
+# Brok
+### You think everything's easy for me?!
+PC01_STORY300_INITG4B-14=Ти гадаєш, мені все так легко дається?!
+
+
+# Brok
+### I never asked for any of this!
+PC01_STORY300_INITG4B-15=Я ніколи про це не просив!
+
+
+# Brok
+### I had never raised a child!
+PC01_STORY300_INITG4B-16=Я ніколи доти не виховував дитину!
+
+
+# Brok
+### And I shouldn't!
+PC01_STORY300_INITG4B-17=І не мав би!
+
+
+# Graff
+### No kidding!
+PC01_STORY300_INITG4B-18=Та невже!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY300_INIT1H-1=...
+
+
+# Graff
+### My mother...
+PC01_STORY300_INIT1H-2=Моя мати...
+
+
+# Graff
+### I barely remember her.
+PC01_STORY300_INIT1H-3=Я ледве її пам'ятаю.
+
+
+# Graff
+### And yet... I hate her!
+PC01_STORY300_INIT1H-4=І все ж... я ненавиджу її!
+
+
+# Graff
+### All she ever did was make me and die!
+PC01_STORY300_INIT1H-5=Усе, що вона зробила - народила мене і померла!
+
+
+# Brok
+### How dare you?!
+PC01_STORY300_INIT1H-6=Як ти смієш?!
+
+
+# Brok
+### I forbid you to talk about your mother like this!
+PC01_STORY300_INIT1H-7=Я забороняю тобі так говорити про свою матір!
+
+
+# Graff
+### Who cares!
+PC01_STORY300_INIT1H-8=Кого це хвилює!
+
+
+# Graff
+### She's dead!
+PC01_STORY300_INIT1H-9=Вона мертва!
+
+
+# Brok
+### Stop! Now you've gone too far...!
+PC01_STORY300_INIT1H-10=Зупинись! Це вже занадто...!
+
+
+# Graff
+### What are you gonna do...? Kill me...?
+PC01_STORY300_INIT1H-11=І що ти зробиш...? Вб'єш мене...?
+
+
+# Graff
+### Like you killed her...?
+PC01_STORY300_INIT1H-12=Як убив її...?
+
+
+# Brok
+### I'd never...
+PC01_STORY300_INIT1H-13=Я б ніколи...
+
+
+# Graff
+### Oh, I don't blame you for this! She deserved it anyway!
+PC01_STORY300_INIT1H-14=О, я не звинувачую тебе в цьому! Вона все одно на це заслужила!
+
+
+# Graff
+### She was trash, a bag of decaying worms...
+PC01_STORY300_INIT1H-15=Вона була сміттям, мішком із гнилими хробаками...
+
+
+# Graff
+### Like you!
+PC01_STORY300_INIT1H-16=Як і ти!
+
+
+# Brok
+### ENOUGH!!!
+PC01_STORY300_INIT1H-17=ДОСИТЬ!!!
+
+
+#----------------------------------------------------
+# Brok - FALL ENDING - Brok has been so violent throughout the game that he accidentally... kills Graff.
+### I...
+PC01_STORY300_INIT1H_VIOLENT-1=Я...
+
+
+# Brok
+### DID NOT...
+PC01_STORY300_INIT1H_VIOLENT-2=НЕ...
+
+
+# Brok
+### KILL...
+PC01_STORY300_INIT1H_VIOLENT-3=ВБИВАВ...
+
+
+# Brok
+### HER...!
+PC01_STORY300_INIT1H_VIOLENT-4=ЇЇ...!
+
+
+# Graff
+### Stop...!
+PC01_STORY300_INIT1H_VIOLENT-5=Перестань...!
+
+
+# Graff
+### That...hurts!
+PC01_STORY300_INIT1H_VIOLENT-6=Боляче...!
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1H_VIOLENT-7=...
+
+
+# Graff
+### I...
+PC01_STORY300_INIT1H_VIOLENT-8=Я...
+
+
+# Graff
+### Remember...
+PC01_STORY300_INIT1H_VIOLENT-9=Пам'ятаю...
+
+
+# Graff
+### That... feeling...
+PC01_STORY300_INIT1H_VIOLENT-10=Це... відчуття...
+
+
+# Graff
+### ...
+PC01_STORY300_INIT1H_VIOLENT-11=...
+
+
+#----------------------------------------------------
+# Brok
+### (Pant, pant)
+PC01_STORY300_INIT1H_VIOLENT2-1=(Важко дихає)
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT2-2=...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT2-3=...
+
+
+# Brok
+### No...
+PC01_STORY300_INIT1H_VIOLENT2-4=Ні...
+
+
+# Brok
+### I'm sorry... I don't know...
+PC01_STORY300_INIT1H_VIOLENT2-5=Вибач... Я не знаю...
+
+
+# Brok
+### What possessed me...
+PC01_STORY300_INIT1H_VIOLENT2-6=Що на мене найшло...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT2-7=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...?
+PC01_STORY300_INIT1H_VIOLENT2-8=Граффе...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_STORY300_INIT1H_VIOLENT2-9=Граффе!
+
+
+# Brok
+### ...!!!
+PC01_STORY300_INIT1H_VIOLENT2-10=...!!!
+
+
+# Brok
+### N...
+PC01_STORY300_INIT1H_VIOLENT2-11=Н...
+
+
+# Brok
+### Noooooo!!!
+PC01_STORY300_INIT1H_VIOLENT2-12=Ніііііі!!!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Come back to me!
+PC01_STORY300_INIT1H_VIOLENT2-13=Граффе! Повернися до мене!
+
+
+#----------------------------------------------------
+# Brok
+### This... can't be...!
+PC01_STORY300_INIT1H_VIOLENT3-1=Цього... не може бути...!
+
+
+# Brok
+### What have I done...
+PC01_STORY300_INIT1H_VIOLENT3-2=Що я наробив...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT3-3=...
+
+
+# Brok
+### You...
+PC01_STORY300_INIT1H_VIOLENT3-4=Ти...
+
+
+# Brok
+### You tried to warn me...
+PC01_STORY300_INIT1H_VIOLENT3-5=Ти намагався попередити мене...
+
+
+# Brok
+### But I wouldn't listen...
+PC01_STORY300_INIT1H_VIOLENT3-6=Але я не хотів слухати...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT3-7=...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT1H_VIOLENT3-8=...
+
+
+# Brok
+### NOOOOOOOOOOOOOO OOOOOOOO!!!
+PC01_STORY300_INIT1H_VIOLENT3-9=НІІІІІІІІІІІІІІ ІІІІІІІІ!!!
+
+
+#----------------------------------------------------
+# Brok
+### I...
+PC01_STORY300_INIT1H_VIOLENT4-1=Я...
+
+
+# Brok
+### Destroy...
+PC01_STORY300_INIT1H_VIOLENT4-2=Знищую...
+
+
+# Brok
+### Everything...
+PC01_STORY300_INIT1H_VIOLENT4-3=Усе...
+
+
+#----------------------------------------------------
+# Unknown - Brok is angry and hits the table. Floor lamp falls on Graff (Canonical ending)
+### (SMASH!)
+PC01_STORY300_INIT1H2-1=(УДАР!)
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_STORY300_INIT1H3-1=...!
+
+
+# Brok
+### No!!!
+PC01_STORY300_INIT1H3-2=Ні!!!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_STORY300_INIT1H3-3=Граффе!
+
+
+# Brok
+### You... You're okay...?
+PC01_STORY300_INIT1H3-4=Ти... Ти в порядку...?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY300_INIT2-1=...
+
+
+# Graff
+### Leave me alone...
+PC01_STORY300_INIT2-2=Залиш мене в спокої...
+
+
+# Brok
+### ...
+PC01_STORY300_INIT2-3=...
+
+
+# Graff
+### You heard me...
+PC01_STORY300_INIT2-4=Ти чув мене...
+
+
+# Graff
+### GO. AWAY!!!
+PC01_STORY300_INIT2-5=ЗАБИРАЙСЯ. ГЕТЬ!!!
+
+
+#----------------------------------------------------
+# Brok
+### Son...
+PC01_STORY300_INIT3-1=Синку...
+
+
+# Graff
+### NO!!!
+PC01_STORY300_INIT3-2=НІ!!!
+
+
+# Graff
+### I'll never be your son!
+PC01_STORY300_INIT3-3=Я ніколи не буду твоїм сином!
+
+
+# Graff
+### You're not my father! You'll never be!!!
+PC01_STORY300_INIT3-4=Ти мені не батько! І ніколи ним не будеш!!!
+
+
+# Brok
+### ...
+PC01_STORY300_INIT3-5=...
+
+
+#----------------------------------------------------
+# Graff - Graff feels really bad after this final argument with Brok
+### (Cries)
+PC01_STORY300_GRAFF1-1=(Плаче)
+
+
+# Graff
+### It's over...
+PC01_STORY300_GRAFF1-2=Усе скінчено...
+
+
+# Graff
+### I'm stuck... in this dump... Forever...
+PC01_STORY300_GRAFF1-3=Я застряг... на цьому смітнику... Назавжди...
+
+
+# Graff
+### I...
+PC01_STORY300_GRAFF1-4=Я...
+
+
+# Graff
+### I don't deserve this...
+PC01_STORY300_GRAFF1-5=Я на це не заслужив...
+
+
+#----------------------------------------------------
+# Graff
+### No...
+PC01_STORY300_GRAFF1B-1=Ні...
+
+
+# Graff
+### Maybe I do...
+PC01_STORY300_GRAFF1B-2=Може, й заслужив...
+
+
+# Graff
+### ...
+PC01_STORY300_GRAFF1B-3=...
+
+
+# Graff
+### My back hurts...
+PC01_STORY300_GRAFF1B-4=Спина болить...
+
+
+# Graff
+### Must be my punishment...
+PC01_STORY300_GRAFF1B-5=Мабуть, це моє покарання...
+
+
+# Graff
+### For saying all these things.
+PC01_STORY300_GRAFF1B-6=За те, що наговорив усього цього.
+
+
+#----------------------------------------------------
+# Graff
+### He saved us...
+PC01_STORY300_GRAFF1C-1=Він урятував нас...
+
+
+# Graff
+### Saved me...
+PC01_STORY300_GRAFF1C-2=Урятував мене...
+
+
+# Graff
+### And once again...
+PC01_STORY300_GRAFF1C-3=І знову...
+
+
+# Graff
+### All I did was...
+PC01_STORY300_GRAFF1C-4=Усе, що я зробив - це...
+
+
+# Graff
+### ...
+PC01_STORY300_GRAFF1C-5=...
+
+
+# Graff
+### You're wrong...
+PC01_STORY300_GRAFF1C-6=Ти помиляєшся...
+
+
+# Graff
+### I don't deserve... a good future...
+PC01_STORY300_GRAFF1C-7=Я не заслуговую... на хороше майбутнє...
+
+
+# Graff
+### It's my fault...
+PC01_STORY300_GRAFF1C-8=Це моя провина...
+
+
+# Graff
+### (Sigh)
+PC01_STORY300_GRAFF1C-9=(Зітхає)
+
+
+# Graff
+### ...?
+PC01_STORY300_GRAFF1C-10=...?
+
+
+# Graff
+### A notification?
+PC01_STORY300_GRAFF1C-11=Сповіщення?
+
+
+# Nmerchat
+### "HI. HOW ARE YOU?"
+PC01_STORY300_GRAFF1C-12="ПРИВІТ. ЯК ТИ?"
+
+
+# Graff
+### ...
+PC01_STORY300_GRAFF1C-13=...
+
+
+# Graff
+### It's that guy...
+PC01_STORY300_GRAFF1C-14=Це той чувак...
+
+
+# Graffchat
+### "Bad."
+PC01_STORY300_GRAFF1C-15="Погано."
+
+
+# Graffchat
+### "Please don't talk to me..."
+PC01_STORY300_GRAFF1C-16="Будь ласка, не пиши мені..."
+
+
+# Nmerchat
+### "YOUR OLD MAN IS MAKING THINGS ROUGH FOR YOU. AM I RIGHT?"
+PC01_STORY300_GRAFF1C-17="ТВІЙ СТАРИЙ УСКЛАДНЮЄ ТОБІ ЖИТТЯ. ЧИ НЕ ТАК?"
+
+
+# Graffchat
+### "How did you know?"
+PC01_STORY300_GRAFF1C-18="Звідки ти знаєш?"
+
+
+# Nmerchat
+### "OBVIOUS"
+PC01_STORY300_GRAFF1C-19="ЦЕ ОЧЕВИДНО"
+
+
+# Graffchat
+### "I'm incorrigible."
+PC01_STORY300_GRAFF1C-20="Я невиправний."
+
+
+# Graffchat
+### "I just blamed him for everything that goes wrong in my life."
+PC01_STORY300_GRAFF1C-21="Я щойно звинуватив його в усьому поганому в моєму житті."
+
+
+# Graffchat
+### "There's something wrong with me."
+PC01_STORY300_GRAFF1C-22="Зі мною щось не так."
+
+
+# Nmerchat
+### "NO"
+PC01_STORY300_GRAFF1C-23="НІ"
+
+
+# Nmerchat
+### "YOU'RE VERY CAPABLE"
+PC01_STORY300_GRAFF1C-24="ТИ ДУЖЕ ЗДІБНИЙ"
+
+
+# Nmerchat
+### "YOU JUST NEED TO PROVE IT TO YOURSELF"
+PC01_STORY300_GRAFF1C-25="ТОБІ ПРОСТО ПОТРІБНО ДОВЕСТИ ЦЕ СОБІ"
+
+
+# Nmerchat
+### "WHAT'S WRONG IS THE INFLUENCE HE HAS ON YOU"
+PC01_STORY300_GRAFF1C-26="УСЯ ПРОБЛЕМА - В ЙОГО ВПЛИВІ НА ТЕБЕ"
+
+
+# Nmerchat
+### "WE DON'T KNOW EACH OTHER WELL BUT I FEEL YOU CAN'T TRULY BE YOURSELF BY LIVING WITH HIM"
+PC01_STORY300_GRAFF1C-27="МИ ПОГАНО ЗНАЙОМІ, АЛЕ Я ВІДЧУВАЮ, ЩО ТИ НЕ МОЖЕШ БУТИ СОБОЮ, ЖИВУЧИ З НИМ"
+
+
+# Nmerchat
+### "TRUST ME"
+PC01_STORY300_GRAFF1C-28="ДОВІРСЯ МЕНІ"
+
+
+# Graffchat
+### "So what are you suggesting?"
+PC01_STORY300_GRAFF1C-29="І що ти пропонуєш?"
+
+
+# Nmerchat
+### "YOU KNOW WHAT YOU HAVE TO DO"
+PC01_STORY300_GRAFF1C-30="ТИ ЗНАЄШ, ЩО МУСИШ ЗРОБИТИ"
+
+
+# Nmerchat
+### "IT'S UP TO YOU"
+PC01_STORY300_GRAFF1C-31="ВИБІР ЗА ТОБОЮ"
+
+
+# Graffchat
+### "What do you mean...?"
+PC01_STORY300_GRAFF1C-32="Що ти маєш на увазі...?"
+
+
+# Graff
+### ...
+PC01_STORY300_GRAFF1C-33=...
+
+
+#----------------------------------------------------
+# Graff
+### I'm sorry but... I need to ask.
+PC01_STORY300_INVOICEPAID-1=Вибач, але... Я мушу спитати.
+
+
+# Graffchat
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### "You're not a stranger, are you?"
+PC01_STORY300_INVOICEPAID-2="Ти ж не незнайомець, правда?"
+
+
+# Nmerchat
+### "RIGHT"
+PC01_STORY300_INVOICEPAID-3="ПРАВИЛЬНО"
+
+
+# Graffchat
+### "Who are you exactly...?"
+PC01_STORY300_INVOICEPAID-4="Хто ти взагалі такий...?"
+
+
+# Graff
+### ...
+PC01_STORY300_INVOICEPAID-5=...
+
+
+# Nmerchat
+### "SOMEONE YOU KNEW..."
+PC01_STORY300_INVOICEPAID-6="ТОЙ, КОГО ТИ ЗНАВ..."
+
+
+# Nmerchat
+### "A LONG TIME AGO"
+PC01_STORY300_INVOICEPAID-7="ДУЖЕ ДАВНО"
+
+
+# Graff
+### What...?
+PC01_STORY300_INVOICEPAID-8=Що...?
+
+
+# Graffchat
+### "Please... Tell me your name!"
+PC01_STORY300_INVOICEPAID-9="Будь ласка... Скажи своє ім'я!"
+
+
+# Nmerchat
+### "I NEED A BREAK"
+PC01_STORY300_INVOICEPAID-10="МЕНІ ПОТРІБНА ПЕРЕРВА"
+
+
+# Nmerchat
+### "YOU KNOW WHAT YOU HAVE TO DO"
+PC01_STORY300_INVOICEPAID-11="ТИ ЗНАЄШ, ЩО МУСИШ ЗРОБИТИ"
+
+
+# Unknown
+### NMER_3 has logged off.
+PC01_STORY300_INVOICEPAID-12=NMER_3 вийшов із мережі.
+
+
+# Graff
+### No!!!
+PC01_STORY300_INVOICEPAID-13=Ні!!!
+
+
+#----------------------------------------------------
+# Graff
+### "Hello...?"
+PC01_STORY300_INVOICENOTPAID-1="Алло...?"
+
+
+# Unknown
+### Offline.
+PC01_STORY300_INVOICENOTPAID-2=Поза мережею.
+
+
+# Graff
+### No...! Stupid connection...
+PC01_STORY300_INVOICENOTPAID-3=Ні...! Дурне з'єднання...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I've been cut off the Triweb entirely.
+PC01_STORY300_INVOICENOTPAID-4=Мене повністю відключили від Тривебу.
+
+
+# Graff
+### Maybe I should have paid that invoice...
+PC01_STORY300_INVOICENOTPAID-5=Можливо, варто було сплатити той рахунок...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC01_STORY300_GRAFF6-1=...
+
+
+# Graff
+### What I have to do...
+PC01_STORY300_GRAFF6-2=Що я мушу зробити...
+
+
+# Graff
+### (Sigh)
+PC01_STORY300_GRAFF6-3=(Зітхає)
+
+
+# Graff
+### I...
+PC01_STORY300_GRAFF6-4=Я...
+
+
+# Graff
+### I think I understand...
+PC01_STORY300_GRAFF6-5=Здається, я зрозумів...
+
+
+#----------------------------------------------------
+# Brok - Brok comes back after their argument and notices a letter from Graff on the table
+### ...?
+PC01_STORY310_BROKBACK1-1=...?
+
+
+# Brok
+### A... letter?...
+PC01_STORY310_BROKBACK1-2=Лист...?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### "Hi Brok."
+PC01_STORY310_BROKBACK1B-1="Привіт, Броку."
+
+
+# Graff
+### "Forgive me. Blaming you for everything that went wrong in my life."
+PC01_STORY310_BROKBACK1B-2="Вибач мені за те, що звинувачував тебе в усьому поганому в моєму житті."
+
+
+# Graff
+### "This wasn't fair."
+PC01_STORY310_BROKBACK1B-3="Це було несправедливо."
+
+
+# Graff
+### "I know... You didn't take me for the money."
+PC01_STORY310_BROKBACK1B-4="Я знаю... Ти взяв мене не заради грошей."
+
+
+# Graff
+### "Yet..."
+PC01_STORY310_BROKBACK1B-5="І все ж..."
+
+
+# Graff
+### "The truth is..."
+PC01_STORY310_BROKBACK1B-6="Правда в тому..."
+
+
+# Graff
+### "I can't go on like this."
+PC01_STORY310_BROKBACK1B-7="Я не можу далі так жити."
+
+
+# Graff
+### "I guess this will come as a shock to you. But..."
+PC01_STORY310_BROKBACK1B-8="Мабуть, це буде для тебе шоком. Але..."
+
+
+# Graff
+### "Let's face it. Things never really worked between us."
+PC01_STORY310_BROKBACK1B-9="Подивимося правді у вічі. У нас ніколи до ладу нічого не виходило."
+
+
+# Graff
+### "I'll be sixteen in a few days. An adult."
+PC01_STORY310_BROKBACK1B-10="За кілька днів мені виповниться шістнадцять. Я дорослий."
+
+
+# Graff
+### "I can take care of myself."
+PC01_STORY310_BROKBACK1B-11="Я можу сам про себе подбати."
+
+
+# Graff
+### "There's no reason for me to rely on you anymore. I've been a burden for too long."
+PC01_STORY310_BROKBACK1B-12="Немає жодної причини, щоб я й далі покладався на тебе. Я й так надто довго був тягарем."
+
+
+# Graff
+### "I've decided to live my own life."
+PC01_STORY310_BROKBACK1B-13="Я вирішив жити власним життям."
+
+
+# Graff
+### "Soon I will pay you back all that money."
+PC01_STORY310_BROKBACK1B-14="Невдовзі я поверну тобі всі ті гроші."
+
+
+# Graff
+### "I'm determined."
+PC01_STORY310_BROKBACK1B-15="Я рішуче налаштований."
+
+
+# Graff
+### "I'm leaving, and I won't be coming back."
+PC01_STORY310_BROKBACK1B-16="Я йду і більше не повернуся."
+
+
+# Graff
+### "Please don't follow me."
+PC01_STORY310_BROKBACK1B-17="Будь ласка, не йди за мною."
+
+
+# Graff
+### "Don't call me."
+PC01_STORY310_BROKBACK1B-18="Не телефонуй мені."
+
+
+# Graff
+### "Just go on with your life."
+PC01_STORY310_BROKBACK1B-19="Просто живи далі своїм життям."
+
+
+# Graff
+### "You have the right to make a fresh start for yourself as well."
+PC01_STORY310_BROKBACK1B-20="Ти також маєш право почати все з чистого аркуша."
+
+
+# Graff
+### "Thank you for the few moments of joy we've shared."
+PC01_STORY310_BROKBACK1B-21="Дякую за ті кілька митей радості, що ми розділили."
+
+
+# Graff
+### "I will never forget you."
+PC01_STORY310_BROKBACK1B-22="Я ніколи тебе не забуду."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### "Graff"
+PC01_STORY310_BROKBACK1B-23="Графф"
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC01_STORY310_BROKBACK1C-1=...
+
+
+# Brok
+### He's...
+PC01_STORY310_BROKBACK1C-2=Він...
+
+
+# Brok
+### He's gone...
+PC01_STORY310_BROKBACK1C-3=Він пішов...
+
+
+# Brok
+### I...
+PC01_STORY310_BROKBACK1C-4=Я...
+
+
+# Brok
+### I definitely...
+PC01_STORY310_BROKBACK1C-5=Я остаточно...
+
+
+# Brok
+### Lost him...
+PC01_STORY310_BROKBACK1C-6=Утратив його...
+
+
+#----------------------------------------------------
+# Brok
+### What...
+PC01_STORY310_BROKBACK1D-1=Що...
+
+
+# Brok
+### What am I supposed to do now...?
+PC01_STORY310_BROKBACK1D-2=Що мені тепер робити...?
+
+
+#----------------------------------------------------
+# Brok
+### You say I should make a fresh start...
+PC01_STORY310_BROKBACK2-1=Кажеш, мені варто почати все з чистого аркуша...
+
+
+# Brok
+### How could I ever do that...?
+PC01_STORY310_BROKBACK2-2=Та хіба ж я зможу...?
+
+
+# Brok
+### Grandpa...
+PC01_STORY310_BROKBACK2-3=Дідусь...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia, and now you...
+PC01_STORY310_BROKBACK2-4=Лія, а тепер і ти...
+
+
+# Brok
+### If only... I had another chance.
+PC01_STORY310_BROKBACK2-5=Якби ж... у мене був ще один шанс.
+
+
+# Brok
+### I'd do things differently.
+PC01_STORY310_BROKBACK2-6=Я б усе зробив по-іншому.
+
+
+# Brok
+### But it's too late now...
+PC01_STORY310_BROKBACK2-7=Та зараз уже запізно...
+
+
+#----------------------------------------------------
+# Unknown
+### (Envelope falls)
+PC01_BROKENVELOPE1-1=(Конверт випадає)
+
+
+# Brok
+### This envelope...
+PC01_BROKENVELOPE1-2=Цей конверт...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Oh... Yeah. Shay...
+PC01_BROKENVELOPE1-3=Ох... Так. Шей...
+
+
+# Brok
+### ...
+PC01_BROKENVELOPE1-4=...
+
+
+# Unknown
+### (Opens letter)
+PC01_BROKENVELOPE1-5=(Відкриває листа)
+
+
+# Shay
+### "I've hidden something from you. Be a detective!"
+PC01_BROKENVELOPE1-6="Я дещо від тебе приховала. Будь детективом!"
+
+
+# Brok
+### ...?
+PC01_BROKENVELOPE1-7=...?
+
+
+# Brok
+### That's all...?
+PC01_BROKENVELOPE1-8=Це все...?
+
+
+# Brok
+### Yeah... Nothing else...
+PC01_BROKENVELOPE1-9=Так... Більше нічого...
+
+
+# Brok
+### What does she mean...?
+PC01_BROKENVELOPE1-10=Що вона має на увазі...?
+
+
+# Brok
+### And... How could she know...?
+PC01_BROKENVELOPE1-11=І... Як вона могла знати...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+PC01_BROKENVELOPE1-12=Шей...
+
+
+# Brok
+### You've always been very good at giving me food for thought, huh...?
+PC01_BROKENVELOPE1-13=Ти завжди любила підкидати мені теми для роздумів, га...?
+
+
+# Brok
+### ...
+PC01_BROKENVELOPE1-14=...
+
+
+# Brok
+### (Sigh)
+PC01_BROKENVELOPE1-15=(Зітхає)
+
+
+# Brok
+### Got nothing better to do right now anyway...
+PC01_BROKENVELOPE1-16=У мене все одно зараз немає, що робити...
+
+
+# Brok
+### You win, girl.
+PC01_BROKENVELOPE1-17=Твоя взяла, дівчино.
+
+
+# Brok
+### I will solve your riddle.
+PC01_BROKENVELOPE1-18=Я розгадаю твою загадку.
+
+
+#----------------------------------------------------
+# Brok
+### (I tried my best but I couldn't focus.)
+PC01_INTERROGATE_TILLENDOFTIME1-1=(Я намагався з усіх сил, але не міг зосередитися.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Graff was devastated.)
+PC01_INTERROGATE_TILLENDOFTIME1-2=(Графф був спустошений.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (He blamed himself for Ott's death and was suffering from it.)
+PC01_INTERROGATE_TILLENDOFTIME1-3=(Він звинувачував себе у смерті Отта й страждав від цього.)
+
+
+# Brok
+### (I knew that feeling all too well.)
+PC01_INTERROGATE_TILLENDOFTIME1-4=(Я надто добре знав це відчуття.)
+
+
+# Brok
+### (If only there was a way to go back... To prevent this accident from happening...)
+PC01_INTERROGATE_TILLENDOFTIME1-5=(Якби ж існував спосіб повернутися назад... Щоб відвернути цей нещасний випадок...)
+
+
+# Brok
+### (Then I realized it.)
+PC01_INTERROGATE_TILLENDOFTIME1-6=(І тут до мене дійшло.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Shay...)
+PC01_INTERROGATE_TILLENDOFTIME1-7=(Шей...)
+
+
+# Brok
+### (She knew.)
+PC01_INTERROGATE_TILLENDOFTIME1-8=(Вона знала.)
+
+
+# Brok
+### (This is it. What she had prepared for.)
+PC01_INTERROGATE_TILLENDOFTIME1-9=(Ось воно. Те, до чого вона готувалася.)
+
+
+# Brok
+### (This new invention...)
+PC01_INTERROGATE_TILLENDOFTIME1-10=(Цей новий винахід...)
+
+
+# Brok
+### (What if?...)
+PC01_INTERROGATE_TILLENDOFTIME1-11=(А що, якщо...?)
+
+
+#----------------------------------------------------
+# Brok
+### I need more time...
+PC01_INTERROGATE_EXIT1-1=Мені потрібно більше часу...
+
+
+#----------------------------------------------------
+# Brok - Brok interrogates "himself", thinking about what Shay wrote and making connections of the past events
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Ever since Shay announced she was closing the garage for the day, I had a feeling she was hiding something from me.
+PC01_CLUE_SHAY_SECRET-1=Відколи Шей сказала, що зачиняє гараж на цілий день, у мене було відчуття, ніби вона щось від мене приховує.
+
+
+# Brok
+### We've known each other for years. This has never happened before.
+PC01_CLUE_SHAY_SECRET-2=Ми знайомі вже багато років. Раніше такого ніколи не траплялося.
+
+
+# Brok
+### So it must be very important. What's the only thing she wouldn't let me take a look at?
+PC01_CLUE_SHAY_SECRET-3=Отже, це має бути щось дуже важливе. Єдина річ, на яку вона не дала мені подивитися?
+
+
+# Brok
+### That new invention.
+PC01_CLUE_SHAY_SECRET-4=Той новий винахід.
+
+
+# Brok
+### What could it be...?
+PC01_CLUE_SHAY_SECRET-5=Що б це могло бути...?
+
+
+#----------------------------------------------------
+# Brok
+### It's pretty obvious. All the items she's asked me to retrieve are parts for this new invention.
+PC01_CLUE_SHAY_TIME-1=Це досить очевидно. Усі деталі, які вона просила мене дістати - частини для цього нового винаходу.
+
+
+# Brok
+### But I'm left wondering. What could she need this ultra-precise timer for?
+PC01_CLUE_SHAY_TIME-2=Але мені цікаво. Навіщо їй міг знадобитися цей високоточний таймер?
+
+
+# Brok
+### Maybe this chit chat about space-time theories wasn't so random after all...
+PC01_CLUE_SHAY_TIME-3=Можливо, ця балаканина про теорії простору-часу не була такою вже й випадковою...
+
+
+#----------------------------------------------------
+# Brok
+### Yesterday, when crossing the dark alley... I had an awful feeling.
+PC01_CLUE_SHAY_SAVED-1=Учора, перетинаючи темний провулок... я відчув щось жахливе.
+
+
+# Brok
+### It seemed like I just woke up after... dying.
+PC01_CLUE_SHAY_SAVED-2=Здавалося, ніби я щойно прокинувся після... смерті.
+
+
+# Brok
+### I've had many fights in my life. Several times I've been on the brink of death.
+PC01_CLUE_SHAY_SAVED-3=У моєму житті було чимало бійок. Кілька разів я був на межі смерті.
+
+
+# Brok
+### And yet... I've never felt this before.
+PC01_CLUE_SHAY_SAVED-4=І все ж... Раніше я такого ніколи не відчував.
+
+
+# Brok
+### What was that...?
+PC01_CLUE_SHAY_SAVED-5=Що це було...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### It's curious but... Shay doesn't think anything could happen to me. I've noticed it many times.
+PC01_CLUE_SHAY_SAVED-6=Дивно, але... Шей не вірить, що зі мною може щось статися. Я помічав це вже неодноразово.
+
+
+# Brok
+### Of course this could simply mean she has great trust in me, and I thought as much.
+PC01_CLUE_SHAY_SAVED-7=Звісно, це могло б просто означати, що вона мені дуже довіряє, і я саме так і думав.
+
+
+# Brok
+### But now that I put these facts together... there must be another meaning behind this.
+PC01_CLUE_SHAY_SAVED-8=Але тепер, коли я зіставив ці факти... за цим має критись інший зміст.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Did Shay save me... through some unusual means...?
+PC01_CLUE_SHAY_SAVED-9=Невже Шей врятувала мене... якимось незвичним чином...?
+
+
+#----------------------------------------------------
+# Brok
+### This letter...
+PC01_CLUE_SHAY_FUTURE-1=Цей лист...
+
+
+# Brok
+### She knew.
+PC01_CLUE_SHAY_FUTURE-2=Вона знала.
+
+
+# Brok
+### It's obvious. She knew I would have one of the worst days of my life...
+PC01_CLUE_SHAY_FUTURE-3=Це очевидно. Вона знала, що в мене буде один із найгірших днів у моєму житті...
+
+
+# Brok
+### Spiraling into this bottomless pit I'm currently in...
+PC01_CLUE_SHAY_FUTURE-4=Що я впаду в цю бездонну прірву, де опинився зараз...
+
+
+# Brok
+### But how...?
+PC01_CLUE_SHAY_FUTURE-5=Але як...?
+
+
+# Brok
+### Yeah, I'm often depressed but... never that much.
+PC01_CLUE_SHAY_FUTURE-6=Так, я часто буваю пригнічений, але... не до такої ж міри.
+
+
+# Brok
+### And if she did save me in that alley, the other day...
+PC01_CLUE_SHAY_FUTURE-7=І якщо вона справді врятувала мене в тому провулку...
+
+
+# Brok
+### How could she anticipate it, either?
+PC01_CLUE_SHAY_FUTURE-8=Як вона могла це передбачити?
+
+
+# Brok
+### This sounds crazy but...
+PC01_CLUE_SHAY_FUTURE-9=Звучить божевільно, але...
+
+
+# Brok
+### Can she somehow... predict the future...?
+PC01_CLUE_SHAY_FUTURE-10=Невже вона може якось... передбачати майбутнє...?
+
+
+#----------------------------------------------------
+# Brok
+### That picture is intriguing, to say the least.
+PC01_CLUE_CHIEFRAT_WHAT-1=Те фото щонайменше інтригує.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff is right. It can't be fake.
+PC01_CLUE_CHIEFRAT_WHAT-2=Графф має рацію. Воно не може бути підробкою.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Those Squealers do not possess the appropriate technology.
+PC01_CLUE_CHIEFRAT_WHAT-3=Ті Верескуни не мають відповідних технологій.
+
+
+# Brok
+### It's also pretty clear their leader's hatred against me was genuine. He expressed it as soon as he recalled me.
+PC01_CLUE_CHIEFRAT_WHAT-4=Також очевидно, що ненависть їхнього ватажка до мене була справжньою. Він висловив її, щойно згадав мене.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### That darn Squealer was ready to take revenge.
+PC01_CLUE_CHIEFRAT_WHAT-5=Той чортів Верескун був готовий до помсти.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Otherwise he wouldn't have gone as far as kidnapping Graff and trying to kill him.
+PC01_CLUE_CHIEFRAT_WHAT-6=Інакше він не дійшов би до викрадення Граффа та спроби його вбити.
+
+
+# Brok
+### But I hadn't met him until two days ago...
+PC01_CLUE_CHIEFRAT_WHAT-7=Але я вперше зустрів його лише два дні тому...
+
+
+# Brok
+### And though my memory is a mess, I didn't even get that hat until four years later.
+PC01_CLUE_CHIEFRAT_WHAT-8=І хоч моя пам'ять у повній каші, я точно знаю, що дістав цього капелюха лише чотири роки потому.
+
+
+# Brok
+### So what's the explanation...?
+PC01_CLUE_CHIEFRAT_WHAT-9=То як це пояснити...?
+
+
+# Brok
+### Either I've got a doppelgänger... Or this really happened.
+PC01_CLUE_CHIEFRAT_WHAT-10=Або в мене є двійник... Або це справді сталося.
+
+
+#----------------------------------------------------
+# Brok
+### For sure, there are weird things happening.
+PC01_CLUE_SPECIAL_CHANGES-1=Однозначно, відбуваються дивні речі.
+
+
+# Brok
+### I'm all about doppelgänger theories but the probability of that happening is very slim.
+PC01_CLUE_SPECIAL_CHANGES-2=Я не проти теорій про двійників, але ймовірність цього дуже мала.
+
+
+# Brok
+### And it's clearly me in that picture.
+PC01_CLUE_SPECIAL_CHANGES-3=І на тому фото чітко видно мене.
+
+
+# Brok
+### Which means... I was there four years ago...?
+PC01_CLUE_SPECIAL_CHANGES-4=Що означає... я був там чотири роки тому...?
+
+
+# Brok
+### And that feeling in the dark alley...
+PC01_CLUE_SPECIAL_CHANGES-5=І те відчуття в темному провулку...
+
+
+# Brok
+### It felt like... A memory...
+PC01_CLUE_SPECIAL_CHANGES-6=Воно відчувалося як... спогад...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### As for Shay predicting the future, I don't think such a thing is possible.
+PC01_CLUE_SPECIAL_CHANGES-7=Щодо того, що Шей передбачає майбутнє - я не думаю, що таке можливо.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay is a scientist and she often says this - when there's too much coincidence, it's no longer a coincidence.
+PC01_CLUE_SPECIAL_CHANGES-8=Шей науковиця і часто каже: коли збігів занадто багато, то це вже не збіг.
+
+
+# Brok
+### So that leaves only one possibility.
+PC01_CLUE_SPECIAL_CHANGES-9=Отже, залишається лише одна можливість.
+
+
+# Brok
+### Could the events currently happening have already happened... even if I'm not aware of it...?
+PC01_CLUE_SPECIAL_CHANGES-10=Чи могли події, які відбуваються зараз, уже статися раніше... навіть якщо я про це й не здогадуюся...?
+
+
+# Brok
+### Maybe... They've been changed...?
+PC01_CLUE_SPECIAL_CHANGES-11=Можливо... Їх було змінено...?
+
+
+# Brok
+### I'm... becoming afraid of what I'm about to find out...
+PC01_CLUE_SPECIAL_CHANGES-12=Я... починаю боятися того, про що зараз дізнаюся...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Although I don't have a lot of clues about what Shay has been working on...
+PC01_CLUE_GARAGE_LOOP-1=Хоч я й не маю багато зачіпок щодо того, над чим працювала Шей...
+
+
+# Brok
+### I clearly remember its shadow. An egg shape is quite unusual.
+PC01_CLUE_GARAGE_LOOP-2=Я чітко пам'ятаю тінь від того пристрою. Яйцеподібна форма досить незвична.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### What Dr. Gherkin said earlier stuck with me.
+PC01_CLUE_GARAGE_LOOP-3=У моїй голові засіло те, що сказав доктор Геркін.
+
+
+# Brok
+### Eggs are used to symbolize loops.
+PC01_CLUE_GARAGE_LOOP-4=Яйця символізують петлі.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I know Shay. She never does anything without a purpose.
+PC01_CLUE_GARAGE_LOOP-5=Я знаю Шей. Вона ніколи нічого не робить без причини.
+
+
+# Brok
+### If she chose that specific form, it must be crucial.
+PC01_CLUE_GARAGE_LOOP-6=Якщо вона обрала саме таку форму, це повинно мати вирішальне значення.
+
+
+# Brok
+### So... This new machine can... loop?...
+PC01_CLUE_GARAGE_LOOP-7=Тож... Ця нова машина може... робити петлі...?
+
+
+# Brok
+### If only I knew what this means...
+PC01_CLUE_GARAGE_LOOP-8=Якби ж я знав, що це означає...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Sigh) Shay... Why do you have to be so secretive...?
+PC01_CLUE_GARAGE_LOOP-9=(Зітхає) Шей... Ну чому ти мусиш бути такою таємничою...?
+
+
+#----------------------------------------------------
+# Brok
+### Alright, so...
+PC01_CLUE_GARAGE_CHANGEEVENTS-1=Гаразд, отже...
+
+
+# Brok
+### Memories and proof of things that didn't happen.
+PC01_CLUE_GARAGE_CHANGEEVENTS-2=Спогади та докази того, що не відбувалося.
+
+
+# Brok
+### You and your obsession with space-time theories.
+PC01_CLUE_GARAGE_CHANGEEVENTS-3=Ти й твоя одержимість теоріями простору й часу.
+
+
+# Brok
+### And I seem to be the only one experiencing this...
+PC01_CLUE_GARAGE_CHANGEEVENTS-4=І, здається, я єдиний, хто це відчуває...
+
+
+# Brok
+### Again, I don't believe in coincidences, so...
+PC01_CLUE_GARAGE_CHANGEEVENTS-5=Знову ж таки, я не вірю в збіги, тож...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay. It's your invention, isn't it?
+PC01_CLUE_GARAGE_CHANGEEVENTS-6=Шей. Це твій винахід, чи не так?
+
+
+# Brok
+### This is totally a crazy thought but...
+PC01_CLUE_GARAGE_CHANGEEVENTS-7=Це абсолютно божевільна думка, але...
+
+
+# Brok
+### Can it... alter events...?
+PC01_CLUE_GARAGE_CHANGEEVENTS-8=Чи може вона... змінювати події...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay would have used that machine to save me.
+PC01_CLUE_SHAY_BUILT-1=Шей скористалася б цією машиною, щоб урятувати мене.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I had that encounter with the Squealer leader.
+PC01_CLUE_SHAY_BUILT-2=У мене була та сутичка з ватажком Верескунів.
+
+
+# Brok
+### Their defeat never happened... Which is why I can't remember it...?
+PC01_CLUE_SHAY_BUILT-3=Їхньої поразки ніколи не сталося... Ось чому я її не пам'ятаю...?
+
+
+# Brok
+### Wait... That doesn't make any sense...!
+PC01_CLUE_SHAY_BUILT-4=Чекайте... У цьому немає жодного сенсу...!
+
+
+# Brok
+### How could an invention change an event that already definitely happened...?
+PC01_CLUE_SHAY_BUILT-5=Як винахід може змінити подію, яка вже точно відбулася...?
+
+
+# Brok
+### Unless...
+PC01_CLUE_SHAY_BUILT-6=Хіба що...
+
+
+# Brok
+### ...
+PC01_CLUE_SHAY_BUILT-7=...
+
+
+# Brok
+### Time...
+PC01_CLUE_SHAY_BUILT-8=Часова...
+
+
+# Brok
+### Loop...
+PC01_CLUE_SHAY_BUILT-9=петля...
+
+
+# Brok
+### N...
+PC01_CLUE_SHAY_BUILT-10=Н...
+
+
+# Brok
+### No way...!
+PC01_CLUE_SHAY_BUILT-11=Не може бути...!
+
+
+# Brok
+### She's... building a...?!
+PC01_CLUE_SHAY_BUILT-12=Вона... будує...?!
+
+
+#----------------------------------------------------
+# Brok
+### I...
+PC01_TILLENDTIME_AFTERINTERROGATION_GRAFF-1=Я...
+
+
+# Brok
+### Am I losing it...?
+PC01_TILLENDTIME_AFTERINTERROGATION_GRAFF-2=Я що, втрачаю глузд...?
+
+
+# Brok
+### But if this is true... Then...!
+PC01_TILLENDTIME_AFTERINTERROGATION_GRAFF-3=Але якщо це правда... Тоді...!
+
+
+# Brok
+### ...
+PC01_TILLENDTIME_AFTERINTERROGATION_GRAFF-4=...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC01_TILLENDTIME_AFTERINTERROGATION2-1=Граффе!
+
+
+# Brok
+### We need to go! Now!
+PC01_TILLENDTIME_AFTERINTERROGATION2-2=Нам треба йти! Негайно!
+
+
+#----------------------------------------------------
+# Brok
+### I...
+PC01_STORY310_AFTERINTERROGATION-1=Я...
+
+
+# Brok
+### Am I losing it?
+PC01_STORY310_AFTERINTERROGATION-2=Я що, втрачаю глузд?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes, a robot determined to destroy our world...
+PC01_STORY310_AFTERINTERROGATION-3=Вес, робот, налаштований знищити наш світ...
+
+
+# Brok
+### That was already totally nuts but this...
+PC01_STORY310_AFTERINTERROGATION-4=Це й так було повним божевіллям, але оце...
+
+
+# Brok
+### ...
+PC01_STORY310_AFTERINTERROGATION-5=...
+
+
+# Brok
+### Nah. I must be wrong.
+PC01_STORY310_AFTERINTERROGATION-6=Ні. Я, напевно, помиляюся.
+
+
+# Brok
+### It's been a long day. My brain is a mess.
+PC01_STORY310_AFTERINTERROGATION-7=День був довгим. У мене в голові каша.
+
+
+# Brok
+### I've simply made way too many assumptions.
+PC01_STORY310_AFTERINTERROGATION-8=Я просто зробив забагато припущень.
+
+
+# Brok
+### For all I know, she's probably building a giant coffee machine that can wash itself!
+PC01_STORY310_AFTERINTERROGATION-9=Звідки мені знати, може, вона збирає гігантську кавоварку, яка вміє сама себе мити!
+
+
+# Brok
+### Or even a brainwashing robot that cuts hair!
+PC01_STORY310_AFTERINTERROGATION-10=Або навіть робота для промивання мізків, який ще й підстригає волосся!
+
+
+# Brok
+### ...
+PC01_STORY310_AFTERINTERROGATION-11=...
+
+
+# Brok
+### ...!
+PC01_STORY310_AFTERINTERROGATION-12=...!
+
+
+# Brok
+### That's right! What a fool I am.
+PC01_STORY310_AFTERINTERROGATION-13=Точно! Який же я дурень.
+
+
+# Brok
+### There's another possible and much more logical explanation.
+PC01_STORY310_AFTERINTERROGATION-14=Є інше можливе та значно логічніше пояснення.
+
+
+# Brok
+### Could that machine... suppress memories...?
+PC01_STORY310_AFTERINTERROGATION-15=Чи могла ця машина... пригнічувати спогади...?
+
+
+# Brok
+### Did I... already use it?
+PC01_STORY310_AFTERINTERROGATION-16=Невже я... вже скористався нею?
+
+
+# Brok
+### That would certainly explain a lot.
+PC01_STORY310_AFTERINTERROGATION-17=Це б точно багато чого пояснило.
+
+
+# Brok
+### I'm... getting confused...
+PC01_STORY310_AFTERINTERROGATION-18=Я... заплутуюся...
+
+
+# Brok
+### Argh...
+PC01_STORY310_AFTERINTERROGATION-19=Ар-р...
+
+
+# Brok
+### My head...
+PC01_STORY310_AFTERINTERROGATION-20=Моя голова...
+
+
+# Brok
+### It's... more than I can handle...
+PC01_STORY310_AFTERINTERROGATION-21=Я... більше так не можу...
+
+
+# Brok
+### Stop...
+PC01_STORY310_AFTERINTERROGATION-22=Досить...
+
+
+# Brok
+### I...
+PC01_STORY310_AFTERINTERROGATION-23=Я...
+
+
+# Brok
+### I have to go out and see for myself.
+PC01_STORY310_AFTERINTERROGATION-24=Я мушу піти й переконатися на власні очі.
+
+
+# Brok
+### But... Before that...
+PC01_STORY310_AFTERINTERROGATION-25=Але... Перед цим...
+
+
+# Brok
+### Just in case you come back.
+PC01_STORY310_AFTERINTERROGATION-26=На випадок, якщо ти повернешся.
+
+
+#----------------------------------------------------
+# Unknown
+### (Writes)
+PC01_STORY310_AFTERINTERROGATION1B-1=(Пише)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### "Graff... You were right..."
+PC01_STORY310_AFTERINTERROGATION1B-2="Граффе... Ти мав рацію..."
+
+
+# Brok
+### "I've been keeping more from you..."
+PC01_STORY310_AFTERINTERROGATION1B-3="Я забагато приховував від тебе..."
+
+
+# Brok
+### "But this is the final one."
+PC01_STORY310_AFTERINTERROGATION1B-4="Але це останнє."
+
+
+# Brok
+### "Hopefully... Even in his condition..."
+PC01_STORY310_AFTERINTERROGATION1B-5="Сподіваюся... Навіть у його стані..."
+
+
+# Brok
+### "He'll be able to take care of you..."
+PC01_STORY310_AFTERINTERROGATION1B-6="Він зможе подбати про тебе..."
+
+
+# Brok
+### "Better than I ever did."
+PC01_STORY310_AFTERINTERROGATION1B-7="Краще, ніж я коли-небудь зміг."
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+PC01_STORY310_AFTERINTERROGATION2-1=Шей...
+
+
+# Brok
+### Are you... offering me a chance?
+PC01_STORY310_AFTERINTERROGATION2-2=Ти... даєш мені шанс?
+
+
+# Brok
+### Or...
+PC01_STORY310_AFTERINTERROGATION2-3=Чи...
+
+
+# Brok
+### Did you...
+PC01_STORY310_AFTERINTERROGATION2-4=Ти...
+
+
+# Brok
+### ...take parts of my life away from me?
+PC01_STORY310_AFTERINTERROGATION2-5=...забрала в мене частину мого життя?
+
+
+# Brok
+### Maybe both...?
+PC01_STORY310_AFTERINTERROGATION2-6=Можливо, і те, й інше...?
+
+
+# Brok
+### I'm dizzy and anxious but...
+PC01_STORY310_AFTERINTERROGATION2-7=У мене паморочиться голова й тривожно на душі, але...
+
+
+# Brok
+### I need to know.
+PC01_STORY310_AFTERINTERROGATION2-8=Я мушу дізнатися.
+
+
+#----------------------------------------------------
+# Brok - "Cannot" ending : Brok couldn't enter the time machine and comes back
+### ...
+PC01_STORY330_CANNOT1-1=...
+
+
+# Brok
+### I... better get rid of this.
+PC01_STORY330_CANNOT1-2=Я... краще позбудуся цього.
+
+
+# Unknown
+### (Rips letter)
+PC01_STORY330_CANNOT1-3=(Рве лист)
+
+
+# Brok
+### (Sigh)
+PC01_STORY330_CANNOT1-4=(Зітхає)
+
+
+# Brok
+### Did I make the right decision...?
+PC01_STORY330_CANNOT1-5=Чи правильне рішення я прийняв...?
+
+
+# Brok
+### What future do I have?
+PC01_STORY330_CANNOT1-6=Яке майбутнє на мене чекає?
+
+
+# Brok
+### I can't remember the last time I felt this way but...
+PC01_STORY330_CANNOT1-7=Не пам'ятаю, коли востаннє я почувався так, але...
+
+
+# Brok
+### I'm... scared...
+PC01_STORY330_CANNOT1-8=Мені... страшно...
+
+
+# Brok
+### Maybe... There's still time to go back and...
+PC01_STORY330_CANNOT1-9=Можливо... Ще є час повернутися і...
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC01_STORY330_CANNOT2-1=...!
+
+
+# Graff
+### ...
+PC01_STORY330_CANNOT2-2=...
+
+
+# Graff
+### You... You're here...
+PC01_STORY330_CANNOT2-3=Ти... Ти тут...
+
+
+# Graff
+### I... just came to...
+PC01_STORY330_CANNOT2-4=Я... просто прийшов...
+
+
+#----------------------------------------------------
+# Graff
+### Never mind.
+PC01_STORY330_CANNOT3-1=Забудь.
+
+
+# Brok
+### Wait!
+PC01_STORY330_CANNOT3-2=Зачекай!
+
+
+# Brok
+### Don't leave! I'm begging you!
+PC01_STORY330_CANNOT3-3=Не йди! Благаю тебе!
+
+
+# Graff
+### ...
+PC01_STORY330_CANNOT3-4=...
+
+
+# Graff
+### ...Okay.
+PC01_STORY330_CANNOT3-5=...Добре.
+
+
+# Brok
+### What... are you going to do?
+PC01_STORY330_CANNOT3-6=Що... ти збираєшся робити?
+
+
+# Graff
+### I... have no idea...
+PC01_STORY330_CANNOT3-7=Я... й гадки не маю...
+
+
+# Brok
+### Neither do I...
+PC01_STORY330_CANNOT3-8=Я теж...
+
+
+# Graff
+### ...
+PC01_STORY330_CANNOT3-9=...
+
+
+# Graff
+### What I've written... still stands.
+PC01_STORY330_CANNOT3-10=Те, що я написав... досі в силі.
+
+
+# Graff
+### But... Let's take a break.
+PC01_STORY330_CANNOT3-11=Але... Давай зробимо перерву.
+
+
+# Brok
+### I agree.
+PC01_STORY330_CANNOT3-12=Згоден.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC01_STORY330_CANNOT3-13=Граффе...
+
+
+# Brok
+### If you could go back and change everything...
+PC01_STORY330_CANNOT3-14=Якби ти міг повернутися й усе змінити...
+
+
+# Brok
+### What would you do?
+PC01_STORY330_CANNOT3-15=Що б ти зробив?
+
+
+# Graff
+### ...
+PC01_STORY330_CANNOT3-16=...
+
+
+# Graff
+### I've come to realize...
+PC01_STORY330_CANNOT3-17=Я зрозумів...
+
+
+# Graff
+### There's no good or bad choices.
+PC01_STORY330_CANNOT3-18=Що немає хороших чи поганих виборів.
+
+
+# Graff
+### Only consequences.
+PC01_STORY330_CANNOT3-19=Є лише наслідки.
+
+
+# Graff
+### There's no way to go back so regrets are useless.
+PC01_STORY330_CANNOT3-20=Назад не повернутися, тож немає сенсу жалкувати.
+
+
+# Brok
+### Well...
+PC01_STORY330_CANNOT3-21=Що ж...
+
+
+# Brok
+### You're wrong.
+PC01_STORY330_CANNOT3-22=Ти помиляєшся.
+
+
+# Graff
+### Huh?
+PC01_STORY330_CANNOT3-23=Га?
+
+
+# Brok
+### I'd like to show you somethin'.
+PC01_STORY330_CANNOT3-24=Я хочу дещо тобі показати.
+
+
+# Brok
+### Follow me.
+PC01_STORY330_CANNOT3-25=Йди за мною.
+
+
+#----------------------------------------------------
+# Brok - Get Shay's material from this room
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### No way! Graff has kept this little box for years.
+PC01_MATERIAL1-1=Оце так! Графф роками зберігав цю коробочку.
+
+
+# Brok
+### I had no idea this was Firsten dust!
+PC01_MATERIAL1-2=Я й гадки не мав, що це пил Першиту!
+
+
+# Brok
+### Hopefully he doesn't mind me borrowing it...
+PC01_MATERIAL1-3=Сподіваюся, він не проти, якщо я її позичу...
+
+
+#----------------------------------------------------
+# Graff
+### Yeah. Help yourself with that old stuff.
+PC01_MATERIAL_GRAFF-1=Ага. На здоров'я, користуйся цим мотлохом.
+
+
+# Brok
+### Thanks. I owe you one!
+PC01_MATERIAL_GRAFF-2=Дякую. Буду в боргу!
+
+
+#----------------------------------------------------
+# Brok - "End of time" ending : Brok & Graff came back home after Ott got killed by rats
+### (Sigh)
+PC01_TILLENDTIME1-1=(Зітхає)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff is taking a rest.
+PC01_TILLENDTIME1-2=Графф відпочиває.
+
+
+# Brok
+### He keeps repeating he's a murderer...
+PC01_TILLENDTIME1-3=Він і далі повторює, що він убивця...
+
+
+# Brok
+### But I know.
+PC01_TILLENDTIME1-4=Але я знаю.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### It was those darn Squealers.
+PC01_TILLENDTIME1-5=Це були ті кляті Верескуни.
+
+
+# Brok
+### So much has happened lately.
+PC01_TILLENDTIME1-6=Останнім часом стільки всього сталося.
+
+
+# Brok
+### So many things I don't know...
+PC01_TILLENDTIME1-7=Стільки всього, чого я не знаю...
+
+
+# Brok
+### What's the point... of all this...
+PC01_TILLENDTIME1-8=Який сенс... у цьому всьому...
+
+
+# Brok
+### I wish I could do something...
+PC01_TILLENDTIME1-9=Якби ж я міг щось зробити...
+
+
+# Brok
+### ...
+PC01_TILLENDTIME1-10=...
+
+
+# Brok
+### In my pocket...
+PC01_TILLENDTIME1-11=У моїй кишені...
+
+
+# Brok
+### ...?
+PC01_TILLENDTIME1-12=...?
+
+
+#----------------------------------------------------
+# Unknown
+### He's playing an action videogame.
+COOP_PC01_GRAFF1-1=Він грає у відеогру-бойовик.
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...I almost forget you're a typical cat teen sometimes.
+COOP_PC01_GRAFF1-2=Граффе... Я іноді забуваю, що ти звичайний кіт-підліток.
+
+
+# Unknown
+### Okay, I should be able to replicate his look!
+COOP_PC01_GRAFF1-3=Гаразд, я маю змогу відтворити його зовнішність!
+
+
+# Unknown
+### I can enter the options to change my appearance.
+COOP_PC01_GRAFF1-4=Я можу зайти в налаштування, щоб змінити свій вигляд.
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,693 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Tramp (Unknown)
+#     Graff - Unknown (Unknown)
+#     Tramp - Graff (Unknown)
+#     Unknown - Graff (Unknown)
+
+#-------------------------------
+#= GRAFF --- OUTSIDE SECTOR
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### Melt plastic!
+GOT_MELTPLASTIC=Розплавлений пластик!
+
+### A sticker!
+GOT_STICKER=Наліпка!
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Graff meeting the tramp for the first time - he usually stays away from weird strangers
+### (A beggar...)
+GPC03_FIRST_TRAMP1-1=(Злидар...)
+
+
+# Graff
+### (Don't look at him, keep your eyes to the ground...)
+GPC03_FIRST_TRAMP1-2=(Не дивись на нього, очі долу...)
+
+
+# Tramp
+### Hello, my boy!
+GPC03_FIRST_TRAMP1-3=Вітаю, мій хлопчику!
+
+
+# Graff
+### (Oh no...)
+GPC03_FIRST_TRAMP1-4=(О ні...)
+
+
+# Tramp
+### Please wait! You live here, right? With the detective?
+GPC03_FIRST_TRAMP1-5=Будь ласка, зачекай. Ти мешкаєш тут, правильно? З детективом?
+
+
+# Graff
+### ...
+GPC03_FIRST_TRAMP1-6=...
+
+
+# Graff
+### How do you know? Are you spying on us?!
+GPC03_FIRST_TRAMP1-7=Звідки ви дізналися? Ви слідкуєте за нами!
+
+
+# Graff
+### I'd better call...
+GPC03_FIRST_TRAMP1-8=Краще я зателефоную...
+
+
+# Tramp
+### Look at me, boy. Do you really expect that from an old geezer?
+GPC03_FIRST_TRAMP1-9=Подивись на мене, хлопчику. Ти справді очікуєш подібного від старого хрича?
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I'm alive right now because your dad stood up for me against Squealers this morning.
+GPC03_FIRST_TRAMP1-10=Прямо зараз я живий тому, що твій тато заступився за мене перед верескунами цього ранку.
+
+
+# Graff
+### He's not my father. Leave me alone.
+GPC03_FIRST_TRAMP1-11=Він не мій батько. Залиште мене в спокої.
+
+
+# Tramp
+### Fine!
+GPC03_FIRST_TRAMP1-12=Добре!
+
+
+# Tramp
+### Farewell.
+GPC03_FIRST_TRAMP1-13=Прощавай.
+
+
+# Graff
+### ...
+GPC03_FIRST_TRAMP1-14=...
+
+
+# Graff
+### (Maybe I was a bit harsh.)
+GPC03_FIRST_TRAMP1-15=Можливо, я був трохи різким з ним...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (After all... I could be in the same situation if it wasn't for Brok...)
+GPC03_FIRST_TRAMP1-16=Зрештою, я міг би бути в такій же ситуації, якби не Брок...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What did Brok do, exactly?...
+GPC03_WELCOME_TRAMP1-1=Що саме зробив Брок?
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Long story short... I owed money to the Squealers. They were ready for payback.
+GPC03_WELCOME_TRAMP1-2=Коротше кажучі, я заборгував гроші верескунам. Вони були готові поквитатися.
+
+
+# Tramp
+### He gave them quite a beating!
+GPC03_WELCOME_TRAMP1-3=Він їх добряче відгамселив!
+
+
+# Graff
+### Did he?...
+GPC03_WELCOME_TRAMP1-4=Справді?...
+
+
+# Graff
+### Offering help and risking his butt for free... That doesn't sound like him.
+GPC03_WELCOME_TRAMP1-5=Пропонувати допомогу і резикувати своєю дупою за безкоштовно... Не схоже на нього.
+
+
+# Tramp
+### Maybe you don't know him that well.
+GPC03_WELCOME_TRAMP1-6=Може, ти не так добре його знаєш.
+
+
+# Graff
+### Well, I know one thing for sure.
+GPC03_WELCOME_TRAMP1-7=Ну, в одному я точно впевнений.
+
+
+# Graff
+### In the end, he always either gets fooled or screws everything up.
+GPC03_WELCOME_TRAMP1-8=Врешті-решт, він завжди або залишається в дурнях, або псує все.
+
+
+# Tramp
+### My boy, the result never really matters. Only the intent.
+GPC03_WELCOME_TRAMP1-9=Мій хлопче, результат ніколи немає особливого значення. Лише намір.
+
+
+# Graff
+### If you say so...
+GPC03_WELCOME_TRAMP1-10=Як скажете...
+
+
+#----------------------------------------------------
+# Tramp
+### Hello, my boy!
+GPC03_WELCOME_TRAMP2-1=Вітаю, мій хлопчику!
+
+
+# Tramp
+### I'm afraid I don't have much to offer but... Do you need anything?
+GPC03_WELCOME_TRAMP2-2=Боюся, мені нічого запропонувати, але... Тобі щось треба?
+
+
+# Graff
+### Hmm... I'll let you know.
+GPC03_WELCOME_TRAMP2-3=Гмм... Я дам вам знати.
+
+
+# Tramp
+### Very well. I'm not going anywhere.
+GPC03_WELCOME_TRAMP2-4=Дуже добре. Я нікуди не піду.
+
+
+# Tramp
+### I can't, anyway.
+GPC03_WELCOME_TRAMP2-5=Всеодно я не можу.
+
+
+# Graff
+### ...
+GPC03_WELCOME_TRAMP2-6=...
+
+
+# Graff
+### (Must be hard...)
+GPC03_WELCOME_TRAMP2-7=(Мабуть, важко...)
+
+
+#----------------------------------------------------
+# Graff - Day 2 - Graff is suffering from pollution and come back home, the Tramp sees him
+### (Cough, cough)
+GPC03_TRAMP_PILL1-1=(Кашляє, кашляє)
+
+
+# Tramp
+### Are you okay, my boy?
+GPC03_TRAMP_PILL1-2=З тобою все гаразд, мій хлопчику?
+
+
+# Graff
+### Yeah... I'm... (Cough, cough)
+GPC03_TRAMP_PILL1-3=Так... Я... (Кашляє, кашляє)
+
+
+# Graff
+### I'm fine...
+GPC03_TRAMP_PILL1-4=Я в порядку...
+
+
+# Tramp
+### No, you're not!
+GPC03_TRAMP_PILL1-5=Ні! Не в порядку!
+
+
+# Tramp
+### Oh no... You didn't take your pill, did you?...
+GPC03_TRAMP_PILL1-6=О ні... Ти не прийняв пігулку, чи не так?
+
+
+# Graff
+### ...
+GPC03_TRAMP_PILL1-7=...
+
+
+# Graff
+### Please tell me you have one...!
+GPC03_TRAMP_PILL1-8=Будь ласка, скажіть, що у вас є одна...!
+
+
+# Tramp
+### Terribly sorry... I used my last one today...
+GPC03_TRAMP_PILL1-9=Дуже шкода, сьогодні я використав свою останню...
+
+
+# Tramp
+### Quick! You need to go indoors!
+GPC03_TRAMP_PILL1-10=Швидше! Тобі треба зайти в дім!
+
+
+# Graff
+### I know... (Cough) I was going to...
+GPC03_TRAMP_PILL1-11=Я знаю... (Кашляє) Я збирався...
+
+
+# Tramp
+### I wish I could do more than give you advice...
+GPC03_TRAMP_PILL1-12=Хотів би я зробити більше, ніж дати пораду...
+
+
+# Tramp
+### Your father will be back soon... I'm sure of it.
+GPC03_TRAMP_PILL1-13=Твій батько скоро повернеться... Я впевнений
+
+
+# Graff
+### No way...! I can't rely on him... (Cough, cough)
+GPC03_TRAMP_PILL1-14=Ні за що...! Я не можу на нього покластися...
+
+
+#----------------------------------------------------
+# Tramp
+### Be safe...
+GPC03_TRAMP_PILLWELCOME-1=Бережи себе...
+
+
+#----------------------------------------------------
+# Tramp - Day 3 - Graff talks to the tramp
+### Hello, my boy!
+GPC03_WELCOME_TRAMP3-1=Вітаю, мій хлопчику!
+
+
+# Tramp
+### I'm glad to see you're okay!
+GPC03_WELCOME_TRAMP3-2=Радий бачити, що ти в порядку!
+
+
+# Graff
+### You seem to be doing well too.
+GPC03_WELCOME_TRAMP3-3=Здається, у вас теж все гаразд.
+
+
+# Tramp
+### You can thank your dad for that.
+GPC03_WELCOME_TRAMP3-4=Можеш подякувати за це своєму татові.
+
+
+# Tramp
+### He brought me the rare medicine I needed.
+GPC03_WELCOME_TRAMP3-5=Він приніс мені рідкісні ліки, яких я потребував.
+
+
+# Graff
+### Really?...
+GPC03_WELCOME_TRAMP3-6=Правда?...
+
+
+#----------------------------------------------------
+# Tramp
+### My boy, I'm afraid this is the last time we'll meet.
+GPC03_WELCOME_TRAMP4-1=Мій хлопчику, боюся, ми зустрічаємось востаннє.
+
+
+# Tramp
+### Please... Promise.
+GPC03_WELCOME_TRAMP4-2=Будь ласка, пообіцяй.
+
+
+# Tramp
+### Always stay close to him.
+GPC03_WELCOME_TRAMP4-3=Завжди залишатися поруч із ним.
+
+
+# Graff
+### ...
+GPC03_WELCOME_TRAMP4-4=...
+
+
+# Graff
+### Goodbye...
+GPC03_WELCOME_TRAMP4-5=Бувайте...
+
+
+#----------------------------------------------------
+# Graff - Using the tramp stove
+### It's burning...
+GPC03_STOVE_NOTRAMP1-1=Горить...
+
+
+# Graff
+### No one's around. Weird.
+GPC03_STOVE_NOTRAMP1-2=Навколо нікого. Дивно...
+
+
+#----------------------------------------------------
+# Graff
+### Erm... I don't wanna burn that!
+GPC03_STOVE_OTHERS-1=Емм... Я не хочу спалювати це!
+
+
+#----------------------------------------------------
+# Graff
+### The statuette has melted. Good!
+GPC03_STOVE_NOTRAMP_STATUETTE-1=Статуетка розплавилася. Добре!
+
+
+# Graff
+### It's still hot. I'll use that old piece of cloth to wrap it.
+GPC03_STOVE_NOTRAMP_STATUETTE-2=Все ще гаряча. Використаю цей старий шматок тканини, щоб загорнути її.
+
+
+#----------------------------------------------------
+# Graff
+### It's all sticky! Better use it fast before it gets hard again.
+GPC03_STOVE_STATUETTE_AFTER-1=Така липка! Краще використати швидше, поки вона знову не затверділа
+
+
+#----------------------------------------------------
+# Graff
+### Fire...
+GPC03_STOVE_TRAMP1-1=Вогонь...
+
+
+# Tramp
+### ...
+GPC03_STOVE_TRAMP1-2=...
+
+
+# Tramp
+### Does fire evoke something to you?
+GPC03_STOVE_TRAMP1-3=Він щось у тебе викликає?
+
+
+# Graff
+### N... No. I'm just...
+GPC03_STOVE_TRAMP1-4=Н... Ні. Я просто...
+
+
+# Graff
+### Surprised. We hardly need to make a real fire nowadays.
+GPC03_STOVE_TRAMP1-5=Здивований. Навряд чи потрібно розпалювати справжній вогонь у наші дні.
+
+
+# Tramp
+### Things change.
+GPC03_STOVE_TRAMP1-6=Речі змінюються.
+
+
+# Tramp
+### In my time, everyone could light up a fire. Sometimes for necessity, often for fun.
+GPC03_STOVE_TRAMP1-7=У мій час всі могли розпалювати вогонь. Іноді через необхідність, часто - для забави.
+
+
+# Tramp
+### Then our society told us what to think.
+GPC03_STOVE_TRAMP1-8=А потім наше суспільство сказало нам що думати.
+
+
+# Tramp
+### "Don't make a fire, it's dangerous."
+GPC03_STOVE_TRAMP1-9="Не розпалюйте вогонь, це небеспечно."
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### "Don't drive an Aircar yourself, it's dangerous."
+GPC03_STOVE_TRAMP1-10="Не водіть аеромобіль власноруч, це небеспечно."
+
+
+# Tramp
+### "Don't go mountain climbing, it's dangerous."
+GPC03_STOVE_TRAMP1-11="Не ходіть в гори, це небеспечно."
+
+
+# Tramp
+### Every potential threat got banned.
+GPC03_STOVE_TRAMP1-12=Будь-яка потенційна загроза була заборонена
+
+
+# Graff
+### What's wrong with that? It's obviously for safety reasons.
+GPC03_STOVE_TRAMP1-13=Що не так? Очевидно, це з причин безпеки.
+
+
+# Tramp
+### Safety...
+GPC03_STOVE_TRAMP1-14=Безпека...
+
+
+# Tramp
+### No one is safe in the current world.
+GPC03_STOVE_TRAMP1-15=У сучасному світі ніхто не в безпеці.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Not here, for sure. But Drumers are safe.
+GPC03_STOVE_TRAMP1-16=Не тут, авжеж. Але мешканці Верхів у безпеці.
+
+
+# Tramp
+### Are they? I wonder...
+GPC03_STOVE_TRAMP1-17=Невже? Цікаво...
+
+
+# Graff
+### ...
+GPC03_STOVE_TRAMP1-18=...
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... Do I need to burn anything?
+GPC03_STOVE_TRAMP2-1=Гмм... Чи потрібно мені щось спалити?
+
+
+#----------------------------------------------------
+# Graff
+### May I...
+GPC03_STOVE_TRAMP_STATUETTE-1=Можу я...
+
+
+# Tramp
+### What are you doing, my boy? Burning that holy symbol?...
+GPC03_STOVE_TRAMP_STATUETTE-2=Що ти робиш, мій хлопчику? Спалюєш цей святий символ?...
+
+
+# Graff
+### Ah... I forgot. To me it's just a plastic figure.
+GPC03_STOVE_TRAMP_STATUETTE-3=Ахх... Я забув. Для мене це просто пластикова фігурка.
+
+
+# Graff
+### I'll take my chances.
+GPC03_STOVE_TRAMP_STATUETTE-4=Я ризикну.
+
+
+# Tramp
+### If it's important for you... Go ahead.
+GPC03_STOVE_TRAMP_STATUETTE-5=Якщо це для тебе важливо... Дій.
+
+
+#----------------------------------------------------
+# Tramp
+### ...I didn't intend to use that stove anymore, anyway.
+GPC03_STOVE_TRAMP_AFTER1-1=Всеодно я більше не збирався використовувати цю плиту.
+
+
+# Graff
+### Oh no! Truly sorry, I didn't realize I had sullied it...
+GPC03_STOVE_TRAMP_AFTER1-2=О ні! Щиро вибачаюсь, я й не усвідомлював, що так її заляпав...
+
+
+# Graff
+### Let me clean it!
+GPC03_STOVE_TRAMP_AFTER1-3=Дозвольте почистити!
+
+
+# Tramp
+### Don't waste your time for an old fool.
+GPC03_STOVE_TRAMP_AFTER1-4=Не витрачай свій час на старого дурня.
+
+
+# Graff
+### No way. My old man always says, it's never too late to do the right thing!
+GPC03_STOVE_TRAMP_AFTER1-5=В жодному разі. Мій старий завжди каже, що ніколи не пізно вчинити правильно!
+
+
+# Graff
+### My mistake. I'll fix it.
+GPC03_STOVE_TRAMP_AFTER1-6=Моя помилка. Я це виправлю.
+
+
+#----------------------------------------------------
+# Graff
+### There! Like new.
+GPC03_STOVE_TRAMP_AFTER2-1=Ось! Як новенька.
+
+
+# Tramp
+### Thank you. Now, go!
+GPC03_STOVE_TRAMP_AFTER2-2=Дякую. Тепер, йди!
+
+
+# Graff
+### Goodbye!
+GPC03_STOVE_TRAMP_AFTER2-3=Буваййте!
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### I don't have time to play! Maybe later.
+GPC03_TRASHER1-1=У мене немає часу на ігри! Може, пізніше.
+
+
+#----------------------------------------------------
+# Graff
+### Hey, that's my favorite chip music band!
+GPC03_STICKERDISPLAY1-1=Гей, це ж моя улюблена чип-музична група!
+
+
+# Graff
+### They're giving away some stickers to promote their next tour!
+GPC03_STICKERDISPLAY1-2=Вони роздають наліпки для просування наступного туру!
+
+
+# Graff
+### Nice, I'll take one!
+GPC03_STICKERDISPLAY1-3=чудово, візьму!
+
+
+#----------------------------------------------------
+# Graff
+### They'll come here in a few days!
+GPC03_STICKERDISPLAY2-1=Вони прибудуть сюди через кілька днів!
+
+
+# Graff
+### I'll save up some money and...
+GPC03_STICKERDISPLAY2-2=Я назбираю трохи грошей і...
+
+
+# Graff
+### ...
+GPC03_STICKERDISPLAY2-3=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What am I saying. Even if I did, Brok would rather spend it all on living expenses.
+GPC03_STICKERDISPLAY2-4=Що я кажу. Навіть якби я це і зробив, Брок волів би витратити все на проживання.
+
+
+# Graff
+### Darn limited account...
+GPC03_STICKERDISPLAY2-5=Клятий обмежений акаунт...
+
+
+#----------------------------------------------------
+# Graff - Hitting the tramp
+### Oops!
+GPC03_TRAMP_HIT1-1=Упс!
+
+
+# Tramp
+### I'm... okay. Don't worry.
+GPC03_TRAMP_HIT1-2=Я... В порядку. Не хвилюйся
+
+
+# Graff
+### Sorry...
+GPC03_TRAMP_HIT1-3=Перепрошую...
+
+
+#----------------------------------------------------
+# Graff
+### Are you okay?... I'm so clumsy...
+GPC03_TRAMP_HIT2-1=З вами все гаразд? Я такий незграбний...
+
+
+# Tramp
+### I've been a soldier, boy. I can handle this.
+GPC03_TRAMP_HIT2-2=Я був солдатом, хлопче. Можу впоратись із цим.
+
+
+#----------------------------------------------------
+# Graff
+### Take this, you old... thing!
+GPC03_TRAMP_HIT3-1=Спробуй це, ти, стара... Річ!
+
+
+# Tramp
+### What would your dad think?...
+GPC03_TRAMP_HIT3-2=Що б подумав твій тато?...
+
+
+# Graff
+### Like I care!
+GPC03_TRAMP_HIT3-3=Ніби мене це хвилює!
+
+
+#----------------------------------------------------
+# Graff
+### Ha Ha! Too easy!
+GPC03_TRAMP_DEAD-1=Ха ха! Занадто просто!
+
+
+# Graff
+### ...
+GPC03_TRAMP_DEAD-2=...
+
+
+# Graff
+### Oh... N... No!...
+GPC03_TRAMP_DEAD-3=Ох... Н... Ні...!
+
+
+# Graff
+### I've... turned evil... Argh...
+GPC03_TRAMP_DEAD-4=Я... Став лихим... А-аа...
+
+
+# Graff
+### Can't... breathe...
+GPC03_TRAMP_DEAD-5=Не можу... Дихати...
+
+
+# Graff
+### Help... (Cough)
+GPC03_TRAMP_DEAD-6=Допоможіть... (Кашляє)
+
+
+#----------------------------------------------------
+# Graff
+### I'd rather not burn this one down.
+GPC03_STOVE_STATUETTE_NOT-1=Мені не хотілося б спалювати це дотла.
+
+
+#----------------------------------------------------
+# Unknown
+### Pain is communicative.
+COOP_GPC03_TRAMP1-1=Біль комунікативний.
+
+
+# Unknown
+### It hurts seeing someone suffer.
+COOP_GPC03_TRAMP1-2=Боляче бачити чиїсь страждання.
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,279 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=HINTS - CHAPTER 3
+#-------------------------------
+
+#----- Hints Brok --------
+# Present as in "gift"
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Go to the Consciousness Center and talk to the Director about the fair, then about the present.
+HINT_CH3_140_DIRECTORPRESENT1=
+
+### So... A high technology device... I wonder who could help with that?...
+HINT_CH3_140_SHAYHACKER1=
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Go see Shay and talk to her, croc dude. Ask her if she needs help first, that's more polite. Then you may ask about the chip.
+HINT_CH3_140_SHAYHACKER2=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Go to that street Shay mentioned! You might encounter some trouble along the way but no worries. It's perfectly normal to die here. After this, talk to that big bear guy!
+HINT_CH3_140_HACKERGO1=
+
+### The bear is blocking the way. Find a way to enter! Talk to him and you might find clues to trick him. And if you feel strong enough, kick his ass!
+HINT_CH3_140_RJ1=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Press that lever inside Shay's garage! (near the entrance, to the right)
+HINT_CH3_140_LEVERCHECK1=
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Show that lever to Shay!
+HINT_CH3_140_LEVERSHOW1=
+
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Okay, so I guess you wanna do it the clever way. Noticed what R.J. said about elephants?... Pretty sure he would let one enter. If only you weren't a croc!
+HINT_CH3_140_DESGUISE1=
+
+### You'll need various elements to prepare a disguise. First, you need a trunk. Check your surroundings, croc dude!
+HINT_CH3_140_DESGUISE2=
+
+### Croc dude, those pipes in the middle of the street should do it! They're made of rubber. By any chance, have you found any item to cut rubber?
+HINT_CH3_140_DESGUISE3=
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Use the rubber cutter on the pipes in front of R.J. to get a chunk!
+HINT_CH3_140_DESGUISE4=
+
+
+### After the trunk, you'll need some large elephant ears! What could look like this in the surroundings?
+HINT_CH3_140_WINGS1=
+
+### That Untail statue in the back street has pretty wings...##Hey, how are you gonna get'em?
+HINT_CH3_140_WINGS2=
+
+### Get into action mode and smash that statue. You don't have to totally destroy it, though!
+HINT_CH3_140_WINGS3=
+
+
+### You'll need something to tie the disguise elements to your face, croc dude. A string would be very nice! Where have you seen one that was almost accessible?
+HINT_CH3_140_STRING1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### There's a string in the hacker back street on that balcony. But it's out of reach! Or is it?...
+HINT_CH3_140_STRING2=
+
+### Untie the two brackets from the plank to release it. Then get into action mode in order to jump on that plank, and then onto the other! You should be able to reach that string.
+HINT_CH3_140_STRING3=
+
+
+### You're all set, croc dude! Just combine together the string to the wings, then the result to the pipe.
+HINT_CH3_140_ATTACH1=
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Use the disguise on the bear to enter and talk to the hacker.
+HINT_CH3_140_USEDISGUISE1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Enter and meet the hacker!
+HINT_CH3_140_ENTER1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Talk to that hacker. No choice, you'll have to beat those drones!
+HINT_CH3_140_FIGHTDRONES1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Too late for remorse. Search the pockets of that hacker!
+HINT_CH3_140_SEARCHHACKER1=
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Man... Giving that much money to a crook like him? Anyway, gather some by doing fights in the VR arena or at the Trasher Hunt.##There's still time to change your mind though! In which case, talk to the hacker again.
+HINT_CH3_140_GIVEMONEY1=
+
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Find a way in Wes' office, croc dude. Seems like that blind bot can open the door... If only you could convince it! (Or destroy it)
+HINT_CH3_140_WESDOOR1=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Notice those cool panels on the floor of the police hall? They talk when you step on them! And with Wes's voice! Surely there's a purpose for this.
+HINT_CH3_140_WESDOOR2=
+
+### Press the panels in a specific order to form a phrase the bot could understand!
+HINT_CH3_140_WESDOOR3=
+
+# IMPORTANT : Make sure the sentence is exactly how you translated those words in TPC09
+### You need to step on the panels successively to make the sentence : "Mister Pork, Please Enter My Office."
+HINT_CH3_140_WESDOOR4=
+
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### So, that boy won't let you approach Wes's computer? Hey... If it were me, I'd just knock him down!##But if you're the silly non-violent kind, my advice : focus on his urge to pee.
+HINT_CH3_140_GETRID1=
+
+# NB: Lexicon word in Ukrainian for "Flowing water": "Плинна вода"
+### Bring him some flowing water, croc dude! Come back to the police department entrance and step on the rightmost panel shaped like a home to get one.
+HINT_CH3_140_GETRID2=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hey, use the assistant on Ott's desk and ask it for a waterfall scenery! This should "help"...
+HINT_CH3_140_ENVIRONMENT1=
+
+### You might want to "borrow" that speaker from the police department entrance!
+HINT_CH3_140_TAKESPEAKER1=
+
+### Hey, the waterfall sound doesn't work! Not great for a true ambiance. Where should the sound be coming out of?
+HINT_CH3_140_CHAIR1=
+
+### Under the chair at the center, croc dude! Switch to action mode and push that chair violently.
+HINT_CH3_140_CHAIR2=
+
+### To make that waterfall sound work, you might want to set that speaker in that hole at the center of the room!
+HINT_CH3_140_SOUND1=
+
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Hey, you'll need to get a picture of Wes to access his computer! I noticed a picture of him on the login screen. Try using that hackphone on it?
+HINT_CH3_140_PICTURETRY1=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### That's right, you'll need a front view picture of Wes! How annoying. Any way to recreate it?...
+HINT_CH3_140_PICTUREFRONT1=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### In that box on the desk... There's an identikit device! And look, it has elements of Wes's face! That's your lucky day! Oh and don't forget to press that power button to switch it on.
+HINT_CH3_140_PICTUREFRONT2=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Recreate Wes's face. To do this, press these buttons (from top to bottom) : middle, right, left, right, middle.
+HINT_CH3_140_PICTUREFRONT3=
+
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Hey, you gotta print that fabulous picture of Wes! There's gotta be some printer in the room?
+HINT_CH3_140_PICTUREPRINTER1=
+
+### Check that mess in the back of the room.
+HINT_CH3_140_PICTUREPRINTER2=
+
+### Hook up the printer to that power socket to the right, croc dude!
+HINT_CH3_140_PICTUREPRINTHOOK1=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Print that fabulous picture of Wes on the identikit! Ya know, press that little button to the top right? And then get the picture from the printer!
+HINT_CH3_140_PICTUREPRINTDO1=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Time to combine that picture of Wes with your hackphone, croc dude!
+HINT_CH3_140_PICTUREHACK1=
+
+### Hey! Use the holographic model on the computer sign-in circle!
+HINT_CH3_140_PICTUREUSE1=
+
+
+
+#----- Hints Graff --------
+### Kitty, are you blind? There's a weight at the entrance! (on the floor, right next to entrance door)
+HINT_CH3_140_WEIGHTH1=
+
+### Noticed that thing jutting out of the wall after the left door? Smash that wall with your fists in action mode!
+HINT_CH3_140_WEIGHTA1=
+
+### The four little circles on the floor of the left room indicate a direction.
+HINT_CH3_140_WEIGHTJB1=
+
+### Find the location which intersects those four circles!
+HINT_CH3_140_WEIGHTJB2=
+
+### Use your apartment key on that lock on the floor!
+HINT_CH3_140_WEIGHTJC1=
+
+
+
+### In the middle room, a weight's up there and out of reach! You need a way to walk in that upwards scenery. How could you access it? (no, not the crate!)
+HINT_CH3_140_WEIGHTD1=
+
+### Kitty, that balance is the solution! Put a few weights on the left plate so you can jump on the right one! (in action mode) From there, jump to the background and walk until you get that weight!
+HINT_CH3_140_WEIGHTD2=
+
+### Get in action mode and break that crate with your fists!
+HINT_CH3_140_WEIGHTF1=
+
+### Noticed that floor crack at the bottom of the east room? That must be important... How to crack it open?
+HINT_CH3_140_WEIGHTC1=
+
+### Jump on that spot several times (in action mode) to break it, kitty!
+HINT_CH3_140_WEIGHTC2=
+
+### One weight is slightly hidden behind the right wall at the top.
+HINT_CH3_140_WEIGHTB1=
+
+
+### You got all weights. Time to put them on that balance, kitty!##Hey, did you notice there's the number "17" written on that balance? Must be important!
+HINT_CH3_140_BALANCE1=
+
+### The total weight on each balance plate should be equal to 17. What's the value of each weight? Take a good look at them...
+HINT_CH3_140_BALANCE2=
+
+### The "flower" symbol on each plate actually represents their value. (press the describe button in your inventory to get a closer look) For example, a symbol with three petals means this weight equals 3. Try to separate your weights into two groups, both with a sum equalling 17!
+HINT_CH3_140_BALANCE3=
+
+### On the left plate, put these weights : 1, 6 and 10. On the right plate, put : 2, 3, 4 and 8. Then pick up that triangle token released right to the balance!
+HINT_CH3_140_BALANCE4=
+
+
+### In the west room, press the right button to launch the ball. After this, press the five buttons alternatively to change the orientation of pipe chunks. Don't let the ball fall!
+HINT_CH3_140_GAMESTART1=
+
+### To win, press these successive buttons : 1, 2 then 3. Do NOT press button 4, it's a trap!##Watch out, each button resets after a while so don't press too soon!
+HINT_CH3_140_GAMESTART2=
+
+### Oops, the ball is stuck! Bad luck, kitty. Maybe there's an easy way to... get it unstuck?... I mean, it's not very far from you, right?
+HINT_CH3_140_GAMESTUCK1=
+
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Switch to action mode and hit the wall next to where the ball is. That should be enough!##Then don't forget to press button 5 or the ball might fall and you'll have to start over! Oh, and pick up the triangle token that's released.
+HINT_CH3_140_GAMESTUCK2=
+
+
+### Kitty, those floor panels in the east room... Surely you've seen this kind of game somewhere! Yup, that's Tic Tac Toe. Align four panels of your color to win.##But that AI... looks hard to beat! You might have to cheat a bit. Oh and if you lose, press that switch at the center to reset.
+HINT_CH3_140_TICTAC1=
+
+### Put some of your inventory items on the floor panels! Align a few and you should win.
+HINT_CH3_140_TICTAC2=
+
+
+
+### You got all three tokens! Did you notice they're shaped like triangles and that you can put them on the floor at the entrance?
+HINT_CH3_140_TRIANGLES1=
+
+### Need to know which slots to put them? There must be a clue somewhere! Like... another triangle?
+HINT_CH3_140_TRIANGLES2=
+
+### That floating triangle in the west room isn't there for decorating. It indicates the exact shape and orientation of the slots you need to insert the tokens!
+HINT_CH3_140_TRIANGLES3=
+
+### Put your tokens in the following slots :
+HINT_CH3_140_TRIANGLES4=
+
+
+### Exit to the south door!
+HINT_CH3_140_LEAVE1=
+
+
+
+# Alternate route
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Go see Shay.
+HINT_CH3_140_SHAYALTERNATE1=
+
+### In the right room, there are 4 panels on the floor. Press one of them to start the game, which is a memory. At each turn, press the panels that make the same sound as the computer does. After a few correct turns, you will win.
+HINT_CH3_140_MEMORY1=
+
+

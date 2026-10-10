@@ -1,0 +1,708 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Shay (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Shay (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Shay (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Dee (Unknown)
+#     Shay - RJ (Unknown)
+
+#-------------------------------
+#=Virtual arena training
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+### Give up?
+BM02_GIVEUP=Здатися?
+
+### Fight her?
+BM02_FIGHTHER=Битися з нею?
+
+
+### Talk
+BM02_TALK=Говорити
+
+### Punch him
+BM02_PUNCHIM=Вдарити його
+
+### Give up
+BM02_GIVEUPDO=Здатися
+
+
+### Grand prize winner!
+DESCRIPTION_WINNER_PRIZE=Переможець головного призу!
+
+### Consolation prize.
+DESCRIPTION_CONSOLATION_PRIZE=Втішний приз.
+
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Shay deducts 200 Unis for Bolt.
+DESCRIPTION_BOLT=Шей вираховує 200 Юні для Болта.
+
+### Nothing's left for you.
+DESCRIPTION_BOLT_LOSE=Для вас нічого не лишилося.
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Shay - Brok dies during VR night fight
+### It... It can't be!
+BM02_DIE1-1=Ні... Так не може бути!
+
+
+#----------------------------------------------------
+# Shay
+### Impossible!...
+BM02_DIE2-1=Неможливо...!
+
+
+#----------------------------------------------------
+# Dee - Brok meets Dee for the first time. She should look mysterious and with a deep voice so we don't know she's a woman yet
+### Who are you?
+BM02_DEE1-1=Хто ти такий...?
+
+
+# Brok
+### Erm... Your opponent?
+BM02_DEE1-2=Е-е... Твій опонент?
+
+
+# Dee
+### No. It was supposed to be...
+BM02_DEE1-3=Ні. Це мав би бути...
+
+
+# Brok
+### ...?
+BM02_DEE1-4=...?
+
+
+# Dee
+### Never mind.
+BM02_DEE1-5=Не зважай.
+
+
+# Dee
+### Let's rock, croc!
+BM02_DEE1-6=Даймо жару, крок!
+
+
+#----------------------------------------------------
+# Brok - Brok accidentally removes her hood, revealing she's a woman
+### ...!
+BM02_DEE_REVEAL-1=...!
+
+
+# Brok
+### You... You're a...!
+BM02_DEE_REVEAL-2=Ти... То ти...!
+
+
+# Dee
+### Darn! You blew my cover!
+BM02_DEE_REVEAL-3=Чорт забирай! Ти мене розсекретив!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay, I gotta go!
+BM02_DEE_REVEAL-4=Шей, я маю йти звідси!
+
+
+# Shay
+### What?! No way! Not an option!
+BM02_DEE_REVEAL-5=Що?! У жодному разі! Це взагалі не варіант!
+
+
+# Brok
+### I-I can't hit a lady!
+BM02_DEE_REVEAL-6=Я-я не можу вдарити жінку!
+
+
+# Shay
+### Well I am one and I'm telling you...
+BM02_DEE_REVEAL-7=Ну, я теж жінка, і я тобі скажу...
+
+
+# Shay
+### Smash her down!
+BM02_DEE_REVEAL-8=Вріж їй як слід!
+
+
+# Dee
+### Don't be a gentleman. I can handle you.
+BM02_DEE_REVEAL-9=Не вдавай із себе джентльмена. Я з тобою впораюся.
+
+
+#----------------------------------------------------
+# Brok
+### Very well.
+BM02_DEE_FIGHTYES1-1=Ну що ж.
+
+
+# Brok
+### I won't hold back!
+BM02_DEE_FIGHTYES1-2=Я не буду стримуватися!
+
+
+#----------------------------------------------------
+# Brok - Brok gives up
+### Sorry. Not gonna happen.
+BM02_DEE_FIGHTNO1-1=Вибач. Цього не буде.
+
+
+# Dee
+### Good.
+BM02_DEE_FIGHTNO1-2=Гаразд.
+
+
+# Brok
+### ...
+BM02_DEE_FIGHTNO1-3=...
+
+
+# Brok
+### Goodbye, ma'am.
+BM02_DEE_FIGHTNO1-4=Прощавай, пані.
+
+
+#----------------------------------------------------
+# Brok - Brok loses
+### Argh...
+BM02_RJ_BEFORELOSING-1=А-аа...
+
+
+# Shay
+### Not your day, Bro'...
+BM02_RJ_BEFORELOSING-2=Сьогодні явно не твій день, брате...
+
+
+# Shay
+### You'd better quit now.
+BM02_RJ_BEFORELOSING-3=Тобі краще здатися прямо зараз.
+
+
+#----------------------------------------------------
+# Brok - Brok loses
+### Argh...
+BM02_DEE_BEFORELOSING-1=А-аа...
+
+
+# Dee
+### I win.
+BM02_DEE_BEFORELOSING-2=Я перемогла.
+
+
+# Shay
+### Not your day, Bro'...
+BM02_DEE_BEFORELOSING-3=Сьогодні явно не твій день, брате...
+
+
+# Shay
+### You'd better quit now.
+BM02_DEE_BEFORELOSING-4=Тобі краще здатися прямо зараз.
+
+
+#----------------------------------------------------
+# Brok
+### No choice.
+BM02_DEE_WELOSE-1=У мене немає вибору...
+
+
+#----------------------------------------------------
+# Dee - Brok wins
+### Urgh...
+BM02_DEE_LOST1-1=У-ух...
+
+
+# Brok
+### Sorry it came to this.
+BM02_DEE_LOST1-2=Мені шкода, що до цього дійшло.
+
+
+# Dee
+### You're a skilled fighter... But don't worry about it.
+BM02_DEE_LOST1-3=Ти вправний боєць... Але не хвилюйся з цього приводу.
+
+
+# Dee
+### I wasn't here for the money anyway.
+BM02_DEE_LOST1-4=Я все одно тут не заради грошей.
+
+
+# Brok
+### Then... What for?
+BM02_DEE_LOST1-5=Тоді... Заради чого?
+
+
+# Dee
+### Goodbye.
+BM02_DEE_LOST1-6=Прощавай.
+
+
+# Brok
+### ...
+BM02_DEE_LOST1-7=...
+
+
+# Brok
+### Well, I won...
+BM02_DEE_LOST1-8=Що ж, я переміг...
+
+
+# Brok
+### What a day.
+BM02_DEE_LOST1-9=Ну й день...
+
+
+#----------------------------------------------------
+# RJ - Day 2 - Brok's opponent is R.J.!
+### ...
+BM02_RJ1-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.?!
+BM02_RJ1-2=Р. Джей?!
+
+
+# Brok
+### What are you doing here, man?
+BM02_RJ1-3=Що ти тут робиш, чуваче?
+
+
+# RJ
+### Whaddya think?
+BM02_RJ1-4=А ти як думаєш?
+
+
+# RJ
+### I'm here for my revenge!
+BM02_RJ1-5=Я тут заради своєї помсти!
+
+
+# Brok
+### Revenge?...
+BM02_RJ1-6=Помсти...?
+
+
+# RJ
+### You...
+BM02_RJ1-7=Ти...
+
+
+# RJ
+### Wrecked my life!
+BM02_RJ1-8=Зруйнував моє життя!
+
+
+#----------------------------------------------------
+# RJ
+### You attacked me...
+BM02_RJ_ATTACK-1=Ти напав на мене...
+
+
+#----------------------------------------------------
+# RJ
+### You tricked me...
+BM02_RJ_TRICK-1=Ти обдурив мене...
+
+
+#----------------------------------------------------
+# RJ
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Chief fired me...
+BM02_RJ1B-1=Шеф мене звільнив...
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker... too...
+BM02_RJ1B-2=Гакер... Теж...
+
+
+# RJ
+### All... because of you!
+BM02_RJ1B-3=І все це... Твоя вина!
+
+
+# Brok
+### Oh, gosh...
+BM02_RJ1B-4=Ох, дідько...
+
+
+# Brok
+### I didn't realize...
+BM02_RJ1B-5=Я і не усвідомлював...
+
+
+# Brok
+### Looks like I ruined someone else's life today...
+BM02_RJ1B-6=Схоже, що сьогодні я зруйнував чиєсь життя...
+
+
+# Brok
+### I'm so sorry...
+BM02_RJ1B-7=Мені дуже шкода...
+
+
+# RJ
+### Dun' care!
+BM02_RJ1B-8=Начхати!
+
+
+# RJ
+### Ya gonna get it!
+BM02_RJ1B-9=Зараз ти в мене отримаєш!
+
+
+# Brok
+### Well. If that's a good fight you want...
+BM02_RJ1B-10=Ну що ж, якщо ти хочеш хорошої бійки...
+
+
+# Brok
+### I won't let you down!
+BM02_RJ1B-11=Я тебе не розчарую!
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Brok loses
+### You, ah... Ya got me.
+BM02_BROK_LOSES1-1=Ти... ах... Таки дістав мене.
+
+
+# Shay
+### Agh! Darn...
+BM02_BROK_LOSES1-2=Ах! Чорт забирай...
+
+
+# Brok
+### Come on...
+BM02_BROK_LOSES1-3=Ну ж бо...
+
+
+# Brok
+### If you wanna finish me...
+BM02_BROK_LOSES1-4=Якщо збираєшся мене добити...
+
+
+# Brok
+### Now's your shot!
+BM02_BROK_LOSES1-5=Це твій шанс!
+
+
+# Shay
+### He won't.
+BM02_BROK_LOSES1-6=Він цього не зробить.
+
+
+# RJ
+### ...
+BM02_BROK_LOSES1-7=...
+
+
+# RJ
+### Urgh!
+BM02_BROK_LOSES1-8=Гр-р!
+
+
+# RJ
+### I...!...
+BM02_BROK_LOSES1-9=Я...!
+
+
+# RJ
+### ...
+BM02_BROK_LOSES1-10=...
+
+
+# RJ
+### No.
+BM02_BROK_LOSES1-11=Ні.
+
+
+# RJ
+### Me... I'm no killer.
+BM02_BROK_LOSES1-12=Я... Я не вбивця.
+
+
+# RJ
+### Got what I want.
+BM02_BROK_LOSES1-13=Отримав те, шо хотів.
+
+
+# RJ
+### Go away.
+BM02_BROK_LOSES1-14=Іди геть.
+
+
+# Shay
+### Told ya!
+BM02_BROK_LOSES1-15=А я казала!
+
+
+# Brok
+### ...
+BM02_BROK_LOSES1-16=...
+
+
+# Brok
+### I'll find a way to make it up for you.
+BM02_BROK_LOSES1-17=Я знайду спосіб загладити провину.
+
+
+# Brok
+### Tomorrow.
+BM02_BROK_LOSES1-18=Завтра.
+
+
+# RJ
+### ...
+BM02_BROK_LOSES1-19=...
+
+
+#----------------------------------------------------
+# RJ - Day 2 - RJ loses
+### Argh!
+BM02_RJ_LOSES1-1=А-аа!
+
+
+# Brok
+### That's enough.
+BM02_RJ_LOSES1-2=Цього достатньо.
+
+
+# RJ
+### No... No!
+BM02_RJ_LOSES1-3=Ні... Ні!
+
+
+# RJ
+### I'll... get ya...
+BM02_RJ_LOSES1-4=Я... дістану тебе...
+
+
+# RJ
+### Even if...
+BM02_RJ_LOSES1-5=Навіть якшо...
+
+
+# RJ
+### I...
+BM02_RJ_LOSES1-6=Я...
+
+
+# Brok
+### I said stop!
+BM02_RJ_LOSES1-7=Досить!
+
+
+# Brok
+### You won't get anything out of this.
+BM02_RJ_LOSES1-8=Ти нічого цим не досягнеш.
+
+
+# Brok
+### Don't make me...
+BM02_RJ_LOSES1-9=Не змушуй мене...
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Brok chooses to talk to RJ. He doesn't want to kill him
+### Listen...
+BM02_RJ_TALK1-1=Слухай...
+
+
+# RJ
+### I'm hurt... bad, on the inside...
+BM02_RJ_TALK1-2=Мені боляче... сильно, всередині...
+
+
+# RJ
+### Let's... end this!
+BM02_RJ_TALK1-3=Давай... покінчимо з цим!
+
+
+# Brok
+### I won't. No matter what you try and pull.
+BM02_RJ_TALK1-4=Ні, ні за що. Що б ти там не задумав.
+
+
+# RJ
+### You prefer...
+BM02_RJ_TALK1-5=Тож, ти надаєш перевагу...
+
+
+# RJ
+### Mental... torture?
+BM02_RJ_TALK1-6=Психічним... тортурам?
+
+
+# Brok
+### I'm gonna get you some help.
+BM02_RJ_TALK1-7=Я допоможу тобі.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### I'll convince the hacker to hire you back.
+BM02_RJ_TALK1-8=Я переконаю гакера знову найняти тебе.
+
+
+# Shay
+### Bro'... You probably shouldn't bring that up out here...
+BM02_RJ_TALK1-9=Брате... Мабуть, тобі не варто тут про це згадувати...
+
+
+# RJ
+### ...
+BM02_RJ_TALK1-10=...
+
+
+# RJ
+### OK. Your last chance.
+BM02_RJ_TALK1-11=Гаразд. Останній шанс.
+
+
+#----------------------------------------------------
+# Shay
+### Oh well. We won.
+BM02_RJ_TALK2-1=Ну що ж. Ми перемогли.
+
+
+# Brok
+### You mean I won!...
+BM02_RJ_TALK2-2=Тобто, я переміг...!
+
+
+# Shay
+### Yeah, yeah.
+BM02_RJ_TALK2-3=Так, так.
+
+
+#----------------------------------------------------
+# RJ - Day 2 - Brok gives up
+### What?!
+BM02_RJ_GIVEUP1-1=Шо?!
+
+
+# RJ
+### Come back!
+BM02_RJ_GIVEUP1-2=Повернись!
+
+
+# RJ
+### Coward!
+BM02_RJ_GIVEUP1-3=Боягуз!
+
+
+# Shay
+### Seriously...?
+BM02_RJ_GIVEUP1-4=Серйозно...?
+
+
+#----------------------------------------------------
+# Unknown - Day 2 - Brok knocks RJ out so he doesn't have to kill him
+### (Bump)
+BM02_RJ_KNOCKDOWN1-1=(Удар)
+
+
+# Brok
+### Sorry for the smackdown...
+BM02_RJ_KNOCKDOWN1-2=Вибач за прочухана...
+
+
+# Shay
+### Good job, Bro'!
+BM02_RJ_KNOCKDOWN1-3=Гарна робота, брате!
+
+
+# Brok
+### ...
+BM02_RJ_KNOCKDOWN1-4=...
+
+
+# Shay
+### Why the long face? Longer than usual, that is... You won!
+BM02_RJ_KNOCKDOWN1-5=Чого носа повісив? Хоча в тебе він і так задовгий... Я до того, що... Ти ж переміг!
+
+
+#----------------------------------------------------
+# Brok
+### Never!
+BM02_LOWHEALTH_REFUSE-1=Ніколи!
+
+
+# Shay
+### What?!
+BM02_LOWHEALTH_REFUSE-2=Що?!
+
+
+# Brok
+### As long as I'm standing...
+BM02_LOWHEALTH_REFUSE-3=Поки я стою на ногах...
+
+
+# Brok
+### I'll keep fighting!
+BM02_LOWHEALTH_REFUSE-4=Я продовжуватиму битися!
+
+
+# Dee
+### You're insane.
+BM02_LOWHEALTH_REFUSE-5=Ти збожеволів.
+
+
+# Dee
+### But it's your choice. I won't be responsible for what happens next.
+BM02_LOWHEALTH_REFUSE-6=Але вибір за тобою. Я не відповідатиму за те, що буде далі.
+
+
+#----------------------------------------------------
+# Brok
+### Never!
+BM02_RJ_LOWHEALTH_REFUSE-1=Ніколи!
+
+
+# Shay
+### What?!
+BM02_RJ_LOWHEALTH_REFUSE-2=Що?!
+
+
+# Brok
+### As long as I'm standing...
+BM02_RJ_LOWHEALTH_REFUSE-3=Поки я стою на ногах...
+
+
+# Brok
+### I'll keep fighting!
+BM02_RJ_LOWHEALTH_REFUSE-4=Я продовжуватиму битися!
+
+
+# RJ
+### No choice.
+BM02_RJ_LOWHEALTH_REFUSE-5=Шо ж, у мене немає вибору.
+
+
+#----------------------------------------------------
+

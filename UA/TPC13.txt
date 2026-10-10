@@ -1,0 +1,948 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Graff - Brok (Unknown)
+#     Shay - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#=
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+# Graff - Day 1 end - Brok asks Graff to follow him so he can redeem himself
+### Phew...
+PC13_STORY110_1-1=Фух...
+
+
+# Graff
+### I didn't expect to climb all the way up here.
+PC13_STORY110_1-2=Не очікував, що ми заберемося аж сюди.
+
+
+# Graff
+### Won't you tell me where we're going?
+PC13_STORY110_1-3=Можеш сказати, куди ми йдемо?
+
+
+# Brok
+### Right here!
+PC13_STORY110_1-4=Сюди!
+
+
+#----------------------------------------------------
+# Brok
+### I wanted you to see this.
+PC13_STORY110_2-1=Я хотів, щоб ти це побачив.
+
+
+# Graff
+### Uh?
+PC13_STORY110_2-2=Га?
+
+
+# Graff
+### See... What?...
+PC13_STORY110_2-3=Побачив... Що саме...?
+
+
+# Brok
+### Hmm.
+PC13_STORY110_2-4=Гмм.
+
+
+# Brok
+### Let me ask the question properly.
+PC13_STORY110_2-5=Дозволь поставити запитання інакше.
+
+
+# Brok
+### What do you see?
+PC13_STORY110_2-6=Що ти бачиш?
+
+
+# Graff
+### Well...
+PC13_STORY110_2-7=Ну...
+
+
+# Graff
+### I see trash...
+PC13_STORY110_2-8=Я бачу сміття...
+
+
+# Graff
+### The polluted Haze...
+PC13_STORY110_2-9=Забруднений смог...
+
+
+# Graff
+### Despair... and misery.
+PC13_STORY110_2-10=Відчай... і злидні.
+
+
+# Brok
+### Just as I thought.
+PC13_STORY110_2-11=Я так і знав.
+
+
+# Brok
+### You keep looking at the ground.
+PC13_STORY110_2-12=Ти весь час дивишся під ноги.
+
+
+# Brok
+### But you know what they say... Every coin has two sides.
+PC13_STORY110_2-13=Але ж ти знаєш, що кажуть... У кожної медалі є дві сторони.
+
+
+# Brok
+### Raise your eyes! To the sky!
+PC13_STORY110_2-14=Підведи очі! У небо!
+
+
+# Graff
+### The... sky?...
+PC13_STORY110_2-15=Н... небо...?
+
+
+#----------------------------------------------------
+# Graff
+### Woah...
+PC13_STORY110_3-1=Ого...
+
+
+# Graff
+### You're right.
+PC13_STORY110_3-2=Ти маєш рацію.
+
+
+# Graff
+### This is... pretty.
+PC13_STORY110_3-3=Це... гарно.
+
+
+# Brok
+### Yeah...
+PC13_STORY110_3-4=Угу...
+
+
+# Brok
+### It hasn't changed.
+PC13_STORY110_3-5=Воно не змінилося.
+
+
+# Brok
+### No matter how much our technology pollutes it, the Earth does its best to remain magnificent.
+PC13_STORY110_3-6=Хоч би як наші технології її забруднювали, Земля робить усе можливе, щоб залишатися величною.
+
+
+# Brok
+### ...
+PC13_STORY110_3-7=...
+
+
+# Brok
+### You and your mom... After we met...
+PC13_STORY110_3-8=Ми з тобою і твоєю мамою... Після того, як ми зустрілися...
+
+
+# Brok
+### We used to go here every evening.
+PC13_STORY110_3-9=Ми приходили сюди щовечора.
+
+
+# Brok
+### Both of us had busy lives but... This was our highlight each day.
+PC13_STORY110_3-10=У нас в обох було повно турбот, але... Це був найкращий момент кожного дня.
+
+
+# Brok
+### We would spend the little time we had talking.
+PC13_STORY110_3-11=Ми проводили ту крихту вільного часу за розмовами.
+
+
+# Graff
+### Talking?... Really?
+PC13_STORY110_3-12=Розмовами...? Серйозно?
+
+
+# Brok
+### Ha ha. Well, most of the time anyway.
+PC13_STORY110_3-13=Ха-ха. Ну, принаймні більшу частину часу.
+
+
+# Graff
+### ...
+PC13_STORY110_3-14=...
+
+
+# Graff
+### I...
+PC13_STORY110_3-15=Я...
+
+
+# Graff
+### I want to ask you something.
+PC13_STORY110_3-16=Я хочу дещо запитати.
+
+
+# Graff
+### Is it... wrong if I can't remember her?
+PC13_STORY110_3-17=Це... погано, що я її не пам'ятаю?
+
+
+# Graff
+### Not just her but... My father too.
+PC13_STORY110_3-18=Не лише її, але й... тата теж.
+
+
+# Graff
+### Forgetting my parents.
+PC13_STORY110_3-19=Забути власних батьків.
+
+
+# Graff
+### Does that... make me a bad person?
+PC13_STORY110_3-20=Невже через це... я погана людина?
+
+
+# Brok
+### Of course not!
+PC13_STORY110_3-21=Звісно, ні!
+
+
+# Brok
+### Actually. To tell the truth...
+PC13_STORY110_3-22=Власне. Якщо казати правду...
+
+
+# Brok
+### I'm the same. I have erratic memories of the past.
+PC13_STORY110_3-23=Я й сам такий. Мої спогади про минуле дуже уривчасті.
+
+
+# Brok
+### Sometimes I ask myself. What did her voice sound like? What did her smile look like?
+PC13_STORY110_3-24=Іноді я питаю себе: яким був її голос? Якою була її усмішка?
+
+
+# Brok
+### If it wasn't for this picture I saved, I wouldn't even recall her face.
+PC13_STORY110_3-25=Якби не фото, яке я зберіг, я б навіть її обличчя не згадав.
+
+
+# Graff
+### Yeah...
+PC13_STORY110_3-26=Так...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I've checked through all the Triweb.
+PC13_STORY110_3-27=Я перевірив весь Тривеб.
+
+
+# Graff
+### Our family pictures, video clips, documents...
+PC13_STORY110_3-28=Наші сімейні фотографії, відеокліпи, документи...
+
+
+# Graff
+### They were all stored online in one place.
+PC13_STORY110_3-29=Усе це зберігалося в мережі в одному місці.
+
+
+# Graff
+### When the national power outage happened, all our files were just... Gone!
+PC13_STORY110_3-30=Коли по всій країні сталося знеструмлення, всі наші файли просто... Зникли!
+
+
+# Graff
+### As if our entire existence up to that point had been erased.
+PC13_STORY110_3-31=Ніби все наше існування до того моменту було стерте.
+
+
+# Graff
+### Not just ours, but the whole city.
+PC13_STORY110_3-32=І не лише наше, а й всього міста.
+
+
+# Graff
+### The only memories left are in our minds. And they're not even reliable.
+PC13_STORY110_3-33=Єдині спогади, що залишилися - у наших головах. І навіть на них не можна покластися.
+
+
+#----------------------------------------------------
+# Brok
+### You're wrong.
+PC13_STORY110_3B-1=Ти помиляєшся.
+
+
+# Brok
+### Our mind is the most precious and trusty belonging in this day and age.
+PC13_STORY110_3B-2=Розум - це найцінніша й найнадійніша річ у наш час.
+
+
+# Brok
+### There's a simple explanation to all this.
+PC13_STORY110_3B-3=Цьому є просте пояснення.
+
+
+# Brok
+### We both went through trials and tribulations.
+PC13_STORY110_3B-4=Ми обоє пройшли через чимало випробувань і негараздів.
+
+
+# Brok
+### Sometimes our brain tends to block bad memories. As a protective shield.
+PC13_STORY110_3B-5=Іноді наш мозок схильний блокувати погані спогади. Як захисний щит.
+
+
+# Brok
+### So we can keep living.
+PC13_STORY110_3B-6=Щоб ми могли продовжувати жити.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### You talk exactly like Shay!
+PC13_STORY110_3B-7=Ти говориш точнісінько як Шей!
+
+
+# Brok
+### Do I? Ha ha!
+PC13_STORY110_3B-8=Невже? Ха-ха!
+
+
+# Graff
+### Yeah!...
+PC13_STORY110_3B-9=Авжеж...!
+
+
+# Brok
+### ...
+PC13_STORY110_3B-10=...
+
+
+# Brok
+### Sometimes... I wish I could remember.
+PC13_STORY110_3B-11=Іноді... я б хотів пам'ятати.
+
+
+# Graff
+### You know...
+PC13_STORY110_3B-12=Знаєш...
+
+
+# Graff
+### I do remember one thing.
+PC13_STORY110_3B-13=Дещо я таки пам'ятаю.
+
+
+# Brok
+### Really? What was it?
+PC13_STORY110_3B-14=Справді? Що саме?
+
+
+# Graff
+### You...
+PC13_STORY110_3B-15=Тебе...
+
+
+# Graff
+### The fire was still burning.
+PC13_STORY110_3B-16=Вогонь усе ще горів.
+
+
+# Graff
+### I was laying down outside... Regaining consciousness...
+PC13_STORY110_3B-17=Я лежав на вулиці... Приходячи до тями...
+
+
+# Graff
+### You were there... watching over me.
+PC13_STORY110_3B-18=А ти був там... наглядав за мною.
+
+
+# Brok
+### ...
+PC13_STORY110_3B-19=...
+
+
+# Brok
+### It's been a long time.
+PC13_STORY110_3B-20=Минуло вже багато часу.
+
+
+# Brok
+### Look... I'm aware we don't get to spend a lot of time together...
+PC13_STORY110_3B-21=Послухай... Я знаю, що ми не проводимо багато часу разом...
+
+
+# Graff
+### I know. Don't worry about it.
+PC13_STORY110_3B-22=Я знаю. Не переймайся через це.
+
+
+# Graff
+### You're doing what you can.
+PC13_STORY110_3B-23=Ти робиш усе, що в твоїх силах.
+
+
+# Brok
+### I wish things were different...
+PC13_STORY110_3B-24=Хотів би я, щоб усе було інакше...
+
+
+# Brok
+### But... I need you to know.
+PC13_STORY110_3B-25=Але... я хочу, щоб ти знав.
+
+
+# Brok
+### I will always stand by you.
+PC13_STORY110_3B-26=Я завжди буду поруч із тобою.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Tomorrow I'll meet your Director. I'll fix everything.
+PC13_STORY110_3B-27=Завтра я зустрінуся з твоєю директоркою. Я все виправлю.
+
+
+#----------------------------------------------------
+# Graff
+### Getting me reinstated?...
+PC13_STORY110_3EXCLUDED-1=Хочеш домогтися мого поновлення...?
+
+
+# Graff
+### It's all my fault...
+PC13_STORY110_3EXCLUDED-2=Все це моя провина...
+
+
+# Brok
+### Hey, we all make mistakes.
+PC13_STORY110_3EXCLUDED-3=Гей, усі ми робимо помилки.
+
+
+# Brok
+### You wouldn't believe how many blunders I made when I was your age!
+PC13_STORY110_3EXCLUDED-4=Ти й не уявляєш, скільки дурниць я накоїв у твоєму віці!
+
+
+# Brok
+### I'll do whatever it takes.
+PC13_STORY110_3EXCLUDED-5=Я зроблю все можливе.
+
+
+# Brok
+### It's my duty as parent.
+PC13_STORY110_3EXCLUDED-6=Це мій батьківський обов'язок.
+
+
+# Graff
+### ...
+PC13_STORY110_3EXCLUDED-7=...
+
+
+# Graff
+### Thanks.
+PC13_STORY110_3EXCLUDED-8=Дякую.
+
+
+# Graff
+### But... I don't know if I deserve it...
+PC13_STORY110_3EXCLUDED-9=Але... я не знаю, чи заслуговую на це...
+
+
+# Brok
+### You do.
+PC13_STORY110_3EXCLUDED-10=Заслуговуєш.
+
+
+# Brok
+### If you can't trust yourself... Trust me on this.
+PC13_STORY110_3EXCLUDED-11=Якщо не довіряєш собі... Повір мені в цьому.
+
+
+#----------------------------------------------------
+# Graff
+### You mean... Validating my rating?
+PC13_STORY110_3RATING-1=Ти маєш на увазі... Оцінку моєї роботи?
+
+
+# Brok
+### Yeah...
+PC13_STORY110_3RATING-2=Угу...
+
+
+# Brok
+### I will.
+PC13_STORY110_3RATING-3=Я зроблю це.
+
+
+# Graff
+### ...
+PC13_STORY110_3RATING-4=...
+
+
+# Brok
+### Do you... still trust me?
+PC13_STORY110_3RATING-5=Ти... все ще довіряєш мені?
+
+
+# Graff
+### I do...
+PC13_STORY110_3RATING-6=Довіряю...
+
+
+#----------------------------------------------------
+# Graff
+### Hey, I realized...
+PC13_STORY110_RELATIONSHIPGOOD-1=Гей, я тут подумав...
+
+
+# Graff
+### I don't have any pictures of us. This view would make a good one!
+PC13_STORY110_RELATIONSHIPGOOD-2=У нас немає жодної спільної фотографії. На тлі цього краєвиду вийшло б чудове фото!
+
+
+# Brok
+### Good idea!
+PC13_STORY110_RELATIONSHIPGOOD-3=Гарна ідея!
+
+
+# Graff
+### Hold on...
+PC13_STORY110_RELATIONSHIPGOOD-4=Зачекай...
+
+
+# Graff
+### ...Darn, the camera is acting up again...
+PC13_STORY110_RELATIONSHIPGOOD-5=...Чорт, камера знову барахлить...
+
+
+# Brok
+### Lemme do it!
+PC13_STORY110_RELATIONSHIPGOOD-6=Дай я зроблю!
+
+
+# Graff
+### Hey, are you sure you know...
+PC13_STORY110_RELATIONSHIPGOOD-7=Гей, ти впевнений, що знаєш...
+
+
+# Brok
+### 'Course I do!
+PC13_STORY110_RELATIONSHIPGOOD-8=Авжеж!
+
+
+#----------------------------------------------------
+# Brok
+### There.
+PC13_STORY110_SELFIE1-1=Ось так.
+
+
+# Brok
+### ...
+PC13_STORY110_SELFIE1-2=...
+
+
+# Graff
+### ...
+PC13_STORY110_SELFIE1-3=...
+
+
+# Brok
+### Oh...
+PC13_STORY110_SELFIE1-4=Ох...
+
+
+# Brok
+### Well... I guess I'll take another...
+PC13_STORY110_SELFIE1-5=Ну... мабуть, зроблю ще одну...
+
+
+# Graff
+### Don't! It's...
+PC13_STORY110_SELFIE1-6=Не треба! Вона...
+
+
+# Graff
+### It's perfect.
+PC13_STORY110_SELFIE1-7=Вона ідеальна.
+
+
+# Brok
+### Really?... Okay.
+PC13_STORY110_SELFIE1-8=Справді?... Гаразд.
+
+
+# Brok
+### Here, I transferred it to you.
+PC13_STORY110_SELFIE1-9=Ось, я відправив її тобі.
+
+
+# Graff
+### Thanks.
+PC13_STORY110_SELFIE1-10=Дякую.
+
+
+# Graff
+### ...
+PC13_STORY110_SELFIE1-11=...
+
+
+# Graff
+### I...
+PC13_STORY110_SELFIE1-12=Я...
+
+
+# Graff
+### I'm glad you're here.
+PC13_STORY110_SELFIE1-13=Я радий, що ти тут.
+
+
+# Brok
+### Me too.
+PC13_STORY110_SELFIE1-14=Я теж.
+
+
+#----------------------------------------------------
+# Unknown
+### (Ringing)
+PC13_STORY110_PHONECALL-1=(Дзвінок)
+
+
+# Brok
+### Uh-oh...
+PC13_STORY110_PHONECALL-2=Ой-ой...
+
+
+#----------------------------------------------------
+# Brok
+### Hello?
+PC13_STORY110_4-1=Алло?
+
+
+# Shay
+### (Bro'! What are you doing?!)
+PC13_STORY110_4-2=(Бро'! Ти що робиш?!)
+
+
+# Shay
+### (The fight starts in a few minutes!)
+PC13_STORY110_4-3=(Бій починається за кілька хвилин!)
+
+
+# Brok
+### Oops!
+PC13_STORY110_4-4=Ой!
+
+
+# Shay
+### (If you don't come immediately, I swear I'm gonna...)
+PC13_STORY110_4-5=(Якщо ти негайно не прийдеш, клянусь, я...)
+
+
+# Brok
+### Hang on!... I'm on my way!
+PC13_STORY110_4-6=Зачекай...! Я вже йду!
+
+
+# Brok
+### ...
+PC13_STORY110_4-7=...
+
+
+# Graff
+### Who was that?
+PC13_STORY110_4-8=Хто це був?
+
+
+# Brok
+### I... Erm...
+PC13_STORY110_4-9=Я... Е-е...
+
+
+# Brok
+### I'll explain later!
+PC13_STORY110_4-10=Я пізніше поясню!
+
+
+# Graff
+### ...
+PC13_STORY110_4-11=...
+
+
+# Graff
+### (Sigh) Some things never change.
+PC13_STORY110_4-12=(Зітхає) Деякі речі ніколи не змінюються.
+
+
+#----------------------------------------------------
+# Brok - Canonical ending - After the last argument with Graff, Brok is lost in his thoughts
+### Today...
+PC13_STORY300_INIT1-1=Сьогодні...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee said I saved our world...
+PC13_STORY300_INIT1-2=Ді сказала, що я врятував наш світ...
+
+
+# Brok
+### But it feels more like an ending to me.
+PC13_STORY300_INIT1-3=Та для мене це більше схоже на кінець.
+
+
+# Brok
+### Like...
+PC13_STORY300_INIT1-4=Ніби...
+
+
+# Brok
+### I wasted the biggest part of my life.
+PC13_STORY300_INIT1-5=Я змарнував більшу частину свого життя.
+
+
+# Brok
+### Lost the remaining person I truly cared about.
+PC13_STORY300_INIT1-6=Втратив останню людину, яка мені дійсно була небайдужа.
+
+
+# Brok
+### Who kept me living...
+PC13_STORY300_INIT1-7=Яка давала мені сили жити...
+
+
+# Brok
+### Surviving thus far...
+PC13_STORY300_INIT1-8=Виживати весь цей час...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff.
+PC13_STORY300_INIT1-9=Граффе.
+
+
+# Brok
+### You're right.
+PC13_STORY300_INIT1-10=Ти маєш рацію.
+
+
+# Brok
+### The more I try to make things right, the more I ruin your life.
+PC13_STORY300_INIT1-11=Що більше я намагаюся все виправити, то більше руйную твоє життя.
+
+
+# Brok
+### Was this really my plan from the start?
+PC13_STORY300_INIT1-12=Невже я хотів, щоб все було саме так?
+
+
+# Brok
+### I...
+PC13_STORY300_INIT1-13=Я...
+
+
+# Brok
+### I can't even remember...
+PC13_STORY300_INIT1-14=Я навіть не можу пригадати...
+
+
+# Brok
+### Only one thing is for certain.
+PC13_STORY300_INIT1-15=Одне можна сказати напевно.
+
+
+# Brok
+### Because of me...
+PC13_STORY300_INIT1-16=Через мене...
+
+
+# Brok
+### You'll never live your dreams...
+PC13_STORY300_INIT1-17=Ти ніколи не втілиш свої мрії...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You'll never become a Drumer...
+PC13_STORY300_INIT1-18=Ти ніколи не станеш мешканцем Верхів...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC13_STORY300_INIT1-19=Граффе...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia...
+PC13_STORY300_INIT1-20=Ліє...
+
+
+# Brok
+### Everyone...
+PC13_STORY300_INIT1-21=Усі...
+
+
+# Brok
+### I hurt everyone who gets close to me.
+PC13_STORY300_INIT1-22=Я завдаю болю кожному, хто наближається до мене.
+
+
+# Brok
+### Maybe I'm truly cursed.
+PC13_STORY300_INIT1-23=Можливо, я справді проклятий.
+
+
+# Brok
+### Maybe...
+PC13_STORY300_INIT1-24=Можливо...
+
+
+# Brok
+### Maybe it's time to end this...
+PC13_STORY300_INIT1-25=Можливо, час із цим покінчити...
+
+
+# Brok
+### Once and for all...
+PC13_STORY300_INIT1-26=Раз і назавжди...
+
+
+# Brok
+### ...
+PC13_STORY300_INIT1-27=...
+
+
+# Brok
+### No...
+PC13_STORY300_INIT1-28=Ні...
+
+
+# Brok
+### I... I can't stop fighting yet...
+PC13_STORY300_INIT1-29=Я... я поки не можу припинити боротьбу...
+
+
+# Brok
+### I just don't know... How to quit...
+PC13_STORY300_INIT1-30=Я просто не знаю... Як закінчити все це...
+
+
+# Brok
+### (Sigh)
+PC13_STORY300_INIT1-31=(Зітхає)
+
+
+# Brok
+### I better go home.
+PC13_STORY300_INIT1-32=Краще піду додому.
+
+
+# Brok
+### Tomorrow's another day.
+PC13_STORY300_INIT1-33=Завтра буде новий день.
+
+
+#----------------------------------------------------
+# Brok - Fall ending - aka the worst one. Brok just killed Graff and can't bear living any longer so he jumps from the top of the mountain
+### "Be a detective..."
+PC13_STORY300_FALL1-1="Будь детективом..."
+
+
+# Brok
+### That's right.
+PC13_STORY300_FALL1-2=Саме так.
+
+
+# Brok
+### I should have found out my true identity earlier.
+PC13_STORY300_FALL1-3=Мені слід було раніше дізнатися про свою справжню сутність.
+
+
+# Brok
+### I tried to fool myself.
+PC13_STORY300_FALL1-4=Я намагався себе обдурити.
+
+
+# Brok
+### But I've always known...
+PC13_STORY300_FALL1-5=Але я завжди знав...
+
+
+# Brok
+### There's a dangerous beast inside me...
+PC13_STORY300_FALL1-6=У мені живе небезпечний звір...
+
+
+# Brok
+### And I let it win.
+PC13_STORY300_FALL1-7=І я дозволив йому перемогти.
+
+
+# Brok
+### But...
+PC13_STORY300_FALL1-8=Але...
+
+
+# Brok
+### I just...
+PC13_STORY300_FALL1-9=Я просто...
+
+
+# Brok
+### Can't stay alone...
+PC13_STORY300_FALL1-10=Не можу залишатися наодинці...
+
+
+# Brok
+### ...
+PC13_STORY300_FALL1-11=...
+
+
+#----------------------------------------------------
+# Brok
+### Grandpa...
+PC13_STORY300_FALL2-1=Дідусю...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia...
+PC13_STORY300_FALL2-2=Ліє...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC13_STORY300_FALL2-3=Граффе...
+
+
+# Brok
+### I'm coming.
+PC13_STORY300_FALL2-4=Я йду до вас.
+
+
+#----------------------------------------------------
+

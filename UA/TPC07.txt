@@ -1,0 +1,264 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Sin (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Sin - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+#     Various - Brok (Unknown)
+
+#-------------------------------
+#= SIN APARTMENT HALLWAY
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin's Apartment
+PC_DOORSIN=Квартира Сіна
+
+### Mail boxes
+PC_MAILBOXES=Поштові скриньки
+
+### Mail box
+PC_MAILBOX=Поштова скринька
+
+### Debris
+PC_DEBRIS=Уламки
+
+### Door
+PC_DOOR=Двері
+
+### Welcome panel
+PC_WELCOME=Вітальна панель
+
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Interactions in the room
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums are falling apart... but without any money nothing is going to get better.
+PC07_DEBRIS1-1=Нетрі руйнуються... але без грошей нічого не налагодиться.
+
+
+# Brok
+### What kind of future is ahead of us?
+PC07_DEBRIS1-2=Яке майбутнє нас чекає?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### That's not Sin's apartment.
+PC07_DOOR_ANY1-1=Це не квартира Сіна.
+
+
+#----------------------------------------------------
+# Brok
+### I probably shouldn't bother the people who live here.
+PC07_DOOR_ANY2-1=Мабуть, не варто турбувати мешканців.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! After all these years their panel is still working!
+PC07_WELCOME1-1=Гей! Минуло стільки років, а їхня панель усе ще працює!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### "Exclusive! Attempted Squealers Coup d'Etat Fails, Thanks to Brand-New Military Droids named 'Tribots!'"
+PC07_WELCOME1-2="Ексклюзив! Спроба державного перевороту Верескунів провалилася завдяки новітнім військовим дроїдам під назвою 'Триботи'!"
+
+
+# Brok
+### That's old news.
+PC07_WELCOME1-3=Це старі новини.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### "Newsflash! Heavy Haze - Pollution level peaks in the Slums today! Don't forget to take your Daily Pill!"
+PC07_WELCOME2-1="Блискавичні новини! Густий Смог - рівень забруднення в Нетрях сьогодні сягає піку! Не забудьте прийняти щоденну пігулку!"
+
+
+# Brok
+### A weather forecast from 13 years ago, yet still surprisingly accurate!
+PC07_WELCOME2-2=Прогноз погоди 13-річної давнини, але все одно напрочуд точний!
+
+
+#----------------------------------------------------
+# Unknown
+### "PILL SHORTAGE - Please stay home indoors until the situation is resolved."
+PC07_WELCOME_PILL-1="ДЕФІЦИТ ПІГУЛОК - Будь ласка, залишайтеся вдома, доки ситуація не вирішиться."
+
+
+#----------------------------------------------------
+# Brok
+### As an outsider one might think that some punks have damaged these mailboxes.
+PC07_MAILBOXES1-1=Хтось сторонній міг би подумати, що ці поштові скриньки пошкодили якісь негідники.
+
+
+# Brok
+### However, I'd wager it was the residents themselves. I have to admit that all those security protocols are annoying.
+PC07_MAILBOXES1-2=Втім, б'юся об заклад, що це самі мешканці. Мушу визнати, всі ці протоколи безпеки дратують.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### You'll only find these in the Slums. We're attached to our tried & true physical papers!
+PC07_MAILBOXES2-1=Таке зустрінеш тільки в Нетрях. Ми прив'язані до наших перевірених часом паперових документів!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### And some of us can't afford access to the Triweb.
+PC07_MAILBOXES2-2=А ще дехто з нас не може дозволити собі доступ до Тривебу.
+
+
+#----------------------------------------------------
+# Brok
+### (Knocks)
+PC07_DOORTRY-1=(Стукає)
+
+
+#----------------------------------------------------
+# Unknown
+### ...
+PC07_DOORA1-1=...
+
+
+# Unknown
+### (Whispers)
+PC07_DOORA1-2=(Шепіт)
+
+
+# Brok
+### Hmm... I could swear...
+PC07_DOORA1-3=Гмм... готовий присягтися...
+
+
+#----------------------------------------------------
+# Unknown
+### (Whispers)
+PC07_DOORA2-1=(Шепіт)
+
+
+# Brok
+### Yeah. Female voices...
+PC07_DOORA2-2=Так. Жіночі голоси...
+
+
+# Brok
+### No surprise. Most stay home pretty much all day.
+PC07_DOORA2-3=Нічого дивного. Більшість сидить удома майже весь день.
+
+
+#----------------------------------------------------
+# Various
+### Hey! Who the heck are you?
+PC07_DOORB1-1=Гей! Хто ти, в біса, такий?
+
+
+# Various
+### Get lost!
+PC07_DOORB1-2=Забирайся звідси!
+
+
+# Brok
+### Not very friendly.
+PC07_DOORB1-3=Не надто привітно.
+
+
+#----------------------------------------------------
+# Various
+### I get it! Yer dat salesman from last time!
+PC07_DOORB2-1=Все ясно! Ти той самий продавець з минулого разу!
+
+
+# Various
+### Yous guys just won't give up. But yer wasting yer time!
+PC07_DOORB2-2=Шо ви за хлопці, ніяк не вгамуєтеся. Даремно гаєте час!
+
+
+#----------------------------------------------------
+# Various
+### Ya've bothered me enough! Take this back!
+PC07_DOORB3-1=Ти вже мене дістав! Забирай це назад!
+
+
+# Brok
+### Huh...?
+PC07_DOORB3-2=Га...?
+
+
+# Brok
+### They slid a sales catalog under the door.
+PC07_DOORB3-3=Хтось просунув під дверима торговий каталог.
+
+
+# Brok
+### Cool, there's a coupon inside!
+PC07_DOORB3-4=Круто, всередині є флаєр!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC07_DOORC1-1=...
+
+
+# Brok
+### No reply.
+PC07_DOORC1-2=Немає відповіді.
+
+
+#----------------------------------------------------
+# Brok
+### Oops! This leads to the bathing area.
+PC07_DOORSHOWER-1=Ой! Це веде до душової.
+
+
+#----------------------------------------------------
+# Sin
+### Go ahead!
+PC07_DOORSINKNOCK1-1=Проходьте!
+
+
+#----------------------------------------------------
+# Sin
+### Hey! What are you doing?
+PC07_DOORSINKNOCK2-1=Гей! Що ви робите?
+
+
+#----------------------------------------------------
+# Sin
+### (Sigh)
+PC07_DOORSINKNOCK3-1=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Something's in there!
+PC07_MAILBOX1-1=Там щось є!
+
+
+#----------------------------------------------------
+

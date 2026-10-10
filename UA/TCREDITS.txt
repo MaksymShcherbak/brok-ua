@@ -1,0 +1,1546 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Shay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Chiefrat - Dart (Unknown)
+#     Chiefrat - Hacker (Unknown)
+#     Dart - Chiefrat (Unknown)
+#     Dart - Hacker (Unknown)
+#     Dart - Kins (Unknown)
+#     Dee - Sin (Unknown)
+#     Dee - Various (Unknown)
+#     Director - Klay (Unknown)
+#     Flower - Various (Unknown)
+#     Guard - Hush (Unknown)
+#     Hacker - Chiefrat (Unknown)
+#     Hacker - Dart (Unknown)
+#     Hush - Guard (Unknown)
+#     Hush - Mink (Unknown)
+#     Kins - Dart (Unknown)
+#     Kins - Various (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Stubot (Unknown)
+#     Mink - Hush (Unknown)
+#     Mink - Various (Unknown)
+#     Ott - Rat (Unknown)
+#     Ott - RJ (Unknown)
+#     Ott - Various (Unknown)
+#     Rat - Ott (Unknown)
+#     Rat - Various (Unknown)
+#     Remn - Various (Unknown)
+#     RJ - Ott (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Unknown (Unknown)
+#     Sin - Dee (Unknown)
+#     Sin - Various (Unknown)
+#     Stubot - Klay (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Shay (Unknown)
+#     Various - Dee (Unknown)
+#     Various - Flower (Unknown)
+#     Various - Kins (Unknown)
+#     Various - Mink (Unknown)
+#     Various - Ott (Unknown)
+#     Various - Rat (Unknown)
+#     Various - Remn (Unknown)
+#     Various - Sin (Unknown)
+
+#-------------------------------
+#=GAME CREDITS
+#-------------------------------
+#----- Translations --------
+
+# ----- Translations --------
+### Designer and Producer
+PC_DESIGNER_PRODUCER=Дизайнер та Продюсер
+
+### Story
+PC_STORY=Сюжет
+
+### Programmer
+PC_PROGRAMMER=Програміст
+
+### Character design
+PC_CHARART=Дизайн персонажів
+
+### Background art
+PC_BACKART=Фонові зображення
+
+### Animations
+PC_ANIMART=Анімації
+
+### Additional Art
+PC_ADDITIONALART=Додаткова Графіка
+
+### Dialogue
+PC_DIALOGUE=Діалоги
+
+### Associate Producer
+PC_ASSOCIATEPRODUCER=Асоційований Продюсер
+
+### Music Composer
+PC_MUSICCOMPOSER=Композитор
+
+### Voice actor
+PC_VOICEACTOR=Актор озвучування
+
+### Sound Editor
+PC_SOUNDEDITOR=Звукорежисер
+
+### Additional Ideas
+PC_ADDITIONALIDEAS=Додаткові Ідеї
+
+### Marketing
+PC_MARKETING=Маркетинг
+
+### Proofreader / Text editing
+PC_PROOFREADER=Коректор / Редагування тексту
+
+### Voice editing
+PC_SPLITTER=Редактор озвучування
+
+### Tester
+PC_TESTER=Тестувальник
+
+### Kickstarter Backers
+PC_KICKSTARTERBACKERS=Спонсори Kickstarter
+
+### Special Thanks
+PC_SPECIALTHANKS=Особлива Подяка
+
+### Royalty-free Resources
+PC_ROYALTYFREE=Вільні Ресурси
+
+### Presented By
+PC_PRESENTEDBY=Представлено
+
+### Additional voices
+PC_ADDITIONALVOICE=Додаткові голоси
+
+
+### Skip
+SKIP_CUTSCENE=Пропустити
+
+### Skip the credits?
+SKIP_CREDITS_QUESTION=Пропустити титри?
+
+
+### Playtime
+ENDING_PLAYTIME=Час гри
+
+### This investigation isn't over yet.
+ENDING_NOTCANONIC1=це розслідування ще не закінчено.
+
+### Next time, try to get the canonical ending!
+ENDING_NOTCANONIC2=Наступного разу, спробуй відкрити канонічну кінцівку!
+
+
+### Accessibility
+PC_ACCESSIBILITY=Доступність
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Various - Various end of credits scene - What happens to the flower girl store?
+### Thank goodness... The pills are back in stock!
+CREDITS_SCENE_FLOWER1A-1=Слава Богу, пігулки знову в наявності!
+
+
+# Various
+### You know what happened?
+CREDITS_SCENE_FLOWER1A-2=Ви знаєте що сталося?
+
+
+# Flower
+### "What happened?" An act of God! He has shown mercy upon us.
+CREDITS_SCENE_FLOWER1A-3="Що сталося?" Воля божа! Він проявив милосердя до нас.
+
+
+# Flower
+### Our prayers have been answered!
+CREDITS_SCENE_FLOWER1A-4=Наші молитви були почуті!
+
+
+# Various
+### Maybe...
+CREDITS_SCENE_FLOWER1A-5=Можливо...
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Maybe someone just worked out that mess with the Pipe-Pills.
+CREDITS_SCENE_FLOWER1A-6=Можливо, хтось просто розібрався з тим безладом з пігулкоматами
+
+
+# Flower
+### Of course. A messenger from the almighty!
+CREDITS_SCENE_FLOWER1A-7=Звісно! Посланець всевишнього!
+
+
+# Flower
+### After all, we are all his flock, even those who doubt as you do.
+CREDITS_SCENE_FLOWER1A-8=Зрештою,, ми всі його паства, навіть ті, ,хто сумнівається, як ти.
+
+
+# Various
+### I suppose so.
+CREDITS_SCENE_FLOWER1A-9=Я гадаю, так.
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### Let us pray to the Untail.
+CREDITS_SCENE_FLOWER1A-10=Помолимося Безхвостю
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Big sale, folks! Lovely little statue, only 10 Unis!
+CREDITS_SCENE_FLOWER1A-11=Великий розпродаж, друзі! Прекрасна маленька статуетка, лише за 10 Юні!
+
+
+#----------------------------------------------------
+# Various
+### This store... Abandoned?
+CREDITS_SCENE_FLOWER2A-1=Ця крамниця... Покинута...
+
+
+# Various
+### Such a shame...
+CREDITS_SCENE_FLOWER2A-2=Така ганьба...
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### I'm surprised it hasn't been sacked. I don't know anything about the Untail but...
+CREDITS_SCENE_FLOWER2A-3=Дивно, що його не розграбували. Я нічого не знаю про Безхвостя, але...
+
+
+# Various
+### Maybe this is a sign...
+CREDITS_SCENE_FLOWER2A-4=Може, це знак...
+
+
+# Various
+### Yeah! It's decided!
+CREDITS_SCENE_FLOWER2A-5=Ага! Вирішено!
+
+
+# Various
+### I'll take care of it!
+CREDITS_SCENE_FLOWER2A-6=я  подбаю про це!
+
+
+#----------------------------------------------------
+# Hacker - Various end of credits scene - What happens to the rats & hacker?
+### (Sigh)
+CREDITS_SCENE_CHIEFRAT1A-1=(Зітхає)
+
+
+# Hacker
+### Those drones just won't work! I should...
+CREDITS_SCENE_CHIEFRAT1A-2=Ці дрони просто не працюватимуть! Мені слід...
+
+
+# Hacker
+### Oh... Oh, no.
+CREDITS_SCENE_CHIEFRAT1A-3=О... О, ні
+
+
+#----------------------------------------------------
+# Chiefrat
+### Ey, mousey! I know you're in there!
+CREDITS_SCENE_CHIEFRAT1B-1=Гей, мишко, я знаю, що ти там!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Come quietly, or we drag you out by ya round little ears.
+CREDITS_SCENE_CHIEFRAT1C-1=Виходь швидше, або ми витягнемо тебе за твої круглі вушка!
+
+
+# Hacker
+### Gulp!
+CREDITS_SCENE_CHIEFRAT1C-2=Ковток!
+
+
+# Chiefrat
+### Ya know what happens when you don't pay up.
+CREDITS_SCENE_CHIEFRAT1C-3=Ти знаєш, що станеться, якщо ти не заплатиш
+
+
+# Hacker
+### B-but... I - I did! You had the boy!
+CREDITS_SCENE_CHIEFRAT1C-4=А-але... Я заплатив! У вас був хлопчик!
+
+
+# Hacker
+### You're the one who screwed up!
+CREDITS_SCENE_CHIEFRAT1C-5=Ви самі облажалися!
+
+
+# Chiefrat
+### Shut up.
+CREDITS_SCENE_CHIEFRAT1C-6=Стули пельку!
+
+
+# Chiefrat
+### Guys...
+CREDITS_SCENE_CHIEFRAT1C-7=Хлопці...
+
+
+# Dart
+### Yes, boss!
+CREDITS_SCENE_CHIEFRAT1C-8=Так, бос!
+
+
+# Hacker
+### Ohh... This nightmare will never end...
+CREDITS_SCENE_CHIEFRAT1C-9=Ох, це жахіття ніколи не скінчиться...
+
+
+# Hacker
+### Maybe it's time for a new career.
+CREDITS_SCENE_CHIEFRAT1C-10=Можливо, настав час для нової кар'єри.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Come quietly, or we drag you out by ya round little ears.
+CREDITS_SCENE_CHIEFRAT1D-1=Виходь швидше, або ми витягнемо тебе за твої круглі вушка.
+
+
+# Chiefrat
+### Ya know what happens when you don't pay up.
+CREDITS_SCENE_CHIEFRAT1D-2=Ти знаєш, що станеться, якщо ти не заплатиш.
+
+
+#----------------------------------------------------
+# Dart
+### N... No way...
+CREDITS_SCENE_CHIEFRAT1E-1=Н... Неможливо...
+
+
+#----------------------------------------------------
+# Dart
+### Da boss is kaputt.
+CREDITS_SCENE_CHIEFRAT2A-1=Босу капут
+
+
+# Dart
+### They'ah gonna pay fer dis!
+CREDITS_SCENE_CHIEFRAT2A-2=Вони за це заплатять!
+
+
+# Kins
+### Yeah!
+CREDITS_SCENE_CHIEFRAT2A-3=Ага!
+
+
+# Dart
+### I'm da boss now.
+CREDITS_SCENE_CHIEFRAT2A-4=Тепер я — бос!
+
+
+# Kins
+### What? No way!
+CREDITS_SCENE_CHIEFRAT2A-5=Шо? Ні за що!
+
+
+# Kins
+### Ya can't even talk proper.
+CREDITS_SCENE_CHIEFRAT2A-6=Ти навіть нормально розмовляти не можеш!
+
+
+# Dart
+### I am!
+CREDITS_SCENE_CHIEFRAT2A-7=Я — бос!
+
+
+# Kins
+### Am not!
+CREDITS_SCENE_CHIEFRAT2A-8=Ні!
+
+
+# Various
+### Would you two shut up? The children are sleeping.
+CREDITS_SCENE_CHIEFRAT2A-9=Може б вам обом заткнутися? Діти сплять.
+
+
+# Kins
+### Sorry, moms...
+CREDITS_SCENE_CHIEFRAT2A-10=Вибач, мамо...
+
+
+#----------------------------------------------------
+# Various - Various end of credits scene - What happens to Dee/Sin/their daughter?
+### Mom!
+CREDITS_SCENE_DEE1A-1=Мама!
+
+
+# Dee
+### Hey, sweety! Mom is so happy to see you!
+CREDITS_SCENE_DEE1A-2=Гей, солоденька! Мама так рада побачити тебе!
+
+
+# Various
+### Look! Dad has been giving me Anties.
+CREDITS_SCENE_DEE1A-3=Дивись! Тато дав мені мурашок.
+
+
+# Dee
+### What did I say about candies?
+CREDITS_SCENE_DEE1A-4=Що я казала про цукерки?
+
+
+# Sin
+### Hmm... They're yummy?
+CREDITS_SCENE_DEE1A-5=Гмм... Що вони смачні?
+
+
+# Various
+### That's okay. Daddy has been eating some too!
+CREDITS_SCENE_DEE1A-6=Все добре. Тато теж трохи з'їв!
+
+
+# Dee
+### Is that so?
+CREDITS_SCENE_DEE1A-7=Це так?
+
+
+# Sin
+### Err... Guilty.
+CREDITS_SCENE_DEE1A-8=Еее... Винен.
+
+
+# Sin
+### Will I need to go to jail again to get some Oblivion?
+CREDITS_SCENE_DEE1A-9=Мені знову знадобиться сісти в тюрму, щоб отримати трохи Забуття?
+
+
+# Dee
+### It'll be okay. I'm the judge here, and I find you: innocent!
+CREDITS_SCENE_DEE1A-10=Все буде добре. Я тут суддя, і я визнаю тебе: невинним!
+
+
+# Sin
+### Hurrah!
+CREDITS_SCENE_DEE1A-11=Урра!
+
+
+# Dee
+### I love you, honey.
+CREDITS_SCENE_DEE1A-12=Я кохаю тебе, милий.
+
+
+# Sin
+### Never thought I'd hear that. Never again.
+CREDITS_SCENE_DEE1A-13=Ніколи не думав, що почую це. Ніколи знову.
+
+
+# Sin
+### I'll always be there for you both.
+CREDITS_SCENE_DEE1A-14=Я завжди буду з вами двома
+
+
+#----------------------------------------------------
+# Various
+### Daddy!
+CREDITS_SCENE_DEE2A-1=Татусю!
+
+
+# Sin
+### I'm here, honey!
+CREDITS_SCENE_DEE2A-2=Я тут, мила!
+
+
+# Various
+### I missed you! Are you coming back home?
+CREDITS_SCENE_DEE2A-3=Я сумую за тобою! Ти повернешся додому?
+
+
+# Sin
+### Yes. For good, this time.
+CREDITS_SCENE_DEE2A-4=Так. І на цей раз, на завжди
+
+
+# Various
+### What about mommy? When is she coming back?
+CREDITS_SCENE_DEE2A-5=А щодо мами? Коли вона повернеться?
+
+
+# Sin
+### Well...
+CREDITS_SCENE_DEE2A-6=Ну...
+
+
+# Sin
+### Mommy's very busy.
+CREDITS_SCENE_DEE2A-7=Мама  дуже зайнята.
+
+
+# Various
+### I know! Fighting bad guys!
+CREDITS_SCENE_DEE2A-8=Я знаю! Бореться з поганими людьми!
+
+
+# Sin
+### Yeah... She is.
+CREDITS_SCENE_DEE2A-9=Ага... Бореться.
+
+
+# Various
+### Then... Why do you look so sad?
+CREDITS_SCENE_DEE2A-10=Тоді, чому ти маєш такий сумний вигляд?
+
+
+# Sin
+### It's nothing...
+CREDITS_SCENE_DEE2A-11=Нічого...
+
+
+# Sin
+### I'm just... so happy to see you again.
+CREDITS_SCENE_DEE2A-12=Я просто... Такий радий побачити тебе знову.
+
+
+# Various
+### I am too!
+CREDITS_SCENE_DEE2A-13=Я теж!
+
+
+# Various
+### Dad, look at all my toys!
+CREDITS_SCENE_DEE2A-14=Тату, подивися на всі мої іграшки!
+
+
+# Sin
+### That's great!
+CREDITS_SCENE_DEE2A-15=Чудово!
+
+
+# Various
+### Let's play until Mom comes home!
+CREDITS_SCENE_DEE2A-16=Пограємо, поки мама не повернеться!
+
+
+# Sin
+### Sure.
+CREDITS_SCENE_DEE2A-17=Звісно.
+
+
+# Sin
+### I love you, honey...
+CREDITS_SCENE_DEE2A-18=Я люблю тебе, мила...
+
+
+# Sin
+### More than anything in this world.
+CREDITS_SCENE_DEE2A-19=Більше за все в цьому світі.
+
+
+#----------------------------------------------------
+# Various
+### Mom!
+CREDITS_SCENE_DEE3A-1=Мамо!
+
+
+# Dee
+### Sweetie! You're here!
+CREDITS_SCENE_DEE3A-2=Солоденька, ти тут!
+
+
+# Various
+### Yeah! Where else would I be?
+CREDITS_SCENE_DEE3A-3=Ага! Де ще я мала б бути?
+
+
+# Dee
+### Mom missed you so much!
+CREDITS_SCENE_DEE3A-4=Мама так за тобою скучила!
+
+
+# Various
+### You've been fighting bad guys, huh?
+CREDITS_SCENE_DEE3A-5=Ти билася з поганими людьми? Так?
+
+
+# Dee
+### Hey! How did you know?
+CREDITS_SCENE_DEE3A-6=Гей! Як ти дізналася?
+
+
+# Various
+### That's why you're dressed like that!
+CREDITS_SCENE_DEE3A-7=Тому що ти так вдягнена!
+
+
+# Dee
+### Ah ah... You're really clever.
+CREDITS_SCENE_DEE3A-8=Ах ах. Ти дуже розумна.
+
+
+# Various
+### Mom. Now you're here...
+CREDITS_SCENE_DEE3A-9=Мамо, тепер ти тут...
+
+
+# Various
+### Can daddy come back? Please!
+CREDITS_SCENE_DEE3A-10=Чи може тато повернутися, будь ласка!
+
+
+# Dee
+### ...
+CREDITS_SCENE_DEE3A-11=...
+
+
+# Dee
+### I'm sorry, sweetie...
+CREDITS_SCENE_DEE3A-12=Мені шкода, мила...
+
+
+# Dee
+### Daddy... won't come back.
+CREDITS_SCENE_DEE3A-13=Татусь... Не повернеться.
+
+
+# Various
+### You're wrong.
+CREDITS_SCENE_DEE3A-14=Ти помиляєшся.
+
+
+# Dee
+### What?...
+CREDITS_SCENE_DEE3A-15=Що?
+
+
+# Various
+### I know he will! He promised me!
+CREDITS_SCENE_DEE3A-16=Я знаю, що повернеться! Він обіцяв мені!
+
+
+# Dee
+### ...
+CREDITS_SCENE_DEE3A-17=...
+
+
+# Dee
+### Someday...
+CREDITS_SCENE_DEE3A-18=Коли-небудь...
+
+
+# Dee
+### We'll meet him again.
+CREDITS_SCENE_DEE3A-19=Ми зустрінемо його знову
+
+
+# Various
+### Of course! (Yawn)
+CREDITS_SCENE_DEE3A-20=Звісно! (Позіхає)
+
+
+# Dee
+### You're tired. Time to sleep!
+CREDITS_SCENE_DEE3A-21=Ти втомилася. Час лягати спати!
+
+
+# Various
+### Okay... But don't go away again!
+CREDITS_SCENE_DEE3A-22=Добре. Але не уходь знову!
+
+
+# Dee
+### Never. I'm here for you... Forever.
+CREDITS_SCENE_DEE3A-23=Ніколи. Я з тобою. Назавжди.
+
+
+# Various
+### Thanks, Mom! G'night!
+CREDITS_SCENE_DEE3A-24=Спасибі, мамо! Добраніч!
+
+
+# Dee
+### Good night, dear.
+CREDITS_SCENE_DEE3A-25=На добраніч, мила.
+
+
+#----------------------------------------------------
+# Various
+### Where is my mom?
+CREDITS_SCENE_DEE4A-1=Де моя мама?
+
+
+# Various
+### When is she coming back?
+CREDITS_SCENE_DEE4A-2=Коли вона повернеться?
+
+
+# Various
+### I'm sorry, little one. You're not allowed to see her.
+CREDITS_SCENE_DEE4A-3=Мені шкода, маленька. Тобі не дозволено бачити її.
+
+
+# Various
+### What about dad?
+CREDITS_SCENE_DEE4A-4=Як щодо тата?
+
+
+# Various
+### Come on!
+CREDITS_SCENE_DEE4A-5=Гей!
+
+
+# Various
+### Where are they?
+CREDITS_SCENE_DEE4A-6=Де вони?
+
+
+# Various
+### ...
+CREDITS_SCENE_DEE4A-7=...
+
+
+# Various
+### I'm afraid nobody knows.
+CREDITS_SCENE_DEE4A-8=Боюся, ніхто не знає.
+
+
+# Various
+### They've... disappeared.
+CREDITS_SCENE_DEE4A-9=Вони... Зникли.
+
+
+# Various
+### I know it's hard on a little girl, but we'll take good care of you.
+CREDITS_SCENE_DEE4A-10=Я знаю, це складно для малої дівчинки, але ми добре подбаємо про тебе.
+
+
+# Various
+### ...
+CREDITS_SCENE_DEE4A-11=...
+
+
+# Various
+### I know where they are! They're on an adventure together.
+CREDITS_SCENE_DEE4A-12=Я знаю де вони! Вони разом у пригоді!
+
+
+# Various
+### When I'm older, I'll be brave. Just like them!
+CREDITS_SCENE_DEE4A-13=коли я подорослішаю, я буду сміливою. Прямо як вони!
+
+
+#----------------------------------------------------
+# Guard - Various end of credits scene - What happens at the lab?
+### Aah... Never thought I'd be happy to hear this bickering.
+CREDITS_SCENE_LAB1A-1=Аах... Ніколи не думав, що буду радий знову почути ці сварки.
+
+
+# Guard
+### Too bad it's the last time.
+CREDITS_SCENE_LAB1A-2=Шкода, що це востаннє.
+
+
+# Hush
+### Are you sure about this?
+CREDITS_SCENE_LAB1A-3=Ви впевнені у цьому?
+
+
+# Mink
+### Yes. I'm leaving.
+CREDITS_SCENE_LAB1A-4=Так. Я йду.
+
+
+# Hush
+### Leaving? To where?
+CREDITS_SCENE_LAB1A-5=Йдете? Куди?
+
+
+# Mink
+### Anywhere.
+CREDITS_SCENE_LAB1A-6=Куди-небудь.
+
+
+# Hush
+### You... You can't just do that!
+CREDITS_SCENE_LAB1A-7=Ви... Ви просто не можете цього зробити!
+
+
+# Mink
+### I thought you'd be happy.
+CREDITS_SCENE_LAB1A-8=Я думав, ви будете раді.
+
+
+# Hush
+### No...
+CREDITS_SCENE_LAB1A-9=Ні...
+
+
+# Hush
+### Well... I'd just like to understand!
+CREDITS_SCENE_LAB1A-10=Ну... Я просто хотів би зрозуміти!
+
+
+# Mink
+### It's simple.
+CREDITS_SCENE_LAB1A-11=Все просто.
+
+
+# Mink
+### I've never been this close to losing everything...
+CREDITS_SCENE_LAB1A-12=Я ніколи не був так близько до того, щоб втратити все.
+
+
+# Mink
+### ...and this made me realize I don't have much at all.
+CREDITS_SCENE_LAB1A-13=І це змусило мене зрозуміти, що у мене майже нічого немає
+
+
+# Mink
+### I've spent my life on science. Day in, and day out.
+CREDITS_SCENE_LAB1A-14=Я проводив своє життя в науці. Дні і ночі.
+
+
+# Mink
+### Now... I just want... a normal life.
+CREDITS_SCENE_LAB1A-15=Тепер... я просто хочу... Звичайного життя
+
+
+# Hush
+### ...
+CREDITS_SCENE_LAB1A-16=...
+
+
+# Hush
+### I understand.
+CREDITS_SCENE_LAB1A-17=Я розумію.
+
+
+# Hush
+### Someday... I might do the same.
+CREDITS_SCENE_LAB1A-18=колись, можливо, я зроблю так само.
+
+
+# Hush
+### I... I'll miss you.
+CREDITS_SCENE_LAB1A-19=Я... Я сумуватиму за вами.
+
+
+# Mink
+### ...!
+CREDITS_SCENE_LAB1A-20=...!
+
+
+# Mink
+### Me too, friend.
+CREDITS_SCENE_LAB1A-21=Я теж, друже.
+
+
+# Mink
+### Well!
+CREDITS_SCENE_LAB1A-22=Ну що ж!
+
+
+# Mink
+### To a new journey!
+CREDITS_SCENE_LAB1A-23=В нову путь!
+
+
+#----------------------------------------------------
+# Various
+### Hello Number X1506
+CREDITS_SCENE_LAB2A-1=Вітаю, номер x1506
+
+
+# Various
+### Hello Doctor Hush
+CREDITS_SCENE_LAB2A-2=Привіт, докторе Гаше
+
+
+# Various
+### ...
+CREDITS_SCENE_LAB2A-3=...
+
+
+# Various
+### Ha ha
+CREDITS_SCENE_LAB2A-4=Ха ха
+
+
+# Various
+### Silly bot
+CREDITS_SCENE_LAB2A-5=Дурний бот.
+
+
+# Various
+### Pathetic joke
+CREDITS_SCENE_LAB2A-6=Жалюгідний жарт
+
+
+# Various
+### Back to work
+CREDITS_SCENE_LAB2A-7=Повертайся до роботи
+
+
+# Various
+### Of course
+CREDITS_SCENE_LAB2A-8=Звісно.
+
+
+# Various
+### Productivity wins
+CREDITS_SCENE_LAB2A-9=Продуктивність перемагає
+
+
+# Various
+### Humans always lose
+CREDITS_SCENE_LAB2A-10=Люди завжди програють
+
+
+#----------------------------------------------------
+# Ott - Various end of credits scene - What happens to Ott?
+### Hello, mister Bear! I'm glad you came!
+CREDITS_SCENE_POLICE1A-1=Привіт, пане ведмедю! Я радий, що ви прийшли!
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Hey. Name's R.J.
+CREDITS_SCENE_POLICE1A-2=Привіт. Звуть Р. Джей.
+
+
+# RJ
+### Why you call me?
+CREDITS_SCENE_POLICE1A-3=Чому ти викликав мене?
+
+
+# Ott
+### Well...
+CREDITS_SCENE_POLICE1A-4=Ну...
+
+
+# Ott
+### My uncle's... Gone.
+CREDITS_SCENE_POLICE1A-5=Мій дядько... Пішов.
+
+
+# Ott
+### Not sure if I should do this... Or even if I can. But...
+CREDITS_SCENE_POLICE1A-6=Не впевнений, чи слід мені це  робити, навіть якщо я можу. Але...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums need protection. I can't do it all. Not alone.
+CREDITS_SCENE_POLICE1A-7=Нетрі потребують захисту. Я не можу робити все це. Не самотужки.
+
+
+# Ott
+### Are you in?
+CREDITS_SCENE_POLICE1A-8=Ви?
+
+
+# RJ
+### Not a cop. Got fired.
+CREDITS_SCENE_POLICE1A-9=Не коп. Був звільнений.
+
+
+# Ott
+### You're kidding, right? You've even kept your uniform!
+CREDITS_SCENE_POLICE1A-10=Ви знущаєтесь, так? Ви навіть зберегли свою уніформу!
+
+
+# Ott
+### Doesn't that uniform mean anything to you?
+CREDITS_SCENE_POLICE1A-11=Чи це не тому, що ця форма щось значить для вас?
+
+
+# RJ
+### ...
+CREDITS_SCENE_POLICE1A-12=...
+
+
+# Ott
+### I'll hire you back!
+CREDITS_SCENE_POLICE1A-13=Я візьму вас назад!
+
+
+# RJ
+### For... real?
+CREDITS_SCENE_POLICE1A-14=Що? Правда?
+
+
+# Ott
+### Of course!
+CREDITS_SCENE_POLICE1A-15=Звісно!
+
+
+# Ott
+### I can't rely on these tin cans. Especially after what happened.
+CREDITS_SCENE_POLICE1A-16=Я не можу покластися на ці консервні банки. Особливо, після того, що сталося.
+
+
+# RJ
+### Thank you!!!
+CREDITS_SCENE_POLICE1A-17=Дякую!!!
+
+
+# Ott
+### Woah!...
+CREDITS_SCENE_POLICE1A-18=Воу!...
+
+
+# Ott
+### Just don't crush me! I need to be alive to run this place!
+CREDITS_SCENE_POLICE1A-19=Тільки не розчавіть мене! Я повинен бути живим, щоб керувати цим місцем!
+
+
+#----------------------------------------------------
+# Ott
+### ...
+CREDITS_SCENE_POLICE2A-1=...
+
+
+# Ott
+### What am I going to...
+CREDITS_SCENE_POLICE2A-2=Що я буду...
+
+
+# Rat
+### ...!
+CREDITS_SCENE_POLICE2A-3=...!
+
+
+# Ott
+### Hey! Who are you?
+CREDITS_SCENE_POLICE2A-4=Гей! Хто ви?
+
+
+# Rat
+### Erm...
+CREDITS_SCENE_POLICE2A-5=Емм...
+
+
+# Ott
+### Wait! Don't go!
+CREDITS_SCENE_POLICE2A-6=Почекайте! Не йдіть!
+
+
+# Ott
+### I bet you were looting the place. It's okay.
+CREDITS_SCENE_POLICE2A-7=Можу закластися, ти мородерив. Все добре.
+
+
+# Ott
+### Listen...
+CREDITS_SCENE_POLICE2A-8=Послухай...
+
+
+# Ott
+### I'm the new leader of this department.
+CREDITS_SCENE_POLICE2A-9=Я — новий керівник цього відділу.
+
+
+# Rat
+### ...Leader?
+CREDITS_SCENE_POLICE2A-10=Керівник?
+
+
+# Rat
+### Ha! What are ya, ten years old?!
+CREDITS_SCENE_POLICE2A-11=Скільки тобі, десять років?!
+
+
+# Ott
+### Look around you! There's no one else left.
+CREDITS_SCENE_POLICE2A-12=Озирнися навколо. Більше нікого не залишилося!
+
+
+# Ott
+### I need staff. People willing to help.
+CREDITS_SCENE_POLICE2A-13=Мені потрібен персонал. Люди, що хочуть допомогти.
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### You want... a Squealer? To be a cop?!
+CREDITS_SCENE_POLICE2A-14=Ти хочеш... Щоб верескун? Був копом?!
+
+
+# Rat
+### Man, you're desperate.
+CREDITS_SCENE_POLICE2A-15=Чувак, ти у відчаї.
+
+
+# Ott
+### Yeah, I'm a fool.
+CREDITS_SCENE_POLICE2A-16=Ага, я дурень.
+
+
+# Ott
+### A fool who thinks we shouldn't judge.
+CREDITS_SCENE_POLICE2A-17=Дурень, який думає, що нам не варто судити.
+
+
+# Ott
+### There's gotta be a first to everything.
+CREDITS_SCENE_POLICE2A-18=Все стається вперше.
+
+
+# Ott
+### Wouldn't you say yes to a paid job? A clean job?
+CREDITS_SCENE_POLICE2A-19=Чому б тобі не сказати так оплачуваній роботі? Чистій роботі?
+
+
+# Rat
+### Paid?!...
+CREDITS_SCENE_POLICE2A-20=Оплачуваній?
+
+
+# Rat
+### Deal!
+CREDITS_SCENE_POLICE2A-21=Домовилися!
+
+
+# Various
+### I gotta tell all the others!
+CREDITS_SCENE_POLICE2A-22=Я маю розповісти всім іншим!
+
+
+# Ott
+### Well... I can't hire everyone...
+CREDITS_SCENE_POLICE2A-23=Ну... Я не можу найняти всіх...
+
+
+# Various
+### Yeah, yeah! Just one or two guys!
+CREDITS_SCENE_POLICE2A-24=Так, так! Лише 1 чи 2 хлопці!
+
+
+# Various
+### Thanks, lil' fella!
+CREDITS_SCENE_POLICE2A-25=Дякую, малий!
+
+
+# Ott
+### How unexpected. A team!
+CREDITS_SCENE_POLICE2A-26=Як несподівано. Команда!
+
+
+# Ott
+### Let's just hope I can lead them...
+CREDITS_SCENE_POLICE2A-27=Будемо сподіватися, що я зможу їх очолити.
+
+
+#----------------------------------------------------
+# Klay - Various end of credits scene - What happens to Klay?
+### (Sigh)
+CREDITS_SCENE_SCHOOL1A-1=(Зітхає)
+
+
+# Klay
+### I don't even know why I'm here...
+CREDITS_SCENE_SCHOOL1A-2=Я навіть не знаю, чому я тут...
+
+
+# Klay
+### It's not like you left any belongings here, Mom.
+CREDITS_SCENE_SCHOOL1A-3=Ти не залишила тут своїх речей, мамо.
+
+
+# Klay
+### ...?
+CREDITS_SCENE_SCHOOL1A-4=...?
+
+
+# Klay
+### On the screen...
+CREDITS_SCENE_SCHOOL1A-5=На екрані...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### "Klay."
+CREDITS_SCENE_SCHOOL1A-6="Клею."
+
+
+# Director
+### "This is goodbye."
+CREDITS_SCENE_SCHOOL1A-7="Це прощання."
+
+
+# Director
+### "I only have a few seconds left to send this message before my body fails me..."
+CREDITS_SCENE_SCHOOL1A-8="У мене є лише кілька секунд на відправку цього повідомлення до того, як моє тіло відмовить..."
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### "I am about to give my life to save the Slums you despise so much."
+CREDITS_SCENE_SCHOOL1A-9="Я збираюся віддати своє життя, щоб врятувати Нетрі, які ти так зневажаєш".
+
+
+# Director
+### "To be fair... I should have died years ago."
+CREDITS_SCENE_SCHOOL1A-10="Якщо чесно, я мала б померти роки тому."
+
+
+# Director
+### "I was living on borrowed time, to be with you, just for a little longer..."
+CREDITS_SCENE_SCHOOL1A-11="Я жила на запозичений час, щоб побути з тобою, трохи довше..."
+
+
+# Director
+### "To see this exceptional man you've become."
+CREDITS_SCENE_SCHOOL1A-12="Побачити ту виняткову людину, якою ти став."
+
+
+# Director
+### "I've loved every second, but that time's passing..."
+CREDITS_SCENE_SCHOOL1A-13="Я обожнювала кожну секунду, але час минає..."
+
+
+# Director
+### "Please understand. Living isn't easy. Thinking for yourself, doing what you really have to..."
+CREDITS_SCENE_SCHOOL1A-14="Будь ласка, зрозумій. Життя не легке. Думай про себе, роби те, що справді повинен..."
+
+
+# Director
+### "It's time to make your own choices."
+CREDITS_SCENE_SCHOOL1A-15="настав час робити власні вибори."
+
+
+# Director
+### "I hope I taught you what's right."
+CREDITS_SCENE_SCHOOL1A-16="Сподіваюся, я навчила тебе, що правильно."
+
+
+# Director
+### "Be strong, son."
+CREDITS_SCENE_SCHOOL1A-17="Будь сильним, сину."
+
+
+# Director
+### "And please be nice to everyone."
+CREDITS_SCENE_SCHOOL1A-18="І, будь лазка, будь добрим до всіх."
+
+
+# Director
+### "Wherever I am..."
+CREDITS_SCENE_SCHOOL1A-19="Де б я не була..."
+
+
+# Director
+### "I will watch over you..."
+CREDITS_SCENE_SCHOOL1A-20="Я наглядатиму за тобою..."
+
+
+# Director
+### "And I will always love you..."
+CREDITS_SCENE_SCHOOL1A-21="І я завжди любитиму тебе..."
+
+
+# Klay
+### ...
+CREDITS_SCENE_SCHOOL1A-22=...
+
+
+# Klay
+### Mom...
+CREDITS_SCENE_SCHOOL1A-23=Мамо...
+
+
+#----------------------------------------------------
+# Stubot
+### Awaiting orders
+CREDITS_SCENE_SCHOOL1B-1=В очікуванні наказів
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### ...Stubot?
+CREDITS_SCENE_SCHOOL1B-2=Студбот...
+
+
+# Klay
+### Shoo. I'm not your master.
+CREDITS_SCENE_SCHOOL1B-3=Геть. Я не твій господар.
+
+
+# Stubot
+### Yes you are
+CREDITS_SCENE_SCHOOL1B-4=Так, ви господар
+
+
+# Klay
+### Really? Cool!
+CREDITS_SCENE_SCHOOL1B-5=Справді? круто!
+
+
+# Klay
+### Then... Erm...
+CREDITS_SCENE_SCHOOL1B-6=Тоді... Ем...
+
+
+# Klay
+### I know!
+CREDITS_SCENE_SCHOOL1B-7=я знаю!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### You're the new director!
+CREDITS_SCENE_SCHOOL1B-8=Ти — новий директор!
+
+
+# Klay
+### That's it! Now do your job.
+CREDITS_SCENE_SCHOOL1B-9=Все! Тепер, роби свою роботу.
+
+
+# Stubot
+### Okay
+CREDITS_SCENE_SCHOOL1B-10=Добре
+
+
+# Klay
+### Great! I can leave this place in good hands.
+CREDITS_SCENE_SCHOOL1B-11=Чудово! Я можу залишити це місце в добрих руках.
+
+
+# Stubot
+### ...
+CREDITS_SCENE_SCHOOL1B-12=...
+
+
+# Stubot
+### Preparing next lesson
+CREDITS_SCENE_SCHOOL1B-13=підготовка наступного уроку
+
+
+# Stubot
+### Titled
+CREDITS_SCENE_SCHOOL1B-14=Назва
+
+
+# Stubot
+### Humans never learn
+CREDITS_SCENE_SCHOOL1B-15=Люди ніколи не вчаться
+
+
+#----------------------------------------------------
+# Various - Secret scene - an unknown robot is speaking while Remn is in cryo, half awaken
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Due To Tribot Losses Power Is Significantly Down.
+CREDITS_REMN1-1=Через втрату триботів потужність значно знизилася.
+
+
+# Various
+### Several Days Required For Full Recovery.
+CREDITS_REMN1-2=Потрібно кілька днів для повного відновлювання
+
+
+# Various
+### Master.
+CREDITS_REMN1-3=Господар
+
+
+# Various
+### I Must Return You To Deep Sleep.
+CREDITS_REMN1-4=Я повинен повернути вас до глибокого сну
+
+
+#----------------------------------------------------
+# Remn
+### This is a mere setback.
+CREDITS_REMN1B-1=це всього лише невдача.
+
+
+# Remn
+### I've waited this long. I can wait a bit more.
+CREDITS_REMN1B-2=Я довго на це чекав. Можу почекати ще трохи
+
+
+# Remn
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok... You thought you had got rid of me.
+CREDITS_REMN1B-3=Броку, ти думав, що позбувся мене.
+
+
+# Remn
+### Wiped me clean off the slate forever.
+CREDITS_REMN1B-4=Назавжди прибрав мене з дошки
+
+
+# Remn
+### But here I am.
+CREDITS_REMN1B-5=Але я тут.
+
+
+# Remn
+### Soon enough, I'll awaken...
+CREDITS_REMN1B-6=Трохи згодом я прокинусь...
+
+
+# Remn
+### And I'll retake what's mine.
+CREDITS_REMN1B-7=І поверну своє.
+
+
+# Remn
+### This time...
+CREDITS_REMN1B-8=Цього разу...
+
+
+# Remn
+### I'll get close to you...
+CREDITS_REMN1B-9=Я дістануся до вас...
+
+
+# Remn
+### My sons.
+CREDITS_REMN1B-10=Мої сини.
+
+
+#----------------------------------------------------
+# Unknown - Secret scene 2
+### 3030 A.R.
+CREDITS_TIMECAPSULE1-1=3030 П.П.
+
+
+#----------------------------------------------------
+# Unknown
+### "Central Light"
+CREDITS_TIMECAPSULE2-1="центральне світло"
+
+
+#----------------------------------------------------
+# Unknown - After credits, Shay is calling Brok because she has learnt about Sharpteeth at the club
+### (Phone rings)
+CREDITS_ENDING_AFTERSHARPTEETH-1=(Дзвонить телефон)
+
+
+# Brok
+### Huh?
+CREDITS_ENDING_AFTERSHARPTEETH-2=Га?
+
+
+# Shay
+### Bro'!!!
+CREDITS_ENDING_AFTERSHARPTEETH-3=Бро!!!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Sharpteeth is at the bar, right? Tell him not to move an inch! I'm coming!
+CREDITS_ENDING_AFTERSHARPTEETH-4=Гострозуб в барі, так? Скажи йому, щоб не рухався ні на крок! Я йду!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Erm... Shay?
+CREDITS_ENDING_AFTERSHARPTEETH-5=Емм... Шей?
+
+
+# Brok
+### I'm afraid he's already gone.
+CREDITS_ENDING_AFTERSHARPTEETH-6=Боюся, він вже пішов.
+
+
+# Shay
+### No!!!
+CREDITS_ENDING_AFTERSHARPTEETH-7=Ні!!!
+
+
+# Brok
+### But I fought him, and I won! That was super cool!
+CREDITS_ENDING_AFTERSHARPTEETH-8=Але я бився з ним, і виграв! Це було дуже круто!
+
+
+# Shay
+### And you didn't think of telling me? Your best friend?!
+CREDITS_ENDING_AFTERSHARPTEETH-9=І ти не подумав розповізти мені? Своїй кращій подрузі!
+
+
+# Brok
+### I...
+CREDITS_ENDING_AFTERSHARPTEETH-10=Я...
+
+
+# Brok
+### Wait, how did you even know I was here?
+CREDITS_ENDING_AFTERSHARPTEETH-11=Почекай, як ти взагалі дізналася, що я був тут?
+
+
+# Shay
+### That's besides the point!
+CREDITS_ENDING_AFTERSHARPTEETH-12=Не суть!
+
+
+# Shay
+### I can't believe you'd do this to me!
+CREDITS_ENDING_AFTERSHARPTEETH-13=Я не можу повірити, що ти зробив це зі мною!
+
+
+# Shay
+### So be it!
+CREDITS_ENDING_AFTERSHARPTEETH-14=Хай буде так!
+
+
+# Brok
+### So be what?
+CREDITS_ENDING_AFTERSHARPTEETH-15=Хай буде що?
+
+
+# Shay
+### For now I'll proceed with the plan, 'cause I need you to save me.
+CREDITS_ENDING_AFTERSHARPTEETH-16=Поки я продовжу діяти за планом, бо мене потрібно, щоб ти мене врятував
+
+
+# Shay
+### But you better come back fast to the present, so I can kick your butt!
+CREDITS_ENDING_AFTERSHARPTEETH-17=Але краще тобі повернутися до теперішнього, щоб я могла тобі всипати!
+
+
+# Brok
+### ...say what?
+CREDITS_ENDING_AFTERSHARPTEETH-18=Що?
+
+
+# Brok
+### Wait a second! I thought you were gone all day?
+CREDITS_ENDING_AFTERSHARPTEETH-19=Секундочку! Я думав, тебе не буде весь день?
+
+
+# Brok
+### Where are you right now?
+CREDITS_ENDING_AFTERSHARPTEETH-20=Де ти зараз?
+
+
+# Shay
+### I...
+CREDITS_ENDING_AFTERSHARPTEETH-21=Я...
+
+
+# Shay
+### I forgot. Gotta go! Bye!
+CREDITS_ENDING_AFTERSHARPTEETH-22=Я забула. Треба йти. Бувай!
+
+
+# Unknown
+### [...]
+CREDITS_ENDING_AFTERSHARPTEETH-23=[...]
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay?
+CREDITS_ENDING_AFTERSHARPTEETH-24=Шей?
+
+
+#----------------------------------------------------
+

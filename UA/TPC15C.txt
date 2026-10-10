@@ -1,0 +1,1895 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Mink (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Tidy (Unknown)
+#     Hush - Mink (Unknown)
+#     Hush - Tidy (Unknown)
+#     Mink - Brok (Unknown)
+#     Mink - Hush (Unknown)
+#     Mink - Ott (Unknown)
+#     Mink - Tidy (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Mink (Unknown)
+#     Ott - Tidy (Unknown)
+#     Tidy - Brok (Unknown)
+#     Tidy - Hush (Unknown)
+#     Tidy - Mink (Unknown)
+#     Tidy - Ott (Unknown)
+
+#-------------------------------
+#=LAB ROOM LEFT
+#-------------------------------
+
+#----- Interactions --------
+### Materials
+PC_MATERIALS=Матеріали
+
+### Biscuits
+PC_BISCUITS=Печиво
+
+### Painting
+PC_PAINTING=Картина
+
+### Spot
+PC_SPOT=Місце
+
+### Ramp
+PC_RAMP=Пандус
+
+### Trap
+PC_TRAP=Люк
+
+### Lever
+PC_LEVER=Важіль
+
+
+#----- Choices / Items --------
+### The golden rule
+TOPIC_RULE=Золоте правило
+
+### The situation
+TOPIC_SITUATION=Ситуація
+
+### The investigation
+TOPIC_INVESTIGATION=Розслідування
+
+
+#----- Topics --------
+### A lamp!
+GOT_LAMPHUSH=Лампа!
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush's tablet!
+GOT_TABLETHUSH=Планшет доктора Гаша!
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Room interactions
+### This is very soothing, I can get used to this!
+PC15C_WINDOW1-1=Дуже заспокоює. Я міг би до цього звикнути!
+
+
+#----------------------------------------------------
+# Mink
+### You've got to be kidding me.
+PC15C_WINDOW1B-1=Ви, мабуть, знущаєтесь.
+
+
+# Mink
+### It's the default view! Who would be stupid enough to leave it?!
+PC15C_WINDOW1B-2=Це ж стандартний краєвид! Хіба знайдеться такий ідіот, який не захоче його змінити?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush, apparently?
+PC15C_WINDOW1B-3=Мабуть, доктор Гаш?
+
+
+# Mink
+### He's hopeless!
+PC15C_WINDOW1B-4=Він безнадійний!
+
+
+# Mink
+### ...
+PC15C_WINDOW1B-5=...
+
+
+# Brok
+### You just realized he's gone and won't ever come back?
+PC15C_WINDOW1B-6=Ви щойно зрозуміли, що він більше ніколи не повернеться?
+
+
+# Mink
+### ...
+PC15C_WINDOW1B-7=...
+
+
+# Mink
+### Despite our differences...
+PC15C_WINDOW1B-8=Попри наші розбіжності...
+
+
+# Mink
+### I... I am...
+PC15C_WINDOW1B-9=Я... Я...
+
+
+# Brok
+### Come on! You can say it!
+PC15C_WINDOW1B-10=Ну ж бо! Ви зможете це сказати!
+
+
+# Mink
+### I am hungry.
+PC15C_WINDOW1B-11=Я голодний.
+
+
+# Brok
+### Aww...
+PC15C_WINDOW1B-12=Ох...
+
+
+#----------------------------------------------------
+# Brok
+### Nice view! Too bad it's artifical!
+PC15C_WINDOW2-1=Гарний краєвид! Шкода, що штучний!
+
+
+#----------------------------------------------------
+# Brok
+### Some information is displayed.
+PC15C_SCREEN1-1=Тут відображається якась інформація.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### "Tidy - 90% charged - DO NOT DISTURB UNTIL CHARGE IS COMPLETE"
+PC15C_SCREEN1-2="Тайді - заряджено на 90% - НЕ ТУРБУВАТИ ДО ЗАВЕРШЕННЯ ЗАРЯДКИ"
+
+
+# Brok
+### It's apparently been charging since 5:10 in the morning?
+PC15C_SCREEN1-3=Він, здається, заряджається з 5:10 ранку?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### "Tidy - 100% charged"
+PC15C_SCREEN2-1="Тайді - заряджено на 100%"
+
+
+# Brok
+### It's apparently been charging since 5:10 in the morning?
+PC15C_SCREEN2-2=Він, здається, заряджається з 5:10 ранку?
+
+
+#----------------------------------------------------
+# Brok
+### Energizing biscuits...
+PC15C_BISCUITS1-1=Енергетичне печиво...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush must have been eating them before disappearing.
+PC15C_BISCUITS1-2=Доктор Гаш, мабуть, їв його перед тим, як зникнути.
+
+
+# Brok
+### There are crumbs all over the table. Even on the floor!
+PC15C_BISCUITS1-3=Крихти по всьому столу. Навіть на підлозі!
+
+
+# Brok
+### You'd think scientists would be less clumsy.
+PC15C_BISCUITS1-4=Здавалося б, науковці мали б бути менш незграбними.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC15C_BISCUITS2-1=...
+
+
+# Ott
+### What?...
+PC15C_BISCUITS2-2=Що...?
+
+
+# Ott
+### Don't eat those! They're clues!
+PC15C_BISCUITS2-3=Не їжте! Це зачіпки!
+
+
+# Brok
+### But... I'm hungry!
+PC15C_BISCUITS2-4=Але... я голодний!
+
+
+#----------------------------------------------------
+# Brok
+### I know this model! It was pretty popular twenty years ago.
+PC15C_LAMP1-1=Я знаю цю модель! Вона була доволі популярною двадцять років тому.
+
+
+# Ott
+### Looks ugly. What could have made them so popular?
+PC15C_LAMP1-2=Вона не дуже гарна. Звідки тоді ця популярність?
+
+
+# Brok
+### Beats me.
+PC15C_LAMP1-3=Чорт його знає.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### This is the same model as the one next to Dr. Hush.
+PC15C_LAMP_AFTER-1=Це така ж модель, як і та, що була поруч із доктором Гашем.
+
+
+# Brok - He's talking about the lamp.
+### I should take it.
+PC15C_LAMP_AFTER-2=Треба її взяти.
+
+
+#----------------------------------------------------
+# Brok
+### Parts for experiments, maybe?
+PC15C_MATERIALS1-1=Деталі для експериментів, мабуть?
+
+
+#----------------------------------------------------
+# Brok
+### That's amazing. Not a single part is jutting out of this furniture.
+PC15C_MATERIALS1B-1=Дивовижно. Жодна деталь не стирчить із цих меблів.
+
+
+# Brok
+### This could be called an "organized mess".
+PC15C_MATERIALS1B-2=Це можна було б назвати "організований безлад".
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush is a maniac.
+PC15C_MATERIALS1B-3=Доктор Гаш - маніяк.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### He hates when something isn't where it belongs, so he taught his maintenance bot to tidy items like this.
+PC15C_MATERIALS1B-4=Він терпіти не може, коли щось лежить не на своєму місці, тож навчив свого сервісного бота прибирати саме так.
+
+
+# Mink
+### I remember him going insane once, because I didn't put my coffee exactly at the center of the table!
+PC15C_MATERIALS1B-5=Пам'ятаю, він одного разу збожеволів через те, що я не поставив каву точно по центру столу!
+
+
+# Brok
+### Yeah, well... All scientists are a bit eccentric.
+PC15C_MATERIALS1B-6=Ну, знаєте... Усі науковці дещо ексцентричні.
+
+
+# Mink
+### What do you mean? I'm not eccentric!
+PC15C_MATERIALS1B-7=Що ви маєте на увазі? Я не ексцентричний!
+
+
+# Brok
+### There's an exception to each rule.
+PC15C_MATERIALS1B-8=У кожного правила є винятки.
+
+
+# Mink
+### Hmmm... You do have a point!
+PC15C_MATERIALS1B-9=Гмм... А ви маєте рацію!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Brok 1, scientist 0)
+PC15C_MATERIALS1B-10=(Брок 1, науковець 0)
+
+
+#----------------------------------------------------
+# Brok
+### Oh! So this adds... some kind of ramp?
+PC15C_RAMPBUTTON1-1=О! Тобто вона висуває... якийсь пандус?
+
+
+#----------------------------------------------------
+# Mink
+### Do you often press buttons without knowing what they're for?
+PC15C_RAMPBUTTON1B-1=Ви часто натискаєте кнопки, не знаючи, для чого вони?
+
+
+# Brok
+### Always! How else would you find out what they do?
+PC15C_RAMPBUTTON1B-2=Завжди! А інакше як дізнатися, що вони роблять?
+
+
+#----------------------------------------------------
+# Brok
+### I wonder what this button's for?
+PC15C_RAMP_BEFORE1-1=Цікаво, для чого ця кнопка?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Hey, Tidy!
+PC15C_RAMP_AFTER1-1=Гей, Тайді!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Just a hunch. Did Dr. Hush put out that ramp for you?
+PC15C_RAMP_AFTER1-2=Я, мабуть, здогадуюсь. Доктор Гаш поставив цей пандус для тебе?
+
+
+# Tidy
+### Yup-yup! For me. So I can access the table.
+PC15C_RAMP_AFTER1-3=Агась! Для мене. Щоби я міг дістатися до столу.
+
+
+# Tidy
+### Got made. And modified. For me!
+PC15C_RAMP_AFTER1-4=Зроблено. І модифіковано. Для мене!
+
+
+# Brok
+### Is that so?...
+PC15C_RAMP_AFTER1-5=Отакої...?
+
+
+# Brok
+### Makes sense. Bots weigh tons and cannot jump over there.
+PC15C_RAMP_AFTER1-6=Логічно. Боти дуже важкі й не можуть самі туди застрибнути.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### One has to wonder why Dr. Hush couldn't just implement hovering on Tidy.
+PC15C_RAMP_AFTER2-1=Можна лише дивуватися, чому доктор Гаш просто не додав Тайді функцію польоту.
+
+
+# Tidy
+### Hovering. Is very resource intensive.
+PC15C_RAMP_AFTER2-2=Політ. Потребує багато ресурсів.
+
+
+# Tidy
+### Daddy loves nature!
+PC15C_RAMP_AFTER2-3=Татусь любить природу!
+
+
+# Ott
+### He means the scientist did it on purpose, for energy efficiency reasons.
+PC15C_RAMP_AFTER2-4=Він має на увазі, що науковець зробив це навмисно, заради енергоефективності.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... A vent, maybe?
+PC15C_TRAP_BEFORE-1=Гмм... Вентиляція, мабуть?
+
+
+#----------------------------------------------------
+# Brok
+### That's a vent, right?
+PC15C_TRAP1-1=Це вентиляція, так?
+
+
+# Mink
+### Yes. There's one in my room also.
+PC15C_TRAP1-2=Так. У моїй кімнаті теж є така.
+
+
+# Brok
+### How does that trap open?
+PC15C_TRAP1-3=Як відкривається цей люк?
+
+
+# Mink
+### Hmm...
+PC15C_TRAP1-4=Гмм...
+
+
+# Mink
+### I think you need to press that lever next to it.
+PC15C_TRAP1-5=Думаю, треба натиснути на той важіль, що поруч.
+
+
+# Brok
+### But... that's unreachable!
+PC15C_TRAP1-6=Але... до нього не дотягнутися!
+
+
+# Mink
+### You're supposed to use a ladder, obviously.
+PC15C_TRAP1-7=Ви маєте скористатися драбиною, очевидно.
+
+
+# Mink
+### There's one attached in my room but there is not one here.
+PC15C_TRAP1-8=У моїй кімнаті вона є, але тут, схоже, немає.
+
+
+# Brok
+### Seems so...
+PC15C_TRAP1-9=І справді...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC15C_TRAP2-1=Гмм...
+
+
+# Ott
+### What are you looking at?
+PC15C_TRAP2-2=На що ви дивитесь?
+
+
+# Brok
+### I wonder how high I would have to jump to reach that lever?.
+PC15C_TRAP2-3=Цікаво, як високо мені доведеться стрибнути, щоб дістати до того важеля?
+
+
+# Ott
+### Very funny.
+PC15C_TRAP2-4=Дуже смішно.
+
+
+# Brok
+### Uh? I'm serious.
+PC15C_TRAP2-5=Га? Я серйозно.
+
+
+# Tidy
+### That. Not possible.
+PC15C_TRAP2-6=Це. Неможливо.
+
+
+# Tidy
+### Silly human.
+PC15C_TRAP2-7=Дурна людина.
+
+
+# Brok
+### We'll see who will get the last laugh, little robotic slave.
+PC15C_TRAP2-8=Подивимося, хто сміятиметься останнім, нікчемна залізяко.
+
+
+#----------------------------------------------------
+# Brok
+### Looks rough.
+PC15C_BED1-1=Схоже, воно жорстке.
+
+
+# Brok
+### You'd think such valuable personnel would get decent quality mattresses.
+PC15C_BED1-2=А я думав, що такий цінний персонал заслуговує на матраци пристойної якості.
+
+
+#----------------------------------------------------
+# Mink
+### They're made for higher productivity.
+PC15C_BED1B-1=Вони створені для підвищення продуктивності.
+
+
+# Brok
+### Add spikes and it'd be perfect.
+PC15C_BED1B-2=Додайте шипи - і буде ідеально.
+
+
+#----------------------------------------------------
+# Brok
+### An animated painting.
+PC15C_PAINTING1-1=Анімована картина.
+
+
+#----------------------------------------------------
+# Mink
+### That's a PaintTV.
+PC15C_PAINTING1B-1=Це ТелеКартина.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### You can watch livies of course but the trend is to display a still picture permanently.
+PC15C_PAINTING1B-2=Звісно, на ній можна дивитися голографічні ролики, але зараз у тренді просто виводити статичне зображення.
+
+
+# Brok
+### For sure, that's a better use of technology...
+PC15C_PAINTING1B-3=Ну так, це ж куди кращий спосіб використання технологій...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### You don't say! Dr. Hush is so old fashioned. And he calls himself an engineer... Pfft!
+PC15C_PAINTING1B-4=І не кажіть! Доктор Гаш такий старомодний. І ще називає себе інженером... Пхе!
+
+
+#----------------------------------------------------
+# Brok
+### Hmm.
+PC15C_PAINTING2-1=Гмм.
+
+
+# Brok
+### According to the map...
+PC15C_PAINTING2-2=Судячи з мапи...
+
+
+#----------------------------------------------------
+# Mink
+### What are you doing?
+PC15C_PAINTING2B-1=Що ви робите?
+
+
+# Brok
+### ...
+PC15C_PAINTING2B-2=...
+
+
+# Brok
+### Something's off.
+PC15C_PAINTING2B-3=Щось тут не так.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What do you mean, Mister Brok?
+PC15C_PAINTING2B-4=Що ви маєте на увазі, пане Броку?
+
+
+# Brok
+### Just a hunch.
+PC15C_PAINTING2B-5=Просто здогадка.
+
+
+#----------------------------------------------------
+# Mink
+### Woah! You broke the wall?!
+PC15C_PAINTING2C-1=Ого! Ви пробили стіну?!
+
+
+# Brok
+### I barely touched it. Some paper-thin slab was obstructing this.
+PC15C_PAINTING2C-2=Я ледь торкнувся. Це перекривала якась плита товщиною з аркуш паперу.
+
+
+# Ott
+### A hole?
+PC15C_PAINTING2C-3=Діра?
+
+
+# Brok
+### Looks like it.
+PC15C_PAINTING2C-4=Схоже на те.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Aaaand this leads right to your room, Dr. Mink.
+PC15C_PAINTING2C-5=І-і-і це веде прямісінько у вашу кімнату, докторе Мінку.
+
+
+# Mink
+### I... had no idea...!
+PC15C_PAINTING2C-6=Я... гадки не мав...!
+
+
+# Brok
+### It's small. No one would fit.
+PC15C_PAINTING2C-7=Вона мала. Ніхто б не проліз.
+
+
+# Ott
+### I wonder if anything got through there, though?
+PC15C_PAINTING2C-8=Цікаво, а, може, туди пролізло що-небудь?
+
+
+# Brok
+### That's up to us to find out.
+PC15C_PAINTING2C-9=Це нам і треба з'ясувати.
+
+
+#----------------------------------------------------
+# Brok
+### On the other side, I can see...
+PC15C_HOLE1-1=По той бік я бачу...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Yup. Definitely Dr. Mink's office. There's a table with a box of nanites on it.
+PC15C_HOLE1-2=Угу. Це точно кабінет доктора Мінка. Там стоїть стіл із коробкою нанітів.
+
+
+# Mink
+### My precious nanites?! Don't tell me someone used them!
+PC15C_HOLE1-3=Мої дорогоцінні наніти?! Тільки не кажіть, що хтось їх використав!
+
+
+# Brok
+### Then I won't tell you. It's pure conjecture at this point.
+PC15C_HOLE1-4=Тоді не казатиму. Поки що це лише припущення.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### That's surprising. I thought the restroom was next to this room, not Dr. Mink's?
+PC15C_HOLE2-1=Дивно. Я думав, що поруч із цією кімнатою знаходиться вбиральня, а не кабінет доктора Мінка.
+
+
+# Brok
+### Think about how the rooms are shaped. The restroom is smaller and doesn't extend as far.
+PC15C_HOLE2-2=Подумай про форму кімнат. Вбиральня менша і не тягнеться так далеко.
+
+
+# Ott
+### You're right!
+PC15C_HOLE2-3=Ви маєте рацію!
+
+
+# Ott
+### I'd never have thought to check this painting!
+PC15C_HOLE2-4=Я б ніколи не додумався перевірити цю картину!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You're amazing, Detective Brok!
+PC15C_HOLE2-5=Ви просто дивовижний, детективе Броку!
+
+
+# Brok
+### Ah, that's just the experience talking!
+PC15C_HOLE2-6=Ах, це просто говорить мій досвід!
+
+
+# Brok
+### (And luck)
+PC15C_HOLE2-7=(І удача)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### That's Dr. Hush's?
+PC15C_TABLET1-1=Це планшет доктора Гаша?
+
+
+# Brok
+### Seems locked.
+PC15C_TABLET1-2=Здається, заблокований.
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Yes. They're personal. Only Dr. Hush can use it.
+PC15C_TABLET1B-1=Так. Вони особисті. Користуватися цим планшетом може лише доктор Гаш.
+
+
+# Brok
+### Shame. Must be some useful info in there.
+PC15C_TABLET1B-2=Шкода. Певно, там є якась корисна інформація.
+
+
+# Mink
+### Let me see?
+PC15C_TABLET1B-3=Дайте подивитися?
+
+
+# Mink
+### There's one. "Last connection... 4:45"
+PC15C_TABLET1B-4=Ось дещо є. "Останнє підключення... 4:45"
+
+
+# Brok
+### That's the last time he used it?
+PC15C_TABLET1B-5=Це час, коли він востаннє користувався планшетом?
+
+
+# Mink
+### Yes. And for doing your job... You're welcome.
+PC15C_TABLET1B-6=Так. І щодо того, що я виконав за вас вашу роботу... Прошу.
+
+
+# Brok
+### Hey, I'm no expert with these techological thingies!
+PC15C_TABLET1B-7=Гей, я не експерт у цих ваших технологічних штучках!
+
+
+# Mink
+### Then why do you feel qualified to incriminate me?
+PC15C_TABLET1B-8=То чому ж ви вважаєте, що маєте право звинувачувати мене?
+
+
+# Brok
+### Just wait and see.
+PC15C_TABLET1B-9=Поживемо - побачимо.
+
+
+# Mink
+### Hmph...
+PC15C_TABLET1B-10=Гр-р...
+
+
+#----------------------------------------------------
+# Brok
+### "Last connection... 4:45".
+PC15C_TABLET2-1="Останнє підключення... 4:45".
+
+
+#----------------------------------------------------
+# Brok
+### That tablet might contain crucial information but it's locked.
+PC15C_TABLET_AFTER1-1=У цьому планшеті може бути важлива інформація, але він заблокований.
+
+
+# Brok
+### Hmm... I'd better take it.
+PC15C_TABLET_AFTER1-2=Гмм... Краще його забрати.
+
+
+#----------------------------------------------------
+# Brok
+### Some kind of grease spot.
+PC15C_SPOT1-1=Якась масна пляма.
+
+
+#----------------------------------------------------
+# Brok
+### (Slurps)
+PC15C_SPOT1B-1=(Сьорбає)
+
+
+#----------------------------------------------------
+# Mink
+### Eww! Did you just lick the floor?
+PC15C_SPOT1C-1=Фу! Ви щойно лизнули підлогу?
+
+
+# Brok
+### Gotta be certain.
+PC15C_SPOT1C-2=Я мусив переконатися.
+
+
+# Brok
+### Well, that's coffee.
+PC15C_SPOT1C-3=Ну, це кава.
+
+
+#----------------------------------------------------
+# Brok
+### Tastes like coffee.
+PC15C_SPOT1D-1=Смакує як кава.
+
+
+#----------------------------------------------------
+# Brok
+### A coffee stain. Pretty faint but still visible.
+PC15C_SPOT2-1=Кавова пляма. Досить бліда, але все ще помітна.
+
+
+#----------------------------------------------------
+# Brok
+### Wait...!
+PC15C_SPOT_MAGNIFY-1=Стривайте...!
+
+
+# Brok
+### How come there's a ton of nanites on this particular coffee spot?!
+PC15C_SPOT_MAGNIFY-2=З якого дива на оцій кавовій плямі ціла купа нанітів?!
+
+
+#----------------------------------------------------
+# Brok
+### This bot...is the one displayed on the screen?
+PC15C_TIDY_NOTCHARGED1-1=Цей бот... той самий, що показаний на екрані?
+
+
+# Brok
+### I'll try turning it...
+PC15C_TIDY_NOTCHARGED1-2=Спробую увімкнути його...
+
+
+# Tidy
+### Warning - DO NOT DISTURB UNTIL CHARGE IS COMPLETE
+PC15C_TIDY_NOTCHARGED1-3=Попередження - НЕ ТУРБУВАТИ ДО ЗАВЕРШЕННЯ ЗАРЯДКИ
+
+
+# Brok
+### Oops!
+PC15C_TIDY_NOTCHARGED1-4=Ой!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You should listen, Mister Brok! Otherwise we might damage it.
+PC15C_TIDY_NOTCHARGED1-5=Треба прислухатися, пане Броку! Інакше ми можемо його пошкодити.
+
+
+#----------------------------------------------------
+# Brok
+### That thing. It's blinking green.
+PC15C_TIDY_WAKE1-1=Ця штука. Вона блимає зеленим.
+
+
+# Brok
+### Does this mean...
+PC15C_TIDY_WAKE1-2=Це означає...
+
+
+#----------------------------------------------------
+# Tidy - Tidy suddenly wakes up. He's quite full of joy for a robot. When Brok talks to him, he's a bit caught off balance as he's not used to talking to bots like this
+### YOLO!
+PC15C_TIDY_WAKE1B-1=ЮХУ!
+
+
+# Brok
+### Gulp!
+PC15C_TIDY_WAKE1B-2=(Ковтає слину)
+
+
+#----------------------------------------------------
+# Tidy
+### You seem. Surprised and unsafe!
+PC15C_TIDY_WAKE1C-1=Ти здаєшся. Здивованим та наляканим!
+
+
+# Tidy
+### Do not worry! I do not. Bite!
+PC15C_TIDY_WAKE1C-2=Не хвилюйся! Я не. Кусаюся!
+
+
+# Tidy
+### I am glad to see. A new face! It has happened. Zero times since I was born!
+PC15C_TIDY_WAKE1C-3=Я радий бачити. Нове обличчя! Таке траплялося. Нуль разів від мого народження!
+
+
+# Brok
+### Oh.
+PC15C_TIDY_WAKE1C-4=О.
+
+
+# Brok
+### So, you're...
+PC15C_TIDY_WAKE1C-5=Тож ти...
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Dr. Hush's assistant. Tidy!
+PC15C_TIDY_WAKE1C-6=Помічник доктора Гаша. Тайді!
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### I tidy things up, left, down, right! Yup-yup!
+PC15C_TIDY_WAKE1C-7=Я все прибираю: ліворуч, униз, праворуч! Угу-угу!
+
+
+# Brok
+### I see...
+PC15C_TIDY_WAKE1C-8=Зрозуміло...
+
+
+# Brok
+### Mind if I ask a few questions?
+PC15C_TIDY_WAKE1C-9=Ти не проти, якщо я поставлю кілька запитань?
+
+
+# Tidy
+### I do not. Do not mind!
+PC15C_TIDY_WAKE1C-10=Не проти. Зовсім не проти!
+
+
+#----------------------------------------------------
+# Brok - Talking to Tidy
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### So... Dr. Hush built you?
+PC15C_TIDY_DRHUSH1-1=Отже... Доктор Гаш тебе створив?
+
+
+# Tidy
+### Yup-yup. He's my Daddy! We love Daddy.
+PC15C_TIDY_DRHUSH1-2=Угу-угу. Він мій татусь! Ми любимо татуся.
+
+
+# Tidy
+### Where's my Daddy?
+PC15C_TIDY_DRHUSH1-3=А де мій татусь?
+
+
+# Brok
+### Erm...
+PC15C_TIDY_DRHUSH1-4=Е-е...
+
+
+# Mink
+### He's dead.
+PC15C_TIDY_DRHUSH1-5=Він мертвий.
+
+
+# Brok
+### Hey! Show some compassion for the little guy!
+PC15C_TIDY_DRHUSH1-6=Гей! Виявіть трохи співчуття до малого!
+
+
+# Mink
+### What guy? He's a piece of junk.
+PC15C_TIDY_DRHUSH1-7=Який ще малий? Це купа брухту.
+
+
+# Tidy
+### Daddy dead?
+PC15C_TIDY_DRHUSH1-8=Татусь мертвий?
+
+
+# Brok
+### Well... Seems so.
+PC15C_TIDY_DRHUSH1-9=Ну... Схоже на те.
+
+
+# Brok
+### We're trying to understand what...
+PC15C_TIDY_DRHUSH1-10=Ми намагаємося зрозуміти, що...
+
+
+# Tidy
+### Dead Daddy. Daddy dead! Dead, dead, dead Daddy!
+PC15C_TIDY_DRHUSH1-11=Мертвий татусь. Татусь мертвий! Мертвий, мертвий, мертвий татусь!
+
+
+# Brok
+### ...
+PC15C_TIDY_DRHUSH1-12=...
+
+
+# Brok
+### I thought you'd be... a little less joyful.
+PC15C_TIDY_DRHUSH1-13=Я думав, ти будеш... трохи менш радісним.
+
+
+# Mink
+### Told you. The thing has no feeling.
+PC15C_TIDY_DRHUSH1-14=Я ж казав. У цієї штуки немає почуттів.
+
+
+# Tidy
+### Oh...
+PC15C_TIDY_DRHUSH1-15=О...
+
+
+# Tidy
+### Oh no no no no no no!!!
+PC15C_TIDY_DRHUSH1-16=О ні-ні-ні-ні-ні-ні!!!
+
+
+# Tidy
+### It means. No see. Daddy again?
+PC15C_TIDY_DRHUSH1-17=Це означає. Більше не побачити. Татуся знову?
+
+
+# Tidy
+### Dead Daddy?
+PC15C_TIDY_DRHUSH1-18=Мертвий татусь?
+
+
+# Brok
+### Argh...
+PC15C_TIDY_DRHUSH1-19=Ар-р...
+
+
+#----------------------------------------------------
+# Brok
+### Look. I know it's hard...
+PC15C_TIDY_DRHUSH2-1=Послухай. Я знаю, це важко...
+
+
+# Brok
+### Well... maybe not, 'cause you're not alive but...
+PC15C_TIDY_DRHUSH2-2=Ну... мабуть, ні, бо ти ж неживий, але...
+
+
+# Brok
+### Anyway, I gotta ask.
+PC15C_TIDY_DRHUSH2-3=У будь-якому разі, я мушу запитати.
+
+
+# Brok
+### Did you hurt your Daddy?
+PC15C_TIDY_DRHUSH2-4=Ти нашкодив своєму татусеві?
+
+
+# Tidy
+### Hurt Daddy?
+PC15C_TIDY_DRHUSH2-5=Нашкодити татусеві?
+
+
+# Tidy
+### I cannot! Not not not. Noooooooo way.
+PC15C_TIDY_DRHUSH2-6=Я не можу! Ні-ні-ні. У жодному р-р-разі.
+
+
+# Brok
+### Erm...
+PC15C_TIDY_DRHUSH2-7=Е-е...
+
+
+# Brok
+### Why are you smiling while saying that?
+PC15C_TIDY_DRHUSH2-8=Чому ти усміхаєшся, коли кажеш це?
+
+
+# Tidy
+### Oh!
+PC15C_TIDY_DRHUSH2-9=Ой!
+
+
+# Tidy
+### Bug bug. Changing expression.
+PC15C_TIDY_DRHUSH2-10=Збій збій. Зміна виразу обличчя.
+
+
+# Tidy
+### ...
+PC15C_TIDY_DRHUSH2-11=...
+
+
+# Tidy
+### Dead Daddy?...
+PC15C_TIDY_DRHUSH2-12=Мертвий татусь...?
+
+
+# Brok
+### Argh. I just can't analyze it!
+PC15C_TIDY_DRHUSH2-13=Ар-р. Я не можу розібратися!
+
+
+# Brok
+### It... Him... I don't know anymore!
+PC15C_TIDY_DRHUSH2-14=Це... Він... Я вже нічого не розумію!
+
+
+# Mink
+### He's telling the truth.
+PC15C_TIDY_DRHUSH2-15=Він каже правду.
+
+
+# Brok
+### How can you tell? He keeps changing his face!
+PC15C_TIDY_DRHUSH2-16=Звідки ви знаєте? Він постійно змінює обличчя!
+
+
+# Tidy
+### Daddy is good. No. Daddy is. Best!
+PC15C_TIDY_DRHUSH2-17=Татусь добрий. Ні. Татусь. Найкращий!
+
+
+# Mink
+### I couldn't care less about his body language or that spouting nonsense.
+PC15C_TIDY_DRHUSH2-18=Мені байдуже до мови тіла чи всієї цієї нісенітниці, яку він говорить.
+
+
+# Mink
+### No robot can harm his creator. Ever.
+PC15C_TIDY_DRHUSH2-19=Жоден робот не може зашкодити своєму творцю. Ніколи.
+
+
+# Mink
+### That's the golden rule.
+PC15C_TIDY_DRHUSH2-20=Це золоте правило.
+
+
+# Brok
+### Care to elaborate?
+PC15C_TIDY_DRHUSH2-21=Розповісте детальніше?
+
+
+#----------------------------------------------------
+# Brok
+### When did you see your Daddy for the last time?
+PC15C_TIDY_SITUATION1-1=Коли ти востаннє бачив свого татуся?
+
+
+# Tidy
+### Morning. 05:04.
+PC15C_TIDY_SITUATION1-2=Ранок. 05:04.
+
+
+# Brok
+### What was he doing?
+PC15C_TIDY_SITUATION1-3=Що він робив?
+
+
+# Tidy
+### Daddy. Away. Exit room.
+PC15C_TIDY_SITUATION1-4=Татусь. Пішов. Вийшов із кімнати.
+
+
+# Brok
+### Did he say anything when leaving?
+PC15C_TIDY_SITUATION1-5=Він сказав щось, коли йшов?
+
+
+# Tidy
+### Yup-yup!
+PC15C_TIDY_SITUATION1-6=Угу-угу!
+
+
+# Tidy
+### Retrieving record...
+PC15C_TIDY_SITUATION1-7=Зчитування запису...
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### "I need to settle things with Dr. Mink."
+PC15C_TIDY_SITUATION1-8="Мені треба владнати справи з доктором Мінком."
+
+
+# Mink
+### What?!
+PC15C_TIDY_SITUATION1-9=Що?!
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### This is impossible! Dr. Hush never even came to my office today!
+PC15C_TIDY_SITUATION1-10=Це неможливо! Доктор Гаш сьогодні навіть не заходив до мого кабінету!
+
+
+# Ott
+### Then how do you explain the fact that he's in your room currently?
+PC15C_TIDY_SITUATION1-11=Тоді як ви поясните той факт, що він зараз у вашій кімнаті?
+
+
+# Mink
+### I don't know but...
+PC15C_TIDY_SITUATION1-12=Я не знаю, але...
+
+
+# Mink
+### That bag of screws is lying! I'm gonna tear him apart until...
+PC15C_TIDY_SITUATION1-13=Цей мішок із гвинтиками бреше! Я розірву його на шматки, поки...
+
+
+# Brok
+### Calm down! Or I shall calm you down myself.
+PC15C_TIDY_SITUATION1-14=Заспокойтесь! Або я сам вас заспокою.
+
+
+# Mink
+### Gulp...
+PC15C_TIDY_SITUATION1-15=(Ковтає слину)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### What were you doing at the time, Tidy?
+PC15C_TIDY_SITUATION2-1=Що ти робив у цей час, Тайді?
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Charge! Power to tidy!
+PC15C_TIDY_SITUATION2-2=Зарядка! Потрібна енергія для прибирання!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Wait... You said you recorded Dr. Hush while you were charging?
+PC15C_TIDY_SITUATION2-3=Стривай... Ти кажеш, що записав доктора Гаша під час заряджання?
+
+
+# Brok
+### That's weird. You were totally shut off when I first found you.
+PC15C_TIDY_SITUATION2-4=Це дивно. Коли я вперше знайшов тебе, ти був повністю вимкнений.
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy. Several phases of sleep. Like human.
+PC15C_TIDY_SITUATION2-5=Тайді. Кілька фаз сну. Як людина.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink. Is that even possible?
+PC15C_TIDY_SITUATION2-6=Докторе Мінк, це взагалі можливо?
+
+
+# Mink
+### Yes. We don't shut off machines immediately to compress the data of the day.
+PC15C_TIDY_SITUATION2-7=Так. Ми не вимикаємо машини одразу, щоб стиснути дані за день.
+
+
+# Mink
+### The same way, it takes several steps before full awakening.
+PC15C_TIDY_SITUATION2-8=Так само й повне пробудження відбувається в кілька етапів.
+
+
+# Mink
+### But... You still shouldn't listen to that bot! It's trying to confuse you!
+PC15C_TIDY_SITUATION2-9=Але... Вам все одно не слід слухати цього бота! Він намагається заплутати вас!
+
+
+# Brok
+### Did your sensors record anything else?
+PC15C_TIDY_SITUATION2-10=Чи зафіксували твої датчики ще щось?
+
+
+# Tidy
+### Nothing. Unusual!
+PC15C_TIDY_SITUATION2-11=Нічого. Незвичайного!
+
+
+# Brok
+### Hmm...
+PC15C_TIDY_SITUATION2-12=Гмм...
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### Surely you've seen all those fantastical livies with robots rebelling against humans.
+PC15C_TIDY_RULE1-1=Певно, ви бачили усі ці фантастичні серіали про роботів, які повстають проти людей.
+
+
+# Mink
+### Years ago, when the scientific community started designing bots, they took this into consideration.
+PC15C_TIDY_RULE1-2=Багато років тому, коли наукова спільнота почала проєктувати ботів, вона взяла це до уваги.
+
+
+# Mink
+### There's a golden rule. It's implemented in the hardware, encrypted deep within their AI core and replicated through all their parts.
+PC15C_TIDY_RULE1-3=Існує золоте правило. Воно впроваджене в апаратне забезпечення, зашифроване глибоко в їхньому ШІ-ядрі та в усіх їхніх деталях.
+
+
+# Mink
+### No robot can attack their creator.
+PC15C_TIDY_RULE1-4=Жоден робот не може напасти на свого творця.
+
+
+# Ott
+### That's true! We've learnt this at the Consc'.
+PC15C_TIDY_RULE1-5=Це правда! Ми вивчали це у Центрі.
+
+
+# Tidy
+### We do not. Love Daddy! We do!
+PC15C_TIDY_RULE1-6=Ми не можемо. Любимо татуся! Любимо!
+
+
+# Brok
+### Okay, so...they can't harm their creators. But those pieces of junks sure can harm me!
+PC15C_TIDY_RULE1-7=Гаразд, отже... вони не можуть нашкодити своїм творцям. Але ці бляшанки ще й як можуть нашкодити мені!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### I've had to get my way through Tribots more than once.
+PC15C_TIDY_RULE1-8=Мені не раз доводилося пробиватися крізь Триботів.
+
+
+# Mink
+### Of course, there are varied levels of permissions.
+PC15C_TIDY_RULE1-9=Звісно, існують різні рівні дозволів.
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Permission! To tidy!
+PC15C_TIDY_RULE1-10=Дозвіл! Прибирати!
+
+
+# Mink
+### Ssh! Stay here.
+PC15C_TIDY_RULE1-11=Тсс! Залишайся тут.
+
+
+# Mink
+### For standard bots, close family and friends are included in a second layer to that rule.
+PC15C_TIDY_RULE1-12=У випадку звичайних ботів близькі родичі та друзі відносяться до другого рівня цього правила.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Police and military Tribots are designed for battle and may attack anyone who is considered a threat.
+PC15C_TIDY_RULE1-13=Поліцейські та військові Триботи створені для бою і можуть нападати на будь-кого, кого вважають загрозою.
+
+
+# Mink
+### This varies according to model. However, the golden rule is always there.
+PC15C_TIDY_RULE1-14=Це залежить від моделі. Проте золоте правило діє завжди.
+
+
+# Mink
+### Besides, we've never had any accident.
+PC15C_TIDY_RULE1-15=До того ж у нас ніколи не було нещасних випадків.
+
+
+# Brok
+### Never say never.
+PC15C_TIDY_RULE1-16=Ніколи не кажіть "ніколи".
+
+
+# Brok
+### Life has taught me...there's always a first to everything.
+PC15C_TIDY_RULE1-17=Життя навчило мене... для всього буває перший раз.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### What makes you so certain that Dr. Hush respected the "no killing" convention?
+PC15C_TIDY_RULE2-1=Чому ви так впевнені, що доктор Гаш дотримався правила "не вбивати", коли розробляв бота?
+
+
+# Mink
+### Simple. An algorithm thoroughly checks...
+PC15C_TIDY_RULE2-2=Усе просто. Алгоритм ретельно перевіряє...
+
+
+# Tidy
+### Algo? Rhythm! Dance! YOLO!!!
+PC15C_TIDY_RULE2-3=Алгоритм? Ритм! Танці! Живемо лише раз!!!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### It's hardly the moment to dance, Tidy.
+PC15C_TIDY_RULE2-4=Зараз явно не час для танців, Тайді.
+
+
+# Mink
+### Anyway, if he didn't comply, he wouldn't be able to communicate with the exterior.
+PC15C_TIDY_RULE2-5=У будь-якому разі, якби він не відповідав нормам, то не зміг би спілкуватися із зовнішнім світом.
+
+
+# Brok
+### Okay...
+PC15C_TIDY_RULE2-6=Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tell me! What can you do, Tidy?
+PC15C_TIDY_HIMSELF1-1=Розкажи! Що ти вмієш робити, Тайді?
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy can tidy!
+PC15C_TIDY_HIMSELF1-2=Тайді вміє прибирати!
+
+
+# Brok
+### ...Yes, and...?
+PC15C_TIDY_HIMSELF1-3=...Так, і...?
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy can stretch. Arms!
+PC15C_TIDY_HIMSELF1-4=Тайді може витягувати. Руки!
+
+
+# Tidy
+### Like this!
+PC15C_TIDY_HIMSELF1-5=Ось так!
+
+
+# Tidy
+### Or this!
+PC15C_TIDY_HIMSELF1-6=Або так!
+
+
+# Ott
+### That's pretty cool!
+PC15C_TIDY_HIMSELF1-7=Це доволі круто!
+
+
+# Brok
+### I admit it, this must be useful.
+PC15C_TIDY_HIMSELF1-8=Визнаю, це може бути корисно.
+
+
+# Brok
+### Hmm. Can you bend them?
+PC15C_TIDY_HIMSELF1-9=Гмм. Ти можеш їх згинати?
+
+
+# Tidy
+### Ridiculous. Bending robot! No.
+PC15C_TIDY_HIMSELF1-10=Смішно. Робот, що гнеться! Ні.
+
+
+# Tidy
+### Vertical. Horizontal. NO bend.
+PC15C_TIDY_HIMSELF1-11=Вертикально. Горизонтально. БЕЗ згинання.
+
+
+# Tidy
+### Daddy cannot. Try. No make. Work.
+PC15C_TIDY_HIMSELF1-12=Татусь не зміг. Пробував. Не вийшло. Зробити.
+
+
+# Tidy
+### Now... Dead Daddy.
+PC15C_TIDY_HIMSELF1-13=Тепер... Мертвий татусь.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Erm... Tidy?
+PC15C_TIDY_HIMSELF1-14=Е-е... Тайді?
+
+
+# Ott
+### You're bending them right now.
+PC15C_TIDY_HIMSELF1-15=Ти ж зараз їх згинаєш.
+
+
+# Tidy
+### Oh!
+PC15C_TIDY_HIMSELF1-16=Ой!
+
+
+# Tidy
+### Yes. My mistake.
+PC15C_TIDY_HIMSELF1-17=Так. Моя помилка.
+
+
+# Tidy
+### Cannot bend. While extending arms!
+PC15C_TIDY_HIMSELF1-18=Не можна згинати. Під час витягування рук!
+
+
+# Brok
+### Oh.
+PC15C_TIDY_HIMSELF1-19=Ох.
+
+
+# Brok
+### So, what's the exact use?
+PC15C_TIDY_HIMSELF1-20=То яка від цього реальна користь?
+
+
+# Tidy
+### Moving arms. Very efficient! No full body move!
+PC15C_TIDY_HIMSELF1-21=Рух руками. Дуже ефективно! Жодних рухів усім тілом!
+
+
+# Brok
+### I see. Must be more practical to grab things scattered in a room.
+PC15C_TIDY_HIMSELF1-22=Зрозуміло. Мабуть, так практичніше хапати речі, розкидані по кімнаті.
+
+
+#----------------------------------------------------
+# Brok
+### Anything else?
+PC15C_TIDY_HIMSELF2-1=Ще щось?
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy can. Carry objects. Do repairs. Make phone calls.
+PC15C_TIDY_HIMSELF2-2=Тайді може. Переносити предмети. Робити ремонт. Дзвонити.
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy has sensors. To detect humans and objects. Calculate shortest path.
+PC15C_TIDY_HIMSELF2-3=Тайді має сенсори. Для виявлення людей і предметів. Обчислення найкоротшого шляху.
+
+
+# Ott
+### Useful to bring the coffee, I guess...
+PC15C_TIDY_HIMSELF2-4=Корисно хіба що каву приносити...
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Also. Tidy can. Strip clothes!
+PC15C_TIDY_HIMSELF2-5=Також. Тайді може. Знімати одяг!
+
+
+# Brok
+### Uh?...
+PC15C_TIDY_HIMSELF2-6=Е-е...?
+
+
+# Tidy
+### Daddy likes. Getting naked.
+PC15C_TIDY_HIMSELF2-7=Татусь любить. Роздягатися.
+
+
+# Ott
+### What did he just say?!
+PC15C_TIDY_HIMSELF2-8=Що він зараз сказав?!
+
+
+# Tidy
+### Please! Naked!
+PC15C_TIDY_HIMSELF2-9=Прошу! Роздягатися!
+
+
+# Brok
+### N...no, that won't be necessary!
+PC15C_TIDY_HIMSELF2-10=Н...ні, це нам не потрібно!
+
+
+# Mink
+### Either he's got a screw loose...
+PC15C_TIDY_HIMSELF2-11=Або в нього гвинтика бракує...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### ...or Dr. Hush is an exhibitionist.
+PC15C_TIDY_HIMSELF2-12=...або доктор Гаш - ексгібіціоніст.
+
+
+# Mink
+### I wonder...
+PC15C_TIDY_HIMSELF2-13=Цікаво...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok? What are you writing?
+PC15C_TIDY_HIMSELF2-14=Пане Броку? Що ви там пишете?
+
+
+# Brok
+### Well... It's a clue, so...
+PC15C_TIDY_HIMSELF2-15=Ну... Це зачіпка, тож...
+
+
+# Tidy
+### Daddy. All naked! Yup-yup!
+PC15C_TIDY_HIMSELF2-16=Татусь. Увесь голий! Угу-угу!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy, I need your help.
+PC15C_TIDY_WELCOME1-1=Тайді, мені потрібна твоя допомога.
+
+
+# Tidy
+### Yup-yup!
+PC15C_TIDY_WELCOME1-2=Угу-угу!
+
+
+#----------------------------------------------------
+# Tidy
+### Dead Daddy?...
+PC15C_TIDY_WELCOME2-1=Мертвий татусь...?
+
+
+# Brok
+### Still dead, I'm afraid so.
+PC15C_TIDY_WELCOME2-2=Боюсь, що так, він усе ще мертвий.
+
+
+#----------------------------------------------------
+# Brok
+### That should be enough for now.
+PC15C_TIDY_EXITFIRST-1=Поки що цього достатньо.
+
+
+# Tidy
+### Enough! Enough nuff nuff!
+PC15C_TIDY_EXITFIRST-2=Досить! Досить до-досить!
+
+
+# Tidy
+### Got work to do!
+PC15C_TIDY_EXITFIRST-3=Мушу працювати!
+
+
+# Brok
+### Wait!
+PC15C_TIDY_EXITFIRST-4=Стій!
+
+
+# Brok
+### I forbid you to touch anything!
+PC15C_TIDY_EXITFIRST-5=Я забороняю тобі чогось торкатися!
+
+
+# Tidy
+### Not Daddy. Not listening.
+PC15C_TIDY_EXITFIRST-6=Не татусь. Не слухаю.
+
+
+# Tidy
+### Get lost! Yup-yup!
+PC15C_TIDY_EXITFIRST-7=Геть! Угу-угу!
+
+
+# Brok
+### What?!
+PC15C_TIDY_EXITFIRST-8=Що?!
+
+
+# Brok
+### You little piece of...
+PC15C_TIDY_EXITFIRST-9=Ах ти ж, малий шматок...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy, stay here.
+PC15C_TIDY_EXITFIRST-10=Тайді, стій тут.
+
+
+# Mink
+### You should not mess with anything right now.
+PC15C_TIDY_EXITFIRST-11=Тобі зараз не варто нічого чіпати.
+
+
+# Tidy
+### Okay Minky!
+PC15C_TIDY_EXITFIRST-12=Гаразд, Мінкі!
+
+
+# Brok
+### He obeys you?!
+PC15C_TIDY_EXITFIRST-13=Він вас слухається?!
+
+
+# Mink
+### Of course. Can't say I like it but that thing is useful.
+PC15C_TIDY_EXITFIRST-14=Звісно. Не скажу, що мені це подобається, але ця штука корисна.
+
+
+# Mink
+### I'm in his "close acquaintances" list.
+PC15C_TIDY_EXITFIRST-15=Я в його списку "близьких знайомих".
+
+
+# Brok
+### Oh well. As long as he doesn't move...
+PC15C_TIDY_EXITFIRST-16=Ну що ж. Головне, щоб він не рухався...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy. No moving!
+PC15C_TIDY_EXIT1-1=Тайді. Не рухатися!
+
+
+# Tidy
+### Yup-yup!
+PC15C_TIDY_EXIT1-2=Угу-угу!
+
+
+# Brok
+### Good boy!
+PC15C_TIDY_EXIT1-3=Хороший хлопчик!
+
+
+#----------------------------------------------------
+# Brok
+### Okay. Stay here.
+PC15C_TIDY_EXIT2-1=Гаразд. Залишайся тут.
+
+
+# Tidy
+### Dead Daddy?...
+PC15C_TIDY_EXIT2-2=Мертвий татусь...?
+
+
+#----------------------------------------------------
+# Brok
+### (This seems like a sympathetic bot. Though...)
+PC15C_TIDY_THINK1-1=(Здається, це доволі милий бот. Хоча...)
+
+
+# Brok
+### (I don't really trust those artifical beings. He may be hiding something.)
+PC15C_TIDY_THINK1-2=(Я не дуже довіряю цим штучним істотам. Він може щось приховувати.)
+
+
+# Brok
+### (I need to find the truth. Let's investigate!)
+PC15C_TIDY_THINK1-3=(Мені потрібно дізнатися правду. Час розслідувати!)
+
+
+#----------------------------------------------------
+# Brok
+### Does this item have any meaning to you?
+PC15C_TIDY_INV_DEFAULT1-1=Цей предмет має для тебе якесь значення?
+
+
+# Tidy
+### No good! Junk. Dead Daddy.
+PC15C_TIDY_INV_DEFAULT1-2=Погано! Мотлох. Мертвий татусь.
+
+
+# Brok
+### Looks like this doesn't remind him anything.
+PC15C_TIDY_INV_DEFAULT1-3=Схоже, це йому ні про що не нагадує.
+
+
+#----------------------------------------------------
+# Tidy
+### That is. A mess!
+PC15C_TIDY_INV_DEFAULT2-1=Це ж. Безлад!
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Allow to tidy! Your inventory.
+PC15C_TIDY_INV_DEFAULT2-2=Дозволь прибрати! Твій інвентар.
+
+
+# Brok
+### Hey, wait! I forbid you!
+PC15C_TIDY_INV_DEFAULT2-3=Гей, стій! Я забороняю тобі!
+
+
+#----------------------------------------------------
+# Brok
+### He wouldn't have any use for...
+PC15C_TIDY_INV_MONEY-1=Він навряд чи знайде застосування для...
+
+
+# Tidy
+### Gimme! Gimme! Gimme!
+PC15C_TIDY_INV_MONEY-2=Дай! Дай! Дай!
+
+
+# Brok
+### No way!
+PC15C_TIDY_INV_MONEY-3=Ні за що!
+
+
+#----------------------------------------------------
+# Tidy
+### ...
+PC15C_TIDY_INV_NOREACTION-1=...
+
+
+# Brok
+### (Uh?... Did he bug out?)
+PC15C_TIDY_INV_NOREACTION-2=(Е-е...? Він завис?)
+
+
+#----------------------------------------------------
+# Brok
+### What can you tell me about this lamp?
+PC15C_TIDY_INV_LAMP-1=Що ти можеш сказати про цю лампу?
+
+
+# Tidy
+### Dirty! Lemme clean!
+PC15C_TIDY_INV_LAMP-2=Брудна! Дай почищу!
+
+
+# Brok
+### Focus! I need useful info!
+PC15C_TIDY_INV_LAMP-3=Зосередься! Мені потрібна корисна інформація!
+
+
+# Tidy
+### Cleaning. Always useful!
+PC15C_TIDY_INV_LAMP-4=Прибирання. Завжди корисне!
+
+
+#----------------------------------------------------
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy has tracking! No rubbish map.
+PC15C_TIDY_INV_MAPBUILDING-1=У Тайді є навігатор! Мапа - мотлох.
+
+
+#----------------------------------------------------
+# Tidy
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Nobody! Can control Tidy!
+PC15C_TIDY_INV_REMOTECONTROL-1=Ніхто! Не може керувати Тайді!
+
+
+#----------------------------------------------------
+# Brok
+### Did your Daddy take these?
+PC15C_TIDY_INV_PILLHUSH-1=Твій татусь їх приймав?
+
+
+# Tidy
+### Too late. Daddy dead.
+PC15C_TIDY_INV_PILLHUSH-2=Занадто пізно. Татусь мертвий.
+
+
+#----------------------------------------------------
+# Brok
+### Please unlock the tablet for me!
+PC15C_TIDY_INV_TABLETHUSH-1=Будь ласка, розблокуй для мене планшет!
+
+
+# Tidy
+### Cannot. Only dead Daddy. Can.
+PC15C_TIDY_INV_TABLETHUSH-2=Не можу. Тільки мертвий татусь. Може.
+
+
+#----------------------------------------------------
+# Brok
+### Please tell me you're a doctor!
+PC15C_TIDY_INV_TRAMPPRESCR-1=Скажи мені, що ти лікар!
+
+
+# Tidy
+### Ask Daddy.
+PC15C_TIDY_INV_TRAMPPRESCR-2=Запитай у татуся.
+
+
+# Tidy
+### Oops! Daddy dead!
+PC15C_TIDY_INV_TRAMPPRESCR-3=Ой! Татусь мертвий!
+
+
+# Brok
+### Hmph...
+PC15C_TIDY_INV_TRAMPPRESCR-4=Гр-р...
+
+
+#----------------------------------------------------
+# Brok - When falling after inspecting the vent
+### Ouch... That was quite the drop.
+PC15C_FROMVENT-1=Ай... Оце так падіння.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC15C_PAINTINGREMOVED1-1=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### What's in there?
+PC15C_DRAWER1-1=Що там всередині?
+
+
+#----------------------------------------------------
+# Brok
+### Nothing in particular.
+PC15C_DRAWER2-1=Нічого особливого.
+
+
+#----------------------------------------------------
+

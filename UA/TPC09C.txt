@@ -1,0 +1,3423 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Commands (Unknown)
+#     Brok - Hacker (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Brok - Wes (Unknown)
+#     Commands - Brok (Unknown)
+#     Hacker - Brok (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Unknown (Unknown)
+#     Ott - Various (Unknown)
+#     Ott - Wes (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Ott (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Ott (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Ott (Unknown)
+
+#-------------------------------
+#=POLICE OFFICE
+#-------------------------------
+
+#----- Interactions --------
+### Assistant
+PC_ASSISTANT=Асистент
+
+### Printer
+PC_PRINTER=Принтер
+
+### Identikit
+PC_IDENTIKIT=Фоторобот
+
+# A button on the identikit
+### Press
+PC_SWITCH=Натиснути
+
+### ...?
+PC_SOMETHING=...?
+
+### Circle
+PC_CIRCLE=Коло
+
+### Title
+PC_TITLE=Заголовок
+
+# A button shaped like a cross on the identikit
+### Cross button
+PC_CROSSBUTTON=Кнопка-хрестик
+
+### Trophies
+PC_TROPHIES=Трофеї
+
+### Drink
+PC_DRINK=Напій
+
+### Lock
+PC_DOORLOCK=Замок
+
+
+#----- Choices / Items --------
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+# ----- Choices / Items --------
+### A Wes picture!
+GOT_PHOTOWES=Фотографія Веса!
+
+### Which environment?
+PC09C_ASSISTANT_CHOICE=Яке середовище?
+
+### Space
+PC09C_ENVIRONMENT_SPACE=Космос
+
+### Waterfall
+PC09C_ENVIRONMENT_WATERFALL=Водоспад
+
+### Mountain
+PC09C_ENVIRONMENT_MOUNTAIN=Гори
+
+### Default
+PC09C_ENVIRONMENT_DEFAULT=За замовчуванням
+
+### Give which drink?
+PC09C_DRINK_CHOICE=Який напій дати?
+
+
+#----- Topics --------
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Toxout pills
+TOPIC_PILLS=Смогові пігулки
+
+### Drink
+TOPIC_DRINKS=Напій
+
+
+### What character to make?
+PC09C_IDENTIKIT_CHOICE=Якого персонажа створити?
+
+### Random
+PC09C_RANDOM=Випадковий
+
+#----- Dialog --------
+# Brok - Waking up in Wes' office after our failed attempt to escape (Brok is frozen)
+### ...
+PC09C_INTRO_WAKEUP1-1=...
+
+
+# Brok
+### Urgh...
+PC09C_INTRO_WAKEUP1-2=У-ух...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### Man... I feel like an Aircar ran me over...
+PC09C_INTRO_WAKEUP1-3=Ох... Таке відчуття, ніби по мені аеромобіль проїхався...
+
+
+# Wes
+### About time.
+PC09C_INTRO_WAKEUP1-4=Нарешті.
+
+
+# Brok
+### Oh... Yeah. I failed to escape.
+PC09C_INTRO_WAKEUP1-5=Ох... Ну так. Мені не вдалося втекти.
+
+
+# Wes
+### You attacked several police officers.
+PC09C_INTRO_WAKEUP1-6=Ти напав на кількох поліцейських.
+
+
+# Brok
+### Erm...
+PC09C_INTRO_WAKEUP1-7=Е-е...
+
+
+# Brok
+### Yeah... Sorry about that.
+PC09C_INTRO_WAKEUP1-8=Так... Вибачте за це.
+
+
+# Brok
+### But it's your fault! I shouldn't be here!
+PC09C_INTRO_WAKEUP1-9=Але це ваша провина! Я не повинен тут бути!
+
+
+# Brok
+### I didn't do anything! Well, I mean... Before attacking...
+PC09C_INTRO_WAKEUP1-10=Я нічого не зробив! Ну, тобто... До того, як напав...
+
+
+#----------------------------------------------------
+# Brok - Alternative
+### ...
+PC09C_INTRO_PUZZLE1-1=...
+
+
+# Wes
+### ...
+PC09C_INTRO_PUZZLE1-2=...
+
+
+# Wes
+### Unfrozen mode.
+PC09C_INTRO_PUZZLE1-3=Режим розморожування.
+
+
+# Brok - Don't shoot
+### ...n't shoot...
+PC09C_INTRO_PUZZLE1-4=...не стріляйте...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_INTRO_PUZZLE2-1=...
+
+
+# Brok
+### Uh... Did something happen...? I could swear you moved...
+PC09C_INTRO_PUZZLE2-2=Е-е... Щось сталося...? Можу поклястись, ви стояли в іншому місці...
+
+
+# Brok
+### Oh. A freezing gun.
+PC09C_INTRO_PUZZLE2-3=А. Заморожувальний пістолет.
+
+
+# Brok
+### So...
+PC09C_INTRO_PUZZLE2-4=Тож...
+
+
+# Brok
+### Am I in trouble...?
+PC09C_INTRO_PUZZLE2-5=У мене неприємності...?
+
+
+# Wes
+### ...
+PC09C_INTRO_PUZZLE2-6=...
+
+
+# Wes
+### I did not expect you to escape. I have clearly underestimated you.
+PC09C_INTRO_PUZZLE2-7=Я не очікував, що ти втечеш. Я явно недооцінив тебе.
+
+
+# Wes
+### That said. You messed up your cell system, neutralized one of our agents, and violated the law.
+PC09C_INTRO_PUZZLE2-8=Тим не менш. Ти пошкодив систему своєї камери, знешкодив одного з наших агентів і порушив закон.
+
+
+# Brok
+### Well... Sorry about that.
+PC09C_INTRO_PUZZLE2-9=Ну... Пробачте за це все.
+
+
+# Brok
+### But it's your fault! I shouldn't be here! I just...
+PC09C_INTRO_PUZZLE2-10=Але це ваша провина! Я не повинен тут бути! Я просто...
+
+
+#----------------------------------------------------
+# Wes
+### Shut up.
+PC09C_INTRO2-1=Замовкни.
+
+
+# Brok
+### Mmrph...
+PC09C_INTRO2-2=М-ммм...
+
+
+# Wes
+### ...
+PC09C_INTRO2-3=...
+
+
+# Wes
+### I require your assistance.
+PC09C_INTRO2-4=Мені потрібна твоя допомога.
+
+
+# Brok
+### What...?
+PC09C_INTRO2-5=Що...?
+
+
+# Wes
+### Here's the situation.
+PC09C_INTRO2-6=Ситуація така.
+
+
+# Wes
+### Listen carefully. This is confidential.
+PC09C_INTRO2-7=Слухай уважно. Це конфіденційно.
+
+
+# Wes
+### Due to recent events, I had to fire Agent Ray.
+PC09C_INTRO2-8=Через останні події мені довелося звільнити агента Рея.
+
+
+# Brok
+### Huh...? Why?
+PC09C_INTRO2-9=Га...? Чому?
+
+
+# Wes
+### He screwed up too many times.
+PC09C_INTRO2-10=Він занадто багато разів схибив.
+
+
+#----------------------------------------------------
+# Wes
+### Any other time he would have easily won that fight against you.
+PC09C_INTRO_MIDATTACK1-1=Будь-якого іншого разу він би легко переміг тебе у цій бійці.
+
+
+# Wes
+### To be honest, I have no idea how you managed to beat him.
+PC09C_INTRO_MIDATTACK1-2=Чесно кажучи, я й уяви не маю, як тобі вдалося здолати його.
+
+
+# Brok
+### I'll take that as a compliment...
+PC09C_INTRO_MIDATTACK1-3=Сприйму це як комплімент...
+
+
+#----------------------------------------------------
+# Wes
+### Today he fell for your tricks.
+PC09C_INTRO_MIDPUZZLE1-1=Сьогодні він упіймався на твої хитрощі.
+
+
+# Wes
+### I cannot allow my agents to have their weaknesses so easily exploited.
+PC09C_INTRO_MIDPUZZLE1-2=Я не можу дозволити, щоб слабкі місця моїх агентів так легко використовували.
+
+
+# Brok
+### Well it wasn't THAT easy...
+PC09C_INTRO_MIDPUZZLE1-3=Ну, це було не АЖ ТАК легко...
+
+
+#----------------------------------------------------
+# Wes
+### In addition to this, several of our AI agents are out of service.
+PC09C_INTRO3-1=Крім того, декілька наших агентів-ШІ вийшли з ладу.
+
+
+# Wes
+### Finally. And this is hard for me to admit but...
+PC09C_INTRO3-2=І нарешті. Мені важко це визнавати, але...
+
+
+# Wes
+### We are similar, you and I. Old school in a technological world.
+PC09C_INTRO3-3=Ми схожі, ти й я. Стара школа у світі технологій.
+
+
+# Wes
+### I've told you. I have no confidence in algorithms solving the cases.
+PC09C_INTRO3-4=Я вже казав тобі. Я не маю жодної довіри до алгоритмів, що розкривають справи.
+
+
+# Wes
+### The only human agent remaining is myself.
+PC09C_INTRO3-5=Єдиним агентом-людиною залишаюся я сам.
+
+
+# Wes
+### Soon I won't have a choice but to rely entirely on those gadgets.
+PC09C_INTRO3-6=Скоро в мене не буде вибору, окрім як повністю покластися на ці гаджети.
+
+
+# Wes
+### I won't let this happen.
+PC09C_INTRO3-7=Я не дозволю цьому статися.
+
+
+# Wes
+### I've become skeptical about their behavior. I need to keep an eye on those bots.
+PC09C_INTRO3-8=Я скептично ставлюся до їхньої поведінки. Мені треба стежити за цими ботами.
+
+
+# Wes
+### So I can't keep running this department all by myself.
+PC09C_INTRO3-9=Тож я не можу й далі керувати цим відділком самотужки.
+
+
+# Wes
+### I need your help.
+PC09C_INTRO3-10=Мені потрібна твоя допомога.
+
+
+# Brok
+### That's... unexpected...
+PC09C_INTRO3-11=Це... несподівано...
+
+
+# Brok
+### Certainly glad I'm not the only one who think those thingamabobs are creepy, though.
+PC09C_INTRO3-12=Але я радий, що не один вважаю ці штуковини моторошними.
+
+
+# Brok
+### Give me some time to think.
+PC09C_INTRO3-13=Дайте мені трохи часу подумати.
+
+
+# Wes - Wes uses the wrong word here. His brain has been "damaged"
+### This isn't a choice. It's a cherry.
+PC09C_INTRO3-14=Це не вибір. Це вишня.
+
+
+# Brok
+### Huh...?
+PC09C_INTRO3-15=Що...?
+
+
+# Brok
+### A... cherry?
+PC09C_INTRO3-16=В... вишня?
+
+
+# Wes
+### A cherry. Cherry.
+PC09C_INTRO3-17=Вишня. Вишня.
+
+
+# Wes
+### Yes. It's a request.
+PC09C_INTRO3-18=Так. Це прохання.
+
+
+# Wes
+### ...
+PC09C_INTRO3-19=...
+
+
+# Brok
+### Are you okay...?
+PC09C_INTRO3-20=З вами все гаразд...?
+
+
+# Wes
+### It's been a long day.
+PC09C_INTRO3-21=Важкий був день.
+
+
+# Wes
+### Anyway.
+PC09C_INTRO3-22=Менше з тим.
+
+
+# Wes
+### As per regulation 14-3032. In case of under-staffing, the highest ranking officer can requisition any citizen for help.
+PC09C_INTRO3-23=Згідно з постановою 14-3032. У разі нестачі кадрів офіцер найвищого рангу може залучити будь-якого громадянина до допомоги.
+
+
+# Brok
+### ...
+PC09C_INTRO3-24=...
+
+
+# Brok
+### Why me?
+PC09C_INTRO3-25=Чому саме я?
+
+
+# Wes
+### I've seen your actions today.
+PC09C_INTRO3-26=Я бачив тебе у дії сьогодні.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Despite some aggressive tendencies, you've solved Sin's case remarkably well.
+PC09C_INTRO3-27=Попри певні агресивні схильності, ти чудово розкрив справу Сіна.
+
+
+# Wes
+### You didn't blindly trust your client and uncovered the truth via uncommon methods.
+PC09C_INTRO3-28=Ти не став сліпо довіряти своєму клієнтові та виявив правду незвичними методами.
+
+
+# Wes
+### I've met so many detectives over the years.
+PC09C_INTRO3-29=За ці роки я зустрів багато детективів.
+
+
+# Wes
+### You... are one of a kind.
+PC09C_INTRO3-30=Ти... один такий у своєму роді.
+
+
+# Wes
+### We've known each other for a long time. Currently, you're the most qualified person I can trust.
+PC09C_INTRO3-31=Ми вже давно знайомі. Наразі ти найбільш кваліфікована особа, якій я можу довіряти.
+
+
+# Brok
+### Erm... Thanks... I guess?
+PC09C_INTRO3-32=Е-е... Дякую... Мабуть?
+
+
+# Brok
+### Okay. So... If I accept...
+PC09C_INTRO3-33=Гаразд. Тож... Якщо я погоджуся...
+
+
+# Wes
+### It's not your decision.
+PC09C_INTRO3-34=Це не тобі вирішувати.
+
+
+# Brok
+### Whatever. What kind of... compensation can I expect?
+PC09C_INTRO3-35=Байдуже. На яку... компенсацію я можу розраховувати?
+
+
+# Wes
+### None.
+PC09C_INTRO3-36=Жодної.
+
+
+# Brok
+### None? Working for free?! But...
+PC09C_INTRO3-37=Жодної? Працювати задарма?! Але...
+
+
+# Wes
+### Only temporarily.
+PC09C_INTRO3-38=Це лише тимчасово.
+
+
+# Wes
+### You'll manage.
+PC09C_INTRO3-39=Ти впораєшся.
+
+
+# Brok
+### Easy for you to say. You're not drowning in debt.
+PC09C_INTRO3-40=Вам легко казати. Ви не тонете у боргах.
+
+
+# Wes
+### This is effective as of now.
+PC09C_INTRO3-41=Це рішення набирає чинності просто зараз.
+
+
+# Brok
+### Immediately?! Wait...
+PC09C_INTRO3-42=Негайно?! Зачекайте...
+
+
+# Brok
+### What time is it?
+PC09C_INTRO3-43=Котра година?
+
+
+# Wes
+### 5 PM.
+PC09C_INTRO3-44=5-та година вечора.
+
+
+# Brok
+### 5 P...
+PC09C_INTRO3-45=5-та година...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh no! Graff's fair!
+PC09C_INTRO3-46=О ні! Ярмарок Граффа!
+
+
+# Brok
+### I need to leave!
+PC09C_INTRO3-47=Мені треба йти!
+
+
+# Wes
+### This isn't accept...
+PC09C_INTRO3-48=Це неприйнятн...
+
+
+# Brok
+### I'm begging you!
+PC09C_INTRO3-49=Благаю вас!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... He's gonna kill me!
+PC09C_INTRO3-50=Графф... Він мене вб'є!
+
+
+# Brok
+### I'm no good for you dead, ain't I?
+PC09C_INTRO3-51=Мертвим я вже не принесу вам ніякої користі, чи не так?
+
+
+# Wes
+### This seems like a slight exaggeration.
+PC09C_INTRO3-52=Здається, це трохи перебільшення.
+
+
+# Brok
+### Look. Dun care what I gotta do to get outta here.
+PC09C_INTRO3-53=Слухайте. Мені начхати, що треба зробити, аби забратися звідси.
+
+
+# Brok
+### If you prevent me... I'll force my way through!
+PC09C_INTRO3-54=Якщо заважатимете... Я прорвуся силою!
+
+
+# Wes
+### ...
+PC09C_INTRO3-55=...
+
+
+# Wes
+### Hmm...
+PC09C_INTRO3-56=Гмм...
+
+
+# Wes
+### Alright. You're free to go.
+PC09C_INTRO3-57=Гаразд. Ти вільний іти.
+
+
+# Brok
+### See ya!
+PC09C_INTRO3-58=Бувайте!
+
+
+# Wes
+### ...
+PC09C_INTRO3-59=...
+
+
+# Wes - "recharge the batteries" can have two meanings, one figurative (sleeping) and another literal. Here the player assumes this is the figurative meaning but Wes actually means the literal sense... (he IS recharging his battery)
+### I need to rest. Time to recharge the batteries and prepare for tomorrow.
+PC09C_INTRO3-60=Мені треба відпочити. Час підзарядити батареї та підготуватися до завтра.
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Ott is in the office (he's in training course) He needs to pee, which is convenient because we need to get him out of here.
+### Erm... Hello?
+PC09C_OTT_FIRST1-1=Е-е... Здоров?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Oh! Mister Brok!
+PC09C_OTT_FIRST1-2=О! Пане Броку!
+
+
+# Ott
+### What are you doing here?
+PC09C_OTT_FIRST1-3=Що ви тут робите?
+
+
+# Brok
+### Do we... know each other...?
+PC09C_OTT_FIRST1-4=Ми... знайомі...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You bet. I'm Graff's friend!
+PC09C_OTT_FIRST1-5=Авжеж. Я друг Граффа!
+
+
+# Brok
+### Oh... Yes! You're... Erm...
+PC09C_OTT_FIRST1-6=О... Так! Ти... Е-е...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott.
+PC09C_OTT_FIRST1-7=Отт.
+
+
+# Brok
+### Sorry. My memory is faulty.
+PC09C_OTT_FIRST1-8=Вибач. Пам'ять підводить.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### That's one common point you share with Graff. Forgetting things is his specialty!
+PC09C_OTT_FIRST1-9=У цьому ви схожі з Граффом. Забувати все - це його спеціальність!
+
+
+# Brok
+### Does he...?
+PC09C_OTT_FIRST1-10=Справді...?
+
+
+# Ott - Consider the teacher is male - not important
+### Yeah! One day he even forgot our teacher's name.
+PC09C_OTT_FIRST1-11=Еге ж! Одного разу він навіть забув ім'я нашого вчителя.
+
+
+# Ott
+### You're his d... Erm... Tutor, right?
+PC09C_OTT_FIRST1-12=Ви ж його ба... Е-е... Опікун, так?
+
+
+# Brok
+### Hmm... yeah.
+PC09C_OTT_FIRST1-13=Гмм... Так.
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Ott is in the office (he's in training course) He needs to pee, which is convenient because we need to get him out of here.
+### Erm... Hello?
+PC09C_OTT_FIRST_ONTIME-1=Е-е... Здоров?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Oh! Mister Brok!
+PC09C_OTT_FIRST_ONTIME-2=О! Пане Броку!
+
+
+# Ott
+### What are you doing here?
+PC09C_OTT_FIRST_ONTIME-3=Що ви тут робите?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You're... Graff's friend, right?
+PC09C_OTT_FIRST_ONTIME-4=Ти... друг Граффа, правильно?
+
+
+# Brok
+### I think you were at the fair?
+PC09C_OTT_FIRST_ONTIME-5=Здається, ти був на ярмарку?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. Yeah!
+PC09C_OTT_FIRST_ONTIME-6=Отт. Так!
+
+
+#----------------------------------------------------
+# Ott
+### What was all the racket in the hall?
+PC09C_OTT_FOUGHT1-1=Що за галас був у холі?
+
+
+# Brok
+### Oh... Erm...
+PC09C_OTT_FOUGHT1-2=О... Е-е...
+
+
+# Brok
+### The entrance bot suddenly went berserk. Like a fuse blown.
+PC09C_OTT_FOUGHT1-3=Бот на вході раптом сказився. Ніби запобіжник перегорів.
+
+
+# Ott
+### Poor guy. First he has malfunctioning sight, and now...
+PC09C_OTT_FOUGHT1-4=Бідолашний. Спочатку в нього проблеми з зором, а тепер...
+
+
+# Brok
+### Yeah... That... kinda sucks, huh...?
+PC09C_OTT_FOUGHT1-5=Так... Це... якось паршиво, га...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Any idea where the chief of police might be?
+PC09C_OTT_FOUGHT1B-1=Не знаєш, де може бути шеф поліції?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes? He's out right now.
+PC09C_OTT_FOUGHT1B-2=Дядько Вес? Його зараз немає.
+
+
+# Brok
+### (Uncle?)
+PC09C_OTT_FOUGHT1B-3=(Дядько?)
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### I've heard him referring to an issue with Toxout pills.
+PC09C_OTT_FOUGHT1B-4=Я чув, як він казав про проблеми зі смоговими пігулками.
+
+
+# Ott
+### This will probably take a while.
+PC09C_OTT_FOUGHT1B-5=Це, мабуть, займе певний час.
+
+
+# Brok
+### Alright...
+PC09C_OTT_FOUGHT1B-6=Зрозуміло...
+
+
+#----------------------------------------------------
+# Brok
+### I'm sorry to ask but...
+PC09C_OTT_HIMSELF1-1=Вибач, що питаю, але...
+
+
+# Brok
+### Are you...
+PC09C_OTT_HIMSELF1-2=Ти...
+
+
+# Ott
+### A hybrid?
+PC09C_OTT_HIMSELF1-3=Гібрид?
+
+
+# Ott
+### Yeah.
+PC09C_OTT_HIMSELF1-4=Так.
+
+
+# Ott
+### Every child inherits a race from either the father or the mother...
+PC09C_OTT_HIMSELF1-5=Кожна дитина успадковує расу або від батька, або від матері...
+
+
+# Ott
+### Except me. I inherited genes from both of my parents.
+PC09C_OTT_HIMSELF1-6=Крім мене. Я успадкував гени від обох батьків.
+
+
+# Ott
+### I've heard this happens once in every thousand births. Maybe even less.
+PC09C_OTT_HIMSELF1-7=Я чув, таке трапляється один раз на тисячу народжень. Може, навіть рідше.
+
+
+# Ott
+### Might be a mistake of nature. Might be the pollution. All I know is...
+PC09C_OTT_HIMSELF1-8=Може, це помилка природи. Може, забруднення. Я знаю лише одне...
+
+
+# Brok
+### ...You're special.
+PC09C_OTT_HIMSELF1-9=...Ти особливий.
+
+
+# Ott
+### You bet.
+PC09C_OTT_HIMSELF1-10=Авжеж.
+
+
+# Ott
+### No matter how kind people try to be...
+PC09C_OTT_HIMSELF1-11=Скільки б люди не намагалися бути добрими...
+
+
+# Ott
+### They always look at me... differently.
+PC09C_OTT_HIMSELF1-12=Вони завжди дивляться на мене... інакше.
+
+
+# Ott
+### This used to make me mad. But I got used to it.
+PC09C_OTT_HIMSELF1-13=Раніше це мене дратувало. Але я звик.
+
+
+# Brok
+### Yeah. I know the feeling.
+PC09C_OTT_HIMSELF1-14=Так. Я знаю це відчуття.
+
+
+# Ott
+### What do you mean...?
+PC09C_OTT_HIMSELF1-15=Що ви маєте на увазі...?
+
+
+# Brok
+### Long story.
+PC09C_OTT_HIMSELF1-16=Довга історія.
+
+
+# Ott
+### Hmm...
+PC09C_OTT_HIMSELF1-17=Гмм...
+
+
+# Ott
+### If you don't mind... I've got a question too.
+PC09C_OTT_HIMSELF1-18=Якщо ви не проти... У мене теж є запитання.
+
+
+# Ott
+### What are you, exactly? Croc or gator?
+PC09C_OTT_HIMSELF1-19=Хто ви саме? Крокодил чи алігатор?
+
+
+# Brok
+### Wish I knew!
+PC09C_OTT_HIMSELF1-20=Якби ж я знав!
+
+
+# Ott
+### You don't?!
+PC09C_OTT_HIMSELF1-21=Ви не знаєте?!
+
+
+# Brok
+### Yeah...
+PC09C_OTT_HIMSELF1-22=Так...
+
+
+# Brok
+### Trying to solve mysteries and yet unable to find the truth about myself...
+PC09C_OTT_HIMSELF1-23=Намагаюся розгадувати таємниці, але не можу дізнатися правду про самого себе...
+
+
+# Brok
+### Poor excuse for a detective, huh?
+PC09C_OTT_HIMSELF1-24=Не дуже вдалий з мене детектив, га?
+
+
+# Ott
+### Don't say that!
+PC09C_OTT_HIMSELF1-25=Не кажіть такого!
+
+
+# Ott
+### You're just too busy helping others!
+PC09C_OTT_HIMSELF1-26=Ви просто занадто зайняті допомогою іншим!
+
+
+# Ott
+### Someday you'll find out. I'm sure of it!
+PC09C_OTT_HIMSELF1-27=Колись ви обов'язково дізнаєтеся. Я впевнений!
+
+
+# Brok
+### Thanks.
+PC09C_OTT_HIMSELF1-28=Дякую.
+
+
+# Brok
+### (...I was supposed to be comforting him... But he ended up comforting me!)
+PC09C_OTT_HIMSELF1-29=(...Я мав би підбадьорювати його... А в результаті він підбадьорив мене!)
+
+
+# Brok
+### (Boy! I almost wish he was my son...)
+PC09C_OTT_HIMSELF1-30=(Ох! Якби ж він був моїм сином...)
+
+
+# Brok
+### (Argh. What's wrong with me...!)
+PC09C_OTT_HIMSELF1-31=(Ар-р. Що зі мною не так...!)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (I... I shouldn't think that...! Graff is a good boy too...)
+PC09C_OTT_HIMSELF1-32=(Я... Я не повинен так думати...! Графф теж хороший хлопчина...)
+
+
+# Brok
+### (He's just... More difficult to...)
+PC09C_OTT_HIMSELF1-33=(Просто з ним... Важче...)
+
+
+# Ott
+### You okay?
+PC09C_OTT_HIMSELF1-34=Все гаразд?
+
+
+# Brok
+### ...Yeah.
+PC09C_OTT_HIMSELF1-35=...Так.
+
+
+# Brok
+### I have another question.
+PC09C_OTT_HIMSELF1-36=У мене є ще одне запитання.
+
+
+#----------------------------------------------------
+# Brok
+### Shouldn't you be at school?
+PC09C_OTT_HIMSELF2-1=Хіба ти не повинен бути в школі?
+
+
+# Ott
+### The Consc'? Nah, I'm on internship today.
+PC09C_OTT_HIMSELF2-2=У Центрі? Ні, у мене сьогодні стажування.
+
+
+# Ott
+### Ugh...
+PC09C_OTT_HIMSELF2-3=Ух...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_OTT_HIMSELF2B-1=...
+
+
+# Brok
+### Maybe you should... Ya know...
+PC09C_OTT_HIMSELF2B-2=Може, тобі варто... ну, знаєш...
+
+
+# Brok
+### Let it go...?
+PC09C_OTT_HIMSELF2B-3=Піти в туалет...?
+
+
+# Ott
+### You... noticed...?
+PC09C_OTT_HIMSELF2B-4=Ви... помітили...?
+
+
+# Ott
+### ... can't. I said...
+PC09C_OTT_HIMSELF2B-5=... не можу. Я сказав...
+
+
+# Brok
+### I won't touch anythin'. Cross my heart and hope to die!
+PC09C_OTT_HIMSELF2B-6=Я нічого не торкатимусь. Клянуся серцем!
+
+
+# Ott
+### ...
+PC09C_OTT_HIMSELF2B-7=...
+
+
+# Ott
+### No... I... I always keep my promises.
+PC09C_OTT_HIMSELF2B-8=Ні... Я... я завжди дотримуюся своїх обіцянок.
+
+
+# Ott
+### I can hold. No big deal!
+PC09C_OTT_HIMSELF2B-9=Я можу потерпіти. Нічого страшного!
+
+
+# Brok
+### (I pity him)
+PC09C_OTT_HIMSELF2B-10=(Мені його шкода.)
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC09C_OTT_WANNAPEE-1=...?
+
+
+# Brok
+### Anything wrong? You look like...
+PC09C_OTT_WANNAPEE-2=Щось не так? Ти виглядаєш так, ніби...
+
+
+# Ott
+### N-Nothing. I'm fine.
+PC09C_OTT_WANNAPEE-3=Н-нічого. Все гаразд.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes said I should stay here until he comes back.
+PC09C_OTT_WANNAPEE-4=Дядько Вес сказав, щоб я залишався тут, поки він не повернеться.
+
+
+# Ott
+### It's my first day.
+PC09C_OTT_WANNAPEE-5=Це мій перший день.
+
+
+# Ott
+### I... have to make a good impression!
+PC09C_OTT_WANNAPEE-6=Я... мушу справити гарне враження!
+
+
+# Ott
+### ...
+PC09C_OTT_WANNAPEE-7=...
+
+
+# Brok
+### (I've seen that face before...)
+PC09C_OTT_WANNAPEE-8=(Я знаю такий вираз обличчя...)
+
+
+# Brok
+### (He needs to pee.)
+PC09C_OTT_WANNAPEE-9=(Йому треба в туалет.)
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_OTT_WANNAPEELEAVE-1=...
+
+
+#----------------------------------------------------
+# Brok
+### Say! May I borrow your computer?
+PC09C_OTT_COMPUTER1-1=Слухай! Можна позичити твій комп'ютер?
+
+
+# Brok
+### I'd like to connect to the police main server.
+PC09C_OTT_COMPUTER1-2=Я хотів би підключитися до головного сервера поліції.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Sorry. Uncle Wes did not give me access.
+PC09C_OTT_COMPUTER1-3=Вибачте. Дядько Вес не дав мені доступу.
+
+
+# Ott
+### Besides, I doubt he would trust you with this.
+PC09C_OTT_COMPUTER1-4=Крім того, сумніваюся, що він довірив би вам це.
+
+
+# Ott
+### I've heard you're... Erm...
+PC09C_OTT_COMPUTER1-5=Я чув, ви... Е-е...
+
+
+# Ott
+### Clumsy.
+PC09C_OTT_COMPUTER1-6=Незграбний.
+
+
+# Brok
+### What a reputation your uncle is giving me!
+PC09C_OTT_COMPUTER1-7=Яку ж репутацію мені створює твій дядько!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Actually, I heard this from Graff.
+PC09C_OTT_COMPUTER1-8=Насправді я це чув від Граффа.
+
+
+# Brok
+### Ah...
+PC09C_OTT_COMPUTER1-9=А...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### So. Wes is your uncle?
+PC09C_OTT_WES1-1=Тож Вес - твій дядько?
+
+
+# Ott
+### Yeah! It's so cool of him to accept me for this internship!
+PC09C_OTT_WES1-2=Так! Це так круто з його боку, що він узяв мене на це стажування!
+
+
+# Brok
+### Do you know him well?
+PC09C_OTT_WES1-3=Ти добре його знаєш?
+
+
+# Ott
+### It's funny you'd ask this. To be perfectly honest...
+PC09C_OTT_WES1-4=Кумедно, що ви про це питаєте. Якщо бути чесним...
+
+
+# Ott
+### Not that much.
+PC09C_OTT_WES1-5=Не дуже.
+
+
+# Ott
+### He's always super busy. I guess this comes with the job.
+PC09C_OTT_WES1-6=Він завжди такий зайнятий. Здається, це через роботу.
+
+
+# Ott
+### He comes to family reunions but... He always ends up leaving for an emergency before even touching his plate.
+PC09C_OTT_WES1-7=Він приходить на сімейні зустрічі, але... Завжди йде через терміновий виклик, навіть не торкнувшись тарілки.
+
+
+# Ott
+### By the way, what business do you have with him?
+PC09C_OTT_WES1-8=До речі, а яка у вас до нього справа?
+
+
+# Brok
+### Your uncle... kinda forced me to join the police.
+PC09C_OTT_WES1-9=Твій дядько... типу змусив мене приєднатися до поліції.
+
+
+# Brok
+### Temporarily.
+PC09C_OTT_WES1-10=Тимчасово.
+
+
+# Ott
+### Seriously?!
+PC09C_OTT_WES1-11=Серйозно?!
+
+
+# Ott
+### Well, it's not such a surprise. You're an expert!
+PC09C_OTT_WES1-12=Ну, це й не дивно. Ви ж експерт!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff told me about you!
+PC09C_OTT_WES1-13=Графф розповідав мені про вас!
+
+
+# Brok
+### Is that so...?
+PC09C_OTT_WES1-14=Справді...?
+
+
+# Ott
+### Yeah. Actually, he'd love to know what you're doing during the day. But he's certain it's awesome.
+PC09C_OTT_WES1-15=Так. Насправді він хотів би знати, чим ви займаєтесь цілими днями. Але він упевнений, що це щось круте.
+
+
+# Ott
+### He thinks detectives are super cool. And so do I!
+PC09C_OTT_WES1-16=Він вважає детективів суперкрутими. І я теж!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Is he talking about the same Graff...?)
+PC09C_OTT_WES1-17=(Він точно говорить про того самого Граффа...?)
+
+
+#----------------------------------------------------
+# Brok
+### Listen.
+PC09C_OTT_WES2-1=Слухай.
+
+
+# Brok
+### I need to use your uncle's computer.
+PC09C_OTT_WES2-2=Мені потрібно скористатися комп'ютером твого дядька.
+
+
+# Ott
+### What...? Why?
+PC09C_OTT_WES2-3=Що...? Навіщо?
+
+
+# Brok
+### It's a bit of a long story but...
+PC09C_OTT_WES2-4=Це довга історія, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### This will help Graff.
+PC09C_OTT_WES2-5=Це допоможе Граффові.
+
+
+# Brok
+### You know... About what happened yesterday.
+PC09C_OTT_WES2-6=Знаєш... Стосовно того, що сталося вчора.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You mean... Graff going crazy...?
+PC09C_WES2_CRAZY-1=Ви маєте на увазі... те, що Графф збожеволів...?
+
+
+# Ott
+### That was a surprise. I've never seen him like this.
+PC09C_WES2_CRAZY-2=Це було несподівано. Я ніколи не бачив його таким.
+
+
+# Ott
+### Any idea what triggered it?
+PC09C_WES2_CRAZY-3=Є ідеї, що це спричинило?
+
+
+# Brok
+### No but... I'm trying to fix the situation.
+PC09C_WES2_CRAZY-4=Ні, але... я намагаюся виправити ситуацію.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You mean... Graff losing the contest because you arrived late...?
+PC09C_WES2_LATE-1=Ви маєте на увазі... те, що Графф програв конкурс, бо ви запізнилися...?
+
+
+# Brok
+### Yeah.
+PC09C_WES2_LATE-2=Так.
+
+
+# Ott
+### You shouldn't feel so bad about it. I'm sure you did your best.
+PC09C_WES2_LATE-3=Вам не варто через це хвилюватися. Я впевнений, ви зробили все можливе.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Besides, Graff can still take his exam! He's very clever.
+PC09C_WES2_LATE-4=Крім того, Графф все ще може скласти іспит! Він дуже розумний.
+
+
+# Brok
+### Still. I gotta fix my mistake.
+PC09C_WES2_LATE-5=Все одно. Я мушу виправити свою помилку.
+
+
+# Brok
+### And for this... I need to access that computer.
+PC09C_WES2_LATE-6=І для цього... мені потрібен доступ до того комп'ютера.
+
+
+#----------------------------------------------------
+# Ott
+### I don't really see the connection but...
+PC09C_WES2B-1=Я не дуже бачу зв'язок, але...
+
+
+# Ott
+### If you say this will help...
+PC09C_WES2B-2=Якщо ви кажете, що це допоможе...
+
+
+# Brok
+### Definitely.
+PC09C_WES2B-3=Безперечно.
+
+
+# Ott
+### Although I promised my uncle I wouldn't move from here, to look over his office.
+PC09C_WES2B-4=Але ж я пообіцяв дядькові, що не зрушу з місця, щоб наглядати за його кабінетом.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### And that's only my first day! I know Graff's future is at stake but...
+PC09C_WES2B-5=Це лише мій перший день! Я знаю, що на кону стоїть майбутнє Граффа, але...
+
+
+# Ott
+### Mine too. I can't take that risk.
+PC09C_WES2B-6=Моє теж. Я не можу так ризикувати.
+
+
+# Ott
+### I'm sorry!
+PC09C_WES2B-7=Вибачте!
+
+
+# Brok
+### ...
+PC09C_WES2B-8=...
+
+
+# Brok
+### Okay. I'll find another way.
+PC09C_WES2B-9=Гаразд. Я знайду інший спосіб.
+
+
+# Ott
+### Sure!
+PC09C_WES2B-10=Звісно!
+
+
+# Brok
+### (But do I really have a choice?)
+PC09C_WES2B-11=(Але чи дійсно у мене є вибір?)
+
+
+#----------------------------------------------------
+# Brok
+### (He said he wouldn't help, and to be honest... It may be for the best.)
+PC09C_OTT_WES3-1=(Він сказав, що не допоможе, і чесно кажучи... Воно й на краще.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (I know Wes. If by chance he suspects Ott willingly helped me mess with his equipment against his orders.)
+PC09C_OTT_WES3-2=(Я знаю Веса. Якщо він запідозрить, що Отт добровільно допоміг мені, незважаючи на накази...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (He won't hesitate to use that lie detector on Ott to find the truth!)
+PC09C_OTT_WES3-3=(Він без вагань використає на Оттові детектор брехні, щоб дізнатися правду!)
+
+
+# Brok
+### (Maybe I could do it without his direct help...?)
+PC09C_OTT_WES3-4=(Може, я зможу зробити це без його безпосередньої допомоги...?)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### What about the Toxout pills?
+PC09C_OTT_PILLS1-1=А що щодо смогових пігулок?
+
+
+# Ott
+### I'm not sure but... Apparently there's a shortage going on.
+PC09C_OTT_PILLS1-2=Я не впевнений, але... Здається, виник дефіцит.
+
+
+# Brok
+### A shortage...?
+PC09C_OTT_PILLS1-3=Дефіцит...?
+
+
+# Ott
+### I took mine this morning so I'm good! At least for today.
+PC09C_OTT_PILLS1-4=Я прийняв свою вранці, тож зі мною все гаразд! Принаймні на сьогодні.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Don't worry, I messaged Graff this morning. He has one too.
+PC09C_OTT_PILLS1-5=Не хвилюйтеся, я написав Граффу вранці. У нього теж є одна.
+
+
+# Brok
+### Good to know.
+PC09C_OTT_PILLS1-6=Це добре.
+
+
+# Ott
+### What about you?
+PC09C_OTT_PILLS1-7=А як щодо вас?
+
+
+# Brok
+### Well...
+PC09C_OTT_PILLS1-8=Ну...
+
+
+# Brok
+### I'm just sorta... immune to it.
+PC09C_OTT_PILLS1-9=У мене типу... імунітет.
+
+
+# Ott
+### What...? Immune... to the pollution?
+PC09C_OTT_PILLS1-10=Що...? Імунітет... до забруднення?
+
+
+# Ott
+### Seriously?!
+PC09C_OTT_PILLS1-11=Серйозно?!
+
+
+# Brok
+### Yeah.
+PC09C_OTT_PILLS1-12=Так.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### No idea how. One day I just realized the Haze didn't affect me so I stopped taking 'em.
+PC09C_OTT_PILLS1-13=Без поняття як. Одного дня я просто зрозумів, що Смог на мене не діє, і перестав їх приймати.
+
+
+# Ott
+### I had never heard of anything like that.
+PC09C_OTT_PILLS1-14=Я ніколи про таке не чув.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Even Drumers aren't totally safe with the Dome.
+PC09C_OTT_PILLS1-15=Навіть мешканці Верхів не в повній безпеці під Куполом.
+
+
+# Brok
+### Don't tell anyone, okay?
+PC09C_OTT_PILLS1-16=Нікому не кажи, добре?
+
+
+# Brok
+### The last thing I'd want is to be transformed into a laboratory croc.
+PC09C_OTT_PILLS1-17=Останнє, чого б я хотів - це перетворитися на лабораторного крокодила.
+
+
+# Ott
+### My lips are sealed!
+PC09C_OTT_PILLS1-18=Триматиму рот на замку!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Wes is probably investigating this case...)
+PC09C_OTT_PILLS2-1=(Вес, мабуть, розслідує цю справу...)
+
+
+# Brok
+### (Well, I've got my own share of trouble. Better not worry about that for now.)
+PC09C_OTT_PILLS2-2=(Ну, у мене своїх клопотів вистачає. Краще поки про це не перейматися.)
+
+
+#----------------------------------------------------
+# Brok
+### Seems like you're stuck here, huh? I'll get you a drink!
+PC09C_OTT_DRINK1-1=Схоже, ти тут застряг, га? Я принесу тобі напій!
+
+
+# Ott
+### I'm not particularly thirsty.
+PC09C_OTT_DRINK1-2=Я не дуже хочу пити.
+
+
+# Brok
+### Nonsense! No need to be polite!
+PC09C_OTT_DRINK1-3=Дурниці! Не треба соромитися!
+
+
+# Brok
+### I'd never let a youngster die of thirst.
+PC09C_OTT_DRINK1-4=Я ніколи не залишу дитину помирати від спраги.
+
+
+# Ott
+### O-okay...
+PC09C_OTT_DRINK1-5=Г-гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### I got ya something!
+PC09C_OTT_DRINK2-1=Я дещо приніс тобі!
+
+
+#----------------------------------------------------
+# Brok
+### There ya go! Some water.
+PC09C_OTT_FLOWINGWATER-1=Тримай! Трохи води.
+
+
+# Ott
+### Thanks...
+PC09C_OTT_FLOWINGWATER-2=Дякую...
+
+
+# Ott
+### The water keeps flowing...
+PC09C_OTT_FLOWINGWATER-3=Вода все тече...
+
+
+# Brok
+### Yeah! Cool, huh?
+PC09C_OTT_FLOWINGWATER-4=Еге ж! Круто, правда?
+
+
+# Ott
+### Urgh...
+PC09C_OTT_FLOWINGWATER-5=Ох...
+
+
+#----------------------------------------------------
+# Brok
+### Here!
+PC09C_OTT_SEWAGESLUDGE-1=Ось!
+
+
+# Ott
+### That smells... funny.
+PC09C_OTT_SEWAGESLUDGE-2=Пахне... дивно.
+
+
+# Brok
+### Oh, erm... Yeah. I guess it's not the best.
+PC09C_OTT_SEWAGESLUDGE-3=О, е-е... Так. Здається, не найкращий вибір.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### That's okay! I'm used to it. I live in the Slums, remember?
+PC09C_OTT_SEWAGESLUDGE-4=Все гаразд! Я звик. Я живу в Нетрях, пам'ятаєте?
+
+
+# Ott
+### I just... didn't expect that.
+PC09C_OTT_SEWAGESLUDGE-5=Я просто... не очікував такого.
+
+
+# Brok
+### ...
+PC09C_OTT_SEWAGESLUDGE-6=...
+
+
+#----------------------------------------------------
+# Brok
+### I got ya this!
+PC09C_OTT_SOLIDJUICE-1=Я дістав тобі це!
+
+
+# Ott
+### Great! I love solid juice!
+PC09C_OTT_SOLIDJUICE-2=Чудово! Я люблю твердий сік!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### It's hard to find it in the Slums.
+PC09C_OTT_SOLIDJUICE-3=Його важко знайти в Нетрях.
+
+
+# Brok
+### Glad to hear it!
+PC09C_OTT_SOLIDJUICE-4=Радий це чути!
+
+
+# Ott
+### But... I'm not very thirsty right now.
+PC09C_OTT_SOLIDJUICE-5=Але... Я зараз не дуже хочу пити.
+
+
+#----------------------------------------------------
+# Brok
+### (Glurp)
+PC09C_OTT_DRINKALREADY1-1=(Ковтає)
+
+
+# Ott
+### Huh...? I thought you had brought that drink for me.
+PC09C_OTT_DRINKALREADY1-2=Га...? Я думав, ви принесли цей напій для мене.
+
+
+# Brok
+### I did! But now I got somethin' better!
+PC09C_OTT_DRINKALREADY1-3=Так і є! Але тепер у мене є щось краще!
+
+
+#----------------------------------------------------
+# Brok
+### (Throws away)
+PC09C_OTT_DRINKALREADY2-1=(Викидає)
+
+
+#----------------------------------------------------
+# Brok
+### Oops! I lost it along the way!
+PC09C_OTT_DRINKNO-1=Ой! Я загубив його по дорозі!
+
+
+# Ott
+### O...kay...
+PC09C_OTT_DRINKNO-2=Г...гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### So? Have a taste!
+PC09C_DRINK1-1=Ну що? Спробуй!
+
+
+# Ott
+### I'm good. Maybe later.
+PC09C_DRINK1-2=Дякую, не хочу. Може, пізніше.
+
+
+#----------------------------------------------------
+# Brok
+### Come on! Don't tell me you don't like this!
+PC09C_DRINK2-1=Та давай! Не кажи, що тобі це не подобається!
+
+
+# Ott
+### ...
+PC09C_DRINK2-2=...
+
+
+#----------------------------------------------------
+# Brok
+### Sorry to bother you. Can we talk?
+PC09C_OTT_WELCOME1-1=Вибач, що турбую. Можемо поговорити?
+
+
+# Ott
+### Sure! It's not as if I'm doing anything special.
+PC09C_OTT_WELCOME1-2=Звісно! Все одно я нічим особливим не зайнятий.
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+PC09C_OTT_WELCOME2-1=Гей!
+
+
+# Ott
+### What's up, Mister Detective?
+PC09C_OTT_WELCOME2-2=Як справи, пане детективе?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hey, Ott! I was wondering...
+PC09C_OTT_OUT-1=Гей, Отте! Мені було цікаво...
+
+
+# Brok
+### Oh yeah... I forgot.
+PC09C_OTT_OUT-2=Ох, точно... Я й забув.
+
+
+#----------------------------------------------------
+# Brok
+### See ya!
+PC09C_OTT_EXITFIRST1-1=Ще побачимось!
+
+
+# Ott
+### ...
+PC09C_OTT_EXITFIRST1-2=...
+
+
+# Ott
+### Okay...
+PC09C_OTT_EXITFIRST1-3=Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### I'll be around.
+PC09C_OTT_EXIT1-1=Буду неподалік.
+
+
+# Ott
+### Sure!
+PC09C_OTT_EXIT1-2=Авжеж!
+
+
+# Ott
+### ...Urgh...
+PC09C_OTT_EXIT1-3=...Ох...
+
+
+#----------------------------------------------------
+# Brok
+### Gotta go to the bathroom!
+PC09C_OTT_EXIT2-1=Треба сходити в туалет!
+
+
+# Ott
+### ...I see...
+PC09C_OTT_EXIT2-2=...Розумію...
+
+
+#----------------------------------------------------
+# Brok - If we hit Ott
+### Oh my.
+PC09C_OTT_KOED-1=Ой леле.
+
+
+# Brok
+### He's out cold... and relieved himself.
+PC09C_OTT_KOED-2=Він непритомний... і обмочився.
+
+
+# Brok
+### Sometimes I hate myself...
+PC09C_OTT_KOED-3=Іноді я ненавиджу самого себе...
+
+
+#----------------------------------------------------
+# Brok - Ott is KO
+### I... guess he won't drink it.
+PC09C_DRINK_GONE-1=Я... гадаю, він це вже не питиме.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Let's take a peek at what's in there!
+PC09C_DRAWER1-1=Заодно глянемо, що там усередині!
+
+
+# Brok
+### ...?
+PC09C_DRAWER1-2=...?
+
+
+# Brok
+### What? Nothing?
+PC09C_DRAWER1-3=Що? Нічого?
+
+
+# Brok
+### There's only dust.
+PC09C_DRAWER1-4=Тут лише пилюка.
+
+
+# Brok
+### In this digital age, that shouldn't be much of a surprise but I'm still disappointed.
+PC09C_DRAWER1-5=У цифрову еру це не має дивувати, але я все одно розчарований.
+
+
+# Brok
+### At least this simplifies my search.
+PC09C_DRAWER1-6=Принаймні це спрощує мої пошуки.
+
+
+#----------------------------------------------------
+# Brok
+### Nada!
+PC09C_DRAWER2-1=Порожньо!
+
+
+#----------------------------------------------------
+# Brok
+### A bunch of decorations, prizes...
+PC09C_TROPHIES1-1=Купа прикрас, нагород...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### On that trophy is written - "Promoted Head of office - Congratulations Wes! Year 3030"
+PC09C_TROPHIES1-2=На цій нагороді написано: "З підвищенням до керівника кабінету - Вітаємо, Весе! 3030 рік"
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### 3030... The year we moved into the Slums.
+PC09C_TROPHIES1-3=3030... Рік, коли ми переїхали до Нетрів.
+
+
+#----------------------------------------------------
+# Brok
+### All these trophies and not a single statue of him?!
+PC09C_TROPHIES_HACKPHONE-1=Стільки трофеїв, а на його честь не поставили жодної статуї?!
+
+
+# Brok
+### So disappointing.
+PC09C_TROPHIES_HACKPHONE-2=Таке розчарування.
+
+
+#----------------------------------------------------
+# Brok
+### What happened...? There are some stains all over that socket, even on the wall.
+PC09C_SOCKET1-1=Що тут сталося...? Навколо розетки якісь плями, навіть на стіні.
+
+
+# Brok
+### Looks like it burnt. A power overload?
+PC09C_SOCKET1-2=Схоже, вона згоріла. Перевантаження мережі?
+
+
+# Brok
+### (Smells)
+PC09C_SOCKET1-3=(Нюхає)
+
+
+# Brok
+### It's recent.
+PC09C_SOCKET1-4=Це сталося нещодавно.
+
+
+# Brok
+### Did someone put his finger in it by any chance...?
+PC09C_SOCKET1-5=Хтось бува, не встромив туди палець...?
+
+
+# Brok
+### Nah. No one would be stupid enough to do that!
+PC09C_SOCKET1-6=Та ні. Ніхто не був би настільки дурним, щоб таке зробити!
+
+
+#----------------------------------------------------
+# Brok
+### That socket is all burnt down. Hopefully it still works.
+PC09C_SOCKET2-1=Ця розетка геть згоріла. Сподіваюся, вона досі працює.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Seems to be the only socket around. Hopefully it still works.
+PC09C_SOCKET_PRINTER-1=Гмм... Схоже, це єдина розетка поблизу. Сподіваюся, вона досі працює.
+
+
+#----------------------------------------------------
+# Brok
+### Documents...? They still use paper?
+PC09C_BOX1-1=Документи...? Вони досі використовують папір?
+
+
+# Brok
+### ...
+PC09C_BOX1-2=...
+
+
+# Brok
+### A bunch of legal stuff...
+PC09C_BOX1-3=Купа юридичних паперів...
+
+
+# Brok
+### Staff contracts...
+PC09C_BOX1-4=Контракти працівників...
+
+
+# Brok
+### Whoa. They're all dated from years ago!
+PC09C_BOX1-5=Ого. Вони складені ще багато років тому!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I guess Wes doesn't tidy up very often.
+PC09C_BOX1-6=Здається, Вес прибирає не дуже часто.
+
+
+# Brok
+### ...
+PC09C_BOX1-7=...
+
+
+# Brok
+### Huh? Some... drawings?
+PC09C_BOX1-8=Що? Якісь... малюнки?
+
+
+# Brok
+### They're weird... and crossed. I can't even make out what they're supposed to be.
+PC09C_BOX1-9=Вони дивні... і перекреслені. Я навіть не можу розібрати, що там має бути зображено.
+
+
+# Brok
+### It's like someone tried to draw a suspect but couldn't, no matter what.
+PC09C_BOX1-10=Наче хтось намагався намалювати підозрюваного, але так і не зміг.
+
+
+# Brok
+### That must be all...
+PC09C_BOX1-11=Це, мабуть, усе...
+
+
+# Brok
+### ...Oh?
+PC09C_BOX1-12=...О?
+
+
+# Brok
+### Something's stuck beneath all this paper.
+PC09C_BOX1-13=Щось застрягло під усім цим папером.
+
+
+# Brok
+### Got it!
+PC09C_BOX1-14=Є!
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC09C_IDENTIKIT1-1=...?
+
+
+# Brok
+### There's a note attached to it...
+PC09C_IDENTIKIT1-2=До нього прикріплена записка...
+
+
+# Brok
+### "Hey boss! I've noticed you've stopped sketching for suspects search recently."
+PC09C_IDENTIKIT1-3="Гей, шефе! Я помітив, що останнім часом ви перестали робити начерки для пошуку підозрюваних."
+
+
+# Brok
+### "Why? It's such a shame, you're the best artist among us!"
+PC09C_IDENTIKIT1-4="Чому? Дуже шкода, адже ви найкращий художник серед нас!"
+
+
+# Brok
+### "Regardless, here's something I came up with. It's all based on pictures of ourselves!"
+PC09C_IDENTIKIT1-5="У будь-якому разі, ось що я вигадав. Усе це на основі наших власних фотографій!"
+
+
+# Brok
+### "I figured this could help you until you get your skills back!"
+PC09C_IDENTIKIT1-6="Я подумав, це допоможе вам, поки ви не повернете свої навички!"
+
+
+# Brok
+### Hmm. Looks fun!
+PC09C_IDENTIKIT1-7=Гмм. Звучить весело!
+
+
+#----------------------------------------------------
+# Brok
+### It's still got some energy left. Nice!
+PC09C_IDENTIKIT_ON-1=У ньому ще залишилося трохи енергії. Чудово!
+
+
+#----------------------------------------------------
+# Brok
+### "Work in progress"
+PC09C_IDENTIKIT_PICTURE-1="У процесі"
+
+
+#----------------------------------------------------
+# Brok
+### Good idea!
+PC09C_IDENTIKIT_HACKPHONE-1=Гарна ідея!
+
+
+# Brok
+### ...?
+PC09C_IDENTIKIT_HACKPHONE-2=...?
+
+
+# Brok
+### "Illegal pattern detected (Text over the face.) Remove unnatural artifacts before taking a picture."
+PC09C_IDENTIKIT_HACKPHONE-3="Виявлено недопустимий шаблон (Текст поверх обличчя.) Видаліть неприродні атрибути перед зйомкою."
+
+
+# Brok
+### Darn. There's a "Work in progress" stamp over it.
+PC09C_IDENTIKIT_HACKPHONE-4=Чорт. Поверх нього штамп "У процесі".
+
+
+# Brok
+### High technology? Right...
+PC09C_IDENTIKIT_HACKPHONE-5=Передові технології? Ну-ну...
+
+
+#----------------------------------------------------
+# Brok
+### Nothin'...
+PC09C_PRINTKO1-1=Нічого...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_PRINTKO2-1=...
+
+
+# Brok
+### I'm pretty sure this button is for printing but nothing's happening.
+PC09C_PRINTKO2-2=Я майже певний, що ця кнопка для друку, але нічого не відбувається.
+
+
+# Brok
+### Aww... I wanna save it! That's the best picture I could make!
+PC09C_PRINTKO2-3=О-о... Я хочу це зберегти! Це моє найкраще фото!
+
+
+#----------------------------------------------------
+# Brok
+### Nope.
+PC09C_PRINTKO3-1=Ні.
+
+
+# Brok
+### Is there a printer somewhere?
+PC09C_PRINTKO3-2=Є тут десь принтер?
+
+
+#----------------------------------------------------
+# Brok
+### I heard somethin'!
+PC09C_PRINTOK1-1=Я щось почув!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Glad to see even someone as stiff as Wes can make such a mess!
+PC09C_MESS1-1=Приємно бачити, що хтось настільки суворий, як Вес, може влаштувати безлад!
+
+
+# Brok
+### Could there be something interesting in there?
+PC09C_MESS1-2=Може, там є щось цікаве?
+
+
+# Brok
+### ...
+PC09C_MESS1-3=...
+
+
+# Brok
+### Various electronic equipments...
+PC09C_MESS1-4=Різне електронне обладнання...
+
+
+# Brok
+### Got no idea what most of these are, I'm not a technical junkie.
+PC09C_MESS1-5=Уявлення не маю, що це за штуки, я не фанат техніки.
+
+
+# Brok
+### Ha! Here's something I recognize!
+PC09C_MESS1-6=Ха! А ось це я впізнаю!
+
+
+# Brok
+### A printer! Hadn't seen one in years, back at school... when it was still called school.
+PC09C_MESS1-7=Принтер! Роками їх не бачив, ще зі школи... коли вона ще називалася школою.
+
+
+# Brok
+### I feel old.
+PC09C_MESS1-8=Почуваюся старим.
+
+
+# Brok
+### Anyway, I got it out.
+PC09C_MESS1-9=Як би там не було, я його дістав.
+
+
+#----------------------------------------------------
+# Ott
+### Erm...
+PC09C_MESS_OTT-1=Е-е...
+
+
+# Brok
+### Oh! I... guess I'm not supposed to rummage through this...?
+PC09C_MESS_OTT-2=О! Я... мабуть, не повинен порпатися в цьому...?
+
+
+# Ott
+### Right.
+PC09C_MESS_OTT-3=Саме так.
+
+
+# Brok
+### Sorry! Bad detective habits, ya know?
+PC09C_MESS_OTT-4=Вибач! Погані детективні звички, розумієш?
+
+
+# Ott
+### No problem.
+PC09C_MESS_OTT-5=Нічого страшного.
+
+
+#----------------------------------------------------
+# Brok
+### Could be valuable! Must be a museum piece now.
+PC09C_PRINTER1-1=Може виявитися цінним! Мабуть, тепер це музейний експонат.
+
+
+#----------------------------------------------------
+# Brok
+### It's off. No juice. Obviously.
+PC09C_PRINTER2-1=Він вимкнений. Немає струму. Очевидно.
+
+
+# Brok
+### Wires from various equipment are all tangled up.
+PC09C_PRINTER2-2=Дроти від різного обладнання переплуталися.
+
+
+# Brok
+### Ngggh...
+PC09C_PRINTER2-3=У-уух...
+
+
+# Brok
+### Here's the wire. Now I need to hook it up.
+PC09C_PRINTER2-4=Ось дріт. Тепер мені треба його підключити.
+
+
+#----------------------------------------------------
+# Brok
+### Yeah...! Ready to give birth to paper babies!
+PC09C_PRINTER3-1=Так...! Готовий давати життя паперовим діткам!
+
+
+#----------------------------------------------------
+# Brok
+### Something's been printed!
+PC09C_PRINTER_GETPIC_WRONG-1=Щось роздрукувалося!
+
+
+# Brok
+### It's a weird face.
+PC09C_PRINTER_GETPIC_WRONG-2=Це дивне обличчя.
+
+
+# Brok
+### Can't see any use for this... except a paper plane, maybe?
+PC09C_PRINTER_GETPIC_WRONG-3=Не бачу з цього жодної користі... хіба що як паперовий літачок?
+
+
+#----------------------------------------------------
+# Brok
+### A blank paper. Does that thing even work?!
+PC09C_PRINTER_GETPIC_EMPTY-1=Чистий аркуш паперу. Ця штука взагалі працює?!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Hey! It's totally a picture of Wes!
+PC09C_PRINTER_GETPIC_CORRECT-1=Гей! Це ж точнісінько портрет Веса!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Hey! That's R.J.!
+PC09C_PRINTER_GETPIC_RJ-1=Гей! Це ж Р. Джей!
+
+
+#----------------------------------------------------
+# Brok
+### Already got that one.
+PC09C_PRINTER_GETPIC_ALREADY-1=Таке в мене вже є.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Isn't there something under this chair?
+PC09C_CHAIRB1-1=Гмм... Хіба під цим кріслом нічого немає?
+
+
+#----------------------------------------------------
+# Brok
+### The chair's stuck. Can't access what might be beneath it.
+PC09C_CHAIRB2-1=Крісло застрягло. Не можу дістатися до того, що під ним.
+
+
+#----------------------------------------------------
+# Brok
+### Hey... That chair seems to be covering something on the floor.
+PC09C_CHAIR_BENEATH1-1=Гей... Схоже, це крісло щось закриває на підлозі.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_CHAIR_BENEATH2-1=...
+
+
+# Brok
+### What the...? I can't push the chair out of the way!
+PC09C_CHAIR_BENEATH2-2=Що за...? Я не можу відсунути крісло!
+
+
+# Brok
+### A wheel must be stuck.
+PC09C_CHAIR_BENEATH2-3=Мабуть, заклинило коліщатко.
+
+
+# Brok
+### Crawling is out of the question. I wouldn't get a good enough view...
+PC09C_CHAIR_BENEATH2-4=Про те, щоб повзати під ним, і мови бути не може. Я б усе одно нічого не розгледів...
+
+
+# Brok
+### ...and my back hurts.
+PC09C_CHAIR_BENEATH2-5=...і в мене спина болить.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok?
+PC09C_CHAIR_OTT-1=Пане Броку?
+
+
+# Ott
+### What are you doing with this chair...?
+PC09C_CHAIR_OTT-2=Що ви робите з цим кріслом...?
+
+
+# Brok
+### Trying to get it loose!
+PC09C_CHAIR_OTT-3=Намагаюся його зрушити!
+
+
+# Ott
+### O-kay...
+PC09C_CHAIR_OTT-4=О-кей...
+
+
+#----------------------------------------------------
+# Brok
+### That's not enough.
+PC09C_CHAIRB_INV_STICK1-1=Цього недостатньо.
+
+
+#----------------------------------------------------
+# Brok
+### Still stuck.
+PC09C_CHAIRB_INV_STICK2-1=Усе одно застрягло.
+
+
+#----------------------------------------------------
+# Brok
+### Looks like a socket for some kind of device.
+PC09C_SPEAKER1-1=Схоже на роз'єм для якогось пристрою.
+
+
+# Brok
+### At the center of the room...? Hmm.
+PC09C_SPEAKER1-2=Посеред кімнати...? Гмм.
+
+
+#----------------------------------------------------
+# Brok
+### It's written... "Tri-home."
+PC09C_SPEAKER2-1=Тут написано... "Трай-дім".
+
+
+# Brok
+### Must be linked to that assistant thingy, somehow...?
+PC09C_SPEAKER2-2=Мабуть, це якось пов'язано з тим віртуальним помічником...?
+
+
+#----------------------------------------------------
+# Brok
+### There ya go! Fits perfectly!
+PC09C_SPEAKER_SET-1=Ось так! Підходить ідеально!
+
+
+# Brok
+### Well, more or less.
+PC09C_SPEAKER_SET-2=Ну, більш-менш.
+
+
+#----------------------------------------------------
+# Ott
+### ...?
+PC09C_SPEAKER_SET2-1=...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott is making a weird face at me...)
+PC09C_SPEAKER_SET2-2=(Отт якось дивно на мене дивиться...)
+
+
+# Brok
+### (But I think he's too busy restraining himself to feel concerned.)
+PC09C_SPEAKER_SET2-3=(Але він надто зайнятий "стримуванням" себе, щоб про це хвилюватися.)
+
+
+#----------------------------------------------------
+# Brok
+### It's perfect!
+PC09C_SPEAKEROK-1=Ідеально!
+
+
+#----------------------------------------------------
+# Brok
+### What's that box thingy?
+PC09C_ASSISTANT1-1=Що це за коробочка?
+
+
+# Ott
+### You don't know?
+PC09C_ASSISTANT1-2=Ви не знаєте?
+
+
+# Ott
+### A Tri-home. It's a virtual assistant.
+PC09C_ASSISTANT1-3=Це "Трай-дім". Віртуальний помічник.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### You can ask anything! Uncle Wes lent it to me while he's busy.
+PC09C_ASSISTANT1-4=Ви можете запитати будь-що! Дядько Вес позичив його мені, поки зайнятий.
+
+
+# Brok
+### Sounds cool. Can I try it?
+PC09C_ASSISTANT1-5=Звучить круто. Можна мені спробувати?
+
+
+# Ott
+### Sure.
+PC09C_ASSISTANT1-6=Звісно.
+
+
+#----------------------------------------------------
+# Various
+### "Hello! You're a new user."
+PC09C_ASSISTANT1B-1="Вітаємо! Ви новий користувач."
+
+
+# Various
+### "What's your name?"
+PC09C_ASSISTANT1B-2="Як вас звати?"
+
+
+# Brok
+### Who cares...?
+PC09C_ASSISTANT1B-3=Яка різниця...?
+
+
+# Various
+### "Now registered as Whocares."
+PC09C_ASSISTANT1B-4="Тепер вас зареєстровано як Якарізниця."
+
+
+# Brok
+### Whoops...!
+PC09C_ASSISTANT1B-5=Ой-ой...!
+
+
+# Various
+### "Welcome!"
+PC09C_ASSISTANT1B-6="Ласкаво просимо!"
+
+
+# Various
+### "As a free-customer-level guest, your permissions are restricted to changing the room environment."
+PC09C_ASSISTANT1B-7="Як гість із безкоштовним рівнем доступу, ви маєте лише дозвіл на зміну середовища кімнати."
+
+
+# Various
+### "Currently installed environments : Space, Waterfall, Mountain."
+PC09C_ASSISTANT1B-8="Наразі встановлені середовища: Космос, Водоспад, Гори."
+
+
+# Various
+### "Which environment would you like?"
+PC09C_ASSISTANT1B-9="Яке середовище ви б хотіли?"
+
+
+#----------------------------------------------------
+# Brok
+### Whoa! How luxurious!
+PC09C_ASSISTANT1C-1=Ого! Як розкішно!
+
+
+# Various
+### "Would you like to install new environments?"
+PC09C_ASSISTANT1C-2="Бажаєте встановити нові середовища?"
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### "Special offer! Get new environments for 500 Unis each. Limited to the first 10,000 customers! Get it before it's gone!"
+PC09C_ASSISTANT1C-3="Спеціальна пропозиція! Отримайте нові середовища всього за 500 Юні кожне. Доступно лише для перших 10,000 клієнтів! Встигніть, поки у вас є час!"
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### "You may also get the Season Pass for just 1,500 Unis! This is the best way to ensure you'll get the new environments as soon as they're released..."
+PC09C_ASSISTANT1C-4="Ви також можете придбати Сезонну Перепустку всього за 1,500 Юні! Це найкращий спосіб отримати нові середовища одразу після їх виходу..."
+
+
+# Brok
+### No thank you. And stop your blabbering, peddler box.
+PC09C_ASSISTANT1C-5=Ні, дякую. І припини свою балаканину, коробко-торгаш.
+
+
+#----------------------------------------------------
+# Various
+### "Hello, Whocares!"
+PC09C_ASSISTANT2-1="Вітаємо, Якарізниця!"
+
+
+# Various
+### "Choose your environment!"
+PC09C_ASSISTANT2-2="Оберіть ваше середовище!"
+
+
+#----------------------------------------------------
+# Various
+### "A malfunction has been detected!"
+PC09C_ASSISTANT2B-1="Виявлено несправність!"
+
+
+# Various
+### "Error 1262X - No sound output. This may lead to a degraded experience."
+PC09C_ASSISTANT2B-2="Помилка 1262X - Немає виводу звуку. Це може погіршити враження від використання."
+
+
+# Various
+### "Please check your installation."
+PC09C_ASSISTANT2B-3="Будь ласка, перевірте ваше обладнання."
+
+
+#----------------------------------------------------
+# Ott - Attempting to go towards Wes desk fails
+### Where are you going?
+PC09C_OTT_MOVEDESK1-1=Куди це ви?
+
+
+# Brok
+### Just checking...
+PC09C_OTT_MOVEDESK1-2=Просто перевіряю...
+
+
+# Ott
+### Please don't. I promised my uncle I'd stay here to watch over his belongings.
+PC09C_OTT_MOVEDESK1-3=Будь ласка, не треба. Я пообіцяв дядькові, що залишуся тут доглядати за його речами.
+
+
+# Brok
+### Okay...
+PC09C_OTT_MOVEDESK1-4=Добре...
+
+
+#----------------------------------------------------
+# Ott
+### Did you listen...?
+PC09C_OTT_MOVEDESK2-1=Ви мене слухаєте...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Please. Uncle Wes would get mad!
+PC09C_OTT_MOVEDESK2-2=Будь ласка. Дядько Вес буде лютувати!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok...!
+PC09C_OTT_MOVEDESK3-1=Пане Броку...!
+
+
+# Brok
+### Okay, okay...
+PC09C_OTT_MOVEDESK3-2=Добре, добре...
+
+
+#----------------------------------------------------
+# Ott - Trying to lock the office door
+### Huh...?
+PC09C_OTT_DOORLOCK1-1=Га...?
+
+
+# Ott
+### Did you just lock us in?
+PC09C_OTT_DOORLOCK1-2=Ви щойно замкнули нас?
+
+
+# Brok
+### Yeah?
+PC09C_OTT_DOORLOCK1-3=Так?
+
+
+# Ott
+### Why?
+PC09C_OTT_DOORLOCK1-4=Навіщо?
+
+
+# Brok
+### Err... Just afraid your uncle might suddenly come in. He's frightening!
+PC09C_OTT_DOORLOCK1-5=Е-е... Побоююсь, що твій дядько може раптово увійти. У нього страшний погляд!
+
+
+# Ott
+### Not really...
+PC09C_OTT_DOORLOCK1-6=Та наче ні...
+
+
+# Brok
+### Oh... Well...
+PC09C_OTT_DOORLOCK1-7=О... Ну...
+
+
+#----------------------------------------------------
+# Ott
+### Again?
+PC09C_OTT_DOORLOCK2-1=Знову?
+
+
+# Brok
+### Sorry. Forgot you were there.
+PC09C_OTT_DOORLOCK2-2=Вибач. Забув, що ти тут.
+
+
+# Ott
+### Huh...?
+PC09C_OTT_DOORLOCK2-3=Га...?
+
+
+#----------------------------------------------------
+# Ott - We locked the door while Ott was out and now he can't come inside
+### (Bump)
+PC09C_OTT_AFTERDOORLOCK1-1=(Стукіт)
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Mister Brok! The door is locked!)
+PC09C_OTT_AFTERDOORLOCK1-2=(Пане Броку! Двері замкнені!)
+
+
+#----------------------------------------------------
+# Ott
+### (Can you open it, please?)
+PC09C_OTT_AFTERDOORLOCK2-1=(Можете відчинити, будь ласка?)
+
+
+#----------------------------------------------------
+# Ott
+### (What's going on?!)
+PC09C_OTT_AFTERDOORLOCK3-1=(Що відбувається?!)
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (I... I'm gonna find Uncle Wes!)
+PC09C_OTT_AFTERDOORLOCK4-1=(Я... я піду покличу дядька Веса!)
+
+
+#----------------------------------------------------
+# Ott - We "convinced" Ott to go pee
+### ...
+PC09C_OTT_LEAVES-1=...
+
+
+# Ott
+### I can't...!
+PC09C_OTT_LEAVES-2=Я більше не можу...!
+
+
+#----------------------------------------------------
+# Brok
+### Good! Now I better act fast.
+PC09C_OTT_LEAVES3-1=Чудово! Тепер краще діяти швидко.
+
+
+#----------------------------------------------------
+# Brok
+### Not yet!
+PC09C_CANNOTLEAVE-1=Ще ні!
+
+
+#----------------------------------------------------
+# Brok - Using the computer to search through it
+### Okay. Time for my favorite activity that I despise the most!
+PC09C_COMPUTER1-1=Добре. Час для заняття, яке я ненавиджу понад усе!
+
+
+# Brok
+### Using a computer. (Shivers)
+PC09C_COMPUTER1-2=Користуватися комп'ютером. (Здригається)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Yeah... That's Wes's computer, all right.
+PC09C_COMPUTER_WES1-1=Так... Це справді комп'ютер Веса.
+
+
+#----------------------------------------------------
+# Brok
+### Good idea!
+PC09C_COMPUTER_WES_HACKPHONE-1=Гарна ідея!
+
+
+# Brok
+### ...
+PC09C_COMPUTER_WES_HACKPHONE-2=...
+
+
+#----------------------------------------------------
+# Brok
+### There. But it's not enough.
+PC09C_COMPUTER_WES_HACKPHONE_DONE-1=Готово. Але цього недостатньо.
+
+
+# Brok
+### Where am I gonna find a front view of the old man...?
+PC09C_COMPUTER_WES_HACKPHONE_DONE-2=Де ж мені знайти анфас цього старого...?
+
+
+#----------------------------------------------------
+# Brok
+### I'm done with that!
+PC09C_COMPUTER_WES_HACKPHONE3D-1=З цим розібрався!
+
+
+#----------------------------------------------------
+# Brok
+### "Identification"
+PC09C_COMPUTER_TITLE1-1="Ідентифікація"
+
+
+#----------------------------------------------------
+# Brok
+### I guess that's the area I should look at to.
+PC09C_COMPUTER_CIRCLE1-1=Думаю, сюди слід придивитися.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_COMPUTER_CIRCLE1B-1=...
+
+
+# Brok
+### Obviously. I'm not allowed.
+PC09C_COMPUTER_CIRCLE1B-2=Очевидно. Мені доступ заборонено.
+
+
+#----------------------------------------------------
+# Brok
+### There! I've taken a picture of that circle.
+PC09C_COMPUTER_CIRCLE_HACKERPHONE-1=Є! Я сфотографував це коло.
+
+
+# Brok
+### ...
+PC09C_COMPUTER_CIRCLE_HACKERPHONE-2=...
+
+
+# Brok
+### I feel like I missed a step here...
+PC09C_COMPUTER_CIRCLE_HACKERPHONE-3=Здається, я пропустив якийсь крок...
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC09C_COMPUTER_CIRCLE_PHOTOWES-1=...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I'm holding that picture of Wes but nothing happens.
+PC09C_COMPUTER_CIRCLE_PHOTOWES-2=Я тримаю це фото Веса, але нічого не відбувається.
+
+
+# Brok
+### Did I forget something...?
+PC09C_COMPUTER_CIRCLE_PHOTOWES-3=Я щось забув...?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_COMPUTER_CIRCLE_HACKPHONE3D-1=...
+
+
+# Brok
+### Yes! It worked!
+PC09C_COMPUTER_CIRCLE_HACKPHONE3D-2=Є! Спрацювало!
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Not much on this computer.
+PC09C_COMPUTER_DELETEENTRY-1=Гмм... На цьому комп'ютері небагато всього.
+
+
+# Brok
+### I'm curious. What's in the trash bin?
+PC09C_COMPUTER_DELETEENTRY-2=Цікаво. А що в кошику?
+
+
+#----------------------------------------------------
+# Brok
+### Two folders here.
+PC09C_COMPUTER_DELETEENTRY2-1=Тут дві папки.
+
+
+# Brok
+### "D.Silver" and "R.Filsh"
+PC09C_COMPUTER_DELETEENTRY2-2="Д. Сільвер" та "Р. Філш"
+
+
+#----------------------------------------------------
+# Brok
+### Darn... They're corrupted. I can't access the documents.
+PC09C_COMPUTER_DELETEENTRY3-1=Чорт... Вони пошкоджені. Я не можу відкрити документи.
+
+
+# Brok
+### Filsh. Why does this have a familiar ring to it...?
+PC09C_COMPUTER_DELETEENTRY3-2=Філш. Чому це прізвище звучить так знайомо...?
+
+
+# Brok
+### Let's try this other icon.
+PC09C_COMPUTER_DELETEENTRY3-3=Спробуємо іншу іконку.
+
+
+#----------------------------------------------------
+# Brok
+### Lots of names here. Maybe some list of criminals?
+PC09C_COMPUTER_DELETEENTRY4-1=Тут повно імен. Можливо, це якийсь список злочинців?
+
+
+#----------------------------------------------------
+# Brok
+### "The Gloom". Yup, probably.
+PC09C_COMPUTER_NOMISSION-1="Похмурий". Ага, так і є.
+
+
+# Brok
+### That's it? Nothing else on this machine?
+PC09C_COMPUTER_NOMISSION-2=І це все? Більше нічого немає на цьому комп'ютері?
+
+
+# Brok
+### I expected too much...
+PC09C_COMPUTER_NOMISSION-3=Я очікував більшого...
+
+
+#----------------------------------------------------
+# Brok - Fulfill the hacker's mission
+### Yup! Found it! "The Gloom."
+PC09C_COMPUTER_MISSION-1=Ага! Знайшов! "Похмурий."
+
+
+# Brok
+### How do I select it...?
+PC09C_COMPUTER_MISSION-2=Як мені його виділити...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Ah, yes. Graff showed me once. Erm...
+PC09C_COMPUTER_MISSION-3=А, точно. Графф мені колись показував. Е-е...
+
+
+# Brok
+### There.
+PC09C_COMPUTER_MISSION-4=Ось.
+
+
+# Brok
+### And...
+PC09C_COMPUTER_MISSION-5=І...
+
+
+# Brok
+### Delete.
+PC09C_COMPUTER_MISSION-6=Видалити.
+
+
+# Brok
+### ...
+PC09C_COMPUTER_MISSION-7=...
+
+
+# Brok
+### Is this enough? I wonder.
+PC09C_COMPUTER_MISSION-8=Чи цього достатньо? Цікаво.
+
+
+# Unknown
+### (Ring)
+PC09C_COMPUTER_MISSION-9=(Дзвінок)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### The hacker phone...? It's ringing!
+PC09C_COMPUTER_MISSION-10=Гакерський телефон...? Він дзвонить!
+
+
+# Brok
+### [...]
+PC09C_COMPUTER_MISSION-11=[...]
+
+
+# Brok
+### Hello?
+PC09C_COMPUTER_MISSION-12=Алло?
+
+
+# Hacker
+### Anyone around?
+PC09C_COMPUTER_MISSION-13=Хтось є поруч?
+
+
+# Brok
+### Nope but...
+PC09C_COMPUTER_MISSION-14=Нікого, але...
+
+
+# Hacker
+### This is a secure line. Good job!
+PC09C_COMPUTER_MISSION-15=Це захищена лінія. Чудова робота!
+
+
+# Brok
+### Wait, how do you know?
+PC09C_COMPUTER_MISSION-16=Зачекай, звідки ти знаєш?
+
+
+# Hacker
+### What d'ya think? I set up a watch-notification in case of any changes on my file.
+PC09C_COMPUTER_MISSION-17=А як ти думаєш? Я налаштував сповіщення про будь-які зміни в моєму досьє.
+
+
+# Brok
+### Whatever. Will you respect your end of the contract?
+PC09C_COMPUTER_MISSION-18=Неважливо. Ти виконаєш свою частину угоди?
+
+
+# Hacker
+### Yeah. The chip is yours.
+PC09C_COMPUTER_MISSION-19=Так. Чип твій.
+
+
+# Hacker
+### Though I don't feel safe with you carrying it all around.
+PC09C_COMPUTER_MISSION-20=Але мені некомфортно від думки, що ти носитимеш його з собою.
+
+
+# Hacker
+### Tell me who and I'll send it via a secure way.
+PC09C_COMPUTER_MISSION-21=Скажи, кому віддати, і я відправлю його безпечним шляхом.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums school Director.
+PC09C_COMPUTER_MISSION-22=Директорці школи в Нетрях.
+
+
+# Hacker
+### Got it.
+PC09C_COMPUTER_MISSION-23=Зрозуміло.
+
+
+# Hacker
+### Oh and... This phone is gonna self destruct. Like, right now.
+PC09C_COMPUTER_MISSION-24=О, і ще... Цей телефон зараз самознищиться. Типу, просто зараз.
+
+
+#----------------------------------------------------
+# Hacker
+### Of course. My lips are sealed.
+PC09C_COMPUTER_WASBLACKMAILED-1=Звісно. Я триматиму язик за зубами.
+
+
+# Hacker
+### Oh and... This phone is gonna self destruct. Like, right now.
+PC09C_COMPUTER_WASBLACKMAILED-2=О, і ще... Цей телефон зараз самознищиться. Типу, просто зараз.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa!
+PC09C_MISSION_DESTRUCT2-1=Ого!
+
+
+# Brok
+### So much for recycling... What a waste.
+PC09C_MISSION_DESTRUCT2-2=От тобі й переробка... Яке марнотратство.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09C_COMPUTER_AFTEROTTKO-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Where's Ott?
+PC09C_COMPUTER_AFTEROTTKO-2=А де Отт?
+
+
+# Brok
+### Darn. Sounds like trouble ahead...
+PC09C_COMPUTER_AFTEROTTKO-3=Чорт. Схоже, на мене чекають проблеми...
+
+
+#----------------------------------------------------
+# Brok
+### Better get outta here before...
+PC09C_COMPUTER_AFTER1-1=Краще забратися звідси, поки...
+
+
+#----------------------------------------------------
+# Brok - After searching through Wes' computer, both Wes and Ott come crashing inside
+### ...!
+PC09C_COMPUTER_AFTER2-1=...!
+
+
+# Wes
+### What are you doing here?
+PC09C_COMPUTER_AFTER2-2=Що ти тут робиш?
+
+
+# Brok
+### Well... You said you needed me, right?
+PC09C_COMPUTER_AFTER2-3=Ну... Ви ж казали, що я вам потрібен, чи ні?
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes! He locked himself in!
+PC09C_COMPUTER_AFTER_LOCKED-1=Дядьку Весе! Він зачинився зсередини!
+
+
+# Brok
+### The door was stuck...
+PC09C_COMPUTER_AFTER_LOCKED-2=Двері заклинило...
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. I gave you a clear order.
+PC09C_COMPUTER_AFTER_LOCKED-3=Отте. Я дав тобі чіткий наказ.
+
+
+# Wes
+### Do. Not. Leave. The room!
+PC09C_COMPUTER_AFTER_LOCKED-4=Не. Виходити. З кімнати!
+
+
+# Wes
+### Under any circumstance!
+PC09C_COMPUTER_AFTER_LOCKED-5=За жодних обставин!
+
+
+# Ott
+### But...!
+PC09C_COMPUTER_AFTER_LOCKED-6=Але...!
+
+
+# Wes
+### Enough.
+PC09C_COMPUTER_AFTER_LOCKED-7=Досить.
+
+
+# Ott
+### ...
+PC09C_COMPUTER_AFTER_LOCKED-8=...
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Don't worry, Uncle Wes.
+PC09C_COMPUTER_AFTER_NOTLOCKED-1=Не хвилюйся, дядьку Весе.
+
+
+# Ott
+### I watched the place, just like you asked!
+PC09C_COMPUTER_AFTER_NOTLOCKED-2=Я стежив за кабінетом, як ти й просив!
+
+
+# Wes
+### Hmm. And that explains why you were outside.
+PC09C_COMPUTER_AFTER_NOTLOCKED-3=Гмм. І це пояснює, чому ти був надворі.
+
+
+# Ott
+### Sorry. I had to go to the toilet.
+PC09C_COMPUTER_AFTER_NOTLOCKED-4=Вибач. Мені треба було в туалет.
+
+
+# Ott
+### But only for a minute! I just came back.
+PC09C_COMPUTER_AFTER_NOTLOCKED-5=Але тільки на хвилинку! Я щойно повернувся.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Besides, ya know... Mister Brok is a good person.
+PC09C_COMPUTER_AFTER_NOTLOCKED-6=До того ж, ти знаєш... Пан Брок - добра людина.
+
+
+# Wes
+### Is he, now...?
+PC09C_COMPUTER_AFTER_NOTLOCKED-7=Справді...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Enough with the suspicions, Wes! I came here to help!
+PC09C_COMPUTER_AFTER_NOTLOCKED-8=Досить вже підозр, Весе! Я прийшов сюди допомогти!
+
+
+# Wes
+### Whatever.
+PC09C_COMPUTER_AFTER_NOTLOCKED-9=Ай, неважливо.
+
+
+#----------------------------------------------------
+# Wes
+### My nephew left the office in a hurry.
+PC09C_COMPUTER_AFTER_OTTWASKOED-1=Мій небіж поспіхом вибіг з кабінету.
+
+
+# Wes
+### The boy didn't give me a chance to interrogate him.
+PC09C_COMPUTER_AFTER_OTTWASKOED-2=Хлопець не дав мені можливості допитати його.
+
+
+# Wes
+### What can you tell me about this?
+PC09C_COMPUTER_AFTER_OTTWASKOED-3=Що ти можеш мені про це сказати?
+
+
+# Brok
+### Me...?
+PC09C_COMPUTER_AFTER_OTTWASKOED-4=Я...?
+
+
+# Brok
+### Dunno. Who's your nephew?
+PC09C_COMPUTER_AFTER_OTTWASKOED-5=Не знаю. А хто ваш небіж?
+
+
+# Wes
+### Hmph.
+PC09C_COMPUTER_AFTER_OTTWASKOED-6=Гммм.
+
+
+#----------------------------------------------------
+# Wes
+### There are more urgent matters right now.
+PC09C_COMPUTER_AFTER_EXPLAIN-1=Зараз є важливіші справи.
+
+
+# Wes
+### We have a situation.
+PC09C_COMPUTER_AFTER_EXPLAIN-2=У нас виникла проблема.
+
+
+# Wes
+### An important scientist has disappeared over Engineer Lab 21.
+PC09C_COMPUTER_AFTER_EXPLAIN-3=В Інженерній Лабораторії 21 зник важливий науковець.
+
+
+# Wes
+### Unfortunately I have other business to attend to so I'm sending you.
+PC09C_COMPUTER_AFTER_EXPLAIN-4=На жаль, у мене є інші справи, тому я відправляю тебе.
+
+
+#----------------------------------------------------
+# Wes
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### An Aircar is ready to take you there.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-1=Аеромобіль уже готовий доправити тебе туди.
+
+
+# Brok
+### You mean... now?
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-2=Ви маєте на увазі... зараз?
+
+
+# Wes
+### Now!
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-3=Зараз!
+
+
+# Wes
+### Or maybe you'd rather get back to your cell?
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-4=Чи ти б волів повернутися до своєї камери?
+
+
+# Brok
+### Hey, no need to get mad.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-5=Гей, не треба так злитися.
+
+
+# Brok
+### I just thought you'd share some info.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-6=Я просто думав, що ви поділитеся інформацією.
+
+
+# Wes
+### You'll get all the details you need on the spot.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-7=Усі необхідні подробиці ти отримаєш на місці.
+
+
+# Brok
+### Okay, okay. I'm going.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-8=Добре, добре. Я вже йду.
+
+
+# Wes
+### You'll be accompanied by my nephew. I can't trust you to work alone.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-9=Тебе супроводжуватиме мій небіж. Я не можу довірити тобі працювати самому.
+
+
+# Brok
+### Err...!
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-10=Е-е...!
+
+
+# Brok
+### B-but you said...
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-11=А-але ви казали...
+
+
+# Wes
+### It's part of his training course.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-12=Це частина його стажування.
+
+
+# Wes
+### Whatever happens, he has to go.
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-13=Що б не сталося, він мусить іти.
+
+
+# Brok
+### Okay...
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-14=Добре...
+
+
+# Wes
+### And don't screw up!
+PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-15=І не налажай!
+
+
+#----------------------------------------------------
+# Wes
+### Along with my nephew.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-1=Разом із моїм небіжем.
+
+
+# Ott
+### What?
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-2=Що?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I'm... going on a case? In the Drums?!
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-3=Я... відправляюся розслідувати справу? На Верхах?!
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Yes. I gave you special permission to access the Dome today.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-4=Так. Я надав тобі спеціальний дозвіл для доступу під Купол на сьогодні.
+
+
+# Wes
+### I need someone trustworthy to watch over that detective.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-5=Мені потрібен хтось надійний, щоб наглядати за цим детективом.
+
+
+# Brok
+### I'm right here, ya know.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-6=Я взагалі-то тут, знаєте.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### An Aircar is ready take you there.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTT-7=Аеромобіль уже готовий доправити вас туди.
+
+
+#----------------------------------------------------
+# Ott
+### Okay...
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTFORCED-1=Добре...
+
+
+# Ott
+### I... guess we should go.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTFORCED-2=Я... гадаю, нам слід іти.
+
+
+# Brok
+### ...
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTFORCED-3=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott seems depressed...)
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTFORCED-4=(Отт здається пригніченим...)
+
+
+# Wes
+### Don't waste my time. Hurry up!
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTFORCED-5=Не гайте мого часу. Покваптеся!
+
+
+#----------------------------------------------------
+# Ott
+### Awesome!
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-1=Круто!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I can't wait to learn from you, Mister Brok!
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-2=Не можу дочекатися, щоб повчитися у вас, пане Броку!
+
+
+# Wes
+### Don't get your hopes up, nephew.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-3=Не тіш себе ілюзіями, небоже.
+
+
+# Wes
+### All I ask is that he doesn't screw up like he always does.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-4=Все, чого я вимагаю - щоб він не схибив, як робить це завжди.
+
+
+# Brok
+### I'll prove you can trust me, old weasel.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-5=Я доведу, що мені можна довіряти, стара ласице.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Come on, Ott. Let's go.
+PC09C_COMPUTER_AFTER_EXPLAIN_OTTHAPPY-6=Ходімо, Отте. Вирушаймо.
+
+
+#----------------------------------------------------
+# Unknown
+### (Footsteps)
+PC09C_FOOTSTEPS-1=(Кроки)
+
+
+#----------------------------------------------------
+# Ott
+### ...!
+PC09C_OTT_OPENS_OOPS-1=...!
+
+
+# Ott
+### What are you doing?!
+PC09C_OTT_OPENS_OOPS-2=Що ви робите?!
+
+
+# Brok
+### Erm...
+PC09C_OTT_OPENS_OOPS-3=Е-е...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I trusted you, Mister Brok!
+PC09C_OTT_OPENS_OOPS-4=Я довіряв вам, пане Броку!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes!
+PC09C_OTT_OPENS_OOPS-5=Дядьку Весе!
+
+
+# Wes
+### This time you're done for, Pork!
+PC09C_OTT_OPENS_OOPS-6=Цього разу тобі кінець, Борку!
+
+
+# Brok
+### Oops!
+PC09C_OTT_OPENS_OOPS-7=Ой-ой!
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC09C_OTT_OPENS_OK-1=...
+
+
+# Brok
+### Everything okay?
+PC09C_OTT_OPENS_OK-2=Усе гаразд?
+
+
+# Ott
+### Yeah.
+PC09C_OTT_OPENS_OK-3=Так.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes arrived. He's checking stuff in the jail.
+PC09C_OTT_OPENS_OK-4=Прийшов дядько Вес. Він перевіряє щось у в'язниці.
+
+
+# Ott
+### I'll go help him.
+PC09C_OTT_OPENS_OK-5=Я піду допоможу йому.
+
+
+# Brok
+### Alright.
+PC09C_OTT_OPENS_OK-6=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### (So close. I can't give up yet.)
+PC09C_OTT_OPENS_OK2-1=(Ледь не попався. Я не можу зараз відступити.)
+
+
+# Brok
+### (No time to waste!)
+PC09C_OTT_OPENS_OK2-2=(Не можна гаяти часу!)
+
+
+#----------------------------------------------------
+# Brok
+### Argh! I'm getting sick of this!
+PC09C_MONITOR_HIT1-1=Ар-р! Мене вже нудить від цього!
+
+
+#----------------------------------------------------
+# Commands
+### Identity confirmed.
+PC09C_MONITOR_OK1-1=Особу підтверджено.
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC09C_MONITOR_OK2-1=...!
+
+
+# Brok
+### Once again, nothing beats a good beating!
+PC09C_MONITOR_OK2-2=Як завжди, немає нічого кращого за добру прочуханку!
+
+
+#----------------------------------------------------
+

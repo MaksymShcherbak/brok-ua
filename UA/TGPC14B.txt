@@ -1,0 +1,530 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Ott (Unknown)
+#     Graff - RJ (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - RJ (Unknown)
+#     RJ - Graff (Unknown)
+#     RJ - Ott (Unknown)
+#     RJ - Unknown (Unknown)
+#     Unknown - RJ (Unknown)
+
+#-------------------------------
+#= GRAFF - HACKER FRONT
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Day 3 - Graff and Ott need the Hacker's help so Graff can pass
+### It's here.
+GPC14B_ARRIVE1-1=Це тут.
+
+
+#----------------------------------------------------
+# Ott
+### That door?...
+GPC14B_ARRIVE_NORJ-1=За цими дверима...?
+
+
+# Ott
+### ...
+GPC14B_ARRIVE_NORJ-2=...
+
+
+# Graff
+### Aren't you scared?...
+GPC14B_ARRIVE_NORJ-3=Тобі не страшно...?
+
+
+# Ott
+### Well...
+GPC14B_ARRIVE_NORJ-4=Ну...
+
+
+# Ott
+### Yeah... But...
+GPC14B_ARRIVE_NORJ-5=Так... Але...
+
+
+# Ott
+### We need to do this.
+GPC14B_ARRIVE_NORJ-6=Ми мусимо це зробити.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+GPC14B_ARRIVE_NORJ-7=Отте...
+
+
+# Ott
+### Let's go.
+GPC14B_ARRIVE_NORJ-8=Ходімо.
+
+
+#----------------------------------------------------
+# Ott
+### ...There's a hefty guy in front of the entrance.
+GPC14B_ARRIVE_RJ-1=...Там перед входом якийсь здоровань.
+
+
+# Graff
+### Which confirms this is the right place.
+GPC14B_ARRIVE_RJ-2=Значить, ми прийшли за адресою.
+
+
+# Ott
+### Are you sure? He seems like a cop.
+GPC14B_ARRIVE_RJ-3=Ти впевнений? Він схожий на копа.
+
+
+# Graff
+### Only one way to find out...
+GPC14B_ARRIVE_RJ-4=Є лише один спосіб дізнатися...
+
+
+#----------------------------------------------------
+# Ott - It's broken
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Look! The Pipe-Pill!
+GPC14B_PIPEPILL1-1=Дивись! Пігулкомат!
+
+
+# Graff
+### Holy cow...
+GPC14B_PIPEPILL1-2=Отакої...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### What's going to happen to everyone in the Slums if this keeps going on?...
+GPC14B_PIPEPILL1-3=Що станеться з усіма в Нетрях, якщо це триватиме надалі...?
+
+
+# Graff
+### One problem at a time...
+GPC14B_PIPEPILL1-4=Будемо вирішувати проблеми по черзі...
+
+
+#----------------------------------------------------
+# Graff
+### Pipes...
+GPC14B_PIPE1-1=Труби...
+
+
+# Graff
+### ...
+GPC14B_PIPE1-2=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### No, Graff. Your future won't consist in gathering rubbish.
+GPC14B_PIPE1-3=Ні, Граффе. Твоє майбутнє полягатиме не в збиранні сміття.
+
+
+# Graff
+### I wish...
+GPC14B_PIPE1-4=Хотілося б вірити...
+
+
+#----------------------------------------------------
+# Graff - Talking to R.J. at the entrance
+### Erm... Hello...
+GPC14B_RJ_FIRST-1=Е-е... Вітаю...
+
+
+# RJ
+### Kids?!
+GPC14B_RJ_FIRST-2=Діти?!
+
+
+# RJ
+### Whatcha doin' here?
+GPC14B_RJ_FIRST-3=Шо ви тут робите?
+
+
+# RJ
+### Da streets not safe!
+GPC14B_RJ_FIRST-4=На вулиці небезпечно!
+
+
+# RJ
+### Enter! Quick!
+GPC14B_RJ_FIRST-5=Заходьте! Швидко!
+
+
+# Graff
+### Erm...
+GPC14B_RJ_FIRST-6=Е-е...
+
+
+# Ott
+### (Psst... Better not upset him...)
+GPC14B_RJ_FIRST-7=(Пс-с... Краще не дратувати його...)
+
+
+#----------------------------------------------------
+# RJ
+### Enter.
+GPC14B_RJ_TALKBEFORE1-1=Заходьте.
+
+
+#----------------------------------------------------
+# RJ
+### Where are your parents?
+GPC14B_RJ_TALK1-1=Де ваші батьки?
+
+
+# Graff
+### We've got something important to do ourselves...
+GPC14B_RJ_TALK1-2=Ми самі маємо зробити дещо важливе...
+
+
+# Graff
+### Erm...
+GPC14B_RJ_TALK1-3=Е-е...
+
+
+# RJ
+### Do I... scare ya?
+GPC14B_RJ_TALK1-4=Я шо, вас... лякаю?
+
+
+# Ott
+### ...Kinda.
+GPC14B_RJ_TALK1-5=...Трохи.
+
+
+# RJ
+### Sorry. Mommy made me like dis.
+GPC14B_RJ_TALK1-6=Вибачайте. Матуся мене таким зробила.
+
+
+# RJ
+### Big arms. Useful for working here.
+GPC14B_RJ_TALK1-7=Великі руки. Корисні для роботи тут.
+
+
+# Ott
+### I bet...
+GPC14B_RJ_TALK1-8=Можу уявити...
+
+
+# RJ
+### Stick around.
+GPC14B_RJ_TALK1-9=Тримайтеся близько.
+
+
+# RJ
+### If bad guy comes... I beat up.
+GPC14B_RJ_TALK1-10=Якшо прийде якийсь поганець... Я його поб'ю.
+
+
+# Ott
+### Thank you, mister!
+GPC14B_RJ_TALK1-11=Дякую, пане!
+
+
+# Ott
+### Wait. What's going on exactly?
+GPC14B_RJ_TALK1-12=Зачекайте. А що саме відбувається?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers. Causing havoc.
+GPC14B_RJ_TALK1-13=Верескуни. Творять безлад.
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Pipe-pills plundered.
+GPC14B_RJ_TALK1-14=Розграбували Пігулкомати.
+
+
+# Ott
+### I had a feeling they were responsible for this!
+GPC14B_RJ_TALK1-15=Так і відчував, що це їхніх рук справа!
+
+
+# Graff
+### Where are they?
+GPC14B_RJ_TALK1-16=Де вони?
+
+
+# RJ
+### (Cough, cough)
+GPC14B_RJ_TALK1-17=(Кашляє)
+
+
+# RJ
+### Back street. Wanderin'.
+GPC14B_RJ_TALK1-18=В провулку. Тиняються.
+
+
+# Graff
+### I see...
+GPC14B_RJ_TALK1-19=Ясно...
+
+
+# Graff
+### No choice. We gotta go take a look.
+GPC14B_RJ_TALK1-20=Вибору немає. Треба піти подивитися.
+
+
+# Ott
+### Are you sure about this?...
+GPC14B_RJ_TALK1-21=Ти впевнений...?
+
+
+# Graff
+### ...
+GPC14B_RJ_TALK1-22=...
+
+
+# Graff
+### We'll just take a look-see. Just to confirm.
+GPC14B_RJ_TALK1-23=Ми лише глянемо. Аби переконатися.
+
+
+# Graff
+### After that, we call the cops.
+GPC14B_RJ_TALK1-24=А після цього викличемо копів.
+
+
+# Ott
+### Okay... Lead the way!
+GPC14B_RJ_TALK1-25=Добре... Веди!
+
+
+#----------------------------------------------------
+# RJ
+### (Cough, cough)
+GPC14B_RJ_TALK2-1=(Кашляє)
+
+
+# Ott
+### He keeps coughing... I don't think he's had a pill today.
+GPC14B_RJ_TALK2-2=Він постійно кашляє... Здається, він сьогодні ще не приймав пігулку.
+
+
+# Graff
+### All the more reasons to end this. Let's go!
+GPC14B_RJ_TALK2-3=Тим більше причин покласти цьому край. Ходімо!
+
+
+#----------------------------------------------------
+# Ott - Going to back street
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Erm... Graff?...
+GPC14B_TO_PC14_1-1=Е-е... Граффе...?
+
+
+# Ott
+### I don't feel confident enough to go there.
+GPC14B_TO_PC14_1-2=Я не почуваюся досить упевнено, щоб іти туди.
+
+
+# Graff
+### ...You're right.
+GPC14B_TO_PC14_1-3=...Згоден.
+
+
+#----------------------------------------------------
+# Ott - Going outside after giving bank statement to the hacker
+### What now?...
+GPC14B_AFTER1-1=Що тепер...?
+
+
+# Graff
+### ...
+GPC14B_AFTER1-2=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### I was thinking about the Toxout pills shortage.
+GPC14B_AFTER1-3=Я думав про нестачу смогових пігулок.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Even if we get to live under the Dome...
+GPC14B_AFTER1-4=Навіть якщо ми будемо жити під Куполом...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### We can't just leave all the Slums people without any solution, can we?
+GPC14B_AFTER1-5=Ми ж не можемо просто залишити всіх Нетрівців без жодного рішення, правда?
+
+
+# Ott
+### I agree.
+GPC14B_AFTER1-6=Згоден.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I've already asked Brok to investigate but...
+GPC14B_AFTER1-7=Я вже просив Брока розслідувати це, але...
+
+
+#----------------------------------------------------
+# Ott
+### Is it such a good idea?...
+GPC14B_AFTER1_BROKMEH-1=А це точно хороша ідея...?
+
+
+# Ott
+### I mean... He didn't seem very competent to me yesterday...
+GPC14B_AFTER1_BROKMEH-2=Я маю на увазі... Вчора він здався мені не дуже компетентним...
+
+
+# Graff
+### Hmm...
+GPC14B_AFTER1_BROKMEH-3=Гмм...
+
+
+#----------------------------------------------------
+# Ott
+### Good idea! He's a great detective.
+GPC14B_AFTER1_BROKGOOD-1=Хороша ідея! Він чудовий детектив.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes is also on the case. Still...
+GPC14B_AFTER1_BROKGOOD-2=Дядько Вес теж цим займається. І все ж...
+
+
+#----------------------------------------------------
+# Ott
+### We should give it a go ourselves as well. It's too important.
+GPC14B_AFTER1_NEXT-1=Нам варто спробувати розібратися й самим. Це надто важливо.
+
+
+# Graff
+### Okay, let's try.
+GPC14B_AFTER1_NEXT-2=Добре, спробуємо.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I have a feeling those Squealers are involved...
+GPC14B_AFTER_ALLEY-1=У мене таке відчуття, що до справи причетні ті Верескуни...
+
+
+# Graff
+### We should go check that alley.
+GPC14B_AFTER_ALLEY-2=Нам слід перевірити той провулок.
+
+
+#----------------------------------------------------
+# Ott
+### This might be dangerous...
+GPC14B_AFTER1B-1=Це може бути небезпечно...
+
+
+# Graff
+### Yeah...
+GPC14B_AFTER1B-2=Так...
+
+
+# Graff
+### ...
+GPC14B_AFTER1B-3=...
+
+
+# Graff
+### Listen...
+GPC14B_AFTER1B-4=Слухай...
+
+
+# Graff
+### Don't ask how but...
+GPC14B_AFTER1B-5=Не питай звідки, але...
+
+
+# Graff
+### I've got an app on my phone to track my old man.
+GPC14B_AFTER1B-6=У мене в телефоні є застосунок, щоб відстежувати мого старого.
+
+
+# Ott
+### You do?...
+GPC14B_AFTER1B-7=Справді...?
+
+
+# Graff
+### If anything happens to me...
+GPC14B_AFTER1B-8=Якщо зі мною щось станеться...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Go fetch Brok. Okay?
+GPC14B_AFTER1B-9=Іди знайди Брока. Гаразд?
+
+
+# Ott
+### I hope I won't have to but...
+GPC14B_AFTER1B-10=Сподіваюся, мені не доведеться, але...
+
+
+# Ott
+### You've got my word.
+GPC14B_AFTER1B-11=Даю слово.
+
+
+#----------------------------------------------------
+# RJ
+### Kids! Wait!
+GPC14B_RJ_AWAY1-1=Діти! Зачекайте!
+
+
+# RJ
+### Where ya goin'?... (Cough, cough)
+GPC14B_RJ_AWAY1-2=Куди ви пішли...? (Кашляє)
+
+
+# RJ
+### Aww... Boss say not move.
+GPC14B_RJ_AWAY1-3=Ох... Бос казав не рухатися.
+
+
+#----------------------------------------------------
+# RJ
+### That tickles!
+GPC14B_GRAFF_HIT_RJ1-1=Лоскотно!
+
+
+#----------------------------------------------------
+# Unknown
+### Good thing this muscles mountain can't smell me!
+COOP_GPC14B_RJ1-1=Добре, що ця гора м'язів не відчуває мого запаху!
+
+
+#----------------------------------------------------
+

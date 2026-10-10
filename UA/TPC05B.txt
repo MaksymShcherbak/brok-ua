@@ -1,0 +1,1190 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Chiefrat (Unknown)
+#     Brok - Kins (Unknown)
+#     Brok - Rat (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Chiefrat - Brok (Unknown)
+#     Chiefrat - Kins (Unknown)
+#     Chiefrat - Rat (Unknown)
+#     Chiefrat - Unknown (Unknown)
+#     Chiefrat - Various (Unknown)
+#     Kins - Brok (Unknown)
+#     Kins - Chiefrat (Unknown)
+#     Kins - Normal (Unknown)
+#     Normal - Kins (Unknown)
+#     Rat - Brok (Unknown)
+#     Rat - Chiefrat (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Chiefrat (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Chiefrat (Unknown)
+
+#-------------------------------
+#= Sewers inside action
+#-------------------------------
+
+#----- Interactions --------
+### Inscription
+PC_INSCRIPTION=Напис
+
+### Mine
+PC_MINE=Міна
+
+### Basket
+PC_BASKET=Кошик
+
+### Wires
+PC_WIRES=Дроти
+
+
+#----- Choices / Items --------
+### A broken mine!
+GOT_MINEBROKEN=Зламана міна
+
+
+#----- Topics --------
+### Threaten
+PC05B_THREATEN=Погрожувати
+
+### Trade
+PC05B_TRADE=Торгувати
+
+### Escape
+PC05B_ESCAPE=Втекти
+
+### Attack
+PC05B_ATTACK=Атакувати
+
+### Talk
+PC05B_TALK=Поговорити
+
+### Bluff
+PC05B_BLUFF=Блефувати
+
+### Take the broken mine?
+PC05B_MINEBROKEN_CHOICE=Забрати зламану міну?
+
+
+#----- Dialog --------
+
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Brok enters room and sees mines
+### Whoa... Isn't that...
+PC05B_MINE_LOOK-1=Ого... Хіба це не...
+
+
+# Brok
+### A self-regenerating mine?!
+PC05B_MINE_LOOK-2=Міна, яка може самовідновлюватись?!
+
+
+# Brok
+### I better watch my step...
+PC05B_MINE_LOOK-3=Краще дивитися під ноги...
+
+
+#----------------------------------------------------
+# Brok
+### A bunch of very thin wires... Must be components of those mines.
+PC05B_WIRES1-1=Купа дуже тонких дротів... Мабуть, деталі тих мін.
+
+
+# Brok
+### After all, they're electronic devices.
+PC05B_WIRES1-2=Зрештою, це електронні пристрої.
+
+
+#----------------------------------------------------
+# Brok
+### Nah... It's obvious that mine lacks more than just a few wires to work.
+PC05B_WIRES_MINEBROKEN-1=Та ні... Очевидно, цій міні бракує більше, ніж кількох дротів.
+
+
+# Brok
+### I should ask an expert!
+PC05B_WIRES_MINEBROKEN-2=Краще мені спитати експерта!
+
+
+#----------------------------------------------------
+# Brok - Welcome to the rats place.
+### Mmph... I could swear I've seen this already...
+PC05B_INSCRIPTION1-1=Гмм... Можу присягтися, що вже бачив таке...
+
+
+# Brok
+### But where...?
+PC05B_INSCRIPTION1-2=Але де...?
+
+
+# Brok
+### In any case, this doesn't bode well.
+PC05B_INSCRIPTION1-3=У будь-якому разі, це не обіцяє нічого доброго.
+
+
+#----------------------------------------------------
+# Brok
+### Uh-oh... Trouble ahead.
+PC05B_TROUBLE1-1=Ой-ой... Попереду проблеми.
+
+
+#----------------------------------------------------
+# Chiefrat - Rats prevent Brok from going further
+### A croc in the sewers. How cliche.
+PC05B_CHIEFRAT_FIRST-1=Крокодил у каналізації. Яка банальщина.
+
+
+# Brok
+### Erm... Hello! I am....
+PC05B_CHIEFRAT_FIRST-2=Е-е... Вітаю! Я...
+
+
+# Chiefrat
+### Dun care who you are.
+PC05B_CHIEFRAT_FIRST-3=Байдуже, хто ти.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Mmph. Squealers. Always straight to the point, huh?
+PC05B_CHIEFRAT_FIRST-4=Гмм. Верескуни. Завжди одразу до справи, га?
+
+
+# Chiefrat
+### Though... You looks familiar...
+PC05B_CHIEFRAT_FIRST-5=Хоча... Ти виглядаєш знайомо...
+
+
+# Brok
+### Well as far as I'm concerned, you all look the same to me.
+PC05B_CHIEFRAT_FIRST-6=Ну, як на мене, ви всі для мене на одне обличчя.
+
+
+#----------------------------------------------------
+# Kins
+### Boss! He's da guy who defeated us this mornin'!
+PC05B_CHIEFRAT_TALKFIGHT-1=Босе! Це той хлопець, шо здолав нас сьогодні вранці!
+
+
+# Chiefrat
+### What...? Yous lost against this vermin?
+PC05B_CHIEFRAT_TALKFIGHT-2=Шо...? Ви програли цьому шкідникові?
+
+
+# Kins
+### No worries boss! We wasn't prepared.
+PC05B_CHIEFRAT_TALKFIGHT-3=Не переймайтеся, босе! Ми не були готові.
+
+
+# Kins
+### This time we'll get the job done!
+PC05B_CHIEFRAT_TALKFIGHT-4=Цього разу ми зробимо все як слід!
+
+
+#----------------------------------------------------
+# Brok
+### I'm looking for somethin'. And you're in the way.
+PC05B_CHIEFRAT_FIRST1B-1=Я дещо шукаю. І ви стоїте у мене на дорозі.
+
+
+# Chiefrat
+### Dis our territory, croc.
+PC05B_CHIEFRAT_FIRST1B-2=Це наша територія, крок.
+
+
+# Brok
+### Wrong. The sewers are public.
+PC05B_CHIEFRAT_FIRST1B-3=Неправда. Каналізація є публічним місцем.
+
+
+# Chiefrat
+### Tell that to your precious Government. They exiled us, left us to die.
+PC05B_CHIEFRAT_FIRST1B-4=Скажи це своєму дорогоцінному Уряду. Вони вигнали нас, кинули помирати.
+
+
+# Brok
+### Look, I don't want any trouble...
+PC05B_CHIEFRAT_FIRST1B-5=Слухайте, я не хочу неприємностей...
+
+
+# Chiefrat
+### Too late. No one gets to see us and live to see tomorrow.
+PC05B_CHIEFRAT_FIRST1B-6=Запізно. Ніхто, хто нас бачить, не доживає до завтра.
+
+
+# Chiefrat
+### Guys...
+PC05B_CHIEFRAT_FIRST1B-7=Хлопці...
+
+
+# Brok
+### Wait!
+PC05B_CHIEFRAT_FIRST1B-8=Зачекайте!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### What are you doing in the Drums...?
+PC05B_CHIEFRAT_CHITCHAT1-1=Що ви робите на Верхах...?
+
+
+# Chiefrat
+### Wrong.
+PC05B_CHIEFRAT_CHITCHAT1-2=Не так.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### This ain't the Drums. This is our home.
+PC05B_CHIEFRAT_CHITCHAT1-3=Це не Верхи. Це наш дім.
+
+
+# Brok
+### But...
+PC05B_CHIEFRAT_CHITCHAT1-4=Але...
+
+
+# Chiefrat
+### I'm getting tired of him.
+PC05B_CHIEFRAT_CHITCHAT1-5=Я вже стомився від нього.
+
+
+# Kins
+### Lemme explain boss!
+PC05B_CHIEFRAT_CHITCHAT1-6=Я поясню, босе!
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Yeah, the sewers cover one side of the Drums to the south of the Slums.
+PC05B_CHIEFRAT_CHITCHAT1-7=Так, каналізація охоплює один бік Верхів на південь від Нетрів.
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### But the Drums are still off limits for us.
+PC05B_CHIEFRAT_CHITCHAT1-8=Але Верхи для нас усе ше під забороною.
+
+
+# Kins
+### We ain't "registered citizens."
+PC05B_CHIEFRAT_CHITCHAT1-9=Ми ж не "зареєстровані громадяни".
+
+
+# Kins
+### So the moment we step foot outside, those machines from hell come chasing us.
+PC05B_CHIEFRAT_CHITCHAT1-10=Тож шойно ми ступимо нагору, ті пекельні машини почнуть полювання на нас.
+
+
+# Brok
+### Your fault. You're paying for your treason.
+PC05B_CHIEFRAT_CHITCHAT1-11=Самі винні. Ви розплачуєтеся за свою зраду.
+
+
+# Chiefrat
+### I've heard enough.
+PC05B_CHIEFRAT_CHITCHAT1-12=З мене досить.
+
+
+# Chiefrat
+### Guys, get rid of that pest.
+PC05B_CHIEFRAT_CHITCHAT1-13=Хлопці, позбудьтеся цього паразита.
+
+
+# Brok
+### Not yet! There's something I need to tell you...
+PC05B_CHIEFRAT_CHITCHAT1-14=Зачекайте! Мені треба вам дещо сказати...
+
+
+#----------------------------------------------------
+# Brok
+### You threatened an innocent man on the street!
+PC05B_CHIEFRAT_CHITCHAT2-1=Ви погрожували невинному чоловікові на вулиці!
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### That old military tramp?
+PC05B_CHIEFRAT_CHITCHAT2-2=Тому старому військовому волоцюзі?
+
+
+# Chiefrat
+### Far from innocent. He was amongst the soldiers against us during our Coup.
+PC05B_CHIEFRAT_CHITCHAT2-3=Далеко не невинному. Він був серед солдатів, шо воювали проти нас під час перевороту.
+
+
+# Chiefrat
+### He probably killed some of us back then.
+PC05B_CHIEFRAT_CHITCHAT2-4=Він, напевно, тоді вбив когось із наших.
+
+
+# Chiefrat
+### We gave him a second chance. Gave this dying fool the products he needed.
+PC05B_CHIEFRAT_CHITCHAT2-5=Ми дали йому другий шанс. Надали допомогу цьому дурневі, що помирає.
+
+
+# Chiefrat
+### He didn't pay us back.
+PC05B_CHIEFRAT_CHITCHAT2-6=Він не повернув борг.
+
+
+# Chiefrat
+### Whaddya think happens if we let a client make a fool of us?
+PC05B_CHIEFRAT_CHITCHAT2-7=Як думаєш, шо буде, якшо ми дозволимо клієнтові пошити нас у дурні?
+
+
+# Brok
+### But...
+PC05B_CHIEFRAT_CHITCHAT2-8=Але...
+
+
+# Kins
+### Boss, he's stalling for time.
+PC05B_CHIEFRAT_CHITCHAT2-9=Босе, він тягне час.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Man. Yer right, Kins.
+PC05B_CHIEFRAT_CHITCHAT2-10=Чувак. Маєш рацію, Кінсе.
+
+
+# Chiefrat
+### We dun' owe ya any explanation.
+PC05B_CHIEFRAT_CHITCHAT2-11=Ми нічого не мусимо тобі пояснювати.
+
+
+# Chiefrat
+### Dat's your last warning, croc!
+PC05B_CHIEFRAT_CHITCHAT2-12=Це твоє останнє попередження, крок!
+
+
+#----------------------------------------------------
+# Brok
+### I was wondering...
+PC05B_CHIEFRAT_CHITCHAT3-1=Мені от цікаво...
+
+
+# Chiefrat
+### Are you deaf?
+PC05B_CHIEFRAT_CHITCHAT3-2=Ти глухий?
+
+
+# Kins
+### No one bothers our boss!
+PC05B_CHIEFRAT_CHITCHAT3-3=Ніхто не турбує нашого боса!
+
+
+# Kins
+### Yer gonna get it...!
+PC05B_CHIEFRAT_CHITCHAT3-4=Зараз тобі дістанеться...!
+
+
+#----------------------------------------------------
+# Brok
+### I'm on my way.
+PC05B_CHIEFRAT_BYE1-1=Я вже йду.
+
+
+# Chiefrat
+### We'll keep an eye on you, croc.
+PC05B_CHIEFRAT_BYE1-2=Ми будемо стежити за тобою, кроку.
+
+
+#----------------------------------------------------
+# Brok
+### I'll come back later.
+PC05B_CHIEFRAT_BYE2-1=Я повернуся пізніше.
+
+
+# Kins
+### Whatta fool.
+PC05B_CHIEFRAT_BYE2-2=Який дурень.
+
+
+#----------------------------------------------------
+# Brok
+### I know your kind.
+PC05B_CHIEFRAT_THREAT-1=Я знаю таких, як ви.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### You Squealers are nothing but scum.
+PC05B_CHIEFRAT_THREAT-2=Ви, Верескуни, - не хто інший, як наволоч.
+
+
+# Brok
+### You've been banned for a reason.
+PC05B_CHIEFRAT_THREAT-3=Вас вигнали не просто так.
+
+
+# Brok
+### Get out of my way.
+PC05B_CHIEFRAT_THREAT-4=Забирайтеся з моєї дороги.
+
+
+# Chiefrat
+### Ohhhh! Baby croc is having a temper tantrum? I'm soooo scared!
+PC05B_CHIEFRAT_THREAT-5=О-о-о! У крокодильчика істерика? Я так наляканий!
+
+
+# Chiefrat
+### I hate to break the news to ya croc, but...
+PC05B_CHIEFRAT_THREAT-6=Не хочу тебе засмучувати, кроку, але...
+
+
+# Chiefrat
+### Yer clearly outnumbered.
+PC05B_CHIEFRAT_THREAT-7=Нас явно більше.
+
+
+#----------------------------------------------------
+# Brok
+### I don't make deals with scum!
+PC05B_CHIEFRAT_THREAT_ATTACK-1=Я не домовляюся з покидьками!
+
+
+# Brok
+### I'm gonna get through and you can't stop me!
+PC05B_CHIEFRAT_THREAT_ATTACK-2=Я пройду, і ви мене не зупините!
+
+
+# Chiefrat
+### Absurd! Yer done for!
+PC05B_CHIEFRAT_THREAT_ATTACK-3=Безглуздя! Тобі кінець!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Guys! Get him! NOW!!!
+PC05B_RAT_MORE1-1=Хлопці! Схопіть його! ЗАРАЗ!!!
+
+
+#----------------------------------------------------
+# Chiefrat
+### You got all my boys... So be it.
+PC05B_RAT_BOSSCOMES1-1=Ти вирубив усіх моїх хлопців... Шо ж, хай буде так.
+
+
+# Chiefrat
+### But you'll never get past me!
+PC05B_RAT_BOSSCOMES1-2=Але повз мене ти не пройдеш!
+
+
+#----------------------------------------------------
+# Brok
+### Don't underestimate me.
+PC05B_CHIEFRAT_THREAT_TALK1-1=Не недооцінюйте мене.
+
+
+# Brok
+### You might take me down...
+PC05B_CHIEFRAT_THREAT_TALK1-2=Можливо, ви й здолаєте мене...
+
+
+# Brok
+### But not before I get rid of some of you first.
+PC05B_CHIEFRAT_THREAT_TALK1-3=Але перш ніж це станеться, я заберу кількох із вас із собою.
+
+
+# Brok
+### Think about it.
+PC05B_CHIEFRAT_THREAT_TALK1-4=Подумайте про це.
+
+
+# Brok
+### Do you want to take the risk and lose some lives foolishly?
+PC05B_CHIEFRAT_THREAT_TALK1-5=Хочете ризикнути й дурно втратити життя?
+
+
+# Kins
+### The croc gots a point, boss...
+PC05B_CHIEFRAT_THREAT_TALK1-6=Крок каже діло, босе...
+
+
+# Chiefrat
+### Shut up!
+PC05B_CHIEFRAT_THREAT_TALK1-7=Заткнися!
+
+
+# Chiefrat
+### Did you forget our motto?
+PC05B_CHIEFRAT_THREAT_TALK1-8=Забув наш девіз?
+
+
+# Kins
+### "Fight to the end... To reclaim our due..."
+PC05B_CHIEFRAT_THREAT_TALK1-9="Борімося до кінця... Щоб повернути своє..."
+
+
+# Kins
+### I know but...
+PC05B_CHIEFRAT_THREAT_TALK1-10=Я знаю, але...
+
+
+# Chiefrat
+### Look, croc. We won't let you pass.
+PC05B_CHIEFRAT_THREAT_TALK1-11=Слухай, крок. Ми не дамо тобі пройти.
+
+
+# Chiefrat
+### But I'll let you live for today. Go back to where you came from.
+PC05B_CHIEFRAT_THREAT_TALK1-12=Але сьогодні я залишу тебе в живих. Повертайся туди, звідки прийшов.
+
+
+# Chiefrat
+### If you dare talk about us to anyone, we'll get you. Your friends. Your family. Everyone you've ever loved.
+PC05B_CHIEFRAT_THREAT_TALK1-13=Якщо наважишся комусь про нас розказати, ми дістанемо тебе. Твоїх друзів. Твою родину. Усіх, кого ти коли-небудь любив.
+
+
+# Chiefrat
+### No matter what. No matter where. No matter when.
+PC05B_CHIEFRAT_THREAT_TALK1-14=Неважливо як. Неважливо де. Неважливо коли.
+
+
+# Brok
+### Mmph. I'll be going...
+PC05B_CHIEFRAT_THREAT_TALK1-15=Гмм. Я піду...
+
+
+# Brok
+### (Although this means I'll need to find another way through.)
+PC05B_CHIEFRAT_THREAT_TALK1-16=(Хоча це означає, що мені доведеться знайти інший шлях.)
+
+
+#----------------------------------------------------
+# Brok
+### I've got something to exchange.
+PC05B_CHIEFRAT_TRADE-1=У мене є щось на обмін.
+
+
+# Chiefrat
+### Really now! Whaddya have?
+PC05B_CHIEFRAT_TRADE-2=Та ти шо! Шо ти маєш?
+
+
+#----------------------------------------------------
+# Brok
+### Maybe this...
+PC05B_CHIEFRAT_INV_DEFAULT1-1=Може, це...
+
+
+# Chiefrat
+### Get lost.
+PC05B_CHIEFRAT_INV_DEFAULT1-2=Геть.
+
+
+#----------------------------------------------------
+# Brok
+### Would you like that?
+PC05B_CHIEFRAT_INV_DEFAULT2-1=Хочете це?
+
+
+# Chiefrat
+### Are ya kiddin'?!
+PC05B_CHIEFRAT_INV_DEFAULT2-2=Ти жартуєш?!
+
+
+#----------------------------------------------------
+# Brok
+### Can you pay my bill, please?
+PC05B_CHIEFRAT_INV_BILLA-1=Не могли б ви оплатити мій рахунок, будь ласка?
+
+
+# Chiefrat
+### What for?! You'll be dead in a minute.
+PC05B_CHIEFRAT_INV_BILLA-2=Нашо?! За хвилину ти будеш мертвий.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Whaaat?! Threatening us?!
+PC05B_CHIEFRAT_INV_STICK-1=Шо-ооо?! Погрожуєш нам?!
+
+
+# Brok
+### No, no! Sorry...
+PC05B_CHIEFRAT_INV_STICK-2=Ні, ні! Вибачте...
+
+
+#----------------------------------------------------
+# Brok
+### I know! Take my apartment!
+PC05B_CHIEFRAT_INV_APARTMENTKEY-1=Я знаю! Забирайте мою квартиру!
+
+
+# Brok
+### You could do your business there!
+PC05B_CHIEFRAT_INV_APARTMENTKEY-2=Ви могли б вести там свій бізнес!
+
+
+# Chiefrat
+### No way. With all the drones around, we can't stay that close to the surface.
+PC05B_CHIEFRAT_INV_APARTMENTKEY-3=Ні за шо. З усіма цими дронами ми не можемо залишатися так близько до поверхні.
+
+
+#----------------------------------------------------
+# Brok
+### How about a hoover? This place reeks!
+PC05B_CHIEFRAT_INV_HOOVER-1=Як щодо пилососа? Тут жахливо тхне!
+
+
+# Chiefrat
+### WHADIDYA JUST SAY?!
+PC05B_CHIEFRAT_INV_HOOVER-2=ШО ТИ ЩОЙНО СКАЗАВ?!
+
+
+# Brok
+### Well... It's a sewer, after all...
+PC05B_CHIEFRAT_INV_HOOVER-3=Ну... Зрештою, це каналізація...
+
+
+#----------------------------------------------------
+# Brok
+### (Bad idea... It's theirs and they know how to manipulate them.)
+PC05B_CHIEFRAT_INV_MINEBROKEN-1=(Погана ідея... Це їхня міна, і вони знають, як ними керувати.)
+
+
+# Brok
+### (Let's find another way to make a good use of it...)
+PC05B_CHIEFRAT_INV_MINEBROKEN-2=(Знайдімо інший спосіб використати її з користю...)
+
+
+#----------------------------------------------------
+# Brok
+### Maybe...
+PC05B_CHIEFRAT_INV_PENDANT-1=Може...
+
+
+# Chiefrat
+### Forget it. Worthless!
+PC05B_CHIEFRAT_INV_PENDANT-2=Забудь. Непотріб!
+
+
+# Brok
+### Absolutely not! It has sentimental value.
+PC05B_CHIEFRAT_INV_PENDANT-3=Анітрохи! Воно має сентиментальну цінність.
+
+
+# Chiefrat
+### Dun' care.
+PC05B_CHIEFRAT_INV_PENDANT-4=Байдуже.
+
+
+#----------------------------------------------------
+# Brok
+### How about...
+PC05B_CHIEFRAT_INV_POLLUTIONPILL-1=Як щодо...
+
+
+# Chiefrat
+### They're free. Even for us.
+PC05B_CHIEFRAT_INV_POLLUTIONPILL-2=Вони безкоштовні. Навіть для нас.
+
+
+# Brok
+### Oh, that's right...
+PC05B_CHIEFRAT_INV_POLLUTIONPILL-3=О, і то правда...
+
+
+#----------------------------------------------------
+# Brok
+### Listen... I've got an incurable disease and...
+PC05B_CHIEFRAT_INV_TRAMPPRESCR-1=Слухайте... У мене невиліковна хвороба і...
+
+
+# Chiefrat
+### Good. Then we'll finish ya.
+PC05B_CHIEFRAT_INV_TRAMPPRESCR-2=Чудово. Тоді ми доб'ємо тебе.
+
+
+# Brok
+### N-not yet! Still got some energy for a while!
+PC05B_CHIEFRAT_INV_TRAMPPRESCR-3=Щ-ще ні! У мене ще є трохи сил!
+
+
+#----------------------------------------------------
+# Brok
+### Take all my moolah!
+PC05B_CHIEFRAT_INV_MONEY-1=Забирайте всі мої бабки!
+
+
+# Chiefrat
+### Can't buy us.
+PC05B_CHIEFRAT_INV_MONEY-2=Нас не купиш.
+
+
+# Brok
+### Really...? I would have thought...
+PC05B_CHIEFRAT_INV_MONEY-3=Справді...? А я подумав, що...
+
+
+# Chiefrat
+### I said no. We got standards.
+PC05B_CHIEFRAT_INV_MONEY-4=Я сказав "ні". У нас є принципи.
+
+
+# Brok
+### (Outlaws with morals... Just my luck.)
+PC05B_CHIEFRAT_INV_MONEY-5=(Злочинці з моральними принципами... Ну й повезло.)
+
+
+#----------------------------------------------------
+# Brok
+### I was mistaken. Got nothing for ya. But...
+PC05B_CHIEFRAT_INV_EXIT-1=Я помилився. Нічого для вас не маю. Але...
+
+
+#----------------------------------------------------
+# Brok - Try to escape
+### Bye, bye!
+PC05B_CHIEFRAT_ESCAPE-1=Па-па!
+
+
+# Chiefrat
+### Get him!
+PC05B_CHIEFRAT_ESCAPE-2=Схопіть його!
+
+
+#----------------------------------------------------
+# Brok
+### Urgh...
+PC05B_CHIEFRAT_ESCAPEHURT-1=Ох...
+
+
+# Various
+### (Laughs)
+PC05B_CHIEFRAT_ESCAPEHURT-2=(Сміється)
+
+
+# Chiefrat
+### What a fool you are, croc. We set these mines for a reason!
+PC05B_CHIEFRAT_ESCAPEHURT-3=Який же ти дурень, крок. Ми поставили ці міни не просто так!
+
+
+#----------------------------------------------------
+# Brok
+### ...Erm...
+PC05B_CHIEFRAT_ESCAPEAFTER-1=...Е-е...
+
+
+#----------------------------------------------------
+# Various
+### (Laughs)
+PC05B_CHIEFRAT_ESCAPEDEAD-1=(Сміється)
+
+
+#----------------------------------------------------
+# Chiefrat - Trying to get past them
+### Where d'ya think yer goin'?
+PC05B_CHIEFRAT_ADVANCE1-1=Куди це ти зібрався?
+
+
+#----------------------------------------------------
+# Chiefrat
+### Stop!
+PC05B_CHIEFRAT_ADVANCE2-1=Стій!
+
+
+# Chiefrat
+### One more step and you're dead meat.
+PC05B_CHIEFRAT_ADVANCE2-2=Ше один крок - і ти мертвий.
+
+
+#----------------------------------------------------
+# Brok
+### Can we talk?
+PC05B_CHIEFRAT_TALK1-1=Ми можемо поговорити?
+
+
+# Chiefrat
+### Go ahead... while you still have a tongue.
+PC05B_CHIEFRAT_TALK1-2=Говори... поки ше маєш язика.
+
+
+#----------------------------------------------------
+# Brok
+### More? Where are they coming from?!
+PC05B_CHIEFRAT_MORERATS-1=Ще? Звідки вони тільки беруться?!
+
+
+#----------------------------------------------------
+# Brok - Brok threw the mine at them from a distance to get rid of them and finds them all unconscious on the floor
+### Whoa...!
+PC05B_CHIEFRAT_BEAT1-1=Ого...!
+
+
+# Brok
+### Phew... They're just unconscious.
+PC05B_CHIEFRAT_BEAT1-2=Фух... Вони просто непритомні.
+
+
+# Chiefrat
+### ...No way... How could you...
+PC05B_CHIEFRAT_BEAT1-3=...Неймовірно... Як ти міг...
+
+
+# Brok
+### Sorry. You didn't leave me a choice.
+PC05B_CHIEFRAT_BEAT1-4=Вибач. Ви не залишили мені вибору.
+
+
+# Chiefrat
+### ...Go ahead... Finish us...
+PC05B_CHIEFRAT_BEAT1-5=...Давай... Покінчи з нами...
+
+
+# Brok
+### That was never my intention. I'm nothing like you.
+PC05B_CHIEFRAT_BEAT1-6=У мене й на думці такого не було. Я зовсім не такий, як ви.
+
+
+# Chiefrat
+### That voice. I knew a croc...
+PC05B_CHIEFRAT_BEAT1-7=Цей голос. Я знав одного крокодила...
+
+
+# Chiefrat
+### But... That's... Impossible...
+PC05B_CHIEFRAT_BEAT1-8=Але... Це ж... неможливо...
+
+
+# Chiefrat
+### It's...
+PC05B_CHIEFRAT_BEAT1-9=Це...
+
+
+# Chiefrat
+### It's you...!
+PC05B_CHIEFRAT_BEAT1-10=Це ти...!
+
+
+# Chiefrat
+### I remember ya! After all these years...
+PC05B_CHIEFRAT_BEAT1-11=Я пам'ятаю тебе! Після стількох років...
+
+
+# Brok
+### Huh?
+PC05B_CHIEFRAT_BEAT1-12=Га?
+
+
+# Chiefrat
+### Our banishment. You're responsible for this!
+PC05B_CHIEFRAT_BEAT1-13=Наше вигнання. Ти відповідальний за це!
+
+
+# Brok
+### What do you mean?
+PC05B_CHIEFRAT_BEAT1-14=Що ти маєш на увазі?
+
+
+# Chiefrat
+### YOU'RE GONNA PAY FOR IT!!!
+PC05B_CHIEFRAT_BEAT1-15=ТИ ЗА ЦЕ РОЗПЛАТИШСЯ!!!
+
+
+# Brok
+### Whoa!
+PC05B_CHIEFRAT_BEAT1-16=Ого!
+
+
+# Unknown
+### (Bonk)
+PC05B_CHIEFRAT_BEAT1-17=(Удар)
+
+
+# Chiefrat
+### ...
+PC05B_CHIEFRAT_BEAT1-18=...
+
+
+# Brok
+### I had to knock him out.
+PC05B_CHIEFRAT_BEAT1-19=Мені довелося відправити його в нокаут.
+
+
+# Brok
+### What was that all about?
+PC05B_CHIEFRAT_BEAT1-20=Що взагалі це було?
+
+
+#----------------------------------------------------
+# Chiefrat
+### Yer wastin' yer time.
+PC05B_CHIEFRAT_DEFEND1-1=Ти марнуєш свій час.
+
+
+#----------------------------------------------------
+# Chiefrat - Various with rats
+### Ya dare attack us?!
+PC05B_CHIEFRAT_ATTACK1-1=Ти смієш напасти на нас?!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Ya got what ya deserved, filthy polluter.
+PC05B_CHIEFRAT_GAMEOVER1-1=Ти отримав те, на шо заслужив, брудний покидьку.
+
+
+# Chiefrat
+### Guys, take his belongings and throw his body into the acid.
+PC05B_CHIEFRAT_GAMEOVER1-2=Хлопці, заберіть його речі й киньте його тіло в кислоту.
+
+
+# Kins
+### Sure, boss!
+PC05B_CHIEFRAT_GAMEOVER1-3=Звісно, босе!
+
+
+# Kins
+### Can we play with him first?
+PC05B_CHIEFRAT_GAMEOVER1-4=А можна нам спочатку з ним погратися?
+
+
+# Chiefrat
+### Of course.
+PC05B_CHIEFRAT_GAMEOVER1-5=Авжеж.
+
+
+# Kins
+### Thanks, boss! Yer the best!
+PC05B_CHIEFRAT_GAMEOVER1-6=Дякуємо, босе! Ти найкращий!
+
+
+#----------------------------------------------------
+# Brok
+### He's passed out...
+PC05B_RAT1-1=Він знепритомнів...
+
+
+#----------------------------------------------------
+# Brok - Broken mine
+### This mine stays visible, even from afar...? Would this mean...
+PC05B_MINEBROKEN-1=Цю міну видно навіть здалеку...? Чи означає це...
+
+
+# Brok
+### Yup. It's broken.
+PC05B_MINEBROKEN-2=Угу. Вона зламана.
+
+
+#----------------------------------------------------
+# Brok
+### I should get closer...
+PC05B_MINEBROKEN_TOOFAR-1=Варто підійти ближче...
+
+
+#----------------------------------------------------
+# Brok
+### Better avoid big shocks while carrying this though...
+PC05B_MINEBROKEN_TAKE_NEXT-1=Краще уникати сильних струсів, несучи її...
+
+
+#----------------------------------------------------
+# Brok - Coming back
+### They're all gone...?
+PC05B_BACK-1=Вони всі пішли...?
+
+
+# Brok
+### Gotta be careful. I bet we'll meet again...
+PC05B_BACK-2=Треба бути обережним. Б'юся об заклад, ми ще зустрінемося...
+
+
+#----------------------------------------------------
+# Kins - Brok isn't here. A rat checks the items that fall through the pipe (items people are getting rid of).
+### ...
+PC05B_ITEMFALL1-1=...
+
+
+# Normal
+### Rubbish.
+PC05B_ITEMFALL1-2=Мотлох.
+
+
+#----------------------------------------------------
+# Kins
+### What's dat?
+PC05B_ITEMFALL2-1=Шо це таке?
+
+
+#----------------------------------------------------
+# Kins
+### Another piece of crap.
+PC05B_ITEMFALL3-1=Ше один шматок лайна.
+
+
+#----------------------------------------------------
+# Kins
+### Hey! It's making a funny noise...
+PC05B_ITEMFALL_MINE-1=Гей! Воно видає кумедний звук...
+
+
+#----------------------------------------------------
+# Brok - Brok gets back items from the basket
+### Before going any further, maybe I should get back my items...
+PC05B_GETBACKITEMS-1=Перш ніж іти далі, мабуть, мені слід забрати свої речі...
+
+
+#----------------------------------------------------
+# Brok
+### So, all the items citizens throw away end up here...?
+PC05B_BASKET1-1=Тож усі речі, які викидають громадяни, опиняються тут...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### The Squealers must be trafficking these.
+PC05B_BASKET1-2=Верескуни, мабуть, торгують ними.
+
+
+#----------------------------------------------------
+# Brok
+### Anyway, I'll take back my own stuff first.
+PC05B_BASKET_FULL1-1=У будь-якому разі, спочатку я заберу власні речі.
+
+
+#----------------------------------------------------
+# Brok
+### I'm glad the explosions didn't damage them!
+PC05B_BASKET_FULLMINE-1=Я радий, що вибухи їх не пошкодили!
+
+
+#----------------------------------------------------
+# Brok
+### Let's see...
+PC05B_BASKET_EMPTY1-1=Подивимося...
+
+
+# Brok
+### Old ripped clothes... Broken dish...
+PC05B_BASKET_EMPTY1-2=Старий порваний одяг... Розбитий посуд...
+
+
+# Brok
+### A... chair? How did that even fit in the tube...?
+PC05B_BASKET_EMPTY1-3=Стілець...? Як він взагалі помістився в трубі...?
+
+
+# Brok
+### Hey, here's a worm!
+PC05B_BASKET_EMPTY1-4=Гей, а ось і хробак!
+
+
+# Brok
+### Delicious!
+PC05B_BASKET_EMPTY1-5=Смакота!
+
+
+#----------------------------------------------------
+# Brok
+### Anything else of interest?...
+PC05B_BASKET_EMPTY2-1=Ще є щось цікаве...?
+
+
+# Brok
+### I doubt it but it's worth checking again.
+PC05B_BASKET_EMPTY2-2=Сумніваюся, але варто перевірити ще раз.
+
+
+# Brok
+### ...
+PC05B_BASKET_EMPTY2-3=...
+
+
+# Brok
+### ...Yes! Here's an ad!
+PC05B_BASKET_EMPTY2-4=...Є! Ось рекламний флаєр!
+
+
+#----------------------------------------------------
+# Brok
+### Can't see anything new. I'll check back later.
+PC05B_BASKET_EMPTY3-1=Нічого нового не бачу. Перевірю пізніше.
+
+
+#----------------------------------------------------
+# Brok
+### Wait. Some of my stuff is in that basket over there!
+PC05B_BASKET_PICKBACK1-1=Чекайте. Деякі мої речі в тому кошику он там!
+
+
+#----------------------------------------------------
+# Brok
+### Erm... I'm interested in picking stuff up, not throwing them away.
+PC05B_BASKET_OTHERS-1=Е-е... Я зацікавлений у тому, щоб підбирати речі, а не викидати їх.
+
+
+#----------------------------------------------------
+# Brok
+### Going here was mighty dangerous but at least it was worth the reward!
+PC05B_ADVERT_FLOOR-1=Прийти сюди було вельми небезпечно, але принаймні воно було варте нагороди!
+
+
+#----------------------------------------------------
+# Brok - Using remote control
+### ...
+PC05B_REMOTECONTROL_MINES1-1=...
+
+
+# Brok
+### Hey, I believe this deactivated the mines!
+PC05B_REMOTECONTROL_MINES1-2=Гей, здається, це деактивувало міни!
+
+
+# Brok
+### This might not last for long though...
+PC05B_REMOTECONTROL_MINES1-3=Хоча це може тривати ненадовго...
+
+
+#----------------------------------------------------
+# Chiefrat
+### Get lost.
+PC05B_CHIEFRAT_GUARDS1-1=Геть.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Get him!
+PC05B_CHIEFRAT_FIGHTSTART1-1=Схопіть його!
+
+
+#----------------------------------------------------
+# Rat
+### Goin' somewhere, croc?
+PC05B_CHAPTER6END-1=Кудись зібрався, крок?
+
+
+# Brok
+### Get out of my way.
+PC05B_CHAPTER6END-2=Забирайся з моєї дороги.
+
+
+#----------------------------------------------------
+# Unknown
+### Those guys would take any occasion to kill us.
+COOP_PC05B_CHIEFRAT1-1=Ці хлопці скористаються будь-якою нагодою, шоб убити нас.
+
+
+# Unknown
+### And yet...sometimes I feel pity for them...
+COOP_PC05B_CHIEFRAT1-2=І все ж... іноді мені їх шкода...
+
+
+#----------------------------------------------------
+

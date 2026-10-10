@@ -1,0 +1,973 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Director - Graff (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Shay (Unknown)
+#     Graff - Unknown (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Unknown (Unknown)
+#     Shay - Graff (Unknown)
+#     Unknown - Graff (Unknown)
+#     Unknown - Klay (Unknown)
+
+#-------------------------------------
+#=CHAPTER 4 ROOMS
+#-------------------------------------
+
+# Brok - Various phone calls (or attempts)
+### ...
+CH4_CALL_GRAFF_NOREPLY-1=...
+
+
+# Brok
+### He must be busy with his trial... Hope he's okay.
+CH4_CALL_GRAFF_NOREPLY-2=Мабуть, він зайнятий своїм випробуванням. Сподіваюсь, що у нього все добре.
+
+
+#----------------------------------------------------
+# Brok
+### I'll call her back later.
+CH4_CALL_SHAY-1=Я передзвоню їй пізніше.
+
+
+#----------------------------------------------------
+# Brok
+### Not yet.
+CH4_CALL_WES-1=Не зараз.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Outside communications have been blocked by the guard...
+CH4_CALL_IMPOSSIBLE-1=Зв'язок з зовнішнім світом був заблокований цим охоронцем...
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER1-1=(Кашляє)
+
+
+# Graff
+### Desperate times call for desperate measures... (Cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER1-2=Відчайдушні часи вимагають відчайдушних заходів... (Кашляє)
+
+
+# Graff
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER1-3=...
+
+
+#----------------------------------------------------
+# Graff
+### Oh no. What an idiot.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_LEFT-1=О ні. Який же я дурень.
+
+
+# Graff - He's talking about Klay. We can leave him in the bunker.
+### I left him in there...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_LEFT-2=Я лишив його там...
+
+
+# Graff
+### Never thought I would regret it...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_LEFT-3=Ніколи не думав, що я про це шкодуватиму.
+
+
+#----------------------------------------------------
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### What?... Graff?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-1=Що...? Граффе?
+
+
+# Graff
+### (Cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-2=(Кашляє)
+
+
+# Klay
+### Hey, get a pill. You're ill.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-3=Гей, випий пігулку. Ти хворий.
+
+
+# Graff
+### Whose fault is that?!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-4=І хто в цьому винуватий?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay... I can't get one...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-5=Клей... Я не зможу її дістати...
+
+
+# Graff - Shortage
+### There's a sh...(cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-6=Через не...(кашляє)
+
+
+# Klay
+### A what?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-7=Через що?
+
+
+# Graff
+### A shor...(cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-8=Нестач...(кашляє)
+
+
+# Klay
+### Shortage?...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-9=Нестачу...?
+
+
+# Klay
+### Not my business.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-10=Це не моя проблема.
+
+
+# Graff
+### No, wait! Please!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-11=Ні, зачекай! Будь ласка!
+
+
+# Graff
+### Don't hang up! (cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-12=Не клади слухавку! (кашляє)
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-13=...
+
+
+# Graff
+### I'm begging you. Tell me you've got one at home!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-14=Благаю... Скажи, що у тебе вдома є пігулки!
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-15=...
+
+
+# Klay
+### Sorry. I don't.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-16=Вибач. У мене їх немає.
+
+
+# Graff
+### This... can't be happening...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-17=Не можу повірити... це все насправді відбувається...
+
+
+# Graff
+### If I don't get one... right now... (cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-18=Якщо я не дістану її... прямо зараз... (кашляє)
+
+
+# Klay
+### But...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-19=Але...
+
+
+# Klay
+### Erm...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-20=Е-е...
+
+
+# Klay
+### Anything else I can do?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_OKAY-21=Я можу ще чимось допомогти?
+
+
+#----------------------------------------------------
+# Graff
+### I know it's a lot to ask but... (cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-1=Я знаю, що багато прошу, але...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Can you transfer 1,000 Unis to me?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-2=Ти не міг би переслати мені 1,000 Юні?
+
+
+# Klay
+### W...what?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-3=Щ...що?
+
+
+# Klay
+### Are you kidding?!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-4=Жартуєш?!
+
+
+# Graff
+### (Cough) It's the only way I can get a pill...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-5=(Кашляє) Це мій єдиний шанс дістати пігулку...
+
+
+# Graff
+### I'll give them back to you... Promise!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-6=Я все тобі поверну... Обіцяю!
+
+
+# Klay
+### Yeah, right.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-7=Так, звісно.
+
+
+# Graff
+### It's... a matter of life and death!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-8=Це... справа життя та смерті!
+
+
+# Graff
+### (Cough, cough, cough...)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-9=(Сильно кашляє...)
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-10=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-11=Клей!
+
+
+# Klay
+### I...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-12=Я...
+
+
+# Klay
+### I'll send you 500.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-13=Я надішлю тобі 500.
+
+
+# Klay
+### It's all I've got right now.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-14=Це все, що в мене зараз є.
+
+
+# Graff
+### Yes, please! (cough, cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-15=Так, будь ласка! (кашляє)
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-16=...
+
+
+# Klay
+### There.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-17=Ось.
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-18=...
+
+
+# Klay
+### Get better.
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-19=Одужуй.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Thank you, Klay! Thank you!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-20=Дякую, Клею! Дякую тобі!
+
+
+# Unknown
+### [...]
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-21=[...]
+
+
+# Graff
+### But I still need more...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-22=Але мені все ще треба більше...
+
+
+#----------------------------------------------------
+# Graff
+### I'd rather die... (Cough)
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-1=Я краще помру...
+
+
+# Graff
+### Than asking something (Cough) from you!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-2=Ніж стану просити щось (кашляє) у тебе!
+
+
+# Klay
+### ...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-3=...
+
+
+# Unknown
+### [...]
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-4=[...]
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### ...Klay?
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-5=...Клею?
+
+
+# Graff
+### He hung up...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_NADA-6=Він кинув слухавку...
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough) Can't...
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER2-1=(Кашляє) Не можу...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH4_GRAFF_BUNKER1-1=...
+
+
+# Graff
+### What's this place, exactly?
+CH4_GRAFF_BUNKER1-2=Що це взагалі за місце?
+
+
+# Graff
+### I don't have a signal...
+CH4_GRAFF_BUNKER1-3=Не ловить сигнал...
+
+
+#----------------------------------------------------
+# Graff
+### This is pointless. I can't reach anyone from here.
+CH4_GRAFF_BUNKER2-1=Все це марно. Я звідси ні до кого не додзвонюся.
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough, cough)
+CH4_GRAFFILL_GAMEOVER1-1=(Сильно кашляє)
+
+
+# Graff
+### Don't... (Cough)
+CH4_GRAFFILL_GAMEOVER1-2=Не хочу... (кашляє)
+
+
+# Graff
+### Wanna die... (Cough, cough)
+CH4_GRAFFILL_GAMEOVER1-3=Ось так... (кашляє)
+
+
+# Graff
+### Like this...
+CH4_GRAFFILL_GAMEOVER1-4=Померти...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-1=...
+
+
+# Graff
+### (Cough, cough) Come on...
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-2=(Кашляє) Ну ж бо...
+
+
+# Graff
+### It's no use...
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-3=Все марно...
+
+
+# Graff
+### He's gonna hear me tonight, I swear!...
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-4=Клянусь, ввечері я розкажу йому все, що про нього думаю...!
+
+
+# Graff
+### (Cough, cough, cough)
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-5=(Сильно кашляє)
+
+
+# Graff
+### If I make it out alive...
+CH4_GRAFF_CALL_BROK_AFTERBUNKER-6=Якщо я доживу...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH4_GRAFF_CALL_OTT_AFTERBUNKER-1=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott... Where are you?...
+CH4_GRAFF_CALL_OTT_AFTERBUNKER-2=Отт... Де ти...?
+
+
+# Graff
+### He's supposed to be busy with his training course at the police...
+CH4_GRAFF_CALL_OTT_AFTERBUNKER-3=Він має зараз займатися тренуванням у відділку поліції.
+
+
+# Graff
+### I hope nothing happened to him... (cough, cough)
+CH4_GRAFF_CALL_OTT_AFTERBUNKER-4=Сподіваюся, із ним нічого не сталося... (кашляє)
+
+
+# Graff
+### I should probably worry about myself right now...
+CH4_GRAFF_CALL_OTT_AFTERBUNKER-5=Мабуть, зараз мені краще похвилюватися за себе...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-1=...
+
+
+# Shay
+### Yes?
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-2=Так?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Miss Shay! I need your help urgently!
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-3=Пані Шей! Мені терміново потрібна ваша допомога!
+
+
+# Shay
+### What's the matter?
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-4=Що сталось?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### (Cough, Cough) I need a Toxout pill!
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-5=(Кашляє) Мені потрібна смогова пігулка!
+
+
+# Shay
+### What?
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-6=Що?
+
+
+# Graff
+### A Daily pill!
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-7=Щоденна пігулка!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### There's a shortage all around the Slums...
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-8=У Нетрях зараз скрізь нестача...
+
+
+# Graff
+### Please tell me you've got one!
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-9=Будь ласка, скажіть, що у вас є хоч одна!
+
+
+# Shay - It's actually not Shay talking but a phone call robot with her voice
+### Sorry. I don't understand your request.
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-10=Вибачте. Я не розумію ваш запит.
+
+
+# Shay
+### Please rephrase.
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-11=Будь ласка, перефразуйте.
+
+
+# Graff
+### What the?... (cough, cough)
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-12=Якого...? (кашляє)
+
+
+# Graff
+### Are you a bot or something?
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-13=Ти що, бот?
+
+
+# Shay
+### Yes.
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-14=Так.
+
+
+# Shay
+### My creator is much too busy right now.
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-15=Моя творчиня зараз занадто зайнята.
+
+
+# Shay
+### Call back later!
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-16=Передзвоніть пізніше!
+
+
+# Graff
+### Oh, great...
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-17=Ох, чудово...
+
+
+# Graff
+### Did everyone have to get busy at the exact same time?... (cough)
+CH4_GRAFF_CALL_SHAY_AFTERBUNKER-18=Чому саме зараз всі так різко стали зайняті...? (кашляє)
+
+
+#----------------------------------------------------
+# Graff - After Graff killed Klay accidentally
+### I roamed around the city...
+CHAPTER4_EXIT_KLAYDEAD1-1=Я блукав по місту...
+
+
+# Graff
+### Lost in my thoughts...
+CHAPTER4_EXIT_KLAYDEAD1-2=Загублений в думках...
+
+
+# Graff
+### I was going to die and...
+CHAPTER4_EXIT_KLAYDEAD1-3=Я вмирав і...
+
+
+# Graff
+### It was fine.
+CHAPTER4_EXIT_KLAYDEAD1-4=Все було гаразд.
+
+
+# Graff
+### I deserved it.
+CHAPTER4_EXIT_KLAYDEAD1-5=Я це заслужив.
+
+
+# Graff
+### Until...
+CHAPTER4_EXIT_KLAYDEAD1-6=Але раптом...
+
+
+# Graff
+### An instinct deep inside me...
+CHAPTER4_EXIT_KLAYDEAD1-7=Мій внутрішній інстинкт...
+
+
+# Graff
+### The instinct of survival... took over.
+CHAPTER4_EXIT_KLAYDEAD1-8=Інстинкт виживання... взяв гору.
+
+
+# Graff
+### I tried...
+CHAPTER4_EXIT_KLAYDEAD1-9=Я намагався...
+
+
+# Graff
+### Desperately...
+CHAPTER4_EXIT_KLAYDEAD1-10=Відчайдушно...
+
+
+# Graff
+### To find a pill...
+CHAPTER4_EXIT_KLAYDEAD1-11=Знайти пігулку...
+
+
+# Graff
+### There was none.
+CHAPTER4_EXIT_KLAYDEAD1-12=Але марно.
+
+
+# Graff
+### The rat was gone.
+CHAPTER4_EXIT_KLAYDEAD1-13=Щура ніде не було.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I tried to reach Brok...
+CHAPTER4_EXIT_KLAYDEAD1-14=Я намагався додзвонитися до Брока...
+
+
+# Graff
+### But once again... He wasn't there for me.
+CHAPTER4_EXIT_KLAYDEAD1-15=Але, як завжди... Його не було тоді, коли він був мені потрібен.
+
+
+# Graff
+### Even in this situation...
+CHAPTER4_EXIT_KLAYDEAD1-16=Навіть в цій ситуації...
+
+
+# Graff
+### I was mad at him...
+CHAPTER4_EXIT_KLAYDEAD1-17=Я був на нього злий...
+
+
+# Graff
+### As a last resort I came back home...
+CHAPTER4_EXIT_KLAYDEAD1-18=У пориві відчаю я повернувся додому...
+
+
+# Graff
+### And that's when...
+CHAPTER4_EXIT_KLAYDEAD1-19=І тоді...
+
+
+#----------------------------------------------------
+# Graff - After Graff killed Klay, the Director meets Graff in front of his apartment
+### ...!
+CHAPTER4_EXIT_KLAYDEAD2-1=...!
+
+
+# Director
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-2=...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CHAPTER4_EXIT_KLAYDEAD2-3=Графф...
+
+
+# Director
+### I know...
+CHAPTER4_EXIT_KLAYDEAD2-4=Я знаю...
+
+
+# Graff
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-5=...
+
+
+# Graff
+### I... (cough, cough)
+CHAPTER4_EXIT_KLAYDEAD2-6=Я...
+
+
+# Graff
+### I didn't want...
+CHAPTER4_EXIT_KLAYDEAD2-7=Я не хотів...
+
+
+# Graff
+### Something inside me...
+CHAPTER4_EXIT_KLAYDEAD2-8=Щось всередині мене...
+
+
+# Graff
+### Made me do it... (cough)
+CHAPTER4_EXIT_KLAYDEAD2-9=Змусило мене... (кашляє)
+
+
+# Director
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-10=...
+
+
+# Graff
+### I'm so sorry.
+CHAPTER4_EXIT_KLAYDEAD2-11=Мені так прикро...
+
+
+# Graff
+### Why... didn't you stop me?...
+CHAPTER4_EXIT_KLAYDEAD2-12=Чому... ви мене не зупинили?
+
+
+# Graff
+### There should have been safety protocols! (cough, cough)
+CHAPTER4_EXIT_KLAYDEAD2-13=Мали би бути якісь протоколи безпеки! (кашляє)
+
+
+# Director
+### The Creator...
+CHAPTER4_EXIT_KLAYDEAD2-14=Творець...
+
+
+# Director
+### The one who set up this whole system years ago...
+CHAPTER4_EXIT_KLAYDEAD2-15=Той, хто багато років тому створив всю цю систему...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### The Consciousness Center... The opportunity to become a Drumer...
+CHAPTER4_EXIT_KLAYDEAD2-16=Центр Свідомості... Можливість стати мешканцем Верхів...
+
+
+# Director
+### That person designed everything.
+CHAPTER4_EXIT_KLAYDEAD2-17=Він все спроєктував.
+
+
+# Director
+### Set up all the rules.
+CHAPTER4_EXIT_KLAYDEAD2-18=Встановив усі правила.
+
+
+# Graff
+### Then... He's a fool.
+CHAPTER4_EXIT_KLAYDEAD2-19=Тоді... Він дурень.
+
+
+# Graff
+### Just like I am... (cough, cough)
+CHAPTER4_EXIT_KLAYDEAD2-20=Як і я... (кашляє)
+
+
+# Director
+### We all are. In various ways.
+CHAPTER4_EXIT_KLAYDEAD2-21=Всі ми. Кожен по-своєму.
+
+
+# Graff
+### Is this... (cough)
+CHAPTER4_EXIT_KLAYDEAD2-22=Це... (кашляє)
+
+
+# Graff
+### The first accident...?
+CHAPTER4_EXIT_KLAYDEAD2-23=Перший такий випадок...?
+
+
+# Director
+### This wasn't the usual trial.
+CHAPTER4_EXIT_KLAYDEAD2-24=Це не було звичайне випробування.
+
+
+# Graff
+### Huh...?
+CHAPTER4_EXIT_KLAYDEAD2-25=Га...?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### The Creator thought you didn't deserve to be a Drumer if you failed these tests.
+CHAPTER4_EXIT_KLAYDEAD2-26=Творець вважав, що ти не заслуговуєш бути мешканцем Верхів, якщо не пройдеш ці випробування.
+
+
+# Director
+### They were designed for you.
+CHAPTER4_EXIT_KLAYDEAD2-27=Вони були підготовлені спеціально для тебе.
+
+
+# Graff
+### For me?!
+CHAPTER4_EXIT_KLAYDEAD2-28=Для мене?!
+
+
+# Graff
+### Why?!
+CHAPTER4_EXIT_KLAYDEAD2-29=Чому?!
+
+
+# Director
+### Take this.
+CHAPTER4_EXIT_KLAYDEAD2-30=Ось, тримай.
+
+
+# Graff
+### A pill... (cough)
+CHAPTER4_EXIT_KLAYDEAD2-31=Пігулка... (кашляє)
+
+
+# Director
+### Nobody should know.
+CHAPTER4_EXIT_KLAYDEAD2-32=Ніхто не має про це знати.
+
+
+# Director
+### This was an accident...
+CHAPTER4_EXIT_KLAYDEAD2-33=Це був нещасний випадок...
+
+
+# Graff
+### No! It was my fault!
+CHAPTER4_EXIT_KLAYDEAD2-34=Ні! Це моя вина!
+
+
+# Graff
+### You shouldn't forgive me!
+CHAPTER4_EXIT_KLAYDEAD2-35=Ви не маєте мені пробачати!
+
+
+# Graff
+### It's...
+CHAPTER4_EXIT_KLAYDEAD2-36=Це...
+
+
+# Graff
+### It's your son!... (cough, cough)
+CHAPTER4_EXIT_KLAYDEAD2-37=Це ваш син...! (кашляє)
+
+
+# Director
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-38=...
+
+
+# Graff
+### I'm ready to pay the price...
+CHAPTER4_EXIT_KLAYDEAD2-39=Я готовий заплатити ціну...
+
+
+# Graff
+### Do it!
+CHAPTER4_EXIT_KLAYDEAD2-40=Зробіть це!
+
+
+# Graff
+### Attack me! Crush me!
+CHAPTER4_EXIT_KLAYDEAD2-41=Вдарте мене! Розчавіть мене!
+
+
+# Graff
+### Or... Leave me here to die... (cough)
+CHAPTER4_EXIT_KLAYDEAD2-42=Або... Лишіть мене тут помирати... (кашляє)
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CHAPTER4_EXIT_KLAYDEAD2-43=Графф...
+
+
+# Graff
+### I shouldn't be living...
+CHAPTER4_EXIT_KLAYDEAD2-44=Я не маю права жити далі...
+
+
+# Graff
+### After this...
+CHAPTER4_EXIT_KLAYDEAD2-45=Після всього, що я наробив...
+
+
+# Director
+### Please... I beg you...
+CHAPTER4_EXIT_KLAYDEAD2-46=Будь ласка... Благаю...
+
+
+# Director
+### Take this pill.
+CHAPTER4_EXIT_KLAYDEAD2-47=Прийми пігулку.
+
+
+# Graff
+### Why?...
+CHAPTER4_EXIT_KLAYDEAD2-48=Навіщо...?
+
+
+# Graff
+### Why are you helping me?...
+CHAPTER4_EXIT_KLAYDEAD2-49=Чому ви мені допомагаєте...?
+
+
+# Director
+### I owe it to the Creator.
+CHAPTER4_EXIT_KLAYDEAD2-50=Я в боргу перед Творцем.
+
+
+# Director
+### In a way... We're both his sons.
+CHAPTER4_EXIT_KLAYDEAD2-51=Певним чином, ми обидва є його дітьми.
+
+
+# Graff
+### Both...? (cough) But I'm not...
+CHAPTER4_EXIT_KLAYDEAD2-52=Обидва...? (кашляє) Але я не...
+
+
+# Graff
+### I see. Your Creator... It's a god-like religious entity?
+CHAPTER4_EXIT_KLAYDEAD2-53=Ясно. Ваш Творець... Це якесь богоподібне релігійне створіння?
+
+
+# Director
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-54=...
+
+
+# Graff
+### Fine...
+CHAPTER4_EXIT_KLAYDEAD2-55=Гаразд...
+
+
+# Director
+### Just promise...
+CHAPTER4_EXIT_KLAYDEAD2-56=Просто пообіцяй...
+
+
+# Director
+### Do not tell anyone.
+CHAPTER4_EXIT_KLAYDEAD2-57=Що ти нікому про це не розкажеш.
+
+
+# Director
+### Not your friend...
+CHAPTER4_EXIT_KLAYDEAD2-58=Ні твоєму другові...
+
+
+# Director
+### Not even your tutor.
+CHAPTER4_EXIT_KLAYDEAD2-59=Ні навіть своєму опікунові.
+
+
+# Director
+### And...
+CHAPTER4_EXIT_KLAYDEAD2-60=І...
+
+
+# Director
+### Stop blaming yourself.
+CHAPTER4_EXIT_KLAYDEAD2-61=Перестань звинувачувати себе.
+
+
+# Director
+### If not for you...
+CHAPTER4_EXIT_KLAYDEAD2-62=Якщо не заради себе...
+
+
+# Director
+### Do it for me.
+CHAPTER4_EXIT_KLAYDEAD2-63=То заради мене.
+
+
+# Graff
+### ...
+CHAPTER4_EXIT_KLAYDEAD2-64=...
+
+
+# Graff
+### Okay...
+CHAPTER4_EXIT_KLAYDEAD2-65=Гаразд...
+
+
+# Director
+### Tomorrow is a new day.
+CHAPTER4_EXIT_KLAYDEAD2-66=Завтра настане новий день.
+
+
+#----------------------------------------------------
+

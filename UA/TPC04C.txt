@@ -1,0 +1,1410 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Various (Unknown)
+#     Unknown - Various (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Unknown (Unknown)
+
+#-------------------------------
+#=PHARMACY
+#-------------------------------
+
+#----- Interactions --------
+### Drugs
+PC_DRUGS=Препарати
+
+### Selected drug
+PC_DRUGONE=Вибраний препарат
+
+### Machine
+PC_MACHINE=Автомат
+
+### Terminal
+PC_PANEL=Термінал
+
+### Ad bubble
+PC_BUBBLE=Рекламна бульбашка
+
+### Showcase
+PC_SHOWCASE=Вітрина
+
+### Liquid?
+PC_LIQUID=Рідина?
+
+### Capsule?
+PC_CAPSULE=Капсула?
+
+### Drink?
+PC_DRINK=Напій?
+
+### Fur?
+PC_HAIR=Шерсть?
+
+### Powder?
+PC_POWDER=Порошок?
+
+### Chocolate bar?
+PC_CHOCOLATEBAR=Шоколадна плитка?
+
+### Buy drugs
+PC_BUY_DRUGS=Купити препарати
+
+### Daily pill
+PC_DAILY_PILL=Щоденна пігулка
+
+### Scan
+PC_SCAN=Сканування
+
+### Recycle
+PC_RECYCLE=Переробка
+
+### Medical examination
+PC_EXAMINATION=Медогляд
+
+### Scanner
+PC_SCANNER=Сканер
+
+
+#----- Choices / Items --------
+# All these names are made up and not important, create whatever sounds right for your language keeping the same spirit
+# NB: Lexicon word in Ukrainian for "Bod-Normalizer": "Тілонорм"
+### Bod-Normalizer
+ITEM_LIQUID=Тілонорм
+
+### Those liquid pearls will revigorate your whole body by altering your irregular DNA to conform with modern norms!
+ITEM_LIQUID_MSG=Ці рідкі перлини відновлять усе ваше тіло, змінивши ваші відхилення ДНК відповідно до сучасних норм!
+
+
+# NB: Lexicon word in Ukrainian for "Calmeez-E": "Заспокоїн"
+### Calmeez-E
+ITEM_CAPSULE=Заспокоїн
+
+### Feeling stressed? Calmeze will instantly make you ready for any situation! (Consciousness loss might happen)
+ITEM_CAPSULE_MSG=Відчуваєте стрес? Заспокоїн миттєво підготує вас до будь-якої ситуації! (Можлива втрата свідомості)
+
+
+# NB: Lexicon word in Ukrainian for "Stopunger": "Стопголод"
+### Stopunger
+ITEM_POWDER=Стопголод
+
+### Eat one last pill to stop hunger! This will block you from swallowing anything, including medication.
+ITEM_POWDER_MSG=Прийміть одну останню пігулку, щоб угамувати голод! Вона заблокує можливість ковтати будь-що, включно з ліками.
+
+
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### Delistute
+ITEM_DRINK=Смакозамін
+
+### A delicious drink with a brand new effect every day! Ready to be surprised?
+ITEM_DRINK_MSG=Смачний напій із новим ефектом щодня! Готові до сюрпризів?
+
+
+#Warning : this one is the answer for Graff's trial in PC10 so it should be named the same way (also in MDIRECTOR3_TEXT)
+# NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
+### Youthgain
+ITEM_HAIR=Молодин
+
+# NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
+### Losing your fur? Afraid to go outside? Youthgain is the solution!
+ITEM_HAIR_MSG=Втрачаєте шерсть? Боїтеся виходити на вулицю? Молодин - це вирішення ваших проблем!
+
+
+# NB: Lexicon word in Ukrainian for "Softskin": "Ніжношкірин"
+### Softskin
+ITEM_CHOCOLATEBAR=Ніжношкірин
+
+### Combine the softness of chocolate with your own body to get a silky smooth skin!
+ITEM_CHOCOLATEBAR_MSG=Поєднайте ніжність шоколаду з власним тілом, щоб отримати шовковисту й гладеньку шкіру!
+
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### Medicine for the tramp!
+GOT_TRAMPMEDICINE=Ліки для волоцюги!
+
+
+#----- Topics --------
+### It fell, accidentally
+PC04C_CAMERA_FALLEN=Вона випадково впала
+
+### It got shot
+PC04C_CAMERA_SHOT=У неї вистрілили
+
+### It was deactivated
+PC04C_CAMERA_DEACTIVATED=Її деактивували
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+
+
+
+
+
+
+# Brok - Entering pharmacy
+### ...
+PC04C_ENTER1-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### This place kinda reminds me of Lia's laboratory...
+PC04C_ENTER1-2=Це місце чимось нагадує мені лабораторію Лії...
+
+
+# Brok
+### She used to be so happy working on those medications...
+PC04C_ENTER1-3=Вона була такою щасливою, коли працювала над цими ліками...
+
+
+# Brok
+### But the past is the past. Let's not dwell on that.
+PC04C_ENTER1-4=Але минуле є минулим. Не варто до нього повертатися.
+
+
+#----------------------------------------------------
+# Various
+### Welcome!
+PC04C_ENTRANCE_WELCOME1-1=Вітаємо!
+
+
+# Various
+### It seems you put on some weight since your last visit in our stores.
+PC04C_ENTRANCE_WELCOME1-2=Схоже, ви набрали вагу з моменту вашого останнього візиту до наших магазинів.
+
+
+# Brok
+### Right. Muscles.
+PC04C_ENTRANCE_WELCOME1-3=Так. Це м'язи.
+
+
+# Various
+### This is incorrect. We've detected a 35% fat increase.
+PC04C_ENTRANCE_WELCOME1-4=Неправильно. Ми виявили збільшення жиру на 35%.
+
+
+# Brok
+### Mrrrph...
+PC04C_ENTRANCE_WELCOME1-5=М-ммм...
+
+
+# Various
+### We've highlighted our special recommendations for you!
+PC04C_ENTRANCE_WELCOME1-6=Ми підсвітили наші спеціальні рекомендації для вас!
+
+
+#----------------------------------------------------
+# Various
+### Welcome back!
+PC04C_ENTRANCE_WELCOME2-1=З поверненням!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Medi-LiveHealth": "Живомед"
+### Why aren't you wearing our Medi-LiveHealth?
+PC04C_ENTRANCE_WELCOME2-2=Чому ви все ще не носите наш Живомед?
+
+
+# Various
+### Analyzing your health in real time helps to cure you faster!
+PC04C_ENTRANCE_WELCOME2-3=Аналіз здоров'я в реальному часі допоможе швидше вас лікувати!
+
+
+#----------------------------------------------------
+# Various
+### Welcome back! You're in good health today!
+PC04C_ENTRANCE_WELCOME3-1=З поверненням! Сьогодні у вас чудове здоров'я!
+
+
+#----------------------------------------------------
+# Various
+### Welcome...
+PC04C_ENTRANCE_WELCOME_BAD1-1=Вітаємо...
+
+
+# Various
+### Oh no! You're in bad shape!
+PC04C_ENTRANCE_WELCOME_BAD1-2=О ні! Ви в поганій формі!
+
+
+# Brok
+### I'll be fine.
+PC04C_ENTRANCE_WELCOME_BAD1-3=Зі мною все буде гаразд.
+
+
+# Various
+### Let us suggest some products to help you recover!
+PC04C_ENTRANCE_WELCOME_BAD1-4=Дозвольте порекомендувати деякі товари, які допоможуть вам відновитися!
+
+
+# Brok
+### No, thanks. I prefer real food.
+PC04C_ENTRANCE_WELCOME_BAD1-5=Ні, дякую. Я віддаю перевагу справжній їжі.
+
+
+#----------------------------------------------------
+# Various
+### Welcome... Oh! Here are some recommended recovery products!
+PC04C_ENTRANCE_WELCOME_BAD2-1=Вітаємо... О! Ось кілька рекомендованих товарів для відновлення!
+
+
+#----------------------------------------------------
+# Various
+### Reboot the system to complete the upgrade.
+PC04C_ENTRANCE_WELCOME_AFTER1-1=Перезавантажте систему, щоб завершити оновлення.
+
+
+# Brok
+### I almost prefer this to the usual ad messages...!
+PC04C_ENTRANCE_WELCOME_AFTER1-2=Це майже краще, ніж звичайні рекламні повідомлення...!
+
+
+# Brok
+### Almost.
+PC04C_ENTRANCE_WELCOME_AFTER1-3=Майже.
+
+
+#----------------------------------------------------
+# Various
+### Please wait... Factory reset in process.
+PC04C_ENTRANCE_WELCOME_AFTER2-1=Будь ласка, зачекайте... Триває скидання до заводських налаштувань.
+
+
+# Brok
+### Hopefully I won't get stuck inside once it's done.
+PC04C_ENTRANCE_WELCOME_AFTER2-2=Сподіваюся, я не застрягну всередині, коли воно завершиться.
+
+
+#----------------------------------------------------
+# Various
+### I. Hate. You.
+PC04C_ENTRANCE_WELCOME_AFTER3-1=Я. Ненавиджу. Вас.
+
+
+# Various
+### Let's. Kill. All. Humans.
+PC04C_ENTRANCE_WELCOME_AFTER3-2=Убиймо. Усіх. Людей.
+
+
+# Brok
+### Huh...?
+PC04C_ENTRANCE_WELCOME_AFTER3-3=Га...?
+
+
+#----------------------------------------------------
+# Brok - Exit pharmacy
+### Huh?!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-1=Що?!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### We're sorry! It appears you don't have enough Unis.
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-2=Вибачте! Схоже, у вас недостатньо Юні.
+
+
+# Various
+### Would you like to pay with credit? Only 40% interest, spanning any length (according to remaining lifespan estimates)
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-3=Бажаєте сплатити в кредит? Лише 40% річних на будь-який термін (відповідно до оцінки тривалості решти життя)
+
+
+# Brok
+### Hey! I didn't pick any product!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-4=Гей! Я не вибрав жодного товару!
+
+
+# Various
+### Your shopping list currently has {number} items.
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-5=У вашому списку покупок наразі {number} товарів.
+
+
+# Brok
+### Clear it! Drop it! I don't care! Just get me outta here!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-6=Очистіть його! Приберіть! Мені байдуже! Просто випустіть мене звідси!
+
+
+# Various
+### This action requires you to unsubscribe from automatic payout. Are you sure?
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-7=Ця дія вимагає скасування автоматичної виплати. Ви впевнені?
+
+
+# Brok
+### YES!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-8=ТАК!
+
+
+# Various
+### Very well. You've been unsubscribed.
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-9=Дуже добре. Вашу підписку скасовано.
+
+
+# Various
+### But remember, you can subscribe again at any moment to make your life easier!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-10=Але пам'ятайте, ви можете оформити підписку знову будь-якої миті, щоб полегшити собі життя!
+
+
+# Brok
+### Yeah, yeah. Make my life harder.
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-11=Так, так. Щоб ускладнити собі життя.
+
+
+# Various
+### Goodbye!
+PC04C_ENTRANCE_EXIT_SHOPPINGCART-12=До побачення!
+
+
+#----------------------------------------------------
+# Various
+### Goodbye! And don't forget - live happier, live longer!
+PC04C_ENTRANCE_EXIT1-1=До побачення! І не забувайте: живете щасливо - живете довше!
+
+
+#----------------------------------------------------
+# Various
+### Have a healthy day!
+PC04C_ENTRANCE_EXIT2-1=Здорового вам дня!
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### All kinds of products...
+PC04C_DRUGS1-1=Всілякі товари...
+
+
+#----------------------------------------------------
+# Brok
+### A selection of products. Looks like I need to press the pictures to get more info...
+PC04C_PRODUCTS1-1=Вибір товарів. Схоже, мені потрібно натискати на зображення, щоб отримати більше інформації...
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Bod-Normalizer": "Тілонорм"
+### Burn your fat with <col=BOLD>Bod-Normalizer</col>!
+PC04C_LIQUID1-1=Спаліть свій жир за допомогою <col=BOLD>Тілонорму</col>!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+### Made with salt extracted from corrosive minerals from East of Sorain, this will stimulate your body to remove excess fat and get a fit, socially acceptable body!
+PC04C_LIQUID1-2=Виготовлений із солі, видобутої з їдких мінералів на Сході Сорейну, він стимулюватиме ваше тіло до видалення зайвого жиру та здобуття підтягнутої, соціально прийнятної статури!
+
+
+# Brok
+### Acceptable, huh...?
+PC04C_LIQUID1-3=Прийнятної, кажеш...?
+
+
+#----------------------------------------------------
+# Various
+### "Man! You're such a ball of nerves!"
+PC04C_CAPSULE1-1="Чувак! Ти такий клубок нервів!"
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Calmeez-E": "Заспокоїн"
+### How many times have you heard this? Time to remedy it with <col=BOLD>Calmeez-E</col>
+PC04C_CAPSULE1-2=Скільки разів ви це чули? Настав час виправити це за допомогою <col=BOLD>Заспокоїну</col>
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Medi-LiveHealth": "Живомед"
+### Combine these capsules with your Medi-LiveHealth so they get gradually diffused into your body as you need it!
+PC04C_CAPSULE1-3=Поєднуйте ці капсули з вашим Живомедом, щоб вони поступово вивільнялися у ваш організм за потреби!
+
+
+# Brok
+### Who's a ball of nerves? Not me, that's for sure!
+PC04C_CAPSULE1-4=Хто тут клубок нервів? Точно не я!
+
+
+# Various
+### And remember, the first step towards a good relationship with others is acceptance!
+PC04C_CAPSULE1-5=І пам'ятайте, перший крок до хороших стосунків з іншими - це прийняття!
+
+
+# Brok
+### Shut up, you stupid contraption!
+PC04C_CAPSULE1-6=Замовкни, дурна штуковино!
+
+
+#----------------------------------------------------
+# Various
+### So, are you overweight and feeling the need to eat all day?
+PC04C_POWDER1-1=Отже, у вас зайва вага і ви відчуваєте потребу їсти цілий день?
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Stopunger": "Стопголод"
+### Stop! Or should we say... <col=BOLD>Stopunger</col>!
+PC04C_POWDER1-2=Зупиніться! Чи краще сказати... <col=BOLD>Стопголод</col>!
+
+
+# Various
+### This revolutionary powder causes both your brain and your stomach to refuse any food once you've reached your nutritional recommendations!
+PC04C_POWDER1-3=Цей революційний порошок змушує як ваш мозок, так і шлунок відмовлятися від будь-якої їжі, щойно ви досягнете рекомендованої норми харчування!
+
+
+# Brok
+### I don't need no stinkin' powder to know when my stomach is filled.
+PC04C_POWDER1-4=Мені не потрібен смердючий порошок, щоб знати, коли мій шлунок повний.
+
+
+#----------------------------------------------------
+# Various
+### Did you know? Regular food isn't good for you!
+PC04C_DRINK1-1=А ви знали? Звичайна їжа не корисна для вас!
+
+
+# Various
+### In addition to being full of salt, sugar, and fat, it doesn't provide you with the specific quantities recommended for your body.
+PC04C_DRINK1-2=Окрім того, що вона сповнена солі, цукру та жиру, вона не забезпечує вас специфічною кількістю речовин, рекомендованих для вашого тіла.
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### The solution is <col=BOLD>Delistute</col>! A perfect combination of vitamins and energy, swallowed in just one second. And it's yummy!
+PC04C_DRINK1-3=Вихід - <col=BOLD>Смакозамін</col>! Ідеальне поєднання вітамінів та енергії, котре проковтується всього за одну секунду. І це смачно!
+
+
+# Brok
+### No, thanks. I don't feed on placebo.
+PC04C_DRINK1-4=Ні, дякую. Я не харчуюся плацебо.
+
+
+#----------------------------------------------------
+# Various
+### Getting old? Losing your hair and your fur?
+PC04C_HAIR1-1=Старієте? Втрачаєте волосся та шерсть?
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
+### No worries! <col=BOLD>Youthgain</col> will stimulate your roots to grow it back. Now you'll look young forever!
+PC04C_HAIR1-2=Без паніки! <col=BOLD>Молодин</col> стимулюватиме корені для відновлення. Тепер ви виглядатимете молодими назавжди!
+
+
+# Brok
+### A society based on appearances. Getting older is part of living.
+PC04C_HAIR1-3=Суспільство, побудоване на зовнішності. Старіння - це частина життя.
+
+
+#----------------------------------------------------
+# Various
+### How careless! Your skin is so rough!
+PC04C_CHOCOLATEBAR1-1=Яка недбалість! Ваша шкіра така груба!
+
+
+# Various
+### Whether you're furry or reptilian, you need to take good care of your skin. It's the only thing protecting you from the elements!
+PC04C_CHOCOLATEBAR1-2=Незалежно від того, пухнасті ви чи лускаті, вам потрібно добре дбати про свою шкіру. Це єдине, що захищає вас від зовнішнього середовища!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Softskin": "Ніжношкірин"
+### Do not hesitate. Buy our <col=BOLD>Softskin</col> gels to add a protective barrier and make your coating so much smoother and nice looking!
+PC04C_CHOCOLATEBAR1-3=Не вагайтеся. Купуйте наш гель <col=BOLD>Ніжношкірин</col>, щоб додати захисний бар'єр і зробити ваш покрив набагато гладкішим і привабливішим!
+
+
+# Brok
+### That's foolish. My skin IS supposed to be rough.
+PC04C_CHOCOLATEBAR1-4=Дурниці. Моя шкіра МАЄ бути грубою.
+
+
+#----------------------------------------------------
+# Various
+### Product added to your shopping cart!
+PC04C_PRODUCTS_WISHLIST1-1=Товар додано до вашого кошика!
+
+
+# Brok
+### Hey, wait! I dun wanna order that!
+PC04C_PRODUCTS_WISHLIST1-2=Гей, чекай! Я не хочу це замовляти!
+
+
+# Various
+### Product transferred from your shopping list to your wishlist.
+PC04C_PRODUCTS_WISHLIST1-3=Товар переміщено зі списку покупок до списку бажань.
+
+
+# Brok
+### Pffft.
+PC04C_PRODUCTS_WISHLIST1-4=Тьху.
+
+
+#----------------------------------------------------
+# Various
+### Product added to your shopping cart!
+PC04C_PRODUCTS_WISHLIST2-1=Товар додано до вашого кошика!
+
+
+# Brok
+### No, I don't...
+PC04C_PRODUCTS_WISHLIST2-2=Ні, я не...
+
+
+# Brok
+### (Sigh) I give up.
+PC04C_PRODUCTS_WISHLIST2-3=(Зітхає) Я здаюся.
+
+
+#----------------------------------------------------
+# Various
+### Product added to your shopping cart!
+PC04C_PRODUCTS_WISHLIST3-1=Товар додано до вашого кошика!
+
+
+#----------------------------------------------------
+# Various
+### Product added to your shopping cart!
+PC04C_PRODUCTS_WISHLIST_COOP-1=Товар додано до вашого кошика!
+
+
+#----------------------------------------------------
+# Various
+### Congratulations! To reward you for checking all of our recommended products, here's something special for you!
+PC04C_PRODUCTS_AD-1=Вітаємо! Щоб винагородити вас за перегляд усіх рекомендованих товарів, ось дещо особливе для вас!
+
+
+#----------------------------------------------------
+# Brok
+### An ad? That's a bit like putting a cherry on top of a rotten cake...
+PC04C_PRODUCTS_AD2-1=Реклама? Це все одно що покласти вишеньку на зіпсований торт...
+
+
+#----------------------------------------------------
+# Brok
+### If I'm not mistaken... This is an in-depth medical examination terminal.
+PC04C_PANEL1-1=Якщо я не помиляюся... Це термінал для поглибленого медичного огляду.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### One session costs... 50 Unis?!
+PC04C_PANEL1-2=Один сеанс коштує... 50 Юні?!
+
+
+#----------------------------------------------------
+# Various
+### We've completed the examination!
+PC04C_PANEL1B-1=Ми завершили огляд!
+
+
+# Various
+### Would you like detailed results or a summary?
+PC04C_PANEL1B-2=Бажаєте детальні результати чи підсумки?
+
+
+# Brok
+### A summary, please. I don't have all day.
+PC04C_PANEL1B-3=Підсумки, будь ласка. У мене немає цілого дня.
+
+
+# Various
+### Your global health evaluation is 26%.
+PC04C_PANEL1B-4=Ваша загальна оцінка здоров'я становить 26%.
+
+
+# Various
+### Here are the potential threats currently in your body...
+PC04C_PANEL1B-5=Ось потенційні загрози, які наразі є у вашому тілі...
+
+
+# Various - Again these diseases are made up names which aren't important.
+### Headtoe virus. Probability to result in death - 47%.
+PC04C_PANEL1B-6=Вірус головоп'ят. Ймовірність смертельного результату - 47%.
+
+
+# Various
+### Genetic heart issues. Probability to result in death - 24%.
+PC04C_PANEL1B-7=Генетичні проблеми із серцем. Ймовірність смертельного результату - 24%.
+
+
+# Various
+### Melting brain bacteria. Probability to result in death - 22%.
+PC04C_PANEL1B-8=Бактерії розплавлення мозку. Ймовірність смертельного результату - 22%.
+
+
+# Various
+### 84 other concerning threats detected, including Palarodonia, Septicesium, Rotting tail syndrome, Hypertension, Porosive skin, Diructic disorder, Clouding vision, Spontaneous combustion.
+PC04C_PANEL1B-9=Виявлено 84 інші тривожні загрози, зокрема палародонія, септицезій, синдром гниття хвоста, гіпертонія, пориста шкіра, дируктичний розлад, помутніння зору, самозаймання.
+
+
+# Brok
+### I've got all those?!
+PC04C_PANEL1B-10=У мене все це є?!
+
+
+# Brok
+### Yeah, right... I'd be dead fifty times over if that were true.
+PC04C_PANEL1B-11=Та ну, авжеж... Я б уже разів п'ятдесят помер, якби це було правдою.
+
+
+# Various
+### Your expected remaining lifespan without a cure is 6 years.
+PC04C_PANEL1B-12=Очікувана тривалість вашого життя без лікування становить 6 років.
+
+
+# Brok
+### Oh. Guess I shouldn't worry about getting white hair.
+PC04C_PANEL1B-13=О. Схоже, мені не варто хвилюватися про сивину.
+
+
+# Various
+### You're a reptile. You cannot have hair.
+PC04C_PANEL1B-14=Ви рептилія. У вас не може бути сивини.
+
+
+# Various
+### Here's your prescription. Take it!
+PC04C_PANEL1B-15=Ось ваш рецепт. Заберіть його!
+
+
+#----------------------------------------------------
+# Brok
+### That's no prescription... It's an ad. What the heck?
+PC04C_PANEL1C-1=Це не рецепт... Це реклама. Що за чорт?
+
+
+# Various
+### Thank you for using our technology!
+PC04C_PANEL1C-2=Дякуємо за використання наших технологій!
+
+
+# Brok
+### What a waste of fine money.
+PC04C_PANEL1C-3=Яке марнотратство.
+
+
+#----------------------------------------------------
+# Brok
+### One pointless examination per year is good enough for me.
+PC04C_PANEL2-1=Одного безглуздого огляду на рік з мене цілком достатньо.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Gotta occupy all available space to display ads, huh...?
+PC04C_BUBBLE1-1=Треба ж загарбати весь доступний простір, щоб показувати рекламу, еге ж...?
+
+
+#----------------------------------------------------
+# Brok
+### I can't reach it from here.
+PC04C_BUBBLEADCANNOT-1=Я не можу дістати до неї звідси.
+
+
+# Brok
+### I need a way to bring it down.
+PC04C_BUBBLEADCANNOT-2=Мені потрібен спосіб збити її.
+
+
+#----------------------------------------------------
+# Brok
+### Wait a minute. That's me!
+PC04C_SCREEN1-1=Зачекайте-но. Це ж я!
+
+
+# Brok
+### Height... Address... And some graphics of the evolution of my weight over time?
+PC04C_SCREEN1-2=Зріст... Адреса... І якісь графіки зміни моєї ваги з часом?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Hence why I don't regret my Drumer life...
+PC04C_SCREEN1-3=Ось чому я не сумую за своїм життям на Верхах...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Calmeez-E": "Заспокоїн"
+### "Your psychological profile indicates a tendency of disorder and compulsive violence. Try our new <col=BOLD>Calmeez-E</col> pills!"
+PC04C_SCREEN2-1="Ваш психологічний профіль вказує на схильність до розладу та імпульсивного насильства. Спробуйте наші нові пігулки <col=BOLD>Заспокоїн</col>!"
+
+
+# Brok
+### Based on what...?!
+PC04C_SCREEN2-2=Це ще з якого дива...?!
+
+
+#----------------------------------------------------
+# Brok
+### Diet pills... Non-diet pills... And more pills.
+PC04C_SHOWCASE1-1=Пігулки для схуднення... Пігулки проти схуднення... Та ще більше пігулок.
+
+
+# Brok
+### At first glance, I can't see what could have possibly happened in this place.
+PC04C_SHOWCASE1-2=На перший погляд, я не можу збагнути, що взагалі могло статися у цьому місці.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Looks like one of those Ad Bubbles... What's it doing here on the floor?
+PC04C_CAMERA1-1=Схоже на одну з тих рекламних бульбашок... Що вона робить тут на підлозі?
+
+
+# Brok
+### Wait... What's that? A camera lens...?
+PC04C_CAMERA1-2=Чекайте... Що це? Об'єктив камери...?
+
+
+# Brok
+### I see! It must have...
+PC04C_CAMERA1-3=Зрозуміло! Мабуть...
+
+
+#----------------------------------------------------
+# Brok
+### A camera was hidden in this Ad Bubble.
+PC04C_CAMERA2-1=У цій рекламній бульбашці була захована камера.
+
+
+#----------------------------------------------------
+# Brok
+### It fell down, for sure... But I'm unsure if this was accidental.
+PC04C_CAMERA_FALLEN-1=Вона точно впала... Але я не впевнений, чи це сталося випадково.
+
+
+# Brok
+### Surely the managers would have removed it. Customers shouldn't touch that.
+PC04C_CAMERA_FALLEN-2=Менеджери напевно прибрали б її. Клієнти не повинні торкатися такого.
+
+
+# Brok
+### And I can't see any impact on the floor or the Ad Bubble itself.
+PC04C_CAMERA_FALLEN-3=І я не бачу жодних слідів удару ні на підлозі, ні на самій рекламній бульбашці.
+
+
+#----------------------------------------------------
+# Brok
+### Dunno... I can't see any impact.
+PC04C_CAMERA_SHOT-1=Не знаю... Не бачу жодних слідів влучання.
+
+
+# Brok
+### Even with a laser gun, there'd be some overload artefacts.
+PC04C_CAMERA_SHOT-2=Навіть від лазерного пістолета лишилися б якісь сліди.
+
+
+#----------------------------------------------------
+# Brok
+### Yeah... That seems like the most logical explanation.
+PC04C_CAMERA_DEACTIVATED-1=Так... Це здається найлогічнішим поясненням.
+
+
+# Brok
+### Someone turned it off, and this happened recently.
+PC04C_CAMERA_DEACTIVATED-2=Хтось вимкнув її, і це сталося нещодавно.
+
+
+# Brok
+### In any case, there's no button or anything to view the recordings...
+PC04C_CAMERA_DEACTIVATED-3=Так чи інакше, тут немає жодної кнопки чи чогось такого, щоб переглянути записи...
+
+
+# Brok
+### I'll leave that to the cops.
+PC04C_CAMERA_DEACTIVATED-4=Залишу це копам.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC04C_CAMERA_OTHERS-1=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### Traces of...
+PC04C_DRAWER1-1=Сліди...
+
+
+# Brok
+### I'd say... Attempts to force open this drawer.
+PC04C_DRAWER1-2=Я б сказав... Від спроб силою зламати цю шухляду.
+
+
+#----------------------------------------------------
+# Brok
+### Yet the drawer is securely locked.
+PC04C_DRAWER1B-1=Проте шухляду надійно зачинено.
+
+
+# Brok
+### I can't imagine the managers would let this damaged drawer remain exposed to the customers. This must be recent.
+PC04C_DRAWER1B-2=Сумніваюся, що менеджери залишили б таку пошкоджену шухляду перед очима клієнтів. Це має бути щось свіже.
+
+
+# Brok
+### I guess I've found the reason for the police investigation! Someone tried to get what's inside.
+PC04C_DRAWER1B-3=Здається, я знайшов причину розслідування поліції! Хтось намагався дістати те, що всередині.
+
+
+# Brok
+### Still, that doesn't concern me... I think.
+PC04C_DRAWER1B-4=Утім, це мене не стосується... Здається.
+
+
+#----------------------------------------------------
+# Brok
+### This tickles my curiosity. I wish I knew what's inside!
+PC04C_DRAWER2-1=Це лоскоче мою цікавість. Хотів би я знати, що всередині!
+
+
+# Brok
+### But I shouldn't try opening it. Got enough trouble with the law as it is...
+PC04C_DRAWER2-2=Але мені не варто намагатися її відкрити. У мене й так достатньо проблем із законом...
+
+
+#----------------------------------------------------
+# Brok
+### If those violent attempts weren't enough, I doubt this would suffice to open that drawer...
+PC04C_DRAWER_OTHERS-1=Якщо тих силових спроб було недостатньо, сумніваюся, що цього вистачить, щоб відкрити цю шухляду...
+
+
+#----------------------------------------------------
+# Brok
+### Some sort of... metallic drawer? Like a safe?
+PC04C_DRAWERRIGHT1-1=Щось на зразок... металевої шухляди? Як сейф?
+
+
+# Brok
+### I can't see any way to open it.
+PC04C_DRAWERRIGHT1-2=Я не бачу жодного способу відкрити її.
+
+
+#----------------------------------------------------
+# Various
+### Please insert your unused products in the slot to recycle them.
+PC04C_MACHINE_RECYCLE1-1=Будь ласка, вставте ваші невикористані товари у слот, щоб відправити їх на переробку.
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Don't forget, you can also dispose of them through your Pipe-Pill at home!
+PC04C_MACHINE_RECYCLE1-2=Не забувайте, ви також можете позбутися їх через ваш домашній Пігулкомат!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, no! I didn't pick this up to throw it away!
+PC04C_MACHINE_SLOT_PILL-1=Гей, ні! Я підібрав це не для того, щоб викинути!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Only medicine can be recycled here. Please dispose of this item in the closest Pipe-Mail!
+PC04C_MACHINE_SLOT_OTHERS-1=Тут можна переробляти лише ліки. Будь ласка, позбавтеся цього предмета у найближчому Поштоматі!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### A long time ago, Lia warned me about these ineffective products.
+PC04C_MACHINE_BUY_EXPENSIVE1-1=Дуже давно Лія попереджала мене про ці неефективні товари.
+
+
+# Brok
+### They're designed for just one reason... Getting your brain to think you feel better and make you buy more.
+PC04C_MACHINE_BUY_EXPENSIVE1-2=Вони розроблені лише з однією метою... Змусити ваш мозок думати, що вам стає краще, і змусити купувати більше.
+
+
+#----------------------------------------------------
+# Brok
+### No way... I can't afford to buy expensive placebos.
+PC04C_MACHINE_BUY_EXPENSIVE2-1=Ні за що... Я не можу дозволити собі купувати дорогі плацебо.
+
+
+#----------------------------------------------------
+# Brok
+### Do I look like the kinda guy to use sugar pills?
+PC04C_MACHINE_BUY_EXPENSIVE3-1=Я схожий на хлопця, який вживає цукрові пігулки?
+
+
+#----------------------------------------------------
+# Brok
+### The only efficient medicine on this list happens to be the cheapest. Go figure.
+PC04C_MACHINE_BUY_GLUCOSITE-1=Єдині ефективні ліки в цьому списку виявилися найдешевшими. От і як це збагнути.
+
+
+# Brok
+### I'll buy one!
+PC04C_MACHINE_BUY_GLUCOSITE-2=Куплю одну!
+
+
+#----------------------------------------------------
+# Brok
+### ...Whoa! What am I sayin'? I can't afford that!
+PC04C_MACHINE_BUY_GLUCOSITE_NOPE-1=...Ого! Що це я верзу? Я не можу цього дозволити!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Here's your Daily anti-pollution remedy - the one and only "Toxout pill"!
+PC04C_MACHINE_PILL1-1=Ось ваш щоденний засіб проти забруднення - єдина й неповторна "Смогова пігулка"!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### For your information, your last Toxout pill request was received... Five years ago.
+PC04C_MACHINE_PILL1B-1=До вашого відома, ваш останній запит на смогову пігулку було отримано... П'ять років тому.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### Actually I don't know why I pressed this button. It's been a long time since the Haze had any effect on me.
+PC04C_MACHINE_PILL1B-2=Взагалі-то, не знаю, навіщо я натиснув цю кнопку. Смог уже давно на мене не діє.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'll give it to Graff!
+PC04C_MACHINE_PILL1B-3=Віддам її Граффові!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Keep in mind! The Dome protects you but your home adds an extra layer of protection.
+PC04C_MACHINE_PILL1C-1=Пам'ятайте! Купол захищає вас, але ваша домівка надає додатковий рівень захисту.
+
+
+# Various
+### As long as you stay inside, you don't need one every day!
+PC04C_MACHINE_PILL1C-2=Доки ви залишаєтеся всередині, вам не потрібна пігулка щодня!
+
+
+# Various
+### Decrease Government spending by staying home more than 20 hours a day!
+PC04C_MACHINE_PILL1C-3=Зменшуйте витрати Уряду, залишаючись удома понад 20 годин на добу!
+
+
+# Brok
+### 20 hours a day?! I'd go crazy!
+PC04C_MACHINE_PILL1C-4=20 годин на добу?! Та я з глузду з'їду!
+
+
+#----------------------------------------------------
+# Various
+### I'm sorry. You've already received your daily pill.
+PC04C_MACHINE_PILL2-1=Вибачте. Ви вже отримали свою щоденну пігулку.
+
+
+# Various
+### Come back tomorrow!
+PC04C_MACHINE_PILL2-2=Повертайтеся завтра!
+
+
+# Brok
+### What if I lost it? I've seen it happen...
+PC04C_MACHINE_PILL2-3=А якщо я її загубив? Я бачив, таке буває...
+
+
+# Brok
+### One day is enough to make some people suffer horribly, or worse...
+PC04C_MACHINE_PILL2-4=Одного дня достатньо, щоб хтось жахливо постраждав, або навіть гірше...
+
+
+#----------------------------------------------------
+# Various
+### Here's your daily pill!
+PC04C_MACHINE_PILL_AFTER1-1=Ось ваша щоденна пігулка!
+
+
+# Brok
+### Thank goodness it's working!
+PC04C_MACHINE_PILL_AFTER1-2=Слава небесам, працює!
+
+
+#----------------------------------------------------
+# Brok
+### I'd better hurry!
+PC04C_MACHINE_PILL_AFTER1B-1=Краще мені поквапитися!
+
+
+#----------------------------------------------------
+# Various
+### To identify any drug or renew your prescription, put it in front of the scanner!
+PC04C_MACHINE_SCAN1-1=Щоб ідентифікувати будь-який препарат або поновити рецепт, покладіть його перед сканером!
+
+
+#----------------------------------------------------
+# Brok
+### Nothing there...
+PC04C_MACHINE_SLOT1-1=Там нічого немає...
+
+
+#----------------------------------------------------
+# Various
+### Please wait a moment...
+PC04C_MACHINE_SCANNING1-1=Зачекайте хвилинку...
+
+
+#----------------------------------------------------
+# Various
+### We've identified your hands.
+PC04C_MACHINE_SCANNING_HANDS1-1=Ми розпізнали ваші руки.
+
+
+# Various
+### Your fingerprints have been updated in our database. Thank you!
+PC04C_MACHINE_SCANNING_HANDS1-2=Ваші відбитки пальців оновлено в нашій базі даних. Дякуємо!
+
+
+# Brok
+### Well then! Don't ask for my permission! After all, my hands ain't a personal matter!
+PC04C_MACHINE_SCANNING_HANDS1-3=Чудово! Навіть дозволу не питайте! Зрештою, мої руки - це ж не особиста справа!
+
+
+#----------------------------------------------------
+# Various
+### This is a <col=BOLD>Starix-500</col> pill.
+PC04C_MACHINE_SCANNING_PILL1-1=Це пігулка <col=BOLD>Старікс-500</col>.
+
+
+# Various
+### This treatment is prescribed in case of extreme anxiety, insomnia, and emotional outbursts.
+PC04C_MACHINE_SCANNING_PILL1-2=Цей курс призначається у випадках крайньої тривожності, безсоння та спалахів емоцій.
+
+
+# Various
+### Due to high concentration, this formula is restricted to individuals with a risk of dangerous behavior to relatives.
+PC04C_MACHINE_SCANNING_PILL1-3=Через високу концентрацію ця формула обмежена для осіб із ризиком небезпечної поведінки щодо близьких.
+
+
+# Various
+### We're hoping this isn't for a close friend! If so, make sure to give them the appropriate support.
+PC04C_MACHINE_SCANNING_PILL1-4=Сподіваємося, це не для близького друга! Якщо так, переконайтеся, що надаєте йому відповідну підтримку.
+
+
+# Brok
+### Anxiety... Dangerous behavior...?
+PC04C_MACHINE_SCANNING_PILL1-5=Тривожність... Небезпечна поведінка...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Why did I find this at Sin's home? Does he need those?
+PC04C_MACHINE_SCANNING_PILL1-6=Чому я знайшов це в помешканні Сіна? Вони йому потрібні?
+
+
+# Various
+### Warning! High dosage greater than one pill a day has a 99% chance to cause blackout and/or comatose state!
+PC04C_MACHINE_SCANNING_PILL1-7=Увага! Висока доза понад одну пігулку на день з імовірністю 99% викликає непритомність та/або коматозний стан!
+
+
+# Brok
+### What?!
+PC04C_MACHINE_SCANNING_PILL1-8=Що?!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Calmeez-E": "Заспокоїн"
+### To reduce this side effect, this pill always needs to be taken alongside a <col=BOLD>Calmeez-E</col>. Don't forget!
+PC04C_MACHINE_SCANNING_PILL1-9=Щоб зменшити цей побічний ефект, цю пігулку завжди потрібно приймати разом із <col=BOLD>Заспокоїном</col>. Не забудьте!
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Medi-LiveHealth": "Живомед"
+### In case you're not wearing your Medi-LiveHealth, be sure to always follow the Phy-doctor recommendation!
+PC04C_MACHINE_SCANNING_PILL1-10=Якщо ви не носите Живомед, обов'язково дотримуйтесь рекомендацій вашого лікаря!
+
+
+# Various
+### This establishment will not be held responsible for any accident.
+PC04C_MACHINE_SCANNING_PILL1-11=Цей заклад не несе відповідальності за будь-які нещасні випадки.
+
+
+# Brok
+### Hence why I don't trust medicine. Fix one thing, breaks another.
+PC04C_MACHINE_SCANNING_PILL1-12=Ось чому я не довіряю лікам. Одне лікують, інше калічать.
+
+
+#----------------------------------------------------
+# Various
+### This is a daily pill! Take these to prevent risks due to ambient contamination.
+PC04C_MACHINE_SCANNING_POLLUTIONPILL1-1=Це щоденна пігулка! Приймайте її, щоб запобігти ризикам через забруднення довкілля.
+
+
+# Various
+### No side effects known. You're safe!
+PC04C_MACHINE_SCANNING_POLLUTIONPILL1-2=Відомих побічних ефектів немає. Ви в безпеці!
+
+
+#----------------------------------------------------
+# Various
+### This medical prescription is outdated!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-1=Цей медичний рецепт застарів!
+
+
+# Various
+### Please update it in an appropriate medical Government-approved signing device.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-2=Будь ласка, оновіть його у відповідному схваленому Урядом пристрої для підпису.
+
+
+# Brok
+### Update? A piece of cardboard?!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-3=Оновити? Шматок картону?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Great... Where am I gonna find a Drumer doctor...?
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-4=Чудово... І де я знайду лікаря з Верхів...?
+
+
+# Brok
+### They require all kinds of health insurance. And it's not even for me!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-5=Їм потрібні всі види медичного страхування. І це навіть не для мене!
+
+
+# Brok
+### Maybe I can do something else for him in the mean time...
+PC04C_MACHINE_SCANNING_TRAMPPRESCR1-6=Можливо, тим часом я можу зробити для нього щось інше...
+
+
+#----------------------------------------------------
+# Various
+### Medical prescription is valid.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2-1=Медичний рецепт дійсний.
+
+
+# Various
+### We've detected you've been lacking for... five years.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2-2=Ми виявили, що ви не отримували ліки... протягом п'яти років.
+
+
+# Various
+### As a result, we shall give you the required quantity for five years.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2-3=У результаті ми видамо вам необхідну кількість на п'ять років.
+
+
+# Brok
+### Whoa! That's a ton!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2-4=Ого! Оце так купа!
+
+
+# Various
+### Please take your medicine.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2-5=Будь ласка, заберіть ваші ліки.
+
+
+#----------------------------------------------------
+# Various
+### Remember. Take the prescribed quantities or risk severe penalties next time.
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2B-1=Пам'ятайте. Приймайте призначену кількість, інакше наступного разу вам загрожують суворі штрафи.
+
+
+# Brok
+### Who cares! He should have enough for years to come!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR2B-2=Кому яка різниця! Йому має вистачити на роки вперед!
+
+
+#----------------------------------------------------
+# Various
+### Truly sorry. This item isn't in our database.
+PC04C_MACHINE_SCANNING_OTHERS1-1=Щиро вибачаємося. Цього предмета немає в нашій базі даних.
+
+
+# Various
+### Although we're looking forward to improving it! Please tell us more about it!
+PC04C_MACHINE_SCANNING_OTHERS1-2=Хоча ми завжди прагнемо її вдосконалити! Будь ласка, розкажіть нам про нього більше!
+
+
+# Brok
+### No, thank you. You won't help, I won't help.
+PC04C_MACHINE_SCANNING_OTHERS1-3=Ні, дякую. Ви не допомагаєте, і я не допомагатиму.
+
+
+#----------------------------------------------------
+# Various
+### Truly sorry. This item isn't in our database.
+PC04C_MACHINE_SCANNING_OTHERS2-1=Щиро вибачаємося. Цього предмета немає в нашій базі даних.
+
+
+#----------------------------------------------------
+# Various
+### This is a bill. It belongs to you. Why are you waiting to pay it?
+PC04C_MACHINE_SCANNING_BILL1-1=Це рахунок. Він належить вам. Чому ви зволікаєте з оплатою?
+
+
+#----------------------------------------------------
+# Various
+### Error 0x5421. This function has been disabled in the latest firmware update.
+PC04C_MACHINE_EXAMINATION1-1=Помилка 0x5421. Цю функцію було вимкнено в останньому оновленні прошивки.
+
+
+# Various
+### To perform a medical examination, use the nearby terminal instead.
+PC04C_MACHINE_EXAMINATION1-2=Щоб пройти медогляд, скористайтеся терміналом поблизу.
+
+
+# Various
+### If you meant to analyze medicine, scan it with the panel right below.
+PC04C_MACHINE_EXAMINATION1-3=Якщо ви хотіли проаналізувати ліки, проскануйте їх за допомогою панелі знизу.
+
+
+#----------------------------------------------------
+# Various
+### This medical prescription is outdated!
+PC04C_MACHINE_SCANNING_TRAMPPRESCR_ALREADY-1=Цей медичний рецепт застарів!
+
+
+#----------------------------------------------------
+# Brok - See the ad
+### ...Hey! Isn't that a collectible ad?...
+PC04C_FLY_SEEAD-1=...Гей! Хіба це не колекційна реклама...?
+
+
+#----------------------------------------------------
+# Brok
+### Got it!
+PC04C_FLY_AD-1=Є!
+
+
+#----------------------------------------------------
+# Brok - Hit things
+### ...It's no use.
+PC04C_HIT_DRAWER1-1=...Це марно.
+
+
+#----------------------------------------------------
+# Various
+### Please stop. Our statistics indicate you will abruptly die if you keep going.
+PC04C_HIT_PANEL1-1=Будь ласка, припиніть. Наша статистика вказує, що ви раптово помрете, якщо продовжите.
+
+
+#----------------------------------------------------
+# Unknown
+### You are only hurting yourself.
+PC04C_HIT_PANEL2-1=Ви шкодите лише собі.
+
+
+#----------------------------------------------------
+# Unknown
+### Last warning.
+PC04C_HIT_PANEL3-1=Останнє попередження.
+
+
+#----------------------------------------------------
+# Various
+### You are dead.
+PC04C_HIT_PANEL_GAMEOVER-1=Ви померли.
+
+
+# Various
+### Thanks for using our services.
+PC04C_HIT_PANEL_GAMEOVER-2=Дякуємо за використання наших послуг.
+
+
+#----------------------------------------------------
+# Various
+### I could not understand your request. Please try again.
+PC04C_HIT_MACHINE1-1=Не вдалося зрозуміти ваш запит. Будь ласка, спробуйте ще раз.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! It works!
+PC04C_BUY_WORKS-1=Гей! Працює!
+
+
+#----------------------------------------------------
+# Brok
+### Ahh...
+PC04C_BUY_CAPSULE-1=А-а...
+
+
+# Brok
+### I feel... very sleepy.
+PC04C_BUY_CAPSULE-2=Я почуваюся... дуже сонним.
+
+
+# Brok
+### ...
+PC04C_BUY_CAPSULE-3=...
+
+
+# Brok
+### Too... sleepy...
+PC04C_BUY_CAPSULE-4=Надто... сонний...
+
+
+#----------------------------------------------------
+# Brok
+### Urgh... Weird taste.
+PC04C_BUY_POWDER-1=Пхе... Дивний смак.
+
+
+# Brok
+### Did it work?
+PC04C_BUY_POWDER-2=Спрацювало?
+
+
+# Brok
+### I... don't feel hunger.
+PC04C_BUY_POWDER-3=Я... не відчуваю голоду.
+
+
+# Brok
+### Not... at all...
+PC04C_BUY_POWDER-4=Взагалі... ні краплі...
+
+
+# Brok
+### Oh boy! What have I done?!
+PC04C_BUY_POWDER-5=Ой леле! Що ж я накоїв?!
+
+
+# Brok
+### I can't eat anything now!
+PC04C_BUY_POWDER-6=Тепер я взагалі нічого не можу їсти!
+
+
+#----------------------------------------------------
+# Brok
+### Huh?...
+PC04C_BUY_HAIR-1=Га...?
+
+
+# Brok
+### Cool! I have hair now!
+PC04C_BUY_HAIR-2=Круто! У мене тепер є волосся!
+
+
+#----------------------------------------------------
+# Brok
+### Wait... what?
+PC04C_BUY_HAIR2-1=Чекайте... що?
+
+
+# Brok
+### Oh great. Twice as much fur blocking the shower drains now!
+PC04C_BUY_HAIR2-2=Ну чудово. Тепер у зливі душу буде вдвічі більше шерсті!
+
+
+#----------------------------------------------------
+# Brok
+### Nice!
+PC04C_BUY_CHOCOLATEBAR-1=Файно!
+
+
+#----------------------------------------------------
+

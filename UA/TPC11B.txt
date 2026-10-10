@@ -1,0 +1,298 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Tribot (Unknown)
+#     Tribot - Brok (Unknown)
+
+#-------------------------------
+#=LIA APARTMENT NIGHTMARE (LOUNGE)
+#-------------------------------
+
+#----- Interactions --------
+### Entrance
+PC_ENTRANCE=Вхід
+
+### Door
+PC_DOOR=Двері
+
+### Toilets
+PC_TOILETS=Туалети
+
+### Bedroom
+PC_BEDROOM=Спальня
+
+
+#----- Help --------
+### Click <spr=CONTROL_mouseleft> or <button=INPUT_ACTION_HIT> to attack. Hold <button=INPUT_ACTION_GUARD> to defend.
+TUTORIAL_FIGHT_MSG_MOUSE=Натисніть <spr=CONTROL_mouseleft> або <button=INPUT_ACTION_HIT>, щоб атакувати. Утримуйте <button=INPUT_ACTION_GUARD>, щоб захищатися.
+
+### Press <button=INPUT_ACTION_HIT> to attack. Hold <button=INPUT_ACTION_GUARD> to defend.
+TUTORIAL_FIGHT_MSG_GAMEPAD=Натисніть <button=INPUT_ACTION_HIT>, щоб атакувати. Утримуйте <button=INPUT_ACTION_GUARD>, щоб захищатися.
+
+
+#----- Dialog --------
+
+# ----- Dialog --------
+### Turn on the two robots
+TUTORIAL_TURNON_BOTS=Увімкніть двох роботів
+
+### Look around the room
+TUTORIAL_LOOKAROUND=Огляньте кімнату
+
+### Enter the bedroom (right door)
+TUTORIAL_GOBEDROOM=Увійдіть до спальні (двері праворуч)
+
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions
+### I can't access it...
+PC11B_DOORTOILETS1-1=Я не можу дістатися туди...
+
+
+# Brok - Toilets door
+### Hopefully I can hold on a little longer.
+PC11B_DOORTOILETS1-2=Сподіваюся, я ще трохи потерплю.
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC11B_DOORBEDROOM1-1=Зачинено...
+
+
+# Brok
+### And in perfect shape. I don't think I can break that one.
+PC11B_DOORBEDROOM1-2=І в ідеальному стані. Не думаю, що зможу їх зламати.
+
+
+#----------------------------------------------------
+# Brok
+### Nope... It won't budge.
+PC11B_DOORBEDROOM2-1=Ні... Двері не піддаються.
+
+
+# Brok
+### I'm pretty sure it's network controlled. There's no external access.
+PC11B_DOORBEDROOM2-2=Майже впевнений, що вони керуються мережею. Зовнішнього доступу немає.
+
+
+# Brok
+### I've always been against all those security systems.
+PC11B_DOORBEDROOM2-3=Я завжди був проти всіх цих систем безпеки.
+
+
+# Brok
+### "100% safe!" (Until you get stuck inside with a fire.)
+PC11B_DOORBEDROOM2-4="100% безпечно!" (Поки не застрягнеш усередині під час пожежі.)
+
+
+#----------------------------------------------------
+# Brok
+### No point going back there...
+PC11B_GOBACK-1=Немає сенсу повертатися туди...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### If I'm not mistaken... This is a Meety-Me.
+PC11B_CENTERDEVICE1-1=Якщо я не помиляюся... Це Голограф.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### A multimedia holographic device to watch all your favorite programs and livies for hours in the comfort of your home!
+PC11B_CENTERDEVICE1-2=Мультимедійний голографічний пристрій, щоб годинами дивитися всі ваші улюблені програми та серіали у затишку власного дому!
+
+
+#----------------------------------------------------
+# Brok
+### Obviously, it won't work.
+PC11B_CENTERDEVICE1B-1=Очевидно, він не працює.
+
+
+#----------------------------------------------------
+# Brok
+### All your entertainment right at hand!
+PC11B_CENTERDEVICE2-1=Усі ваші розваги просто під рукою!
+
+
+# Brok
+### When it works.
+PC11B_CENTERDEVICE2-2=Коли він працює.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Looks like a multi-tasks Tribot.
+PC11B_ROBOT1-1=Схоже на багатофункціонального Трибота.
+
+
+# Brok
+### Let's switch it on.
+PC11B_ROBOT1-2=Увімкнімо його.
+
+
+#----------------------------------------------------
+# Brok
+### Nothing. Is it out of juice?
+PC11B_ROBOT1B-1=Ніякої реакції. Розрядився?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Another Tribot.
+PC11B_ROBOT2-1=Ще один Трибот.
+
+
+#----------------------------------------------------
+# Brok
+### No good. Are they broken?
+PC11B_ROBOT2B-1=Нічого не виходить. Вони зламані?
+
+
+# Brok
+### I always knew these were unreliable junk.
+PC11B_ROBOT2B-2=Я завжди знав, що це ненадійний мотлох.
+
+
+# Brok
+### Too bad. They could have helped putting out the fire.
+PC11B_ROBOT2B-3=Шкода. Вони могли б допомогти загасити пожежу.
+
+
+#----------------------------------------------------
+# Tribot - The robot wakes up
+### Welcome.
+PC11B_ROBOT_WAKEUP1-1=Вітаємо.
+
+
+# Brok - Brok is taken by surprise by the robot suddenly waking up
+### Yikes!
+PC11B_ROBOT_WAKEUP1-2=Йой!
+
+
+# Tribot
+### Unidentified user. Please provide name and function.
+PC11B_ROBOT_WAKEUP1-3=Нерозпізнаний користувач. Будь ласка, вкажіть ім'я та функцію.
+
+
+# Brok
+### My name? It's...
+PC11B_ROBOT_WAKEUP1-4=Моє ім'я? Я...
+
+
+# Tribot
+### Alert level 5. Burglary in progress.
+PC11B_ROBOT_WAKEUP1-5=Рівень тривоги 5. Проникнення зі зломом.
+
+
+# Brok
+### What the...?
+PC11B_ROBOT_WAKEUP1-6=Що за...?
+
+
+# Tribot
+### Please remain still until agents arrive to arrest you.
+PC11B_ROBOT_WAKEUP1-7=Будь ласка, залишайтеся нерухомими до прибуття агентів для вашого затримання.
+
+
+# Brok
+### I'm no thief, triangle-head!
+PC11B_ROBOT_WAKEUP1-8=Я не крадій, трикутноголовий!
+
+
+# Brok
+### And don't you have more urgent business to take care of?
+PC11B_ROBOT_WAKEUP1-9=І хіба в тебе немає важливіших справ?
+
+
+# Brok
+### Like... The fire?!
+PC11B_ROBOT_WAKEUP1-10=Наприклад... Пожежа?!
+
+
+# Tribot
+### Inappropriate attitude detected.
+PC11B_ROBOT_WAKEUP1-11=Виявлено неналежну поведінку.
+
+
+# Tribot
+### Request for applicable disposition. Database search in progress...
+PC11B_ROBOT_WAKEUP1-12=Запит щодо відповідного рішення. Триває пошук у базі даних...
+
+
+# Tribot
+### Network unreachable. Closest range of action in local data is...
+PC11B_ROBOT_WAKEUP1-13=Мережа недоступна. Згідно з локальними даними, найкраща відповідна дія...
+
+
+# Tribot
+### Neutralize the individual at all costs.
+PC11B_ROBOT_WAKEUP1-14=Знешкодити особу за будь-яку ціну.
+
+
+# Brok
+### That tin can is crazy! No point trying to reason with these things!
+PC11B_ROBOT_WAKEUP1-15=Ця бляшанка збожеволіла! Марно з ними домовлятися!
+
+
+# Tribot
+### Please don't interrupt the destruction process.
+PC11B_ROBOT_WAKEUP1-16=Будь ласка, не переривайте процес знищення.
+
+
+# Brok
+### Here it comes!
+PC11B_ROBOT_WAKEUP1-17=Почалося!
+
+
+#----------------------------------------------------
+# Brok - Robot "dead"
+### Phew...
+PC11B_ROBOT_DEAD1-1=Фух...
+
+
+# Brok
+### I'm glad this was the only mad robot here.
+PC11B_ROBOT_DEAD1-2=Радий, що це був єдиний скажений робот тут.
+
+
+#----------------------------------------------------
+# Brok
+### Whoops!
+PC11B_ROBOT_DEAD2-1=Ой-ой!
+
+
+#----------------------------------------------------
+# Brok
+### Ah... Looks like this was the last one.
+PC11B_ROBOT_DEAD3-1=А... Схоже, це був останній.
+
+
+# Brok
+### ...Hey! A door just unlocked!
+PC11B_ROBOT_DEAD3-2=...Гей! Двері щойно відімкнулися!
+
+
+#----------------------------------------------------
+# Brok
+### It's not active... and burning.
+PC11B_ROBOTFAR1-1=Він неактивний... і горить.
+
+
+# Brok
+### I shouldn't worry. Those things are fireproof.
+PC11B_ROBOTFAR1-2=Не варто хвилюватися. Ці штуки вогнестійкі.
+
+
+#----------------------------------------------------
+

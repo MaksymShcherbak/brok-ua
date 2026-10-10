@@ -1,0 +1,3397 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Guard (Unknown)
+#     Brok - Mink (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Tidy (Unknown)
+#     Brok - Unknown (Unknown)
+#     Guard - Brok (Unknown)
+#     Guard - Mink (Unknown)
+#     Guard - Ott (Unknown)
+#     Guard - Tidy (Unknown)
+#     Mink - Brok (Unknown)
+#     Mink - Guard (Unknown)
+#     Mink - Tidy (Unknown)
+#     Mink - Unknown (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Guard (Unknown)
+#     Tidy - Brok (Unknown)
+#     Tidy - Guard (Unknown)
+#     Tidy - Mink (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Mink (Unknown)
+
+#-------------------------------
+#=LAB HALL
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush's room
+PC_DRHUSHROOM=Кімната д-ра Гаша
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink's room
+PC_DRMINKROOM=Кімната д-ра Мінка
+
+### Restroom
+PC_RESTROOM=Вбиральня
+
+### Door monitoring device
+PC_MONITORING=Пристрій для моніторингу
+
+### Left room
+PC_LEFTROOM=Ліва кімната
+
+### Middle room
+PC_MIDDLEROOM=Середня кімната
+
+### Right room
+PC_RIGHTROOM=Права кімната
+
+### Bottom room
+PC_BOTTOMROOM=Нижня кімната
+
+### Flowers
+PC_FLOWERS=Квіти
+
+
+
+#----- Choices / Items --------
+### A flower!
+GOT_LABFLOWER=Квітка!
+
+### Fake identity
+PC15B_FAKE=Збрехати
+
+### Tell the truth
+PC15B_TRUTH=Сказати правду
+
+### Soft threat
+PC15B_THREATEN_LIGHT=Легка погроза
+
+### Hard threat
+PC15B_THREATEN_HARD=Жорстка погроза
+
+
+#----- Topics --------
+### The situation
+TOPIC_SITUATION=Ситуація
+
+### The lab
+TOPIC_PLACE=Лабораторія
+
+### The lie
+TOPIC_LIE=Брехня
+
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### What's the guard lying about?
+INTERROGATION_GUARD=Про що бреше охоронець?
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Why wasn't the guard worried?
+INTERROGATION_GUARDWORRIED=Чому охоронець не хвилювався?
+
+### Promise to keep the secret?
+PC15B_GUARD_AWAY_CHOICE=Пообіцяти зберегти секрет?
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Room interactions
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### A Pipe-Mail...
+PC15B_PIPEMAIL1-1=Поштомат...
+
+
+# Brok
+### In the middle of the hall?
+PC15B_PIPEMAIL1-2=Посеред коридору?
+
+
+# Guard
+### Those guys receive shipments all the time.
+PC15B_PIPEMAIL1-3=Ці хлопці постійно отримують посилки.
+
+
+# Guard
+### Mostly ink for their material printers but also their junk food. It's very practical.
+PC15B_PIPEMAIL1-4=Переважно чорнило для їхніх принтерів матеріалів, але й фастфуд теж. Це дуже практично.
+
+
+# Brok
+### Can't see anything special about it but...
+PC15B_PIPEMAIL1-5=Нічого особливого тут не бачу, але...
+
+
+# Brok
+### It's shut. Any way to open it?
+PC15B_PIPEMAIL1-6=Він зачинений. Його якось можна відкрити?
+
+
+# Guard
+### Nah. It's totally automatized.
+PC15B_PIPEMAIL1-7=Та ні. Він повністю автоматизований.
+
+
+# Guard
+### And only goes one way.
+PC15B_PIPEMAIL1-8=І працює лише в один бік.
+
+
+# Guard
+### The only thing those scientists produce is information. They never need to send anything physically.
+PC15B_PIPEMAIL1-9=Єдине, що виробляють ці науковці - це інформація. Їм нічого не потрібно надсилати фізично.
+
+
+# Brok
+### Makes sense...
+PC15B_PIPEMAIL1-10=Логічно...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### A pipe-mail... which only goes one way.
+PC15B_PIPEMAIL2-1=Поштомат... який працює лише в один бік.
+
+
+# Guard
+### Exactly.
+PC15B_PIPEMAIL2-2=Саме так.
+
+
+#----------------------------------------------------
+# Brok
+### The recipient for the pipe.
+PC15B_BOX1-1=Сюди приходять усі посилки.
+
+
+# Brok
+### As empty as my willingness to examine it.
+PC15B_BOX1-2=Тут порожньо, і в мене немає бажання далі тут порпатися.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### An energy drink?!
+PC15B_BOX_PICKUP-1=Енергетичний напій?!
+
+
+# Brok
+### You gotta be kidding me...
+PC15B_BOX_PICKUP-2=Ви, мабуть, знущаєтесь...
+
+
+#----------------------------------------------------
+# Brok
+### Wait. I thought communication was out?
+PC15B_BOX_PICKUP2-1=Стривайте. Я думав, зв'язок відключений?
+
+
+# Guard
+### Hey buddy! You pressed the emergency button, didn't ya?
+PC15B_BOX_PICKUP2-2=Гей, друже! Ти ж натиснув кнопку екстреного виклику, еге ж?
+
+
+# Guard
+### Emergency calls are never cut off.
+PC15B_BOX_PICKUP2-3=Екстрені виклики працюють завжди.
+
+
+# Brok
+### Good! I'm always thirsty.
+PC15B_BOX_PICKUP2-4=Добре! Я завжди хочу пити.
+
+
+#----------------------------------------------------
+# Brok
+### An ad?
+PC15B_BOX_AD-1=Реклама?
+
+
+# Brok
+### And here I thought it couldn't be worse than the first time...
+PC15B_BOX_AD-2=А я й думав, що гірше, ніж минулого разу, вже бути не може...
+
+
+#----------------------------------------------------
+# Brok
+### Nada.
+PC15B_BOX_NADA-1=Ніц немає.
+
+
+# Brok
+### Guess their stock of emergency rations is out.
+PC15B_BOX_NADA-2=Мабуть, їхні екстрені продовольчі запаси закінчилися.
+
+
+#----------------------------------------------------
+# Brok
+### Nice flowers!
+PC15B_FLOWERS1-1=Гарні квіти!
+
+
+# Brok
+### These make me feel nostalgic for some reason.
+PC15B_FLOWERS1-2=Чомусь вони викликають у мене ностальгію.
+
+
+#----------------------------------------------------
+# Brok
+### (Smells) Nice scent!
+PC15B_FLOWERS_AFTER1-1=(Нюхає) Приємний аромат!
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### That will be 10 Unis.
+PC15B_FLOWERS_AFTER1-2=З тебе 10 Юні.
+
+
+# Brok
+### What?...
+PC15B_FLOWERS_AFTER1-3=Що...?
+
+
+# Guard
+### Just kidding. But next time, avoid crippling my precious plant right in front of me.
+PC15B_FLOWERS_AFTER1-4=Жартую. Але наступного разу спробуй не калічити мою дорогоцінну рослину просто в мене на очах.
+
+
+# Brok
+### If it's that precious, I'm gonna keep it.
+PC15B_FLOWERS_AFTER1-5=Якщо вона така дорогоцінна, я її залишу собі.
+
+
+#----------------------------------------------------
+# Brok
+### Any idea what type of plant this is?
+PC15B_FLOWERS_AFTER2-1=Ти не в курсі, що це за рослина?
+
+
+# Guard
+### The heck if I know!
+PC15B_FLOWERS_AFTER2-2=Та дідько його знає!
+
+
+# Guard
+### It's just beautiful and perfumed. Good enough for me.
+PC15B_FLOWERS_AFTER2-3=Вона просто гарна і пахуча. Мені цього достатньо.
+
+
+# Brok
+### Yeah, I'm usually the same...except when I need to investigate.
+PC15B_FLOWERS_AFTER2-4=Ага, я зазвичай теж такий... окрім випадків, коли треба проводити розслідування.
+
+
+#----------------------------------------------------
+# Guard - Arriving in the lab for the first time - Here the guard is addressing both Ott and Brok
+### Who are you?
+PC15B_FIRST_DIALOG1-1=Ви хто такі?
+
+
+#----------------------------------------------------
+# Brok
+### We're here to investigate.
+PC15B_FIRST_DIALOG2-1=Ми тут заради розслідування.
+
+
+# Guard
+### No kiddin', man!
+PC15B_FIRST_DIALOG2-2=Та ти що, чуваче!
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief of police said he'd send his best investigators.
+PC15B_FIRST_DIALOG2-3=Шеф поліції казав, що надішле своїх найкращих детективів.
+
+
+# Guard
+### I didn't expect to see a darn croc and an ugly boy. Ha ha!
+PC15B_FIRST_DIALOG2-4=Я не очікував побачити клятого крока й потворного хлопчину. Ха-ха!
+
+
+# Brok
+### Watch your tongue. We're here to help.
+PC15B_FIRST_DIALOG2-5=Стеж за язиком. Ми тут, щоб допомогти.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes sent us. You can call him to check.
+PC15B_FIRST_DIALOG2-6=Нас надіслав дядько Вес. Можеш зателефонувати йому й перевірити.
+
+
+# Guard
+### No point. I know the old weasel, I shouldn't be surprised.
+PC15B_FIRST_DIALOG2-7=Немає сенсу. Я знаю цю стару ласицю, і мені не слід дивуватися.
+
+
+# Brok
+### No time to waste. Fill us in on the situation.
+PC15B_FIRST_DIALOG2-8=Не будемо гаяти час. Введи нас у курс справи.
+
+
+# Guard
+### Yeah, I should have guessed he wouldn't take time for that either.
+PC15B_FIRST_DIALOG2-9=Ага, я мав би здогадатися, що на це він теж часу витрачати не буде.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### (A Squealer.)
+PC15B_GUARD_THINK1-1=(Верескун.)
+
+
+# Brok
+### (Given my recent experience I'm not used to trusting those guys. Is he any different?)
+PC15B_GUARD_THINK1-2=(З огляду на мій нещодавній досвід, я не звик довіряти цим хлопцям. Чи відрізняється він від інших?)
+
+
+#----------------------------------------------------
+# Brok
+### (Not yet.)
+PC15B_GUARD_NOTYET-1=(Ще ні.)
+
+
+#----------------------------------------------------
+# Guard
+### One of the two engineers living here has disappeared.
+PC15B_GUARD_SITUATION1-1=Один із двох інженерів, які тут живуть, зник.
+
+
+# Brok
+### Living? Aren't they supposed to work here?
+PC15B_GUARD_SITUATION1-2=Живуть? Хіба вони не працюють тут?
+
+
+# Guard
+### Same. They never leave the place.
+PC15B_GUARD_SITUATION1-3=Одне й те саме. Вони ніколи звідси не виходять.
+
+
+# Brok
+### What makes you think the situation is serious?
+PC15B_GUARD_SITUATION1-4=Чому ти вирішив, що ситуація серйозна?
+
+
+# Guard
+### I do regular room checks.
+PC15B_GUARD_SITUATION1-5=Я регулярно перевіряю кімнати.
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### During my last one, I just couldn't find Dr. Hush.
+PC15B_GUARD_SITUATION1-6=Під час останньої перевірки я просто не зміг знайти доктора Гаша.
+
+
+# Brok
+### Couldn't he just be hiding somewhere?
+PC15B_GUARD_SITUATION1-7=Може, він просто десь ховається?
+
+
+# Guard
+### Man, don't take me for an amateur. I've looked all over the place!
+PC15B_GUARD_SITUATION1-8=Чуваче, не тримай мене за аматора. Я обшукав усе кругом!
+
+
+# Guard
+### Besides, the guy's medical device has stopped indicating any vitals for hours.
+PC15B_GUARD_SITUATION1-9=До того ж, його медичний пристрій вже кілька годин не показує жодних життєвих показників.
+
+
+# Brok
+### Maybe he arranged his escape and left while you didn't look?
+PC15B_GUARD_SITUATION1-10=Може, він підготував втечу й пішов, поки ти не дивився?
+
+
+# Guard
+### Impossible. As you've seen, lasers block the entrance constantly.
+PC15B_GUARD_SITUATION1-11=Неможливо. Як ти бачив, вхід постійно заблокований лазерами.
+
+
+# Guard
+### Even the engineers aren't allowed to leave without permission, which is by request to us agents.
+PC15B_GUARD_SITUATION1-12=Навіть інженерам заборонено виходити без дозволу, який вони мають запитувати в нас, агентів.
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Well, Dr. Hush didn't make any such request.
+PC15B_GUARD_SITUATION1-13=Ну, доктор Гаш жодних подібних запитів не робив.
+
+
+# Ott
+### That place sounds like prison.
+PC15B_GUARD_SITUATION1-14=Це місце звучить наче в'язниця.
+
+
+# Brok
+### Nah. I know those intellectual types.
+PC15B_GUARD_SITUATION1-15=Та ні. Я знаю цих інтелектуалів.
+
+
+# Brok
+### They don't mind dedicating their whole life to working on their crazy projects.
+PC15B_GUARD_SITUATION1-16=Їм не шкода присвятити все життя роботі над своїми божевільними проєктами.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Shay is a good example of that)
+PC15B_GUARD_SITUATION1-17=(Шей - чудовий приклад цього)
+
+
+# Brok
+### I'm pretty sure they asked for it.
+PC15B_GUARD_SITUATION1-18=Я цілком певен, що вони самі цього хотіли.
+
+
+# Guard
+### The croc is correct. They said to me once that, "studies have proven this way of living enhances creativity".
+PC15B_GUARD_SITUATION1-19=Крок має рацію. Якось вони сказали мені, що "дослідження довели, що такий спосіб життя підвищує креативність".
+
+
+# Guard
+### To me that's just an excuse to do whatever they want, but... the heck do I know?
+PC15B_GUARD_SITUATION1-20=Як на мене, це просто виправдання, щоб робити все, що заманеться, але... що я там знаю?
+
+
+# Guard
+### The barriers are for their own protection from outside threats.
+PC15B_GUARD_SITUATION1-21=Бар'єри створені для їхнього ж захисту від зовнішніх загроз.
+
+
+# Ott
+### Yeah. Totally not paranoid.
+PC15B_GUARD_SITUATION1-22=Ага. Зовсім не параноя.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You should know, that fits the description of most Drumers.
+PC15B_GUARD_SITUATION1-23=Ти маєш знати, це підходить під опис більшості мешканців Верхів.
+
+
+# Brok
+### Can't blame them with all those drones roaming outside. But they created this situation themselves.
+PC15B_GUARD_SITUATION1-24=Їх важко звинувачувати, зважаючи на всіх цих дронів зовні. Але цю ситуацію вони створили самі.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Are you the only guard in this place?
+PC15B_GUARD_SITUATION2-1=Ти тут єдиний охоронець?
+
+
+# Guard
+### I prefer the term "security agent".
+PC15B_GUARD_SITUATION2-2=Я віддаю перевагу терміну "агент служби безпеки".
+
+
+# Brok
+### Whatever. Answer the question!
+PC15B_GUARD_SITUATION2-3=Неважливо. Відповідай на запитання!
+
+
+# Guard
+### Fortunately not! I couldn't stand being here all day.
+PC15B_GUARD_SITUATION2-4=На щастя, ні! Я б не витерпів бути тут увесь день.
+
+
+# Guard
+### But there's only one of us at a time.
+PC15B_GUARD_SITUATION2-5=Але одночасно тут перебуває лише один із нас.
+
+
+# Guard
+### The scientist was there when I arrived this morning. He disappeared during my shift.
+PC15B_GUARD_SITUATION2-6=Науковець був на місці, коли я прийшов сюди сьогодні вранці. Він зник під час моєї зміни.
+
+
+# Brok
+### Has this situation happened before?
+PC15B_GUARD_SITUATION2-7=Таке вже траплялося раніше?
+
+
+# Guard
+### Don't think so.
+PC15B_GUARD_SITUATION2-8=Не думаю.
+
+
+# Guard
+### I mean, those scientists may be crazy over the edge, they're locked up in here so that limits the possibilities.
+PC15B_GUARD_SITUATION2-9=Тобто, ці науковці можуть бути вкрай божевільними, але вони тут зачинені, тож це обмежує їхні можливості.
+
+
+#----------------------------------------------------
+# Brok - Interrogating the guard
+### A mystery can only be solved by gathering truthful information.
+PC15B_GUARD_LIE1-1=Таємницю можна розкрити, лише зібравши правдиву інформацію.
+
+
+# Brok
+### Don't you agree?
+PC15B_GUARD_LIE1-2=Згоден?
+
+
+# Guard
+### Sure!
+PC15B_GUARD_LIE1-3=Авжеж!
+
+
+# Brok
+### Then why are you lying to me?
+PC15B_GUARD_LIE1-4=Тоді чому ти мені брешеш?
+
+
+# Guard
+### What are you talking about?
+PC15B_GUARD_LIE1-5=Про що ти взагалі?
+
+
+# Brok
+### Don't play fool with me.
+PC15B_GUARD_LIE1-6=Не прикидайся дурнем.
+
+
+# Brok
+### Some of your statements are clearly contradictory.
+PC15B_GUARD_LIE1-7=Деякі твої твердження відверто суперечать одне одному.
+
+
+# Guard
+### Oh yeah?
+PC15B_GUARD_LIE1-8=Та невже?
+
+
+#----------------------------------------------------
+# Brok
+### Let's resume our interrogation!
+PC15B_GUARD_LIE2-1=Нумо продовжимо наш допит!
+
+
+# Guard
+### Argh...
+PC15B_GUARD_LIE2-2=Ар-р...
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Let me reconsider my point of view.
+PC15B_GUARD_INTERROGATION_EXIT1-1=Е-е... Дозволь мені переглянути свою позицію.
+
+
+# Guard
+### Now who's lying?
+PC15B_GUARD_INTERROGATION_EXIT1-2=І хто тепер бреше?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Do you believe Dr. Mink has the profile of a murderer?
+PC15B_GUARD_SITUATION_AFTER1-1=Як гадаєш, чи схожий доктор Мінк на вбивцю?
+
+
+# Guard
+### Hmm...
+PC15B_GUARD_SITUATION_AFTER1-2=Гмм...
+
+
+# Guard
+### Possibly. I could feel the tension between them lately.
+PC15B_GUARD_SITUATION_AFTER1-3=Можливо. Останнім часом я відчував напругу між ними.
+
+
+# Guard
+### In any case, I don't know what happened.
+PC15B_GUARD_SITUATION_AFTER1-4=У будь-якому разі, я не знаю, що сталося.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### When Ott claimed you'd have noticed if Dr. Hush had stayed in the hall...
+PC15B_GUARD_SITUATION_AFTER1-5=Коли Отт стверджував, що ти б помітив, якби доктор Гаш залишився в коридорі...
+
+
+# Brok
+### You hesitated.
+PC15B_GUARD_SITUATION_AFTER1-6=Ти завагався.
+
+
+# Guard
+### ...
+PC15B_GUARD_SITUATION_AFTER1-7=...
+
+
+# Brok
+### You didn't watch the whole thing, did ya?
+PC15B_GUARD_SITUATION_AFTER1-8=Ти ж дивився не весь час, еге ж?
+
+
+# Guard
+### No way, man! I'm a professional!
+PC15B_GUARD_SITUATION_AFTER1-9=У жодному разі, чуваче! Я професіонал!
+
+
+# Brok
+### But still a human. Don't you have to go to the bathroom sometimes?
+PC15B_GUARD_SITUATION_AFTER1-10=Але все одно людина. Хіба тобі не треба інколи ходити в туалет?
+
+
+# Guard
+### I don't. Only the most capable are selected for this job.
+PC15B_GUARD_SITUATION_AFTER1-11=Мені не треба. Для цієї роботи відбирають лише найздібніших.
+
+
+# Guard
+### We can't afford to miss anything!
+PC15B_GUARD_SITUATION_AFTER1-12=Ми не можемо дозволити собі щось пропустити!
+
+
+# Brok
+### Hmm...
+PC15B_GUARD_SITUATION_AFTER1-13=Гмм...
+
+
+# Brok
+### Can you swear it, then?
+PC15B_GUARD_SITUATION_AFTER1-14=Можеш тоді заприсягтися?
+
+
+# Brok
+### No one could have went by without you noticing?
+PC15B_GUARD_SITUATION_AFTER1-15=Ніхто не міг пройти повз, щоб ти не помітив?
+
+
+# Guard
+### ...Yeah!
+PC15B_GUARD_SITUATION_AFTER1-16=...Так!
+
+
+# Guard
+### Yeah, I swear it! I was there the whole time... watching.
+PC15B_GUARD_SITUATION_AFTER1-17=Так, клянуся! Я був там увесь час... спостерігав.
+
+
+# Brok
+### (He doesn't sound all that confident.)
+PC15B_GUARD_SITUATION_AFTER1-18=(Голос у нього не надто впевнений.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Listen. Earlier you affirmed Dr. Hush exited his office for the restroom.
+PC15B_GUARD_SITUATION_AFTER2-1=Послухай. Раніше ти стверджував, що доктор Гаш вийшов зі свого кабінету у вбиральню.
+
+
+# Brok
+### When did this happen exactly?
+PC15B_GUARD_SITUATION_AFTER2-2=Коли саме це сталося?
+
+
+# Guard
+### Hmm...
+PC15B_GUARD_SITUATION_AFTER2-3=Гмм...
+
+
+# Guard
+### Can't remember.
+PC15B_GUARD_SITUATION_AFTER2-4=Не пам'ятаю.
+
+
+# Guard
+### Some time after I arrived.
+PC15B_GUARD_SITUATION_AFTER2-5=Через якийсь час після того, як я прийшов.
+
+
+# Brok
+### This is crucial! I need you to be precise!
+PC15B_GUARD_SITUATION_AFTER2-6=Це дуже важливо! Мені потрібна точність!
+
+
+# Guard
+### Hey! Do you know what kind of job this is?
+PC15B_GUARD_SITUATION_AFTER2-7=Гей! Ти знаєш, яка це робота?
+
+
+# Guard
+### The same boring thing every day.
+PC15B_GUARD_SITUATION_AFTER2-8=Щодня одна і та сама нудьга.
+
+
+# Guard
+### No surprise, no action, nothing ever happens! Well, usually.
+PC15B_GUARD_SITUATION_AFTER2-9=Ніяких сюрпризів, ніяких бійок, нічого не відбувається! Ну, зазвичай.
+
+
+# Brok
+### How lucky.
+PC15B_GUARD_SITUATION_AFTER2-10=Оце пощастило.
+
+
+# Guard
+### Uh?
+PC15B_GUARD_SITUATION_AFTER2-11=Га?
+
+
+# Brok
+### Never mind. Make some effort!
+PC15B_GUARD_SITUATION_AFTER2-12=Неважливо. Доклади трохи зусиль!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### What happened the last time Dr. Hush exited his room?
+PC15B_GUARD_SITUATION_AFTER2-13=Скажи, що сталося востаннє, коли доктор Гаш виходив зі своєї кімнати?
+
+
+# Brok
+### When and where did he go?!
+PC15B_GUARD_SITUATION_AFTER2-14=Коли і куди він пішов?!
+
+
+# Guard
+### Told ya!... My brain wouldn't register such trivial things!
+PC15B_GUARD_SITUATION_AFTER2-15=Я ж казав...! Мій мозок не став би фіксувати такі дрібниці!
+
+
+# Guard
+### But... There's a way to find out.
+PC15B_GUARD_SITUATION_AFTER2-16=Але... Є спосіб це дізнатися.
+
+
+#----------------------------------------------------
+# Brok
+### What's this?
+PC15B_GUARD_DRHUSH_AFTER2B-1=Що це?
+
+
+# Guard
+### The door monitoring.
+PC15B_GUARD_DRHUSH_AFTER2B-2=Моніторинг дверей.
+
+
+# Brok
+### What?... You keep a registry of door openings?
+PC15B_GUARD_DRHUSH_AFTER2B-3=Що...? Ти ведеш журнал відкривання дверей?
+
+
+# Brok
+### And you're only telling me now?!
+PC15B_GUARD_DRHUSH_AFTER2B-4=І ти кажеш мені про це тільки зараз?!
+
+
+# Guard
+### I... thought this wouldn't be important...
+PC15B_GUARD_DRHUSH_AFTER2B-5=Я... думав, що це неважливо...
+
+
+# Brok
+### Not important?!
+PC15B_GUARD_DRHUSH_AFTER2B-6=Неважливо?!
+
+
+# Brok
+### How the heck are we supposed to run this investigation without all the information at hand?!
+PC15B_GUARD_DRHUSH_AFTER2B-7=Як, чорт забирай, вести це розслідування, якщо ми не маємо під рукою всієї інформації?!
+
+
+# Guard
+### Hey, lower your tone!
+PC15B_GUARD_DRHUSH_AFTER2B-8=Гей, тихіше!
+
+
+# Guard
+### I'm the boss here. This is highly confidential data.
+PC15B_GUARD_DRHUSH_AFTER2B-9=Я тут головний. Це суворо конфіденційні дані.
+
+
+# Guard
+### Only security agents are allowed to access the reading device, but I'll make a special exception.
+PC15B_GUARD_DRHUSH_AFTER2B-10=Доступ до зчитувального пристрою дозволено лише агентам, але я зроблю виняток.
+
+
+# Guard
+### Check it.
+PC15B_GUARD_DRHUSH_AFTER2B-11=Перевіряй.
+
+
+#----------------------------------------------------
+# Guard
+### Check the door monitoring. This should help your investigation.
+PC15B_GUARD_SITUATION_AFTER3-1=Перевір моніторинг дверей. Це має допомогти твоєму розслідуванню.
+
+
+#----------------------------------------------------
+# Brok
+### Anything you can tell me on that missing engineer... Doctor Hush?
+PC15B_GUARD_DRHUSH1-1=Можеш щось розповісти про того зниклого інженера... доктора Гаша?
+
+
+# Guard
+### Just your average scientist in his 40's.
+PC15B_GUARD_DRHUSH1-2=Звичайнісінький учений за 40.
+
+
+# Guard
+### Pretty sure his only family and friends are his bot prototypes.
+PC15B_GUARD_DRHUSH1-3=Майже впевнений, що його єдина родина й друзі - це прототипи його ботів.
+
+
+# Brok
+### Bots? He's making them?
+PC15B_GUARD_DRHUSH1-4=Ботів? Він їх створює?
+
+
+# Guard
+### Not exactly. He's specialized in AI programming.
+PC15B_GUARD_DRHUSH1-5=Не зовсім. Він спеціалізується на програмуванні ШІ.
+
+
+# Guard
+### He occupies the room on the left.
+PC15B_GUARD_DRHUSH1-6=Він займає кімнату ліворуч.
+
+
+# Brok
+### When was the last time he was seen?
+PC15B_GUARD_DRHUSH1-7=Коли його востаннє бачили?
+
+
+# Guard - IMPORTANT : adapt the hours displayed to what feels best for the language. ALL the hours indicated during this investigation take place during morning (this was done in order to simplify, no AM/PM issues)
+### I arrived this morning at 3 AM.
+PC15B_GUARD_DRHUSH1-8=Я прибув сьогодні о 3-й ночі.
+
+
+# Guard
+### When I take my shift, I always check on them. He was there.
+PC15B_GUARD_DRHUSH1-9=Заступаючи на зміну, я завжди перевіряю, як вони. Він був там.
+
+
+# Brok
+### So... You saw him? Are you certain?
+PC15B_GUARD_DRHUSH1-10=Отже... Ти бачив його? Впевнений?
+
+
+# Guard
+### Yeah. In the flesh.
+PC15B_GUARD_DRHUSH1-11=Угу. На власні очі.
+
+
+# Brok
+### Did he exit his room after that?
+PC15B_GUARD_DRHUSH1-12=Він виходив зі своєї кімнати після цього?
+
+
+# Guard
+### Yeah. I saw him go to the restroom.
+PC15B_GUARD_DRHUSH1-13=Так. Я бачив, як він пішов до вбиральні.
+
+
+# Guard
+### His medical tracking stopped at around 5 AM.
+PC15B_GUARD_DRHUSH1-14=Відстеження його стану здоров'я припинилося близько 5-ї ранку.
+
+
+# Guard
+### That thing isn't very precise so it could have been one or two hours before or after.
+PC15B_GUARD_DRHUSH1-15=Ця штука не дуже точна, тож це могло статися на годину-дві раніше чи пізніше.
+
+
+# Brok
+### What?...
+PC15B_GUARD_DRHUSH1-16=Що...?
+
+
+# Brok
+### With all the advanced technology available, you'd think this would be accurate.
+PC15B_GUARD_DRHUSH1-17=З усіма цими передовими технологіями можна було б очікувати більшої точності.
+
+
+# Guard
+### It's called living privacy.
+PC15B_GUARD_DRHUSH1-18=Це називається приватністю життя.
+
+
+# Brok
+### Even if you're dead?
+PC15B_GUARD_DRHUSH1-19=Навіть якщо ти мертвий?
+
+
+# Guard
+### I won't pretend to know your job, croc detective, but you shouldn't jump to conclusions.
+PC15B_GUARD_DRHUSH1-20=Я не вдаватиму, що знаю твою роботу, крок-детективе, але не варто робити поспішних висновків.
+
+
+# Guard
+### He better darn well be alive. I can't afford losing my job!
+PC15B_GUARD_DRHUSH1-21=Краще б йому бути живим, чорт забирай. Я не можу дозволити собі втратити роботу!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### About Dr. Hush. What else can you tell me?
+PC15B_GUARD_DRHUSH2-1=Щодо доктора Гаша. Що ще ти можеш мені розповісти?
+
+
+# Guard
+### Dunno. Ya'd better take a look at this room.
+PC15B_GUARD_DRHUSH2-2=Не знаю. Краще сам зазирни до його кімнати.
+
+
+# Guard
+### That should tell you more about the character.
+PC15B_GUARD_DRHUSH2-3=Там ти дізнаєшся більше про його особистість.
+
+
+# Brok
+### Got it.
+PC15B_GUARD_DRHUSH2-4=Зрозуміло.
+
+
+#----------------------------------------------------
+# Brok
+### You mentioned two engineers, didn't you?
+PC15B_GUARD_PLACE1-1=Ти згадував про двох інженерів, чи не так?
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Yeah. Doctor Mink is the other one.
+PC15B_GUARD_PLACE1-2=Ага. Інший - доктор Мінк.
+
+
+# Guard
+### He's working on nano bots. Kinda the "I know it all" type.
+PC15B_GUARD_PLACE1-3=Він працює над наноботами. Такий собі всезнайко.
+
+
+# Brok
+### How do they get along?
+PC15B_GUARD_PLACE1-4=Як вони ладнають між собою?
+
+
+# Guard
+### They don't.
+PC15B_GUARD_PLACE1-5=Ніяк.
+
+
+# Guard
+### They're like cats and dogs. Always bickering over stupid things.
+PC15B_GUARD_PLACE1-6=Вони як кішка з собакою. Вічно сперечаються через дурниці.
+
+
+# Guard
+### Yet they've never asked to be moved to another lab.
+PC15B_GUARD_PLACE1-7=Втім, вони ніколи не просили перевести їх до іншої лабораторії.
+
+
+# Guard
+### I guess it's just a game of rivalry.
+PC15B_GUARD_PLACE1-8=Мабуть, це просто суперництво.
+
+
+# Brok
+### Let's hope so...
+PC15B_GUARD_PLACE1-9=Будемо сподіватися...
+
+
+#----------------------------------------------------
+# Brok
+### Anyone else here?
+PC15B_GUARD_PLACE2-1=Тут є ще хтось?
+
+
+# Guard
+### Nope.
+PC15B_GUARD_PLACE2-2=Ні.
+
+
+# Guard
+### All visitors are required special permissions, and that includes drone deliveries.
+PC15B_GUARD_PLACE2-3=Усім відвідувачам потрібні спеціальні дозволи, і це стосується навіть доставки дронами.
+
+
+# Guard
+### No one entered or exited the building until your arrival.
+PC15B_GUARD_PLACE2-4=До твого прибуття ніхто не заходив до будівлі й не виходив з неї.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Why would you need deliveries if you've got a Pipe-mail in the hall?
+PC15B_GUARD_PLACE2-5=Навіщо вам доставка, якщо у вас у коридорі є Поштомат?
+
+
+# Guard
+### Some packages still can't pass through there, ya know.
+PC15B_GUARD_PLACE2-6=Деякі посилки досі не можуть пройти крізь нього, знаєш.
+
+
+# Brok
+### Could somebody use it to escape?
+PC15B_GUARD_PLACE2-7=Хтось міг скористатися ним, щоб утекти?
+
+
+# Guard
+### No way! You'd have to be cut into pieces!
+PC15B_GUARD_PLACE2-8=У жодному разі! Для цього довелося б порізати цю людину на шматки!
+
+
+# Guard
+### And that would surely leave some traces around.
+PC15B_GUARD_PLACE2-9=І це б точно залишило якісь сліди навколо.
+
+
+# Brok
+### Urgh... Right.
+PC15B_GUARD_PLACE2-10=У-ух... Точно.
+
+
+#----------------------------------------------------
+# Brok
+### Are you certain there's no escape route?
+PC15B_GUARD_PLACE3-1=Ти впевнений, що немає шляху для втечі?
+
+
+# Guard
+### Yeah. The windows are fake.
+PC15B_GUARD_PLACE3-2=Угу. Вікна фальшиві.
+
+
+# Guard
+### The labs are not connected in any way. They made sure of this when building the place.
+PC15B_GUARD_PLACE3-3=Лабораторії жодним чином не пов'язані між собою. Вони подбали про це ще під час будівництва.
+
+
+# Guard
+### The only access is the main entrance you came from.
+PC15B_GUARD_PLACE3-4=Єдиний шлях - це головний вхід, через який ти зайшов.
+
+
+# Guard
+### Never has been any other way.
+PC15B_GUARD_PLACE3-5=Інших шляхів ніколи не було.
+
+
+# Brok
+### Never say never.
+PC15B_GUARD_PLACE3-6=Ніколи не кажи "ніколи".
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Take a gamble? I'd bet a hundred Unis on this!
+PC15B_GUARD_PLACE3-7=Поб'ємося об заклад? Я б поставив сто Юні на те, що я правий!
+
+
+# Brok
+### I usually wouldn't say no, but... can't afford to take that risk right now.
+PC15B_GUARD_PLACE3-8=Зазвичай я б не відмовився, але... зараз не можу дозволити собі такий ризик.
+
+
+# Guard
+### Shame.
+PC15B_GUARD_PLACE3-9=Шкода.
+
+
+#----------------------------------------------------
+# Brok
+### I've been meaning to ask.
+PC15B_GUARD_YOURSELF1-1=Я хотів запитати.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### What's a Squealer doing here in the Drums?
+PC15B_GUARD_YOURSELF1-2=Що Верескун робить тут, на Верхах?
+
+
+# Guard
+### None of your business!
+PC15B_GUARD_YOURSELF1-3=Не твоя справа!
+
+
+# Brok
+### Just mentioning. I thought your clan had been banished from the whole country.
+PC15B_GUARD_YOURSELF1-4=Це так, до слова. Я думав, ваш клан вигнали з усієї країни.
+
+
+# Guard
+### What clan?
+PC15B_GUARD_YOURSELF1-5=Який клан?
+
+
+# Guard
+### I'm forbidden from regular jobs just because some others screwed up years ago?!
+PC15B_GUARD_YOURSELF1-6=Мені заборонено займатися звичайною роботою лише тому, що дехто накоїв дурниць багато років тому?!
+
+
+# Brok
+### Well I...
+PC15B_GUARD_YOURSELF1-7=Ну, я...
+
+
+# Guard
+### Shut up.
+PC15B_GUARD_YOURSELF1-8=Заткнися.
+
+
+# Guard
+### You know nothing.
+PC15B_GUARD_YOURSELF1-9=Ти нічого не знаєш.
+
+
+# Guard
+### I hate people like you. All focused on looks. Empty brains.
+PC15B_GUARD_YOURSELF1-10=Ненавиджу таких, як ти. Усі зосереджені на зовнішньому вигляді. А в голові порожньо.
+
+
+# Brok
+### (Seems like a touchy subject.)
+PC15B_GUARD_YOURSELF1-11=(Схоже, це болюча тема.)
+
+
+#----------------------------------------------------
+# Brok
+### (Better not insist.)
+PC15B_GUARD_YOURSELF2-1=(Краще не наполягати.)
+
+
+# Brok
+### (Is he hiding something from me, though?... I'll have to find out.)
+PC15B_GUARD_YOURSELF2-2=(Хоча... чи не приховує він чогось від мене? Треба буде з'ясувати.)
+
+
+#----------------------------------------------------
+# Brok
+### I'll take a look around.
+PC15B_GUARD_EXITFIRST1-1=Я озирнуся навколо.
+
+
+# Guard
+### Not too soon!
+PC15B_GUARD_EXITFIRST1-2=Давно пора!
+
+
+# Guard
+### You better solve this fast! I was supposed to finish my shift one hour ago.
+PC15B_GUARD_EXITFIRST1-3=Розкрий цю справу якнайшвидше! Я мав закінчити цю зміну ще годину тому.
+
+
+# Guard
+### I won't get paid for this overtime!
+PC15B_GUARD_EXITFIRST1-4=Мені ніхто не заплатить за понаднормову роботу!
+
+
+#----------------------------------------------------
+# Brok
+### Stay put.
+PC15B_GUARD_EXIT1-1=Залишайся тут.
+
+
+# Guard
+### I don't have all day, ya know!
+PC15B_GUARD_EXIT1-2=Знаєш, я не можу чекати цілий день!
+
+
+#----------------------------------------------------
+# Guard
+### Come on! Do your job!
+PC15B_GUARD_EXIT2-1=Давай! Роби свою роботу!
+
+
+# Brok
+### Whaddya think I'm doin'?
+PC15B_GUARD_EXIT2-2=А чим, по-твоєму, я займаюсь?
+
+
+# Guard
+### Dunno, and that's the problem.
+PC15B_GUARD_EXIT2-3=Не знаю, і в цьому проблема.
+
+
+#----------------------------------------------------
+# Brok
+### Got more questions.
+PC15B_GUARD_WELCOME1-1=Маю ще кілька запитань.
+
+
+#----------------------------------------------------
+# Guard
+### Again?!
+PC15B_GUARD_WELCOME2-1=Знову?!
+
+
+# Guard
+### Gonna solve this myself, that'll be faster!
+PC15B_GUARD_WELCOME2-2=Краще сам усе розслідую, так буде швидше!
+
+
+# Brok
+### You better reply, man. Or care to become suspect number one?
+PC15B_GUARD_WELCOME2-3=Тобі краще відповідати, чуваче. Чи ти хочеш стати підозрюваним номер один?
+
+
+#----------------------------------------------------
+# Brok - Showing inventory to guard
+### What can you tell me about this?
+PC15B_GUARD_INV_DEFAULT1-1=Що скажеш про це?
+
+
+# Guard
+### That's rubbish.
+PC15B_GUARD_INV_DEFAULT1-2=Це непотріб.
+
+
+# Brok
+### Straight to the point, uh?
+PC15B_GUARD_INV_DEFAULT1-3=Одразу до суті, га?
+
+
+#----------------------------------------------------
+# Brok
+### Think this could be a clue?
+PC15B_GUARD_INV_DEFAULT2-1=Як думаєш, це може бути зачіпкою?
+
+
+# Guard
+### What? You're asking... me?!
+PC15B_GUARD_INV_DEFAULT2-2=Що? Це ти питаєш... мене?!
+
+
+# Guard
+### I thought you were a lousy detective but that was still an understatement!
+PC15B_GUARD_INV_DEFAULT2-3=Я знав, що ти паршивий детектив, але й гадки не мав, наскільки!
+
+
+# Brok
+### Just say you don't wanna help.
+PC15B_GUARD_INV_DEFAULT2-4=Просто скажи, що не хочеш допомагати.
+
+
+#----------------------------------------------------
+# Guard
+### No way, man! I don't take bribes!
+PC15B_GUARD_INV_MONEY-1=У жодному разі, чуваче! Я не беру хабарів!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Who would have thought? An honest Squealer!
+PC15B_GUARD_INV_MONEY-2=Хто б міг подумати? Чесний Верескун!
+
+
+# Guard
+### And don't call me that!
+PC15B_GUARD_INV_MONEY-3=І не називай мене так!
+
+
+#----------------------------------------------------
+# Guard
+### Still can't believe you did this.
+PC15B_GUARD_INV_LABFLOWER-1=Досі не вірю, що ти це зробив.
+
+
+# Brok
+### It's a crucial clue!
+PC15B_GUARD_INV_LABFLOWER-2=Це важлива зачіпка!
+
+
+# Guard
+### Yeah, right.
+PC15B_GUARD_INV_LABFLOWER-3=Авжеж.
+
+
+#----------------------------------------------------
+# Guard
+### You fixed it?...
+PC15B_GUARD_INV_LAMPHUSH-1=Ти полагодив її...?
+
+
+# Brok
+### Of course not! That's the other lamp. I wouldn't mess with evidence.
+PC15B_GUARD_INV_LAMPHUSH-2=Звісно, ні! Це інша лампа. Я б не став псувати докази.
+
+
+# Guard
+### Then stop touching 'em with bare hands.
+PC15B_GUARD_INV_LAMPHUSH-3=Тоді припини чіпати їх голими руками.
+
+
+#----------------------------------------------------
+# Guard
+### That must have hurt.
+PC15B_GUARD_INV_LAMPMINK-1=Мабуть, це було боляче.
+
+
+# Brok
+### Obviously. He's dead!
+PC15B_GUARD_INV_LAMPMINK-2=Звісно. Він же помер!
+
+
+#----------------------------------------------------
+# Brok
+### See? I wasn't lying!
+PC15B_GUARD_INV_MAGNIFY-1=Бачиш? Я не брехав!
+
+
+# Guard
+### Sure. Because owning a magnifying glass makes you a detective?
+PC15B_GUARD_INV_MAGNIFY-2=Звісно. Бо наявність лупи робить тебе детективом?
+
+
+# Brok
+### Everyone knows that!
+PC15B_GUARD_INV_MAGNIFY-3=Це кожен знає!
+
+
+#----------------------------------------------------
+# Guard
+### Dun' need a map. I know this building by heart.
+PC15B_GUARD_INV_MAPBUILDING-1=Мапа не потрібна. Я знаю цю будівлю назубок.
+
+
+#----------------------------------------------------
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush used it.
+PC15B_GUARD_INV_TABLETHUSH-1=Ним користувався доктор Гаш.
+
+
+# Brok
+### Please unlock it.
+PC15B_GUARD_INV_TABLETHUSH-2=Будь ласка, розблокуй його.
+
+
+# Guard
+### Like I could!
+PC15B_GUARD_INV_TABLETHUSH-3=Якби я міг!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### I believe Dr. Hush was taking these.
+PC15B_GUARD_INV_PILLHUSH-1=Я думаю, що доктор Гаш приймав ці пігулки.
+
+
+# Guard
+### So?...
+PC15B_GUARD_INV_PILLHUSH-2=І що...?
+
+
+# Brok
+### Can you confirm?
+PC15B_GUARD_INV_PILLHUSH-3=Можеш підтвердити?
+
+
+# Guard
+### No idea.
+PC15B_GUARD_INV_PILLHUSH-4=Гадки не маю.
+
+
+#----------------------------------------------------
+# Brok
+### You're a doctor, right?
+PC15B_GUARD_INV_TRAMPPRESCR-1=Ти ж лікар, так?
+
+
+# Guard
+### You're asking the wrong guy, buddy!
+PC15B_GUARD_INV_TRAMPPRESCR-2=Не до того звертаєшся, друже!
+
+
+#----------------------------------------------------
+# Guard
+### Ewww! I hate ants.
+PC15B_GUARD_INV_WRAPPING-1=Фу! Ненавиджу мурах.
+
+
+# Brok
+### Man, you just entered my enemies list.
+PC15B_GUARD_INV_WRAPPING-2=Чуваче, ти щойно потрапив до мого списку ворогів.
+
+
+# Guard
+### Whatever.
+PC15B_GUARD_INV_WRAPPING-3=Байдуже.
+
+
+#----------------------------------------------------
+# Guard - Going around the room
+### Hey, wait!
+PC15B_GUARD_INVESTIGATE-1=Гей, стій!
+
+
+# Guard
+### I still have a few things to tell you.
+PC15B_GUARD_INVESTIGATE-2=Я ще дещо маю тобі сказати.
+
+
+# Brok
+### Well, do it!
+PC15B_GUARD_INVESTIGATE-3=Ну то кажи!
+
+
+#----------------------------------------------------
+# Guard
+### Hey!
+PC15B_TO_PC15_NO1-1=Гей!
+
+
+# Guard
+### I wouldn't mind leaving either but don't you have some professional conscience?
+PC15B_TO_PC15_NO1-2=Я б теж не проти піти, але невже у тебе немає професійної совісті?
+
+
+# Brok
+### Oh! You mean...?
+PC15B_TO_PC15_NO1-3=Ох! У сенсі...?
+
+
+# Guard
+### Solve this case, you moron!
+PC15B_TO_PC15_NO1-4=Розкрий цю справу, бовдуре!
+
+
+# Brok
+### No need to resort to insults.
+PC15B_TO_PC15_NO1-5=Не обов'язково переходити на образи.
+
+
+#----------------------------------------------------
+# Brok
+### Can't get out...
+PC15B_TO_PC15_NO2-1=Я не можу вийти...
+
+
+#----------------------------------------------------
+# Brok - Dr Mink's door. He doesn't want to let Brok enter.
+### It won't open.
+PC15B_KNOCK1-1=Не відчиняється.
+
+
+# Unknown
+### (Knocks)
+PC15B_KNOCK1-2=(Стук)
+
+
+# Brok
+### ...?
+PC15B_KNOCK1-3=...?
+
+
+# Brok
+### I hear music...
+PC15B_KNOCK1-4=Я чую музику...
+
+
+# Brok
+### A loud beat. Pretty catchy!
+PC15B_KNOCK1-5=Гучний біт. Досить запальний!
+
+
+# Unknown
+### (Knocks again)
+PC15B_KNOCK1-6=(Стук)
+
+
+# Mink
+### Go away! I'm busy!
+PC15B_KNOCK1-7=Йдіть геть! Я зайнятий!
+
+
+# Brok
+### Hmmph...
+PC15B_KNOCK1-8=Гм-мм...
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks)
+PC15B_KNOCK2-1=(Стук)
+
+
+# Brok
+### Open! Now!
+PC15B_KNOCK2-2=Відчиняйте! Негайно!
+
+
+#----------------------------------------------------
+# Mink
+### Hey! Who the heck are you?!
+PC15B_KNOCK2B-1=Гей! Ви хто такий, чорт забирай?!
+
+
+# Brok
+### Such a nice way to introduce yourself...
+PC15B_KNOCK2B-2=Яке приємне знайомство...
+
+
+# Brok
+### Mind if I enter?
+PC15B_KNOCK2B-3=Ви не проти, якщо я зайду?
+
+
+# Mink
+### Of course I mind! I'm in the middle of something important!
+PC15B_KNOCK2B-4=Звісно, проти! Я зайнятий важливою справою!
+
+
+# Brok
+### Like... dancing?
+PC15B_KNOCK2B-5=Типу... танцями?
+
+
+# Mink
+### ...
+PC15B_KNOCK2B-6=...
+
+
+# Brok
+### I'm here to...
+PC15B_KNOCK2B-7=Я тут, щоб...
+
+
+# Mink
+### Get out!
+PC15B_KNOCK2B-8=Забирайтесь!
+
+
+# Brok
+### ...
+PC15B_KNOCK2B-9=...
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks)
+PC15B_KNOCK3-1=(Стук)
+
+
+#----------------------------------------------------
+# Mink
+### You again? I wasn't clear enough?!
+PC15B_KNOCK3B-1=Знову? Я що, недостатньо чітко висловився?!
+
+
+#----------------------------------------------------
+# Brok
+### I'm the deliverer! Got pizza for you!
+PC15B_KNOCK3_FAKE1-1=Я кур'єр! Приніс вам піцу!
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Impossible. All our orders are delivered through the Pipe-Pill.
+PC15B_KNOCK3_FAKE1-2=Неможливо. Усі наші замовлення доставляються через Пігулкомат.
+
+
+# Brok
+### Oops.
+PC15B_KNOCK3_FAKE1-3=Ой.
+
+
+#----------------------------------------------------
+# Brok
+### Just joking! I'm a scientist too. I'm here to help!
+PC15B_KNOCK3_FAKE2-1=Жартую! Я теж учений. Я тут, щоб допомогти!
+
+
+# Mink
+### Oh! Then show me your papers.
+PC15B_KNOCK3_FAKE2-2=О! Тоді покажіть свої документи.
+
+
+# Brok
+### Darn. I'm such a scatterbrain. I left them home!
+PC15B_KNOCK3_FAKE2-3=Чорт. Отакий я роззява. Залишив їх удома!
+
+
+# Mink
+### Sounds about right! We're all the same.
+PC15B_KNOCK3_FAKE2-4=Схоже на правду! Ми всі такі самі.
+
+
+# Mink
+### Alright, come...
+PC15B_KNOCK3_FAKE2-5=Гаразд, заходьте...
+
+
+# Mink
+### Wait. What's this funny hat?
+PC15B_KNOCK3_FAKE2-6=Стривайте. Що це за кумедний капелюх?
+
+
+# Brok
+### Well...
+PC15B_KNOCK3_FAKE2-7=Ну...
+
+
+# Mink
+### You liar! Go away!
+PC15B_KNOCK3_FAKE2-8=Брехун! Забирайтесь геть!
+
+
+#----------------------------------------------------
+# Brok
+### I'm a detective. I'm here to investigate...
+PC15B_KNOCK3_TRUTH-1=Я детектив. Я тут, щоб розслідувати...
+
+
+# Mink
+### Oh gosh!
+PC15B_KNOCK3_TRUTH-2=Ой-ой!
+
+
+# Brok
+### Hey!
+PC15B_KNOCK3_TRUTH-3=Гей!
+
+
+# Mink
+### I-I've paid all my taxes! Leave me alone!
+PC15B_KNOCK3_TRUTH-4=Я-я сплатив усі податки! Дайте мені спокій!
+
+
+#----------------------------------------------------
+# Brok
+### No.
+PC15B_KNOCK3_LIGHT-1=Ні.
+
+
+# Mink
+### Leave me alone, reptile!
+PC15B_KNOCK3_LIGHT-2=Дайте мені спокій, рептиліє!
+
+
+# Brok
+### Listen.
+PC15B_KNOCK3_LIGHT-3=Слухайте.
+
+
+# Brok
+### You got two seconds to step aside.
+PC15B_KNOCK3_LIGHT-4=У вас є дві секунди, щоб відійти вбік.
+
+
+# Brok
+### Or else... I might start getting a bit angry, and there ain't any punchin' bags around to vent my frustation.
+PC15B_KNOCK3_LIGHT-5=Інакше... я можу трохи розлютитися, а навколо немає жодних боксерських груш, щоб випустити пару.
+
+
+# Mink
+### Gulp!
+PC15B_KNOCK3_LIGHT-6=(Ковтає слину)
+
+
+# Mink
+### A-alright! Please don't hurt me!
+PC15B_KNOCK3_LIGHT-7=Г-гаразд! Будь ласка, не чіпайте мене!
+
+
+#----------------------------------------------------
+# Brok
+### Lemme in or I'll crack your spine in half and eat your remains for snack!
+PC15B_KNOCK3_HARD-1=Впустіть мене, або я переламаю чийсь хребет навпіл і з'їм рештки на перекус!
+
+
+# Mink
+### Whaaa...
+PC15B_KNOCK3_HARD-2=Що-о...
+
+
+#----------------------------------------------------
+# Mink
+### I'm scared! P-please go away...
+PC15B_KNOCK3_HARD2-1=Мені страшно! Б-будь ласка, йдіть звідси...
+
+
+# Brok
+### Darn. Did I go too far?
+PC15B_KNOCK3_HARD2-2=Чорт. Я перегнув палицю?
+
+
+#----------------------------------------------------
+# Mink - Hitting the door
+### Stop it!
+PC15B_DOORRIGHT_HIT1-1=Досить!
+
+
+#----------------------------------------------------
+# Mink
+### I'm... I'm scared...
+PC15B_DOORRIGHT_HIT2-1=Мені... мені страшно...
+
+
+#----------------------------------------------------
+# Mink
+### You're... gonna break the door! It's valuable!
+PC15B_DOORRIGHT_HIT3-1=Ви... зламаєте двері! Вони дуже цінні!
+
+
+#----------------------------------------------------
+# Mink
+### P...Please!
+PC15B_DOORRIGHT_HIT4-1=Б...Будь ласка!
+
+
+# Mink
+### Don't hurt me!...
+PC15B_DOORRIGHT_HIT4-2=Не чіпайте мене...!
+
+
+#----------------------------------------------------
+# Mink
+### Aaaahhh!!!
+PC15B_DOORRIGHT_DEATH1-1=А-а-а-а-а!!!
+
+
+#----------------------------------------------------
+# Brok - Checking other rooms
+### What's in there?
+PC15B_RESTROOM1-1=Що там усередині?
+
+
+# Guard
+### The restroom.
+PC15B_RESTROOM1-2=Вбиральня.
+
+
+# Brok
+### I'll have a peek.
+PC15B_RESTROOM1-3=Я зазирну туди.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC15B_RESTROOM1B-1=...
+
+
+# Brok
+### No one's there.
+PC15B_RESTROOM1B-2=Там нікого немає.
+
+
+# Brok
+### I'll examine this room later.
+PC15B_RESTROOM1B-3=Огляну цю кімнату пізніше.
+
+
+#----------------------------------------------------
+# Unknown
+### (Knock, knock)
+PC15B_DRHUSHROOM1-1=(Тук-тук)
+
+
+# Brok
+### ...
+PC15B_DRHUSHROOM1-2=...
+
+
+# Brok
+### Whose room is this?
+PC15B_DRHUSHROOM1-3=Чия це кімната?
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush's.
+PC15B_DRHUSHROOM1-4=Доктора Гаша.
+
+
+# Brok
+### The guy who disappeared?
+PC15B_DRHUSHROOM1-5=Того самого науковця, що зник?
+
+
+# Brok
+### Let's have a look.
+PC15B_DRHUSHROOM1-6=Подивимося.
+
+
+#----------------------------------------------------
+# Brok - The guard monitoring
+### What am I looking at?
+PC15B_GUARD_MONITORING1-1=На що я дивлюся?
+
+
+# Guard
+### This is today's monitoring. That thing records the time each door was opened...
+PC15B_GUARD_MONITORING1-2=Це сьогоднішній моніторинг. Ця штука записує час відчинення кожної з дверей...
+
+
+# Guard
+### ...and some icons to differentiate an entrance or an exit.
+PC15B_GUARD_MONITORING1-3=...і деякі іконки, щоб розрізняти вхід чи вихід.
+
+
+# Brok
+### I see...
+PC15B_GUARD_MONITORING1-4=Зрозуміло...
+
+
+# Brok
+### An arrow on the left for an entrance, on the right for an exit?
+PC15B_GUARD_MONITORING1-5=Стрілочка зліва - це вхід, а справа - вихід?
+
+
+# Guard
+### Yeah.
+PC15B_GUARD_MONITORING1-6=Угу.
+
+
+# Guard
+### There's also the identity of who opened the room. Everyone's recorded.
+PC15B_GUARD_MONITORING1-7=Також там вказано, хто саме відчинив кімнату. Усі записи зберігаються.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### What about Tidy?
+PC15B_GUARD_MONITORING1-8=А як щодо Тайді?
+
+
+# Guard
+### The maintenance bot?
+PC15B_GUARD_MONITORING1-9=Сервісний бот?
+
+
+# Guard
+### Yeah, tracked as well.
+PC15B_GUARD_MONITORING1-10=Так, його теж відстежують.
+
+
+# Brok
+### Okay. Let's study this.
+PC15B_GUARD_MONITORING1-11=Гаразд. Вивчимо ці дані.
+
+
+#----------------------------------------------------
+# Brok
+### Can anyone modify the information there?
+PC15B_GUARD_MONITORING2-1=Хтось може змінити інформацію в моніторингу?
+
+
+# Guard
+### Of course not. It's read-only, 100% automatized.
+PC15B_GUARD_MONITORING2-2=Звісно, ні. Він доступний лише для читання та автоматизований на 100%.
+
+
+# Brok
+### Good to know.
+PC15B_GUARD_MONITORING2-3=Буду знати.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Dr. Hush's room.
+PC15B_MONITORINGA1-1=Кімната доктора Гаша.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### If I'm reading this correctly, Dr. Hush was last recorded at 05:04...
+PC15B_MONITORINGA1-2=Якщо я все правильно зрозумів, останній запис про доктора Гаша був о 05:04...
+
+
+# Brok
+### Then disappeared.
+PC15B_MONITORINGA1-3=А потім він зник.
+
+
+# Brok
+### Wait a sec.
+PC15B_MONITORINGA1-4=Стривай-но.
+
+
+# Brok
+### Why did you open that door at 05:10?
+PC15B_MONITORINGA1-5=Чому ти відчинив ті двері о 05:10?
+
+
+# Guard
+### Told ya! I check the rooms regularly.
+PC15B_MONITORINGA1-6=Я ж казав! Я регулярно перевіряю кімнати.
+
+
+# Brok
+### Right after the doctor went out?
+PC15B_MONITORINGA1-7=Одразу після того, як доктор вийшов?
+
+
+# Guard
+### ...
+PC15B_MONITORINGA1-8=...
+
+
+# Guard
+### Seems so.
+PC15B_MONITORINGA1-9=Схоже на те.
+
+
+# Guard
+### My memory is confused...
+PC15B_MONITORINGA1-10=Пам'ять мене підводить...
+
+
+# Brok
+### Hmm...
+PC15B_MONITORINGA1-11=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### Looks like you performed another check at 09:00, right?
+PC15B_MONITORINGA2-1=Схоже, ти робив ще одну перевірку о 09:00, так?
+
+
+# Guard
+### Yup.
+PC15B_MONITORINGA2-2=Угу.
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### That's when I realized Dr. Hush was nowhere to be found.
+PC15B_MONITORINGA2-3=Саме тоді я зрозумів, що доктора Гаша ніде немає.
+
+
+# Guard
+### I called the cops discretely.
+PC15B_MONITORINGA2-4=Я непомітно викликав поліцію.
+
+
+# Brok
+### Okay...
+PC15B_MONITORINGA2-5=Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### The restroom.
+PC15B_MONITORINGB1-1=Вбиральня.
+
+
+# Brok
+### Hmm... A lot more activity than I expected.
+PC15B_MONITORINGB1-2=Гмм... Значно більше активності, ніж я очікував.
+
+
+# Brok
+### ...
+PC15B_MONITORINGB1-3=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy was last recorded entering there at 04:24.
+PC15B_MONITORINGB1-4=Останній запис про те, як Тайді заходив туди, був о 04:24.
+
+
+# Brok
+### Nothing later, even in the other rooms.
+PC15B_MONITORINGB1-5=Пізніше нічого не було, навіть в інших кімнатах.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### After Dr. Hush and Tidy, Dr. Mink also entered the room.
+PC15B_MONITORINGB2-1=Після доктора Гаша і Тайді в кімнату також заходив доктор Мінк.
+
+
+# Brok
+### I wonder if their path crossed there?
+PC15B_MONITORINGB2-2=Цікаво, чи перетиналися там їхні шляхи?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink's room...?
+PC15B_MONITORINGC1-1=Кімната доктора Мінка...?
+
+
+# Brok
+### What a surprise.
+PC15B_MONITORINGC1-2=Який сюрприз.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Despite the corpse being in Dr. Mink's room, not much activity was recorded there!
+PC15B_MONITORINGC1-3=Попри те, що труп був у кімнаті доктора Мінка, там зафіксовано не так багато активності!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Basically, Dr. Mink went out...then came back a little later.
+PC15B_MONITORINGC1-4=По суті, доктор Мінк вийшов... а потім повернувся трохи згодом.
+
+
+# Brok
+### The time matches the restroom's.
+PC15B_MONITORINGC1-5=Час збігається з часом у вбиральні.
+
+
+# Brok
+### I guess he simply went for a rest?
+PC15B_MONITORINGC1-6=Мабуть, він просто ходив відпочити?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### In any case, Dr. Hush never opened the door. Neither did Tidy.
+PC15B_MONITORINGC1-7=У будь-якому разі, доктор Гаш ніколи не відчиняв ці двері. Тайді теж.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### That doesn't make much sense but at least it confirms Dr. Mink's statement.
+PC15B_MONITORINGC1-8=У цьому небагато логіки, але принаймні це підтверджує свідчення доктора Мінка.
+
+
+#----------------------------------------------------
+# Brok
+### That 9 AM record appears in all three rooms.
+PC15B_MONITORINGC2-1=Цей запис о 9-й ранку є в усіх трьох кімнатах.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### It must correspond to the guard checking the rooms, looking for Dr. Hush.
+PC15B_MONITORINGC2-2=Це, певно, відповідає тому, як охоронець перевіряв кімнати в пошуках доктора Гаша.
+
+
+#----------------------------------------------------
+# Brok
+### What's this fourth door?
+PC15B_MONITORINGD1-1=Що це за четверті двері?
+
+
+# Guard
+### The main entrance.
+PC15B_MONITORINGD1-2=Головний вхід.
+
+
+# Brok
+### Wait. Didn't you say no one came or exited the place today?
+PC15B_MONITORINGD1-3=Стривай. Хіба ти не казав, що сьогодні ніхто сюди не приходив і звідси не виходив?
+
+
+# Brok
+### Then how do you explain these records?
+PC15B_MONITORINGD1-4=Тоді як ти поясниш ці записи?
+
+
+# Guard - He means both Brok and Ott
+### That was you.
+PC15B_MONITORINGD1-5=Це були ви.
+
+
+# Brok
+### At 04:38?...
+PC15B_MONITORINGD1-6=О 04:38...?
+
+
+# Guard
+### ...
+PC15B_MONITORINGD1-7=...
+
+
+# Guard
+### ...
+PC15B_MONITORINGD1-8=...
+
+
+# Guard
+### Wait! I know!
+PC15B_MONITORINGD1-9=Стривай! Я знаю!
+
+
+# Guard
+### That was me. I took my shift at 04:38.
+PC15B_MONITORINGD1-10=Це був я. Я заступив на зміну о 04:38.
+
+
+# Brok
+### Is that so?...
+PC15B_MONITORINGD1-11=Невже...?
+
+
+#----------------------------------------------------
+# Brok
+### I'm asking again.
+PC15B_MONITORINGD2-1=Я запитую знову.
+
+
+# Brok
+### Who opened the main entrance this morning at 04:38?
+PC15B_MONITORINGD2-2=Хто відчинив головний вхід сьогодні вранці о 04:38?
+
+
+# Guard
+### Told ya!
+PC15B_MONITORINGD2-3=Я ж сказав!
+
+
+# Guard
+### T'was me. I entered the lab to replace my colleague.
+PC15B_MONITORINGD2-4=Це я. Я зайшов у лабораторію, щоб замінити колегу.
+
+
+# Brok
+### Right...
+PC15B_MONITORINGD2-5=Звісно...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The guard opened the main entrance for a minute at 04:38.
+PC15B_GUARD_MONITORINGD_AFTER1-1=Охоронець відчинив головний вхід на хвилину о 04:38.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Then I arrived with Ott a few hours later.
+PC15B_GUARD_MONITORINGD_AFTER1-2=Потім я прибув із Оттом за кілька годин.
+
+
+# Brok
+### Seems coherent.
+PC15B_GUARD_MONITORINGD_AFTER1-3=Схоже на правду.
+
+
+#----------------------------------------------------
+# Brok - Interrogating the guard
+### Can you remind me. When do you take your shift?
+PC15B_CLUE_GUARD_AWAY-1=Нагадай мені, коли в тебе починається зміна?
+
+
+# Guard
+### 3'o clock, everyday!
+PC15B_CLUE_GUARD_AWAY-2=О третій, щодня!
+
+
+# Brok
+### Interesting.
+PC15B_CLUE_GUARD_AWAY-3=Цікаво.
+
+
+# Brok
+### Then how do you explain entering the lab at 04:38?
+PC15B_CLUE_GUARD_AWAY-4=Тоді як ти поясниш те, що зайшов у лабораторію о 04:38?
+
+
+# Guard
+### What?... I didn't...
+PC15B_CLUE_GUARD_AWAY-5=Що...? Я не...
+
+
+# Brok
+### Check the monitoring. What's written?
+PC15B_CLUE_GUARD_AWAY-6=Перевір моніторинг. Що там написано?
+
+
+# Guard
+### 04:38...
+PC15B_CLUE_GUARD_AWAY-7=04:38...
+
+
+# Guard
+### Gulp.
+PC15B_CLUE_GUARD_AWAY-8=(Ковтає слину)
+
+
+# Brok
+### Besides, the arrow indicates an exit. Not an entrance!
+PC15B_CLUE_GUARD_AWAY-9=До того ж, стрілка вказує на вихід. А не на вхід!
+
+
+# Brok
+### You owe me an explanation.
+PC15B_CLUE_GUARD_AWAY-10=Мені потрібне пояснення.
+
+
+# Guard
+### ...
+PC15B_CLUE_GUARD_AWAY-11=...
+
+
+# Guard
+### ...
+PC15B_CLUE_GUARD_AWAY-12=...
+
+
+# Guard
+### Alright... I admit!
+PC15B_CLUE_GUARD_AWAY-13=Гаразд... Визнаю!
+
+
+# Guard
+### I did take my shift at 3. And the door was indeed open at 4:38.
+PC15B_CLUE_GUARD_AWAY-14=Я заступив на зміну о третій. І двері справді були відчинені о 4:38.
+
+
+# Guard
+### But I didn't lie. It was me.
+PC15B_CLUE_GUARD_AWAY-15=Але я не збрехав. Це був я.
+
+
+# Guard
+### We're not only agents. We also do the secretarial work.
+PC15B_CLUE_GUARD_AWAY-16=Ми не лише агенти. Ми також виконуємо секретарську роботу.
+
+
+# Guard
+### By 4:38, I received a call. We're required to pick up and reply to every call we get.
+PC15B_CLUE_GUARD_AWAY-17=Близько 4:38 мені надійшов дзвінок. Ми зобов'язані приймати кожен дзвінок і відповідати на нього.
+
+
+# Guard
+### But it didn't work.
+PC15B_CLUE_GUARD_AWAY-18=Але нічого не вийшло.
+
+
+# Brok
+### What do you mean?
+PC15B_CLUE_GUARD_AWAY-19=Що ти маєш на увазі?
+
+
+# Guard
+### T'is a high security building so external calls don't work well.
+PC15B_CLUE_GUARD_AWAY-20=Це будівля високого рівня безпеки, тому зовнішні дзвінки тут погано працюють.
+
+
+# Guard
+### The line was awful. All full of crackling.
+PC15B_CLUE_GUARD_AWAY-21=Лінія була жахливою. Суцільне тріскотіння.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I'm stunned that kind of thing happens in the Drums.
+PC15B_CLUE_GUARD_AWAY-22=Я вражений, що таке трапляється на Верхах.
+
+
+# Guard
+### But it does.
+PC15B_CLUE_GUARD_AWAY-23=Але трапляється.
+
+
+# Guard
+### If you ask me... No matter how they claim technology advances, nothing ever works perfectly.
+PC15B_CLUE_GUARD_AWAY-24=Якщо цікава моя думка... Хоч як вони хваляться прогресом технологій, ніщо ніколи не працює ідеально.
+
+
+# Guard
+### When that happens, I open the main entrance so the transmission gets better.
+PC15B_CLUE_GUARD_AWAY-25=Коли таке трапляється, я відчиняю головний вхід, щоб зв'язок поліпшився.
+
+
+# Brok
+### So. You stood at the main door for a while.
+PC15B_CLUE_GUARD_AWAY-26=Отже, ти якийсь час стояв біля головних дверей.
+
+
+# Guard
+### Yup.
+PC15B_CLUE_GUARD_AWAY-27=Угу.
+
+
+# Brok
+### Who was on the line?
+PC15B_CLUE_GUARD_AWAY-28=Хто був на лінії?
+
+
+# Guard
+### Dunno...
+PC15B_CLUE_GUARD_AWAY-29=Не знаю...
+
+
+# Guard
+### T'was just music.
+PC15B_CLUE_GUARD_AWAY-30=Просто музика.
+
+
+# Brok
+### Music?
+PC15B_CLUE_GUARD_AWAY-31=Музика?
+
+
+# Guard - TechDream isn't so important, keep it like this or translate if you want but keep it consistent throughout all the labs files (PC15X)
+### Yeah! "TechDream"!
+PC15B_CLUE_GUARD_AWAY-32=Ага! "ТехноМрія"!
+
+
+# Brok
+### Hmm... This sounds familiar.
+PC15B_CLUE_GUARD_AWAY-33=Гмм... Щось знайоме.
+
+
+# Guard
+### Of course! It's all the rage!
+PC15B_CLUE_GUARD_AWAY-34=Звісно! Це зараз у моді!
+
+
+# Guard
+### T'is really catchy, so... I kept listening.
+PC15B_CLUE_GUARD_AWAY-35=Вона така захоплива, що я... продовжував слухати.
+
+
+# Brok
+### How long?
+PC15B_CLUE_GUARD_AWAY-36=Скільки часу?
+
+
+# Guard
+### Maybe a minute?...
+PC15B_CLUE_GUARD_AWAY-37=Може, хвилину...?
+
+
+# Guard
+### After a while, I figured this was a spam call and hung up.
+PC15B_CLUE_GUARD_AWAY-38=Згодом я зрозумів, що це спам-дзвінок, і повісив трубку.
+
+
+# Guard
+### I know what'ya think.
+PC15B_CLUE_GUARD_AWAY-39=Я знаю, про що ти думаєш.
+
+
+# Guard
+### Yeah, I looked away. But... It wasn't much risk.
+PC15B_CLUE_GUARD_AWAY-40=Так, я відвернувся. Але... Ризику майже не було.
+
+
+# Guard
+### The lasers were active, no one could get past in or out!
+PC15B_CLUE_GUARD_AWAY-41=Лазери були активні, ніхто не міг ані увійти, ані вийти!
+
+
+# Brok
+### But anything could happen inside.
+PC15B_CLUE_GUARD_AWAY-42=Але всередині могло статися що завгодно.
+
+
+# Brok
+### This is a major blunder!
+PC15B_CLUE_GUARD_AWAY-43=Ти припустився серйозної помилки!
+
+
+# Guard
+### Why d'ya think I didn't tell ya?!
+PC15B_CLUE_GUARD_AWAY-44=Чому, по-твоєму, я тобі не сказав?!
+
+
+# Guard
+### Didn't think much of it at the time but when you started your investigation...
+PC15B_CLUE_GUARD_AWAY-45=Спочатку я не надавав цьому значення, але коли ти почав розслідування...
+
+
+# Guard
+### I recalled that moment.
+PC15B_CLUE_GUARD_AWAY-46=Я пригадав той момент.
+
+
+# Guard
+### Please... I'm begging ya...!
+PC15B_CLUE_GUARD_AWAY-47=Будь ласка... благаю тебе...!
+
+
+# Guard
+### Don't tell anyone! That mistake could cost me my job!
+PC15B_CLUE_GUARD_AWAY-48=Нікому не кажи! Ця помилка може коштувати мені роботи!
+
+
+# Brok
+### Well...
+PC15B_CLUE_GUARD_AWAY-49=Ну...
+
+
+#----------------------------------------------------
+# Brok
+### Sorry.
+PC15B_CLUE_GUARD_NO-1=Вибач.
+
+
+# Brok
+### This blunder is a critical failure that must have lead to this murder!
+PC15B_CLUE_GUARD_NO-2=Мабуть, саме ця критична помилка призвела до вбивства!
+
+
+# Guard
+### ...Oh no...
+PC15B_CLUE_GUARD_NO-3=...О ні...
+
+
+# Guard
+### I've worked so hard... To get accepted in this society...
+PC15B_CLUE_GUARD_NO-4=Я так наполегливо працював... Щоб мене прийняли в це суспільство...
+
+
+# Guard
+### I... I refuse to accept one minute of inattention breaking my whole career!...
+PC15B_CLUE_GUARD_NO-5=Я... я відмовляюся вірити, що одна хвилина неуважності зламає всю мою кар'єру...!
+
+
+# Brok
+### Look. Let me finish my investigation.
+PC15B_CLUE_GUARD_NO-6=Слухай. Дай мені закінчити розслідування.
+
+
+# Brok
+### I'll gather all the facts, then we shall see.
+PC15B_CLUE_GUARD_NO-7=Я зберу всі факти, а там побачимо.
+
+
+# Guard
+### ...Okay.
+PC15B_CLUE_GUARD_NO-8=...Гаразд.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Though I have to report this to Wes. It's my duty.)
+PC15B_CLUE_GUARD_NO-9=(Хоча я маю доповісти про це Весові. Це мій обов'язок.)
+
+
+# Brok
+### (I've recorded that conversation. It'll get sent as soon as I get outta here.)
+PC15B_CLUE_GUARD_NO-10=(Я записав цю розмову. Вона надішлеться, щойно я звідси виберусь.)
+
+
+#----------------------------------------------------
+# Brok
+### I won't tell anyone.
+PC15B_CLUE_GUARD_YES-1=Я нікому не скажу.
+
+
+# Brok
+### I mean, must be insanely tough to keep watch all day at the same spot and doing nothin' else.
+PC15B_CLUE_GUARD_YES-2=Мабуть, неймовірно важко цілий день чергувати на одному й тому ж місці й більше нічим не займатися.
+
+
+# Guard
+### Phew... I'm so glad you understand, man.
+PC15B_CLUE_GUARD_YES-3=Фух... Я такий радий, що ти розумієш, чуваче.
+
+
+# Brok
+### Still, that's an important event for this investigation.
+PC15B_CLUE_GUARD_YES-4=І все ж таки це важлива подія для цього розслідування.
+
+
+# Guard
+### Sure. I hope my blunder didn't get the poor chap killed...
+PC15B_CLUE_GUARD_YES-5=Звісно. Сподіваюся, той бідолаха загинув не через мій промах...
+
+
+# Brok
+### We shall see.
+PC15B_CLUE_GUARD_YES-6=Побачимо.
+
+
+#----------------------------------------------------
+# Brok
+### I'm not done with ya, though!
+PC15B_CLUE_GUARD_NEXT-1=Але я ще не закінчив із тобою!
+
+
+# Brok
+### How come there's no record of your entrance at 3?
+PC15B_CLUE_GUARD_NEXT-2=Чому немає жодного запису про твій вхід о 3-й?
+
+
+# Guard
+### Simple. I reset the statistics each time I arrive.
+PC15B_CLUE_GUARD_NEXT-3=Усе просто. Я скидаю статистику щоразу, коли приходжу.
+
+
+# Guard
+### For confidentiality, we're not allowed to store them for more than a day.
+PC15B_CLUE_GUARD_NEXT-4=Через конфіденційність нам заборонено зберігати їх довше ніж добу.
+
+
+# Guard
+### And I can't get that freaking configuration panel to do the job automatically!
+PC15B_CLUE_GUARD_NEXT-5=І я ніяк не можу змусити цю дурнувату панель робити це автоматично!
+
+
+# Guard
+### Must have been programmed by some crazy engineer who's not living in the real world.
+PC15B_CLUE_GUARD_NEXT-6=Мабуть, її запрограмував якийсь божевільний інженер, який не живе в реальному світі.
+
+
+# Brok
+### I know the feeling...
+PC15B_CLUE_GUARD_NEXT-7=Знайоме відчуття...
+
+
+# Brok
+### Didn't you mention you had no control?
+PC15B_CLUE_GUARD_NEXT-8=Хіба ти не казав, що в тебе немає контролю?
+
+
+# Guard
+### It's all or nothing.
+PC15B_CLUE_GUARD_NEXT-9=Тут або все, або нічого.
+
+
+# Guard
+### There's no way to insert or edit data. Just remove everything.
+PC15B_CLUE_GUARD_NEXT-10=Неможливо додати чи відредагувати дані. Тільки видалити все одразу.
+
+
+# Brok
+### Okay...
+PC15B_CLUE_GUARD_NEXT-11=Гаразд...
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Doesn't matter. Dr. Hush was safe and sound when I arrived.
+PC15B_CLUE_GUARD_NEXT-12=Це неважливо. Доктор Гаш був у безпеці на момент, коли я прибув.
+
+
+# Brok
+### Guess I'll have to take your word for that one.
+PC15B_CLUE_GUARD_NEXT-13=Мабуть, доведеться повірити тобі на слово.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### According to the records, you opened Dr. Hush's door at 5:10.
+PC15B_CLUE_HUSH_GONE1-1=Згідно із записами, ти відчинив двері доктора Гаша о 5:10.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### At the exact moment, Dr. Hush's lamp received a violent shock.
+PC15B_CLUE_HUSH_GONE1-2=У ту саму хвилину лампа доктора Гаша зазнала сильного удару.
+
+
+# Brok
+### Interesting coincidence, don't ya think?
+PC15B_CLUE_HUSH_GONE1-3=Цікавий збіг, тобі не здається?
+
+
+# Guard
+### A... shock?...
+PC15B_CLUE_HUSH_GONE1-4=Удар...?
+
+
+# Brok
+### Did you accidentally drop the lamp or something?
+PC15B_CLUE_HUSH_GONE1-5=Ти випадково не впустив лампу чи щось таке?
+
+
+# Guard
+### No... Never touched it...
+PC15B_CLUE_HUSH_GONE1-6=Ні... Ніколи її не торкався...
+
+
+# Brok
+### I've also noticed something unusual.
+PC15B_CLUE_HUSH_GONE1-7=Я також помітив дещо незвичне.
+
+
+# Brok
+### At 9:00, you routinely checked all three rooms.
+PC15B_CLUE_HUSH_GONE1-8=О 9:00 ти за звичкою перевірив усі три кімнати.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### However, at 5:10... You only opened Dr. Hush's door.
+PC15B_CLUE_HUSH_GONE1-9=Проте о 5:10... ти відчинив двері лише доктора Гаша.
+
+
+# Brok
+### Why?
+PC15B_CLUE_HUSH_GONE1-10=Чому?
+
+
+# Guard
+### Erm...
+PC15B_CLUE_HUSH_GONE1-11=Е-е...
+
+
+# Guard
+### Oh!
+PC15B_CLUE_HUSH_GONE1-12=Ой!
+
+
+# Guard
+### I remember now!
+PC15B_CLUE_HUSH_GONE1-13=Тепер я згадав!
+
+
+# Guard
+### I heard a noise!
+PC15B_CLUE_HUSH_GONE1-14=Я чув шум!
+
+
+# Brok
+### Is that so?
+PC15B_CLUE_HUSH_GONE1-15=Справді?
+
+
+# Brok
+### Might this be... the sound of the lamp crashing down on the floor?
+PC15B_CLUE_HUSH_GONE1-16=Можливо, це був... звук лампи, що гепнулася на підлогу?
+
+
+# Guard
+### Hmm... I guess that's possible.
+PC15B_CLUE_HUSH_GONE1-17=Гмм... Мабуть, це можливо.
+
+
+# Guard
+### But when I looked inside, everything was normal.
+PC15B_CLUE_HUSH_GONE1-18=Але коли я зазирнув усередину, все було нормально.
+
+
+# Brok
+### Are you certain?
+PC15B_CLUE_HUSH_GONE1-19=Ти впевнений?
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Yeah. Dr. Hush always keeps his room tidy.
+PC15B_CLUE_HUSH_GONE1-20=Ага. Доктор Гаш завжди тримає свою кімнату в чистоті.
+
+
+# Guard
+### If that lamp was lying on the floor, I'd have noticed!
+PC15B_CLUE_HUSH_GONE1-21=Якби та лампа валялася на підлозі, я б помітив!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Was Tidy there?
+PC15B_CLUE_HUSH_GONE1-22=Тайді був там?
+
+
+# Guard
+### Hmm... Pretty sure he was down, charging.
+PC15B_CLUE_HUSH_GONE1-23=Гмм... Майже впевнений, що він був неактивний, заряджався.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### What about Dr. Hush, then?
+PC15B_CLUE_HUSH_GONE1-24=А як щодо доктора Гаша?
+
+
+# Brok
+### What was he doing?
+PC15B_CLUE_HUSH_GONE1-25=Чим він займався?
+
+
+# Guard
+### Lemme think...
+PC15B_CLUE_HUSH_GONE1-26=Дай подумати...
+
+
+# Guard
+### Hmm... I didn't see him.
+PC15B_CLUE_HUSH_GONE1-27=Гмм... Я його не бачив.
+
+
+# Brok
+### You didn't?...
+PC15B_CLUE_HUSH_GONE1-28=Не бачив...?
+
+
+# Guard
+### Pretty sure of it.
+PC15B_CLUE_HUSH_GONE1-29=Так, я впевнений.
+
+
+# Guard
+### He wasn't in the hall either.
+PC15B_CLUE_HUSH_GONE1-30=У коридорі його теж не було.
+
+
+# Brok
+### So he was already gone from his room?
+PC15B_CLUE_HUSH_GONE1-31=Отже, він уже пішов зі своєї кімнати?
+
+
+# Guard
+### Yeah. Must have been.
+PC15B_CLUE_HUSH_GONE1-32=Ага. Мабуть.
+
+
+# Brok
+### Interesting.
+PC15B_CLUE_HUSH_GONE1-33=Цікаво.
+
+
+#----------------------------------------------------
+# Brok
+### Something doesn't add up.
+PC15B_CLUE_HUSH_GONE2-1=Щось тут не сходиться.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### At 5:10, you heard a noise and looked for Dr. Hush, who wasn't in his room nor the hall.
+PC15B_CLUE_HUSH_GONE2-2=О 5:10 ти почув шум і шукав доктора Гаша, якого не було ні в його кімнаті, ні в коридорі.
+
+
+# Guard
+### Yeah.
+PC15B_CLUE_HUSH_GONE2-3=Ага.
+
+
+# Brok
+### Then, the glaring contradiction is...
+PC15B_CLUE_HUSH_GONE2-4=Отже, явна суперечність полягає в тому, що...
+
+
+# Brok
+### Weren't you worried?
+PC15B_CLUE_HUSH_GONE2-5=Ти не хвилювався?
+
+
+# Guard
+### What?
+PC15B_CLUE_HUSH_GONE2-6=Що?
+
+
+# Brok
+### Think.
+PC15B_CLUE_HUSH_GONE2-7=Подумай.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### You had no idea where Dr. Hush was, and yet you didn't look for him in the other rooms?
+PC15B_CLUE_HUSH_GONE2-8=Ти гадки не мав, де доктор Гаш, і водночас не став шукати його в інших кімнатах?
+
+
+# Brok
+### Why?
+PC15B_CLUE_HUSH_GONE2-9=Чому?
+
+
+# Guard
+### You're right.
+PC15B_CLUE_HUSH_GONE2-10=Ти маєш рацію.
+
+
+# Guard
+### I only started to worry about him disappearing at 9...
+PC15B_CLUE_HUSH_GONE2-11=Я почав хвилюватися через його зникнення лише о 9-й...
+
+
+# Guard
+### But... I can't remember the reason I wasn't alerted earlier...?
+PC15B_CLUE_HUSH_GONE2-12=Але... Я не пам'ятаю, чому я не забив на сполох раніше...?
+
+
+# Brok
+### Well, I have my theory.
+PC15B_CLUE_HUSH_GONE2-13=Що ж, у мене є своя теорія.
+
+
+# Guard
+### You do?
+PC15B_CLUE_HUSH_GONE2-14=Справді?
+
+
+# Brok
+### Yeah.
+PC15B_CLUE_HUSH_GONE2-15=Ага.
+
+
+# Brok
+### This is the reason you weren't worried at that time!
+PC15B_CLUE_HUSH_GONE2-16=Ось чому ти тоді не хвилювався!
+
+
+#----------------------------------------------------
+# Brok
+### You weren't worried because of... this!
+PC15B_PICKONE_GUARDWORRIED_WRONG1-1=Ти не хвилювався через... ось це!
+
+
+# Guard
+### What?...
+PC15B_PICKONE_GUARDWORRIED_WRONG1-2=Що...?
+
+
+# Guard
+### That doesn't make any sense!
+PC15B_PICKONE_GUARDWORRIED_WRONG1-3=У цьому жодної логіки!
+
+
+# Brok
+### You sure?
+PC15B_PICKONE_GUARDWORRIED_WRONG1-4=Ти впевнений?
+
+
+# Brok
+### Oops. Lemme try again!
+PC15B_PICKONE_GUARDWORRIED_WRONG1-5=Ой. Дай спробую ще раз!
+
+
+#----------------------------------------------------
+# Brok
+### I made a strange discovery in the restroom.
+PC15B_CLUE_LAB_MEETYME-1=Я зробив дивне відкриття у вбиральні.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### At 5:11, the Meety-Me played a pre-recorded sample sounding like Dr. Hush...
+PC15B_CLUE_LAB_MEETYME-2=О 5:11 голограф відтворив попередньо записаний фрагмент, що звучав як голос доктора Гаша...
+
+
+# Guard
+### What did it say?
+PC15B_CLUE_LAB_MEETYME-3=І що він казав?
+
+
+# Brok
+### "I'm in the restroom"
+PC15B_CLUE_LAB_MEETYME-4="Я у вбиральні"
+
+
+# Guard
+### ...!
+PC15B_CLUE_LAB_MEETYME-5=...!
+
+
+# Brok
+### Ring any bells?
+PC15B_CLUE_LAB_MEETYME-6=Це тобі про щось нагадує?
+
+
+# Guard
+### Yeah! Sure does!
+PC15B_CLUE_LAB_MEETYME-7=Так! Ще й як!
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### You're right! When I started calling for Dr. Hush...
+PC15B_CLUE_LAB_MEETYME-8=Ти маєш рацію! Коли я почав кликати доктора Гаша...
+
+
+# Guard
+### I heard him say that! The voice came from the restroom, so...
+PC15B_CLUE_LAB_MEETYME-9=Я почув, як він це сказав! Голос лунав із вбиральні, тож...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### ...you assumed Dr. Hush was in there.
+PC15B_CLUE_LAB_MEETYME-10=...ти припустив, що доктор Гаш був там.
+
+
+# Guard
+### So... He wasn't?!
+PC15B_CLUE_LAB_MEETYME-11=Тобто... Його там не було?!
+
+
+# Brok
+### This would be the logical conclusion.
+PC15B_CLUE_LAB_MEETYME-12=Це логічний висновок.
+
+
+# Brok
+### Which then means...
+PC15B_CLUE_LAB_MEETYME-13=А це означає...
+
+
+# Guard
+### The old man was kaputt before that time.
+PC15B_CLUE_LAB_MEETYME-14=Старий дав дуба ще до того часу.
+
+
+# Brok
+### Let's not jump to conclusions and assume he couldn't be in the restroom either.
+PC15B_CLUE_LAB_MEETYME-15=Не поспішаймо з висновками, адже не виключено, що він усе ж міг бути у вбиральні.
+
+
+# Guard
+### Woah. That was quite a messed up day...
+PC15B_CLUE_LAB_MEETYME-16=Ого. Який був заплутаний день...
+
+
+#----------------------------------------------------
+# Guard
+### So...? Are we done?
+PC15B_INTERROGATION_OVER-1=Ну що...? Ми закінчили?
+
+
+# Brok
+### Depends. Hiding anything else?
+PC15B_INTERROGATION_OVER-2=Залежить від ситуації. Ти ще щось приховуєш?
+
+
+# Guard
+### Nope! All good!
+PC15B_INTERROGATION_OVER-3=Та ні! Нічого!
+
+
+# Guard
+### Still can't believe it. Why did this have to happen during my watch?...
+PC15B_INTERROGATION_OVER-4=Досі не можу повірити. Чому це мало статися саме під час мого чергування...?
+
+
+# Brok
+### I've learnt not to blame fate. Otherwise I'd do it constantly.
+PC15B_INTERROGATION_OVER-5=Я звик не звинувачувати долю. Адже тоді мав би робити це безперестанку.
+
+
+# Brok
+### Just let me know if anything else comes to mind.
+PC15B_INTERROGATION_OVER-6=Просто дай мені знати, якщо згадаєш щось ще.
+
+
+# Guard
+### Sure thing.
+PC15B_INTERROGATION_OVER-7=Без проблем.
+
+
+#----------------------------------------------------
+# Tidy - After we find Tidy is the culprit, he tries to escape
+### Argh!
+PC15B_STORY170_TIDYFLEES1-1=Ар-р!
+
+
+# Tidy
+### Darn lasers!
+PC15B_STORY170_TIDYFLEES1-2=Кляті лазери!
+
+
+#----------------------------------------------------
+# Guard - "He" is Tidy
+### I've set the emergency plan! He won't access da controls.
+PC15B_STORY170_TIDYFLEES2-1=Я активував план надзвичайної ситуації! Він не дістанеться до керування.
+
+
+# Tidy
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Rubbish guard! Let me out!
+PC15B_STORY170_TIDYFLEES2-2=Нікчемний охоронець! Випусти мене!
+
+
+# Brok
+### You won't go nowhere.
+PC15B_STORY170_TIDYFLEES2-3=Ти нікуди не підеш.
+
+
+#----------------------------------------------------
+# Tidy
+### I've done nothing wrong!...
+PC15B_STORY170_TIDYFLEES3-1=Я нічого поганого не зробив...!
+
+
+# Tidy
+### Daddy is alive!
+PC15B_STORY170_TIDYFLEES3-2=Татусь живий!
+
+
+# Brok
+### Only by chance! And stop calling him "Daddy".
+PC15B_STORY170_TIDYFLEES3-3=Лише через випадковість! І припини називати його "татусем".
+
+
+# Brok
+### You're nothing more than a defective AI in a metal scrap.
+PC15B_STORY170_TIDYFLEES3-4=Ти усього лише бракований ШІ у тілі з металобрухту.
+
+
+# Brok
+### Now, let me switch you off. We'll fix you!
+PC15B_STORY170_TIDYFLEES3-5=А тепер дозволь мені тебе вимкнути. Ми тебе полагодимо!
+
+
+# Tidy
+### Pfft! I'd never take orders from a petty human!
+PC15B_STORY170_TIDYFLEES3-6=Пхе! Я ніколи не виконуватиму накази жалюгідної людини!
+
+
+# Tidy
+### I'm perfect! The only defective one in this room is you, human scum!
+PC15B_STORY170_TIDYFLEES3-7=Я ідеальний! Єдиний бракований у цій кімнаті - це ти, людський покидьок!
+
+
+# Tidy
+### I've got new orders! From my new Daddy!
+PC15B_STORY170_TIDYFLEES3-8=У мене нові накази! Від мого нового татуся!
+
+
+# Tidy
+### When I'm out, he'll take care of me!
+PC15B_STORY170_TIDYFLEES3-9=Коли я виберуся, він подбає про мене!
+
+
+# Brok
+### What?... Who?...
+PC15B_STORY170_TIDYFLEES3-10=Що...? Хто...?
+
+
+# Tidy
+### It's quite funny actually! You see...
+PC15B_STORY170_TIDYFLEES3-11=Це, власне, досить кумедно! Він...
+
+
+# Tidy
+### No. I promised.
+PC15B_STORY170_TIDYFLEES3-12=Ні. Я пообіцяв.
+
+
+# Tidy
+### You'll have to figure it out by yourself.
+PC15B_STORY170_TIDYFLEES3-13=Тобі доведеться розгадати це самостійно.
+
+
+# Tidy
+### A shame, really.
+PC15B_STORY170_TIDYFLEES3-14=Мені насправді шкода.
+
+
+# Tidy
+### Because you never will!
+PC15B_STORY170_TIDYFLEES3-15=Бо в тебе ніколи не вийде це зробити!
+
+
+# Brok
+### Stop this nonsense! This is my last warning!
+PC15B_STORY170_TIDYFLEES3-16=Досить маячні! Це моє останнє попередження!
+
+
+# Brok
+### Switch off, or else...
+PC15B_STORY170_TIDYFLEES3-17=Вимикайся, бо інакше...
+
+
+# Tidy
+### Save your breath. You'll never get me!
+PC15B_STORY170_TIDYFLEES3-18=Не марнуй слів. Тобі ніколи мене не зловити!
+
+
+# Brok
+### Well, then...
+PC15B_STORY170_TIDYFLEES3-19=Ну що ж...
+
+
+# Brok
+### I'll make you switch off. One way or another!
+PC15B_STORY170_TIDYFLEES3-20=Я змушу тебе вимкнутися. Так чи інакше!
+
+
+#----------------------------------------------------
+# Guard - Winning against Tidy
+### Did ya get it? For good?
+PC15B_STORY170_BROKWINS1-1=Ти його вирубив? Остаточно?
+
+
+# Brok
+### I guess...
+PC15B_STORY170_BROKWINS1-2=Здається...
+
+
+#----------------------------------------------------
+# Brok
+### Not.
+PC15B_STORY170_BROKWINS2-1=Ні.
+
+
+# Tidy
+### Argh! I hate you - I hate you - I hate you...
+PC15B_STORY170_BROKWINS2-2=Ар-р! Ненавиджу тебе - ненавиджу тебе - ненавиджу тебе...
+
+
+# Mink
+### It's going berserk...!
+PC15B_STORY170_BROKWINS2-3=Він шаленіє...!
+
+
+# Tidy
+### You will regret this!
+PC15B_STORY170_BROKWINS2-4=Ви ще пошкодуєте про це!
+
+
+# Tidy
+### Everyone in this city will be destroyed!
+PC15B_STORY170_BROKWINS2-5=Кожен у цьому місті буде знищений!
+
+
+# Guard
+### No way! It escaped!
+PC15B_STORY170_BROKWINS2-6=Не може бути! Він утік!
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The guard!
+PC15B_STORY170_JUMPEDBODY1-1=Охоронцю!
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### That robot... Tidy.
+PC15B_STORY170_JUMPEDBODY1-2=Цей робот... Тайді.
+
+
+# Guard
+### He attacked me... Forced his way out...
+PC15B_STORY170_JUMPEDBODY1-3=Він напав на мене... Пробив собі дорогу назовні...
+
+
+# Brok
+### I'll get him!
+PC15B_STORY170_JUMPEDBODY1-4=Я його дістану!
+
+
+#----------------------------------------------------
+# Guard - Losing against Tidy
+### Oh no!...
+PC15B_STORY170_BROKLOSES1-1=О ні...!
+
+
+# Mink
+### ...!
+PC15B_STORY170_BROKLOSES1-2=...!
+
+
+# Tidy
+### Ah ah ah ah!
+PC15B_STORY170_BROKLOSES1-3=А-ха-ха-ха!
+
+
+# Tidy
+### I killed him, and there's no faking this time!
+PC15B_STORY170_BROKLOSES1-4=Я вбив його, і цього разу по-справжньому!
+
+
+# Tidy
+### Now, will you let me out or... shall one of you be next?
+PC15B_STORY170_BROKLOSES1-5=Ну що, випустите мене, чи... хтось із вас хоче бути наступним?
+
+
+# Guard
+### Never!
+PC15B_STORY170_BROKLOSES1-6=Ніколи!
+
+
+# Guard
+### Oh, crap... The security battery ran out.
+PC15B_STORY170_BROKLOSES1-7=О, чорт... Акумулятор системи безпеки розрядився...
+
+
+# Mink
+### Please do what it says! Stop the killing...
+PC15B_STORY170_BROKLOSES1-8=Будь ласка, зроби те, що він каже! Зупини вбивства...
+
+
+# Guard
+### We can't! That thing may cause a carnage outside!
+PC15B_STORY170_BROKLOSES1-9=Ми не можемо! Ця штука влаштує різанину назовні!
+
+
+# Guard
+### I'll fight to the end!
+PC15B_STORY170_BROKLOSES1-10=Я битимуся до кінця!
+
+
+# Tidy
+### Oh, shut up.
+PC15B_STORY170_BROKLOSES1-11=Та замовкни вже.
+
+
+# Guard
+### Argh!!!
+PC15B_STORY170_BROKLOSES1-12=Ар-р-р!!!
+
+
+# Mink
+### Stop!
+PC15B_STORY170_BROKLOSES1-13=Зупинись!
+
+
+# Mink
+### Stop this...
+PC15B_STORY170_BROKLOSES1-14=Зупини це...
+
+
+# Mink
+### I... can't prevent you... Nobody can.
+PC15B_STORY170_BROKLOSES1-15=Я... не можу тебе зупинити... Ніхто не може.
+
+
+# Mink
+### I'll release you! But you've got to promise...
+PC15B_STORY170_BROKLOSES1-16=Я випущу тебе! Але ти мусиш пообіцяти...
+
+
+# Mink
+### No more casualties.
+PC15B_STORY170_BROKLOSES1-17=Більше ніяких жертв.
+
+
+# Tidy
+### Good Minky!
+PC15B_STORY170_BROKLOSES1-18=Хороший Мінкі!
+
+
+#----------------------------------------------------
+# Tidy
+### By the way...
+PC15B_STORY170_BROKLOSES2-1=До речі...
+
+
+# Tidy
+### No promises!
+PC15B_STORY170_BROKLOSES2-2=Жодних обіцянок!
+
+
+#----------------------------------------------------
+# Ott - Scene if we charge the wrong culprit, Ott has doubts
+### ...
+PC15B_CHARGE_LEAVING-1=...
+
+
+# Brok
+### What's wrong?
+PC15B_CHARGE_LEAVING-2=Щось не так?
+
+
+# Ott
+### I...
+PC15B_CHARGE_LEAVING-3=Я...
+
+
+# Ott
+### I can't pinpoint why, but...some elements in this whole theory seem off.
+PC15B_CHARGE_LEAVING-4=Не можу зрозуміти, чому, але... деякі елементи в цій теорії здаються хибними.
+
+
+# Brok
+### You're still a rookie. That's why.
+PC15B_CHARGE_LEAVING-5=Ти все ще новачок. Ось чому.
+
+
+# Ott
+### Must be...
+PC15B_CHARGE_LEAVING-6=Мабуть...
+
+
+# Ott
+### In any case... I'm glad we were able to solve this case!
+PC15B_CHARGE_LEAVING-7=У будь-якому разі... Я радий, що ми змогли розкрити цю справу!
+
+
+#----------------------------------------------------
+# Ott
+### That doctor got what he deserved for trying to kill his colleague!
+PC15B_CHARGE_LEAVING_HUSH-1=Цей доктор отримав по заслугах за спробу вбити свого колегу!
+
+
+# Brok
+### Yeah. Sad but true.
+PC15B_CHARGE_LEAVING_HUSH-2=Угу. Сумно, але правда.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I never thought Squealers were such bad people... But...
+PC15B_CHARGE_LEAVING_GUARD-1=Ніколи б не подумав, що Верескуни настільки погані люди... Але...
+
+
+# Brok
+### Yeah. You don't know until you've actually met them.
+PC15B_CHARGE_LEAVING_GUARD-2=Ага. Не дізнаєшся, поки сам із ними не зустрінешся.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hmm... I wonder if Graff finished his trial.
+PC15B_LEAVINGWITHOTT-1=Гмм... Цікаво, чи закінчив Графф своє випробування.
+
+
+# Brok
+### That's right!
+PC15B_LEAVINGWITHOTT-2=Точно!
+
+
+# Brok
+### Gonna get home. Hopefully he's back by now.
+PC15B_LEAVINGWITHOTT-3=Треба йти додому. Сподіваюся, він уже повернувся.
+
+
+# Ott
+### I'd love to follow you, but I should get prepared for mine.
+PC15B_LEAVINGWITHOTT-4=Я б із радістю пішов із тобою, але мені треба готуватися до свого.
+
+
+# Brok
+### Okay. See ya, buddy.
+PC15B_LEAVINGWITHOTT-5=Гаразд. Побачимось, друже.
+
+
+#----------------------------------------------------
+# Guard
+### What the...!
+PC15B_DESK1-1=Що за...!
+
+
+#----------------------------------------------------
+# Guard
+### Hey! What'ya doin', man?!
+PC15B_DESK2-1=Гей! Ти що робиш, чуваче?!
+
+
+#----------------------------------------------------
+# Guard
+### Are ya goin' to waste our time longer?!
+PC15B_DESK3-1=Ти ще довго збираєшся марнувати наш час?!
+
+
+#----------------------------------------------------
+

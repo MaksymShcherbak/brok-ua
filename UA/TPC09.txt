@@ -1,0 +1,1694 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Blindbot - Brok (Unknown)
+#     Brok - Blindbot (Unknown)
+#     Brok - Dee (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Wes (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Tribotcop (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Tribotcop - Dee (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Wes (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Unknown (Unknown)
+
+#-------------------------------
+#=POLICE ENTRANCE
+#-------------------------------
+
+#----- Interactions --------
+### To jail
+PC_JAIL=До в'язниці
+
+### Office
+PC_OFFICE=Кабінет
+
+### Barrier
+PC_BARRIER=Бар'єр
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### A speaker!
+GOT_SPEAKER=Динамік!
+
+
+#----- Dialog --------
+# Wes - Go there before getting chip OR the mission for the hacker
+### ...
+PC09_TOOSOON1-1=...
+
+
+# Brok
+### Hey. What's up?
+PC09_TOOSOON1-2=Вітаю. Що сталося?
+
+
+# Wes
+### I didn't expect you so early.
+PC09_TOOSOON1-3=Я не очікував на тебе так рано.
+
+
+# Wes
+### Change of plans. I gotta go.
+PC09_TOOSOON1-4=Плани змінилися. Мені час іти.
+
+
+# Brok
+### Hey, wait! What am I supposed to...
+PC09_TOOSOON1-5=Гей, зачекайте! А що мені робити...
+
+
+# Wes
+### I will assign you a mission later.
+PC09_TOOSOON1-6=Я дам тобі завдання пізніше.
+
+
+#----------------------------------------------------
+# Brok
+### Man... No wonder that guy is surrounded by bots.
+PC09_TOOSOON2-1=Оце так... Не дивно, що він оточив себе ботами.
+
+
+# Brok
+### He's as cold as them.
+PC09_TOOSOON2-2=Він такий же холодний, як і вони.
+
+
+# Brok
+### Well, no point waiting here.
+PC09_TOOSOON2-3=Що ж, немає сенсу чекати тут.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I better do my part for Graff in the mean time!
+PC09_TOOSOON2-4=Краще тим часом спробую допомогти Граффові!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### What did Shay want, already?...
+PC09_TOOSOON_SHAY-1=Що там Шей від мене хотіла...?
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC09_DOOR_TOOSOON-1=Зачинено...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### For now I should worry about getting Graff out of this mess.
+PC09_DOOR_TOOSOON-2=Поки що мені треба подумати про те, як витягти Граффа з халепи.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Too dark... I can't tell if anyone's inside.
+PC09_WINDOW1-1=Занадто темно... Не можу розгледіти, чи є хтось усередині.
+
+
+#----------------------------------------------------
+# Brok
+### Oh... I hoped it'd be more useful.
+PC09_BUTTON1-1=Ох... Сподівався, вона зробить щось більш корисне.
+
+
+#----------------------------------------------------
+# Brok - When sneaking after escaping jail
+### Too late to go back!
+PC09_TO_JAIL1-1=Занадто пізно повертатися!
+
+
+#----------------------------------------------------
+# Brok - Shutting down tribot
+### I might be able to shut it down...
+PC09_TRIBOT_TOOFAR-1=Можливо, мені вдасться його вимкнути...
+
+
+# Brok
+### If I can get close without being noticed.
+PC09_TRIBOT_TOOFAR-2=Якщо я зможу підійти ближче, не будучи поміченим.
+
+
+#----------------------------------------------------
+# Brok
+### He won't bother me anymore...
+PC09_TRIBOT_ALREADY-1=Він мене більше не турбуватиме...
+
+
+#----------------------------------------------------
+# Brok - More interactions
+### There's only one exit, and it isn't there!
+PC09_TO_OFFICE1-1=Вихід лише один, і він точно не там!
+
+
+#----------------------------------------------------
+# Brok - This Tribot is actually a special model. He is blind because his captors are defective. Like other Tribots he refers to himself as "us"
+### I don't remember this speaker?
+PC09_SPEAKER1-1=Я щось не пам'ятаю цього динаміка?
+
+
+# Blindbot
+### Affirmative. It was broken. We replaced it today.
+PC09_SPEAKER1-2=Підтверджуємо. Він був зламаний. Ми замінили його сьогодні.
+
+
+# Blindbot
+### Without properly working cameras, sound is crucial for us to understand the visitors' requests.
+PC09_SPEAKER1-3=Без справних камер звук є вирішальним для розуміння прохань відвідувачів.
+
+
+#----------------------------------------------------
+# Brok - We stole the speaker
+### (Whistles)
+PC09_SPEAKERGONE-1=(Свистить)
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09_SPEAKERTAKEOK-1=...
+
+
+# Brok
+### There ya go!
+PC09_SPEAKERTAKEOK-2=Ось так!
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC09_OFFICE1-1=Зачинено...
+
+
+# Blindbot
+### Access to this area is forbidden.
+PC09_OFFICE1-2=Доступ до цієї зони заборонено.
+
+
+# Brok
+### Not for me!
+PC09_OFFICE1-3=Тільки не для мене!
+
+
+#----------------------------------------------------
+# Brok
+### I'll find a way. I always do.
+PC09_OFFICE1B-1=Я знайду спосіб. Як завжди.
+
+
+# Blindbot
+### Such confidence. Humans make no sense.
+PC09_OFFICE1B-2=Яка впевненість. У людей немає жодної логіки.
+
+
+#----------------------------------------------------
+# Brok
+### (It's shut tight... No chance of opening it with brute force.)
+PC09_OFFICE2-1=(Зачинено наглухо... Грубою силою їх не відчинити.)
+
+
+# Blindbot
+### Please stop trying to open this door.
+PC09_OFFICE2-2=Будь ласка, припиніть спроби відчинити ці двері.
+
+
+# Brok
+### How did you know? You don't have any eyes!
+PC09_OFFICE2-3=Звідки ти знаєш? У тебе ж очей немає!
+
+
+# Blindbot
+### But we have microphones.
+PC09_OFFICE2-4=Але ми маємо мікрофони.
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC09_OFFICE_STORY190-1=Зачинено...
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Chief Wes. Does not receive. Anyone.
+PC09_OFFICE_STORY190-2=Шеф Вес. Не приймає. Нікого.
+
+
+# Brok
+### But I'm not just anyone!
+PC09_OFFICE_STORY190-3=Але я не абихто!
+
+
+# Blindbot
+### Let us check.
+PC09_OFFICE_STORY190-4=Перевіряємо.
+
+
+# Blindbot
+### Incorrect. You're not. On the "high priority list."
+PC09_OFFICE_STORY190-5=Неправильно. Вас немає. У "списку осіб з високим пріоритетом".
+
+
+# Blindbot
+### You're just anyone.
+PC09_OFFICE_STORY190-6=Ви "абихто".
+
+
+# Brok
+### Gah...
+PC09_OFFICE_STORY190-7=Пхе...
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC09_OFFICE_STORY280-1=Зачинено...
+
+
+#----------------------------------------------------
+# Brok - Talking to the blind bot at the reception
+### Hello!
+PC09_BLINDBOT1-1=Вітаю!
+
+
+# Blindbot
+### Please stand on the appropriate floor panel for assistance.
+PC09_BLINDBOT1-2=Будь ласка, станьте на відповідну підлогову панель для отримання допомоги.
+
+
+# Brok
+### Floor... panel?
+PC09_BLINDBOT1-3=Підлогову... панель?
+
+
+# Blindbot
+### Yes. Please do, visitor.
+PC09_BLINDBOT1-4=Так. Зробіть це, відвідувачу.
+
+
+# Brok
+### I don't have time for this nonsense!
+PC09_BLINDBOT1-5=У мене немає часу на ці дурниці!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes said I should meet him this morning.
+PC09_THESITUATION-1=Вес казав зустрітися з ним сьогодні вранці.
+
+
+# Blindbot
+### Checking...
+PC09_THESITUATION-2=Перевіряємо...
+
+
+# Blindbot
+### Affirmative. He had been awaiting you before leaving for an urgent mission.
+PC09_THESITUATION-3=Підтверджуємо. Він чекав на вас перед тим, як вирушити на термінове завдання.
+
+
+# Blindbot
+### He required you to stay here and wait for his return.
+PC09_THESITUATION-4=Він вимагав, щоб ви залишалися тут і чекали на його повернення.
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### We always follow the chief's orders to a T!
+PC09_THESITUATION-5=Ми завжди виконуємо накази шефа з точністю до дрібниць!
+
+
+# Brok
+### But... He made me a temporary cop!
+PC09_THESITUATION-6=Але... Він зробив мене тимчасовим копом!
+
+
+# Blindbot
+### Checking...
+PC09_THESITUATION-7=Перевіряємо...
+
+
+# Blindbot
+### This information is true.
+PC09_THESITUATION-8=Ця інформація відповідає дійсності.
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### However, you do not have the required permissions to access the chief's office.
+PC09_THESITUATION-9=Утім, ви не маєте необхідних прав доступу до кабінету шефа.
+
+
+# Brok
+### Bummer...
+PC09_THESITUATION-10=Як прикро...
+
+
+# Brok
+### Where is he?
+PC09_THESITUATION-11=Де він?
+
+
+# Blindbot
+### This information is confidential.
+PC09_THESITUATION-12=Ця інформація конфіденційна.
+
+
+# Brok
+### When does he come back?
+PC09_THESITUATION-13=Коли він повернеться?
+
+
+# Blindbot
+### This information is confidential.
+PC09_THESITUATION-14=Ця інформація конфіденційна.
+
+
+# Brok
+### Obviously...
+PC09_THESITUATION-15=Звісно...
+
+
+# Brok
+### (Well, I can't just sit around indefinitely.)
+PC09_THESITUATION-16=(Що ж, я не можу безкінечно сидіти, склавши руки.)
+
+
+# Brok
+### (Hmm...)
+PC09_THESITUATION-17=(Гмм...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Meeting Wes yesterday... This sure brought back memories.)
+PC09_THESITUATION-18=(Учорашня зустріч із Весом... Вона пробудила старі спогади.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### (He was the inspector in charge of investigating Lia's death.)
+PC09_THESITUATION-19=(Він був інспектором, який розслідував смерть Лії.)
+
+
+# Brok
+### (All this time...)
+PC09_THESITUATION-20=(Увесь цей час...)
+
+
+# Brok
+### (I've been convinced... He's been hiding things.)
+PC09_THESITUATION-21=(Я був переконаний... Він щось приховував.)
+
+
+# Brok
+### (This may be my only chance...)
+PC09_THESITUATION-22=(Це може бути мій єдиний шанс...)
+
+
+# Brok
+### (I need to find a way to enter his office!)
+PC09_THESITUATION-23=(Мені потрібно знайти спосіб потрапити до його кабінету!)
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+PC09_BLINDBOT2-1=Гей!
+
+
+# Blindbot
+### Hello, Mister.
+PC09_BLINDBOT2-2=Вітаю, пане.
+
+
+# Blindbot
+### Please stand on the appropriate floor panel for assistance.
+PC09_BLINDBOT2-3=Будь ласка, станьте на відповідну підлогову панель для отримання допомоги.
+
+
+# Brok
+### Can we talk freely?
+PC09_BLINDBOT2-4=Ми можемо вільно побалакати?
+
+
+# Blindbot
+### No. You're not standing on the correct panel.
+PC09_BLINDBOT2-5=Ні. Ви стоїте не на тій панелі.
+
+
+# Brok
+### Whatever. I'm curious...
+PC09_BLINDBOT2-6=Неважливо. Мені от цікаво...
+
+
+# Brok
+### Are you a blind robot? What happened to your eyes?
+PC09_BLINDBOT2-7=Ти сліпий робот? Що сталося з твоїми очима?
+
+
+# Blindbot
+### We do not have any eyes. You probably mean "cameras."
+PC09_BLINDBOT2-8=Ми не маємо очей. Ви, ймовірно, маєте на увазі "камери".
+
+
+# Brok
+### I guess...
+PC09_BLINDBOT2-9=Мабуть...
+
+
+# Blindbot
+### We were under maintenance but due to the staff shortage we were called back from our repairs.
+PC09_BLINDBOT2-10=Ми були на техобслуговуванні, але через брак персоналу нас відкликали з ремонту.
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### This is no trouble at all! Our microphone is functioning properly, so we can hear the visitors' requests and the chief's orders.
+PC09_BLINDBOT2-11=Це зовсім не проблема! Наш мікрофон працює належним чином, тож ми можемо чути прохання відвідувачів і накази шефа.
+
+
+# Blindbot
+### Now. If you have a request, please stand on the appropriate floor panel.
+PC09_BLINDBOT2-12=Тепер. Якщо у вас є прохання, будь ласка, станьте на відповідну підлогову панель.
+
+
+# Brok
+### Alright, alright... I'll press your darn buttons.
+PC09_BLINDBOT2-13=Добре, добре... Натисну я твої бісові кнопки.
+
+
+#----------------------------------------------------
+# Brok
+### So... How can I get inside the office?
+PC09_BLINDBOT3-1=Тож... Як я можу потрапити до кабінету?
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Only a direct order from the chief would allow you to enter.
+PC09_BLINDBOT3-2=Лише прямий наказ шефа дозволить вам увійти.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### A direct order from Wes...?
+PC09_BLINDBOT3-3=Прямий наказ Веса...?
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Affirmative! We always follow the chief's orders to a T!
+PC09_BLINDBOT3-4=Підтверджуємо! Ми завжди виконуємо накази шефа з точністю до дрібниць!
+
+
+# Brok
+### Hmm...
+PC09_BLINDBOT3-5=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### How's life?
+PC09_BLINDBOT_ASK1-1=Як життя?
+
+
+# Blindbot
+### Technically we are not alive. But there is a debate in the scientific community about...
+PC09_BLINDBOT_ASK1-2=Технічно ми не живі. Але в науковій спільноті точаться дебати щодо...
+
+
+# Brok
+### Yeah, yeah. Just me being polite. You can shut up now.
+PC09_BLINDBOT_ASK1-3=Та знаю, знаю. Це просто ввічливість. Можеш вже замовкнути.
+
+
+#----------------------------------------------------
+# Blindbot - Hitting the bot
+### Please do not damage the material.
+PC09_BLINDBOT_HIT1-1=Будь ласка, не пошкоджуйте матеріал.
+
+
+#----------------------------------------------------
+# Blindbot
+### You are making a mistake. Please restrain your outbursts of anger.
+PC09_BLINDBOT_HIT2-1=Ви припускаєтеся помилки. Будь ласка, стримуйте спалахи гніву.
+
+
+#----------------------------------------------------
+# Blindbot
+### A citizen has gone insane! Spanking is due!
+PC09_BLINDBOT_HIT3-1=Громадянин зійшов з глузду! Час прочуханки!
+
+
+#----------------------------------------------------
+# Blindbot - Losing fight
+### Spanking over.
+PC09_BLINDBOT_GAMEOVER1-1=Прочуханку завершено.
+
+
+#----------------------------------------------------
+# Brok - Killing the bot
+### ...
+PC09_BLINDBOT_DEATH1-1=...
+
+
+# Brok
+### I heard a mechanism unlocking. Could this mean...?
+PC09_BLINDBOT_DEATH1-2=Я почув, як розблокувався механізм. Чи означає це...?
+
+
+#----------------------------------------------------
+# Blindbot - When solving the puzzle (stepping on the panels in correct order)
+### Checking...
+PC09_BLINDBOT_OK-1=Перевіряємо...
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief's order is confirmed. The office is unlocked for you.
+PC09_BLINDBOT_OK-2=Наказ шефа підтверджено. Кабінет відчинено для вас.
+
+
+# Brok
+### That means... I can enter?
+PC09_BLINDBOT_OK-3=Це означає... я можу зайти?
+
+
+# Blindbot
+### Affirmative.
+PC09_BLINDBOT_OK-4=Підтверджуємо.
+
+
+# Brok
+### Great...!
+PC09_BLINDBOT_OK-5=Чудово...!
+
+
+# Brok
+### (Advanced AIs, my foot...!)
+PC09_BLINDBOT_OK-6=(Ага, просунутий ШІ, та й годі...!)
+
+
+#----------------------------------------------------
+# Blindbot
+### Checking...
+PC09_BLINDBOT_NOPE-1=Перевіряємо...
+
+
+# Blindbot
+### This order is invalid.
+PC09_BLINDBOT_NOPE-2=Цей наказ недійсний.
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Our chief is always very polite when directing us.
+PC09_BLINDBOT_NOPE-3=Наш шеф завжди дуже ввічливий, віддаючи нам накази.
+
+
+# Brok
+### (What...?)
+PC09_BLINDBOT_NOPE-4=(Що...?)
+
+
+#----------------------------------------------------
+# Blindbot - This happens when we almost step on the correct panels but not quite
+### ...?
+PC09_BLINDBOT_REACT-1=...?
+
+
+#----------------------------------------------------
+# Wes - IMPORTANT : The floor panels are part of a puzzle. - The player must "play" them in the correct order in order to form the sentence : "Please Mister Pork, Enter My office!" => Be sure to translate these so the order makes a legible sentence!
+### Please!
+PC09_FLOOR1A-1=Прошу!
+
+
+# Wes
+### Stay here to file a complaint.
+PC09_FLOOR1A-2=Залишайтеся тут, щоб подати скаргу.
+
+
+#----------------------------------------------------
+# Wes
+### Please!
+PC09_FLOOR1B-1=Прошу!
+
+
+#----------------------------------------------------
+# Wes
+### Mister Pork!
+PC09_FLOOR2A-1=Пане Борку!
+
+
+# Wes
+### Your personal data is safe with us!
+PC09_FLOOR2A-2=Ваші особисті дані в безпеці з нами!
+
+
+# Wes
+### Any information you share will be kept on all of our worldwide servers, with multiple backups to ensure their integrity.
+PC09_FLOOR2A-3=Будь-яка надана вами інформація зберігатиметься на всіх наших міжнародних серверах, з кількома резервними копіями для забезпечення цілісності.
+
+
+#----------------------------------------------------
+# Wes
+### Mister Pork!
+PC09_FLOOR2B-1=Пане Борку!
+
+
+#----------------------------------------------------
+# Wes
+### Ask us anything!
+PC09_FLOOR3A-1=Запитайте нас про що завгодно!
+
+
+# Wes
+### Our automated agents will do their best to answer you!
+PC09_FLOOR3A-2=Наші автоматизовані агенти зроблять усе можливе, щоб відповісти вам!
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### This is a paid service. 5 Unis per minute.
+PC09_FLOOR3A-3=Це платна послуга. 5 Юні на хвилину.
+
+
+#----------------------------------------------------
+# Wes
+### Ask us anything!
+PC09_FLOOR3B-1=Запитайте нас про що завгодно!
+
+
+#----------------------------------------------------
+# Wes
+### Enter!
+PC09_FLOOR4A-1=Заходьте!
+
+
+# Wes
+### On this spot you may request a special entrance to visit a cell, the cafeteria, or our offices!
+PC09_FLOOR4A-2=На цьому місці ви можете запросити спеціальний доступ для відвідування камери, їдальні або наших кабінетів!
+
+
+#----------------------------------------------------
+# Wes
+### Enter!
+PC09_FLOOR4B-1=Заходьте!
+
+
+#----------------------------------------------------
+# Wes
+### My office!
+PC09_FLOOR5A-1=Мій кабінет!
+
+
+# Wes - 25 hours isn't a mistake. In this universe each day is 25 hours long.
+### We will welcome you 25 hours a day, everyday. Stay here to order a drink!
+PC09_FLOOR5A-2=Ми раді вітати вас 25 годин на добу, щодня. Залишайтеся тут, щоб замовити напій!
+
+
+#----------------------------------------------------
+# Wes
+### My office!
+PC09_FLOOR5B-1=Мій кабінет!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Was that... Wes's voice...?
+PC09_PANELAFTER0-1=Це був... голос Веса...?
+
+
+# Blindbot
+### Affirmative.
+PC09_PANELAFTER0-2=Підтверджуємо.
+
+
+# Blindbot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Our chief has a lot of respect for our visitors.
+PC09_PANELAFTER0-3=Наш шеф вельми поважає відвідувачів.
+
+
+# Blindbot
+### He insisted that he record these informational messages himself.
+PC09_PANELAFTER0-4=Він наполягав на тому, щоб особисто записати ці інформаційні повідомлення.
+
+
+# Brok
+### That's... unexpected.
+PC09_PANELAFTER0-5=Це... несподівано.
+
+
+#----------------------------------------------------
+# Blindbot
+### Tell me, what is your complaint?
+PC09_PANELAFTER1_1-1=Скажіть, яка у вас скарга?
+
+
+# Brok
+### Screw that! You better get me to that bloody office, or else...!
+PC09_PANELAFTER1_1-2=До біса це! Проведи мене до того клятого кабінету, а інакше...!
+
+
+# Blindbot
+### This isn't an acceptable type of complaint.
+PC09_PANELAFTER1_1-3=Це неприйнятний тип скарги.
+
+
+# Blindbot
+### Please reformulate.
+PC09_PANELAFTER1_1-4=Будь ласка, сформулюйте наново.
+
+
+# Brok
+### Hmm...
+PC09_PANELAFTER1_1-5=Гмм...
+
+
+# Brok
+### Pretty please, your robotness!
+PC09_PANELAFTER1_1-6=Дуже прошу, ваша роботносте!
+
+
+# Brok
+### Allow me access to that wonderful room before I go off the rails!
+PC09_PANELAFTER1_1-7=Дайте мені доступ до цієї чудової кімнати, поки я не злетів з котушок!
+
+
+# Blindbot
+### Complaint denied!
+PC09_PANELAFTER1_1-8=Скаргу відхилено!
+
+
+#----------------------------------------------------
+# Brok
+### Forget it. You're not worth my time.
+PC09_PANELAFTER1_2-1=Забудь. Ти не вартий мого часу.
+
+
+# Blindbot
+### Thank you!
+PC09_PANELAFTER1_2-2=Дякуємо!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### (Yeah, all Tribots seem to share the same level of intelligence.)
+PC09_PANELAFTER1_2-3=(Ага, схоже, у всіх Триботів один і той самий рівень інтелекту.)
+
+
+#----------------------------------------------------
+# Brok
+### Even his recorded voice doesn't want to pronounce my name correctly... How does that even work?
+PC09_PANELAFTER2_1-1=Навіть його записаний голос не хоче правильно вимовляти моє ім'я... Як це взагалі працює?
+
+
+# Blindbot
+### You're standing on a pressure panel.
+PC09_PANELAFTER2_1-2=Ви стоїте на сенсорній панелі.
+
+
+# Blindbot
+### It can scan your foot prints and connects to our database for identity retrieval.
+PC09_PANELAFTER2_1-3=Вона може сканувати відбитки ваших стоп і підключатися до нашої бази даних для встановлення особистості.
+
+
+# Blindbot
+### Easier identification makes procedures much more simple as well!
+PC09_PANELAFTER2_1-4=А завдяки тому, що ідентифікація стає простішою, спрощуються всі процедури!
+
+
+# Brok
+### Maybe I should start wearing shoes...
+PC09_PANELAFTER2_1-5=Може, мені варто почати носити взуття...
+
+
+# Blindbot
+### Oh, no! We can scan through shoes as well.
+PC09_PANELAFTER2_1-6=О, ні! Ми можемо сканувати й крізь взуття.
+
+
+#----------------------------------------------------
+# Blindbot
+### Allow us to transfer you a copy of your personal data for transparent confidentiality!
+PC09_PANELAFTER2_2-1=Дозвольте передати вам копію ваших особистих даних для забезпечення прозорої конфіденційності!
+
+
+# Brok
+### Will this allow me to retrieve some of my lost memories?
+PC09_PANELAFTER2_2-2=Це дозволить мені відновити якісь із моїх втрачених спогадів?
+
+
+# Blindbot
+### Negative!
+PC09_PANELAFTER2_2-3=Відповідь негативна!
+
+
+# Blindbot
+### Humans are deemed unreliable to carry crucial information like this.
+PC09_PANELAFTER2_2-4=Люди вважаються ненадійними носіями такої важливої інформації.
+
+
+# Blindbot
+### Therefore, all your data is encrypted! Only administrative services like us are able to decrypt your private information.
+PC09_PANELAFTER2_2-5=Тому всі ваші дані зашифровано! Лише такі адміністративні служби, як ми, здатні розшифрувати вашу приватну інформацію.
+
+
+# Brok
+### Lot of good that does me.
+PC09_PANELAFTER2_2-6=Дуже "корисно", нічого не скажеш.
+
+
+#----------------------------------------------------
+# Blindbot
+### We love asymmetric cryptography! Don't you?
+PC09_PANELAFTER3_1-1=Ми обожнюємо асиметричну криптографію! А ви?
+
+
+# Brok
+### Am I not supposed to be the one talking?
+PC09_PANELAFTER3_1-2=Хіба не я мушу вести розмову?
+
+
+# Blindbot
+### Our statistics indicate humans have tremendous difficulties choosing relevant conversations.
+PC09_PANELAFTER3_1-3=Наша статистика свідчить, що люди мають величезні труднощі з вибором відповідних тем для розмови.
+
+
+# Brok
+### Well I have no intention of discussing crypto-thingumabob!
+PC09_PANELAFTER3_1-4=Що ж, я не збираюся обговорювати якусь крипто-штукенцію!
+
+
+# Blindbot
+### As you wish!
+PC09_PANELAFTER3_1-5=Як бажаєте!
+
+
+#----------------------------------------------------
+# Blindbot
+### May I suggest...
+PC09_PANELAFTER3_2-1=Можу запропонувати...
+
+
+# Brok
+### Shut up.
+PC09_PANELAFTER3_2-2=Закрий рота.
+
+
+# Blindbot
+### Very well. We shall then shut all the department doors.
+PC09_PANELAFTER3_2-3=Дуже добре. Тоді ми зачинимо всі двері відділку.
+
+
+# Brok
+### N-no! I didn't mean...
+PC09_PANELAFTER3_2-4=Н-ні! Я не це мав на увазі...
+
+
+# Blindbot
+### Operation rejected.
+PC09_PANELAFTER3_2-5=Операцію відхилено.
+
+
+# Brok
+### Phew!
+PC09_PANELAFTER3_2-6=Фух!
+
+
+# Brok
+### Last thing I want is to get trapped here again with creepy robots.
+PC09_PANELAFTER3_2-7=Останнє, чого я хочу - це знову опинитися в пастці з моторошними роботами.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### May I visit the inside of Wes's office...?
+PC09_PANELAFTER4_1-1=Чи можу я зайти до кабінету Веса...?
+
+
+# Blindbot
+### We're sorry. Visitors are not allowed in this area.
+PC09_PANELAFTER4_1-2=Вибачте. Відвідувачам заборонено перебувати в цій зоні.
+
+
+# Brok
+### I thought so...
+PC09_PANELAFTER4_1-3=Я так і думав...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Then... May I visit Sin? He's in jail.
+PC09_PANELAFTER4_1-4=Тоді... Чи можу я відвідати Сіна? Він у камері.
+
+
+# Blindbot
+### Are you a relative?
+PC09_PANELAFTER4_1-5=Ви родич?
+
+
+# Brok
+### Erm... A friend.
+PC09_PANELAFTER4_1-6=Е-е... Друг.
+
+
+# Blindbot
+### Request rejected.
+PC09_PANELAFTER4_1-7=Запит відхилено.
+
+
+# Brok
+### Hmph.
+PC09_PANELAFTER4_1-8=Гмм.
+
+
+#----------------------------------------------------
+# Brok
+### What about the cafeteria? I can visit it, right?
+PC09_PANELAFTER4_2-1=А як щодо їдальні? Туди мені можна?
+
+
+# Blindbot
+### Negative.
+PC09_PANELAFTER4_2-2=Відповідь негативна.
+
+
+# Blindbot
+### It was recently closed down. None of us eat food.
+PC09_PANELAFTER4_2-3=Її нещодавно закрили. Ніхто з нас не їсть їжу.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### None of us? What about Wes, R.J... and the prisoners?
+PC09_PANELAFTER4_2-4=Ніхто з нас? А як щодо Веса, Р. Джея... та в'язнів?
+
+
+# Blindbot
+### I can confirm. No agent still here eats food.
+PC09_PANELAFTER4_2-5=Підтверджую. Жоден із присутніх тут агентів не споживає їжу.
+
+
+# Blindbot
+### As for prisoners, they're not deemed important enough to deserve solid food.
+PC09_PANELAFTER4_2-6=Щодо в'язнів, вони не вважаються достатньо важливими, щоб заслуговувати на тверду їжу.
+
+
+# Blindbot
+### They're fed liquid meal replacements.
+PC09_PANELAFTER4_2-7=Їх годують рідкими замінниками їжі.
+
+
+# Brok
+### Urgh... Good thing I was able to escape...
+PC09_PANELAFTER4_2-8=Фу... Добре, що мені вдалося втекти...
+
+
+#----------------------------------------------------
+# Brok
+### I wonder, what's your job at night...
+PC09_PANELAFTER5_1-1=Цікаво, чим ти займаєшся вночі...
+
+
+# Blindbot
+### Guarding the place. Cleaning the rooms. Preparing the planning. Validating rules. Ordering materials. Killing the prisoners.
+PC09_PANELAFTER5_1-2=Охороняємо приміщення. Прибираємо кімнати. Складаємо розклад. Затверджуємо правила. Замовляємо матеріали. Убиваємо в'язнів.
+
+
+# Brok
+### Yeah, yeah. I get the picture...
+PC09_PANELAFTER5_1-3=Ага, ага. Я зрозумів суть...
+
+
+# Brok
+### Err... What did you just say about the prisoners...?
+PC09_PANELAFTER5_1-4=Е-е... Що ти щойно сказав про в'язнів...?
+
+
+# Blindbot
+### Dealing with the prisoners. Look after them.
+PC09_PANELAFTER5_1-5=Займаємося в'язнями. Доглядаємо за ними.
+
+
+# Brok
+### Right...
+PC09_PANELAFTER5_1-6=Ну-ну...
+
+
+#----------------------------------------------------
+# Brok
+### Open all the time... When all the personnel are bots, that's not hard to achieve.
+PC09_PANELAFTER5_2-1=Працює цілодобово... Коли весь персонал - боти, цього неважко досягти.
+
+
+# Blindbot
+### We do not understand your query. Please reformulate.
+PC09_PANELAFTER5_2-2=Ми не розуміємо вашого запиту. Будь ласка, сформулюйте наново.
+
+
+# Brok
+### This wasn't a query. Just a rant.
+PC09_PANELAFTER5_2-3=Це був не запит. Просто балаканина.
+
+
+#----------------------------------------------------
+# Brok
+### May I have a drink?
+PC09_PANELAFTER5_3-1=Можна мені напій?
+
+
+# Blindbot
+### Unfortunately yes.
+PC09_PANELAFTER5_3-2=На жаль, так.
+
+
+#----------------------------------------------------
+# Blindbot
+### We do not like you but are required to ask anyway.
+PC09_PANELAFTER5_DRINK-1=Ви нам не подобаєтеся, але ми все одно зобов'язані запитати.
+
+
+# Blindbot
+### Would you like a drink?
+PC09_PANELAFTER5_DRINK-2=Бажаєте напій?
+
+
+#----------------------------------------------------
+# Blindbot
+### Take.
+PC09_DRINK_FLOWING_WATER1-1=Тримайте.
+
+
+# Brok
+### Whoa! It's flowing, all right! A real waterfall!
+PC09_DRINK_FLOWING_WATER1-2=Ого! Вона справді плинна! Справжній водоспад!
+
+
+# Brok
+### Gotta be careful not to spill it on my beautiful coat.
+PC09_DRINK_FLOWING_WATER1-3=Треба бути обережним, щоб не розлити її на моє гарне пальто.
+
+
+# Blindbot
+### Beautiful...?
+PC09_DRINK_FLOWING_WATER1-4=Гарне...?
+
+
+# Blindbot
+### If we could laugh, we would be rolling on the floor right now.
+PC09_DRINK_FLOWING_WATER1-5=Якби ми вміли сміятися, ми б зараз каталися по підлозі.
+
+
+# Brok
+### Hey! You're a bot! And blind!
+PC09_DRINK_FLOWING_WATER1-6=Гей! Ти бот! Та ще й сліпий!
+
+
+# Brok
+### You're not supposed to have taste but I should.
+PC09_DRINK_FLOWING_WATER1-7=У тебе не повинно бути смаку, а от у мене - має бути.
+
+
+# Blindbot
+### Exactly.
+PC09_DRINK_FLOWING_WATER1-8=Саме так.
+
+
+#----------------------------------------------------
+# Blindbot
+### Take.
+PC09_DRINK_SEWAGE_SLUDGE1-1=Тримайте.
+
+
+# Brok
+### (Smells)
+PC09_DRINK_SEWAGE_SLUDGE1-2=(Нюхає)
+
+
+# Brok
+### ...Do I really have to...?
+PC09_DRINK_SEWAGE_SLUDGE1-3=...Я справді мушу це...?
+
+
+# Blindbot
+### This is your request. It cannot be refused.
+PC09_DRINK_SEWAGE_SLUDGE1-4=Це ваш запит. Від нього не можна відмовитися.
+
+
+# Brok
+### Okay...
+PC09_DRINK_SEWAGE_SLUDGE1-5=Гаразд...
+
+
+#----------------------------------------------------
+# Blindbot
+### Take.
+PC09_DRINK_SOLID_JUICE1-1=Тримайте.
+
+
+# Brok
+### That's juice...? I thought that it'd be liquid.
+PC09_DRINK_SOLID_JUICE1-2=Це сік...? Я гадав, він буде рідким.
+
+
+# Blindbot
+### Of course not. It's called solid juice.
+PC09_DRINK_SOLID_JUICE1-3=Звісно, ні. Він називається твердим соком.
+
+
+# Brok
+### Doesn't sound easy to drink.
+PC09_DRINK_SOLID_JUICE1-4=Схоже, пити його буде непросто.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, blind bot! I'd like a drink!
+PC09_PANEL5_GETDRINK1-1=Гей, сліпий боте! Я б хотів напій!
+
+
+# Blindbot
+### I didn't hear anything?
+PC09_PANEL5_GETDRINK1-2=Але я нічого не чув?
+
+
+# Brok
+### Yeah, your system is kinda... broken.
+PC09_PANEL5_GETDRINK1-3=Ага, твоя система якось... зламана.
+
+
+# Blindbot
+### Such unreliable hardware.
+PC09_PANEL5_GETDRINK1-4=Яке ненадійне залізо.
+
+
+# Blindbot
+### What is it you want?
+PC09_PANEL5_GETDRINK1-5=Чого ви бажаєте?
+
+
+#----------------------------------------------------
+# Brok
+### Can you get me...
+PC09_PANEL5_GETDRINK2-1=Можеш дати мені...
+
+
+#----------------------------------------------------
+# Brok - In this case we killed the bot
+### Hey, blind bot! I'd like...
+PC09_PANEL5_GETDRINKGONE1-1=Гей, сліпий боте! Я б хотів...
+
+
+# Brok
+### Oops, I forgot.
+PC09_PANEL5_GETDRINKGONE1-2=Ой, забув.
+
+
+# Brok
+### I'll have to help myself!
+PC09_PANEL5_GETDRINKGONE1-3=Доведеться пригощатися самому!
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC09_PANEL5_GETDRINKGONE2-1=Гмм...
+
+
+#----------------------------------------------------
+# Blindbot
+### This access is restricted to allowed personnel and prisoners.
+PC09_LASER_FORBIDDEN-1=Доступ сюди надається лише уповноваженому персоналу та в'язням.
+
+
+# Brok
+### But... I'm supposed to be a cop right now!
+PC09_LASER_FORBIDDEN-2=Але... Я ж зараз наче як коп!
+
+
+# Blindbot
+### Correct. A level 1 agent.
+PC09_LASER_FORBIDDEN-3=Правильно. Агент рівня 1.
+
+
+# Blindbot
+### You are allowed within the hallway and to patrol in all the exterior areas.
+PC09_LASER_FORBIDDEN-4=Вам дозволено перебувати в коридорі та патрулювати всі зовнішні території.
+
+
+# Brok
+### Argh...
+PC09_LASER_FORBIDDEN-5=Ар-р...
+
+
+#----------------------------------------------------
+# Unknown - Cutscene
+### A bit later...
+PC09_LATER-1=Трохи згодом...
+
+
+#----------------------------------------------------
+# Brok - Try to sneak, no alarm yet
+### Three bots...
+PC09_ARRIVE_SNEAK-1=Три боти...
+
+
+# Brok
+### Cameras on the front. They won't see me if I'm careful but...
+PC09_ARRIVE_SNEAK-2=Камери спереду. Вони не помітять мене, якщо буду обережним, але...
+
+
+# Brok
+### One bot is guarding the exit and won't move. What should I do...?
+PC09_ARRIVE_SNEAK-3=Один бот охороняє вихід і не зсунеться з місця. Що ж мені робити...?
+
+
+#----------------------------------------------------
+# Wes - After escaping, Wes arrives when opening door
+### Stop!
+PC09_AFTER_TRYOPEN1-1=Стояти!
+
+
+# Brok
+### ...
+PC09_AFTER_TRYOPEN1-2=...
+
+
+# Wes
+### I don't advise you to open this door.
+PC09_AFTER_TRYOPEN1-3=Не раджу тобі відчиняти ці двері.
+
+
+# Brok
+### Oh, yeah...? Watch!
+PC09_AFTER_TRYOPEN1-4=Та ну...? Дивись!
+
+
+#----------------------------------------------------
+# Brok
+### What the h... h...
+PC09_AFTER_TRYOPEN2-1=Що за ч... ч...
+
+
+# Brok
+### (...)
+PC09_AFTER_TRYOPEN2-2=(...)
+
+
+# Wes - To enforce that this is a cutscene in which Brok cannot hear anything (he's frozen) and he talks about his evil plans, Wes should probably address Brok in an informal way for this dialog.
+### A good freezing should put your ideas back into place.
+# Note: Doesn't apply to our language, where Wes was already informal starting from his first appearance.
+PC09_AFTER_TRYOPEN2-3=Гарна заморозка повинна вправити тобі мізки.
+
+
+# Wes
+### ...
+PC09_AFTER_TRYOPEN2-4=...
+
+
+# Wes
+### You're more clever than I thought.
+PC09_AFTER_TRYOPEN2-5=А ти розумніший, ніж я гадав.
+
+
+# Wes
+### And this could become a problem.
+PC09_AFTER_TRYOPEN2-6=Це може стати проблемою.
+
+
+#----------------------------------------------------
+# Wes - After escaping, Wes arrives when all robots dead
+### Always the trouble maker, aren't you?
+PC09_AFTERFIGHT1-1=Вічно ти створюєш проблеми, чи не так?
+
+
+# Wes
+### The game is up. Hands over your head.
+PC09_AFTERFIGHT1-2=Гру закінчено. Руки за голову.
+
+
+# Brok
+### You can't stop m...
+PC09_AFTERFIGHT1-3=Ти не зможеш зупинити м...
+
+
+#----------------------------------------------------
+# Unknown
+### (Zap)
+PC09_AFTERFIGHT2-1=(Бац)
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09_AFTERFIGHT3-1=...
+
+
+# Wes
+### You're stronger than I thought.
+PC09_AFTERFIGHT3-2=Ти сильніший, ніж я думав.
+
+
+# Wes - Same thing here for this alternate dialog, Wes talks to Brok in informal way.
+### And fortunately for us, not very bright.
+PC09_AFTERFIGHT3-3=І, на щастя для нас, не дуже кмітливий.
+
+
+#----------------------------------------------------
+# Wes
+### I've been asked to keep you alive.
+PC09_AFTERCUTSCENE-1=Мене попросили залишити тебе в живих.
+
+
+# Wes
+### I really can't understand it. After what you've done to him...
+PC09_AFTERCUTSCENE-2=Я справді цього не розумію. Після того, що ти зробив із ним...
+
+
+# Wes
+### Well. Doesn't matter.
+PC09_AFTERCUTSCENE-3=Що ж. Неважливо.
+
+
+# Wes
+### The final plan has started. I have the situation under control.
+PC09_AFTERCUTSCENE-4=Фінальний план запущено. Ситуація під моїм повним контролем.
+
+
+# Wes
+### You better cooperate. Or else...
+PC09_AFTERCUTSCENE-5=Краще б ти співпрацював. Бо інакше...
+
+
+#----------------------------------------------------
+# Tribotcop - After escaping, robots spot us
+### Intruder alert!
+PC09_SPOTTED1-1=Тривога, знайдено зловмисника!
+
+
+#----------------------------------------------------
+# Tribotcop
+### What is. The Human doing?!
+PC09_SPOTTED_STORY280B-1=Що робить. Ця людина?!
+
+
+#----------------------------------------------------
+# Tribotcop - Day 3 - rescuing Sin with Dee
+### May we help you?
+PC09_SPOTTED_FIGHT1-1=Можемо вам допомогти?
+
+
+# Brok
+### Yeah. Can you break down, please?
+PC09_SPOTTED_FIGHT1-2=Ага. Не могли б ви зламатися, будь ласка?
+
+
+# Tribotcop
+### Does not compute.
+PC09_SPOTTED_FIGHT1-3=Не піддається обчисленню.
+
+
+# Brok
+### Shame. Looks like I'll have to do it myself, then!
+PC09_SPOTTED_FIGHT1-4=Шкода. Схоже, доведеться зробити це самому!
+
+
+#----------------------------------------------------
+# Dee
+### Good job!
+PC09_SMASH_FIGHTEND1-1=Чудова робота!
+
+
+# Brok
+### Thanks! But we better move. I have a bad feeling...
+PC09_SMASH_FIGHTEND1-2=Дякую! Але нам краще рухатися. У мене кепське передчуття...
+
+
+#----------------------------------------------------
+# Dee
+### Look! The passage to the back rooms...!
+PC09_SMASH_FIGHTEND1B-1=Дивись! Прохід до задніх кімнат...!
+
+
+# Brok
+### It's... solidified?!
+PC09_SMASH_FIGHTEND1B-2=Він... затвердів?!
+
+
+# Dee
+### What do we do?
+PC09_SMASH_FIGHTEND1B-3=Що будемо робити?
+
+
+# Brok
+### Smash our way through! What else...?
+PC09_SMASH_FIGHTEND1B-4=Проб'ємо собі шлях! А що ж іще...?
+
+
+#----------------------------------------------------
+# Dee
+### Darn! Here comes more!
+PC09_SMASH_FIGHTEND1C-1=Дідько! Ще йдуть!
+
+
+#----------------------------------------------------
+# Dee
+### That wall. We have to get rid of it before...
+PC09_SMASH_FIGHTEND2-1=Ця стіна. Ми маємо позбутися її до того, як...
+
+
+# Brok
+### Argh! It's endless...!
+PC09_SMASH_FIGHTEND2-2=Ар-р! Їм немає кінця...!
+
+
+#----------------------------------------------------
+# Dee
+### Break that wall! Or it will never end!
+PC09_SMASH_FIGHTEND3-1=Зламай цю стіну! Інакше це ніколи не скінчиться!
+
+
+#----------------------------------------------------
+# Brok
+### Finally!
+PC09_SMASH_FINALLY-1=Нарешті!
+
+
+# Dee
+### Let's move on!
+PC09_SMASH_FINALLY-2=Рушаймо далі!
+
+
+#----------------------------------------------------
+# Dee
+### Hey...! Where are you going?
+PC09_OFFICE_INFILTRATE-1=Гей...! Куди ти йдеш?
+
+
+# Dee
+### I thought you knew the place.
+PC09_OFFICE_INFILTRATE-2=Я думала, ти знаєш це місце.
+
+
+# Brok
+### Erm... Yeah.
+PC09_OFFICE_INFILTRATE-3=Е-е... Так.
+
+
+#----------------------------------------------------
+# Brok
+### (Whisper) Darn... I forgot about this barrier.
+PC09_BARRIER1-1=(Шепіт) Чорт... Я й забув про цей бар'єр.
+
+
+# Dee
+### Argh...
+PC09_BARRIER1-2=Ар-р...
+
+
+# Dee
+### Let's just wreck all those bots and...
+PC09_BARRIER1-3=Давай просто рознесемо всіх цих ботів і...
+
+
+# Brok
+### No, no...!
+PC09_BARRIER1-4=Ні, ні...!
+
+
+# Brok
+### There must be a way. Let me think!
+PC09_BARRIER1-5=Має бути якийсь спосіб. Дай мені подумати!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I wish Shay was here. She would help...
+PC09_BARRIER2-1=Ех, якби Шей була тут. Вона б допомогла...
+
+
+# Brok
+### Hmm...
+PC09_BARRIER2-2=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### It works...?!
+PC09_BARRIER_REMOTECONTROL1-1=Спрацювало...?!
+
+
+# Brok
+### Quick! Let's go!
+PC09_BARRIER_REMOTECONTROL1-2=Швидко! Ходімо!
+
+
+#----------------------------------------------------
+# Brok
+### I can't get through.
+PC09_DAY2_BARRIER-1=Я не можу пройти.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...!
+PC09_BARRIER_REMOTECONTROL_DAY2-1=Гмм...!
+
+
+#----------------------------------------------------
+# Brok - Talking to the tribots
+### Hello!
+PC09_TRIBOT_INFILTRATE1-1=Вітаю!
+
+
+# Dee
+### What are you doing?!
+PC09_TRIBOT_INFILTRATE1-2=Що ти робиш?!
+
+
+# Tribotcop
+### Hello. Mister.
+PC09_TRIBOT_INFILTRATE1-3=Вітаємо. Пане.
+
+
+# Brok
+### We'd like to visit a prisoner. Can you open the door for us?
+PC09_TRIBOT_INFILTRATE1-4=Ми б хотіли відвідати в'язня. Можете відчинити нам двері?
+
+
+# Tribotcop
+### Sorry. No visitors. Not allowed.
+PC09_TRIBOT_INFILTRATE1-5=Вибачте. Жодних відвідувачів. Не дозволено.
+
+
+# Brok
+### But I'm a friend!
+PC09_TRIBOT_INFILTRATE1-6=Але я його друг!
+
+
+# Tribotcop
+### Sorry. No visitors. Not allowed.
+PC09_TRIBOT_INFILTRATE1-7=Вибачте. Жодних відвідувачів. Не дозволено.
+
+
+# Brok
+### Well it was worth a try.
+PC09_TRIBOT_INFILTRATE1-8=Ну, спробувати було варто.
+
+
+# Dee
+### No, it wasn't...!
+PC09_TRIBOT_INFILTRATE1-9=Ні, не варто було...!
+
+
+#----------------------------------------------------
+# Brok
+### Ya sure we can't visit the jail?
+PC09_TRIBOT_INFILTRATE2-1=Ви впевнені, що ми не можемо відвідати камеру?
+
+
+# Tribotcop
+### Continue to ask. And we'll incarcerate you.
+PC09_TRIBOT_INFILTRATE2-2=Продовжуйте запитувати. І ми вас заарештуємо.
+
+
+# Brok
+### Hey, that wouldn't be such a bad idea!
+PC09_TRIBOT_INFILTRATE2-3=Гей, а це не така вже й погана ідея!
+
+
+# Dee
+### Forget it. We can't afford to play prison break.
+PC09_TRIBOT_INFILTRATE2-4=Забудь. Ми не можемо дозволити собі гратися у втечу з в'язниці.
+
+
+#----------------------------------------------------
+# Brok
+### For now they don't suspect anything.
+PC09_DEE1-1=Поки що вони нічого не підозрюють.
+
+
+# Dee
+### Obviously. We haven't done anything suspicious.
+PC09_DEE1-2=Звісно. Ми ж не зробили нічого підозрілого.
+
+
+#----------------------------------------------------
+# Dee
+### Which is suspicious. Aren't you their target?
+PC09_DEE1_ALT-1=Що само по собі підозріло. Хіба ти не їхня ціль?
+
+
+#----------------------------------------------------
+# Brok
+### That's not enough.
+PC09_BLINDBOT_REMOTECONTROL-1=Цього недостатньо.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! There's an ad stuck.
+PC09_WINDOWOFF_AD1-1=Гей! Тут застрягла реклама.
+
+
+#----------------------------------------------------
+# Brok
+### Still stuck.
+PC09_WINDOWOFF_AD2-1=Все ще застрягла.
+
+
+#----------------------------------------------------
+# Brok
+### There ya go!
+PC09_WINDOWOFF_ADOK-1=Ось так!
+
+
+#----------------------------------------------------
+# Unknown
+### We should take advantage of this bot's blindness.
+COOP_PC09_BLINDBOT1-1=Нам слід скористатися сліпотою цього бота.
+
+
+#----------------------------------------------------
+

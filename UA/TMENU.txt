@@ -1,0 +1,79 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=START GAME MENU
+#-------------------------------
+
+# -------------------------------
+### Enjoy the game like a regular Point & Click adventure!#(Skip fights button)
+DIFFICULTY_EASY=Насолоджуйтеся грою як звичайною Point & Click пригодою!#(Кнопка пропуску боїв)
+
+
+### A blend of adventure and action!
+DIFFICULTY_NORMAL=Поєднання пригоди та бійки!
+
+
+### Want a challenge?#(Controller highly recommended!)
+DIFFICULTY_HARD=Бажаєте випробувань?#(Рекомендуємо використовувати контролер!)
+
+### Want a challenge?
+DIFFICULTY_HARD_CONSOLE=Бажаєте випробувань?
+
+### Want a challenge?#(Controller heavily recommended!)
+DIFFICULTY_HARD_MOBILE=Бажаєте випробувань?#(Рекомендуємо використовувати контролер!)
+
+
+#=EndOfFile
+# Unknown
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### My name is Brok.
+MENU_BRAWLBAR-1=Мене звати Брок.
+
+
+# Unknown
+### I'm an investigator, handyman, and former boxer...among other things.
+MENU_BRAWLBAR-2=Я детектив, майстер на всі руки та колишній боксер... поміж усього іншого.
+
+
+# Unknown
+### Yeah, I keep myself busy!
+MENU_BRAWLBAR-3=Так, мені ніколи нудьгувати!
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Between the constant chaos and trying to look after my stepson, Graff, I barely have time to breathe.
+MENU_BRAWLBAR-4=Між постійним хаосом та спробами піклуватися про свого прийомного сина, Граффа, у мене ледве вистачає часу перевести подих.
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Speaking of...my latest case involved a sudden shortage of Toxout pills.
+MENU_BRAWLBAR-5=До речі... моє останнє розслідування було пов'язане з раптовою нестачею смогових пігулок.
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Citizens of Atlasia need these pills to survive, especially those of us living outside the Dome.
+MENU_BRAWLBAR-6=Громадянам Атлазії ці пігулки потрібні для виживання, особливо тим із нас, хто живе поза Куполом.
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Following my best lead took me to the filthiest corner of the Slums. There, I stumbled across a mysterious door.
+MENU_BRAWLBAR-7=Найкраща зачіпка привела мене в найбрудніший куток Нетрів. Там я натрапив на таємничі двері.
+
+
+# Unknown
+### Way too curious for my own good, I opened the door and took a long stairway down into an underground facility...
+MENU_BRAWLBAR-8=Через надмірну допитливість я відчинив двері й спустився довгими сходами до підземного комплексу...
+
+
+# Unknown
+### ...one that called back to my past as a boxer.
+MENU_BRAWLBAR-9=...місця, яке нагадало мені про боксерське минуле.
+
+
+#----------------------------------------------------
+

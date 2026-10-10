@@ -1,0 +1,103 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=BUNKER ENTRANCE
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff - Lasers room
+### Uh...
+GPC19C_INIT1-1=Е-е...
+
+
+# Graff
+### I should have guessed the trial wouldn't be over yet. (Cough)
+GPC19C_INIT1-2=Варто було здогадатися, що випробування ще не скінчилося. (Кашляє)
+
+
+# Graff
+### (Cough, Cough)
+GPC19C_INIT1-3=(Кашляє)
+
+
+# Graff
+### Oh no... The pollution is really starting to affect me...
+GPC19C_INIT1-4=О ні... Забруднення починає вже всерйоз на мені позначатися...
+
+
+#----------------------------------------------------
+# Graff
+### This must be... (Cough) My punishment...
+GPC19C_INIT_KLAYDEAD-1=Це, мабуть... (Кашляє) Моє покарання...
+
+
+#----------------------------------------------------
+# Graff
+### If only that idiot didn't take my pill... (Cough)
+GPC19C_INIT_NORMAL-1=Якби тільки той ідіот не забрав мою пігулку... (Кашляє)
+
+
+# Graff
+### I better get out of here, fast! (Cough, cough)
+GPC19C_INIT_NORMAL-2=Краще мені забиратися звідси й якнайшвидше! (Кашляє)
+
+
+#----------------------------------------------------
+# Graff
+### Locked...
+GPC19C_DOORA1-1=Зачинено...
+
+
+# Graff
+### There's only one way... Forward.
+GPC19C_DOORA1-2=Шлях лише один... Вперед.
+
+
+#----------------------------------------------------
+# Graff
+### I'm done with that.
+GPC19C_PANEL1-1=З цим покінчено.
+
+
+#----------------------------------------------------
+# Graff
+### Did it work?...
+GPC19C_PANEL_OK-1=Спрацювало...?
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough)
+GPC19C_EXIT1-1=(Кашляє)
+
+
+# Graff
+### Almost there. Must be the exit.
+GPC19C_EXIT1-2=Майже на місці. Мабуть, це вихід.
+
+
+# Graff
+### How do I open it?...
+GPC19C_EXIT1-3=Як його відкрити...?
+
+
+#----------------------------------------------------
+# Graff
+### For once, some luck... (Cough)
+GPC19C_EXIT2-1=Хоч раз та пощастило... (Кашляє)
+
+
+#----------------------------------------------------
+

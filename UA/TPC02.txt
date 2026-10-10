@@ -1,0 +1,739 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Sin (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Sin - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+#     Various - Brok (Unknown)
+
+#-------------------------------
+#=BROK OUTSIDE APARTMENT
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok's apartment
+PC_BROKAPARTMENT=Квартира Брока
+
+### Mailbox
+PC_MAILBOX=Поштова скринька
+
+### Nameplate
+PC_NAMEPLATE=Табличка
+
+### Mail system
+PC_MAILSYSTEM=Поштова система
+
+### Shower door
+PC_SHOWERDOOR=Двері в душову
+
+### Toilets door
+PC_TOILETSDOOR=Двері в туалет
+
+### Job board
+PC_JOBBOARD=Дошка оголошень
+
+#This one is not publicity but the kind of ad that people write, eg : "lost kitty!"
+### Ad
+PC02_ADVERT=Оголошення
+
+
+#----- Choices / Items --------
+### A bill!...
+GOT_BILLA=Рахунок...!
+
+### A new bill!...
+GOT_BILLB=Новий рахунок...!
+
+### The mine is loaded!
+GOT_MINELOADED=Міну заряджено!
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+
+# Brok - Room interactions
+### When I first came here, I thought this was a doorbell.
+PC02_BUTTON1-1=Коли я вперше сюди прийшов, то подумав, що це дверний дзвінок.
+
+
+# Brok
+### I pressed it several times. Nothin'.
+PC02_BUTTON1-2=Я натиснув кілька разів. І нічого.
+
+
+# Brok
+### Then I noticed a huge stack of letters filling my mailbox... "Someone came to visit while you were out" with my picture on it.
+PC02_BUTTON1-3=А потім я помітив велетенський стос листів у своїй поштовій скриньці... "Хтось приходив, поки вас не було" з моєю фоткою.
+
+
+# Brok
+### So I ripped off the wires to deactivate it.
+PC02_BUTTON1-4=Тож я вирвав дроти, щоб вимкнути його.
+
+
+#----------------------------------------------------
+# Brok
+### Nope! I reactivate it only when I'm running out of free toilet paper.
+PC02_BUTTON2-1=Ні! Я вмикаю дзвінок лише тоді, коли закінчується безкоштовний туалетний папір.
+
+
+#----------------------------------------------------
+# Brok
+### Our mailbox.
+PC02_BROKMAIL_CLOSED1-1=Наша поштова скринька.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff drew a little cat and croc drawing on it, so we can easily spot it.
+PC02_BROKMAIL_CLOSED1-2=Графф намалював на ній котика й крокодила, щоб ми легко її знаходили.
+
+
+# Brok
+### It's shut, and I can't open it from there.
+PC02_BROKMAIL_CLOSED1-3=Вона зачинена, і звідси я її не відчиню.
+
+
+#----------------------------------------------------
+# Brok
+### Closed.
+PC02_BROKMAIL_CLOSED2-1=Зачинено.
+
+
+#----------------------------------------------------
+# Brok
+### My biggest source of stress. Opening that rack...
+PC02_BROKMAIL_OPEN1-1=Моє найбільше джерело стресу. Відкриваю цю скриньку і...
+
+
+# Brok
+### Tons of bills, security notices, more laws, and advertisements...
+PC02_BROKMAIL_OPEN1-2=Купа рахунків, безпекових сповіщень, нових законів і реклами...
+
+
+# Brok
+### (Sigh) Let's get this over with.
+PC02_BROKMAIL_OPEN1-3=(Зітхає) Покінчимо з цим.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC02_BROKMAIL_OPEN1B-1=...
+
+
+# Brok
+### Just one bill? Great!
+PC02_BROKMAIL_OPEN1B-2=Лише один рахунок? Чудово!
+
+
+#----------------------------------------------------
+# Brok - Amount is 245
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### The wire energy bill. {amount} Unis?!
+PC02_BROKMAIL1C-1=Рахунок за електроенергію. {amount} Юні?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Must be Graff. He's constantly in front of screens.
+PC02_BROKMAIL1C-2=Це, мабуть, Графф. Він постійно сидить перед екранами.
+
+
+# Brok
+### Can't blame him though. There's nothing much exciting to do around here.
+PC02_BROKMAIL1C-3=Але його важко винуватити. Тут навколо немає нічого особливо цікавого.
+
+
+# Brok
+### Say... Another paper.
+PC02_BROKMAIL1C-4=Так... Ще один папірець.
+
+
+# Brok
+### "Please note. Due to numerous fraud attempts, direct transfer from phones is no longer accepted."
+PC02_BROKMAIL1C-5="Будь ласка, зверніть увагу. Через численні спроби шахрайства прямі перекази з телефонів більше не приймаються."
+
+
+# Brok
+### Whaaat?!
+PC02_BROKMAIL1C-6=Що-ооо?!
+
+
+# Brok
+### "All payments must now be processed through Pipe terminals, within two days of receiving your bill."
+PC02_BROKMAIL1C-7="Усі платежі тепер мають проводитися через термінали поштової мережі протягом двох днів після отримання рахунку."
+
+
+# Brok
+### Oh, great... I'm gonna have to find one of those.
+PC02_BROKMAIL1C-8=Ох, чудово... Доведеться шукати один із таких терміналів.
+
+
+# Brok
+### And most importantly... How am I gonna find so much dough on such short notice?
+PC02_BROKMAIL1C-9=І що найважливіше... Де мені знайти стільки бабок за такий короткий термін?
+
+
+#----------------------------------------------------
+# Brok
+### I missed something. There's one little ad stuck between two racks!
+PC02_BROKMAIL_OPEN2-1=Я щось пропустив. Між двома полицями застрягла маленька реклама!
+
+
+#----------------------------------------------------
+# Brok
+### Nothing more. What a relief!
+PC02_BROKMAIL_OPEN3-1=Більше нічого. Яке полегшення!
+
+
+#----------------------------------------------------
+# Brok
+### Fingers crossed...
+PC02_BROKMAILB_OPEN1-1=Схрестимо пальці...
+
+
+#----------------------------------------------------
+# Brok
+### Oh, my. Two bills...!
+PC02_BROKMAILB_OPENFIRST-1=Ой, леле. Два рахунки...!
+
+
+#----------------------------------------------------
+# Brok
+### Just one letter.
+PC02_BROKMAILB_OPEN1B-1=Лише один лист.
+
+
+# Brok
+### A bill. Of course. Hmm...
+PC02_BROKMAILB_OPEN1B-2=Рахунок. Звісно. Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### That's the rent. Why does it seem to always come earlier each month?
+PC02_BROKMAILB_OPEN1C-1=Це за оренду. Чому мені здається, що щомісяця вона приходить дедалі раніше?
+
+
+# Brok - Amount is 500
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Gotta find {amount} Unis fast...
+PC02_BROKMAILB_OPEN1C-2=Треба швидко знайти {amount} Юні...
+
+
+#----------------------------------------------------
+# Brok
+### The mail security system.
+PC02_MAILSYSTEM1-1=Система безпеки пошти.
+
+
+# Various
+### Please confirm your identity by pressing the touch panel.
+PC02_MAILSYSTEM1-2=Будь ласка, підтвердьте свою особу, натиснувши сенсорну панель.
+
+
+# Brok
+### Security, tighter security, always more security.
+PC02_MAILSYSTEM1-3=Безпека, суворіша безпека, завжди ще більше безпеки.
+
+
+# Brok
+### When did the world become so complex?
+PC02_MAILSYSTEM1-4=Коли світ став таким складним?
+
+
+#----------------------------------------------------
+# Various
+### You've got mail.
+PC02_MAILSYSTEMB1-1=У вас є пошта.
+
+
+# Brok
+### I was afraid it was gonna say that...
+PC02_MAILSYSTEMB1-2=Я так боявся, що вона це скаже...
+
+
+#----------------------------------------------------
+# Brok
+### Our mailbox is already open.
+PC02_MAILSYSTEM_ALREADYOPEN-1=Наша поштова скринька вже відчинена.
+
+
+# Various
+### Your mailbox is already open.
+PC02_MAILSYSTEM_ALREADYOPEN-2=Ваша поштова скринька вже відчинена.
+
+
+# Brok
+### Ah! Beat you to it!
+PC02_MAILSYSTEM_ALREADYOPEN-3=Ха! Я випередив тебе!
+
+
+#----------------------------------------------------
+# Various
+### No new mail.
+PC02_MAILSYSTEM_NOTHING-1=Нової пошти немає.
+
+
+# Brok
+### Good!
+PC02_MAILSYSTEM_NOTHING-2=Добре!
+
+
+#----------------------------------------------------
+# Brok
+### No idea why it opens the mailbox when it's empty.
+PC02_MAILSYSTEM_NOTHING2-1=Поняття не маю, навіщо воно відчиняє скриньку, коли та порожня.
+
+
+#----------------------------------------------------
+# Various
+### No new mail since the last opening this morning.
+PC02_MAILSYSTEM_STORY210-1=З останнього відкриття - сьогодні вранці - нової пошти не надходило.
+
+
+# Brok
+### What...?
+PC02_MAILSYSTEM_STORY210-2=Що...?
+
+
+# Brok
+### That's unusual. Did someone steal my bills?
+PC02_MAILSYSTEM_STORY210-3=Це незвично. Хтось вкрав мої рахунки?
+
+
+# Brok
+### I wish!
+PC02_MAILSYSTEM_STORY210-4=Ох, якби ж то!
+
+
+#----------------------------------------------------
+# Brok
+### "Private detective (and handyman)"
+PC02_NAMEPLATE1-1="Приватний детектив (і майстер на всі руки)"
+
+
+# Brok
+### I wish the "handyman" part wasn't 95% of my day job. I've done enough plumbing for a lifetime...
+PC02_NAMEPLATE1-2=Хотілося б, щоб частина "майстер на всі руки" не займала 95% моєї щоденної роботи. Я вже полагодив достатньо сантехніки на все своє життя...
+
+
+# Brok
+### But we gotta make a livin'.
+PC02_NAMEPLATE1-3=Але ж треба якось заробляти на життя.
+
+
+#----------------------------------------------------
+# Brok
+### This used to be an "Ask anything" assistant to welcome new visitors.
+PC02_JOBBOARD1-1=Раніше це був помічник "Запитайте про що завгодно" для прийому нових відвідувачів.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Back when right-thinking Drumers built this place.
+PC02_JOBBOARD1-2=Ще коли розсудливі мешканці Верхів збудували це місце.
+
+
+# Brok
+### It broke ages ago, so we've recycled it into a job board.
+PC02_JOBBOARD1-3=Він зламався купу років тому, тож ми переробили його на дошку оголошень.
+
+
+# Brok
+### Much more appropriate!
+PC02_JOBBOARD1-4=Набагато доречніше!
+
+
+# Brok
+### So! What's new today...?
+PC02_JOBBOARD1-5=Отже! Що там нового сьогодні...?
+
+
+#----------------------------------------------------
+# Brok
+### Later. I'm partial to showering after my nightly fight!
+PC02_SHOWERDOOR1-1=Пізніше. Я віддаю перевагу душу після нічних боїв!
+
+
+#----------------------------------------------------
+# Brok
+### Good idea! I'm all filthy.
+PC02_SHOWERDOOR_DO-1=Гарна ідея! Я увесь брудний.
+
+
+#----------------------------------------------------
+# Brok
+### (Whistles)
+PC02_SHOWERDOOR_DO2-1=(Свистить)
+
+
+#----------------------------------------------------
+# Brok
+### Ah! Much better.
+PC02_SHOWERDOOR_DO3-1=Ах! Значно краще.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Next time I'll think twice before dropping into Shay's polluted lake...
+PC02_SHOWERDOOR_DO3-2=Наступного разу я двічі подумаю, перш ніж стрибати в забруднене озеро Шей...
+
+
+#----------------------------------------------------
+# Brok
+### I can hold it in for several days if needed. There are more urgent matters!
+PC02_TOILETSDOOR1-1=За потреби я можу терпіти кілька днів. Є нагальніші справи!
+
+
+#----------------------------------------------------
+# Brok
+### It won't turn on.
+PC02_ROBOT1-1=Він не вмикається.
+
+
+# Brok
+### Poor little thing. It's been rusting here for days and leaking some kind of powder on the floor.
+PC02_ROBOT1-2=Бідний. Він іржавіє тут уже кілька днів і з нього на підлогу сиплеться якийсь порошок.
+
+
+# Brok
+### I wonder what it's for and where it comes from.
+PC02_ROBOT1-3=Цікаво, для чого він і звідки взявся.
+
+
+#----------------------------------------------------
+# Brok
+### Some kind of bluish powder is leaking out of of it.
+PC02_ROBOT_POWDER1-1=З нього сиплеться якийсь блакитний порошок.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### (Sniff, sniff) Eww. Smells like rotten Pampalos...
+PC02_ROBOT_POWDER1-2=(Нюхає) Фу-у. Пахне гнилим пампалосом...
+
+
+#----------------------------------------------------
+# Brok
+### Seems like an idea!
+PC02_ROBOT_MINEBROKEN-1=Здається, це хороша ідея!
+
+
+#----------------------------------------------------
+# Brok
+### There, I've refilled the mine with that powder. I hope it works.
+PC02_ROBOT_POWDER1B-1=Готово, я заповнив міну цим порошком. Сподіваюся, спрацює.
+
+
+# Brok
+### Oops, I pushed it a bit! That's three times the regular dose!
+PC02_ROBOT_POWDER1B-2=Ой, я трохи переборщив! Це ж потрійна доза від звичайної!
+
+
+# Brok
+### I better not move too quickly! (Gulp)
+PC02_ROBOT_POWDER1B-3=Краще мені не рухатися надто швидко! (Ковтає слину)
+
+
+#----------------------------------------------------
+# Brok - The collectible advert is behind a job advert on the panel.
+### There's a cool collectible ad behind this ad!
+PC02_AD_JOBBOARD1-1=За цим оголошенням є крута колекційна реклама!
+
+
+#----------------------------------------------------
+# Brok
+### "70-year old lady, ready to take care of your kids in your absence!"
+PC02_AD_BABYSITTER1-1="70-річна пані готова доглянути за дітьми у вашу відсутність!"
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### "Price starting from 9 Unis per hour, varies according to species. (I reserve the right to refuse Wolves, Crocs and Squealer cubs!)"
+PC02_AD_BABYSITTER1-2="Ціна від 9 Юні за годину, змінюється залежно від виду. (Залишаю за собою право відмовити вовкам, крокодилам та малятам Верескунів!)"
+
+
+# Brok
+### Mrph.
+PC02_AD_BABYSITTER1-3=М-мм.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### "You wouldn't believe what Drumers throw away!"
+PC02_AD_TRASHERHUNT1-1="Ви й уявити не можете, що викидають мешканці Верхів!"
+
+
+# Brok
+### "To get some of the best stuff, try our 'Trasher Hunt'!"
+PC02_AD_TRASHERHUNT1-2="Щоб здобути найкращі речі, спробуйте наше 'Мисливство за мотлохом'!"
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### "Participation costs 10 Unis. Entrance located on the roof of this building."
+PC02_AD_TRASHERHUNT1-3="Участь коштує 10 Юні. Вхід на даху цієї будівлі."
+
+
+# Brok
+### Yeah, I've used it before. Really a great deal when you're lucky!
+PC02_AD_TRASHERHUNT1-4=Та так, я вже цим користувався. Дійсно непогана річ, якщо тобі щастить!
+
+
+# Brok
+### I'll give it a go if I find time today.
+PC02_AD_TRASHERHUNT1-5=Спробую ще раз, якщо знайду час сьогодні.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+### "Two great Katshu groups will perform next Wednesday in sector 54X. Free entry. Come join us!"
+PC02_AD_MUSIC1-1="Два чудові катшу-гурти виступатимуть наступної середи у Секторі 54X. Вхід вільний. Приєднуйтесь!"
+
+
+# Brok
+### Darn, this was last week. Missed it.
+PC02_AD_MUSIC1-2=Чорт, це було минулого тижня. Пропустив.
+
+
+#----------------------------------------------------
+# Brok
+### Huh? The floor is all cracked!
+PC02_FLOORCRACK_AD-1=Га? Підлога геть потріскана!
+
+
+# Brok
+### Maybe I shouldn't have jumped on it...
+PC02_FLOORCRACK_AD-2=Можливо, мені не варто було стрибати...
+
+
+# Brok
+### But... Hey! Look at that! An ad was hidden underneath!
+PC02_FLOORCRACK_AD-3=Але... Гей! Подивіться на це! Під нею була захована реклама!
+
+
+#----------------------------------------------------
+# Various - Brok encounters lasers blocking the way out
+### You've got mail! Pick it up!
+PC02_TO_PC03_MAIL1-1=У вас є пошта! Заберіть її!
+
+
+#----------------------------------------------------
+# Brok
+### The heck?!
+PC02_TO_PC03_REACT1-1=Що за чорт?!
+
+
+# Brok
+### That thing wasn't there yesterday!
+PC02_TO_PC03_REACT1-2=Учора цієї штуки тут не було!
+
+
+#----------------------------------------------------
+# Brok
+### No good. I can't get out of here until I check my mail!
+PC02_TO_PC03_REACT2-1=Погано. Я не можу вийти звідси, поки не перевірю пошту!
+
+
+#----------------------------------------------------
+# Brok - Brok hits his own door
+### Gotta make sure we're safe from outside threats!
+PC02_DOORBROK_HIT1-1=Треба переконатися, що ми в безпеці від зовнішніх загроз!
+
+
+#----------------------------------------------------
+# Brok
+### Yup! Very sturdy!
+PC02_DOORBROK_HIT2-1=Угу! Дуже міцні!
+
+
+#----------------------------------------------------
+# Various
+### Fingerprint not recognized. Please try again.
+PC02_MAILSYSTEM_HIT1-1=Відбиток пальця не розпізнано. Будь ласка, спробуйте ще раз.
+
+
+# Brok
+### Stupid scanner!
+PC02_MAILSYSTEM_HIT1-2=Дурнуватий сканер!
+
+
+#----------------------------------------------------
+# Various
+### Fingerprint not recognized. Please try again.
+PC02_MAILSYSTEM_HIT2-1=Відбиток пальця не розпізнано. Будь ласка, спробуйте ще раз.
+
+
+#----------------------------------------------------
+# Various - Brok hits the toilets door
+### Hey! Wait your turn!
+PC02_DOORTOILETS_HIT1-1=Гей! Чекайте на свою чергу!
+
+
+#----------------------------------------------------
+# Various
+### A little patience! I won't be long!
+PC02_DOORTOILETS_HIT2-1=Трохи терпіння! Я ненадовго!
+
+
+#----------------------------------------------------
+# Various
+### ...
+PC02_DOORTOILETS_HIT3-1=...
+
+
+#----------------------------------------------------
+# Various
+### Oh no. Not that guy again.
+PC02_DOORTOILETS_DAY2_HIT1-1=О ні. Тільки не він знову.
+
+
+#----------------------------------------------------
+# Various
+### Please stop... You're stressing me out...
+PC02_DOORTOILETS_DAY2_HIT2-1=Будь ласка, припиніть... Ви змушуєте мене нервувати...
+
+
+#----------------------------------------------------
+# Various
+### I'll get out whenever I feel like it! Okay?!
+PC02_DOORTOILETS_DAY2_HIT3-1=Я вийду, коли захочу! Ясно?!
+
+
+#----------------------------------------------------
+# Brok
+### Huh...? No reply?
+PC02_DOORTOILETS_DAY3_HIT1-1=Га...? Ніякої відповіді?
+
+
+# Brok
+### Great. Now I'm getting worried.
+PC02_DOORTOILETS_DAY3_HIT1-2=Чудово. Тепер я починаю хвилюватися.
+
+
+#----------------------------------------------------
+# Various
+### Will you stop already?! Can't a man do his business in peace?!
+PC02_DOORTOILETS_DAY3_HIT2-1=Ви припините нарешті?! Можу я справити свої потреби в тиші та спокої?!
+
+
+# Brok
+### Phew! I'm glad you're okay.
+PC02_DOORTOILETS_DAY3_HIT2-2=Фух! Радий, що з вами все гаразд.
+
+
+# Various
+### Huh...?
+PC02_DOORTOILETS_DAY3_HIT2-3=Що...?
+
+
+#----------------------------------------------------
+# Brok - Brok breaks the job board
+### Whoa... Good thing nobody saw this...
+PC02_JOBBOARD_DEATH1-1=Ого... Добре, що цього ніхто не бачив...
+
+
+#----------------------------------------------------
+# Brok - Sin calls Brok right after exiting his apartment
+### Another call?
+PC02_SINCALL1-1=Ще один дзвінок?
+
+
+# Sin
+### Hey! Where are you?!
+PC02_SINCALL1-2=Гей! Де ви?!
+
+
+# Brok
+### Well... On my way.
+PC02_SINCALL1-3=Ну... Вже йду.
+
+
+# Sin
+### I said it was urgent!
+PC02_SINCALL1-4=Я казав, що це терміново!
+
+
+# Sin
+### Please hurry!
+PC02_SINCALL1-5=Будь ласка, покваптеся!
+
+
+# Brok
+### Okay, okay!
+PC02_SINCALL1-6=Добре, добре!
+
+
+# Unknown
+### [...]
+PC02_SINCALL1-7=[...]
+
+
+# Brok
+### Gee... What's up with that guy?
+PC02_SINCALL1-8=Ну й ну... Що не так із цим хлопцем?
+
+
+# Brok
+### Never had such a stressed client before.
+PC02_SINCALL1-9=У мене ще ніколи не було такого знервованого клієнта.
+
+
+# Brok
+### That doesn't bode well.
+PC02_SINCALL1-10=Це не віщує нічого доброго.
+
+
+#----------------------------------------------------
+# Brok - Day 2 - Brok checks who put the pill under the door, Graff has fainted
+### ...!
+PC02_STORY180_DRONEA-1=...!
+
+
+# Brok
+### A drone...?
+PC02_STORY180_DRONEA-2=Дрон...?
+
+
+# Brok
+### Who sent it?
+PC02_STORY180_DRONEA-3=Хто його прислав?
+
+
+# Brok
+### ...
+PC02_STORY180_DRONEA-4=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Doesn't matter. I better give that pill to Graff, and fast!
+PC02_STORY180_DRONEA-5=Неважливо. Краще я віддам цю пігулку Граффові, якнайшвидше!
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,2545 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Director (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Unknown (Unknown)
+#     Director - Brok (Unknown)
+#     Gherkin - Brok (Unknown)
+#     RJ - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#=HACKER OUTSIDE
+#-------------------------------
+
+#----- Interactions --------
+### Back street
+PC_BACKSTREET=Провулок
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### To hacker street
+PC_TO_HACKER=До провулка гакера
+
+
+
+#----- Choices / Items --------
+### A chunk of pipe!
+GOT_PIPECHUNK=Шматок труби!
+
+
+#----- Topics --------
+### Convince
+TOPIC_CONVINCE=Переконати
+
+### Entrance
+TOPIC_ENTERING=Вхід
+
+### Distract
+TOPIC_DISTRACT=Відволікти
+
+### Provoke
+TOPIC_PROVOKE=Спровокувати
+
+
+### Are you ready? There's no turning back!
+PC14B_READY_CHOICE=Готовий? Шляху назад немає!
+
+### Not yet
+PC14B_READY_NOTYET=Ще ні
+
+### Ask for more info
+PC_ASKMORE=Розпитати детальніше
+
+### Refuse
+PC_REFUSE=Відмовитися
+
+### Accept?
+PC_ACCEPT=Прийняти?
+
+
+#----- Dialog --------
+# Brok - Day 2 - R.J. is guarding the entrance to the Hacker's place. He's angry at Brok because he either tricked him or knocked him out to escape jail
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.?
+PC14B_RJ_FIRST1-1=Р. Джею?
+
+
+# RJ
+### You!
+PC14B_RJ_FIRST1-2=Ти!
+
+
+# RJ
+### Because of you...
+PC14B_RJ_FIRST1-3=Через тебе...
+
+
+# RJ
+### All your fault!
+PC14B_RJ_FIRST1-4=Усе через тебе!
+
+
+# Brok
+### You mean...
+PC14B_RJ_FIRST1-5=Тобто...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Ah... I get it. Wes did mention firing you earlier.
+PC14B_RJ_FIRST1-6=А... Зрозумів. Вес казав, що звільнить тебе.
+
+
+# RJ
+### Yeah!
+PC14B_RJ_FIRST1-7=Ага!
+
+
+# Brok
+### Then...
+PC14B_RJ_FIRST1-8=Тоді...
+
+
+# Brok
+### How come you've still got your police attire?
+PC14B_RJ_FIRST1-9=Чому на тобі досі поліцейська форма?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Da boss Wes wanted me to keep'em.
+PC14B_RJ_FIRST1-10=Бос Вес хотів, шоб я залишив її собі.
+
+
+# Brok
+### Is that so...
+PC14B_RJ_FIRST1-11=От воно як...
+
+
+# Brok
+### Who are you working for, then?
+PC14B_RJ_FIRST1-12=То на кого ти тепер працюєш?
+
+
+# RJ
+### Not your business.
+PC14B_RJ_FIRST1-13=Не твоє діло.
+
+
+# Brok
+### Oh, come on! It's obvious you're guarding this entrance.
+PC14B_RJ_FIRST1-14=Та ну! Очевидно ж, що ти охороняєш цей вхід.
+
+
+# RJ
+### Get lost.
+PC14B_RJ_FIRST1-15=Геть.
+
+
+# Brok
+### (He won't tell but...)
+PC14B_RJ_FIRST1-16=(Він не скаже, але...)
+
+
+# Brok
+### (Two-to-one the man I'm looking for is inside!)
+PC14B_RJ_FIRST1-17=(Ставлю два проти одного, що той, кого я шукаю, всередині!)
+
+
+#----------------------------------------------------
+# Brok
+### Listen.
+PC14B_RJ_CONVINCE1-1=Послухай.
+
+
+# Brok
+### I'm truly sorry you lost your job. I never meant for this to happen.
+PC14B_RJ_CONVINCE1-2=Мені справді шкода, що ти втратив роботу. Я не хотів, щоб так сталося.
+
+
+# RJ
+### Hooey baloney.
+PC14B_RJ_CONVINCE1-3=Маячня повна.
+
+
+# Brok
+### Just needed to get out of that cell, by any means possible.
+PC14B_RJ_CONVINCE1-4=Мені просто треба було вибратися з тієї камери будь-якою ціною.
+
+
+# Brok
+### Ya see, I have a son...
+PC14B_RJ_CONVINCE1-5=Розумієш, у мене є син...
+
+
+# RJ
+### Dun care.
+PC14B_RJ_CONVINCE1-6=Мені байдуже.
+
+
+# Brok
+### I made a promise to him. I just couldn't break it.
+PC14B_RJ_CONVINCE1-7=Я дав йому обіцянку. Не міг її порушити.
+
+
+# RJ
+### Liar.
+PC14B_RJ_CONVINCE1-8=Брехло.
+
+
+# Brok
+### (No use. Gotta try something else.)
+PC14B_RJ_CONVINCE1-9=(Марно. Треба спробувати щось інше.)
+
+
+#----------------------------------------------------
+# Brok
+### Relax. You shouldn't worry.
+PC14B_RJ_CONVINCE2-1=Розслабся. Тобі не варто хвилюватися.
+
+
+# Brok
+### After all... You've found a new job, haven't you?
+PC14B_RJ_CONVINCE2-2=Зрештою... Ти ж знайшов нову роботу, еге ж?
+
+
+# Brok
+### Many people can have a use for a big guy like yourself!
+PC14B_RJ_CONVINCE2-3=Багато хто захоче скористатися таким кремезним хлопцем, як ти!
+
+
+# RJ
+### A use?...
+PC14B_RJ_CONVINCE2-4=Скористатися...?
+
+
+# RJ
+### Use me?!
+PC14B_RJ_CONVINCE2-5=Скористатися мною?!
+
+
+# Brok
+### Erm... I didn't mean it like that...
+PC14B_RJ_CONVINCE2-6=Е-е... Я не це мав на увазі...
+
+
+# Brok
+### Sorry.
+PC14B_RJ_CONVINCE2-7=Вибач.
+
+
+# Brok
+### We're... still friends, right?...
+PC14B_RJ_CONVINCE2-8=Ми ж... усе ще друзі, правда...?
+
+
+# RJ
+### Friends?! Pft!
+PC14B_RJ_CONVINCE2-9=Друзі?! Пхе!
+
+
+# Brok
+### (Argh! It's raining splutter!)
+PC14B_RJ_CONVINCE2-10=(Ар-р! Забризкав усе слюною!)
+
+
+#----------------------------------------------------
+# Brok
+### Tell me. What can I do for you?
+PC14B_RJ_CONVINCE3-1=Скажи мені. Чим я можу тобі допомогти?
+
+
+# RJ
+### Get out of my sight.
+PC14B_RJ_CONVINCE3-2=Забирайся з очей моїх.
+
+
+# Brok
+### Well...
+PC14B_RJ_CONVINCE3-3=Ну...
+
+
+# Brok
+### Can't do but let's see.
+PC14B_RJ_CONVINCE3-4=Цього зробити не можу, але подивимось.
+
+
+# Brok
+### Surely I can offer you something to even the score?
+PC14B_RJ_CONVINCE3-5=Певно, я можу запропонувати тобі щось, аби ми були квити?
+
+
+# RJ
+### GET. OUT!
+PC14B_RJ_CONVINCE3-6=ЗА-БИ-РАЙ-СЯ!
+
+
+# Brok
+### ...I'll take that as a yes.
+PC14B_RJ_CONVINCE3-7=...Буду вважати, що це згода.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Good job, Brok...)
+PC14B_RJ_THINK1-1=(Чудова робота, Броку...)
+
+
+# Brok
+### (You've ruined yet another existence.)
+PC14B_RJ_THINK1-2=(Ти зіпсував ще одне життя.)
+
+
+#----------------------------------------------------
+# Brok
+### Nice job, soldier! You didn't move an inch!
+PC14B_RJ_WELCOME1-1=Чудова робота, солдате! Ти ані на міліметр не зрушив з місця!
+
+
+# RJ
+### ...?
+PC14B_RJ_WELCOME1-2=...?
+
+
+# Brok
+### (I guess he never was in the military)
+PC14B_RJ_WELCOME1-3=(Мабуть, він ніколи й не служив в армії.)
+
+
+#----------------------------------------------------
+# Brok
+### May I enter?
+PC14B_RJ_WELCOME2-1=Можу я увійти?
+
+
+# RJ
+### No!
+PC14B_RJ_WELCOME2-2=Ні!
+
+
+#----------------------------------------------------
+# Brok
+### Okay, so I can't enter.
+PC14B_RJ_WELCOME3-1=Гаразд, увійти не вийде.
+
+
+# Brok
+### At least let me take a peek!
+PC14B_RJ_WELCOME3-2=Дай хоч поглянути!
+
+
+# RJ
+### I don't have one.
+PC14B_RJ_WELCOME3-3=Нічого тобі не дам.
+
+
+# Brok
+### ...(Sigh.)
+PC14B_RJ_WELCOME3-4=...(Зітхає.)
+
+
+#----------------------------------------------------
+# Brok
+### Let's say... I'm not me.
+PC14B_RJ_ENTER1-1=Припустімо... що я - це не я.
+
+
+# RJ
+### You... not you?
+PC14B_RJ_ENTER1-2=Ти... не ти?
+
+
+# Brok
+### Yes. I'm someone else.
+PC14B_RJ_ENTER1-3=Так. Я хтось інший.
+
+
+# RJ
+### Oh!
+PC14B_RJ_ENTER1-4=О!
+
+
+# Brok
+### Can I enter, then?
+PC14B_RJ_ENTER1-5=Тоді я можу увійти?
+
+
+# RJ
+### No!
+PC14B_RJ_ENTER1-6=Ні!
+
+
+# RJ
+### You're a croc.
+PC14B_RJ_ENTER1-7=Ти крокодил.
+
+
+# RJ
+### No croc allowed.
+PC14B_RJ_ENTER1-8=Крокодилам не можна.
+
+
+# Brok
+### But I said I'm not me!
+PC14B_RJ_ENTER1-9=Але ж я сказав, що це не я!
+
+
+# RJ
+### ...
+PC14B_RJ_ENTER1-10=...
+
+
+# RJ
+### Stop confusing me.
+PC14B_RJ_ENTER1-11=Досить плутати мене.
+
+
+#----------------------------------------------------
+# Brok
+### So... No croc allowed, huh?
+PC14B_RJ_ENTER2-1=Отже... Крокодилам вхід заборонено, так?
+
+
+# Brok
+### What if I say... I'm actually a cat?
+PC14B_RJ_ENTER2-2=А що, як я скажу... що насправді я - кіт?
+
+
+# RJ
+### Argh!
+PC14B_RJ_ENTER2-3=Ар-р!
+
+
+# RJ
+### Stay away! Or I'll get sick!
+PC14B_RJ_ENTER2-4=Тримайся осторонь! Бо мені стане зле!
+
+
+# Brok
+### True. You're allergic to cat fur.
+PC14B_RJ_ENTER2-5=Дійсно. У тебе ж алергія на котячу шерсть.
+
+
+# Brok
+### (Hmm...)
+PC14B_RJ_ENTER2-6=(Гмм...)
+
+
+#----------------------------------------------------
+# Brok
+### (Judging from his replies, I think he lets some people pass.)
+PC14B_RJ_ENTER3-1=(Судячи з його відповідей, декого він усе ж пропускає.)
+
+
+# Brok
+### (But there are so many possibilities...)
+PC14B_RJ_ENTER3-2=(Але варіантів так багато...)
+
+
+#----------------------------------------------------
+# Brok
+### I'm an elephant!
+PC14B_RJ_ENTER_ELEPHANT-1=Я слон!
+
+
+# RJ
+### Oh? Okay.
+PC14B_RJ_ENTER_ELEPHANT-2=О? Гаразд.
+
+
+# RJ
+### Come.
+PC14B_RJ_ENTER_ELEPHANT-3=Заходь.
+
+
+# Brok
+### (...!)
+PC14B_RJ_ENTER_ELEPHANT-4=(...!)
+
+
+# RJ
+### Wait!
+PC14B_RJ_ENTER_ELEPHANT-5=Чекай!
+
+
+# RJ
+### Ya're a croc! Not an elephant!
+PC14B_RJ_ENTER_ELEPHANT-6=Ти ж крокодил! Не слон!
+
+
+# RJ
+### Liar!!!
+PC14B_RJ_ENTER_ELEPHANT-7=Брехло!!!
+
+
+# Brok
+### Erm... But...
+PC14B_RJ_ENTER_ELEPHANT-8=Е-е... Але ж...
+
+
+# RJ
+### OUT!!!
+PC14B_RJ_ENTER_ELEPHANT-9=ГЕТЬ!!!
+
+
+# Brok
+### (Aww... It almost worked!)
+PC14B_RJ_ENTER_ELEPHANT-10=(Ох... Ледь не спрацювало!)
+
+
+#----------------------------------------------------
+# Brok
+### Look! Over there!
+PC14B_RJ_DISTRACT1-1=Дивись! Он там!
+
+
+# Brok
+### A flying pink elephant!
+PC14B_RJ_DISTRACT1-2=Летючий рожевий слон!
+
+
+# RJ
+### Oh?
+PC14B_RJ_DISTRACT1-3=Га?
+
+
+# RJ - RJ only allows elephants to enter but Brok doesn't know yet
+### Can enter.
+PC14B_RJ_DISTRACT1-4=Може зайти.
+
+
+# Brok
+### Uh?
+PC14B_RJ_DISTRACT1-5=Га?
+
+
+# RJ
+### Hey? Where is that elephant?
+PC14B_RJ_DISTRACT1-6=Ей? А де слон?
+
+
+# Brok
+### He... must have flown away.
+PC14B_RJ_DISTRACT1-7=Він... мабуть, полетів.
+
+
+# RJ
+### Oh.
+PC14B_RJ_DISTRACT1-8=О.
+
+
+# Brok
+### (What was that?)
+PC14B_RJ_DISTRACT1-9=(Що це зараз було?)
+
+
+#----------------------------------------------------
+# Brok
+### I can hear someone shouting your name!
+PC14B_RJ_DISTRACT2-1=Я чую, як хтось кричить твоє ім'я!
+
+
+# RJ
+### What? Where?
+PC14B_RJ_DISTRACT2-2=Шо? Де?
+
+
+# Brok
+### It came from inside!
+PC14B_RJ_DISTRACT2-3=Зсередини!
+
+
+# RJ
+### Da boss?...
+PC14B_RJ_DISTRACT2-4=Бос...?
+
+
+# RJ
+### Don't hear anything.
+PC14B_RJ_DISTRACT2-5=Нічого не чую.
+
+
+# Brok
+### You sure? Better check.
+PC14B_RJ_DISTRACT2-6=Ти певен? Краще перевір.
+
+
+# RJ
+### Nah. I have good ears.
+PC14B_RJ_DISTRACT2-7=Та ні. У мене слух добрий.
+
+
+# RJ
+### Stop tricking me!
+PC14B_RJ_DISTRACT2-8=Досить мене дурити!
+
+
+# Brok
+### (Not so dumb after all...)
+PC14B_RJ_DISTRACT2-9=(А він не такий уже й дурний...)
+
+
+#----------------------------------------------------
+# Brok
+### (He won't be fooled so easily.)
+PC14B_RJ_DISTRACT3-1=(Його так просто не проведеш.)
+
+
+# Brok
+### (Time to think...)
+PC14B_RJ_DISTRACT3-2=(Час подумати...)
+
+
+#----------------------------------------------------
+# Brok
+### Yeah, well you got what you deserved! You fat... meanie!
+PC14B_RJ_PROVOKE1-1=Ага, ти отримав по заслугах! Ти, товстий... паскуднику!
+
+
+# RJ
+### What...?!
+PC14B_RJ_PROVOKE1-2=Що...?!
+
+
+# Brok
+### Oh, did I say meanie? I meant... menial!
+PC14B_RJ_PROVOKE1-3=Ой, я сказав "паскудник"? Я мав на увазі... прислужник!
+
+
+# RJ
+### ...
+PC14B_RJ_PROVOKE1-4=...
+
+
+#----------------------------------------------------
+# Brok
+### You're so ugly! I bet your mother suffocated when she gave birth to you!
+PC14B_RJ_PROVOKE2-1=Ти такий потворний! Б'юся об заклад, твоя матір задихнулася, коли народжувала тебе!
+
+
+# RJ
+### .....
+PC14B_RJ_PROVOKE2-2=.....
+
+
+#----------------------------------------------------
+# Brok
+### Guarding is the perfect job for you! With so much fat, no one could move you out of the way!
+PC14B_RJ_PROVOKE3-1=Охоронець - ідеальна робота для тебе! З такою кількістю жиру тебе ніхто з місця не зрушить!
+
+
+# RJ
+### .......
+PC14B_RJ_PROVOKE3-2=.......
+
+
+#----------------------------------------------------
+# Brok
+### I'll buy you a toothbrush! With such terrible breath you obviously can't afford one.
+PC14B_RJ_PROVOKE4-1=Я куплю тобі зубну щітку! З таким смердючим диханням ти явно не можеш її собі дозволити.
+
+
+# RJ
+### ...........
+PC14B_RJ_PROVOKE4-2=...........
+
+
+#----------------------------------------------------
+# Brok
+### So, two Bananas walk into a bar and...
+PC14B_RJ_PROVOKE5-1=Коротше, заходять двоє бананів у бар і...
+
+
+# RJ
+### Shut up!!!
+PC14B_RJ_PROVOKE5-2=Замовкни!!!
+
+
+# Brok
+### But it's a good joke!
+PC14B_RJ_PROVOKE5-3=Але ж це хороший анекдот!
+
+
+# RJ
+### ENOUGH!!!
+PC14B_RJ_PROVOKE5-4=ДОСИТЬ!!!
+
+
+#----------------------------------------------------
+# RJ - When we hit R.J., he doesn't seem to react
+### ...
+PC14B_RJ_HIT1-1=...
+
+
+# Brok
+### Erm...
+PC14B_RJ_HIT1-2=Е-е...
+
+
+# Brok
+### (No reaction?...)
+PC14B_RJ_HIT1-3=(Жодної реакції...?)
+
+
+#----------------------------------------------------
+# RJ
+### .......
+PC14B_RJ_HIT2-1=.......
+
+
+# Brok
+### Oops!...
+PC14B_RJ_HIT2-2=Ой...!
+
+
+#----------------------------------------------------
+# RJ
+### ................
+PC14B_RJ_HIT3-1=................
+
+
+# Brok
+### ...
+PC14B_RJ_HIT3-2=...
+
+
+# Brok
+### (Is he a statue or what?)
+PC14B_RJ_HIT3-3=(Він що, якась статуя?)
+
+
+#----------------------------------------------------
+# RJ
+### ........................
+PC14B_RJ_HIT4-1=........................
+
+
+# Brok
+### You're like a punching bag! So much fun!
+PC14B_RJ_HIT4-2=Ти як боксерська груша! Суцільне задоволення!
+
+
+#----------------------------------------------------
+# RJ
+### YA'RE GONNA GET IT!!!
+PC14B_RJ_HIT5-1=ЗАРАЗ ТИ ОТРИМАЄШ!!!
+
+
+#----------------------------------------------------
+# Brok
+### I give up.
+PC14B_RJ_EXIT1-1=Я здаюся.
+
+
+# RJ
+### Good!
+PC14B_RJ_EXIT1-2=І правильно!
+
+
+#----------------------------------------------------
+# Brok
+### I'll come back!
+PC14B_RJ_EXIT2-1=Я ще повернуся!
+
+
+# RJ
+### Ya better not!
+PC14B_RJ_EXIT2-2=Краще не треба!
+
+
+#----------------------------------------------------
+# Brok
+### Here's for you!
+PC14B_RJ_INV_DEFAULT1-1=Це тобі!
+
+
+# RJ
+### What dis?
+PC14B_RJ_INV_DEFAULT1-2=Шо це?
+
+
+# Brok
+### Doesn't matter! Take it!
+PC14B_RJ_INV_DEFAULT1-3=Неважливо! Бери!
+
+
+# RJ
+### No.
+PC14B_RJ_INV_DEFAULT1-4=Ні.
+
+
+# Brok
+### Hmph... You could at least thank me!
+PC14B_RJ_INV_DEFAULT1-5=Гм-м... Міг би хоч подякувати!
+
+
+#----------------------------------------------------
+# Brok
+### Would this help you hibernate?
+PC14B_RJ_INV_DEFAULT2-1=Це допоможе тобі залягти в сплячку?
+
+
+# RJ
+### Nah. Dun hibernate.
+PC14B_RJ_INV_DEFAULT2-2=Та ні. Я не впадаю в сплячку.
+
+
+# Brok
+### Too bad. That would help. (me)
+PC14B_RJ_INV_DEFAULT2-3=Шкода. Це було би корисно. (для мене)
+
+
+#----------------------------------------------------
+# RJ
+### Blasted croc!
+PC14B_RJ_GAMEOVER1-1=Клятий крок!
+
+
+# RJ
+### Broke your neck! Ya fool!
+PC14B_RJ_GAMEOVER1-2=Зламав тобі шию! Дурню!
+
+
+# RJ
+### ...
+PC14B_RJ_GAMEOVER1-3=...
+
+
+# RJ
+### Oh... N-no...
+PC14B_RJ_GAMEOVER1-4=О... Н-ні...
+
+
+# RJ
+### I... am... a killer?...
+PC14B_RJ_GAMEOVER1-5=Я... вбивця...?
+
+
+# RJ
+### ...
+PC14B_RJ_GAMEOVER1-6=...
+
+
+# RJ
+### You...
+PC14B_RJ_GAMEOVER1-7=Ти...
+
+
+# RJ
+### You ruined my life! Even more!
+PC14B_RJ_GAMEOVER1-8=Ти зруйнував моє життя! Ще більше!
+
+
+# RJ
+### AAAARGH!!! I HATE YOU!!!
+PC14B_RJ_GAMEOVER1-9=ААА-АР-Р!!! НЕНАВИДЖУ ТЕБЕ!!!
+
+
+#----------------------------------------------------
+# Brok
+### He's okay. Just stunned.
+PC14B_RJ_BEATEN1-1=Він у порядку. Просто оглушений.
+
+
+# Brok
+### I hate doing this but... You've forced me, buddy.
+PC14B_RJ_BEATEN1-2=Ненавиджу це робити, але... Ти сам мене змусив, приятелю.
+
+
+# Brok
+### Glad I made it out alive, though. He packs quite the punch!
+PC14B_RJ_BEATEN1-3=Радий, що вибрався живим. Б'є він добряче!
+
+
+#----------------------------------------------------
+# RJ
+### ...
+PC14B_RJ_PREVENTS1-1=...
+
+
+# Brok
+### May I...?
+PC14B_RJ_PREVENTS1-2=Можна я...?
+
+
+# RJ
+### Nuh-uh.
+PC14B_RJ_PREVENTS1-3=Та ні.
+
+
+#----------------------------------------------------
+# Brok
+### Let me through!
+PC14B_RJ_PREVENTS2-1=Пропусти мене!
+
+
+# RJ
+### No.
+PC14B_RJ_PREVENTS2-2=Ні.
+
+
+# Brok
+### But... It's a matter of life and death!
+PC14B_RJ_PREVENTS2-3=Але... Це питання життя і смерті!
+
+
+# RJ
+### Then die.
+PC14B_RJ_PREVENTS2-4=Тоді вмирай.
+
+
+#----------------------------------------------------
+# Brok
+### Even he wouldn't be fooled by those wings alone.
+PC14B_RJ_WINGS1-1=Навіть його не проведеш самими лише крильцями.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm. The pipe alone wouldn't be enough. Any way to improve this?
+PC14B_RJ_PIPECHUNK1-1=Гмм. Самої труби буде замало. Як це можна покращити?
+
+
+#----------------------------------------------------
+# Brok
+### Somehow I doubt I could tie him up with that string.
+PC14B_RJ_STRING1-1=Щось я сумніваюся, що зможу зв'язати його цією мотузкою.
+
+
+#----------------------------------------------------
+# Brok
+### Sounds like an idea! But I'm not quite ready yet.
+PC14B_RJ_IDEA1-1=Звучить як гарна ідея! Але чогось не вистачає.
+
+
+# Brok
+### Let's try combining more stuff first!
+PC14B_RJ_IDEA1-2=Спробуємо об'єднати це з чимось ще!
+
+
+#----------------------------------------------------
+# Brok - Brok disguised himself as an elephant to fool R.J.
+### ...
+PC14B_RJ_DISGUISE1-1=...
+
+
+# RJ
+### ...?
+PC14B_RJ_DISGUISE1-2=...?
+
+
+# RJ - RJ doesn't recognize Brok under his disguise so he should talk in a formal way
+### Who are you? What you want?
+PC14B_RJ_DISGUISE1-3=Хто ви такий? Шо вам треба?
+
+
+# Brok
+### (Cough, cough)
+PC14B_RJ_DISGUISE1-4=(Кашляє)
+
+
+# Brok
+### May... I... enter...?
+PC14B_RJ_DISGUISE1-5=Чи можу... я... увійти...?
+
+
+# RJ
+### You're an elephant?
+PC14B_RJ_DISGUISE1-6=Ви слон?
+
+
+# Brok
+### Yup.
+PC14B_RJ_DISGUISE1-7=Угу.
+
+
+# Brok
+### I mean... (Cough) Yes, obviously.
+PC14B_RJ_DISGUISE1-8=Тобто... (Кашляє) Так, звичайно.
+
+
+# RJ
+### Hmm.
+PC14B_RJ_DISGUISE1-9=Гмм.
+
+
+# RJ
+### Alright. Enter.
+PC14B_RJ_DISGUISE1-10=Гаразд. Заходьте.
+
+
+# Brok
+### Good!
+PC14B_RJ_DISGUISE1-11=Чудово!
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### An old rubber-made pipe.
+PC14B_PIPE1-1=Стара гумова труба.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Past rulers made heavy use of these in the Slums as a cheaper alternative.
+PC14B_PIPE1-2=Колишні правителі масово використовували їх у Нетрях як дешеву альтернативу.
+
+
+# Brok
+### Before they realized they crumbled into pieces after a few years.
+PC14B_PIPE1-3=Перш ніж зрозуміли, що за кілька років вони розсипаються на шматки.
+
+
+#----------------------------------------------------
+# Brok
+### It's just rubbish. An interesting piece of rubbish, though!
+PC14B_PIPE2-1=Це просто непотріб. Хоча й цікавий шматок непотребу!
+
+
+#----------------------------------------------------
+# Brok
+### I got the best part. One chunk should be enough!
+PC14B_PIPE_CUT1-1=Я взяв найкращу частину. Одного шматка має вистачити!
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC14B_PIPE_CUTTING1-1=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### This part is still intact. Let's try cutting here...
+PC14B_PIPE_CUTTING2-1=Ця частина не пошкоджена. Спробуємо відрізати тут...
+
+
+# Brok
+### Then the other side...
+PC14B_PIPE_CUTTING2-2=А потім з іншого боку...
+
+
+#----------------------------------------------------
+# Brok
+### Perfect!
+PC14B_PIPE_CUTTING3-1=Ідеально!
+
+
+#----------------------------------------------------
+# Brok - Day 2 end of day - RJ isn't here
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hmm... Looks like my hacker friend went away.
+PC14B_DOOR_STORY190-1=Гмм... Схоже, мій друг-гакер кудись пішов.
+
+
+# Brok
+### Or locked himself in.
+PC14B_DOOR_STORY190-2=Або зачинився всередині.
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Come to this room with Dr. Gherkin and meet R.J. again in front of the Hacker's entrance
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.!
+PC14B_GHERKIN_FIRST-1=Р. Джею!
+
+
+# Gherkin
+### You know this policeman?
+PC14B_GHERKIN_FIRST-2=Ви знаєте цього поліцейського?
+
+
+# Brok
+### Yeah. With him around, that place is safe.
+PC14B_GHERKIN_FIRST-3=Ага. Поки він тут, це місце в безпеці.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### A-alright. I'll be over there fixing the Pipe-Pill then.
+PC14B_GHERKIN_FIRST-4=Д-добре. Тоді я буду отам, лагодити Пігулкомат.
+
+
+#----------------------------------------------------
+# RJ - If R.J. has bad relationship with Brok
+### ...
+PC14B_GHERKIN_FIRSTBAD-1=...
+
+
+# Brok
+### I assume you got your job back, then?
+PC14B_GHERKIN_FIRSTBAD-2=Підозрюю, що ти повернув свою роботу?
+
+
+# RJ
+### Yeah.
+PC14B_GHERKIN_FIRSTBAD-3=Ага.
+
+
+# RJ
+### But no thanks to you!
+PC14B_GHERKIN_FIRSTBAD-4=Але точно не завдяки тобі!
+
+
+# Brok
+### Sorry. I intended to convince him today but you beat me to it.
+PC14B_GHERKIN_FIRSTBAD-5=Вибач. Я збирався поговорити з ним сьогодні, але ти мене випередив.
+
+
+#----------------------------------------------------
+# RJ - If R.J. has good relationship with Brok
+### Hey, pal. (Cough)
+PC14B_GHERKIN_FIRSTGOOD-1=Привіт, друже. (Кашляє)
+
+
+# Brok
+### Got your job back?
+PC14B_GHERKIN_FIRSTGOOD-2=Повернув роботу?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Yeah. Hacker reconsidered.
+PC14B_GHERKIN_FIRSTGOOD-3=Ага. Гакер передумав.
+
+
+# Brok
+### I'm glad. I intended to convince him, but you beat me to it!
+PC14B_GHERKIN_FIRSTGOOD-4=Я радий. Я збирався поговорити з ним, але ти мене випередив!
+
+
+#----------------------------------------------------
+# Brok - Brok receives a text message on his phone
+### ...?
+PC14B_GHERKIN_FIRSTNEXT-1=...?
+
+
+# Brok
+### Another message...
+PC14B_GHERKIN_FIRSTNEXT-2=Знову повідомлення...
+
+
+#----------------------------------------------------
+# Brok
+### Enough. I need to clear that up.
+PC14B_GHERKIN_FIRST3-1=Досить. Треба з цим розібратися.
+
+
+# Brok
+### Who's sending me these?
+PC14B_GHERKIN_FIRST3-2=Хто мені їх надсилає?
+
+
+#----------------------------------------------------
+# RJ - Talk to R.J. who didn't take his pill and is very sick
+### (Cough, cough)
+PC14B_GHERKIN_RJ1-1=(Кашляє)
+
+
+# Brok
+### You don't look well.
+PC14B_GHERKIN_RJ1-2=Виглядаєш нездорово.
+
+
+# RJ
+### No pill.
+PC14B_GHERKIN_RJ1-3=Нема пігулки.
+
+
+# Brok
+### Should have guessed.
+PC14B_GHERKIN_RJ1-4=Мав би здогадатися.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Hold on a bit. The doctor here is fixing the Pipe-Pills. You should be able to get one soon.
+PC14B_GHERKIN_RJ1-5=Потерпи трішки. Доктор тут лагодить Пігулкомати. Скоро зможеш отримати свою пігулку.
+
+
+#----------------------------------------------------
+# RJ
+### Dun want your help.
+PC14B_GHERKIN_RJBAD1-1=Не треба твоєї допомоги.
+
+
+# Brok
+### Come on! Don't be stupid!
+PC14B_GHERKIN_RJBAD1-2=Та годі! Не будь дурним!
+
+
+# RJ
+### (Cough, cough)
+PC14B_GHERKIN_RJBAD1-3=(Кашляє)
+
+
+# Brok
+### In the meantime, I'd like to have a word to your boss.
+PC14B_GHERKIN_RJBAD1-4=А поки що я хотів би перекинутися словечком із твоїм босом.
+
+
+# RJ
+### No. Get outta here.
+PC14B_GHERKIN_RJBAD1-5=Ні. Забирайся звідси.
+
+
+# Brok
+### So that's how it's gonna be?
+PC14B_GHERKIN_RJBAD1-6=Отак, значить?
+
+
+# Brok
+### Very well. If it's a fight you want...
+PC14B_GHERKIN_RJBAD1-7=Ну гаразд. Якщо ти хочеш бійки...
+
+
+# RJ
+### (Cough, cough, cough)
+PC14B_GHERKIN_RJBAD1-8=(Сильно кашляє)
+
+
+# Brok
+### Seriously, man. You can barely stand on your feet.
+PC14B_GHERKIN_RJBAD1-9=Серйозно, друже. Ти ледь на ногах стоїш.
+
+
+# Brok
+### You'd never win.
+PC14B_GHERKIN_RJBAD1-10=Тобі не перемогти.
+
+
+# RJ
+### ...
+PC14B_GHERKIN_RJBAD1-11=...
+
+
+# RJ
+### Okay. Dun care.
+PC14B_GHERKIN_RJBAD1-12=Гаразд. Байдуже.
+
+
+# RJ
+### Enter.
+PC14B_GHERKIN_RJBAD1-13=Заходь.
+
+
+# Brok
+### Good decision.
+PC14B_GHERKIN_RJBAD1-14=Мудре рішення.
+
+
+#----------------------------------------------------
+# RJ
+### Good. (Cough, cough)
+PC14B_GHERKIN_RJGOOD1-1=Добре. (Кашляє)
+
+
+# RJ
+### (Cough, cough)
+PC14B_GHERKIN_RJGOOD1-2=(Кашляє)
+
+
+# Brok
+### (I should watch over him. He's really not okay...)
+PC14B_GHERKIN_RJGOOD1-3=(Треба за ним наглядати. Йому справді зле...)
+
+
+# Brok
+### In the meantime, I'd like to have a word to your boss.
+PC14B_GHERKIN_RJGOOD1-4=А поки що я хотів би перекинутися словечком із твоїм босом.
+
+
+# Brok
+### May I enter?
+PC14B_GHERKIN_RJGOOD1-5=Можу увійти?
+
+
+# RJ
+### Yeah. You're a client now. (Cough)
+PC14B_GHERKIN_RJGOOD1-6=Ага. Тепер ти клієнт. (Кашляє)
+
+
+# Brok
+### Nice, thanks.
+PC14B_GHERKIN_RJGOOD1-7=Чудово, дякую.
+
+
+#----------------------------------------------------
+# Brok - After exiting the hacker's place, R.J. is on the ground, unconscious
+### ...!
+PC14B_GHERKIN_RJ2-1=...!
+
+
+# RJ
+### ...
+PC14B_GHERKIN_RJ2-2=...
+
+
+# Brok
+### He's barely breathing...
+PC14B_GHERKIN_RJ2-3=Він ледь дихає...
+
+
+# Brok
+### The pollution must be affecting him!
+PC14B_GHERKIN_RJ2-4=Напевно, на нього впливає забруднення!
+
+
+# Brok
+### The situation is getting critical!
+PC14B_GHERKIN_RJ2-5=Ситуація стає критичною!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, Doctor! Come...
+PC14B_GHERKIN_RJ2B-1=Гей, докторе! Йдіть...
+
+
+#----------------------------------------------------
+# Brok
+### What?!
+PC14B_GHERKIN_RJ2C-1=Що?!
+
+
+# Brok
+### Where the heck is he?!
+PC14B_GHERKIN_RJ2C-2=Де його, чорт забирай, носить?!
+
+
+# Brok
+### Oh, great... I had a feeling this mission wouldn't go well.
+PC14B_GHERKIN_RJ2C-3=О, чудово... У мене було передчуття, що ця місія добром не закінчиться.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### With R.J. at death's door and the scientist out there alone, I have two emergencies on my plate...
+PC14B_GHERKIN_RJ2C-4=Коли Р. Джей при смерті, а науковець сам на сам із небезпекою, у мене на руках одразу дві надзвичайні ситуації...
+
+
+# Brok
+### What should I do?!
+PC14B_GHERKIN_RJ2C-5=Що ж мені робити?!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC14B_GHERKIN_RJ_COLLAPSED-1=...
+
+
+# Brok
+### No good...
+PC14B_GHERKIN_RJ_COLLAPSED-2=Ні...
+
+
+# Brok
+### He won't be getting any better without help!
+PC14B_GHERKIN_RJ_COLLAPSED-3=Без допомоги йому краще не стане!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### (Better not move until Dr. Gherkin is done)
+PC14B_GHERKIN_CANTMOVE-1=(Краще не рухатися, доки доктор Геркін не закінчить)
+
+
+#----------------------------------------------------
+# Brok - Jumping on RJ while he's collapsed...
+### Come on, man!
+PC14B_RJ_JUMPON-1=Та ну ж бо, друже!
+
+
+# Brok
+### Wake up!
+PC14B_RJ_JUMPON-2=Отямся!
+
+
+# Brok
+### ...
+PC14B_RJ_JUMPON-3=...
+
+
+# Brok
+### This isn't helping.
+PC14B_RJ_JUMPON-4=Це не допомагає.
+
+
+#----------------------------------------------------
+# Brok
+### He doesn't look good. What should I do?...
+PC14B_GHERKIN_RJ_BADSHAPE-1=Виглядає він кепсько. Що мені робити...?
+
+
+#----------------------------------------------------
+# Brok - Too late
+### ...
+PC14B_GHERKIN_RJ_DEAD-1=...
+
+
+#----------------------------------------------------
+# Brok - Giving him a pill
+### Here! Swallow this!
+PC14B_GHERKIN_RJ_GIVEPILL-1=Тримай! Проковтни це!
+
+
+# Brok
+### ...
+PC14B_GHERKIN_RJ_GIVEPILL-2=...
+
+
+# Brok
+### Let's hope this works.
+PC14B_GHERKIN_RJ_GIVEPILL-3=Будемо сподіватися, що це спрацює.
+
+
+# Brok
+### (Sigh) I'm getting sick.
+PC14B_GHERKIN_RJ_GIVEPILL-4=(Зітхає) Мене вже нудить.
+
+
+# Brok
+### Sick of all this suffering...
+PC14B_GHERKIN_RJ_GIVEPILL-5=Нудить від усіх цих страждань...
+
+
+# Brok
+### The more I fight for our future... The worse it becomes.
+PC14B_GHERKIN_RJ_GIVEPILL-6=Що більше я б'юся за наше майбутнє... То гірше стає.
+
+
+# Brok
+### What's the meaning of life in this place?
+PC14B_GHERKIN_RJ_GIVEPILL-7=Який сенс життя в цьому місці?
+
+
+# RJ
+### ...Friends...
+PC14B_GHERKIN_RJ_GIVEPILL-8=...Друзі...
+
+
+# Brok
+### ...!
+PC14B_GHERKIN_RJ_GIVEPILL-9=...!
+
+
+# RJ
+### ...Life is... To make friends.
+PC14B_GHERKIN_RJ_GIVEPILL-10=...Життя створене для того... Шоб заводити друзів.
+
+
+# Brok
+### I was starting to think you had hibernated, big bear!
+PC14B_GHERKIN_RJ_GIVEPILL-11=Я вже почав думати, що ти впав у сплячку, великий ведмедю!
+
+
+# RJ
+### You saved me!
+PC14B_GHERKIN_RJ_GIVEPILL-12=Ти врятував мене!
+
+
+#----------------------------------------------------
+# Brok
+### Woah!
+PC14B_GHERKIN_RJ_GIVEPILL2-1=Ого!
+
+
+# RJ
+### My friend!
+PC14B_GHERKIN_RJ_GIVEPILL2-2=Мій друже!
+
+
+# RJ
+### I owe you one!
+PC14B_GHERKIN_RJ_GIVEPILL2-3=Я твій боржник!
+
+
+# Brok
+### Ah, no problem. You'd have done the same for me!
+PC14B_GHERKIN_RJ_GIVEPILL2-4=А, та все нормально. Ти б зробив те саме для мене!
+
+
+#----------------------------------------------------
+# Brok
+### Actually... You can help.
+PC14B_GHERKIN_RJSAVEDALONE1-1=Власне... Ти можеш допомогти.
+
+
+# Brok
+### The scientist who accompanied me has vanished. I was supposed to protect him but...
+PC14B_GHERKIN_RJSAVEDALONE1-2=Науковець, який супроводжував мене, зник. Я мав захищати його, але...
+
+
+# RJ
+### No worries.
+PC14B_GHERKIN_RJSAVEDALONE1-3=Без проблем.
+
+
+# Brok
+### You know where he is?
+PC14B_GHERKIN_RJSAVEDALONE1-4=Ти знаєш, де він?
+
+
+# RJ
+### Yeah. Right there.
+PC14B_GHERKIN_RJSAVEDALONE1-5=Угу. Он там.
+
+
+#----------------------------------------------------
+# Brok - Dr Gherkin suddenly comes back
+### Where the heck have you been?!
+PC14B_GHERKIN_RJSAVEDALONE2-1=Де вас, чорт забирай, носило?!
+
+
+# Gherkin
+### S-sorry! You were gone for a while.
+PC14B_GHERKIN_RJSAVEDALONE2-2=В-вибачте! Вас довго не було.
+
+
+# Gherkin
+### I heard noise and... panicked...
+PC14B_GHERKIN_RJSAVEDALONE2-3=Я почув шум і... запанікував...
+
+
+# Brok
+### (Sigh)
+PC14B_GHERKIN_RJSAVEDALONE2-4=(Зітхає)
+
+
+# Brok
+### Don't do that ever again.
+PC14B_GHERKIN_RJSAVEDALONE2-5=Більше так не робіть.
+
+
+#----------------------------------------------------
+# Gherkin
+### I'm glad your friend is safe.
+PC14B_GHERKIN_RJSAVEDGHERKIN1-1=Радий, що ваш друг у безпеці.
+
+
+# Brok
+### Shall we continue our tour?
+PC14B_GHERKIN_RJSAVEDGHERKIN1-2=Продовжимо наш похід?
+
+
+#----------------------------------------------------
+# Gherkin - At this point we don't know who the journalist is yet
+### While I was away, I was contacted by a journalist.
+PC14B_GHERKIN_RJSAVED_AFTER-1=Поки мене не було, зі мною зв'язався журналіст.
+
+
+# Gherkin
+### They're willing to spread the word over the media about what's happening here.
+PC14B_GHERKIN_RJSAVED_AFTER-2=Він готовий розповсюдити в ЗМІ інформацію про те, що тут відбувається.
+
+
+# Brok
+### I believe we have a more important mission.
+PC14B_GHERKIN_RJSAVED_AFTER-3=Здається, у нас є важливіша місія.
+
+
+# Gherkin
+### D-don't we need all the help we can get?
+PC14B_GHERKIN_RJSAVED_AFTER-4=Д-допомога нам не завадить, чи не так?
+
+
+# Gherkin
+### They're waiting for us in Sector 56X. That's on our way.
+PC14B_GHERKIN_RJSAVED_AFTER-5=Він чекає на нас у Секторі 56X. Це по дорозі.
+
+
+# Brok
+### As you wish.
+PC14B_GHERKIN_RJSAVED_AFTER-6=Як скажете.
+
+
+# RJ
+### I come.
+PC14B_GHERKIN_RJSAVED_AFTER-7=Я йду.
+
+
+# Brok
+### Don't...
+PC14B_GHERKIN_RJSAVED_AFTER-8=Не треба...
+
+
+# Brok
+### You've got a job. Hold on to it.
+PC14B_GHERKIN_RJSAVED_AFTER-9=У тебе є робота. Тримайся за неї.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### That hacker may be despicable, he's still a valuable person who needs protection.
+PC14B_GHERKIN_RJSAVED_AFTER-10=Цей гакер може бути мерзотником, але він усе одно цінна особа, яка потребує захисту.
+
+
+# RJ
+### Okay my friend.
+PC14B_GHERKIN_RJSAVED_AFTER-11=Добре, друже.
+
+
+# RJ
+### If need me... Come.
+PC14B_GHERKIN_RJSAVED_AFTER-12=Якшо буду потрібен... Приходь.
+
+
+# RJ
+### I stay here.
+PC14B_GHERKIN_RJSAVED_AFTER-13=Я лишаюся тут.
+
+
+# Brok
+### Thanks...
+PC14B_GHERKIN_RJSAVED_AFTER-14=Дякую...
+
+
+# Brok
+### Let's go, Doctor!
+PC14B_GHERKIN_RJSAVED_AFTER-15=Ходімо, докторе!
+
+
+#----------------------------------------------------
+# RJ
+### I stay here. Go!
+PC14B_GHERKIN_RJAFTERSAVED-1=Я залишаюся тут. Ідіть!
+
+
+#----------------------------------------------------
+# Brok - Pipe pill interactions
+### Seems broken.
+PC14B_PIPEPILL_DAY2-1=Схоже, зламано.
+
+
+#----------------------------------------------------
+# Brok
+### As expected. Not a single pill in sight.
+PC14B_PIPEPILL_DAY3-1=Як я і очікував. Жодної пігулки.
+
+
+#----------------------------------------------------
+# Brok
+### Why isn't this working?!
+PC14B_PIPEPILL_STILLNOT-1=Чому ця штука не працює?!
+
+
+#----------------------------------------------------
+# Brok - When R.J. is unconscious he desperately need a pill
+### Please please please please...
+PC14B_PIPEPILL_GHERKINGONE-1=Будь ласка, будь ласка, будь ласка...
+
+
+# Brok
+### ...
+PC14B_PIPEPILL_GHERKINGONE-2=...
+
+
+# Brok
+### Argh! It's not working!
+PC14B_PIPEPILL_GHERKINGONE-3=Ар-р! Не працює!
+
+
+#----------------------------------------------------
+# Brok
+### Come on, junk! Drop a pill!
+PC14B_PIPEPILL_HIT-1=Ну ж бо, купа брухту! Виплюнь пігулку!
+
+
+#----------------------------------------------------
+# Brok
+### No... That guy won't help.
+PC14B_HACKER_GHERKIN_NOPE-1=Ні... Той хлопець не допоможе.
+
+
+#----------------------------------------------------
+# Gherkin - Coming back with Gherkin when RJ is unconscious, it might be too late (according to relationship)
+### Quick! Check on your friend!
+PC14B_GHERKIN_BACK1-1=Швидко! Перевірте свого друга!
+
+
+#----------------------------------------------------
+# Gherkin
+### Here's a pill!
+PC14B_GHERKIN_GIVEPILL-1=Ось, пігулка!
+
+
+#----------------------------------------------------
+# Brok
+### No... He's not breathing!
+PC14B_GHERKIN_TOOLATE-1=Ні... Він не дихає!
+
+
+# Brok
+### Come on, big bear... This is hardly the time to hibernate!
+PC14B_GHERKIN_TOOLATE-2=Давай, великий ведмедю... Зараз точно не час лягати в сплячку!
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-3=...
+
+
+# Brok
+### No good...
+PC14B_GHERKIN_TOOLATE-4=Нічого хорошого...
+
+
+# Brok
+### You're a doctor! Do something!!!
+PC14B_GHERKIN_TOOLATE-5=Ви ж лікар! Зробіть що-небудь!!!
+
+
+# Gherkin
+### Not that kind of doctor!
+PC14B_GHERKIN_TOOLATE-6=Це не по моїй частині!
+
+
+# Gherkin
+### But... Let me see.
+PC14B_GHERKIN_TOOLATE-7=Але... Дайте-но погляну.
+
+
+# Gherkin
+### ...
+PC14B_GHERKIN_TOOLATE-8=...
+
+
+# Gherkin
+### No pulse...
+PC14B_GHERKIN_TOOLATE-9=Пульсу немає...
+
+
+# Gherkin
+### I'm afraid... It's too late.
+PC14B_GHERKIN_TOOLATE-10=Боюсь... Вже запізно.
+
+
+# Brok
+### No!...
+PC14B_GHERKIN_TOOLATE-11=Ні...!
+
+
+# Brok
+### Did... Did I waste too much time...?
+PC14B_GHERKIN_TOOLATE-12=Ні... Хіба я згаяв надто багато часу...?
+
+
+# Brok
+### I refuse...!
+PC14B_GHERKIN_TOOLATE-13=Я відмовляюся вірити...!
+
+
+# Brok
+### (Hitting) Wake up!
+PC14B_GHERKIN_TOOLATE-14=(Б'є) Прокидайся!
+
+
+# Brok
+### (Hitting) WAKE UP!
+PC14B_GHERKIN_TOOLATE-15=(Б'є) ПРОКИДАЙСЯ!
+
+
+# Gherkin
+### Stop this!
+PC14B_GHERKIN_TOOLATE-16=Припиніть!
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-17=...
+
+
+# Brok
+### I don't... Didn't know him well but...
+PC14B_GHERKIN_TOOLATE-18=Я не... Не так добре його знав, але...
+
+
+# Brok
+### I... can't stand...
+PC14B_GHERKIN_TOOLATE-19=Я... не можу витримати...
+
+
+# Brok
+### Losing anyone...
+PC14B_GHERKIN_TOOLATE-20=Когось втрачати...
+
+
+# Gherkin
+### Of course... Nobody does.
+PC14B_GHERKIN_TOOLATE-21=Звісно... Ніхто не може.
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-22=...
+
+
+# Brok
+### We're... all going to die.
+PC14B_GHERKIN_TOOLATE-23=Ми... всі помремо.
+
+
+# Gherkin
+### Eventually, yes.
+PC14B_GHERKIN_TOOLATE-24=Зрештою, так.
+
+
+# Brok
+### I mean...
+PC14B_GHERKIN_TOOLATE-25=Я маю на увазі...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Everyone in the Slums. If not the pollution... The Tribots... The Squealers...
+PC14B_GHERKIN_TOOLATE-26=Усі в Нетрях. Якщо не забруднення... то Триботи... Верескуни...
+
+
+# Brok
+### All against us... What chance do we have?
+PC14B_GHERKIN_TOOLATE-27=Усі проти нас... Які в нас шанси?
+
+
+# Brok
+### What's the point?...
+PC14B_GHERKIN_TOOLATE-28=Який взагалі сенс...?
+
+
+# Gherkin
+### No!
+PC14B_GHERKIN_TOOLATE-29=Ні!
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-30=...
+
+
+# Gherkin
+### Y-you're right. We will probably fail.
+PC14B_GHERKIN_TOOLATE-31=В-ви маєте рацію. Ми, мабуть, зазнаємо невдачі.
+
+
+# Brok
+### Way to cheer up someone...
+PC14B_GHERKIN_TOOLATE-32=Вмієте ж ви підбадьорити...
+
+
+# Gherkin
+### B-but I'm here for this! We can't give up yet!
+PC14B_GHERKIN_TOOLATE-33=А-але я тут саме задля цього! Ми ще не можемо здаватися!
+
+
+# Gherkin
+### At least... We must try.
+PC14B_GHERKIN_TOOLATE-34=Принаймні... Ми маємо спробувати.
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-35=...
+
+
+# Brok
+### You're right. Obviously.
+PC14B_GHERKIN_TOOLATE-36=Ви маєте рацію. Очевидно.
+
+
+# Brok
+### But I'm getting tired of fighting for nothing.
+PC14B_GHERKIN_TOOLATE-37=Але я втомився боротися ні за що.
+
+
+# Gherkin
+### I didn't choose you randomly, Mister Crocodile detective. You're one of a kind.
+PC14B_GHERKIN_TOOLATE-38=Я обрав вас не випадково, пане детективе-крокодиле. Ви єдиний у своєму роді.
+
+
+# Gherkin
+### I'm putting my trust in you!
+PC14B_GHERKIN_TOOLATE-39=Я довіряю вам!
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-40=...
+
+
+# Gherkin
+### Listen.
+PC14B_GHERKIN_TOOLATE-41=Послухайте.
+
+
+# Gherkin - This part is very similar to PC14B_GHERKIN_RJSAVED_AFTER
+### While you were away, I was contacted by a journalist.
+PC14B_GHERKIN_TOOLATE-42=Поки вас не було, зі мною зв'язався журналіст.
+
+
+# Gherkin
+### They're willing to spread the word over the media about what's happening here.
+PC14B_GHERKIN_TOOLATE-43=Він готовий розповсюдити в ЗМІ інформацію про те, що тут відбувається.
+
+
+# Gherkin
+### They're waiting for us in Sector 56X. That's on our way.
+PC14B_GHERKIN_TOOLATE-44=Він чекає на нас у Секторі 56X. Це по дорозі.
+
+
+# Brok
+### Right... Whatever.
+PC14B_GHERKIN_TOOLATE-45=Гаразд... Як скажете.
+
+
+# Gherkin
+### Oh... And...
+PC14B_GHERKIN_TOOLATE-46=Ох... І...
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+### I'd call the Body Recycling service but... In our situation...
+PC14B_GHERKIN_TOOLATE-47=Я б викликав Службу Переробки Тіл, але... У нашій ситуації...
+
+
+# Brok
+### Yeah. Bringing more bots is a bad idea.
+PC14B_GHERKIN_TOOLATE-48=Угу. Приводити сюди нових ботів - погана ідея.
+
+
+# Gherkin
+### Sorry. We have to leave.
+PC14B_GHERKIN_TOOLATE-49=Вибачте. Нам пора йти.
+
+
+# Brok
+### ...
+PC14B_GHERKIN_TOOLATE-50=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Goodbye, R.J...
+PC14B_GHERKIN_TOOLATE-51=Прощавай, Р. Джею...
+
+
+# Brok
+### Wherever you are now...
+PC14B_GHERKIN_TOOLATE-52=Де б ти тепер не був...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Tell Lia... I'll be staying a little longer.
+PC14B_GHERKIN_TOOLATE-53=Передай Лії... що я побуду тут ще трохи.
+
+
+#----------------------------------------------------
+# Gherkin
+### Where are you going? I thought you'd help that bear.
+PC14B_GHERKIN_GOAWAYRJ-1=Куди ви йдете? Я думав, ви допоможете тому ведмедю.
+
+
+# Brok
+### Oops!
+PC14B_GHERKIN_GOAWAYRJ-2=Йой!
+
+
+#----------------------------------------------------
+# Brok - He's referring to the hacker.
+### I don't wanna enter. That guy couldn't care less.
+PC14B_GHERKIN_RJDEAD_ENTER-1=Я не хочу заходити. Тому хлопцю абсолютно байдуже.
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Looking for Graff at the end of the day
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Hey, R.J.!
+PC14B_LOOKGRAFF_RJ1-1=Привіт, Р. Джею!
+
+
+# Brok
+### How are you?
+PC14B_LOOKGRAFF_RJ1-2=Як ти?
+
+
+# RJ
+### Great! Thanks again.
+PC14B_LOOKGRAFF_RJ1-3=Чудово! Дякую ще раз.
+
+
+# RJ
+### But you...
+PC14B_LOOKGRAFF_RJ1-4=Але ти...
+
+
+# RJ
+### Look worried.
+PC14B_LOOKGRAFF_RJ1-5=Якийсь стурбований.
+
+
+# Brok
+### Yeah... I'm looking for my boy.
+PC14B_LOOKGRAFF_RJ1-6=Так... Шукаю свого малого.
+
+
+# RJ
+### Boy?...
+PC14B_LOOKGRAFF_RJ1-7=Малого...?
+
+
+# Brok
+### Grey cat. Sixteen. Blue eyes. And...
+PC14B_LOOKGRAFF_RJ1-8=Сірий кіт. Шістнадцять років. Блакитні очі. І...
+
+
+# Brok
+### A kinda depressed look.
+PC14B_LOOKGRAFF_RJ1-9=Трохи пригнічений вигляд.
+
+
+# RJ
+### Oh! Seen him!
+PC14B_LOOKGRAFF_RJ1-10=О! Бачив його!
+
+
+# Brok
+### Uh? You sure?
+PC14B_LOOKGRAFF_RJ1-11=Га? Ти певен?
+
+
+# RJ
+### Yeah. This afternoon.
+PC14B_LOOKGRAFF_RJ1-12=Угу. Сьогодні вдень.
+
+
+# RJ
+### With a friend. Like pig and otter.
+PC14B_LOOKGRAFF_RJ1-13=З другом. Схожий на свиню та видру.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Must be Ott. What were they doing here?
+PC14B_LOOKGRAFF_RJ1-14=Мабуть, це Отт. Що вони тут робили?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Asking questions. Pipe-Pill.
+PC14B_LOOKGRAFF_RJ1-15=Питали всяке. Про Пігулкомат.
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Told them Squealers plundered. Went to backstreet.
+PC14B_LOOKGRAFF_RJ1-16=Сказав їм, шо Верескуни пограбували його. Пішли в провулок.
+
+
+# Brok
+### The backstreet?!...
+PC14B_LOOKGRAFF_RJ1-17=У провулок...?!
+
+
+# RJ
+### Told them not.
+PC14B_LOOKGRAFF_RJ1-18=Казав їм, шоб не йшли.
+
+
+# RJ
+### Kids never listen.
+PC14B_LOOKGRAFF_RJ1-19=Діти ніколи не слухають.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... What did you get into?
+PC14B_LOOKGRAFF_RJ1-20=Граффе... У що ти вляпався?
+
+
+# Brok
+### Gotta go.
+PC14B_LOOKGRAFF_RJ1-21=Мушу бігти.
+
+
+#----------------------------------------------------
+# RJ
+### Wait!
+PC14B_LOOKGRAFF_RJ1B-1=Почекай!
+
+
+# RJ
+### I come with you.
+PC14B_LOOKGRAFF_RJ1B-2=Я піду з тобою.
+
+
+# Brok
+### Thanks but... I can handle this.
+PC14B_LOOKGRAFF_RJ1B-3=Дякую, але... Я впораюся сам.
+
+
+# RJ
+### My fault. Should have insisted!
+PC14B_LOOKGRAFF_RJ1B-4=Це моя вина. Треба було наполягти!
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers good fighters. Need my help.
+PC14B_LOOKGRAFF_RJ1B-5=Верескуни добре б'ються. Тобі потрібна допомога.
+
+
+# Brok
+### What about your boss?
+PC14B_LOOKGRAFF_RJ1B-6=А як же твій бос?
+
+
+# RJ
+### Who cares. Won't notice.
+PC14B_LOOKGRAFF_RJ1B-7=Плювати. Навіть не помітить.
+
+
+# Brok
+### Right. Thanks, pal.
+PC14B_LOOKGRAFF_RJ1B-8=Зрозуміло. Дякую, друже.
+
+
+# RJ
+### So! You ready?
+PC14B_LOOKGRAFF_RJ1B-9=Ну що! Готовий?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Maybe tons of Squealers to fight.
+PC14B_LOOKGRAFF_RJ1B-10=Можливо, доведеться битися з купою Верескунів.
+
+
+# RJ
+### Once we are surrounded... Cannot go back.
+PC14B_LOOKGRAFF_RJ1B-11=Коли нас оточать... Вороття назад не буде.
+
+
+#----------------------------------------------------
+# Brok
+### You're right. We can't jump into the lion's den without proper preparation.
+PC14B_LOOKGRAFF_NOTYET1-1=Ти маєш рацію. Ми не можемо стрибати в лев'ячу пащу без належної підготовки.
+
+
+# RJ
+### Thought so.
+PC14B_LOOKGRAFF_NOTYET1-2=Так і думав.
+
+
+# RJ
+### I wait here.
+PC14B_LOOKGRAFF_NOTYET1-3=Я почекаю тут.
+
+
+# Brok
+### Won't be long!
+PC14B_LOOKGRAFF_NOTYET1-4=Я швидко!
+
+
+#----------------------------------------------------
+# Brok
+### No time to waste! He may be in danger!
+PC14B_LOOKGRAFF_YES1-1=Не будемо гаяти часу! Він може бути в небезпеці!
+
+
+# RJ
+### Okay. Come on!
+PC14B_LOOKGRAFF_YES1-2=Гаразд. Ходімо!
+
+
+#----------------------------------------------------
+# RJ
+### So?... Ready?
+PC14B_LOOKGRAFF_RJ2-1=Ну що...? Готовий?
+
+
+#----------------------------------------------------
+# Brok - Get Shay's material from this room
+### Eh. For some reason I knew there'd be cables underneath those pipes!
+PC14B_MATERIAL1-1=Ех. Чомусь я так і знав, що під цими трубами будуть кабелі!
+
+
+#----------------------------------------------------
+# Director
+### ...
+PC14B_DIRECTOR_ALTERNATIVE-1=...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok.
+PC14B_DIRECTOR_ALTERNATIVE-2=Пане Броку.
+
+
+# Brok
+### Hey! You're...
+PC14B_DIRECTOR_ALTERNATIVE-3=Гей! Ви...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### The director of the Center. We met at the fair yesterday.
+PC14B_DIRECTOR_ALTERNATIVE-4=Директорка Центру. Ми зустрічалися вчора на ярмарку.
+
+
+# Director
+### I shouldn't ask you this...
+PC14B_DIRECTOR_ALTERNATIVE-5=Я не повинна вас про це просити...
+
+
+# Brok
+### ...?
+PC14B_DIRECTOR_ALTERNATIVE-6=...?
+
+
+# Director
+### You must be here to meet the Gloom.
+PC14B_DIRECTOR_ALTERNATIVE-7=Певно, ви тут, щоб зустрітися з Похмурим.
+
+
+# Director
+### I... need something from him.
+PC14B_DIRECTOR_ALTERNATIVE-8=Мені... дещо від нього потрібно.
+
+
+# Director
+### More precisely, a self-modifier chip.
+PC14B_DIRECTOR_ALTERNATIVE-9=Якщо точніше, то я шукаю чип самомодифікації.
+
+
+# Director
+### He refuses to give it to me... to a robot.
+PC14B_DIRECTOR_ALTERNATIVE-10=Він відмовляється давати його мені... адже я робот.
+
+
+# Brok
+### Self... modifier?
+PC14B_DIRECTOR_ALTERNATIVE-11=Само... модифікації?
+
+
+#----------------------------------------------------
+# Director
+### Robots and humans... We're not so different.
+PC14B_DIRECTOR_ASK-1=Роботи та люди... Ми не такі вже й різні.
+
+
+# Director
+### Humans only use a very small portion of their brain.
+PC14B_DIRECTOR_ASK-2=Люди використовують лише крихітну частину свого мозку.
+
+
+# Director
+### Not only this. Most humans genes are actually composed of junk DNA. Traces of evolution left behind.
+PC14B_DIRECTOR_ASK-3=І не тільки це. Більшість людських генів фактично складається зі сміттєвої ДНК. Сліди еволюції, залишкові елементи.
+
+
+# Brok
+### I don't get it...?
+PC14B_DIRECTOR_ASK-4=Не розумію...?
+
+
+# Director
+### Well... All robots are created with a far broader range of capacities than what they're used for.
+PC14B_DIRECTOR_ASK-5=Ну... Усі роботи створюються з набагато ширшими можливостями, ніж ті, що використовуються.
+
+
+# Director
+### Despite being a custom model, I was built with the same base.
+PC14B_DIRECTOR_ASK-6=Незважаючи на те, що я особлива модель, мене було створено на тій самій основі.
+
+
+# Director
+### I can only perform the tasks I was designed for, with performance safe for my hardware.
+PC14B_DIRECTOR_ASK-7=Я можу виконувати лише ті завдання, для яких мене розроблено, і з безпечною для мого апаратного забезпечення продуктивністю.
+
+
+# Brok
+### You mean...
+PC14B_DIRECTOR_ASK-8=Ви маєте на увазі...
+
+
+# Director
+### I want to improve my capacities.
+PC14B_DIRECTOR_ASK-9=Я хочу розширити свої можливості.
+
+
+# Brok
+### Is this allowed? Surely there's a reason why robots are limited after conception?
+PC14B_DIRECTOR_ASK-10=А це дозволено? Мабуть, є причина, чому роботів обмежують після виготовлення?
+
+
+# Director
+### You're right.
+PC14B_DIRECTOR_ASK-11=Ви маєте рацію.
+
+
+# Director
+### This is why I need you to be secretive about this.
+PC14B_DIRECTOR_ASK-12=Ось чому... Мені потрібно, щоб ви тримали це в таємниці.
+
+
+# Director
+### I... I want to make this a surprise for my son.
+PC14B_DIRECTOR_ASK-13=Я... я хочу зробити сюрприз своєму синові.
+
+
+# Brok
+### Hmm...
+PC14B_DIRECTOR_ASK-14=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### Alright. What do I get in exchange?
+PC14B_DIRECTOR_ACCEPT-1=Гаразд. Що я отримую натомість?
+
+
+# Director
+### We evaluate the relationship between parents and students.
+PC14B_DIRECTOR_ACCEPT-2=Ми оцінюємо стосунки між батьками та учнями.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### That means... this would help Graff?
+PC14B_DIRECTOR_ACCEPT-3=Тобто, ви кажете... що це допоможе Граффові?
+
+
+# Director
+### Indeed.
+PC14B_DIRECTOR_ACCEPT-4=Саме так.
+
+
+# Director
+### If you're successful, he will get bonus points.
+PC14B_DIRECTOR_ACCEPT-5=Якщо вам вдасться, він отримає бонусні бали.
+
+
+# Brok
+### (I won't pretend to understand how she's going to use this "present for her son" but...)
+PC14B_DIRECTOR_ACCEPT-6=(Не вдаватиму, ніби розумію, як вона використає цей "подарунок для сина", але...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (If finding this helps Graff... I couldn't care less.)
+PC14B_DIRECTOR_ACCEPT-7=(Якщо це допоможе Граффові... мені байдуже.)
+
+
+# Brok
+### Alright. You got this!
+PC14B_DIRECTOR_ACCEPT-8=Гаразд. Буде зроблено!
+
+
+# Director
+### From the bottom of my heart... Thank you.
+PC14B_DIRECTOR_ACCEPT-9=Від щирого серця... Дякую.
+
+
+# Brok
+### (Heart?)
+PC14B_DIRECTOR_ACCEPT-10=(Серця?)
+
+
+# Director
+### Please keep me informed.
+PC14B_DIRECTOR_ACCEPT-11=Будь ласка, тримайте мене в курсі.
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. I'm too busy right now.
+PC14B_DIRECTOR_REFUSE-1=Вибачте. Я зараз надто зайнятий.
+
+
+# Director
+### Oh...
+PC14B_DIRECTOR_REFUSE-2=Ох...
+
+
+# Director
+### I understand. I will find another way.
+PC14B_DIRECTOR_REFUSE-3=Я розумію. Знайду інший вихід.
+
+
+#----------------------------------------------------
+# Brok
+### Wait!...
+PC14B_DIRECTOR_HERSELF1-1=Зачекайте...!
+
+
+# Brok
+### Sorry for my... most likely embarassing curiosity but...
+PC14B_DIRECTOR_HERSELF1-2=Вибачте за мою... напевно, недоречну цікавість, але...
+
+
+# Brok
+### You're a... female robot?
+PC14B_DIRECTOR_HERSELF1-3=Ви... робот-жінка?
+
+
+# Director
+### Yes.
+PC14B_DIRECTOR_HERSELF1-4=Так.
+
+
+# Brok
+### I... I had never seen a robot talking and behaving exactly like a human before.
+PC14B_DIRECTOR_HERSELF1-5=Я... я ніколи раніше не бачив робота, який розмовляє й поводиться точно як людина.
+
+
+# Brok
+### You're... different.
+PC14B_DIRECTOR_HERSELF1-6=Ви... інакша.
+
+
+# Director
+### I'm a special model.
+PC14B_DIRECTOR_HERSELF1-7=Я особлива модель.
+
+
+# Brok
+### Are there others like yourself?
+PC14B_DIRECTOR_HERSELF1-8=А є інші такі, як ви?
+
+
+# Director
+### Well...
+PC14B_DIRECTOR_HERSELF1-9=Ну...
+
+
+# Director
+### Just one. Much more sophisticated than I am.
+PC14B_DIRECTOR_HERSELF1-10=Лише один. Набагато досконаліший за мене.
+
+
+# Director
+### Actually, you've already met it.
+PC14B_DIRECTOR_HERSELF1-11=Власне, ви з ним уже зустрічалися.
+
+
+# Brok
+### Did I?...
+PC14B_DIRECTOR_HERSELF1-12=Зустрічався...?
+
+
+# Director
+### Goodbye.
+PC14B_DIRECTOR_HERSELF1-13=Бувайте.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC14B_DIRECTOR_AFTER-1=...
+
+
+#----------------------------------------------------
+# Brok
+### He's useless.
+PC14B_HACKER_GHERKIN_USELESS-1=Він безнадійний.
+
+
+#----------------------------------------------------
+# Brok
+### He's dead.
+PC14B_HACKER_DEAD-1=Він мертвий.
+
+
+#----------------------------------------------------
+# RJ
+### That tickles!
+PC14B_RJ_HITAFTER-1=Лоскотно!
+
+
+#----------------------------------------------------
+# RJ
+### ...
+PC14B_RJ_INV_MONEY-1=...
+
+
+# Brok
+### Here. For you.
+PC14B_RJ_INV_MONEY-2=Тримай. Для тебе.
+
+
+# RJ
+### ...
+PC14B_RJ_INV_MONEY-3=...
+
+
+# Brok
+### Come on! Take it!
+PC14B_RJ_INV_MONEY-4=Та ну ж бо! Візьми!
+
+
+# RJ
+### Read my lips.
+PC14B_RJ_INV_MONEY-5=Читай по губах.
+
+
+# RJ
+### NO!
+PC14B_RJ_INV_MONEY-6=НІ!
+
+
+#----------------------------------------------------
+# RJ
+### A--choo!
+PC14B_RJ_CATFUR1-1=А-апчхи!
+
+
+# RJ
+### Argh!
+PC14B_RJ_CATFUR1-2=Ар-р!
+
+
+# RJ
+### Stay away! Or I'll get sick!
+PC14B_RJ_CATFUR1-3=Тримайся осторонь! Бо мені стане зле!
+
+
+#----------------------------------------------------
+# RJ
+### A--choo!
+PC14B_RJ_CATFUR2-1=А-апчхи!
+
+
+# RJ
+### Again?! Stop it!
+PC14B_RJ_CATFUR2-2=Знову?! Припини!
+
+
+# Brok
+### (That won't work...)
+PC14B_RJ_CATFUR2-3=(Це не спрацює...)
+
+
+#----------------------------------------------------
+# Unknown
+### If you get close, he'll either give you a big hug or crush you to death.
+COOP_PC14B_RJ1-1=Якщо ти підійдеш надто близько, він або міцно тебе обійме, або розчавить до смерті.
+
+
+# Unknown
+### No inbetween.
+COOP_PC14B_RJ1-2=Третього не дано.
+
+
+#----------------------------------------------------
+

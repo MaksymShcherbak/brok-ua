@@ -1,0 +1,1298 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Shay (Unknown)
+#     Shay - Graff (Unknown)
+#     Shay - Unknown (Unknown)
+#     Unknown - Shay (Unknown)
+
+#-------------------------------
+#= GRAFF --- SHAY INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Earbuds?
+GOT_EARBUDS=Навушники?
+
+### A detector!
+GOT_DETECTOR=Детектор!
+
+### A screwdriver!
+GOT_SCREWDRIVER=Викрутка!
+
+
+#----- Topics --------
+
+# ----- Topics --------
+### Detector
+TOPIC_DETECTOR=Детектор
+
+### Operator
+TOPIC_OPERATOR=Оператор
+
+### Fingerprint
+TOPIC_FINGERPRINT=Відбиток пальця
+
+### Ants
+TOPIC_ANTS=Мурахи
+
+### Convert smell
+TOPIC_SMELLCONVERT=Перетворення запаху
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Shay - Graff checks Shay's garage
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?
+GPC08B_TO_PC08C1-1=Граффе?
+
+
+# Shay
+### Did I allow you to wander around all my garage?
+GPC08B_TO_PC08C1-2=Хіба я дозволяла тобі вештатися гаражем?
+
+
+# Graff
+### Well... No but you're gonna do it?
+GPC08B_TO_PC08C1-3=Ну... Ні, але ви дозволите?
+
+
+# Shay
+### I'm sorry. This part is private.
+GPC08B_TO_PC08C1-4=Вибач. Ця частина приватна.
+
+
+# Graff
+### Okay...
+GPC08B_TO_PC08C1-5=Гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### I'm not allowed to go there. Shame.
+GPC08B_TO_PC08C2-1=Мені туди не можна. Шкода.
+
+
+#----------------------------------------------------
+# Graff
+### I guess... Something dangerous is in there?
+GPC08B_BOX1-1=Здається... Там є щось небезпечне?
+
+
+# Shay
+### What are you talking about? There's no danger inside my garage!
+GPC08B_BOX1-2=Ти про що? У моєму гаражі немає жодної небезпеки!
+
+
+# Graff
+### Not so sure about that. And why the symbol, then?
+GPC08B_BOX1-3=Не впевнений щодо цього. А для чого тоді той символ?
+
+
+# Shay
+### Oh! That's the anti-intruder detection system.
+GPC08B_BOX1-4=О! Це система виявлення порушників.
+
+
+# Shay
+### It's outside! Not inside.
+GPC08B_BOX1-5=Вона зовні! А не всередині.
+
+
+# Graff
+### Obviously. That makes a huge difference.
+GPC08B_BOX1-6=Звісно. Це все змінює.
+
+
+#----------------------------------------------------
+# Graff
+### The anti-intruder detection system.
+GPC08B_BOX2-1=Система виявлення порушників.
+
+
+#----------------------------------------------------
+# Graff
+### Wait. How does this work?
+GPC08B_BOX_ASK-1=Чекайте. А як це працює?
+
+
+# Shay
+### If a visitor presses the door button with the wrong intent, it unleashes a counter-reply to make sure they can't enter.
+GPC08B_BOX_ASK-2=Якщо відвідувач із лихими намірами натискає кнопку, то запускається протидія, яка не дозволить увійти.
+
+
+# Graff
+### That's perfect! Can I borrow it?
+GPC08B_BOX_ASK-3=Це ж ідеально! Можна мені запозичити її?
+
+
+# Shay
+### Well... It's very valuable. I've spent a lot of time...
+GPC08B_BOX_ASK-4=Ну... Вона дуже цінна. Я витратила купу часу...
+
+
+# Graff
+### Oh, please! My whole future depends on it!
+GPC08B_BOX_ASK-5=О, будь ласка! Від цього залежить усе моє майбутнє!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Alright! Brok asked me to deactivate it anyway, so...
+GPC08B_BOX_ASK-6=Ну гаразд! Брок усе одно просив мене деактивувати її, тож...
+
+
+# Shay
+### Go ahead. But leave the saw!
+GPC08B_BOX_ASK-7=Забирай. Але залиш хоча б пилу!
+
+
+# Graff
+### That saw was the counter-reply? I'll have to replace it with something softer...
+GPC08B_BOX_ASK-8=Та пила і була протидією? Мені доведеться замінити її чимось м'якшим...
+
+
+#----------------------------------------------------
+# Graff
+### By the way. Several people are going to use my machine.
+GPC08B_BOX_ASK2-1=До речі. Моєю машиною користуватиметься кілька людей.
+
+
+# Graff
+### I should only target one person. I can't take the risk to hurt anyone from the examination board!
+GPC08B_BOX_ASK2-2=Мені слід цілитися лише в одну особу. Я не можу ризикувати нашкодити комусь із екзаменаційної комісії!
+
+
+# Shay
+### Easy. Put that person's fingerprint on it!
+GPC08B_BOX_ASK2-3=Легко. Просто нанеси на неї відбиток пальця цієї особи!
+
+
+# Graff
+### ...
+GPC08B_BOX_ASK2-4=...
+
+
+# Graff
+### That won't be so simple...
+GPC08B_BOX_ASK2-5=Це буде не так просто...
+
+
+#----------------------------------------------------
+# Graff
+### The device is gone now.
+GPC08B_BOX_DONE-1=Пристрою тут вже немає.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### This could come straight from a retro livie!
+GPC08B_MASK1-1=Цю річ ніби дістали з ретро-серіалу!
+
+
+#----------------------------------------------------
+# Graff
+### Oh! It's full of small parts! Let's see...
+GPC08B_DRAWER1-1=О! Тут повно дрібних деталей! Подивимось...
+
+
+# Graff
+### ...
+GPC08B_DRAWER1-2=...
+
+
+# Graff
+### No, it doesn't seem anything will help me right now.
+GPC08B_DRAWER1-3=Ні, схоже, нічого з цього мені зараз не допоможе.
+
+
+# Graff
+### But I'll definitely come back to it for my future projects!
+GPC08B_DRAWER1-4=Але я обов'язково повернуся сюди для своїх майбутніх проєктів!
+
+
+#----------------------------------------------------
+# Graff
+### Gross.
+GPC08B_CUP1-1=Огидно.
+
+
+# Graff
+### She could go hand-in-hand with my old man!
+GPC08B_CUP1-2=Вона могла б позмагатися з моїм старим!
+
+
+#----------------------------------------------------
+# Graff
+### Some food reconstitutes.
+GPC08B_TUBES1-1=Якісь харчові замінники.
+
+
+# Graff - Some invented recipes, you can change to whatever you like
+### "Baked Diamond Fish Eggs With Sauce", "Tarantula Chops with Balsamic Reduction..."
+GPC08B_TUBES1-2="Запечена ікра діамантової риби під соусом", "Відбивні з тарантула під бальзамічним соусом..."
+
+
+# Graff
+### Sounds tasty but there's a serious lack of cheese!
+GPC08B_TUBES1-3=Звучить апетитно, але тут явно бракує сиру!
+
+
+# Shay
+### You eat cheese?
+GPC08B_TUBES1-4=Ти їси сир?
+
+
+# Graff
+### Yeah! The best ingredient in the world. Don't you?
+GPC08B_TUBES1-5=Так! Найкращий інгредієнт у світі. А ви ні?
+
+
+# Shay
+### What do you take me for? A mouse?...
+GPC08B_TUBES1-6=За кого ти мене маєш? За мишу...?
+
+
+# Graff
+### Right. I couldn't imagine a mouse inventor!
+GPC08B_TUBES1-7=Точно. Я не можу уявити мишу-винахідницю!
+
+
+#----------------------------------------------------
+# Graff
+### How lucky! A food incubator!
+GPC08B_INCUBATOR1-1=Оце комусь щастить! Інкубатор для їжі!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok hates instant meals. He never buys any.
+GPC08B_INCUBATOR1-2=Брок ненавидить страви швидкого приготування. Він ніколи їх не купує.
+
+
+# Graff
+### I'm sick of eating the same old vegetables and fruits every day.
+GPC08B_INCUBATOR1-3=Мені вже зле від того, що я щодня їм ті самі овочі та фрукти.
+
+
+#----------------------------------------------------
+# Graff
+### Nothing catches my eye. I really don't have time to rummage through this...
+GPC08B_MESS1-1=Нічого не привертає уваги. У мене справді немає часу нишпорити в цьому...
+
+
+#----------------------------------------------------
+# Graff
+### Of course! Everything here is dirty and messy except... the trash can.
+GPC08B_TRASH1-1=Авжеж! Усе тут брудне й захаращене, окрім... смітника.
+
+
+#----------------------------------------------------
+# Graff
+### Woah! That vehicle is awesome!
+GPC08B_VEHICLE1-1=Ого! Який крутий транспортний засіб!
+
+
+# Shay
+### You mean the vacuum cleaner?
+GPC08B_VEHICLE1-2=Ти про пилосмок?
+
+
+# Graff
+### ...I take it back.
+GPC08B_VEHICLE1-3=...Беру свої слова назад.
+
+
+#----------------------------------------------------
+# Graff
+### A monkey wrench. I could use one!
+GPC08B_WRENCH1-1=Розвідний ключ. Мені б такий згодився!
+
+
+# Shay
+### Me too.
+GPC08B_WRENCH1-2=І мені.
+
+
+# Graff
+### Oops...
+GPC08B_WRENCH1-3=Ой...
+
+
+#----------------------------------------------------
+# Graff
+### I bet there's a top-of-the-line quantanium computer in this one-inch box!
+GPC08B_COMPUTER1-1=Б'юся об заклад, у цій маленькій коробці захований першокласний квантанієвий комп'ютер!
+
+
+# Shay
+### I live in a waste dump, you know. This model is from a few years ago.
+GPC08B_COMPUTER1-2=Я живу на смітнику, знаєш. Це модель кількарічної давнини.
+
+
+# Graff
+### Still better than my two decades-old one. It's leaking water from so many cracks it's a miracle it's still working.
+GPC08B_COMPUTER1-3=Усе одно краще за мій, двадцятирічної давнини. У нього з такої кількості щілин тече вода, що це диво, що він узагалі працює.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What a coincidence! Last year I offered Brok an old computer I salvaged from the lake!
+GPC08B_COMPUTER1-4=Який збіг! Минулого року я подарувала Брокові старий комп'ютер, який я витягла з озера!
+
+
+# Graff
+### Ah... That explains it.
+GPC08B_COMPUTER1-5=А-а... Це все пояснює.
+
+
+#----------------------------------------------------
+# Graff
+### Can I have this screwdriver?
+GPC08B_TOOLS1-1=Можна мені цю викрутку?
+
+
+# Shay
+### What's the magical word?
+GPC08B_TOOLS1-2=А яке чарівне слово?
+
+
+# Graff
+### I don't know. My parents didn't live long enough to teach me.
+GPC08B_TOOLS1-3=Я не знаю. Мої батьки не прожили достатньо довго, щоб навчити мене.
+
+
+# Shay
+### Don't say things like that. Although that's a valid point.
+GPC08B_TOOLS1-4=Не кажи таких речей. Хоча це слушне зауваження.
+
+
+# Shay
+### Okay, you can have it.
+GPC08B_TOOLS1-5=Гаразд, забирай.
+
+
+#----------------------------------------------------
+# Graff
+### Awesome!
+GPC08B_TOOLS1B-1=Круто!
+
+
+# Shay
+### Your enthusiasm for a simple screwdriver is wonderful. I wish I had a childhood...
+GPC08B_TOOLS1B-2=Твій захват від простої викрутки дивовижний. Хотіла б і я мати дитинство...
+
+
+# Graff
+### What do you mean?
+GPC08B_TOOLS1B-3=Що ви маєте на увазі?
+
+
+# Shay
+### A normal childhood, anyway.
+GPC08B_TOOLS1B-4=Ну, принаймні нормальне дитинство.
+
+
+# Graff
+### I'm afraid time goes only one way.
+GPC08B_TOOLS1B-5=Боюся, що час іде лише в один бік.
+
+
+# Shay
+### Hmm... Who knows?...
+GPC08B_TOOLS1B-6=Гмм... Хто знає...?
+
+
+#----------------------------------------------------
+# Graff
+### The screwdriver should be enough. I shouldn't take everything!
+GPC08B_TOOLS2-1=Викрутки має вистачити. Мені не треба забирати все!
+
+
+#----------------------------------------------------
+# Graff
+### Air-propelled stools.
+GPC08B_CHAIR1-1=Табурети з пневмоприводом.
+
+
+# Graff
+### A classic but you don't see them often in these dumps!
+GPC08B_CHAIR1-2=Класична річ, але на цих смітниках їх побачиш нечасто!
+
+
+# Graff
+### I wonder what the purpose of those schematic plans are though.
+GPC08B_CHAIR1-3=Мені лише цікаво, яке призначення у цих креслень.
+
+
+#----------------------------------------------------
+# Graff - Talking to Shay in day 1 - First time Graff talking to Shay in the game
+### Erm...
+GPC08B_SHAY_FIRST1-1=Е-е...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Hello? Miss Shay?
+GPC08B_SHAY_FIRST1-2=Агов? Пані Шей?
+
+
+# Graff
+### ...
+GPC08B_SHAY_FIRST1-3=...
+
+
+# Graff
+### Maybe I should get closer?...
+GPC08B_SHAY_FIRST1-4=Може, підійти ближче...?
+
+
+#----------------------------------------------------
+# Graff - Electricity animation or explosion!
+### Woah!!! What was that?!
+GPC08B_SHAY_FIRST2-1=Ого!!! Що це було?!
+
+
+# Shay
+### Crap! That bloody junk is busted again!
+GPC08B_SHAY_FIRST2-2=Дідько! Цей клятий брухт знову зламався!
+
+
+# Graff
+### Hey! Watch your tongue!
+GPC08B_SHAY_FIRST2-3=Гей! Слідкуйте за своїми словами!
+
+
+# Shay
+### Huh?
+GPC08B_SHAY_FIRST2-4=Га?
+
+
+# Shay
+### Oh no... The voices are back. I shouldn't have quit my treatment...
+GPC08B_SHAY_FIRST2-5=О ні... Ці голоси повернулися. Даремно я кинула лікування...
+
+
+# Graff
+### Hey! I'm right here!
+GPC08B_SHAY_FIRST2-6=Гей! Я прямо тут!
+
+
+# Shay
+### ...
+GPC08B_SHAY_FIRST2-7=...
+
+
+# Shay
+### Aaah! You're right.
+GPC08B_SHAY_FIRST2-8=А-аа! Твоя правда.
+
+
+# Shay
+### I prefer that.
+GPC08B_SHAY_FIRST2-9=Так навіть краще.
+
+
+# Graff
+### ...
+GPC08B_SHAY_FIRST2-10=...
+
+
+# Shay
+### Now, where was I?
+GPC08B_SHAY_FIRST2-11=Так, на чому я зупинилася?
+
+
+# Graff
+### Wait! Won't you help me?
+GPC08B_SHAY_FIRST2-12=Чекайте! Ви мені не допоможете?
+
+
+# Shay
+### Oh, you need help? Why didn't you tell me?
+GPC08B_SHAY_FIRST2-13=О, тобі потрібна допомога? Чому ти одразу не сказав?
+
+
+# Graff
+### I... Never mind.
+GPC08B_SHAY_FIRST2-14=Я... Неважливо.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You're Brok's stepson, right? Graff?
+GPC08B_SHAY_FIRST2-15=Ти ж прийомний син Брока, так? Графф?
+
+
+# Shay
+### It's been a long time!
+GPC08B_SHAY_FIRST2-16=Скільки літ, скільки зим!
+
+
+# Graff
+### Yeah! I'm surprised you remember me.
+GPC08B_SHAY_FIRST2-17=Так! Вражений, що ви мене пам'ятаєте.
+
+
+# Graff
+### Been busy with studies... And that's why I'm here.
+GPC08B_SHAY_FIRST2-18=Був зайнятий навчанням... І саме тому я тут.
+
+
+# Shay
+### Who needs studies? Practice is the best way to learn!
+GPC08B_SHAY_FIRST2-19=Кому потрібне те навчання? Практика - найкращий спосіб навчитися!
+
+
+# Graff
+### And get injured... Apparently.
+GPC08B_SHAY_FIRST2-20=І травмуватися... Очевидно.
+
+
+# Graff
+### Anyway, can I ask you something?
+GPC08B_SHAY_FIRST2-21=Хай там як, можу я вас про щось запитати?
+
+
+# Shay
+### Well... My mind reader isn't quite ready yet, so... I guess it's fine if we resort to talking.
+GPC08B_SHAY_FIRST2-22=Ну... Мій пристрій для читання думок ще не зовсім готовий, тож... Гадаю, можна й порозмовляти.
+
+
+# Graff
+### A mind reader? For real?!...
+GPC08B_SHAY_FIRST2-23=Пристрій для читання думок? Серйозно...?!
+
+
+# Shay
+### Just a prototype. I had to stop working on it.
+GPC08B_SHAY_FIRST2-24=Лише прототип. Мені довелося припинити роботу над ним.
+
+
+# Shay
+### I couldn't bear hearing my own thoughts!
+GPC08B_SHAY_FIRST2-25=Я не могла витримати власних думок!
+
+
+# Shay
+### Like echo on a phone! You know?
+GPC08B_SHAY_FIRST2-26=Як відлуння в телефоні! Розумієш?
+
+
+# Graff
+### Erm... Anyway.
+GPC08B_SHAY_FIRST2-27=Е-е... Менше з тим.
+
+
+#----------------------------------------------------
+# Graff
+### Me again...
+GPC08B_SHAY_WELCOME1-1=Це знову я...
+
+
+# Shay
+### Are you sure? Maybe you've been cloned since the last time we talked.
+GPC08B_SHAY_WELCOME1-2=Ти впевнений? Може, тебе клонували з нашої останньої розмови.
+
+
+# Graff
+### I... think not?...
+GPC08B_SHAY_WELCOME1-3=Я... гадаю, ні...?
+
+
+#----------------------------------------------------
+# Graff
+### I've got a question.
+GPC08B_SHAY_WELCOME2-1=У мене є запитання.
+
+
+# Shay
+### Ah. I feel for you, nagging questioning is the worst feeling.
+GPC08B_SHAY_WELCOME2-2=А-а. Співчуваю. Теж не люблю нав'язливі допити.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm...
+GPC08B_SHAY_WELCOME3-1=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### I better go...
+GPC08B_SHAY_EXITFIRST1-1=Я краще піду...
+
+
+# Shay
+### Wait!
+GPC08B_SHAY_EXITFIRST1-2=Чекай!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### If you see Brok on the way back, give him that.
+GPC08B_SHAY_EXITFIRST1-3=Якщо побачиш Брока на зворотному шляху, віддай йому це.
+
+
+#----------------------------------------------------
+# Graff
+### Ear buds?
+GPC08B_SHAY_EXITFIRST1B-1=Навушники?
+
+
+# Shay
+### I've reversed a pair of hearing aids to block all outside sounds.
+GPC08B_SHAY_EXITFIRST1B-2=Я змінила налаштування слухового апарату так, щоб він блокував усі зовнішні звуки.
+
+
+# Graff
+### You can do that?! Amazing!
+GPC08B_SHAY_EXITFIRST1B-3=Ви так умієте?! Неймовірно!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### My sensors have detected Brok is sleep deprived.
+GPC08B_SHAY_EXITFIRST1B-4=Мої датчики засікли, що Брокові бракує сну.
+
+
+# Shay
+### I forgot to give it to him earlier.
+GPC08B_SHAY_EXITFIRST1B-5=Я забула віддати їх йому раніше.
+
+
+# Graff
+### Huh? He was there?
+GPC08B_SHAY_EXITFIRST1B-6=Що? Він тут був?
+
+
+# Shay
+### Yeah! This morning.
+GPC08B_SHAY_EXITFIRST1B-7=Так! Сьогодні вранці.
+
+
+# Graff
+### Hmm... I'm sorry to ask but...
+GPC08B_SHAY_EXITFIRST1B-8=Гмм... Вибачте, що запитую, але...
+
+
+# Graff
+### He's out all day and night but never tells me anything.
+GPC08B_SHAY_EXITFIRST1B-9=Його немає вдома день і ніч, але він нічого мені не розповідає.
+
+
+# Graff
+### What business does he have with you, exactly?
+GPC08B_SHAY_EXITFIRST1B-10=Які саме в нього з вами справи?
+
+
+# Shay
+### Well, let's say...
+GPC08B_SHAY_EXITFIRST1B-11=Ну, скажімо так...
+
+
+# Shay
+### He's doing errands for me... Among other things.
+GPC08B_SHAY_EXITFIRST1B-12=Він виконує для мене доручення... Поміж усього іншого.
+
+
+# Graff
+### Other things?
+GPC08B_SHAY_EXITFIRST1B-13=Іншого?
+
+
+# Shay
+### I'm sorry. He made me promise not to tell you anything.
+GPC08B_SHAY_EXITFIRST1B-14=Вибач. Я пообіцяла йому нічого тобі не казати.
+
+
+# Graff
+### ...
+GPC08B_SHAY_EXITFIRST1B-15=...
+
+
+# Graff
+### Obviously. He doesn't trust me.
+GPC08B_SHAY_EXITFIRST1B-16=Звісно. Він мені не довіряє.
+
+
+# Shay
+### He's got his reasons.
+GPC08B_SHAY_EXITFIRST1B-17=У нього є свої причини.
+
+
+# Graff
+### Yeah, right. Excuses, always more excuses.
+GPC08B_SHAY_EXITFIRST1B-18=Ну так, аякже. Виправдання, як і завжди.
+
+
+# Shay
+### Listen. I'll discuss it with him next time, okay?
+GPC08B_SHAY_EXITFIRST1B-19=Слухай. Я обговорю це з ним наступного разу, гаразд?
+
+
+# Graff
+### That'd be great. Thanks.
+GPC08B_SHAY_EXITFIRST1B-20=Було б чудово. Дякую.
+
+
+# Shay
+### You're welcome.
+GPC08B_SHAY_EXITFIRST1B-21=Нема за що.
+
+
+# Shay
+### Okay, back to work!
+GPC08B_SHAY_EXITFIRST1B-22=Гаразд, назад до роботи!
+
+
+#----------------------------------------------------
+# Graff
+### Later!
+GPC08B_SHAY_EXIT1-1=Побачимось пізніше!
+
+
+# Shay
+### Time is relative, you know. You should be more precise.
+GPC08B_SHAY_EXIT1-2=Час відносний, знаєш. Треба казати точніше.
+
+
+# Graff
+### Erm... Right.
+GPC08B_SHAY_EXIT1-3=Е-е... Справді.
+
+
+#----------------------------------------------------
+# Graff
+### Bye!
+GPC08B_SHAY_EXIT2-1=Бувайте!
+
+
+# Shay - Just Shay saying weird things. No real sense to this.
+### Don't pull any strange strings on your way out, okay?
+GPC08B_SHAY_EXIT2-2=Не смикай ні за які дивні мотузки на виході, добре?
+
+
+# Graff
+### Huh?
+GPC08B_SHAY_EXIT2-3=Що?
+
+
+# Shay
+### Just some generic advice. You never know.
+GPC08B_SHAY_EXIT2-4=Просто загальна порада. Хто знає, що може статися.
+
+
+# Graff
+### O...kay...
+GPC08B_SHAY_EXIT2-5=Д... добре...
+
+
+#----------------------------------------------------
+# Graff
+### Bye!
+GPC08B_SHAY_EXIT3-1=Бувайте!
+
+
+#----------------------------------------------------
+# Graff
+### By any chance... I need some kind of device to detect wrong intents.
+GPC08B_SHAY_DETECTOR1-1=Можливо, у вас є... мені потрібен якийсь пристрій для виявлення лихих намірів.
+
+
+# Graff
+### Maybe... A fingerprint reader? I know it's very specific but...
+GPC08B_SHAY_DETECTOR1-2=Може... Сканер відбитків пальців? Знаю, що це дуже специфічний запит, але...
+
+
+# Shay
+### Wrong intents...
+GPC08B_SHAY_DETECTOR1-3=Лихі наміри...
+
+
+# Shay
+### Weird. I've got a feeling I built a device like this but I can't put my finger on it...
+GPC08B_SHAY_DETECTOR1-4=Дивно. У мене таке відчуття, що я вже робила подібний пристрій, але не можу згадати...
+
+
+# Shay
+### Look around, maybe?
+GPC08B_SHAY_DETECTOR1-5=Може, роздивишся навколо?
+
+
+# Graff
+### Will do.
+GPC08B_SHAY_DETECTOR1-6=Так і зроблю.
+
+
+#----------------------------------------------------
+# Graff
+### I've set up a force field. What could prevent someone from accessing what's placed inside it?
+GPC08B_SHAY_OPERATOR1-1=Я встановив силове поле. Є щось, що може завадити зловмисникам дістатися до того, що всередині?
+
+
+# Shay
+### A short circuit!
+GPC08B_SHAY_OPERATOR1-2=Коротке замикання!
+
+
+# Graff
+### Wouldn't that be dangerous?
+GPC08B_SHAY_OPERATOR1-3=Хіба це не небезпечно?
+
+
+# Shay
+### Not really. The force field would diffuse the shock all around, so it's safe.
+GPC08B_SHAY_OPERATOR1-4=Та ні. Силове поле розподілить розряд по всьому периметру, тож це безпечно.
+
+
+# Shay
+### Unless you have a congenital heart malformation, in which case you'd die sooner or later anyway.
+GPC08B_SHAY_OPERATOR1-5=Хіба що в тебе вроджена вада серця, але в такому разі ти б усе одно рано чи пізно помер.
+
+
+# Graff
+### Erm... Very reassuring.
+GPC08B_SHAY_OPERATOR1-6=Е-е... Дуже заспокоює.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Just keep your eyes open for any sparks. The Slums are filled with broken devices.
+GPC08B_SHAY_OPERATOR1-7=Просто уважно дивися навколо і шукай іскри. У Нетрях повно зламаних пристроїв.
+
+
+# Graff
+### Right.
+GPC08B_SHAY_OPERATOR1-8=Зрозумів.
+
+
+#----------------------------------------------------
+# Shay
+### Look for sparks! They indicate a short circuit.
+GPC08B_SHAY_OPERATOR2-1=Шукай іскри! Вони вказують на коротке замикання.
+
+
+# Graff
+### Got it!
+GPC08B_SHAY_OPERATOR2-2=Зрозумів!
+
+
+#----------------------------------------------------
+# Graff
+### How can I get someone's fingerprint?
+GPC08B_SHAY_FINGERPRINT1-1=Як мені отримати чийсь відбиток пальця?
+
+
+# Shay
+### Why don't you ask your detective room-mate?
+GPC08B_SHAY_FINGERPRINT1-2=Чому б тобі не спитати свого співмешканця-детектива?
+
+
+# Graff
+### If only I knew where he was... Besides he never answers my calls.
+GPC08B_SHAY_FINGERPRINT1-3=Якби ж я знав, де він... До того ж він ніколи не відповідає на мої дзвінки.
+
+
+# Shay
+### Try some powder on some sticky paper and apply it on that person's hand.
+GPC08B_SHAY_FINGERPRINT1-4=Спробуй додати трохи порошку на клейкий папір і прикласти до руки цієї особи.
+
+
+# Graff
+### It's worth a try...
+GPC08B_SHAY_FINGERPRINT1-5=Варто спробувати...
+
+
+#----------------------------------------------------
+# Graff
+### Someone built a machine with ants to power it.
+GPC08B_SHAY_SCREWMACHINES_ANTS1-1=Хтось змайстрував машину на мурашиній тязі.
+
+
+# Graff
+### Any way I could... Erm, "boost" it?
+GPC08B_SHAY_SCREWMACHINES_ANTS1-2=Як би мені її... Е-е, "прискорити"?
+
+
+# Shay
+### I'm afraid I'm not a botanist.
+GPC08B_SHAY_SCREWMACHINES_ANTS1-3=Боюся, я не ботанік.
+
+
+# Graff
+### They're insects, actually.
+GPC08B_SHAY_SCREWMACHINES_ANTS1-4=Взагалі-то це комахи.
+
+
+# Shay
+### Even worse.
+GPC08B_SHAY_SCREWMACHINES_ANTS1-5=Ще гірше.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Shay sounds inept when it comes to ants... I'll manage.)
+GPC08B_SHAY_SCREWMACHINES_ANTS2-1=(Схоже, Шей нічого не тямить у мурахах... Упораюся сам.)
+
+
+#----------------------------------------------------
+# Graff
+### Have you ever experimented smell conversion?
+GPC08B_SHAY_SCREWMACHINES_SMELL1-1=Ви коли-небудь експериментували з перетворенням запахів?
+
+
+# Shay
+### Sure did!
+GPC08B_SHAY_SCREWMACHINES_SMELL1-2=Авжеж!
+
+
+# Shay
+### I bought this place specifically for the large amount of chemical substances dropped in the lake.
+GPC08B_SHAY_SCREWMACHINES_SMELL1-3=Я купила це місце саме через величезну кількість хімічних речовин, скинутих в озеро.
+
+
+# Graff
+### You bought this place... For the polluted lake?...
+GPC08B_SHAY_SCREWMACHINES_SMELL1-4=Ви купили це місце... Через забруднене озеро...?
+
+
+# Shay
+### Yeah! Isn't it obvious?
+GPC08B_SHAY_SCREWMACHINES_SMELL1-5=Так! Хіба це не очевидно?
+
+
+# Graff
+### No...
+GPC08B_SHAY_SCREWMACHINES_SMELL1-6=Ні...
+
+
+# Shay
+### I live near the stinkiest lake in the world! It's an unlimited resource!
+GPC08B_SHAY_SCREWMACHINES_SMELL1-7=Я живу біля найсмердючішого озера в світі! Це безлімітний ресурс!
+
+
+# Graff
+### I see... Or rather, I smell it...
+GPC08B_SHAY_SCREWMACHINES_SMELL1-8=Ну, я бачу... Вірніше, відчуваю носом...
+
+
+#----------------------------------------------------
+# Graff
+### Do you have melted plastic?
+GPC08B_SHAY_REPAIR1-1=Чи є у вас розплавлений пластик?
+
+
+# Shay
+### I'm afraid not. This is low quality material.
+GPC08B_SHAY_REPAIR1-2=Боюся, що ні. Це низькоякісний матеріал.
+
+
+# Graff
+### Anything else I could use to fix a broken glass?
+GPC08B_SHAY_REPAIR1-3=А чим ще можна полагодити розбите скло?
+
+
+# Shay
+### Tantanium X12 should do the trick!
+GPC08B_SHAY_REPAIR1-4=Тантаній X12 має підійти!
+
+
+# Graff
+### You have some?
+GPC08B_SHAY_REPAIR1-5=А у вас є трохи?
+
+
+# Shay
+### No.
+GPC08B_SHAY_REPAIR1-6=Ні.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Brok and I visited her once for getting help with my homework. That's how we met.)
+GPC08B_SHAY_THINK1-1=(Ми з Броком якось приходили до неї по допомогу з моїми домашніми завданнями. Так ми й познайомилися.)
+
+
+# Graff
+### (Usually I prefer doing everything myself but this was too important... Just like now.)
+GPC08B_SHAY_THINK1-2=(Зазвичай я намагаюся робити все сам, але те завдання було занадто важливим... Як і теперішнє.)
+
+
+# Graff
+### (To be honest, I wish she was one of my teachers!)
+GPC08B_SHAY_THINK1-3=(Чесно кажучи, я б хотів, щоб вона була однією з моїх вчительок!)
+
+
+#----------------------------------------------------
+# Graff
+### I need your help with this!
+GPC08B_SHAY_INV_DEFAULT1-1=Мені потрібна ваша допомога з цим!
+
+
+# Shay
+### ...Are you sure?
+GPC08B_SHAY_INV_DEFAULT1-2=...Ти впевнений?
+
+
+# Graff
+### Oops... Wrong one!
+GPC08B_SHAY_INV_DEFAULT1-3=Ой... Не те!
+
+
+#----------------------------------------------------
+# Graff
+### Please, I need this fixed!
+GPC08B_SHAY_INV_DEFAULT2-1=Будь ласка, мені треба це полагодити!
+
+
+# Shay
+### Wait. That's not broken.
+GPC08B_SHAY_INV_DEFAULT2-2=Чекай. Воно ж не зламане.
+
+
+# Graff
+### Oh... You're right.
+GPC08B_SHAY_INV_DEFAULT2-3=О... Ваша правда.
+
+
+#----------------------------------------------------
+# Shay
+### I see. Sorry, I can't really lend you money right now.
+GPC08B_SHAY_INV_MONEY-1=Ясно. Вибач, я зараз не можу позичити тобі грошей.
+
+
+# Graff
+### No... Never mind.
+GPC08B_SHAY_INV_MONEY-2=Та ні... Неважливо.
+
+
+#----------------------------------------------------
+# Graff
+### That's really cool!
+GPC08B_SHAY_INV_EARBUDS-1=Це дуже круто!
+
+
+# Shay
+### Yeah! I like the color too.
+GPC08B_SHAY_INV_EARBUDS-2=Так! Мені теж подобається колір.
+
+
+# Graff
+### Erm...
+GPC08B_SHAY_INV_EARBUDS-3=Е-е...
+
+
+#----------------------------------------------------
+# Graff - Talking about the robot Brok saved (if he did)
+### Oh! This bot's yours?
+GPC08B_BOLT1-1=О! Цей бот ваш?
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Yup. Brok found it for me.
+GPC08B_BOLT1-2=Ага. Брок знайшов його для мене.
+
+
+# Graff
+### He did?...
+GPC08B_BOLT1-3=Він це зробив...?
+
+
+# Shay
+### He insisted I take care of this one because it was about to get dismantled.
+GPC08B_BOLT1-4=Він хотів, щоб я подбала про нього, бо його збиралися розібрати.
+
+
+# Graff
+### Who thought he could have feelings for robots...
+GPC08B_BOLT1-5=Хто б міг подумати, що він здатний співчувати роботам...
+
+
+# Shay
+### Believe me. Your old man is packed with feelings.
+GPC08B_BOLT1-6=Повір мені. Твій старий сповнений почуттів.
+
+
+# Graff
+### Good or bad ones?
+GPC08B_BOLT1-7=Хороших чи поганих?
+
+
+# Shay
+### Depends if you're on his side!
+GPC08B_BOLT1-8=Залежить від того, чи ти на його боці!
+
+
+# Graff
+### ...
+GPC08B_BOLT1-9=...
+
+
+#----------------------------------------------------
+# Graff
+### Does it work?
+GPC08B_BOLT2-1=Він працює?
+
+
+# Shay
+### Not sure yet. I'll check after the backup completes.
+GPC08B_BOLT2-2=Ще не впевнена. Перевірю, коли завершиться резервне копіювання.
+
+
+# Graff
+### (I'd love to have a robot for myself)
+GPC08B_BOLT2-3=(Я б теж хотів мати власного робота.)
+
+
+#----------------------------------------------------
+# Shay - Walk on desk
+### Hey! Who raised you that way?
+GPC08B_WALKDESK1-1=Гей! Хто тебе так виховав?
+
+
+# Shay
+### Wait. Don't reply. I know the answer.
+GPC08B_WALKDESK1-2=Чекай. Не відповідай. Я знаю відповідь.
+
+
+#----------------------------------------------------
+# Shay - Try to hit Shay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, I know you're upset but I'm no stress reliever.
+GPC08B_HITSHAY1-1=Граффе, я знаю, що ти замучений, але я не тренажер для зняття стресу.
+
+
+#----------------------------------------------------
+# Shay
+### That tickles!
+GPC08B_HITSHAY2-1=Лоскотно!
+
+
+#----------------------------------------------------
+# Shay - After taking a bath in the lake
+### Ugh...
+GPC08B_SHAY_STINK1-1=Фу...
+
+
+# Shay
+### Don't tell me. You took a swim in the swamp?
+GPC08B_SHAY_STINK1-2=Тільки не кажи... Ти поплавав у болоті?
+
+
+# Graff
+### Erm...
+GPC08B_SHAY_STINK1-3=Е-е...
+
+
+# Shay
+### Here!
+GPC08B_SHAY_STINK1-4=Ось!
+
+
+# Graff
+### Sorry.
+GPC08B_SHAY_STINK1-5=Вибачте.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### No worries! Brok does it, too.
+GPC08B_SHAY_STINK1-6=Нічого страшного! Брок теж так робить.
+
+
+# Graff
+### ...
+GPC08B_SHAY_STINK1-7=...
+
+
+#----------------------------------------------------
+# Shay - Hitting Bolt
+### Stop that! You might interrupt the backup process.
+GPC08B_BOLT_HIT1-1=Припини! Ти можеш перервати процес резервного копіювання.
+
+
+#----------------------------------------------------
+# Shay
+### Are you listening...?
+GPC08B_BOLT_HIT2-1=Ти мене слухаєш...?
+
+
+#----------------------------------------------------
+# Shay
+### Argh! See what you've done!
+GPC08B_BOLT_DEAD1-1=Ар-р! Подивись, що ти наробив!
+
+
+# Shay
+### Now I gotta restart from scratch!
+GPC08B_BOLT_DEAD1-2=Тепер мені доведеться починати все з нуля!
+
+
+#----------------------------------------------------
+# Graff
+### I'm sorr...
+GPC08B_BOLT_DEAD2-1=Вибачт...
+
+
+# Shay
+### GET OUT!
+GPC08B_BOLT_DEAD2-2=ГЕТЬ ЗВІДСИ!
+
+
+#----------------------------------------------------
+# Shay
+### Nice! It worked!
+GPC08B_BOLT_DEADBIS-1=Чудово! Спрацювало!
+
+
+#----------------------------------------------------
+# Shay
+### Lucky for you! That was an easy fix.
+GPC08B_BOLT_DEAD_BACK-1=Пощастило тобі! Це була проста поломка.
+
+
+#----------------------------------------------------
+# Unknown
+### Craaaaaaaazy
+COOP_GPC08B_SHAY1-1=Божев-і-і-ільна
+
+
+# Unknown
+### And I mean it.
+COOP_GPC08B_SHAY1-2=І це я серйозно.
+
+
+#----------------------------------------------------
+# Unknown
+### He's so cuuute!
+COOP_GPC08B_BOLT1-1=Він такий ми-и-илий!
+
+
+# Unknown
+### Useless, but cute.
+COOP_GPC08B_BOLT1-2=Ніякої користі, зате милий.
+
+
+#----------------------------------------------------
+

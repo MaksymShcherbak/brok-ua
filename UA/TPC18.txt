@@ -1,0 +1,856 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Gherkin (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Unknown (Unknown)
+#     Tribot - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Gherkin (Unknown)
+
+#-------------------------------
+#= FACTORY
+#-------------------------------
+
+#----- Interactions --------
+### Fix-bot
+PC_BOT=Бот-ремонтник
+
+### Container
+PC_CONTAINER=Контейнер
+
+### Sentry box
+PC_SENTRYBOX=Вартова будка
+
+### Factory
+PC_FACTORY=Завод
+
+### Send impulsion!
+PC_IMPULSION=Надіслати імпульс!
+
+### Escape
+PC_ESCAPE=Втекти
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### Take the Fix-bot?
+PC18_FIXBOT_CHOICE=Узяти бота-ремонтника?
+
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Brok comes to pick up Dr. Gherkin who asked for his help
+### Must be the factory.
+PC18_ARRIVE1-1=Це, мабуть, завод.
+
+
+# Brok
+### Now, where's that guy?...
+PC18_ARRIVE1-2=Ну, і де ж той чолов'яга...?
+
+
+#----------------------------------------------------
+# Brok - The hologram displays news, which changes according to player actions
+### Holo-news of the day.
+PC18_HOLOGRAM1-1=Голографічні новини дня.
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### "Two scientists and a guard found dead in Engineer Lab 21."
+PC18_HOLOGRAM_DEADALL-1="Двох науковців та охоронця знайдено мертвими в Інженерній Лабораторії 21."
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### "One scientist and a guard found dead in Engineer Lab 21."
+PC18_HOLOGRAM_DEADEXCEPTMINK-1="Одного науковця та охоронця знайдено мертвими в Інженерній Лабораторії 21."
+
+
+#----------------------------------------------------
+# Unknown
+### "Two scientists found dead in Engineer Lab 21."
+PC18_HOLOGRAM_DEADEXCEPTGUARD-1="Двох науковців знайдено мертвими в Інженерній Лабораторії 21."
+
+
+#----------------------------------------------------
+# Brok
+### Oh my gosh...! Those guys... They're...
+PC18_HOLOGRAM_DEADNEXT-1=Матінко рідна...! Ці хлопці... Вони...
+
+
+# Brok
+### What happened? Did I incriminate the wrong person yesterday?...
+PC18_HOLOGRAM_DEADNEXT-2=Що сталося? Невже я вчора звинуватив не того...?
+
+
+#----------------------------------------------------
+# Gherkin
+### This is awful! Who would do such a thing to scientists?
+PC18_HOLOGRAM_DEADNEXT_GHERKIN-1=Це жахливо! Хто міг зробити таке з науковцями?
+
+
+# Gherkin
+### I-I hope it's not some Untail fanatist...
+PC18_HOLOGRAM_DEADNEXT_GHERKIN-2=Я-я сподіваюся, це не якийсь фанатик Безхвостя...
+
+
+#----------------------------------------------------
+# Unknown
+### "The criminal remains unidentified."
+PC18_HOLOGRAM_DEADNEXT2-1="Особу злочинця досі не встановлено."
+
+
+# Unknown
+### "Be careful today! Stay inside and lock your entrance!"
+PC18_HOLOGRAM_DEADNEXT2-2="Будьте обережні сьогодні! Залишайтеся всередині та замикайте двері!"
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### "Following these dramatic events, an Aircar presumably stolen by the murderer caused havoc on the highway."
+PC18_HOLOGRAM_DEADNEXT2-3="Унаслідок цих драматичних подій аеромобіль, імовірно викрадений убивцею, спричинив хаос на шосе."
+
+
+#----------------------------------------------------
+# Unknown
+### "Dramatic chase on the highway."
+PC18_HOLOGRAM_CHASE1-1="Драматична погоня на шосе."
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### "Yesterday an individual stole an Aircar to persecute a bot, causing havoc in the process."
+PC18_HOLOGRAM_CHASE1-2="Учора якась особа викрала аеромобіль і переслідувала бота, спричинивши хаос на шосе."
+
+
+# Brok
+### I wonder who would be stupid enough to do this!...
+PC18_HOLOGRAM_CHASE1-3=Цікаво, якому йолопу таке спало на думку...!
+
+
+#----------------------------------------------------
+# Gherkin
+### F-for sure! Youngsters are crazy these days!
+PC18_HOLOGRAM_CHASE1_GHERKIN-1=Т-точно! Молодь зараз зовсім з'їхала з глузду!
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### "The last remotely related event in the Drums goes back to 3030."
+PC18_HOLOGRAM_CHASE1B-1="Остання віддалено схожа подія на Верхах датується 3030 роком."
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### "A police investigator miraculously survived an Aircar accident while chasing a criminal."
+PC18_HOLOGRAM_CHASE1B-2="Детектив поліції дивом вижив у аварії аеромобіля під час переслідування злочинця."
+
+
+# Brok
+### Hmm... I didn't remember this.
+PC18_HOLOGRAM_CHASE1B-3=Гмм... Я цього не пам'ятаю.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### A Fix-Bot!
+PC18_FIXBOT1-1=Бот-ремонтник!
+
+
+# Brok
+### It's stuck on that container. Must be used to repair that membrane.
+PC18_FIXBOT1-2=Він застряг на тому контейнері. Мабуть, він має полагодити мембрану.
+
+
+# Brok
+### I have a feeling it's not doing its job...
+PC18_FIXBOT1-3=Здається, він не виконує свою роботу...
+
+
+#----------------------------------------------------
+# Brok
+### Seems stuck in that corner!
+PC18_FIXBOT2-1=Схоже, застряг у тому кутку!
+
+
+#----------------------------------------------------
+# Brok
+### Let's use the remote control.
+PC18_FIXBOT_SHOULDUSEREMOTE-1=Скористаймося пультом керування.
+
+
+#----------------------------------------------------
+# Brok
+### Argh...
+PC18_FIXBOT_HURT1-1=Ар-р...
+
+
+# Brok
+### I don't have much luck with bots today...
+PC18_FIXBOT_HURT1-2=Сьогодні мені з ботами не дуже щастить...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... I wonder if...
+PC18_FIXBOT_REMOTE-1=Гмм... Цікаво, чи...
+
+
+#----------------------------------------------------
+# Brok
+### Nice!
+PC18_FIXBOT_REMOTE2-1=Чудово!
+
+
+#----------------------------------------------------
+# Brok
+### I dun wanna damage it!
+PC18_FIXBOT_OTHERS-1=Не хочу його зіпсувати!
+
+
+#----------------------------------------------------
+# Brok
+### A hole in the membrane...
+PC18_HOLE1-1=Діра в мембрані...
+
+
+# Brok
+### And here I thought this side was a perfect world. Color me disappointed.
+PC18_HOLE1-2=А я гадав, що з цього боку ідеальний світ. Ну що ж, моє розчарування безмежне.
+
+
+#----------------------------------------------------
+# Brok
+### There ya go! Brand new.
+PC18_HOLE_FINISHED-1=Ось так! Як новенька.
+
+
+#----------------------------------------------------
+# Brok
+### A self-contained vegetation growth system.
+PC18_CONTAINER1-1=Автономна система вирощування рослинності.
+
+
+# Brok
+### That noisy pump inside irrigates the roots of the plants.
+PC18_CONTAINER1-2=Та гучна помпа всередині зрошує коріння рослин.
+
+
+#----------------------------------------------------
+# Brok
+### An artificial environment requires an artificial way of living, I guess.
+PC18_CONTAINER2-1=Мабуть, штучне середовище вимагає штучного способу життя.
+
+
+# Brok
+### It's supposed to be sealed so why am I hearing this pump?...
+PC18_CONTAINER2-2=Він має бути герметичним, то чому ж я чую цю помпу...?
+
+
+#----------------------------------------------------
+# Brok
+### I guess this pipe brings water, food and whatever the officer inside requests.
+PC18_PIPE1-1=Мабуть, ця труба постачає воду, їжу та все, що замовляє офіцер всередині.
+
+
+# Brok
+### And if there's toilets... The opposite.
+PC18_PIPE1-2=А якщо там є туалет... То вона працює й у інший бік.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### So this is where Toxout pills are made...
+PC18_FACTORY1-1=То ось де виготовляють смогові пігулки...
+
+
+# Brok
+### Where are the pipes to transport them? Underground, maybe?
+PC18_FACTORY1-2=А де ж труби, якими їх розвозять? Може, під землею?
+
+
+#----------------------------------------------------
+# Brok
+### Seems hermetic.
+PC18_SENTRYBOX1-1=Схоже, герметична.
+
+
+# Brok
+### Only one way in... For a human, at least.
+PC18_SENTRYBOX1-2=Тут є лише один вхід... Принаймні для людини.
+
+
+#----------------------------------------------------
+# Brok - Brok knocks on the sentry box door
+### Hey?... Is someone there?...
+PC18_DOOR_KNOCK1-1=Гей...? Є хтось усередині...?
+
+
+#----------------------------------------------------
+# Brok
+### Doctor Gherkin?...
+PC18_DOOR_KNOCK2-1=Докторе Геркіне...?
+
+
+#----------------------------------------------------
+# Brok
+### At least let me enter!
+PC18_DOOR_KNOCKAFTER1-1=Ви хоча б впустіть мене!
+
+
+# Gherkin
+### And allow those monsters to sneak in?!
+PC18_DOOR_KNOCKAFTER1-2=І щоб ці потвори прослизнули всередину?!
+
+
+# Gherkin
+### Never!
+PC18_DOOR_KNOCKAFTER1-3=Ніколи!
+
+
+#----------------------------------------------------
+# Brok
+### Locked...
+PC18_DOOR_KNOCKAFTER2-1=Замкнено...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### This is Brok! Can't you hear me?...
+PC18_DOOR_HIT1-1=Це Брок! Ви що, не чуєте мене...?
+
+
+# Brok
+### I know you're in there!
+PC18_DOOR_HIT1-2=Я знаю, що ви там!
+
+
+#----------------------------------------------------
+# Gherkin
+### What are you doing?...
+PC18_DOOR_HIT2-1=Що ви робите...?
+
+
+# Gherkin
+### Stop that!
+PC18_DOOR_HIT2-2=Припиніть це!
+
+
+# Brok
+### Only when I've got you outta here!
+PC18_DOOR_HIT2-3=Тільки коли витягну вас звідси!
+
+
+#----------------------------------------------------
+# Gherkin
+### Help! Somebody!
+PC18_DOOR_HIT3-1=Рятуйте! Хто-небудь!
+
+
+# Gherkin
+### I-I'm scared!...
+PC18_DOOR_HIT3-2=М-мені страшно...!
+
+
+#----------------------------------------------------
+# Brok - If we break the door
+### ...
+PC18_DOOR_AFTERDEATH-1=...
+
+
+# Gherkin
+### Aaaaaaaaaahhhh!!!
+PC18_DOOR_AFTERDEATH-2=А-аааааааа!!!
+
+
+#----------------------------------------------------
+# Brok
+### No way! He escaped!
+PC18_DOOR_AFTERDEATH2-1=Не може бути! Він утік!
+
+
+# Brok
+### Maybe I went too far?...
+PC18_DOOR_AFTERDEATH2-2=Може, я перегнув палицю...?
+
+
+#----------------------------------------------------
+# Brok - Talking to Gherkin
+### Uh?...
+PC18_WINDOW_BEFORE1-1=Що...?
+
+
+# Brok
+### Doctor Gherkin! I can see you!
+PC18_WINDOW_BEFORE1-2=Докторе Геркіне! Я бачу вас!
+
+
+# Brok
+### You can stop hiding in that corner!
+PC18_WINDOW_BEFORE1-3=Годі вам ховатися в тому кутку!
+
+
+#----------------------------------------------------
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Oh!... Mister Brok...
+PC18_GHERKIN_TALK1-1=О...! Пане Броку...
+
+
+# Gherkin
+### Sorry, I thought...
+PC18_GHERKIN_TALK1-2=Вибачте, я думав...
+
+
+# Gherkin
+### Yikes!...
+PC18_GHERKIN_TALK1-3=Йой...!
+
+
+# Brok
+### What's going on?...
+PC18_GHERKIN_TALK1-4=Що відбувається...?
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribots! They're coming!
+PC18_GHERKIN_TALK1-5=Триботи! Вони йдуть!
+
+
+# Brok
+### What?...
+PC18_GHERKIN_TALK1-6=Що...?
+
+
+# Gherkin
+### I hear them!
+PC18_GHERKIN_TALK1-7=Я їх чую!
+
+
+# Brok
+### Oh, great... Another paranoid scientist.
+PC18_GHERKIN_TALK1-8=О, чудово... Ще один науковець-параноїк.
+
+
+# Brok
+### Come on! We gotta go!
+PC18_GHERKIN_TALK1-9=Ну ж бо! Нам час іти!
+
+
+# Gherkin
+### No!...
+PC18_GHERKIN_TALK1-10=Ні...!
+
+
+#----------------------------------------------------
+# Brok
+### He has run away.
+PC18_WINDOW_RUNAWAY-1=Він утік.
+
+
+#----------------------------------------------------
+# Brok
+### Empty...
+PC18_WINDOW_EMPTY-1=Порожньо...
+
+
+#----------------------------------------------------
+# Brok
+### Hey, Doc! Me again!
+PC18_GHERKIN_TALKAGAIN1-1=Гей, доку! Це знову я!
+
+
+# Gherkin
+### M-Mister Detective?...
+PC18_GHERKIN_TALKAGAIN1-2=П-пане детективе...?
+
+
+# Brok
+### What happened? What'ya doin' back in there?
+PC18_GHERKIN_TALKAGAIN1-3=Що сталося? Що це ви знову там робите?
+
+
+# Gherkin
+### I... I panicked...
+PC18_GHERKIN_TALKAGAIN1-4=Я... Я запанікував...
+
+
+# Gherkin
+### You were gone... I thought I heard some bots around...
+PC18_GHERKIN_TALKAGAIN1-5=Вас не було... Мені здалося, що я чув ботів неподалік...
+
+
+# Brok
+### So you ran to the only place you consider safe.
+PC18_GHERKIN_TALKAGAIN1-6=Тож ви побігли в єдине місце, яке вважаєте безпечним.
+
+
+# Gherkin
+### How did you know?!
+PC18_GHERKIN_TALKAGAIN1-7=Звідки ви знали?!
+
+
+# Brok
+### Just a hunch.
+PC18_GHERKIN_TALKAGAIN1-8=Просто здогадка.
+
+
+# Brok
+### Well, come out. We don't have much...
+PC18_GHERKIN_TALKAGAIN1-9=Що ж, виходьте. У нас не так багато...
+
+
+# Brok
+### ...
+PC18_GHERKIN_TALKAGAIN1-10=...
+
+
+# Brok
+### Oooh no.
+PC18_GHERKIN_TALKAGAIN1-11=О-о-о ні.
+
+
+# Gherkin
+### What is it?
+PC18_GHERKIN_TALKAGAIN1-12=Що таке?
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Your "friends" are here.
+PC18_GHERKIN_TALKAGAIN1B-1=Е-е... Ваші "друзі" тут.
+
+
+# Gherkin
+### Ahhhhh!
+PC18_GHERKIN_TALKAGAIN1B-2=А-ааа!
+
+
+# Brok
+### Fortunately they're too dumb to have noticed us yet.
+PC18_GHERKIN_TALKAGAIN1B-3=На щастя, ці дурні ще нас не помітили.
+
+
+# Gherkin
+### Oh boy... This nightmare will never end...
+PC18_GHERKIN_TALKAGAIN1B-4=Ой леле... Цей кошмар ніколи не скінчиться...
+
+
+# Gherkin
+### What do we do?!
+PC18_GHERKIN_TALKAGAIN1B-5=Що нам робити?!
+
+
+# Brok
+### Hmm...
+PC18_GHERKIN_TALKAGAIN1B-6=Гмм...
+
+
+# Brok
+### They're blocking the way to the left.
+PC18_GHERKIN_TALKAGAIN1B-7=Вони перегородили дорогу ліворуч.
+
+
+# Brok
+### What about that path on the right?
+PC18_GHERKIN_TALKAGAIN1B-8=Тоді, може, підемо праворуч?
+
+
+# Gherkin
+### I-Is that one safe?
+PC18_GHERKIN_TALKAGAIN1B-9=Т-там безпечно?
+
+
+# Brok
+### As far as I can tell.
+PC18_GHERKIN_TALKAGAIN1B-10=Наскільки можу судити.
+
+
+# Gherkin
+### I-I believe this leads back to the Border Post but that's a long detour...
+PC18_GHERKIN_TALKAGAIN1B-11=Я-я гадаю, цей шлях веде назад до прикордонного поста, але це довгий обхід...
+
+
+# Gherkin
+### Y-you choose...
+PC18_GHERKIN_TALKAGAIN1B-12=В-вибирайте самі...
+
+
+# Gherkin
+### Just... don't leave me here!
+PC18_GHERKIN_TALKAGAIN1B-13=Тільки... не залишайте мене тут!
+
+
+#----------------------------------------------------
+# Gherkin
+### Do something!...
+PC18_GHERKIN_TALKAGAIN2-1=Зробіть що-небудь...!
+
+
+# Brok
+### Working on it!
+PC18_GHERKIN_TALKAGAIN2-2=Я працюю над цим!
+
+
+#----------------------------------------------------
+# Brok
+### Come on! Don't be a chicken!
+PC18_WINDOW_GHERKIN1-1=Та ну ж бо! Не будьте боягузом!
+
+
+# Brok
+### You're the one who asked me to come, remember?
+PC18_WINDOW_GHERKIN1-2=Ви ж самі попросили мене прийти, пам'ятаєте?
+
+
+# Gherkin
+### I won't get out till it's safe!...
+PC18_WINDOW_GHERKIN1-3=Я не вийду, поки не стане безпечно...!
+
+
+# Brok
+### It is safe!
+PC18_WINDOW_GHERKIN1-4=Тут безпечно!
+
+
+# Gherkin
+### I-I don't believe you!...
+PC18_WINDOW_GHERKIN1-5=Я-я вам не вірю...!
+
+
+# Gherkin
+### What if a bot jumps at me suddenly? Or falls from the sky?...
+PC18_WINDOW_GHERKIN1-6=А що, як бот раптом вискочить на мене? Чи впаде з неба...?
+
+
+# Brok
+### Aww...
+PC18_WINDOW_GHERKIN1-7=Ох...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### I assure you. There's no Tribots around.
+PC18_WINDOW_GHERKIN2-1=Запевняю вас. Поблизу немає Триботів.
+
+
+# Gherkin
+### Are you crazy?! Can't you hear those footsteps?
+PC18_WINDOW_GHERKIN2-2=Ви збожеволіли?! Ви що, не чуєте цих кроків?
+
+
+# Gherkin
+### Get rid of them!
+PC18_WINDOW_GHERKIN2-3=Позбудьтеся їх!
+
+
+#----------------------------------------------------
+# Brok
+### They're gone!
+PC18_WINDOW_MOST1-1=Вони пішли!
+
+
+# Gherkin
+### Are you sure?... I can still faintly hear their footsteps...
+PC18_WINDOW_MOST1-2=Ви впевнені...? Я все ще трохи чую їхні кроки...
+
+
+# Brok
+### Man, you've got quite the hearing for an old man!
+PC18_WINDOW_MOST1-3=Оце так! Слух у вас нівроку, як для старого!
+
+
+# Brok
+### Erm... No offense.
+PC18_WINDOW_MOST1-4=Е-е... Без образ.
+
+
+# Brok
+### Well... Back to work.
+PC18_WINDOW_MOST1-5=Що ж... Назад до роботи.
+
+
+#----------------------------------------------------
+# Brok
+### I took care of those terrible creatures. It's safe now.
+PC18_WINDOW_ALL1-1=Я розібрався з тими жахливими створіннями. Тепер тут безпечно.
+
+
+# Gherkin
+### ...
+PC18_WINDOW_ALL1-2=...
+
+
+# Gherkin
+### You're right!
+PC18_WINDOW_ALL1-3=Ви праві!
+
+
+# Brok
+### Finally...
+PC18_WINDOW_ALL1-4=Нарешті...
+
+
+#----------------------------------------------------
+# Gherkin
+### What are you waiting for?!
+PC18_WINDOW_ALL2-1=Чого ви чекаєте?!
+
+
+# Gherkin
+### Let's move! To the border!
+PC18_WINDOW_ALL2-2=Ходімо! До кордону!
+
+
+# Brok
+### Okay... Follow me.
+PC18_WINDOW_ALL2-3=Добре... Йдіть за мною.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! Doc!
+PC18_WINDOW_BACK1-1=Гей! Доку!
+
+
+# Brok
+### I figured you'd come back here.
+PC18_WINDOW_BACK1-2=Я здогадувався, що ви сюди повернетеся.
+
+
+# Gherkin
+### Did you get them?
+PC18_WINDOW_BACK1-3=Ви їх здолали?
+
+
+# Brok
+### Yeah. Totally destroyed and in little pieces.
+PC18_WINDOW_BACK1-4=Ага. Знищив вщент, розтрощив на друзки.
+
+
+# Brok
+### Look... Truly sorry about earlier.
+PC18_WINDOW_BACK1-5=Слухайте... Я щиро перепрошую за те, що було раніше.
+
+
+# Gherkin
+### Oh... That's what I get for hiring a rough fighter.
+PC18_WINDOW_BACK1-6=Ох... Так мені й треба, що найняв такого буйного бійця.
+
+
+# Gherkin
+### I... I'm ready now.
+PC18_WINDOW_BACK1-7=Я... Я готовий.
+
+
+# Gherkin
+### Let's go to the border first.
+PC18_WINDOW_BACK1-8=Ходімо спочатку до кордону.
+
+
+# Brok
+### Good.
+PC18_WINDOW_BACK1-9=Добре.
+
+
+#----------------------------------------------------
+# Brok - Bots notice Brok
+### Oh-oh...
+PC18_BOTS_SEEBROK-1=Ой-ой...
+
+
+# Brok
+### Maybe the doctor's not so paranoid after all!
+PC18_BOTS_SEEBROK-2=Можливо, доктор не такий вже й параноїк!
+
+
+# Tribot
+### Target acquired!
+PC18_BOTS_SEEBROK-3=Ціль виявлено!
+
+
+#----------------------------------------------------
+# Brok
+### Look who's back!
+PC18_ARRIVEAGAIN1-1=Дивіться, хто повернувся!
+
+
+#----------------------------------------------------
+# Brok - AFter winning the fight
+### Doctor! The coast is clear!
+PC18_BOTSAGAIN_ENDFIGHT1-1=Докторе! Можна виходити - все чисто!
+
+
+# Gherkin
+### Oh... Okay!
+PC18_BOTSAGAIN_ENDFIGHT1-2=О... Добре!
+
+
+# Brok
+### We gotta hurry!
+PC18_BOTSAGAIN_ENDFIGHT1-3=Нам треба поспішати!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### No way! That bot had a Toxout pill!
+PC18_BOTSAGAIN_ENDFIGHT_PILL-1=Оце так! У того бота була смогова пігулка!
+
+
+#----------------------------------------------------
+# Brok
+### Now to leave this place...
+PC18_BOTSAGAIN_ENDFIGHT_PILL2-1=А тепер треба йти звідси...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Come on, Dr. Gherkin! We can escape through there!
+PC18_EXITRIGHT1-1=Ходімо, докторе Геркіне! Втечемо цим шляхом!
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### B-b-but... The Tribots are still...
+PC18_EXITRIGHT1-2=А-а-але... Триботи все ще...
+
+
+# Brok
+### No time for this!
+PC18_EXITRIGHT1-3=Немає часу на це!
+
+
+# Brok
+### If you wait, they'll get closer!
+PC18_EXITRIGHT1-4=Якщо чекатимете, вони підійдуть ближче!
+
+
+# Gherkin
+### Oh boy...
+PC18_EXITRIGHT1-5=Ой леле...
+
+
+#----------------------------------------------------
+

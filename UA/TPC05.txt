@@ -1,0 +1,185 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#= Sewers entrance
+#-------------------------------
+
+#----- Interactions --------
+### Handkerchief
+PC_HANDKERCHIEF=Хустинка
+
+### Paper
+PC_NEWSPAPER=Газета
+
+### Chemicals
+PC_CHEMICALS=Хімікати
+
+### Cross
+PC_CROSS=Хрест
+
+
+#----- Choices / Items --------
+### Search the hole?
+PC05_RATHOLE_CHOICES=Шукати в норі?
+
+
+#----- Topics --------
+### A handkerchief!
+GOT_HANDKERCHIEF=Хустинка!
+
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+# Brok - Room interactions
+### I've heard of insects digging small holes like this.
+PC05_RATHOLE_AD-1=Я чув, що комахи риють подібні маленькі нори.
+
+
+#----------------------------------------------------
+# Brok
+### I'm afraid I'm gonna regret this, but...
+PC05_RATHOLE_YES-1=Боюся, я про це пошкодую, але...
+
+
+# Brok
+### Mrph...
+PC05_RATHOLE_YES-2=Мр-р...
+
+
+# Brok
+### Now that's unexpected. I've found an ad!
+PC05_RATHOLE_YES-3=Оце так несподіванка. Я знайшов рекламу!
+
+
+#----------------------------------------------------
+# Brok
+### It's empty now.
+PC05_RATHOLE_EMPTY-1=Тепер тут порожньо.
+
+
+#----------------------------------------------------
+# Brok
+### Ah-ha! There's something inside!
+PC05_ADWALL-1=Ага! Усередині щось є!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, I recognize this! I think it's called... newspaper?
+PC05_NEWSPAPER1-1=Гей, я це впізнаю! Здається, це називається... газета?
+
+
+# Brok
+### These haven't been produced for years. How is it still intact? Especially near chemicals!
+PC05_NEWSPAPER1-2=Їх уже багато років не випускають. Як вона взагалі вціліла? Особливо поряд із хімікатами!
+
+
+# Brok
+### Or... Maybe they're the reason it's still intact.
+PC05_NEWSPAPER1-3=Або... Можливо, саме завдяки їм вона й вціліла.
+
+
+# Brok
+### In any case, better not touch it...
+PC05_NEWSPAPER1-4=У будь-якому разі, краще її не чіпати...
+
+
+#----------------------------------------------------
+# Brok
+### "Uncertainty over the candidates' competence for the upcoming elections"
+PC05_NEWSPAPER2-1="Сумніви щодо компетентності кандидатів на майбутніх виборах"
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### The date is erased but this seems to be pre-Autarchism Day news.
+PC05_NEWSPAPER2-2=Дата витерта, але це, схоже, новини ще до дня Аутархізму.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa... Must be products to destroy all rejects!
+PC05_CHEMICALS1-1=Ого... Мабуть, це засоби для знищення всіх відходів!
+
+
+# Brok
+### I probably shouldn't take my bath here.
+PC05_CHEMICALS1-2=Мабуть, мені не варто приймати тут ванну.
+
+
+#----------------------------------------------------
+# Brok
+### Let's see...
+PC05_HANDKERCHIEF1-1=Подивимося...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Yup. That's definitely Sin's.
+PC05_HANDKERCHIEF1-2=Так. Це точно Сіна.
+
+
+#----------------------------------------------------
+# Brok
+### If the handkerchief's here, I bet the gun isn't too far either!
+PC05_HANDKERCHIEF1B-1=Якщо хустинка тут, то й пістолет має бути десь неподалік!
+
+
+#----------------------------------------------------
+# Brok
+### Some heavy marks here... Starting right next to the handkerchief location.
+PC05_MARKS1-1=Тут якісь глибокі сліди... Починаються просто поруч із місцем, де лежала хустинка.
+
+
+# Brok
+### And if we consider it was raining last night, just like every night in this area...
+PC05_MARKS1-2=А якщо врахувати, що минулої ночі йшов дощ, як і щоночі в цьому районі...
+
+
+# Brok
+### No doubt about it. An object fell here and slowly drained further.
+PC05_MARKS1-3=Сумнівів немає. Щось сюди впало і його повільно понесло далі.
+
+
+# Brok
+### I bet this is what I'm looking for!
+PC05_MARKS1-4=Б'юся об заклад, це саме те, що я шукаю!
+
+
+#----------------------------------------------------
+# Brok
+### Let's follow this trail and see where it leads!
+PC05_MARKS2-1=Ходімо цим слідом і подивимося, куди він приведе!
+
+
+#----------------------------------------------------
+# Brok
+### I'd better explore this area before going any further!
+PC05_PC05B_NOTYET-1=Краще дослідити цю зону, перш ніж іти далі!
+
+
+#----------------------------------------------------
+# Brok - Brok falls down the manhole on his butt
+### ...
+PC05_MANHOLE_FALL1-1=...
+
+
+# Brok
+### Ow ow ow!
+PC05_MANHOLE_FALL1-2=Ай-ай-ай!
+
+
+# Brok
+### That worked... More or less.
+PC05_MANHOLE_FALL1-3=Спрацювало... Більш-менш.
+
+
+#----------------------------------------------------
+

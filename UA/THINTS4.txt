@@ -1,0 +1,339 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=HINTS - CHAPTER 4
+#-------------------------------
+
+#----- Hints BROK --------
+### Dude, go to the building in front of you!
+HINT_CH4_150_START1=
+
+
+### That man just won't open his door. You might have to force him!
+HINT_CH4_150_MINKDOOR1=
+
+### Either insist or... break his door.
+HINT_CH4_150_MINKDOOR2=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### You scared Dr. Mink. Only one solution left - break his door!
+HINT_CH4_150_MINKDOORBREAK1=
+
+### Examine the corpse and the lamp next to it. Also, check the blood spot on the lamp, Croc dude.
+HINT_CH4_150_BODY1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Check Dr. Hush's room!
+HINT_CH4_150_HUSH1=
+
+### Check the restroom!
+HINT_CH4_150_RESTROOM1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Turn on that robot in Dr. Hush's room!
+HINT_CH4_150_TIDY1=
+
+### You better talk more to that robot dude.
+HINT_CH4_150_TIDYMORE1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Croc dude, ask Dr. Mink about Dr. Hush and Tidy!
+HINT_CH4_150_TALKMINK1=
+
+### Take a look at the power socket behind the corpse.
+HINT_CH4_150_POWER1=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Talk to Ott.
+HINT_CH4_150_TALKOTT1=
+
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Croc dude, ask that guard guy about the situation and insist until he gives you access to the monitor!
+HINT_CH4_160_GUARDMONITORACCESS1=
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Check the monitor the guard has on his desk! In particular the info about the entrance door... (on the bottom right)
+HINT_CH4_160_GUARDMONITORSEE1=
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### You'd better interrogate that suspicious guard, Croc dude! Ask him why he's lying to start the real deal.
+HINT_CH4_160_GUARDSTART1=
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Croc dude, get that lamp from Dr. Hush's room!
+HINT_CH4_160_HUSHLAMP1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Go to Dr. Mink's room and try to use his tablet, Croc dude. Use the lamp from Dr. Hush's room directly on the last icon.
+HINT_CH4_160_HUSHLAMPCLUE1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Ask the guard about Dr. Hush.
+HINT_CH4_160_HUSHASK1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Check the monitor for Dr. Hush's room.
+HINT_CH4_160_DRHUSHROOM1=
+
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### Use the "Meety-me" from the restroom!
+HINT_CH4_160_MEETYME1=
+
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### At this point, you need take a decision yourself Croc dude! Who do you think is the culprit?##When you've decided, go see Mink and talk about "the investigation"! After that, I'll help ya getting the missing clues for your interrogation.
+HINT_CH4_160_DECISION1=
+
+
+### Take the lamp near the body, Croc dude!
+HINT_CH4_160_BODYLAMPTAKE1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Use Dr. Mink's tablet, Croc dude. Try examining the lamp which was next to the body!
+HINT_CH4_160_BODYLAMPEXAMINE1=
+
+
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Open that fridge from the restroom! (the left side) Dr. Mink might have some info about an Antburger...
+HINT_CH4_160_BURGER1=
+
+### Check that little trap on the floor of the restroom (left side). There's something red jutting out of that grinder! Pick it up!
+HINT_CH4_160_WRAPPING1=
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Croc dude, you see those black marks on Dr. Hush's hands? You may need to get a closer look at them!
+HINT_CH4_160_NANITESHANDS1=
+
+### Use your magnifying glass.
+HINT_CH4_160_NANITESHANDS2=
+
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Croc dude, check that plant on the guard's desk!
+HINT_CH4_160_LABFLOWER1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Pretty sure you didn't check what that flower you took actually is! Examine it on Dr. Mink's tablet surface mode (last icon)
+HINT_CH4_160_PLANTCHECK1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Use Dr. Mink's tablet and this time, use the third icon (medical search). Ask Ott about the Phoenixy flower!
+HINT_CH4_160_PLANTNANITES1=
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Did you check that spot on the floor in Dr. Hush's room? Take a closer look!
+HINT_CH4_160_FLOORCOFFEE1=
+
+### Use your magnifying glass.
+HINT_CH4_160_FLOORCOFFEE2=
+
+
+### That sink in the restroom! What secrets could lie deep inside it?...
+HINT_CH4_160_SINKNANITES1=
+
+### Use your magnifying glass.
+HINT_CH4_160_SINKNANITES2=
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### You forgot to check that painting at the back of Dr. Hush's room, Croc dude!
+HINT_CH4_160_PAINTING1=
+
+
+### There seems to be something off about that wall where the painting was, don't ya think?
+HINT_CH4_160_FAKEWALL1=
+
+### Switch to action mode and use your fists on that wall!
+HINT_CH4_160_FAKEWALL2=
+
+
+### Use the monitoring and check the restroom info.
+HINT_CH4_160_TIDYROOM1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Check the screen in Dr. Hush's room!
+HINT_CH4_160_TIDYCHARGE1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Use Dr. Mink's tablet and press the second icon to release the ladder. Then access it, Croc dude!
+HINT_CH4_160_TOMATOVENT1=
+
+### In the restroom, check the coffee cup! (on the shelf to the right)
+HINT_CH4_160_COFFEE1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### See that button on that workbench in the middle of Dr. Hush's room? Push it, then take a look at the ramp that opened!
+HINT_CH4_160_RAMP1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### There's that weird column of light in Dr. Mink's room (near the bed) Check it!
+HINT_CH4_160_COLUMN1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### There are some biscuits on that ramp in Dr. Hush's room. Check them (but no eating!)
+HINT_CH4_160_CRUMBS1=
+
+### Croc dude, check the right part of the fridge in the restroom!
+HINT_CH4_160_CLOTHES1=
+
+### Amongst the clothes that you've scattered in the restroom... There are some little round things! Check that, Croc dude!
+HINT_CH4_160_PILLHUSH1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Use Dr. Mink's tablet. Examine the pill you got from the restroom with the last icon. Then ask Ott to do a medical search for it! (third icon)
+HINT_CH4_160_ACCEL5001=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### In Dr. Hush's room, check the materials at the left of the room!
+HINT_CH4_160_MANIAC1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Check that speaker in Dr. Mink's room!
+HINT_CH4_160_MINKMUSIC1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Take Dr. Hush's tablet! (on the floating chair in his room)
+HINT_CH4_160_TABLETHUSH1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Use Dr. Hush's tablet on... Dr. Hush! Yeah, I know how weird this sounds but you need his finger to unlock it. In particular, his right hand!
+HINT_CH4_160_TABLETEXAMINE1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Talk to Dr. Mink and finish this interrogation!
+HINT_CH4_160_MINKFINISH1=
+
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### There's something under the bed in Mink's room...
+HINT_CH4_160_GUARDSTAIN1=
+
+### In the restroom, check the fridge! (left side)
+HINT_CH4_160_BURGERUNFROZEN1=
+
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Examine the lamp you found next to the body with Dr. Mink's tablet (last icon)
+HINT_CH4_160_WRONGLAMP1=
+
+
+### Go home, fast!
+HINT_CH4_175_HOME1=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### There's some material in front of Shay's garage.
+HINT_CH4_190_MATERIALP1A1=
+
+### Here :
+HINT_CH4_190_MATERIALP1A2=
+
+### There's some material at the Border Post.
+HINT_CH4_190_MATERIALP1B1=
+
+### Here :
+HINT_CH4_190_MATERIALP1B2=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### There's some material in Graff's bedroom.
+HINT_CH4_190_MATERIALP1C1=
+
+### Here :
+HINT_CH4_190_MATERIALP1C2=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### There's some material outside of the hacker's place.
+HINT_CH4_190_MATERIALP1D1=
+
+### Here :
+HINT_CH4_190_MATERIALP1D2=
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### There's some material in Drumer Street.
+HINT_CH4_190_MATERIALP1E1=
+
+### Here :
+HINT_CH4_190_MATERIALP1E2=
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### There's some material inside Shay's garage.
+HINT_CH4_190_MATERIALP1F1=
+
+### Here :
+HINT_CH4_190_MATERIALP1F2=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### There's some material inside the Trasher Hunt. (Ya know, the door at the top of Brok's building) Just play and find the treasure!
+HINT_CH4_190_MATERIALP1G1=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Croc dude, if you've got incomplete stuff to do... It's now or never! In any case, talk to Shay to start your evening fight.
+HINT_CH4_190_BEFOREFIGHT1=
+
+
+
+### Pinpoint the vent
+HINT_CH4_160_PINPOINT_DRHUSHVENT1=
+
+### Pinpoint the lever near the trap
+HINT_CH4_160_PINPOINT_LEVER1=
+
+### Pinpoint the fake wall
+HINT_CH4_160_PINPOINT_FAKEWALL1=
+
+### Pinpoint the lamp
+HINT_CH4_160_PINPOINT_MISTAKE1=
+
+
+
+#----- Hints GRAFF --------
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Just talk to Klay, kitty.
+HINT_CH4_160_KLAYSWALLOW1=
+
+### Kitty, take a look at that screen on the floor! (yup, a footscreen)
+HINT_CH4_160_SCREEN1=
+
+### Try pressing that button in the middle of the room!
+HINT_CH4_160_BUTTONTRY1=
+
+### Maybe you can exit? You didn't even check those doors!
+HINT_CH4_160_DOORSIDE1=
+
+### Hey, I know those bots are scary but you might want to take a look at them!
+HINT_CH4_160_TRIBOTS1=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Just talk to Klay, kitty.
+HINT_CH4_160_KLAYTALK1=
+
+### Kitty, you'll need to move forward. Just try and avoid those lasers. They always do the same movements so watch carefully! You might have to jump sometimes.##If you really can't pass them, I've got a tip for you! (which will cost you another ad, obviously)
+HINT_CH4_160_LASERS1=
+
+#NB : Almost the same as HINT_CH1_20_PYRAMIDINSIDEINSIDE1
+### Open the panel near the entrance where you come from. Your goal is to get the power out to deactivate the room lasers. Rotate the buttons until the electricity beam crosses all the "minus" buttons and none of the "plus" buttons! Here's a solution :
+HINT_CH4_160_LASERS2=
+
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Man, you're in big trouble! I wouldn't want to be in your place! Hmm, so...##That Squealer next to the bunker will sell you a pill for a high price. You may want to borrow some money from your old man and play at the Trasher Hunt to get enough. If you've got any food left, restore your health regularly.##Or you can, ya know... Go back home.
+HINT_CH4_165_GETPILL1=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Call Klay. Who knows... Maybe he'll help you. And a certain bot might help at school!
+HINT_CH4_165_GETPILL2=
+
+### Check the drawer.
+HINT_CH4_180_PAPER1=
+
+

@@ -1,0 +1,190 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Graff - Brok (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Unknown (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Shay (Unknown)
+
+#-------------------------------------
+#=CHAPTER 3 ROOMS
+#-------------------------------------
+
+# Brok
+### ...
+CH3_CALL_GRAFF_MORNING-1=...
+
+
+# Brok
+### No reply...
+CH3_CALL_GRAFF_MORNING-2=Не відповідає...
+
+
+# Brok
+### Obviously. He's busy with a trial this morning. Better not bother him.
+CH3_CALL_GRAFF_MORNING-3=Звісно. Він зайнятий своїм випробуванням. Краще його не турбувати.
+
+
+#----------------------------------------------------
+# Brok
+### Hi!
+CH3_CALL_SHAY_BEFORESELFMODIFIER-1=Здоров!
+
+
+# Shay
+### Hey, Bro'. What's up?
+CH3_CALL_SHAY_BEFORESELFMODIFIER-2=Привіт, брате. Як ти?
+
+
+# Brok
+### Well... Got a lotta things to do.
+CH3_CALL_SHAY_BEFORESELFMODIFIER-3=Ну... У мене дуже багато справ.
+
+
+# Shay
+### What a coincidence. Me too!
+CH3_CALL_SHAY_BEFORESELFMODIFIER-4=Оце так збіг. У мене теж!
+
+
+# Unknown
+### [...]
+CH3_CALL_SHAY_BEFORESELFMODIFIER-5=[...]
+
+
+# Brok
+### No wait...
+CH3_CALL_SHAY_BEFORESELFMODIFIER-6=Ні, зачекай...
+
+
+# Brok
+### Argh, too late.
+CH3_CALL_SHAY_BEFORESELFMODIFIER-7=Ар-р, запізно.
+
+
+#----------------------------------------------------
+# Brok
+### Hey.
+CH3_CALL_SHAY_AFTERSELFMODIFIER-1=Гей.
+
+
+# Shay
+### Bro'! Any luck finding those materials?
+CH3_CALL_SHAY_AFTERSELFMODIFIER-2=Брате! Вдалося знайти бодай якісь матеріали?
+
+
+# Brok
+### I'm... progressing.
+CH3_CALL_SHAY_AFTERSELFMODIFIER-3=Я... ще працюю над цим.
+
+
+# Shay
+### Good! If you can get these by tonight, that'll be perfect.
+CH3_CALL_SHAY_AFTERSELFMODIFIER-4=Добре! Якщо ти знайдеш їх до вечора, буде ідеально.
+
+
+# Brok
+### I'll try...
+CH3_CALL_SHAY_AFTERSELFMODIFIER-5=Я спробую...
+
+
+# Shay
+### So, what's bothering you?
+CH3_CALL_SHAY_AFTERSELFMODIFIER-6=То що тебе турбує?
+
+
+# Brok
+### Actually...
+CH3_CALL_SHAY_AFTERSELFMODIFIER-7=Власне...
+
+
+# Brok
+### Don't worry about it. I'll just come by later.
+CH3_CALL_SHAY_AFTERSELFMODIFIER-8=А, не бери до голови. Я зайду пізніше.
+
+
+# Shay
+### Cool.
+CH3_CALL_SHAY_AFTERSELFMODIFIER-9=Супер.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Hey, Wes.
+CH3_CALL_WES_BEFOREMEET-1=Алло, Весе.
+
+
+# Brok
+### Where are you?
+CH3_CALL_WES_BEFOREMEET-2=Де ви?
+
+
+# Wes - None of your business - We only hear bits because of the bad line
+### N... y... bus...
+CH3_CALL_WES_BEFOREMEET-3=Н... т... діл...
+
+
+# Brok
+### Your office is closed! Let me in!
+CH3_CALL_WES_BEFOREMEET-4=Ваш кабінет зачинено! Впустіть мене!
+
+
+# Wes - Wait for me outside. I'll be here any minute
+### W... ... me... de... h... a... ...n...t...
+CH3_CALL_WES_BEFOREMEET-5=П... ... ме... ні... б... з... ...и...н...
+
+
+# Brok
+### I can't hear you!
+CH3_CALL_WES_BEFOREMEET-6=Я вас не чую!
+
+
+# Wes - Forget it
+### F... i...
+# Note: Проїхали
+CH3_CALL_WES_BEFOREMEET-7=П... ха...
+
+
+# Brok
+### You're breaking up.
+CH3_CALL_WES_BEFOREMEET-8=Зв'язок переривається.
+
+
+# Unknown
+### [...]
+CH3_CALL_WES_BEFOREMEET-9=[...]
+
+
+# Brok
+### Great...
+CH3_CALL_WES_BEFOREMEET-10=Чудово...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH3_GRAFF_BUNKER1-1=...
+
+
+# Graff
+### What's this place, exactly?
+CH3_GRAFF_BUNKER1-2=Що це взагалі за місце?
+
+
+# Graff
+### I don't have a signal...
+CH3_GRAFF_BUNKER1-3=Не ловить сигнал...
+
+
+#----------------------------------------------------
+# Graff
+### This is pointless. I can't reach anyone from here.
+CH3_GRAFF_BUNKER2-1=Все це марно. Я звідси ні до кого не додзвонюся.
+
+
+#----------------------------------------------------
+

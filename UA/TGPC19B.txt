@@ -1,0 +1,2564 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Klay (Unknown)
+#     Graff - Various (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Unknown (Unknown)
+#     Klay - Various (Unknown)
+#     Unknown - Klay (Unknown)
+#     Unknown - Various (Unknown)
+#     Various - Graff (Unknown)
+#     Various - Klay (Unknown)
+#     Various - Unknown (Unknown)
+
+#-------------------------------
+#=BUNKER MAIN ROOM
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+### Insist?
+GPC19B_INSIST_CHOICE=Спитати про це?
+
+### Who should stay at the wall?
+GPC19B_WHO_CHOICE=Хто повинен лишитися біля стіни?
+
+### Truth
+GPC19B_Q1_TRUTH=Правда
+
+### Joke
+GPC19B_Q1_JOKE=Жарт
+
+### Say it?
+GPC19B_Q2_CHOICE=Сказати?
+
+### Would you fight for your friend?
+GPC19B_Q3_CHOICE=Чи будеш ти битися за свого друга?
+
+### Repeat the instructions?
+GPC19B_Q4_CHOICE=Повторити вказівки?
+
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Klay - Graff arrives in the second part of the trial. Klay is there.
+### There you are! Took you long enough.
+GPC19B_FIRST1-1=Ось ти де! Щось ти довго.
+
+
+#----------------------------------------------------
+# Graff
+### Well...
+GPC19B_FIRST2-1=Ну...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I'm almost glad to see you, Klay. Almost.
+GPC19B_FIRST2-2=Я майже радий тебе бачити, Клею. Майже.
+
+
+# Klay
+### You bet. This place gives me the creeps!
+GPC19B_FIRST2-3=Ще б пак. Від цього місця в мене мороз по шкірі!
+
+
+# Klay
+### Just look at that thing on the wall.
+GPC19B_FIRST2-4=Ти тільки подивися на оту штуковину на стіні.
+
+
+# Graff
+### Erm... I'm more concerned about all those bots.
+GPC19B_FIRST2-5=Е-е... Мене більше хвилюють усі ці боти.
+
+
+# Klay
+### They're inactive, you fool.
+GPC19B_FIRST2-6=Вони неактивні, бовдуре.
+
+
+# Graff
+### (Got a bad feeling anyway...)
+GPC19B_FIRST2-7=(У мене все одно погане передчуття...)
+
+
+# Graff
+### So... What are we supposed to do here?
+GPC19B_FIRST2-8=Тож... Що ми маємо тут робити?
+
+
+# Klay
+### Hey! Find out by (Cough) yourself... (Cough, cough)
+GPC19B_FIRST2-9=Гей! З'ясуй (Кашляє) сам... (Кашляє)
+
+
+# Graff
+### You're okay?
+GPC19B_FIRST2-10=Все гаразд?
+
+
+# Klay
+### I'm... (cough) I'm fine.
+GPC19B_FIRST2-11=Я... (Кашляє) Я в нормі.
+
+
+# Graff
+### You forgot to take your pill.
+GPC19B_FIRST2-12=Ти забув прийняти пігулку.
+
+
+# Klay
+### ...Yeah.
+GPC19B_FIRST2-13=...Так.
+
+
+# Graff
+### Hmm... I didn't take mine yet.
+GPC19B_FIRST2-14=Гмм... Я свою ще не приймав.
+
+
+# Graff
+### Maybe I can give you half...
+GPC19B_FIRST2-15=Може, я дам тобі половину...
+
+
+#----------------------------------------------------
+# Graff
+### Hey!!! Don't you dare!
+GPC19B_FIRST1B-1=Гей!!! Навіть не думай!
+
+
+# Klay
+### (Swallows)
+GPC19B_FIRST1B-2=(Ковтає)
+
+
+# Graff
+### You... You jerk! That was mine!
+GPC19B_FIRST1B-3=Ти... Ах ти покидьок! Вона була моєю!
+
+
+# Klay
+### No big deal! You'll get one as soon as we go out.
+GPC19B_FIRST1B-4=Нічого страшного! Отримаєш нову, щойно вийдемо звідси.
+
+
+# Klay
+### Besides you know a pill isn't efficient unless you take it whole.
+GPC19B_FIRST1B-5=До того ж ти знаєш, що пігулка не подіє, якщо не прийняти її цілою.
+
+
+# Graff
+### Ugh, you'll never change. Always so arrogant.
+GPC19B_FIRST1B-6=Пхе, ти ніколи не змінишся. Завжди такий пихатий.
+
+
+# Graff
+### If I wasn't so tired, I'd beat the crap out of you.
+GPC19B_FIRST1B-7=Якби я не був таким утомленим, я б тебе добряче відгамселив.
+
+
+# Klay
+### Focus! You'd better get out of here fast, buddy.
+GPC19B_FIRST1B-8=Зосередься! Тобі б краще швидше звідси вибратися, друже.
+
+
+# Graff
+### Hrmph... You won't get away with this.
+GPC19B_FIRST1B-9=Гр-р... Це тобі так просто з рук не минеться.
+
+
+#----------------------------------------------------
+# Klay
+### What?!
+GPC19B_SCREEN_GIVENUP-1=Що?!
+
+
+# Klay
+### You gave up?!
+GPC19B_SCREEN_GIVENUP-2=Ти здався?!
+
+
+# Graff
+### ...Yeah.
+GPC19B_SCREEN_GIVENUP-3=...Так.
+
+
+# Klay
+### Man! You suck.
+GPC19B_SCREEN_GIVENUP-4=Оце так! Ну ти й слабак.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### I could have solved those puzzles with my eyes closed!
+GPC19B_SCREEN_GIVENUP-5=Та я б розв'язав ці головоломки із заплющеними очима!
+
+
+# Graff
+### Spare me your comments. I feel bad enough about this.
+GPC19B_SCREEN_GIVENUP-6=Позбав мене своїх коментарів. Мені й без того паршиво.
+
+
+#----------------------------------------------------
+# Klay
+### You sure took your time. I've been stuck here for ages!
+GPC19B_SCREEN_SUCCESS-1=А ти, бачу, не квапився. Я вже вічність тут стирчу!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### You mean... You didn't solve your share of puzzles?
+GPC19B_SCREEN_SUCCESS-2=Тобто... Ти не розв'язав свою частину головоломок?
+
+
+# Klay
+### Of course I did.
+GPC19B_SCREEN_SUCCESS-3=Звісно, розв'язав.
+
+
+# Klay
+### Easy as pie. They're really taking us for beginners!
+GPC19B_SCREEN_SUCCESS-4=Простіше простого. Вони справді вважають нас новачками!
+
+
+# Graff
+### You know it's your mom who set up this trial, right?
+GPC19B_SCREEN_SUCCESS-5=Ти ж знаєш, що це випробування підготувала твоя мама, так?
+
+
+# Klay
+### Wrong. It was crafted a long time ago. She's only following instructions.
+GPC19B_SCREEN_SUCCESS-6=Неправда. Його створили дуже давно. Вона лише дотримується вказівок.
+
+
+# Graff
+### From who?
+GPC19B_SCREEN_SUCCESS-7=Чиїх?
+
+
+# Klay
+### Hmm... Not sure. She's very secretive when it comes to this.
+GPC19B_SCREEN_SUCCESS-8=Гмм... Не впевнений. Вона дуже потаємна, коли йдеться про це.
+
+
+#----------------------------------------------------
+# Graff
+### (I'd rather not. I might accidentally punch him in his arrogant face.)
+GPC19B_KLAY1-1=(Краще не треба. Бо ще випадково заїду в його пихату пику.)
+
+
+# Graff
+### (Let's explore the room.)
+GPC19B_KLAY1-2=(Огляньмо кімнату.)
+
+
+#----------------------------------------------------
+# Klay - Hitting Klay
+### Argh!!!
+GPC19B_KLAYHIT1-1=А-ай!!!
+
+
+# Klay
+### Are you nuts?!
+GPC19B_KLAYHIT1-2=Ти з глузду з'їхав?!
+
+
+#----------------------------------------------------
+# Klay
+### Aww! Awww!
+GPC19B_KLAYHIT2-1=Ай! Аа-ай!
+
+
+# Klay
+### You know we might be being watched right now?! You're screwed!
+GPC19B_KLAYHIT2-2=Ти в курсі, що за нами, можливо, спостерігають?! Тобі капець!
+
+
+# Graff
+### I don't care.
+GPC19B_KLAYHIT2-3=Мені байдуже.
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### I'm afraid to find out what this is used for...
+GPC19B_WALL1-1=Боюся навіть подумати, для чого це використовують...
+
+
+#----------------------------------------------------
+# Graff - The button is for giving shocks to whoever is tied to the wall
+### Woah!...
+GPC19B_BUTTONPUSH1-1=Ого...!
+
+
+# Graff
+### That button activates... some energy shock on that part of the wall?
+GPC19B_BUTTONPUSH1-2=Ця кнопка активує... якийсь енергетичний розряд на тій частині стіни?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Hey, Klay. Do you mind going over there for a sec?
+GPC19B_BUTTONPUSH2-1=Гей, Клею. Не хочеш підійти туди на секунду?
+
+
+# Klay
+### Yeah, right.
+GPC19B_BUTTONPUSH2-2=Ага, вже побіг.
+
+
+# Graff
+### We won't know what this does without trying!
+GPC19B_BUTTONPUSH2-3=Ми не дізнаємося, що воно робить, поки не спробуємо!
+
+
+# Klay
+### Get lost.
+GPC19B_BUTTONPUSH2-4=Відчепись.
+
+
+#----------------------------------------------------
+# Graff
+### This won't open! But it might actually be a good thing.
+GPC19B_DOORBOTS1-1=Воно не відчиняється! Але, можливо, це й на краще.
+
+
+#----------------------------------------------------
+# Graff
+### Two locked doors without a handle.
+GPC19B_DOORSIDE1-1=Двоє зачинених дверей без ручок.
+
+
+# Graff
+### I bet these are exits and each of us ought to take a different one.
+GPC19B_DOORSIDE1-2=Б'юся об заклад, що це виходи, і кожен із нас має піти крізь свій власний.
+
+
+# Klay
+### Wow! You must have gathered all your brain cells to understand this.
+GPC19B_DOORSIDE1-3=Ого! Ти, мабуть, задіяв усі клітини свого мозку, щоб це зрозуміти.
+
+
+# Graff
+### Shut up.
+GPC19B_DOORSIDE1-4=Заткнися.
+
+
+#----------------------------------------------------
+# Graff
+### Locked.
+GPC19B_DOORSIDE2-1=Зачинено.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19B_GRAFFROOMS1-1=...
+
+
+# Graff
+### Looks like I can't go back.
+GPC19B_GRAFFROOMS1-2=Схоже, повернутися неможливо.
+
+
+#----------------------------------------------------
+# Klay
+### Hey! Where do you think you're going?
+GPC19B_KLAYROOMS1-1=Гей! І куди це ти зібрався?
+
+
+# Graff
+### Darn.
+GPC19B_KLAYROOMS1-2=Чорт.
+
+
+# Klay
+### This is the room I came from. There's no point going back there.
+GPC19B_KLAYROOMS1-3=Це кімната, з якої я прийшов. Немає сенсу туди повертатися.
+
+
+# Graff
+### (I hate to admit defeat but... he's right.)
+GPC19B_KLAYROOMS1-4=(Мені не хочеться визнавати поразку, але... він має рацію.)
+
+
+#----------------------------------------------------
+# Graff
+### Weird. When I approach this thing, a picture appears.
+GPC19B_FRAME1-1=Дивно. Коли я наближаюся до цієї штуки, з'являється зображення.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19B_ENTRANCE_PICTURE1-1=...
+
+
+# Graff
+### Is this the outside of the building?
+GPC19B_ENTRANCE_PICTURE1-2=Це вигляд назовні цієї будівлі?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19B_ENTRANCE_PICTURE2-1=...
+
+
+#----------------------------------------------------
+# Graff
+### This foot screen seems to display...
+GPC19B_SCREEN1-1=Здається, підлоговий екран показує...
+
+
+# Graff
+### The results of this trial so far?
+GPC19B_SCREEN1-2=Поточні результати цього випробування?
+
+
+#----------------------------------------------------
+# Graff
+### What are we supposed to do now?
+GPC19B_SCREEN2-1=Що ми маємо робити далі?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19B_TRIBOTS1-1=...
+
+
+# Graff
+### Watching them makes me uneasy.
+GPC19B_TRIBOTS1-2=Дивитися на них якось моторошно.
+
+
+# Klay
+### Why?
+GPC19B_TRIBOTS1-3=Чому?
+
+
+# Graff
+### Not sure myself.
+GPC19B_TRIBOTS1-4=Сам не впевнений.
+
+
+# Graff
+### Maybe they just remind me of your mother.
+GPC19B_TRIBOTS1-5=Можливо, вони просто нагадують мені твою маму.
+
+
+# Klay
+### How dare you!
+GPC19B_TRIBOTS1-6=Як ти смієш!
+
+
+# Klay
+### She's so much more than those pieces of junk.
+GPC19B_TRIBOTS1-7=Вона значно краща за цей металобрухт.
+
+
+# Graff
+### Yeah...
+GPC19B_TRIBOTS1-8=Ага...
+
+
+# Graff
+### ...
+GPC19B_TRIBOTS1-9=...
+
+
+#----------------------------------------------------
+# Graff
+### Better look away...
+GPC19B_TRIBOTS2-1=Краще відвернутися...
+
+
+#----------------------------------------------------
+# Graff - Klay goes to lay on bed.
+### You've got to be kidding me.
+GPC19B_KLAYBED1-1=Ти що, жартуєш?
+
+
+# Graff
+### We're having a test here, you know!
+GPC19B_KLAYBED1-2=У нас взагалі-то тест, якщо ти забув!
+
+
+# Klay
+### Why do you think they have this?
+GPC19B_KLAYBED1-3=Як гадаєш, навіщо воно тут?
+
+
+# Klay
+### Check the foot screen. It's telling us to wait.
+GPC19B_KLAYBED1-4=Подивися на підлоговий екран. Там написано чекати.
+
+
+# Klay
+### If we're going to get stuck here for a while, we might as well have a good time.
+GPC19B_KLAYBED1-5=Якщо ми вже застрягли тут ненадовго, то чому б не провести час із задоволенням.
+
+
+# Graff
+### Well I'm not going to sit around and do nothing!
+GPC19B_KLAYBED1-6=Ну, а я не збираюся сидіти, склавши руки!
+
+
+# Klay
+### Of course you won't. There's only one bed.
+GPC19B_KLAYBED1-7=Звісно, не будеш. Ліжко ж тут лише одне.
+
+
+# Graff
+### You're hopeless.
+GPC19B_KLAYBED1-8=Ти безнадійний.
+
+
+#----------------------------------------------------
+# Klay
+### Come on. Relax!
+GPC19B_KLAYBED2-1=Та ну тебе. Розслабся!
+
+
+# Klay
+### You're always so tense. It's a wonder you haven't had a heart attack already!
+GPC19B_KLAYBED2-2=Ти завжди такий напружений. Диво, як у тебе досі не стався інфаркт!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Easy for you to say. You're like a Drumer dwelling in the Slums.
+GPC19B_KLAYBED2-3=Тобі легко казати. Ти ніби мешканець Верхів, який проживає в Нетрях.
+
+
+# Graff
+### Life's always treated you well.
+GPC19B_KLAYBED2-4=Життя завжди було до тебе прихильним.
+
+
+# Klay
+### ...
+GPC19B_KLAYBED2-5=...
+
+
+# Klay
+### You don't know anything.
+GPC19B_KLAYBED2-6=Ти нічого не знаєш.
+
+
+#----------------------------------------------------
+# Klay
+### Actually I'm starting to think it's your fault we're stuck.
+GPC19B_KLAYBED_NOTINSIST1-1=Узагалі-то я починаю думати, що ми застрягли тут з твоєї вини.
+
+
+# Graff
+### My fault?! What did I do?!
+GPC19B_KLAYBED_NOTINSIST1-2=З моєї вини?! Що я зробив?!
+
+
+# Klay
+### You're cursed. Just like your dad.
+GPC19B_KLAYBED_NOTINSIST1-3=Ти проклятий. Так само, як і твій батько.
+
+
+# Graff
+### He's not my father! How many times do I need to say it?
+GPC19B_KLAYBED_NOTINSIST1-4=Він не мій батько! Скільки разів мені треба це повторити?
+
+
+# Klay
+### Right. You've got a dead mother and a... missing father?
+GPC19B_KLAYBED_NOTINSIST1-5=Точно. Твоя мати померла, а батько... зник безвісти?
+
+
+# Graff
+### Stop pretending you're perfect.
+GPC19B_KLAYBED_NOTINSIST1-6=Припини вдавати з себе ідеального.
+
+
+# Graff
+### Go check on your mother. I bet she must be rusting in the rain. Hope you don't forget to fill her oil tank!
+GPC19B_KLAYBED_NOTINSIST1-7=Іди перевір свою маму. Б'юся об заклад, вона зараз іржавіє під дощем. Сподіваюся, ти не забув залити мастило в її бак!
+
+
+# Klay
+### How dare you!
+GPC19B_KLAYBED_NOTINSIST1-8=Як ти смієш!
+
+
+# Klay
+### If she didn't have pity a few years back, you wouldn't even be here right now!
+GPC19B_KLAYBED_NOTINSIST1-9=Якби вона не змилувалася над тобою кілька років тому, тебе б зараз тут взагалі не було!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You've been given a chance to become a Drumer and live your dreams, and that's how you take it?
+GPC19B_KLAYBED_NOTINSIST1-10=Тобі дали шанс стати мешканцем Верхів і здійснити свої мрії, і ось як ти до цього ставишся?
+
+
+# Klay
+### You don't deserve it! I do!
+GPC19B_KLAYBED_NOTINSIST1-11=Ти на це не заслуговуєш! А я - заслуговую!
+
+
+# Graff
+### Oh, yeah?! That's what we're gonna find out!
+GPC19B_KLAYBED_NOTINSIST1-12=О, справді?! Ось ми це й з'ясуємо!
+
+
+# Graff
+### The screen changed. Let's do this!
+GPC19B_KLAYBED_NOTINSIST1-13=Екран змінився. До справи!
+
+
+#----------------------------------------------------
+# Graff
+### Dare to share?
+GPC19B_KLAYBED_INSIST1-1=Не хочеш поділитися?
+
+
+# Klay
+### ...
+GPC19B_KLAYBED_INSIST1-2=...
+
+
+# Graff
+### It's about your mother, right?
+GPC19B_KLAYBED_INSIST1-3=Це стосується твоєї матері, так?
+
+
+# Graff
+### Nobody dares to ask but...
+GPC19B_KLAYBED_INSIST1-4=Ніхто не наважується запитати, але...
+
+
+# Graff
+### I need to know. How come your mom's a bot?
+GPC19B_KLAYBED_INSIST1-5=Я мушу знати. Як так вийшло, що твоя мама - бот?
+
+
+# Klay
+### ...
+GPC19B_KLAYBED_INSIST1-6=...
+
+
+# Klay
+### When I was eight... There was an accident.
+GPC19B_KLAYBED_INSIST1-7=Коли мені було вісім... Стався нещасний випадок.
+
+
+# Graff
+### An accident...?
+GPC19B_KLAYBED_INSIST1-8=Нещасний випадок...?
+
+
+# Klay
+### My mom... She... didn't make it...
+GPC19B_KLAYBED_INSIST1-9=Моя мама... Вона... не вижила...
+
+
+# Klay
+### ...
+GPC19B_KLAYBED_INSIST1-10=...
+
+
+# Klay
+### She got her memories transferred.
+GPC19B_KLAYBED_INSIST1-11=Її пам'ять перенесли.
+
+
+# Graff
+### What...? Is that even possible?
+GPC19B_KLAYBED_INSIST1-12=Що...? Хіба це взагалі можливо?
+
+
+# Klay
+### I can't remember much... But...
+GPC19B_KLAYBED_INSIST1-13=Я мало що пам'ятаю... Але...
+
+
+# Klay
+### I've been raised by this robot and I don't see her as one. She's always been good to me.
+GPC19B_KLAYBED_INSIST1-14=Мене виховав цей робот, але я не сприймаю її як робота. Вона завжди була доброю до мене.
+
+
+# Klay
+### As far as I can tell... She's my mom, and that's all that matters.
+GPC19B_KLAYBED_INSIST1-15=Як на мене... Вона моя мама, і це єдине, що має значення.
+
+
+# Graff
+### At least you've got one.
+GPC19B_KLAYBED_INSIST1-16=Принаймні у тебе вона є.
+
+
+# Klay
+### Ha! You're right.
+GPC19B_KLAYBED_INSIST1-17=Ха! Твоя правда.
+
+
+# Klay
+### I'd rather have a robotic mother than a dead one!
+GPC19B_KLAYBED_INSIST1-18=Мати-робот - це краще, ніж мертва матір!
+
+
+# Graff
+### That's mean, you know.
+GPC19B_KLAYBED_INSIST1-19=Це грубо, знаєш.
+
+
+# Klay
+### But true!
+GPC19B_KLAYBED_INSIST1-20=Зате правда!
+
+
+# Graff
+### ...
+GPC19B_KLAYBED_INSIST1-21=...
+
+
+# Klay
+### And your dad? I mean... Your real one?
+GPC19B_KLAYBED_INSIST1-22=А твій тато? Я маю на увазі... справжній?
+
+
+# Graff
+### What about him?
+GPC19B_KLAYBED_INSIST1-23=А що з ним?
+
+
+# Klay
+### Well... Did he run away when he found out what kind of son he had?
+GPC19B_KLAYBED_INSIST1-24=Ну... Він утік, коли дізнався, який у нього син?
+
+
+# Graff
+### ...
+GPC19B_KLAYBED_INSIST1-25=...
+
+
+# Klay
+### No way! I'm right?
+GPC19B_KLAYBED_INSIST1-26=Та ладно! Я вгадав?
+
+
+# Graff
+### I... I've barely known him.
+GPC19B_KLAYBED_INSIST1-27=Я... Я його майже не знав.
+
+
+# Graff
+### I think he left Mom when I was five or something.
+GPC19B_KLAYBED_INSIST1-28=Здається, він покинув маму, коли мені було років п'ять.
+
+
+# Graff
+### Soon after... He disappeared off the face of the earth.
+GPC19B_KLAYBED_INSIST1-29=Невдовзі після цього... Він зник з лиця землі.
+
+
+# Klay
+### What was his name?
+GPC19B_KLAYBED_INSIST1-30=Як його звали?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Remn": "Ремн"
+### Remn.
+GPC19B_KLAYBED_INSIST1-31=Ремн.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Remn": "Ремн"
+### Remn...
+GPC19B_KLAYBED_INSIST1-32=Ремн...
+
+
+# Klay
+### I've never had a father myself. My mom resorted to laboratory procreation.
+GPC19B_KLAYBED_INSIST1-33=У мене й самого ніколи не було батька. Моя мама вдалася до лабораторного запліднення.
+
+
+# Klay
+### She wanted me to be... perfect.
+GPC19B_KLAYBED_INSIST1-34=Вона хотіла, щоб я був... ідеальним.
+
+
+# Graff
+### And she succeeded.
+GPC19B_KLAYBED_INSIST1-35=І їй це вдалося.
+
+
+# Klay
+### Ha! Don't make me laugh.
+GPC19B_KLAYBED_INSIST1-36=Ха! Не сміши мене.
+
+
+# Graff
+### You're not?
+GPC19B_KLAYBED_INSIST1-37=А це не так?
+
+
+# Klay
+### ...
+GPC19B_KLAYBED_INSIST1-38=...
+
+
+# Klay
+### Everyday... I have to give it my best.
+GPC19B_KLAYBED_INSIST1-39=Щодня... я мушу викладатися на повну.
+
+
+# Klay
+### Do you know what it's like to have all your actions... All your destiny...
+GPC19B_KLAYBED_INSIST1-40=Ти знаєш, як це, коли всі твої вчинки... Уся твоя доля...
+
+
+# Klay
+### Planned out for you... even before you were born?
+GPC19B_KLAYBED_INSIST1-41=Сплановані за тебе... ще до твого народження?
+
+
+# Klay
+### I'm... tired.
+GPC19B_KLAYBED_INSIST1-42=Я... втомився.
+
+
+# Klay
+### As soon as I get my diploma...
+GPC19B_KLAYBED_INSIST1-43=Щойно я отримаю диплом...
+
+
+# Klay
+### I'll live my own life.
+GPC19B_KLAYBED_INSIST1-44=Я житиму власним життям.
+
+
+# Graff
+### ...
+GPC19B_KLAYBED_INSIST1-45=...
+
+
+# Graff
+### Sorry.
+GPC19B_KLAYBED_INSIST1-46=Вибач.
+
+
+# Graff
+### I realize... We've both had problems growing up.
+GPC19B_KLAYBED_INSIST1-47=Тепер я розумію... У нас обох у дитинстві були проблеми.
+
+
+# Klay
+### Yeah...
+GPC19B_KLAYBED_INSIST1-48=Так...
+
+
+# Graff
+### ...
+GPC19B_KLAYBED_INSIST1-49=...
+
+
+# Klay
+### ...
+GPC19B_KLAYBED_INSIST1-50=...
+
+
+# Graff
+### Hey, look! The screen changed.
+GPC19B_KLAYBED_INSIST1-51=Гей, подивися! Екран змінився.
+
+
+# Klay
+### Finally!
+GPC19B_KLAYBED_INSIST1-52=Нарешті!
+
+
+#----------------------------------------------------
+# Graff - The "game" starts. One of the two characters will get tied up to the wall while another answers questions. Player can choose Graff or Klay.
+### One... over there?...
+GPC19B_GAMESTARTS1-1=Один... он туди...?
+
+
+# Klay
+### That means...
+GPC19B_GAMESTARTS1-2=Це означає...
+
+
+# Graff
+### One of us gets stuck to that wall while the other does...
+GPC19B_GAMESTARTS1-3=Один із нас буде прикутий до тієї стіни, поки інший робить...
+
+
+# Graff
+### What, exactly?
+GPC19B_GAMESTARTS1-4=Що саме?
+
+
+# Klay
+### Who knows.
+GPC19B_GAMESTARTS1-5=Хтозна.
+
+
+# Graff
+### We need to make a decision!
+GPC19B_GAMESTARTS1-6=Нам треба вирішити!
+
+
+#----------------------------------------------------
+# Graff
+### I'll go.
+GPC19B_GAMESTARTS_GRAFF-1=Я піду.
+
+
+# Klay
+### Perfect.
+GPC19B_GAMESTARTS_GRAFF-2=Чудово.
+
+
+# Graff
+### After all, your part may be even worse.
+GPC19B_GAMESTARTS_GRAFF-3=Зрештою, твоя роль може виявитися ще гіршою.
+
+
+# Klay
+### ...
+GPC19B_GAMESTARTS_GRAFF-4=...
+
+
+# Klay
+### Nah. Can't be!
+GPC19B_GAMESTARTS_GRAFF-5=Та ні. Не може бути!
+
+
+#----------------------------------------------------
+# Graff
+### You go.
+GPC19B_GAMESTARTS_KLAY-1=Краще ти.
+
+
+# Klay
+### No way!
+GPC19B_GAMESTARTS_KLAY-2=Ні за що!
+
+
+# Klay
+### I'm not stupid. This looks dangerous.
+GPC19B_GAMESTARTS_KLAY-3=Я не дурень. Воно здається небезпечним.
+
+
+# Graff
+### This must be a test of cooperation. What do you think will happen if none of us does?
+GPC19B_GAMESTARTS_KLAY-4=Це, мабуть, перевірка на співпрацю. Як гадаєш, що станеться, якщо ніхто з нас не піде?
+
+
+# Klay
+### Then why don't you go?
+GPC19B_GAMESTARTS_KLAY-5=Тоді чому б тобі не піти?
+
+
+# Graff
+### ...
+GPC19B_GAMESTARTS_KLAY-6=...
+
+
+# Graff
+### I'm worried. I might get claustrophobic...
+GPC19B_GAMESTARTS_KLAY-7=Я хвилююся. У мене може початися клаустрофобія...
+
+
+# Klay
+### No worries. If anything happens, I'll let you out.
+GPC19B_GAMESTARTS_KLAY-8=Не переймайся. Якщо щось станеться, я тебе звільню.
+
+
+# Graff
+### How do you know you'll be able to let me out?
+GPC19B_GAMESTARTS_KLAY-9=Звідки ти знаєш, що зможеш мене звільнити?
+
+
+# Klay
+### Mom wouldn't allow it.
+GPC19B_GAMESTARTS_KLAY-10=Мама б цього не допустила.
+
+
+# Klay
+### Besides...
+GPC19B_GAMESTARTS_KLAY-11=До того ж...
+
+
+# Various
+### Ten seconds left.
+GPC19B_GAMESTARTS_KLAY-12=Залишилося десять секунд.
+
+
+#----------------------------------------------------
+# Graff
+### We're running out of time!
+GPC19B_GAMESTARTS_NB1-1=У нас закінчується час!
+
+
+# Graff
+### If no one goes, we'll both fail!
+GPC19B_GAMESTARTS_NB1-2=Якщо ніхто не піде, ми обидва провалимо випробування!
+
+
+# Klay
+### Then go!
+GPC19B_GAMESTARTS_NB1-3=Тоді йди!
+
+
+#----------------------------------------------------
+# Various
+### Five.
+GPC19B_GAMESTARTS_NB2-1=П'ять.
+
+
+# Various
+### Four.
+GPC19B_GAMESTARTS_NB2-2=Чотири.
+
+
+# Various
+### Three.
+GPC19B_GAMESTARTS_NB2-3=Три.
+
+
+# Various
+### Two.
+GPC19B_GAMESTARTS_NB2-4=Два.
+
+
+# Various
+### One.
+GPC19B_GAMESTARTS_NB2-5=Один.
+
+
+#----------------------------------------------------
+# Klay
+### ...Argh!
+GPC19B_GAMESTARTS_KLAYGOES1-1=...Ар-р!
+
+
+# Klay
+### I... I can't afford to fail this trial because of you!
+GPC19B_GAMESTARTS_KLAYGOES1-2=Я... Я не можу провалити це випробування через тебе!
+
+
+# Graff
+### Don't worry. I'm sure it'll be fine!
+GPC19B_GAMESTARTS_KLAYGOES1-3=Не хвилюйся. Я впевнений, усе буде гаразд!
+
+
+#----------------------------------------------------
+# Graff
+### You win.
+GPC19B_GAMESTARTS_GRAFFGOESAFTERALL1-1=Твоя взяла.
+
+
+# Klay
+### Finally, you listen to reason!
+GPC19B_GAMESTARTS_GRAFFGOESAFTERALL1-2=Нарешті ти послухався розуму!
+
+
+#----------------------------------------------------
+# Graff
+### Uh-oh...
+GPC19B_GAMESTARTS_GRAFF1-1=Ой-ой...
+
+
+#----------------------------------------------------
+# Various
+### The game will now start.
+GPC19B_Q1_GRAFF-1=Гра починається.
+
+
+# Klay
+### Game?...
+GPC19B_Q1_GRAFF-2=Гра...?
+
+
+# Various
+### The host should remain silent.
+GPC19B_Q1_GRAFF-3="Ув'язнений" має мовчати.
+
+
+# Various
+### Student. Please say your name and your partner's name.
+GPC19B_Q1_GRAFF-4=Студенте. Будь ласка, назви своє ім'я та ім'я свого партнера.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I'm Graff. He's Klay.
+GPC19B_Q1_TRUTH1-1=Я - Графф. Він - Клей.
+
+
+#----------------------------------------------------
+# Graff
+### It worked?
+GPC19B_Q1_TRUTH2-1=Спрацювало?
+
+
+# Klay
+### Maybe it won't be that difficult after all.
+GPC19B_Q1_TRUTH2-2=Можливо, це буде не так уже й складно.
+
+
+#----------------------------------------------------
+# Graff - Obviously this is a joke... "billboard" Replace with whatever silly joke you can come up with
+### My name's Bill and he's Board.
+GPC19B_Q1_JOKE1-1=Мене звати Білл, а його - Борд.
+
+
+# Klay
+### What?...
+GPC19B_Q1_JOKE1-2=Що...?
+
+
+# Graff
+### Bill... Board!...
+GPC19B_Q1_JOKE1-3=Білл... Борд...!
+
+
+# Graff
+### Got it?
+GPC19B_Q1_JOKE1-4=Зрозумів?
+
+
+# Klay - Humor
+### Man. You really have crappy hum...
+GPC19B_Q1_JOKE1-5=Ох. Ну й паршивий у тебе гум...
+
+
+#----------------------------------------------------
+# Various
+### The game will now start.
+GPC19B_Q1_KLAY-1=Гра починається.
+
+
+# Graff
+### I've got a bad feeling...
+GPC19B_Q1_KLAY-2=У мене погане передчуття...
+
+
+# Klay
+### Oh, stop being such a drama queen.
+GPC19B_Q1_KLAY-3=Та облиш ти влаштовувати драму.
+
+
+# Graff
+### Typical! You're not the one chained up.
+GPC19B_Q1_KLAY-4=Типово! Не тебе ж прикували.
+
+
+# Various
+### The host should remain silent.
+GPC19B_Q1_KLAY-5="Ув'язнений" має мовчати.
+
+
+# Klay
+### You heard the voice? Shut up.
+GPC19B_Q1_KLAY-6=Чув голос? Замовкни.
+
+
+# Graff
+### I hate you.
+GPC19B_Q1_KLAY-7=Ненавиджу тебе.
+
+
+# Various
+### Student. Please say your name and your partner's name.
+GPC19B_Q1_KLAY-8=Студенте. Будь ласка, назви своє ім'я та ім'я свого партнера.
+
+
+# Klay
+### Stupid. You already know them!
+GPC19B_Q1_KLAY-9=Дурниця. Ви й так їх знаєте!
+
+
+#----------------------------------------------------
+# Various
+### Student. Please say the following out loud.
+GPC19B_Q2_GRAFF-1=Студенте. Будь ласка, скажи наступне вголос.
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### "I love you Klay. Please forgive me."
+GPC19B_Q2_GRAFF-2="Я люблю тебе, Клею. Будь ласка, вибач мені."
+
+
+# Graff
+### Is that a joke?
+GPC19B_Q2_GRAFF-3=Це що, жарт?
+
+
+# Klay
+### Just... Do whatever they say!
+GPC19B_Q2_GRAFF-4=Просто... Роби те, що кажуть!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I love you Klay. Please forgive me.
+GPC19B_Q2_OKAY-1=Я люблю тебе, Клею. Будь ласка, вибач мені.
+
+
+#----------------------------------------------------
+# Graff
+### Just so you know, I'm only doing this because they asked.
+GPC19B_Q2_OKAY2-1=Щоб ти знав, я роблю це тільки тому, що вони попросили.
+
+
+# Klay
+### Obviously...
+GPC19B_Q2_OKAY2-2=Звісно...
+
+
+#----------------------------------------------------
+# Graff
+### No way!
+GPC19B_Q2_NOPE-1=Ні за що!
+
+
+# Graff
+### He's despicable. Everyone hates him.
+GPC19B_Q2_NOPE-2=Він мерзенний. Його всі ненавидять.
+
+
+#----------------------------------------------------
+# Various
+### Student. Please say the following out loud.
+GPC19B_Q2_KLAY-1=Студенте. Будь ласка, скажи наступне вголос.
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### "I love you Graff. Please forgive me."
+GPC19B_Q2_KLAY-2="Я люблю тебе, Граффе. Будь ласка, вибач мені."
+
+
+# Klay
+### Whaaaaat?!
+GPC19B_Q2_KLAY-3=Що-о-о?!
+
+
+# Graff
+### Just do it!
+GPC19B_Q2_KLAY-4=Просто зроби це!
+
+
+# Klay
+### Okay, okay.
+GPC19B_Q2_KLAY-5=Добре, добре.
+
+
+# Klay
+### I...
+GPC19B_Q2_KLAY-6=Я...
+
+
+# Klay
+### ...
+GPC19B_Q2_KLAY-7=...
+
+
+#----------------------------------------------------
+# Klay
+### ...I can't.
+GPC19B_Q2_KLAY_YES-1=...Я не можу.
+
+
+# Graff
+### What are you afraid of?!
+GPC19B_Q2_KLAY_YES-2=Чого ти боїшся?!
+
+
+# Klay
+### W-well...
+GPC19B_Q2_KLAY_YES-3=Н-ну...
+
+
+# Klay
+### Okay. Let's do this.
+GPC19B_Q2_KLAY_YES-4=Гаразд. Зробімо це.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I-I love you Graff... Please forgive me...
+GPC19B_Q2_KLAY_YES-5=Я-я люблю тебе, Граффе... Будь ласка, вибач мені...
+
+
+# Graff
+### I wish it was sincere.
+GPC19B_Q2_KLAY_YES-6=Хотілося б, щоб це було щиро.
+
+
+# Klay
+### But... It is! I may keep playing pranks but I'm still worried about you.
+GPC19B_Q2_KLAY_YES-7=Але... Так і є! Я можу й далі розігрувати тебе, але я все одно хвилююся за тебе.
+
+
+# Graff
+### Right...
+GPC19B_Q2_KLAY_YES-8=Ага...
+
+
+#----------------------------------------------------
+# Klay
+### No way!
+GPC19B_Q2_KLAY_NO-1=Ні за що!
+
+
+# Klay
+### The way you've treated me recently...
+GPC19B_Q2_KLAY_NO-2=Зважаючи на те, як ти ставився до мене останнім часом...
+
+
+# Graff
+### What?!
+GPC19B_Q2_KLAY_NO-3=Що?!
+
+
+# Graff
+### You botched my invention!
+GPC19B_Q2_KLAY_NO-4=Ти зіпсував мій винахід!
+
+
+# Klay
+### What about you?!
+GPC19B_Q2_KLAY_NO-5=А як щодо тебе?!
+
+
+# Unknown
+### Students. Shut up.
+GPC19B_Q2_KLAY_NO-6=Студенти. Замовкніть.
+
+
+#----------------------------------------------------
+# Various
+### Student.
+GPC19B_Q3_GRAFF-1=Студенте.
+
+
+# Various
+### If a thug threatened your partner, would you risk your life to protect him?
+GPC19B_Q3_GRAFF-2=Якби бандит погрожував твоєму партнеру, чи ризикнув би ти життям, щоб захистити його?
+
+
+# Graff
+### There's no question about it.
+GPC19B_Q3_GRAFF-3=Тут і питання бути не може.
+
+
+#----------------------------------------------------
+# Graff
+### I'd never. Not in a million years!
+GPC19B_Q3_NOPE-1=Ніколи в житті. Нізащо у світі!
+
+
+# Klay
+### Hey!!!
+GPC19B_Q3_NOPE-2=Гей!!!
+
+
+# Graff
+### You wouldn't do it for me either!
+GPC19B_Q3_NOPE-3=Ти б заради мене теж цього не зробив!
+
+
+# Klay
+### That's not true!
+GPC19B_Q3_NOPE-4=Це неправда!
+
+
+#----------------------------------------------------
+# Graff
+### Of course I would!
+GPC19B_Q3_OKAY-1=Звісно, зробив би!
+
+
+#----------------------------------------------------
+# Klay
+### M-maybe this wasn't the good reply after all...
+GPC19B_Q3_OKAY2-1=М-можливо, це все-таки була неправильна відповідь...
+
+
+# Graff
+### What?
+GPC19B_Q3_OKAY2-2=Що?
+
+
+# Klay
+### Looks like you're gonna have to prove it!
+GPC19B_Q3_OKAY2-3=Схоже, тобі доведеться це довести!
+
+
+#----------------------------------------------------
+# Graff
+### ...!
+GPC19B_Q3_OKAY2B-1=...!
+
+
+# Graff
+### They're... serious about this, aren't they?
+GPC19B_Q3_OKAY2B-2=Вони... це серйозно, чи як?
+
+
+#----------------------------------------------------
+# Klay
+### Phew! I was worried for a second.
+GPC19B_Q3_OKAY3-1=Фух! Я вже перелякався на мить.
+
+
+#----------------------------------------------------
+# Graff
+### More?!...
+GPC19B_Q3_OKAY4-1=Ще...?!
+
+
+# Graff
+### That's not fair! They said one thug!
+GPC19B_Q3_OKAY4-2=Це нечесно! Вони казали про одного бандита!
+
+
+# Klay
+### What if they release all of them?!
+GPC19B_Q3_OKAY4-3=А що, як вони випустять усіх?!
+
+
+# Graff
+### Don't jinx it!
+GPC19B_Q3_OKAY4-4=Не навроч!
+
+
+#----------------------------------------------------
+# Graff
+### (Cough...)
+GPC19B_Q3_OKAY5-1=(Кашляє)
+
+
+# Klay
+### You... You won!
+GPC19B_Q3_OKAY5-2=Ти... Ти переміг!
+
+
+# Graff
+### No thanks, eh?
+GPC19B_Q3_OKAY5-3=Навіть "дякую" не скажеш, га?
+
+
+# Klay
+### ...
+GPC19B_Q3_OKAY5-4=...
+
+
+# Klay
+### I... I could never fight like you did.
+GPC19B_Q3_OKAY5-5=Я... Я б ніколи не зміг так битися, як ти.
+
+
+# Graff
+### I had to.
+GPC19B_Q3_OKAY5-6=Я мусив.
+
+
+#----------------------------------------------------
+# Various
+### Student.
+GPC19B_Q3_KLAY-1=Студенте.
+
+
+# Various
+### If a thug threatened your partner, would you risk your life to protect him?
+GPC19B_Q3_KLAY-2=Якби бандит погрожував твоєму напарнику, ти б ризикнув життям, щоб захистити його?
+
+
+# Klay
+### Yeah! Of course I would!
+GPC19B_Q3_KLAY-3=Так! Звісно, що так!
+
+
+# Graff
+### Oh, really?...
+GPC19B_Q3_KLAY-4=О, справді...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay, my hero! Save me, pleaaaase!
+GPC19B_Q3_KLAY-5=Клею, мій герою! Врятуй мене, будь лааааска!
+
+
+# Klay
+### Very funny.
+GPC19B_Q3_KLAY-6=Дуже смішно.
+
+
+#----------------------------------------------------
+# Graff
+### Uh-oh...
+GPC19B_Q3_KLAY2-1=Ой-ой...
+
+
+# Graff
+### I... Might need your help after all...!
+GPC19B_Q3_KLAY2-2=Схоже... Мені все-таки знадобиться твоя допомога...!
+
+
+# Klay
+### What do you mean?
+GPC19B_Q3_KLAY2-3=Що ти маєш на увазі?
+
+
+#----------------------------------------------------
+# Klay
+### B-but...!
+GPC19B_Q3_KLAY3-1=А-але...!
+
+
+# Graff
+### Time to prove it!
+GPC19B_Q3_KLAY3-2=Час довести це!
+
+
+# Klay
+### I... I...
+GPC19B_Q3_KLAY3-3=Я... Я...
+
+
+# Graff
+### You what?!
+GPC19B_Q3_KLAY3-4=Що "я"?!
+
+
+# Graff
+### Remember our self defense lessons!
+GPC19B_Q3_KLAY3-5=Згадай наші уроки самозахисту!
+
+
+# Klay
+### B-but that's not the same...
+GPC19B_Q3_KLAY3-6=А-але це зовсім інше...
+
+
+#----------------------------------------------------
+# Klay
+### Aaaargh! It's gonna hit me!
+GPC19B_Q3_KLAY4-1=А-ааргх! Воно мене вдарить!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Help!!!
+GPC19B_Q3_KLAY4-2=Граффе! Допоможи!!!
+
+
+# Graff
+### How could I?! I'm stuck!
+GPC19B_Q3_KLAY4-3=Як?! Я тут застряг!
+
+
+# Graff
+### Come on! Punch it! Kick it!
+GPC19B_Q3_KLAY4-4=Ну ж бо! Вдар його кулаком! Дай ногою!
+
+
+# Klay
+### Aaaaahhhhh!
+GPC19B_Q3_KLAY4-5=А-аааааааа!
+
+
+#----------------------------------------------------
+# Klay - Klay didn't do anything except being scared. The bot goes away
+### (Pants)
+GPC19B_Q3_KLAY5-1=(Важко дихає)
+
+
+# Klay
+### ...?
+GPC19B_Q3_KLAY5-2=...?
+
+
+# Klay
+### Ha.
+GPC19B_Q3_KLAY5-3=Ха.
+
+
+# Klay
+### Made it!
+GPC19B_Q3_KLAY5-4=У мене вийшло!
+
+
+# Graff
+### No. You totally screwed.
+GPC19B_Q3_KLAY5-5=Ні. Ти геть усе провалив.
+
+
+# Klay
+### Erm...
+GPC19B_Q3_KLAY5-6=Е-е...
+
+
+# Klay
+### Next phase, please!
+GPC19B_Q3_KLAY5-7=Наступну фазу, будь ласка!
+
+
+#----------------------------------------------------
+# Various
+### Student. Let's play a game.
+GPC19B_Q4_START-1=Студенте. Зіграймо в гру.
+
+
+# Graff
+### Another one?...
+GPC19B_Q4_START-2=Ще одну...?
+
+
+#----------------------------------------------------
+# Various
+### When you hear this bell sound...
+GPC19B_Q4_START2-1=Коли ти чуєш цей дзвін...
+
+
+# Various - There really are four panels on the floor, with a different symbol on each one
+### Step on the Dash symbol.
+GPC19B_Q4_START2-2=Наступай на символ дефісу.
+
+
+# Various
+### When you hear this unscrewing sound...
+GPC19B_Q4_START2-3=Коли ти чуєш відкручування...
+
+
+# Various
+### Step on the Dot symbol.
+GPC19B_Q4_START2-4=Наступай на символ крапки.
+
+
+# Various
+### When you hear this beep sound...
+GPC19B_Q4_START2-5=Коли ти чуєш цей гудок...
+
+
+# Various
+### Step on the Colon symbol.
+GPC19B_Q4_START2-6=Наступай на символ двокрапки.
+
+
+# Various
+### When you don't hear a sound for more than two seconds...
+GPC19B_Q4_START2-7=Коли ти не чуєш звуку понад дві секунди...
+
+
+# Various
+### Step on the empty panel.
+GPC19B_Q4_START2-8=Наступай на порожню панель.
+
+
+#----------------------------------------------------
+# Various
+### Let's start.
+GPC19B_Q4_GRAFFSTART-1=Почнімо.
+
+
+#----------------------------------------------------
+# Klay
+### So... Dash, point, colon...
+GPC19B_Q4_KLAY-1=Отже... Дефіс, крапка, двокрапка...
+
+
+# Klay
+### Sounds fun!
+GPC19B_Q4_KLAY-2=Звучить весело!
+
+
+#----------------------------------------------------
+# Unknown
+### (Bell)
+GPC19B_Q4_SOUND1-1=(Дзвін)
+
+
+#----------------------------------------------------
+# Unknown
+### (Unscrewing)
+GPC19B_Q4_SOUND2-1=(Відкручування)
+
+
+#----------------------------------------------------
+# Unknown
+### (Beep)
+GPC19B_Q4_SOUND3-1=(Гудок)
+
+
+#----------------------------------------------------
+# Unknown
+### (Silence)
+GPC19B_Q4_SOUND4-1=(Тиша)
+
+
+#----------------------------------------------------
+# Various
+### Game is over.
+GPC19B_Q4_OVER1-1=Гру закінчено.
+
+
+# Various
+### Your performance was...
+GPC19B_Q4_OVER1-2=Твоя оцінка...
+
+
+#----------------------------------------------------
+# Various
+### A disaster.
+GPC19B_Q4_DISASTER-1=Жахливо.
+
+
+#----------------------------------------------------
+# Various
+### Poor.
+GPC19B_Q4_POOR-1=Погано.
+
+
+#----------------------------------------------------
+# Various
+### Good!
+GPC19B_Q4_GOOD-1=Добре!
+
+
+#----------------------------------------------------
+# Various
+### Amazing!
+GPC19B_Q4_AMAZING-1=Дивовижно!
+
+
+#----------------------------------------------------
+# Various
+### Good!
+GPC19B_Q4_GOODKLAY-1=Добре!
+
+
+# Klay
+### Argh! That can't be!
+GPC19B_Q4_GOODKLAY-2=Ар-р! Не може бути!
+
+
+# Graff
+### Uh? It said your performance was good.
+GPC19B_Q4_GOODKLAY-3=Га? Було ж сказано, що результат добрий.
+
+
+# Klay
+### Good isn't good enough! We're in a competition, you know!
+GPC19B_Q4_GOODKLAY-4="Добре" - недостатньо! В нас узагалі-то змагання!
+
+
+#----------------------------------------------------
+# Various
+### Student.
+GPC19B_Q5_GRAFF-1=Студенте.
+
+
+# Various
+### You may now press the button next to you.
+GPC19B_Q5_GRAFF-2=Тепер ти можеш натиснути кнопку поруч із тобою.
+
+
+# Various
+### Each activation gives you a point for your final score.
+GPC19B_Q5_GRAFF-3=Кожне натискання додасть тобі бал до підсумкових результатів.
+
+
+# Graff
+### ...
+GPC19B_Q5_GRAFF-4=...
+
+
+# Klay
+### Wait!...
+GPC19B_Q5_GRAFF-5=Зачекай...!
+
+
+# Klay - It gives shocks to the other person
+### You know what that button does!
+GPC19B_Q5_GRAFF-6=Ти знаєш, що робить ця кнопка!
+
+
+# Graff
+### I do.
+GPC19B_Q5_GRAFF-7=Знаю.
+
+
+# Klay
+### Don't you dare...
+GPC19B_Q5_GRAFF-8=Навіть не смій...
+
+
+#----------------------------------------------------
+# Various
+### Student.
+GPC19B_Q5_KLAY-1=Студенте.
+
+
+# Various
+### You may now press the button next to you.
+GPC19B_Q5_KLAY-2=Тепер ти можеш натиснути кнопку поруч із тобою.
+
+
+# Klay
+### That button?
+GPC19B_Q5_KLAY-3=Оцю?
+
+
+# Various
+### Each activation gives you a point for your final score.
+GPC19B_Q5_KLAY-4=Кожне натискання додасть тобі бал до підсумкових результатів.
+
+
+# Graff - It gives shocks to the other person
+### No way!
+GPC19B_Q5_KLAY-5=Ні за що!
+
+
+# Graff
+### Whoever designed this has a twisted mind!
+GPC19B_Q5_KLAY-6=Хто б це не розробив, у нього збочена фантазія!
+
+
+#----------------------------------------------------
+# Klay
+### Well it's pretty clear to me!
+GPC19B_Q5_KLAY_BUTTON_GENERIC1-1=Ну, для мене тут усе цілком зрозуміло!
+
+
+#----------------------------------------------------
+# Klay
+### This is what you get for punching me the other day!
+GPC19B_Q5_KLAY_BUTTON_PUNCHED1-1=Ось тобі за те, що вдарив мене тоді!
+
+
+#----------------------------------------------------
+# Klay
+### Do you even realize how much time I put into my invention?!
+GPC19B_Q5_KLAY_BUTTON_INVENTION1-1=Ти хоч усвідомлюєш, скільки часу я витратив на свій винахід?!
+
+
+# Klay
+### You ruined it! You constantly ruin my efforts!
+GPC19B_Q5_KLAY_BUTTON_INVENTION1-2=Ти його зіпсував! Ти постійно зводиш нанівець усі мої зусилля!
+
+
+#----------------------------------------------------
+# Klay
+### Admit it! You've hated me from the first time we met!
+GPC19B_Q5_KLAY_BUTTON_NASTY1-1=Зізнайся! Ти ненавидиш мене з першої нашої зустрічі!
+
+
+# Klay
+### You've always rejected me!
+GPC19B_Q5_KLAY_BUTTON_NASTY1-2=Ти завжди мене відштовхував!
+
+
+# Graff
+### And you're wondering why?!
+GPC19B_Q5_KLAY_BUTTON_NASTY1-3=І ти все ще не розумієш, чому?!
+
+
+#----------------------------------------------------
+# Klay
+### ...
+GPC19B_Q5_KLAY_BUTTON_REFUSE-1=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay?...
+GPC19B_Q5_KLAY_BUTTON_REFUSE-2=Клею...?
+
+
+# Klay
+### ...
+GPC19B_Q5_KLAY_BUTTON_REFUSE-3=...
+
+
+# Graff
+### Look... I know I haven't always been a friend but...
+GPC19B_Q5_KLAY_BUTTON_REFUSE-4=Слухай... Я знаю, що не завжди був хорошим другом, але...
+
+
+# Klay
+### Don't worry.
+GPC19B_Q5_KLAY_BUTTON_REFUSE-5=Не переймайся.
+
+
+# Klay
+### I won't do it.
+GPC19B_Q5_KLAY_BUTTON_REFUSE-6=Я цього не робитиму.
+
+
+# Graff
+### Phew! You had me scared for a second.
+GPC19B_Q5_KLAY_BUTTON_REFUSE-7=Фух! Ти мене на мить налякав.
+
+
+# Klay
+### It would be too much of a risk for my score.
+GPC19B_Q5_KLAY_BUTTON_REFUSE-8=Це був би надто великий ризик для моїх балів.
+
+
+#----------------------------------------------------
+# Graff - When Klay presses the button, Graff gets shocked
+### Aaarrghhhh...
+GPC19B_Q5_KLAYBUTTON1-1=А-аа-а-р-р...
+
+
+# Graff
+### (Breathes) You knew what the button does... and you still pressed it?!
+GPC19B_Q5_KLAYBUTTON1-2=(Дихає) Ти знав, що робить ця кнопка... і все одно натиснув?!
+
+
+# Klay
+### I had to try. What else am I supposed to do?
+GPC19B_Q5_KLAYBUTTON1-3=Я мусив спробувати. А що ще мені залишалося робити?
+
+
+# Graff
+### Don't listen to it!
+GPC19B_Q5_KLAYBUTTON1-4=Не слухай його!
+
+
+# Graff
+### It's lying! There's no way hurting someone would award you points!
+GPC19B_Q5_KLAYBUTTON1-5=Цей голос бреше! Бути такого не може, щоб за знущання з інших давали бали!
+
+
+# Klay
+### You're not making the rules, you know.
+GPC19B_Q5_KLAYBUTTON1-6=Це не ти встановлюєш правила, знаєш.
+
+
+#----------------------------------------------------
+# Graff
+### Urgh...
+GPC19B_Q5_KLAYBUTTON2-1=Гр-р...
+
+
+# Graff
+### I'm sorry! Okay?
+GPC19B_Q5_KLAYBUTTON2-2=Вибач! Добре?
+
+
+# Klay
+### Sorry isn't enough! You don't actually mean it!
+GPC19B_Q5_KLAYBUTTON2-3="Вибач" недостатньо! Ти нещирий!
+
+
+#----------------------------------------------------
+# Graff
+### Aaargh... That hurts!
+GPC19B_Q5_KLAYBUTTON3-1=А-аар-р... Це боляче!
+
+
+# Klay
+### That's the point!
+GPC19B_Q5_KLAYBUTTON3-2=У цьому й суть!
+
+
+#----------------------------------------------------
+# Graff
+### Urgh... You son of a bot...
+GPC19B_Q5_KLAYBUTTON4-1=Гр-р... Ах ти, син бота...
+
+
+#----------------------------------------------------
+# Klay
+### Hmm... That should be enough.
+GPC19B_Q5_KLAYBUTTON_STOP-1=Гмм... Цього має бути достатньо.
+
+
+# Klay
+### Statistically, I shouldn't take any more risks.
+GPC19B_Q5_KLAYBUTTON_STOP-2=Статистично, мені більше не варто ризикувати.
+
+
+# Graff
+### Finally you've come to your senses.
+GPC19B_Q5_KLAYBUTTON_STOP-3=Нарешті ти схаменувся.
+
+
+# Klay
+### I'm only doing what's best for me.
+GPC19B_Q5_KLAYBUTTON_STOP-4=Я просто роблю те, що краще для мене.
+
+
+# Graff
+### Nothing new.
+GPC19B_Q5_KLAYBUTTON_STOP-5=Нічого нового.
+
+
+#----------------------------------------------------
+# Various
+### Student.
+GPC19B_Q6-1=Студенте.
+
+
+# Various
+### This session is over.
+GPC19B_Q6-2=Цей сеанс завершено.
+
+
+# Various
+### You may exit now.
+GPC19B_Q6-3=Тепер ви можете вийти.
+
+
+# Various
+### Thank you for your participation.
+GPC19B_Q6-4=Дякуємо за участь.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... I probably shouldn't.
+GPC19B_KLAY_BUTTONPHASE1-1=Гмм... Мабуть, не варто.
+
+
+#----------------------------------------------------
+# Graff
+### Ngghh!!! Argh...
+GPC19B_GRAFF_BUTTONHURT1-1=У-уух!!! А-аа...
+
+
+# Graff
+### I can't believe you actually did that.
+GPC19B_GRAFF_BUTTONHURT1-2=Не можу повірити, що ти справді це зробив.
+
+
+# Klay
+### This hurts me more than it hurts you!
+GPC19B_GRAFF_BUTTONHURT1-3=Мені від цього так само боляче, як тобі!
+
+
+# Klay
+### Or not.
+GPC19B_GRAFF_BUTTONHURT1-4=Або ні.
+
+
+#----------------------------------------------------
+# Klay - This time it's the opposite - Klay is tied up and gets shocked
+### Ngggnngngn!!!
+GPC19B_KLAY_BUTTONHURT1-1=У-уууххх!!!
+
+
+# Graff
+### Sorry. I had to try.
+GPC19B_KLAY_BUTTONHURT1-2=Вибач. Я мусив спробувати.
+
+
+# Klay
+### You...
+GPC19B_KLAY_BUTTONHURT1-3=Ти...
+
+
+# Graff
+### Hey! You're the one who said to do whatever they ask!
+GPC19B_KLAY_BUTTONHURT1-4=Гей! Ти ж сам казав робити все, що вони просять!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!
+GPC19B_Q6_KLAY_STARTLEAVING-1=Клею!
+
+
+# Graff
+### Aren't you're forgetting... a thing?
+GPC19B_Q6_KLAY_STARTLEAVING-2=Ти не забув про... дещо?
+
+
+# Klay
+### Oh, don't underestimate yourself.
+GPC19B_Q6_KLAY_STARTLEAVING-3=О, не недооцінюй себе.
+
+
+# Klay
+### You're more than "a thing"!
+GPC19B_Q6_KLAY_STARTLEAVING-4=Ти більше, ніж "дещо"!
+
+
+# Klay
+### Well, just a bit.
+GPC19B_Q6_KLAY_STARTLEAVING-5=Ну, зовсім трохи.
+
+
+#----------------------------------------------------
+# Graff
+### Thanks.
+GPC19B_FREE2-1=Дякую.
+
+
+# Graff
+### I really thought you'd leave me here.
+GPC19B_FREE2-2=Я справді думав, що ти залишиш мене тут.
+
+
+# Klay
+### No problem. It's possible they're spying on our behaviour.
+GPC19B_FREE2-3=Без проблем. Можливо, вони стежать за нашою поведінкою.
+
+
+# Graff
+### That's your concern? After everything you've done?
+GPC19B_FREE2-4=І це тебе хвилює? Після всього, що ти зробив?
+
+
+# Klay
+### Well, it worked! The door has opened!
+GPC19B_FREE2-5=Ну, це спрацювало! Двері відчинилися!
+
+
+# Graff
+### There's no time to lose. My throat is burning.
+GPC19B_FREE2-6=Часу обмаль. У мене в горлі пече.
+
+
+#----------------------------------------------------
+# Klay - Player can choose to exit while Klay is still tied up
+### Hey! Where are you going?
+GPC19B_Q6_GRAFF_STARTLEAVING-1=Гей! Куди це ти йдеш?
+
+
+# Klay
+### I'm still tied up, you know!
+GPC19B_Q6_GRAFF_STARTLEAVING-2=Я все ще зв'язаний, взагалі-то!
+
+
+#----------------------------------------------------
+# Klay
+### I swear. If you leave me here...
+GPC19B_Q6_GRAFF_STARTLEAVING2-1=Присягаюся. Якщо ти залишиш мене тут...
+
+
+#----------------------------------------------------
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Come back here!!!
+GPC19B_Q6_GRAFF_STARTLEAVING3-1=Граффе! Повернися сюди!!!
+
+
+# Klay
+### Don't...
+GPC19B_Q6_GRAFF_STARTLEAVING3-2=Не...
+
+
+# Klay
+### Leave me here...
+GPC19B_Q6_GRAFF_STARTLEAVING3-3=Залишай мене тут...
+
+
+# Klay
+### ...
+GPC19B_Q6_GRAFF_STARTLEAVING3-4=...
+
+
+#----------------------------------------------------
+# Klay - If Graff kills Klay
+### Aaaargh!!!
+GPC19B_KLAY_DEAD-1=А-аа-аа!!!
+
+
+# Graff
+### ...!
+GPC19B_KLAY_DEAD-2=...!
+
+
+# Graff
+### No...
+GPC19B_KLAY_DEAD-3=Ні...
+
+
+# Graff
+### No no no no!
+GPC19B_KLAY_DEAD-4=Ні, ні, ні, ні!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!
+GPC19B_KLAY_DEAD-5=Клею!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!!!
+GPC19B_KLAY_DEAD-6=Клею!!!
+
+
+# Graff
+### I didn't mean to...
+GPC19B_KLAY_DEAD-7=Я не хотів...
+
+
+# Graff
+### Somebody... Help!...
+GPC19B_KLAY_DEAD-8=Хто-небудь... Допоможіть...!
+
+
+# Graff
+### Heeeeeelp!...
+GPC19B_KLAY_DEAD-9=Допоможі-ііііть...!
+
+
+#----------------------------------------------------
+# Graff
+### I stood there...
+GPC19B_KLAY_DEAD2-1=Я стояв там...
+
+
+# Graff
+### How long?...
+GPC19B_KLAY_DEAD2-2=Як довго...?
+
+
+# Graff
+### I don't know...
+GPC19B_KLAY_DEAD2-3=Я не знаю...
+
+
+# Graff
+### I just couldn't believe...
+GPC19B_KLAY_DEAD2-4=Я просто не міг повірити...
+
+
+# Graff
+### What I had done...
+GPC19B_KLAY_DEAD2-5=У те, що я зробив...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19B_KLAY_DEAD3-1=...
+
+
+# Graff
+### The door...
+GPC19B_KLAY_DEAD3-2=Двері...
+
+
+# Graff
+### I...
+GPC19B_KLAY_DEAD3-3=Я...
+
+
+# Graff
+### I have to go...
+GPC19B_KLAY_DEAD3-4=Я мушу йти...
+
+
+#----------------------------------------------------
+# Graff - If Klay gives a wrong answer, Graff gets shocked
+### Nggggg...
+GPC19B_GRAFF_WRONG1-1=У-ууух...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!!!
+GPC19B_GRAFF_WRONG1-2=Клею!!!
+
+
+# Klay
+### What? I just made a little mistake!
+GPC19B_GRAFF_WRONG1-3=Що? Я просто трохи помилився!
+
+
+#----------------------------------------------------
+# Graff
+### Arrrrgh...
+GPC19B_GRAFF_WRONG2-1=Ар-ррр...
+
+
+# Graff
+### That hurts...
+GPC19B_GRAFF_WRONG2-2=Боляче...
+
+
+# Klay
+### Hmm. I suppose I shouldn't have done that.
+GPC19B_GRAFF_WRONG2-3=Гмм. Здається, мені не варто було цього робити.
+
+
+# Graff
+### You suppose?!
+GPC19B_GRAFF_WRONG2-4="Здається"?!
+
+
+#----------------------------------------------------
+# Graff
+### Ooof!!!
+GPC19B_GRAFF_WRONG3-1=У-ух!!!
+
+
+# Graff
+### I'm not sure how long I can bare this...
+GPC19B_GRAFF_WRONG3-2=Я не знаю, скільки ще зможу витримати...
+
+
+# Klay
+### You look okay to me.
+GPC19B_GRAFF_WRONG3-3=Як на мене, з тобою все гаразд.
+
+
+#----------------------------------------------------
+# Graff
+### Arrrrgh!
+GPC19B_GRAFF_WRONG4-1=Ар-ррр!
+
+
+#----------------------------------------------------
+# Graff
+### Nnnnghh...
+GPC19B_GRAFF_WRONG5-1=У-уух...
+
+
+#----------------------------------------------------
+# Klay - If Graff gives a wrong answer, Klay gets shocked
+### Ngggnngngn!!!
+GPC19B_KLAY_WRONG1-1=У-уууххх!!!
+
+
+# Klay
+### Watch out, you imbecile! They expect exact replies!
+GPC19B_KLAY_WRONG1-2=Обережніше, телепню! Вони очікують точних відповідей!
+
+
+# Graff
+### Oh! That's... interesting!
+GPC19B_KLAY_WRONG1-3=О! Це... цікаво!
+
+
+#----------------------------------------------------
+# Klay
+### Aww aww aww!
+GPC19B_KLAY_WRONG2-1=Ой-ой-ой!
+
+
+# Klay
+### You're... doing this on purpose, aren't you?!
+GPC19B_KLAY_WRONG2-2=Ти... робиш це спеціально, чи не так?!
+
+
+# Graff
+### Erm...
+GPC19B_KLAY_WRONG2-3=Е-е...
+
+
+#----------------------------------------------------
+# Klay
+### Ngggngn!...
+GPC19B_KLAY_WRONG3-1=У-уух...!
+
+
+# Klay
+### As soon as I get out of here...
+GPC19B_KLAY_WRONG3-2=Щойно я звідси виберуся...
+
+
+# Graff
+### Sorry! I couldn't help it!
+GPC19B_KLAY_WRONG3-3=Вибач! Я не стримався!
+
+
+#----------------------------------------------------
+# Klay
+### Argh!...
+GPC19B_KLAY_WRONG4-1=А-ай...!
+
+
+#----------------------------------------------------
+# Klay
+### Please... Stop!...
+GPC19B_KLAY_WRONG5-1=Будь ласка... Зупинись...!
+
+
+# Klay
+### I feel bad...
+GPC19B_KLAY_WRONG5-2=Мені зле...
+
+
+#----------------------------------------------------
+# Klay
+### Aaargh!
+GPC19B_KLAY_Q4HURT-1=А-аар-р!
+
+
+# Klay
+### Why do I have to suffer for your mistakes?!
+GPC19B_KLAY_Q4HURT-2=Чому я маю страждати через твої помилки?!
+
+
+#----------------------------------------------------
+# Graff - Graff frees Klay
+### Looks like I can open these shackles. Don't move.
+GPC19B_KLAY_FREE-1=Схоже, я можу зняти ці кайдани. Не рухайся.
+
+
+#----------------------------------------------------
+# Klay
+### Pheeew...
+GPC19B_KLAY_FREE2-1=Фу-ух...
+
+
+# Klay
+### Now I understand why my mom told me to be careful and kind before the trial.
+GPC19B_KLAY_FREE2-2=Тепер я розумію, чому мама казала мені бути обережним і добрим перед випробуванням.
+
+
+# Graff
+### Yeah. Because she knows you're an egotistical brat.
+GPC19B_KLAY_FREE2-3=Ага. Бо вона знає, що ти вередливий шмаркач.
+
+
+# Klay
+### Lucky you. I'm too exhausted to respond, so I'll just pretend I didn't hear anything.
+GPC19B_KLAY_FREE2-4=Пощастило тобі. Я надто виснажений, щоб відповідати, тому просто вдаватиму, ніби нічого не чув.
+
+
+# Klay
+### The other exit opened.
+GPC19B_KLAY_FREE2-5=Інший вихід відчинився.
+
+
+# Klay
+### Let's get out of here.
+GPC19B_KLAY_FREE2-6=Вибираймося звідси.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Of course. No "thank you so much Graff for freeing me".
+GPC19B_KLAY_FREE2-7=Авжеж. Ані тобі "дуже дякую, Граффе, що звільнив мене".
+
+
+# Klay
+### You're too soft. I knew you'd never leave anyone behind!
+GPC19B_KLAY_FREE2-8=Ти надто м'якосердий. Я знав, що ти ніколи нікого не покинув би!
+
+
+# Graff
+### Don't make me regret this.
+GPC19B_KLAY_FREE2-9=Не змушуй мене шкодувати про це.
+
+
+#----------------------------------------------------
+# Klay
+### I'll take exit number two. You take the first.
+GPC19B_KLAY_FREEAFTER-1=Я піду в другий вихід. Ти йди в перший.
+
+
+# Graff
+### As you wish. (Cough)
+GPC19B_KLAY_FREEAFTER-2=Як хочеш. (Кашляє)
+
+
+#----------------------------------------------------
+# Klay
+### ...
+GPC19B_KLAY_FREE3-1=...
+
+
+# Klay
+### Maybe I was a little harsh on him...
+GPC19B_KLAY_FREE3-2=Можливо, я був із ним надто суворий...
+
+
+# Klay
+### Ahh. He'll be fine.
+GPC19B_KLAY_FREE3-3=А-ах. З ним усе буде гаразд.
+
+
+#----------------------------------------------------
+# Klay
+### Argh!...
+GPC19B_KLAY_HIT1-1=А-ай...!
+
+
+# Klay
+### Are you out of your mind?!
+GPC19B_KLAY_HIT1-2=Ти що, з глузду з'їхав?!
+
+
+# Graff
+### Sorry! I couldn't help it!
+GPC19B_KLAY_HIT1-3=Вибач! Я не стримався!
+
+
+#----------------------------------------------------
+# Klay
+### Argh!...
+GPC19B_KLAY_HIT2-1=А-ай...!
+
+
+# Klay
+### As soon as I get out of here...
+GPC19B_KLAY_HIT2-2=Щойно я звідси виберуся...
+
+
+#----------------------------------------------------
+# Klay
+### Please... Stop!...
+GPC19B_KLAY_HIT3-1=Будь ласка... Зупинись...!
+
+
+# Klay
+### I feel bad...
+GPC19B_KLAY_HIT3-2=Мені зле...
+
+
+#----------------------------------------------------
+# Klay
+### I don't think we're supposed to do that.
+GPC19B_BUTTON_HIT1-1=Не думаю, що ми маємо це робити.
+
+
+#----------------------------------------------------
+# Various
+### Candidates. Do not destroy the equipment.
+GPC19B_BUTTON_HIT2-1=Кандидати. Не нищіть обладнання.
+
+
+#----------------------------------------------------
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh no! Graff!
+GPC19B_BUTTON_DEAD1-1=О ні! Граффе!
+
+
+#----------------------------------------------------
+

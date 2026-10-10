@@ -1,0 +1,135 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Unknown (Unknown)
+#     Graff - Various (Unknown)
+#     Unknown - Graff (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#= GRAFF --- SHAY OUTSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Graff arriving in front of Shay's garage
+### Urgh... What a smell!
+GPC08_FIRST1-1=Фу... Ну і сморід!
+
+
+# Graff
+### Good thing I'm used to searching through trash. Anyone could get poisoned.
+GPC08_FIRST1-2=Добре, що я звик копирсатися в смітті. Будь-хто інший вже отруївся б.
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### I don't feel like pressing this button. Looks suspicious...
+GPC08_BUTTONS1-1=Мені не хочеться натискати цю кнопку. Виглядає підозріло...
+
+
+#----------------------------------------------------
+# Graff
+### ...!
+GPC08_SLOT1-1=...!
+
+
+# Graff
+### Is that a saw I'm seeing in here?...
+GPC08_SLOT1-2=Це що там, пила...?
+
+
+# Graff
+### ...I'll try not to get too close...
+GPC08_SLOT1-3=...Спробую не наближатися занадто близько...
+
+
+#----------------------------------------------------
+# Graff - Graff is affected by pollution and desperately tries to find a solution
+### Closed?... (Cough)
+GPC08_GARAGE1_STORY165-1=Зачинено...? (Кашляє)
+
+
+# Unknown
+### (Knocks)
+GPC08_GARAGE1_STORY165-2=(Стукає)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### It's Graff! This is urgent!
+GPC08_GARAGE1_STORY165-3=Це Графф! Справа термінова!
+
+
+# Graff
+### I need your help! Please open!
+GPC08_GARAGE1_STORY165-4=Мені потрібна ваша допомога! Будь ласка, відчиніть!
+
+
+# Graff
+### ...
+GPC08_GARAGE1_STORY165-5=...
+
+
+# Graff
+### No use... (Sigh)
+GPC08_GARAGE1_STORY165-6=Марно... (Зітхає)
+
+
+# Graff
+### (Cough, cough, cough)
+GPC08_GARAGE1_STORY165-7=(Сильно кашляє)
+
+
+#----------------------------------------------------
+# Graff - Graff is affected by pollution and desperately tries to find a solution
+### Closed...
+GPC08_GARAGE1-1=Зачинено...
+
+
+# Unknown
+### (Knocks)
+GPC08_GARAGE1-2=(Стукає)
+
+
+# Graff
+### ...
+GPC08_GARAGE1-3=...
+
+
+# Graff
+### Darn.
+GPC08_GARAGE1-4=Дідько.
+
+
+#----------------------------------------------------
+# Various
+### Forbidden access!
+GPC08_CABIN1-1=Доступ заборонено!
+
+
+# Graff
+### I should have guessed...
+GPC08_CABIN1-2=Я мав би здогадатися...
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,7495 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Bolt - Brok (Unknown)
+#     Bolt - Graff (Unknown)
+#     Bolt - Shay (Unknown)
+#     Bolt - Unknown (Unknown)
+#     Bolt - Various (Unknown)
+#     Brok - Bolt (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Graff - Bolt (Unknown)
+#     Graff - Brok (Unknown)
+#     Shay - Bolt (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Unknown (Unknown)
+#     Unknown - Bolt (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Shay (Unknown)
+#     Various - Bolt (Unknown)
+#     Various - Brok (Unknown)
+
+#-------------------------------
+#=Shay garage
+#-------------------------------
+
+#----- Interactions --------
+### Lever
+PC_LEVER=Важіль
+
+### Mask
+PC_MASK=Маска
+
+### Tubes
+PC_TUBES=Трубки
+
+### Incubator
+PC_INCUBATOR=Інкубатор
+
+### Trash
+PC_TRASH=Сміття
+
+### Vehicle
+PC_VEHICLE=Транспортний засіб
+
+### Monkey wrench
+PC_WRENCH=Розвідний ключ
+
+### Tools
+PC_TOOLS=Інструменти
+
+### Arena
+PC_ARENA=Арена
+
+### Blanket
+PC_BLANKET=Ковдра
+
+### Door
+PC_DOOR=Двері
+
+### Timeline
+PC_TIMELINE=Лінія часу
+
+### Egg
+PC_EGG=Яйце
+
+
+#----- Choices / Items --------
+# NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
+### Did you forget the Virtual Arena?
+PC08B_SHAY_REMEMBER_CHOICE=Ти що, забув, як працює Віртуальна Арена?
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Listen to Shay
+PC08B_SHAY_REMEMBER_YES=Послухати Шей
+
+### No problem, I remember!
+PC08B_SHAY_REMEMBER_NO=Без проблем, я пам'ятаю!
+
+### Sell the cleaning bot parts?
+PC08B_SHAY_INV_HOOVER_CHOICE=Продати деталі бота-прибиральника?
+
+### Do you agree?
+PC08B_SHAY_BOLT_CHOICE=Ви згодні?
+
+### Listen to theory
+PC08B_LISTEN_THEORY=Послухати теорію
+
+### Take a rest
+PC08B_REST=Перепочити
+
+### Ask for a hint?
+PC08B_GETHINT=Попросити підказку?
+
+
+### A weird device
+GOT_RADAR=Дивний пристрій
+
+### A lever!
+GOT_LEVER=Важіль!
+
+### A rubber cutter!
+GOT_RUBBERCUTTER=Різак для гуми!
+
+### The remote control is working!
+GOT_REMOTECONTROL=Пульт керування працює!
+
+
+### Activate the lever?
+PC08B_LEVER_CHOICE=Активувати важіль?
+
+
+### Start the fight?
+PC08B_DAY2_END_CHOICE=Розпочати бій?
+
+
+### The machine
+PC08B_MACHINE=Машина
+
+### Consequences
+PC08B_CONSEQUENCES=Наслідки
+
+
+#PC08B_STORY320_CHOICE=Enter the machine?
+### Leave?
+PC08B_STORY320_LEAVE=Піти?
+
+
+#----- Hints to find the ads --------
+### In the room, check this location carefully: <col=BOLD>{item}</col>
+PC08B_ADHINT_PREFIX=Уважно огляньте це місце в кімнаті: <col=BOLD>{item}</col>
+
+### Jump, jump, jump!
+PC08B_ADHINT_PC02_FLOORCRACK=Стрибайте, стрибайте, стрибайте!
+
+### The machine in background
+PC08B_ADHINT_PC04_VENDING=Автомат на задньому плані
+
+### Use an item
+PC08B_ADHINT_PC04_TRASH=Використайте предмет
+
+### Throw something
+PC08B_ADHINT_PC04B_TARGET=Киньте щось
+
+### Jump and search in the back
+PC08B_ADHINT_PC04B_PIPE=Стрибніть і пошукайте позаду
+
+### Get everything
+PC08B_ADHINT_PC04C_PRODUCTS=Купіть усе
+
+### Use an item to bring it down
+PC08B_ADHINT_PC04C_BUBBLE=Використайте предмет, щоб збити її
+
+### Punch the X spot
+PC08B_ADHINT_PC05_WALL=Вдарте кулаком у місце з міткою X
+
+### Near the entrance
+PC08B_ADHINT_PC05B_FLOOR=Біля входу
+
+### Use the snake again
+PC08B_ADHINT_PC05C_PIPE=Знову використайте змію
+
+### Stand at the edge of the bottomless pit
+PC08B_ADHINT_PC05C_MACHINEB=Станьте на краю бездонної прірви
+
+### Near the stall
+PC08B_ADHINT_PC06_WALL=Біля прилавка
+
+### Punch it
+PC08B_ADHINT_PC07_MAILBOX=Вдарте її
+
+### On the floor, hidden at times
+PC08B_ADHINT_PC08B_CHAIR=На підлозі, іноді приховано
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Next to Shay
+PC08B_ADHINT_PC08B_DESKB=Поруч із Шей
+
+### Open and close the window blinds several times
+PC08B_ADHINT_PC09_WINDOWOFF=Кілька разів відкрийте та закрийте жалюзі
+
+### With the floating seat in debug mode, press the blue buttons
+PC08B_ADHINT_PC09B_FRONT=У режимі налагодження повітряного стільця натисніть сині кнопки
+
+### Read several pages further
+PC08B_ADHINT_PC09B_DEBUG=Прочитайте кілька наступних сторінок
+
+### Hit the left plank
+PC08B_ADHINT_PC12_AVENDING=Ударте ліву дошку
+
+### Near entrance door
+PC08B_ADHINT_PC12_FLOOR=Біля вхідних дверей
+
+### Jump on the flower pot
+PC08B_ADHINT_PC14_RTOP=Застрибніть на квітковий вазон
+
+### Jump on pipepill
+PC08B_ADHINT_PC14B_RPIPEPILL=Застрибніть на Пігулкомат
+
+### Destroy the wood planks
+PC08B_ADHINT_PC14C_PLANKS=Знищте дерев'яні дошки
+
+### Jump across the middle conveyor belt
+PC08B_ADHINT_PC15_ELEVATOR=Перестрибніть через середню конвеєрну стрічку
+
+### Cross the road while avoiding the cars (they are timed)
+PC08B_ADHINT_PC15_JUMP=Перейдіть дорогу, уникаючи автомобілів (вони їдуть за таймером)
+
+### Use the emergency button in restroom
+PC08B_ADHINT_PC15B_BOX=Скористайтеся кнопкою аварійного виклику в туалеті
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Jump on the guard desk then on the shelf
+PC08B_ADHINT_PC15B_SHELF=Застрибніть на стіл охоронця, а потім на полицю
+
+### Wait until it appears
+PC08B_ADHINT_PC15C_PAINTNG=Зачекайте, поки вона з'явиться
+
+### Make clothes fall
+PC08B_ADHINT_PC15E_CLOTHES=Зробіть так, щоб одяг упав
+
+### Win
+PC08B_ADHINT_PC16_TREASURE=Переможіть
+
+### Top left
+PC08B_ADHINT_PC16_CONTROLS=Угорі ліворуч
+
+### Jump on table then the two expositions
+PC08B_ADHINT_PC17_ROOF=Застрибніть на стіл, а потім на дві експозиції
+
+### Visible from the window, enter the sentry box
+PC08B_ADHINT_PC18_SENTRYBOX=Видно з вікна, увійдіть до вартової будки
+
+### Jump above the pipe on the far right to access it
+PC08B_ADHINT_PC18_CONTAINER=Перестрибніть через крайню праву трубу, щоб дістатися до неї
+
+### Press the right button near the exit
+PC08B_ADHINT_PC19_RBUTTON=Натисніть праву кнопку біля виходу
+
+### Jump on the balance or crate first
+PC08B_ADHINT_PC19_RTOP=Спочатку застрибніть на ваги або ящик
+
+### Move the furniture first
+PC08B_ADHINT_PC19B_RBEHIND=Спочатку відсуньте меблі
+
+
+#----- Topics --------
+### Border Post
+TOPIC_BORDER=Прикордонний пост
+
+### Arena
+TOPIC_ARENA=Арена
+
+### Self-modifier chip
+TOPIC_SELFMODIFIER=Чип самомодифікації
+
+### The Gloom
+TOPIC_HACKER=Похмурий
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Help Shay
+TOPIC_HELPSHAY=Допомогти Шей
+
+
+### "The Gloom" back street
+PC_HACKER_ADDRESS=Провулок "Похмурого"
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay's anti-intrusion system must be in there...
+PC08B_BOX1-1=Система виявлення порушників Шей має бути десь там...
+
+
+#----------------------------------------------------
+# Brok
+### Let me guess!
+PC08B_LEVER1-1=Дай вгадаю!
+
+
+# Brok
+### Hmm... Must be for closing the garage door?
+PC08B_LEVER1-2=Гмм... Мабуть, це для того, щоб зачиняти двері гаража?
+
+
+#----------------------------------------------------
+# Brok
+### Is it missing something? Ha ha!
+PC08B_LEVER2-1=Тут чогось не вистачає? Ха-ха!
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC08B_LEVER_PRESS1-1=...?
+
+
+# Brok
+### Nothing seems to be happeni...
+PC08B_LEVER_PRESS1-2=Схоже, нічого не відбу...
+
+
+# Brok
+### ...!
+PC08B_LEVER_PRESS1-3=...!
+
+
+# Shay
+### What's that noise?
+PC08B_LEVER_PRESS1-4=Що це за шум?
+
+
+# Brok
+### N-nothing! I just walked into some metal scrap.
+PC08B_LEVER_PRESS1-5=Н-нічого! Я просто наштовхнувся на якийсь металевий брухт.
+
+
+# Brok
+### You know, your garage could use some tidying!
+PC08B_LEVER_PRESS1-6=Знаєш, у твоєму гаражі не завадило б прибратися!
+
+
+# Shay
+### I never lose anything!
+PC08B_LEVER_PRESS1-7=Я ніколи нічого не гублю!
+
+
+# Shay
+### Watch your step, Bro'!
+PC08B_LEVER_PRESS1-8=Дивись під ноги, брате!
+
+
+# Brok
+### (Better take that lever before she notices.)
+PC08B_LEVER_PRESS1-9=(Краще заберу цей важіль, поки вона не помітила.)
+
+
+#----------------------------------------------------
+# Brok
+### A robot-hunter trophy?
+PC08B_MASK1-1=Трофей мисливця на роботів?
+
+
+# Shay
+### No, silly!
+PC08B_MASK1-2=Ні, дурнику!
+
+
+# Shay
+### It's just a mask I use to protect myself from the heat when I'm welding.
+PC08B_MASK1-3=Це лише маска, яка захищає від високих температур під час зварювання.
+
+
+#----------------------------------------------------
+# Brok
+### Full of useless doodads.
+PC08B_DRAWER1-1=Купа непотрібних речей.
+
+
+# Shay
+### To each his own.
+PC08B_DRAWER1-2=Кожному своє.
+
+
+#----------------------------------------------------
+# Brok
+### Eww! How long has this been here? Some kind of plant grew in it!
+PC08B_CUP1-1=Фу! Як довго він тут стоїть? У ньому вже якась рослина виросла!
+
+
+# Shay
+### Oh! So that's where I left my cup of EnergyUp!
+PC08B_CUP1-2=О! Так ось де я залишила свій кухоль ЕнерджіАп!
+
+
+# Brok
+### No comment.
+PC08B_CUP1-3=Без коментарів.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay's definitely the biggest fan of meal replacements in tubes around here.
+PC08B_TUBES1-1=Шей, однозначно, найбільша шанувальниця замінників їжі в трубках.
+
+
+# Shay
+### What do you mean, replacement? They contain everything you need to live healthy.
+PC08B_TUBES1-2=Що ти маєш на увазі під замінниками? Вони містять усе необхідне для здорового життя.
+
+
+# Brok
+### Says who?
+PC08B_TUBES1-3=Хто сказав?
+
+
+# Shay
+### SCIENCE.
+PC08B_TUBES1-4=НАУКА.
+
+
+# Brok
+### Science doesn't sustain me. I need real food.
+PC08B_TUBES1-5=Наука мене не прогодує. Мені потрібна справжня їжа.
+
+
+#----------------------------------------------------
+# Brok
+### Ah! I've heard about those!
+PC08B_INCUBATOR1-1=А! Я чув про таке!
+
+
+# Brok
+### Put some meal replacement tube in there and it reconstitutes something that looks like real food!
+PC08B_INCUBATOR1-2=Кладеш туди трубку із замінником їжі, і він відтворює щось, схоже на справжню їжу!
+
+
+# Shay
+### It's not "looks like." This IS real food. Give it a try!
+PC08B_INCUBATOR1-3=Це не "схоже". Це І Є справжня їжа. Спробуй!
+
+
+# Brok
+### Not a chance.
+PC08B_INCUBATOR1-4=Ні за що.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### At least I've got something in common with Shay!
+PC08B_MESS1-1=Принаймні в мене є щось спільне з Шей!
+
+
+#----------------------------------------------------
+# Brok
+### Not much in here!
+PC08B_TRASH1-1=Всередині майже нічого!
+
+
+# Shay
+### I don't like throwing things away.
+PC08B_TRASH1-2=Я не люблю викидати речі.
+
+
+# Shay
+### These little bits and pieces could be useful someday. You just need an open mind!
+PC08B_TRASH1-3=Ці дрібнички колись можуть згодитися. Треба просто мислити ширше!
+
+
+# Brok
+### ...and a bank account in the red.
+PC08B_TRASH1-4=...і мати банківський рахунок у мінусі.
+
+
+#----------------------------------------------------
+# Brok
+### Is that a bike?
+PC08B_VEHICLE1-1=Це що, байк?
+
+
+# Shay
+### It used to be. I converted it into a vacuum cleaner. Much more useful!
+PC08B_VEHICLE1-2=Колись ним був. Я переробила його на пилосос. Набагато корисніше!
+
+
+# Brok
+### For you, maybe...
+PC08B_VEHICLE1-3=Може, для тебе...
+
+
+#----------------------------------------------------
+# Brok
+### What's that...?
+PC08B_DRAWINGS1-1=Що це...?
+
+
+# Brok
+### Are you hiding children in here?
+PC08B_DRAWINGS1-2=Ти що, переховуєш тут дітей?
+
+
+# Shay
+### Bro'. Never! I hate brats.
+PC08B_DRAWINGS1-3=Брате. Ніколи! Я ненавиджу шмаркачів.
+
+
+# Shay
+### These are drawing attempts from artificial intelligences I've worked on.
+PC08B_DRAWINGS1-4=Це спроби малювання від штучного інтелекту, над яким я працювала.
+
+
+# Shay
+### I thought I could make some money by winning this art competition.
+PC08B_DRAWINGS1-5=Я думала, що зможу заробити трохи грошей, вигравши в тому мистецькому конкурсі.
+
+
+# Brok
+### They're not very good.
+PC08B_DRAWINGS1-6=Вони не дуже вдалі.
+
+
+# Shay
+### That's an understatement! Robots are capable of many things but artistic talents are very much out of their league.
+PC08B_DRAWINGS1-7=Це ще м'яко сказано! Роботи здатні на багато речей, але художній талант їм не під силу.
+
+
+# Shay
+### At least... For the way the human brain interprets it.
+PC08B_DRAWINGS1-8=Принаймні... Для того, як це сприймає людський мозок.
+
+
+# Brok
+### You can't reproduce the human creative side with algorithingies...?
+PC08B_DRAWINGS1-9=А ти не можеш відтворити людську творчу сторону якимись штучками-алгоритмами...?
+
+
+# Shay
+### Well... I've read a lot of studies.
+PC08B_DRAWINGS1-10=Ну... Я прочитала багато досліджень.
+
+
+# Shay
+### Theoretically we could reproduce the entire human brain...
+PC08B_DRAWINGS1-11=Теоретично ми могли б відтворити весь людський мозок...
+
+
+# Shay
+### Except for creativity!
+PC08B_DRAWINGS1-12=Окрім творчості!
+
+
+# Shay
+### AIs can mimic some patterns but designing something from scratch by themselves AND looking good?
+PC08B_DRAWINGS1-13=ШІ може імітувати деякі шаблони, але створити щось з нуля самостійно ТА ЩЕ Й щоб це виглядало гарно?
+
+
+# Shay
+### That's the only thing even you will always have an advantage over!
+PC08B_DRAWINGS1-14=Це єдине, у чому навіть ти завжди матимеш перевагу!
+
+
+# Brok
+### Hey, no bot has ever matched me when it comes to fighting!
+PC08B_DRAWINGS1-15=Гей, жоден бот ще не перевершив мене в бою!
+
+
+#----------------------------------------------------
+# Brok
+### Bad drawings from useless bots.
+PC08B_DRAWINGS2-1=Погані малюнки від безглуздих ботів.
+
+
+#----------------------------------------------------
+# Brok
+### All inventors need their own monkey wrench!
+PC08B_WRENCH1-1=Усім винахідникам потрібен власний розвідний ключ!
+
+
+# Brok
+### May I have it?
+PC08B_WRENCH1-2=Можна мені його забрати?
+
+
+# Shay
+### No.
+PC08B_WRENCH1-3=Ні.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I should know better than to mess with Shay's computer!
+PC08B_COMPUTER1-1=Краще мені не чіпати комп'ютер Шей!
+
+
+# Shay
+### Especially when I'm right here.
+PC08B_COMPUTER1-2=Особливо коли я прямо тут.
+
+
+#----------------------------------------------------
+# Brok
+### A toolbox. Maybe that screwdriver could be useful?
+PC08B_TOOLS1-1=Ящик для інструментів. Може, та викрутка згодилася б?
+
+
+# Shay
+### You don't need mine.
+PC08B_TOOLS1-2=Моя тобі не потрібна.
+
+
+# Shay
+### Remember, the tip of your apartment key double serves as screwdriver!
+PC08B_TOOLS1-3=Згадай, наконечник твого ключа від квартири слугує ще й викруткою!
+
+
+# Shay
+### And it automatically adapts to all sizes.
+PC08B_TOOLS1-4=І він автоматично підлаштовується під будь-який розмір.
+
+
+# Brok
+### Oh, yeah! That's right, you did that for me!
+PC08B_TOOLS1-5=О, точно! Точно, це ж ти для мене зробила!
+
+
+#----------------------------------------------------
+# Brok - Coming here for the first time right after Brok almost got killed by Shay's trap
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay!
+PC08B_SHAY_FIRST-1=Шей!
+
+
+# Brok
+### ...
+PC08B_SHAY_FIRST-2=...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### HEY! SHAY!!!
+PC08B_SHAY_FIRSTB-1=ГЕЙ! ШЕЙ!!!
+
+
+# Shay
+### Oh! Hi, Bro'!
+PC08B_SHAY_FIRSTB-2=О! Привіт, брате!
+
+
+# Shay
+### How you doin'?
+PC08B_SHAY_FIRSTB-3=Як справи?
+
+
+# Brok
+### What the heck is that abomination of a machine near the door?!
+PC08B_SHAY_FIRSTB-4=Що це в біса за потвора в тебе біля дверей?!
+
+
+# Shay
+### Abomination?
+PC08B_SHAY_FIRSTB-5=Потвора?
+
+
+# Shay
+### You mean the circular saw? Pretty neat, huh?
+PC08B_SHAY_FIRSTB-6=Ти про циркулярну пилу? Крута, правда?
+
+
+# Brok
+### Neat?! That thing almost KILLED me!
+PC08B_SHAY_FIRSTB-7=Крута?! Вона мене ледь не ВБИЛА!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Well you know the Slums aren't very safe for lone women.
+PC08B_SHAY_FIRSTB-8=Ну, ти ж знаєш, що Нетрі не дуже безпечні для самотніх жінок.
+
+
+# Shay
+### So I built this ultimate crime detection device.
+PC08B_SHAY_FIRSTB-9=Тож я збудувала цей чудовий пристрій для виявлення порушників.
+
+
+# Shay
+### The way you press the first button gives out a lot of information. Blood pressure, DNA, stress level...
+PC08B_SHAY_FIRSTB-10=Те, як ти натискаєш першу кнопку, видає купу інформації. Артеріальний тиск, ДНК, рівень стресу...
+
+
+# Shay
+### Got nasty intentions? The system detects it and triggers the saw!
+PC08B_SHAY_FIRSTB-11=Маєш лихі наміри? Система це виявляє і запускає пилу!
+
+
+# Shay
+### Now, tell me. Are you feeling angry or stressed, lately?
+PC08B_SHAY_FIRSTB-12=А тепер скажи мені. Ти останнім часом відчував злість чи стрес?
+
+
+# Brok
+### Are you insane?!
+PC08B_SHAY_FIRSTB-13=Ти що, з глузду з'їхала?!
+
+
+# Shay
+### Well, yeah!
+PC08B_SHAY_FIRSTB-14=Ну так, авжеж!
+
+
+# Brok
+### ...
+PC08B_SHAY_FIRSTB-15=...
+
+
+# Shay
+### ...
+PC08B_SHAY_FIRSTB-16=...
+
+
+# Shay
+### All right, all right! I'll render it non-lethal then.
+PC08B_SHAY_FIRSTB-17=Гаразд, гаразд! Я зроблю її нелетальною.
+
+
+# Shay
+### But it will lose efficiency...
+PC08B_SHAY_FIRSTB-18=Але вона втратить ефективність...
+
+
+# Brok
+### Deactivate it! NOW.
+PC08B_SHAY_FIRSTB-19=Вимкни її! ЗАРАЗ ЖЕ.
+
+
+# Shay
+### (Sigh) Okay...
+PC08B_SHAY_FIRSTB-20=(Зітхає) Добре...
+
+
+# Shay
+### But only during the day! I've got valuable stuff in here.
+PC08B_SHAY_FIRSTB-21=Але тільки впродовж дня! У мене тут зберігаються цінні речі.
+
+
+# Shay
+### So, why are you here?
+PC08B_SHAY_FIRSTB-22=То чому ти тут?
+
+
+#----------------------------------------------------
+# Brok
+### (My best friend! We've known each other since kindergarten.)
+PC08B_SHAY_THINK1-1=(Моя найкраща подруга! Ми знайомі ще з дитячого садка.)
+
+
+# Brok
+### (A little rough around the edges but I'd trust her with my life!)
+PC08B_SHAY_THINK1-2=(Вона буває дещо грубуватою, але я б довірив їй своє життя!)
+
+
+# Brok
+### (Well... Maybe a bit less since that saw incident.)
+PC08B_SHAY_THINK1-3=(Ну... Може, вже не так охоче, після випадку з пилою.)
+
+
+#----------------------------------------------------
+# Brok - Talking to Shay - Day 1
+### I need your help to get across the Border Post.
+PC08B_SHAY_BORDER1-1=Мені потрібна твоя допомога, щоб перетнути прикордонний пост.
+
+
+# Shay
+### I knew this day would come.
+PC08B_SHAY_BORDER1-2=Я знала, що цей день настане.
+
+
+# Shay
+### See, I've prepared the perfect response to this!
+PC08B_SHAY_BORDER1-3=Знаєш, я підготувала ідеальну відповідь на це!
+
+
+# Brok
+### For real?
+PC08B_SHAY_BORDER1-4=Серйозно?
+
+
+# Shay
+### Now, where did I put it?
+PC08B_SHAY_BORDER1-5=Так, куди ж я його поклала?
+
+
+# Shay
+### Just a sec... Gotta search...
+PC08B_SHAY_BORDER1-6=Хвилинку... Треба пошукати...
+
+
+# Shay
+### There we go!
+PC08B_SHAY_BORDER1-7=Ось воно!
+
+
+# Shay
+### "Only two types of things can cross the Border - authorized citizens registered in the mainframe and controlled merchandise."
+PC08B_SHAY_BORDER1-8="Перетин кордону дозволено лише у двох випадках: для авторизованих громадян, зареєстрованих у центральному комп'ютері, та для контрольованих товарів."
+
+
+# Shay
+### "Any living thing stored in packages will be automatically destroyed."
+PC08B_SHAY_BORDER1-9="Будь-яка жива істота, знайдена в пакунках з товарами, буде автоматично знищена."
+
+
+# Shay
+### "Therefore, the best solution consists of killing you."
+PC08B_SHAY_BORDER1-10="Отже, найкраще рішення проблеми полягає у твоєму вбивстві."
+
+
+# Brok
+### Not an option!
+PC08B_SHAY_BORDER1-11=Не варіант!
+
+
+# Shay
+### I know!
+PC08B_SHAY_BORDER1-12=Я знаю!
+
+
+# Shay
+### Well, technically this would work but if you're not willing to try...
+PC08B_SHAY_BORDER1-13=Ну, технічно це б спрацювало, але якщо ти не бажаєш спробувати...
+
+
+# Brok
+### ...
+PC08B_SHAY_BORDER1-14=...
+
+
+# Shay
+### OK. The only other way isn't much easier.
+PC08B_SHAY_BORDER1-15=ГАРАЗД. Єдиний інший шлях не набагато простіший.
+
+
+# Shay
+### "How to become an authorized citizen."
+PC08B_SHAY_BORDER1-16="Як стати авторизованим громадянином."
+
+
+# Shay
+### "The Border Post scans the user at the entrance in order to get a body print."
+PC08B_SHAY_BORDER1-17="Прикордонний пост сканує користувача на вході, щоб отримати відбиток тіла."
+
+
+# Shay
+### "This information is then compared to data contained within the local Border Post server."
+PC08B_SHAY_BORDER1-18="Ця інформація потім порівнюється з даними, що містяться на локальному сервері прикордонного поста."
+
+
+# Shay
+### "Each Border Post owns a copy of the data, which is replicated from and to a central mainframe."
+PC08B_SHAY_BORDER1-19="Кожен прикордонний пост має копію даних, що завантажуються з центрального комп'ютера та передаються на нього."
+
+
+# Shay
+### "Thus, you need to access one of these servers, add your body print and..."
+PC08B_SHAY_BORDER1-20="Таким чином, тобі потрібно отримати доступ до одного з цих серверів, додати свій відбиток тіла і..."
+
+
+# Shay
+### "Ta-da! You're allowed to cross like a regular Dome citizen."
+PC08B_SHAY_BORDER1-21="Та-да! Тобі буде дозволено проходити, як звичайному громадянину Купола."
+
+
+# Brok
+### Doesn't sound too hard!
+PC08B_SHAY_BORDER1-22=Звучить не надто складно!
+
+
+# Shay
+### Oh, I forgot to mention the deadly security equipment guarding the server.
+PC08B_SHAY_BORDER1-23=О, я забула згадати про смертоносне обладнання, яке охороняє сервер.
+
+
+# Shay
+### Nothing you can't handle, though!
+PC08B_SHAY_BORDER1-24=Втім, нічого такого, з чим би ти не впорався!
+
+
+# Brok
+### Well... Thanks for the vote of confidence...
+PC08B_SHAY_BORDER1-25=Ну... Дякую за довіру...
+
+
+# Brok
+### I'm starting to wonder if that job is really worth the trouble.
+PC08B_SHAY_BORDER1-26=Я починаю замислюватися, чи справді ця робота варта таких клопотів.
+
+
+# Shay
+### Mmh. I promised not to interfere with your PI job, but...
+PC08B_SHAY_BORDER1-27=Гмм. Я обіцяла не втручатися в твою роботу приватного детектива, але...
+
+
+# Shay
+### You're seeing the glass half empty. Think of it as half full instead!
+PC08B_SHAY_BORDER1-28=Ти бачиш склянку напівпорожньою. Спробуй побачити її напівповною!
+
+
+# Brok
+### Pray tell?
+PC08B_SHAY_BORDER1-29=І як саме?
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### If you become an allowed citizen, you can start prospecting new clients in the Drums!
+PC08B_SHAY_BORDER1-30=Якщо ти отримаєш статус громадянина, ти зможеш шукати нових клієнтів на Верхах!
+
+
+# Shay
+### And get rich!
+PC08B_SHAY_BORDER1-31=І розбагатіти!
+
+
+# Brok
+### That's a big "IF." Those rich folks will never be interested in a stinky low-grade detective like me.
+PC08B_SHAY_BORDER1-32="ЯКЩО" хтось взагалі погодиться. Ті багатії ніколи не зацікавляться смердючим низькосортним детективом на кшталт мене.
+
+
+# Brok
+### But... I guess it's worth a shot.
+PC08B_SHAY_BORDER1-33=Але... Гадаю, спробувати варто.
+
+
+# Shay
+### That's the spirit, Bro'!
+PC08B_SHAY_BORDER1-34=Ось це правильний настрій, брате!
+
+
+#----------------------------------------------------
+# Brok
+### Access the server, add my body print to the server...
+PC08B_SHAY_BORDER2-1=Отримати доступ до сервера, додати свій відбиток тіла на сервер...
+
+
+# Brok
+### That's all fine and dandy but... How do I do that conclusively?
+PC08B_SHAY_BORDER2-2=Це все чудово, але... Як саме мені це зробити?
+
+
+# Shay
+### Coming up!
+PC08B_SHAY_BORDER2-3=Зараз все буде!
+
+
+#----------------------------------------------------
+# Brok
+### Whoa! What's happening?
+PC08B_SHAY_BORDER2B-1=Ого! Що відбувається?
+
+
+# Shay
+### I got your body print with my own scanner and...
+PC08B_SHAY_BORDER2B-2=Я отримала відбиток твого тіла власним сканером і...
+
+
+# Shay
+### ...it's perfect!
+PC08B_SHAY_BORDER2B-3=...все ідеально!
+
+
+# Brok
+### What? What's perfect?
+PC08B_SHAY_BORDER2B-4=Що? Що ідеально?
+
+
+# Shay
+### I injected the necessary information into your DNA.
+PC08B_SHAY_BORDER2B-5=Я ввела необхідну інформацію у твою ДНК.
+
+
+# Brok
+### Huh?! Isn't that dangerous?!
+PC08B_SHAY_BORDER2B-6=Га?! Хіба це не небезпечно?!
+
+
+# Shay
+### Not at all!
+PC08B_SHAY_BORDER2B-7=Зовсім ні!
+
+
+# Shay
+### Carrying info into your DNA is the most reliable way. No chance you'll lose it!
+PC08B_SHAY_BORDER2B-8=Перенесення інформації у твою ДНК - це найнадійніший спосіб. Немає шансів, що ти її втратиш!
+
+
+# Brok
+### That's not what I meant.
+PC08B_SHAY_BORDER2B-9=Я не це мав на увазі.
+
+
+# Shay
+### Few people master the experimental DNA transportation. You're lucky - I'm one of them!
+PC08B_SHAY_BORDER2B-10=Мало хто опанував експериментальне транспортування через ДНК. Тобі пощастило - я одна з них!
+
+
+# Brok
+### I'm always the lucky one...
+PC08B_SHAY_BORDER2B-11=Мені завжди щастить...
+
+
+# Brok
+### What info did you inject?
+PC08B_SHAY_BORDER2B-12=Яку саме інформацію ти ввела?
+
+
+# Shay
+### Your body print.
+PC08B_SHAY_BORDER2B-13=Відбиток твого тіла.
+
+
+# Brok
+### You injected my body print...into my body?
+PC08B_SHAY_BORDER2B-14=Ти ввела відбиток мого тіла... у моє тіло?
+
+
+# Shay
+### Yeah!
+PC08B_SHAY_BORDER2B-15=Так!
+
+
+# Brok
+### ...
+PC08B_SHAY_BORDER2B-16=...
+
+
+# Shay
+### ...
+PC08B_SHAY_BORDER2B-17=...
+
+
+# Shay
+### I kinda see what you're going for here, but...
+PC08B_SHAY_BORDER2B-18=Я розумію, до чого ти клониш, але...
+
+
+# Shay
+### It's more complex than you think! I had to include an encryption key, a data mining program...
+PC08B_SHAY_BORDER2B-19=Це все складніше, ніж ти думаєш! Мені довелося додати ключ шифрування, програму аналізу даних...
+
+
+# Brok
+### Forget it. What do I do now?
+PC08B_SHAY_BORDER2B-20=А, забудь. Що мені робити тепер?
+
+
+# Shay
+### Border Post 001.
+PC08B_SHAY_BORDER2B-21=Прикордонний пост 001.
+
+
+# Shay
+### There's a tall building with a roof that's shaped like a pyramid. You can't miss it!
+PC08B_SHAY_BORDER2B-22=Там є висока будівля з дахом у формі піраміди. Не проґавиш!
+
+
+# Brok
+### Yeah, I think I remember that weird pyramid.
+PC08B_SHAY_BORDER2B-23=Так, я ніби пам'ятаю ту дивну піраміду.
+
+
+# Shay
+### Find a way to enter the building, then connect to the server.
+PC08B_SHAY_BORDER2B-24=Знайди спосіб увійти в будівлю, а потім підключися до сервера.
+
+
+# Shay
+### By connect, I mean touching it. Those servers are offline so direct contact is required.
+PC08B_SHAY_BORDER2B-25=Під "підключися" я маю на увазі "торкнись його". Ті сервери офлайн, тому потрібен прямий контакт.
+
+
+# Shay
+### I've programmed it to automatically hack the operating system and install your body print into the database.
+PC08B_SHAY_BORDER2B-26=Я запрограмувала це так, щоб воно автоматично зламало операційну систему і встановило відбиток твого тіла в базу даних.
+
+
+# Brok
+### Pyramid-shaped building. Insert thingy into doodad. Got it!
+PC08B_SHAY_BORDER2B-27=Будівля у формі піраміди. Вставити цю штукенцію в ту штуковину. Зрозумів!
+
+
+# Brok
+### Will it work?
+PC08B_SHAY_BORDER2B-28=Це спрацює?
+
+
+# Shay
+### Probably.
+PC08B_SHAY_BORDER2B-29=Можливо.
+
+
+# Brok
+### What if it doesn't?
+PC08B_SHAY_BORDER2B-30=А якщо ні?
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Then I'm guessing you'll be chased by numerous security drones and Tribot guards.
+PC08B_SHAY_BORDER2B-31=Тоді, мабуть, тебе почнуть переслідувати численні дрони та Триботи-охоронці.
+
+
+# Brok
+### Great...
+PC08B_SHAY_BORDER2B-32=Чудово...
+
+
+# Shay
+### Trust me! I think it might work!
+PC08B_SHAY_BORDER2B-33=Повір мені! Я думаю, що все це може спрацювати!
+
+
+# Brok
+### Erm... I'm probably the most foolish person in the universe but...
+PC08B_SHAY_BORDER2B-34=Е-е... Я, мабуть, найдурніша людина у всесвіті, але...
+
+
+# Brok
+### All right, I trust you.
+PC08B_SHAY_BORDER2B-35=Гаразд, я тобі вірю.
+
+
+# Shay
+### Cool!
+PC08B_SHAY_BORDER2B-36=Круто!
+
+
+#----------------------------------------------------
+# Brok
+### I won't pretend to know anything about computers but can't you...
+PC08B_SHAY_BORDER3-1=Я не вдаватиму, що розуміюся на комп'ютерах, але хіба ти не можеш...
+
+
+# Brok
+### Like... Hack the server on the network? Remotely?
+PC08B_SHAY_BORDER3-2=Типу... Зламати сервер у мережі? Віддалено?
+
+
+# Shay
+### I know this sounds crazy but there are things even a skilled cyber-meddler like myself cannot do.
+PC08B_SHAY_BORDER3-3=Я знаю, це звучить божевільно, але є речі, які навіть така вправна кібер-витівниця, як я, не може зробити.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### The main server is not connected to the Triweb.
+PC08B_SHAY_BORDER3-4=Головний сервер не підключений до Тривебу.
+
+
+# Brok
+### Color me disappointed.
+PC08B_SHAY_BORDER3-5=Вважай, що я розчарований.
+
+
+#----------------------------------------------------
+# Brok
+### Pyramid-shaped building. Insert thingy into doodad. Got it!
+PC08B_SHAY_BORDER4-1=Будівля у формі піраміди. Вставити цю штукенцію в ту штуковину. Зрозумів!
+
+
+# Shay
+### Good boy!
+PC08B_SHAY_BORDER4-2=Молодець!
+
+
+#----------------------------------------------------
+# Brok
+### Say, don't you need an assistant?
+PC08B_SHAY_BOLT1-1=Скажи, тобі не потрібен помічник?
+
+
+# Shay
+### No.
+PC08B_SHAY_BOLT1-2=Ні.
+
+
+# Brok
+### This... wasn't the answer I was expecting...
+PC08B_SHAY_BOLT1-3=Це... не та відповідь, на яку я очікував...
+
+
+# Brok
+### Look, I need a favor. A cool little robot I've met is about to get transformed and wiped out.
+PC08B_SHAY_BOLT1-4=Слухай, зроби послугу. Класного малого робота, якого я зустрів, збираються переробити й стерти пам'ять.
+
+
+# Brok
+### You wouldn't want a poor innocent soul being erased like this, would ya?
+PC08B_SHAY_BOLT1-5=Ти ж не хочеш, щоб бідну невинну душу отак стерли, правда?
+
+
+# Shay
+### Since when are you a friend to robots?
+PC08B_SHAY_BOLT1-6=Відколи це ти став другом роботів?
+
+
+# Brok
+### I'm friendly towards every creature who doesn't try to harm me!
+PC08B_SHAY_BOLT1-7=Я дружньо ставлюся до кожної істоти, яка не намагається мені нашкодити!
+
+
+# Shay
+### Okay. What kind of robot is it?
+PC08B_SHAY_BOLT1-8=Добре. Що це за робот?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Not a Tribot, for sure. Looks like an old model. Two rusty arms plus a square head.
+PC08B_SHAY_BOLT1-9=Точно не Трибот. Схоже на стару модель. Дві іржаві руки і квадратна голова.
+
+
+# Brok
+### He's worked at the Border Post sorting center for years.
+PC08B_SHAY_BOLT1-10=Він роками працював у центрі сортування на прикордонному пості.
+
+
+# Shay
+### Mmh. Maybe...
+PC08B_SHAY_BOLT1-11=Гмм. Мабуть...
+
+
+# Brok
+### I knew you'd accept! Thank you!
+PC08B_SHAY_BOLT1-12=Я знав, що ти погодишся! Дякую!
+
+
+# Shay
+### Hey! Let me finish!
+PC08B_SHAY_BOLT1-13=Гей! Дай мені договорити!
+
+
+# Shay
+### It must be one of those pre-war bots. Tweaking them is strictly forbidden by law.
+PC08B_SHAY_BOLT1-14=Це має бути один із тих довоєнних ботів. Модифікувати їх суворо заборонено законом.
+
+
+# Brok
+### Since when do you care about that?
+PC08B_SHAY_BOLT1-15=Відколи це тебе хвилює?
+
+
+# Shay
+### Exactly! It's exciting. Maybe I can give it a try and remove his tracking device.
+PC08B_SHAY_BOLT1-16=Отож-бо! Це захоплює. Можливо, я спробую витягти його пристрій відстеження.
+
+
+# Shay
+### However...
+PC08B_SHAY_BOLT1-17=Однак...
+
+
+# Brok
+### I was afraid you'd say that. You want a counterpart, don't ya?
+PC08B_SHAY_BOLT1-18=Я боявся, що ти це скажеш. Тобі потрібна компенсація, чи не так?
+
+
+# Shay
+### Yup. Until it becomes useful, I'll need to pay for its energy source and the time I'll spend fixing it.
+PC08B_SHAY_BOLT1-19=Угу. Поки він не стане корисним, мені доведеться платити за його джерело енергії та час на лагодження.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Let's say... 200 unis. I'll deduct them from tonight's fight earnings.
+PC08B_SHAY_BOLT1-20=Скажімо... 200 Юні. Я вирахую їх з того, що ти заробиш у сьогоднішніх нічних боях.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### So... 200 Unis to accept Bolt?
+PC08B_SHAY_BOLT1B-1=Отже... 200 Юні, щоб прийняти Болта?
+
+
+#----------------------------------------------------
+# Brok
+### Deal. I'm gonna tell him to come here. Thanks!
+PC08B_SHAY_BOLT1YES-1=Згода. Я скажу йому прийти сюди. Дякую!
+
+
+# Shay
+### Can't wait to get my hands on it! I've always wondered how those antiquities work!
+PC08B_SHAY_BOLT1YES-2=Не можу дочекатися, щоб залізти всередину нього! Мені завжди було цікаво, як працюють ці старожитності!
+
+
+# Brok
+### Just promise me not to erase his memories.
+PC08B_SHAY_BOLT1YES-3=Тільки пообіцяй мені не стирати його спогади.
+
+
+# Shay
+### Oh, I'll be sure to make plenty of backups!
+PC08B_SHAY_BOLT1YES-4=О, я обов'язково зроблю купу резервних копій!
+
+
+# Brok
+### That's... Erm... Okay.
+PC08B_SHAY_BOLT1YES-5=Це... Е-е... Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### That's a lot... Let me think about it.
+PC08B_SHAY_BOLT1NO-1=Це доволі багато... Мені треба ще подумати.
+
+
+# Shay
+### Okay.
+PC08B_SHAY_BOLT1NO-2=Добре.
+
+
+#----------------------------------------------------
+# Shay
+### Where's my new assistant?
+PC08B_SHAY_BOLT2-1=Де мій новий помічник?
+
+
+# Brok
+### Just a moment! I'll go fetch him.
+PC08B_SHAY_BOLT2-2=Хвилинку! Я зараз піду приведу його.
+
+
+#----------------------------------------------------
+# Brok
+### Got a minute?
+PC08B_SHAY_WELCOME1-1=Маєш хвилинку?
+
+
+# Shay
+### Nope but go ahead!
+PC08B_SHAY_WELCOME1-2=Ні, але кажи!
+
+
+#----------------------------------------------------
+# Shay
+### What's up?
+PC08B_SHAY_WELCOME2-1=Як справи?
+
+
+#----------------------------------------------------
+# Brok
+### I'm on my way.
+PC08B_SHAY_FIRSTEXIT-1=Я вже йду.
+
+
+# Shay
+### Wait!
+PC08B_SHAY_FIRSTEXIT-2=Зачекай!
+
+
+# Shay
+### Aren't you going to do a little training before tonight's...?
+PC08B_SHAY_FIRSTEXIT-3=Хіба ти не збираєшся трохи потренуватися перед сьогоднішнім...?
+
+
+#----------------------------------------------------
+# Brok
+### Tonight's what?
+PC08B_SHAY_ARENA1-1=Сьогоднішнім чим?
+
+
+# Shay
+### The fight, of course.
+PC08B_SHAY_ARENA1-2=Боєм, звісно.
+
+
+# Brok
+### Oh, yeah! But...
+PC08B_SHAY_ARENA1-3=О, точно! Але...
+
+
+# Shay
+### You forgot again? We do that every night!
+PC08B_SHAY_ARENA1-4=Ти знову забув? Ми робимо це щоночі!
+
+
+# Brok
+### Well...
+PC08B_SHAY_ARENA1-5=Ну...
+
+
+#----------------------------------------------------
+# Brok
+### Really sorry... Memories keep slipping from my mind these days.
+PC08B_SHAY_REMEMBER_YES-1=Мені дуже шкода... Останнім часом все постійно вислизає з моєї голови.
+
+
+# Brok
+### Someday I might even forget my name.
+PC08B_SHAY_REMEMBER_YES-2=Колись я можу навіть забути власне ім'я.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### I see. Your brain is like Goga Gola's Soda Fizz. Full of bubbles!
+PC08B_SHAY_REMEMBER_YES-3=Розумію. Твій мозок - як газованка Гога-Гола. Повний бульбашок!
+
+
+# Brok
+### Yeah...
+PC08B_SHAY_REMEMBER_YES-4=Так...
+
+
+# Shay
+### Cheer up! I'm used to it, that's part of the package of doing business with you.
+PC08B_SHAY_REMEMBER_YES-5=Не сумуй! Я вже звикла, що це одна з особливостей нашої співпраці.
+
+
+# Shay
+### Let me explain everything from the start.
+PC08B_SHAY_REMEMBER_YES-6=Давай я поясню все від самого початку.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I own Virtual Arena equipment running on a non-regulated site of the Triweb.
+PC08B_SHAY_REMEMBER_YES-7=Я володію обладнанням Віртуальної Арени, що працює на нерегульованій ділянці Тривебу.
+
+
+# Shay
+### You do the fighting, I do the managing.
+PC08B_SHAY_REMEMBER_YES-8=Ти б'єшся, я всім керую.
+
+
+# Shay
+### Spectators bet on your performance. The better you fight, the more money I'll make!
+PC08B_SHAY_REMEMBER_YES-9=Глядачі роблять ставки на твій результат. Чим краще ти б'єшся, тим більше грошей я зароблю!
+
+
+# Shay
+### ...the money WE'LL make. I'll give you a share of the pie.
+PC08B_SHAY_REMEMBER_YES-10=...тим більше грошей МИ заробимо. Тобі теж дістанеться шматок цього пирога.
+
+
+# Brok
+### What percentage are we talking about?
+PC08B_SHAY_REMEMBER_YES-11=Про який відсоток йдеться?
+
+
+# Shay
+### 40.
+PC08B_SHAY_REMEMBER_YES-12=40.
+
+
+# Brok
+### What? I agreed to this?!
+PC08B_SHAY_REMEMBER_YES-13=Що? І я на це погодився?!
+
+
+# Shay
+### You'll have to take my word for it!
+PC08B_SHAY_REMEMBER_YES-14=Доведеться повірити мені на слово!
+
+
+# Brok
+### I feel like I'm being conned.
+PC08B_SHAY_REMEMBER_YES-15=Відчуваю, ніби мене надурили.
+
+
+# Shay
+### Hey, I'm taking risks too! These events aren't fully legal, you know...
+PC08B_SHAY_REMEMBER_YES-16=Гей, я теж ризикую! Ці події не зовсім легальні, знаєш...
+
+
+# Shay
+### Besides... Without my equipment you wouldn't get anything at all.
+PC08B_SHAY_REMEMBER_YES-17=Крім того... Без мого обладнання ти б узагалі нічого не отримав.
+
+
+# Brok
+### Yeah, yeah...
+PC08B_SHAY_REMEMBER_YES-18=Та знаю, знаю...
+
+
+#----------------------------------------------------
+# Brok
+### Of course I remember! I'm a master when it comes to fighting, even when they're virtual!
+PC08B_SHAY_REMEMBER_NO-1=Звісно, я пам'ятаю! Я майстер, коли справа доходить до боїв, навіть якщо вони віртуальні!
+
+
+# Shay
+### Well, "Master," you ought to do some training unless you want to get humiliated!
+PC08B_SHAY_REMEMBER_NO-2=Ну, "Майстре", тобі слід трохи потренуватись, якщо не хочеш зганьбитися!
+
+
+# Brok
+### Never!
+PC08B_SHAY_REMEMBER_NO-3=Ні за що!
+
+
+#----------------------------------------------------
+# Brok
+### Get to the important part. How do I fight?
+PC08B_SHAY_ARENA2-1=Давай про найважливіше. Як мені битися?
+
+
+# Shay
+### The cabin detects your vital readings and summarizes them into a single life bar which everyone can see.
+PC08B_SHAY_ARENA2-2=Кабіна зчитує твої життєві показники і зводить їх у єдину шкалу здоров'я, яку бачать усі.
+
+
+# Brok
+### Everyone?! That's kinda... indiscreet.
+PC08B_SHAY_ARENA2-3=Усі?! Це якось... нетактовно.
+
+
+# Shay
+### You should've read the paragraph about private life before signing!
+PC08B_SHAY_ARENA2-4=Тобі слід було прочитати пункт про приватне життя перед підписанням!
+
+
+# Shay
+### The program includes AI virtual opponents. Bots, if you prefer.
+PC08B_SHAY_ARENA2-5=Ця програма включає віртуальних суперників зі ШІ. Боти, якщо тобі так зручніше.
+
+
+# Shay
+### They're easy to get rid of. Their appearance and moves are based off of people and things you've seen in real life.
+PC08B_SHAY_ARENA2-6=Їх легко здолати. Їхній зовнішній вигляд та прийоми базуються на людях і речах, які ти бачив у реальному житті.
+
+
+# Shay
+### However, the real objective comes only with the night fight!
+PC08B_SHAY_ARENA2-7=Але справжня мета з'являється лише в нічному бої!
+
+
+# Shay
+### After progressing through the level, you'll encounter your true opponent - the "Master." A real person.
+PC08B_SHAY_ARENA2-8=Пройшовши рівень, ти зіткнешся зі своїм останнім суперником - "Майстром". Справжньою людиною.
+
+
+# Shay
+### That's what the public is here for - an epic and decisive battle!
+PC08B_SHAY_ARENA2-9=Ось задля чого тут публіка - епічна та вирішальна битва!
+
+
+# Brok
+### Sounds dangerous...
+PC08B_SHAY_ARENA2-10=Звучить небезпечно...
+
+
+# Shay
+### No pain, no gain!
+PC08B_SHAY_ARENA2-11=Без труда нема плода!
+
+
+# Shay
+### Each time you get hit, your life bar gets depleted.
+PC08B_SHAY_ARENA2-12=Кожного разу, коли ти отримуєш удар, твоя шкала здоров'я зменшується.
+
+
+# Shay
+### Not only that but lasers in the cabin make you feel the impact as if you really took a blow!
+PC08B_SHAY_ARENA2-13=Мало того, лазери в кабіні змушують тебе відчувати удар так, ніби ти дійсно його отримав!
+
+
+# Shay
+### Amazing, huh?
+PC08B_SHAY_ARENA2-14=Дивовижно, правда?
+
+
+# Brok
+### I wouldn't say that...
+PC08B_SHAY_ARENA2-15=Я б так не сказав...
+
+
+# Shay
+### You're fine as long as your lifebar doesn't get emptied.
+PC08B_SHAY_ARENA2-16=З тобою все буде гаразд, допоки твоя шкала здоров'я не спорожніє.
+
+
+# Brok
+### What?! Don't tell me...
+PC08B_SHAY_ARENA2-17=Що?! Тільки не кажи мені...
+
+
+# Shay
+### You can die? Technically, yes.
+PC08B_SHAY_ARENA2-18=Що ти можеш померти? Технічно, так.
+
+
+# Brok
+### Gulp!
+PC08B_SHAY_ARENA2-19=(Ковтає слину)
+
+
+# Shay
+### But this can't happen. Relax!
+PC08B_SHAY_ARENA2-20=Але цього не станеться. Розслабся!
+
+
+# Shay
+### Fatal blows can't happen during training - only in night fights. The thrill of death drastically increases the bets.
+PC08B_SHAY_ARENA2-21=Смертельні удари не можуть статися під час тренувань - тільки в нічних боях. Смертельний ризик кардинально збільшує ставки.
+
+
+# Shay
+### And when you're about to run out of health, you can escape.
+PC08B_SHAY_ARENA2-22=А коли в тебе закінчується здоров'я, ти зможеш втекти.
+
+
+# Shay
+### I'll send you a reminder. No worries!
+PC08B_SHAY_ARENA2-23=Я надішлю тобі нагадування. Не хвилюйся!
+
+
+# Shay
+### I wouldn't risk losing you.
+PC08B_SHAY_ARENA2-24=Я б не ризикувала тебе втратити.
+
+
+# Brok
+### That's pretty reassuring. Thanks!
+PC08B_SHAY_ARENA2-25=Це досить заспокоює. Дякую!
+
+
+# Shay
+### I mean, it'd be a lot of trouble to find someone crazy enough to replace you.
+PC08B_SHAY_ARENA2-26=Я маю на увазі, що було б важко знайти когось такого ж божевільного, щоб замінити тебе.
+
+
+# Brok
+### I take that back.
+PC08B_SHAY_ARENA2-27=Забираю свої слова назад.
+
+
+#----------------------------------------------------
+# Brok
+### What about training?
+PC08B_SHAY_ARENA3-1=А щодо тренувань?
+
+
+# Shay
+### Expect to face randomized traps.
+PC08B_SHAY_ARENA3-2=Очікуй на випадкові пастки.
+
+
+# Shay
+### Training brings some money and experience.
+PC08B_SHAY_ARENA3-3=Тренування приносять трохи грошей та досвіду.
+
+
+#----------------------------------------------------
+# Brok
+### That virtual fight stuff... Can you explain it again?
+PC08B_SHAY_ARENA4-1=З приводу віртуальних боїв... Можеш пояснити ще раз?
+
+
+# Shay
+### Basically... Enter the cabin in the next room.
+PC08B_SHAY_ARENA4-2=Коротше кажучи... Зайди в кабіну в сусідній кімнаті.
+
+
+# Shay
+### Fight your way through all the traps and enemies. You win!
+PC08B_SHAY_ARENA4-3=Пробийся крізь усі пастки та ворогів. Перемога!
+
+
+# Shay
+### And don't forget to train regularly! You're getting fat-bellied.
+PC08B_SHAY_ARENA4-4=І не забудь регулярно тренуватися! У тебе живіт росте.
+
+
+# Brok
+### Hey...!
+PC08B_SHAY_ARENA4-5=Гей...!
+
+
+#----------------------------------------------------
+# Brok
+### What were you doing here in the dark?
+PC08B_SHAY_HERSELF1-1=Що ти робила тут у темряві?
+
+
+# Shay
+### I'm performing some isolation tests.
+PC08B_SHAY_HERSELF1-2=Я проводжу деякі тести з ізоляції.
+
+
+# Brok
+### Isolation?
+PC08B_SHAY_HERSELF1-3=Ізоляції?
+
+
+# Shay
+### Yup.
+PC08B_SHAY_HERSELF1-4=Угу.
+
+
+# Shay
+### In our world, there are irritating environments. Loud sounds are usually the worst offenders.
+PC08B_SHAY_HERSELF1-5=У нашому світі існує безліч дратівливих факторів. Гучні звуки - найгірші з них.
+
+
+# Brok
+### Don't need to tell me! My neighbors can be pretty loud at night...
+PC08B_SHAY_HERSELF1-6=І не кажи! Мої сусіди бувають дуже гучними вночі...
+
+
+# Shay
+### See this device? It's a hearing aid.
+PC08B_SHAY_HERSELF1-7=Бачиш цей пристрій? Це слуховий апарат.
+
+
+# Shay
+### I've succeeded in reversing its function, so instead of amplifying sounds...
+PC08B_SHAY_HERSELF1-8=Я успішно змінила його функцію на протилежну, тому замість підсилення звуків...
+
+
+# Brok
+### It's blocking them?
+PC08B_SHAY_HERSELF1-9=Він їх блокує?
+
+
+# Shay
+### Glad to see you following for once!
+PC08B_SHAY_HERSELF1-10=Рада бачити, що ти хоч цього разу мене зрозумів!
+
+
+# Brok
+### Hey, I'm always up to finding out about more questionable inventions from you!
+PC08B_SHAY_HERSELF1-11=Гей, я завжди радий дізнаватись про твої сумнівні винаходи!
+
+
+# Brok
+### But why was the garage closed?
+PC08B_SHAY_HERSELF1-12=Але чому гараж був зачинений?
+
+
+# Shay
+### What if someone sneaks inside while I'm wearing these? I wouldn't want to take the risk.
+PC08B_SHAY_HERSELF1-13=А що, як хтось прослизне всередину, поки я в цих навушниках? Я не хотіла ризикувати.
+
+
+# Brok
+### Well, I passed through and you didn't notice.
+PC08B_SHAY_HERSELF1-14=Ну, ти не помітила, як я увійшов.
+
+
+# Shay
+### You're not just anyone! You're the terror of the fight, the one and only Bro'!
+PC08B_SHAY_HERSELF1-15=Але ж ти не абихто! Ти - жах усіх суперників, єдиний і неповторний брате!
+
+
+# Brok
+### Don't overdo it!
+PC08B_SHAY_HERSELF1-16=Не перебільшуй!
+
+
+#----------------------------------------------------
+# Brok
+### How ya doin' these days?
+PC08B_SHAY_HERSELF2-1=Як твої справи останнім часом?
+
+
+# Shay
+### Busy.
+PC08B_SHAY_HERSELF2-2=Зайнята.
+
+
+# Brok
+### That's the thing.
+PC08B_SHAY_HERSELF2-3=У тому й річ.
+
+
+# Brok
+### Ever since we found ourselves back a few years ago, we barely get time to talk aside from our job.
+PC08B_SHAY_HERSELF2-4=Відколи ми віднайшли одне одного кілька років тому, ми ледве маємо час поговорити поза роботою.
+
+
+# Brok
+### We used to be so close back then. What happened?
+PC08B_SHAY_HERSELF2-5=Ми були такими близькими тоді. Що сталося?
+
+
+# Shay
+### The world has changed. We've changed.
+PC08B_SHAY_HERSELF2-6=Світ змінився. Ми змінилися.
+
+
+# Shay
+### Time is money, so we can't spend too much time idling like... right now.
+PC08B_SHAY_HERSELF2-7=Час - це гроші, тож ми не можемо витрачати його на бездіяльність... як зараз.
+
+
+# Brok
+### You're right. But that's a shame...
+PC08B_SHAY_HERSELF2-8=Ти маєш рацію. Але дуже шкода...
+
+
+#----------------------------------------------------
+# Brok
+### Gotta go!
+PC08B_SHAY_EXIT1-1=Мені час іти!
+
+
+# Shay
+### Okay! Don't forget to train regularly!
+PC08B_SHAY_EXIT1-2=Добре! Не забувай регулярно тренуватися!
+
+
+#----------------------------------------------------
+# Brok
+### I'll leave you to... whatever you're doing.
+PC08B_SHAY_EXIT2-1=Я залишу тебе з твоїми... заняттями, чим би вони не були.
+
+
+# Shay
+### See ya!
+PC08B_SHAY_EXIT2-2=До зустрічі!
+
+
+#----------------------------------------------------
+# Shay
+### I don't mind a little chat, but my time is precious. Please don't waste it.
+PC08B_SHAY_EXIT_NOTHING1-1=Я не проти побалакати, але мій час дорогоцінний. Будь ласка, не витрачай його даремно.
+
+
+# Brok
+### Sorry...
+PC08B_SHAY_EXIT_NOTHING1-2=Вибач...
+
+
+#----------------------------------------------------
+# Shay
+### I better get this fixed fast... Don't interrupt me for no reason.
+PC08B_SHAY_EXIT_NOTHING2-1=Мені треба швидко все полагодити... Тож не відволікай мене без причини.
+
+
+#----------------------------------------------------
+# Shay
+### Good luck, Bro' !
+PC08B_SHAY_EXIT_GOODLUCK-1=Удачі, брате!
+
+
+# Brok
+### Yeah... Gonna need a lotta it.
+PC08B_SHAY_EXIT_GOODLUCK-2=Так... Вона мені дуже знадобиться.
+
+
+#----------------------------------------------------
+# Brok
+### See ya!
+PC08B_SHAY_EXIT_RUBBERCUTTER1-1=Бувай!
+
+
+# Shay
+### Wait...
+PC08B_SHAY_EXIT_RUBBERCUTTER1-2=Зачекай...
+
+
+# Shay
+### Did you take my rubber cutter?
+PC08B_SHAY_EXIT_RUBBERCUTTER1-3=Ти взяв мій різак для гуми?
+
+
+# Shay
+### It disappeared.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-4=Він зник.
+
+
+# Brok
+### Wha...?
+PC08B_SHAY_EXIT_RUBBERCUTTER1-5=Що...?
+
+
+# Brok
+### Sorry, but I have no idea what that might be.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-6=Вибач, але я гадки не маю, про що ти.
+
+
+# Shay
+### You sure? No one else came to the garage today.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-7=Ти впевнений? Сьогодні до гаража більше ніхто не приходив.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Well, except Graff. But he's not one to touch everything... UNLIKE you.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-8=Ну, окрім Граффа. Але він не з тих, хто чіпає все підряд... НА ВІДМІНУ ВІД ТЕБЕ.
+
+
+# Brok
+### Can't deny that, although he is acting strange these days.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-9=Не можу цього заперечувати. Хоча останнім часом він поводиться доволі дивно.
+
+
+# Brok
+### Hmm...
+PC08B_SHAY_EXIT_RUBBERCUTTER1-10=Гмм...
+
+
+# Brok
+### Don't think either of us did but I'll let you know.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-11=Не думаю, що хтось із нас це зробив, але я дам тобі знати.
+
+
+# Shay
+### Okay.
+PC08B_SHAY_EXIT_RUBBERCUTTER1-12=Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+### Bye!
+PC08B_SHAY_EXIT_RUBBERCUTTER2-1=Бувай!
+
+
+#----------------------------------------------------
+# Shay
+### So? Any idea where my rubber cutter is?
+PC08B_SHAY_EXIT_RUBBERCUTTER3-1=Ну що? Є ідеї, куди дівся мій різак для гуми?
+
+
+# Brok
+### Don't think so...
+PC08B_SHAY_EXIT_RUBBERCUTTER3-2=Здається, ні...
+
+
+# Shay
+### Well, keep looking! It's valuable.
+PC08B_SHAY_EXIT_RUBBERCUTTER3-3=Що ж, шукай далі! Він цінний.
+
+
+#----------------------------------------------------
+# Brok - Talking to Shay - Showing inventory
+### Erm...
+PC08B_SHAY_INV_MONEY-1=Е-е...
+
+
+# Shay
+### Yes, please.
+PC08B_SHAY_INV_MONEY-2=Так, дякую.
+
+
+# Brok
+### Wait, no! I need that money!
+PC08B_SHAY_INV_MONEY-3=Чекай, ні! Мені потрібні ці гроші!
+
+
+# Shay
+### Then don't put it right in front of my beak, Bro'!
+PC08B_SHAY_INV_MONEY-4=Тоді не сунь їх мені просто під дзьоб, брате!
+
+
+#----------------------------------------------------
+# Shay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I see! That's Graff's seasonal hair loss, huh?
+PC08B_SHAY_INV_CATFUR-1=Зрозуміло! У Граффа сезонне випадіння шерсті, так?
+
+
+# Brok
+### How did you know?!
+PC08B_SHAY_INV_CATFUR-2=Звідки ти дізналася?!
+
+
+#----------------------------------------------------
+# Brok
+### Here's high technology!
+PC08B_SHAY_INV_MAGNIFY-1=Ось це справжні передові технології!
+
+
+# Shay
+### From the last century.
+PC08B_SHAY_INV_MAGNIFY-2=З минулого століття.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, look at...
+PC08B_SHAY_INV_MINELOADED-1=Гей, подивись на...
+
+
+# Brok
+### Whoa! Almost dropped it.
+PC08B_SHAY_INV_MINELOADED-2=Ого! Ледь не впустив.
+
+
+# Shay
+### Don't you dare blow up my garage! I just cleaned it.
+PC08B_SHAY_INV_MINELOADED-3=Навіть не смій підривати мій гараж! Я тільки-но прибрала.
+
+
+#----------------------------------------------------
+# Brok
+### Can you repair this tablet remote control?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-1=Зможеш відремонтувати ось цей пульт керування планшетом?
+
+
+# Shay
+### A... tablet remote control...?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-2=Пульт... керування планшетом...?
+
+
+# Shay
+### Let me see?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-3=Даси подивитися?
+
+
+# Shay
+### ...
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-4=...
+
+
+# Shay
+### Where'd you get that?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-5=Де ти це взяв?
+
+
+# Brok
+### My client. He's a policeman and...it was dropped accidentally.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-6=Мій клієнт. Він поліцейський, і... воно випало випадково.
+
+
+# Shay
+### That explains it.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-7=Це все пояснює.
+
+
+# Shay
+### That ain't no "tablet remote control," mister!
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-8=Це ніякий не "пульт керування планшетом", чоловіче!
+
+
+# Shay
+### This is police equipment. And if I'm not mistaken...
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-9=Це поліцейське обладнання. І, якщо я не помиляюся...
+
+
+# Shay
+### It's used to remotely deactivate any kind of electronic devices.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-10=Воно використовується для дистанційної деактивації будь-яких електронних пристроїв.
+
+
+# Shay
+### Cameras or mines for instance.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-11=Наприклад, камер або мін.
+
+
+# Brok
+### Really? Why would the police disable cameras?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-12=Справді? Навіщо поліції вимикати камери?
+
+
+# Shay
+### To enter a private property safely, I guess? Or...shady things.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-13=Щоб безпечно увійти в приватну власність, гадаю? Або... для сумнівних справ.
+
+
+# Brok
+### Well, doesn't matter. Please tell me you can fix it!
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-14=Ну, неважливо. Скажи мені, що ти можеш це полагодити!
+
+
+# Shay
+### Already done!
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-15=Вже зроблено!
+
+
+# Brok
+### What...? Already?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-16=Що...? Вже?
+
+
+# Shay
+### It's only cosmetic damage. It's working fine.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-17=Тут лише косметичні пошкодження. Він працює нормально.
+
+
+# Brok
+### Oh...
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-18=О...
+
+
+# Brok
+### Thanks anyway!
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED-19=Все одно дякую!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Can I turn off or damage Tribots with that?
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED2-1=Чи можу я цим пультом вимкнути або пошкодити Триботів?
+
+
+# Shay
+### This sends small impulsions and needs to recharge itself so... I wouldn't bet on it.
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED2-2=Цей пристрій надсилає слабкі імпульси та потребує перезарядки, тож... я б на це не розраховувала.
+
+
+# Shay
+### Give it a try on smaller things though!
+PC08B_SHAY_INV_REMOTECONTROLDAMAGED2-3=Але можеш спробувати його на чомусь меншому!
+
+
+#----------------------------------------------------
+# Shay
+### Do I look like a pharmacist...?
+PC08B_SHAY_INV_TRAMPPRESCR1-1=Я схожа на аптекарку...?
+
+
+# Brok
+### I thought you could do anything!
+PC08B_SHAY_INV_TRAMPPRESCR1-2=Я думав, ти вмієш усе!
+
+
+# Shay
+### Almost anything. Except delivering prescriptions.
+PC08B_SHAY_INV_TRAMPPRESCR1-3=Майже все. Окрім видачі рецептів.
+
+
+# Brok
+### Still. Got any advice?
+PC08B_SHAY_INV_TRAMPPRESCR1-4=І все ж. Маєш якусь пораду?
+
+
+# Shay
+### Go to a pharmacy...
+PC08B_SHAY_INV_TRAMPPRESCR1-5=Сходи в аптеку...
+
+
+#----------------------------------------------------
+# Brok
+### I need your help!
+PC08B_SHAY_INV_TRAMPPRESCR2-1=Мені потрібна твоя допомога!
+
+
+# Brok
+### How can I renew this prescription?
+PC08B_SHAY_INV_TRAMPPRESCR2-2=Як я можу поновити цей рецепт?
+
+
+# Shay
+### By going to see a doctor?
+PC08B_SHAY_INV_TRAMPPRESCR2-3=Ну, піти до лікаря?
+
+
+# Brok
+### I wouldn't ask you if it were that easy...
+PC08B_SHAY_INV_TRAMPPRESCR2-4=Я б не питав тебе, якби це було так просто...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### This is for a Slumer friend who can barely move.
+PC08B_SHAY_INV_TRAMPPRESCR2-5=Це для одного мого друга з Нетрів, який ледве може пересуватися.
+
+
+# Brok
+### The machine told me I needed to update the prescription.
+PC08B_SHAY_INV_TRAMPPRESCR2-6=Машина сказала мені, що потрібно оновити рецепт.
+
+
+# Shay
+### Sorry. Medical security protocols are very specific, it's not my thing.
+PC08B_SHAY_INV_TRAMPPRESCR2-7=Вибач. Протоколи медичної безпеки дуже специфічні, я цим не займаюся.
+
+
+# Brok
+### Right... Guess I'll ask someone else, then.
+PC08B_SHAY_INV_TRAMPPRESCR2-8=Зрозуміло... Тоді, мабуть, я запитаю в когось іншого.
+
+
+#----------------------------------------------------
+# Brok
+### This mine seems broken. Do you think...
+PC08B_SHAY_INV_MINEBROKEN1-1=Ця міна, здається, зламана. Як гадаєш...
+
+
+# Shay
+### All right, let's skip the "why are you travelling with a mine" part and ask...
+PC08B_SHAY_INV_MINEBROKEN1-2=Гаразд, пропустимо частину "якого біса ти подорожуєш із міною" і поставимо головне питання...
+
+
+# Shay
+### You want me to fix it, right?
+PC08B_SHAY_INV_MINEBROKEN1-3=Ти хочеш, щоб я її полагодила, так?
+
+
+# Brok
+### Erm, yeah!
+PC08B_SHAY_INV_MINEBROKEN1-4=Е-е, так!
+
+
+# Shay
+### Do it yourself.
+PC08B_SHAY_INV_MINEBROKEN1-5=Сам зроби.
+
+
+# Brok
+### Hey! That's not very nice.
+PC08B_SHAY_INV_MINEBROKEN1-6=Гей! Це не дуже-то ввічливо.
+
+
+# Shay
+### No, I mean it. That mine ain't broken. It just needs a refill!
+PC08B_SHAY_INV_MINEBROKEN1-7=Ні, я серйозно. Ця міна не зламана. Її просто треба зарядити!
+
+
+# Shay
+### Put some Trax powder inside it and you're good to go.
+PC08B_SHAY_INV_MINEBROKEN1-8=Засип усередину трохи порошку Тракс, і все готово.
+
+
+# Brok
+### Where am I gonna find that? Don't you have some?
+PC08B_SHAY_INV_MINEBROKEN1-9=А де я можу його знайти? У тебе немає?
+
+
+# Shay
+### Sure, I can...
+PC08B_SHAY_INV_MINEBROKEN1-10=Звісно, я можу...
+
+
+# Shay
+### Or not... I forgot, I ran out last week and forgot to order some.
+PC08B_SHAY_INV_MINEBROKEN1-11=Або ні... Вилетіло з голови. Він же закінчився минулого тижня, і я забула замовити ще.
+
+
+# Shay
+### Sorry. You're screwed!
+PC08B_SHAY_INV_MINEBROKEN1-12=Вибач. Ти в халепі!
+
+
+# Brok
+### Great.
+PC08B_SHAY_INV_MINEBROKEN1-13=Чудово.
+
+
+# Brok
+### Just in case. What does that powder look like?
+PC08B_SHAY_INV_MINEBROKEN1-14=Про всяк випадок. Як виглядає той порошок?
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### A greyish blue. Smells a bit like rotten Pampalos.
+PC08B_SHAY_INV_MINEBROKEN1-15=Сірувато-синій. Пахне трохи як гнилий пампалос.
+
+
+# Brok
+### Hmm... I might have seen powder like that somewhere...
+PC08B_SHAY_INV_MINEBROKEN1-16=Гмм... Здається, я десь бачив такий порошок...
+
+
+#----------------------------------------------------
+# Shay
+### You need Trax powder to... erm, "fix" it.
+PC08B_SHAY_INV_MINEBROKEN2-1=Тобі потрібен порошок Тракс, щоб... е-е, "полагодити" її.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### Blue and smells like rotten Pampalos.
+PC08B_SHAY_INV_MINEBROKEN2-2=Синій і пахне як гнилий пампалос.
+
+
+# Brok
+### Got it!
+PC08B_SHAY_INV_MINEBROKEN2-3=Зрозумів!
+
+
+#----------------------------------------------------
+# Brok
+### My cleaning bot is all messed up... It shocked me!
+PC08B_SHAY_INV_HOOVER1-1=Мій бот-прибиральник геть зламався... Він ударив мене струмом!
+
+
+# Shay
+### I see.
+PC08B_SHAY_INV_HOOVER1-2=Зрозуміло.
+
+
+# Brok
+### Can you fix it?
+PC08B_SHAY_INV_HOOVER1-3=Ти можеш його полагодити?
+
+
+# Shay
+### Yes. But you're better off leaving it in pieces.
+PC08B_SHAY_INV_HOOVER1-4=Так. Але тобі краще залишити його розібраним.
+
+
+# Brok
+### What...? Why?
+PC08B_SHAY_INV_HOOVER1-5=Що...? Чому?
+
+
+# Shay
+### Listen. You said it yourself.
+PC08B_SHAY_INV_HOOVER1-6=Слухай. Ти сам це сказав.
+
+
+# Shay
+### That bot is dangerous. It electrocuted you.
+PC08B_SHAY_INV_HOOVER1-7=Цей бот небезпечний. Він тебе вдарив струмом.
+
+
+# Shay
+### Even if I fix it, what proves it won't hurt you again?
+PC08B_SHAY_INV_HOOVER1-8=Навіть якщо я його полагоджу, що гарантує, що він не зашкодить тобі знову?
+
+
+# Shay
+### Would you feel confident staying in the same room as a murderer?
+PC08B_SHAY_INV_HOOVER1-9=Ти б почувався впевнено, залишаючись в одній кімнаті з убивцею?
+
+
+# Brok
+### Huh...?
+PC08B_SHAY_INV_HOOVER1-10=Га...?
+
+
+# Brok
+### We're talking about a machine here.
+PC08B_SHAY_INV_HOOVER1-11=Ми ж тут про машину говоримо.
+
+
+# Shay
+### So what?
+PC08B_SHAY_INV_HOOVER1-12=І що з того?
+
+
+# Shay
+### I have a better idea.
+PC08B_SHAY_INV_HOOVER1-13=У мене є краща ідея.
+
+
+# Shay
+### Judging from the aspect, this model is at least 30 years old. Right?
+PC08B_SHAY_INV_HOOVER1-14=Судячи з вигляду, цій моделі щонайменше 30 років. Правильно?
+
+
+# Brok
+### Yeah... I got it from the dump close to my apartment.
+PC08B_SHAY_INV_HOOVER1-15=Так... Я підібрав його на звалищі біля моєї квартири.
+
+
+# Brok
+### But it worked fine! At least, until now.
+PC08B_SHAY_INV_HOOVER1-16=Але він працював чудово! Принаймні, досі.
+
+
+# Shay
+### One of the components contains U-Stom.
+PC08B_SHAY_INV_HOOVER1-17=Один із компонентів містить Ю-Стом.
+
+
+# Shay
+### That ore has run out on the surface of the planet.
+PC08B_SHAY_INV_HOOVER1-18=Запаси цієї руди на поверхні планети вже вичерпалися.
+
+
+# Shay
+### It's not used anymore, but I can sure have some use for it!
+PC08B_SHAY_INV_HOOVER1-19=Вона більше ніде не використовується, але я б усе одно знайшла їй якесь застосування!
+
+
+# Shay
+### So here's my offer.
+PC08B_SHAY_INV_HOOVER1-20=Тож ось моя пропозиція.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### I buy it back from you for 200 Unis.
+PC08B_SHAY_INV_HOOVER1-21=Я викуплю його в тебе за 200 Юні.
+
+
+# Shay
+### With that money, you can buy a new one!
+PC08B_SHAY_INV_HOOVER1-22=За ці гроші ти зможеш купити нового!
+
+
+# Shay
+### Then it's a deal?
+PC08B_SHAY_INV_HOOVER1-23=Тоді домовилися?
+
+
+#----------------------------------------------------
+# Brok
+### Knowing you, I'm pretty sure it's worth ten times more but... Okay.
+PC08B_SHAY_INV_HOOVER1_YES-1=Знаючи тебе, я майже впевнений, що він коштує вдесятеро більше, але... Гаразд.
+
+
+# Brok
+### Take it.
+PC08B_SHAY_INV_HOOVER1_YES-2=Забирай.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Good! I've credited your 200 Unis.
+PC08B_SHAY_INV_HOOVER1_YES-3=Чудово! Я зарахувала тобі 200 Юні.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (I just wonder what I'll say to Graff... He liked it.)
+PC08B_SHAY_INV_HOOVER1_YES-4=(Цікаво, що я скажу Граффові... Цей бот йому подобався.)
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. I've grown fond of it.
+PC08B_SHAY_INV_HOOVER1_NO-1=Вибач. Я вже прив'язався до нього.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### It's one of the first things I got when I moved into my apartment with Graff...
+PC08B_SHAY_INV_HOOVER1_NO-2=Це одна з перших речей, які я купив, коли переїхав у квартиру з Граффом...
+
+
+# Shay
+### OK. I get it. But you shouldn't get too nostalgic.
+PC08B_SHAY_INV_HOOVER1_NO-3=Гаразд. Я розумію. Але тобі не слід надто піддаватися ностальгії.
+
+
+# Shay
+### The past is the past. Look towards the future!
+PC08B_SHAY_INV_HOOVER1_NO-4=Минуле - це минуле. Дивися в майбутнє!
+
+
+# Shay
+### Although... Sometimes the future is in the past.
+PC08B_SHAY_INV_HOOVER1_NO-5=Хоча... Іноді майбутнє криється в минулому.
+
+
+# Brok
+### ...?
+PC08B_SHAY_INV_HOOVER1_NO-6=...?
+
+
+#----------------------------------------------------
+# Brok
+### About the cleaning bot...
+PC08B_SHAY_INV_HOOVER2-1=Щодо бота-прибиральника...
+
+
+#----------------------------------------------------
+# Shay
+### What?
+PC08B_SHAY_INV_APARTMENTKEY-1=Що?
+
+
+# Brok
+### Thanks again for the convenient screwdriver-key!
+PC08B_SHAY_INV_APARTMENTKEY-2=Ще раз дякую за цей зручний ключ-викрутку!
+
+
+# Shay
+### Oh! I thought...
+PC08B_SHAY_INV_APARTMENTKEY-3=О! Я думала...
+
+
+# Shay
+### Nothing.
+PC08B_SHAY_INV_APARTMENTKEY-4=Неважливо.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC08B_SHAY_INV_PENDANT-1=...
+
+
+# Shay
+### ...
+PC08B_SHAY_INV_PENDANT-2=...
+
+
+# Shay
+### You haven't forgotten...
+PC08B_SHAY_INV_PENDANT-3=Ти не забув...
+
+
+# Brok
+### I never will.
+PC08B_SHAY_INV_PENDANT-4=Ніколи не забуду.
+
+
+#----------------------------------------------------
+# Shay
+### Oh, you got yourself a new toy.
+PC08B_SHAY_INV_GUN-1=О, ти здобув собі нову іграшку.
+
+
+# Brok
+### That's not mine!
+PC08B_SHAY_INV_GUN-2=Це не моє!
+
+
+# Shay
+### It's okay. Everyone has their secrets.
+PC08B_SHAY_INV_GUN-3=Усе гаразд. У кожного свої таємниці.
+
+
+# Brok
+### Pfft...
+PC08B_SHAY_INV_GUN-4=Пхе...
+
+
+#----------------------------------------------------
+# Brok
+### Erm... I...
+PC08B_SHAY_INV_LEVER_AFTER-1=Е-е... Я...
+
+
+# Shay
+### Oh! My rubber cutter!
+PC08B_SHAY_INV_LEVER_AFTER-2=О! Мій різак для гуми!
+
+
+# Shay
+### I figured you might have taken it!
+PC08B_SHAY_INV_LEVER_AFTER-3=Я так і думала, що це ти його взяв!
+
+
+# Brok
+### Rubber... cutter...?
+PC08B_SHAY_INV_LEVER_AFTER-4=Різак... для гуми...?
+
+
+# Shay
+### Well, yeah. What else could it be?
+PC08B_SHAY_INV_LEVER_AFTER-5=Ну, так. А що ж іще це могло бути?
+
+
+# Brok
+### So... not a lever? It was inside that slot on the wall...
+PC08B_SHAY_INV_LEVER_AFTER-6=Тож... це не важіль? Він був у тому отворі на стіні...
+
+
+# Shay
+### Of course! I always put it there so I don't lose it.
+PC08B_SHAY_INV_LEVER_AFTER-7=Звісно! Я завжди кладу його туди, щоб не загубити.
+
+
+# Brok
+### Oh...
+PC08B_SHAY_INV_LEVER_AFTER-8=О...
+
+
+# Shay
+### It cuts only through rubber! No risk to damage other materials.
+PC08B_SHAY_INV_LEVER_AFTER-9=Він ріже лише гуму! Жодного ризику пошкодити інші матеріали.
+
+
+# Shay
+### So... give it back!
+PC08B_SHAY_INV_LEVER_AFTER-10=Тож... поверни його!
+
+
+# Brok
+### Wait! I might have a use for it!
+PC08B_SHAY_INV_LEVER_AFTER-11=Чекай! Він може мені знадобитися!
+
+
+# Shay
+### What? But you didn't even know what this was!
+PC08B_SHAY_INV_LEVER_AFTER-12=Що? Але ти навіть не знав, що це таке!
+
+
+# Brok
+### Now I do!
+PC08B_SHAY_INV_LEVER_AFTER-13=Тепер знаю!
+
+
+# Brok
+### Please! Pretty please!
+PC08B_SHAY_INV_LEVER_AFTER-14=Будь ласка! Дуже прошу!
+
+
+# Shay
+### Argh...
+PC08B_SHAY_INV_LEVER_AFTER-15=Ар-р...
+
+
+# Shay
+### Okay, okay! I'll manage. Keep it for now...
+PC08B_SHAY_INV_LEVER_AFTER-16=Гаразд, гаразд! Я щось вигадаю. Можеш поки лишити собі...
+
+
+# Brok
+### Awesome!
+PC08B_SHAY_INV_LEVER_AFTER-17=Круто!
+
+
+# Unknown
+### (Kisses cheek)
+PC08B_SHAY_INV_LEVER_AFTER-18=(Цілує в щоку)
+
+
+# Shay
+### Erm...
+PC08B_SHAY_INV_LEVER_AFTER-19=Е-е...
+
+
+# Brok
+### You're the best!
+PC08B_SHAY_INV_LEVER_AFTER-20=Ти найкраща!
+
+
+# Shay
+### D-Don't mention it...
+PC08B_SHAY_INV_LEVER_AFTER-21=Н-нема за що...
+
+
+#----------------------------------------------------
+# Brok
+### (This might come in handy when fighting rubber bots!)
+PC08B_SHAY_INV_LEVER_AFTER2-1=(Може знадобитися під час бою з гумовими ботами!)
+
+
+#----------------------------------------------------
+# Brok
+### Do you need this?
+PC08B_SHAY_INV_DEFAULT1-1=Тобі це потрібно?
+
+
+# Shay
+### Hmm... Nope.
+PC08B_SHAY_INV_DEFAULT1-2=Гмм... Ні.
+
+
+#----------------------------------------------------
+# Brok
+### How about this?
+PC08B_SHAY_INV_DEFAULT2-1=А як щодо цього?
+
+
+# Shay
+### I know I ask you to gather a lot of junk, but I didn't ask for that!
+PC08B_SHAY_INV_DEFAULT2-2=Я знаю, що прошу тебе збирати купу мотлоху, але цю річ я не просила!
+
+
+#----------------------------------------------------
+# Shay - Talking to Shay
+### Are you up for a little training before tonight?
+PC08B_SHAY_ARENABEFORE-1=Хочеш трохи потренуватися перед сьогоднішнім боєм?
+
+
+#----------------------------------------------------
+# Brok - Talking to Bolt, which we saved from the Border Post - For now he's disabled
+### Heya!
+PC08B_BOLT1-1=Гей!
+
+
+# Brok
+### Glad to see you found your way to this dump!
+PC08B_BOLT1-2=Радий бачити, що ти знайшов дорогу до цього звалища!
+
+
+# Bolt
+### ...
+PC08B_BOLT1-3=...
+
+
+# Brok
+### You okay?
+PC08B_BOLT1-4=У тебе все гаразд?
+
+
+# Shay
+### Don't bother. I've disabled it to perform a cold backup.
+PC08B_BOLT1-5=Не зважай. Я його вимкнула для проведення холодного резервного копіювання.
+
+
+# Brok
+### What? But...
+PC08B_BOLT1-6=Що? Але...
+
+
+# Shay
+### It should take about a day.
+PC08B_BOLT1-7=Це триватиме десь добу.
+
+
+# Brok
+### Poor guy...
+PC08B_BOLT1-8=Бідолага...
+
+
+# Shay
+### You're so sentimental! Now I know why you love smashing robots into pieces every night!
+PC08B_BOLT1-9=Який ти сентиментальний! Тепер я знаю, чому ти так любиш трощити роботів щоночі!
+
+
+# Brok
+### Hardy har har.
+PC08B_BOLT1-10=Дуже смішно.
+
+
+#----------------------------------------------------
+# Brok - If your language does not distinguish it and him, just say it was deactivated
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### No use, Shay disabled it... him... Oh, I don't know anymore.
+PC08B_BOLT2-1=Марно. Шей деактивувала його... Ох...
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok!
+PC08B_BOLTON1-1=Господарю Броку!
+
+
+# Bolt
+### You've - saved me! You're - my hero!
+PC08B_BOLTON1-2=Ви - врятували мене! Ви - мій герой!
+
+
+# Brok
+### Aww, shucks! That was nothin'!
+PC08B_BOLTON1-3=Ой, та годі! Це ж дрібниця!
+
+
+# Shay
+### You don't say. I'm the one who agreed to give him a new job. I'm the one to thank!
+PC08B_BOLTON1-4=І не кажи. Взагалі-то це я погодилася дати йому нову роботу. Це мені треба дякувати!
+
+
+# Brok
+### Don't listen to her. She just loves being prickly.
+PC08B_BOLTON1-5=Не слухай її. Вона просто любить до всіх бути колючою.
+
+
+# Shay
+### Urgh...
+PC08B_BOLTON1-6=Пхе...
+
+
+# Bolt
+### I love - you both!
+PC08B_BOLTON1-7=Я люблю - вас обох!
+
+
+# Bolt
+### I love - everyone! The world - is beautiful!
+PC08B_BOLTON1-8=Я люблю - усіх! Світ - чудовий!
+
+
+# Brok
+### Wow... What a change of personality...
+PC08B_BOLTON1-9=Ого... Оце так зміна особистості...
+
+
+# Bolt
+### I'm just - super-duper-crazy happy - to have - a new job!
+PC08B_BOLTON1-10=Я просто - супер-пупер божевільно щасливий - що маю - нову роботу!
+
+
+# Bolt
+### Right now - my mission - is to help you!
+PC08B_BOLTON1-11=Просто зараз - моя місія - це допомагати вам!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Collecting ads?
+PC08B_BOLTON1-12=Збирати реклами?
+
+
+# Bolt
+### Yes!
+PC08B_BOLTON1-13=Так!
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It will only - cost you - 20 Unis - per request!
+PC08B_BOLTON1-14=Це коштуватиме - вам лише - 20 Юні - за запит!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...!
+PC08B_BOLTON1-15=Шей...!
+
+
+# Shay
+### Hey! Gotta justify the expenses to keep it running!
+PC08B_BOLTON1-16=Гей! Треба ж покривати витрати на його утримання!
+
+
+# Bolt
+### I will stay - in the garage - but I've got - powerful sensors.
+PC08B_BOLTON1-17=Я залишатимуся - у гаражі - але у мене - потужні датчики.
+
+
+# Bolt - His boss is Shay.
+### According - to my boss - your memory - is limited so - I'll give you - info on - one ad - at a time!
+PC08B_BOLTON1-18=Згідно з даними - моєї шефині - ваша пам'ять - обмежена, тому - я даватиму інформацію - лише про одну рекламу - за раз!
+
+
+# Brok
+### Erm... Thanks, I guess...
+PC08B_BOLTON1-19=Е-е... Дякую, мабуть...
+
+
+#----------------------------------------------------
+# Bolt
+### Which ad - do you need - help to locate?
+PC08B_BOLTON2-1=Яку саме рекламу - вам допомогти - знайти?
+
+
+#----------------------------------------------------
+# Shay - Hitting Bolt
+### Stop that! You might interrupt the backup process.
+PC08B_BOLT_HIT1-1=Припини! Ти можеш перервати процес резервного копіювання.
+
+
+#----------------------------------------------------
+# Shay
+### Are you listening...?
+PC08B_BOLT_HIT2-1=Ти мене слухаєш...?
+
+
+#----------------------------------------------------
+# Shay - After taking a bath in the lake
+### Ugh...
+PC08B_SHAY_STINK1-1=Фу...
+
+
+# Shay
+### Don't tell me. You took a swim in the swamp?
+PC08B_SHAY_STINK1-2=Тільки не кажи... Ти поплавав у болоті?
+
+
+# Brok
+### Okay then. I won't tell ya.
+PC08B_SHAY_STINK1-3=Ну гаразд. Не казатиму.
+
+
+# Shay
+### Gross...
+PC08B_SHAY_STINK1-4=Огидно...
+
+
+# Shay
+### Here!
+PC08B_SHAY_STINK1-5=Ось!
+
+
+# Brok
+### Argh! What was that?
+PC08B_SHAY_STINK1-6=А-аа! Що це було?
+
+
+# Shay
+### A stench canceller.
+PC08B_SHAY_STINK1-7=Нейтралізатор запаху.
+
+
+# Brok
+### Nice!
+PC08B_SHAY_STINK1-8=Чудово!
+
+
+#----------------------------------------------------
+# Brok - Leaving
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Can't leave yet... Gotta ask Shay for more info about the Border Post!
+PC08B_LEAVING1-1=Я ще не можу піти... Мені треба розпитати Шей про прикордонний пост!
+
+
+#----------------------------------------------------
+# Brok - Leaving
+### Can't leave yet...
+PC08B_LEAVING2-1=Я ще не можу піти...
+
+
+#----------------------------------------------------
+# Brok - End of day 1, before the night fight
+### I... (pant, pant...)
+PC08B_STORY120_1-1=Я... (Важко дихає)
+
+
+# Brok
+### I'm here...(pant)
+PC08B_STORY120_1-2=Тут...
+
+
+# Brok
+### Ready...
+PC08B_STORY120_1-3=Готовий...
+
+
+# Shay
+### Chill, Bro'!
+PC08B_STORY120_1-4=Заспокойся, брате!
+
+
+# Shay
+### The fight starts in ten minutes.
+PC08B_STORY120_1-5=Бій розпочнеться через десять хвилин.
+
+
+# Brok
+### Huh? But you said...
+PC08B_STORY120_1-6=Га? Але ж ти казала...
+
+
+# Shay
+### I used my bending time capacity!
+PC08B_STORY120_1-7=Я використала свою здатність викривляти час!
+
+
+# Brok
+### Bending... time...?
+PC08B_STORY120_1-8=Викривляти... час...?
+
+
+# Shay
+### You were late so I jumped back an hour to get you earlier.
+PC08B_STORY120_1-9=Ти запізнювався, тож я стрибнула на годину назад, щоб покликати тебе раніше.
+
+
+# Brok
+### But... that's impossible!
+PC08B_STORY120_1-10=Але... це неможливо!
+
+
+# Shay
+### Is it?
+PC08B_STORY120_1-11=Справді?
+
+
+# Shay
+### We can imagine it, right? Doesn't that simple fact make it possible?
+PC08B_STORY120_1-12=Ми ж можемо собі це уявити, правда? Хіба сам цей простий факт не робить це можливим?
+
+
+# Brok
+### Now you're confusing me...
+PC08B_STORY120_1-13=Тепер ти мене заплутала...
+
+
+# Shay
+### Okay, okay!
+PC08B_STORY120_1-14=Гаразд, гаразд!
+
+
+# Shay
+### You're right. I didn't.
+PC08B_STORY120_1-15=Ти маєш рацію. Я цього не робила.
+
+
+# Shay
+### After all this time, don't you think I've learned a thing or two about you?
+PC08B_STORY120_1-16=Невже ти думаєш, що за весь цей час я так нічого про тебе й не дізналася?
+
+
+# Shay
+### The only way to get you here on time is to never give you the right timing.
+PC08B_STORY120_1-17=Єдиний спосіб змусити тебе прийти вчасно - це ніколи не називати тобі правильний час.
+
+
+# Brok
+### Argh... I fell for it again!
+PC08B_STORY120_1-18=Ар-р... Я знову на це попався!
+
+
+# Shay
+### Good thing you always seem to forget!
+PC08B_STORY120_1-19=Добре, що ти завжди про це забуваєш!
+
+
+# Shay
+### Still...bending time. Wouldn't it be convenient?
+PC08B_STORY120_1-20=І все ж... викривлення часу. Хіба це не було б зручно?
+
+
+# Shay
+### There are many interesting theories...
+PC08B_STORY120_1-21=Є багато цікавих теорій...
+
+
+# Brok
+### Uh-oh... Here comes Miss Science again.
+PC08B_STORY120_1-22=Ой-ой... Знову прокинулась пані Наука.
+
+
+# Shay
+### Well, you've got ten minutes to kill now, don't you?
+PC08B_STORY120_1-23=Що ж, у тебе є десять хвилин, аби згаяти час, чи не так?
+
+
+# Brok
+### Been a long day...I could really use a rest.
+PC08B_STORY120_1-24=Важкий був день... Мені б не завадило відпочити.
+
+
+# Shay
+### Oh. Very well.
+PC08B_STORY120_1-25=Ох. Ну гаразд.
+
+
+# Shay
+### If you prefer spending this time doing nothing over enlightening your spirit, that's your choice.
+PC08B_STORY120_1-26=Якщо ти хочеш ледарювати замість того, щоб збагачувати свій дух - твоє право.
+
+
+#----------------------------------------------------
+# Brok
+### Yeah... I'll get some shut-eye.
+PC08B_STORY120_REST-1=Так... Піду посплю трохи.
+
+
+# Brok
+### You want me in good shape to kick ass, don't you?
+PC08B_STORY120_REST-2=Ти ж хочеш, щоб я був у хорошій формі і надавав усім чортів, чи не так?
+
+
+# Shay
+### True.
+PC08B_STORY120_REST-3=Так.
+
+
+# Shay
+### And you better deliver, buster! We both got some debts to pay!
+PC08B_STORY120_REST-4=Краще викладися на повну, здорованю! Нам обом треба віддавати борги!
+
+
+#----------------------------------------------------
+# Brok
+### (...)
+PC08B_STORY120_DOREST1-1=(...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (I couldn't stop thinking about what happened with Graff.)
+PC08B_STORY120_DOREST1-2=(Я не міг перестати думати про те, що сталося з Граффом.)
+
+
+# Brok
+### (Am I doing the right thing...?)
+PC08B_STORY120_DOREST1-3=(Чи правильно я роблю...?)
+
+
+# Brok
+### (Is everything my fault...?)
+PC08B_STORY120_DOREST1-4=(Чи все це моя вина...?)
+
+
+# Brok
+### (Sometimes... I feel like...)
+PC08B_STORY120_DOREST1-5=(Іноді... мені здається...)
+
+
+# Brok
+### (I shouldn't be the one responsible for him.)
+PC08B_STORY120_DOREST1-6=(Що я не заслуговую бути його опікуном.)
+
+
+# Brok
+### (She shouldn't have trusted me.)
+PC08B_STORY120_DOREST1-7=(Вона не повинна була мені довіряти.)
+
+
+# Brok
+### (I can barely take care of myself.)
+PC08B_STORY120_DOREST1-8=(Я ледве можу подбати про самого себе.)
+
+
+# Brok
+### (I'm just a poor imbecile with nothing to give but trouble.)
+PC08B_STORY120_DOREST1-9=(Я просто бідолашний бовдур, від якого одні тільки клопоти.)
+
+
+# Brok
+### (Just... No one...)
+PC08B_STORY120_DOREST1-10=(Просто... Ніхто...)
+
+
+# Brok
+### (...zzz...)
+PC08B_STORY120_DOREST1-11=(...хр-р-р...)
+
+
+#----------------------------------------------------
+# Brok
+### Actually... You made me curious. Enlighten me!
+PC08B_STORY120_THEORY-1=Власне... Ти мене зацікавила. Просвіти мене!
+
+
+# Shay
+### Good!
+PC08B_STORY120_THEORY-2=Чудово!
+
+
+# Shay
+### First of all, let me ask you this simple question.
+PC08B_STORY120_THEORY-3=Перш за все, дозволь поставити тобі просте запитання.
+
+
+# Shay
+### What is time?
+PC08B_STORY120_THEORY-4=Що таке час?
+
+
+# Brok
+### Well...
+PC08B_STORY120_THEORY-5=Ну...
+
+
+# Brok
+### It's...
+PC08B_STORY120_THEORY-6=Це...
+
+
+# Brok
+### Some kind of measurement?
+PC08B_STORY120_THEORY-7=Якесь вимірювання?
+
+
+# Brok
+### Like, I weigh 220 lbs and you weigh... Erm...
+PC08B_STORY120_THEORY-8=Ну, скажімо, я важу 100 кг, а ти важиш... Е-е...
+
+
+# Brok
+### How much do you weigh?
+PC08B_STORY120_THEORY-9=А скільки ти важиш?
+
+
+# Shay
+### Bro'! You're as clueless about women as you are science, aren't you?
+PC08B_STORY120_THEORY-10=Брате! Ти так само геть нічого не тямиш у жінках, як і в науці, чи не так?
+
+
+# Shay
+### Anyway! I see what you mean. Time is a constant, right?
+PC08B_STORY120_THEORY-11=Менше з тим! Я розумію, про що ти. Час - це константа, так?
+
+
+# Shay
+### For instance, fixing this tablet takes me one minute.
+PC08B_STORY120_THEORY-12=Наприклад, лагодження цього планшета займає в мене одну хвилину.
+
+
+# Shay
+### Meanwhile, you're up on the trash mountain, looking down at my garage.
+PC08B_STORY120_THEORY-13=Тим часом ти стоїш на горі сміття і дивишся вниз на мій гараж.
+
+
+# Shay
+### When I'm done fixing it, how much time has passed for you?
+PC08B_STORY120_THEORY-14=Коли я закінчу ремонт, скільки часу мине для тебе?
+
+
+# Brok
+### Well... One minute?
+PC08B_STORY120_THEORY-15=Ну... Одна хвилина?
+
+
+# Shay
+### Wrong!
+PC08B_STORY120_THEORY-16=Неправильно!
+
+
+# Brok
+### What?
+PC08B_STORY120_THEORY-17=Що?
+
+
+# Shay
+### Time is relative. It can vary for different observers.
+PC08B_STORY120_THEORY-18=Час відносний. Він може відрізнятися для різних спостерігачів.
+
+
+# Shay
+### In my example, it will almost be one minute spent for you.
+PC08B_STORY120_THEORY-19=У моєму прикладі для тебе мине майже хвилина.
+
+
+# Shay
+### Almost, but not exactly.
+PC08B_STORY120_THEORY-20=Майже, але не зовсім.
+
+
+# Shay
+### There will be a very slight difference. Maybe just less than a nanosecond.
+PC08B_STORY120_THEORY-21=Буде крихітна різниця. Можливо, менше наносекунди.
+
+
+# Shay
+### It's especially true when you're higher, thus not subject to the same gravity - like you on the mountain.
+PC08B_STORY120_THEORY-22=Це особливо відчутно, коли ти перебуваєш вище і на тебе діє інша гравітація - як-от коли ти на горі.
+
+
+# Shay
+### Think about satellites.
+PC08B_STORY120_THEORY-23=Подумай про супутники.
+
+
+# Shay
+### The effects of gravity, as well as the satellites' increased speed above the Earth relative to observers on the ground, make their clock gain about 50 microseconds a day.
+PC08B_STORY120_THEORY-24=Вплив гравітації, а також більша швидкість супутників над Землею відносно спостерігачів на землі змушують їхній годинник поспішати приблизно на 50 мікросекунд за день.
+
+
+# Brok
+### So basically, you're saying that I could get older faster than you?
+PC08B_STORY120_THEORY-25=Тож, іншими словами, я можу старіти швидше за тебе?
+
+
+# Shay
+### Exactly!
+PC08B_STORY120_THEORY-26=Саме так!
+
+
+# Shay
+### Maybe less than a second faster in an entire lifespan but the difference exists.
+PC08B_STORY120_THEORY-27=Можливо, менше ніж на секунду протягом усього життя, але різниця існує.
+
+
+# Shay
+### It's called time dilation.
+PC08B_STORY120_THEORY-28=Це називається уповільненням часу.
+
+
+# Brok
+### Does it matter?
+PC08B_STORY120_THEORY-29=І це має значення?
+
+
+# Shay
+### Yes. Because it means one important thing...
+PC08B_STORY120_THEORY-30=Так. Бо це означає одну важливу річ...
+
+
+# Shay
+### Time cannot be dissociated from space.
+PC08B_STORY120_THEORY-31=Час неможливо відокремити від простору.
+
+
+# Shay
+### You know how every object has three coordinates - height, width and depth. These are dimensions.
+PC08B_STORY120_THEORY-32=Ти ж знаєш, що кожен об'єкт має три координати - висоту, ширину і глибину. Це виміри.
+
+
+# Shay
+### Well, time is the same. It's called the fourth dimension.
+PC08B_STORY120_THEORY-33=Так от, час - це те саме. Його називають четвертим виміром.
+
+
+# Shay
+### It's hard for us to imagine. Time is an illusion of our mind.
+PC08B_STORY120_THEORY-34=Нам важко це уявити. Час - це ілюзія нашого розуму.
+
+
+# Shay
+### If we can move an object into space... Why couldn't we move it into time as well?
+PC08B_STORY120_THEORY-35=Якщо ми можемо переміщати об'єкт у просторі... Чому ми не можемо перемістити його і в часі?
+
+
+# Shay
+### But how would we do that?
+PC08B_STORY120_THEORY-36=Але як це зробити?
+
+
+# Brok
+### Not the slightest idea.
+PC08B_STORY120_THEORY-37=Гадки не маю.
+
+
+# Shay
+### By moving into space, close to the speed of light.
+PC08B_STORY120_THEORY-38=Рухаючись у просторі зі швидкістю, близькою до швидкості світла.
+
+
+# Brok
+### The speed of light?
+PC08B_STORY120_THEORY-39=Швидкості світла?
+
+
+# Shay
+### Hey, have you been to school? Everyone knows that!
+PC08B_STORY120_THEORY-40=Гей, ти взагалі ходив до школи? Це ж усі знають!
+
+
+# Brok
+### Now that you mention it...
+PC08B_STORY120_THEORY-41=Якщо ти вже про це згадала...
+
+
+# Brok
+### Grandpa and I... We often watched the stars at night.
+PC08B_STORY120_THEORY-42=Ми з дідусем... часто спостерігали за зорями вночі.
+
+
+# Brok
+### He told me that we observe them as they were millions of years ago.
+PC08B_STORY120_THEORY-43=Він казав мені, що ми бачимо їх такими, якими вони були мільйони років тому.
+
+
+# Shay
+### Yes. That's because light isn't instant. A star's light takes a lot of time to reach us.
+PC08B_STORY120_THEORY-44=Так. Це тому, що світло не поширюється миттєво. Світлу зорі потрібен час, щоб дістатися до нас.
+
+
+# Shay
+### Right now, how you're seeing me is only the reflection from my older self.
+PC08B_STORY120_THEORY-45=Просто зараз те, як ти мене бачиш - лише відображення мого старшого "я".
+
+
+# Brok
+### Oh? So you're actually younger?
+PC08B_STORY120_THEORY-46=О? То ти насправді молодша?
+
+
+# Shay
+### That varies according to your perspective!
+PC08B_STORY120_THEORY-47=Все залежить від точки зору!
+
+
+# Shay
+### There's a delay. It's so tiny our brains can't notice.
+PC08B_STORY120_THEORY-48=Існує затримка. Вона настільки крихітна, що наш мозок її не помічає.
+
+
+# Brok
+### But that doesn't make anyone travel in time. It's just... looking.
+PC08B_STORY120_THEORY-49=Але це не подорож у часі. Це просто... спостереження.
+
+
+# Shay
+### Right. We're standing still.
+PC08B_STORY120_THEORY-50=Правильно. Ми стоїмо на місці.
+
+
+# Shay
+### What happens if we move?
+PC08B_STORY120_THEORY-51=А що станеться, якщо ми почнемо рухатися?
+
+
+# Shay
+### Say, you have a twin.
+PC08B_STORY120_THEORY-52=Скажімо, у тебе є близнюк.
+
+
+# Brok
+### I do?
+PC08B_STORY120_THEORY-53=Справді?
+
+
+# Shay
+### Of course not, silly! One Bro' is already too much for this world!
+PC08B_STORY120_THEORY-54=Звісно ні, дурнику! Одного Брока вже й так забагато для цього світу!
+
+
+# Brok
+### Hey!
+PC08B_STORY120_THEORY-55=Гей!
+
+
+# Shay
+### But let's assume you've got one.
+PC08B_STORY120_THEORY-56=Але припустимо, що він у тебе є.
+
+
+# Shay
+### While you're staying on Earth, your twin is traveling inside a spaceship at a very high speed.
+PC08B_STORY120_THEORY-57=Поки ти залишаєшся на Землі, твій близнюк подорожує в космічному кораблі на дуже високій швидкості.
+
+
+# Shay
+### Years pass...
+PC08B_STORY120_THEORY-58=Минають роки...
+
+
+# Shay
+### One day, he comes back!
+PC08B_STORY120_THEORY-59=Одного дня він повертається!
+
+
+# Shay
+### And to your surprise... He's much younger than you!
+PC08B_STORY120_THEORY-60=І на твоє здивування... Він набагато молодший за тебе!
+
+
+# Brok
+### Hey! That's not fair!
+PC08B_STORY120_THEORY-61=Гей! Це нечесно!
+
+
+# Shay
+### But true. The twin has aged much slower than you.
+PC08B_STORY120_THEORY-62=Але це правда. Близнюк постарів набагато повільніше, ніж ти.
+
+
+# Shay
+### Time slows down or speeds up depending on how fast you move relative to another reference.
+PC08B_STORY120_THEORY-63=Час сповільнюється або прискорюється залежно від того, як швидко ти рухаєшся відносно іншої системи відліку.
+
+
+# Shay
+### So, in a way... We can say that the twin travelled to the future.
+PC08B_STORY120_THEORY-64=Тож, певною мірою... Можна сказати, що близнюк вирушив у майбутнє.
+
+
+# Brok
+### That's fine but... I wouldn't want to go forward in time. It'd be awful.
+PC08B_STORY120_THEORY-65=Добре, але... я не хотів би перенестися вперед у часі. Це було б жахливо.
+
+
+# Brok
+### All the people I know would be old or dead...
+PC08B_STORY120_THEORY-66=Усі, кого я знаю, були б старими або мертвими...
+
+
+# Brok
+### Can't we go back instead? Is that possible?
+PC08B_STORY120_THEORY-67=А перенестися назад у часі? Це можливо?
+
+
+# Shay
+### Notice what I said. To go into the future, we'd need to reach a speed close to the speed of light.
+PC08B_STORY120_THEORY-68=Зверни увагу на те, що я казала. Щоб вирушити в майбутнє, нам потрібно досягти швидкості, близької до швидкості світла.
+
+
+# Shay
+### Now, what would happen if we could exactly reach the speed of light?
+PC08B_STORY120_THEORY-69=А що сталося б, якби ми змогли досягти швидкості, яка дорівнює швидкості світла?
+
+
+# Brok
+### Well...
+PC08B_STORY120_THEORY-70=Ну...
+
+
+# Brok
+### I guess we would disintegrate. Our body couldn't take it.
+PC08B_STORY120_THEORY-71=Думаю, нас би знищило. Тіло не змогло б витримати.
+
+
+# Brok
+### Neither would our mind. We'd go crazy.
+PC08B_STORY120_THEORY-72=Як і розум. Ми б збожеволіли.
+
+
+# Shay
+### Possibly. But you're making a common thinking mistake.
+PC08B_STORY120_THEORY-73=Можливо. Але ти робиш поширену помилку в міркуваннях.
+
+
+# Shay
+### You wouldn't need to move straight forward to gain speed!
+PC08B_STORY120_THEORY-74=Не обов'язково рухатися прямо вперед, щоб набрати швидкість!
+
+
+# Shay
+### A vessel could be moving back and forth, increasing progressively and ever so slightly that the movement itself wouldn't be perceived by the mind and body.
+PC08B_STORY120_THEORY-75=Корабель міг би рухатися туди й сюди, прискорюючись поступово і настільки непомітно, що сам рух не сприймався б ні розумом, ні тілом.
+
+
+# Brok
+### You mean...like our reflection previously?
+PC08B_STORY120_THEORY-76=Ти маєш на увазі... як твоє відображення, про яке ми говорили раніше?
+
+
+# Shay
+### Yup!
+PC08B_STORY120_THEORY-77=Угу!
+
+
+# Shay
+### Space in the vessel would shrink, including all objects inside.
+PC08B_STORY120_THEORY-78=Простір у кораблі стиснувся б, охоплюючи всі предмети всередині.
+
+
+# Shay
+### And suddenly...
+PC08B_STORY120_THEORY-79=І раптом...
+
+
+# Shay
+### BAM!
+PC08B_STORY120_THEORY-80=БАМ!
+
+
+# Shay
+### You reach the speed of light...and enter a wormhole.
+PC08B_STORY120_THEORY-81=Ти досягаєш швидкості світла... і входиш у кротовину.
+
+
+# Shay
+### From there, you get access to the whole world history.
+PC08B_STORY120_THEORY-82=Звідти ти отримуєш доступ до всієї історії світу.
+
+
+# Shay
+### You can land anywhere you want. Or should I say, any time!
+PC08B_STORY120_THEORY-83=Ти можеш приземлитися де завгодно. Або краще сказати, коли завгодно!
+
+
+# Shay
+### Exciting, huh?
+PC08B_STORY120_THEORY-84=Захоплює, чи не так?
+
+
+# Shay
+### Can you just picture it?
+PC08B_STORY120_THEORY-85=Ти можеш це уявити?
+
+
+# Brok
+### Right now...the only thing in my mind is a headache.
+PC08B_STORY120_THEORY-86=Зараз... у мене в голові тільки біль.
+
+
+# Shay
+### ...
+PC08B_STORY120_THEORY-87=...
+
+
+# Shay
+### Uh oh...
+PC08B_STORY120_THEORY-88=Ой-ой...
+
+
+# Shay
+### We may need to go back in time, all right...
+PC08B_STORY120_THEORY-89=Схоже, нам справді треба буде повернутися в часі...
+
+
+# Brok
+### Why are you saying that?
+PC08B_STORY120_THEORY-90=Чому ти це кажеш?
+
+
+# Shay
+### Because it's time!
+PC08B_STORY120_THEORY-91=Бо вже час!
+
+
+# Shay
+### Quick! In the cabin!
+PC08B_STORY120_THEORY-92=Швидко! У кабіну!
+
+
+#----------------------------------------------------
+# Shay - Alternatives outcomes of the fight
+### Well, bye!
+PC08B_WIN1-1=Що ж, бувай!
+
+
+# Brok
+### Hey...
+PC08B_WIN1-2=Гей...
+
+
+# Brok
+### You're making it sound like it's an everyday job.
+PC08B_WIN1-3=Ти кажеш так, ніби це якась буденна робота.
+
+
+# Shay
+### Isn't it?
+PC08B_WIN1-4=А хіба ні?
+
+
+# Brok
+### I'm risking my life for some credits!
+PC08B_WIN1-5=Я ризикую життям заради цих коштів!
+
+
+# Shay
+### Nah. You can't die!
+PC08B_WIN1-6=Та ні. Ти не можеш померти!
+
+
+# Brok
+### What?
+PC08B_WIN1-7=Що?
+
+
+# Brok
+### Why are you always so confident I'll never get killed... or worse...?
+PC08B_WIN1-8=Чому ти завжди так упевнена, що мене ніколи не вб'ють... або ще гірше...?
+
+
+# Brok
+### Like this morning, when you sent me to hack a border post full of deadly bots and lasers?
+PC08B_WIN1-9=Як-от сьогодні вранці, коли ти відправила мене зламувати прикордонний пост, повний смертоносних ботів та лазерів?
+
+
+# Brok
+### Or when you set up that giant saw that I barely escaped from?
+PC08B_WIN1-10=Або коли ти встановила ту гігантську пилу, від якої я ледве ухилився?
+
+
+# Brok
+### I was lucky to make it out alive!
+PC08B_WIN1-11=Мені пощастило вийти з цього живим!
+
+
+# Shay - She's about to say "I know the future"
+### What a silly question! That's because I know the...
+PC08B_WIN1-12=Що за дурне запитання! Це тому, що я знаю ма...
+
+
+# Shay
+### ...
+PC08B_WIN1-13=...
+
+
+# Shay
+### I mean... I know you.
+PC08B_WIN1-14=У сенсі... Я тебе знаю.
+
+
+# Shay
+### I believe in you.
+PC08B_WIN1-15=І я в тебе вірю.
+
+
+# Brok
+### Hmm...
+PC08B_WIN1-16=Гмм...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Okay... Thanks Shay.
+PC08B_WIN1-17=Гаразд... Дякую, Шей.
+
+
+# Brok
+### You're a great friend.
+PC08B_WIN1-18=Ти чудова подруга.
+
+
+# Shay
+### No problem, Bro'!
+PC08B_WIN1-19=Без проблем, брате!
+
+
+#----------------------------------------------------
+# Shay
+### ...
+PC08B_AFTERLEAVING-1=...
+
+
+#----------------------------------------------------
+# Shay - Gave up
+### I'll never forgive you for this.
+PC08B_GAVEUP1-1=Я ніколи не пробачу тобі цього.
+
+
+# Brok
+### I'm sure you will. Ya need the money I can get from the next fights, yeah...?
+PC08B_GAVEUP1-2=Впевнений, що пробачиш. Тобі ж потрібні гроші з наступних боїв, чи не так...?
+
+
+# Shay
+### Yes... One more.
+PC08B_GAVEUP1-3=Так... Ще один.
+
+
+# Brok
+### Huh? Just one...?
+PC08B_GAVEUP1-4=Га? Лише один...?
+
+
+# Shay
+### Who knows.
+PC08B_GAVEUP1-5=Хтозна.
+
+
+#----------------------------------------------------
+# Shay - Lost fight
+### I really needed this money. Too bad...
+PC08B_LOST1-1=Мені справді потрібні були ці гроші. Дуже шкода...
+
+
+#----------------------------------------------------
+# Shay - Day 2 start
+### Hey, Bro'! What's up?
+PC08B_DAY2_BEGIN1-1=Гей, брате! Як справи?
+
+
+# Brok
+### Well...
+PC08B_DAY2_BEGIN1-2=Ну...
+
+
+# Shay
+### Sorry, I'm super busy here.
+PC08B_DAY2_BEGIN1-3=Вибач, я страшенно зайнята.
+
+
+# Shay
+### Can you come back later?
+PC08B_DAY2_BEGIN1-4=Можеш зайти пізніше?
+
+
+# Brok
+### What? But...
+PC08B_DAY2_BEGIN1-5=Що? Але...
+
+
+# Shay
+### Oh! But maybe you can help!
+PC08B_DAY2_BEGIN1-6=О! Але ти міг би мені допомогти!
+
+
+# Shay
+### You see, I'm looking for some materials.
+PC08B_DAY2_BEGIN1-7=Річ у тім, що я шукаю деякі матеріали.
+
+
+# Shay
+### But my usual provider is on vacation, so...
+PC08B_DAY2_BEGIN1-8=Але мій звичний постачальник у відпустці, тож...
+
+
+# Shay
+### What an idiot. At a time like this...
+PC08B_DAY2_BEGIN1-9=От же ідіот. У такий-то час...
+
+
+# Brok
+### Well, I...
+PC08B_DAY2_BEGIN1-10=Ну, я...
+
+
+# Shay
+### Anyway. You should find everything around here. I could do it myself but...
+PC08B_DAY2_BEGIN1-11=Менше з тим. Думаю, ти зможеш знайти все це десь неподалік. Я б і сама могла, але...
+
+
+# Shay
+### You know, I'm working on a project of utmost importance.
+PC08B_DAY2_BEGIN1-12=Знаєш, я працюю над надзвичайно важливим проєктом.
+
+
+# Shay
+### Well, you know, you know... That's an expression.
+PC08B_DAY2_BEGIN1-13=Ну, знаєш, "знаєш"... Це такий вислів.
+
+
+# Shay
+### Of course you don't know. At least, not yet...
+PC08B_DAY2_BEGIN1-14=Звісно, ти не знаєш. Принаймні поки що...
+
+
+# Brok
+### Stop!!!
+PC08B_DAY2_BEGIN1-15=Зупинися!!!
+
+
+# Shay
+### ...!
+PC08B_DAY2_BEGIN1-16=...!
+
+
+# Brok
+### ...
+PC08B_DAY2_BEGIN1-17=...
+
+
+# Brok
+### Can I just get a word in?
+PC08B_DAY2_BEGIN1-18=Можу я бодай слово сказати?
+
+
+# Shay
+### Oh...
+PC08B_DAY2_BEGIN1-19=Ох...
+
+
+# Shay
+### Erm, sure.
+PC08B_DAY2_BEGIN1-20=Е-е, звісно.
+
+
+#----------------------------------------------------
+# Brok
+### Did you forget? You're the one who asked me to come!
+PC08B_DAY2_ALTERNATE-1=Ти забула? Сама ж попросила мене прийти!
+
+
+# Shay
+### Ah yes! I expected you to come earlier.
+PC08B_DAY2_ALTERNATE-2=Ах, так! Я очікувала, що ти прийдеш раніше.
+
+
+# Shay
+### So! When will you ask?
+PC08B_DAY2_ALTERNATE-3=Отже! Коли ти запитаєш?
+
+
+# Brok
+### Ask what?
+PC08B_DAY2_ALTERNATE-4=Запитаю про що?
+
+
+# Shay
+### The chip.
+PC08B_DAY2_ALTERNATE-5=Про чип.
+
+
+# Brok
+### What chip?
+PC08B_DAY2_ALTERNATE-6=Який чип?
+
+
+# Shay
+### ...!
+PC08B_DAY2_ALTERNATE-7=...!
+
+
+# Shay
+### Oh no.
+PC08B_DAY2_ALTERNATE-8=О ні.
+
+
+# Shay
+### I get it now. Events got altered.
+PC08B_DAY2_ALTERNATE-9=Тепер я зрозуміла. Перебіг подій змінився.
+
+
+# Brok
+### Huh?!
+PC08B_DAY2_ALTERNATE-10=Що?!
+
+
+# Shay
+### Listen!
+PC08B_DAY2_ALTERNATE-11=Слухай!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### I need you to go see this hacker named "The Gloom".
+PC08B_DAY2_ALTERNATE-12=Мені потрібно, щоб ти сходив до того гакера на прізвисько "Похмурий".
+
+
+#----------------------------------------------------
+# Shay
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### I... owe him 100 Unis and he only accepts close range payments.
+PC08B_DAY2_ALTERNATE2-1=Я... винна йому 100 Юні, а він приймає оплату лише особисто.
+
+
+# Shay
+### I've transferred you the money. Can you do this for me?
+PC08B_DAY2_ALTERNATE2-2=Я переказала тобі гроші. Зробиш це для мене?
+
+
+# Brok
+### Erm... Okay?
+PC08B_DAY2_ALTERNATE2-3=Е-е... Добре?
+
+
+# Shay
+### Thanks!
+PC08B_DAY2_ALTERNATE2-4=Дякую!
+
+
+# Brok
+### Talking to you always feels like I missed an episode.
+PC08B_DAY2_ALTERNATE2-5=Коли розмовляю з тобою, завжди таке відчуття, ніби я пропустив якусь серію.
+
+
+# Shay
+### No worries! You'll catch up!
+PC08B_DAY2_ALTERNATE2-6=Не переймайся! Ти все зрозумієш!
+
+
+#----------------------------------------------------
+# Brok
+### I need a self-modifier chip. Any dice?
+PC08B_SHAY_SELFMODIFIER1-1=Мені потрібен чип самомодифікації. Знаєш, як його дістати?
+
+
+# Shay
+### ...?
+PC08B_SHAY_SELFMODIFIER1-2=...?
+
+
+# Shay
+### No way! You...
+PC08B_SHAY_SELFMODIFIER1-3=Не може бути! Ти...
+
+
+# Shay
+### I could never tell!
+PC08B_SHAY_SELFMODIFIER1-4=Ніколи б не подумала!
+
+
+# Brok
+### Huh?
+PC08B_SHAY_SELFMODIFIER1-5=Га?
+
+
+# Shay
+### What's your secret?
+PC08B_SHAY_SELFMODIFIER1-6=У чому твій секрет?
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Oh, I know! You've been made up of data gathered from the Triweb, huh?
+PC08B_SHAY_SELFMODIFIER1-7=О, я знаю! Тебе зібрали з даних, отриманих з Тривебу, так?
+
+
+# Shay
+### You don't look so good, though. Here, have this charging cable.
+PC08B_SHAY_SELFMODIFIER1-8=Але виглядаєш ти не дуже. На, візьми оцей кабель для зарядки.
+
+
+# Brok
+### Hey! I'm no machine!
+PC08B_SHAY_SELFMODIFIER1-9=Гей! Я не машина!
+
+
+# Shay
+### You're sure? You're the real deal...?
+PC08B_SHAY_SELFMODIFIER1-10=Впевнений? Ти справжній...?
+
+
+# Shay
+### Awww... What a disappointment.
+PC08B_SHAY_SELFMODIFIER1-11=О-ох... Яке розчарування.
+
+
+# Shay
+### I could have you at my disposal, at all times.
+PC08B_SHAY_SELFMODIFIER1-12=Я могла б завжди мати тебе у своєму розпорядженні.
+
+
+# Brok
+### ...
+PC08B_SHAY_SELFMODIFIER1-13=...
+
+
+# Brok
+### So?
+PC08B_SHAY_SELFMODIFIER1-14=То як?
+
+
+# Shay
+### So... what?
+PC08B_SHAY_SELFMODIFIER1-15=Як... що?
+
+
+# Brok
+### My self-modifier chip!
+PC08B_SHAY_SELFMODIFIER1-16=Мій чип самомодифікації!
+
+
+# Shay
+### Oh, that.
+PC08B_SHAY_SELFMODIFIER1-17=А, це.
+
+
+# Shay
+### It's a very specific kind of device. I couldn't make one but...
+PC08B_SHAY_SELFMODIFIER1-18=Це дуже специфічний пристрій. Я не змогла б створити такий, але...
+
+
+# Shay
+### I know a guy.
+PC08B_SHAY_SELFMODIFIER1-19=Я знаю одного хлопця.
+
+
+# Shay
+### "The Gloom." He might help.
+PC08B_SHAY_SELFMODIFIER1-20="Похмурий". Він міг би допомогти.
+
+
+# Brok
+### Gloom?
+PC08B_SHAY_SELFMODIFIER1-21=Похмурий?
+
+
+#----------------------------------------------------
+# Brok
+### So... Can you make me that chip?
+PC08B_SHAY_SELFMODIFIER2-1=То... Ти можеш зробити мені цей чип?
+
+
+# Shay
+### Have you been listening?
+PC08B_SHAY_SELFMODIFIER2-2=Ти мене взагалі слухав?
+
+
+# Shay
+### I can't but I know someone. Go see him.
+PC08B_SHAY_SELFMODIFIER2-3=Я не можу, але знаю того, хто зможе. Сходи до нього.
+
+
+#----------------------------------------------------
+# Brok
+### Need help with somethin'?
+PC08B_SHAY_HELP1-1=Потрібна допомога з чимось?
+
+
+# Shay
+### Actually, yes! Gotta finish this super important project for tomorrow.
+PC08B_SHAY_HELP1-2=Взагалі-то так! Потрібно закінчити цей суперважливий проєкт до завтра.
+
+
+# Shay
+### And it's nowhere near complete. Time flew by waaay too fast.
+PC08B_SHAY_HELP1-3=І він ще геть не готовий. Час пролетів на-а-абагато швидше, ніж треба.
+
+
+# Brok
+### Relax.
+PC08B_SHAY_HELP1-4=Заспокойся.
+
+
+# Brok
+### It's not as if your life depends on it.
+PC08B_SHAY_HELP1-5=Ти так хвилюєшся, ніби від цього залежить твоє життя.
+
+
+# Shay
+### Not just mine. Yours too...and maybe even the whole universe.
+PC08B_SHAY_HELP1-6=Не лише моє. Твоє теж... і, можливо, навіть усього всесвіту.
+
+
+# Brok
+### Huh?
+PC08B_SHAY_HELP1-7=Га?
+
+
+# Shay
+### ...just joking! Anyway...
+PC08B_SHAY_HELP1-8=...та я жартую! Менше з тим...
+
+
+# Shay
+### I'm lacking some pieces and materials. Some of them are crucial.
+PC08B_SHAY_HELP1-9=Мені бракує деяких деталей і матеріалів. Деякі з них надважливі.
+
+
+# Shay
+### I could order them new through the Express Delivery Tube but...
+PC08B_SHAY_HELP1-10=Я могла б замовити нові через Трубу Експрес-Доставки, але...
+
+
+# Brok
+### But you're as broke as me.
+PC08B_SHAY_HELP1-11=У тебе так само немає грошей, як і в мене.
+
+
+# Shay
+### Almost.
+PC08B_SHAY_HELP1-12=Ну, майже.
+
+
+# Shay
+### Besides, we're surrounded by junkyards full of hidden treasures!
+PC08B_SHAY_HELP1-13=До того ж ми оточені звалищами, повними прихованих скарбів!
+
+
+# Brok
+### So, what do you need?
+PC08B_SHAY_HELP1-14=То що тобі потрібно?
+
+
+# Shay
+### Here.
+PC08B_SHAY_HELP1-15=Ось.
+
+
+# Shay
+### I've transferred the list to... that antique device of yours you call a mobile.
+PC08B_SHAY_HELP1-16=Я завантажила список на... цей твій старий пристрій, який ти називаєш мобільником.
+
+
+# Brok
+### Okay.
+PC08B_SHAY_HELP1-17=Добре.
+
+
+# Brok
+### Can't promise to look into this right now but who knows.
+PC08B_SHAY_HELP1-18=Не можу обіцяти, що займусь цим просто зараз, але хтозна.
+
+
+# Brok
+### Might stumble upon some of these along the way.
+PC08B_SHAY_HELP1-19=Можливо, щось із цього потрапить мені на очі по дорозі.
+
+
+# Brok
+### Hope you pay good money!
+PC08B_SHAY_HELP1-20=Сподіваюся, ти добре заплатиш!
+
+
+# Shay
+### What? You wanna get paid?!
+PC08B_SHAY_HELP1-21=Що? Ти хочеш, щоб тобі заплатили?!
+
+
+# Brok
+### Of course I do!
+PC08B_SHAY_HELP1-22=Звісно, хочу!
+
+
+# Shay
+### I'm doing this all for you, buster! You oughta be more grateful!
+PC08B_SHAY_HELP1-23=Я роблю це все заради тебе, здорованю! Ти мав би бути вдячним!
+
+
+# Brok
+### ...?
+PC08B_SHAY_HELP1-24=...?
+
+
+# Shay
+### Oh... Erm...
+PC08B_SHAY_HELP1-25=О... Е-е...
+
+
+# Shay
+### Okay. I'll pay you on a case-by-case basis.
+PC08B_SHAY_HELP1-26=Гаразд. Я платитиму тобі за кожну знайдену річ окремо.
+
+
+# Shay
+### By the way... Take this!
+PC08B_SHAY_HELP1-27=До речі... Візьми це!
+
+
+#----------------------------------------------------
+# Brok
+### Is that a... super-duper high-tech remote controller?
+PC08B_SHAY_HELP1B-1=Це що... супер-пупер передовий пульт керування?
+
+
+# Shay
+### Nope. Just a high-tech radar!
+PC08B_SHAY_HELP1B-2=Ні. Лише високотехнологічний радар!
+
+
+# Shay
+### I've programmed it to locate the pieces I need. Just hold it and open your ears.
+PC08B_SHAY_HELP1B-3=Я запрограмувала його на пошук потрібних деталей. Просто тримай його і слухай уважно.
+
+
+# Shay
+### The noisier it gets, the closer you are!
+PC08B_SHAY_HELP1B-4=Що гучніше він пищить, то ти ближче!
+
+
+# Brok
+### Awesome!
+PC08B_SHAY_HELP1B-5=Круто!
+
+
+# Shay
+### Keep in mind - I need the pieces before this evening.
+PC08B_SHAY_HELP1B-6=Май на увазі: деталі потрібні мені до сьогоднішнього вечора.
+
+
+# Shay
+### Now, scoot! My time is precious!
+PC08B_SHAY_HELP1B-7=А тепер біжи! Мій час дорогоцінний!
+
+
+# Brok
+### Hey...!
+PC08B_SHAY_HELP1B-8=Гей...!
+
+
+#----------------------------------------------------
+# Brok
+### (She's right, though. Busy day ahead...)
+PC08B_SHAY_HELP1C-1=(Хоча вона має рацію. День буде насичений...)
+
+
+#----------------------------------------------------
+# Shay
+### Oh, wait! Before I forget...
+PC08B_SHAY_HELP1D-1=О, зачекай! Поки я не забула...
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Let me reset Bolt.
+PC08B_SHAY_HELP1D-2=Дай-но я перезавантажу Болта.
+
+
+# Shay
+### Just a sec...
+PC08B_SHAY_HELP1D-3=Секундочку...
+
+
+# Brok
+### Is he okay?
+PC08B_SHAY_HELP1D-4=Із ним усе гаразд?
+
+
+# Bolt
+### Positively!
+PC08B_SHAY_HELP1D-5=Цілком!
+
+
+# Brok
+### Whoa!
+PC08B_SHAY_HELP1D-6=Ого!
+
+
+# Bolt
+### I'd be - delighted to - help you, Master!
+PC08B_SHAY_HELP1D-7=Я буду - радий - допомогти вам, господарю!
+
+
+# Brok
+### Nice to see you doing well!
+PC08B_SHAY_HELP1D-8=Приємно бачити, що у тебе все добре!
+
+
+# Brok
+### So, will you help me collect those materials?
+PC08B_SHAY_HELP1D-9=То ти допоможеш мені зібрати ці матеріали?
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### No. I'll help - collect ads!
+PC08B_SHAY_HELP1D-10=Ні. Я допоможу - збирати реклами!
+
+
+# Brok
+### Huh?!
+PC08B_SHAY_HELP1D-11=Га?!
+
+
+# Bolt
+### Just - ask me!
+PC08B_SHAY_HELP1D-12=Просто - запитай мене!
+
+
+#----------------------------------------------------
+# Shay
+### Bring me the pieces as soon as you can! I'll pay immediately.
+PC08B_SHAY_HELP2-1=Принеси мені деталі якнайшвидше! Я одразу ж заплачу.
+
+
+# Shay
+### Damaged or not, doesn't matter. I'll manage.
+PC08B_SHAY_HELP2-2=Пошкоджені чи ні - не має значення. Я розберуся.
+
+
+# Brok
+### Do you absolutely need all of them?
+PC08B_SHAY_HELP2-3=Тобі обов'язково потрібні геть усі?
+
+
+# Shay
+### Well... If one or two are missing, I'll order them new.
+PC08B_SHAY_HELP2-4=Ну... Якщо однієї чи двох бракуватиме, я замовлю нові.
+
+
+# Shay
+### Still. The more you find, the better!
+PC08B_SHAY_HELP2-5=Усе ж. Що більше знайдеш, то краще!
+
+
+#----------------------------------------------------
+# Brok
+### So who's this guy who can help with the chip?
+PC08B_SHAY_HACKER1-1=То хто цей хлопець, який може допомогти з чипом?
+
+
+# Shay
+### "The Gloom"?
+PC08B_SHAY_HACKER1-2="Похмурий"?
+
+
+# Shay
+### He's into many illegal activities.
+PC08B_SHAY_HACKER1-3=Він займається багатьма незаконними справами.
+
+
+# Shay
+### Hacking and unauthorized electronics are his domain.
+PC08B_SHAY_HACKER1-4=Злам і несанкціонована електроніка - це його стихія.
+
+
+# Shay
+### I...had to resort to using him a few times.
+PC08B_SHAY_HACKER1-5=Мені... довелося користуватися його послугами кілька разів.
+
+
+# Brok
+### And here I thought you were irreproachable!
+PC08B_SHAY_HACKER1-6=А я думав, що ти бездоганна!
+
+
+# Shay
+### I am! Most of the time.
+PC08B_SHAY_HACKER1-7=Так і є! Здебільшого.
+
+
+# Brok
+### Yeah... Ha ha.
+PC08B_SHAY_HACKER1-8=Ага... Ха-ха.
+
+
+# Brok
+### Not blaming you. Sometimes you gotta do what you gotta do.
+PC08B_SHAY_HACKER1-9=Я не звинувачую тебе. Іноді доводиться робити те, що мусиш.
+
+
+# Brok
+### How can I locate him?
+PC08B_SHAY_HACKER1-10=Як мені його знайти?
+
+
+# Shay
+### No idea.
+PC08B_SHAY_HACKER1-11=Гадки не маю.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hackers don't particularly want to be found.
+PC08B_SHAY_HACKER1-12=Гакери не особливо хочуть, щоб їх знайшли.
+
+
+# Shay
+### Not by the authorities, anyway.
+PC08B_SHAY_HACKER1-13=Принаймні, щоб це зробила влада.
+
+
+# Brok
+### Aww...
+PC08B_SHAY_HACKER1-14=Ох...
+
+
+# Shay
+### ...
+PC08B_SHAY_HACKER1-15=...
+
+
+# Brok
+### ...
+PC08B_SHAY_HACKER1-16=...
+
+
+# Shay
+### Oh, gosh.
+PC08B_SHAY_HACKER1-17=Йой.
+
+
+# Shay
+### I told you I didn't have the time...
+PC08B_SHAY_HACKER1-18=Я ж казала тобі, що не маю часу...
+
+
+# Brok
+### ...
+PC08B_SHAY_HACKER1-19=...
+
+
+# Shay
+### ...but I just can't refuse you when you make that face.
+PC08B_SHAY_HACKER1-20=...але я не можу відмовити тобі, коли ти робиш таке обличчя.
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I'll locate him for you. Through my previous contacts, I can trace his signature on the Triweb.
+PC08B_SHAY_HACKER1-21=Я знайду його для тебе. Через свої попередні контакти я можу відстежити його підпис у Тривебі.
+
+
+# Brok
+### Awesome! You're a life saver!
+PC08B_SHAY_HACKER1-22=Круто! Ти мене рятуєш!
+
+
+# Shay
+### Ain't that the truth!
+PC08B_SHAY_HACKER1-23=Чиста правда!
+
+
+# Shay
+### When it comes to life saving... Pretty sure you'll return the favor soon.
+PC08B_SHAY_HACKER1-24=А що стосується порятунку життя... Упевнена, ти незабаром повернеш мені цей борг.
+
+
+# Brok
+### Hope not! That means you'd be in danger!
+PC08B_SHAY_HACKER1-25=Сподіваюся, ні! Це означало б, що ти в небезпеці!
+
+
+# Shay
+### Hmm...
+PC08B_SHAY_HACKER1-26=Гмм...
+
+
+# Shay
+### ...
+PC08B_SHAY_HACKER1-27=...
+
+
+# Shay
+### Actually...
+PC08B_SHAY_HACKER1-28=Власне...
+
+
+# Shay
+### It was easier than I thought.
+PC08B_SHAY_HACKER1-29=Це виявилося простіше, ніж я думала.
+
+
+# Shay
+### Here's his current location.
+PC08B_SHAY_HACKER1-30=Ось його поточне місцезнаходження.
+
+
+#----------------------------------------------------
+# Brok
+### Thanks! You're the best!
+PC08B_SHAY_HACKER1B-1=Дякую! Ти найкраща!
+
+
+# Shay
+### Somehow I doubt this statement is true, but I'll take it anyway!
+PC08B_SHAY_HACKER1B-2=Я чомусь сумніваюся в цьому твердженні, але все одно прийму похвалу!
+
+
+# Shay
+### Just... be careful, okay? He's always hiding in the worst possible places.
+PC08B_SHAY_HACKER1B-3=Просто... будь обережним, добре? Він завжди ховається в найжахливіших місцях.
+
+
+# Brok
+### Did you forget who you're talking to?
+PC08B_SHAY_HACKER1B-4=Ти забула, з ким розмовляєш?
+
+
+# Shay
+### That's what I'm afraid of...
+PC08B_SHAY_HACKER1B-5=Цього я якраз і боюся...
+
+
+# Shay
+### Believe me. This is a bad idea.
+PC08B_SHAY_HACKER1B-6=Повір мені. Це погана ідея.
+
+
+# Brok
+### I've been through a lot of situations. I'll be fine.
+PC08B_SHAY_HACKER1B-7=Я пережив чимало випробувань. Зі мною все буде гаразд.
+
+
+# Shay
+### Maybe not this time...
+PC08B_SHAY_HACKER1B-8=Можливо, не цього разу...
+
+
+# Brok
+### Ah, come on!
+PC08B_SHAY_HACKER1B-9=Ну ж бо!
+
+
+# Shay
+### I'm serious. I still need you alive in the immediate future and in the...
+PC08B_SHAY_HACKER1B-10=Я серйозно. Ти мені потрібен живим у найближчому майбутньому і в...
+
+
+# Shay
+### The present.
+PC08B_SHAY_HACKER1B-11=Теперішньому.
+
+
+# Brok
+### ...
+PC08B_SHAY_HACKER1B-12=...
+
+
+# Brok
+### Are you okay?
+PC08B_SHAY_HACKER1B-13=Все гаразд?
+
+
+# Brok
+### You're saying a lot of weird things. Even more than usual.
+PC08B_SHAY_HACKER1B-14=Ти кажеш багато дивних речей. Навіть більше, ніж зазвичай.
+
+
+# Shay
+### Must be tired. Still got a lot to finish up.
+PC08B_SHAY_HACKER1B-15=Мабуть, втомилася. Треба ще стільки всього закінчити.
+
+
+# Brok
+### If there's anything... You know you can tell...
+PC08B_SHAY_HACKER1B-16=Якщо щось трапилось... Ти ж знаєш, що можеш мені сказати...
+
+
+# Shay
+### Please don't insist. I gave you the info you needed, didn't I?
+PC08B_SHAY_HACKER1B-17=Будь ласка, не наполягай. Я дала тобі потрібну інформацію, чи ні?
+
+
+# Brok
+### Fine...
+PC08B_SHAY_HACKER1B-18=Добре...
+
+
+#----------------------------------------------------
+# Brok
+### "The Gloom"... Okay.
+PC08B_SHAY_HACKER2-1="Похмурий"... Гаразд.
+
+
+# Shay
+### Be careful.
+PC08B_SHAY_HACKER2-2=Будь обережним.
+
+
+#----------------------------------------------------
+# Shay - Day 2 end
+### Hey, Bro'!
+PC08B_DAY2_END1-1=Гей, брате!
+
+
+# Shay
+### Rough day, huh?
+PC08B_DAY2_END1-2=Важкий день, га?
+
+
+# Brok
+### You don't say...
+PC08B_DAY2_END1-3=І не кажи...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff almost died because of me.
+PC08B_DAY2_END1-4=Графф ледь не помер через мене.
+
+
+# Shay
+### Say what?!
+PC08B_DAY2_END1-5=Що-що?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### There's a Toxout pill shortage going on.
+PC08B_DAY2_END1-6=Зараз дефіцит смогових пігулок.
+
+
+# Brok
+### He passed out when I came home.
+PC08B_DAY2_END1-7=Він був непритомний, коли я прийшов додому.
+
+
+# Brok
+### That was close but... He's fine now.
+PC08B_DAY2_END1-8=Майже сталося лихо, але... Зараз із ним усе добре.
+
+
+# Shay
+### Stupid! You never told me about that!
+PC08B_DAY2_END1-9=Дурню! Ти мені про це не сказав!
+
+
+# Shay
+### Why didn't you?!
+PC08B_DAY2_END1-10=Чому ти не розповів?!
+
+
+# Brok
+### I didn't have time!
+PC08B_DAY2_END1-11=Я не мав часу!
+
+
+# Shay
+### Not talking about now! If you had told me in the past, I could have helped!
+PC08B_DAY2_END1-12=Я не про зараз! Якби ти сказав мені раніше, я могла б допомогти!
+
+
+# Shay
+### Good thing you told me about this morning though. If I hadn't...
+PC08B_DAY2_END1-13=Добре хоч, що ти розповів мені зранку. Якби я не...
+
+
+# Brok
+### Wait... I'm totally not following you...
+PC08B_DAY2_END1-14=Почекай... Я взагалі тебе не розумію...
+
+
+# Brok
+### What did you do, exactly?
+PC08B_DAY2_END1-15=Що саме ти зробила?
+
+
+# Shay
+### Take this!
+PC08B_DAY2_END1-16=Візьми!
+
+
+# Brok
+### ...
+PC08B_DAY2_END1-17=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### A Toxout pill?
+PC08B_DAY2_END1-18=Смогова пігулка?
+
+
+# Shay
+### Give it to him. For tomorrow.
+PC08B_DAY2_END1-19=Віддай йому. На завтра.
+
+
+#----------------------------------------------------
+# Brok
+### Won't you need it?
+PC08B_DAY2_END1B-1=А тобі вона не знадобиться?
+
+
+# Shay
+### I saved up some. I'm used to skipping one from time to time!
+PC08B_DAY2_END1B-2=Я дещо відклала. Мені не звикати час від часу пропускати прийом!
+
+
+# Brok
+### Thanks...
+PC08B_DAY2_END1B-3=Дякую...
+
+
+# Shay
+### Life is all about anticipating the unknown!
+PC08B_DAY2_END1B-4=У житті треба бути до всього готовим!
+
+
+# Brok
+### (Now she's making me feel bad for not saving any all these years...)
+PC08B_DAY2_END1B-5=(Тепер вона змушує мене почуватися кепсько, бо я не заощаджував їх усі ці роки...)
+
+
+# Shay
+### Talking about that... You better prepare yourself.
+PC08B_DAY2_END1B-6=До речі... Тобі краще підготуватися.
+
+
+# Shay
+### Tomorrow will be even more eventful.
+PC08B_DAY2_END1B-7=Завтра буде ще більше подій.
+
+
+# Brok
+### How could you possibly know that?
+PC08B_DAY2_END1B-8=Звідки ти можеш це знати?
+
+
+# Shay
+### I know you. That's all!
+PC08B_DAY2_END1B-9=Я знаю тебе. От і все!
+
+
+#----------------------------------------------------
+# Shay
+### So! Looks like you didn't bring me all the materials I need yet.
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-1=Отож! Схоже, ти ще не приніс мені всі потрібні матеріали.
+
+
+# Shay
+### If you intend to scout the city, this is your last chance.
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-2=Якщо ти хочеш пошукати в місті, це твій останній шанс.
+
+
+# Brok
+### But... Ain't I supposed to be fighting...?
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-3=Але... Хіба я не повинен битися...?
+
+
+# Shay
+### It's been postponed. A new challenger coming at the last minute...
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-4=Бій відклали. Новий претендент з'явився в останню мить...
+
+
+# Shay
+### Anyway...
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-5=Менше з тим...
+
+
+# Shay
+### I need those materials before the fight, final deadline!
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-6=Мені потрібні ці матеріали до початку бою, це остаточний термін!
+
+
+# Brok
+### What happens if I don't?
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-7=А що буде, якщо я їх не знайду?
+
+
+# Shay
+### I'll order mint ones with fast delivery but those are super expensive.
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-8=Я замовлю нові зі швидкою доставкою, але вони супердорогі.
+
+
+# Shay
+### If I can't afford them...
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-9=Якщо я не зможу їх собі дозволити...
+
+
+# Shay
+### I'll have to make do but...
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-10=Мені доведеться обійтися тим, що є, але...
+
+
+# Brok
+### You look oddly nervous. You okay?
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-11=Ти виглядаєш на диво знервованою. Все гаразд?
+
+
+# Shay
+### Just... get those materials! If you can.
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-12=Просто... дістань ці матеріали! Якщо зможеш.
+
+
+# Shay
+### If not, that's fine.
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-13=Якщо ні, то нічого страшного.
+
+
+# Shay
+### After all, it's not like the whole universe and space-time are relying on it!
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-14=Зрештою, від цього ж не залежить увесь всесвіт і простір-час!
+
+
+# Brok
+### Ooookay...
+PC08B_DAY2_MATERIALS_NOTEVERYTHING-15=Доообре...
+
+
+#----------------------------------------------------
+# Brok
+### Hey, I got some of the thingies you requested!
+PC08B_MATERIALSTOGIVE1-1=Гей, я дістав деякі штукенції, які ти просила!
+
+
+# Shay
+### What do you mean, "some"?
+PC08B_MATERIALSTOGIVE1-2=Що значить "деякі"?
+
+
+# Shay
+### I need all of them!
+PC08B_MATERIALSTOGIVE1-3=Мені потрібні всі!
+
+
+# Brok
+### I'm doing the best I can!
+PC08B_MATERIALSTOGIVE1-4=Я роблю все, що можу!
+
+
+# Brok
+### It's been a crazy day!
+PC08B_MATERIALSTOGIVE1-5=У мене був божевільний день!
+
+
+# Shay
+### Whatever. Let me see.
+PC08B_MATERIALSTOGIVE1-6=Проїхали. Дай подивлюся.
+
+
+# Shay
+### ...
+PC08B_MATERIALSTOGIVE1-7=...
+
+
+# Shay
+### Yeah... I can work with these.
+PC08B_MATERIALSTOGIVE1-8=Так... Для роботи згодяться.
+
+
+#----------------------------------------------------
+# Brok
+### Here's some more.
+PC08B_MATERIALSTOGIVE2-1=Ось ще дещо.
+
+
+# Shay
+### Erm... What's this?
+PC08B_MATERIALSTOGIVE2-2=Е-е... Що це?
+
+
+# Brok
+### Something you asked for?
+PC08B_MATERIALSTOGIVE2-3=Те, що ти просила?
+
+
+# Shay
+### I did?
+PC08B_MATERIALSTOGIVE2-4=Хіба?
+
+
+# Shay
+### Oh well. I'll eat it later.
+PC08B_MATERIALSTOGIVE2-5=Ну що ж. З'їм пізніше.
+
+
+# Brok
+### Uh...
+PC08B_MATERIALSTOGIVE2-6=Е-е...
+
+
+#----------------------------------------------------
+# Brok
+### Here.
+PC08B_MATERIALSTOGIVE3-1=Тримай.
+
+
+#----------------------------------------------------
+# Brok
+### There ya go! Take this!
+PC08B_MATERIALSTOGIVEALL-1=Ось! Тримай!
+
+
+# Shay
+### You found all the materials?
+PC08B_MATERIALSTOGIVEALL-2=Ти знайшов усі матеріали?
+
+
+# Shay
+### Good.
+PC08B_MATERIALSTOGIVEALL-3=Добре.
+
+
+# Brok
+### That's all? "Good?"
+PC08B_MATERIALSTOGIVEALL-4=І це все? "Добре?"
+
+
+# Shay
+### Amazing job!
+PC08B_MATERIALSTOGIVEALL-5=Чудова робота!
+
+
+# Shay
+### You just literally saved the world! No, the universe!
+PC08B_MATERIALSTOGIVEALL-6=Ти буквально врятував світ! Ні, цілий всесвіт!
+
+
+# Brok
+### Don't overdo it.
+PC08B_MATERIALSTOGIVEALL-7=Не перебільшуй.
+
+
+# Shay
+### Oh but I'm not. Who knows what would have happened if you hadn't found them.
+PC08B_MATERIALSTOGIVEALL-8=О, я зовсім не перебільшую. Хтозна, що було б, якби ти їх не знайшов.
+
+
+# Brok
+### ...
+PC08B_MATERIALSTOGIVEALL-9=...
+
+
+#----------------------------------------------------
+# Shay
+### Here's your remuneration.
+PC08B_MATERIALS_GIVENMONEY-1=Ось твоя винагорода.
+
+
+#----------------------------------------------------
+# Brok
+### Not bad!
+PC08B_MATERIALS_GIVENMONEY1-1=Непогано!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### That oughta buy an Antburger or two...
+PC08B_MATERIALS_GIVENMONEY2-1=На це можна купити мурахобургер або два...
+
+
+#----------------------------------------------------
+# Brok
+### Thanks...
+PC08B_MATERIALS_GIVENMONEY3-1=Дякую...
+
+
+#----------------------------------------------------
+# Shay
+### So! Ready for the fight?
+PC08B_MATERIALS_AFTERFIGHT-1=Отже! Готовий до бою?
+
+
+#----------------------------------------------------
+# Shay
+### Found anything?
+PC08B_DAY2_END_WELCOME1-1=Знайшов що-небудь?
+
+
+# Brok
+### Afraid not. Can we start the fight?
+PC08B_DAY2_END_WELCOME1-2=Боюся, що ні. Ми можемо почати бій?
+
+
+# Shay
+### I should have guessed you'd enjoy brawling more than a treasure hunt.
+PC08B_DAY2_END_WELCOME1-3=Я мала б здогадатися, що бійки подобаються тобі більше за пошуки скарбів.
+
+
+# Shay
+### Your decision.
+PC08B_DAY2_END_WELCOME1-4=Твій вибір.
+
+
+#----------------------------------------------------
+# Brok
+### I'll continue searching.
+PC08B_DAY2_END_STAY-1=Я продовжу пошуки.
+
+
+# Shay
+### Be fast!
+PC08B_DAY2_END_STAY-2=Поспішай!
+
+
+#----------------------------------------------------
+# Brok
+### Will you be okay without those materials?
+PC08B_DAY2_END_STARTFIGHTWITHOUT-1=Чи все буде гаразд без цих матеріалів?
+
+
+# Shay
+### I hope so. But you made your decision.
+PC08B_DAY2_END_STARTFIGHTWITHOUT-2=Сподіваюся. Але ти зробив свій вибір.
+
+
+# Brok
+### Okay...
+PC08B_DAY2_END_STARTFIGHTWITHOUT-3=Добре...
+
+
+#----------------------------------------------------
+# Brok
+### Alright. Time to fight!
+PC08B_DAY2_END_STARTFIGHT-1=Гаразд. Час битися!
+
+
+# Shay
+### I love your enthusiasm!
+PC08B_DAY2_END_STARTFIGHT-2=Мені подобається твій ентузіазм!
+
+
+# Shay
+### Be careful, though! That new challenger comes from nowhere and looks very strong.
+PC08B_DAY2_END_STARTFIGHT-3=Але будь обережним! Той новий претендент з'явився нізвідки і виглядає дуже сильним.
+
+
+# Brok
+### No worries! I don't intend to die today.
+PC08B_DAY2_END_STARTFIGHT-4=Не переймайся! Я не збираюся вмирати сьогодні.
+
+
+# Shay
+### Well, I'll remind you to quit if things go wrong!
+PC08B_DAY2_END_STARTFIGHT-5=Якщо щось піде не так, я нагадаю тобі, що ти можеш здатися!
+
+
+# Brok
+### Me? Quitting?
+PC08B_DAY2_END_STARTFIGHT-6=Я? Здатися?
+
+
+# Brok
+### Never!
+PC08B_DAY2_END_STARTFIGHT-7=Ніколи!
+
+
+# Shay
+### Silly you! If only you had good life insurance.
+PC08B_DAY2_END_STARTFIGHT-8=Дурнику! Якби ж тільки в тебе було страхування життя.
+
+
+# Shay
+### Give it your best!
+PC08B_DAY2_END_STARTFIGHT-9=Покажи все, на що ти здатен!
+
+
+#----------------------------------------------------
+# Shay - Day 2 after the fight
+### So! As I said...
+PC08B_DAY2_AFTERFIGHT1-1=Отже! Як я й казала...
+
+
+# Shay
+### I won't be available tomorrow.
+PC08B_DAY2_AFTERFIGHT1-2=Завтра я буду недоступна.
+
+
+# Brok
+### Are you leaving?
+PC08B_DAY2_AFTERFIGHT1-3=Ти кудись ідеш?
+
+
+# Shay
+### I just... need time for myself.
+PC08B_DAY2_AFTERFIGHT1-4=Мені просто... потрібен час для себе.
+
+
+# Brok
+### Focusing on your new invention?
+PC08B_DAY2_AFTERFIGHT1-5=Зосередишся на своєму новому винаході?
+
+
+# Shay
+### Yeah...
+PC08B_DAY2_AFTERFIGHT1-6=Так...
+
+
+# Shay
+### Oh! Before I forget!
+PC08B_DAY2_AFTERFIGHT1-7=О! Поки я не забула!
+
+
+# Shay
+### Here.
+PC08B_DAY2_AFTERFIGHT1-8=Тримай.
+
+
+# Brok
+### An envelope...?
+PC08B_DAY2_AFTERFIGHT1-9=Конверт...?
+
+
+# Brok
+### ...
+PC08B_DAY2_AFTERFIGHT1-10=...
+
+
+# Brok
+### "Open me when desperate"?!
+PC08B_DAY2_AFTERFIGHT1-11="Відкрити лише у безвихідній ситуації"?!
+
+
+# Brok
+### There's something you're not telling me...
+PC08B_DAY2_AFTERFIGHT1-12=Ти щось мені недоговорюєш...
+
+
+# Shay
+### Don't worry! It's...
+PC08B_DAY2_AFTERFIGHT1-13=Не переймайся! Це...
+
+
+# Shay
+### Just in case.
+PC08B_DAY2_AFTERFIGHT1-14=Про всяк випадок.
+
+
+# Brok
+### Huh?
+PC08B_DAY2_AFTERFIGHT1-15=Га?
+
+
+# Shay
+### I'll be saving your bacon once again... or is it the other way around?
+PC08B_DAY2_AFTERFIGHT1-16=Я знову рятуватиму твою шкуру... чи це ти мою?
+
+
+# Shay
+### Oh... I don't know anymore!
+PC08B_DAY2_AFTERFIGHT1-17=Ох... Я вже й сама не знаю!
+
+
+# Brok
+### Could you BE more cryptic?
+PC08B_DAY2_AFTERFIGHT1-18=А ти можеш говорити ЩЕ загадковіше?
+
+
+# Shay
+### You'll figure it out.
+PC08B_DAY2_AFTERFIGHT1-19=Ти сам усе зрозумієш.
+
+
+# Brok
+### Oh, well. I stopped trying to understand you a long time ago!
+PC08B_DAY2_AFTERFIGHT1-20=Ну що ж. Я вже давно облишив спроби зрозуміти тебе!
+
+
+# Brok
+### (Yawn) Well, my back can't wait to find my bed.
+PC08B_DAY2_AFTERFIGHT1-21=(Позіхає) Що ж, моя спина так і проситься до ліжка.
+
+
+# Brok
+### See ya!
+PC08B_DAY2_AFTERFIGHT1-22=Бувай!
+
+
+#----------------------------------------------------
+# Shay - Brok doesn't know it but this is the last time they talk to each other - and Shay knows it so it's one-sided goodbye.
+### Bro'...
+PC08B_DAY2_AFTERFIGHT2-1=Брате...
+
+
+# Shay
+### Goodbye...
+PC08B_DAY2_AFTERFIGHT2-2=Прощавай...
+
+
+# Shay
+### I...
+PC08B_DAY2_AFTERFIGHT2-3=Я...
+
+
+# Shay
+### I'll miss you...
+PC08B_DAY2_AFTERFIGHT2-4=Я сумуватиму за тобою...
+
+
+# Shay
+### ...
+PC08B_DAY2_AFTERFIGHT2-5=...
+
+
+# Shay
+### No...
+PC08B_DAY2_AFTERFIGHT2-6=Ні...
+
+
+# Shay
+### I... can't...
+PC08B_DAY2_AFTERFIGHT2-7=Я... не можу...
+
+
+# Shay
+### Gotta focus...
+PC08B_DAY2_AFTERFIGHT2-8=Треба зосередитися...
+
+
+# Shay
+### Time to finish this for good.
+PC08B_DAY2_AFTERFIGHT2-9=Час покінчити з цим раз і назавжди.
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Brok comes in the garage after final boss and last argument with Graff as he's desperate to know what Shay meant with the envelope she gave him
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay?
+PC08B_STORY320_NOBOLT-1=Шей?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay!
+PC08B_STORY320_NOBOLT-2=Шей!
+
+
+# Brok
+### Is anyone there?
+PC08B_STORY320_NOBOLT-3=Є хтось усередині?
+
+
+# Brok
+### ...
+PC08B_STORY320_NOBOLT-4=...
+
+
+#----------------------------------------------------
+# Bolt - If Bolt was saved, he's there
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok! I was - expecting you!
+PC08B_STORY320_BOLT-1=Господарю Броку! Я - чекав на вас!
+
+
+# Brok
+### Huh?
+PC08B_STORY320_BOLT-2=Га?
+
+
+# Bolt
+### You are - right on time.
+PC08B_STORY320_BOLT-3=Ви - якраз вчасно.
+
+
+# Bolt
+### Everything - is ready.
+PC08B_STORY320_BOLT-4=Усе - готове.
+
+
+# Brok
+### Great! But...
+PC08B_STORY320_BOLT-5=Чудово! Але...
+
+
+# Brok
+### What is ready... exactly?
+PC08B_STORY320_BOLT-6=Що саме... готове?
+
+
+# Bolt
+### Take a look.
+PC08B_STORY320_BOLT-7=Погляньте.
+
+
+#----------------------------------------------------
+# Graff - Alternative ending (Till end of time) with Graff being there
+### You weren't kidding! There truly is something!
+PC08B_STORY320_GRAFF-1=Ти не жартував! Тут і справді щось є!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### I'm glad to see you, Bolt. A robot who doesn't try to murder me for a change!
+PC08B_STORY320_BOLT1-1=Радий бачити тебе, Болте. Робот, який, на відміну від інших, не намагається мене вбити!
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Glad to - see you too - Master Brok!
+PC08B_STORY320_BOLT1-2=Теж радий - бачити вас - господарю Броку!
+
+
+# Brok
+### Don't call me Master. You don't belong to anyone.
+PC08B_STORY320_BOLT1-3=Не клич мене господарем. Ти нікому не належиш.
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I understand - Master Brok.
+PC08B_STORY320_BOLT1-4=Я зрозумів - господарю Броку.
+
+
+#----------------------------------------------------
+# Brok
+### I need some answers!
+PC08B_STORY320_BOLT2-1=Мені потрібні відповіді!
+
+
+#----------------------------------------------------
+# Brok
+### What's that invention for?
+PC08B_STORY320_BOLT_MACHINE1-1=Для чого цей винахід?
+
+
+# Bolt
+### Sorry - I cannot explain.
+PC08B_STORY320_BOLT_MACHINE1-2=Вибачте - я не можу пояснити.
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Mistress Shay - said.
+PC08B_STORY320_BOLT_MACHINE1-3=Пані Шей - сказала.
+
+
+# Bolt
+### If you entered here - you would know.
+PC08B_STORY320_BOLT_MACHINE1-4=Якщо ви увійдете сюди - ви все дізнаєтеся.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Typical Shay...
+PC08B_STORY320_BOLT_MACHINE1-5=Типова Шей...
+
+
+# Brok
+### Okay...
+PC08B_STORY320_BOLT_MACHINE1-6=Добре...
+
+
+# Brok
+### I don't have much to lose at this point, so...
+PC08B_STORY320_BOLT_MACHINE1-7=Мені втрачати особливо нічого, тож...
+
+
+# Brok
+### Start it up.
+PC08B_STORY320_BOLT_MACHINE1-8=Запускай.
+
+
+# Bolt
+### I cannot.
+PC08B_STORY320_BOLT_MACHINE1-9=Я не можу.
+
+
+# Brok
+### Why?
+PC08B_STORY320_BOLT_MACHINE1-10=Чому?
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Mistress Shay - said you would - figure it out - yourself.
+PC08B_STORY320_BOLT_MACHINE1-11=Пані Шей - сказала, що ви - розберетеся - самі.
+
+
+# Brok
+### Argh...
+PC08B_STORY320_BOLT_MACHINE1-12=Ар-р...
+
+
+# Brok
+### Where is she, by the way?
+PC08B_STORY320_BOLT_MACHINE1-13=Де вона, до речі?
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Mistress Shay - said...
+PC08B_STORY320_BOLT_MACHINE1-14=Пані Шей - сказала...
+
+
+# Brok
+### Oh, don't bother.
+PC08B_STORY320_BOLT_MACHINE1-15=Ох, обійдемося без цього.
+
+
+#----------------------------------------------------
+# Brok
+### Ya sure ya can't tell me anything about the machine?
+PC08B_STORY320_BOLT_MACHINE2-1=Ти точно нічого не можеш мені сказати про цю машину?
+
+
+# Bolt
+### It is - a necessary means.
+PC08B_STORY320_BOLT_MACHINE2-2=Це - необхідний захід.
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Mistress Shay - needs you. You need her.
+PC08B_STORY320_BOLT_MACHINE2-3=Пані Шей - потрібні ви. Вам потрібна вона.
+
+
+# Bolt
+### Your fates - are intertwined.
+PC08B_STORY320_BOLT_MACHINE2-4=Ваші долі - переплетені.
+
+
+# Brok
+### What does that gibberish even mean...?
+PC08B_STORY320_BOLT_MACHINE2-5=Що взагалі означає ця нісенітниця...?
+
+
+# Bolt
+### I am - a mere - pile of screws.
+PC08B_STORY320_BOLT_MACHINE2-6=Я - лише - купа гвинтиків.
+
+
+# Bolt
+### I cannot - interpret these words.
+PC08B_STORY320_BOLT_MACHINE2-7=Я не можу - тлумачити ці слова.
+
+
+# Brok
+### Oh, I think you do. You just don't wanna tell me.
+PC08B_STORY320_BOLT_MACHINE2-8=О, я думаю, ти тямиш. Просто не хочеш мені казати.
+
+
+# Bolt
+### ...
+PC08B_STORY320_BOLT_MACHINE2-9=...
+
+
+# Brok
+### And that's when you would use a surprised expression if you could.
+PC08B_STORY320_BOLT_MACHINE2-10=І зараз ти зобразив би подив на обличчі, якби міг.
+
+
+#----------------------------------------------------
+# Brok
+### Come on! Help me!
+PC08B_STORY320_BOLT_MACHINE3-1=Ну ж бо! Допоможи мені!
+
+
+# Bolt
+### Sorry. I wasn't - designed - for this.
+PC08B_STORY320_BOLT_MACHINE3-2=Вибачте. Я не був - спроєктований - для цього.
+
+
+#----------------------------------------------------
+# Brok
+### What will happen when I start this up?
+PC08B_STORY320_BOLT_CONSEQUENCES1-1=Що станеться, коли я її запущу?
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok.
+PC08B_STORY320_BOLT_CONSEQUENCES1-2=Господарю Броку.
+
+
+# Bolt
+### You're at - the verge - of a new beginning.
+PC08B_STORY320_BOLT_CONSEQUENCES1-3=Ви - на порозі - нового початку.
+
+
+# Bolt
+### I will - never - forget you.
+PC08B_STORY320_BOLT_CONSEQUENCES1-4=Я - ніколи - не забуду вас.
+
+
+# Brok
+### You're not very reassuring...
+PC08B_STORY320_BOLT_CONSEQUENCES1-5=Твої слова не додають упевненості...
+
+
+# Bolt
+### Do not - be scared.
+PC08B_STORY320_BOLT_CONSEQUENCES1-6=Не - бійтеся.
+
+
+# Bolt
+### Nature - hates void.
+PC08B_STORY320_BOLT_CONSEQUENCES1-7=Природа - не терпить - порожнечі.
+
+
+# Bolt
+### No matter - what happens. All problems - get solved.
+PC08B_STORY320_BOLT_CONSEQUENCES1-8=Що б - не сталося. Усі проблеми - вирішуються.
+
+
+# Bolt
+### One way - or another.
+PC08B_STORY320_BOLT_CONSEQUENCES1-9=Так - чи інакше.
+
+
+# Brok
+### ...Still not reassured.
+PC08B_STORY320_BOLT_CONSEQUENCES1-10=...Спокою це все одно не додає.
+
+
+#----------------------------------------------------
+# Brok
+### Please tell me I'm doing the right thing!
+PC08B_STORY320_BOLT_CONSEQUENCES2-1=Будь ласка, скажи мені, що я роблю все правильно!
+
+
+# Bolt
+### You - probably are.
+PC08B_STORY320_BOLT_CONSEQUENCES2-2=Ви - можливо - робите.
+
+
+# Bolt
+### If you don't - do this. Who knows.
+PC08B_STORY320_BOLT_CONSEQUENCES2-3=Якщо ви - не зробите - цього. Хтозна.
+
+
+# Bolt
+### The world - might disappear - into the void.
+PC08B_STORY320_BOLT_CONSEQUENCES2-4=Світ - може зникнути - у порожнечі.
+
+
+# Brok
+### Are ya serious?
+PC08B_STORY320_BOLT_CONSEQUENCES2-5=Ти серйозно?
+
+
+# Bolt
+### It's possible. Anything - is possible.
+PC08B_STORY320_BOLT_CONSEQUENCES2-6=Це можливо. Можливо - все.
+
+
+# Bolt
+### Maybe - all this - is a dream.
+PC08B_STORY320_BOLT_CONSEQUENCES2-7=Можливо - усе це - сон.
+
+
+# Bolt
+### Nothing - is real.
+PC08B_STORY320_BOLT_CONSEQUENCES2-8=Ніщо - не є справжнім.
+
+
+# Brok
+### Got it. You're pulling my leg.
+PC08B_STORY320_BOLT_CONSEQUENCES2-9=Зрозуміло. Ти мене просто дуриш.
+
+
+#----------------------------------------------------
+# Brok
+### I'll figure this out.
+PC08B_STORY320_BOLTEXIT-1=Я розберуся з цим.
+
+
+#----------------------------------------------------
+# Brok - Finds the egg which is a time machine
+### No way!
+PC08B_STORY320_REMOVEBLANKET-1=Не може бути!
+
+
+# Brok
+### Could she really build a machine like this... with some junk collected here and there...?
+PC08B_STORY320_REMOVEBLANKET-2=Невже вона й справді змогла збудувати таку машину... з мотлоху, зібраного навколо...?
+
+
+#----------------------------------------------------
+# Bolt
+### That's the shell. The junk - is inside.
+PC08B_STORY320_REMOVEBLANKET2-1=Це лише оболонка. Мотлох - усередині.
+
+
+#----------------------------------------------------
+# Graff
+### It's... amazing...
+PC08B_STORY320_REMOVEBLANKET2_GRAFF-1=Це... дивовижно...
+
+
+#----------------------------------------------------
+# Brok - Trying to start the machine
+### There's no handle or anything...
+PC08B_EGGDOOR1-1=Тут немає ні ручки, нічого...
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks, knocks)
+PC08B_EGGDOOR1B-1=(Тук-тук)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay? You in there?
+PC08B_EGGDOOR1B-2=Шей? Ти там?
+
+
+#----------------------------------------------------
+# Brok
+### Guess even if she were, she probably wouldn't hear anyway.
+PC08B_EGGDOOR1C-1=Гадаю, навіть якби вона була там, то однаково нічого б не почула.
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### She's not inside - Master Brok.
+PC08B_EGGDOOR1D-1=Її немає всередині - господарю Броку.
+
+
+# Brok
+### Just checking!
+PC08B_EGGDOOR1D-2=Я лише перевіряв!
+
+
+#----------------------------------------------------
+# Brok
+### Must open when it's started.
+PC08B_EGGDOOR2-1=Мабуть, вона відкриється після запуску.
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok!
+PC08B_EGGHIT1-1=Господарю Броку!
+
+
+#----------------------------------------------------
+# Bolt
+### I do not. Recommend. Damaging it.
+PC08B_EGGHIT2-1=Я. Не рекомендую. Пошкоджувати її.
+
+
+#----------------------------------------------------
+# Brok
+### A chronology...
+PC08B_EGGTIMELINE1-1=Хронологія...
+
+
+# Brok
+### ...
+PC08B_EGGTIMELINE1-2=...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Good. Graff is looking away.)
+PC08B_EGGTIMELINE1_GRAFF-1=(Добре. Графф дивиться в інший бік.)
+
+
+# Brok
+### (I've set it to 3030. Five years ago.)
+PC08B_EGGTIMELINE1_GRAFF-2=(Я виставив 3030 рік. П'ять років тому.)
+
+
+# Brok
+### (If this thing can really go back in time...)
+PC08B_EGGTIMELINE1_GRAFF-3=(Якщо ця штука справді може повертатися в часі...)
+
+
+# Brok
+### (This is an opportunity I cannot miss.)
+PC08B_EGGTIMELINE1_GRAFF-4=(Це можливість, яку я не можу пропустити.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (To save... not just Ott, but...)
+PC08B_EGGTIMELINE1_GRAFF-5=(Щоб урятувати... не лише Отта, а й...)
+
+
+# Brok
+### (Everyone.)
+PC08B_EGGTIMELINE1_GRAFF-6=(Усіх.)
+
+
+#----------------------------------------------------
+# Brok
+### (I won't think twice about this!)
+PC08B_EGGTIMELINE1_NORMAL-1=(Я навіть вагатися не буду!)
+
+
+# Brok
+### (I'll set it to five years ago...)
+PC08B_EGGTIMELINE1_NORMAL-2=(Я виставлю її на п'ять років тому...)
+
+
+# Brok
+### (...a week before the fire.)
+PC08B_EGGTIMELINE1_NORMAL-3=(...за тиждень до пожежі.)
+
+
+# Brok
+### (This way... Either I'll be able to change the events...)
+PC08B_EGGTIMELINE1_NORMAL-4=(Таким чином... Або я зможу змінити перебіг подій...)
+
+
+# Brok
+### (Or I'll lose all memories of the past five years.)
+PC08B_EGGTIMELINE1_NORMAL-5=(Або втрачу всі спогади про останні п'ять років.)
+
+
+# Brok
+### (It's fine either way...)
+PC08B_EGGTIMELINE1_NORMAL-6=(Мені підходить будь-який варіант...)
+
+
+#----------------------------------------------------
+# Brok
+### I've set it to the right date...
+PC08B_EGGTIMELINE2-1=Я виставив потрібну дату...
+
+
+# Brok
+### I hope.
+PC08B_EGGTIMELINE2-2=Сподіваюся.
+
+
+#----------------------------------------------------
+# Brok
+### It's obvious. I'm supposed to place something here.
+PC08B_EGGSLOT1-1=Очевидно. Я маю сюди щось покласти.
+
+
+# Brok
+### But...what?
+PC08B_EGGSLOT1-2=Але... що?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### If I come back alive from this...I'll tell Shay to include instructions.
+PC08B_EGGSLOT2-1=Якщо я повернуся звідси живим... я скажу Шей, щоб додала інструкцію.
+
+
+#----------------------------------------------------
+# Brok
+### No doubt about it.
+PC08B_EGGSLOT_PENDANT-1=Ніяких сумнівів.
+
+
+# Brok
+### It's glowing, brighter than ever...
+PC08B_EGGSLOT_PENDANT-2=Він сяє яскравіше, ніж будь-коли...
+
+
+# Brok
+### Made of heptamide...
+PC08B_EGGSLOT_PENDANT-3=Зроблений із гептаміду...
+
+
+# Brok
+### The most powerful machine...
+PC08B_EGGSLOT_PENDANT-4=Найпотужнішій машині...
+
+
+# Brok
+### Must need the most powerful energy source.
+PC08B_EGGSLOT_PENDANT-5=Потрібне найпотужніше джерело енергії.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa!
+PC08B_EGGSLOT_PENDANTB-1=Ого!
+
+
+# Brok
+### It's working!
+PC08B_EGGSLOT_PENDANTB-2=Працює!
+
+
+# Brok
+### My pendant. It's not glowing anymore.
+PC08B_EGGSLOT_PENDANTB-3=Мій кулон. Він більше не сяє.
+
+
+# Brok
+### Did the machine absorb its energy?
+PC08B_EGGSLOT_PENDANTB-4=Машина поглинула його енергію?
+
+
+#----------------------------------------------------
+# Brok
+### It's... glowing?!
+PC08B_STORY320_INVENTORY_PENDANT-1=Він... сяє?!
+
+
+#----------------------------------------------------
+# Brok
+### So...
+PC08B_STORY320_OPENDOOR1-1=Тож...
+
+
+# Brok
+### How do I...
+PC08B_STORY320_OPENDOOR1-2=Як мені...
+
+
+# Various
+### "Stand back"
+PC08B_STORY320_OPENDOOR1-3="Відійди назад"
+
+
+# Brok
+### The egg... talked?
+PC08B_STORY320_OPENDOOR1-4=Яйце... заговорило?
+
+
+#----------------------------------------------------
+# Graff
+### I still can't believe it's real...
+PC08B_STORY320_OPENDOOR_GRAFF-1=Я досі не можу повірити, що це реально...
+
+
+# Brok
+### The machine is, but what does it really do?
+PC08B_STORY320_OPENDOOR_GRAFF-2=Машина - то так, але що вона насправді робить?
+
+
+# Graff
+### ...
+PC08B_STORY320_OPENDOOR_GRAFF-3=...
+
+
+# Brok
+### I guess we'll know soon enough.
+PC08B_STORY320_OPENDOOR_GRAFF-4=Гадаю, скоро ми це дізнаємося.
+
+
+# Graff
+### I didn't think this would actually happen...
+PC08B_STORY320_OPENDOOR_GRAFF-5=Я й не думав, що це справді станеться...
+
+
+# Graff
+### Are you... really going to do this?
+PC08B_STORY320_OPENDOOR_GRAFF-6=Ти... справді збираєшся зробити це?
+
+
+# Graff
+### For me?
+PC08B_STORY320_OPENDOOR_GRAFF-7=Заради мене?
+
+
+# Brok
+### I will.
+PC08B_STORY320_OPENDOOR_GRAFF-8=Збираюся.
+
+
+# Graff
+### But...
+PC08B_STORY320_OPENDOOR_GRAFF-9=Але...
+
+
+# Graff
+### What if...
+PC08B_STORY320_OPENDOOR_GRAFF-10=А що, якщо...
+
+
+# Graff
+### What if it doesn't work?
+PC08B_STORY320_OPENDOOR_GRAFF-11=А що, якщо це не спрацює?
+
+
+# Brok
+### Well I guess your dinner will be cooked!
+PC08B_STORY320_OPENDOOR_GRAFF-12=Ну, гадаю, з мене вийде непогана вечеря!
+
+
+# Graff
+### That's not funny!
+PC08B_STORY320_OPENDOOR_GRAFF-13=Це не смішно!
+
+
+# Brok
+### No worries.
+PC08B_STORY320_OPENDOOR_GRAFF-14=Не переймайся.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay wouldn't allow it.
+PC08B_STORY320_OPENDOOR_GRAFF-15=Шей цього б не допустила.
+
+
+# Brok
+### I trust her.
+PC08B_STORY320_OPENDOOR_GRAFF-16=Я їй довіряю.
+
+
+# Graff
+### Would you... trust her with your life?
+PC08B_STORY320_OPENDOOR_GRAFF-17=Ти б... довірив їй своє життя?
+
+
+# Brok
+### Of course! I pretty much do that every night, actually!
+PC08B_STORY320_OPENDOOR_GRAFF-18=Звісно! Взагалі-то я роблю це практично щовечора!
+
+
+# Graff
+### ...
+PC08B_STORY320_OPENDOOR_GRAFF-19=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+PC08B_STORY320_OPENDOOR_GRAFF-20=Броку...
+
+
+# Brok
+### I know.
+PC08B_STORY320_OPENDOOR_GRAFF-21=Я знаю.
+
+
+# Brok
+### You don't have to say anything.
+PC08B_STORY320_OPENDOOR_GRAFF-22=Тобі нічого не треба казати.
+
+
+#----------------------------------------------------
+# Various
+### "Everything's ready"
+PC08B_STORY320_OPENDOOR2-1="Усе готове"
+
+
+# Various
+### "Come"
+PC08B_STORY320_OPENDOOR2-2="Заходь"
+
+
+#----------------------------------------------------
+# Brok - Final player decision - Brok hesitates to enter the machine
+### ...
+PC08B_STORY320_OPENDOOR2B-1=...
+
+
+# Brok
+### Well...
+PC08B_STORY320_OPENDOOR2B-2=Ну...
+
+
+# Brok
+### This is it...
+PC08B_STORY320_OPENDOOR2B-3=Ось і все...
+
+
+# Brok
+### After I enter this...
+PC08B_STORY320_OPENDOOR2B-4=Після того як я увійду сюди...
+
+
+# Brok
+### There's no turning back...
+PC08B_STORY320_OPENDOOR2B-5=Шляху назад вже не буде...
+
+
+# Brok
+### My fate will be changed.
+PC08B_STORY320_OPENDOOR2B-6=Моя доля зміниться.
+
+
+# Brok
+### Forever...
+PC08B_STORY320_OPENDOOR2B-7=Назавжди...
+
+
+# Brok
+### ...
+PC08B_STORY320_OPENDOOR2B-8=...
+
+
+#----------------------------------------------------
+# Brok - If Graff is there
+### ...
+PC08B_STORY320_OPENDOOR_GRAFF1-1=...
+
+
+# Brok
+### Well...
+PC08B_STORY320_OPENDOOR_GRAFF1-2=Ну...
+
+
+# Brok
+### I suppose... this will seem like a short absence for you...
+PC08B_STORY320_OPENDOOR_GRAFF1-3=Гадаю... для тебе це буде лише коротка відсутність...
+
+
+# Graff
+### ...
+PC08B_STORY320_OPENDOOR_GRAFF1-4=...
+
+
+#----------------------------------------------------
+# Brok - Till end of time ending - Graff decides to enter the machine himself
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+PC08B_TILLENDTIME_END1-1=Граффе!!!
+
+
+# Brok
+### What the heck are you doing?!
+PC08B_TILLENDTIME_END1-2=Що ти, в біса, робиш?!
+
+
+# Brok
+### Get out! Immediately!
+PC08B_TILLENDTIME_END1-3=Виходь! Негайно!
+
+
+# Graff
+### ...
+PC08B_TILLENDTIME_END1-4=...
+
+
+# Graff
+### No...
+PC08B_TILLENDTIME_END1-5=Ні...
+
+
+# Graff
+### This is my mistake to fix.
+PC08B_TILLENDTIME_END1-6=Це моя помилка, і мені її виправляти.
+
+
+# Graff
+### You shouldn't be the only one making sacrifices.
+PC08B_TILLENDTIME_END1-7=Ти не маєш бути єдиним, хто приносить себе в жертву.
+
+
+# Brok
+### But... I've set it to 3030!
+PC08B_TILLENDTIME_END1-8=Але... я виставив 3030 рік!
+
+
+# Graff
+### What...?
+PC08B_TILLENDTIME_END1-9=Що...?
+
+
+#----------------------------------------------------
+# Brok
+### No... I can't change it anymore!
+PC08B_TILLENDTIME_END2-1=Ні... Я вже не можу змінити дату!
+
+
+# Graff
+### It's okay...
+PC08B_TILLENDTIME_END2-2=Усе гаразд...
+
+
+# Graff
+### That way... I'll see Mom...
+PC08B_TILLENDTIME_END2-3=Так... я побачу маму...
+
+
+# Graff
+### And maybe... I can change everything.
+PC08B_TILLENDTIME_END2-4=І, можливо... я зможу все змінити.
+
+
+# Graff
+### Starting in 10 seconds.
+PC08B_TILLENDTIME_END2-5=Запуск через 10 секунд.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC08B_TILLENDTIME_END2-6=Граффе...
+
+
+# Brok
+### In case... we never meet...
+PC08B_TILLENDTIME_END2-7=Якщо... ми більше не зустрінемося...
+
+
+# Brok
+### Or we never get to spend those five years together...
+PC08B_TILLENDTIME_END2-8=Або якщо нам не доведеться провести ці п'ять років разом...
+
+
+# Brok
+### Because you've rewritten history or somethin'...
+PC08B_TILLENDTIME_END2-9=Бо ти перепишеш історію чи щось таке...
+
+
+# Brok
+### I want you to know...
+PC08B_TILLENDTIME_END2-10=Я хочу, щоб ти знав...
+
+
+# Brok
+### I love you, kiddo.
+PC08B_TILLENDTIME_END2-11=Я люблю тебе, малий.
+
+
+# Graff
+### I love you, too...
+PC08B_TILLENDTIME_END2-12=Я теж тебе люблю...
+
+
+# Graff
+### And... I'll always remember...
+PC08B_TILLENDTIME_END2-13=І... я завжди пам'ятатиму...
+
+
+# Graff
+### 3...
+PC08B_TILLENDTIME_END2-14=3...
+
+
+# Graff
+### 2...
+PC08B_TILLENDTIME_END2-15=2...
+
+
+# Graff
+### 1...
+PC08B_TILLENDTIME_END2-16=1...
+
+
+# Graff
+### Always...
+PC08B_TILLENDTIME_END2-17=Завжди...
+
+
+#----------------------------------------------------
+# Brok
+### He's gone...
+PC08B_TILLENDTIME_END3-1=Він зник...
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC08B_TILLENDTIME_END3B-1=...?
+
+
+# Brok
+### That's...
+PC08B_TILLENDTIME_END3B-2=Це ж...
+
+
+# Brok
+### The present I gave him...
+PC08B_TILLENDTIME_END3B-3=Подарунок, який я йому дав...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC08B_TILLENDTIME_END3C-1=...
+
+
+# Brok
+### Goodbye kiddo...
+PC08B_TILLENDTIME_END3C-2=Прощавай, малий...
+
+
+# Brok
+### May you create a better life for yourself.
+PC08B_TILLENDTIME_END3C-3=Створи собі краще життя.
+
+
+#----------------------------------------------------
+# Brok
+### From that day...
+PC08B_TILLENDTIME_END4-1=З того дня...
+
+
+# Brok
+### I waited...
+PC08B_TILLENDTIME_END4-2=Я чекав...
+
+
+# Brok
+### And waited...
+PC08B_TILLENDTIME_END4-3=І чекав...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Clinging to the hope that Graff was okay...
+PC08B_TILLENDTIME_END4-4=Тримаючись за надію, що з Граффом усе гаразд...
+
+
+# Brok
+### Wherever or whenever he was.
+PC08B_TILLENDTIME_END4-5=Де б і коли б він не був.
+
+
+# Brok
+### But...
+PC08B_TILLENDTIME_END4-6=Але...
+
+
+# Brok
+### He never came back.
+PC08B_TILLENDTIME_END4-7=Він так і не повернувся.
+
+
+# Brok
+### Maybe something went wrong.
+PC08B_TILLENDTIME_END4-8=Можливо, щось пішло не так.
+
+
+# Brok
+### Or maybe he created a new timeline.
+PC08B_TILLENDTIME_END4-9=Або він створив нову часову лінію.
+
+
+# Brok
+### Which would mean... He ceased to exist in this one.
+PC08B_TILLENDTIME_END4-10=Що означало б... Він перестав існувати у цій реальності.
+
+
+# Brok
+### I can't explain why but...
+PC08B_TILLENDTIME_END4-11=Я не можу пояснити, чому, але...
+
+
+# Brok
+### No matter how hard I tried...
+PC08B_TILLENDTIME_END4-12=Хоч як би я намагався...
+
+
+# Brok
+### I cannot grasp how this machine came to be.
+PC08B_TILLENDTIME_END4-13=Я не можу осягнути, як з'явилася ця машина.
+
+
+# Brok
+### I only know it existed.
+PC08B_TILLENDTIME_END4-14=Я знаю лише те, що вона існувала.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### No one else seems to remember Graff...
+PC08B_TILLENDTIME_END4-15=Здається, ніхто більше не пам'ятає Граффа...
+
+
+# Brok
+### And I can feel another person close to me got erased from my memory.
+PC08B_TILLENDTIME_END4-16=І я відчуваю, що ще хтось близький мені був стертий з моєї пам'яті.
+
+
+# Brok
+### Sometimes...
+PC08B_TILLENDTIME_END4-17=Іноді...
+
+
+# Brok
+### I wonder if I imagined it all...
+PC08B_TILLENDTIME_END4-18=Я питаю себе, чи не вигадав я все це...
+
+
+# Brok
+### But my heart knows the truth.
+PC08B_TILLENDTIME_END4-19=Але моє серце знає правду.
+
+
+#----------------------------------------------------
+# Brok
+### I resumed my life.
+PC08B_TILLENDTIME_END4C-1=Я повернувся до звичного життя.
+
+
+# Brok
+### I had to.
+PC08B_TILLENDTIME_END4C-2=Мусив.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Dee, Dr. Gherkin, and Wes.
+PC08B_TILLENDTIME_END4C-3=Ді, доктор Геркін і Вес.
+
+
+# Brok
+### They all disappeared into thin air.
+PC08B_TILLENDTIME_END4C-4=Усі вони безслідно зникли.
+
+
+# Brok
+### I'm afraid they suffered a terrible fate... and I wasn't there.
+PC08B_TILLENDTIME_END4C-5=Боюся, їх спіткала жахлива доля... а мене не було поруч.
+
+
+# Brok
+### Thus I never got the answers I sought on my investigation.
+PC08B_TILLENDTIME_END4C-6=Тож я так і не отримав відповідей, яких шукав під час розслідування.
+
+
+# Brok
+### The pills shortage extended.
+PC08B_TILLENDTIME_END4C-7=Нестача пігулок затягнулася.
+
+
+# Brok
+### In a short amount of time...
+PC08B_TILLENDTIME_END4C-8=За короткий проміжок часу...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Everyone attempted to enter the Dome or leave to other lands...
+PC08B_TILLENDTIME_END4C-9=Усі намагалися потрапити до Купола або втекти до інших земель...
+
+
+# Brok
+### But all failed.
+PC08B_TILLENDTIME_END4C-10=Але нікому не вдалося.
+
+
+# Brok
+### It was hopeless.
+PC08B_TILLENDTIME_END4C-11=Це було безнадійно.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Eventually I became one of the very few remaining persons living in the Slums.
+PC08B_TILLENDTIME_END4C-12=Зрештою я став одним із небагатьох, хто лишився жити в Нетрях.
+
+
+# Brok
+### Even if the odds for him to return were slim...
+PC08B_TILLENDTIME_END4C-13=Навіть якщо шанси на його повернення були мізерними...
+
+
+# Brok
+### I attempted to make this deserted place a better one for him... and everyone.
+PC08B_TILLENDTIME_END4C-14=Я намагався зробити це закинуте місце кращим для нього... і для всіх.
+
+
+# Brok
+### And I succeeded...
+PC08B_TILLENDTIME_END4C-15=І мені це вдалося...
+
+
+#----------------------------------------------------
+# Brok
+### I had reached the dusk of my life.
+PC08B_TILLENDTIME_END4E-1=Я наблизився до заходу свого життя.
+
+
+# Brok
+### I never had any children. Yet I felt accomplished.
+PC08B_TILLENDTIME_END4E-2=У мене ніколи не було дітей. Та все ж я відчував, що прожив життя не даремно.
+
+
+# Brok
+### Because I helped rebuild this city the best I could.
+PC08B_TILLENDTIME_END4E-3=Бо я зробив усе, щоб відбудувати це місто.
+
+
+# Brok
+### It was time for me to rest indefinitely.
+PC08B_TILLENDTIME_END4E-4=Настав час для мене спочити назавжди.
+
+
+# Brok
+### And that's when...
+PC08B_TILLENDTIME_END4E-5=І саме тоді...
+
+
+#----------------------------------------------------
+# Unknown - Graff finally comes back and sees Brok very old on a rocking chair
+### 3085 A.R.
+PC08B_TILLENDTIME_END5-1=3085 П.В.
+
+
+#----------------------------------------------------
+# Graff
+### ...!
+PC08B_TILLENDTIME_END6-1=...!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...?
+PC08B_TILLENDTIME_END6-2=Броку...?
+
+
+#----------------------------------------------------
+# Brok
+### Is this real?
+PC08B_TILLENDTIME_END7-1=Це все справжнє?
+
+
+# Brok
+### Or...am I dead?
+PC08B_TILLENDTIME_END7-2=Чи... я помер?
+
+
+# Graff
+### I am...
+PC08B_TILLENDTIME_END7-3=Я...
+
+
+# Graff
+### I'm really here.
+PC08B_TILLENDTIME_END7-4=Я справді тут.
+
+
+# Graff
+### You...
+PC08B_TILLENDTIME_END7-5=Ти...
+
+
+# Graff
+### You're so...
+PC08B_TILLENDTIME_END7-6=Ти такий...
+
+
+# Brok
+### Old...?
+PC08B_TILLENDTIME_END7-7=Старий...?
+
+
+# Brok
+### Yeah...
+PC08B_TILLENDTIME_END7-8=Так...
+
+
+# Brok
+### You're late, son...
+PC08B_TILLENDTIME_END7-9=Ти запізнився, синку...
+
+
+# Brok
+### I've been waiting... waiting for so long...
+PC08B_TILLENDTIME_END7-10=Я чекав... чекав так довго...
+
+
+# Graff
+### I tried...
+PC08B_TILLENDTIME_END7-11=Я намагався...
+
+
+# Graff
+### But the machine...
+PC08B_TILLENDTIME_END7-12=Але машина...
+
+
+# Graff
+### It was failing...
+PC08B_TILLENDTIME_END7-13=Вона не працювала як слід...
+
+
+# Brok
+### I knew it...
+PC08B_TILLENDTIME_END7-14=Я так і знав...
+
+
+# Brok
+### I knew our past together wasn't just a figment of my imagination.
+PC08B_TILLENDTIME_END7-15=Я знав, що наше спільне минуле не було лише плодом моєї уяви.
+
+
+# Graff
+### ...What's this place?
+PC08B_TILLENDTIME_END7-16=...Що це за місце?
+
+
+# Brok
+### Your new home.
+PC08B_TILLENDTIME_END7-17=Твій новий дім.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums?
+PC08B_TILLENDTIME_END7-18=Нетрі?
+
+
+# Brok
+### We no longer call it that.
+PC08B_TILLENDTIME_END7-19=Ми більше так його не називаємо.
+
+
+# Brok
+### It's safe now.
+PC08B_TILLENDTIME_END7-20=Тепер тут безпечно.
+
+
+# Brok
+### I built it for you and everyone.
+PC08B_TILLENDTIME_END7-21=Я збудував це для тебе й для всіх.
+
+
+# Graff
+### ...
+PC08B_TILLENDTIME_END7-22=...
+
+
+# Brok
+### Tell me everything.
+PC08B_TILLENDTIME_END7-23=Розкажи мені все.
+
+
+# Graff
+### Well...
+PC08B_TILLENDTIME_END7-24=Ну...
+
+
+# Graff
+### I've met Mom...
+PC08B_TILLENDTIME_END7-25=Я зустрів маму...
+
+
+# Graff
+### But... I couldn't save her...
+PC08B_TILLENDTIME_END7-26=Але... я не зміг її врятувати...
+
+
+# Graff
+### I couldn't save anyone...
+PC08B_TILLENDTIME_END7-27=Я нікого не зміг врятувати...
+
+
+# Brok
+### That's okay...
+PC08B_TILLENDTIME_END7-28=Усе гаразд...
+
+
+# Brok - Brok gives his pendant
+### Here...
+PC08B_TILLENDTIME_END7-29=Тримай...
+
+
+#----------------------------------------------------
+# Graff
+### This pendant...
+PC08B_TILLENDTIME_END8-1=Цей кулон...
+
+
+# Brok
+### I said I would give it to you someday...
+PC08B_TILLENDTIME_END8-2=Я казав, що колись віддам його тобі...
+
+
+# Brok
+### It's yours now.
+PC08B_TILLENDTIME_END8-3=Тепер він твій.
+
+
+# Graff
+### ...I know!
+PC08B_TILLENDTIME_END8-4=...Я знаю!
+
+
+# Graff
+### With this...
+PC08B_TILLENDTIME_END8-5=З ним...
+
+
+# Graff
+### I can use it to restore the machine's energy and go back...!
+PC08B_TILLENDTIME_END8-6=Я можу використати його, щоб відновити енергію машини та повернутися...!
+
+
+# Graff
+### Come with me!
+PC08B_TILLENDTIME_END8-7=Ходімо зі мною!
+
+
+# Brok
+### Don't.
+PC08B_TILLENDTIME_END8-8=Не треба.
+
+
+# Brok
+### Forget the machine.
+PC08B_TILLENDTIME_END8-9=Забудь про машину.
+
+
+# Brok
+### I've lived my life.
+PC08B_TILLENDTIME_END8-10=Я прожив своє.
+
+
+# Brok
+### Now, It's time for you to live yours.
+PC08B_TILLENDTIME_END8-11=Тепер настав час тобі жити власним життям.
+
+
+# Graff
+### ...
+PC08B_TILLENDTIME_END8-12=...
+
+
+# Brok
+### Look at me!
+PC08B_TILLENDTIME_END8-13=Поглянь на мене!
+
+
+# Brok
+### Once so valiant. And now...
+PC08B_TILLENDTIME_END8-14=Колись я був таким хоробрим. А зараз...
+
+
+# Graff
+### That's not fair...
+PC08B_TILLENDTIME_END8-15=Це несправедливо...
+
+
+# Brok
+### Life's unfair. I thought you'd know this by now.
+PC08B_TILLENDTIME_END8-16=Життя несправедливе. Я думав, ти вже знаєш це.
+
+
+# Brok
+### We can only work our best to make it better.
+PC08B_TILLENDTIME_END8-17=Ми можемо лише робити все можливе, аби покращити його.
+
+
+#----------------------------------------------------
+# Brok
+### Ha ha!
+PC08B_TILLENDTIME_END9-1=Ха-ха!
+
+
+# Graff
+### What's funny?
+PC08B_TILLENDTIME_END9-2=Що смішного?
+
+
+# Brok
+### All this time... I've always kept hope that you'd come back...
+PC08B_TILLENDTIME_END9-3=Весь цей час... я плекав надію, що ти повернешся...
+
+
+# Brok
+### I was just starting to accept this would never happen...
+PC08B_TILLENDTIME_END9-4=Я саме почав звикати до думки, що цього не станеться...
+
+
+# Brok
+### And there you are!
+PC08B_TILLENDTIME_END9-5=І ось ти тут!
+
+
+# Brok
+### I'm glad I was able to see you again...
+PC08B_TILLENDTIME_END9-6=Я радий, що зміг побачити тебе знову...
+
+
+# Brok
+### One last time.
+PC08B_TILLENDTIME_END9-7=Востаннє.
+
+
+# Graff
+### Don't say this!
+PC08B_TILLENDTIME_END9-8=Не кажи так!
+
+
+# Graff
+### You've still got time.
+PC08B_TILLENDTIME_END9-9=У тебе ще є час.
+
+
+# Brok
+### I wish...
+PC08B_TILLENDTIME_END9-10=Якби ж то...
+
+
+#----------------------------------------------------
+# Brok
+### Please don't leave...
+PC08B_TILLENDTIME_END10-1=Будь ласка, не йди...
+
+
+# Graff
+### I won't.
+PC08B_TILLENDTIME_END10-2=Я не піду.
+
+
+# Graff
+### I'm here now.
+PC08B_TILLENDTIME_END10-3=Тепер я тут.
+
+
+# Graff
+### Until the end...
+PC08B_TILLENDTIME_END10-4=До самого кінця...
+
+
+# Graff
+### With you.
+PC08B_TILLENDTIME_END10-5=З тобою.
+
+
+#----------------------------------------------------
+# Brok - Final player decision - Brok enters the machine = Canonical Ending
+### I have to do this.
+PC08B_STORY320_ENTER-1=Я мушу це зробити.
+
+
+#----------------------------------------------------
+# Brok
+### Oh boy, good thing I'm not claustrophobic.
+PC08B_STORY320_ENTER2-1=Ой леле, добре, що в мене немає клаустрофобії.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay, I'm trusting you on this...
+PC08B_STORY320_ENTER2-2=Шей, я довіряю тобі...
+
+
+# Brok
+### Let's go.
+PC08B_STORY320_ENTER2-3=Поїхали.
+
+
+# Various
+### Starting in 3...
+PC08B_STORY320_ENTER2-4=Запуск через 3...
+
+
+# Various
+### 2...
+PC08B_STORY320_ENTER2-5=2...
+
+
+# Various
+### 1...
+PC08B_STORY320_ENTER2-6=1...
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Goodbye - Master Brok!
+PC08B_STORY320_ENTER3-1=Прощавайте - господарю Броку!
+
+
+# Bolt
+### When you - come back.
+PC08B_STORY320_ENTER3-2=Коли ви - повернетеся.
+
+
+# Bolt
+### Please.
+PC08B_STORY320_ENTER3-3=Будь ласка.
+
+
+# Bolt
+### Remember me.
+PC08B_STORY320_ENTER3-4=Пам'ятайте про мене.
+
+
+#----------------------------------------------------
+# Shay
+### Good luck, Bro'...
+PC08B_STORY320_SHAYENDTEXT-1=Хай щастить, брате...
+
+
+# Shay
+### Save me...
+PC08B_STORY320_SHAYENDTEXT-2=Врятуй мене...
+
+
+# Shay
+### Save us all.
+PC08B_STORY320_SHAYENDTEXT-3=Врятуй нас усіх.
+
+
+#----------------------------------------------------
+# Brok - Final player decision - Brok refuses to enter
+### ...
+PC08B_STORY320_CANNOT1-1=...
+
+
+# Brok
+### This is...
+PC08B_STORY320_CANNOT1-2=Це все...
+
+
+# Brok
+### I...
+PC08B_STORY320_CANNOT1-3=Я...
+
+
+# Brok
+### I can't...!
+PC08B_STORY320_CANNOT1-4=Я не можу...!
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok...?
+PC08B_STORY320_CANNOT1B-1=Господарю Броку...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+PC08B_STORY320_CANNOT2-1=Шей...
+
+
+# Brok
+### I'm sorry.
+PC08B_STORY320_CANNOT2-2=Вибач.
+
+
+# Brok
+### No matter how desperate I am.
+PC08B_STORY320_CANNOT2-3=Як би відчайдушно я не почувався.
+
+
+# Brok
+### I have to face reality.
+PC08B_STORY320_CANNOT2-4=Я мушу дивитися правді у вічі.
+
+
+# Brok
+### What's done... is done.
+PC08B_STORY320_CANNOT2-5=Що зроблено... те зроблено.
+
+
+# Brok
+### There's no forgetting.
+PC08B_STORY320_CANNOT2-6=Забути це неможливо.
+
+
+# Brok
+### No stepping back.
+PC08B_STORY320_CANNOT2-7=Шляху назад немає.
+
+
+#----------------------------------------------------
+# Graff - "Cannot" ending - Brok comes back with Graff, only to find out the machine is gone
+### So? What did you want to show me?
+PC08B_STORY330_CANNOT_WITHGRAFF1-1=То що? Що ти хотів мені показати?
+
+
+# Brok
+### ...!
+PC08B_STORY330_CANNOT_WITHGRAFF1-2=...!
+
+
+# Brok
+### The... machine?
+PC08B_STORY330_CANNOT_WITHGRAFF1-3=Машина...?
+
+
+# Brok
+### Where has it gone?
+PC08B_STORY330_CANNOT_WITHGRAFF1-4=Куди вона ділася?
+
+
+# Graff
+### What machine?
+PC08B_STORY330_CANNOT_WITHGRAFF1-5=Яка машина?
+
+
+# Brok
+### A time travel machine!
+PC08B_STORY330_CANNOT_WITHGRAFF1-6=Машина часу!
+
+
+# Brok
+### Or maybe, a memory eraser machine...
+PC08B_STORY330_CANNOT_WITHGRAFF1-7=Або, можливо, машина для стирання пам'яті...
+
+
+# Graff
+### O...kay...
+PC08B_STORY330_CANNOT_WITHGRAFF1-8=Д-добре...
+
+
+# Brok
+### It's gotta be somewhere!
+PC08B_STORY330_CANNOT_WITHGRAFF1-9=Вона має бути десь тут!
+
+
+# Brok
+### ...
+PC08B_STORY330_CANNOT_WITHGRAFF1-10=...
+
+
+# Graff
+### I think you've dreamt it.
+PC08B_STORY330_CANNOT_WITHGRAFF1-11=Думаю, тобі це наснилося.
+
+
+# Brok
+### Impossible!
+PC08B_STORY330_CANNOT_WITHGRAFF1-12=Неможливо!
+
+
+#----------------------------------------------------
+# Brok - When Brok calls Shay in the same room
+### Hi!
+PC08B_CALL_SHAY-1=Здоров!
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Earth to Brok! We've got a problem!
+PC08B_CALL_SHAY-2=Земля викликає Брока! У нас проблема!
+
+
+# Brok
+### Whaddya mean?
+PC08B_CALL_SHAY-3=У сенсі?
+
+
+# Shay
+### Even I would know better than calling someone who's in the same room.
+PC08B_CALL_SHAY-4=Навіть я ще не настільки збожеволіла, щоб дзвонити комусь, хто перебуває зі мною в одній кімнаті.
+
+
+# Brok
+### I thought you wouldn't notice!
+PC08B_CALL_SHAY-5=Я думав, ти не помітиш!
+
+
+# Shay
+### Well, I'd notice your smell from miles away.
+PC08B_CALL_SHAY-6=Ну, я б відчула твій запах за милю.
+
+
+# Shay
+### Not a bad smell though!
+PC08B_CALL_SHAY-7=Хоча запах доволі непоганий!
+
+
+# Brok
+### Huh...?
+PC08B_CALL_SHAY-8=Га...?
+
+
+#----------------------------------------------------
+# Brok - Finding material in her garage
+### Hey! There's something you've been looking for. Right there!
+PC08B_MATERIAL1-1=Гей! Тут є те, що ти шукала. Ось тут!
+
+
+# Shay
+### You're sure?
+PC08B_MATERIAL1-2=Ти впевнений?
+
+
+# Brok
+### That's what your thingy says, anyway.
+PC08B_MATERIAL1-3=У будь-якому разі, так каже твоя штуковина.
+
+
+#----------------------------------------------------
+# Brok
+### Does this look like a Crystal controller to you?
+PC08B_MATERIAL1B-1=Як гадаєш, це схоже на кристалічний контролер?
+
+
+# Shay
+### How silly! I forgot to check if I got one in the garage.
+PC08B_MATERIAL1B-2=Оце дурість! Я забула перевірити, чи є він у мене в гаражі.
+
+
+# Brok
+### Well, I'm still gonna be paid for it, right...?
+PC08B_MATERIAL1B-3=Ну, ти мені все одно заплатиш за нього, чи не так...?
+
+
+# Shay
+### ...
+PC08B_MATERIAL1B-4=...
+
+
+# Brok
+### (I hate it when I don't get a reply!)
+PC08B_MATERIAL1B-5=(Терпіти не можу, коли мені не відповідають!)
+
+
+#----------------------------------------------------
+# Brok - Premature ending - when in day 3 we solve the puzzle too early and enter her garage, it shouldn't happen
+### Hey!
+PC08B_PREMATURE_ENDING-1=Гей!
+
+
+# Brok
+### What's this egg?
+PC08B_PREMATURE_ENDING-2=Що це за яйце?
+
+
+# Shay
+### ...!
+PC08B_PREMATURE_ENDING-3=...!
+
+
+# Shay
+### Bro'...!
+PC08B_PREMATURE_ENDING-4=Брате...!
+
+
+# Shay
+### You...
+PC08B_PREMATURE_ENDING-5=Ти...
+
+
+# Shay
+### You're not supposed to be here yet!
+PC08B_PREMATURE_ENDING-6=Тобі ще не час тут бути!
+
+
+# Shay
+### How did you...?!
+PC08B_PREMATURE_ENDING-7=Як ти...?!
+
+
+# Brok
+### Well...
+PC08B_PREMATURE_ENDING-8=Ну...
+
+
+# Brok
+### Just tried different combinations on the door and...
+PC08B_PREMATURE_ENDING-9=Просто перебирав різні комбінації на дверях і...
+
+
+# Shay
+### Aww, that will teach me to use a simple lock.
+PC08B_PREMATURE_ENDING-10=Ох, це навчить мене НЕ ставити прості замки.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC08B_PREMATURE_ENDING2-1=...
+
+
+# Brok
+### An earthquake...?
+PC08B_PREMATURE_ENDING2-2=Землетрус...?
+
+
+# Shay
+### You need to leave! NOW!
+PC08B_PREMATURE_ENDING2-3=Тобі треба йти! НЕГАЙНО!
+
+
+# Brok
+### Huh...?
+PC08B_PREMATURE_ENDING2-4=Що...?
+
+
+# Shay
+### Oh no...
+PC08B_PREMATURE_ENDING2-5=О ні...
+
+
+# Shay
+### Too late!
+PC08B_PREMATURE_ENDING2-6=Занадто пізно!
+
+
+#----------------------------------------------------
+# Brok - Back to Canonical Ending - after Brok enters the machine he ends up in a strange landscape - as if he's dreaming
+### Huh...
+PC08B_CANONICAL_SUBENDING1-1=Гм...
+
+
+#----------------------------------------------------
+# Brok
+### What's this place?
+PC08B_CANONICAL_SUBENDING1B-1=Що це за місце?
+
+
+# Brok
+### This can't be the inside of the machine... Can it...?
+PC08B_CANONICAL_SUBENDING1B-2=Це ж не може бути всередині машини... Чи може...?
+
+
+#----------------------------------------------------
+# Brok
+### What the...?
+PC08B_CANONICAL_SUBENDING1C-1=Що за...?
+
+
+# Brok - A shadowy doppleganger of Brok appears before his eyes
+### "Do not pay attention to my appearance"
+PC08B_CANONICAL_SUBENDING1C-2="Не звертай уваги на мій зовнішній вигляд"
+
+
+# Brok
+### Who are you?
+PC08B_CANONICAL_SUBENDING1C-3=Хто ти?
+
+
+# Brok
+### "A remnant from your last passage here"
+PC08B_CANONICAL_SUBENDING1C-4="Залишок від твого останнього візиту сюди"
+
+
+# Brok
+### Last... passage...?
+PC08B_CANONICAL_SUBENDING1C-5=Останнього... візиту...?
+
+
+# Brok
+### "This is the place where all memories are shared"
+PC08B_CANONICAL_SUBENDING1C-6="Це місце, де об'єднуються всі спогади"
+
+
+# Brok
+### My memories?
+PC08B_CANONICAL_SUBENDING1C-7=Мої спогади?
+
+
+# Brok
+### "Not just yours"
+PC08B_CANONICAL_SUBENDING1C-8="Не лише твої"
+
+
+# Brok
+### "This whole universe"
+PC08B_CANONICAL_SUBENDING1C-9="Усього всесвіту"
+
+
+# Brok
+### Wait...
+PC08B_CANONICAL_SUBENDING1C-10=Чекай...
+
+
+# Brok
+### Have I been here already...?
+PC08B_CANONICAL_SUBENDING1C-11=Я вже був тут...?
+
+
+# Brok
+### "I thought you would have realized by now"
+PC08B_CANONICAL_SUBENDING1C-12="Я думав, ти вже це зрозумів"
+
+
+# Brok
+### "Everything has already happened"
+PC08B_CANONICAL_SUBENDING1C-13="Усе вже сталося"
+
+
+# Brok
+### "Everything will happen again"
+PC08B_CANONICAL_SUBENDING1C-14="Усе станеться знову"
+
+
+# Brok
+### Does this mean...
+PC08B_CANONICAL_SUBENDING1C-15=Це означає...
+
+
+# Brok
+### I have no free will...?
+PC08B_CANONICAL_SUBENDING1C-16=Що в мене немає свободи волі...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Like... I'm responsible for banning the Squealers? But...
+PC08B_CANONICAL_SUBENDING1C-17=Типу... я відповідальний за вигнання Верескунів? Але...
+
+
+# Brok
+### I do not want that.
+PC08B_CANONICAL_SUBENDING1C-18=Я цього не хочу.
+
+
+# Brok
+### If I go back...
+PC08B_CANONICAL_SUBENDING1C-19=Якщо я повернуся...
+
+
+# Brok
+### Can I change anything?
+PC08B_CANONICAL_SUBENDING1C-20=Чи можу я щось змінити?
+
+
+# Brok
+### "You can"
+PC08B_CANONICAL_SUBENDING1C-21="Можеш"
+
+
+# Brok
+### "Ask yourself the real question"
+PC08B_CANONICAL_SUBENDING1C-22="Постав собі справжнє запитання"
+
+
+# Brok
+### "Do you want to?"
+PC08B_CANONICAL_SUBENDING1C-23="Чи хочеш ти цього?"
+
+
+# Brok
+### ...
+PC08B_CANONICAL_SUBENDING1C-24=...
+
+
+# Brok
+### Yes.
+PC08B_CANONICAL_SUBENDING1C-25=Так.
+
+
+# Brok
+### I wanna change destiny.
+PC08B_CANONICAL_SUBENDING1C-26=Я хочу змінити долю.
+
+
+# Brok
+### Not for me. For the ones close to me.
+PC08B_CANONICAL_SUBENDING1C-27=Не для себе. Для своїх близьких.
+
+
+# Brok
+### "Then go"
+PC08B_CANONICAL_SUBENDING1C-28="Тоді йди"
+
+
+# Brok
+### "Enter the void"
+PC08B_CANONICAL_SUBENDING1C-29="Увійди в порожнечу"
+
+
+#----------------------------------------------------
+# Brok
+### "Don't be afraid"
+PC08B_CANONICAL_SUBENDING1D-1="Не бійся"
+
+
+# Brok
+### "This is a long journey"
+PC08B_CANONICAL_SUBENDING1D-2="Це довгий шлях"
+
+
+# Brok
+### "But at the end of it"
+PC08B_CANONICAL_SUBENDING1D-3="Але наприкінці"
+
+
+# Brok
+### "Everything will be fine"
+PC08B_CANONICAL_SUBENDING1D-4="Усе буде добре"
+
+
+# Brok
+### How can I trust you?
+PC08B_CANONICAL_SUBENDING1D-5=Як я можу тобі довіряти?
+
+
+# Brok
+### "Trust yourself"
+PC08B_CANONICAL_SUBENDING1D-6="Довіряй собі"
+
+
+# Brok
+### "It all depends on you"
+PC08B_CANONICAL_SUBENDING1D-7="Усе залежить від тебе"
+
+
+#----------------------------------------------------
+# Brok
+### Thanks, past me or whatever you are.
+PC08B_CANONICAL_SUBENDING1E-1=Дякую, мій минулий я чи хто ти там є.
+
+
+#----------------------------------------------------
+# Brok
+### Alright...
+PC08B_CANONICAL_SUBENDING1F-1=Гаразд...
+
+
+# Brok
+### It's time.
+PC08B_CANONICAL_SUBENDING1F-2=Час настав.
+
+
+#----------------------------------------------------
+# Brok
+### At that instant...
+PC08B_STORY320_BROKENDTEXT-1=У ту саму мить...
+
+
+# Brok
+### My consciousness seemed to fade away.
+PC08B_STORY320_BROKENDTEXT-2=Здавалося, моя свідомість згасала.
+
+
+# Brok
+### I was slowly slipping into the unknown.
+PC08B_STORY320_BROKENDTEXT-3=Я повільно занурювався в невідомість.
+
+
+# Brok
+### Into the void.
+PC08B_STORY320_BROKENDTEXT-4=У порожнечу.
+
+
+# Brok
+### My last investigation was completed.
+PC08B_STORY320_BROKENDTEXT-5=Моє останнє розслідування було завершено.
+
+
+# Brok
+### Over the last three days...
+PC08B_STORY320_BROKENDTEXT-6=За останні три дні...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I had unchained the Slums from a perilous threat.
+PC08B_STORY320_BROKENDTEXT-7=Я звільнив Нетрі від смертельної загрози.
+
+
+# Brok
+### But...
+PC08B_STORY320_BROKENDTEXT-8=Але...
+
+
+# Brok
+### I failed to extricate from my own fate.
+PC08B_STORY320_BROKENDTEXT-9=Я не зміг вирватися з лап власної долі.
+
+
+# Brok
+### So many thoughts came to mind.
+PC08B_STORY320_BROKENDTEXT-10=Стільки думок вирувало в голові.
+
+
+# Brok
+### I tried my best to hold on to a single one.
+PC08B_STORY320_BROKENDTEXT-11=Я щосили намагався триматися за одну-єдину.
+
+
+# Brok
+### I couldn't care less if my whole existence would get erased from time and space.
+PC08B_STORY320_BROKENDTEXT-12=Мені було байдуже, чи буде все моє існування стерто з часу й простору.
+
+
+# Brok
+### I couldn't care less if I would lose all my memories.
+PC08B_STORY320_BROKENDTEXT-13=Мені було байдуже, чи втрачу я всі свої спогади.
+
+
+# Brok
+### Only one thing mattered...
+PC08B_STORY320_BROKENDTEXT-14=Важливим було лише одне...
+
+
+# Brok
+### You.
+PC08B_STORY320_BROKENDTEXT-15=Ти.
+
+
+# Brok
+### All these years...
+PC08B_STORY320_BROKENDTEXT-16=Усі ці роки...
+
+
+# Brok
+### You were there.
+PC08B_STORY320_BROKENDTEXT-17=Ти був поруч.
+
+
+# Brok
+### I wouldn't have had the strength to go on without you.
+PC08B_STORY320_BROKENDTEXT-18=У мене не вистачило б сил рухатися далі без тебе.
+
+
+# Brok
+### This is why...
+PC08B_STORY320_BROKENDTEXT-19=Ось чому...
+
+
+# Brok
+### I'm gonna fix my mistakes.
+PC08B_STORY320_BROKENDTEXT-20=Я виправлю свої помилки.
+
+
+# Brok
+### I'll make things right for you.
+PC08B_STORY320_BROKENDTEXT-21=Я зроблю все можливе для тебе.
+
+
+# Brok
+### I won't give up. No matter what.
+PC08B_STORY320_BROKENDTEXT-22=Я не здамся. Що б там не було.
+
+
+# Brok
+### As long as I live.
+PC08B_STORY320_BROKENDTEXT-23=Доки я живий.
+
+
+# Brok
+### I'll find a way.
+PC08B_STORY320_BROKENDTEXT-24=Я знайду спосіб.
+
+
+# Brok
+### I will rewrite history for you.
+PC08B_STORY320_BROKENDTEXT-25=Я перепишу історію заради тебе.
+
+
+# Brok
+### Because...
+PC08B_STORY320_BROKENDTEXT-26=Бо...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I love you, Graff.
+PC08B_STORY320_BROKENDTEXT2-1=Я люблю тебе, Граффе.
+
+
+#----------------------------------------------------
+# Shay - Walk on desk
+### Training on my desk again, eh?
+PC08B_WALKDESK1-1=Знову тренуєшся на моєму столі, га?
+
+
+# Shay
+### Come on! Go to the other room and train for tonight's fight!
+PC08B_WALKDESK1-2=Та ну! Йди в іншу кімнату й тренуйся до сьогоднішнього бою!
+
+
+#----------------------------------------------------
+# Shay - Try to hit Shay
+### You disappoint me, Bro'. Your attempts are fruitless.
+PC08B_HITSHAY1-1=Ти розчаровуєш мене, брате. Твої спроби марні.
+
+
+#----------------------------------------------------
+# Shay
+### My hardware and myself are protected. As long as I'm standing here, nothing can reach me.
+PC08B_HITSHAY2-1=Я і моє обладнання захищені. Доки я стою тут, ніщо не зможе мене дістати.
+
+
+# Shay
+### It hurts on a morale level, though. What did I do to deserve this?
+PC08B_HITSHAY2-2=Але морально це боляче. Чим я це заслужила?
+
+
+#----------------------------------------------------
+# Shay
+### Argh! See what you've done!
+PC08B_BOLT_DEAD1-1=Ар-р! Подивись, що ти наробив!
+
+
+# Shay
+### Now I gotta restart from scratch!
+PC08B_BOLT_DEAD1-2=Тепер мені доведеться починати все з нуля!
+
+
+#----------------------------------------------------
+# Brok
+### Erm...
+PC08B_BOLT_DEAD2-1=Е-е...
+
+
+# Shay
+### GET OUT!
+PC08B_BOLT_DEAD2-2=ГЕТЬ ЗВІДСИ!
+
+
+#----------------------------------------------------
+# Shay
+### Nice! It worked!
+PC08B_BOLT_DEADBIS-1=Чудово! Спрацювало!
+
+
+#----------------------------------------------------
+# Shay
+### Lucky for you! That was an easy fix.
+PC08B_BOLT_DEAD_BACK-1=Пощастило тобі! Це була проста поломка.
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Master Brok!...
+PC08B_BOLT_HITEND1-1=Господарю Броку...!
+
+
+#----------------------------------------------------
+# Bolt
+### Please don't!...
+PC08B_BOLT_HITEND2-1=Будь ласка, не треба...!
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay, mysterious Shay...
+COOP_PC08B_SHAY1-1=Шей, таємнича Шей...
+
+
+# Unknown
+### If only I could read your mind right now.
+COOP_PC08B_SHAY1-2=Якби ж я міг прочитати твої думки просто зараз.
+
+
+#----------------------------------------------------
+# Unknown
+### Woah, truly an antique bot!
+COOP_PC08B_BOLT1-1=Ого, справді старовинний бот!
+
+
+# Unknown
+### Custom made too. Never seen this model before.
+COOP_PC08B_BOLT1-2=Ще й зроблений на замовлення. Ніколи раніше не бачив такої моделі.
+
+
+#----------------------------------------------------
+# Unknown
+### Our journey ends here.
+COOP_PC08B_END1-1=Наша подорож тут закінчується.
+
+
+# Unknown
+### I hope I was useful.
+COOP_PC08B_END1-2=Сподіваюся, я був корисним.
+
+
+# Unknown
+### I'll always be a part of you...whatever the dimension we live in!
+COOP_PC08B_END1-3=Я завжди буду твоєю частиною... у якому б вимірі ми не жили!
+
+
+#----------------------------------------------------
+

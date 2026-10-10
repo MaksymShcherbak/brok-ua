@@ -1,0 +1,511 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Graff - Brok (Unknown)
+
+#-------------------------------
+#=Shay outside
+#-------------------------------
+
+#----- Interactions --------
+### Garage
+PC_GARAGE=Гараж
+
+### Words slots
+PC_WORD=Слоти для слів
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### First word?
+PC08_DAY3_CHOICES1=Перше слово?
+
+### Second word?
+PC08_DAY3_CHOICES2=Друге слово?
+
+### Third word?
+PC08_DAY3_CHOICES3=Третє слово?
+
+
+#The correct combination is "Time Erases Memory". The player has to look for a sentence in this order : Noun + Verb + Noun.
+#Try to find something similar which is fitting for your language !
+### Hope
+1WORD1=Надія
+
+### Miracle
+1WORD2=Диво
+
+### Strength
+1WORD3=Сила
+
+### Time
+1WORD4=Час
+
+### Chicken
+1WORD5=Курка
+
+### Erases
+2WORD1=Стирає
+
+### Loves
+2WORD2=Любить
+
+### Enhances
+2WORD3=Покращує
+
+### Is
+2WORD4=Є
+
+### Destroys
+2WORD5=Руйнує
+
+### Egg
+3WORD1=Яйце
+
+### Memory
+3WORD2=Пам'ять
+
+### Sea
+3WORD3=Море
+
+### Fat
+3WORD4=Жир
+
+### Money
+3WORD5=Гроші
+
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Garage door
+### The garage is closed? That's weird... Usually she leaves it open all day.
+PC08_GARAGE1-1=Гараж зачинений? Дивно... Зазвичай вона залишає його відчиненим увесь день.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Knock, knock) Shay? Are you there?
+PC08_GARAGE1B-1=(Тук-тук) Шей? Ти тут?
+
+
+# Brok
+### ...no reply.
+PC08_GARAGE1B-2=...не відповідає.
+
+
+# Brok
+### I bet she's in there anyway. She never leaves the place!
+PC08_GARAGE1B-3=Б'юсь об заклад, вона все одно там. Вона нікуди звідти не виходить!
+
+
+#----------------------------------------------------
+# Brok - Day 3 - The garage is closed and there's a lock
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Closed... Shay warned me.
+PC08_DAY3_GARAGE1-1=Зачинено... Шей попереджала мене.
+
+
+# Brok
+### But this lock... That's new.
+PC08_DAY3_GARAGE1-2=Але цей замок... Це щось новеньке.
+
+
+#----------------------------------------------------
+# Brok
+### A keyboard... Three slots...
+PC08_DAY3_CLOSEUP1-1=Клавіатура... Три слоти...
+
+
+# Brok
+### "Noun + verb + noun" is written down.
+PC08_DAY3_CLOSEUP1-2=Написано: "Іменник + дієслово + іменник".
+
+
+# Brok
+### Looks like I need to enter three words...
+PC08_DAY3_CLOSEUP1-3=Схоже, мені треба ввести три слова...
+
+
+#----------------------------------------------------
+# Brok
+### Is this a clock?
+PC08_PICTURE_CLOCK-1=Це що, годинник?
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... If I'm not mistaken, this is one of those old erasers I used at school.
+PC08_PICTURE_RUBBER-1=Гмм... Якщо я не помиляюся, це одна з тих старих гумок, якими я користувався в школі.
+
+
+#----------------------------------------------------
+# Brok
+### I can't think of anything.
+PC08_PICTURE_THINK-1=Нічого не спадає на думку.
+
+
+# Brok
+### Hey, maybe it's just that... A brain!
+PC08_PICTURE_THINK-2=Гей, а може... Мозок!
+
+
+#----------------------------------------------------
+# Brok
+### Nah... Pretty sure I'm not supposed to enter her garage right now.
+PC08_DAY3_NOTYET1-1=Ні... Певен, мені зараз не варто заходити до її гаража.
+
+
+#----------------------------------------------------
+# Brok
+### Nope! I don't have enough items to solve this.
+PC08_DAY3_NOTYET2-1=Ні! У мене недостатньо речей, щоб розібратися з цим.
+
+
+#----------------------------------------------------
+# Brok
+### No good...
+PC08_DAY3_WRONG1-1=Не те...
+
+
+#----------------------------------------------------
+# Brok
+### Nope!
+PC08_DAY3_WRONG2-1=Ні!
+
+
+#----------------------------------------------------
+# Brok
+### Wrong again...
+PC08_DAY3_WRONG3-1=Знову не те...
+
+
+# Brok
+### I should take a closer look at those symbols...
+PC08_DAY3_WRONG3-2=Треба уважніше придивитися до цих символів...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay asked me to be a detective for a reason, so these words must be linked to her invention.
+PC08_DAY3_WRONG4-1=Шей не просто так попросила мене бути детективом, тож ці слова мають бути пов'язані з її винаходом.
+
+
+#----------------------------------------------------
+# Brok
+### I'm not sure...
+PC08_DAY3_CHOICES_EXIT-1=Я не впевнений...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC08_DAY3_GARAGEWIN-1=...
+
+
+#----------------------------------------------------
+# Brok - Day 1 - Checking the buttons on the garage door
+### Weird, I don't remember this button...!
+PC08_BUTTONA1-1=Дивно, не пригадую цієї кнопки...!
+
+
+#----------------------------------------------------
+# Brok
+### What's this for...?
+PC08_BUTTONB1-1=Для чого це...?
+
+
+#----------------------------------------------------
+# Brok
+### No way!
+PC08_BUTTONNO-1=Ні за що!
+
+
+#----------------------------------------------------
+# Brok - Inside the slot is a saw ready to kill the player. It unleashes!
+### That's new...
+PC08_SLOT1-1=А це щось новеньке...
+
+
+#----------------------------------------------------
+# Brok
+### What the?!
+PC08_SLOT_ESCAPED1-1=Якого біса?!
+
+
+#----------------------------------------------------
+# Brok
+### Deactivated! Phew!
+PC08_SLOT_DISABLED-1=Вимкнено! Фух!
+
+
+#----------------------------------------------------
+# Brok - Day 3 end - Prevent player from exiting
+### I won't go back now...
+PC08_DAY3_NOEXIT1-1=Я вже не піду назад...
+
+
+#----------------------------------------------------
+# Brok - Getting Shay's material from this room
+### Ha-ha!
+PC08_MATERIAL1-1=Ха-ха!
+
+
+#----------------------------------------------------
+# Brok - Day 3 Ending "Cannot" - Graff came with Brok to try the time machine but it's nowhere to be found.
+### ...
+PC08_STORY330_CANNOT_WITHGRAFF1-1=...
+
+
+# Brok
+### I don't understand...
+PC08_STORY330_CANNOT_WITHGRAFF1-2=Я не розумію...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### And Shay?
+PC08_STORY330_CANNOT_WITHGRAFF1-3=А Шей?
+
+
+# Brok
+### Where the heck could she be?
+PC08_STORY330_CANNOT_WITHGRAFF1-4=Де її чорти носять?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Who is Shay?
+PC08_STORY330_CANNOT_WITHGRAFF1-5=Хто така Шей?
+
+
+# Brok
+### ...?
+PC08_STORY330_CANNOT_WITHGRAFF1-6=...?
+
+
+# Brok
+### Something...
+PC08_STORY330_CANNOT_WITHGRAFF1-7=Щось...
+
+
+# Brok
+### Something's wrong...
+PC08_STORY330_CANNOT_WITHGRAFF1-8=Щось не так...
+
+
+# Brok - Graff and the garage are starting to fade away
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?!
+PC08_STORY330_CANNOT_WITHGRAFF1-9=Граффе?!
+
+
+# Graff
+### ...
+PC08_STORY330_CANNOT_WITHGRAFF1-10=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!! What's going on?!
+PC08_STORY330_CANNOT_WITHGRAFF1-11=Граффе!!! Що відбувається?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### B...Brok...?
+PC08_STORY330_CANNOT_WITHGRAFF1-12=Б... Броку...?
+
+
+# Brok
+### The garage... It's disappearing!
+PC08_STORY330_CANNOT_WITHGRAFF1-13=Гараж... Він зникає!
+
+
+# Brok
+### Get outta here! Now!
+PC08_STORY330_CANNOT_WITHGRAFF1-14=Забирайся звідси! Зараз же!
+
+
+# Graff
+### ...
+PC08_STORY330_CANNOT_WITHGRAFF1-15=...
+
+
+# Brok
+### Noooo!
+PC08_STORY330_CANNOT_WITHGRAFF1-16=Ніііі!
+
+
+# Brok
+### Don't leave me!
+PC08_STORY330_CANNOT_WITHGRAFF1-17=Не покидай мене!
+
+
+# Brok
+### Hold my hand!
+PC08_STORY330_CANNOT_WITHGRAFF1-18=Візьми мене за руку!
+
+
+# Graff
+### ...
+PC08_STORY330_CANNOT_WITHGRAFF1-19=...
+
+
+#----------------------------------------------------
+# Brok - Too late, we've entered an alternative reality in which Graff never existed
+### ...
+PC08_STORY320_CANNOT_WITHGRAFF2-1=...
+
+
+# Brok
+### Where am I...?
+PC08_STORY320_CANNOT_WITHGRAFF2-2=Де я...?
+
+
+# Brok
+### This is weird...
+PC08_STORY320_CANNOT_WITHGRAFF2-3=Це так дивно...
+
+
+# Brok
+### I... thought...
+PC08_STORY320_CANNOT_WITHGRAFF2-4=Я... думав...
+
+
+# Brok
+### I had a kid...
+PC08_STORY320_CANNOT_WITHGRAFF2-5=Що у мене є дитина...
+
+
+# Brok
+### A teenage boy...?
+PC08_STORY320_CANNOT_WITHGRAFF2-6=Хлопець-підліток...?
+
+
+# Brok
+### Whoa...
+PC08_STORY320_CANNOT_WITHGRAFF2-7=Ого...
+
+
+# Brok
+### I must have eaten way too many ant burritos!
+PC08_STORY320_CANNOT_WITHGRAFF2-8=Мабуть, я з'їв забагато мурашиних бурито!
+
+
+# Brok
+### Me, with a kid!
+PC08_STORY320_CANNOT_WITHGRAFF2-9=Я, з дитиною!
+
+
+# Brok
+### What a nightmare!
+PC08_STORY320_CANNOT_WITHGRAFF2-10=Який жах!
+
+
+# Brok
+### I've always been a loner and it's better this way. I can hardly stand myself!
+PC08_STORY320_CANNOT_WITHGRAFF2-11=Я завжди був одинаком, і так краще. Я ледве терплю самого себе!
+
+
+# Brok
+### Oh my! Would you look at the time!
+PC08_STORY320_CANNOT_WITHGRAFF2-12=Ой леле! Тільки подивіться, котра година!
+
+
+# Brok
+### Better run to the fighting pit!
+PC08_STORY320_CANNOT_WITHGRAFF2-13=Краще бігти до бійцівських ям!
+
+
+# Brok
+### ...
+PC08_STORY320_CANNOT_WITHGRAFF2-14=...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... What was that boy's name...?
+PC08_STORY320_CANNOT_WITHGRAFF3-1=Гмм... Як звали того хлопця...?
+
+
+# Brok
+### Ah yes...
+PC08_STORY320_CANNOT_WITHGRAFF3-2=А, так...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff.
+PC08_STORY320_CANNOT_WITHGRAFF3-3=Графф.
+
+
+# Brok
+### Nice name.
+PC08_STORY320_CANNOT_WITHGRAFF3-4=Гарне ім'я.
+
+
+# Brok
+### Who knows.
+PC08_STORY320_CANNOT_WITHGRAFF3-5=Хто знає.
+
+
+# Brok
+### If I have a child someday...
+PC08_STORY320_CANNOT_WITHGRAFF3-6=Якщо колись у мене буде дитина...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'll name him Graff.
+PC08_STORY320_CANNOT_WITHGRAFF3-7=Я назву його Граффом.
+
+
+# Brok
+### Yeah! Sounds good.
+PC08_STORY320_CANNOT_WITHGRAFF3-8=Так! Звучить непогано.
+
+
+#----------------------------------------------------
+# Brok
+### Open up!
+PC08_GARAGEDOOR_HIT1-1=Відчиняй!
+
+
+#----------------------------------------------------
+# Brok
+### I know you're in there!
+PC08_GARAGEDOOR_HIT2-1=Я знаю, що ти там!
+
+
+#----------------------------------------------------
+# Brok
+### No way!
+PC08_CABIN1-1=Не можу повірити!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay must want me to keep training while she's gone...
+PC08_CABIN1-2=Мабуть, Шей хоче, щоб я продовжував тренуватися, поки її немає...
+
+
+# Brok
+### Better not disappoint her!
+PC08_CABIN1-3=Краще її не розчаровувати!
+
+
+#----------------------------------------------------
+# Brok
+### No time for this!
+PC08_CABIN_NO-1=Не час для цього!
+
+
+#----------------------------------------------------
+

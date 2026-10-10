@@ -1,0 +1,128 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=Virtual arena training
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+### Jumpkick
+BM01_TITLE_TUTORIAL1=Удар в стрибку
+
+### {command}
+BM01_SUBTITLE_TUTORIAL1={command}
+
+### Press <button=INPUT_ACTION_JUMPKICK> to perform a jumpkick.##Tip : During a combo, press it to perform an uppercut!
+BM01_SUBTITLE_TUTORIAL1_MOUSE=Натисніть <button=INPUT_ACTION_JUMPKICK>, щоб виконати удар в стрибку.##Підказка: Під час комбо натисніть цю кнопку, щоб виконати аперкот!
+
+### Jump with <button=INPUT_ACTION_JUMP> then press <button=INPUT_ACTION_HIT>##You can also perform an uppercut by pressing <button=INPUT_ACTION_JUMP> + <button=INPUT_ACTION_HIT> while you're on the ground.
+BM01_SUBTITLE_TUTORIAL1_GAMEPAD=Стрибніть за допомогою <button=INPUT_ACTION_JUMP>, а потім натисніть <button=INPUT_ACTION_HIT>##Ви також можете виконати аперкот, натиснувши <button=INPUT_ACTION_JUMP> + <button=INPUT_ACTION_HIT>, перебуваючи на землі.
+
+### Destroy all targets
+BM01_OBJECTIVE_TUTORIAL1=Знищіть усі цілі
+
+
+
+### Powerful attack
+BM01_TITLE_TUTORIAL2=Потужна атака
+
+### {command} to unleash an attack that can pierce through most defenses!
+BM01_SUBTITLE_TUTORIAL2={command}, щоб виконати атаку, здатну пробити майже будь-який захист!
+
+### Press <button=INPUT_ACTION_POWERFULATTACK>
+BM01_SUBTITLE_TUTORIAL2_MOUSE=Натисніть <button=INPUT_ACTION_POWERFULATTACK>
+
+### Run by holding <spr=GAMEPAD_TRIGGERRIGHT> and press <button=INPUT_ACTION_HIT>
+BM01_SUBTITLE_TUTORIAL2_GAMEPAD=Біжіть, утримуючи <spr=GAMEPAD_TRIGGERRIGHT> та натискаючи <button=INPUT_ACTION_HIT>
+
+### Destroy all crates
+BM01_OBJECTIVE_TUTORIAL2=Знищіть усі ящики
+
+
+
+### Quick select
+BM01_TITLE_TUTORIAL3=Швидкий вибір
+
+### During fights, {command} to bring the quick menus.##Take your stick and attack!
+BM01_SUBTITLE_TUTORIAL3=Під час боїв використовуйте {command}, щоб відкрити меню швидкого вибору.##Хапайте палицю та атакуйте!
+
+### hold <button=INPUT_ACTION_QUICKSELECT_INV> (items) or <button=INPUT_ACTION_QUICKSELECT_FOOD> (food)
+BM01_SUBTITLE_TUTORIAL3_MOUSE=утримуйте <button=INPUT_ACTION_QUICKSELECT_INV> (предмети) або <button=INPUT_ACTION_QUICKSELECT_FOOD> (їжа)
+
+### hold <spr=GAMEPAD_SHOULDERLEFT> (items) or <spr=GAMEPAD_SHOULDERRIGHT> (food)
+BM01_SUBTITLE_TUTORIAL3_GAMEPAD=утримуйте <spr=GAMEPAD_SHOULDERLEFT> (предмети) або <spr=GAMEPAD_SHOULDERRIGHT> (їжа)
+
+### Destroy all targets
+BM01_OBJECTIVE_TUTORIAL3=Знищіть усі цілі
+
+
+
+### {command}
+BM01_SUBTITLE_TUTORIAL4={command}
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Hold the guard button <button=INPUT_ACTION_GUARD> and click away from the direction you are facing.
+BM01_SUBTITLE_TUTORIAL4_MOUSE=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та клацніть у протилежному від себе напрямку.
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Hold the guard button <button=INPUT_ACTION_GUARD> and press <spr=GAMEPAD_STICKLEFT> opposite of the direction you are facing. You can also use <spr=GAMEPAD_STICKRIGHT>.
+BM01_SUBTITLE_TUTORIAL4_GAMEPAD=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та натисніть <spr=GAMEPAD_STICKLEFT> у протилежному від себе напрямку. Також можна використовувати <spr=GAMEPAD_STICKRIGHT>.
+
+### Dodge or parry to survive until timer runs out
+BM01_OBJECTIVE_TUTORIAL4=Ухиляйтеся чи парируйте, щоб вижити до закінчення часу
+
+
+### Special attack
+BM01_TITLE_TUTORIAL5=Спеціальна атака
+
+### Wait for the gauge to fill then {command} to unleash your special attack!
+BM01_SUBTITLE_TUTORIAL5=Зачекайте, поки індикатор заповниться, а потім {command}, щоб виконати спеціальну атаку!
+
+### click on the player (or press <button=INPUT_ACTION_SPECIALMOVE>)
+BM01_SUBTITLE_TUTORIAL5_MOUSE=клацніть на персонажа гравця (або натисніть <button=INPUT_ACTION_SPECIALMOVE>)
+
+### press <spr=GAMEPAD_TRIGGERLEFT>
+BM01_SUBTITLE_TUTORIAL5_GAMEPAD=натисніть <spr=GAMEPAD_TRIGGERLEFT>
+
+### Kill the enemies
+BM01_OBJECTIVE_TUTORIAL5=Вбийте ворогів
+
+
+
+### Fast back on feet
+BM01_TITLE_TUTORIAL6=Швидке вставання на ноги
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### When Brok gets thrown, {command} before he reaches ground to get back into fight without taking damage.
+BM01_SUBTITLE_TUTORIAL6=Коли Брока кидають, використайте {command} перед тим, як він досягне землі, щоб повернутися в бій без отримання шкоди.
+
+### <col=BOLD>click on him</col> (and hold) or <col=BOLD>press <spr=CONTROL_up> UP</col> + <button=INPUT_ACTION_GUARD>
+BM01_SUBTITLE_TUTORIAL6_MOUSE=<col=BOLD>натисніть на нього</col> (і утримуйте) або <col=BOLD>натисніть <spr=CONTROL_up> ВГОРУ</col> + <button=INPUT_ACTION_GUARD>
+
+### press <spr=GAMEPAD_STICKLEFT> UP + <button=INPUT_ACTION_GUARD>
+BM01_SUBTITLE_TUTORIAL6_GAMEPAD=натисніть <spr=GAMEPAD_STICKLEFT> ВГОРУ + <button=INPUT_ACTION_GUARD>
+
+### Keep getting back on your feet until timer runs out
+BM01_OBJECTIVE_TUTORIAL6=Продовжуйте вставати на ноги, поки не закінчиться час
+
+
+### Practice!
+BM01_TITLE_TUTORIAL7=Практикуйтесь!
+
+### Use the moves you've learnt to defeat the enemies!
+BM01_SUBTITLE_TUTORIAL7=Використовуйте вивчені прийоми, щоб перемогти ворогів!
+
+### Kill the enemies
+BM01_OBJECTIVE_TUTORIAL7=Убийте ворогів
+
+
+
+
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+

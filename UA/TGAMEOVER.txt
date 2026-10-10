@@ -1,0 +1,25 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=Gameover text
+#-------------------------------
+
+# -------------------------------
+### Need help?
+GAMEOVER_DIFFICULTYQUESTION=Потрібна допомога?
+
+### Lower difficulty
+GAMEOVER_DIFFICULTYLOWER=Зменшити складність
+
+### Buy food
+GAMEOVER_DIFFICULTYFOOD=Купити їжу
+
+### Continue
+GAMEOVER_DIFFICULTYCONTINUE=Продовжити
+
+### Difficulty changed
+GAMEOVER_DIFFICULTYCHANGED=Складність змінено
+
+### The game is now in {difficulty} mode.
+GAMEOVER_DIFFICULTYCHANGEDTEXT=Гру буде продовжено на складності {difficulty}.
+
+

@@ -1,0 +1,1766 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Gherkin (Unknown)
+#     Brok - Pipemail (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Various (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Pipemail (Unknown)
+#     Pipemail - Brok (Unknown)
+#     Pipemail - Gherkin (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Tribotcop - Tribot (Unknown)
+#     Tribot - Tribotcop (Unknown)
+#     Various - Brok (Unknown)
+
+#-------------------------------
+#=SLUM OUTSIDE BROK SECTOR
+#-------------------------------
+
+#----- Interactions --------
+### Vending machine
+PC_VENDINGMACHINE=Торговельний автомат
+
+### Barrier device
+PC_BARRIERDEVICE=Бар'єрний пристрій
+
+### Barrier
+PC_FENCE=Бар'єр
+
+### Fitness club
+PC_FITNESSCLUB=Фітнес-клуб
+
+### Fingerprint reader
+PC_FINGERPRINTREADER=Сканер відбитків пальців
+
+### Store window
+PC_STOREWINDOW=Вітрина магазину
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribot cop key
+PC_TRIBOTKEY=Ключ поліцейського Трибота
+
+### Alley
+PC_ALLEY=Провулок
+
+### Fountain
+PC_FOUNTAIN=Фонтан
+
+### Pharmacy
+PC_PHARMACY=Аптека
+
+### Code input
+PC_CODEINPUT=Введення коду
+
+### Garbage collector
+PC_GARBAGE=Збирач сміття
+
+### Access
+PC_ACCESS=Прохід
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### A Pred inflated!
+GOT_PREDINFLATED=Наповнена іграшка!
+
+### What to do with this item?
+PC04_PIPEMAIL_CHOICE_ITEM=Що зробити з цим предметом?
+
+### Send
+PC04_PIPEMAIL_SEND=Надіслати
+
+### Money Transfer
+PC04_PIPEMAIL_TRANSFER=Грошовий переказ
+
+### Throw away
+PC04_PIPEMAIL_DESTROY=Викинути
+
+
+
+#----- Topics --------
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Guard
+TOPIC_GUARD=Охоронець
+
+### Barrier
+TOPIC_DEVICE=Бар'єр
+
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+# Brok - Coming here for the first time
+### I remember this place.
+PC04_WELCOME1-1=Я пам'ятаю це місце.
+
+
+# Brok
+### Hasn't changed much since we were forced to leave.
+PC04_WELCOME1-2=Воно майже не змінилося з тих пір, як нас змусили піти.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumers work in offices, their rears on floating chairs. Others stay in bed all day...
+PC04_FITNESSCLUB1-1=Мешканці Верхів працюють в офісах, постійно сидячи на повітряних стільцях. Інші цілими днями лежать у ліжку...
+
+
+# Brok
+### So they go in there regularly to keep a fit body.
+PC04_FITNESSCLUB1-2=Тож вони регулярно ходять сюди, щоб тримати тіло в формі.
+
+
+# Brok
+### I don't need it! And... I couldn't afford it.
+PC04_FITNESSCLUB1-3=Мені це не потрібно! Та й... я б не зміг собі цього дозволити.
+
+
+#----------------------------------------------------
+# Brok
+### Can't enter without the proper fingers!
+PC04_FINGERPRINTREADER1-1=Я не можу увійти без відповідних пальців!
+
+
+#----------------------------------------------------
+# Brok
+### Tons of drugs on display. With insane prices...
+PC04_STOREWINDOW1-1=Купа ліків на вітрині. За божевільними цінами...
+
+
+#----------------------------------------------------
+# Brok
+### Just one of many surveillance cameras!
+PC04_CAMERA1-1=Просто одна з багатьох камер спостереження!
+
+
+# Brok
+### Looks like it's disabled.
+PC04_CAMERA1-2=Схоже, вона вимкнена.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### A memorial fountain... "Autarchism day - 3026 A.R."
+PC04_FOUNTAIN1-1=Пам'ятний фонтан... "День Аутархізму - 3026 П.В."
+
+
+# Brok
+### Almost ten years ago. We used to be ruled by a giant democracy involving most countries of the world.
+PC04_FOUNTAIN1-2=Майже десять років тому. Колись нами керувала велика демократія, яка охоплювала більшість країн світу.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### But a deep economic crisis led to conflicts. Atlasia became independant and self-governed.
+PC04_FOUNTAIN1-3=Але глибока економічна криза призвела до конфліктів. Атлазія стала автономною та незалежною.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I'm not surprised to see this fountain here. Drumers profited from this situation... unlike us.
+PC04_FOUNTAIN2-1=Я не здивований бачити тут цей фонтан. Мешканці Верхів виграли від цієї ситуації... на відміну від нас.
+
+
+#----------------------------------------------------
+# Brok
+### There, it's wet. Just a few seconds...
+PC04_FOUNTAIN_PREDNORMAL-1=Ось, вона наповнилася. Всього за кілька секунд...
+
+
+#----------------------------------------------------
+# Brok
+### No use! It's already wet!
+PC04_FOUNTAIN_PREDINFLATED-1=Марно! Вона вже повна!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### A public Pipe-Mail.
+PC04_PIPEMAIL1-1=Публічний Поштомат.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Similar to Pipe-Pills, but I can use it to send some physical goods directly to someone.
+PC04_PIPEMAIL1-2=Схожий на Пігулкомат, але через нього я можу безпосередньо відправити комусь фізичні речі.
+
+
+# Brok
+### It doubles-up as a secure identity check and transfer...
+PC04_PIPEMAIL1-3=Він також забезпечує надійну перевірку особи та переказу...
+
+
+# Pipemail
+### Hello! Do you need my services?
+PC04_PIPEMAIL1-4=Вітаю! Вам потрібні мої послуги?
+
+
+# Brok
+### Maybe!
+PC04_PIPEMAIL1-5=Можливо!
+
+
+#----------------------------------------------------
+# Pipemail
+### You currently have overdue bills. Please send payment before... today.
+PC04_PIPEMAIL1_DUEBILL-1=У вас наразі є неоплачені рахунки. Будь ласка, надішліть оплату до... сьогодні.
+
+
+# Brok
+### Mmrph. Thanks for reminding me, tin can.
+PC04_PIPEMAIL1_DUEBILL-2=М-ммм. Дякую, що нагадала, бляшанко.
+
+
+# Pipemail
+### You're welcome!
+PC04_PIPEMAIL1_DUEBILL-3=Будь ласка!
+
+
+#----------------------------------------------------
+# Brok
+### Please remind me... What services do you offer?
+PC04_PIPEMAIL2-1=Нагадай... Які послуги ти надаєш?
+
+
+# Pipemail
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Mail delivery. Unis transfer and bills payment. Goods dumping.
+PC04_PIPEMAIL2-2=Доставка пошти. Переказ Юні та оплата рахунків. Викидання речей.
+
+
+# Pipemail
+### What are you interested in?
+PC04_PIPEMAIL2-3=Що вас цікавить?
+
+
+#----------------------------------------------------
+# Gherkin
+### This one doesn't deliver pills.
+PC04_PIPEMAIL_GHERKIN-1=Цей апарат не видає пігулки.
+
+
+# Brok
+### Well, still gonna use it.
+PC04_PIPEMAIL_GHERKIN-2=Що ж, усе одно скористаюся ним.
+
+
+#----------------------------------------------------
+# Brok
+### Nope... This machine doesn't deliver pills.
+PC04_PIPEMAIL_TRAMPPRESCR-1=Ні... Цей автомат не видає пігулки.
+
+
+# Brok
+### I'll have to enter the pharmacy for that!
+PC04_PIPEMAIL_TRAMPPRESCR-2=Для цього мені доведеться зайти в аптеку!
+
+
+#----------------------------------------------------
+# Brok
+### I'd like to send mail. How does that work?
+PC04_PIPEMAIL_ASK_MAIL-1=Я хотів би відправити пошту. Як це працює?
+
+
+# Pipemail
+### This apparatus is designed to take any form of material, physical or semi-physical goods such as digital or encrypted transmissions from permitted citizens of the district 6-Y.
+PC04_PIPEMAIL_ASK_MAIL-2=Цей апарат призначений для прийому будь-якої форми матеріальних, фізичних або напівфізичних товарів, таких як цифрові або зашифровані передачі, від дозволених громадян району 6-Y.
+
+
+# Pipemail
+### This sending method has been patented by Tri-Corp under the ID G06F13/00, following the regulations described in article 46B of the constitution related to the usage of electro-mechanical devices and private communications.
+PC04_PIPEMAIL_ASK_MAIL-3=Цей метод відправки був запатентований Трай-Корп під номером G06F13/00 відповідно до правил, описаних у статті 46B конституції щодо використання електромеханічних пристроїв і приватних комунікацій.
+
+
+# Brok
+### What gibberish.
+PC04_PIPEMAIL_ASK_MAIL-4=Що за маячня.
+
+
+# Pipemail
+### Switching to I.D.I.O.T. mode...
+PC04_PIPEMAIL_ASK_MAIL-5=Перемикаюся в режим І.Д.І.О.Т....
+
+
+# Pipemail
+### Put your mail inside me. Quick and simple!
+PC04_PIPEMAIL_ASK_MAIL-6=Покладіть свою пошту всередину мене. Швидко і просто!
+
+
+# Brok
+### I prefer that.
+PC04_PIPEMAIL_ASK_MAIL-7=Так мені подобається більше.
+
+
+#----------------------------------------------------
+# Brok
+### I want to send this!
+PC04_PIPEMAIL_SEND1-1=Я хочу це надіслати!
+
+
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_SEND1-2=Триває сканування...
+
+
+# Pipemail
+### Object accepted. Identify the recipient.
+PC04_PIPEMAIL_SEND1-3=Об'єкт прийнято. Вкажіть отримувача.
+
+
+# Brok
+### Erm... If I say "nobody," does that count?
+PC04_PIPEMAIL_SEND1-4=Е-е... Якщо я скажу "нікому", це зарахується?
+
+
+# Pipemail
+### No recipient identified. Please take back your item.
+PC04_PIPEMAIL_SEND1-5=Отримувача не вказано. Будь ласка, заберіть свій предмет назад.
+
+
+#----------------------------------------------------
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_SEND2-1=Триває сканування...
+
+
+# Pipemail
+### Object accepted. Please identify the recipient.
+PC04_PIPEMAIL_SEND2-2=Об'єкт прийнято. Будь ласка, вкажіть отримувача.
+
+
+# Brok
+### Let me think a minute...
+PC04_PIPEMAIL_SEND2-3=Дай мені секунду подумати...
+
+
+#----------------------------------------------------
+# Brok
+### I'd like to pay this bill!
+PC04_PIPEMAIL_TRANSFER_NOTBILL-1=Я хотів би оплатити цей рахунок!
+
+
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_TRANSFER_NOTBILL-2=Триває сканування...
+
+
+# Pipemail
+### Warning. No signature found. This isn't an accepted form of bill.
+PC04_PIPEMAIL_TRANSFER_NOTBILL-3=Увага. Підпис не знайдено. Цей предмет не є прийнятною формою рахунку.
+
+
+# Pipemail
+### Please take back your item.
+PC04_PIPEMAIL_TRANSFER_NOTBILL-4=Будь ласка, заберіть свій предмет назад.
+
+
+#----------------------------------------------------
+# Brok
+### Take money from my account to pay this bill.
+PC04_PIPEMAIL_TRANSFER_BILL-1=Спиши гроші з мого банківського рахунку, щоб це оплатити.
+
+
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_TRANSFER_BILL-2=Триває сканування...
+
+
+# Pipemail - Amount can vary, do not say the last sentence
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Bill detected. The due amount is {amount} Unis.
+PC04_PIPEMAIL_TRANSFER_BILL-3=Виявлено рахунок. Сума до сплати становить {amount} Юні.
+
+
+#----------------------------------------------------
+# Pipemail
+### Insufficient credits in your account.
+PC04_PIPEMAIL_TRANSFER_BILLNOTENOUGH-1=Недостатньо коштів на вашому рахунку.
+
+
+# Pipemail
+### This failed attempt has been reported to the appropriate creditor.
+PC04_PIPEMAIL_TRANSFER_BILLNOTENOUGH-2=Про цю невдалу спробу повідомлено відповідного кредитора.
+
+
+# Brok
+### Hey!!! Ya didn't need to do that!
+PC04_PIPEMAIL_TRANSFER_BILLNOTENOUGH-3=Гей!!! Тобі не потрібно було цього робити!
+
+
+# Brok
+### I'll get the dough. Just gimme some time.
+PC04_PIPEMAIL_TRANSFER_BILLNOTENOUGH-4=Я дістану бабки. Просто дай мені трохи часу.
+
+
+# Pipemail
+### Please retrieve your bill.
+PC04_PIPEMAIL_TRANSFER_BILLNOTENOUGH-5=Будь ласка, заберіть свій рахунок.
+
+
+#----------------------------------------------------
+# Pipemail
+### Sufficient credits. Payment complete.
+PC04_PIPEMAIL_TRANSFER_BILLA-1=Достатньо коштів. Оплату завершено.
+
+
+# Brok
+### Yeah...!
+PC04_PIPEMAIL_TRANSFER_BILLA-2=Є-є...!
+
+
+# Brok
+### So... What did I win...?
+PC04_PIPEMAIL_TRANSFER_BILLA-3=І... Що я виграв...?
+
+
+# Pipemail
+### Thank you, and goodbye.
+PC04_PIPEMAIL_TRANSFER_BILLA-4=Дякуємо і до побачення.
+
+
+# Brok
+### Suddenly I feel empty.
+PC04_PIPEMAIL_TRANSFER_BILLA-5=Раптово я відчув порожнечу.
+
+
+#----------------------------------------------------
+# Pipemail
+### Sufficient credits. Payment complete.
+PC04_PIPEMAIL_TRANSFER_BILLB-1=Достатньо коштів. Оплату завершено.
+
+
+# Brok
+### Hopefully this is the last one...
+PC04_PIPEMAIL_TRANSFER_BILLB-2=Сподіваюся, це останній...
+
+
+# Brok
+### Maybe I'm stupid for paying. What's the worst that could happen...?
+PC04_PIPEMAIL_TRANSFER_BILLB-3=Можливо, я дурень, що плачу. Що найгіршого може статися...?
+
+
+#----------------------------------------------------
+# Brok
+### How do I pay my bills?
+PC04_PIPEMAIL_ASK_TRANSFER-1=Як мені оплатити свої рахунки?
+
+
+# Pipemail
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### This apparatus allows secure Unis transfer by checking the identity of the sender.
+PC04_PIPEMAIL_ASK_TRANSFER-2=Цей апарат дозволяє безпечний переказ Юні шляхом перевірки особи відправника.
+
+
+# Pipemail
+### Just insert the original bill inside the apparatus to begin the transfer process.
+PC04_PIPEMAIL_ASK_TRANSFER-3=Просто вставте оригінальний рахунок всередину апарата, щоб розпочати процес переказу.
+
+
+# Pipemail
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Beforehand, please make sure to have sufficient Unis in your account.
+PC04_PIPEMAIL_ASK_TRANSFER-4=Попередньо, будь ласка, переконайтеся, що на вашому рахунку достатньо Юні.
+
+
+#----------------------------------------------------
+# Brok
+### Get rid of that thing.
+PC04_PIPEMAIL_ITEMDESTROY1-1=Позбудься цієї штуки.
+
+
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_ITEMDESTROY1-2=Триває сканування...
+
+
+# Pipemail
+### Dumping process started.
+PC04_PIPEMAIL_ITEMDESTROY1-3=Розпочато процес викидання.
+
+
+#----------------------------------------------------
+# Brok
+### ...Not sure this was such a good idea.
+PC04_PIPEMAIL_ITEMDESTROYB1-1=...Не впевнений, що це була хороша ідея.
+
+
+#----------------------------------------------------
+# Brok
+### I don't need this. Throw it away!
+PC04_PIPEMAIL_ITEMDESTROY2-1=Мені це не потрібно. Викинь!
+
+
+# Pipemail
+### Scanning in progress...
+PC04_PIPEMAIL_ITEMDESTROY2-2=Триває сканування...
+
+
+# Pipemail
+### Dumping process started.
+PC04_PIPEMAIL_ITEMDESTROY2-3=Розпочато процес викидання.
+
+
+#----------------------------------------------------
+# Brok
+### Erm... What did I accomplish by doing that?
+PC04_PIPEMAIL_ITEMDESTROYB2-1=Е-е... І чого я цим досягнув?
+
+
+# Brok
+### Oops.
+PC04_PIPEMAIL_ITEMDESTROYB2-2=Ой.
+
+
+#----------------------------------------------------
+# Brok
+### I hope it worked...
+PC04_PIPEMAIL_ITEMDESTROY_MINE-1=Сподіваюся, спрацювало...
+
+
+# Brok
+### Only one way to find out!
+PC04_PIPEMAIL_ITEMDESTROY_MINE-2=Є лише один спосіб дізнатися!
+
+
+#----------------------------------------------------
+# Brok
+### So you can discard items?
+PC04_PIPEMAIL_ASK_DESTROY-1=Тобто ти можеш викидувати предмети?
+
+
+# Pipemail
+### Yes. Insert your goods, then ask me to throw it away.
+PC04_PIPEMAIL_ASK_DESTROY-2=Так. Вставте товари всередину і попросіть мене їх викинути.
+
+
+# Pipemail
+### Warning. The act of dumping goods is permanent.
+PC04_PIPEMAIL_ASK_DESTROY-3=Увага. Дія викидання речей є незворотною.
+
+
+# Pipemail
+### According to regulation 456D of the constitution, agreeing to this service disables your right to sue us, the service, the apparatus, the Government or any and all third parties involved in its conception.
+PC04_PIPEMAIL_ASK_DESTROY-4=Згідно з правилом 456D конституції, згода на цю послугу позбавляє вас права позиватися до нас, служби, апарата, Уряду або будь-яких третіх осіб, залучених до його розробки.
+
+
+# Pipemail
+### No complaint or damage caused to the apparatus shall be deemed acceptable.
+PC04_PIPEMAIL_ASK_DESTROY-5=Жодні скарги або шкода, завдані апарату, не вважатимуться прийнятними.
+
+
+# Brok
+### Enough. I get your point.
+PC04_PIPEMAIL_ASK_DESTROY-6=Досить. Я зрозумів суть.
+
+
+# Brok
+### So... I should start by inserting an item.
+PC04_PIPEMAIL_ASK_DESTROY-7=Отже... Мені слід почати з того, щоб вставити предмет.
+
+
+#----------------------------------------------------
+# Brok
+### Nah... All good detectives need a magnifying glass!
+PC04_PIPEMAIL_ITEMDESTROY_MAGNIFY-1=Ні... Лупа потрібна кожному хорошому детективу!
+
+
+#----------------------------------------------------
+# Brok
+### It's too cute to get rid of it!
+PC04_PIPEMAIL_ITEMDESTROY_PRED-1=Вона надто мила, щоб її позбутися!
+
+
+#----------------------------------------------------
+# Brok
+### I can't... It's all sticky! It's all over me!
+PC04_PIPEMAIL_ITEMDESTROY_CATFUR-1=Я не можу... Воно таке липке! Я вже весь у цьому волоссі!
+
+
+#----------------------------------------------------
+# Brok
+### It belonged to Grandpa... I can't.
+PC04_PIPEMAIL_ITEMDESTROY_STICK-1=Вона належала дідусеві... Я не можу.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia's pendant... I can't do that.
+PC04_PIPEMAIL_ITEMDESTROY_PENDANT-1=Кулон Лії... Я не можу цього зробити.
+
+
+#----------------------------------------------------
+# Brok
+### No way! I couldn't get back home!
+PC04_PIPEMAIL_ITEMDESTROY_APARTMENTKEY-1=В жодному разі! Я не зможу повернутися додому!
+
+
+#----------------------------------------------------
+# Brok
+### Better take this back.
+PC04_PIPEMAIL_ITEMDESTROY_ATTEMPTED-1=Краще забрати це назад.
+
+
+#----------------------------------------------------
+# Brok
+### Too late... It's already too big to fit in the pipe!
+PC04_PIPEMAIL_ITEMDESTROY_PREDINFLATED-1=Занадто пізно... Вона вже занадто велика, щоб поміститися в трубу!
+
+
+#----------------------------------------------------
+# Brok
+### It's time to be responsible and stop throwing my belongings away.
+PC04_PIPEMAIL_ITEMDESTROY_NOMORE-1=Час бути відповідальним і припинити викидати свої речі.
+
+
+#----------------------------------------------------
+# Brok
+### Good idea but that mine won't activate... Any way I could fix it?
+PC04_PIPEMAIL_ITEMDESTROY_MINEBROKEN-1=Гарна ідея, але ця міна не активується... Чи можу я її якось полагодити?
+
+
+#----------------------------------------------------
+# Brok
+### Wow... It fits!
+PC04_PIPEMAIL_PUTBIG-1=Ого... Підходить!
+
+
+# Brok
+### Guess I'll need to be more clever if I wanna mess it up!
+PC04_PIPEMAIL_PUTBIG-2=Якби я хотів його зламати, мені б довелося придумати щось хитріше!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Oops! I think I left somethin' in the Pipe-Mail.
+PC04_PIPEMAIL_FORGOTITEM-1=Ой! Здається, я щось залишив у Поштоматі.
+
+
+# Brok
+### Better take it back before someone steals it.
+PC04_PIPEMAIL_FORGOTITEM-2=Краще забрати, поки хтось не вкрав.
+
+
+#----------------------------------------------------
+# Brok
+### Should I buy some snacks?
+PC04_VENDINGMACHINE1-1=Чи варто купити щось на перекус?
+
+
+#----------------------------------------------------
+# Brok
+### Wait... What did I just buy?
+PC04_VENDINGMACHINE_AD-1=Зачекайте... Що я щойно купив?
+
+
+# Brok
+### Oh! It's some advertisement!
+PC04_VENDINGMACHINE_AD-2=О! Це якась реклама!
+
+
+#----------------------------------------------------
+# Brok
+### ...Can I get my money back?
+PC04_VENDINGMACHINE_AD2-1=...Я можу повернути свої гроші?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Looks like the alley Sin mentioned!
+PC04_FENCE1-1=Схоже на провулок, про який згадував Сін!
+
+
+# Brok
+### But it's blocked by a power barrier.
+PC04_FENCE1-2=Але він заблокований силовим бар'єром.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### "Access forbidden by the Triangle."
+PC04_FENCE1-3="Доступ заборонено Трикутником."
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### The Triangle...?
+PC04_FENCE1-4=Трикутником...?
+
+
+# Tribotcop
+### Our Government. Puny human.
+PC04_FENCE1-5=Нашим Урядом. Нікчемна людино.
+
+
+# Brok
+### Oh, yeah...
+PC04_FENCE1-6=О, точно...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC04_FENCE2-1=...
+
+
+#----------------------------------------------------
+# Tribotcop
+### The individual should not touch the barrier.
+PC04_FENCE2B-1=Особі не слід торкатися бар'єра.
+
+
+# Brok
+### I need to go through there!
+PC04_FENCE2B-2=Мені потрібно пройти туди!
+
+
+# Tribotcop
+### Impossible. This passage is off limits. Citizen, stand back.
+PC04_FENCE2B-3=Неможливо. Цей прохід закрито. Громадянине, відійдіть.
+
+
+# Brok
+### Great...
+PC04_FENCE2B-4=Чудово...
+
+
+#----------------------------------------------------
+# Brok
+### I can't get through. And I don't see any other way to access the alley.
+PC04_FENCE3-1=Я не можу пройти. І я не бачу іншого способу потрапити до провулка.
+
+
+#----------------------------------------------------
+# Brok
+### No good... I can't open it!
+PC04_FENCE_AWAY-1=Погано... Я не можу його відкрити!
+
+
+# Brok
+### What controls this barrier?
+PC04_FENCE_AWAY-2=Що керує цим бар'єром?
+
+
+#----------------------------------------------------
+# Brok
+### Ten to one this thing controls the barrier!
+PC04_BARRIERDEVICE1-1=Десять проти одного, що ця штука керує бар'єром!
+
+
+# Brok
+### No button. Just some kind of key-lock...
+PC04_BARRIERDEVICE1-2=Жодної кнопки. Лише якийсь замок...
+
+
+#----------------------------------------------------
+# Brok - After we've switched it off.
+### The barrier is off.
+PC04_BARRIERDEVICE_OFF-1=Бар'єр вимкнено.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC04_BARRIERDEVICE_APARTMENTKEY-1=Гмм...
+
+
+# Brok
+### Darn... My house key doesn't fit. Who would have thought?
+PC04_BARRIERDEVICE_APARTMENTKEY-2=Чорт... Мій ключ від дому не підходить. Хто б міг подумати?
+
+
+#----------------------------------------------------
+# Tribotcop - Talking to the Tribot cop blocking access to the alley
+### Citizen, stand back. Access restricted.
+PC04_TRIBOTCOP_WELCOME1-1=Громадянине, відійдіть. Доступ обмежено.
+
+
+# Brok
+### Why? What happened?
+PC04_TRIBOTCOP_WELCOME1-2=Чому? Що сталося?
+
+
+# Tribotcop
+### This information is confidential. The individual needs to make a new query or disperse.
+PC04_TRIBOTCOP_WELCOME1-3=Ця інформація є конфіденційною. Особі потрібно зробити новий запит або відійти.
+
+
+# Brok
+### Alright... Then...
+PC04_TRIBOTCOP_WELCOME1-4=Гаразд... Тоді...
+
+
+#----------------------------------------------------
+# Tribotcop
+### Citizen, stand back. Access restricted.
+PC04_TRIBOTCOP_WELCOME2-1=Громадянине, відійдіть. Доступ обмежено.
+
+
+# Brok
+### Your vocabulary seems limited.
+PC04_TRIBOTCOP_WELCOME2-2=Твій словниковий запас здається обмеженим.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Incorrect. Our data brain connects directly to the Triangle Share Source, which contains petabytes of words in every language.
+PC04_TRIBOTCOP_WELCOME2-3=Неправильно. Наш дата-мозок підключено безпосередньо до Спільного Джерела Трикутника, яке містить петабайти слів кожною мовою.
+
+
+# Tribotcop
+### We just adapt to our interlocutor for easier understanding.
+PC04_TRIBOTCOP_WELCOME2-4=Ми просто адаптуємося до нашого співрозмовника для простішого розуміння.
+
+
+# Brok
+### Err.. Hey!
+PC04_TRIBOTCOP_WELCOME2-5=Е-е... Гей!
+
+
+# Tribotcop
+### The individual needs to make a query or disperse.
+PC04_TRIBOTCOP_WELCOME2-6=Особі потрібно зробити запит або відійти.
+
+
+#----------------------------------------------------
+# Tribotcop
+### Citizen, stand back. Access restricted.
+PC04_TRIBOTCOP_WELCOME3-1=Громадянине, відійдіть. Доступ обмежено.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### I don't really like Tribot cops. They're creepy.
+PC04_TRIBOTCOP_THINK1-1=Мені не дуже подобаються поліцейські Триботи. Вони моторошні.
+
+
+# Brok
+### You never know what they're going to decide with all those wires and thingamabobs inside.
+PC04_TRIBOTCOP_THINK1-2=Ніколи не знаєш, що вони вирішать з усіма цими дротами та штуковинами всередині.
+
+
+# Tribotcop
+### Citizens need to keep their insane thoughts to themselves.
+PC04_TRIBOTCOP_THINK1-3=Громадяни мають тримати свої божевільні думки при собі.
+
+
+#----------------------------------------------------
+# Brok
+### What happened here?
+PC04_TRIBOTCOP_GUARD1-1=Що тут сталося?
+
+
+# Tribotcop
+### This information is confidential. Please make another qu...
+PC04_TRIBOTCOP_GUARD1-2=Ця інформація є конфіденційною. Будь ласка, зробіть інший за...
+
+
+# Brok
+### Oh, come on! I'm a detective! You can tell me.
+PC04_TRIBOTCOP_GUARD1-3=Ой, та ну ж бо! Я детектив! Ти можеш мені сказати.
+
+
+# Tribotcop
+### Scanning in progress... Please wait...
+PC04_TRIBOTCOP_GUARD1-4=Триває сканування... Зачекайте...
+
+
+# Tribotcop
+### Database check in progress...
+PC04_TRIBOTCOP_GUARD1-5=Триває перевірка бази даних...
+
+
+# Tribotcop
+### Record not found.
+PC04_TRIBOTCOP_GUARD1-6=Запис не знайдено.
+
+
+# Tribotcop
+### Low level user privileges. Access denied.
+PC04_TRIBOTCOP_GUARD1-7=Низький рівень прав користувача. У доступі відмовлено.
+
+
+# Brok
+### Someday I'll need to get myself a real P.I. license.
+PC04_TRIBOTCOP_GUARD1-8=Колись мені доведеться здобути справжню ліцензію приватного детектива.
+
+
+#----------------------------------------------------
+# Brok
+### I guess something happened in the pharmacy?
+PC04_TRIBOTCOP_GUARD2-1=Я здогадуюся, що щось сталося в аптеці?
+
+
+# Tribotcop
+### We cannot confirm or deny such information based on rumors, even when they're true. Please make another query or be gone.
+PC04_TRIBOTCOP_GUARD2-2=Ми не можемо підтвердити або спростувати таку інформацію на основі чуток, навіть коли вони правдиві. Будь ласка, зробіть інший запит або йдіть.
+
+
+# Brok
+### Hmm. So you're guarding it until the police examine the situation.
+PC04_TRIBOTCOP_GUARD2-3=Гмм. Тож ти охороняєш це місце, поки поліція не вивчить ситуацію.
+
+
+# Brok
+### Forget the pharmacy. Why can't I access the alley?
+PC04_TRIBOTCOP_GUARD2-4=Забудь про аптеку. Чому я не можу потрапити до провулка?
+
+
+# Tribotcop
+### Regulations stipulate that surrounding areas should be closed to the public, regardless of involvement.
+PC04_TRIBOTCOP_GUARD2-5=Правила передбачають, що прилеглі території мають бути закриті для громадськості, незалежно від залученості.
+
+
+# Brok
+### Just my luck.
+PC04_TRIBOTCOP_GUARD2-6=От пощастило.
+
+
+#----------------------------------------------------
+# Brok
+### Oh, come on! Let me take a look-see in the alley!
+PC04_TRIBOTCOP_GUARD3-1=Ой, та ну ж бо! Дай мені оглянути провулок!
+
+
+# Brok
+### This will be our little secret as best buddies. Nobody will know!
+PC04_TRIBOTCOP_GUARD3-2=Це буде нашим маленьким секретом як найкращих друзяк. Ніхто не дізнається!
+
+
+# Tribotcop
+### Our database does not contain a group named "Best Buddies." Did the individual mean "Best Recipes"?
+PC04_TRIBOTCOP_GUARD3-3=Наша база даних не містить групи під назвою "Найкращі друзяки". Особа мала на увазі "Найкращі рецепти"?
+
+
+# Brok
+### Erm... Nope, but I don't mind getting free recipes!
+PC04_TRIBOTCOP_GUARD3-4=Е-е... Ні, але я не проти отримати безкоштовні рецепти!
+
+
+# Tribotcop
+### Request denied.
+PC04_TRIBOTCOP_GUARD3-5=У запиті відмовлено.
+
+
+#----------------------------------------------------
+# Brok
+### So! Tell me, rubber buddy! How ya doin'?
+PC04_TRIBOTCOP_HIMSELF1-1=Ну що ж! Скажи мені, гумовий друзяко! Як справи?
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Moderately well. Our priority assignment is to guard the Pipe-Mail, but our battery level is running low.
+PC04_TRIBOTCOP_HIMSELF1-2=Посередньо. Пріоритетне завдання - охороняти Поштомат, але рівень заряду нашої батареї низький.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### The Pipe-Mail? You mean the tube thingy over there to send mail?
+PC04_TRIBOTCOP_HIMSELF1-3=Поштомат? Маєш на увазі ту штуковину з трубою, щоб надсилати пошту?
+
+
+# Tribotcop
+### Correct. Irresponsible citizens have been misusing it lately, so it needs constant guarding.
+PC04_TRIBOTCOP_HIMSELF1-4=Правильно. Безвідповідальні громадяни останнім часом неналежно використовують його, тому він потребує постійної охорони.
+
+
+# Brok
+### I would have thought whatever happened at the pharmacy would be higher priority than some metal junk.
+PC04_TRIBOTCOP_HIMSELF1-5=Я б подумав, що все, що сталося в аптеці, є вищим пріоритетом, ніж якась металева бляшанка.
+
+
+# Tribotcop
+### This is expensive technology. Wrecking it will no longer be tolerated.
+PC04_TRIBOTCOP_HIMSELF1-6=Це дорога технологія. Псування майна більше не толеруватиметься.
+
+
+# Tribotcop
+### Scanning in progress...
+PC04_TRIBOTCOP_HIMSELF1-7=Триває сканування...
+
+
+# Brok
+### Hey! Whatcha doin'?
+PC04_TRIBOTCOP_HIMSELF1-8=Гей! Що ти робиш?
+
+
+# Tribotcop
+### Analysis completed. Probability of causing wreckage is 8%, which is under the tolerance threshold.
+PC04_TRIBOTCOP_HIMSELF1-9=Аналіз завершено. Ймовірність завдання шкоди становить 8%, що нижче порога толерантності.
+
+
+# Brok
+### Who do you take me for? I wouldn't wreck your Pipe-Thingies without a reason!
+PC04_TRIBOTCOP_HIMSELF1-10=За кого ти мене маєш? Я б не став псувати ваші штуковини-поштомати без причини!
+
+
+# Tribotcop
+### Good. In extreme situations, the death penalty may apply.
+PC04_TRIBOTCOP_HIMSELF1-11=Добре. У крайніх ситуаціях може застосовуватися смертна кара.
+
+
+# Brok
+### Are you serious?
+PC04_TRIBOTCOP_HIMSELF1-12=Ти серйозно?
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### We Tribots do not have the ability to lie. Most of the time.
+PC04_TRIBOTCOP_HIMSELF1-13=Ми, Триботи, не вміємо брехати. Більшість часу.
+
+
+#----------------------------------------------------
+# Brok
+### How long will it take for you to charge up?
+PC04_TRIBOTCOP_HIMSELF2-1=Скільки часу тобі знадобиться, щоб зарядитися?
+
+
+# Tribotcop
+### We are extremely powerful and thus we require a lot of power.
+PC04_TRIBOTCOP_HIMSELF2-2=Ми надзвичайно потужні, і тому нам потрібно багато енергії.
+
+
+# Tribotcop
+### Unfortunate events led to my battery being depleted and damaged.
+PC04_TRIBOTCOP_HIMSELF2-3=Прикрі події призвели до виснаження та пошкодження моєї батареї.
+
+
+# Tribotcop
+### A full recharge will take eighteen years, five days, three hours, nine minutes and forty-three seconds.
+PC04_TRIBOTCOP_HIMSELF2-4=Повна перезарядка триватиме вісімнадцять років, п'ять днів, три години, дев'ять хвилин і сорок три секунди.
+
+
+# Brok
+### Eighteen years?! Yeah, you're damaged all right...
+PC04_TRIBOTCOP_HIMSELF2-5=Вісімнадцять років?! Так, ти точно пошкоджений...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### But you can't watch over the Pipe-Mail while recharging, right?
+PC04_TRIBOTCOP_HIMSELF2-6=Але ти ж не можеш стежити за Поштоматом під час заряджання, чи не так?
+
+
+# Tribotcop
+### Incorrect. A notification will be sent to my operating system in case an individual attempts to mess with it.
+PC04_TRIBOTCOP_HIMSELF2-7=Неправильно. Сповіщення буде надіслано до моєї операційної системи у випадку, якщо особа спробує з ним взаємодіяти.
+
+
+#----------------------------------------------------
+# Brok
+### I'm curious about this barrier. How is it generated?
+PC04_TRIBOTCOP_DEVICE1-1=Мені цікаво щодо цього бар'єра. Як він утворюється?
+
+
+# Tribotcop - Should be the name you put in "PC_BARRIERDEVICE"
+### We put a barrier device on the closest wall. This automatically extends the barrier to the optimal position and size.
+PC04_TRIBOTCOP_DEVICE1-2=Ми встановили бар'єрний пристрій на найближчу стіну. Він автоматично розгортає бар'єр до оптимального розміру та положення.
+
+
+# Brok
+### Pretty cool!
+PC04_TRIBOTCOP_DEVICE1-3=Аж мороз по шкірі, як круто!
+
+
+# Tribotcop
+### I'm sorry to contradict this individual. It's not cool, it's hot.
+PC04_TRIBOTCOP_DEVICE1-4=Перепрошую, що суперечу цій особі. Неможливо відчувати мороз по шкірі, бо тут гаряче.
+
+
+# Tribotcop
+### The barrier is a low-profile apparatus using light as the primary source of energy.
+PC04_TRIBOTCOP_DEVICE1-5=Бар'єр - це низькопрофільний апарат, який використовує світло як основне джерело енергії.
+
+
+# Brok
+### I see... So it's not connected to the power network.
+PC04_TRIBOTCOP_DEVICE1-6=Зрозуміло... Тобто він не підключений до електромережі.
+
+
+#----------------------------------------------------
+# Brok
+### Why is there a keylock? Shouldn't it be secured digitally?
+PC04_TRIBOTCOP_DEVICE2-1=Чому тут замок? Хіба він не повинен захищатися цифровим способом?
+
+
+# Tribotcop
+### Statistics indicate that physical access has a much higher violability.
+PC04_TRIBOTCOP_DEVICE2-2=Статистика свідчить, що фізичний доступ має набагато вищий рівень уразливості.
+
+
+# Tribotcop - "human pretending" is for real but players won't notice it at this point... See the end of game PC20 reveal with Wes.
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Despite this, our silly human-pretending chief prefers physical access.
+PC04_TRIBOTCOP_DEVICE2-3=Незважаючи на це, наш шеф удає з себе дурнувату пародію на людину, надаючи перевагу фізичному доступу.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### You mean... The chief of police?
+PC04_TRIBOTCOP_DEVICE2-4=Ти маєш на увазі... шефа поліції?
+
+
+# Tribotcop
+### They say it's easier to carry real keys instead of a numeric code.
+PC04_TRIBOTCOP_DEVICE2-5=Кажуть, що простіше зберігати справжні ключі замість цифрового коду.
+
+
+# Brok
+### I agree.
+PC04_TRIBOTCOP_DEVICE2-6=Я згоден.
+
+
+# Tribotcop
+### Surprise factor is zero. Humans don't make any sense.
+PC04_TRIBOTCOP_DEVICE2-7=Фактор несподіванки дорівнює нулю. Люди не мають жодної логіки.
+
+
+#----------------------------------------------------
+# Brok
+### Good day.
+PC04_TRIBOTCOP_EXIT1-1=Доброго дня.
+
+
+# Tribotcop
+### The day is always good! Please be gone.
+PC04_TRIBOTCOP_EXIT1-2=День завжди добрий! Будь ласка, йдіть звідси.
+
+
+#----------------------------------------------------
+# Brok
+### Bye bye, tin can.
+PC04_TRIBOTCOP_EXIT2-1=Бувай, бляшканка.
+
+
+# Tribotcop
+### This surname is not appropriate. Please call us "can."
+PC04_TRIBOTCOP_EXIT2-2=Це прізвисько неприйнятне. Будь ласка, називайте нас "жерстяна банка".
+
+
+#----------------------------------------------------
+# Tribotcop
+### This item does not seem legitimate. We need to confiscate it.
+PC04_TRIBOTCOP_INV_DEFAULT1-1=Схоже, що особа не має права володіти цим предметом. Ми мусимо його конфіскувати.
+
+
+# Brok
+### Hey! No way!
+PC04_TRIBOTCOP_INV_DEFAULT1-2=Гей! У жодному разі!
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Look at this!
+PC04_TRIBOTCOP_INV_DEFAULT2-1=Е-е... Подивись на це!
+
+
+# Tribotcop
+### We have not been programmed to react to redneck doohickeys.
+PC04_TRIBOTCOP_INV_DEFAULT2-2=Ми не запрограмовані реагувати на такі примітивні витівки.
+
+
+#----------------------------------------------------
+# Tribotcop
+### Threatening an agent is a first degree offense. Please confirm your act of violence.
+PC04_TRIBOTCOP_INV_STICK-1=Погроза офіцеру є правопорушенням першого ступеня. Будь ласка, підтвердьте ваш акт насильства.
+
+
+# Brok
+### I'm not! Just joking!
+PC04_TRIBOTCOP_INV_STICK-2=Ні! Це просто жарт!
+
+
+#----------------------------------------------------
+# Brok
+### It's cute, isn't it?
+PC04_TRIBOTCOP_INV_PREDNORMAL-1=Вона мила, правда?
+
+
+# Tribotcop
+### We're cute. This isn't.
+PC04_TRIBOTCOP_INV_PREDNORMAL-2=Ми милі. Це - ні.
+
+
+#----------------------------------------------------
+# Brok
+### By any chance... How can I get medicine for this prescription?
+PC04_TRIBOTCOP_INV_TRAMPPRESCR-1=Не знаєш... Як я можу отримати ліки за цим рецептом?
+
+
+# Tribotcop
+### In the pharmacy.
+PC04_TRIBOTCOP_INV_TRAMPPRESCR-2=В аптеці.
+
+
+# Brok
+### The one you're blocking, huh...?
+PC04_TRIBOTCOP_INV_TRAMPPRESCR-3=У тій, яку ти блокуєш, так...?
+
+
+# Tribotcop
+### Exactly.
+PC04_TRIBOTCOP_INV_TRAMPPRESCR-4=Саме так.
+
+
+# Brok
+### Hmmph...
+PC04_TRIBOTCOP_INV_TRAMPPRESCR-5=Гм-мм...
+
+
+#----------------------------------------------------
+# Tribotcop
+### ALERT! VIOLENCE ON OFFICER!
+PC04_TRIBOTCOP_HIT1-1=ТРИВОГА! НАСИЛЬСТВО ПРОТИ ОФІЦЕРА!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribot cop has left some kind of key...?
+PC04_TRIBOTKEY1-1=Поліцейський Трибот залишив якийсь ключ...?
+
+
+# Brok
+### Oh! I know!
+PC04_TRIBOTKEY1-2=О! Зрозумів!
+
+
+#----------------------------------------------------
+# Tribotcop
+### Access is forbidden. Please stand back.
+PC04_PHARMACY_TRIBOTCOP1-1=Доступ заборонено. Будь ласка, відійдіть.
+
+
+# Brok
+### But... I need to buy some pills!
+PC04_PHARMACY_TRIBOTCOP1-2=Але... Мені потрібно купити пігулки!
+
+
+# Tribotcop
+### Another pharmacy is requested. Does the individual need me to locate the closest one?
+PC04_PHARMACY_TRIBOTCOP1-3=Для цього потрібна інша аптека. Особа бажає, щоб я вказав шлях до найближчої аптеки?
+
+
+# Brok
+### No, thank you...
+PC04_PHARMACY_TRIBOTCOP1-4=Ні, дякую...
+
+
+#----------------------------------------------------
+# Tribotcop
+### Please stand back!
+PC04_PHARMACY_TRIBOTCOP2-1=Будь ласка, відійдіть!
+
+
+# Brok
+### Mrrph. No point trying to enter the pharmacy while the tin-can is guarding it.
+PC04_PHARMACY_TRIBOTCOP2-2=М-ммм. Немає сенсу намагатися зайти в аптеку, поки бляшанка її охороняє.
+
+
+#----------------------------------------------------
+# Brok
+### I'm not interested in the pharmacy right now!
+PC04_PHARMACY_AWAY-1=Аптека мене зараз не цікавить!
+
+
+# Brok
+### There's no window or anything to access the back alley from there...
+PC04_PHARMACY_AWAY-2=Немає жодного вікна чи чогось подібного, щоб потрапити до провулка...
+
+
+#----------------------------------------------------
+# Brok
+### Should I enter? Seems like there's an ongoing police investigation...
+PC04_PHARMACY_ENTER-1=Чи варто мені зайти? Здається, там триває поліцейське розслідування...
+
+
+# Brok
+### Oh, well. I'll just take a look-see!
+PC04_PHARMACY_ENTER-2=Ну що ж. Я просто піду подивлюся!
+
+
+#----------------------------------------------------
+# Tribotcop - Brok tricks the Tribot cop
+### Emergency! Degradation attempt!
+PC04_TRIBOTCOP_PIPEMAILBROKEN1-1=Аварія! Спроба пошкодження!
+
+
+#----------------------------------------------------
+# Tribotcop
+### Emergency! Emergency!
+PC04_TRIBOTCOP_PIPEMAILBROKEN2-1=Аварія! Аварія!
+
+
+#----------------------------------------------------
+# Tribot
+### Analysis in progress...
+PC04_PIPEMAIL_TRIBOTCOP1-1=Триває аналіз...
+
+
+#----------------------------------------------------
+# Tribot
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Analysis completed. Foreign object in the Pipe-Mail system.
+PC04_PIPEMAIL_TRIBOTCOP1B-1=Аналіз завершено. Сторонній предмет у системі Поштомата.
+
+
+# Tribot
+### Problem solved.
+PC04_PIPEMAIL_TRIBOTCOP1B-2=Проблему вирішено.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### A power socket. Looks like the Tribot is recharging here.
+PC04_POWERSOCKET1-1=Розетка. Схоже, Трибот заряджається тут.
+
+
+#----------------------------------------------------
+# Brok
+### I will resist the temptation to put my fingers in it.
+PC04_POWERSOCKET_AFTER1-1=Я втримаюся від спокуси засунути туди пальці.
+
+
+#----------------------------------------------------
+# Brok
+### The stick is too large to fit, and I don't think hitting it will have any effect.
+PC04_POWERSOCKET_STICK-1=Палиця занадто велика, щоб поміститися, і я не думаю, що удари матимуть якийсь ефект.
+
+
+#----------------------------------------------------
+# Tribotcop
+### Alert! Dangerous individual detected!
+PC04_POWERSOCKET_BACK-1=Тривога! Виявлено небезпечну особу!
+
+
+# Brok
+### Erm... Dangerous? Me...? I was just...
+PC04_POWERSOCKET_BACK-2=Е-е... Небезпечну? Мене...? Я просто...
+
+
+# Tribotcop
+### This individual needs to stop or they will be arrested.
+PC04_POWERSOCKET_BACK-3=Цій особі потрібно зупинитися, або її буде заарештовано.
+
+
+# Brok
+### Okey-dokey!
+PC04_POWERSOCKET_BACK-4=Гаразд-гаразд!
+
+
+#----------------------------------------------------
+# Brok
+### There! Let's see what happens...
+PC04_POWERSOCKET_APARTMENTKEY-1=Готово! Подивимось, що станеться...
+
+
+#----------------------------------------------------
+# Brok
+### Already done!
+PC04_POWERSOCKET_APARTMENTKEY_DONE-1=Вже зробив це!
+
+
+#----------------------------------------------------
+# Brok
+### Darn... This is too large to tamper with it.
+PC04_POWERSOCKET_OTHERS-1=Чорт... Занадто велике за розміром.
+
+
+#----------------------------------------------------
+# Tribotcop
+### Warning. No energy coming from the socket.
+PC04_POWERSOCKET_RUNNINGOUT-1=Увага. З розетки не надходить енергія.
+
+
+# Tribotcop
+### Power is running low. Activating power saving mode...
+PC04_POWERSOCKET_RUNNINGOUT-2=Живлення виснажується. Активація режиму економії енергії...
+
+
+# Tribotcop
+### ...
+PC04_POWERSOCKET_RUNNINGOUT-3=...
+
+
+# Tribotcop
+### Activation failed...
+PC04_POWERSOCKET_RUNNINGOUT-4=Активація не вдалася...
+
+
+# Tribotcop
+### Need to find... energy source...
+PC04_POWERSOCKET_RUNNINGOUT-5=Потрібно знайти... джерело енергії...
+
+
+#----------------------------------------------------
+# Brok
+### And he's out.
+PC04_POWERSOCKET_RUNNINGOUTB-1=І... вимкнувся.
+
+
+#----------------------------------------------------
+# Brok - Day 3 - we can't enter the pharmacy anymore without entering a code
+### Closed?!
+PC04_TO_PC04C_LOCKED1-1=Зачинено?!
+
+
+# Brok
+### Just my luck... What's going on?
+PC04_TO_PC04C_LOCKED1-2=От пощастило... Що відбувається?
+
+
+# Brok
+### Hmm... Looks like there's a lock on the side...
+PC04_TO_PC04C_LOCKED1-3=Гмм... Схоже, збоку є замок...
+
+
+#----------------------------------------------------
+# Brok
+### That's new!
+PC04_CODEINPUT1-1=Оце новинка!
+
+
+#----------------------------------------------------
+# Brok
+### "Please input your citizen certificate."
+PC04_CODEINPUT_CLOSEUP1-1="Будь ласка, введіть номер вашого посвідчення громадянина."
+
+
+# Brok
+### Do I even have one...?
+PC04_CODEINPUT_CLOSEUP1-2=Чи воно в мене взагалі є...?
+
+
+#----------------------------------------------------
+# Brok
+### Nope...
+PC04_CODEINPUT_NO1-1=Ні...
+
+
+#----------------------------------------------------
+# Brok
+### Wrong code...
+PC04_CODEINPUT_NO2-1=Неправильний код...
+
+
+#----------------------------------------------------
+# Brok
+### I made a mistake...
+PC04_CODEINPUT_NO3-1=Я припустився помилки...
+
+
+#----------------------------------------------------
+# Brok
+### Unlocked!
+PC04_CODEINPUT_OKAY-1=Розблоковано!
+
+
+#----------------------------------------------------
+# Brok
+### I'm done with this.
+PC04_CODEINPUT_DONE-1=Я вже закінчив із цим.
+
+
+#----------------------------------------------------
+# Various
+### Three tries remaining until lockout.
+PC04_CODEINPUT_TOOMANY1-1=Залишилося три спроби до блокування.
+
+
+# Brok
+### What?!
+PC04_CODEINPUT_TOOMANY1-2=Що?!
+
+
+# Brok
+### Maybe I should stop going through trial and error before it's too late...
+PC04_CODEINPUT_TOOMANY1-3=Можливо, варто припинити підбирати навмання, поки ще не пізно...
+
+
+#----------------------------------------------------
+# Various
+### Lockout. You're not a Dome citizen.
+PC04_CODEINPUT_TOOMANY2-1=Блокування. Ви не громадянин Купола.
+
+
+# Brok
+### Oh gosh...
+PC04_CODEINPUT_TOOMANY2-2=Ох, дідько...
+
+
+#----------------------------------------------------
+# Brok
+### Too late... It's locked up.
+PC04_CODEINPUT_TOOLATE-1=Занадто пізно... Заблоковано.
+
+
+#----------------------------------------------------
+# Brok - Shay's material from this room
+### Something's stuck on the grid.
+PC04_MATERIAL1-1=Щось застрягло на сітці.
+
+
+# Brok
+### Wait... Is the radar reacting to...
+PC04_MATERIAL1-2=Зачекай... Радар реагує на...
+
+
+# Brok
+### This...?!
+PC04_MATERIAL1-3=Це...?!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I wasn't expecting to look for a cake... literally! I guess Shay's just hungry...
+PC04_MATERIAL1B-1=Я не очікував, що шукатиму торт... у буквальному сенсі! Здається, Шей просто голодна...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### It still looks good. Drumers are such big wasters.
+PC04_MATERIAL1B-2=Він усе ще добре виглядає. Мешканці Верхів такі марнотратники.
+
+
+# Brok
+### ...
+PC04_MATERIAL1B-3=...
+
+
+# Brok
+### Must... resist... can't... eat...!
+PC04_MATERIAL1B-4=Мушу... втриматися... не можу... з'їсти...!
+
+
+#----------------------------------------------------
+# Brok - More room interactions
+### A bridge to the residential area...
+PC04_ACCESS1-1=Міст до житлового району...
+
+
+# Brok
+### Got no business there... and I might not be allowed anyway.
+PC04_ACCESS1-2=Мені там нічого робити... та й, імовірно, у мене немає доступу на вхід.
+
+
+#----------------------------------------------------
+# Brok
+### I used to go through there everyday... This feels like another life now.
+PC04_ACCESS2-1=Раніше я ходив туди щодня... А зараз це здається зовсім іншим життям.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Just your high tech Drumer garbage collector.
+PC04_GARBAGE1-1=Просто високотехнологічний сміттєзбірник мешканців Верхів.
+
+
+# Brok
+### Why bother? With all the cleaning bots around...
+PC04_GARBAGE1-2=Навіщо заморочуватися? З усіма цими ботами-прибиральниками навколо...
+
+
+# Brok
+### Guess it's only for them.
+PC04_GARBAGE1-3=Мабуть, це тільки для них.
+
+
+#----------------------------------------------------
+# Brok
+### Tempting... But I got into a little mishap with one of these earlier.
+PC04_GARBAGE2-1=Спокусливо... Але раніше у мене сталася невелика халепа з одним із таких.
+
+
+# Brok
+### Let's just say getting sucked into it isn't a pleasant experience!
+PC04_GARBAGE2-2=Скажімо так, засмоктування туди - це неприємний досвід!
+
+
+#----------------------------------------------------
+# Brok
+### Over that dark mountain of rubbish... ?
+PC04_GARBAGE_MAGNIFY-1=За цією темною горою сміття...?
+
+
+# Brok
+### Yup... An ad!
+PC04_GARBAGE_MAGNIFY-2=Ага... Реклама!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### If I wanna toss anything, there's the Pipe-Mail over there.
+PC04_GARBAGE_OTHERS-1=Якщо я хочу щось викинути, он там є Поштомат.
+
+
+#----------------------------------------------------
+# Gherkin - Going to this room with Dr. Gherkin
+### What are we doing here...?
+PC04_GHERKIN_INIT1-1=Що ми тут робимо...?
+
+
+# Brok
+### Well... You're following me?
+PC04_GHERKIN_INIT1-2=Ну... Ви йдете за мною?
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Shouldn't we fix the Pipe-Pills?
+PC04_GHERKIN_INIT1-3=Хіба ми не повинні лагодити Пігулкомати?
+
+
+# Brok
+### Oh... That's right.
+PC04_GHERKIN_INIT1-4=О... Точно.
+
+
+#----------------------------------------------------
+# Gherkin
+### ...
+PC04_TO_PC04B_GHERKIN-1=...
+
+
+# Brok
+### What's wrong?
+PC04_TO_PC04B_GHERKIN-2=Що не так?
+
+
+# Gherkin
+### I... refuse to go over there...
+PC04_TO_PC04B_GHERKIN-3=Я... відмовляюся йти туди...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### It's just a dark alley. We're still in the Drums!
+PC04_TO_PC04B_GHERKIN-4=Це просто темний провулок. Ми все ще на Верхах!
+
+
+# Gherkin
+### But... it's scary!
+PC04_TO_PC04B_GHERKIN-5=Але... це лячно!
+
+
+# Brok
+### Okay... You win.
+PC04_TO_PC04B_GHERKIN-6=Гаразд... Ваша правда.
+
+
+#----------------------------------------------------
+# Brok
+### Can you access this area, doc?
+PC04_GHERKIN_ACCESS-1=Ви можете увійти в цю зону, докторе?
+
+
+# Gherkin
+### Of course! But...
+PC04_GHERKIN_ACCESS-2=Звісно! Але...
+
+
+# Brok
+### Yeah, I know. Not the right time.
+PC04_GHERKIN_ACCESS-3=Так, я знаю. Зараз не час.
+
+
+# Brok
+### I'm just curious...
+PC04_GHERKIN_ACCESS-4=Мені просто цікаво...
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Save this for later! The fate of the Slums may depend on us!
+PC04_GHERKIN_ACCESS-5=Залиште це на потім! Доля Нетрів може залежати від нас!
+
+
+#----------------------------------------------------
+# Various - Hit various stuff
+### Damaging public belongings is strictly forbidden
+PC04_VENDING_DRONES-1=Пошкодження громадського майна суворо заборонено.
+
+
+#----------------------------------------------------
+# Brok
+### Jackpot!
+PC04_VENDING_DESTROYED-1=Джекпот!
+
+
+#----------------------------------------------------
+# Tribotcop
+### Emergency! Degradation attempt from silly human!
+PC04_HIT_PIPEMAIL-1=Аварія! Спроба пошкодження з боку дурної людини!
+
+
+# Tribotcop
+### Calling drones!
+PC04_HIT_PIPEMAIL-2=Викликаю дронів!
+
+
+#----------------------------------------------------
+# Tribotcop
+### Silly human eliminated.
+PC04_GAMEOVER_TRIBOTCOP-1=Дурну людину ліквідовано.
+
+
+# Tribotcop
+### Now, some autocongratulation.
+PC04_GAMEOVER_TRIBOTCOP-2=А тепер трохи похвалимо себе.
+
+
+# Tribotcop
+### Good job. We are great.
+PC04_GAMEOVER_TRIBOTCOP-3=Хороша робота. Ми чудові.
+
+
+#----------------------------------------------------
+# Brok
+### "Be nice to each other"
+PC04_HOLOGRAM1-1="Будьте ввічливі один до одного"
+
+
+#----------------------------------------------------
+# Brok
+### Darn! I can't reach it with my fingers!
+PC04_AD_TRASH-1=Чорт! Я не можу дістати це пальцями!
+
+
+#----------------------------------------------------
+# Brok
+### There ya go!
+PC04_AD_TRASHGOT-1=Ось так!
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,78 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=CHASING TIDY
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Boost
+INTERFACE_BOOST=
+
+### Overload!
+INTERFACE_OVERLOAD=
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Brok chases Tidy on the highway with an hoverbike
+### Come back here so I can smash you into pieces!
+SP01_FIRST-1=
+
+
+# Brok
+### ...
+SP01_FIRST-2=
+
+
+# Brok
+### Too bad I can't shoot with this thing, so no choice...
+SP01_FIRST-3=
+
+
+# Brok
+### I'll have to bump into that crazy bot!
+SP01_FIRST-4=
+
+
+# Brok
+### Let's see what this baby can do!
+SP01_FIRST-5=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Can't get fast enough to reach Tidy unless I use the boost!
+SP01_BOOSTTIP-1=
+
+
+#----------------------------------------------------
+# Brok
+### Got ya!
+SP01_TIDY_DEAD-1=
+
+
+#----------------------------------------------------
+# Brok
+### Now for the hard part...
+SP01_TIDY_DEAD2-1=
+
+
+# Brok
+### How do I get back to the lab? (sigh)
+SP01_TIDY_DEAD2-2=
+
+
+#----------------------------------------------------
+

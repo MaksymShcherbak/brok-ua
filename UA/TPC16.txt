@@ -1,0 +1,582 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Tribotcop (Unknown)
+#     Brok - Unknown (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#=SLUM TRASHER HUNT
+#-------------------------------
+
+#----- Interactions --------
+### Furniture
+PC_FURNITURE=Меблі
+
+### Statue
+PC_STATUE=Статуя
+
+### Lever
+PC_LEVER=Важіль
+
+### Outlet
+PC_OUTLET=Отвір
+
+### Controls
+PC_CONTROLS=Керування
+
+### Money indicator
+PC_MONEY=Індикатор грошей
+
+### Number
+PC_NUMBER=Номер
+
+### Distance
+PC_DISTANCE=Відстань
+
+### Banner
+PC_BANNER=Банер
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Fight
+PC16_FIGHT=Битися
+
+### Pay
+PC16_PAY=Заплатити
+
+
+### Move
+TUTORIAL_MOVE=Рухати
+
+### Grab
+TUTORIAL_GRAB=Схопити
+
+
+### Treasure obtained!
+PC16_TREASUREGOT=Скарб знайдено!
+
+### Treasure failed
+PC16_TREASUREFAILED=Скарб не знайдено
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions
+### This place has changed quite a bit since the last time I was here!
+PC16_FIRST1-1=Це місце неабияк змінилося з мого останнього візиту!
+
+
+#----------------------------------------------------
+# Brok
+### What a marvelous view...
+PC16_WINDOW1-1=Який чудовий краєвид...
+
+
+# Brok
+### Maybe I should be surprised the glass is still intact.
+PC16_WINDOW1-2=Мене, мабуть, мало б здивувати, що скло досі ціле.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Actually Slumers aren't quite the vandals Drumers think we are. We don't break the law without good reason.
+PC16_WINDOW1-3=Взагалі-то нетрівці зовсім не такі вандали, якими нас вважають мешканці Верхів. Ми не порушуємо закон без поважної причини.
+
+
+# Brok
+### And spending hours searching for stuff with bare hands in those dumps ain't one.
+PC16_WINDOW1-4=А проводити довгі години, шукаючи потрібні речі серед смітника, не є порушенням закону.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC16_WINDOW_AFTER-1=...
+
+
+# Brok
+### Maybe there are vandals after all...
+PC16_WINDOW_AFTER-2=Може, вандали тут таки є...
+
+
+#----------------------------------------------------
+# Brok
+### A piece of art... I guess?
+PC16_FURNITURE1-1=Якийсь витвір мистецтва... напевно?
+
+
+# Brok
+### Must be new. Someone's been decorating the place. Maybe to attract more fellows?
+PC16_FURNITURE1-2=Мабуть, новеньке. Хтось прикрасив це місце. Може, щоб заманити більше людей?
+
+
+# Brok
+### Considering the filth covering it, not sure this is appropriate...
+PC16_FURNITURE1-3=З огляду на бруд, яким все вкрито, не певен, що це доречно...
+
+
+#----------------------------------------------------
+# Brok
+### A hat-stand?
+PC16_STATUE1-1=Вішалка для капелюхів?
+
+
+# Brok
+### No thanks. I never take off my hat!
+PC16_STATUE1-2=Ні, дякую. Я ніколи не знімаю капелюх!
+
+
+#----------------------------------------------------
+# Brok
+### Hey! A coupon was... ejected from this statue...?
+PC16_STATUE_HIT1-1=Гей! З цієї статуетки... вилетів флаєр...?
+
+
+#----------------------------------------------------
+# Brok
+### Cool! Some more stuff came out!
+PC16_STATUE_HIT2-1=Круто! Випало ще трохи речей!
+
+
+# Brok
+### Hmm...
+PC16_STATUE_HIT2-2=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### It's a real pinata!
+PC16_STATUE_HIT3-1=Це справжня піньята!
+
+
+# Brok
+### The more I hit it, the more stuff comes out!
+PC16_STATUE_HIT3-2=Що сильніше б'ю, то більше речей випадає!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC16_STATUE_HIT4-1=...
+
+
+# Brok
+### Now I feel ashamed...
+PC16_STATUE_HIT4-2=Тепер мені соромно...
+
+
+# Brok
+### Oh well. I needed all this!
+PC16_STATUE_HIT4-3=Ну що ж. Мені це все було потрібно!
+
+
+#----------------------------------------------------
+# Brok
+### ...why did I do this?
+PC16_WINDOW_BREAK-1=...нащо я це зробив?
+
+
+#----------------------------------------------------
+# Brok
+### Uh oh...
+PC16_CONTROLS_BREAK-1=Ой-ой...
+
+
+# Brok
+### I broke somethin'?
+PC16_CONTROLS_BREAK-2=Я щось зламав?
+
+
+#----------------------------------------------------
+# Brok
+### Something's wrong with the controls...
+PC16_CONTROLS_WRONG-1=Щось не так із керуванням...
+
+
+# Brok
+### Maaaybe I shouldn't have hit this panel...
+PC16_CONTROLS_WRONG-2=Моооже, не варто було бити по цій панелі...
+
+
+#----------------------------------------------------
+# Brok
+### If I remember correctly, this releases the rubble back into the dumps.
+PC16_LEVER1-1=Якщо я правильно пам'ятаю, цей важіль скидає уламки назад на смітник.
+
+
+#----------------------------------------------------
+# Brok
+### Of course that works better when there IS rubble.
+PC16_LEVER2-1=Звісно, це працює краще, коли там Є уламки.
+
+
+#----------------------------------------------------
+# Brok
+### Rubble falls here.
+PC16_OUTLET1-1=Уламки падають сюди.
+
+
+# Brok
+### It's empty right now.
+PC16_OUTLET1-2=Зараз тут порожньо.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Gotta pay a few Unis for each try.
+PC16_CONTROLS_UNIS1-1=Треба заплатити кілька Юні за кожну спробу.
+
+
+#----------------------------------------------------
+# Brok
+### Oops... I'm broke!
+PC16_CONTROLS_NOMONEY1-1=Ой... Я на мілині!
+
+
+#----------------------------------------------------
+# Brok
+### Wait... What?!
+PC16_CONTROLS_PRICE1-1=Чекайте... Що?!
+
+
+# Brok
+### The price has doubled! This inflation is outrageous...
+PC16_CONTROLS_PRICE1-2=Ціна подвоїлася! Ця інфляція обурює...
+
+
+#----------------------------------------------------
+# Brok
+### I believe that's the distance to a target the system has located.
+PC16_CONTROLS_DISTANCE1-1=Думаю, це відстань до цілі, яку знайшла система.
+
+
+# Brok
+### Could be anything though - from a treasure chest to a rusty washing machine!
+PC16_CONTROLS_DISTANCE1-2=Хоча це може бути що завгодно - від скрині зі скарбами до іржавої пральної машини!
+
+
+#----------------------------------------------------
+# Brok
+### I think this column indicates the attempts.
+PC16_CONTROLS_TRY1-1=Думаю, ця колонка показує кількість спроб.
+
+
+# Brok
+### The limit is six. After that, the system resets itself to another target.
+PC16_CONTROLS_TRY1-2=Всього шість спроб. Після цього система змінює ціль.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, that's not part of the scenery! It's stuck on the panel.
+PC16_CONTROLS_AD1-1=Гей, цього тут бути не має! Воно застрягло на панелі.
+
+
+#----------------------------------------------------
+# Brok
+### Let's see... How do I use this, again?
+PC16_CONTROLS1-1=Поглянемо... Ще раз, як цим користуватись?
+
+
+#----------------------------------------------------
+# Brok - Mini game treasure hunt - Result according to what we get
+### Hmm...
+PC16_RESULT_NOTHING-1=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### Just rubbish.
+PC16_RESULT_NOTHING1-1=Просто мотлох.
+
+
+#----------------------------------------------------
+# Brok
+### Nothing useful...
+PC16_RESULT_NOTHING2-1=Нічого корисного...
+
+
+#----------------------------------------------------
+# Brok
+### Rubble, rubble...
+PC16_RESULT_NOTHING3-1=Уламки, уламки...
+
+
+#----------------------------------------------------
+# Brok
+### Nope...
+PC16_RESULT_NOTHING4-1=Ні...
+
+
+#----------------------------------------------------
+# Brok
+### Full of garbage...
+PC16_RESULT_NOTHING5-1=Скрізь сміття...
+
+
+#----------------------------------------------------
+# Brok
+### Next!
+PC16_RESULT_NOTHING6-1=Наступний!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, what's that?
+PC16_RESULT_SOMETHING1-1=Гей, що це?
+
+
+#----------------------------------------------------
+# Brok
+### I've found somethin'!
+PC16_RESULT_SOMETHING2-1=Я щось знайшов!
+
+
+#----------------------------------------------------
+# Brok
+### Yes!
+PC16_RESULT_SOMETHING3-1=Є!
+
+
+#----------------------------------------------------
+# Brok
+### It caught something...
+PC16_RESULT_SOMETHING4-1=Воно щось зловило...
+
+
+#----------------------------------------------------
+# Brok
+### Oh!
+PC16_RESULT_SOMETHING5-1=О!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### Cool, an energy drink!
+PC16_RESULT_ENERGYDRINK-1=Круто, енергетичний напій!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
+### A pizzant!...
+PC16_RESULT_PIZZANT-1=Мурахопіца...!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### A... Pampalos! And it's not even rotten!
+PC16_RESULT_PAMPALOS-1=О... пампалос! І навіть не зіпсований!
+
+
+# Brok
+### I'll just have to clean it a bit...
+PC16_RESULT_PAMPALOS-2=Треба буде його трохи почистити...
+
+
+#----------------------------------------------------
+# Brok
+### This must not be the "real" treasure the system is tracking.
+PC16_RESULT_NOTREAL1-1=Це певно не "справжній" скарб, який шукає система.
+
+
+# Brok
+### Let's continue!
+PC16_RESULT_NOTREAL1-2=Продовжуємо!
+
+
+#----------------------------------------------------
+# Brok
+### A... coupon? That's the big treasure?!
+PC16_RESULT_ADVERT-1=Флаєр...? Оце так великий скарб?!
+
+
+# Brok
+### Oh well... This goes into the collection.
+PC16_RESULT_ADVERT-2=Ну що ж... Це піде в колекцію.
+
+
+#----------------------------------------------------
+# Brok
+### Interesting... A fight training video! I should learn a thing or two!
+PC16_RESULT_XPUPGRADE-1=Цікаво... Відео з бойових тренувань! Зможу навчитися чомусь новому!
+
+
+#----------------------------------------------------
+# Brok
+### An expert training video!
+PC16_RESULT_XPUPGRADE2-1=Експертне навчальне відео!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Energy serum": "Енергетична сироватка"
+### Nice. A precious energy serum!
+PC16_RESULT_ENERGYSERUM-1=Чудово. Дорогоцінна енергетична сироватка!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### A small coupon for 50 Unis. Nice!
+PC16_RESULT_UNIS50-1=Невеликий купон на 50 Юні. Чудово!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Great, a 200 Unis coupon!
+PC16_RESULT_UNIS200-1=Чудово, купон на 200 Юні!
+
+
+# Brok
+### Gotta wonder who loses that much money in the dumps...
+PC16_RESULT_UNIS200-2=Цікаво, хто губить стільки грошей на смітниках...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Woah!... 500 Unis?!
+PC16_RESULT_UNIS500-1=Ого!... 500 Юні?!
+
+
+#----------------------------------------------------
+# Brok
+### Wait a minute... I've seen this somewhere...
+PC16_RESULT_MATERIAL7-1=Зачекайте... Я вже десь це бачив...
+
+
+# Brok
+### ...
+PC16_RESULT_MATERIAL7-2=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Oh, yeah! That's the high precision clock Shay was looking for!
+PC16_RESULT_MATERIAL7-3=А, так! Це високоточний таймер, який шукала Шей!
+
+
+# Brok
+### People throw away such weird things sometimes...
+PC16_RESULT_MATERIAL7-4=Часом люди викидають такі дивні речі...
+
+
+#----------------------------------------------------
+# Brok - If we break the glass, Tribots come to make us pay (one way or another...)
+### ...?
+PC16_WINDOW_TRIBOTS1-1=...?
+
+
+# Tribotcop
+### Citizen. You've vandalized. This place.
+PC16_WINDOW_TRIBOTS1-2=Громадянине. Ви вчинили вандалізм. У цьому місці.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Pay 200 Unis. Now...
+PC16_WINDOW_TRIBOTS1-3=Сплатіть 200 Юні. Негайно...
+
+
+# Brok
+### Or be destroyed, I guess?
+PC16_WINDOW_TRIBOTS1-4=Або, дай вгадаю, мене знищать?
+
+
+# Tribotcop
+### ...or be destroyed.
+PC16_WINDOW_TRIBOTS1-5=...або вас знищать.
+
+
+# Brok
+### So predictable!
+PC16_WINDOW_TRIBOTS1-6=Яка передбачуваність!
+
+
+#----------------------------------------------------
+# Brok
+### Okay, okay! Here's the moolah.
+PC16_WINDOW_TRIBOTS_PAY-1=Гаразд, гаразд! Ось бабки.
+
+
+#----------------------------------------------------
+# Brok
+### Not even a thank you? Hmmph.
+PC16_WINDOW_TRIBOTS_PAY2-1=Навіть "дякую" не скажете? Гм-мм.
+
+
+#----------------------------------------------------
+# Brok
+### Oops! Not enough moolah!
+PC16_WINDOW_TRIBOTS_BROKE-1=Ой! Бабок не вистачає!
+
+
+#----------------------------------------------------
+# Brok
+### No credits for you!
+PC16_WINDOW_TRIBOTS_FIGHT1-1=А дідька лисого вам, а не гроші!
+
+
+#----------------------------------------------------
+# Brok - Checking with radar
+### Weird...
+PC16_MATERIAL_MISSING1-1=Дивно...
+
+
+# Brok
+### There's a signal but I can't quite find the material in this room.
+PC16_MATERIAL_MISSING1-2=Сигнал є, але я ніяк не можу знайти матеріал у цій кімнаті.
+
+
+# Brok
+### Could this mean...?
+PC16_MATERIAL_MISSING1-3=Чи це означає...?
+
+
+#----------------------------------------------------
+# Brok
+### Yeah, the material must be there! Let's play!
+PC16_CONTROLS_RADAR-1=Так, матеріал має бути там! Зіграємо!
+
+
+#----------------------------------------------------
+# Unknown
+### "Welcome to Trasher Hunt!"
+PC16_BANNER1-1="Ласкаво просимо до мисливства за мотлохом!"
+
+
+#----------------------------------------------------
+# Brok
+### Oops!
+PC16_BLOW_MINE1-1=Ой!
+
+
+#----------------------------------------------------
+# Brok
+### Oh no...
+PC16_BLOW_MINE2-1=О ні...
+
+
+#----------------------------------------------------
+

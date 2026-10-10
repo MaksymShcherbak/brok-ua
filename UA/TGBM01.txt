@@ -1,0 +1,16 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=Virtual arena training
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+

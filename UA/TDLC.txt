@@ -1,0 +1,4435 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Achievements - Ads (Unknown)
+#     Ads - Achievements (Unknown)
+#     Ads - MODIFIED (Unknown)
+#     Dialogue - MODIFIED (Unknown)
+#     Extras - MODIFIED (Unknown)
+#     MODIFIED - Ads (Unknown)
+#     MODIFIED - Dialogue (Unknown)
+#     MODIFIED - Extras (Unknown)
+#     MODIFIED - Modifiers (Unknown)
+#     Modifiers - MODIFIED (Unknown)
+#     Modifiers - Traps (Unknown)
+#     Traps - Modifiers (Unknown)
+
+#-------------------------------
+#= DLC Fight club
+#-------------------------------
+
+# -------------------------------
+### Which fighter(s) will win?
+TITLE_SUPPORTCHALLENGERS=
+
+### Group
+TITLE_SUPPORTCHALLENGERS_GROUP=
+
+
+### Choose a music track
+CHOICE_JUKEBOX=
+
+### Give the C-Tokens?
+CHOICE_CLINT=
+
+# MODIFIED
+### Spend 10 C-Tokens?
+CHOICE_WHEELTURN=
+
+### Choose a daily challenge
+CHOICE_DAILYCHALLENGE=
+
+### Choose a character
+CHOICE_CHOOSECHARACTER=
+
+### Retry the fight?
+CHOICE_RETRYFIGHT=
+
+### Exit? (Any unsaved changes will be lost!)
+CHOICE_EXITCREATOR=
+
+### Start over? (Any unsaved changes will be lost!)
+CHOICE_EXITRESET=
+
+### Player character
+CHOICE_CHOOSEPLAYER=
+
+### Continue
+CHOICE_CONTINUE=
+
+### Retry
+CHOICE_RETRY=
+
+### Exit
+CHOICE_EXIT=
+
+### Remove all DLC progress
+CHOICE_REMOVEALL=
+
+### Keep C-Tokens, food and unlockables
+CHOICE_REMOVESOME=
+
+### Don't do anything
+CHOICE_DONT=
+
+### Last call! Are you absolutely certain?
+CHOICE_ABSOLUTELY=
+
+
+# Ads
+### Right door
+AD_PC21_DOORRIGHT=
+
+### Wheel
+AD_PC21_WHEEL=
+
+### Crocodile
+AD_PC21_BACKCROC=
+
+### Creator mode
+AD_PC21_CREATOR=
+
+### Jukebox
+AD_PC21_JUKEBOX=
+
+### Food sink
+AD_PC21_FOODSINK=
+
+### Behind right counter
+AD_PC21_COUNTERRIGHT=
+
+### Box on the counter
+AD_PC21_COUNTERBOX=
+
+### News article
+AD_PC21_NEWSARTICLE=
+
+### Right stool
+AD_PC21_STOOLRIGHT=
+
+### Left of V.R. Cabin
+AD_PC21_VRCABIN=
+
+### Left plant
+AD_PC21_PLANT=
+
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### I love 'em ads
+INTERFACE_JUKEBOX_AD=
+
+
+# Achievements
+### I'm Just Warming Up
+ACHIEVE_DLC_FIRSTWIN=
+
+### Novice Category
+ACHIEVE_DLC_NOVICE=
+
+### Intermediate Category
+ACHIEVE_DLC_INTERMEDIATE=
+
+### Pro Category
+ACHIEVE_DLC_PRO=
+
+### Bonus Category
+ACHIEVE_DLC_BONUS=
+
+### Completed (Relaxed)
+ACHIEVE_DLC_COMPLETERELAXED=
+
+### Completed (Normal)
+ACHIEVE_DLC_COMPLETENORMAL=
+
+### Completed (Hard)
+ACHIEVE_DLC_COMPLETEHARD=
+
+### A Week of Daily
+ACHIEVE_DLC_DAILY=
+
+### I Love to Chit-Chat
+ACHIEVE_DLC_STORY=
+
+### Feeling Creative
+ACHIEVE_DLC_CREATOR=
+
+### Unwelcome
+ACHIEVE_DLC_THROWNOUT=
+
+### Bathroom Break
+ACHIEVE_DLC_BATHROOM=
+
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Bar Ads Lover
+ACHIEVE_DLC_ADS=
+
+
+# Achievements descriptions
+### Win your first challenge
+ITEM_DLC_FIRSTWIN_MSG=
+
+### Finish the "Novice" category
+ITEM_DLC_NOVICE_MSG=
+
+### Finish the "Intermediate" category
+ITEM_DLC_INTERMEDIATE_MSG=
+
+### Finish the "Pro" category
+ITEM_DLC_PRO_MSG=
+
+### Unlock all bonus challenges and finish them
+ITEM_DLC_BONUS_MSG=
+
+### Finish all challenges without skipping any, in relaxed difficulty
+ITEM_DLC_COMPLETERELAXED_MSG=
+
+### Finish all challenges without skipping any, in normal difficulty
+ITEM_DLC_COMPLETENORMAL_MSG=
+
+### Finish all challenges without skipping any, in hardcore difficulty
+ITEM_DLC_COMPLETEHARD_MSG=
+
+### Play seven daily challenges
+ITEM_DLC_DAILY_MSG=
+
+### Talk to all characters in the bar at least once
+ITEM_DLC_STORY_MSG=
+
+### Create one challenge and win it
+ITEM_DLC_CREATOR_MSG=
+
+### Get thrown out of the bar
+ITEM_DLC_THROWNOUT_MSG=
+
+### Find a way inside the bathroom
+ITEM_DLC_BATHROOM_MSG=
+
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Get all the collectible ads
+ITEM_DLC_ADS_MSG=
+
+
+# This one needs to stay very short (3 characters)
+### Choose
+INTERFACE_CHOOSE=
+
+### V.R. Food
+INTERFACE_DLCFOOD=
+
+### {value} C-Tokens won total
+INTERFACE_TOTALCTOKENS=
+
+### Food selected
+INTERFACE_VRFOODSELECTED=
+
+### Character selected
+INTERFACE_CHARACTERSELECTED=
+
+### Rename player {number}
+INTERFACE_RENAMEPLAYER=
+
+### Spin it!
+INTERFACE_SPINIT=
+
+### Gameovers
+INTERFACE_GAMEOVERDLC=
+
+### VS
+INTERFACE_VERSUS=
+
+### All
+INTERFACE_ALLENEMIES=
+
+
+### Win challenge
+INTERFACE_DEBUG_DLC_WIN=
+
+### Lose challenge
+INTERFACE_DEBUG_DLC_LOSE=
+
+### Set all challenges completed
+INTERFACE_DEBUG_DLC_COMPLETEALLCHALLENGES=
+
+### Unlock all bonus challenges
+INTERFACE_DEBUG_DLC_UNLOCKBONUSCHALLENGES=
+
+### Give C-Tokens
+INTERFACE_DEBUG_DLC_GIVECTOKENS=
+
+### Display challenges attempted/won/lose stats (for the current difficulty)
+INTERFACE_DEBUG_DLC_DISPLAYSTATS=
+
+### Reset all stats to zero (for the current difficulty)
+INTERFACE_DEBUG_DLC_RESETSTATS=
+
+### Set first date for DLC daily challenges
+INTERFACE_DEBUG_DLC_SETFIRSTDATE=
+
+
+
+### Total completed
+INTERFACE_NUMBERCOMPLETED=
+
+### Congratulations!
+INTERFACE_CONGRATULATIONS=
+
+### You get a <col=BOLD>{name}</col> collectible card!
+INTERFACE_CARD_DESC=
+
+### Grabbed!
+INTERFACE_GRABBED=
+
+
+### News articles
+PC_NEWSARTICLES=
+
+### Boxing gloves
+PC_BOXINGGLOVES=
+
+### Embleme
+PC_EMBLEME=
+
+### Food sink
+PC_FOODSINK=
+
+### Jukebox
+PC_JUKEBOX=
+
+### Kitchenware
+PC_KITCHENWARE=
+
+### Awards
+PC_AWARDS=
+
+### Left door
+PC_DOORLEFT=
+
+### Right door
+PC_DOORRIGHT=
+
+### Bonus wheel
+PC_WHEEL=
+
+### Arcade machine
+PC_ARCADE=
+
+
+### Switch between boxer and detective outfits
+ITEM_INTERFACE_SWITCHBOXER_MSG=
+
+### Brawl Bar reset
+INTERFACE_RESET_DLC=
+
+# MODIFIED
+### Warning - This will <col=BOLD>remove all your Brawl Bar progress</col>! (unlocked challenges, C-Tokens, collectibles and story)
+INTERFACE_RESET_DLC_REMOVEALL=
+
+### It won't affect the main game progress and achievements.
+INTERFACE_RESET_DLC_REMOVEALL_MAIN=
+
+### It won't affect the achievements.
+INTERFACE_RESET_DLC_REMOVEALL_STANDALONE=
+
+# MODIFIED
+### Warning - This will <col=BOLD>remove some of your Brawl Bar progress</col>! (unlocked challenges and story)
+INTERFACE_RESET_DLC_REMOVESOME=
+
+### It won't affect the main game progress, achievements and extras unlocked.
+INTERFACE_RESET_DLC_REMOVESOME_MAIN=
+
+### It won't affect the achievements and extras unlocked.
+INTERFACE_RESET_DLC_REMOVESOME_STANDALONE=
+
+### You will keep your C-Tokens, food and coupons.
+INTERFACE_RESET_DLC_REMOVESOME_MORE=
+
+
+#Dialogue
+### Help
+PC21_HYENA_HELP=
+
+### Challengers
+PC21_HYENA_CHALLENGER=
+
+### Restaurant
+PC21_HYENA_RESTAURANT=
+
+### Fast mode
+PC21_FROG_FAST=
+
+### Creator mode
+PC21_FROG_CREATOR=
+
+### Rename player
+PC21_FROG_RENAMEPLAYER=
+
+### Change character
+PC21_FROG_CHANGECHARACTER=
+
+### Bonus Wheel
+PC21_FROG_WHEEL=
+
+### Download
+PC21_FROG_DOWNLOAD=
+
+### Place your trust
+PC21_HEDGEHOG_SUPPORT=
+
+### Daily challenge
+PC21_HEDGEHOG_DAILYCHALLENGE=
+
+### Survival
+PC21_HEDGEHOG_SURVIVAL=
+
+### Versus
+PC21_HEDGEHOG_VERSUS=
+
+### Herself
+TOPIC_HERSELF=
+
+### Default character
+TOPIC_DEFAULT_CHARACTER=
+
+
+#Characters names
+# NB: Lexicon word in Ukrainian for "Matt": "Метт"
+### Matt
+CHAR_ARMADILLO=
+
+# NB: Lexicon word in Ukrainian for "Sly": "Слай"
+### Sly
+CHAR_BOXERSNAKE=
+
+# NB: Lexicon word in Ukrainian for "Boyd": "Бойд"
+### Boyd
+CHAR_ROOSTER=
+
+# NB: Lexicon word in Ukrainian for "Rok": "Рок"
+### Rok
+CHAR_BEAR=
+
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles
+CHAR_HEDGEHOG=
+
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Tenderjaw
+CHAR_HYENA=
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Bubbles
+CHAR_FROG=
+
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Sharpteeth
+CHAR_SHARK=
+
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Ivy
+CHAR_IGUANA=
+
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Clint
+CHAR_CLINT=
+
+### Fox
+CHAR_BACKFOX=
+
+### Bunny
+CHAR_BACKBUNNY=
+
+### Roo
+CHAR_BACKROO=
+
+### Crocodile
+CHAR_BACKCROC=
+
+### Badger
+CHAR_BACKBADGER=
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart
+CHAR_BACKDART=
+
+### Mouse
+CHAR_BACKMOUSE=
+
+### Rhino
+CHAR_BACKRHINO=
+
+### Group
+CHAR_BACKGROUP=
+
+### Bat
+CHAR_BACKBAT=
+
+### Wolf
+CHAR_BACKWOLF=
+
+### Platypus
+CHAR_BACKPLATYPUS=
+
+### Dave
+CHAR_BACKDAVE=
+
+### Client
+CHAR_BACKCLIENT=
+
+
+#Interactions
+### VR cabin
+PC_VRCABINS=
+
+
+
+### 2x faster!
+INTERFACE_2FASTER=
+
+### Wave {number}
+INTERFACE_WAVE=
+
+### strength
+INTERFACE_STRENGTH=
+
+### Reward
+INTERFACE_REWARD=
+
+
+### Win!
+CHALLENGE_WIN=
+
+### Wins
+CHALLENGE_WINS=
+
+# "Draw" here refers to combat when all opponents are equals
+### Draw
+CHALLENGE_DRAW=
+
+### CPU
+CHALLENGE_CPU=
+
+### Oops...
+CHALLENGE_LOSE=
+
+### {name} died...
+CHALLENGE_LOSE_DIED=
+
+### Timeout!
+CHALLENGE_LOSE_TIMEOUT=
+
+### Fail...
+CHALLENGE_LOSE_FAIL=
+
+### Too late!
+CHALLENGE_LOSE_SERVICE_TIMER=
+
+### Wrong food!
+CHALLENGE_LOSE_SERVICE_WRONG=
+
+### Don't hit them...
+CHALLENGE_LOSE_HITFAIL=
+
+### They hit someone...
+CHALLENGE_LOSE_HITSOMEONEFAIL=
+
+
+### 3
+CHALLENGE_3=
+
+### 2
+CHALLENGE_2=
+
+### 1
+CHALLENGE_1=
+
+### Go!
+CHALLENGE_0=
+
+
+### Novice
+MENU_CHALLENGE1=
+
+### Intermediate
+MENU_CHALLENGE2=
+
+### Pro
+MENU_CHALLENGE3=
+
+### Bonus
+MENU_CHALLENGEBONUS=
+
+### Community
+MENU_CHALLENGECOMMUNITY=
+
+### Cards
+MENU_COLLECTIBLECARDS=
+
+
+### Spin fast
+TUTORIAL_SPINFAST=
+
+### Play
+TUTORIAL_CHALLENGEPLAY=
+
+### Use food
+TUTORIAL_CHALLENGEFOOD=
+
+### Skip challenge
+TUTORIAL_CHALLENGESKIP=
+
+### Report
+TUTORIAL_CHALLENGEREPORT=
+
+
+### Skip this challenge?
+CHOICE_CHALLENGE_SKIP=
+
+### Skipping this challenge costs <col=BOLD>{amount} C-Tokens</col>.
+INTERFACE_CHALLENGE_SKIP_INFO=
+
+### You do not have enough C-Tokens.
+INTERFACE_CHALLENGE_SKIPNOTENOUGH_INFO=
+
+
+### Should this run be randomized?
+CHOICE_SURVIVAL_RANDOM=
+
+
+### Play?
+CHOICE_ARCADEMACHINE_PLAY=
+
+
+### Controller required
+PC21_ARCADE_NOGAMEPAD_TITLE=
+
+### This game only works with a Bluetooth controller. Please connect one to play.
+PC21_ARCADE_NOGAMEPAD_DESC=
+
+
+### Default character
+CHAR_DEFAULT=
+
+
+### Defeat
+TYPE_DEFEAT=
+
+### Destroy
+TYPE_DESTROY=
+
+### Collect
+TYPE_COLLECT=
+
+### Survive
+TYPE_SURVIVE=
+
+### King
+TYPE_KINGHILL=
+
+### Battle Royale
+TYPE_BATTLEROYALE=
+
+### Suicide
+TYPE_SUICIDE=
+
+### Stage
+TYPE_STAGE=
+
+### Quizz
+TYPE_QUIZZ=
+
+### Versus
+TYPE_VERSUS=
+
+### Arm wrestle
+TYPE_ARMWRESTLE=
+
+### Service
+TYPE_SERVICE=
+
+### Secret
+TYPE_SECRET=
+
+### Secret challenge - Play it to reveal the content
+TYPE_SECRET_MSG=
+
+### ???
+TYPE_UNKNOWN=
+
+
+# These are prefixed by the above word
+### all the enemies
+TYPE_OBJECTIVE_DEFEAT=
+
+### everything destructible
+TYPE_OBJECTIVE_DESTROY=
+
+### all items
+TYPE_OBJECTIVE_COLLECT=
+
+### until timer runs out
+TYPE_OBJECTIVE_SURVIVE=
+
+### of the hill
+TYPE_OBJECTIVE_KINGHILL=
+
+### stay inside the circle
+TYPE_OBJECTIVE_BATTLEROYALE=
+
+### before timer runs out
+TYPE_OBJECTIVE_SUICIDE=
+
+### with progress
+TYPE_OBJECTIVE_STAGE=
+
+
+### Coins
+ITEM_COINS=
+
+### Cinnamon Roll
+ITEM_CINNAMONROLL=
+
+
+### Locked
+ITEM_CHALLENGELOCKED=
+
+### Complete or skip the available challenges to unlock more
+ITEM_CHALLENGELOCKED_MSG=
+
+### Locked (full game)
+ITEM_CHALLENGEPREMIUM=
+
+### Unlock the full game to play all 60 challenges
+ITEM_CHALLENGEPREMIUM_MSG=
+
+### Survival stops at <col=BOLD>wave {free}</col> in the free version. The full game goes up to wave {full}!
+DLC_SURVIVAL_FREELIMIT=
+
+### You received {value} C-Tokens you had earned before unlocking the full game!
+DLC_TOKENS_OWED=
+
+### Fowl Play
+ITEM_CHALLENGE_NEWFOE=
+
+### Beat the <col=BOLD>rooster</col> enemy within time limit
+ITEM_CHALLENGE_NEWFOE_MSG=
+
+### Grow Up on Sodas
+ITEM_CHALLENGE_GROWSODAS=
+
+### Drink at least <col=BOLD>{number} sodas</col> within time limit
+ITEM_CHALLENGE_GROWSODAS_MSG=
+
+### Grabbers
+ITEM_CHALLENGE_GRABBERS=
+
+### Defeat the enemies without getting <col=BOLD>grabbed</col> (instant death)
+ITEM_CHALLENGE_GRABBERS_MSG=
+
+### Crate Destroyer
+ITEM_CHALLENGE_DESTROYER=
+
+### Break at least <col=BOLD>{number} crates</col> within time limit
+ITEM_CHALLENGE_DESTROYER_MSG=
+
+### A Tale of Two Bears
+ITEM_CHALLENGE_TWOBEARS=
+
+# NB: Lexicon word in Ukrainian for "Rok": "Рок"
+### Beat both bears <col=BOLD>Rok and R.J</col>.
+ITEM_CHALLENGE_TWOBEARS_MSG=
+
+### Rats Showdown
+ITEM_CHALLENGE_RATSSHOWDOWN=
+
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Take down all Squealers with <col=BOLD>R.J. and Graff safe!</col>
+ITEM_CHALLENGE_RATSSHOWDOWN_MSG=
+
+### Spiky Balloons
+ITEM_CHALLENGE_SPIKYBALLOONS=
+
+### Destroy <col=BOLD>all the balloons</col> in a spiked environment.
+ITEM_CHALLENGE_SPIKYBALLOONS_MSG=
+
+### 1D Combat
+ITEM_CHALLENGE_ONEDCOMBAT=
+
+### Beat all foes with movement restricted to a <col=BOLD>line</col>
+ITEM_CHALLENGE_ONEDCOMBAT_MSG=
+
+### Boomer
+ITEM_CHALLENGE_DYNAMITE=
+
+### Beat all enemies exclusively by throwing <col=BOLD>dynamites</col>
+ITEM_CHALLENGE_DYNAMITE_MSG=
+
+### Killer Sneeze
+ITEM_CHALLENGE_RJSNEEZE=
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Defeat the R.J.s <col=BOLD>without getting sneezed at</col>!
+ITEM_CHALLENGE_RJSNEEZE_MSG=
+
+### Catch Me
+ITEM_CHALLENGE_CATCHME=
+
+### Kill all the enemies that keep <col=BOLD>running away</col>!
+ITEM_CHALLENGE_CATCHME_MSG=
+
+### Cinnamon Chase
+ITEM_CHALLENGE_CINNAMONCHASE=
+
+### Eat the cinnamon rolls, they make you <col=BOLD>faster and faster</col>!
+ITEM_CHALLENGE_CINNAMONCHASE_MSG=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's Nightmare
+ITEM_CHALLENGE_OTTNIGHTMARE=
+
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Take down <col=BOLD>Kins the giant Squealer</col> before he breaks your neck!
+ITEM_CHALLENGE_OTTNIGHTMARE_MSG=
+
+### Arctic Bear
+ITEM_CHALLENGE_ICETRIAL=
+
+### The bear must survive this <col=BOLD>slippery landscape</col>!
+ITEM_CHALLENGE_ICETRIAL_MSG=
+
+### AI Must Die
+ITEM_CHALLENGE_AIMUSTDIE=
+
+### Ensure all bots die at the same time (within 5 seconds)
+ITEM_CHALLENGE_AIMUSTDIE_MSG=
+
+### Distant protection
+ITEM_CHALLENGE_PROTECTDISTANCE=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Defend Ott from hostile bots <col=BOLD>with items.</col>
+ITEM_CHALLENGE_PROTECTDISTANCE_MSG=
+
+### Rebel
+ITEM_CHALLENGE_REBEL=
+
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Rogue": "Роуг"
+### Rogue rat targets <col=BOLD>deadly Squealers</col>!
+ITEM_CHALLENGE_REBEL_MSG=
+
+### I am Bomb
+ITEM_CHALLENGE_IAMBOMB=
+
+### Jumping means 'boom'! Blast <col=BOLD>all foes together!</col>
+ITEM_CHALLENGE_IAMBOMB_MSG=
+
+### Platformer
+ITEM_CHALLENGE_PLATFORMER=
+
+### Destroy <col=BOLD>all the balloons</col> without falling!
+ITEM_CHALLENGE_PLATFORMER_MSG=
+
+### Rat Wave
+ITEM_CHALLENGE_RATWAVE=
+
+### Eliminate a big wave of <col=BOLD>100 rats</col>!
+ITEM_CHALLENGE_RATWAVE_MSG=
+
+### Twin Snakes
+ITEM_CHALLENGE_TWINSNAKES=
+
+### Eliminate the <col=BOLD>two dangerous snakes</col>
+ITEM_CHALLENGE_TWINSNAKES_MSG=
+
+### Domestic Argument
+ITEM_CHALLENGE_DOMESTICARGUMENT=
+
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Keep Sin & Dee <col=BOLD>alive until time's up</col>
+ITEM_CHALLENGE_DOMESTICARGUMENT_MSG=
+
+### Near-Death Hero
+ITEM_CHALLENGE_NEARDEATH=
+
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The Chief is invincible till your <col=BOLD>healthbar flashes red!</col>
+ITEM_CHALLENGE_NEARDEATH_MSG=
+
+### Strike Rhythm
+ITEM_CHALLENGE_RHYTHMSTRIKE=
+
+### Limit yourself to <col=BOLD>one attack every second</col> max or die!
+ITEM_CHALLENGE_RHYTHMSTRIKE_MSG=
+
+### Jump Rhythm
+ITEM_CHALLENGE_RHYTHMJUMP=
+
+### Jump every <col=BOLD>4 seconds</col> to survive this spiky hellscape!
+ITEM_CHALLENGE_RHYTHMJUMP_MSG=
+
+### Three Little Bots
+ITEM_CHALLENGE_THREELITTLEBOTS=
+
+### Defeat the <col=BOLD>three bots</col>.
+ITEM_CHALLENGE_THREELITTLEBOTS_MSG=
+
+### Skating Day
+ITEM_CHALLENGE_SKATINGDAY=
+
+### Defeat all enemies in <col=BOLD>extreme weather conditions</col>.
+ITEM_CHALLENGE_SKATINGDAY_MSG=
+
+### Weak
+ITEM_CHALLENGE_WEAK=
+
+### Grab <col=BOLD>power boosts</col> to make you stronger!
+ITEM_CHALLENGE_WEAK_MSG=
+
+### One HP
+ITEM_CHALLENGE_ONEHP=
+
+### Everyone only has <col=BOLD>one health point</col>
+ITEM_CHALLENGE_ONEHP_MSG=
+
+### Everyone Died
+ITEM_CHALLENGE_EVERYONEDIED=
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Kill <col=BOLD>all the Tribots</col> invading the place!
+ITEM_CHALLENGE_EVERYONEDIED_MSG=
+
+### Beatemup Sewers
+ITEM_CHALLENGE_BEATEMUPA=
+
+### Classic beat'em up in the sewers. Three lives, no more!
+ITEM_CHALLENGE_BEATEMUPA_MSG=
+
+# MODIFIED
+### Beatemup Rooftops
+ITEM_CHALLENGE_BEATEMUPB=
+
+# MODIFIED
+### Classic beat'em up on rooftops. Fall is instant death!
+ITEM_CHALLENGE_BEATEMUPB_MSG=
+
+### Bosses in a Rush
+ITEM_CHALLENGE_BEATEMUPC=
+
+### Fight all the bosses back to back, in pairs!
+ITEM_CHALLENGE_BEATEMUPC_MSG=
+
+### Final Fight
+ITEM_CHALLENGE_FINALFIGHT=
+
+### The quartet strikes back
+ITEM_CHALLENGE_FINALFIGHT_MSG=
+
+### Mini Spawn
+ITEM_CHALLENGE_MINISPAWN=
+
+### Enemies <col=BOLD>spawn tougher mini versions</col>. Keep killing 'em!
+ITEM_CHALLENGE_MINISPAWN_MSG=
+
+### No HUD
+ITEM_CHALLENGE_NOHUD=
+
+### All health indications are hidden!
+ITEM_CHALLENGE_NOHUD_MSG=
+
+### Killing Me Softly
+ITEM_CHALLENGE_KILLINGMESOFTLY=
+
+### Your <col=BOLD>health decreases quickly</col>. Hit the enemy to gain some!
+ITEM_CHALLENGE_KILLINGMESOFTLY_MSG=
+
+### Growing Threat
+ITEM_CHALLENGE_GROWINGTHREAT=
+
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes and Tidy get <col=BOLD>stronger and bigger</col>. Get rid of 'em fast!
+ITEM_CHALLENGE_GROWINGTHREAT_MSG=
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Double Sins
+ITEM_CHALLENGE_SAFETYFIRST=
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Two Sins, <col=BOLD>one-hit kill</col> glasses!
+ITEM_CHALLENGE_SAFETYFIRST_MSG=
+
+### King of The Table
+ITEM_CHALLENGE_FRIENDLYSPARRING=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### <col=BOLD>Stay on the table</col> longer than Brok & Ott to win!
+ITEM_CHALLENGE_FRIENDLYSPARRING_MSG=
+
+### Battle Royale
+ITEM_CHALLENGE_BATTLEROYALE=
+
+### One step <col=BOLD>outside the bright area</col> and you're done for!
+ITEM_CHALLENGE_BATTLEROYALE_MSG=
+
+### Floor Is Lava
+ITEM_CHALLENGE_FLOORISLAVA=
+
+### <col=BOLD>Collect the required coins</col> without burning to death!
+ITEM_CHALLENGE_FLOORISLAVA_MSG=
+
+### Service
+ITEM_CHALLENGE_SERVICE=
+
+### <col=BOLD>Serve all the clients</col> by throwing the food on their tables!
+ITEM_CHALLENGE_SERVICE_MSG=
+
+### Collateral Damage
+ITEM_CHALLENGE_COLLATERALDAMAGE=
+
+### Defeat all the enemies <col=BOLD>without touching them!</col>
+ITEM_CHALLENGE_COLLATERALDAMAGE_MSG=
+
+### Kill the One
+ITEM_CHALLENGE_KILLTHEONE=
+
+### Defeat exclusively the <col=BOLD>target rat!</col>
+ITEM_CHALLENGE_KILLTHEONE_MSG=
+
+### Get Rid of Yourself
+ITEM_CHALLENGE_GETRIDOFYOURSELF=
+
+### Get killed <col=BOLD>as fast as possible!</col>
+ITEM_CHALLENGE_GETRIDOFYOURSELF_MSG=
+
+### Money Shadow
+ITEM_CHALLENGE_MONEYSHADOW=
+
+### Collect coins <col=BOLD>in the dark</col>
+ITEM_CHALLENGE_MONEYSHADOW_MSG=
+
+### Bump 'Em
+ITEM_CHALLENGE_BUMPEM=
+
+### Defeat the enemies by <col=BOLD>throwing them to the walls</col>
+ITEM_CHALLENGE_BUMPEM_MSG=
+
+### Flip Flap
+ITEM_CHALLENGE_FLIPFLAP=
+
+### Defeat the enemies with <col=BOLD>inverted controls!</col>
+ITEM_CHALLENGE_FLIPFLAP_MSG=
+
+### Rotten Food
+ITEM_CHALLENGE_ROTTENFOOD=
+
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Defeat the Kins by making them eat <col=BOLD>sewage sludge!</col>
+ITEM_CHALLENGE_ROTTENFOOD_MSG=
+
+### Faster!
+ITEM_CHALLENGE_FASTER=
+
+### The enemies get <col=BOLD>faster and faster</col>!
+ITEM_CHALLENGE_FASTER_MSG=
+
+### War Meddler
+ITEM_CHALLENGE_WARMEDDLER=
+
+### Destroy bots to <col=BOLD>help the rats</col>. No rat must die!
+ITEM_CHALLENGE_WARMEDDLER_MSG=
+
+### Invisible
+ITEM_CHALLENGE_INVISIBLE=
+
+### The enemies get <col=BOLD>invisible</col> at times!
+ITEM_CHALLENGE_INVISIBLE_MSG=
+
+### Stick Only
+ITEM_CHALLENGE_STICKONLY=
+
+### Enemies can only be defeated <col=BOLD>with the stick!</col>
+ITEM_CHALLENGE_STICKONLY_MSG=
+
+### Don't Blow Up
+ITEM_CHALLENGE_DONTBLOWUP=
+
+### Avoid getting blown up and grab the food before it's gone!
+ITEM_CHALLENGE_DONTBLOWUP_MSG=
+
+### Low Gravity
+ITEM_CHALLENGE_LOWGRAVITY=
+
+### Destroy all targets <col=BOLD>fast</col> and survive!
+ITEM_CHALLENGE_LOWGRAVITY_MSG=
+
+
+# Extras
+### Spiky Balloons++
+ITEM_CHALLENGE_SPIKYBALLOONSTWO=
+
+### Arctic Bear++
+ITEM_CHALLENGE_ICETRIALTWO=
+
+### Survive The Party
+ITEM_CHALLENGE_SURVIVETHEPARTY=
+
+### This party went wrong. Survive with <col=BOLD>inverted controls</col>, but <col=BOLD>don't hit your guests!</col>
+ITEM_CHALLENGE_SURVIVETHEPARTY_MSG=
+
+### Ray Rising
+ITEM_CHALLENGE_RAYRISING=
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Survive the zombie R.J. apocalypse!
+ITEM_CHALLENGE_RAYRISING_MSG=
+
+### The Lost Flush
+ITEM_CHALLENGE_THELOSTFLU=
+
+### Find the <col=BOLD>three hidden coins</col>. Be careful, you only have 1 HP!
+ITEM_CHALLENGE_THELOSTFLU_MSG=
+
+### Passive Aggressive
+ITEM_CHALLENGE_PASSIVEAGG=
+
+### Only <col=BOLD>parry</col> can damage the enemies!
+ITEM_CHALLENGE_PASSIVEAGG_MSG=
+
+### Hidden Collector
+ITEM_CHALLENGE_HIDDENCOLL=
+
+### Collect coins, don't let enemies and balloons <col=BOLD>getting invisible</col> stop you!
+ITEM_CHALLENGE_HIDDENCOLL_MSG=
+
+### King of the Pipe
+ITEM_CHALLENGE_PIPESPARRING=
+
+### Stand on a <col=BOLD>tiny pipe longer</col> than all the enemies!
+ITEM_CHALLENGE_PIPESPARRING_MSG=
+
+### Class Dismissed
+ITEM_CHALLENGE_CLASSDISMISSED=
+
+### Defeat all enemies fast, they <col=BOLD>keep recovering HP</col>!
+ITEM_CHALLENGE_CLASSDISMISSED_MSG=
+
+### Air intruder
+ITEM_CHALLENGE_AIRINTRUDE=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Among all these Broks, defeat <col=BOLD>only the real one</col>!
+ITEM_CHALLENGE_AIRINTRUDE_MSG=
+
+### Dangerous food
+ITEM_CHALLENGE_DANGEROUSF=
+
+### Your punches do nothing: beat the enemies by <col=BOLD>throwing them food</col>!
+ITEM_CHALLENGE_DANGEROUSF_MSG=
+
+### Grabber Expert
+ITEM_CHALLENGE_GRABBEREXP=
+
+### The roosters only grab, and <col=BOLD>a grab means death</col>. Don't let them!
+ITEM_CHALLENGE_GRABBEREXP_MSG=
+
+# NB: Lexicon word in Ukrainian for "Rogue": "Роуг"
+### Rogue-like
+ITEM_CHALLENGE_ROGUELIKE=
+
+### Your HP <col=BOLD>drains away</col>, survive by <col=BOLD>eating food</col>!
+ITEM_CHALLENGE_ROGUELIKE_MSG=
+
+### Hydrogen Shark vs Coughing Gherkin
+ITEM_CHALLENGE_HYDROGENBO=
+
+### Beat the shark!...
+ITEM_CHALLENGE_HYDROGENBO_MSG=
+
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Chief's Revenge
+ITEM_CHALLENGE_CHIEFSREVE=
+
+### Defeat the crocogator!
+ITEM_CHALLENGE_CHIEFSREVE_MSG=
+
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### The good Kins
+ITEM_CHALLENGE_THEGOODKIN=
+
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Defeat all the evil Kins, except <col=BOLD>the real one</col> who's on your side!
+ITEM_CHALLENGE_THEGOODKIN_MSG=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Mink is da bomb
+ITEM_CHALLENGE_MINKISDABO=
+
+### <col=BOLD>Jump</col> and make sure everyone explodes!
+ITEM_CHALLENGE_MINKISDABO_MSG=
+
+### Frozen Battle Royale
+ITEM_CHALLENGE_ICYBATTLEROYAL=
+
+### Be the sole survivor and <col=BOLD>stay within the limits</col>!
+ITEM_CHALLENGE_ICYBATTLEROYAL_MSG=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Protect the invisible Klay
+ITEM_CHALLENGE_PROTECTTHE=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay and his enemies <col=BOLD>turn invisible</col>, help him get rid of them!
+ITEM_CHALLENGE_PROTECTTHE_MSG=
+
+
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Boss Clint
+ITEM_CHALLENGE_BOSSCLINT=
+
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Boss fight against Clint
+ITEM_CHALLENGE_BOSSCLINT_MSG=
+
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Boss Ivy
+ITEM_CHALLENGE_BOSSIVY=
+
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Boss fight against Ivy
+ITEM_CHALLENGE_BOSSIVY_MSG=
+
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Boss Sharpteeth
+ITEM_CHALLENGE_BOSSSHARK=
+
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Boss fight against Sharpteeth
+ITEM_CHALLENGE_BOSSSHARK_MSG=
+
+
+### Survival!
+ITEM_CHALLENGE_SURVIVAL=
+
+### Eliminate <col=BOLD>as many enemies as possible</col> to survive!
+ITEM_CHALLENGE_SURVIVAL_MSG=
+
+
+### Versus
+ITEM_CHALLENGE_VS=
+
+### Versus mode
+ITEM_CHALLENGE_VS_MSG=
+
+
+### Who Will Win?
+ITEM_CHALLENGE_SUPPORT=
+
+### Support A.I. challengers mode
+ITEM_CHALLENGE_SUPPORT_MSG=
+
+
+### Quizz A
+ITEM_CHALLENGE_QUIZZA=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Show off your BROK knowledge! (easy)
+ITEM_CHALLENGE_QUIZZA_MSG=
+
+
+### Quizz B
+ITEM_CHALLENGE_QUIZZB=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Show off your BROK knowledge! (medium)
+ITEM_CHALLENGE_QUIZZB_MSG=
+
+
+### Quizz C
+ITEM_CHALLENGE_QUIZZC=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Show off your BROK knowledge! (hard)
+ITEM_CHALLENGE_QUIZZC_MSG=
+
+
+### Arm Wrestle
+ITEM_CHALLENGE_ARMWRESTLE=
+
+### Are you stronger than the strongest rat?
+ITEM_CHALLENGE_ARMWRESTLE_MSG=
+
+
+#ITEM_OTT=Cinnamon Roll
+#ITEM_OTT_MSG=Tasty rolled pastry flavored with cinnamon and sugar! <col=BOLD>Makes you 5% faster.</col>
+
+# ITEM_OTT_MSG=Tasty rolled pastry flavored with cinnamon and sugar! <col=BOLD>Makes you 5% faster.</col>
+### Timer++
+ITEM_TIMERPLUS=
+
+### Adds <col=BOLD>30 seconds</col> to the timer.
+ITEM_TIMERPLUS_MSG=
+
+
+### Timer--
+ITEM_TIMERMINUS=
+
+### Removes <col=BOLD>30 seconds</col> from the timer.
+ITEM_TIMERMINUS_MSG=
+
+
+### Expelled
+GAMEOVER_PC21_HIT=
+
+### Last fight
+GAMEOVER_PC21_GROUP=
+
+
+### Character labels
+INTERFACE_OPTION_CHARLABELS=
+
+### Simplified - Only important ones displayed
+INTERFACE_OPTION_CHARLABELS_SIMPLIFIED=
+
+### All
+INTERFACE_OPTION_CHARLABELS_ALL=
+
+### None
+INTERFACE_OPTION_CHARLABELS_NONE=
+
+### Should the characters groups be displayed during a fight?
+ITEM_INTERFACE_OPTION_CHARLABELS_MSG=
+
+
+
+#-----------------------------------
+# Room info
+#-----------------------------------
+### Room horizontal size
+ROOMINFO_X=
+
+### Room vertical size
+ROOMINFO_Y=
+
+### Minimum vertical position characters can go
+ROOMINFO_YMINSCALE=
+
+### Maximum vertical position characters can go
+ROOMINFO_YMAXSCALE=
+
+### Middle vertical position
+ROOMINFO_YMIDDLE=
+
+### Minimum scale
+ROOMINFO_PERCENTMINSCALE=
+
+### Maximum scale
+ROOMINFO_PERCENTMAXSCALE=
+
+### Ambient color
+ROOMINFO_COLOR=
+
+### Transparency
+ROOMINFO_COLORALPHA=
+
+### Advanced settings
+ROOMINFO_ADVANCED=
+
+
+### In most cases, you do not need to adjust these for pre-existing environments.
+ROOMINFO_ADVANCED_HELP=
+
+### Total width of the room. Should be identical to the main background picture width in pixels.##A standard screen size is <col=BOLD>1920px</col> width, which is the minimum.
+ROOMINFO_X_HELP=
+
+### Total vertical size of the room. Should be identical to the main background picture height in pixels.##A standard screen size is <col=BOLD>1080px</col> high, which is the minimum.
+ROOMINFO_Y_HELP=
+
+### Scale of the characters when they're positioned the furthest away from the camera.##Must be a percent, eg: 50
+ROOMINFO_PERCENTMINSCALE_HELP=
+
+### Scale of the characters when they're positioned the closest to the camera.##Must be a percent, eg: 100
+ROOMINFO_PERCENTMAXSCALE_HELP=
+
+### An ambient color to tint the characters.##Enter three values separated by commas for red, green and blue, between 0 and 255.##Eg: <col=BOLD>0,240,255</col> for cyan.
+ROOMINFO_COLOR_HELP=
+
+### Transparency to use for the ambient color. The higher, the more visible.##Must be a percent, eg: 50
+ROOMINFO_COLORALPHA_HELP=
+
+### Define the furthest vertical position where characters can be placed, in pixels.##The value is between the top of the screen (0) and the bottom (1080) for a standard screen.
+ROOMINFO_YMINSCALE_HELP=
+
+### Define the closest vertical position where characters can be placed, in pixels.##The value is between the top of the screen (0) and the bottom (1080) for a standard screen.
+ROOMINFO_YMAXSCALE_HELP=
+
+### Define a middle vertical position. This should be the default position for the player, in between the two previous values.
+ROOMINFO_YMIDDLE_HELP=
+
+
+### The color you entered is incorrect.
+BM04_ROOMINFO_WRONGCOLOR=
+
+
+#-----------------------------------
+# Tutorials
+#-----------------------------------
+#HELP_DLC_SWITCHBOXER=Boxer / Adventure outfit switch
+#HELP_DLC_SWITCHBOXER_INSTRUCTIONS=Decide whether Brok should use his boxer or detective outfit during fights.##Use this button in the <col=BOLD>Player</col> panel.##Please note that this only affects action mode (Brok always keeps the detective outfit in adventure mode)
+
+# HELP_DLC_SWITCHBOXER_INSTRUCTIONS=Decide whether Brok should use his boxer or detective outfit during fights.##Use this button in the <col=BOLD>Player</col> panel.##Please note that this only affects action mode (Brok always keeps the detective outfit in adventure mode)
+### Boxer outfit
+HELP_DLC_BOXEROUTFIT=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You can now use the boxer outfit whenever you want. Just switch to action mode! (Brok always keeps the detective outfit in adventure mode)##If you prefer to fight with the regular detective outfit, use the icon in your <col=BOLD>Player</col> tab.
+HELP_DLC_BOXEROUTFIT_INSTRUCTIONS=
+
+
+### Boxer outfit specifics
+HELP_DLC_BOXEROUTFIT2=
+
+### Handling weapons won't be possible with this outfit. However, you gain two specific moves.##{command}
+HELP_DLC_BOXEROUTFIT2_INSTRUCTIONS=
+
+### <col=BOLD>When performing your regular combo</col>, press <col=BOLD>UP</col> <spr=CONTROL_up> to perform an uppercut, or <col=BOLD>DOWN</col> <spr=CONTROL_down> to perform a hook!
+HELP_DLC_BOXEROUTFIT2_MOUSE=
+
+### <col=BOLD>When performing your regular combo</col>, press <col=BOLD>UP</col> <spr=GAMEPAD_UP> to perform an uppercut, or <col=BOLD>DOWN</col> <spr=GAMEPAD_DOWN> to perform a hook!
+HELP_DLC_BOXEROUTFIT2_GAMEPAD=
+
+### <col=BOLD>When performing your regular combo</col>, press <spr=GAMEPAD_UP> to perform an uppercut, or <spr=GAMEPAD_DOWN> to perform a hook!
+HELP_DLC_BOXEROUTFIT2_GAMEPAD_PS=
+
+### Online co-op
+HELP_DLC_STEAMCOOP=
+
+# MODIFIED
+### Play with your online friends via Steam!##Press <col=BOLD>SHIFT + TAB</col> to open the overlay and right click on a friend. Then select <col=BOLD>Steam Remote Play Together</col>.##Only one copy of the game needed, but each player needs a controller (Player 1 can also use keyboard/mouse)
+HELP_DLC_STEAMCOOP_INSTRUCTIONS=
+
+
+### Online co-op (next)
+HELP_DLC_STEAMCOOP2=
+
+### No online friend to play with? Need help setting up a co-op session?##Come to our <col=BOLD>official Discord server</col>! (link in options)
+HELP_DLC_STEAMCOOP2_INSTRUCTIONS=
+
+
+
+### Collectible cards
+HELP_DLC_DLCCARDS=
+
+### You can now collect cards featuring your favorite characters!##Find them in the <col=BOLD>menu</col> or check out the box <col=BOLD>on the bar</col>. Some are rarer than others!
+HELP_DLC_DLCCARDS_INSTRUCTIONS=
+
+
+
+### Arm wrestling
+HELP_DLC_ARMWRESTLING=
+
+### When the game starts, {command} repeatedly and steadily to gain strength.##Watch out, <col=BOLD>do not press too fast or you will lose your stamina</col>.##There is no indication on screen. It's all about feeling it!
+HELP_DLC_ARMWRESTLING_INSTRUCTIONS=
+
+### press <button=INPUT_ACTION_JUMP>
+HELP_DLC_ARMWRESTLING_COMMAND=
+
+
+### V.R. Food
+HELP_DLC_VRFOOD=
+
+### When you're stuck on a challenge, buy <col=BOLD>V.R. food from the sink</col> in the bar!##Then select it on the <col=BOLD>challenges choice screen</col> by pressing {command} or the top-right "Food selected" button.
+HELP_DLC_VRFOOD_INSTRUCTIONS=
+
+### <button=INPUT_ACTION_SWITCH_MODE>
+HELP_DLC_VRFOOD_GAMEPAD=
+
+### <spr=CONTROL_mouseright>
+HELP_DLC_VRFOOD_MOUSE=
+
+
+### V.R. Food (Next)
+HELP_DLC_VRFOOD2=
+
+### During the next challenge you'll choose, use this food at any time <col=BOLD>in the pause menu</col>.##Warning: you can only select one item, and it'll be <col=BOLD>gone after winning</col>, no matter if you actually use it or not!
+HELP_DLC_VRFOOD2_INSTRUCTIONS=
+
+
+### Play More Characters
+HELP_DLC_DLCFINISH=
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Congratulations for finishing the Brawl Bar story. But the fun is far from over!##<col=BOLD>Replay all challenges with new characters</col>! Ask Bubbles at any time to switch to Graff, R.J. and more.##{command}
+HELP_DLC_DLCFINISH_INSTRUCTIONS=
+
+### You can also press <button=INPUT_ACTION_SCROLL_INV_LEFT> and <button=INPUT_ACTION_SCROLL_INV_RIGHT> to switch characters at any time.
+HELP_DLC_DLCFINISH_COMMAND=
+
+
+### Unlock Bonuses
+HELP_DLC_DLCFINISH2=
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Unlock all remaining <col=BOLD>bonus challenges and collectibles</col> with Bubbles' wheel. Earn more C-Tokens!
+HELP_DLC_DLCFINISH2_INSTRUCTIONS=
+
+
+### Daily Challenges
+HELP_DLC_DLCFINISH3=
+
+### A new <col=BOLD>Daily Challenge</col> awaits you every day until the end of time!
+HELP_DLC_DLCFINISH3_INSTRUCTIONS=
+
+
+### Creator Mode
+HELP_DLC_DLCFINISH4=
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Use Bubbles' <col=BOLD>Creator Mode</col> to create your own challenges.
+HELP_DLC_DLCFINISH4_INSTRUCTIONS=
+
+### Share them to your friends and <col=BOLD>download</col> community ones!##You can also create <col=BOLD>environments</col> and <col=BOLD>character mods</col>. Be sure to join the Discord for help on this!
+HELP_DLC_DLCFINISH4_INSTRUCTIONS_PC=
+
+### A selection of the best challenges created on computer versions are available in the challenges <col=BOLD>Community</col> tab.
+HELP_DLC_DLCFINISH4_INSTRUCTIONS_OTHER=
+
+
+### Fanart Extras
+HELP_DLC_DLCFINISH5=
+
+### Unlock fan drawings in <col=BOLD>Extras</col>.##Feel free to send yours, too! Post them on socials or to our Discord.
+HELP_DLC_DLCFINISH5_INSTRUCTIONS=
+
+
+### Difficulty
+HELP_DLC_DLCFINISH6=
+
+### For an even bigger challenge, crank up the difficulty! Enter the <col=BOLD>Gameplay options</col> to choose it at any time.##Challenges are completed only for the difficulty you finished them on or lower, and per character.
+HELP_DLC_DLCFINISH6_INSTRUCTIONS=
+
+
+### Less challenges "completed" now?
+HELP_DLC_SWITCHCOMPLETED=
+
+### After switching, only the challenges <col=BOLD>played with that specific character</col> are considered complete.##At any moment, switch back to <col=BOLD>Default character</col> to see all the challenges completed again.
+HELP_DLC_SWITCHCOMPLETED_INSTRUCTIONS=
+
+
+
+
+
+#-----------------------------------
+# Specific tutorials
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# Specific tutorials
+### Boxer Brok attacks
+BM01_TITLE_TUTORIAL3_ALT=
+
+### Hold <col=BOLD>UP</col> or <col=BOLD>DOWN</col> while punching to perform different attacks.
+BM01_SUBTITLE_TUTORIAL3_ALT=
+
+### Hold <spr=GAMEPAD_UP> or <spr=GAMEPAD_DOWN> while punching to perform different attacks.
+BM01_SUBTITLE_TUTORIAL3_ALT_PS=
+
+
+#-----------------------------------
+# Gameovers
+#-----------------------------------
+### You're almost done. Courage!
+GAMEOVER_PC21_LASTFIGHT=
+
+
+#-----------------------------------
+# Creator mode
+#-----------------------------------
+### Character options
+TUTORIAL_CHARACTEROPTIONS=
+
+### Item options
+TUTORIAL_ITEMOPTIONS=
+
+### Image options
+TUTORIAL_ENVIMAGEOPTIONS=
+
+### Duplicate
+TUTORIAL_DUPLICATE=
+
+### Trap options
+TUTORIAL_TRAPOPTIONS=
+
+### Delete this character
+TUTORIAL_CHARACTERDELETE=
+
+### Delete this challenge
+TUTORIAL_CHALLENGEDELETE=
+
+### Delete this environment
+TUTORIAL_ENVIRONMENTDELETE=
+
+### Delete this character?
+CHOICE_DELETE_CHAR=
+
+### Delete this challenge?
+CHOICE_DELETE_CHALLENGE=
+
+### Delete this environment?
+CHOICE_DELETE_ENVIRONMENT=
+
+### (This is your own so it'll be gone forever!)
+CHOICE_DELETE_ITEM_OWNED=
+
+### (You can download it again from the workshop)
+CHOICE_DELETE_ITEM_WORKSHOP=
+
+
+### The character will be deleted after this screen.
+CHOICE_DELETE_CHAR_POPUP=
+
+### The challenge will be deleted after this screen.
+CHOICE_DELETE_CHALLENGE_POPUP=
+
+### The environment will be deleted after this screen.
+CHOICE_DELETE_ENVIRONMENT_POPUP=
+
+
+# Traps
+### Crate
+TRAP_CRATE=
+
+### Balloon
+TRAP_BALLOONACTION=
+
+### Mine
+TRAP_MINE=
+
+### Spikes floor
+TRAP_SPIKEFLOOR=
+
+### Spike ball
+TRAP_SPIKEBALL=
+
+### Target
+TRAP_TARGET=
+
+### Moving platform
+TRAP_MOVINGPLATFORM=
+
+### Icy puddle
+TRAP_ICESKATE=
+
+### Laser placed
+TRAP_LASERPLACED=
+
+### Conveyor belt
+TRAP_CONVEYOR=
+
+### Hole
+TRAP_HOLE=
+
+### Falling rocks
+TRAP_FALLDOWN=
+
+### Acid
+TRAP_ACID=
+
+
+# Modifiers
+### Explode all enemies at once
+MODIFIER_BOMB=
+
+### Grab is instant death
+MODIFIER_GRABINSTANTDEATH=
+
+### 1D combat
+MODIFIER_ONED=
+
+### No HUD
+MODIFIER_NOHUD=
+
+### Food can be thrown and hurts
+MODIFIER_FOODWEAPONDAMAGE=
+
+### Enemies can only be hurt by thrown items
+MODIFIER_NODIRECTDAMAGE=
+
+### Food becomes weapons
+MODIFIER_FOODWEAPON=
+
+### No special attack
+MODIFIER_NOSPECIAL=
+
+### Invert controls
+MODIFIER_INVERTCONTROLS=
+
+### Remove all modifiers
+MODIFIER_REMOVE=
+
+### Moon gravity
+MODIFIER_HIGHJUMPS=
+
+### Zero damage until player HP low
+MODIFIER_ZERODAMAGEUNTILHPBELOW=
+
+### No scaling effect
+MODIFIER_NOSCALING=
+
+### Player has 1 HP
+MODIFIER_ONEHITKILLPLAYER=
+
+### Enemies have 1 HP
+MODIFIER_ONEHITKILLENEMIES=
+
+### Everyone has 1 HP
+MODIFIER_ONEHITKILL=
+
+### Glitched
+MODIFIER_GLITCH=
+
+### Only parry can deal damage to enemies
+MODIFIER_ONLYPARRY=
+
+### Enemies get invisible regularly
+MODIFIER_ENEMYINVISIBLE=
+
+### Your allies get invisible regularly
+MODIFIER_ALLYINVISIBLE=
+
+### You get invisible regularly
+MODIFIER_PLAYERINVISIBLE=
+
+### Your own team can be hit, allies included
+MODIFIER_FRIENDLYFIRE=
+
+### Player HP is drained progressively
+MODIFIER_HPDRAIN=
+
+### Enemies gain HP progressively
+MODIFIER_HPGAIN=
+
+### Player gains HP progressively
+MODIFIER_PLAYERHPGAIN=
+
+### Food is eaten right away, never stored
+MODIFIER_EATFOODNOW=
+
+### Enemies grab constantly
+MODIFIER_GRABOFTEN=
+
+### Enemies can only grab, nothing else
+MODIFIER_GRABONLY=
+
+### Dropped weapons never disappear
+MODIFIER_WEAPONSNODISAPPEAR=
+
+### Enemies ignore all dangers
+MODIFIER_AINODANGER=
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Guard barely protects
+MODIFIER_LOWGUARDDEFENSE=
+
+
+### Main challenge info
+BM04_MAININFO=
+
+### Character
+BM04_CHARACTER=
+
+### Item
+BM04_ITEM=
+
+### Graphic element
+BM04_GRAPHIC=
+
+### Trap
+BM04_TRAP=
+
+### Collision
+BM04_COLLISION=
+
+### Floor
+BM04_FLOOR=
+
+### Workshop info
+BM04_SHAREINFO=
+
+
+### Load challenge
+BM04_LOAD=
+
+### Save challenge
+BM04_SAVE=
+
+### Share
+BM04_SHARE=
+
+### More
+BM04_MORE=
+
+### Download
+BM04_DOWNLOAD=
+
+### Play
+BM04_PLAY=
+
+### Exit
+BM04_EXIT=
+
+### Share (Workshop)
+BM04_SHARE_WORKSHOP=
+
+
+### Challenge title
+BM04_OPTION_CHALLENGETITLE=
+
+### Challenge objective
+BM04_OPTION_CHALLENGEOBJECTIVE=
+
+### Music track
+BM04_OPTION_MUSIC=
+
+### Environment
+BM04_OPTION_BACKGROUND=
+
+### Time limit
+BM04_OPTION_TIMER=
+
+### Room settings
+BM04_OPTION_ROOMSETTINGS=
+
+### Objective type
+BM04_OPTION_OBJECTIVE=
+
+### Lose if an ally dies
+BM04_OPTION_LOSEIFALLYDIES=
+
+### Battle Royale circle speed
+BM04_OPTION_BATTLEROYALESPEED=
+
+### HP change speed
+BM04_OPTION_HPRATE=
+
+### Battle Royale circle depth
+BM04_OPTION_BATTLEROYALEDEPTH=
+
+### Load challenge
+BM04_OPTION_LOADCHALLENGE=
+
+### Add modifier
+BM04_OPTION_MODIFIERADD=
+
+### Remove modifier
+BM04_OPTION_MODIFIERREMOVE=
+
+
+### Title for the workshop
+BM04_OPTION_CHALLENGESHARETITLE=
+
+### Description for the workshop
+BM04_OPTION_CHALLENGESHAREDESCR=
+
+### Thumbnail picture for the workshop
+BM04_OPTION_CHALLENGESHAREPICTURE=
+
+### Tags for the workshop
+BM04_OPTION_CHALLENGESHARETAGS=
+
+### Enter a list of tags, separated by commas
+BM04_OPTION_CHALLENGESHARETAGS_TITLE=
+
+### Difficulty recommendation
+BM04_OPTION_CHALLENGESHAREDIFFICULTY=
+
+### Export the challenge?
+BM04_OPTION_CHALLENGESHAREEXPORTCHALLENGE=
+
+### Export the character mod(s)?
+BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS=
+
+### Export the custom environment?
+BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT=
+
+### Export the custom music?
+BM04_OPTION_CHALLENGESHAREEXPORTMUSIC=
+
+### Update the thumbnail?
+BM04_OPTION_CHALLENGESHAREUPDATETHUMB=
+
+### Update the description?
+BM04_OPTION_CHALLENGESHAREUPDATEDESCR=
+
+### Update the tags?
+BM04_OPTION_CHALLENGESHAREUPDATETAGS=
+
+### Submit
+BM04_OPTION_CHALLENGESHARESUBMIT=
+
+
+# MODIFIED
+### This title is only for the workshop. <col=BOLD>English highly recommended</col>##If not defined, this is the challenge title. Make sure it matches the content you are including.
+BM04_OPTION_CHALLENGESHARETITLE_HELP=
+
+# MODIFIED
+### This description is displayed on the workshop. <col=BOLD>English highly recommended</col>
+BM04_OPTION_CHALLENGESHAREDESCR_HELP=
+
+### This picture will be displayed on the workshop as thumbnail. It must be attractive to players and match your content.##It must be <col=BOLD>wide</col> format, for example 960 x 540px. Less than 1 MB, PNG or JPG.
+BM04_OPTION_CHALLENGESHAREPICTURE_HELP=
+
+### Enter a list of tags, separated by commas.##Some tags are automatically added, such as the difficulty.
+BM04_OPTION_CHALLENGESHARETAGS_HELP=
+
+### Should the challenge be included?##If you only want (for example) to export a character separately, choose "no".
+BM04_OPTION_CHALLENGESHAREEXPORTCHALLENGE_HELP=
+
+### Should your character mod(s) be included?##If you choose "yes", make sure they are good enough to become public!
+BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS_HELP=
+
+### Should your custom environment be included?##If you choose "yes", make sure it is good enough to become public!
+BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT_HELP=
+
+### This sends to <col=BOLD>Steam workshop.</col> Do it again to update.##COWCAT declines responsability regarding the content you send. Make sure you are authorized.
+BM04_OPTION_CHALLENGESHARESUBMIT_HELP=
+
+### Select how difficult, according to you, this challenge is.
+BM04_OPTION_CHALLENGESHAREDIFFICULTY_HELP=
+
+
+### Include the challenge itself?
+BM04_OPTION_EXPORTCHALLENGE_TITLE=
+
+### Include your character mod(s)?
+BM04_OPTION_EXPORTCHARMOD_TITLE=
+
+
+### Write a <col=BOLD>short</col> title for your challenge. It will be displayed everywhere.
+BM04_OPTION_CHALLENGETITLE_HELP=
+
+### Write a line that informs the player what their objective is.
+BM04_OPTION_CHALLENGEOBJECTIVE_HELP=
+
+### Choose a music track to play during this challenge.
+BM04_OPTION_MUSIC_HELP=
+
+### Choose an environment for this challenge.##You can also create your own environment with the "More" button.
+BM04_OPTION_BACKGROUND_HELP=
+
+### Customize the room (size, scale...)
+BM04_OPTION_ROOMSETTINGS_HELP=
+
+### Choose a main objective type for this challenge.##Eg: defeat everyone, collect items, survive...
+BM04_OPTION_OBJECTIVE_HELP=
+
+### Number of seconds until the timer runs out.##Depending on the objective, this can mean losing or winning.
+BM04_OPTION_TIMER_HELP=
+
+### If set to yes, the challenge is lost as soon as any ally computer of your team is killed.##Useful to make escort or protection challenges. (Default = no)
+BM04_OPTION_LOSEIFALLYDIES_HELP=
+
+### Only used by the <col=BOLD>Battle Royale</col> objective: how far in front the deadly circle is drawn, exactly like the depth of an environment image.##Each environment already picks a value that suits its own decor, so only set this if you are not happy with the result.
+BM04_OPTION_BATTLEROYALEDEPTH_HELP=
+
+### Only used by the modifiers that change HP on their own (<col=BOLD>HP drain</col>, <col=BOLD>enemies gain HP</col>, <col=BOLD>player gains HP</col>): how fast they do it, in percent.##100 is the speed they were designed with, a lower value makes the change gentle, a high value makes it brutal. (Default = 100)
+BM04_OPTION_HPRATE_HELP=
+
+### Only used by the <col=BOLD>Battle Royale</col> objective: how fast the deadly circle closes in, in percent.##100 is the normal speed, a lower value gives more time, a high value shrinks the arena very fast. (Default = 100)
+BM04_OPTION_BATTLEROYALESPEED_HELP=
+
+### Use one or several modifiers to do special things.
+BM04_OPTION_MODIFIERADD_HELP=
+
+### Remove a modifier.
+BM04_OPTION_MODIFIERREMOVE_HELP=
+
+
+### If you made changes manually on the Workshop page, leave it to no.
+BM04_OPTION_CHALLENGESHAREUPDATETHUMB_HELP=
+
+### If you made changes manually on the Workshop page, leave it to no.
+BM04_OPTION_CHALLENGESHAREUPDATEDESCR_HELP=
+
+### If you made changes manually on the Workshop page, leave it to no.
+BM04_OPTION_CHALLENGESHAREUPDATETAGS_HELP=
+
+
+### Choose a destructible object
+BM04_OPTION_DESTRUCTIBLE=
+
+### How many must be destroyed?
+BM04_OPTION_DESTRUCTIBLE_HOWMANY=
+
+
+### Choose a trap
+BM04_OPTION_TRAP=
+
+### Choose an item
+BM04_OPTION_COLLECTIBLE=
+
+### How many must be collected?
+BM04_OPTION_COLLECTIBLE_HOWMANY=
+
+
+### Enter a number of seconds (0 to disable)
+BM04_OPTION_TIMER_HOWMANY=
+
+### Enter a speed in percent (1 to 9999, 100 = normal)
+BM04_OPTION_HPRATE_HOWMANY=
+
+### Enter a speed in percent (10 to 9999, 100 = normal)
+BM04_OPTION_BATTLEROYALESPEED_HOWMANY=
+
+### Enter a depth (higher = more in front), or leave empty to let the environment decide
+BM04_OPTION_BATTLEROYALEDEPTH_HOWMANY=
+
+### Chosen by the environment
+BM04_OPTION_BATTLEROYALEDEPTH_AUTO=
+
+
+### Community
+BM04_COMMUNITY=
+
+### Workshop
+BM04_WORKSHOP=
+
+### Creator
+BM04_CREATOR=
+
+### Enter your name as creator. It is shown next to your challenge online.
+BM04_CREATOR_HELP=
+
+### Current value
+BM04_CURRENTVALUE=
+
+### Default
+BM04_DEFAULTVALUE=
+
+### Optional
+BM04_REQUIRED0=
+
+### Recommended
+BM04_REQUIRED1=
+
+### Required
+BM04_REQUIRED2=
+
+### Identifier
+BM04_IDENTIFIER=
+
+
+### Width
+BM04_ROOM_WIDTH=
+
+### Default/Minimum = 1920
+BM04_ROOM_WIDTH_DESC=
+
+
+### Height
+BM04_ROOM_HEIGHT=
+
+### Default/Minimum = 1080
+BM04_ROOM_HEIGHT_DESC=
+
+
+### Minimum scale
+BM04_ROOM_MINSCALE=
+
+### Determines all the characters sizes when located at the furthest position allowed in the room environment. Percent
+BM04_ROOM_MINSCALE_DESC=
+
+
+### Maximum scale
+BM04_ROOM_MAXSCALE=
+
+### Determines all the characters sizes when located at the closest position allowed in the room environment. Percent
+BM04_ROOM_MAXSCALE_DESC=
+
+
+#BM04_ROOM_MINDEPTH=Minimum depth
+#BM04_ROOM_MINDEPTH_DESC=The furthest depth position allowed in this room environment. Eg: 500px from the top of the room picture.
+
+# BM04_ROOM_MINDEPTH_DESC=The furthest depth position allowed in this room environment. Eg: 500px from the top of the room picture.
+### Use a room fcolor?
+BM04_ROOM_COLORIS=
+
+### Gives a color tint to all the characters.
+BM04_ROOM_COLORIS_DESC=
+
+
+### Room color
+BM04_ROOM_COLOR=
+
+### Gives a color tint to all the characters. Enter 3 values which are Red / Green / Blue respectively.
+BM04_ROOM_COLOR_DESC=
+
+
+### Delete the item
+BM04_ITEM_DELETE=
+
+### Delete the trap
+BM04_TRAP_DELETE=
+
+### Delete this trap permanently.
+BM04_TRAP_DELETE_HELP=
+
+
+### Item(s) to drop
+BM04_TRAP_ITEMDROP=
+
+### The item(s) dropped by the trap when destroyed.
+BM04_TRAP_ITEMDROP_HELP=
+
+
+### Add item drop
+BM04_ADD_ITEMDROP=
+
+### Return to list of drops
+BM04_RETURN_LISTDROPS=
+
+### Go back.
+BM04_RETURN_LISTDROPS_HELP=
+
+
+### Identifier
+BM04_ID=
+
+### Character type
+BM04_CHARACTER_TYPE=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### The character (Brok, Ott, Graff...)
+BM04_CHARACTER_TYPE_HELP=
+
+
+### Delete the character
+BM04_CHARACTER_DELETE=
+
+### Remove this character from the scene. <col=BOLD>All the properties attached will be lost.</col>
+BM04_CHARACTER_DELETE_HELP=
+
+
+### Team
+BM04_CHARACTER_TEAM=
+
+### Teams determine which characters can attack each other.
+BM04_CHARACTER_TEAM_HELP=
+
+
+### Main player (Team 1)
+BM04_CHARACTER_MAINPLAYER=
+
+### Co-op Player (Team 1)
+BM04_CHARACTER_COOP=
+
+### Ally Computer (Team 1)
+BM04_CHARACTER_ALLY=
+
+### Enemy Computer (Team 0)
+BM04_CHARACTER_ENEMY0=
+
+### Enemy Computer (Team 2)
+BM04_CHARACTER_ENEMY2=
+
+### Enemy Computer (Team 3)
+BM04_CHARACTER_ENEMY3=
+
+### Enemy Computer (Team 4)
+BM04_CHARACTER_ENEMY4=
+
+### Opponent Player (Team 2)
+BM04_CHARACTER_OTHERPLAYER2=
+
+### Opponent Player (Team 3)
+BM04_CHARACTER_OTHERPLAYER3=
+
+### Opponent Player (Team 4)
+BM04_CHARACTER_OTHERPLAYER4=
+
+
+# All these were modified more or less
+### Decision factor
+BM04_CHARACTER_FACTORDECISION=
+
+### Decision factor <col=BOLD>(Percent)</col>##Only for computer controlled characters. The higher, the more active the character.
+BM04_CHARACTER_FACTORDECISION_HELP=
+
+
+### Strength
+BM04_CHARACTER_STRENGTH=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Attack power <col=BOLD>(Percent)</col>##Do note that the attack automatically changes according to type (eg: Graff has less attack than R.J.)
+BM04_CHARACTER_STRENGTH_HELP=
+
+
+### Defense
+BM04_CHARACTER_DEFENSE=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Defense <col=BOLD>(Percent)</col>##Do note that the defense automatically changes according to type (eg: Graff has less defense than R.J.)
+BM04_CHARACTER_DEFENSE_HELP=
+
+
+### Attack Speed
+BM04_CHARACTER_SPEEDATTACK=
+
+### Attack speed <col=BOLD>(Percent)</col>##More means faster, less is slower. Only applies to computer controlled characters.
+BM04_CHARACTER_SPEEDATTACK_HELP=
+
+
+### Move Speed
+BM04_CHARACTER_SPEEDMOVE=
+
+### Move speed <col=BOLD>(Percent)</col>##More means faster, less is slower.
+BM04_CHARACTER_SPEEDMOVE_HELP=
+
+
+### H.P. max
+BM04_CHARACTER_HPMAX=
+
+### Health Points max when starting the fight.##Default value varies according to character type.
+BM04_CHARACTER_HPMAX_HELP=
+
+
+### Height position
+BM04_CHARACTER_HEIGHTPOS=
+
+### Position of the character/item on screen (less = to the bottom, more = to the top)##Do note that any height above ground will make the character fall when created.
+BM04_CHARACTER_HEIGHTPOS_HELP=
+
+
+### Horizontal position
+BM04_CHARACTER_HORIZPOS=
+
+### Position of the character/item on screen (less = to the left, more = to the right)
+BM04_CHARACTER_HORIZPOS_HELP=
+
+
+### Depth position
+BM04_CHARACTER_DEPTHPOS=
+
+### Position of the character/item on screen (less depth = further in background, more = closer to camera)
+BM04_CHARACTER_DEPTHPOS_HELP=
+
+
+### Size
+BM04_CHARACTER_SIZE=
+
+### Relative size of this character/item on screen <col=BOLD>(Percent)</col>
+BM04_CHARACTER_SIZE_HELP=
+
+
+### Delay creation
+BM04_DELAYCREATION=
+
+### By default it is created immediately (value 0)#To delay the creation, indicate a value in frames (eg: 60 for one second)
+BM04_DELAYCREATION_HELP=
+
+
+### Specific team targetted
+BM04_CHARACTER_TEAMTARGET=
+
+### Rarely used - When we want an enemy to target a specific team only (by default all opponent teams are targetted)##Eg: give your ally its own team, then make the enemies target that team, and they will go after your ally instead of you.
+BM04_CHARACTER_TEAMTARGET_HELP=
+
+### Any opponent team
+BM04_CHARACTER_TEAMTARGET_ANY=
+
+### Skin color
+BM04_CHARACTER_SKIN=
+
+### Which color scheme this character wears.##<col=BOLD>1</col> keeps the colors they normally have, which is what you want for a hero appearing as an enemy. Higher numbers pick another skin, and a number above what this character has simply cycles back to the first one. (Default = automatic)
+BM04_CHARACTER_SKIN_HELP=
+
+### Enter a skin number (0 = automatic, 1 = normal colors)
+BM04_CHARACTER_SKIN_HOWMANY=
+
+### Automatic
+BM04_CHARACTER_SKIN_AUTO=
+
+### Targetted in priority
+BM04_CHARACTER_TARGETPRIORITY=
+
+### Do the opponents go after this character rather than the others?##Useful to protect an ally: keep them in your team so they still have their life bar and can receive food, but make the enemies rush them. (Default = no)
+BM04_CHARACTER_TARGETPRIORITY_HELP=
+
+### No, like everyone else
+BM04_CHARACTER_TARGETPRIORITY_NORMAL=
+
+### Yes, most of the time
+BM04_CHARACTER_TARGETPRIORITY_PREFERRED=
+
+### Yes, nobody else is attacked
+BM04_CHARACTER_TARGETPRIORITY_ONLY=
+
+### Team {number} only
+BM04_CHARACTER_TEAMTARGET_TEAM=
+
+
+### Item drop
+BM04_CHARACTER_ITEMDROP=
+
+### The item(s) dropped by the enemy when killed.
+BM04_CHARACTER_ITEMDROP_HELP=
+
+
+### Display as boss?
+BM04_CHARACTER_BOSS=
+
+### Only applies to enemy computers. 3 enemies maximum can be displayed as bosses.
+BM04_CHARACTER_BOSS_HELP=
+
+
+### Boss defeat kills everyone
+BM04_CHARACTER_BOSSDEFEATEVERYONE=
+
+### When killed, are all characters in the same team killed? (useful for bosses) (Default = no)
+BM04_CHARACTER_BOSSDEFEATEVERYONE_HELP=
+
+
+### Win/lose conditions
+BM04_CHARACTER_WINLOSE=
+
+### Make the challenge end immediately depending on what happens to this character.##Useful for escort missions, targets to assassinate, or characters you must not touch.
+BM04_CHARACTER_WINLOSE_HELP=
+
+
+### When this character dies
+BM04_CHARACTER_WINLOSE_GETDEAD=
+
+### What happens when this character is killed?##Eg: "Lose" turns an ally into an escort target, "Win" turns an enemy into an assassination target. (Default = nothing)
+BM04_CHARACTER_WINLOSE_GETDEAD_HELP=
+
+
+### When this character is hit
+BM04_CHARACTER_WINLOSE_GETHIT=
+
+### What happens the first time this character takes a hit?##Eg: "Lose" means this character must never be touched. (Default = nothing)
+BM04_CHARACTER_WINLOSE_GETHIT_HELP=
+
+
+### When this character lands a hit
+BM04_CHARACTER_WINLOSE_HITSOMEONE=
+
+### What happens the first time this character successfully hits someone?##Eg: "Lose" means this character must never be allowed to land a blow. (Default = nothing)
+BM04_CHARACTER_WINLOSE_HITSOMEONE_HELP=
+
+
+### Nothing special
+BM04_CONDITION_NOTHING=
+
+### Win the challenge
+BM04_CONDITION_WIN=
+
+### Lose the challenge
+BM04_CONDITION_LOSE=
+
+
+### Character skin (Default = automatic)
+BM04_CHARACTER_CHARACTERSKIN=
+
+
+### Height above ground (in pixels)
+BM04_CHARACTER_HEIGHTPOS_TITLE=
+
+
+### Not possible for co-op
+BM04_CHARACTER_NOTPOSSIBLECOOP_TITLE=
+
+### This character type cannot be played. Either set as "Ally Computer" or choose another character type.
+BM04_CHARACTER_NOTPOSSIBLECOOP_DESC=
+
+
+### Environment Title
+BM04_ENVIRONMENT_TITLE=
+
+### Name your new environment.
+BM04_ENVIRONMENT_TITLE_HELP=
+
+
+### Environment Main Picture
+BM04_ENVIRONMENT_PICTURE=
+
+### Upload the main background (<col=BOLD>PNG</col> or <col=BOLD>JPG</col>) Also determines the default room dimensions.##It should fill the screen (<col=BOLD>1920 x 1080px</col> minimum) The maximum width/height is <col=BOLD>4096px</col>.
+BM04_ENVIRONMENT_PICTURE_HELP=
+
+
+### Depth
+BM04_ENVIRONMENTIMAGE_DEPTH=
+
+### Determines the layering of graphics (characters, images...) based on vertical position.##Example: 0 = background (behind characters), 1080 = foreground (in front).
+BM04_ENVIRONMENTIMAGE_DEPTH_HELP=
+
+
+### Alpha transparency
+BM04_ENVIRONMENTIMAGE_ALPHA=
+
+### Defines how much transparency to use. <col=BOLD>(Percent)</col>##10 = almost invisible, 100 = fully visible
+BM04_ENVIRONMENTIMAGE_ALPHA_HELP=
+
+
+### Frames number
+BM04_ENVIRONMENTIMAGE_FRAMES=
+
+### If this image is animated (several frames back-to-back inside the file uploaded), set the number of frames here.
+BM04_ENVIRONMENTIMAGE_FRAMES_HELP=
+
+
+### Frames speed
+BM04_ENVIRONMENTIMAGE_FRAMESPEED=
+
+### If this image is animated, define the speed. <col=BOLD>(Percent)</col>##100 = normal speed, 200 = faster, 50 = slower
+BM04_ENVIRONMENTIMAGE_FRAMESPEED_HELP=
+
+
+### Delete this image
+BM04_ENVIRONMENTIMAGE_DELETE=
+
+### Delete the image from this environment.
+BM04_ENVIRONMENTIMAGE_DELETE_HELP=
+
+
+### Submit the environment
+BM04_ENVIRONMENT_SUBMIT=
+
+### Validate and generate the environment.
+BM04_ENVIRONMENT_SUBMIT_HELP=
+
+
+### Error
+BM04_ERROR_TITLE=
+
+### One character mod could not be retrieved: {name}
+BM04_ERROR_CHARACTER=
+
+### One environment image could not be retrieved: {name}
+BM04_ERROR_ENVIRONMENTBACK=
+
+
+
+### Environment assigned
+BM04_ENVIRONMENT_CREATE=
+
+### The environment has been assigned with this main background picture. Environments are saved alongside the challenge.##You will find a new <col=BOLD>Add environment image</col> option with the <col=BOLD>More</col> button to insert more images at various depths.
+BM04_ENVIRONMENT_DESCR=
+
+
+### The room dimensions have been adapted automatically to the picture provided. Feel free to change the <col=BOLD>room information</col> in the <col=BOLD>challenge properties</col>. In particular, the min/max vertical positions to define the area where characters can move.
+BM04_ENVIRONMENT_DESCR2=
+
+
+### Title missing
+BM04_ENVIRONMENT_MISSINGTITLE_TITLE=
+
+### Please enter the title of the environment.
+BM04_ENVIRONMENT_MISSINGTITLE_DESCRIPTION=
+
+
+### Picture missing
+BM04_ENVIRONMENT_MISSINGPICTURE_TITLE=
+
+### Please import a picture.
+BM04_ENVIRONMENT_MISSINGPICTURE_DESCRIPTION=
+
+
+### Picture dimensions
+BM04_ENVIRONMENT_WRONGDIMENSION_TITLE=
+
+### The dimensions of this picture are incorrect.
+BM04_ENVIRONMENT_WRONGDIMENSION_DESCRIPTION=
+
+
+### Name missing
+BM04_ENVIRONMENT_MISSINGNAME_TITLE=
+
+### Please enter a name for this image.
+BM04_ENVIRONMENT_MISSINGNAME_DESCRIPTION=
+
+
+### Steam Workshop page
+BM04_WORKSHOP_TITLE=
+
+### Access Steam Workshop to see your creations shared and download more
+BM04_WORKSHOP_DESCR=
+
+
+
+### Nothing selected
+BM04_WORKSHOP_NOTHING_EXPORT=
+
+### You have not selected anything to export.
+BM04_WORKSHOP_NOTHING_EXPORT_DESCR=
+
+
+### Picture required
+BM04_WORKSHOP_PICTURE_EXPORT=
+
+### A thumbnail picture is required in order to export. Please add one.
+BM04_WORKSHOP_PICTURE_EXPORT_DESCR=
+
+
+### Workshop elements
+BM04_WORKSHOP_WORKSHOPCHARS_EXPORT=
+
+### Your challenge contains workshop elements you did not create. Please note that <col=BOLD>they will not be included</col>.##After the export, it is recommended you go to the Workshop page and click on <col=BOLD>Add Required Items</col> to link them.
+BM04_WORKSHOP_WORKSHOPCHARS_EXPORT_DESCR=
+
+
+### Export in progress
+BM04_WORKSHOP_ITEMS_EXPORTPROGRESS=
+
+### Item(s) exported
+BM04_WORKSHOP_ITEMS_EXPORT=
+
+### It may take a few minutes to appear on the Workshop.
+BM04_WORKSHOP_ITEMS_EXPORTOVER=
+
+### Your items are exporting to Steam Workshop. A notification will be displayed when it is complete.
+BM04_WORKSHOP_ITEMS_STEAM=
+
+### Your items were exported as a ZIP archive in:##<col=BOLD>{path}</col>##Give this file to your friends (or upload it online somewhere) and ask players to extract it into their own directory.
+BM04_WORKSHOP_ITEMS_DRMFREE=
+
+
+### No picture selected
+BM04_WORKSHOP_SELECT_PICTURE_NOTSELECTED=
+
+# MODIFIED
+### The picture selected is too big (should be less than {size} MB)
+BM04_WORKSHOP_SELECT_PICTURE_WRONGSIZE=
+
+### The picture selected could not be copied
+BM04_WORKSHOP_SELECT_PICTURE_COPYFAIL=
+
+### The picture selected has a wrong extension. (should be .png or .jpg)
+BM04_WORKSHOP_SELECT_PICTURE_WRONGFORMAT=
+
+### The thumbnail failed to be created
+BM04_WORKSHOP_SELECT_PICTURE_THUMB=
+
+
+### Workshop subscriptions
+BM04_WORKSHOP_SUBSCRIPTIONS=
+
+### {number} workshop item(s) installed
+BM04_WORKSHOP_NB_SUBSCRIBED=
+
+### {number} workshop item(s) removed
+BM04_WORKSHOP_NB_UNSUBSCRIBED=
+
+### You are not currently connected to Steam. Please try again later.
+BM04_WORKSHOP_STEAM_NOTCONNECTED=
+
+
+### Challenge saved
+BM04_CHALLENGE_SAVED=
+
+
+### Title missing
+BM04_CHALLENGE_MISSINGTITLE_TITLE=
+
+### Please enter the title of the challenge in the main challenge information (first icon).
+BM04_CHALLENGE_MISSINGTITLE_DESCRIPTION=
+
+### Objective missing
+BM04_CHALLENGE_MISSINGOBJECTIVE_TITLE=
+
+### Please enter the objective of the challenge in the main challenge information (first icon).
+BM04_CHALLENGE_MISSINGOBJECTIVE_DESCRIPTION=
+
+### Player character missing
+BM04_CHALLENGE_MISSINGPLAYERCHARACTER_TITLE=
+
+### Please choose one character who will be the player.
+BM04_CHALLENGE_MISSINGPLAYERCHARACTER_DESCRIPTION=
+
+### Too many enemies
+BM04_CHALLENGE_TOOMANYENEMIES_TITLE=
+
+### Please remove at least {nb} enemie(s).
+BM04_CHALLENGE_TOOMANYENEMIES_DESCRIPTION=
+
+### Too many character types
+BM04_CHALLENGE_TOOMANYENEMYTYPES_TITLE=
+
+### Please remove at least {nb} character types.
+BM04_CHALLENGE_TOOMANYENEMYTYPES_DESCRIPTION=
+
+### Too many character mods
+BM04_CHALLENGE_TOOMANYENEMYMODS_TITLE=
+
+### Please remove at least {nb} character mods.
+BM04_CHALLENGE_TOOMANYENEMYMODS_DESCRIPTION=
+
+### Too many traps
+BM04_CHALLENGE_TOOMANYTRAPS_TITLE=
+
+### Please remove at least {nb} traps(s).
+BM04_CHALLENGE_TOOMANYTRAPS_DESCRIPTION=
+
+
+### Challenge invalid
+BM04_CHALLENGE_INVALID_TITLE=
+
+### Unable to find this challenge or it is corrupt. Redirecting to main hub.
+BM04_CHALLENGE_INVALID_DESCRIPTION=
+
+
+### Create character mod
+BM04_CREATE_CHARACTER=
+
+### Create environment
+BM04_CREATE_ENVIRONMENT=
+
+### Add an image to the environment
+BM04_CREATE_IMAGEENVIRONMENT=
+
+### Update environment
+BM04_UPDATE_ENVIRONMENT=
+
+### Create music
+BM04_CREATE_MUSIC=
+
+### Start a new project
+BM04_CREATE_STARTNEW=
+
+### Name
+BM04_ENVIRONMENTIMAGE_NAME=
+
+### Image file
+BM04_ENVIRONMENTIMAGE_PICTURE=
+
+### Submit image
+BM04_ENVIRONMENTIMAGE_SUBMIT=
+
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Use one of the playable characters as base model, and replace the files.##Ott is the most simple one to mod (the least number of frames/animations)
+BM04_CREATE_CHARACTER_HELP=
+
+### Update your current custom environment.
+BM04_UPDATE_ENVIRONMENT_HELP=
+
+### An environment has a background, collisions, room dimensions and potentially some foreground elements.
+BM04_CREATE_ENVIRONMENT_HELP=
+
+### Add a picture on another layer to the environment. For example, a tree in the foreground, or a trash can in background.
+BM04_CREATE_IMAGEENVIRONMENT_HELP=
+
+### If you'd like to restart from scratch.
+BM04_CREATE_STARTNEW_HELP=
+
+### Give a name to this new image. Make sure it's not identical to a previous one.
+BM04_ENVIRONMENTIMAGE_NAME_HELP=
+
+### Upload an image file.##Same technical restrictions as the main background one, but they can be smaller than the size of a screen.
+BM04_ENVIRONMENTIMAGE_PICTURE_HELP=
+
+### Place it in the environment
+BM04_ENVIRONMENTIMAGE_SUBMIT_HELP=
+
+
+### Automatic size
+BM04_TRAP_AUTOMATICSCALE=
+
+### If yes, the scale depends on the vertical position. Otherwise, it's fixed.
+BM04_TRAP_AUTOMATICSCALE_HELP=
+
+### Manual size
+BM04_TRAP_MANUALSCALE=
+
+### If automatic scale is disabled, set the scale here. <col=BOLD>(Percent)</col>
+BM04_TRAP_MANUALSCALE_HELP=
+
+
+### More features
+BM04_MORE_FEATURES=
+
+### The character directory already exists
+BM04_DIRECTORY_CHARACTER_EXISTS=
+
+
+### Files exported
+BM04_DIRECTORY_CHARACTER_TITLE=
+
+### The animation files have been exported as PNG pictures to the folder: (copied into the clipboard)##<col=BOLD>{path}</col>##Feel free to modify them with a picture editor, then test by placing this character in a room.
+BM04_DIRECTORY_CHARACTER_POPUP=
+
+
+### Files exported (next)
+BM04_DIRECTORY_CHARACTER2_TITLE=
+
+# MODIFIED
+### You can also replace the <col=BOLD>OGG audio</col> files.##Important: Keep the pictures the same dimensions as the original.
+BM04_DIRECTORY_CHARACTER2_POPUP=
+
+### <col=BOLD>For advanced modifications</col> to alter the dimensions and more, check the documentation provided in DOCMOD/ in the game root directory.
+BM04_DIRECTORY_CHARACTER2_POPUP_MODIF=
+
+
+### Enter your character name
+BM04_CHARACTERNAME_ENTER=
+
+### Choose a character model to base your character on
+BM04_CHARACTERMODEL=
+
+
+### Delete this item drop
+TUTORIAL_ITEMDROPDELETE=
+
+
+### Character/Trap item drop
+BM04_ITEM_CHARACTER_DROP=
+
+### Item type
+BM04_ITEM_TYPE=
+
+### The type of item to drop.
+BM04_ITEM_TYPE_HELP=
+
+### Probability to drop
+BM04_ITEM_PROBABILITY=
+
+### For this type, how much chance of it to drop. <col=BOLD>(Percent)</col>##If you add several item types, each needs a probability below 100.
+BM04_ITEM_PROBABILITY_HELP=
+
+### Minimum number to drop
+BM04_ITEM_MIN=
+
+### Maximum number to drop
+BM04_ITEM_MAX=
+
+### Set the minimum number of items to drop.
+BM04_ITEM_MIN_HELP=
+
+### Set the maximum number of items to drop.
+BM04_ITEM_MAX_HELP=
+
+### Remove this item drop
+BM04_ITEMDROP_REMOVE=
+
+### Remove this item drop.
+BM04_ITEMDROP_REMOVE_HELP=
+
+
+### This character should drop this item when destroyed?
+BM04_ITEM_SETDROP_CHARACTER_TITLE=
+
+### This trap should drop this item when destroyed?
+BM04_ITEM_SETDROP_TRAP_TITLE=
+
+### Probably to drop? (from 0 to 100)
+BM04_ITEM_SETDROP_PROBA=
+
+### How many items of this type should drop? (minimum)
+BM04_ITEM_SETDROP_HOWMANY_MINIMUM=
+
+### How many items of this type should drop? (maximum)
+BM04_ITEM_SETDROP_HOWMANY_MAXIMUM=
+
+
+#-----------------------------------
+# Backgrounds
+#-----------------------------------
+### Training
+CHALLENGE_BACK_DEFAULT=
+
+### Beach
+CHALLENGE_BACK_BEACH=
+
+### Ice
+CHALLENGE_BACK_ICE=
+
+### Sewers
+CHALLENGE_BACK_SEWERS=
+
+### Sector 56X (day)
+CHALLENGE_BACK_SECTOR56XD=
+
+### Sector 56X (night)
+CHALLENGE_BACK_SECTOR56XN=
+
+### Outside Apartment (day)
+CHALLENGE_BACK_OUTSIDEAPARTMENTD=
+
+### Outside Apartment (night)
+CHALLENGE_BACK_OUTSIDEAPARTMENTN=
+
+### Rats lair
+CHALLENGE_BACK_RATSLAIR=
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumer Street (day)
+CHALLENGE_BACK_DRUMERSTREETD=
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumer Street (night)
+CHALLENGE_BACK_DRUMERSTREETN=
+
+### Police entrance
+CHALLENGE_BACK_POLICEENTRANCE=
+
+### Police jail
+CHALLENGE_BACK_POLICEJAIL=
+
+### Police interrogation
+CHALLENGE_BACK_POLICEINTERROGATION=
+
+### School
+CHALLENGE_BACK_SCHOOL=
+
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia's Apartment
+CHALLENGE_BACK_LIAAPARTMENT=
+
+### Nightmare
+CHALLENGE_BACK_NIGHTMARE=
+
+### Border Post (day)
+CHALLENGE_BACK_BORDERPOSTD=
+
+### Border Post (night)
+CHALLENGE_BACK_BORDERPOSTN=
+
+### Server room
+CHALLENGE_BACK_SERVERROOM=
+
+### View
+CHALLENGE_BACK_VIEW=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker street (day)
+CHALLENGE_BACK_HACKERSTREETD=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker street (night)
+CHALLENGE_BACK_HACKERSTREETN=
+
+### Lab front (day)
+CHALLENGE_BACK_LABFRONTD=
+
+### Lab front (night)
+CHALLENGE_BACK_LABFRONTN=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker front (day)
+CHALLENGE_BACK_HACKERFRONTD=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker front (night)
+CHALLENGE_BACK_HACKERFRONTN=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker inside (day)
+CHALLENGE_BACK_HACKERINSIDED=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker inside (night)
+CHALLENGE_BACK_HACKERINSIDEN=
+
+### Lab inside
+CHALLENGE_BACK_LABINSIDE=
+
+### Museum
+CHALLENGE_BACK_MUSEUM=
+
+### Factory (day)
+CHALLENGE_BACK_FACTORYD=
+
+### Factory (night)
+CHALLENGE_BACK_FACTORYN=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Bunker (Graff part)
+CHALLENGE_BACK_BUNKERGRAFF=
+
+### Bunker (center)
+CHALLENGE_BACK_BUNKERCENTER=
+
+### Landfill (day)
+CHALLENGE_BACK_WASTED=
+
+### Landfill (night)
+CHALLENGE_BACK_WASTEN=
+
+### Bunker front (day)
+CHALLENGE_BACK_BUNKERFRONTD=
+
+### Bunker front (night)
+CHALLENGE_BACK_BUNKERFRONTN=
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin's apartment
+CHALLENGE_BACK_SINAPARTMENT=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok's apartment
+CHALLENGE_BACK_BROKAPARTMENT=
+
+### Arena
+CHALLENGE_BACK_ARENA=
+
+### Special - One dimension
+CHALLENGE_BACK_ONED=
+
+### Special - Ice trial
+CHALLENGE_BACK_ICETRIAL=
+
+### Special - Platformer
+CHALLENGE_BACK_PLATFORMER=
+
+
+#-----------------------------------
+# Quizz questions & replies
+#-----------------------------------
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### What is the name of the nearest nation outside of Atlasia?
+QUIZZ_Q1=
+
+# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+### Sorain
+QUIZZ_Q1_1=
+
+### Untail
+QUIZZ_Q1_2=
+
+### Zatla
+QUIZZ_Q1_3=
+
+### Airno
+QUIZZ_Q1_4=
+
+
+### How many hours are in a day?
+QUIZZ_Q2=
+
+
+# NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
+### What are the effects of consuming Flowing Honey?
+QUIZZ_Q3=
+
+### Increase defense
+QUIZZ_Q3_1=
+
+### Attract bears
+QUIZZ_Q3_2=
+
+### Boost attack
+QUIZZ_Q3_3=
+
+### Recover health
+QUIZZ_Q3_4=
+
+
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### What is the effect of Delistute?
+QUIZZ_Q4=
+
+### Inflate
+QUIZZ_Q4_1=
+
+### Turn into chocolate
+QUIZZ_Q4_2=
+
+### Get slim
+QUIZZ_Q4_3=
+
+### Grow hair
+QUIZZ_Q4_4=
+
+
+# NB: Lexicon word in Ukrainian for "Softskin": "Ніжношкірин"
+### What is the price of Softskin?
+QUIZZ_Q5=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 10,000 Unis
+QUIZZ_Q5_1=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 5,000 Unis
+QUIZZ_Q5_2=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 50,000 Unis
+QUIZZ_Q5_3=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 2,500 Unis
+QUIZZ_Q5_4=
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### In what type of rundown building does the Hacker operate in?
+QUIZZ_Q6=
+
+### Restaurant
+QUIZZ_Q6_1=
+
+### Library
+QUIZZ_Q6_2=
+
+### Office
+QUIZZ_Q6_3=
+
+### Kitchen
+QUIZZ_Q6_4=
+
+
+### Where can you find a wanted poster?
+QUIZZ_Q7=
+
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Drums back street
+QUIZZ_Q7_1=
+
+### In front of your apartment
+QUIZZ_Q7_2=
+
+### In your mom
+QUIZZ_Q7_3=
+
+### On the highway
+QUIZZ_Q7_4=
+
+
+### How is called the group of rats banned and living in the sewers?
+QUIZZ_Q8=
+
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers
+QUIZZ_Q8_1=
+
+### Ratten
+QUIZZ_Q8_2=
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribots
+QUIZZ_Q8_3=
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Darts
+QUIZZ_Q8_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### What is the Tramp's real name?
+QUIZZ_Q9=
+
+### Ric
+QUIZZ_Q9_1=
+
+# NB: Lexicon word in Ukrainian for "Rok": "Рок"
+### Rok
+QUIZZ_Q9_2=
+
+### Musk
+QUIZZ_Q9_3=
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### Tramp
+QUIZZ_Q9_4=
+
+
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### In which year were the Toxout pills invented?
+QUIZZ_Q10=
+
+### 385 A.R
+QUIZZ_Q10_1=
+
+### 3850 A.R
+QUIZZ_Q10_2=
+
+### 385 B.R
+QUIZZ_Q10_3=
+
+### 3850 B.R
+QUIZZ_Q10_4=
+
+
+### Which item in the game causes damage to yourself?
+QUIZZ_Q11=
+
+### Sewage sludge
+QUIZZ_Q11_1=
+
+# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+### Hot Juice
+QUIZZ_Q11_2=
+
+# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
+### Pizzant
+QUIZZ_Q11_3=
+
+### Cinnamon Roll
+QUIZZ_Q11_4=
+
+
+# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+### In which sector the Katshu groups will perform?
+QUIZZ_Q12=
+
+### Sector 54X
+QUIZZ_Q12_1=
+
+### Sector 56X
+QUIZZ_Q12_2=
+
+### Sector 36
+QUIZZ_Q12_3=
+
+### Sector 37B
+QUIZZ_Q12_4=
+
+
+### What does the holographic sign in front of the pharmacy say?
+QUIZZ_Q13=
+
+### Be nice to each other!
+QUIZZ_Q13_1=
+
+### Please stop hurting yourself!
+QUIZZ_Q13_2=
+
+### Watch out for dirty rats!
+QUIZZ_Q13_3=
+
+### You put on some fat!
+QUIZZ_Q13_4=
+
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### In which year was the conflict between the inhabitants of the dome and those who lived outside?
+QUIZZ_Q14=
+
+### 541 A.R.
+QUIZZ_Q14_1=
+
+### 11 A.R.
+QUIZZ_Q14_2=
+
+### 3578 A.R
+QUIZZ_Q14_3=
+
+### This never happened
+QUIZZ_Q14_4=
+
+
+### What is the waiting time for the support line at Border Post 001?
+QUIZZ_Q15=
+
+### Two days
+QUIZZ_Q15_1=
+
+### Three days
+QUIZZ_Q15_2=
+
+### Four days
+QUIZZ_Q15_3=
+
+### Five years
+QUIZZ_Q15_4=
+
+
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### What can't you do with a Pipe Mail machine in the Drums?
+QUIZZ_Q16=
+
+### Call for help
+QUIZZ_Q16_1=
+
+### Money transfer
+QUIZZ_Q16_2=
+
+### Throw away items
+QUIZZ_Q16_3=
+
+### Send item
+QUIZZ_Q16_4=
+
+
+### What is the name of the plant that produces a juice that boosts your focus and memory?
+QUIZZ_Q17=
+
+### Hangalis Wallis
+QUIZZ_Q17_1=
+
+### Wally Glator
+QUIZZ_Q17_2=
+
+### Weaselwall Hanglider
+QUIZZ_Q17_3=
+
+### Phoenixy Sticky
+QUIZZ_Q17_4=
+
+
+### Which species is the only one that can't reproduce with any other species?
+QUIZZ_Q18=
+
+### Rats
+QUIZZ_Q18_1=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr Mink
+QUIZZ_Q18_2=
+
+### Wolves
+QUIZZ_Q18_3=
+
+### Gators
+QUIZZ_Q18_4=
+
+
+### In which appliance/device are food reconstitutes prepared?
+QUIZZ_Q19=
+
+### Incubator
+QUIZZ_Q19_1=
+
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### Delistute
+QUIZZ_Q19_2=
+
+# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+### Wardfridge
+QUIZZ_Q19_3=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok's cutting board
+QUIZZ_Q19_4=
+
+
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### How much do you heal from eating rotten Pampalos?
+QUIZZ_Q20=
+
+### 5%
+QUIZZ_Q20_1=
+
+### 10%
+QUIZZ_Q20_2=
+
+### 1%
+QUIZZ_Q20_3=
+
+### The world
+QUIZZ_Q20_4=
+
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### What is Dr. Mink's favorite science show?
+QUIZZ_Q21=
+
+### TechnoJunky
+QUIZZ_Q21_1=
+
+### TechDream
+QUIZZ_Q21_2=
+
+### NanoMed
+QUIZZ_Q21_3=
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Guard's Stare
+QUIZZ_Q21_4=
+
+
+# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+### What is stored at the bottom of a wardfridge?
+QUIZZ_Q22=
+
+### Warm clothes
+QUIZZ_Q22_1=
+
+### Wet clothes
+QUIZZ_Q22_2=
+
+### Frozen food
+QUIZZ_Q22_3=
+
+### Dead bodies
+QUIZZ_Q22_4=
+
+
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### What is a Slum area not run by Drumers?
+QUIZZ_Q23=
+
+### Bunker
+QUIZZ_Q23_1=
+
+### Police station
+QUIZZ_Q23_2=
+
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### Consciousness center
+QUIZZ_Q23_3=
+
+### History museum
+QUIZZ_Q23_4=
+
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### How often does it rain under the Dome?
+QUIZZ_Q24=
+
+### Every night
+QUIZZ_Q24_1=
+
+### Constantly
+QUIZZ_Q24_2=
+
+### 3 times a day
+QUIZZ_Q24_3=
+
+### Once a month
+QUIZZ_Q24_4=
+
+
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### When did the Untail religion begin?
+QUIZZ_Q25=
+
+### 200,000 B.R
+QUIZZ_Q25_1=
+
+### 10,000 B.R.
+QUIZZ_Q25_2=
+
+### 1,000 B.R.
+QUIZZ_Q25_3=
+
+### 2,500 A.R.
+QUIZZ_Q25_4=
+
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### During the Science Fair, what does Ott's invention do?
+QUIZZ_Q26=
+
+### Sorts socks
+QUIZZ_Q26_1=
+
+### Purify urine
+QUIZZ_Q26_2=
+
+### Convert smell
+QUIZZ_Q26_3=
+
+### Bakes cakes
+QUIZZ_Q26_4=
+
+
+### On the screen inside the police jail cell, how many pages before it glitches out?
+QUIZZ_Q27=
+
+
+### In the jail cell, pressing the second button calls...
+QUIZZ_Q28=
+
+### Bed and food distributor
+QUIZZ_Q28_1=
+
+### Salt & Butter
+QUIZZ_Q28_2=
+
+### Toilets
+QUIZZ_Q28_3=
+
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The Guard
+QUIZZ_Q28_4=
+
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What major area inside the Dome does Brok enter but does not appear on the map?
+QUIZZ_Q29=
+
+### The Science Lab
+QUIZZ_Q29_1=
+
+### The Factory
+QUIZZ_Q29_2=
+
+### The Alley
+QUIZZ_Q29_3=
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumer street
+QUIZZ_Q29_4=
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### In Dr. Gherkin's self-contained vegetation growth system, how many holes appear in the membrane?
+QUIZZ_Q30=
+
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### When Graff enters the bunker, how many Tribots are contained in the glass room?
+QUIZZ_Q31=
+
+
+### In the bunker, the floor button with the - symbol indicates what kind of sound?
+QUIZZ_Q32=
+
+### Bell
+QUIZZ_Q32_1=
+
+### Unscrewing
+QUIZZ_Q32_2=
+
+### Beep
+QUIZZ_Q32_3=
+
+### Silence
+QUIZZ_Q32_4=
+
+
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### For how much the Generic Rat sells the Toxout Pill?
+QUIZZ_Q33=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 1,000 Unis
+QUIZZ_Q33_1=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 500 Unis
+QUIZZ_Q33_2=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 10,000 Unis
+QUIZZ_Q33_3=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 3,000 Unis
+QUIZZ_Q33_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### When Brok disguised himself, what did he use for the ears?
+QUIZZ_Q34=
+
+### Wings of statue
+QUIZZ_Q34_1=
+
+### String
+QUIZZ_Q34_2=
+
+### Bags
+QUIZZ_Q34_3=
+
+### Melt plastic
+QUIZZ_Q34_4=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### What is the name of the fighter that appears on a poster in Shay's bedroom?
+QUIZZ_Q35=
+
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Sharpteeth the Thief
+QUIZZ_Q35_1=
+
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Tenderjaw
+QUIZZ_Q35_2=
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart
+QUIZZ_Q35_3=
+
+### Stark the Shark
+QUIZZ_Q35_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### What is wrong with the Tribot working in the police department's front desk?
+QUIZZ_Q36=
+
+### It is blind
+QUIZZ_Q36_1=
+
+### It short circuits
+QUIZZ_Q36_2=
+
+### It is violent
+QUIZZ_Q36_3=
+
+### It swears
+QUIZZ_Q36_4=
+
+
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What sector of the slums does Sin live in?
+QUIZZ_Q37=
+
+### Sector 56X
+QUIZZ_Q37_1=
+
+### Sector 54X
+QUIZZ_Q37_2=
+
+### Sewers
+QUIZZ_Q37_3=
+
+### Sector 44X
+QUIZZ_Q37_4=
+
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### During Wes interrogation, how many seconds are you given per question?
+QUIZZ_Q38=
+
+### 10s
+QUIZZ_Q38_1=
+
+### 5s
+QUIZZ_Q38_2=
+
+### 30s
+QUIZZ_Q38_3=
+
+### 20s
+QUIZZ_Q38_4=
+
+
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### How much does Dr. Mink offer for Bolt's screw?
+QUIZZ_Q39=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 10,000 Unis
+QUIZZ_Q39_1=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 5,000 Unis
+QUIZZ_Q39_2=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 200 Unis
+QUIZZ_Q39_3=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 400 Unis
+QUIZZ_Q39_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### When Brok enters the bunker, how many Tribots are contained in the glass room?
+QUIZZ_Q40=
+
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### What item can be placed on Tramp's stove?
+QUIZZ_Q41=
+
+### Untail statuette
+QUIZZ_Q41_1=
+
+### Book
+QUIZZ_Q41_2=
+
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Antburger
+QUIZZ_Q41_3=
+
+### Button
+QUIZZ_Q41_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Under which name does Brok register itself on Wes' Tri-home?
+QUIZZ_Q42=
+
+### Whocares
+QUIZZ_Q42_1=
+
+### Hot dog
+QUIZZ_Q42_2=
+
+### Pork
+QUIZZ_Q42_3=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok
+QUIZZ_Q42_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### How does Wes call Brok?
+QUIZZ_Q43=
+
+### Pork
+QUIZZ_Q43_1=
+
+### Hot dog
+QUIZZ_Q43_2=
+
+### Whocares
+QUIZZ_Q43_3=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok
+QUIZZ_Q43_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Of the four shapes Graff wins at the stone game in the museum, which one is not used?
+QUIZZ_Q44=
+
+### Sphere
+QUIZZ_Q44_1=
+
+### Triangle
+QUIZZ_Q44_2=
+
+### Rectangle
+QUIZZ_Q44_3=
+
+### Half sphere
+QUIZZ_Q44_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What did Graff draw on the mailbox from Brok's apartment?
+QUIZZ_Q45=
+
+### Little cat & croc
+QUIZZ_Q45_1=
+
+### A triangle
+QUIZZ_Q45_2=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott
+QUIZZ_Q45_3=
+
+### Two scratches
+QUIZZ_Q45_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### From what material is Brok's necklace made of?
+QUIZZ_Q46=
+
+### Heptamide
+QUIZZ_Q46_1=
+
+# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+### Sorain
+QUIZZ_Q46_2=
+
+### Metalide
+QUIZZ_Q46_3=
+
+### Phoenixy
+QUIZZ_Q46_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### When was Brok born?
+QUIZZ_Q47=
+
+### 3,000 A.R.
+QUIZZ_Q47_1=
+
+### 3,035 A.R.
+QUIZZ_Q47_2=
+
+### 2,995 A.R.
+QUIZZ_Q47_3=
+
+### 3,028 A.R.
+QUIZZ_Q47_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Which item comes out of the pipemail when Brok hits the emergency button in the laboratory?
+QUIZZ_Q48=
+
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### Energy drink
+QUIZZ_Q48_1=
+
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Antburger
+QUIZZ_Q48_2=
+
+# NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
+### Flowing Honey
+QUIZZ_Q48_3=
+
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Mini Mink
+QUIZZ_Q48_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What relationship does Tramp have to Brok?
+QUIZZ_Q49=
+
+### Uncle
+QUIZZ_Q49_1=
+
+### Grandpa
+QUIZZ_Q49_2=
+
+### Son
+QUIZZ_Q49_3=
+
+### Master
+QUIZZ_Q49_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### What other option besides getting his medicine is there to save Tramp?
+QUIZZ_Q50=
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Bring Dr. Gherkin
+QUIZZ_Q50_1=
+
+### Kill him
+QUIZZ_Q50_2=
+
+### Give a hug
+QUIZZ_Q50_3=
+
+# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+### Give glucosite
+QUIZZ_Q50_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What is the maximum number of items of each type that Brok and Graff can carry?
+QUIZZ_Q51=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Besides detective, what other occupation is listed on the sign in front of Brok's apartment?
+QUIZZ_Q52=
+
+### Handyman
+QUIZZ_Q52_1=
+
+### Investigator
+QUIZZ_Q52_2=
+
+### Hot dog
+QUIZZ_Q52_3=
+
+### Caretaker
+QUIZZ_Q52_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What is the name of the musical instrument Brok has in his apartment?
+QUIZZ_Q53=
+
+# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+### Katshu
+QUIZZ_Q53_1=
+
+### Schoka
+QUIZZ_Q53_2=
+
+### Kitara
+QUIZZ_Q53_3=
+
+### Natsa
+QUIZZ_Q53_4=
+
+
+### The 70-year old lady baby sitting ad refuses which species?
+QUIZZ_Q54=
+
+### Wolves
+QUIZZ_Q54_1=
+
+### Raccoons
+QUIZZ_Q54_2=
+
+### Sharks
+QUIZZ_Q54_3=
+
+### Bunnies
+QUIZZ_Q54_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### What is the name of Graff's plushie?
+QUIZZ_Q55=
+
+### Pred
+QUIZZ_Q55_1=
+
+### Drep
+QUIZZ_Q55_2=
+
+### Perd
+QUIZZ_Q55_3=
+
+### Derp
+QUIZZ_Q55_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### When Brok negotiates with Sin, how much did Brok initially try to charge?
+QUIZZ_Q56=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 1,000 Unis
+QUIZZ_Q56_1=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 500 Unis
+QUIZZ_Q56_2=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 2,000 Unis
+QUIZZ_Q56_3=
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 4,000 Unis
+QUIZZ_Q56_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### When Brok finds a rubber cutter, what did he think it was at first?
+QUIZZ_Q57=
+
+### A lever
+QUIZZ_Q57_1=
+
+### A stick
+QUIZZ_Q57_2=
+
+### A remote control
+QUIZZ_Q57_3=
+
+### A toothpick
+QUIZZ_Q57_4=
+
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### How many Tribots are inside the pyramid near the server mainframe at the Border Post in order to become a Drumer?
+QUIZZ_Q58=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok needs to fill a broken mine he finds with Trax powder, which smells like...
+QUIZZ_Q59=
+
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### Rotten pampalos
+QUIZZ_Q59_1=
+
+### Socks
+QUIZZ_Q59_2=
+
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Rotten antburger
+QUIZZ_Q59_3=
+
+# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+### Hot juice
+QUIZZ_Q59_4=
+
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What is the name of the drug Sin has been searching for?
+QUIZZ_Q60=
+
+### Oblivion
+QUIZZ_Q60_1=
+
+### Morrowind
+QUIZZ_Q60_2=
+
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Toxout
+QUIZZ_Q60_3=
+
+### Trax
+QUIZZ_Q60_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Which one of Graff's teachers got promoted and is never coming back?
+QUIZZ_Q61=
+
+### Mr. Fenton
+QUIZZ_Q61_1=
+
+### Mrs. Silver
+QUIZZ_Q61_2=
+
+### Mr. Dan
+QUIZZ_Q61_3=
+
+### Mr. Filsh
+QUIZZ_Q61_4=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### How much HP does Graff's rope has when he's tied up in the sewer?
+QUIZZ_Q62=
+
+
+### How many lockers are in the police department's jail?
+QUIZZ_Q63=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What unusual function can Brok's apartment key do?
+QUIZZ_Q64=
+
+### Screwdriver
+QUIZZ_Q64_1=
+
+### Zoom in/out
+QUIZZ_Q64_2=
+
+### Beep
+QUIZZ_Q64_3=
+
+### Vibrate
+QUIZZ_Q64_4=
+
+
+### What pill do citizens have to take everyday?
+QUIZZ_Q65=
+
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Toxout
+QUIZZ_Q65_1=
+
+### Oblivion
+QUIZZ_Q65_2=
+
+### Haze
+QUIZZ_Q65_3=
+
+### Trax
+QUIZZ_Q65_4=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### How much HP does Brok have when starting the game?
+QUIZZ_Q66=
+
+
+# NB: Lexicon word in Ukrainian for "EXP": "ДОСВІД"
+### What is the maximum EXP level?
+QUIZZ_Q67=
+
+
+# NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### What is the name of the Squealers Chief?
+QUIZZ_Q68=
+
+### Unknown
+QUIZZ_Q68_1=
+
+### Ric
+QUIZZ_Q68_2=
+
+### Hush
+QUIZZ_Q68_3=
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart
+QUIZZ_Q68_4=
+
+
+### How many endings does the game have?
+QUIZZ_Q69=
+
+
+### How many human students have trials?
+QUIZZ_Q70=
+
+
+### No food
+ITEM_NOFOOD_MSG=
+
+#INTERFACE_CHARSELECTED_BASE=Base character
+### Mod based on <col=BLUE>{name}</col>
+INTERFACE_CHARSELECTED_MOD=
+
+### Packaged mod based on <col=BLUE>{name}</col>
+INTERFACE_CHARSELECTED_PACKAGED=
+
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### In The Brawl Bar, shadow ads replenish each time you come back to the bar, but you keep the points. Trade them for C-Tokens in your store.
+INTERFACE_SHADOWADS_BRAWLBAR=
+
+### 2 C-Tokens
+ITEM_CTOKENS2=
+
+### Exchange one shadow point
+ITEM_CTOKENS2_MSG=
+
+### 10 C-Tokens
+ITEM_CTOKENS10=
+
+### Exchange 4 shadow points
+ITEM_CTOKENS10_MSG=
+
+### 100 C-Tokens
+ITEM_CTOKENS100=
+
+### Exchange 20 shadow points
+ITEM_CTOKENS100_MSG=
+
+
+### Options
+TUTORIAL_OPTIONS=
+
+### Delete
+TUTORIAL_DELETE=
+
+
+### Unlock (1 C-Token)
+INTERFACE_UNLOCK1CTOKEN=
+
+
+### Saves only store basic info like difficulty and chosen character.
+SAVES_BRAWLBAR1=
+
+### (Plus the main game progress)
+SAVES_BRAWLBAR1B=
+
+### Challenge progress is shared across all saves.
+SAVES_BRAWLBAR2=
+
+
+### Too many challenges
+BM04_CHALLENGE_SIMPLEMODE_TOOMANY=
+
+### The maximum number of challenges which can be saved is reached ({number} challenges). Please delete one in the Load panel to save this.
+BM04_CHALLENGE_SIMPLEMODE_TOOMANY_DESCRIPTION=
+
+
+### Export as .zip file
+BM04_OPTION_CHALLENGESHAREZIP=
+
+### Export your creation outside of Steam Workshop.
+BM04_OPTION_CHALLENGESHAREZIP_HELP=
+
+
+### The challenge file could not be loaded.
+CHALLENGE_LITE_CANNOT_LOAD=
+
+
+### Back to The Brawl Bar
+ATLASIAN_BACK_TITLE=
+
+### Adapted by COWCAT
+ATLASIAN_CREDITS=
+
+### Resume
+ATLASIAN_CONTINUE=
+
+### Exit
+ATLASIAN_EXIT=
+
+### Shoot
+ATLASIAN_SHOOT=
+
+### Bomb / Hyper
+ATLASIAN_BOMB=
+
+### Switch focused
+ATLASIAN_FOCUSED=
+
+### Switch unfocused
+ATLASIAN_UNFOCUSED=
+
+
+
+
+
+### Dynamite
+ITEM_DYNAMITE=
+
+### Dynamite (immediate)
+ITEM_DYNAMITEBOMB=
+
+
+### Music assigned
+BM04_MUSIC_CREATE=
+
+### The music has been assigned. It has been also added to the list of music tracks to choose from.
+BM04_MUSIC_DESCR=
+
+
+### Title missing
+BM04_MUSIC_MISSINGTITLE_TITLE=
+
+### Please enter the title of this music.
+BM04_MUSIC_MISSINGTITLE_DESCRIPTION=
+
+
+### Music file missing
+BM04_MUSIC_MISSINGMUSICFILE_TITLE=
+
+### Please import an .ogg music file.
+BM04_MUSIC_MISSINGMUSICFILE_DESCRIPTION=
+
+
+### A music track to play during your challenge.
+BM04_CREATE_MUSIC_HELP=
+
+### Music title
+BM04_MUSIC_TITLE=
+
+### Set the title of your track.
+BM04_MUSIC_TITLE_HELP=
+
+### Music file
+BM04_MUSIC_FILE=
+
+### Choose an Ogg Vorbis <col=BOLD>.ogg</col> file to upload.
+BM04_MUSIC_FILE_HELP=
+
+### Submit
+BM04_MUSIC_SUBMIT=
+
+### Submit the new track.
+BM04_MUSIC_SUBMIT_HELP=
+
+
+### The file selected is too big (should be less than {size} MB)
+BM04_WORKSHOP_SELECT_FILE_WRONGSIZE=
+
+### Wrong format, should be .ogg
+BM04_WORKSHOP_SELECT_FILE_WRONGFORMAT=
+
+### The file selected could not be copied
+BM04_WORKSHOP_SELECT_FILE_COPYFAIL=
+
+### No file selected
+BM04_WORKSHOP_SELECT_FILE_NOTSELECTED=
+
+
+### Delete this music
+TUTORIAL_MUSICDELETE=
+
+### Delete this music?
+CHOICE_DELETE_MUSIC=
+
+
+### The music will be deleted after this screen.
+CHOICE_DELETE_MUSIC_POPUP=
+
+
+### Should your custom music be included?
+BM04_OPTION_CHALLENGESHAREEXPORTMUSIC_HELP=
+
+
+### Unlocked
+INTERFACE_JUKEBOX_UNLOCKED=
+
+### Packaged
+BM04_PACKAGED=
+
+
+
+### Scroll
+TUTORIAL_BM04_SCROLL=
+
+### Touch the edges of the screen to scroll the area
+TUTORIAL_BM04_SCROLL_TOUCH=
+
+### Menu options
+TUTORIAL_BM04_MENU=
+
+
+
+### Switch mode
+HELP_DLC_SWITCHMODE=
+
+### In the bar, you're free to switch from adventure (talk to characters) to action mode (jump and hit).
+HELP_DLC_SWITCHMODE_INSTRUCTIONS=
+
+### Scroll the <col=BOLD>mouse wheel</col> <spr=CONTROL_mousescroll>, <button=INPUT_ACTION_SWITCH_MODE> or click the upper right icon to switch.##
+HELP_DLC_SWITCHMODE_INSTRUCTIONS_MOUSE=
+
+### Press <button=INPUT_ACTION_SWITCH_MODE> to switch.##
+HELP_DLC_SWITCHMODE_INSTRUCTIONS_GAMEPAD=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Are you familiar with the BROK universe?
+INTERFACE_DLC_FAMILIAR=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Are you familiar with the BROK universe?
+INTERFACE_OPTION_FAMILIAR=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Replaces challenges requiring knowledge of other BROK titles
+ITEM_INTERFACE_OPTION_FAMILIAR_MSG=
+
+
+### Locked (for this character)
+ITEM_CHALLENGELOCKED_CHAR=
+
+### You've <col=BOLD>already completed this challenge</col> with the default character, but not with <col=BOLD>{name}</col>
+ITEM_CHALLENGELOCKED_CHAR_MSG=
+
+
+# Mobile touch tutorial strings
+
+# Mobile touch tutorial strings
+### <col=BOLD>During your normal combo</col>, swipe <col=BOLD>UP</col> for an uppercut, or <col=BOLD>DOWN</col> for a cross punch!
+HELP_DLC_BOXEROUTFIT2_TOUCH=
+
+### <col=BOLD>During your normal combo</col>, hold <col=BOLD>UP</col> or <col=BOLD>DOWN</col> on the D-Pad while punching!
+HELP_DLC_BOXEROUTFIT2_VIRTUAL=
+
+### tap the screen <button=INPUT_TOUCH_TAP>
+HELP_DLC_ARMWRESTLING_COMMAND_TOUCH=
+
+### <button=INPUT_TOUCH_TAP>
+HELP_DLC_VRFOOD_TOUCH=
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Select characters in the <col=BOLD>Menu</col> or ask Bubbles to switch at any time.
+HELP_DLC_DLCFINISH_COMMAND_TOUCH=
+
+### Swipe UP <button=INPUT_TOUCH_SWIPEUP> or tap the fight mode icon <spr=BUTTON_modefight> to switch.
+HELP_DLC_SWITCHMODE_INSTRUCTIONS_TOUCH=
+
+
+#-----------------------------------
+# Online challenge sharing
+#-----------------------------------
+### Online
+BM04_ONLINE=
+
+### Online Challenges
+BM04_ONLINE_HEADER=
+
+### Online Sharing
+BM04_ONLINE_SHARING_HEADER=
+
+
+### Downloading challenge...
+BM04_ONLINE_DOWNLOADING=
+
+### Challenge ready to play
+BM04_ONLINE_DOWNLOAD_READY=
+
+### Already downloading a challenge
+BM04_ONLINE_DOWNLOAD_BUSY=
+
+### Cannot download while offline
+BM04_ONLINE_DOWNLOAD_OFFLINE=
+
+### Download failed. Please check your connection and try again
+BM04_ONLINE_DOWNLOAD_FAILED=
+
+
+### {number} left today
+BM04_ONLINE_PLAYSLEFT=
+
+### The free version lets you play <col=BOLD>{number}</col> community challenges a day.##Come back tomorrow for more, or unlock everything now to play as many as you like.
+BM04_ONLINE_DAILYLIMIT_DESCR=
+
+### Sort:
+BM04_ONLINE_SORTBY=
+
+### Newest
+BM04_ONLINE_SORT_RECENT=
+
+### Best rated
+BM04_ONLINE_SORT_RATING=
+
+### Most downloaded
+BM04_ONLINE_SORT_DOWNLOADS=
+
+### Hardest
+BM04_ONLINE_SORT_DIFFICULTYHIGH=
+
+### Easiest
+BM04_ONLINE_SORT_DIFFICULTYLOW=
+
+### Show more
+BM04_ONLINE_LOADMORE=
+
+
+### (Yours)
+BM04_ONLINE_STATUS_MINE=
+
+### (Pending)
+BM04_ONLINE_STATUS_PENDING=
+
+### <col=BOLD>Refused:</col> {reason}
+BM04_ONLINE_REJECTED_REASON=
+
+### (Rejected)
+BM04_ONLINE_STATUS_REJECTED=
+
+### (Unlisted)
+BM04_ONLINE_STATUS_HIDDEN=
+
+### (Downloading...)
+BM04_ONLINE_STATUS_DOWNLOADING=
+
+
+### Submitting challenge for review...
+BM04_ONLINE_SUBMITTING=
+
+### Submission Successful
+BM04_ONLINE_SUBMITTED_TITLE=
+
+### Your challenge has been submitted for review! It will appear online once approved by moderation.
+BM04_ONLINE_SUBMITTED_DESCR=
+
+### Upload Limit
+BM04_ONLINE_LIMIT_TITLE=
+
+### Too many submissions. Please wait before uploading again.
+BM04_ONLINE_LIMIT_DESCR=
+
+### Access Denied
+BM04_ONLINE_DENIED_TITLE=
+
+### Your device is not permitted to upload challenges.
+BM04_ONLINE_DENIED_DESCR=
+
+### Upload Error
+BM04_ONLINE_UPLOADERROR_TITLE=
+
+### Failed to submit challenge. Please check your connection and try again
+BM04_ONLINE_UPLOADERROR_DESCR=
+
+### Could not reach the server. Please try again
+BM04_ONLINE_UPLOADERROR_NOSERVER=
+
+
+### Offline
+BM04_ONLINE_OFFLINE_TITLE=
+
+### You need a connection to submit a challenge
+BM04_ONLINE_OFFLINE_DESCR=
+
+### Missing Title
+BM04_ONLINE_MISSINGTITLE_TITLE=
+
+### Please provide a title for the challenge before sharing
+BM04_ONLINE_MISSINGTITLE_DESCR=
+
+### Invalid Character
+BM04_ONLINE_INVALIDCHAR_TITLE=
+
+### Custom player character files cannot be shared online
+BM04_ONLINE_INVALIDCHAR_DESCR=
+
+### Invalid Enemy
+BM04_ONLINE_INVALIDENEMY_TITLE=
+
+### Custom enemy character files cannot be shared online
+BM04_ONLINE_INVALIDENEMY_DESCR=
+
+### Invalid Environment
+BM04_ONLINE_INVALIDENV_TITLE=
+
+### Custom environments cannot be shared online
+BM04_ONLINE_INVALIDENV_DESCR=
+
+### Invalid Music
+BM04_ONLINE_INVALIDMUSIC_TITLE=
+
+### Custom music files cannot be shared online
+BM04_ONLINE_INVALIDMUSIC_DESCR=
+
+
+### Report this challenge?
+BM04_ONLINE_REPORT_CHOICE=
+
+### Report Submitted
+BM04_ONLINE_REPORTED_TITLE=
+
+### Thank you for reporting this challenge. It has been flagged for moderation review
+BM04_ONLINE_REPORTED_DESCR=
+
+
+### Already Reported
+BM04_ONLINE_REPORTED_ALREADY_TITLE=
+
+### You have already reported this challenge. It is waiting to be looked at.
+BM04_ONLINE_REPORTED_ALREADY_DESCR=
+
+### Report Not Sent
+BM04_ONLINE_REPORTED_FAILED_TITLE=
+
+### The report could not reach the server. Please check your connection and try again.
+BM04_ONLINE_REPORTED_FAILED_DESCR=
+
+
+### Rate this challenge
+BM04_ONLINE_RATE_TITLE=
+
+### Thumbs up
+BM04_ONLINE_RATE_UP=
+
+### Thumbs down
+BM04_ONLINE_RATE_DOWN=
+
+### Skip
+BM04_ONLINE_RATE_SKIP=
+
+

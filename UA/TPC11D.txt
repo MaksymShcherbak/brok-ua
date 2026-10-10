@@ -1,0 +1,973 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Brok - Various (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Various (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#=DAY 2 NIGHTMARE
+#-------------------------------
+
+#----- Interactions --------
+
+# ----- Interactions --------
+### Cage
+PC_CAGE=Клітка
+
+
+#----- Choices / Items --------
+### Take a peek?
+PC11D_WINDOW_LOOK=Зазирнути?
+
+
+#----- Help --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+
+
+
+
+# Brok
+### ...
+PC11D_ENTER1-1=...
+
+
+# Brok
+### This place is dark.
+PC11D_ENTER1-2=Тут темно.
+
+
+# Brok
+### Let's move on.
+PC11D_ENTER1-3=Ходімо далі.
+
+
+#----------------------------------------------------
+# Brok
+### A window? A porthole?
+PC11D_WINDOWA1-1=Вікно? Ілюмінатор?
+
+
+# Brok
+### In any case, it's shut.
+PC11D_WINDOWA1-2=У будь-якому разі, воно зачинене.
+
+
+#----------------------------------------------------
+# Brok
+### Let's see...
+PC11D_WINDOWA2-1=Погляньмо...
+
+
+#----------------------------------------------------
+# Brok
+### Well...
+PC11D_WINDOWA_CLOSEUP1-1=Ну...
+
+
+# Brok
+### I thought there was light coming out... but I can't see much of anything.
+PC11D_WINDOWA_CLOSEUP1-2=Мені здалося, що звідти йшло світло... але я майже нічого не бачу.
+
+
+# Brok
+### Hey, wait. I can hear...
+PC11D_WINDOWA_CLOSEUP1-3=Гей, стривайте. Я чую...
+
+
+# Various
+### (Whispering)
+PC11D_WINDOWA_CLOSEUP1-4=(Шепіт)
+
+
+# Various
+### ...didn't deserve...
+PC11D_WINDOWA_CLOSEUP1-5=...не заслуговував...
+
+
+# Various
+### ...accident...
+PC11D_WINDOWA_CLOSEUP1-6=...нещасний випадок...
+
+
+# Brok
+### Is someone there?
+PC11D_WINDOWA_CLOSEUP1-7=Там хтось є?
+
+
+# Various
+### ...poor boy. What's he gonna do now?...
+PC11D_WINDOWA_CLOSEUP1-8=...бідний хлопчик. Що він тепер робитиме...?
+
+
+# Various
+### ...can't...
+PC11D_WINDOWA_CLOSEUP1-9=...не зможе...
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### ...live with this Slumer?...
+PC11D_WINDOWA_CLOSEUP1-10=...жити з цим Нетрівцем...?
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### ...a violent stranger. He'd be...
+PC11D_WINDOWA_CLOSEUP1-11=...жорстокий незнайомець. Він був би...
+
+
+# Various
+### ...mother's choice...
+PC11D_WINDOWA_CLOSEUP1-12=...вибір матері...
+
+
+# Various
+### ...the law is the law...
+PC11D_WINDOWA_CLOSEUP1-13=...закон є закон...
+
+
+# Graff
+### Dad...
+PC11D_WINDOWA_CLOSEUP1-14=Тату...
+
+
+# Brok
+### Uh?...
+PC11D_WINDOWA_CLOSEUP1-15=Га...?
+
+
+# Brok
+### ...
+PC11D_WINDOWA_CLOSEUP1-16=...
+
+
+# Brok
+### I thought...
+PC11D_WINDOWA_CLOSEUP1-17=Я думав...
+
+
+# Brok
+### ...
+PC11D_WINDOWA_CLOSEUP1-18=...
+
+
+# Brok
+### The voices... They've stopped.
+PC11D_WINDOWA_CLOSEUP1-19=Голоси... Вони стихли.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_WINDOWA_CLOSEUP2-1=...
+
+
+# Brok
+### Nothing here.
+PC11D_WINDOWA_CLOSEUP2-2=Тут нічого немає.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_WINDOWB1-1=...
+
+
+# Brok
+### I have... an awkward feeling...
+PC11D_WINDOWB1-2=У мене... таке дивне відчуття...
+
+
+# Brok
+### Maybe I shouldn't look...
+PC11D_WINDOWB1-3=Можливо, мені не варто дивитися...
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC11D_WINDOWB2-1=...!
+
+
+# Brok
+### Wh... what the heck is this?!
+PC11D_WINDOWB2-2=Щ... що за чорт?!
+
+
+# Brok
+### ...
+PC11D_WINDOWB2-3=...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_WINDOWB3-1=...
+
+
+# Brok
+### Wait. There's nothing here.
+PC11D_WINDOWB3-2=Стривайте. Тут нічого немає.
+
+
+# Brok
+### I must be imagining things.
+PC11D_WINDOWB3-3=Мабуть, здалося.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_WINDOWB_CLOSEUP2-1=...
+
+
+# Brok
+### Nothing here.
+PC11D_WINDOWB_CLOSEUP2-2=Тут нічого немає.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_WINDOWC1-1=...
+
+
+# Brok
+### This is... unlike the others. Why is that window positioned so low?
+PC11D_WINDOWC1-2=Воно... не таке, як інші. Чому це вікно розташоване так низько?
+
+
+# Brok
+### I... I need to take a look.
+PC11D_WINDOWC1-3=Я... я мушу зазирнути.
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC11D_WINDOWC2-1=...!
+
+
+# Graff
+### (Sobs)
+PC11D_WINDOWC2-2=(Ридає)
+
+
+# Graff
+### Mom... Dad...
+PC11D_WINDOWC2-3=Мамо... Тату...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?!
+PC11D_WINDOWC2-4=Граффе?!
+
+
+# Brok
+### Don't cry! I'll get you outta here!
+PC11D_WINDOWC2-5=Не плач! Я витягну тебе звідси!
+
+
+# Graff
+### Dad... Where are you?
+PC11D_WINDOWC2-6=Тату... Де ти?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm here, Graff!
+PC11D_WINDOWC2-7=Я тут, Граффе!
+
+
+# Graff
+### (Sobs)
+PC11D_WINDOWC2-8=(Ридає)
+
+
+# Brok
+### What are you doing in this cell?
+PC11D_WINDOWC2-9=Що ти робиш у цій камері?
+
+
+# Graff
+### (Sobs) Dad... help...
+PC11D_WINDOWC2-10=(Ридає) Тату... допоможи...
+
+
+# Brok
+### Don't worry! I'll help!
+PC11D_WINDOWC2-11=Не хвилюйся! Я допоможу!
+
+
+# Brok
+### Is there any way to open from your side?
+PC11D_WINDOWC2-12=Ти можеш відчинити зі свого боку?
+
+
+# Graff
+### (Sobs)
+PC11D_WINDOWC2-13=(Ридає)
+
+
+# Brok
+### Hey! Can't you hear me?
+PC11D_WINDOWC2-14=Гей! Ти що, не чуєш мене?
+
+
+# Graff
+### !
+PC11D_WINDOWC2-15=!
+
+
+# Graff
+### Who... Who's there?
+PC11D_WINDOWC2-16=Хто... Хто там?
+
+
+# Brok
+### It's me!
+PC11D_WINDOWC2-17=Це я!
+
+
+# Graff
+### Who...?
+PC11D_WINDOWC2-18=Хто...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### It's Brok! I'm... I'm here for you!
+PC11D_WINDOWC2-19=Це Брок! Я... я прийшов по тебе!
+
+
+# Graff
+### ...
+PC11D_WINDOWC2-20=...
+
+
+# Graff
+### No.
+PC11D_WINDOWC2-21=Ні.
+
+
+# Brok
+### What?
+PC11D_WINDOWC2-22=Що?
+
+
+# Graff
+### No! You're not!
+PC11D_WINDOWC2-23=Ні! Це не ти!
+
+
+# Graff
+### Get away from me!!!
+PC11D_WINDOWC2-24=Геть від мене!!!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### But... Graff!
+PC11D_WINDOWC2-25=Але... Граффе!
+
+
+# Graff
+### HELP!!! SOMEBODY HELP!!!
+PC11D_WINDOWC2-26=ДОПОМОЖІТЬ!!! ХТО-НЕБУДЬ, ДОПОМОЖІТЬ!!!
+
+
+# Brok
+### Shhh! Stop screaming! I'm not going to hurt ya!
+PC11D_WINDOWC2-27=Ш-ш! Не кричи! Я тебе не скривджу!
+
+
+# Brok
+### ...?
+PC11D_WINDOWC2-28=...?
+
+
+# Brok
+### Oh gosh. I hear footsteps...
+PC11D_WINDOWC2-29=О небеса. Я чую кроки...
+
+
+# Brok
+### What should I do now?!...
+PC11D_WINDOWC2-30=Що ж мені робити...?!
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+PC11D_WINDOWC3-1=...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff? Where are you?
+PC11D_WINDOWC3-2=Граффе? Де ти?
+
+
+# Brok
+### I can't see you!
+PC11D_WINDOWC3-3=Я тебе не бачу!
+
+
+# Brok
+### ...
+PC11D_WINDOWC3-4=...
+
+
+# Brok
+### He must be hiding.
+PC11D_WINDOWC3-5=Він, мабуть, ховається.
+
+
+# Brok
+### Gotta get him out!
+PC11D_WINDOWC3-6=Треба його витягнути!
+
+
+#----------------------------------------------------
+# Brok
+### Mines...?
+PC11D_MINES_SEE1-1=Міни...?
+
+
+# Brok
+### Oh boy... I hate those. Better watch my step.
+PC11D_MINES_SEE1-2=Ой леле... Терпіти їх не можу. Краще дивитися під ноги.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Looks suspicious.
+PC11D_CAGE1-1=Гмм... Виглядає підозріло.
+
+
+#----------------------------------------------------
+# Brok
+### Oh, great... That was a trap!
+PC11D_CAGE_STUCK-1=О, чудово... Це була пастка!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_CAGE_STUCK_ENEMIES-1=...
+
+
+# Brok
+### Wait. What happened to the enemies?...
+PC11D_CAGE_STUCK_ENEMIES-2=Стривайте. Що сталося з ворогами...?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC11D_CAGE_NOTHING-1=...
+
+
+# Brok
+### Good thing I wasn't underneath...
+PC11D_CAGE_NOTHING-2=Добре, що я не був під нею...
+
+
+#----------------------------------------------------
+# Brok
+### Got'em!
+PC11D_CAGE_GOTEM-1=Попалися!
+
+
+# Brok
+### ...
+PC11D_CAGE_GOTEM-2=...
+
+
+# Brok
+### Uh? Where did the enemies go?
+PC11D_CAGE_GOTEM-3=Га? Куди поділися вороги?
+
+
+# Brok
+### Is this a magic trick?
+PC11D_CAGE_GOTEM-4=Це якийсь фокус?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...!
+PC11D_CAGE_STUCK_GRAFFDIALOG-1=Граффе...!
+
+
+# Brok
+### How did you...? And why are you...?
+PC11D_CAGE_STUCK_GRAFFDIALOG-2=Як ти...? І чому ти...?
+
+
+# Graff
+### ...
+PC11D_CAGE_STUCK_GRAFFDIALOG-3=...
+
+
+# Brok
+### Never mind! Am I glad to see you!
+PC11D_CAGE_STUCK_GRAFFDIALOG-4=Менше з тим! Я радий тебе бачити!
+
+
+# Brok
+### Any way you can get me outta here?
+PC11D_CAGE_STUCK_GRAFFDIALOG-5=Ти можеш якось витягти мене звідси?
+
+
+# Graff
+### ...
+PC11D_CAGE_STUCK_GRAFFDIALOG-6=...
+
+
+# Graff - Only during this dialog, Graff uses "SMS/text messages" language like young people do! (it's a nightmare, not reality)
+### Ha ha ha ha! LOL!
+PC11D_CAGE_STUCK_GRAFFDIALOG-7=Ха-ха-ха-ха! ЛОЛ!
+
+
+# Brok
+### Uh?!
+PC11D_CAGE_STUCK_GRAFFDIALOG-8=Що?!
+
+
+# Graff
+### You got stuck...! All by yourself!
+PC11D_CAGE_STUCK_GRAFFDIALOG-9=Ти застряг...! Зовсім сам!
+
+
+# Graff
+### ROFL! LMFAO!
+PC11D_CAGE_STUCK_GRAFFDIALOG-10=РОФЛ! ЛМФАО!
+
+
+# Brok
+### ...
+PC11D_CAGE_STUCK_GRAFFDIALOG-11=...
+
+
+# Brok
+### There's something odd about all this...
+PC11D_CAGE_STUCK_GRAFFDIALOG-12=У всьому цьому є щось дивне...
+
+
+# Graff
+### No duh, Captain Obvious!
+PC11D_CAGE_STUCK_GRAFFDIALOG-13=Та ти шо, Капітане Очевидність!
+
+
+# Graff
+### Wake up, you fool!
+PC11D_CAGE_STUCK_GRAFFDIALOG-14=Прокинься, дурню!
+
+
+# Brok
+### ...What the...
+PC11D_CAGE_STUCK_GRAFFDIALOG-15=...Що за...
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+PC11D_GRAFFBEDROOM1-1=...!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...?
+PC11D_GRAFFBEDROOM1-2=Граффе...?
+
+
+# Brok
+### Oh no!... Don't move!
+PC11D_GRAFFBEDROOM1-3=О ні...! Не рухайся!
+
+
+# Brok
+### You're surrounded by mines!
+PC11D_GRAFFBEDROOM1-4=Ти оточений мінами!
+
+
+# Graff
+### ...
+PC11D_GRAFFBEDROOM1-5=...
+
+
+# Graff
+### You did this...
+PC11D_GRAFFBEDROOM1-6=Це ти зробив...
+
+
+# Brok
+### Did... what?
+PC11D_GRAFFBEDROOM1-7=Зробив... що?
+
+
+# Graff
+### Don't...
+PC11D_GRAFFBEDROOM1-8=Не треба...
+
+
+# Brok
+### W... What should I do?!...
+PC11D_GRAFFBEDROOM1-9=Щ... Що мені робити...?!
+
+
+# Graff
+### Please...
+PC11D_GRAFFBEDROOM1-10=Будь ласка...
+
+
+# Graff
+### GO AWAY!...
+PC11D_GRAFFBEDROOM1-11=ЙДИ ГЕТЬ...!
+
+
+#----------------------------------------------------
+# Graff
+### Of course...
+PC11D_RANAWAY1-1=Звісно...
+
+
+# Brok
+### ...?
+PC11D_RANAWAY1-2=...?
+
+
+# Graff
+### I knew it... I knew you'd run away...
+PC11D_RANAWAY1-3=Я так і знав... Знав, що ти втечеш...
+
+
+# Graff
+### That's what you do... You never cared...
+PC11D_RANAWAY1-4=Ти завжди так робиш... Тобі завжди було байдуже...
+
+
+# Brok
+### I... I wasn't going to run away!
+PC11D_RANAWAY1-5=Я... Я не збирався тікати!
+
+
+# Brok
+### Just... trying to fetch help!
+PC11D_RANAWAY1-6=Просто... намагався покликати на допомогу!
+
+
+# Graff
+### Don't bother lying to yourself.
+PC11D_RANAWAY1-7=Не дури хоч сам себе.
+
+
+# Graff
+### Just stop...
+PC11D_RANAWAY1-8=Просто припини...
+
+
+# Brok
+### Stop...?
+PC11D_RANAWAY1-9=Припинити...?
+
+
+# Graff
+### Stop... dreaming.
+PC11D_RANAWAY1-10=Припини... мріяти.
+
+
+# Graff
+### Wake up! Now!
+PC11D_RANAWAY1-11=Прокинься! Негайно!
+
+
+#----------------------------------------------------
+# Brok
+### I can't reach him from here!
+PC11D_GRAFF_BEDROOM_TOOFAR-1=Я не можу дістати до нього звідси!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### N... Nooooooo!!! Graff!!!
+PC11D_GRAFFEXPLODES-1=Н... Нііііііііі!!! Граффе!!!
+
+
+# Brok
+### This...
+PC11D_GRAFFEXPLODES-2=Це...
+
+
+# Brok
+### This can't be happening...!
+PC11D_GRAFFEXPLODES-3=Такого не може бути...!
+
+
+# Brok
+### I'm...
+PC11D_GRAFFEXPLODES-4=Я...
+
+
+# Brok
+### I'm so sorry... I couldn't... save you...
+PC11D_GRAFFEXPLODES-5=Мені так шкода... Я не зміг... врятувати тебе...
+
+
+#----------------------------------------------------
+# Various
+### It's him!
+PC11D_ENEMIES_APPEAR1-1=Це він!
+
+
+#----------------------------------------------------
+# Brok
+### They're coming for me!...
+PC11D_ENEMIES_APPEAR2-1=Вони йдуть по мене...!
+
+
+#----------------------------------------------------
+# Brok
+### What?! They want another round?
+PC11D_ENEMIES_AGAIN-1=Що?! Вони хочуть ще раз побитися?
+
+
+# Brok
+### Alright! Bring it on!
+PC11D_ENEMIES_AGAIN-2=Гаразд! Ну ж бо, вперед!
+
+
+#----------------------------------------------------
+# Brok
+### Not coming back for more, eh? Quitters!
+PC11D_ENEMIES_KILLED-1=Більше не хочете, га? Слабаки!
+
+
+#----------------------------------------------------
+# Graff
+### ...Thanks...
+PC11D_GRAFFSAVED-1=...Дякую...
+
+
+# Brok
+### Don't mention it, kiddo...
+PC11D_GRAFFSAVED-2=Нема за що, малий...
+
+
+# Graff
+### ...You know...
+PC11D_GRAFFSAVED-3=...Знаєш...
+
+
+# Graff
+### ...You're not alone...
+PC11D_GRAFFSAVED-4=...Ти не один...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+PC11D_GRAFFSAVED-5=Граффе...?
+
+
+# Graff
+### ...Wake up...
+PC11D_GRAFFSAVED-6=...Прокинься...
+
+
+# Brok
+### I...don't want to...
+PC11D_GRAFFSAVED-7=Я... не хочу...
+
+
+# Brok
+### So tired...
+PC11D_GRAFFSAVED-8=Так втомився...
+
+
+# Brok
+### I just want...
+PC11D_GRAFFSAVED-9=Я просто хочу...
+
+
+# Brok
+### To stay here...with you...
+PC11D_GRAFFSAVED-10=Залишитися тут... з тобою...
+
+
+# Graff
+### Now is not the time to rest.
+PC11D_GRAFFSAVED-11=Зараз не час відпочивати.
+
+
+# Graff
+### The world needs you.
+PC11D_GRAFFSAVED-12=Ти потрібен світові.
+
+
+# Graff
+### I need you.
+PC11D_GRAFFSAVED-13=Ти потрібен мені.
+
+
+# Brok
+### But...
+PC11D_GRAFFSAVED-14=Але...
+
+
+# Graff
+### I said...
+PC11D_GRAFFSAVED-15=Я сказав...
+
+
+# Graff
+### WAKE UP!
+PC11D_GRAFFSAVED-16=ПРОКИНЬСЯ!
+
+
+#----------------------------------------------------
+# Graff
+### Monster...
+PC11D_GRAFFWRONG-1=Монстр...
+
+
+# Brok
+### It's over. The monsters are gone.
+PC11D_GRAFFWRONG-2=Усе вже скінчилося. Монстри зникли.
+
+
+# Graff
+### No!
+PC11D_GRAFFWRONG-3=Ні!
+
+
+# Graff
+### You...
+PC11D_GRAFFWRONG-4=Ти...
+
+
+# Graff
+### You killed them all!
+PC11D_GRAFFWRONG-5=Ти вбив їх усіх!
+
+
+# Brok
+### N... No! I didn't!...
+PC11D_GRAFFWRONG-6=Н... Ні! Я цього не робив...!
+
+
+# Graff
+### Liar!
+PC11D_GRAFFWRONG-7=Брехло!
+
+
+# Graff
+### Just look!
+PC11D_GRAFFWRONG-8=Просто подивися!
+
+
+#----------------------------------------------------
+# Brok - The bots that Brok fought suddenly are changed into humans, which has him confused. Did he really kill humans?
+### ...
+PC11D_GRAFFWRONG2-1=...
+
+
+# Brok
+### No... I...
+PC11D_GRAFFWRONG2-2=Ні... Я...
+
+
+# Brok
+### They were...!
+PC11D_GRAFFWRONG2-3=Вони ж були...!
+
+
+# Brok
+### ...
+PC11D_GRAFFWRONG2-4=...
+
+
+# Brok
+### I... I really did...
+PC11D_GRAFFWRONG2-5=Я... я справді це зробив...
+
+
+# Brok
+### Please...
+PC11D_GRAFFWRONG2-6=Будь ласка...
+
+
+# Brok
+### Forgive me. Everyone.
+PC11D_GRAFFWRONG2-7=Вибачте мені. Усі.
+
+
+# Brok
+### ...?
+PC11D_GRAFFWRONG2-8=...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff? Where are you?...
+PC11D_GRAFFWRONG2-9=Граффе? Де ти...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, come here! You're safe now!
+PC11D_GRAFFWRONG2-10=Граффе, йди сюди! Тепер ти в безпеці!
+
+
+# Brok
+### Don't be scared... I'd never...
+PC11D_GRAFFWRONG2-11=Не бійся... Я б ніколи...
+
+
+# Brok
+### Never...
+PC11D_GRAFFWRONG2-12=Ніколи...
+
+
+# Brok
+### Hurt...
+PC11D_GRAFFWRONG2-13=Не скривдив...
+
+
+# Brok
+### It hurts...
+PC11D_GRAFFWRONG2-14=Боляче...
+
+
+# Brok
+### I need to...
+PC11D_GRAFFWRONG2-15=Мені треба...
+
+
+# Brok
+### Get out...
+PC11D_GRAFFWRONG2-16=Вибратися...
+
+
+# Brok
+### Now...
+PC11D_GRAFFWRONG2-17=Зараз...
+
+
+#----------------------------------------------------
+

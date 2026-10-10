@@ -1,0 +1,215 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=SLUM TRASHER HUNT
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+
+#----- Help --------
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff - If Graff enters this room when he's ill
+### (Cough, cough)
+GPC16_FIRST1-1=(Кашляє)
+
+
+# Graff
+### Hopefully... I can win some money here... fast!...
+GPC16_FIRST1-2=Сподіваюся... я зможу виграти тут трохи грошей... швидко...!
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### Just my luck... A thug broke the controls.
+GPC16_CONTROLS_WRONG-1=Як на зло... Якийсь хуліган зламав керування.
+
+
+#----------------------------------------------------
+# Graff
+### I'm fed up with this dump...
+GPC16_WINDOW1-1=Як же мені набридла ця діра...
+
+
+#----------------------------------------------------
+# Graff
+### That won't help...
+GPC16_FURNITURE1-1=Це не допоможе...
+
+
+#----------------------------------------------------
+# Graff
+### What the heck is this?...
+GPC16_STATUE1-1=Що це, в біса, таке...?
+
+
+#----------------------------------------------------
+# Graff
+### I'll use this to throw the rubble away...
+GPC16_LEVER1-1=Використаю його, щоб скинути уламки...
+
+
+#----------------------------------------------------
+# Graff
+### Empty...
+GPC16_OUTLET1-1=Порожньо...
+
+
+#----------------------------------------------------
+# Graff
+### Woah, that's not cheap...
+GPC16_CONTROLS_UNIS1-1=Ого, а це недешево...
+
+
+#----------------------------------------------------
+# Graff
+### Oh gosh... Wasted all my money.
+GPC16_CONTROLS_NOMONEY1-1=Ох... Спустив усі гроші.
+
+
+#----------------------------------------------------
+# Graff - Result after grabbing
+### Hmm...
+GPC16_RESULT_NOTHING-1=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### Just my luck. Nothing.
+GPC16_RESULT_NOTHING1-1=Як на зло. Нічого.
+
+
+#----------------------------------------------------
+# Graff
+### Aww...
+GPC16_RESULT_NOTHING2-1=Ох...
+
+
+#----------------------------------------------------
+# Graff
+### Come on!...
+GPC16_RESULT_NOTHING3-1=Ну ж бо...!
+
+
+#----------------------------------------------------
+# Graff
+### Hey! Is that...
+GPC16_RESULT_SOMETHING1-1=Гей! Це що...
+
+
+#----------------------------------------------------
+# Graff
+### Finally!
+GPC16_RESULT_SOMETHING2-1=Нарешті!
+
+
+#----------------------------------------------------
+# Graff
+### Nice!
+GPC16_RESULT_SOMETHING3-1=Круто!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### An energy drink? I'll take it.
+GPC16_RESULT_ENERGYDRINK-1=Енергетичний напій? Забираю.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### A Pampalos... Urgh...
+GPC16_RESULT_PAMPALOS-1=Пампалос... Фу...
+
+
+#----------------------------------------------------
+# Graff
+### A pizza?...
+GPC16_RESULT_PIZZA-1=Піца...?
+
+
+#----------------------------------------------------
+# Graff
+### There must be something more interesting...
+GPC16_RESULT_NOTREAL-1=Тут має бути щось цікавіше...
+
+
+#----------------------------------------------------
+# Graff
+### A digital code for a game?!...
+GPC16_RESULT_XPUPGRADE-1=Цифровий код для гри...?!
+
+
+# Graff
+### Gonna improve my skills!
+GPC16_RESULT_XPUPGRADE-2=Він покращить мої навички!
+
+
+#----------------------------------------------------
+# Graff
+### A new game!
+GPC16_RESULT_XPUPGRADE2-1=Нова гра!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Cool, 50 Unis!
+GPC16_RESULT_UNIS50-1=Круто, 50 Юні!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Yes! 200 Unis!
+GPC16_RESULT_UNIS200-1=Є! 200 Юні!
+
+
+# Graff
+### I should come here more often... When I have time for it.
+GPC16_RESULT_UNIS200-2=Варто приходити сюди частіше... Коли є час.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 500 Unis?! Awesome!
+GPC16_RESULT_UNIS500-1=500 Юні?! Неймовірно!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Energy serum": "Енергетична сироватка"
+### An energy serum?
+GPC16_RESULT_ENERGYSERUM-1=Енергетична сироватка?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC16_WINDOW_BREAK-1=...
+
+
+#----------------------------------------------------
+# Graff
+### Argh...
+GPC16_BLOW_MINE1-1=Ар-р...
+
+
+#----------------------------------------------------
+# Graff
+### Oh no...
+GPC16_BLOW_MINE2-1=О ні...
+
+
+#----------------------------------------------------
+

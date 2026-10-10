@@ -1,0 +1,75 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=BUNKER INSIDE (GRAFF LEVEL SO NO DIALOG FOR BROK)
+#-------------------------------
+
+#----- Interactions --------
+### Access
+PC_ACCESS=Доступ
+
+### Switch
+PC_SWITCH=Перемикач
+
+### Triangle
+PC_TRIANGLE=Трикутник
+
+### Weight
+PC_WEIGHT=Важок
+
+### Symbols
+PC_SYMBOLS=Символи
+
+### Balance
+PC_BALANCE=Баланс
+
+# Balance plate
+### Plate
+PC_PLATE=Плита
+
+### Ball
+PC_BALL=Куля
+
+### Square
+PC_SQUARE=Квадрат
+
+### Trap
+PC_TRAP=Пастка
+
+### Key lock
+PC_KEYLOCK=Замок
+
+
+#----- Choices / Items --------
+### A triangular token!
+GOT_TRIANGLEBUNKER=Трикутний жетон!
+
+### A weight!
+GOT_WEIGHT=Важок!
+
+
+#----- Topics --------
+### Give up and exit?
+PC19_GIVEUP_CONFIRM=Здатися й вийти?
+
+### Take back the weights?
+PC19_PLATE_CHOICE=Забрати важки?
+
+### Take back this triangle?
+PC19_TRIANGLE_CHOICE=Забрати цей трикутник?
+
+
+#----- Dialog --------
+
+# ----- Dialog --------
+### Jump on this plate to access the top?
+PC19_JUMPCHOICE=Стрибнути на цю плиту, щоб дістатися догори?
+
+
+### Pipe game
+PC19_PIPEGAME=Гра з трубами
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+

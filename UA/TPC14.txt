@@ -1,0 +1,1311 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dart (Unknown)
+#     Brok - Dee (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Hedgehog (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Rat (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Unknown (Unknown)
+#     Dart - Brok (Unknown)
+#     Dart - Rat (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - RJ (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Ott (Unknown)
+#     Hedgehog - Brok (Unknown)
+#     Hedgehog - Unknown (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Graff (Unknown)
+#     Rat - Brok (Unknown)
+#     Rat - Dart (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Dee (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Hedgehog (Unknown)
+
+#-------------------------------
+#= HACKER BACK STREET
+#-------------------------------
+
+#----- Interactions --------
+### Statue
+PC_STATUE=Статуя
+
+### Wings
+PC_WINGS=Крила
+
+### Plank
+PC_PLANK=Дошка
+
+### Bracket
+PC_BRACKET=Кріплення
+
+### String
+PC_STRING=Мотузка
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### To Hacker's Street
+PC_TO_HACKER=До провулка гакера
+
+### Trash container
+PC_TRASHCONTAINER=Сміттєвий контейнер
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Plastic wings!
+GOT_WINGS=Пластикові крила!
+
+### A string!
+GOT_STRING=Мотузка!
+
+
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Save the Slums
+CHOICE_GODEE=Врятувати Нетрі
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Save Graff
+CHOICE_KEEPLOOKING=Врятувати Граффа
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+# Brok - Brok comes to this street for the first time
+### Eww... The smell.
+PC14_INTRO1-1=Фу... Який сморід.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### The hacker should be around here. I'd better find him quickly, before I get sick.
+PC14_INTRO1-2=Гакер має бути десь тут. Краще знайти його швидше, поки мене не знудило.
+
+
+#----------------------------------------------------
+# Brok - Brok comes back to this street just after losing the fight and wonders what happened (time reverted itself)
+### ...
+PC14_INTRO2-1=...
+
+
+# Brok
+### That smell...
+PC14_INTRO2-2=Цей сморід...
+
+
+# Brok
+### And...
+PC14_INTRO2-3=І...
+
+
+# Brok
+### That familiar sensation of...
+PC14_INTRO2-4=Таке знайоме відчуття...
+
+
+# Brok
+### Like... I...
+PC14_INTRO2-5=Ніби... я...
+
+
+# Brok
+### Lost a fight...
+PC14_INTRO2-6=Програв у бою...
+
+
+# Brok
+### Left to die...?
+PC14_INTRO2-7=І лишився помирати...?
+
+
+# Brok
+### Hmm...
+PC14_INTRO2-8=Гмм...
+
+
+# Brok
+### Better move on quick. Got a bad feeling about this place.
+PC14_INTRO2-9=Краще йти звідси швидше. У мене кепське передчуття.
+
+
+#----------------------------------------------------
+# Rat - Rats ambush Brok
+### Goin' somewhere, croc?
+PC14_BADGUYS1-1=Зібрався кудись, кроку?
+
+
+# Brok
+### Go away. I don't want any trouble.
+PC14_BADGUYS1-2=Йдіть геть. Я не хочу неприємностей.
+
+
+# Rat
+### Haaaa...
+PC14_BADGUYS1-3=Ха-ааа...
+
+
+# Rat
+### Then ya shouldn't have caused us trouble in da first place.
+PC14_BADGUYS1-4=Тоді не треба було нам створювати проблем.
+
+
+# Brok
+### What?...
+PC14_BADGUYS1-5=Що...?
+
+
+# Rat
+### Don't play the fool wit' us.
+PC14_BADGUYS1-6=Не клей з себе дурника.
+
+
+# Rat
+### You no show respect to da boss. You attacked da boss...
+PC14_BADGUYS1-7=Ти не виявив поваги до боса. Ти напав на боса...
+
+
+# Brok
+### ...and humiliated him. Yeah, I remember.
+PC14_BADGUYS1-8=...і принизив його. Так, я пам'ятаю.
+
+
+# Brok
+### He asked for it.
+PC14_BADGUYS1-9=Він сам напрошувався.
+
+
+# Dart
+### No one attacks da boss and get away with it!
+PC14_BADGUYS1-10=Ніхто не може напасти на боса без покарання!
+
+
+# Brok
+### Get out of my way before I...
+PC14_BADGUYS1-11=Забирайтеся з дороги, поки я не...
+
+
+# Dart
+### Before ya what?
+PC14_BADGUYS1-12=Поки ти шо?
+
+
+# Dart
+### Ya can't escape us. Ya're gonna get da beating ya deserve.
+PC14_BADGUYS1-13=Ти від нас не втечеш. Ти отримаєш прочухана, якого заслужив.
+
+
+# Brok
+### Oh, yeah? I beg to differ!
+PC14_BADGUYS1-14=Та невже? Дуже сумніваюсь!
+
+
+# Brok
+### Come and get me!
+PC14_BADGUYS1-15=Ну ж бо, спробуйте мене вдарити!
+
+
+# Dart
+### Ya're dead meat!
+PC14_BADGUYS1-16=Тобі кінець!
+
+
+#----------------------------------------------------
+# Rat - Brok loses the fight
+### Ha ha! Got ya!
+PC14_BADGUYS_LOSE-1=Ха-ха! Піймали!
+
+
+# Rat
+### Now who got humaliated, huh?!
+PC14_BADGUYS_LOSE-2=І кого тепер привисили, га?!
+
+
+# Dart
+### It's humiliated, ya dumb!
+PC14_BADGUYS_LOSE-3=Принизили, бовдуре!
+
+
+# Rat
+### Yeah, well he's all stiff and cold.
+PC14_BADGUYS_LOSE-4=Ага, ну, він уже весь затерплий і холодний.
+
+
+# Rat
+### Let's bring dat carcass to da boss. We'll get a reward!
+PC14_BADGUYS_LOSE-5=Притягнемо цю тушу босові. Отримаємо винагороду!
+
+
+# Dart
+### Yeah!
+PC14_BADGUYS_LOSE-6=Ага!
+
+
+#----------------------------------------------------
+# Brok - We win the fight - but actually more rats come and Brok loses anyway
+### ...
+PC14_BADGUYSWON1-1=...
+
+
+#----------------------------------------------------
+# Brok
+### Darn...
+PC14_BADGUYSWON2-1=Дідько...
+
+
+# Rat
+### We got him cornered!
+PC14_BADGUYSWON2-2=Ми загнали його в кут!
+
+
+# Rat
+### You're not gonna get outta here alive!
+PC14_BADGUYSWON2-3=Ти не вийдеш звідси живим!
+
+
+# Brok
+### That's what we're gonna...
+PC14_BADGUYSWON2-4=Це ми ще подив...
+
+
+#----------------------------------------------------
+# Brok
+### Argh! No way!
+PC14_BADGUYSWON3-1=Ар-р! Ні за що!
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Is that an Untail statue?
+PC14_STATUE1-1=Це статуя Безхвостого?
+
+
+# Brok
+### It has seen better days...
+PC14_STATUE1-2=Вона бачила й кращі часи...
+
+
+#----------------------------------------------------
+# Brok
+### The wings do not seem like part of the statue.
+PC14_STATUE2-1=Ці крила не схожі на частину статуї.
+
+
+# Brok
+### Kinda like someone replaced the originals with cheap, lighter plastic ones.
+PC14_STATUE2-2=Ніби хтось замінив оригінальні на дешевші та легші пластикові.
+
+
+#----------------------------------------------------
+# Brok
+### My apology to whoever built that statue...
+PC14_STATUE_DESTROYED1-1=Прошу вибачення у того, хто спорудив цю статую...
+
+
+# Brok
+### To be fair, I just finished the job. Time would have had the same effect, eventually.
+PC14_STATUE_DESTROYED1-2=Хоча, якщо бути чесним, я просто прискорив процес. Це б і так сталося із плином часу.
+
+
+#----------------------------------------------------
+# Brok - Trying to pick up the wings
+### ...Urgh!
+PC14_WINGS1-1=...Тьху!
+
+
+# Brok
+### Despite looking like cheap plastic, the wings do not come off at all.
+PC14_WINGS1-2=Незважаючи на те, що вони виглядають як дешевий пластик, крила взагалі не відриваються.
+
+
+#----------------------------------------------------
+# Brok
+### I'll take these wings.
+PC14_WINGS_PICK1-1=Я візьму ці крила.
+
+
+# Brok
+### Who knows. They might come in handy.
+PC14_WINGS_PICK1-2=Хтозна. Вони можуть знадобитися.
+
+
+#----------------------------------------------------
+# Brok
+### Looks like one of those retractible benches.
+PC14_PLANK1-1=Схоже на одну з тих розсувних лавок.
+
+
+#----------------------------------------------------
+# Brok
+### Those clothes are ripped and dirty... Must have been hanging here for ages.
+PC14_STRING_TOOFAR-1=Цей одяг порваний і брудний... Мабуть, висить тут уже вічність.
+
+
+# Brok
+### I don't think they would mind if someone took it, but I'm too far anyway.
+PC14_STRING_TOOFAR-2=Навряд хтось був би проти, якби його забрали, проте я занадто далеко, щоб це зробити.
+
+
+#----------------------------------------------------
+# Brok
+### Yeah... I could have a use for that string.
+PC14_STRING_TAKE-1=Так... Мені може знадобитися ця мотузка.
+
+
+#----------------------------------------------------
+# Brok
+### It ripped in half.
+PC14_STRING_TAKE2-1=Вона розірвалася навпіл.
+
+
+#----------------------------------------------------
+# Brok
+### Oh well. Should be enough.
+PC14_STRING_TAKE3-1=Ну що ж. Має вистачити.
+
+
+#----------------------------------------------------
+# Brok - Before fight (coming back from VR fight day 2)
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Getting worried about Shay. Everyone around me is acting funny these...
+PC14_STORY180_FIRST-1=Я непокоюся за Шей. Усі навколо поводяться дивно цими...
+
+
+#----------------------------------------------------
+# Dart
+### Goin' somewhere, croc?
+PC14_BADGUYS2-1=Зібрався кудись, кроку?
+
+
+# Brok
+### Weird. Why do I have a feeling of "deja vu"...?
+PC14_BADGUYS2-2=Дивно. Чому в мене відчуття дежавю...?
+
+
+# Dart
+### We not in the mood for jokes.
+PC14_BADGUYS2-3=Ми не в настрої для жартів.
+
+
+# Brok
+### Go away. I don't want any trouble.
+PC14_BADGUYS2-4=Йдіть геть. Я не хочу неприємностей.
+
+
+# Dart
+### Sure. Give us your stuff and you can pass.
+PC14_BADGUYS2-5=Звісно. Віддай свої речі й можеш проходити.
+
+
+# Brok
+### Over my dead body, buddy.
+PC14_BADGUYS2-6=Тільки через мій труп, друже.
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Erm... Ya sure about 'dis, Dart?
+PC14_BADGUYS2-7=Е-е... Ти впевнений шодо цього, Дарте?
+
+
+# Rat
+### I mean... He already beat us.
+PC14_BADGUYS2-8=Ну, тобто... Він нас уже побив того разу.
+
+
+# Dart
+### Coward! He's outnumbered!
+PC14_BADGUYS2-9=Боягузе! Нас більше!
+
+
+# Dart
+### He can't do anything to us as long as we stick together!
+PC14_BADGUYS2-10=Він нічого не зможе зробити, поки ми тримаємося разом!
+
+
+# Dart
+### Come on, guys! Dat croc will give us what should be rightfully ours.
+PC14_BADGUYS2-11=Вперед, хлопці! Цей крок віддасть те, шо належить нам за правом.
+
+
+# Dart
+### Whether he wants to or not!
+PC14_BADGUYS2-12=Хоче він того чи ні!
+
+
+# Brok
+### Come and get me!
+PC14_BADGUYS2-13=Ну ж бо, спробуйте мене вдарити!
+
+
+#----------------------------------------------------
+# Rat
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart! We better give up!
+PC14_BADGUYS2B-1=Дарте! Краще нам здатися!
+
+
+# Dart
+### Nah way! Da boss wouldn't want us to!
+PC14_BADGUYS2B-2=Ні за шо! Бос цього б не хотів!
+
+
+# Dart
+### Besides... Look what I got when he was too busy punching you!
+PC14_BADGUYS2B-3=І взагалі... Подивися, шо я дістав, поки він гамселив тебе!
+
+
+# Rat
+### His phone! Good job!
+PC14_BADGUYS2B-4=Його телефон! Молодець!
+
+
+# Brok
+### What?!
+PC14_BADGUYS2B-5=Що?!
+
+
+# Rat
+### Now give us the rest, scaly!
+PC14_BADGUYS2B-6=Тепер віддай решту, лускатий!
+
+
+# Brok
+### Want more? I'll give you more!
+PC14_BADGUYS2B-7=Хочете ще? Я дам вам ще!
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Coming to this room with Dr. Gherkin
+### Wait.
+PC14_GHERKIN_FIRST-1=Зачекайте.
+
+
+#----------------------------------------------------
+# Gherkin
+### W-will this man cause trouble?
+PC14_GHERKIN_FIRST2-1=Ц-цей чоловік створить проблеми?
+
+
+# Brok
+### Of course he will.
+PC14_GHERKIN_FIRST2-2=Звісно, створить.
+
+
+#----------------------------------------------------
+# Gherkin
+### What should we do then?...
+PC14_GHERKIN_FIRST3-1=Що ж нам тоді робити...?
+
+
+# Brok
+### Hmm...
+PC14_GHERKIN_FIRST3-2=Гмм...
+
+
+#----------------------------------------------------
+# Gherkin
+### Wait for me!
+PC14_GHERKIN_LEAVE1-1=Зачекайте на мене!
+
+
+#----------------------------------------------------
+# Brok
+### He's gone.
+PC14_GHERKIN_BACK-1=Він пішов.
+
+
+# Gherkin
+### Good job! Avoiding trouble is always the way to go!
+PC14_GHERKIN_BACK-2=Чудова робота! Уникати неприємностей - це завжди правильний шлях!
+
+
+# Brok
+### Only sometimes.
+PC14_GHERKIN_BACK-3=Лише іноді.
+
+
+#----------------------------------------------------
+# Rat - Rat talks on the phone
+### Yes, boss.
+PC14_GHERKIN_RATPHONE-1=Так, босе.
+
+
+# Rat
+### Uh-uh.
+PC14_GHERKIN_RATPHONE-2=Угу.
+
+
+# Rat
+### How ya doin' with those little brats?
+PC14_GHERKIN_RATPHONE-3=Як там справи з тими шмаркачами?
+
+
+# Rat
+### Ha-ha. Those spoiled kids are clueless!
+PC14_GHERKIN_RATPHONE-4=Ха-ха. Ці розпещені дітлахи геть нічого не розуміють!
+
+
+# Rat
+### Okay. I'll stay around.
+PC14_GHERKIN_RATPHONE-5=Добре. Я залишуся тут, поряд.
+
+
+# Rat
+### Yeah.
+PC14_GHERKIN_RATPHONE-6=Ага.
+
+
+#----------------------------------------------------
+# Rat - He notices Brok
+### Hey! Who is you?...
+PC14_GHERKIN_RATNOTICES1-1=Гей! Хто ти такий...?
+
+
+# Brok
+### I am the terror who kicked your butt last night!
+PC14_GHERKIN_RATNOTICES1-2=Я - той жах, який учора ввечері дав вам усім прочухана!
+
+
+# Rat
+### No way!
+PC14_GHERKIN_RATNOTICES1-3=Не може бути!
+
+
+# Brok
+### Uh?...
+PC14_GHERKIN_RATNOTICES1-4=Що...?
+
+
+# Brok
+### What a wimp...
+PC14_GHERKIN_RATNOTICES1-5=Ну й боягуз...
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok!
+PC14_GHERKIN_RATNOTICES1-6=Пане Броку!
+
+
+# Gherkin
+### Drones!
+PC14_GHERKIN_RATNOTICES1-7=Дрони!
+
+
+# Brok
+### Ah. Now I get it.
+PC14_GHERKIN_RATNOTICES1-8=А. Тепер я зрозумів.
+
+
+#----------------------------------------------------
+# Rat - He falls
+### Aaaaaaah!
+PC14_GHERKIN_RATFALLS-1=А-аааааах!
+
+
+#----------------------------------------------------
+# Gherkin
+### Did you just kill this man?!
+PC14_GHERKIN_RATFALLS2-1=Ви щойно вбили цього чоловіка?!
+
+
+# Brok
+### Nah! The fall isn't that high!
+PC14_GHERKIN_RATFALLS2-2=Ні! Тут не таке вже й довге падіння!
+
+
+# Brok
+### I hope...
+PC14_GHERKIN_RATFALLS2-3=Сподіваюсь...
+
+
+#----------------------------------------------------
+# Brok
+### Hopefully that was the last one.
+PC14_GHERKIN_DRONEEND-1=Сподіваюсь, це був останній.
+
+
+# Gherkin
+### Y-you need to be sure of things like that! What if...
+PC14_GHERKIN_DRONEEND-2=Ви м-мусите бути впевнені в таких речах! А що як...
+
+
+# Brok
+### Come on, Doctor! We got work to do!
+PC14_GHERKIN_DRONEEND-3=Ну ж бо, докторе! У нас є робота!
+
+
+# Gherkin
+### Oh...
+PC14_GHERKIN_DRONEEND-4=Ох...
+
+
+#----------------------------------------------------
+# Brok - Day 3 - At the end of the day, Brok looks for Graff with R.J.
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I had trouble with Squealers in this street already.
+PC14_LOOKGRAFF1-1=У мене вже були неприємні зустрічі з Верескунами на цій вулиці.
+
+
+# RJ
+### Scum. Deserve good beating.
+PC14_LOOKGRAFF1-2=Мерзотники. Заслуговують на добрячий прочухан.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### If they've touched one bristle of Graff's fur...
+PC14_LOOKGRAFF1-3=Якщо вони торкнулися бодай однієї шерстинки Граффа...
+
+
+# Brok
+### ...
+PC14_LOOKGRAFF1-4=...
+
+
+# Brok
+### Wait. Someone's calling.
+PC14_LOOKGRAFF1-5=Чекайте. Хтось дзвонить.
+
+
+#----------------------------------------------------
+# Brok - Dee calls
+### (Click) Hello?
+PC14_LOOKGRAFF_DEECALL_NOSIN-1=(Клац) Алло?
+
+
+# Dee
+### Hi.
+PC14_LOOKGRAFF_DEECALL_NOSIN-2=Привіт.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I couldn't find Sin.
+PC14_LOOKGRAFF_DEECALL_NOSIN-3=Я не змогла знайти Сіна.
+
+
+# Brok
+### Darn...
+PC14_LOOKGRAFF_DEECALL_NOSIN-4=Дідько...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief of police called.
+PC14_LOOKGRAFF_DEECALL_NOSIN-5=Телефонував шеф поліції.
+
+
+# Dee
+### He wants us to meet.
+PC14_LOOKGRAFF_DEECALL_NOSIN-6=Він хоче, щоб ми зустрілися.
+
+
+# Brok
+### Yeah, I know. But...
+PC14_LOOKGRAFF_DEECALL_NOSIN-7=Так, я знаю. Але...
+
+
+#----------------------------------------------------
+# Brok
+### (Click) Hello?
+PC14_LOOKGRAFF_DEECALL-1=(Клац) Алло?
+
+
+# Dee
+### Where are you, cowboy?!
+PC14_LOOKGRAFF_DEECALL-2=Де ти, ковбою?!
+
+
+# Dee
+### It's time!
+PC14_LOOKGRAFF_DEECALL-3=Час настав!
+
+
+#----------------------------------------------------
+# Brok
+### I can't. My son is missing.
+PC14_LOOKGRAFF_DEECALLAFTER-1=Я не можу. Мій син зник.
+
+
+# Dee
+### What?...
+PC14_LOOKGRAFF_DEECALLAFTER-2=Що...?
+
+
+# Dee
+### I'll come to help!
+PC14_LOOKGRAFF_DEECALLAFTER-3=Я прийду на допомогу!
+
+
+# Brok
+### Don't!
+PC14_LOOKGRAFF_DEECALLAFTER-4=Не треба!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Just... convince Wes to come right after.
+PC14_LOOKGRAFF_DEECALLAFTER-5=Просто... переконай Веса прийти трохи пізніше.
+
+
+# Dee
+### To be honest... I don't feel like dealing with this guy alone.
+PC14_LOOKGRAFF_DEECALLAFTER-6=Якщо чесно... Мені не дуже хочеться мати справу з ним наодинці.
+
+
+# Brok
+### Don't tell me you're scared of the old man?
+PC14_LOOKGRAFF_DEECALLAFTER-7=Не кажи мені, що ти боїшся старого?
+
+
+# Dee
+### Of course not! I just...
+PC14_LOOKGRAFF_DEECALLAFTER-8=Звісно, ні! Я просто...
+
+
+# Dee
+### Well... It's too important. We don't have much time left.
+PC14_LOOKGRAFF_DEECALLAFTER-9=Ну... Це надто важливо. У нас залишилося небагато часу.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The fate of the Slums might depend on this meeting.
+PC14_LOOKGRAFF_DEECALLAFTER-10=Доля Нетрів може залежати від цієї зустрічі.
+
+
+# Dee
+### Make your choice!
+PC14_LOOKGRAFF_DEECALLAFTER-11=Зроби свій вибір!
+
+
+#----------------------------------------------------
+# RJ
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Go. I'll find Graff.
+PC14_LOOKGRAFF1_RJ-1=Іди. Я знайду Граффа.
+
+
+# Brok
+### Ya sure?...
+PC14_LOOKGRAFF1_RJ-2=Ти впевнений...?
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Trust me. Those Squealers. Gonna get it.
+PC14_LOOKGRAFF1_RJ-3=Повір мені. Ті Верескуни. Вони отримають своє.
+
+
+# Brok
+### ...
+PC14_LOOKGRAFF1_RJ-4=...
+
+
+# Brok
+### Alright. I trust you.
+PC14_LOOKGRAFF1_RJ-5=Добре. Я тобі вірю.
+
+
+# Brok
+### But... I'll be back as soon as I can.
+PC14_LOOKGRAFF1_RJ-6=Але... я повернуся, як тільки зможу.
+
+
+# RJ
+### Sure.
+PC14_LOOKGRAFF1_RJ-7=Звісно.
+
+
+# Brok
+### Find my boy!...
+PC14_LOOKGRAFF1_RJ-8=Знайди мого хлопчину...!
+
+
+#----------------------------------------------------
+# Brok
+### Okay. On my way!
+PC14_LOOKGRAFF_DEECALL_YES1-1=Добре. Вже йду!
+
+
+# Brok
+### [...]
+PC14_LOOKGRAFF_DEECALL_YES1-2=[...]
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... Be brave.
+PC14_LOOKGRAFF_DEECALL_YES1-3=Граффе... Будь хоробрим.
+
+
+#----------------------------------------------------
+# Brok
+### I'm sorry.
+PC14_LOOKGRAFF_DEECALL_NO1-1=Мені шкода.
+
+
+# Brok
+### These days I haven't been there for my boy when he needed help.
+PC14_LOOKGRAFF_DEECALL_NO1-2=Останніми днями мене не було поруч, коли хлопчині потрібна була допомога.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### This time... The Slums can wait.
+PC14_LOOKGRAFF_DEECALL_NO1-3=Цього разу... Нетрі зачекають.
+
+
+# Dee
+### ...
+PC14_LOOKGRAFF_DEECALL_NO1-4=...
+
+
+# Dee
+### I understand.
+PC14_LOOKGRAFF_DEECALL_NO1-5=Я розумію.
+
+
+# Dee
+### I'll do my best.
+PC14_LOOKGRAFF_DEECALL_NO1-6=Я зроблю все можливе.
+
+
+# Brok
+### Take care.
+PC14_LOOKGRAFF_DEECALL_NO1-7=Бережи себе.
+
+
+# Unknown
+### [...]
+PC14_LOOKGRAFF_DEECALL_NO1-8=[...]
+
+
+# Brok
+### ...
+PC14_LOOKGRAFF_DEECALL_NO1-9=...
+
+
+# Brok
+### Hey...
+PC14_LOOKGRAFF_DEECALL_NO1-10=Гей...
+
+
+#----------------------------------------------------
+# Brok - Day 3 - If R.J. isn't there and Brok decides to keep looking for Graff, he goes down the manhole
+### A tuft of grey fur?...
+PC14_LOOKGRAFF_DEECALL_NO2-1=Жмут сірої шерсті...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...!
+PC14_LOOKGRAFF_DEECALL_NO2-2=Граффе...!
+
+
+# Brok
+### Gotta get down there!
+PC14_LOOKGRAFF_DEECALL_NO2-3=Треба лізти туди!
+
+
+#----------------------------------------------------
+# Brok
+### Man... It is dark in there.
+PC14_LOOKGRAFF_DOWN1-1=Ох... Там так темно.
+
+
+# Brok
+### ...?
+PC14_LOOKGRAFF_DOWN1-2=...?
+
+
+# Brok
+### Who... Who's there?!
+PC14_LOOKGRAFF_DOWN1-3=Хто... Хто там?!
+
+
+#----------------------------------------------------
+# Ott - Brok meets Ott in the sewers
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok?!
+PC14_LOOKGRAFF_ONLYOTT1-1=Пане Броку?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!...
+PC14_LOOKGRAFF_ONLYOTT1-2=Отте...!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### We've been taken prisoners by the Squealers!
+PC14_LOOKGRAFF_ONLYOTT1-3=Нас узяли в полон Верескуни!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### They're after me! Graff's down there!
+PC14_LOOKGRAFF_ONLYOTT1-4=Вони женуться за мною! Графф там, унизу!
+
+
+# Brok
+### Run! I'll take care of it!
+PC14_LOOKGRAFF_ONLYOTT1-5=Біжи! Я про все подбаю!
+
+
+# Ott
+### But...
+PC14_LOOKGRAFF_ONLYOTT1-6=Але...
+
+
+# Brok
+### Trust me!
+PC14_LOOKGRAFF_ONLYOTT1-7=Повір мені!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Those Squealers are in for the ultimate beating!
+PC14_LOOKGRAFF_ONLYOTT1-8=Ці Верескуни отримають найгіршого прочухана у своєму житті!
+
+
+# Ott
+### Okay...
+PC14_LOOKGRAFF_ONLYOTT1-9=Добре...
+
+
+# Ott
+### I'll wait for you both at the surface!
+PC14_LOOKGRAFF_ONLYOTT1-10=Я чекатиму на вас обох нагорі!
+
+
+#----------------------------------------------------
+# Graff - Another version where Graff is also there
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC14_LOOKGRAFF_WITHGRAFF1-1=Броку!
+
+
+# Brok
+### Boys! I'm so glad to see ya both!
+PC14_LOOKGRAFF_WITHGRAFF1-2=Хлопці! Я такий радий бачити вас обох!
+
+
+# Brok
+### What are you doing down there?
+PC14_LOOKGRAFF_WITHGRAFF1-3=Що ви робите там, унизу?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### No time for that! The Squealers are after us!
+PC14_LOOKGRAFF_WITHGRAFF1-4=Нема часу пояснювати! За нами женуться Верескуни!
+
+
+# Brok
+### What?!
+PC14_LOOKGRAFF_WITHGRAFF1-5=Що?!
+
+
+# Brok
+### This time they're gonna pay...
+PC14_LOOKGRAFF_WITHGRAFF1-6=Цього разу вони поплатяться...
+
+
+# Graff
+### No! They're too many!
+PC14_LOOKGRAFF_WITHGRAFF1-7=Ні! Їх надто багато!
+
+
+# Ott
+### We should run!
+PC14_LOOKGRAFF_WITHGRAFF1-8=Нам треба бігти!
+
+
+# Brok
+### Hmph...
+PC14_LOOKGRAFF_WITHGRAFF1-9=Гмм...
+
+
+# Brok
+### Okay. Follow me!
+PC14_LOOKGRAFF_WITHGRAFF1-10=Добре. За мною!
+
+
+#----------------------------------------------------
+# Brok - They all got out of the sewers, escaping rats
+### There. We should be safe for a while.
+PC14_LOOKGRAFF_SURFACE1-1=Ось. Деякий час ми маємо бути в безпеці.
+
+
+#----------------------------------------------------
+# Ott - Ott refers to both Brok and Graff
+### I knew you'd make it out!
+PC14_LOOKGRAFF_SURFACE_OTT-1=Я знав, що ви виберетеся!
+
+
+#----------------------------------------------------
+# Brok
+### Now. Can you explain?
+PC14_LOOKGRAFF_SURFACE_NEXT-1=А тепер. Можете пояснити?
+
+
+# Brok
+### Why were they after you?
+PC14_LOOKGRAFF_SURFACE_NEXT-2=Чому вони гналися за вами?
+
+
+# Graff
+### Well...
+PC14_LOOKGRAFF_SURFACE_NEXT-3=Ну...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### I made a deal with that hacker.
+PC14_LOOKGRAFF_SURFACE_NEXT-4=Я уклав угоду з тим гакером.
+
+
+# Graff
+### He... turned against us.
+PC14_LOOKGRAFF_SURFACE_NEXT-5=А він... зрадив нас.
+
+
+# Brok
+### That devil...
+PC14_LOOKGRAFF_SURFACE_NEXT-6=Цей диявол...
+
+
+# Brok
+### Why did you?...
+PC14_LOOKGRAFF_SURFACE_NEXT-7=Навіщо ти...?
+
+
+# Graff
+### Later! There's more important stuff!
+PC14_LOOKGRAFF_SURFACE_NEXT-8=Потім! Є важливіші речі!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### The pills shortage. The Squealers didn't cause it.
+PC14_LOOKGRAFF_SURFACE_NEXT-9=Нестача пігулок. Це зробили не Верескуни.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### They said the Tribots did!
+PC14_LOOKGRAFF_SURFACE_NEXT-10=Вони сказали, що це зробили Триботи!
+
+
+# Brok
+### And why should we trust anything these guys say?
+PC14_LOOKGRAFF_SURFACE_NEXT-11=І чому це ми маємо вірити в те, що сказали ці хлопці?
+
+
+# Brok
+### ...
+PC14_LOOKGRAFF_SURFACE_NEXT-12=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Darn! Dee's in trouble!
+PC14_LOOKGRAFF_SURFACE_NEXT-13=Чорт! Ді потрапила в біду!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Who's Dee?
+PC14_LOOKGRAFF_SURFACE_NEXT-14=Хто така Ді?
+
+
+# Brok
+### I gotta go!
+PC14_LOOKGRAFF_SURFACE_NEXT-15=Я мушу йти!
+
+
+# Graff
+### Wait!
+PC14_LOOKGRAFF_SURFACE_NEXT-16=Зачекай!
+
+
+# Graff
+### We're coming with you!
+PC14_LOOKGRAFF_SURFACE_NEXT-17=Ми йдемо з тобою!
+
+
+# Ott
+### Darn right, we are!
+PC14_LOOKGRAFF_SURFACE_NEXT-18=Ще й як ідемо!
+
+
+# Brok
+### ...
+PC14_LOOKGRAFF_SURFACE_NEXT-19=...
+
+
+# Brok
+### Okay but... Be careful!
+PC14_LOOKGRAFF_SURFACE_NEXT-20=Добре, але... Будьте обережні!
+
+
+# Brok - Tribots are attracted to Brok and want to kill him
+### I've got a little... Bots attraction problem.
+PC14_LOOKGRAFF_SURFACE_NEXT-21=У мене є... невеличка проблема з ботами, які зробили мене своєю ціллю.
+
+
+# Graff
+### Uh?...
+PC14_LOOKGRAFF_SURFACE_NEXT-22=Що...?
+
+
+#----------------------------------------------------
+# Brok - Click on the thing covering manhole
+### Hmm...
+PC14_TRASHCONTAINER1-1=Гмм...
+
+
+# Brok
+### Has this always been here?...
+PC14_TRASHCONTAINER1-2=Воно завжди тут стояло...?
+
+
+#----------------------------------------------------
+# Brok
+### "Grand opening soon". Hmm?...
+PC14_DOOR_LATER1-1="Незабаром урочисте відкриття". Гмм...?
+
+
+#----------------------------------------------------
+# Brok
+### What the...
+PC14_NOTFINISHED1-1=Що за...
+
+
+# Unknown
+### "We're open! But finish your main adventure first!"
+PC14_NOTFINISHED1-2="Відкрито! Але спочатку завершіть свою головну пригоду!"
+
+
+# Brok
+### Weird...
+PC14_NOTFINISHED1-3=Дивно...
+
+
+# Brok
+### Should I insist?
+PC14_NOTFINISHED1-4=Чи варто мені наполягати?
+
+
+#----------------------------------------------------
+# Brok
+### Closed...? But it says "Open"!
+PC14_ENTER_BAR1-1=Зачинено...? Але ж написано "Відчинено"!
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks, knocks)
+PC14_ENTER_BAR2-1=(Тук-тук)
+
+
+# Brok
+### ...
+PC14_ENTER_BAR2-2=...
+
+
+# Brok
+### ...
+PC14_ENTER_BAR2-3=...
+
+
+# Unknown
+### (Knocks, knocks)
+PC14_ENTER_BAR2-4=(Тук-тук)
+
+
+# Brok
+### Anyone there?
+PC14_ENTER_BAR2-5=Хтось є?
+
+
+# Unknown
+### ...
+PC14_ENTER_BAR2-6=...
+
+
+# Unknown
+### (Footsteps)
+PC14_ENTER_BAR2-7=(Кроки)
+
+
+# Hedgehog
+### Password?
+PC14_ENTER_BAR2-8=Пароль?
+
+
+# Brok
+### Erm...
+PC14_ENTER_BAR2-9=Е-е...
+
+
+# Brok
+### "Let me in?"
+PC14_ENTER_BAR2-10="Впустіть мене?"
+
+
+# Hedgehog
+### Meh! Good enough.
+PC14_ENTER_BAR2-11=Пхе! Піде.
+
+
+# Unknown
+### (Door unlocks)
+PC14_ENTER_BAR2-12=(Двері відчиняються)
+
+
+# Brok
+### ...What was that?
+PC14_ENTER_BAR2-13=...Що це було?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC14_00_PREBAR2-1=...
+
+
+# Brok
+### (Pants)
+PC14_00_PREBAR2-2=(Важко дихає)
+
+
+# Brok
+### Aww...So many stairs...
+PC14_00_PREBAR2-3=Ох... Стільки сходинок...
+
+
+# Brok
+### How deep is this place?
+PC14_00_PREBAR2-4=Наскільки глибоке це місце?
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,79 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Ott (Unknown)
+#     Ott - Graff (Unknown)
+
+#-------------------------------------
+#=CHAPTER 2 ROOMS
+#-------------------------------------
+
+
+# Brok
+### Impossible... They've blocked my phone.
+CH2_CALL_JAIL-1=Неможливо... Вони заблокували мій телефон.
+
+
+# Brok
+### I won't get a signal until I leave this building!
+CH2_CALL_JAIL-2=Я не зможу зловити сигнал, допоки не покину цю будівлю!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH2_GRAFF_CALL_BROK_DURINGFAIR-1=...
+
+
+# Graff
+### Obviously... Mister detective is too busy to reply.
+CH2_GRAFF_CALL_BROK_DURINGFAIR-2=Ну звісно... Пан детектив занадто зайнятий, щоб відповісти.
+
+
+# Graff
+### You better be here on time, Mister!
+CH2_GRAFF_CALL_BROK_DURINGFAIR-3=Краще б ти прийшов вчасно, пане!
+
+
+#----------------------------------------------------
+# Ott
+### Yeah?
+CH2_GRAFF_CALL_OTT_DURINGFAIR-1=Так?
+
+
+# Graff
+### I need some advice...
+CH2_GRAFF_CALL_OTT_DURINGFAIR-2=Мені потрібна порада...
+
+
+# Ott
+### Can't you come by? That'd be easier.
+CH2_GRAFF_CALL_OTT_DURINGFAIR-3=Може, заскочиш сюди? Так буде легше.
+
+
+# Graff
+### Okay...
+CH2_GRAFF_CALL_OTT_DURINGFAIR-4=Гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### No need to call her. I'll just go to her garage!
+CH2_GRAFF_CALL_SHAY_DURINGFAIR-1=Немає сенсу дзвонити. Краще просто завітаю до її гаража!
+
+
+#----------------------------------------------------
+# Graff
+### No. Way.
+CH2_GRAFF_CALL_KLAY_DURINGFAIR-1=Не. Може. Бути.
+
+
+# Graff
+### I don't even know why I have his number to begin with!
+CH2_GRAFF_CALL_KLAY_DURINGFAIR-2=Я навіть не знаю, звідки взагалі в мене цей номер!
+
+
+#----------------------------------------------------
+

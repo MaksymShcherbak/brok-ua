@@ -1,0 +1,319 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Various (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#= GRAFF --- OUTSIDE APARTMENT
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### A weird invoice!
+GOT_INVOICEHACKER=Дивний рахунок!
+
+### A bank statement!
+GOT_BANKSTATEMENT=Виписка з банку!
+
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### The Triweb invoice!
+GOT_BILLC=Рахунок за Тривеб!
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Room interactions
+### "Detective (and handyman)"
+GPC02_NAMEPLATE1-1="Приватний детектив (і майстер на всі руки)"
+
+
+# Graff
+### He should add - "I'm never home. Don't bother knocking on my door!"
+GPC02_NAMEPLATE1-2=Йому варто додати - "Мене ніколи не буває вдома. Можете навіть не стукати у двері!"
+
+
+#----------------------------------------------------
+# Various
+### Please confirm your identity by pressing the touch panel.
+GPC02_MAILSYSTEM1-1=Будь ласка, підтвердіть свою особу, натиснувши на сенсорну панель.
+
+
+#----------------------------------------------------
+# Various
+### No new mail.
+GPC02_MAILSYSTEM_NOTHING-1=Немає нової пошти.
+
+
+# Graff
+### Good!
+GPC02_MAILSYSTEM_NOTHING-2=І добре!
+
+
+#----------------------------------------------------
+# Various
+### Fingerprint not recognized. Please try again.
+PC02_MAILSYSTEM_HIT2-1=Відбиток пальця не розпізнано. Спробуйте ще раз.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Maybe Brok could, but me...? I can't force it open with my bare hands...
+GPC02_MAILBOX_CLOSED1-1=Можливо, Брок зміг би, але я...? Я не можу відчинити її голими руками...
+
+
+#----------------------------------------------------
+# Graff
+### Gotta use the panel first.
+GPC02_MAILBOX_DAY3_CLOSED-1=Спочатку потрібно скористатися панеллю.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Usually I leave getting the mail to Brok, but...
+GPC02_MAILBOX_DAY3_GET-1=Зазвичай я лишаю перевірку пошти Брокові, але...
+
+
+# Graff
+### He said "No more secrets," after all.
+GPC02_MAILBOX_DAY3_GET-2=Зрештою, він сказав "Більше жодних секретів".
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC02_MAILBOX_DAY3_GET2-1=...
+
+
+# Graff - RECKAH = HACKER spelled backwards! This is an invoice from the hacker.
+### An invoice... from a guy named "MISTER REKCAH".
+GPC02_MAILBOX_DAY3_GET2-2=Рахунок... від якогось хлопця на ім'я "ПАН РЕКАГ".
+
+
+#----------------------------------------------------
+# Graff
+### "Supplementary fees for the fear you've provoked..."
+GPC02_MAILBOX_DAY3_GET3-1="Додаткові збори за страх, який ви спричинили..."
+
+
+# Graff
+### Huh?...
+GPC02_MAILBOX_DAY3_GET3-2=Га...?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### The Triweb invoice...
+GPC02_MAILBOX_DAY3_GET4-1=Рахунок за Тривеб...
+
+
+# Graff
+### Woah, I wasn't aware we paid that much...
+GPC02_MAILBOX_DAY3_GET4-2=Ого, я й не знав, що ми стільки за це платимо...
+
+
+# Graff
+### Oh, there's another paper.
+GPC02_MAILBOX_DAY3_GET4-3=О, тут є ще один папір.
+
+
+#----------------------------------------------------
+# Graff - He's about to say "figures"
+### ...A bank statement. I guess it must be littered with negative fig...
+GPC02_MAILBOX_DAY3_GET5-1=...Банківська виписка. Мабуть, все у суцільному мінусі...
+
+
+# Graff
+### ...What?!
+GPC02_MAILBOX_DAY3_GET5-2=...Що?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### There's... 100,000 Unis on that account?!
+GPC02_MAILBOX_DAY3_GET5-3=На цьому рахунку... 100,000 Юні?!
+
+
+# Graff
+### ...
+GPC02_MAILBOX_DAY3_GET5-4=...
+
+
+# Graff
+### Must be some kind of mistake...
+GPC02_MAILBOX_DAY3_GET5-5=Мабуть, якась помилка...
+
+
+# Graff
+### The account beholder is...
+GPC02_MAILBOX_DAY3_GET5-6=Власником рахунку є...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia Filsh...
+GPC02_MAILBOX_DAY3_GET5-7=Лія Філш...
+
+
+# Graff
+### Mom...
+GPC02_MAILBOX_DAY3_GET5-8=Мамо...
+
+
+# Graff
+### What could this mean?...
+GPC02_MAILBOX_DAY3_GET5-9=Що це може означати...?
+
+
+# Graff
+### No time to think about this right now.
+GPC02_MAILBOX_DAY3_GET5-10=Немає часу зараз про це думати.
+
+
+# Graff
+### I need to hurry. The last trial could start any minute now!
+GPC02_MAILBOX_DAY3_GET5-11=Треба поспішати. Останнє випробування от-от почнеться!
+
+
+#----------------------------------------------------
+# Graff
+### It's empty now.
+GPC02_MAILBOX_DAY3_ALREADY-1=Там вже порожньо.
+
+
+#----------------------------------------------------
+# Various
+### You've got mail.
+GPC02_MAILSYSTEM_DAY3_1-1=У вас є нова пошта.
+
+
+#----------------------------------------------------
+# Various
+### Your mailbox is already open.
+GPC02_MAILSYSTEM_DAY3_2-1=Ваша поштова скринька вже відкрита.
+
+
+#----------------------------------------------------
+# Various
+### No new mail.
+GPC02_MAILSYSTEM_DAY3_3-1=Немає нової пошти.
+
+
+#----------------------------------------------------
+# Graff
+### Ringing my own door?... I'm not a kid.
+GPC02_BUTTON1-1=Дзвонити у власні двері...? Я ж не дитина.
+
+
+#----------------------------------------------------
+# Graff
+### No time for that...
+GPC02_SHOWERTOILETS1-1=Немає на це часу...
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... Yeah.
+GPC02_SHOWERDOOR_DO-1=Гмм... Так.
+
+
+#----------------------------------------------------
+# Graff
+### (Shower sound)
+GPC02_SHOWERDOOR_DO2-1=(Звуки душу)
+
+
+#----------------------------------------------------
+# Graff
+### Ah, that's better!
+GPC02_SHOWERDOOR_DO3-1=Ох, так вже краще!
+
+
+#----------------------------------------------------
+# Graff
+### I know this one! That's an old model, about 30 years old.
+GPC02_ROBOT1-1=Я знаю цю модель! Доволі стара, їй близько 30 років.
+
+
+# Graff
+### The poor thing has been torn into pieces...
+GPC02_ROBOT1-2=Бідолаха розірваний на шматки...
+
+
+# Graff
+### No useful parts for me, unfortunately.
+GPC02_ROBOT1-3=На жаль, тут немає корисних для мене деталей.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Hopefully I'll get my diploma and become a Drumer again...
+GPC02_JOBBOARD1-1=Сподіваюся, скоро я отримаю свій диплом і знову стану мешканцем Верхів...
+
+
+# Graff
+### I wouldn't want to desperately look for lousy jobs like these every day.
+GPC02_JOBBOARD1-2=Не хотів би щодня відчайдушно шукати такі паршиві підробітки.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Although...Brok doing those lousy jobs is what's currently keeping us fed.
+GPC02_JOBBOARD1-3=Хоча... Брок береться за ці паршиві підробітки, і саме тому ми зараз маємо на що жити.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC02_JOBBOARD_DEATH1-1=...
+
+
+#----------------------------------------------------
+# Graff
+### Argh, my hands!
+GPC02_DOORBROK_HIT1-1=А-ай, мої руки!
+
+
+#----------------------------------------------------
+# Graff - A lasers device is blocking the way out and won't let player through until they pick up the mail
+### Woah!!! What the...?!
+GPC02_LASERS1-1=Ого!!! Що за...?!
+
+
+# Various
+### "You've got mail".
+GPC02_LASERS1-2="У вас є нова пошта".
+
+
+# Graff
+### Huh?...
+GPC02_LASERS1-3=Що...?
+
+
+#----------------------------------------------------
+# Graff
+### I don't have time to chit chat!
+GPC02_MAINDOOR_NOPE-1=У мене немає часу базікати!
+
+
+#----------------------------------------------------
+

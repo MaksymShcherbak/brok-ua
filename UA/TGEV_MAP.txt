@@ -1,0 +1,39 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=MAIN MAP
+#-------------------------------
+
+#----- Locations --------
+
+
+#----- Dialog --------
+
+# Graff
+### Where should I go?...
+GEV_MAP1-1=Куди мені йти...?
+
+
+# Graff
+### Hmm...
+GEV_MAP1-2=Гмм...
+
+
+# Graff
+### I know! I'll pay a visit to that crazy inventor. Maybe she can help?
+GEV_MAP1-3=Знаю! Я завітаю до тієї божевільної винахідниці. Можливо, вона зможе допомогти?
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough) Better not stay around the nuclear waste area!
+EV_MAP_GRAFF_NUCLEAR1-1=(Кашляє)  Краще триматися подалі зони ядерних відходів!
+
+
+#----------------------------------------------------
+# Graff
+### I can't stay here!
+EV_MAP_GRAFF_NUCLEAR2-1=Я не можу тут лишатись!
+
+
+#----------------------------------------------------
+

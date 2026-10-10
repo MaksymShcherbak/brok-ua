@@ -1,0 +1,640 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Ott (Unknown)
+#     Graff - Rat (Unknown)
+#     Graff - Unknown (Unknown)
+#     Graff - Various (Unknown)
+#     Ott - Graff (Unknown)
+#     Rat - Graff (Unknown)
+#     Rat - Various (Unknown)
+#     Unknown - Graff (Unknown)
+#     Various - Graff (Unknown)
+#     Various - Rat (Unknown)
+
+#-------------------------------
+#=BUNKER OUTSIDE/FRONT
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealer
+PC_SQUEALER=Верескун
+
+
+#----- Choices / Items --------
+### Buy a pill?
+GPC19D_BUYPILL_CHOICE=Купити пігулку?
+
+### Ask for more info
+GPC19D_ASK=Розпитати детальніше
+
+### Buy
+GPC19D_BUY=Купити
+
+### Leave
+GPC19D_LEAVE=Піти
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff - Graff managed to get out of the bunker but now he's really sick because of the pollution and needs a pill urgently
+### (Cough, cough)
+GPC19D_INIT1-1=(Кашляє)
+
+
+# Graff
+### Finally out... (Cough)
+GPC19D_INIT1-2=Нарешті вибрався... (Кашляє)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### A Pipe-Pill!
+GPC19D_INIT1-3=Пігулкомат!
+
+
+#----------------------------------------------------
+# Graff
+### In bad shape... (Cough)
+GPC19D_INIT2-1=Він в поганому стані... (Кашляє)
+
+
+# Graff
+### Please, oh please... Be working!...
+GPC19D_INIT2-2=Будь ласка, благаю... Працюй...!
+
+
+# Graff
+### ...
+GPC19D_INIT2-3=...
+
+
+# Graff
+### Oh no... (Cough, cough)
+GPC19D_INIT2-4=О ні... (Кашляє)
+
+
+# Graff
+### That darn thing... (Cough) ...is messed up!
+GPC19D_INIT2-5=Ця клята штука... (Кашляє) ...зламалася!
+
+
+# Graff
+### (Sigh)
+GPC19D_INIT2-6=(Зітхає)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I should call Brok...
+GPC19D_INIT2-7=Треба подзвонити Брокові...
+
+
+# Graff
+### Maybe he can get me some...
+GPC19D_INIT2-8=Може, він дістане для мене пігулку...
+
+
+# Graff
+### ...(Cough, cough)
+GPC19D_INIT2-9=...(Кашляє)
+
+
+# Graff
+### Come on! Reply!...
+GPC19D_INIT2-10=Давай! Відповідай...!
+
+
+# Graff
+### Just... For once...!
+GPC19D_INIT2-11=Хоча б... Хоча б раз!...
+
+
+# Graff
+### ...
+GPC19D_INIT2-12=...
+
+
+# Graff
+### Of course... What was I thinking?...
+GPC19D_INIT2-13=Звісно... Про що я взагалі думав...?
+
+
+# Graff
+### (Cough) Never there when I need him...
+GPC19D_INIT2-14=(Кашляє) Ніколи його немає, коли він мені потрібен...
+
+
+# Graff
+### What should I do, now?...
+GPC19D_INIT2-15=І що мені тепер робити...?
+
+
+#----------------------------------------------------
+# Graff
+### Out of service...
+GPC19D_INIT2_KLAYDEAD-1=Не працює...
+
+
+# Graff
+### That's just great...
+GPC19D_INIT2_KLAYDEAD-2=Просто чудово...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I'll be joining you soon, Klay...
+GPC19D_INIT2_KLAYDEAD-3=Скоро я до тебе приєднаюся, Клею...
+
+
+#----------------------------------------------------
+# Graff
+### What's happening?...
+GPC19D_PIPEPILL1-1=Що відбувається...?
+
+
+# Graff
+### I... I can't focus... (Cough, cough)
+GPC19D_PIPEPILL1-2=Я... Я не можу зосередитися... (Кашляє)
+
+
+#----------------------------------------------------
+# Various - An unknown rat, in the background, offers to sell Graff a pill
+### Pssst!
+GPC19D_RAT1-1=Псс-с!
+
+
+# Graff
+### ...?
+GPC19D_RAT1-2=...?
+
+
+# Various
+### Hey, boy!
+GPC19D_RAT1-3=Гей, хлопче!
+
+
+#----------------------------------------------------
+# Rat
+### Got what ya need.
+GPC19D_RAT2-1=Маю те, шо тобі треба.
+
+
+# Graff
+### A pill?...
+GPC19D_RAT2-2=Пігулку...?
+
+
+# Rat
+### Yup.
+GPC19D_RAT2-3=Угу.
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### One thousand Unis.
+GPC19D_RAT2-4=Тисяча Юні.
+
+
+# Graff
+### Are you serious?...
+GPC19D_RAT2-5=Ти серйозно...?
+
+
+# Graff
+### No, thanks. (Cough, cough)
+GPC19D_RAT2-6=Ні, дякую. (Кашляє)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### I'll get one from another Pipe-Pill.
+GPC19D_RAT2-7=Я візьму її в іншому Пігулкоматі.
+
+
+#----------------------------------------------------
+# Rat
+### Ya won't.
+GPC19D_RAT3-1=Не візьмеш.
+
+
+# Graff
+### What?
+GPC19D_RAT3-2=Що?
+
+
+# Rat
+### There ain't any more.
+GPC19D_RAT3-3=Їх більше нема.
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### All Pipe-Pills kaputt.
+GPC19D_RAT3-4=Усім Пігулкоматам гаплик.
+
+
+# Graff
+### I don't believe you.
+GPC19D_RAT3-5=Я тобі не вірю.
+
+
+# Rat
+### Okay. Go check.
+GPC19D_RAT3-6=Гаразд. Іди перевір.
+
+
+# Rat
+### But dat's my last one. I may have nothin' when ya're back...
+GPC19D_RAT3-7=Але це моя остання.. Вже може нішо не лишитися, коли повернешся...
+
+
+# Rat
+### Will ya take da risk?
+GPC19D_RAT3-8=Ти ризикнеш?
+
+
+#----------------------------------------------------
+# Graff
+### Where did you get it? (Cough)
+GPC19D_RAT_ASKINFO1-1=Де ти її взяв? (Кашляє)
+
+
+# Rat
+### Not yar business.
+GPC19D_RAT_ASKINFO1-2=Не твоє діло.
+
+
+# Graff
+### I won't buy it unless you tell me.
+GPC19D_RAT_ASKINFO1-3=Я не куплю її, якщо ти не скажеш.
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### We Squealers take risks to make sure even kitties like ya stand a chance to stay alive.
+GPC19D_RAT_ASKINFO1-4=Ми, Верескуни, ризикуємо, шоб навіть такі кошенята, як ти, мали шанс вижити.
+
+
+# Graff
+### Provided we get money...
+GPC19D_RAT_ASKINFO1-5=За умови, що в нас є гроші...
+
+
+# Rat
+### Tis all ya need to know.
+GPC19D_RAT_ASKINFO1-6=Це все, шо тобі треба знати.
+
+
+# Graff
+### (Cough, cough) Okay, then...
+GPC19D_RAT_ASKINFO1-7=(Кашляє) Ну що ж...
+
+
+# Graff
+### There's an app to detect counterfeit. Let me check.
+GPC19D_RAT_ASKINFO1-8=У мене є застосунок для перевірки підробок. Дай-но перевірю.
+
+
+#----------------------------------------------------
+# Graff
+### Yup... Authentic.
+GPC19D_RAT_ASKINFOB-1=Так... Справжня.
+
+
+# Rat
+### So?
+GPC19D_RAT_ASKINFOB-2=Ну шо?
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### One thousand Unis. Take it or leave it.
+GPC19D_RAT_ASKINFOB-3=Тисяча Юні. Бери або забирайся звідси.
+
+
+#----------------------------------------------------
+# Graff
+### I'd like to know...
+GPC19D_RAT_ASKINFO2-1=Я хотів би знати...
+
+
+# Rat
+### Dun waste your time.
+GPC19D_RAT_ASKINFO2-2=Не марнуй час.
+
+
+# Rat
+### Buy or be gone.
+GPC19D_RAT_ASKINFO2-3=Купуй або забирайся.
+
+
+#----------------------------------------------------
+# Graff
+### Okay but... Erm...
+GPC19D_RAT_BUYNOMONEY1-1=Гаразд, але... Е-е...
+
+
+# Rat
+### No bargaining.
+GPC19D_RAT_BUYNOMONEY1-2=Ніякого торгу.
+
+
+# Graff
+### That price is outrageous!
+GPC19D_RAT_BUYNOMONEY1-3=Але ціна просто обурлива!
+
+
+# Rat
+### Tis the law of supply and demand.
+GPC19D_RAT_BUYNOMONEY1-4=Такий закон попиту й пропозиції.
+
+
+# Rat
+### And demand is wayyyy high at the moment.
+GPC19D_RAT_BUYNOMONEY1-5=А попит зараз ну дууууже високий.
+
+
+# Graff
+### I don't have enough right now... (Cough, cough)
+GPC19D_RAT_BUYNOMONEY1-6=У мене зараз стільки немає... (Кашляє)
+
+
+# Graff
+### But... I'll find a way...
+GPC19D_RAT_BUYNOMONEY1-7=Але... Я знайду вихід...
+
+
+# Rat
+### Dun' wait too long!
+GPC19D_RAT_BUYNOMONEY1-8=Не чекай надто довго!
+
+
+#----------------------------------------------------
+# Graff
+### Please!... If I don't get a pill, I will... (Cough, cough)
+GPC19D_RAT_BUYNOMONEY2-1=Будь ласка...! Якщо я не дістану пігулку, я... (Кашляє)
+
+
+# Rat
+### Yar problem.
+GPC19D_RAT_BUYNOMONEY2-2=Твої проблеми.
+
+
+# Rat
+### Gimme the dough. Stop suffering for nothin'.
+GPC19D_RAT_BUYNOMONEY2-3=Давай бабло. Досить страждати дарма.
+
+
+# Graff
+### I wish it was that easy...
+GPC19D_RAT_BUYNOMONEY2-4=Хотів би я, щоб все було так просто...
+
+
+#----------------------------------------------------
+# Graff
+### Forget it! I don't trade with crooks. (Cough, cough)
+GPC19D_RAT_NO1-1=Забудь! Я не торгую з шахраями. (Кашляє)
+
+
+# Rat
+### Everyone says that. But kitty, lemme remind you of somethin'...
+GPC19D_RAT_NO1-2=Усі так кажуть. Але, кошеня, дозволь нагадати тобі дешо...
+
+
+# Rat
+### Ya dun have much time left.
+GPC19D_RAT_NO1-3=У тебе залишилося не так багато часу.
+
+
+# Rat
+### Heard the struggling to breathe gets atrocious right before da end.
+GPC19D_RAT_NO1-4=Я чув, шо перед самим кінцем стає дуже важко дихати.
+
+
+# Graff
+### Get stuffed. (Cough, cough)
+GPC19D_RAT_NO1-5=Пішов ти. (Кашляє)
+
+
+#----------------------------------------------------
+# Graff
+### I'd rather die! (Cough, cough)
+GPC19D_RAT_NO2-1=Я краще помру! (Кашляє)
+
+
+# Rat
+### Well, yar wish will be granted soon.
+GPC19D_RAT_NO2-2=Шо ж, твоє бажання скоро здійсниться.
+
+
+#----------------------------------------------------
+# Graff
+### Okay... (Cough, cough)
+GPC19D_RAT_YES-1=Гаразд... (Кашляє)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### I can't argue with you in this state... I've transferred you 1,000 Unis.
+GPC19D_RAT_YES-2=У такому стані я не можу з тобою сперечатися... Я переказав тобі 1,000 Юні.
+
+
+# Graff
+### Now give me that!
+GPC19D_RAT_YES-3=А тепер давай її сюди!
+
+
+# Rat
+### All yours!
+GPC19D_RAT_YES-4=Вона твоя!
+
+
+# Graff
+### Wait...! What's your...
+GPC19D_RAT_YES-5=Стривай...! Як тебе зва...
+
+
+# Graff
+### ...He's gone.
+GPC19D_RAT_YES-6=...Його вже немає.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19D_RAT_YES2-1=...
+
+
+# Graff
+### I didn't have a choice... Did I?...
+GPC19D_RAT_YES2-2=У мене не було вибору... Чи був...?
+
+
+# Graff
+### ...
+GPC19D_RAT_YES2-3=...
+
+
+# Graff
+### No. I shouldn't feel guilty! (Cough)
+GPC19D_RAT_YES2-4=Ні. Я не повинен відчувати провину! (Кашляє)
+
+
+# Graff
+### It's his fault. He promised but once again...
+GPC19D_RAT_YES2-5=Це його вина. Він обіцяв, але знову...
+
+
+# Graff
+### (Cough, cough, cough)
+GPC19D_RAT_YES2-6=(Сильно кашляє)
+
+
+# Graff
+### (Swallows)
+GPC19D_RAT_YES2-7=(Ковтає)
+
+
+# Graff
+### ...
+GPC19D_RAT_YES2-8=...
+
+
+# Graff
+### I feel... better already.
+GPC19D_RAT_YES2-9=Я... вже почуваюся краще.
+
+
+# Graff
+### But so tired. I'd better go home.
+GPC19D_RAT_YES2-10=Але я такий втомлений. Краще піду додому.
+
+
+# Graff
+### What a day...
+GPC19D_RAT_YES2-11=Ну й день...
+
+
+#----------------------------------------------------
+# Rat
+### Hey kitty.
+GPC19D_RAT_AGAIN-1=Привіт, кошеня.
+
+
+# Rat
+### Ya're in luck. Still got one.
+GPC19D_RAT_AGAIN-2=Тобі пощастило. Ше одна є.
+
+
+# Rat
+### Want it?
+GPC19D_RAT_AGAIN-3=Хочеш її?
+
+
+#----------------------------------------------------
+# Graff
+### Go away. (Cough)
+GPC19D_RAT_KLAY-1=Геть звідси. (Кашляє)
+
+
+# Rat
+### Got exactly what ya need!
+GPC19D_RAT_KLAY-2=Маю якраз те, шо тобі треба!
+
+
+# Graff
+### Leave me alone.
+GPC19D_RAT_KLAY-3=Дай мені спокій.
+
+
+# Rat
+### Okay! But you'll regret it!
+GPC19D_RAT_KLAY-4=Ну добре! Але ти пошкодуєш про це!
+
+
+#----------------------------------------------------
+# Graff
+### I shouldn't get too far in this state... (Cough, cough)
+GPC19D_OVERTHERE1-1=Мені не варто заходити надто далеко в такому стані... (Кашляє)
+
+
+#----------------------------------------------------
+# Graff
+### So I was inside some kind of... (Cough) Bunker?...
+GPC19D_PORTAL1-1=Виходить, я був у якомусь... (Кашляє) бункері?
+
+
+# Graff
+### One thing's for sure... I'm not coming back here!
+GPC19D_PORTAL1-2=Одне можна сказати напевне... Я сюди більше не повернуся!
+
+
+#----------------------------------------------------
+# Graff
+### One thing's for sure... I'm not coming back here!
+GPC19D_PORTAL_AFTER-1=Одне можна сказати напевне... Я сюди більше не повернуся!
+
+
+#----------------------------------------------------
+# Graff - Day 3 - Coming back here with Ott
+### Bad memories...
+GPC19D_PORTAL_OTT-1=Погані спогади...
+
+
+# Ott
+### What do you mean?
+GPC19D_PORTAL_OTT-2=Що ти маєш на увазі?
+
+
+# Graff
+### The bunker. Yesterday's trial.
+GPC19D_PORTAL_OTT-3=Бункер. Учорашнє випробування.
+
+
+# Ott
+### Huh? I've never been there.
+GPC19D_PORTAL_OTT-4=Га? Я ніколи там не був.
+
+
+# Graff
+### What?
+GPC19D_PORTAL_OTT-5=Що?
+
+
+# Graff
+### Your trial must have been different...
+GPC19D_PORTAL_OTT-6=Мабуть, твоє випробування було іншим...
+
+
+#----------------------------------------------------
+# Graff
+### Oh no... That one's broken as well.
+GPC19D_PIPEPILL2-1=О ні... Цей теж зламаний.
+
+
+# Graff
+### No use insisting.
+GPC19D_PIPEPILL2-2=Немає сенсу намагатися.
+
+
+#----------------------------------------------------
+# Unknown
+### A very friendly crook rat.
+COOP_GPC19D_RAT1-1=Дуже приязний щур-шахрай.
+
+
+#----------------------------------------------------
+

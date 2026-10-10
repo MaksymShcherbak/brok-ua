@@ -1,0 +1,129 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=MAIN MAP
+#-------------------------------
+
+#----- Locations --------
+### Bunker
+PC_BUNKER=Бункер
+
+### Factory
+PC_FACTORY=Завод
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Day 2 - After beating down the hacker
+### Okay, one situation solved.
+STORY140_AFTERPC10_BEATEN-1=Гаразд, одна проблема вирішена.
+
+
+# Brok
+### Not necessarily the way I wished but... Desperate times call for desperate measures.
+STORY140_AFTERPC10_BEATEN-2=Не зовсім так, як я хотів би, але... Відчайдушні часи вимагають відчайдушних заходів.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes must be waiting. I'd better check.
+STORY140_AFTERPC10_BEATEN-3=Вес, мабуть, чекає. Краще перевірити.
+
+
+# Brok
+### (Sigh) This is gonna be one of those days, huh?...
+STORY140_AFTERPC10_BEATEN-4=(Зітхає) Схоже, це буде один із тих днів, еге ж...?
+
+
+#----------------------------------------------------
+# Brok - Day 2 - After giving money to the hacker
+### Okay, one situation solved.
+STORY140_AFTERPC10_MONEY-1=Гаразд, одна проблема вирішена.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I lost precious time on this... Wes will be mad!
+STORY140_AFTERPC10_MONEY-2=Я втратив дорогоцінний час... Вес буде розгніваний!
+
+
+# Brok
+### But it'll be worse if I don't show up...
+STORY140_AFTERPC10_MONEY-3=Але ще гірше буде, якщо я взагалі не з'явлюся...
+
+
+# Brok
+### To the police department. Let's go!
+STORY140_AFTERPC10_MONEY-4=В відділок поліції. Ходімо!
+
+
+#----------------------------------------------------
+# Brok - Accessing the factory
+### To access it I'll need to cross the border.
+STORY220_START-1=Щоб туди потрапити, мені потрібно перетнути кордон.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Hopefully Wes didn't revoke my access...
+STORY220_START-2=Сподіваюсь, Вес не відкликав мій доступ...
+
+
+#----------------------------------------------------
+# Brok
+### I need to hurry up to the factory!
+STORY220_NOPE-1=Мені треба поспішати на завод!
+
+
+#----------------------------------------------------
+# Brok
+### (Later. The doc is getting worried.)
+STORY250_NOPE-1=(Пізніше. Доктор, напевно, починає хвилюватися.)
+
+
+#----------------------------------------------------
+# Brok - Day 3 morning
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### There's still time before my appointment with Wes.
+STORY290_START-1=Ще є час до моєї зустрічі з Весом.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### With everything happening, Graff might not be the only one needing help.
+STORY290_START-2=З огляду на все, що відбувається, Графф, можливо, не єдиний, хто потребує допомоги...
+
+
+# Brok
+### I better keep my eyes open. And keep training!
+STORY290_START-3=Краще лишатися пильним. І продовжувати тренування!
+
+
+# Brok
+### Got the feeling this will come in handy very soon...
+STORY290_START-4=Відчуваю, що це дуже скоро стане в нагоді...
+
+
+#----------------------------------------------------
+# Brok
+### An ad coupon?... Darn, I can't access it!
+EV_MAP_AD_DOME_CANNOT-1=Рекламний флаєр?... Чорт забирай, я не можу до нього дістатись!
+
+
+#----------------------------------------------------
+# Brok
+### I should stay away from the nuclear waste area!
+EV_MAP_NUCLEAR1-1=Від зони ядерних відходів краще триматися подалі!
+
+
+#----------------------------------------------------
+# Brok
+### This area is... (Cough) toxic!
+EV_MAP_NUCLEAR2-1=Ця територія... (Кашляє) токсична!
+
+
+#----------------------------------------------------
+

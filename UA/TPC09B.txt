@@ -1,0 +1,4055 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - Guard (Unknown)
+#     Brok - Mink (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Sin (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Brok - Wes (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Guard (Unknown)
+#     Dee - Mink (Unknown)
+#     Dee - Sin (Unknown)
+#     Dee - Unknown (Unknown)
+#     Dee - Wes (Unknown)
+#     Guard - Brok (Unknown)
+#     Guard - Dee (Unknown)
+#     Guard - Mink (Unknown)
+#     Mink - Brok (Unknown)
+#     Mink - Dee (Unknown)
+#     Mink - Guard (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Sin (Unknown)
+#     Sin - Brok (Unknown)
+#     Sin - Dee (Unknown)
+#     Sin - RJ (Unknown)
+#     Sin - Unknown (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Dee (Unknown)
+#     Unknown - Sin (Unknown)
+#     Unknown - Various (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Unknown (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Dee (Unknown)
+
+#-------------------------------
+#=POLICE JAIL
+#-------------------------------
+
+#----- Interactions --------
+### Food distributor
+PC_DISTRIBUTOR=Розподільник їжі
+
+### Dry shower
+PC_SHOWER=Сухий душ
+
+### Toilets
+PC_TOILETS=Туалет
+
+### Fur
+PC_FUR=Шерсть
+
+### Seat
+PC_SEAT=Сидіння
+
+#Hole in the laser barrier
+### Defect
+PC_DEFECT=Дефект
+
+### Touch panel
+PC_TOUCHPANEL=Сенсорна панель
+
+### Emergency button
+PC_EMERGENCYBUTTON=Кнопка тривоги
+
+### Look to the right
+PC_LOOKRIGHT=Подивитися праворуч
+
+### Book
+PC_BOOK=Книжка
+
+### Download
+PC_DOWNLOAD=Завантажити
+
+### Previous page
+PC_PREVIOUSPAGE=Попередня сторінка
+
+### Next page
+PC_NEXTPAGE=Наступна сторінка
+
+### Chest
+PC_CHEST=Скриня
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Move
+TUTORIAL_MOVE=Рухатись
+
+### Go higher/lower
+TUTORIAL_HIGHERLOWER=Піднятися/опуститися
+
+### Cancel
+TUTORIAL_CANCEL=Скасувати
+
+
+### Cat fur!
+GOT_CATFUR=Котяча шерсть!
+
+### My stuff!
+GOT_INVENTORY=Мої речі!
+
+
+
+#----- Topics --------
+### Update now?
+PC09B_BOOK_UPDATECHOICE=Оновити зараз?
+
+### Which button?
+PC09B_SIN_CHOICE_PANEL=Яка кнопка?
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Search R.J.?
+PC09B_SEARCH_RJ=Оглянути Р. Джея?
+
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.
+TOPIC_RJ=Р. Джей
+
+### Press a button
+TOPIC_PANEL=Натиснути кнопку
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Call Graff
+TOPIC_CALL=Покликати Граффа
+
+### Subterfuge
+TOPIC_SUBTERFUGE=Хитрощі
+
+### Play sick
+TOPIC_PLAYSICK=Прикинутися хворим
+
+### Give something
+TOPIC_GIVE=Дати щось
+
+### Insult
+TOPIC_INSULT=Образити
+
+### Repair sink
+TOPIC_REPAIR=Полагодити умивальник
+
+### Security
+TOPIC_LASERS=Безпека
+
+### Convince
+TOPIC_CONVINCE=Переконати
+
+
+### Cheer up
+CHOICE_CHEER=Підбадьорити
+
+### Forget it
+CHOICE_FORGETIT=Забудь
+
+### Button 1
+CHOICE_BUTTON1=Кнопка 1
+
+### Button 2
+CHOICE_BUTTON2=Кнопка 2
+
+### Button 3
+CHOICE_BUTTON3=Кнопка 3
+
+### Button 4
+CHOICE_BUTTON4=Кнопка 4
+
+
+
+#----- Dialog --------
+# RJ - Brok has been arrested, first time coming to the room
+### Go ahead. First cell.
+PC09B_INTRO1-1=Проходь. Перша камера.
+
+
+#----------------------------------------------------
+# RJ
+### Take a shower.
+PC09B_INTRO2-1=Прийми душ.
+
+
+# Brok - NB : For this very first dialog only, Brok may talk in a formal way to R.J.
+### What...? In front of you?
+PC09B_INTRO2-2=Що...? При вас?
+
+
+# RJ
+### This is a dry wash. No need to take off your clothes.
+PC09B_INTRO2-3=Це сухий душ. Одяг знімати не треба.
+
+
+# Brok
+### Oh...
+PC09B_INTRO2-4=А...
+
+
+#----------------------------------------------------
+# Various
+### (Germs elimination in progress...)
+PC09B_INTRO3-1=(Триває знищення мікробів...)
+
+
+# Various
+### (Process over.)
+PC09B_INTRO3-2=(Процес завершено.)
+
+
+# Brok
+### That was fast!
+PC09B_INTRO3-3=Оце так швидко!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09B_INTRO4-1=...
+
+
+# Brok
+### Oooh... How did I get into such a mess?
+PC09B_INTRO4-2=О-ох... Як це я втрапив у таку халепу?
+
+
+# Brok
+### (Sigh)
+PC09B_INTRO4-3=(Зітхає)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff would be ashamed of me...
+PC09B_INTRO4-4=Граффові було б соромно за мене...
+
+
+# Brok
+### !!!
+PC09B_INTRO4-5=!!!
+
+
+# Brok
+### The fair! I forgot!
+PC09B_INTRO4-6=Ярмарок! Я й забув!
+
+
+# Brok
+### He's gonna kill me if I'm not there on time!
+PC09B_INTRO4-7=Він мене вб'є, якщо я не прийду вчасно!
+
+
+# Brok
+### 4 PM. I can still make it.
+PC09B_INTRO4-8=Зараз четверта дня. Я ще можу встигнути.
+
+
+# Brok
+### Gotta be there, no matter what!
+PC09B_INTRO4-9=Маю бути там, що б не сталося!
+
+
+# Brok
+### Let's find a way out of this rat hole!
+PC09B_INTRO4-10=Виберемося з цієї щурячої нори!
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### No time to relax!
+PC09B_BED1-1=Нема коли розслаблятися!
+
+
+#----------------------------------------------------
+# Brok
+### What's wrong here? Seems like...
+PC09B_DEFECT1-1=Щось тут не так? Здається...
+
+
+#----------------------------------------------------
+# Brok
+### Yup. A bit resistant but no doubt.
+PC09B_DEFECT1B-1=Угу. Трохи піддається, але сумнівів немає.
+
+
+# Brok
+### This is a hole in the laser barrier!
+PC09B_DEFECT1B-2=Це діра в лазерному бар'єрі!
+
+
+# Brok
+### Not the first time I've seen that.
+PC09B_DEFECT1B-3=Бачу таке не вперше.
+
+
+# Brok
+### I'm glad this technology is far from perfect. Makes my life easier.
+PC09B_DEFECT1B-4=Радий, що ця технологія далека від досконалості. Це полегшує мені життя.
+
+
+#----------------------------------------------------
+# Brok
+### It's firm but I can pass my hand through here!
+PC09B_DEFECT2-1=Це нелегко, але я можу пропхати туди руку!
+
+
+#----------------------------------------------------
+# Brok
+### Hey! I can access that sink!
+PC09B_DEFECT_SINK1-1=О! Я можу дістатися до того умивальника!
+
+
+# Brok
+### Let's see.
+PC09B_DEFECT_SINK1-2=Погляньмо.
+
+
+#----------------------------------------------------
+# Sin
+### (Sigh) What are you fiddling with?
+PC09B_DEFECT_TOUCHSINK1-1=(Зітхає) З чим це ти там возишся?
+
+
+# Brok
+### Look! I was able to open it from this side!
+PC09B_DEFECT_TOUCHSINK1-2=Дивись! Я зміг відкрити його з цього боку!
+
+
+# Sin
+### Open what?
+PC09B_DEFECT_TOUCHSINK1-3=Відкрити що?
+
+
+# Brok
+### A trap door! At the back of the sink!
+PC09B_DEFECT_TOUCHSINK1-4=Люк! За умивальником!
+
+
+# Brok
+### This is our exit ticket!
+PC09B_DEFECT_TOUCHSINK1-5=Це наш квиток на свободу!
+
+
+# Sin
+### Uh-huh...
+PC09B_DEFECT_TOUCHSINK1-6=Угу...
+
+
+# Brok
+### (Fiddling...)
+PC09B_DEFECT_TOUCHSINK1-7=(Возиться...)
+
+
+# Brok
+### I... think I'm unscrewing somethin'...
+PC09B_DEFECT_TOUCHSINK1-8=Я... здається, щось відкручую...
+
+
+# Brok
+### Ah-ha!
+PC09B_DEFECT_TOUCHSINK1-9=Ага!
+
+
+# Brok
+### Now it's leaking water. Perfect!
+PC09B_DEFECT_TOUCHSINK1-10=Тепер він протікає. Чудово!
+
+
+#----------------------------------------------------
+# Brok
+### Let's try it again.
+PC09B_DEFECT_SINK2-1=Спробуймо ще раз.
+
+
+#----------------------------------------------------
+# Brok
+### No need to touch anymore. It's perfect!
+PC09B_DEFECT_ALREADY-1=Більше торкатися не треба. Все ідеально!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J. dropped his hat on top of the sink.
+PC09B_DEFECT_RJ-1=Р. Джей вронив свій капелюх на умивальник.
+
+
+#----------------------------------------------------
+# Brok
+### I'm done with that... for now at least.
+PC09B_DEFECT_DONE-1=З цим покінчено... принаймні поки що.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Hey, Sin!
+PC09B_DEFECT_CATFUR_NOSINK1-1=Гей, Сіне!
+
+
+# Brok
+### Can you take this cat fur?
+PC09B_DEFECT_CATFUR_NOSINK1-2=Візьмеш оцю котячу шерсть?
+
+
+# Sin
+### Why?
+PC09B_DEFECT_CATFUR_NOSINK1-3=Навіщо?
+
+
+# Brok
+### Just do it! I'll explain later.
+PC09B_DEFECT_CATFUR_NOSINK1-4=Просто візьми! Потім поясню.
+
+
+# Sin
+### I... prefer not to. I don't feel like moving... anywhere.
+PC09B_DEFECT_CATFUR_NOSINK1-5=Я... радше не хотів би. Не маю бажання рухатися... взагалі.
+
+
+# Brok
+### Okay... I'll find something else.
+PC09B_DEFECT_CATFUR_NOSINK1-6=Добре... Я придумаю щось інше.
+
+
+#----------------------------------------------------
+# Brok
+### Throwing cat fur to the ground wouldn't be very efficient.
+PC09B_DEFECT_CATFUR_NOSINK2-1=Кидати котячу шерсть на підлогу буде не дуже ефективно.
+
+
+#----------------------------------------------------
+# Brok
+### I put some cat fur on the top of the sink.
+PC09B_DEFECT_CATFUR_SINK-1=Я поклав трохи котячої шерсті на умивальник.
+
+
+#----------------------------------------------------
+# Brok
+### Here ya go.
+PC09B_DEFECT_CATFUR_HAT-1=Ось так.
+
+
+# Brok
+### Cat fur in the hat! What a magician!
+PC09B_DEFECT_CATFUR_HAT-2=Котяча шерсть у капелюсі! Я справжній фокусник!
+
+
+#----------------------------------------------------
+# Brok
+### Some... fur? Now where did this come from?
+PC09B_FUR1-1=Якась... шерсть? Звідки вона тут?
+
+
+# Brok
+### Oh! I know!
+PC09B_FUR1-2=О! Я знаю!
+
+
+# Brok
+### I had it on my clothes when I showered! It got stuck in the drain.
+PC09B_FUR1-3=Вона була на моєму одязі, коли я приймав душ! І застрягла в зливі.
+
+
+# Brok
+### Who knows? Might be useful!
+PC09B_FUR1-4=Хтозна? Може й знадобиться!
+
+
+#----------------------------------------------------
+# Brok
+### Yurgh...
+PC09B_DISTRIBUTOR_GETFOOD-1=Фе-е...
+
+
+#----------------------------------------------------
+# Brok
+### Got enough rotten fruits for a lifetime.
+PC09B_DISTRIBUTOR_MAX-1=З мене гнилих фруктів досить на все життя.
+
+
+#----------------------------------------------------
+# Brok
+### A dry shower. I don't like those very much.
+PC09B_SHOWER1-1=Сухий душ. Терпіти їх не можу.
+
+
+# Brok
+### Nothing beats the relaxing contact of water!
+PC09B_SHOWER1-2=Ніщо так не розслабляє, як дотик води!
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC09B_SHOWER2-1=Гмм...
+
+
+# Brok
+### Can't see any removable part, nor anything that might help.
+PC09B_SHOWER2-2=Не бачу жодної знімної деталі чи чогось, що могло б допомогти.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### Nope! I can't do this in front of strangers!
+PC09B_TOILETS1-1=Ні! Я не можу робити це на очах у сторонніх!
+
+
+# Sin
+### Go ahead. I couldn't care less at the moment.
+PC09B_TOILETS1-2=Роби що хочеш. Мені зараз байдуже.
+
+
+# Brok
+### I wasn't referring to you!
+PC09B_TOILETS1-3=Я казав не про тебе!
+
+
+#----------------------------------------------------
+# Brok
+### Yup. It works.
+PC09B_SINK1-1=Угу. Працює.
+
+
+#----------------------------------------------------
+# Brok
+### No space to insert anything.
+PC09B_SINK2-1=Немає місця, щоб щось вставити.
+
+
+# Brok
+### Nothing to touch or pick up.
+PC09B_SINK2-2=Торкнутися чи підібрати теж нічого.
+
+
+# Brok
+### My sink might not be a crucial part of my escape plan after all!
+PC09B_SINK2-3=Здається, мій умивальник не такий уже й важливий для плану втечі!
+
+
+#----------------------------------------------------
+# Brok
+### I'm... unsure what all this is supposed to mean.
+PC09B_SCREEN1-1=Я... не розумію, що все це означає.
+
+
+#----------------------------------------------------
+# Brok
+### Some weird signs I'm unable to decipher. Do they expect prisoners to have a Math degree?
+PC09B_SCREEN2-1=Якісь дивні знаки, які я не можу розшифрувати. Вони очікують, що в'язні мають науковий ступінь з математики?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Graff or Shay would probably understand but I don't have their IQ.
+PC09B_SCREEN2-2=Графф або Шей, мабуть, зрозуміли б, але в мене не такий високий IQ.
+
+
+# Brok
+### Oh well. I'll find some way to escape, anyway!
+PC09B_SCREEN2-3=Ну що ж. Усе одно я знайду спосіб утекти!
+
+
+#----------------------------------------------------
+# Brok
+### A timer...? For visitors?
+PC09B_SCREEN_VISITOR1-1=Таймер...? Для відвідувачів?
+
+
+# Brok
+### Fortunately it's stuck. Jails aren't what they used to be!
+PC09B_SCREEN_VISITOR1-2=На щастя, він застряг. В'язниці вже не ті, що раніше!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, looks like it's on "Book reading" mode!
+PC09B_SCREEN_BOOK1-1=О, схоже, він у режимі "Читання книжки"!
+
+
+#----------------------------------------------------
+# Brok
+### Five against one this opens my cage!
+PC09B_TOUCHPANEL1-1=Ставлю п'ять проти одного, що це відчинить мою камеру!
+
+
+# Brok
+### Why is it on the wrong side? (Sigh)
+PC09B_TOUCHPANEL1-2=Чому вона з іншого боку? (Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### What for? Closing the cell...?
+PC09B_TOUCHPANEL_FREE1-1=Навіщо? Зачинити камеру...?
+
+
+#----------------------------------------------------
+# Brok
+### I'm free!
+PC09B_TOUCHPANEL_SEAT_YES1-1=Я вільний!
+
+
+#----------------------------------------------------
+# Brok
+### No...!
+PC09B_TOUCHPANEL_SEAT_NO1-1=Ні...!
+
+
+#----------------------------------------------------
+# Brok
+### Darn you, camera...!
+PC09B_TOUCHPANEL_SEAT_NO2-1=Хай тобі грець, камеро...!
+
+
+#----------------------------------------------------
+# Brok
+### And one camera down!
+PC09B_BREAKCAMERA1-1=Мінус одна камера!
+
+
+#----------------------------------------------------
+# Brok
+### Bye-bye!
+PC09B_BREAKCAMERA2-1=Прощавай!
+
+
+#----------------------------------------------------
+# Brok
+### I can't!
+PC09B_TOUCHPANEL_SIN-1=Не можу!
+
+
+#----------------------------------------------------
+# Brok
+### That's a visitor seat.
+PC09B_SEAT1-1=Це крісло для відвідувачів.
+
+
+# Brok
+### It automatically adjusts its height according to the person's size.
+PC09B_SEAT1-2=Воно автоматично регулює висоту під зріст людини.
+
+
+#----------------------------------------------------
+# Brok
+### It's useless.
+PC09B_CAMERABREAK-1=Марно.
+
+
+# Brok
+### I can't break that camera like this. The seat doesn't have enough force for that.
+PC09B_CAMERABREAK-2=Так я цю камеру не зламаю. Кріслу не вистачить сили.
+
+
+#----------------------------------------------------
+# Brok
+### The hero of the day! I owe you my freedom, little plastic disk!
+PC09B_C1FLOAT1-1=Герой дня! Я завдячую тобі свободою, маленький пластиковий диску!
+
+
+#----------------------------------------------------
+# Brok
+### No time to sit!
+PC09B_C1FLOAT2-1=Нема часу сидіти!
+
+
+#----------------------------------------------------
+# Various
+### No visitors detected.
+PC09B_SEAT_NOTDEBUG-1=Відвідувачів не виявлено.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC09B_SEAT_NOTDEBUG1-1=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### It's useless. I don't have any visitors...
+PC09B_SEAT_NOTDEBUG2-1=Марно. У мене немає відвідувачів...
+
+
+#----------------------------------------------------
+# Brok
+### I can't reach it from here...
+PC09B_EMERGENCYBUTTON1-1=Звідси я не дістану...
+
+
+# Brok
+### I wonder what would happen if someone pressed it, though!
+PC09B_EMERGENCYBUTTON1-2=Цікаво, що сталося б, якби хтось її натиснув!
+
+
+#----------------------------------------------------
+# Brok
+### Oops!
+PC09B_EMERGENCYBUTTON_FREE1-1=Йой!
+
+
+#----------------------------------------------------
+# Brok
+### It's OK! I'm sure no one heard it...
+PC09B_EMERGENCYBUTTON_FREE1B-1=Все гаразд! Впевнений, ніхто не чув...
+
+
+#----------------------------------------------------
+# Brok
+### Uh-oh! Better hide...
+PC09B_EMERGENCYBUTTON_RJ1-1=Ой-ой! Краще сховатися...
+
+
+# RJ
+### What da heck?!
+PC09B_EMERGENCYBUTTON_RJ1-2=Шо за чорт?!
+
+
+# RJ
+### Why is dat alarm on?
+PC09B_EMERGENCYBUTTON_RJ1-3=Чого це тривога гуде?!
+
+
+# Brok
+### Hey, don't look at me! Can't do anythin' from here!
+PC09B_EMERGENCYBUTTON_RJ1-4=Гей, не дивися на мене! Я звідси нічого не можу зробити!
+
+
+# RJ
+### Mrrph...
+PC09B_EMERGENCYBUTTON_RJ1-5=М-ммм...
+
+
+#----------------------------------------------------
+# Brok
+### Oops...!
+PC09B_EMERGENCYBUTTON_RJ2-1=Йой...!
+
+
+# RJ
+### Again?!
+PC09B_EMERGENCYBUTTON_RJ2-2=Знову?!
+
+
+#----------------------------------------------------
+# Brok
+### Erm...
+PC09B_CAMERASEAT_RJ1-1=Е-е...
+
+
+# RJ
+### Hey!
+PC09B_CAMERASEAT_RJ1-2=Гей!
+
+
+# RJ
+### What was dat noise?!
+PC09B_CAMERASEAT_RJ1-3=Шо це за шум був?!
+
+
+# Brok
+### No idea! What could we do from here?
+PC09B_CAMERASEAT_RJ1-4=Гадки не маю! Що ми могли б зробити звідси?
+
+
+# RJ
+### Mrrph. I'm keeping an ear on ya both!
+PC09B_CAMERASEAT_RJ1-5=М-ммм. Я за вами пильную. Мої вуха все чують!
+
+
+# Brok
+### (Something triggered that sound. The camera...?)
+PC09B_CAMERASEAT_RJ1-6=(Щось спричинило цей звук. Камера...?)
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09B_CAMERASEAT_RJ2-1=...
+
+
+# RJ
+### What the heck was dat sound again?!
+PC09B_CAMERASEAT_RJ2-2=Шо це знову за чортів звук?!
+
+
+# Brok
+### Dunno. A microwave oven?
+PC09B_CAMERASEAT_RJ2-3=Не знаю. Мікрохвильовка?
+
+
+# RJ
+### Oh yeah! My coffee.
+PC09B_CAMERASEAT_RJ2-4=О, точно! Моя кава.
+
+
+# Brok
+### (What an annoying camera...)
+PC09B_CAMERASEAT_RJ2-5=(Яка набридлива камера...)
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09B_CAMERASEAT_RJ3-1=...
+
+
+# RJ
+### Argh! Will this stop?!
+PC09B_CAMERASEAT_RJ3-2=А-аа! Це припиниться чи ні?!
+
+
+# Brok
+### I didn't move!
+PC09B_CAMERASEAT_RJ3-3=Я навіть з місця не ворухнувся!
+
+
+# RJ
+### ...
+PC09B_CAMERASEAT_RJ3-4=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### (It's pointless. As long as the guard is around, he'll "hear" my attempts to open this cage...)
+PC09B_CAMERASEAT_RJ3-5=(Марно. Поки охоронець поруч, він "чутиме" мої спроби відчинити цю камеру...)
+
+
+#----------------------------------------------------
+# Brok
+### They stored my stuff in the top-left box...
+PC09B_BOXES1-1=Вони поклали мої речі у верхню ліву шафку...
+
+
+# Brok
+### And the next one. It wouldn't fit.
+PC09B_BOXES1-2=І в сусідню. В одну б не вмістилося.
+
+
+#----------------------------------------------------
+# Brok
+### I'll get back my things!
+PC09B_BOXES_FREE1-1=Я заберу свої речі!
+
+
+#----------------------------------------------------
+# Brok
+### Darn. They kept the gun and other things.
+PC09B_BOXES_FREEAFTER-1=Чорт. Вони забрали пістолет та інші речі.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin would probably not appreciate it if I stole his belongings right in front of him...
+PC09B_BOXES_FREE2-1=Сін навряд чи зрадіє, якщо я заберу його речі просто в нього на очах...
+
+
+#----------------------------------------------------
+# Brok
+### The only exit... Apparently.
+PC09B_EXIT1-1=Єдиний вихід... Схоже на те.
+
+
+#----------------------------------------------------
+# Brok
+### Not without getting my stuff!
+PC09B_EXITNOTYET-1=Спочатку треба забрати свої речі!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I should talk to Sin.
+PC09B_EXITNOTYET2-1=Мені варто поговорити з Сіном.
+
+
+#----------------------------------------------------
+# Various
+### Corrupted file.
+PC09B_BOOK_DEBUG1-1=Пошкоджений файл.
+
+
+# Brok
+### What...?
+PC09B_BOOK_DEBUG1-2=Що...?
+
+
+#----------------------------------------------------
+# Various
+### Corrupted file.
+PC09B_BOOK_DEBUG2-1=Пошкоджений файл.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, a digital ad! Cool!
+PC09B_BOOK_AD-1=О, цифрова реклама! Круто!
+
+
+#----------------------------------------------------
+# Various
+### The book download service has been discontinued.
+PC09B_BOOK_DOWNLOAD-1=Сервіс завантаження книжок припинив роботу.
+
+
+# Various
+### This closure means that prisoners can no longer make purchases in the book shop.
+PC09B_BOOK_DOWNLOAD-2=Закриття означає, що в'язні більше не можуть купувати книжки в крамниці.
+
+
+# Various
+### However, it is still possible to access most of your purchased books for a limited time until...
+PC09B_BOOK_DOWNLOAD-3=Однак ви все ще можете отримати доступ до більшості придбаних книжок протягом обмеженого часу, поки...
+
+
+# Various
+### ...Access has been definitively shut down.
+PC09B_BOOK_DOWNLOAD-4=...Доступ не буде остаточно припинено.
+
+
+# Various
+### We sincerely thank our loyal customers for supporting the shop!
+PC09B_BOOK_DOWNLOAD-5=Щиро дякуємо нашим постійним клієнтам за підтримку крамниці!
+
+
+#----------------------------------------------------
+# Various
+### Device has outdated firmware.
+PC09B_BOOK_NOTUPDATED1-1=Прошивка пристрою застаріла.
+
+
+# Various
+### Please update to read the rest of the story.
+PC09B_BOOK_NOTUPDATED1-2=Будь ласка, оновіть систему, щоб прочитати решту історії.
+
+
+# Various
+### Do you wish to perform the update now?
+PC09B_BOOK_NOTUPDATED1-3=Бажаєте оновитися зараз?
+
+
+#----------------------------------------------------
+# Brok
+### Go ahead! But you better be quick!
+PC09B_BOOK_UPDATE_YES-1=Так, давай! Але краще поквапся!
+
+
+# Various
+### Update in progress...
+PC09B_BOOK_UPDATE_YES-2=Триває оновлення...
+
+
+#----------------------------------------------------
+# Brok
+### I don't have time to waste!
+PC09B_BOOK_UPDATE_LATER-1=Не можу гаяти часу!
+
+
+# Various
+### Of course. That's your decision. The update is postponed.
+PC09B_BOOK_UPDATE_LATER-2=Звісно. Це ваше рішення. Оновлення відкладено.
+
+
+# Various
+### It will be performed automatically in 30 seconds.
+PC09B_BOOK_UPDATE_LATER-3=Воно відбудеться автоматично через 30 секунд.
+
+
+# Brok
+### Gah!
+PC09B_BOOK_UPDATE_LATER-4=Пхе!
+
+
+# Various
+### In the meantime, please enjoy this music.
+PC09B_BOOK_UPDATE_LATER-5=А тим часом насолоджуйтеся цією музикою.
+
+
+# Brok
+### Oh yeah. Best jail ever.
+PC09B_BOOK_UPDATE_LATER-6=О так. Найкраща в'язниця у світі.
+
+
+# Various
+### ...
+PC09B_BOOK_UPDATE_LATER-7=...
+
+
+# Brok
+### (Sigh) Each minute counts and here I am. Listening to elevator music in a cage.
+PC09B_BOOK_UPDATE_LATER-8=(Зітхає) Кожна хвилина на рахунку, а я тут. Слухаю ліфтову музику в клітці.
+
+
+# Various
+### ...
+PC09B_BOOK_UPDATE_LATER-9=...
+
+
+# Various
+### Update will now be performed.
+PC09B_BOOK_UPDATE_LATER-10=Зараз буде встановлено оновлення.
+
+
+#----------------------------------------------------
+# Unknown
+### Page 1 - Advice for good behavior in jail. In order to simplify our jobs and increase your chances of release, you're invited to adopt good societal manners.
+PC09B_BOOK_READ1-1=Сторінка 1 - Поради щодо гарної поведінки у в'язниці. Щоб спростити нашу роботу та підвищити ваші шанси на звільнення, закликаємо вас дотримуватися хороших манер.
+
+
+#----------------------------------------------------
+# Unknown
+### In particular : 1- Stay calm 2- Do not throw yourself on the lasers to commit suicide. There's a risk some body parts may be stuck on them which makes cleaning more difficult for our teams. 3- Do not leak water or corporal substances outside of the reserved area called the toilet.
+PC09B_BOOK_READ2-1=Зокрема: 1 - Зберігайте спокій. 2 - Не кидайтеся на лазери з метою самогубства. Існує ризик, що частини тіла застрягнуть у них, що ускладнить прибирання для наших бригад. 3 - Не розливайте воду чи інші тілесні рідини за межами спеціальної зони, яка називається туалетом.
+
+
+#----------------------------------------------------
+# Various
+### The update failed. Error 0X85441253 - Unknown error.
+PC09B_BOOK_UPDATEFAILED-1=Не вдалося оновити. Помилка 0X85441253 - Невідома помилка.
+
+
+# Various
+### Restarting now with default firmware...
+PC09B_BOOK_UPDATEFAILED-2=Система буде перезавантажена з базовою прошивкою...
+
+
+#----------------------------------------------------
+# Brok
+### Ya gotta be kiddin' me...
+PC09B_BOOK_UPDATEFAILED_BROK-1=Та ви жартуєте...
+
+
+#----------------------------------------------------
+# Various
+### Debug mode activated.
+PC09B_FLOOR_DEBUG1-1=Режим налагодження активовано.
+
+
+# Brok
+### That voice... Did something happen...?
+PC09B_FLOOR_DEBUG1-2=Цей голос... Щось сталося...?
+
+
+#----------------------------------------------------
+# Brok - Talking to Sin who is in the next cell, totally in low spirits
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Hey, Sin!
+PC09B_SIN_WELCOME1-1=Гей, Сіне!
+
+
+# Brok
+### You okay, man?
+PC09B_SIN_WELCOME1-2=Ти як, чоловіче?
+
+
+# Sin
+### ...
+PC09B_SIN_WELCOME1-3=...
+
+
+# Brok
+### Yeah, I know. It's tough.
+PC09B_SIN_WELCOME1-4=Так, я знаю. Це важко.
+
+
+# Brok
+### But... I'm sure everything's gonna be fine.
+PC09B_SIN_WELCOME1-5=Але... я впевнений, все буде добре.
+
+
+# Brok
+### I'm gonna get us outta here! You'll see!
+PC09B_SIN_WELCOME1-6=Я витягну нас звідси! От побачиш!
+
+
+# Sin
+### ...I'm tired. Don't mind me.
+PC09B_SIN_WELCOME1-7=...Я втомився. Не звертай на мене уваги.
+
+
+# Brok
+### (Sigh)
+PC09B_SIN_WELCOME1-8=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Can we talk?
+PC09B_SIN_WELCOME2-1=Можемо поговорити?
+
+
+#----------------------------------------------------
+# Brok
+### I need your help.
+PC09B_SIN_WELCOME3-1=Мені потрібна твоя допомога.
+
+
+#----------------------------------------------------
+# Brok
+### Listen, pal. I'm sorry for what happened...
+PC09B_SIN_HIMSELF_FORGIVE1-1=Слухай, друже. Вибач за те, що сталося...
+
+
+# Sin
+### Why...?
+PC09B_SIN_HIMSELF_FORGIVE1-2=Чому...?
+
+
+# Sin
+### Why are you sorry? I'm the only one responsible.
+PC09B_SIN_HIMSELF_FORGIVE1-3=Чому ти вибачаєшся? Я єдиний, хто винен.
+
+
+#----------------------------------------------------
+# Brok
+### Hey...
+PC09B_SIN_HIMSELF_DENOUNCE1-1=Гей...
+
+
+# Sin
+### Stop.
+PC09B_SIN_HIMSELF_DENOUNCE1-2=Не треба.
+
+
+# Sin
+### I know what you're going to say.
+PC09B_SIN_HIMSELF_DENOUNCE1-3=Я знаю, що ти хочеш сказати.
+
+
+#----------------------------------------------------
+# Sin
+### I got you involved in this mess... Attacked you...
+PC09B_SIN_HIMSELF1B-1=Це я втягнув тебе в цю халепу... Напав на тебе...
+
+
+# Sin
+### I robbed a pharmacy for precious medicine and miserably failed...
+PC09B_SIN_HIMSELF1B-2=Я пограбував аптеку заради цінних ліків і ганебно провалився...
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### I deceived my old pal R.J. and intended to drug my wife...
+PC09B_SIN_HIMSELF1B-3=Я обдурив свого старого друга Р. Джея та збирався накачати дружину пігулками...
+
+
+# Brok
+### But you did it for a noble cause.
+PC09B_SIN_HIMSELF1B-4=Але ти зробив це заради благородної мети.
+
+
+# Sin
+### No.
+PC09B_SIN_HIMSELF1B-5=Ні.
+
+
+# Sin
+### It was all for me. I'm selfish.
+PC09B_SIN_HIMSELF1B-6=Це все було заради мене. Я егоїст.
+
+
+# Sin
+### And now I'll pay the price.
+PC09B_SIN_HIMSELF1B-7=І тепер я розплачуся.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### The Triangle should give me the death penalty.
+PC09B_SIN_HIMSELF1B-8=Трикутник повинен засудити мене до смертної кари.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### The Triangle...?
+PC09B_SIN_HIMSELF1B-9=Трикутник...?
+
+
+# Sin
+### Yeah. The members of the Government get to decide the fate of prisoners.
+PC09B_SIN_HIMSELF1B-10=Так. Члени Уряду вирішують долю в'язнів.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes told me it was an AI.
+PC09B_SIN_HIMSELF1B-11=Вес казав мені, що це ШІ.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### No. The AI does the investigation. The final judgment is in the hands of the Triangle.
+PC09B_SIN_HIMSELF1B-12=Ні. ШІ лише проводить розслідування. Остаточне рішення ухвалює Трикутник.
+
+
+# Sin
+### And with all the evidence they've got... It's over for me.
+PC09B_SIN_HIMSELF1B-13=І з усіма доказами, що вони мають... Для мене все скінчено.
+
+
+#----------------------------------------------------
+# Brok
+### I refuse to believe it. You're a good person.
+PC09B_SIN_HIMSELF_FORGIVE2-1=Я відмовляюся в це вірити. Ти хороший хлопець.
+
+
+# Sin
+### Wrong...
+PC09B_SIN_HIMSELF_FORGIVE2-2=Помиляєшся...
+
+
+# Sin
+### You can't understand... You're nothing like me.
+PC09B_SIN_HIMSELF_FORGIVE2-3=Ти не розумієш... Ти зовсім не такий, як я.
+
+
+# Brok
+### Yeah... I'm probably worse.
+PC09B_SIN_HIMSELF_FORGIVE2-4=Так... Я, мабуть, ще гірший.
+
+
+# Sin
+### Huh?
+PC09B_SIN_HIMSELF_FORGIVE2-5=Що?
+
+
+# Brok
+### Forget it.
+PC09B_SIN_HIMSELF_FORGIVE2-6=Забудь.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09B_SIN_HIMSELF_DENOUNCE2-1=...
+
+
+# Brok
+### (Well... I guess he's right...)
+PC09B_SIN_HIMSELF_DENOUNCE2-2=(Що ж... Здається, він має рацію...)
+
+
+# Brok
+### (He caused all this.)
+PC09B_SIN_HIMSELF_DENOUNCE2-3=(Він все це почав.)
+
+
+#----------------------------------------------------
+# Brok
+### I'm not sure I should insist...
+PC09B_SIN_HIMSELF2-1=Не думаю, що варто наполягати...
+
+
+#----------------------------------------------------
+# Brok
+### Look, I'm not a psychologist or anything but...
+PC09B_SIN_HIMSELF2_CHEER1-1=Послухай, я не психолог чи щось таке, але...
+
+
+# Brok
+### What experience has taught me... is to hold onto your best memories and dreams.
+PC09B_SIN_HIMSELF2_CHEER1-2=Досвід навчив мене... триматися за свої найкращі спогади й мрії.
+
+
+# Brok
+### Life out here is more often crappy than not.
+PC09B_SIN_HIMSELF2_CHEER1-3=Життя тут часто доволі паршиве.
+
+
+# Brok
+### You can decide to drown. Or you can fight!
+PC09B_SIN_HIMSELF2_CHEER1-4=Ти можеш обрати піти на дно. Або можеш боротися!
+
+
+# Brok
+### To make it better. Not only for you but for everyone important around you.
+PC09B_SIN_HIMSELF2_CHEER1-5=Щоб зробити його кращим. Не лише для себе, а й для всіх, хто тобі важливий.
+
+
+# Brok
+### You deserve a second chance.
+PC09B_SIN_HIMSELF2_CHEER1-6=Ти заслуговуєш на другий шанс.
+
+
+# Brok
+### Just... Don't do anything you might regret.
+PC09B_SIN_HIMSELF2_CHEER1-7=Просто... Не роби того, про що пошкодуєш.
+
+
+# Brok
+### You've got a daughter waiting for you.
+PC09B_SIN_HIMSELF2_CHEER1-8=На тебе чекає донька.
+
+
+# Sin
+### ...
+PC09B_SIN_HIMSELF2_CHEER1-9=...
+
+
+# Brok
+### I want you to promise me.
+PC09B_SIN_HIMSELF2_CHEER1-10=Я хочу, щоб ти пообіцяв мені.
+
+
+# Sin
+### What?
+PC09B_SIN_HIMSELF2_CHEER1-11=Що?
+
+
+# Brok
+### Promise me you won't do anything stupid.
+PC09B_SIN_HIMSELF2_CHEER1-12=Обіцяй мені, що не зробиш нічого дурного.
+
+
+# Sin
+### I...
+PC09B_SIN_HIMSELF2_CHEER1-13=Я...
+
+
+# Sin
+### (Sigh) Yeah.
+PC09B_SIN_HIMSELF2_CHEER1-14=(Зітхає) Добре.
+
+
+# Brok
+### Say it! Scream it!
+PC09B_SIN_HIMSELF2_CHEER1-15=Скажи це! Закричи це!
+
+
+# Sin
+### Argh!!! Won't you leave me alone?!
+PC09B_SIN_HIMSELF2_CHEER1-16=А-аа!!! Ти даси мені спокій чи ні?!
+
+
+# Brok
+### Be honest with yourself!
+PC09B_SIN_HIMSELF2_CHEER1-17=Будь чесним із самим собою!
+
+
+# Brok
+### You think your life should end here? Like this?!
+PC09B_SIN_HIMSELF2_CHEER1-18=Ти вважаєш, що твоє життя має закінчитися тут? Отак?!
+
+
+# Sin
+### Yes!
+PC09B_SIN_HIMSELF2_CHEER1-19=Так!
+
+
+# Sin
+### ...
+PC09B_SIN_HIMSELF2_CHEER1-20=...
+
+
+# Sin
+### No...
+PC09B_SIN_HIMSELF2_CHEER1-21=Ні...
+
+
+# Sin
+### You... You're right.
+PC09B_SIN_HIMSELF2_CHEER1-22=Ти... Ти маєш рацію.
+
+
+# Sin
+### I wanna see her again... If there's any chance...
+PC09B_SIN_HIMSELF2_CHEER1-23=Я хочу побачити її знову... Якщо є хоч якийсь шанс...
+
+
+# Brok
+### So! What will you do?
+PC09B_SIN_HIMSELF2_CHEER1-24=Отже! Що ти зробиш?
+
+
+# Sin
+### I... I'll fight.
+PC09B_SIN_HIMSELF2_CHEER1-25=Я... я боротимуся.
+
+
+# Brok
+### Louder!
+PC09B_SIN_HIMSELF2_CHEER1-26=Гучніше!
+
+
+# Sin
+### I'm gonna fight!
+PC09B_SIN_HIMSELF2_CHEER1-27=Я боротимуся!
+
+
+# Brok
+### There!
+PC09B_SIN_HIMSELF2_CHEER1-28=Оце по-нашому!
+
+
+# Sin
+### But... I need some time.
+PC09B_SIN_HIMSELF2_CHEER1-29=Але... мені потрібен час.
+
+
+# Brok
+### Of course.
+PC09B_SIN_HIMSELF2_CHEER1-30=Звісно.
+
+
+#----------------------------------------------------
+# Brok
+### Better not. I might make things worse.
+PC09B_SIN_HIMSELF2_DONTINSIST-1=Не варто. Я можу зробити все тільки гірше.
+
+
+#----------------------------------------------------
+# Brok
+### I should leave him with his thoughts.
+PC09B_SIN_HIMSELF3-1=Краще залишити його зі своїми думками.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Who's R.J.?
+PC09B_SIN_RJ1-1=Хто такий Р. Джей?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Over there. The guard.
+PC09B_SIN_RJ1-2=Он там. Охоронець.
+
+
+# Brok
+### Oh...
+PC09B_SIN_RJ1-3=Ох...
+
+
+# Sin
+### He may be a bit simple minded but he was my friend. And I deceived him.
+PC09B_SIN_RJ1-4=Він може й трохи простуватий, але він був моїм другом. І я його обдурив.
+
+
+# Brok
+### Any chance he might... not hold a grudge against you?
+PC09B_SIN_RJ1-5=А може бути таке, що він... не тримає на тебе зла?
+
+
+# Sin
+### What do you think? He threw me in the cell like a bag of potatoes.
+PC09B_SIN_RJ1-6=Як гадаєш? Він кинув мене в камеру, як мішок із картоплею.
+
+
+# Sin
+### He said the inspector was on the verge of firing him for being tricked like this.
+PC09B_SIN_RJ1-7=Він сказав, що інспектор ледь не звільнив його через цю витівку.
+
+
+# Brok
+### Great...
+PC09B_SIN_RJ1-8=Чудово...
+
+
+#----------------------------------------------------
+# Brok
+### OK, so he hates you now.
+PC09B_SIN_RJ2-1=Гаразд, отже, тепер він тебе ненавидить.
+
+
+# Brok
+### But I'll need him for my escape plan. Can you make an effort?
+PC09B_SIN_RJ2-2=Але він потрібен мені для плану втечі. Ти можеш пересилити себе?
+
+
+# Sin
+### Not sure what you mean...
+PC09B_SIN_RJ2-3=Не певен, що ти маєш на увазі...
+
+
+# Brok
+### Just call him whenever I'll ask you.
+PC09B_SIN_RJ2-4=Просто поклич його, коли я попрошу.
+
+
+# Sin
+### Okay... Whatever.
+PC09B_SIN_RJ2-5=Гаразд... Мені байдуже.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### (He said he'd make the effort to call R.J. if necessary. Good enough for now.)
+PC09B_SIN_RJ3-1=(Він вже сказав, що покличе Р. Джея, якщо буде потрібно. Наразі цього досить.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (He got me into this. He's not gonna pay me and I might miss Graff's fair because of him!)
+PC09B_SIN_THINK_FORGIVE-1=(Він втягнув мене в це. Він мені не заплатить, а ще через нього я можу пропустити ярмарок Граффа!)
+
+
+# Brok
+### (And yet, for some reason... I can't get myself to hate him.)
+PC09B_SIN_THINK_FORGIVE-2=(І все ж чомусь... я не можу змусити себе ненавидіти його.)
+
+
+#----------------------------------------------------
+# Brok
+### (He's miserable.)
+PC09B_SIN_THINK_DENOUNCE-1=(Він жалюгідний.)
+
+
+# Brok
+### (Well, that's his problem. Maybe he can still help me get out of here though...?)
+PC09B_SIN_THINK_DENOUNCE-2=(Що ж, це його проблеми. Але, можливо, він все-таки зможе допомогти мені вибратися звідси...?)
+
+
+#----------------------------------------------------
+# Brok
+### You said you felt guilty for involving me in this.
+PC09B_SIN_PANEL1-1=Ти казав, що почуваєшся винним через те, що втягнув мене в це.
+
+
+# Sin
+### I am...
+PC09B_SIN_PANEL1-2=Так і є...
+
+
+# Brok
+### Then... May I ask a favor?
+PC09B_SIN_PANEL1-3=Тоді... Я можу попросити про послугу?
+
+
+# Brok
+### Can you press a button on your panel?
+PC09B_SIN_PANEL1-4=Можеш натиснути кнопку на своїй панелі?
+
+
+# Sin
+### Why?
+PC09B_SIN_PANEL1-5=Навіщо?
+
+
+# Brok
+### Just curious.
+PC09B_SIN_PANEL1-6=Просто цікаво.
+
+
+# Sin
+### Whatever. Tell me which one.
+PC09B_SIN_PANEL1-7=Мені байдуже. Скажи, яку саме.
+
+
+#----------------------------------------------------
+# Brok
+### Can you press another?
+PC09B_SIN_PANEL2-1=Можеш натиснути іншу?
+
+
+# Sin
+### Ain't got nothing better to do.
+PC09B_SIN_PANEL2-2=Все одно більше нічого робити.
+
+
+#----------------------------------------------------
+# Brok
+### Can you...
+PC09B_SIN_PANEL3-1=Можеш...
+
+
+# Sin
+### Yeah.
+PC09B_SIN_PANEL3-2=Угу.
+
+
+#----------------------------------------------------
+# Brok
+### The first button.
+PC09B_SIN_PANEL_BUTTON1-1=Першу кнопку.
+
+
+#----------------------------------------------------
+# Brok
+### Second one?
+PC09B_SIN_PANEL_BUTTON2-1=Другу?
+
+
+#----------------------------------------------------
+# Brok
+### Maybe the third one?
+PC09B_SIN_PANEL_BUTTON3-1=Може, третю?
+
+
+#----------------------------------------------------
+# Brok
+### The fourth one!
+PC09B_SIN_PANEL_BUTTON4-1=Четверту!
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Call R.J...? I wish I didn't have to but... Okay.
+PC09B_SIN_PANEL_BUTTON4-2=Покликати Р. Джея...? Не хотілося б, але... Гаразд.
+
+
+# Sin
+### What am I gonna tell him?
+PC09B_SIN_PANEL_BUTTON4-3=І що я йому скажу?
+
+
+#----------------------------------------------------
+# Brok
+### The fourth one!
+PC09B_SIN_PANEL_BUTTON4NOPE-1=Четверту!
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### To call R.J...?
+PC09B_SIN_PANEL_BUTTON4NOPE-2=Покликати Р. Джея...?
+
+
+# Sin
+### Sorry, I don't feel like doing this...
+PC09B_SIN_PANEL_BUTTON4NOPE-3=Вибач, щось мені не хочеться цього робити...
+
+
+#----------------------------------------------------
+# Sin
+### It's the current mode.
+PC09B_SWITCH_ALREADY-1=Це і є поточний режим.
+
+
+# Brok
+### Oh... That's true.
+PC09B_SWITCH_ALREADY-2=О... І справді.
+
+
+#----------------------------------------------------
+# Brok
+### I'm not sure anymore.
+PC09B_SIN_PANEL_EXIT-1=Я вже й сам не впевнений.
+
+
+#----------------------------------------------------
+# Brok
+### You've been friends. Any chance you can convince him to release me?
+PC09B_SIN_RJ_CONVINCE1-1=Ви ж були друзями. Є шанс, що ти переконаєш його відпустити мене?
+
+
+# Sin
+### Impossible! He doesn't trust me anymore!
+PC09B_SIN_RJ_CONVINCE1-2=Неможливо! Він більше мені не довіряє!
+
+
+# Brok
+### Just try it anyway!
+PC09B_SIN_RJ_CONVINCE1-3=Просто спробуй хоча б!
+
+
+# Sin
+### (Sigh) Okay...
+PC09B_SIN_RJ_CONVINCE1-4=(Зітхає) Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### (I can't ask him this again... It would make things worse.)
+PC09B_SIN_RJ_CONVINCE2-1=(Я не можу просити його про це знову... Це тільки погіршить стан справ.)
+
+
+#----------------------------------------------------
+# Brok
+### Try and play sick! Then, attack him!
+PC09B_SIN_RJ_SICK1-1=Спробуй прикинутися хворим! А потім напади на нього!
+
+
+# Sin
+### No way. Not in my current state...
+PC09B_SIN_RJ_SICK1-2=Ні за що. У моєму нинішньому стані...
+
+
+# Brok
+### That's the point! This should make it more credible!
+PC09B_SIN_RJ_SICK1-3=У тому й річ! Це зробить усе більш переконливим!
+
+
+# Sin
+### (Sigh) Sorry... I can't.
+PC09B_SIN_RJ_SICK1-4=(Зітхає) Вибач... Я не можу.
+
+
+# Brok
+### Don't worry. I'll find somethin' else.
+PC09B_SIN_RJ_SICK1-5=Не переймайся. Я вигадаю щось інше.
+
+
+#----------------------------------------------------
+# Brok
+### (He refused to do it...)
+PC09B_SIN_RJ_SICK2-1=(Він відмовився це робити...)
+
+
+#----------------------------------------------------
+# Brok
+### No idea...
+PC09B_SIN_C2_RJ_EXIT-1=Поняття не маю...
+
+
+#----------------------------------------------------
+# Brok
+### Tell him there's a problem with your sink.
+PC09B_SIN_RJ_SINK1-1=Скажи йому, що в тебе проблеми з умивальником.
+
+
+#----------------------------------------------------
+# Brok
+### The sink.
+PC09B_SIN_RJ_SINK2-1=Умивальник.
+
+
+#----------------------------------------------------
+# Sin
+### Is there?
+PC09B_SIN_RJ_SINK_NO1-1=Справді?
+
+
+# Brok
+### No, just keep him busy.
+PC09B_SIN_RJ_SINK_NO1-2=Ні, просто треба його відволікти.
+
+
+#----------------------------------------------------
+# Sin
+### Ah. That's why you messed with it.
+PC09B_SIN_RJ_SINK_BROKEN1-1=А-а. Ось чому ти возився з ним.
+
+
+# Brok
+### Yup!
+PC09B_SIN_RJ_SINK_BROKEN1-2=Угу!
+
+
+#----------------------------------------------------
+# Sin
+### Again? Okay...
+PC09B_SIN_RJ_SINK_AGAIN1-1=Знову? Добре...
+
+
+#----------------------------------------------------
+# Sin
+### In that case... I'll turn on the sink first.
+PC09B_SIN_RJ_SINK_ACTIVATE1-1=У такому разі... Я спершу ввімкну умивальник.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, while he's busy doing this...
+PC09B_SIN_RJBUSY-1=Гей, поки він цим зайнятий...
+
+
+# RJ
+### No talking to prisoners.
+PC09B_SIN_RJBUSY-2=Жодних розмов із в'язнями.
+
+
+# Brok
+### Darn...
+PC09B_SIN_RJBUSY-3=Дідько...
+
+
+#----------------------------------------------------
+# RJ - R.J. is angry at Sin.
+### Ya kiddin' me!
+PC09B_C2_RJ1-1=Ти шо, знущаєшся з мене?!
+
+
+# RJ
+### I'm not clear? I dun wanna talk to you, ever!
+PC09B_C2_RJ1-2=Я шо, незрозуміло сказав? Я більше не хочу з тобою базікати, ніколи!
+
+
+#----------------------------------------------------
+# RJ
+### What?!
+PC09B_C2_RJ2-1=Шо?!
+
+
+#----------------------------------------------------
+# Sin
+### I know. I've done terrible things these days.
+PC09B_C2_RJ_CONVINCE-1=Я знаю. Я наробив жахливих речей останніми днями.
+
+
+# Sin
+### Blame me as much as you want.
+PC09B_C2_RJ_CONVINCE-2=Звинувачуй мене, скільки хочеш.
+
+
+# Sin
+### But this detective in the other cell... He shouldn't be kept prisoner.
+PC09B_C2_RJ_CONVINCE-3=Але той детектив у сусідній камері... Його не повинні тримати під вартою.
+
+
+# Sin
+### I'm the only criminal here. I'll plead guilty to all the charges.
+PC09B_C2_RJ_CONVINCE-4=Я єдиний злочинець тут. Я визнаю провину за всіма звинуваченнями.
+
+
+# Sin
+### If there's any bit of friendship left between us. Please...
+PC09B_C2_RJ_CONVINCE-5=Якщо між нами залишилася бодай краплина дружби. Будь ласка...
+
+
+# Sin
+### Let him out!
+PC09B_C2_RJ_CONVINCE-6=Випусти його!
+
+
+# RJ
+### ...
+PC09B_C2_RJ_CONVINCE-7=...
+
+
+# RJ
+### Read my lips.
+PC09B_C2_RJ_CONVINCE-8=Читай по губах.
+
+
+# RJ
+### NO!
+PC09B_C2_RJ_CONVINCE-9=НІ!
+
+
+# Sin
+### ...
+PC09B_C2_RJ_CONVINCE-10=...
+
+
+# Sin
+### Sorry... I tried.
+PC09B_C2_RJ_CONVINCE-11=Вибач... Я намагався.
+
+
+# Brok
+### That's okay. We'll find another way!
+PC09B_C2_RJ_CONVINCE-12=Усе гаразд. Ми знайдемо інший спосіб!
+
+
+#----------------------------------------------------
+# Sin
+### My sink is broken! Can you check?
+PC09B_C2_RJ_SINK-1=Мій умивальник зламався! Можеш перевірити?
+
+
+#----------------------------------------------------
+# RJ
+### Nope. It's not.
+PC09B_C2_RJ_SINKNOTBROKEN-1=Ні. Нормальний він.
+
+
+# Sin
+### Are you sure? I could swear...
+PC09B_C2_RJ_SINKNOTBROKEN-2=Ти впевнений? Присягаюся...
+
+
+# RJ
+### Got perfect vision! Dat sink is fine!
+PC09B_C2_RJ_SINKNOTBROKEN-3=У мене ідеальний зір! З цим умивальником усе гаразд!
+
+
+# RJ
+### Buy yourself new eyes!
+PC09B_C2_RJ_SINKNOTBROKEN-4=Купи собі нові очі!
+
+
+# Sin
+### ...
+PC09B_C2_RJ_SINKNOTBROKEN-5=...
+
+
+# Brok
+### We'll need something more obvious.
+PC09B_C2_RJ_SINKNOTBROKEN-6=Нам знадобиться щось більш очевидне.
+
+
+# Sin
+### Later. I'm tired...
+PC09B_C2_RJ_SINKNOTBROKEN-7=Потім. Я втомився...
+
+
+#----------------------------------------------------
+# RJ
+### Ya won't get me wid dat stupid excuse!
+PC09B_C2_RJ_SINKBROKEN1-1=Ця дурна витівка зі мною не пройде!
+
+
+# Sin
+### It's true! Look!
+PC09B_C2_RJ_SINKBROKEN1-2=Але це правда! Дивись!
+
+
+# RJ
+### ...Uh-oh.
+PC09B_C2_RJ_SINKBROKEN1-3=...Ой-ой.
+
+
+# RJ
+### If da boss sees this... Trouble!
+PC09B_C2_RJ_SINKBROKEN1-4=Якшо бос побачить це... Проблеми!
+
+
+# RJ
+### Okay. I enter and fix dat.
+PC09B_C2_RJ_SINKBROKEN1-5=Гаразд. Я зайду й полагоджу.
+
+
+# RJ
+### No move!
+PC09B_C2_RJ_SINKBROKEN1-6=Ану не рухатися!
+
+
+#----------------------------------------------------
+# RJ
+### Can't be! Whaddya do?!
+PC09B_C2_RJ_SINKBROKEN2-1=Не може бути! Шо ти зробив?!
+
+
+# Sin
+### Nothing! I didn't move!
+PC09B_C2_RJ_SINKBROKEN2-2=Нічого! Я й з місця не зрушив!
+
+
+# RJ
+### Mrph...
+PC09B_C2_RJ_SINKBROKEN2-3=М-ммм...
+
+
+#----------------------------------------------------
+# RJ
+### A--choo!
+PC09B_C2_RJ_SNEEZE1-1=А--пчхи!
+
+
+# RJ
+### Huh?! Where's da cat?
+PC09B_C2_RJ_SNEEZE1-2=Га?! Де кіт?
+
+
+# Sin
+### A cat?
+PC09B_C2_RJ_SNEEZE1-3=Кіт?
+
+
+# RJ
+### Don't play dumb with me!
+PC09B_C2_RJ_SNEEZE1-4=Не прикидайся дурником!
+
+
+# Sin
+### I'm a roo, not a cat. You should know that!
+PC09B_C2_RJ_SNEEZE1-5=Я кенгуру, а не кіт. Ти мав би це знати!
+
+
+# RJ
+### Weird...
+PC09B_C2_RJ_SNEEZE1-6=Дивно...
+
+
+#----------------------------------------------------
+# RJ
+### A--choo!
+PC09B_C2_RJ_SNEEZE2-1=А--пчхи!
+
+
+#----------------------------------------------------
+# RJ
+### Yah! Fixed.
+PC09B_C2_RJ_SINKREPAIR1-1=Є! Полагодив.
+
+
+# Sin
+### Oh... Cool. I guess.
+PC09B_C2_RJ_SINKREPAIR1-2=О... Круто. Мабуть.
+
+
+# RJ
+### Dun bother me again!
+PC09B_C2_RJ_SINKREPAIR1-3=Більше не діставай мене!
+
+
+#----------------------------------------------------
+# RJ
+### Yeah! Dat sink is...
+PC09B_C2_RJ_SNEEZEFULL-1=Так! Цей умивальник...
+
+
+# RJ
+### AAAaaAAa--choo!
+PC09B_C2_RJ_SNEEZEFULL-2=АААааААа--пчхи!
+
+
+# RJ
+### What the... A----c.... CHOO!
+PC09B_C2_RJ_SNEEZEFULL-3=Шо за... А----п... ЧХИ!
+
+
+# Sin
+### Huh?
+PC09B_C2_RJ_SNEEZEFULL-4=Га?
+
+
+# RJ
+### My... achoo!... head... spinnin'...
+PC09B_C2_RJ_SNEEZEFULL-5=Моя... апчхи...! голова... обертом...
+
+
+# RJ
+### Arghhhh... ACHOO!!!
+PC09B_C2_RJ_SNEEZEFULL-6=А-а-аааа... АПЧХИ!!!
+
+
+#----------------------------------------------------
+# Sin
+### What...?
+PC09B_C2_RJ_SNEEZEFULL2-1=Що...?
+
+
+# Brok
+### No time to explain! Get out!
+PC09B_C2_RJ_SNEEZEFULL2-2=Нема часу пояснювати! Виходь звідси!
+
+
+# Sin
+### But...
+PC09B_C2_RJ_SNEEZEFULL2-3=Але...
+
+
+# RJ
+### No...! ALERT...!
+PC09B_C2_RJ_SNEEZEFULL2-4=Ні...! ТРИВОГА...!
+
+
+#----------------------------------------------------
+# RJ
+### Urgh...
+PC09B_C2_RJ_SNEEZEFULL3-1=У-ух...
+
+
+# Sin
+### The barrier... is back.
+PC09B_C2_RJ_SNEEZEFULL3-2=Бар'єр... повернувся.
+
+
+# Brok
+### Oh, great. All this for nada.
+PC09B_C2_RJ_SNEEZEFULL3-3=О, чудово. І все даремно.
+
+
+# Sin
+### (Sigh) Now I'm in even more trouble.
+PC09B_C2_RJ_SNEEZEFULL3-4=(Зітхає) Тепер у мене ще більше проблем.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### (At least the guard is out. Does this change anything?)
+PC09B_C2_RJ_SNEEZEFULL3-5=(Принаймні ми позбулися охоронця. Це щось змінює?)
+
+
+#----------------------------------------------------
+# Brok
+### Forget it.
+PC09B_SIN_RJ_EXIT-1=Забудь.
+
+
+#----------------------------------------------------
+# Brok
+### Stay here.
+PC09B_SIN_EXIT1-1=Лишайся тут.
+
+
+# Sin
+### As if I had a choice...
+PC09B_SIN_EXIT1-2=Ніби в мене є вибір...
+
+
+#----------------------------------------------------
+# Brok
+### Wait. I'll let you know when I need you.
+PC09B_SIN_EXIT2-1=Зачекай. Я дам знати, коли ти мені знадобишся.
+
+
+#----------------------------------------------------
+# Brok
+### Chin up.
+PC09B_SIN_EXIT3-1=Вище носа.
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Nope.
+PC09B_SIN_INV_DEFAULT-1=Е-е... Ні.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, look! Cat fur!
+PC09B_SIN_INV_CATFUR-1=Гей, подивись! Котяча шерсть!
+
+
+# Brok
+### This will get us outta here!
+PC09B_SIN_INV_CATFUR-2=Вона витягне нас звідси!
+
+
+# Sin
+### Great. He's gone insane.
+PC09B_SIN_INV_CATFUR-3=Чудово. Він збожеволів.
+
+
+# Brok
+### You'll see!
+PC09B_SIN_INV_CATFUR-4=Ще побачиш!
+
+
+#----------------------------------------------------
+# Brok - This happens when we have escaped and try to free Sin
+### Wait a sec!
+PC09B_SIN_HASESCAPED1-1=Зачекай секунду!
+
+
+#----------------------------------------------------
+# Brok
+### Go ahead! It's open!
+PC09B_SIN_HASESCAPED_OPEN1-1=Вперед! Вона відкрита!
+
+
+# Sin
+### No...
+PC09B_SIN_HASESCAPED_OPEN1-2=Ні...
+
+
+# Brok
+### Huh?
+PC09B_SIN_HASESCAPED_OPEN1-3=Що?
+
+
+# Sin
+### It's a mistake. I've got to stay.
+PC09B_SIN_HASESCAPED_OPEN1-4=Це помилка. Я маю лишитися.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I need to atone for my sins...
+PC09B_SIN_HASESCAPED_OPEN1-5=Мушу спокутувати свої гріхи...
+
+
+# Brok
+### But... But...!
+PC09B_SIN_HASESCAPED_OPEN1-6=Але... Але...!
+
+
+# Sin
+### You're not responsible for anything.
+PC09B_SIN_HASESCAPED_OPEN1-7=Ти ні в чому не винен.
+
+
+# Sin
+### But me... I'd become a fugitive.
+PC09B_SIN_HASESCAPED_OPEN1-8=Але я... Я стану втікачем.
+
+
+# Brok
+### ...
+PC09B_SIN_HASESCAPED_OPEN1-9=...
+
+
+# Sin
+### What are you waiting for? Go!
+PC09B_SIN_HASESCAPED_OPEN1-10=Чого ти чекаєш? Іди!
+
+
+# Brok
+### Okay but... I'll come back to visit you.
+PC09B_SIN_HASESCAPED_OPEN1-11=Добре, але... я ще повернуся, щоб відвідати тебе.
+
+
+# Sin
+### Right. Just be careful.
+PC09B_SIN_HASESCAPED_OPEN1-12=Добре. Тільки будь обережним.
+
+
+# Brok
+### Always!
+PC09B_SIN_HASESCAPED_OPEN1-13=Завжди!
+
+
+#----------------------------------------------------
+# Brok
+### He wants to stay...
+PC09B_SIN_HASESCAPED_OPEN2-1=Він хоче залишитися...
+
+
+#----------------------------------------------------
+# Sin
+### Hey!!! Hitting me won't change my mind!
+PC09B_SIN_HASESCAPED_HIT-1=Гей!!! Якщо ти битимеш мене, це не змінить моєї думки!
+
+
+# Brok
+### Erm... Sorry.
+PC09B_SIN_HASESCAPED_HIT-2=Е-е... Вибач.
+
+
+#----------------------------------------------------
+# Brok - Search in the meaning of "search through his body for anything interesting"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Can you search R.J.?
+PC09B_SIN_RJDOWN-1=Можеш обшукати Р. Джея?
+
+
+# Sin
+### Why?
+PC09B_SIN_RJDOWN-2=Навіщо?
+
+
+# Brok
+### Maybe he's got a key, a weapon or... somethin'!
+PC09B_SIN_RJDOWN-3=Може, в нього є ключ, зброя чи... щось таке!
+
+
+# Sin
+### I prefer not to touch him. My situation just became even more embarrassing.
+PC09B_SIN_RJDOWN-4=Я волів би не торкатися його. Моя ситуація тільки-но стала ще ганебнішою.
+
+
+# Brok
+### Sorry... This one's on me.
+PC09B_SIN_RJDOWN-5=Вибач... Це моя провина.
+
+
+#----------------------------------------------------
+# RJ - Hitting furtinure to trick R.J.
+### Hey! Whatcha doin'?
+PC09B_HIT_COME1-1=Гей! Шо це ти робиш?
+
+
+# RJ
+### Stop it!
+PC09B_HIT_COME1-2=Припини!
+
+
+#----------------------------------------------------
+# RJ
+### Ya deaf?! Stop! Or I'll get ya!
+PC09B_HIT_COME2-1=Ти шо, глухий?! Перестань! Тобі це не минеться!
+
+
+#----------------------------------------------------
+# RJ - The spelling mistake is on purpose.
+### Last warning! I won't let ya destroy the farniture!
+PC09B_HIT_COME3-1=Останнє попередження! Я не дозволю нищити мабелі!
+
+
+# Brok
+### It's "furniture," you idiot!
+PC09B_HIT_COME3-2=Це називається "меблі", бовдуре!
+
+
+#----------------------------------------------------
+# RJ
+### This is my last warning!
+PC09B_HIT_COME4-1=Це моє останнє попередження!
+
+
+# Brok
+### You just said that! Got short term memory loss?
+PC09B_HIT_COME4-2=Ти тільки-но це казав! Що, проблеми з короткочасною пам'яттю?
+
+
+#----------------------------------------------------
+# RJ
+### Enough!!! You're in for some punishment!
+PC09B_HIT_COME5-1=Годі!!! Зараз ти в мене отримаєш покарання!
+
+
+#----------------------------------------------------
+# RJ
+### Camera off. I'm all yours!
+PC09B_HIT_COME5B-1=Камеру вимкнено. Тепер я весь твій!
+
+
+#----------------------------------------------------
+# RJ
+### Blasted croc!
+PC09B_RJ_GAMEOVER1-1=Клятий крок!
+
+
+# RJ
+### Broke your neck! Ya fool!
+PC09B_RJ_GAMEOVER1-2=Зламав тобі шию! Дурню!
+
+
+# RJ
+### ...
+PC09B_RJ_GAMEOVER1-3=...
+
+
+# RJ
+### Oh... N-no...
+PC09B_RJ_GAMEOVER1-4=О... Н-ні...
+
+
+#----------------------------------------------------
+# RJ
+### Oh, you wanna play, fool? Help is coming!
+PC09B_ALARM_ROBOTS-1=О, погратися захотів, дурню? Допомога вже йде!
+
+
+#----------------------------------------------------
+# Sin - Winning that fight
+### What are you doing?!
+PC09B_ALARM_ROBOTSEND-1=Що ти робиш?!
+
+
+# Sin
+### Everyone must have been alerted! You'll never be able to escape!
+PC09B_ALARM_ROBOTSEND-2=Мабуть, тривога вже всіх сповістила! Тобі ніколи не втекти звідси!
+
+
+# Brok
+### Dun' care! I need to get outta here, no matter how!
+PC09B_ALARM_ROBOTSEND-3=Байдуже! Мені треба забратися звідси, неважливо як!
+
+
+#----------------------------------------------------
+# RJ - Try to hit R.J. from inside the cell
+### Ha-ha! What a fool! You can't reach me.
+PC09B_HURT_GUARD1-1=Ха-ха! Ну й дурень! Ти не дістанеш до мене.
+
+
+#----------------------------------------------------
+# RJ
+### And you call me dumb?!
+PC09B_HURT_GUARD2-1=І ти ше й мене дурнем називаєш?!
+
+
+#----------------------------------------------------
+# RJ - Talk to R.J.
+### Whaddya want?
+PC09B_RJ1-1=Шо треба?
+
+
+#----------------------------------------------------
+# RJ
+### What?
+PC09B_RJ2-1=Шо?
+
+
+#----------------------------------------------------
+# Brok
+### I need to call somebody!
+PC09B_RJ_CALL1-1=Мені треба подзвонити!
+
+
+# RJ
+### No. Ya don't.
+PC09B_RJ_CALL1-2=Ні. Не треба.
+
+
+# Brok
+### Yes I do! It's urgent!
+PC09B_RJ_CALL1-3=Так, треба! Це терміново!
+
+
+# RJ
+### Da boss said to keep ya for the night.
+PC09B_RJ_CALL1-4=Бос сказав тримати тебе тут усю ніч.
+
+
+# RJ
+### Ya'll be free tomorrow.
+PC09B_RJ_CALL1-5=Завтра будеш вільний.
+
+
+# Brok
+### Are you listening? I can't wait that long! I need to inform my...
+PC09B_RJ_CALL1-6=Ти чуєш? Я не можу так довго чекати! Мені треба повідомити мого...
+
+
+# RJ
+### No.
+PC09B_RJ_CALL1-7=Ні.
+
+
+# Brok
+### Hrrmph.
+PC09B_RJ_CALL1-8=Гр-ррр.
+
+
+#----------------------------------------------------
+# Brok
+### Can I at least send a message? My son must be worried sick!
+PC09B_RJ_CALL2-1=Можна я хоча б повідомлення надішлю? Мій син, мабуть, божеволіє від хвилювання!
+
+
+# RJ
+### No.
+PC09B_RJ_CALL2-2=Ні.
+
+
+# Brok
+### Please! I'm begging you!
+PC09B_RJ_CALL2-3=Будь ласка! Я благаю тебе!
+
+
+# RJ
+### No.
+PC09B_RJ_CALL2-4=Ні.
+
+
+# Brok
+### You don't have to tell your boss! It'll be our little secret!
+PC09B_RJ_CALL2-5=Тобі не обов'язково казати босові! Це буде наш маленький секрет!
+
+
+# RJ
+### No.
+PC09B_RJ_CALL2-6=Ні.
+
+
+# Brok
+### How many times do I have to ask?
+PC09B_RJ_CALL2-7=Скільки разів мені ще просити?
+
+
+# RJ
+### How many times I say "no"?!
+PC09B_RJ_CALL2-8=Скільки разів мені сказати "ні"?!
+
+
+# Brok
+### It's pointless.
+PC09B_RJ_CALL2-9=Марно.
+
+
+#----------------------------------------------------
+# Brok
+### I'm afraid I'm not clever enough to convince him.
+PC09B_RJ_CALL3-1=Боюся, в мене розуму не стане, щоб його переконати.
+
+
+# Brok
+### Better find a way out!
+PC09B_RJ_CALL3-2=Краще знайти спосіб втекти!
+
+
+#----------------------------------------------------
+# Brok
+### I... feel sick...
+PC09B_RJ_SICK1-1=Мені... зле...
+
+
+# RJ
+### Who cares?
+PC09B_RJ_SICK1-2=І шо з того?
+
+
+# Brok
+### No, wait... I'm dying... AaaaAaaaArgh!!!
+PC09B_RJ_SICK1-3=Ні, зачекай... Я помираю... АаааАаааАаах!!!
+
+
+# Brok
+### ...
+PC09B_RJ_SICK1-4=...
+
+
+# Brok
+### ...
+PC09B_RJ_SICK1-5=...
+
+
+# Brok
+### Maybe I'd be more convincing if I was blinking?
+PC09B_RJ_SICK1-6=Може, було б більш переконливо, якби я блимав очима?
+
+
+#----------------------------------------------------
+# Brok
+### Arggggh... I feel (Burp)
+PC09B_RJ_SICK2-1=А-а-аах... Мені стає... (Ригає)
+
+
+# RJ
+### Again?!
+PC09B_RJ_SICK2-2=Знову?!
+
+
+# RJ
+### Many tried this before. I'm no fool anymore.
+PC09B_RJ_SICK2-3=Ти не перший, хто додумався до такої витівки. Цим мене вже не обдуриш.
+
+
+# Brok
+### (Falls flat)
+PC09B_RJ_SICK2-4=(Падає долілиць)
+
+
+# RJ
+### Nope!
+PC09B_RJ_SICK2-5=Ні!
+
+
+# Brok
+### ...
+PC09B_RJ_SICK2-6=...
+
+
+# RJ
+### Can still hear your breathing.
+PC09B_RJ_SICK2-7=Я все ше чую, як ти дихаєш.
+
+
+# Brok
+### I'm not!
+PC09B_RJ_SICK2-8=А от і ні!
+
+
+# Brok
+### ...
+PC09B_RJ_SICK2-9=...
+
+
+#----------------------------------------------------
+# Brok
+### I need to get myself some acting lessons.
+PC09B_RJ_SICK2B-1=Мені треба піти на уроки акторської майстерності.
+
+
+#----------------------------------------------------
+# Brok
+### Nope. I'm just making a fool of myself.
+PC09B_RJ_SICK3-1=Ні. Я просто виставляю себе дурнем.
+
+
+#----------------------------------------------------
+# Brok
+### Got something for ya!
+PC09B_RJ_GIVE1-1=Я маю дещо для тебе!
+
+
+# RJ
+### Oh, yeah? What? I love gifts!
+PC09B_RJ_GIVE1-2=О, так? А шо? Я люблю подарунки!
+
+
+# Brok
+### Come here and I'll give it to ya!
+PC09B_RJ_GIVE1-3=Підійди сюди, і я дам це тобі!
+
+
+# RJ
+### Okay!
+PC09B_RJ_GIVE1-4=Добре!
+
+
+# RJ
+### ...
+PC09B_RJ_GIVE1-5=...
+
+
+# RJ
+### No! Da boss said never open da cell unless necessary!
+PC09B_RJ_GIVE1-6=Ні! Бос казав ніколи не відкривати камери, якшо немає потреби!
+
+
+# Brok
+### But it's necessary you open it to get your gift!
+PC09B_RJ_GIVE1-7=Але ж тобі необхідно відкрити її, щоб забрати свій подарунок!
+
+
+# RJ
+### Yeah...? Err... no!
+PC09B_RJ_GIVE1-8=Та ну...? Е-е... ні!
+
+
+# RJ
+### Stop it! Yer confusing my brain!
+PC09B_RJ_GIVE1-9=Припини! Ти мені мізки плутаєш!
+
+
+# Brok
+### Darn! It almost worked!
+PC09B_RJ_GIVE1-10=Чорт! Майже спрацювало!
+
+
+#----------------------------------------------------
+# Brok
+### Nah. He won't be fooled.
+PC09B_RJ_GIVE2-1=Ні. Його не проведеш.
+
+
+#----------------------------------------------------
+# Brok
+### (Seems like the big and dumb type. But appearances can be deceptive.)
+PC09B_RJ_THINK1-1=(На вигляд він як тупий здоровань. Але зовнішність буває оманлива.)
+
+
+#----------------------------------------------------
+# Brok
+### I... forgot why I called you...
+PC09B_RJ_EXIT1-1=Я... забув, навіщо покликав тебе...
+
+
+# RJ
+### Stop wasting my time!
+PC09B_RJ_EXIT1-2=Досить гаяти мій час!
+
+
+# Brok
+### Sorry!
+PC09B_RJ_EXIT1-3=Вибач!
+
+
+#----------------------------------------------------
+# Brok
+### Better not...
+PC09B_RJ_INV_DEFAULT-1=Не варто...
+
+
+#----------------------------------------------------
+# Brok
+### Alright, no cheating.
+PC09B_RJ_INV_CATFUR-1=Гаразд, більше ніяких хитрощів.
+
+
+# Brok
+### Come here and I'll give you this super soft cat fur!
+PC09B_RJ_INV_CATFUR-2=Підійди сюди, і я дам тобі цю суперм'яку котячу шерсть!
+
+
+# RJ
+### Argh! Get that away from me!!!
+PC09B_RJ_INV_CATFUR-3=А-аа! Забери це подалі від мене!!!
+
+
+# Brok
+### ...It already is away from you.
+PC09B_RJ_INV_CATFUR-4=...Вона й так далеко від тебе.
+
+
+# RJ
+### (Sneeze) Not enough!
+PC09B_RJ_INV_CATFUR-5=(Апчхи) Недостатньо!
+
+
+# Brok
+### Hmm.
+PC09B_RJ_INV_CATFUR-6=Гмм.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, ya dumb face! You stink!
+PC09B_RJ_INSULT1-1=Гей, дурна пика! Від тебе тхне!
+
+
+# RJ
+### Whaddya say about my mom?!
+PC09B_RJ_INSULT1-2=Шо ти сказав про мою маму?!
+
+
+# Brok
+### Huh? I didn't mention your...
+PC09B_RJ_INSULT1-3=Га? Я й слова не казав про твою...
+
+
+# RJ
+### Just come and fight! I'll teach ya!
+PC09B_RJ_INSULT1-4=Ану йди сюди, будемо битися! Я провчу тебе!
+
+
+# Brok
+### ...I can't, you dumb.
+PC09B_RJ_INSULT1-5=...Я не можу, бовдуре.
+
+
+# RJ
+### Oh... yeah! Then...
+PC09B_RJ_INSULT1-6=О... точно! Тоді...
+
+
+# RJ
+### Too bad.
+PC09B_RJ_INSULT1-7=Шкода.
+
+
+# Brok
+### What?! Hey! Come back, you moron!
+PC09B_RJ_INSULT1-8=Що?! Гей! Повернися, йолопе!
+
+
+# Brok
+### That... didn't work how I expected it to.
+PC09B_RJ_INSULT1-9=Це... спрацювало не так, як я очікував.
+
+
+#----------------------------------------------------
+# Brok
+### Your butt is twice the size of your head!
+PC09B_RJ_INSULT2-1=Твоя дупа вдвічі більша за твою голову!
+
+
+# RJ
+### I know.
+PC09B_RJ_INSULT2-2=Я знаю.
+
+
+# Brok
+### Err...
+PC09B_RJ_INSULT2-3=Е-е...
+
+
+# Brok
+### You must have been conceived on a highway because that's where most accidents happen!
+PC09B_RJ_INSULT2-4=Тебе, мабуть, зачали на трасі, бо саме там стається більшість нещасних випадків!
+
+
+# RJ
+### True.
+PC09B_RJ_INSULT2-5=Правда.
+
+
+# Brok
+### What...?
+PC09B_RJ_INSULT2-6=Що...?
+
+
+# Brok
+### Another failed attempt.
+PC09B_RJ_INSULT2-7=Ще одна невдала спроба.
+
+
+#----------------------------------------------------
+# Brok
+### (I'm not used to insulting people. I've already wasted my vulgar vocabulary...)
+PC09B_RJ_INSULT3-1=(Я не звик ображати людей. Я вже вичерпав увесь свій вульгарний словниковий запас...)
+
+
+#----------------------------------------------------
+# Brok
+### There's something wrong with my sink!
+PC09B_RJ_REPAIR1-1=З моїм умивальником щось не так!
+
+
+#----------------------------------------------------
+# Brok
+### I still need help with the sink! It's terrible!
+PC09B_RJ_REPAIR2-1=Мені все ще потрібна допомога з умивальником! Це просто жах!
+
+
+#----------------------------------------------------
+# RJ
+### Really?! Where's dat sink?
+PC09B_RJ_REPAIRNOSINK1-1=Справді?! А де той умивальник?
+
+
+# Brok
+### Oh, erm... I forgot to push the correct button...
+PC09B_RJ_REPAIRNOSINK1-2=О, е-е... я забув натиснути потрібну кнопку...
+
+
+# Brok
+### Wait! I just...
+PC09B_RJ_REPAIRNOSINK1-3=Зачекай! Я лише...
+
+
+# RJ
+### Pfft.
+PC09B_RJ_REPAIRNOSINK1-4=Пхе.
+
+
+#----------------------------------------------------
+# RJ
+### Can't see anything wrong.
+PC09B_RJ_SINKNOTDAMAGED1-1=Не бачу нічого зламаного.
+
+
+# Brok
+### Yes, there is! It's leaking!
+PC09B_RJ_SINKNOTDAMAGED1-2=Та ні, є! Він протікає!
+
+
+# Brok
+### Come closer!
+PC09B_RJ_SINKNOTDAMAGED1-3=Підійди ближче!
+
+
+# RJ
+### Not urgent. Dat can wait 'til tomorrow.
+PC09B_RJ_SINKNOTDAMAGED1-4=Не терміново. Це може почекати до завтра.
+
+
+# Brok
+### Wait...!
+PC09B_RJ_SINKNOTDAMAGED1-5=Зачекай...!
+
+
+# Brok
+### He's the "I only believe what I see" kinda guy...
+PC09B_RJ_SINKNOTDAMAGED1-6=Він із тих, хто вірить лише власним очам...
+
+
+#----------------------------------------------------
+# RJ
+### Obviously. I saw ya hit it, ya moron!
+PC09B_RJ_SINKDAMAGED1-1=Це ж очевидно. Я бачив, як ти по ньому вдарив, йолопе!
+
+
+# Brok
+### Well of course! I was trying to fix it!
+PC09B_RJ_SINKDAMAGED1-2=Ну звісно! Я намагався його відремонтувати!
+
+
+# RJ
+### Doesn't matter. It ain't broken.
+PC09B_RJ_SINKDAMAGED1-3=Байдуже. Він не зламаний.
+
+
+# Brok
+### I swear it is...!
+PC09B_RJ_SINKDAMAGED1-4=Присягаюся, що зламаний...!
+
+
+# Brok
+### Darn. Hitting that sink didn't seem to damage it at all!
+PC09B_RJ_SINKDAMAGED1-5=Дідько. Схоже, удар по умивальнику взагалі його не пошкодив!
+
+
+# Brok
+### Better find another solution.
+PC09B_RJ_SINKDAMAGED1-6=Краще знайти інше рішення.
+
+
+#----------------------------------------------------
+# Brok
+### Ten to one you have no idea how the security works for this cell!
+PC09B_RJ_LASERS1-1=Десять проти одного, що ти й гадки не маєш, як працює система безпеки в цій камері!
+
+
+# RJ
+### Sure, I do!
+PC09B_RJ_LASERS1-2=А от і маю!
+
+
+# RJ
+### That energy barrier is so-lid.
+PC09B_RJ_LASERS1-3=Цей енергетичний бар'єр на-дій-ний.
+
+
+# RJ
+### Can't get anythin' through! Not even a toothpick!
+PC09B_RJ_LASERS1-4=Нішо через нього не пройде! Навіть зубочистка!
+
+
+# Brok
+### What's the camera for? Are you watching us?
+PC09B_RJ_LASERS1-5=А навіщо камера? Ти за нами стежиш?
+
+
+# RJ
+### Nah! Ain't got time for dat!
+PC09B_RJ_LASERS1-6=Ні! Не маю часу на це!
+
+
+# RJ
+### See those ears of mine? If ya do anything suspect...
+PC09B_RJ_LASERS1-7=Бачиш мої вуха? Якшо ти зробиш шось підозріле...
+
+
+# RJ
+### No matter where I am. I'll hear it!
+PC09B_RJ_LASERS1-8=Де б я не був, я це почую!
+
+
+# Brok
+### Then what's it for?
+PC09B_RJ_LASERS1-9=Тоді для чого вона?
+
+
+# RJ
+### We got ya body scanned.
+PC09B_RJ_LASERS1-10=Ми просканували твоє тіло.
+
+
+# RJ
+### If da camera detects you tryin' to get out, or anythin' weird.
+PC09B_RJ_LASERS1-11=Якшо камера зафіксує, шо ти намагаєшся вибратися чи робиш шось дивне.
+
+
+# RJ
+### Poof! The alarm.
+PC09B_RJ_LASERS1-12=Шух! І сигналізація.
+
+
+# Brok
+### Alright, then. Let's say...
+PC09B_RJ_LASERS1-13=Гаразд, тоді. Скажімо...
+
+
+# Brok
+### What would happen if the camera was cut off... somehow?
+PC09B_RJ_LASERS1-14=Що б сталося, якби камеру вимкнули... якось?
+
+
+# RJ
+### Duh! The barrier is still there, ya dummy!
+PC09B_RJ_LASERS1-15=Тю! Бар'єр усе одно нікуди не дінеться, бовдуре!
+
+
+# RJ
+### Ya'd need to touch the panel to open it, and ya can't!
+PC09B_RJ_LASERS1-16=Тобі довелося б торкнутися панелі, шоб його зняти, а ти не зможеш!
+
+
+# Brok
+### The touch panel. It detects fingerprints?
+PC09B_RJ_LASERS1-17=Сенсорна панель. Вона розпізнає відбитки пальців?
+
+
+# RJ
+### Nah. Just a switch. Anythin' can push it.
+PC09B_RJ_LASERS1-18=Ні. Просто перемикач. Будь-шо може на нього натиснути.
+
+
+# RJ
+### Except ya! It's on the other side! Ha ha!
+PC09B_RJ_LASERS1-19=Крім тебе! Бо він з іншого боку! Ха-ха!
+
+
+# Brok
+### Yeah. It's out of reach.
+PC09B_RJ_LASERS1-20=Так. Я не можу до дотягнутися до панелі.
+
+
+# Brok
+### For now.
+PC09B_RJ_LASERS1-21=Поки що.
+
+
+#----------------------------------------------------
+# Brok
+### So, let me get that straight.
+PC09B_RJ_LASERS2-1=Отже, давай уточнимо.
+
+
+# Brok
+### The barrier prevents things from getting out. Even paper-thin objects.
+PC09B_RJ_LASERS2-2=Бар'єр не дає речам вибратися. Навіть тонким як папір предметам.
+
+
+# Brok
+### The camera emits an alarm if I get out or a suspicious behavior is detected.
+PC09B_RJ_LASERS2-3=Камера вмикає сигналізацію, якщо я виберуся або буде виявлено підозрілу поведінку.
+
+
+# Brok
+### And anything can touch the panel to open the cell.
+PC09B_RJ_LASERS2-4=І будь-що може торкнутися панелі, щоб відкрити камеру.
+
+
+# RJ
+### Yeah!
+PC09B_RJ_LASERS2-5=Ага!
+
+
+# RJ
+### ...
+PC09B_RJ_LASERS2-6=...
+
+
+# RJ
+### Wait. Don't ya dare try anythin'!
+PC09B_RJ_LASERS2-7=Чекай. Навіть не думай шось утнути!
+
+
+# Brok
+### Who? Me...?
+PC09B_RJ_LASERS2-8=Хто? Я...?
+
+
+# RJ
+### Got my ear on ya!
+PC09B_RJ_LASERS2-9=Мої вуха все чують!
+
+
+# Brok
+### Then I shall get as silent as a croc. I mean, grave!
+PC09B_RJ_LASERS2-10=Тоді я буду тихим, як крок. Тобто, як могила!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### You need to forgive Sin.
+PC09B_RJ_SIN1-1=Ти мусиш пробачити Сінові.
+
+
+# Brok
+### He did all this for a good reason.
+PC09B_RJ_SIN1-2=Він зробив це з поважної причини.
+
+
+# RJ
+### Dun' care.
+PC09B_RJ_SIN1-3=Байдуже.
+
+
+# RJ
+### Thought he's my friend. No. He's a criminal!
+PC09B_RJ_SIN1-4=Думав, він мій друг. Ні. Він злочинець!
+
+
+# RJ
+### Criminals get arrested. It's what we do.
+PC09B_RJ_SIN1-5=Злочинців арештовують. Така наша робота.
+
+
+# Brok
+### You don't understand!
+PC09B_RJ_SIN1-6=Ти не розумієш!
+
+
+# Brok
+### Think with your heart! Wouldn't you have done the same if you had a child?
+PC09B_RJ_SIN1-7=Подумай серцем! Хіба ти не вчинив би так само, якби мав дитину?
+
+
+# Sin
+### Please stop...
+PC09B_RJ_SIN1-8=Будь ласка, припини...
+
+
+# RJ
+### Shut up, ya both!
+PC09B_RJ_SIN1-9=Заткніться обидва!
+
+
+# Brok
+### Sorry...
+PC09B_RJ_SIN1-10=Вибач...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### (Sin doesn't want me to insist. I should respect his decision.)
+PC09B_RJ_SIN2-1=(Сін не хоче, щоб я наполягав. Я маю поважати його рішення.)
+
+
+#----------------------------------------------------
+# Brok
+### (Hmm... I can think of several options.)
+PC09B_RJ_SUBTERFUGE1-1=(Гмм... Здається, у мене є кілька варіантів.)
+
+
+#----------------------------------------------------
+# Brok - A hidden chest in the last cell
+### Whatever's in there must be valuable.
+PC09B_CHESTLOOK1-1=Що б там не було, воно має бути цінним.
+
+
+# Brok
+### Hence why it's protected.
+PC09B_CHESTLOOK1-2=Ось чому воно під захистом.
+
+
+#----------------------------------------------------
+# Brok
+### Done!
+PC09B_CHESTLOOK2-1=Готово!
+
+
+#----------------------------------------------------
+# Brok
+### What's in there...?
+PC09B_CHEST1-1=Що там усередині...?
+
+
+#----------------------------------------------------
+# Brok
+### Must have been a fraudster's belongings.
+PC09B_CHEST1B-1=Це, мабуть, речі якогось шахрая.
+
+
+# Brok
+### These will be safer with me!
+PC09B_CHEST1B-2=У мене вони будуть у більшій безпеці!
+
+
+#----------------------------------------------------
+# Brok
+### Yeah, there's more.
+PC09B_CHEST2-1=Так, тут є ще щось.
+
+
+# Brok
+### But only things I wouldn't dare to touch with my bare hands.
+PC09B_CHEST2-2=Але тільки речі, до яких я б не наважився торкатися голими руками.
+
+
+#----------------------------------------------------
+# Dee - Day 3 - Rescue Sin with Dee but he is nowhere to be found
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin!
+PC09B_RESCUE1-1=Сіне!
+
+
+#----------------------------------------------------
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin!!!
+PC09B_RESCUE1B-1=Сіне!!!
+
+
+# Dee
+### Where is he?!
+PC09B_RESCUE1B-2=Де він?!
+
+
+# Brok
+### ...
+PC09B_RESCUE1B-3=...
+
+
+# Brok
+### Are we... Too late...?
+PC09B_RESCUE1B-4=Ми... запізнилися...?
+
+
+# Dee
+### N... No!...
+PC09B_RESCUE1B-5=Н... Ні!...
+
+
+#----------------------------------------------------
+# Mink - If we charged Mink in chapter 4
+### Hey! What's going on?
+PC09B_RESCUE_MINK1-1=Гей! Що відбувається?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Doctor Mink.
+PC09B_RESCUE_MINK1-2=Доктор Мінк.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Was Sin here?
+PC09B_RESCUE_MINK1-3=Сін був тут?
+
+
+# Mink
+### The roo?
+PC09B_RESCUE_MINK1-4=Кенгуру?
+
+
+# Mink
+### Yeah. He left earlier.
+PC09B_RESCUE_MINK1-5=Так. Він пішов раніше.
+
+
+# Mink
+### I repeat. What's going on?
+PC09B_RESCUE_MINK1-6=Я повторюю. Що відбувається?
+
+
+# Brok
+### You're in danger here.
+PC09B_RESCUE_MINK1-7=Ви тут у небезпеці.
+
+
+# Mink
+### What...?
+PC09B_RESCUE_MINK1-8=Що...?
+
+
+# Brok
+### I'll release you.
+PC09B_RESCUE_MINK1-9=Я звільню вас.
+
+
+# Mink
+### Nice of you, after putting me here!
+PC09B_RESCUE_MINK1-10=Це так мило з вашого боку, після того, як ви посадили мене сюди!
+
+
+#----------------------------------------------------
+# Guard - If we charged Guard in chapter 4
+### What the heck is going on, man?!
+PC09B_RESCUE_GUARD1-1=Що за чорт відбувається, а?!
+
+
+# Brok
+### Oh. It's you.
+PC09B_RESCUE_GUARD1-2=О. Це ти.
+
+
+# Brok
+### No time to explain but...
+PC09B_RESCUE_GUARD1-3=Немає часу пояснювати, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Was Sin here?
+PC09B_RESCUE_GUARD1-4=Сін був тут?
+
+
+# Guard
+### That depressive roo? Man, is he a crybaby.
+PC09B_RESCUE_GUARD1-5=Той депресивний кенгуру? Ну й плаксій він.
+
+
+# Guard
+### Yeah, he left a bit earlier.
+PC09B_RESCUE_GUARD1-6=Так, він пішов трохи раніше.
+
+
+# Brok
+### Darn...
+PC09B_RESCUE_GUARD1-7=Чорт...
+
+
+# Brok
+### You can't stay here.
+PC09B_RESCUE_GUARD1-8=Ти не можеш тут залишатися.
+
+
+# Guard
+### What...?
+PC09B_RESCUE_GUARD1-9=Що...?
+
+
+# Brok
+### I'll release you.
+PC09B_RESCUE_GUARD1-10=Я звільню тебе.
+
+
+# Guard
+### Finally some good news!
+PC09B_RESCUE_GUARD1-11=Нарешті якісь хороші новини!
+
+
+#----------------------------------------------------
+# Dee
+### ...
+PC09B_RESCUE1B2-1=...
+
+
+# Dee
+### This can't be happening...
+PC09B_RESCUE1B2-2=Не може бути...
+
+
+# Dee
+### I couldn't even...
+PC09B_RESCUE1B2-3=Я навіть не змогла...
+
+
+# Dee
+### Tell him...
+PC09B_RESCUE1B2-4=Сказати йому...
+
+
+#----------------------------------------------------
+# Brok
+### The alarm. It stopped...?
+PC09B_RESCUE_ALARMSTOP-1=Сигналізація. Вона стихла...?
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh)
+PC09B_RESCUE1C_NOSIN-1=(Зітхає)
+
+
+# Brok
+### I should have got him out of here when I could...
+PC09B_RESCUE1C_NOSIN-2=Мені слід було витягти його звідси, коли була така можливість...
+
+
+#----------------------------------------------------
+# Brok - Sin can or cannot be alive according to choices - here he is
+### (Sigh)
+PC09B_RESCUE1C-1=(Зітхає)
+
+
+# Brok
+### Maybe... There's still...
+PC09B_RESCUE1C-2=Може... Все ще...
+
+
+# Unknown
+### (...)
+PC09B_RESCUE1C-3=(...)
+
+
+# Brok
+### A call?
+PC09B_RESCUE1C-4=Дзвінок?
+
+
+# Brok
+### (Click)
+PC09B_RESCUE1C-5=(Клік)
+
+
+# Sin
+### Hey, man. Sorry to call you but... I couldn't think of anyone else.
+PC09B_RESCUE1C-6=Гей, чувак. Вибач, що телефоную, але... я більше ні до кого не міг звернутися.
+
+
+# Brok
+### ...!
+PC09B_RESCUE1C-7=...!
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin!!!
+PC09B_RESCUE1C-8=Сіне!!!
+
+
+# Dee
+### I... I thought you were...!
+PC09B_RESCUE1C-9=Я... Я думала, що ти...!
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee? Is that you?!
+PC09B_RESCUE1C-10=Ді? Це ти?!
+
+
+# Dee
+### I believe you now! I'm so sorry!
+PC09B_RESCUE1C-11=Я тобі вже вірю! Вибач мені!
+
+
+# Sin
+### I am too...
+PC09B_RESCUE1C-12=І ти мені вибач...
+
+
+# Sin
+### Wait, where are you? This looks like...
+PC09B_RESCUE1C-13=Зачекай, а де ви? Це схоже на...
+
+
+# Brok
+### How did you get outta jail?
+PC09B_RESCUE1C-14=Як ти вибрався з в'язниці?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief of police.
+PC09B_RESCUE1C-15=Шеф поліції.
+
+
+# Sin
+### He said I was free to go.
+PC09B_RESCUE1C-16=Він сказав, що я вільний.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee... I...
+PC09B_RESCUE1C-17=Ді... Я...
+
+
+# Dee
+### Don't say anything!
+PC09B_RESCUE1C-18=Нічого не кажи!
+
+
+# Dee
+### Our daughter is waiting for you at home.
+PC09B_RESCUE1C-19=Наша донька чекає на тебе вдома.
+
+
+# Dee
+### My... friends are taking care of her. Please get her back.
+PC09B_RESCUE1C-20=Мої... друзі доглядають за нею. Будь ласка, забери її.
+
+
+# Sin
+### But... Are you sure...
+PC09B_RESCUE1C-21=Але... Ти впевнена...
+
+
+# Dee
+### Where are you? I'll help you come back safely.
+PC09B_RESCUE1C-22=Де ти? Я допоможу тобі безпечно повернутися додому.
+
+
+# Sin
+### (Cough, cough) I'm hiding in my apartment. What's left of it...
+PC09B_RESCUE1C-23=(Кашляє) Я ховаюся у своїй квартирі. З того, що від неї залишилося...
+
+
+# Dee
+### You're okay?
+PC09B_RESCUE1C-24=Ти в порядку?
+
+
+# Sin
+### I couldn't get a pill today. (Cough)
+PC09B_RESCUE1C-25=Я не зміг дістати пігулку сьогодні. (Кашляє)
+
+
+# Sin
+### And... I got some other trouble myself.
+PC09B_RESCUE1C-26=І... в мене ще й інші проблеми.
+
+
+# Brok
+### Bots...?
+PC09B_RESCUE1C-27=Боти...?
+
+
+# Sin
+### Yeah. I managed to outrun them but... This was close!
+PC09B_RESCUE1C-28=Так. Мені вдалося від них утекти, але... Вони мене майже піймали!
+
+
+# Dee
+### Oh my...
+PC09B_RESCUE1C-29=Ох...
+
+
+# Brok
+### So I'm not the only one they're targeting?
+PC09B_RESCUE1C-30=Тож я не єдиний, на кого вони полюють?
+
+
+# Sin
+### What's going on...?
+PC09B_RESCUE1C-31=Що відбувається...?
+
+
+# Dee
+### I'll explain on the road.
+PC09B_RESCUE1C-32=Я поясню по дорозі.
+
+
+# Dee
+### Stay where you are, dear!
+PC09B_RESCUE1C-33=Залишайся там, де ти є, любий!
+
+
+# Sin
+### Alright...
+PC09B_RESCUE1C-34=Добре...
+
+
+# Sin
+### Love you.
+PC09B_RESCUE1C-35=Кохаю тебе.
+
+
+# Unknown
+### [...]
+PC09B_RESCUE1C-36=[...]
+
+
+# Dee
+### Gotta go!
+PC09B_RESCUE1C-37=Треба бігти!
+
+
+#----------------------------------------------------
+# Brok
+### Wait! Aren't you forgetting someone...?
+PC09B_RESCUE1D-1=Зачекай! Хіба ти нікого не забула...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### We promised Dr. Gherkin we would come back.
+PC09B_RESCUE1D-2=Ми обіцяли докторові Геркіну, що повернемося.
+
+
+# Dee
+### Will do. As soon as my man is safe back home.
+PC09B_RESCUE1D-3=Так і зробимо. Як тільки мій чоловік повернеться додому, в безпеці.
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09B_RESCUE1E-1=...
+
+
+# Wes
+### Can you explain your presence here?
+PC09B_RESCUE1E-2=Можеш пояснити, що ти тут робиш?
+
+
+# Wes
+### And who is your charming friend?
+PC09B_RESCUE1E-3=І хто твоя чарівна подруга?
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Let me guess. The chief of police?
+PC09B_RESCUE1E-4=Дай вгадаю. Шеф поліції?
+
+
+#----------------------------------------------------
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Where's Sin?!
+PC09B_RESCUE1E_NOSIN-1=Де Сін?!
+
+
+# Wes
+### I've released him earlier.
+PC09B_RESCUE1E_NOSIN-2=Я звільнив його раніше.
+
+
+# Wes
+### And your presence here may confirm my suspicions.
+PC09B_RESCUE1E_NOSIN-3=І ваша присутність тут може підтвердити мої підозри.
+
+
+# Brok
+### What suspicions?
+PC09B_RESCUE1E_NOSIN-4=Які підозри?
+
+
+# Wes
+### The bots. They're supposed to take care of prisoners.
+PC09B_RESCUE1E_NOSIN-5=Боти. Вони повинні опікуватися ув'язненими.
+
+
+# Wes
+### However... They've displayed strange behaviors lately.
+PC09B_RESCUE1E_NOSIN-6=Однак... Останнім часом вони поводяться дивно.
+
+
+# Wes
+### I can't trust them anymore.
+PC09B_RESCUE1E_NOSIN-7=Я більше не можу їм довіряти.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I took it upon myself to lead Sin out of here until the situation is resolved.
+PC09B_RESCUE1E_NOSIN-8=Я взяв на себе відповідальність вивести Сіна звідси, поки ситуація не вирішиться.
+
+
+# Dee
+### Where is he now?!
+PC09B_RESCUE1E_NOSIN-9=Де він зараз?!
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Probably still in the Slums. I left him at his apartment.
+PC09B_RESCUE1E_NOSIN-10=Ймовірно, все ще в Нетрях. Я залишив його в нього вдома.
+
+
+# Dee
+### I gotta go.
+PC09B_RESCUE1E_NOSIN-11=Мені треба бігти.
+
+
+# Brok
+### Wait! What about...
+PC09B_RESCUE1E_NOSIN-12=Зачекай! А як щодо...
+
+
+# Dee
+### Call you later.
+PC09B_RESCUE1E_NOSIN-13=Наберу тебе пізніше.
+
+
+# Brok
+### ...
+PC09B_RESCUE1E_NOSIN-14=...
+
+
+# Brok
+### And the pills shortage?
+PC09B_RESCUE1E_NOSIN-15=А нестача пігулок?
+
+
+# Wes
+### It's probable everything is linked.
+PC09B_RESCUE1E_NOSIN-16=Цілком ймовірно, що все це пов'язано.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Hmm... Dee said she has proof of criminals getting murdered.
+PC09B_RESCUE1E_NOSIN-17=Гмм... Ді казала, що має докази вбивств злочинців.
+
+
+# Brok
+### But I can't see any obvious connection.
+PC09B_RESCUE1E_NOSIN-18=Але я не бачу очевидного зв'язку.
+
+
+#----------------------------------------------------
+# Brok
+### Erm...
+PC09B_RESCUE1E_SIN-1=Е-е...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### We've come to free Sin. She's a journalist and Sin is...
+PC09B_RESCUE1E_SIN-2=Ми прийшли звільнити Сіна. Вона журналістка, а Сін...
+
+
+# Wes
+### I see.
+PC09B_RESCUE1E_SIN-3=Я розумію.
+
+
+# Wes
+### That explains all the wrecked bots everywhere.
+PC09B_RESCUE1E_SIN-4=Це пояснює, чому всюди валяються розтрощені боти.
+
+
+# Brok
+### Sorry...
+PC09B_RESCUE1E_SIN-5=Вибачте...
+
+
+# Wes
+### Hmph. They're replaceable.
+PC09B_RESCUE1E_SIN-6=Гмм. Їх можна замінити.
+
+
+# Brok
+### We didn't have a choice. He was in danger!
+PC09B_RESCUE1E_SIN-7=У нас не було вибору. Він був у небезпеці!
+
+
+# Wes
+### Hmm...
+PC09B_RESCUE1E_SIN-8=Гмм...
+
+
+# Wes
+### Thus I'm not the only one suspecting something fishy. Am I right?
+PC09B_RESCUE1E_SIN-9=Отже, не я один підозрюю щось недобре. Чи не так?
+
+
+# Brok
+### You... You knew...?
+PC09B_RESCUE1E_SIN-10=Ви... Ви знали...?
+
+
+# Wes
+### Complications seem to accumulate these days.
+PC09B_RESCUE1E_SIN-11=Схоже, цими днями накопичуються ускладнення.
+
+
+# Wes
+### No need to worry. I will handle this.
+PC09B_RESCUE1E_SIN-12=Не варто хвилюватися. Я з цим розберуся.
+
+
+# Wes
+### This country has seen many stressful periods over the years.
+PC09B_RESCUE1E_SIN-13=Ця країна бачила чимало важких періодів за ці роки.
+
+
+# Dee
+### No! This is different!
+PC09B_RESCUE1E_SIN-14=Ні! Це інше!
+
+
+# Dee
+### Our judicial system has gone very wrong.
+PC09B_RESCUE1E_SIN-15=Наша судова система пішла зовсім неправильним шляхом.
+
+
+# Dee
+### Criminals are systematically murdered!
+PC09B_RESCUE1E_SIN-16=Злочинців систематично вбивають!
+
+
+# Wes
+### Hmph. And why should I believe you?
+PC09B_RESCUE1E_SIN-17=Гмм. І чому я маю вам вірити?
+
+
+# Dee
+### I'm... a journalist.
+PC09B_RESCUE1E_SIN-18=Я... журналістка.
+
+
+# Dee
+### I have proof...! I've spent the last few months gathering information!
+PC09B_RESCUE1E_SIN-19=У мене є докази...! Я провела останні кілька місяців, збираючи інформацію!
+
+
+#----------------------------------------------------
+# Wes
+### Proof...
+PC09B_RESCUE1E_AFTER-1=Докази...
+
+
+# Wes
+### We should share our information. But not here.
+PC09B_RESCUE1E_AFTER-2=Нам слід поділитися інформацією. Але не тут.
+
+
+#----------------------------------------------------
+# Wes
+### More bots are on their way to replace the ones you've destroyed and I have no control over them.
+PC09B_RESCUE1E_BOTSDESTROYED-1=Сюди прямують нові боти, щоб замінити тих, яких ви знищили, і я їх не контролюю.
+
+
+#----------------------------------------------------
+# Wes
+### Let's meet at the ancient Garbage Disposal Center. In one hour.
+PC09B_RESCUE1E_AFTER2-1=Зустрінемося у старому центрі знищення сміття. Через годину.
+
+
+# Brok
+### Ya sure...? No one ever goes there...
+PC09B_RESCUE1E_AFTER2-2=Ви впевнені...? Туди ніхто ніколи не ходить...
+
+
+# Wes
+### All the more reason.
+PC09B_RESCUE1E_AFTER2-3=Тим більше причин.
+
+
+# Wes
+### It's an open area. We wouldn't be spied on without knowing it.
+PC09B_RESCUE1E_AFTER2-4=Це відкрита територія. За нами не зможуть шпигувати непомітно.
+
+
+#----------------------------------------------------
+# Dee
+### Fine. Let's meet there.
+PC09B_RESCUE1E_AFTERSIN-1=Добре. Зустрінемося там.
+
+
+#----------------------------------------------------
+# Dee
+### ...
+PC09B_RESCUE1F-1=...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### And... Brok...
+PC09B_RESCUE1F-2=І... Броку...
+
+
+# Dee
+### Thank you. I owe you one.
+PC09B_RESCUE1F-3=Дякую. Я перед тобою в боргу.
+
+
+#----------------------------------------------------
+# Mink
+### Hey! What about me...?
+PC09B_RESCUEEND_MINK1-1=Гей! А як щодо мене...?
+
+
+# Mink
+### Am I free to go?
+PC09B_RESCUEEND_MINK1-2=Я можу йти?
+
+
+#----------------------------------------------------
+# Guard
+### Got no idea what you guys are talking about but...
+PC09B_RESCUEEND_GUARD1-1=Поняття не маю, про що ви розмовляєте, але...
+
+
+# Guard
+### I wanna leave this stinking place.
+PC09B_RESCUEEND_GUARD1-2=Я хочу забратися з цього смердючого місця.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Yeah! Why release Sin and not him?
+PC09B_RESCUEEND_NEXT-1=Так! Чому ви звільнили Сіна, а не його?
+
+
+# Wes
+### I always treat problems one at a time.
+PC09B_RESCUEEND_NEXT-2=Я завжди вирішую проблеми по черзі.
+
+
+# Wes
+### Regardless. You're the reason he's been incarcerated.
+PC09B_RESCUEEND_NEXT-3=Як би там не було, саме через тебе він опинився за ґратами.
+
+
+# Wes
+### Your decision.
+PC09B_RESCUEEND_NEXT-4=Рішення за тобою.
+
+
+# Brok
+### Yeah. Let him go.
+PC09B_RESCUEEND_NEXT-5=Так. Відпустіть його.
+
+
+#----------------------------------------------------
+# Mink
+### Phew...
+PC09B_RESCUEEND_MINK2-1=Фух...
+
+
+# Mink
+### And... Just to confirm...
+PC09B_RESCUEEND_MINK2-2=І... просто щоб підтвердити...
+
+
+# Mink
+### I never killed anyone. The murderer is still around.
+PC09B_RESCUEEND_MINK2-3=Я нікого не вбивав. Убивця досі десь поруч.
+
+
+# Brok
+### ...
+PC09B_RESCUEEND_MINK2-4=...
+
+
+#----------------------------------------------------
+# Guard
+### Good.
+PC09B_RESCUEEND_GUARD2-1=Добре.
+
+
+# Guard
+### Still can't believe you thought it was me...
+PC09B_RESCUEEND_GUARD2-2=Досі не можу повірити, що ти подумав на мене...
+
+
+# Guard
+### What's wrong with you?!
+PC09B_RESCUEEND_GUARD2-3=Ти взагалі нормальний?!
+
+
+# Brok
+### Well...
+PC09B_RESCUEEND_GUARD2-4=Ну...
+
+
+# Guard
+### Farewell, useless detective.
+PC09B_RESCUEEND_GUARD2-5=Прощавай, нездарний детектив.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09B_RESCUE1G-1=...
+
+
+# Wes
+### ...
+PC09B_RESCUE1G-2=...
+
+
+# Brok
+### Well... See ya.
+PC09B_RESCUE1G-3=Ну... Побачимося.
+
+
+#----------------------------------------------------
+# Wes
+### Pork?
+PC09B_RESCUE1H-1=Борку?
+
+
+#----------------------------------------------------
+# Brok
+### That's insulting, ya know. I wish you'd stop calling me that.
+PC09B_RESCUE1I-1=Це образливо, знаєте. Краще б ви перестали мене так називати.
+
+
+# Wes
+### It's... not your name...?
+PC09B_RESCUE1I-2=Це... не твоє ім'я...?
+
+
+# Brok
+### ...?
+PC09B_RESCUE1I-3=...?
+
+
+# Wes
+### Whatever.
+PC09B_RESCUE1I-4=Байдуже.
+
+
+# Wes
+### We've had our differences in the past. But today...
+PC09B_RESCUE1I-5=У нас були розбіжності в минулому. Але сьогодні...
+
+
+# Wes
+### We need to cooperate. There's a much bigger threat going on in this country.
+PC09B_RESCUE1I-6=Ми повинні співпрацювати. У цій країні виникла набагато більша загроза.
+
+
+# Brok
+### Yeah. No problem, old man.
+PC09B_RESCUE1I-7=Так. Без проблем, старий.
+
+
+# Brok
+### Later.
+PC09B_RESCUE1I-8=Бувайте.
+
+
+# Wes
+### I'm counting on you.
+PC09B_RESCUE1I-9=Я розраховую на тебе.
+
+
+#----------------------------------------------------
+# Brok
+### I can't reach him...
+PC09B_RJ_KO1-1=Я не можу до нього дотягнутися...
+
+
+#----------------------------------------------------
+# Brok
+### I've found somethin'!
+PC09B_RJ_KO_SEARCH1-1=Я щось знайшов!
+
+
+#----------------------------------------------------
+# Sin
+### I can't believe it...
+PC09B_RJ_KO_SEARCH_SIN-1=Не можу в це повірити...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Better look again. I always miss the ads!
+PC09B_RJ_KO_SEARCH2-1=Краще перевірити ще раз. Я завжди пропускаю реклами!
+
+
+# Brok
+### There ya go!
+PC09B_RJ_KO_SEARCH2-2=Ось воно!
+
+
+#----------------------------------------------------
+# Brok
+### Nothin' left.
+PC09B_RJ_KO_SEARCH3-1=Більше нічого немає.
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+PC09B_DAY2_SIN-1=Гей!
+
+
+# Sin
+### Huh?
+PC09B_DAY2_SIN-2=Що?
+
+
+#----------------------------------------------------
+# Brok
+### Are you holding up?
+PC09B_DAY2_SINB-1=Як ти тримаєшся?
+
+
+# Sin
+### Yeah...
+PC09B_DAY2_SINB-2=Та так...
+
+
+# Brok
+### Alright.
+PC09B_DAY2_SINB-3=Добре.
+
+
+# Brok
+### I'll come back later!
+PC09B_DAY2_SINB-4=Я повернуся пізніше!
+
+
+# Sin
+### Okay.
+PC09B_DAY2_SINB-5=Гаразд.
+
+
+# Sin
+### Thank you...
+PC09B_DAY2_SINB-6=Дякую...
+
+
+#----------------------------------------------------
+# Brok
+### Darn... it's busted.
+PC09B_C3TOUCHPANEL1-1=Чорт... вона зламана.
+
+
+# Brok
+### Better find another way.
+PC09B_C3TOUCHPANEL1-2=Краще знайти інший шлях.
+
+
+#----------------------------------------------------
+# Brok
+### What an annoying camera.
+PC09B_CAMERA1-1=Яка надокучлива камера.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC09B_CAMERA2-1=Гмм...
+
+
+#----------------------------------------------------
+# Unknown
+### Deserved or not deserved? That is the question...
+COOP_PC09B_SIN1-1=Заслужено чи незаслужено? Ось у чому питання...
+
+
+#----------------------------------------------------
+

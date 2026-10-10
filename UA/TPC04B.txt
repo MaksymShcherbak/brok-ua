@@ -1,0 +1,320 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=BACK ALLEY
+#-------------------------------
+
+#----- Interactions --------
+### Gutter
+PC_GUTTER=Водостік
+
+### Manhole
+PC_MANHOLE=Люк
+
+### A thing
+PC_THING=Щось
+
+### Acid?!
+PC_ACID=Кислота?!
+
+### Target
+PC_TARGET=Мішень
+
+### Wanted sign
+PC_WANTED=Оголошення про розшук
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions - Looking through gutter
+### Something's there... I'm not quite sure what this is but it sure stands out.
+PC04B_GUTTER_THING1-1=Там щось є... Не зовсім певен, що це таке, але воно точно виділяється.
+
+
+# Brok
+### Any way to get a closer look without going down there?
+PC04B_GUTTER_THING1-2=Чи можна якось роздивитися ближче, не спускаючись туди?
+
+
+#----------------------------------------------------
+# Brok
+### That's not the usual junk. If only I could take a better look at it...
+PC04B_GUTTER_THING2-1=Це не звичайне сміття. Якби ж я міг краще це роздивитися...
+
+
+#----------------------------------------------------
+# Brok - Manhole
+### Err... Nope.
+PC04B_MANHOLE1-1=Е-е... Ні.
+
+
+# Brok
+### We hear all kinds of things about the sewers.
+PC04B_MANHOLE1-2=Про каналізацію ходять усілякі чутки.
+
+
+# Brok
+### For instance, they've fully automated the maintenance to ensure no personnel need to go down there anymore... for good reasons.
+PC04B_MANHOLE1-3=Наприклад, обслуговування повністю автоматизували, щоб нікому з персоналу більше не доводилося туди спускатися... з вагомих причин.
+
+
+#----------------------------------------------------
+# Brok
+### I'd better think twice before going down there.
+PC04B_MANHOLE2-1=Краще мені двічі подумати, перш ніж спускатися туди.
+
+
+# Brok
+### Even if I wanted to, it's sealed.
+PC04B_MANHOLE2-2=Навіть якби я й хотів, він запечатаний.
+
+
+#----------------------------------------------------
+# Brok
+### I'm gonna try...
+PC04B_MANHOLE_GO1-1=Я спробую...
+
+
+# Brok
+### Ngggh!
+PC04B_MANHOLE_GO1-2=У-уух!
+
+
+# Brok
+### Nope. Can't open it with my bare hands...
+PC04B_MANHOLE_GO1-3=Ні. Голими руками його не відкрити...
+
+
+#----------------------------------------------------
+# Brok
+### The cover is stuck. There's gotta be a way...
+PC04B_MANHOLE_GO2-1=Кришка застрягла. Має бути якийсь спосіб...
+
+
+#----------------------------------------------------
+# Brok
+### I wonder if...
+PC04B_MANHOLE_COVER_STICK-1=Цікаво, чи...
+
+
+# Brok
+### Ngggh!
+PC04B_MANHOLE_COVER_STICK-2=У-уух!
+
+
+# Brok
+### No way... There must be a mechanism holding it down.
+PC04B_MANHOLE_COVER_STICK-3=Ніяк... Його має утримувати якийсь механізм.
+
+
+#----------------------------------------------------
+# Brok
+### That didn't work...
+PC04B_MANHOLE_WRONG1-1=Не спрацювало...
+
+
+#----------------------------------------------------
+# Brok
+### Still stuck...
+PC04B_MANHOLE_WRONG2-1=Досі не піддається...
+
+
+#----------------------------------------------------
+# Brok
+### Yes!
+PC04B_MANHOLE_OPEN-1=Так!
+
+
+#----------------------------------------------------
+# Brok
+### There is a... Err...
+PC04B_SEWERS_THING1-1=Там... Е-е...
+
+
+# Brok
+### I can't really tell from here.
+PC04B_SEWERS_THING1-2=Звідси як слід не розгледіти.
+
+
+#----------------------------------------------------
+# Brok
+### I can't make it out...
+PC04B_SEWERS_THING2-1=Не можу розібрати...
+
+
+# Brok
+### I'd need something to take a better look.
+PC04B_SEWERS_THING2-2=Мені потрібно щось, щоб роздивитися краще.
+
+
+#----------------------------------------------------
+# Brok
+### That's a totally weird thingy there!
+PC04B_SEWERS_THING3-1=Там якась дуже дивна штуковина!
+
+
+#----------------------------------------------------
+# Brok
+### An old bottle. I doubt this has any link to my case.
+PC04B_BOTTLE1-1=Стара пляшка. Сумніваюся, що це має якийсь стосунок до моєї справи.
+
+
+#----------------------------------------------------
+# Brok
+### A few pebbles. Nothing unusual.
+PC04B_PEBBLES1-1=Кілька камінців. Нічого незвичного.
+
+
+#----------------------------------------------------
+# Brok
+### A worm... Makes me hungry!
+PC04B_WORM1-1=Хробак... Аж їсти захотілося!
+
+
+#----------------------------------------------------
+# Brok
+### This looks like a bottle cap. I wouldn't have any use for it.
+PC04B_BOTTLECAP1-1=Схоже на кришку від пляшки. Вона мені ні до чого.
+
+
+#----------------------------------------------------
+# Brok
+### Some bread? Did someone eat here?
+PC04B_BREAD1-1=Трохи хліба? Тут хтось їв?
+
+
+#----------------------------------------------------
+# Brok
+### I believe that's a flyer. It must have fallen down there.
+PC04B_FLYER1-1=Здається, це флаєр. Мабуть, він впав туди.
+
+
+#----------------------------------------------------
+# Brok
+### Looks like a... Newspaper, is it...?
+PC04B_NEWSPAPER1-1=Схоже на... газету, чи що...?
+
+
+# Brok
+### Haven't seen one in ages!
+PC04B_NEWSPAPER1-2=Цілу вічність таких не бачив!
+
+
+#----------------------------------------------------
+# Brok
+### Good idea!
+PC04B_MAGNIFY_USE1-1=Хороша ідея!
+
+
+#----------------------------------------------------
+# Brok
+### Is that... Acid?!
+PC04B_ACID1-1=Це що... Кислота?!
+
+
+# Brok
+### Whoa... Those sewers might be even more dangerous than I thought.
+PC04B_ACID1-2=Ого... Ця каналізація може бути навіть небезпечнішою, ніж я думав.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Some blue cloth... With SIN written on it?!
+PC04B_HANDKERCHIEF1-1=Якась синя тканина... На ній написано СІН?!
+
+
+#----------------------------------------------------
+# Brok
+### Can't be a coincidence...
+PC04B_HANDKERCHIEF1_NOHINT-1=Це не може бути збігом...
+
+
+#----------------------------------------------------
+# Brok
+### Bingo! Here's the lost handkerchief!
+PC04B_HANDKERCHIEF1_HASHINT-1=Бінго! Ось і загублена хустинка!
+
+
+#----------------------------------------------------
+# Brok
+### Then... I definitely need to go down there.
+PC04B_HANDKERCHIEF1_AFTER-1=Тоді... мені точно потрібно спуститися туди.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin's handkerchief, more likely. Let's check it out!
+PC04B_HANDKERCHIEF2-1=Швидше за все, це хустинка Сіна. Погляньмо!
+
+
+#----------------------------------------------------
+# Brok
+### A small target has been placed in this corner.
+PC04B_TARGET1-1=У цьому кутку розмістили маленьку мішень.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### To play, maybe...? Too bad I don't have any darts!
+PC04B_TARGET1-2=Може, для гри...? Шкода, що в мене немає дротиків!
+
+
+#----------------------------------------------------
+# Brok
+### This ad... Is it my reward for hitting the target?
+PC04B_TARGET_AD1-1=Реклама... Це моя нагорода за влучання в мішень?
+
+
+#----------------------------------------------------
+# Brok - Coming here for the first time
+### What's with all the cardboard boxes...?
+PC04B_WELCOME1-1=Звідки тут стільки картонних коробок...?
+
+
+# Brok
+### Hmm... It rains every night, yet they're dry...
+PC04B_WELCOME1-2=Гмм... Щоночі йде дощ, а вони сухі...
+
+
+# Brok
+### Someone put them here today.
+PC04B_WELCOME1-3=Хтось поклав їх сюди сьогодні.
+
+
+#----------------------------------------------------
+# Brok
+### They're blocking the way!
+PC04B_CARDBOARD1-1=Вони загороджують шлях!
+
+
+#----------------------------------------------------
+# Brok
+### Wow! It's been years since I've seen one of those "wanted" signs!
+PC04B_WANTED1-1=Ого! Я вже й забув, коли востаннє бачив такі оголошення про розшук!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### No one really cares in the Slums anymore... While in the Drums it's much more efficient to display holos all over the city.
+PC04B_WANTED1-2=У Нетрях усім уже байдуже... А на Верхах набагато ефективніше транслювати голограми по всьому місту.
+
+
+# Brok
+### This face looks very familiar... Must have been a famous affair?
+PC04B_WANTED1-3=Це обличчя здається дуже знайомим... Мабуть, була якась гучна справа?
+
+
+#----------------------------------------------------
+

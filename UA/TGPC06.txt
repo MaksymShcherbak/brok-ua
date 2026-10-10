@@ -1,0 +1,1355 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Flower - Graff (Unknown)
+#     Flower - Unknown (Unknown)
+#     Flower - Various (Unknown)
+#     Graff - Flower (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Pipemail (Unknown)
+#     Graff - Unknown (Unknown)
+#     Graff - Various (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Pipemail (Unknown)
+#     Pipemail - Graff (Unknown)
+#     Pipemail - Ott (Unknown)
+#     Unknown - Flower (Unknown)
+#     Unknown - Graff (Unknown)
+#     Various - Flower (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#= GRAFF --- SECTOR 56X STREET
+#-------------------------------
+
+#----- Interactions --------
+# Used on some logo icons to get information on what they mean
+### Info
+PC_INFO=Інформація
+
+
+#----- Choices / Items --------
+### Buy a statuette?
+GPC06_STATUETTE_BUYCHOICE=Купити статуетку?
+
+
+#----- Topics --------
+### Disconnect this wire?
+GPC06_WIRE_CHOICE=Від'єднати цей дріт?
+
+### A button!
+GOT_DEATHBUTTON=Кнопка!
+
+### A neon bulb!
+GOT_NEON=Неонова лампочка!
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Room interactions
+### A neon sign? Quite an antique... I'm surprised it still works!
+GPC06_NEON1-1=Неонова вивіска? Досить стара... Дивно, що вона досі працює!
+
+
+#----------------------------------------------------
+# Graff
+### I can't reach it from here.
+GPC06_NEON2-1=Я не можу звідси її дістати.
+
+
+#----------------------------------------------------
+# Graff
+### Woah! For an antique, it's really bright!
+GPC06_NEON_TAKEN-1=Ого! Як для такої старовинної речі, вона дуже яскрава!
+
+
+#----------------------------------------------------
+# Graff - Graff talks to the flower merchant
+### Hello...
+GPC06_FLOWERS_WELCOME1-1=Привіт...
+
+
+# Flower
+### Oh! Hello, young man!
+GPC06_FLOWERS_WELCOME1-2=О! Привіт, юначе!
+
+
+# Graff
+### Man...?
+GPC06_FLOWERS_WELCOME1-3=Юнак...?
+
+
+# Flower
+### Well, you're no longer a kid, are you?
+GPC06_FLOWERS_WELCOME1-4=Ну, ти ж уже не малий, чи не так?
+
+
+# Graff
+### Erm... Yeah.
+GPC06_FLOWERS_WELCOME1-5=Е-е... Ну, так.
+
+
+# Graff
+### So, you're...
+GPC06_FLOWERS_WELCOME1-6=Тож, ви...
+
+
+# Flower
+### Selling a lot of stuff. Anything you're interested in?
+GPC06_FLOWERS_WELCOME1-7=Я продаю багато речей. Тебе щось цікавить?
+
+
+# Graff
+### ...Just looking.
+GPC06_FLOWERS_WELCOME1-8=...Просто дивлюся.
+
+
+# Flower - No need to translate these (as long as you're using latin characters), it's supposed to be a foreign language.
+### Talai Lugdei.
+GPC06_FLOWERS_WELCOME1-9=Талай Лугдей.
+
+
+# Graff
+### What?...
+GPC06_FLOWERS_WELCOME1-10=Що...?
+
+
+# Flower
+### It means - "You've come to the right place."
+GPC06_FLOWERS_WELCOME1-11=Це означає - "Ти потрапив у правильне місце."
+
+
+# Flower
+### Might you be lost?
+GPC06_FLOWERS_WELCOME1-12=Можливо, ти загубився?
+
+
+# Graff
+### No! I'm just...
+GPC06_FLOWERS_WELCOME1-13=Ні! Я лише...
+
+
+# Graff
+### ...forget it.
+GPC06_FLOWERS_WELCOME1-14=...неважливо.
+
+
+# Flower
+### Danante! Feel free to look.
+GPC06_FLOWERS_WELCOME1-15=Дананте! Не соромся, розглядай товари.
+
+
+#----------------------------------------------------
+# Graff
+### You're still here.
+GPC06_FLOWERS_WELCOME2-1=Ви все ще тут.
+
+
+# Flower
+### Of course!
+GPC06_FLOWERS_WELCOME2-2=Звісно!
+
+
+# Flower
+### I'm running a special offer currently. Half price on everything!
+GPC06_FLOWERS_WELCOME2-3=Зараз у мене діє спеціальна пропозиція. Все за півціни!
+
+
+# Graff
+### No, thank you.
+GPC06_FLOWERS_WELCOME2-4=Ні, дякую.
+
+
+#----------------------------------------------------
+# Graff
+### Is this...
+GPC06_STATUETTE1-1=А це...
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### Yes. This is The Untail.
+GPC06_STATUETTE1-2=Так. Це Безхвостий.
+
+
+# Flower
+### Do you want a statuette?
+GPC06_STATUETTE1-3=Хочеш собі статуетку?
+
+
+# Graff
+### No... I don't believe in this.
+GPC06_STATUETTE1-4=Ні... Я не вірю в таке.
+
+
+# Flower
+### Tsk. Be honest. I see it in your eyes...
+GPC06_STATUETTE1-5=Пхе. Будь чесним. Я бачу це у твоїх очах...
+
+
+# Flower
+### You're curious.
+GPC06_STATUETTE1-6=Ти зацікавлений.
+
+
+# Flower
+### Here, let me give you this one.
+GPC06_STATUETTE1-7=Будь ласка, візьми оцю.
+
+
+# Graff
+### What? No!
+GPC06_STATUETTE1-8=Що? Ні!
+
+
+# Graff
+### I can't accept!
+GPC06_STATUETTE1-9=Я не можу її прийняти!
+
+
+# Flower
+### No credit, huh?
+GPC06_STATUETTE1-10=Немає грошей, га?
+
+
+# Flower
+### Look, this is a defective one.
+GPC06_STATUETTE1-11=Дивись, ця статуетка має дефект.
+
+
+# Flower
+### I wouldn't be able to sell it anyway.
+GPC06_STATUETTE1-12=Я все одно не зможу її продати.
+
+
+# Graff
+### ...Okay. Thanks.
+GPC06_STATUETTE1-13=...Гаразд. Дякую.
+
+
+# Flower
+### Danante!
+GPC06_STATUETTE1-14=Дананте!
+
+
+#----------------------------------------------------
+# Graff
+### (Hopefully no one sees me with this. They might think I've turned into an Untail fanatic...)
+GPC06_STATUETTE1B-1=(Сподіваюся, ніхто мене з цим не побачить. Щоб не подумали, що я перетворився на фанатика Безхвостя...)
+
+
+#----------------------------------------------------
+# Graff
+### I really don't need another.
+GPC06_STATUETTE2-1=Мені не потрібна ще одна.
+
+
+# Flower
+### Of course! We believe in The One and Only.
+GPC06_STATUETTE2-2=Ну звісно! Ми віримо в Єдиного і Неперевершеного.
+
+
+# Graff
+### Pft.
+GPC06_STATUETTE2-3=Пхе.
+
+
+#----------------------------------------------------
+# Graff
+### One is enough...
+GPC06_STATUETTE_ALREADY-1=Однієї вже достатньо...
+
+
+#----------------------------------------------------
+# Graff
+### I guess that book is...
+GPC06_BOOK1-1=Здається, ця книга...
+
+
+# Flower
+### The Un-Tales. A collection of guidance verses, lessons transcribed through generations...
+GPC06_BOOK1-2=Безхвості Історії. Збірка настанов та уроків, що передавалися з покоління в покоління...
+
+
+# Graff
+### It's just stories. Fairy tales written by someone ages ago.
+GPC06_BOOK1-3=Звичайні історії. Казки, написані кимось давним-давно.
+
+
+# Flower
+### Then... What do you believe in?
+GPC06_BOOK1-4=Тоді... У що ти віриш?
+
+
+# Graff
+### Science.
+GPC06_BOOK1-5=В науку.
+
+
+# Flower
+### Of course! Everyone does.
+GPC06_BOOK1-6=Звісно! Всі в неї вірять.
+
+
+# Flower
+### Tell me. Why are you here?
+GPC06_BOOK1-7=Скажи. Чому ти тут?
+
+
+# Flower
+### You obviously have no interest in our beliefs.
+GPC06_BOOK1-8=Тобі, очевидно, нецікава наша віра.
+
+
+# Graff
+### I...
+GPC06_BOOK1-9=Я...
+
+
+# Graff
+### Got it. I'm out of here.
+GPC06_BOOK1-10=Зрозумів. Я вже йду звідси.
+
+
+# Flower
+### Wait! Please!
+GPC06_BOOK1-11=Зачекай! Будь ласка!
+
+
+# Flower
+### You know what science did to us.
+GPC06_BOOK1-12=Ти знаєш, що з нами зробила наука.
+
+
+# Graff
+### ...
+GPC06_BOOK1-13=...
+
+
+# Flower
+### We can't live without it now...
+GPC06_BOOK1-14=Ми тепер не можемо без неї жити...
+
+
+# Flower
+### But that doesn't mean science should be the only thing we have to believe in.
+GPC06_BOOK1-15=Але це не означає, що наука має бути єдиним, у що ми віримо.
+
+
+# Graff
+### It wasn't science's fault. It was the wrong people using it for the wrong reasons.
+GPC06_BOOK1-16=Наука не винна в тому, що сталось. Провина лежить на тих, хто використовував її для поганих цілей.
+
+
+# Flower
+### And what will prevent this situation from happening again?
+GPC06_BOOK1-17=А що допоможе уникнути повторення цієї ситуації?
+
+
+# Graff
+### ...
+GPC06_BOOK1-18=...
+
+
+# Graff
+### ...Understanding.
+GPC06_BOOK1-19=...Взаєморозуміння.
+
+
+# Flower
+### Perfect. And for this, you need an open mind.
+GPC06_BOOK1-20=Чудово. І для цього треба бути відкритим для нових досвідів.
+
+
+# Flower
+### That's why you're here...
+GPC06_BOOK1-21=Саме тому ти тут...
+
+
+# Flower
+### Even if you don't realize it yourself.
+GPC06_BOOK1-22=Навіть якщо сам цього не усвідомлюєш.
+
+
+# Graff
+### Yeah, right...
+GPC06_BOOK1-23=Так, звісно...
+
+
+# Flower
+### Danante! Take your time.
+GPC06_BOOK1-24=Дананте! Роздивляйся, не поспішай.
+
+
+#----------------------------------------------------
+# Graff
+### (A bunch of blather some weak minds dive into to fill the holes in their miserable life.)
+GPC06_BOOK2-1=(Купа нісенітниць, у які поринають слабкі уми, щоб заповнити порожнечу свого жалюгідного життя.)
+
+
+#----------------------------------------------------
+# Graff
+### (Oh... That's quite adorable!)
+GPC06_PLUSH1-1=(О... А це досить мило!)
+
+
+# Flower
+### I see! You'd like a plush?
+GPC06_PLUSH1-2=Ага! То ти хотів би плюшеву іграшку?
+
+
+# Graff
+### Hey! Do I look like a girl to you?!
+GPC06_PLUSH1-3=Гей! Хіба я схожий на дівчинку?!
+
+
+# Flower
+### Come on. You can have one if you want!
+GPC06_PLUSH1-4=Ну ж бо. Можеш взяти одну, якщо хочеш!
+
+
+# Graff
+### No, thanks.
+GPC06_PLUSH1-5=Ні, дякую.
+
+
+# Graff
+### (...But it's really cute.)
+GPC06_PLUSH1-6=(...Хоча вона і справді дуже мила.)
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### I really shouldn't enter these buildings.
+GPC06_OTHERBUILDING1-1=Мені не слід заходити до цих будівель.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### No use. I already took my Toxout pill today!
+GPC06_PIPEMAIL1-1=Немає сенсу. Я вже випив сьогодні свою смогову пігулку!
+
+
+#----------------------------------------------------
+# Graff
+### Darn... This won't work! How will I pay that bill?...
+GPC06_PIPEMAIL_BEFOREFIX1-1=Чорт забирай... Не працює! І як я оплачу цей рахунок...?
+
+
+#----------------------------------------------------
+# Graff
+### Please, oh please... (Cough)
+GPC06_PIPEMAIL_AFTERBUNKER1-1=Будь ласка... (Кашляє)
+
+
+# Graff
+### ...
+GPC06_PIPEMAIL_AFTERBUNKER1-2=...
+
+
+# Graff
+### Oh no... That one's broken as well.
+GPC06_PIPEMAIL_AFTERBUNKER1-3=О ні... Цей теж зламаний.
+
+
+# Graff
+### (Cough, cough, cough)
+GPC06_PIPEMAIL_AFTERBUNKER1-4=(Сильно кашляє)
+
+
+# Graff
+### Maybe I should... Just...
+GPC06_PIPEMAIL_AFTERBUNKER1-5=Можливо, варто... Тільки...
+
+
+# Graff
+### (Cough) Come back home... (Cough, cough)
+GPC06_PIPEMAIL_AFTERBUNKER1-6=(Кашляє) Повернутися додому... (Кашляє)
+
+
+#----------------------------------------------------
+# Pipemail
+### System online.
+GPC06_PIPEMAIL_AFTER-1=Система увімкнена.
+
+
+# Ott
+### That one works?!
+GPC06_PIPEMAIL_AFTER-2=Цей працює?!
+
+
+# Graff
+### Give me a pill!
+GPC06_PIPEMAIL_AFTER-3=Дай мені пігулку!
+
+
+# Pipemail
+### ...
+GPC06_PIPEMAIL_AFTER-4=...
+
+
+# Pipemail
+### You have due bills.
+GPC06_PIPEMAIL_AFTER-5=У вас є заборгованість за рахунками.
+
+
+# Graff
+### I should have guessed...
+GPC06_PIPEMAIL_AFTER-6=Мав би здогадатися...
+
+
+# Ott
+### What a disappointment...
+GPC06_PIPEMAIL_AFTER-7=Яке розчарування...
+
+
+#----------------------------------------------------
+# Graff - Pay the bill
+### I can't believe I'm doing this but...
+GPC06_PIPEMAIL_BILLC1-1=Не вірю, що я це роблю, але...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Someone's gotta pay that Triweb bill or our access will get cut.
+GPC06_PIPEMAIL_BILLC1-2=Хтось має оплатити цей рахунок за Тривеб, інакше нам закриють доступ.
+
+
+#----------------------------------------------------
+# Pipemail
+### Scanning in progress...
+GPC06_PIPEMAIL_BILLCSCAN-1=Триває сканування...
+
+
+# Pipemail - Amount is 150
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Bill detected. The due amount is {amount} Unis.
+GPC06_PIPEMAIL_BILLCSCAN-2=Виявлено рахунок. Сума до сплати становить {amount} Юні.
+
+
+#----------------------------------------------------
+# Pipemail
+### Insufficient credits on your account.
+GPC06_PIPEMAIL_NOTENOUGH-1=Недостатньо коштів на вашому рахунку.
+
+
+# Pipemail
+### This failure attempt has been reported to the appropriate creditor.
+GPC06_PIPEMAIL_NOTENOUGH-2=Про цю невдалу спробу повідомлено відповідного кредитора.
+
+
+# Graff
+### I hate those things...
+GPC06_PIPEMAIL_NOTENOUGH-3=Ненавиджу ці штуки...
+
+
+# Ott
+### You don't say...
+GPC06_PIPEMAIL_NOTENOUGH-4=І не кажи...
+
+
+#----------------------------------------------------
+# Pipemail
+### Sufficient credits. Payout done.
+GPC06_PIPEMAIL_TRANSFER-1=Достатньо коштів. Оплату здійснено.
+
+
+# Graff
+### One good thing done...
+GPC06_PIPEMAIL_TRANSFER-2=Одну добру справу зробили...
+
+
+# Pipemail
+### Thank you and goodbye.
+GPC06_PIPEMAIL_TRANSFER-3=Дякуємо і до побачення.
+
+
+# Ott
+### At least it's polite.
+GPC06_PIPEMAIL_TRANSFER-4=Принаймні воно ввічливе.
+
+
+#----------------------------------------------------
+# Pipemail
+### Scanning in progress...
+GPC06_PIPEMAIL_INVOICEHACKER-1=Триває сканування...
+
+
+# Pipemail
+### Rejected. This is not a valid invoice.
+GPC06_PIPEMAIL_INVOICEHACKER-2=Відхилено. Цей рахунок не є дійсним.
+
+
+# Graff
+### Hmm... Weird.
+GPC06_PIPEMAIL_INVOICEHACKER-3=Гмм... Дивно.
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### That must have happened a long time ago.
+GPC06_RUBBLE1-1=Це, мабуть, сталося дуже давно.
+
+
+# Graff
+### Well, at least I won't wander any further.
+GPC06_RUBBLE1-2=Ну, принаймні, далеко не блукатиму.
+
+
+#----------------------------------------------------
+# Graff
+### Going to this dump?...
+GPC06_METALSHUTTERS1-1=Піти на цей смітник...?
+
+
+# Graff
+### No, thanks. Got the same one at home.
+GPC06_METALSHUTTERS1-2=Ні, дякую. В мене такий самий вдома.
+
+
+#----------------------------------------------------
+# Graff
+### I'd need a code... I don't intend to enter, anyway.
+GPC06_LEFTPANEL1-1=Тут потрібен код... Та я все одно не планував заходити.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
+### Woah... What's wrong with that infophone?
+GPC06_RIGHTPANEL1-1=Ого... Що не так з цим інфофоном?
+
+
+# Graff
+### There must be a short circuit running inside that button!
+GPC06_RIGHTPANEL1-2=Мабуть, усередині цієї кнопки коротке замикання!
+
+
+# Graff
+### It's dangerous... though I doubt anyone would be stupid enough to touch it.
+GPC06_RIGHTPANEL1-3=Це небезпечно... хоча сумніваюся, що хтось буде настільки дурним, щоб до нього доторкнутися.
+
+
+#----------------------------------------------------
+# Graff
+### Yeah! I've always dreamt of getting electrocuted!
+GPC06_RIGHTPANEL2-1=Так! Я завжди мріяв, щоб мене вдарило струмом!
+
+
+#----------------------------------------------------
+# Graff
+### It's off, but still risky.
+GPC06_RIGHTPANEL_DISABLED1-1=Вона вимкнена, але це все одно ризиковано.
+
+
+# Graff
+### Now, how do I take that button? I can't really get a grip...
+GPC06_RIGHTPANEL_DISABLED1-2=Як же мені забрати цю кнопку? Не можу її добре вхопити...
+
+
+#----------------------------------------------------
+# Graff
+### Well... No more spying, I guess?
+GPC06_RIGHTPANEL_REMOVED1-1=Ну... Більше ніякого стеження, мабуть?
+
+
+#----------------------------------------------------
+# Graff
+### Let's see if I can pull this button out...
+GPC06_RIGHTPANEL_SCREWDRIVER-1=Подивимося, чи зможу я витягнути цю кнопку...
+
+
+#----------------------------------------------------
+# Graff
+### Bad idea... Ouch, that hurts!
+GPC06_RIGHTPANEL_HURT1-1=Погана ідея... Ай, боляче!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC06_RIGHTPANEL_OK-1=...
+
+
+# Graff
+### ...There! Woops, everything came off.
+GPC06_RIGHTPANEL_OK-2=...Ось! Ой, все відклеїлося.
+
+
+# Graff
+### Well... At least I got my "button of death".
+GPC06_RIGHTPANEL_OK-3=Ну... Принаймні я дістав свою "кнопку смерті".
+
+
+#----------------------------------------------------
+# Graff
+### And it's even got a NUB connector. Perfect!
+GPC06_RIGHTPANEL_GET2-1=І в неї навіть є роз'єм NUB. Ідеально!
+
+
+#----------------------------------------------------
+# Graff
+### Looks like one of those old wire panels...
+GPC06_BOTTOMPANEL1-1=Схоже на один з тих старих дротових щитків...
+
+
+# Graff
+### Wow. They even used screws! Truly ancient...
+GPC06_BOTTOMPANEL1-2=Ого. Вони навіть використали гвинти! Справді давня річ...
+
+
+#----------------------------------------------------
+# Graff
+### It's firmly shut.
+GPC06_BOTTOMPANEL2-1=Щільно закрито.
+
+
+#----------------------------------------------------
+# Graff
+### No! The tip is different.
+GPC06_BOTTOMPANEL_KEYGRAFF-1=Ні! Там інший наконечник.
+
+
+#----------------------------------------------------
+# Graff
+### Easy!
+GPC06_BOTTOMPANEL_SCREWDRIVER-1=Як легко!
+
+
+# Graff
+### Now, let's see...
+GPC06_BOTTOMPANEL_SCREWDRIVER-2=А тепер подивимось...
+
+
+#----------------------------------------------------
+# Graff
+### I could try opening it but... Why?
+GPC06_BOTTOMPANEL_NOMESSUP-1=Я міг би спробувати відкрити це, але... Навіщо?
+
+
+#----------------------------------------------------
+# Graff - It's a bag of wires
+### What the heck?! Who designed this mess?...
+GPC06_BOTTOMPANEL_FIRST-1=Що за чорт?! Хто спроєктував цей безлад...?
+
+
+#----------------------------------------------------
+# Graff
+### The wires are going into the wall. I can't access them from here.
+GPC06_WIREPANELTOP1-1=Дроти йдуть у стіну. Я не можу дістатися до них звідси.
+
+
+#----------------------------------------------------
+# Graff
+### The wires are behind that glass shell...
+GPC06_WIREPANEL1-1=Дроти знаходяться за цією скляною оболонкою...
+
+
+# Graff
+### Ngggh... It's... stuck! Must not have been opened... in ages...
+GPC06_WIREPANEL1-2=У-уух... Вона... застрягла! Мабуть, її не відкривали... роками...
+
+
+# Graff
+### No use... I don't have enough strength to open it.
+GPC06_WIREPANEL1-3=Немає сенсу... Мені бракує сили, щоб відкрити її.
+
+
+# Graff
+### Hmm... Maybe I won't need to!
+GPC06_WIREPANEL1-4=Гмм... Можливо, мені й не доведеться!
+
+
+#----------------------------------------------------
+# Graff
+### What a mess...
+GPC06_WIREPANEL2-1=Ну й безлад...
+
+
+# Graff
+### I can't access the wires from there... But I shouldn't need to.
+GPC06_WIREPANEL2-2=Я не можу дістатися до дротів звідти... Але мені й не потрібно.
+
+
+#----------------------------------------------------
+# Unknown
+### (Bam, bam)
+GPC06_WIREPANEL_OTHERS1-1=(Бам, бам)
+
+
+# Graff
+### Argh! I can't break it!
+GPC06_WIREPANEL_OTHERS1-2=Ар-р! Я не можу її розбити!
+
+
+#----------------------------------------------------
+# Graff
+### It's pointless... That glass shell is near indestructible.
+GPC06_WIREPANEL_OTHERS2-1=Марно... Ця скляна оболонка майже незнищенна.
+
+
+#----------------------------------------------------
+# Graff
+### Looks like I can disconnect this wire. Should I ?
+GPC06_THUMBWHEEL1-1=Схоже, я можу від'єднати цей дріт. Чи варто мені це зробити?
+
+
+#----------------------------------------------------
+# Graff
+### Is this the good one?...
+GPC06_THUMBWHEEL2-1=Чи це правильний...?
+
+
+#----------------------------------------------------
+# Graff - Not gasoline but some kind of poisonous gas
+### That's a power battery... filled with gas. A very old model.
+GPC06_BATTERY1-1=Це батарея... наповнена газом. Дуже стара модель.
+
+
+#----------------------------------------------------
+# Graff - He's referring to the digicode near the door which Brok uses to type the code and open the gate
+### Looks like the closeby digicode.
+GPC06_ICON1-1=Схоже на цифровий замок поблизу.
+
+
+#----------------------------------------------------
+# Graff - It's meant to be "battery"
+### "...ttery"
+GPC06_ICON2-1="...тарея"
+
+
+# Graff
+### It's half erased...
+GPC06_ICON2-2=Воно напівстерте...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
+### The infophone, I guess?
+GPC06_ICON3-1=Інфофон, мабуть?
+
+
+#----------------------------------------------------
+# Graff
+### "Power"
+GPC06_ICON4-1="Живлення"
+
+
+#----------------------------------------------------
+# Graff
+### It's stuck!... I can't screw it back...
+GPC06_THUMBWHEEL_ALREADY-1=Воно застрягло...! Я не можу прикрутити його назад...
+
+
+#----------------------------------------------------
+# Graff
+### (Cough, cough)
+GPC06_GASSPREAD1-1=(Кашляє)
+
+
+# Graff
+### Oh no... (Cough) A power battery leaked gas...
+GPC06_GASSPREAD1-2=О ні... (Кашляє) Із силової батареї витік газ...
+
+
+# Graff
+### I disconnected the wrong wire... What an idiot!
+GPC06_GASSPREAD1-3=Я від'єднав не той дріт... Який ідіот!
+
+
+#----------------------------------------------------
+# Graff
+### Woops!...
+GPC06_CODECHANGE1-1=Ой...!
+
+
+#----------------------------------------------------
+# Graff
+### Oh no! No one will be able to get inside now!
+GPC06_CODECHANGE2-1=О ні! Тепер ніхто не зможе зайти всередину!
+
+
+# Graff
+### And... I can't put the thumb wheel back... Argh!
+GPC06_CODECHANGE2-2=І... Я не можу повернути коліщатко назад... Ар-р!
+
+
+# Graff
+### ...
+GPC06_CODECHANGE2-3=...
+
+
+#----------------------------------------------------
+# Graff
+### Okay...
+GPC06_INFOPHONE_REACT1-1=Гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### Did this work?
+GPC06_INFOPHONE_REACT2-1=Це спрацювало?
+
+
+#----------------------------------------------------
+# Graff - Arriving on screen
+### ...?
+GPC06_FIRST1-1=...?
+
+
+# Graff
+### Great. What am I doing here?...
+GPC06_FIRST1-2=Чудово. Що я тут роблю...?
+
+
+# Graff
+### (Sigh) Got lost in my thoughts again. I shouldn't wander too far.
+GPC06_FIRST1-3=(Зітхає) Знову загубився в думках. Мені не слід блукати так далеко.
+
+
+#----------------------------------------------------
+# Graff - Drones goes from bridge in front of Graff towards merchant
+### What...
+GPC06_DRONES1-1=Що...
+
+
+#----------------------------------------------------
+# Flower
+### Huh?!
+GPC06_DRONES2-1=Га?!
+
+
+# Various
+### Selling without licence is forbidden
+GPC06_DRONES2-2=Торгівля без ліцензії заборонена
+
+
+# Flower
+### Oh no!... The police!
+GPC06_DRONES2-3=О ні...! Поліція!
+
+
+# Flower
+### I surrender! I surrender!...
+GPC06_DRONES2-4=Я здаюся! Я здаюся...!
+
+
+# Flower
+### Please don't hurt me!
+GPC06_DRONES2-5=Будь ласка, не бийте!
+
+
+# Various
+### Explain yourself
+GPC06_DRONES2-6=Поясніть свої дії
+
+
+# Flower
+### It's true...
+GPC06_DRONES2-7=Це правда...
+
+
+# Flower
+### I'm just... Selling goods to make a living!
+GPC06_DRONES2-8=Я просто... Продаю товари, щоб заробити на життя!
+
+
+# Various
+### Explain yourself
+GPC06_DRONES2-9=Поясніть свої дії
+
+
+# Flower
+### Well... I had no idea I needed a licence!
+GPC06_DRONES2-10=Ну... Я й уяви не мала, що потрібна ліцензія!
+
+
+# Various
+### Explain yourself
+GPC06_DRONES2-11=Поясніть свої дії
+
+
+# Flower
+### ...?
+GPC06_DRONES2-12=...?
+
+
+# Flower
+### I've already told you!
+GPC06_DRONES2-13=Я ж вам все сказала!
+
+
+# Flower
+### Oh boy, oh boy...
+GPC06_DRONES2-14=Ой леле, ой леле...
+
+
+# Various
+### Explain yourself
+GPC06_DRONES2-15=Поясніть свої дії
+
+
+# Graff
+### Something's wrong...
+GPC06_DRONES2-16=Щось тут не так...
+
+
+# Graff
+### This drone must be bugged! It's gonna shoot at any moment!
+GPC06_DRONES2-17=У цього дрона, мабуть, збій! Він може вистрілити будь-якої миті!
+
+
+# Graff
+### What should I do?...
+GPC06_DRONES2-18=Що ж мені робити...?
+
+
+#----------------------------------------------------
+# Flower
+### ...
+GPC06_DRONES_FLEE-1=...
+
+
+# Various
+### Delay expired
+GPC06_DRONES_FLEE-2=Час вичерпано
+
+
+# Flower
+### Nooooo!...
+GPC06_DRONES_FLEE-3=Нііііі...!
+
+
+#----------------------------------------------------
+# Graff - Winning against the drone
+### ...
+GPC06_DRONES_WIN1-1=...
+
+
+# Flower
+### Danante! You've saved me!
+GPC06_DRONES_WIN1-2=Дананте! Ти врятував мене!
+
+
+# Flower
+### You were amazing!
+GPC06_DRONES_WIN1-3=Ти був дивовижним!
+
+
+# Graff
+### I... guess.
+GPC06_DRONES_WIN1-4=Мабуть...
+
+
+# Flower
+### Yes, you were! Now we know what brought you here!
+GPC06_DRONES_WIN1-5=Так, дійсно! Тепер ми знаємо, що привело тебе сюди!
+
+
+# Graff
+### Right...
+GPC06_DRONES_WIN1-6=Зрозуміло...
+
+
+# Graff
+### Anyway... Bye.
+GPC06_DRONES_WIN1-7=Менше з тим... Бувай.
+
+
+# Flower
+### Wait, don't go!
+GPC06_DRONES_WIN1-8=Зачекай, не йди!
+
+
+# Flower
+### You deserve a reward!
+GPC06_DRONES_WIN1-9=Ти заслуговуєш на винагороду!
+
+
+# Graff
+### I'm good.
+GPC06_DRONES_WIN1-10=Не варто.
+
+
+# Flower
+### Nonsense. You're obviously looking for something.
+GPC06_DRONES_WIN1-11=Дурниці. Ти явно щось шукаєш.
+
+
+# Flower
+### You know what? Take a good look at my stand.
+GPC06_DRONES_WIN1-12=Знаєш що? Подивися уважно на мій прилавок.
+
+
+# Flower
+### I'll give you anything you want!
+GPC06_DRONES_WIN1-13=Я дам тобі все, що забажаєш!
+
+
+# Graff
+### Hmm... Okay.
+GPC06_DRONES_WIN1-14=Гмм... Гаразд.
+
+
+#----------------------------------------------------
+# Graff - Graff decided to leave and merchant got killed off-screen
+### ...
+GPC06_MERCHANTGONE1-1=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### No trace of the merchant...
+GPC06_MERCHANTGONE1-2=Жодного сліду крамарки...
+
+
+# Graff
+### Either she managed to escape, or...
+GPC06_MERCHANTGONE1-3=Або їй вдалося втекти, або...
+
+
+# Graff
+### ...
+GPC06_MERCHANTGONE1-4=...
+
+
+# Graff
+### In any case, she won't be coming back for a while.
+GPC06_MERCHANTGONE1-5=У будь-якому разі, вона ще довго сюди не повернеться.
+
+
+#----------------------------------------------------
+# Flower
+### Almighty... Why are you doing this to us?...
+GPC06_DRONE_GAMEOVER-1=Всемогутній... За що ти так з нами...?
+
+
+#----------------------------------------------------
+# Graff - Room interactions
+### Some religious plastic statuettes...
+GPC06_GONE_STATUETTE1-1=Якісь релігійні пластикові статуетки...
+
+
+# Graff
+### No one will mind if I take that damaged unit.
+GPC06_GONE_STATUETTE1-2=Ніхто не буде проти, якщо я візьму цю пошкоджену статуетку.
+
+
+#----------------------------------------------------
+# Graff
+### Without anyone to watch over it, the whole stand is going to be vandalized anyway.
+GPC06_GONE_STATUETTE1B-1=Без нагляду увесь прилавок все одно розгромлять.
+
+
+#----------------------------------------------------
+# Graff
+### One is enough.
+GPC06_GONE_STATUETTE2-1=Однієї достатньо.
+
+
+#----------------------------------------------------
+# Graff
+### I like reading books... Just not THAT type of reading.
+GPC06_GONE_BOOK1-1=Я люблю читати книжки... Але не ТАКІ.
+
+
+# Graff
+### It goes pretty much against everything I believe in.
+GPC06_GONE_BOOK1-2=Це суперечить майже всьому, у що я вірю.
+
+
+#----------------------------------------------------
+# Graff - Thugs come at Graff - unfinished scene
+### Uh oh... A group of thugs is coming this way...
+GPC06_THUGS1-1=Ой-ой... Сюди прямує група бандитів...
+
+
+# Graff
+### I better hide!...
+GPC06_THUGS1-2=Краще заховатися...!
+
+
+#----------------------------------------------------
+# Graff - Day 3 - Graff and Ott visit the street
+### We haven't crossed anyone in the streets today...
+GPC06_OTT_ARRIVE-1=Ми сьогодні нікого не зустріли на вулицях...
+
+
+# Ott
+### Yeah. Everyone's hiding inside.
+GPC06_OTT_ARRIVE-2=Так. Усі ховаються по домівках.
+
+
+# Ott
+### You know... I'm kinda glad to be with you right now.
+GPC06_OTT_ARRIVE-3=Знаєш... Я радий, що я зараз з тобою.
+
+
+# Graff
+### How so?
+GPC06_OTT_ARRIVE-4=Чому?
+
+
+# Ott
+### Well...
+GPC06_OTT_ARRIVE-5=Ну...
+
+
+# Ott
+### You're kinda strong...
+GPC06_OTT_ARRIVE-6=Ти доволі сильний...
+
+
+# Ott
+### I can't defend myself. I totally flunked that self-defense test, remember?
+GPC06_OTT_ARRIVE-7=А я не можу себе захистити. Я повністю провалив той тест із самозахисту, пам'ятаєш?
+
+
+# Graff
+### You've survived this far!
+GPC06_OTT_ARRIVE-8=Але ти ж якось до того виживав!
+
+
+# Ott
+### Only because I run fast...
+GPC06_OTT_ARRIVE-9=Тільки тому, що я швидко бігаю...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok would say... "Being strong lies in your mind"!
+GPC06_OTT_ARRIVE-10=Брок сказав би... "Справжня сила полягає в твоєму розумі"!
+
+
+# Ott
+### Easy for you to say!
+GPC06_OTT_ARRIVE-11=Тобі легко казати!
+
+
+# Ott
+### You're both so much taller and sturdier than I could ever be.
+GPC06_OTT_ARRIVE-12=Ви обидва набагато вищі й міцніші, ніж я коли-небудь буду.
+
+
+# Graff
+### Sturdy? Am I?...
+GPC06_OTT_ARRIVE-13=Міцний? Я...?
+
+
+# Graff
+### I guess those hard training sessions at the Consc' worked after all!
+GPC06_OTT_ARRIVE-14=Здається, ті важкі тренування у Центрі все-таки подіяли!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### If a Squealer shows his face, he's going down!
+GPC06_OTT_ARRIVE-15=Якщо зіткнемось із кимось з Верескунів, то йому кришка!
+
+
+# Ott
+### Yeah!
+GPC06_OTT_ARRIVE-16=Еге ж!
+
+
+#----------------------------------------------------
+# Graff
+### You want one?
+GPC06_STATUETTE_OTT-1=Хочеш одну?
+
+
+# Ott
+### No thanks. I've already got many at home.
+GPC06_STATUETTE_OTT-2=Ні, дякую. У мене їх удома вже повно.
+
+
+# Graff
+### Really?... I never thought...
+GPC06_STATUETTE_OTT-3=Справді...? Ніколи б не подумав...
+
+
+# Ott
+### My parents.
+GPC06_STATUETTE_OTT-4=Це мої батьки.
+
+
+# Ott
+### I'm not sure what to think of it myself.
+GPC06_STATUETTE_OTT-5=Я й сам не впевнений, що про це думати.
+
+
+# Graff
+### Me neither. I'm always too busy to even think about spiritual matters.
+GPC06_STATUETTE_OTT-6=Я теж. Я завжди надто зайнятий, щоб навіть думати про духовні речі.
+
+
+#----------------------------------------------------
+# Graff
+### No pill... (Cough)
+GPC06_STALL_PILL1-1=Ніякої пігулки... (Кашляє)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### And no merchant...
+GPC06_STALL_PILL1-2=І жодної крамарки...
+
+
+#----------------------------------------------------
+# Flower
+### Sir! Please get off my stall!
+PC06_FLOWERS_WALKONSTAND1-1=Пане! Будь ласка, злізьте з мого прилавку!
+
+
+#----------------------------------------------------
+# Flower
+### If you break anything, I'll have you pay for it!
+PC06_FLOWERS_WALKONSTAND2-1=Якщо ти щось зламаєш, я змушу тебе за це заплатити!
+
+
+#----------------------------------------------------
+# Flower
+### The almighty shall punish you for this!
+PC06_FLOWERS_WALKONSTAND3-1=Всемогутній покарає тебе за це!
+
+
+#----------------------------------------------------
+# Flower
+### Good heavens! You've scared me!
+PC06_FLOWERS_HIT1-1=О небеса! Ти мене перелякав!
+
+
+#----------------------------------------------------
+# Flower
+### I'll give you a discount!... Please don't hurt me!
+PC06_FLOWERS_HIT2-1=Я зроблю знижку...! Будь ласка, не бий мене!
+
+
+#----------------------------------------------------
+# Flower
+### Aaahhaaah!...
+PC06_FLOWERS_HIT3-1=Аааххааах...!
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### A flower merchant that doesn't sell flowers.
+COOP_GPC06_FLOWERS1-1=Квіткова крамарка, яка не продає квіти.
+
+
+#----------------------------------------------------
+

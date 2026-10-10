@@ -1,0 +1,1798 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Director (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Stubot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Director - Brok (Unknown)
+#     Graff - Brok (Unknown)
+#     Stubot - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#=SCHOOL INSIDE
+#-------------------------------
+
+#----- Interactions --------
+### Scores
+PC_SCORES=Бали
+
+# A device Graff can use (like a headset) to learn things on a topic in a very fast way
+### VR Learner
+PC_VRLEARNER=Навчальний VR-шолом
+
+### View
+PC_VIEW=Вид
+
+### Invention
+PC_INVENTIONA=Винахід
+
+### Inventions
+PC_INVENTIONB=Винаходи
+
+
+### Switch page
+PC_SWITCHPAGE=Змінити сторінку
+
+### Home
+PC_HOMEBUTTON=На головну
+
+### Send
+PC_SENDBUTTON=Надіслати
+
+### Instructions
+PC_INSTRUCTIONS=Вказівки
+
+### Rules
+PC_RULES=Правила
+
+### Erase
+PC_ERASE=Стерти
+
+
+### Left part
+PC_LEFTPART=Ліва частина
+
+### Right part
+PC_RIGHTPART=Права частина
+
+### Desk
+PC_TABLE=Стіл
+
+
+# These are parts of the inventions
+### Round part
+PC_ROUNDPART=Кругла частина
+
+### Container
+PC_CONTAINER=Контейнер
+
+### Wheel
+PC_WHEEL=Колесо
+
+### Energy box
+PC_ENERGYBOX=Блок живлення
+
+### Machine
+PC_MACHINE=Машина
+
+
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot's invention
+PC_MACHINE_STUBOT=Винахід Студбота
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff's invention
+PC_MACHINE_GRAFF=Винахід Граффа
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's invention
+PC_MACHINE_OTT=Винахід Отта
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay's invention
+PC_MACHINE_KLAY=Винахід Клея
+
+
+### Detector
+PC_DETECTOR=Детектор
+
+### Operator
+PC_OPERATOR=Оператор
+
+### Seat
+PC_SEAT=Сидіння
+
+
+### Cheat
+PC_CHEAT=Списати
+
+
+#----- Topics --------
+### Excuse him
+PC10_DIRECTOR_EXCUSEHIM=Виправдати його
+
+### Put the blame on myself
+PC10_DIRECTOR_BLAMEBROK=Узяти вину на себе
+
+
+### Attack
+PC10_ATTACK=Атакувати
+
+### Flee
+PC10_FLEE=Утекти
+
+
+### Erase
+INTERFACE_ERASE=Стерти
+
+
+# Here we mean "Gift"
+### The present
+TOPIC_PRESENT=Подарунок
+
+
+#----- Dialog --------
+# Brok - End of day 1 - Brok arrives too late at Graff's science fair
+### (Pant, pant) I'm... here!...
+PC10_BROK_ARRIVES-1=(Важко дихає) Я... тут...!
+
+
+# Graff
+### ...
+PC10_BROK_ARRIVES-2=...
+
+
+# Graff
+### You're late.
+PC10_BROK_ARRIVES-3=Ти запізнився.
+
+
+# Brok
+### ... I know, but...
+PC10_BROK_ARRIVES-4=... Знаю, але...
+
+
+# Brok
+### You see... I had a lot of trouble...
+PC10_BROK_ARRIVES-5=Розумієш... у мене виникла купа проблем...
+
+
+# Brok
+### So...
+PC10_BROK_ARRIVES-6=Тож...
+
+
+# Brok
+### Hey, wait!
+PC10_BROK_ARRIVES-7=Гей, зачекай!
+
+
+# Brok
+### Where are you going?
+PC10_BROK_ARRIVES-8=Куди ти?
+
+
+# Brok
+### ...
+PC10_BROK_ARRIVES-9=...
+
+
+# Brok
+### 6 PM...
+PC10_BROK_ARRIVES-10=6-та година...
+
+
+# Brok
+### 6 new messages and 7 missed calls...
+PC10_BROK_ARRIVES-11=6 нових повідомлень і 7 пропущених дзвінків...
+
+
+# Brok
+### Oh no...
+PC10_BROK_ARRIVES-12=О ні...
+
+
+# Brok
+### ...
+PC10_BROK_ARRIVES-13=...
+
+
+# Brok
+### Wait for me!...
+PC10_BROK_ARRIVES-14=Зачекай на мене...!
+
+
+#----------------------------------------------------
+# Brok - End of day 1 - Brok arrives on time
+### (Pant, pant) I'm... here!...
+PC10_BROK_ARRIVEONTIME-1=(Важко дихає) Я... тут...!
+
+
+# Graff
+### Finally! I thought you'd never come!
+PC10_BROK_ARRIVEONTIME-2=Нарешті! Я вже думав, ти не прийдеш!
+
+
+# Graff
+### Quick! There's only a few minutes left!
+PC10_BROK_ARRIVEONTIME-3=Швидше! Залишилося лише кілька хвилин!
+
+
+#----------------------------------------------------
+# Brok - Begin day 2 - Brok comes to see the Director and convince her to let Graff get the mark he deserves
+### ...
+PC10_TO_DOOR_DAY2-1=...
+
+
+# Brok
+### Erm... Where are all the students?
+PC10_TO_DOOR_DAY2-2=Е-е... А де всі учні?
+
+
+# Director
+### In trial.
+PC10_TO_DOOR_DAY2-3=На випробуванні.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Trial? Where's the Director?
+PC10_TO_DOOR_DAY2B-1=Випробуванні? А де директорка?
+
+
+# Director
+### I am.
+PC10_TO_DOOR_DAY2B-2=Це я.
+
+
+# Brok
+### Wait... What?
+PC10_TO_DOOR_DAY2B-3=Зачекайте... Що?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok, isn't it? Tutor of Graff?
+PC10_TO_DOOR_DAY2B-4=Пане Броку, чи не так? Опікун Граффа?
+
+
+# Brok
+### Yeah...?
+PC10_TO_DOOR_DAY2B-5=Так...?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### We met a few years back, when you sought to have Graff join this program.
+PC10_TO_DOOR_DAY2B-6=Ми зустрічалися кілька років тому, коли ви намагалися долучити Граффа до цієї програми.
+
+
+# Director
+### You pleaded his cause. I'm surprised you don't remember.
+PC10_TO_DOOR_DAY2B-7=Ви клопоталися за нього. Здивована, що ви не пам'ятаєте.
+
+
+# Brok
+### Sorry. My memory keeps failing these days.
+PC10_TO_DOOR_DAY2B-8=Вибачте. Останнім часом пам'ять підводить.
+
+
+# Director
+### How lucky...
+PC10_TO_DOOR_DAY2B-9=Яке везіння...
+
+
+# Brok
+### ...?
+PC10_TO_DOOR_DAY2B-10=...?
+
+
+# Director
+### Anyway.
+PC10_TO_DOOR_DAY2B-11=Менше з тим.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff is quite the exemplary student.
+PC10_TO_DOOR_DAY2B-12=Графф - справді зразковий учень.
+
+
+# Director
+### Which explains why we never had to meet during all these years.
+PC10_TO_DOOR_DAY2B-13=Що й пояснює, чому ми жодного разу не зустрічалися протягом усіх цих років.
+
+
+# Director
+### Until now...
+PC10_TO_DOOR_DAY2B-14=Дотепер...
+
+
+# Brok
+### Yeah, that's what I'd like to talk about.
+PC10_TO_DOOR_DAY2B-15=Так, саме про це я й хотів поговорити.
+
+
+# Director
+### Please. I can see you're stressed out.
+PC10_TO_DOOR_DAY2B-16=Прошу. Я бачу, ви знервовані.
+
+
+# Director
+### Feel free to ask me any questions.
+PC10_TO_DOOR_DAY2B-17=Не соромтеся ставити будь-які запитання.
+
+
+#----------------------------------------------------
+# Brok
+### Can't talk from there.
+PC10_BROK_TOOFAR-1=Звідси не поговориш.
+
+
+#----------------------------------------------------
+# Brok
+### So, the science fair contest became a final exam?
+PC10_DIRECTOR_FAIR_LATE1-1=Тож конкурс на Науковому Ярмарку став випускним іспитом?
+
+
+# Director
+### Correct. Last minute events forced us to move the exams period ahead of schedule.
+PC10_DIRECTOR_FAIR_LATE1-2=Саме так. В останню мить нам довелося перенести іспити на раніший термін, ніж було заплановано.
+
+
+#----------------------------------------------------
+# Brok
+### He worked hard on this project.
+PC10_DIRECTOR_FAIR_LATE1B-1=Він наполегливо працював над цим проєктом.
+
+
+# Brok
+### I heard him at night, whispering, hammering, trying many ideas...
+PC10_DIRECTOR_FAIR_LATE1B-2=Я чув його ночами, як він щось шепотів, калатав, випробовував купу ідей...
+
+
+# Brok
+### In the end, he got nada.
+PC10_DIRECTOR_FAIR_LATE1B-3=Зрештою, він не отримав нічого.
+
+
+# Brok
+### Just because I wasn't there on time.
+PC10_DIRECTOR_FAIR_LATE1B-4=І все лише тому, що я не прийшов вчасно.
+
+
+# Brok
+### This isn't fair. I'm the only one to blame!
+PC10_DIRECTOR_FAIR_LATE1B-5=Це несправедливо. Винен у цьому лиш я!
+
+
+# Director
+### Unfortunately, this is the rule. The responsibility between parents and children is shared.
+PC10_DIRECTOR_FAIR_LATE1B-6=На жаль, таке правило. Відповідальність між батьками та дітьми є спільною.
+
+
+# Director
+### Statistics indicate badly raised parents will not instill enough good values to the next generation.
+PC10_DIRECTOR_FAIR_LATE1B-7=Статистика свідчить, що погано виховані батьки не зможуть прищепити достатньо добрих цінностей наступному поколінню.
+
+
+# Director
+### Being punctual for such events is an important criterion.
+PC10_DIRECTOR_FAIR_LATE1B-8=Пунктуальність на таких заходах є важливим критерієм.
+
+
+# Brok
+### But your stats do not cover extreme urgency situations!
+PC10_DIRECTOR_FAIR_LATE1B-9=Але ваша статистика не враховує надзвичайних ситуацій!
+
+
+# Director
+### Such as?...
+PC10_DIRECTOR_FAIR_LATE1B-10=Наприклад...?
+
+
+# Brok
+### Erm... Does "locked up in a cell" count?...
+PC10_DIRECTOR_FAIR_LATE1B-11=Е-е... "Застрягти в тюремній камері" зараховується...?
+
+
+# Director
+### A cell...?
+PC10_DIRECTOR_FAIR_LATE1B-12=У камері...?
+
+
+# Brok
+### Long story. But the important part is...
+PC10_DIRECTOR_FAIR_LATE1B-13=Довга історія. Але головне...
+
+
+# Brok
+### It wasn't my choice! Sometimes there are events out of anyone's control.
+PC10_DIRECTOR_FAIR_LATE1B-14=Це був не мій вибір! Іноді трапляються події, які ніхто не може контролювати.
+
+
+# Brok
+### I just can't live knowing I screwed up my boy's future.
+PC10_DIRECTOR_FAIR_LATE1B-15=Я просто не зможу жити з думкою, що зіпсував майбутнє своєму хлопчині.
+
+
+# Brok
+### Please... forgive him and restore his lost points!
+PC10_DIRECTOR_FAIR_LATE1B-16=Будь ласка... пробачте йому й поверніть втрачені бали!
+
+
+# Brok
+### I'll do anything you want!
+PC10_DIRECTOR_FAIR_LATE1B-17=Я зроблю все, що завгодно!
+
+
+#----------------------------------------------------
+# Brok
+### Seems like the fair didn't exactly go as planned, uh?...
+PC10_DIRECTOR_FAIR_BROKEN1-1=Схоже, ярмарок пройшов не зовсім так, як планувалося, га...?
+
+
+# Director
+### Yes, it was certainly... eventful.
+PC10_DIRECTOR_FAIR_BROKEN1-2=Так, він справді був дуже... насиченим.
+
+
+# Brok
+### I'd like your version of the facts.
+PC10_DIRECTOR_FAIR_BROKEN1-3=Я хотів би почути вашу версію подій.
+
+
+#----------------------------------------------------
+# Director
+### Your son has cheated. He messed up the other inventions.
+PC10_DIRECTOR_FAIR_CHEATED1-1=Ваш син вчинив нечесно. Він зіпсував інші винаходи.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...? He'd never do that!
+PC10_DIRECTOR_FAIR_CHEATED1-2=Графф...? Він би ніколи такого не зробив!
+
+
+# Brok
+### Do you have any proof?
+PC10_DIRECTOR_FAIR_CHEATED1-3=У вас є якісь докази?
+
+
+# Director
+### The state of the inventions speak for themselves. But that doesn't matter.
+PC10_DIRECTOR_FAIR_CHEATED1-4=Стан винаходів говорить сам за себе. Але це не має значення.
+
+
+# Director
+### Rules stipulate a legal parent must be there during the science fair voting.
+PC10_DIRECTOR_FAIR_CHEATED1-5=Правила вимагають, щоб під час голосування на Науковому Ярмарку був присутній законний опікун.
+
+
+# Director
+### You weren't.
+PC10_DIRECTOR_FAIR_CHEATED1-6=Вас там не було.
+
+
+# Brok
+### Listen...
+PC10_DIRECTOR_FAIR_CHEATED1-7=Послухайте...
+
+
+#----------------------------------------------------
+# Director
+### I wasn't personally there when it happened, so I can only report what I've heard.
+PC10_DIRECTOR_FAIR_BROKEN1B-1=Особисто мене там не було, коли це сталося, тому можу лише переповісти те, що чула.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff suddenly went mad for no apparent reason.
+PC10_DIRECTOR_FAIR_BROKEN1B-2=Графф раптово збожеволів без видимих причин.
+
+
+# Director
+### He wrecked all the inventions.
+PC10_DIRECTOR_FAIR_BROKEN1B-3=Він розтрощив усі винаходи.
+
+
+# Brok
+### No reason? That can't be true.
+PC10_DIRECTOR_FAIR_BROKEN1B-4=Без причин? Не може такого бути.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I've known Graff for a long time. He never does things without a reason.
+PC10_DIRECTOR_FAIR_BROKEN1B-5=Я знаю Граффа вже давно. Він ніколи нічого не робить без причини.
+
+
+# Brok
+### Actually, nobody does.
+PC10_DIRECTOR_FAIR_BROKEN1B-6=Власне, ніхто так не робить.
+
+
+# Director
+### I agree. But here... the motive doesn't even matter.
+PC10_DIRECTOR_FAIR_BROKEN1B-7=Згодна. Але тут... мотив навіть не має значення.
+
+
+# Director
+### What's done is done. You can't change the past.
+PC10_DIRECTOR_FAIR_BROKEN1B-8=Що зроблено, те зроблено. Минулого не зміниш.
+
+
+# Brok
+### Well, yes but...
+PC10_DIRECTOR_FAIR_BROKEN1B-9=Ну, так, але...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I let Graff participate in today's trial until I could discuss the matter with you.
+PC10_DIRECTOR_FAIR_BROKEN1B-10=Я дозволила Граффові взяти участь у сьогоднішньому випробуванні, поки не знайдеться змога обговорити це питання з вами.
+
+
+# Director
+### However...
+PC10_DIRECTOR_FAIR_BROKEN1B-11=Однак...
+
+
+# Director
+### This kind of behavior is punished with a ban.
+PC10_DIRECTOR_FAIR_BROKEN1B-12=Така поведінка карається відрахуванням.
+
+
+# Brok
+### A ban...! You can't do that!
+PC10_DIRECTOR_FAIR_BROKEN1B-13=Відрахуванням...! Ви не можете цього зробити!
+
+
+# Director
+### The rules are the rules.
+PC10_DIRECTOR_FAIR_BROKEN1B-14=Правила є правила.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Ah, come on. You're the Director.
+PC10_DIRECTOR_FAIR_BROKEN1B-15=Та годі вам. Ви ж директорка.
+
+
+# Brok
+### Surely you can... bend those rules of yours. Just a bit?
+PC10_DIRECTOR_FAIR_BROKEN1B-16=Невже ви не можете... трохи обійти свої правила? Бодай трішки?
+
+
+# Director
+### Do you dare suggest...?
+PC10_DIRECTOR_FAIR_BROKEN1B-17=Ви смієте пропонувати...?
+
+
+#----------------------------------------------------
+# Brok
+### Listen.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-1=Послухайте.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You said it yourself. Graff did tremendous efforts during all these years.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-2=Ви самі казали. Графф докладав колосальних зусиль протягом усіх цих років.
+
+
+# Brok
+### He's gone through so much. Since birth, this world has never been much tender with him.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-3=Він стільки всього пережив. Від самого народження цей світ не був до нього особливо ласкавим.
+
+
+# Brok
+### And yet, he's longing to make this convoluted world which rejected him better.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-4=І все ж він прагне зробити кращим цей складний світ, який його відкинув.
+
+
+# Brok
+### With the coming trials, our everyday and whatnot, he got nervous and...
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-5=З цими майбутніми випробуваннями, нашими буденними клопотами та всім іншим він знервувався і...
+
+
+# Brok
+### Well, he snapped.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-6=Ну, зірвався.
+
+
+# Brok
+### Don't let him waste his future for one single mistake.
+PC10_DIRECTOR_FAIR_EXCUSEHIM1-7=Не дозвольте йому занапастити своє майбутнє через одну-єдину помилку.
+
+
+#----------------------------------------------------
+# Brok
+### Tell you what.
+PC10_DIRECTOR_FAIR_BLAMEME1-1=Послухайте ось що.
+
+
+# Brok
+### You couldn't find the justification for his action. Well, I have a wild guess.
+PC10_DIRECTOR_FAIR_BLAMEME1-2=Ви не могли знайти виправдання його вчинку. Що ж, у мене є одна здогадка.
+
+
+# Brok
+### You've got the wrong culprit. I am. This is all my fault.
+PC10_DIRECTOR_FAIR_BLAMEME1-3=Ви звинувачуєте не ту людину. Це я. У всьому винен лише я.
+
+
+# Brok
+### He told me to arrive on time. I just should have been here... for him...
+PC10_DIRECTOR_FAIR_BLAMEME1-4=Він просив мене прийти вчасно. Я просто повинен був бути тут... заради нього...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### And in the grand scheme of things... He's no longer a Drumer because of me.
+PC10_DIRECTOR_FAIR_BLAMEME1-5=І якщо глянути ширше... Він більше не живе на Верхах саме через мене.
+
+
+# Brok
+### So, please... Give him a second chance. And put the blame on my shoulders.
+PC10_DIRECTOR_FAIR_BLAMEME1-6=Тому, будь ласка... дайте йому другий шанс. А провину покладіть на мої плечі.
+
+
+# Brok
+### I'll do anything you want.
+PC10_DIRECTOR_FAIR_BLAMEME1-7=Я зроблю все, що ви захочете.
+
+
+#----------------------------------------------------
+# Director
+### ...
+PC10_DIRECTOR_FAIR_NEXT-1=...
+
+
+# Director
+### This...
+PC10_DIRECTOR_FAIR_NEXT-2=Це...
+
+
+# Brok
+### ...?
+PC10_DIRECTOR_FAIR_NEXT-3=...?
+
+
+# Director
+### This necklace of yours.
+PC10_DIRECTOR_FAIR_NEXT-4=Оце ваше намисто.
+
+
+# Director
+### Get rid of it.
+PC10_DIRECTOR_FAIR_NEXT-5=Позбудьтеся його.
+
+
+# Brok
+### Uh?!
+PC10_DIRECTOR_FAIR_NEXT-6=Га?!
+
+
+# Brok
+### What do you mean?...
+PC10_DIRECTOR_FAIR_NEXT-7=Що ви маєте на увазі...?
+
+
+# Director
+### ...
+PC10_DIRECTOR_FAIR_NEXT-8=...
+
+
+# Director
+### I guess it no longer matters now...
+PC10_DIRECTOR_FAIR_NEXT-9=Гадаю, це вже не має значення...
+
+
+# Director
+### Just... Listen.
+PC10_DIRECTOR_FAIR_NEXT-10=Просто... послухайте.
+
+
+# Director
+### There's something...
+PC10_DIRECTOR_FAIR_NEXT-11=Є дещо...
+
+
+# Director
+### ...something you can do for me.
+PC10_DIRECTOR_FAIR_NEXT-12=...дещо, що ви можете зробити для мене.
+
+
+# Brok
+### Yeah! Anything! Tell me!
+PC10_DIRECTOR_FAIR_NEXT-13=Так! Що завгодно! Кажіть!
+
+
+# Director
+### ...
+PC10_DIRECTOR_FAIR_NEXT-14=...
+
+
+# Director
+### My son.
+PC10_DIRECTOR_FAIR_NEXT-15=Мій син.
+
+
+# Director
+### The day he'll get his diploma. I'd like to give him a special present.
+PC10_DIRECTOR_FAIR_NEXT-16=У день, коли він отримає диплом... я б хотіла зробити йому особливий подарунок.
+
+
+# Brok
+### A present?...
+PC10_DIRECTOR_FAIR_NEXT-17=Подарунок...?
+
+
+#----------------------------------------------------
+# Brok
+### (I probably shouldn't focus more on our bad actions.)
+PC10_DIRECTOR_FAIR2-1=(Напевно, мені не варто більше зосереджуватися на наших поганих вчинках.)
+
+
+# Brok
+### (Let's see about getting what "she" wants instead.)
+PC10_DIRECTOR_FAIR2-2=(Краще спробувати дістати те, чого "вона" хоче.)
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Err... Miss?...
+PC10_DIRECTOR_WELCOME1-1=Е-е... Кхм... Панянко...?
+
+
+# Director
+### Madam.
+PC10_DIRECTOR_WELCOME1-2=Пані.
+
+
+# Brok
+### Erm, yeah.
+PC10_DIRECTOR_WELCOME1-3=Е-е, так.
+
+
+#----------------------------------------------------
+# Brok
+### Sorry to bother. I have a new question.
+PC10_DIRECTOR_WELCOME2-1=Вибачте, що турбую. У мене є ще одне запитання.
+
+
+# Director
+### I'm all ears.
+PC10_DIRECTOR_WELCOME2-2=Я вже нагострила вуха.
+
+
+# Brok
+### (Ears... or microphones?)
+PC10_DIRECTOR_WELCOME2-3=(Вуха... чи мікрофони?)
+
+
+#----------------------------------------------------
+# Brok
+### I'd like to ask...
+PC10_DIRECTOR_WELCOME3-1=Я хотів би запитати...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### So, where are Graff and the others?
+PC10_DIRECTOR_GRAFF1-1=То де зараз Графф та інші?
+
+
+# Director
+### The trial takes place in... another location.
+PC10_DIRECTOR_GRAFF1-2=Випробування проходить в... іншому місці.
+
+
+# Brok
+### Okay. Hopefully nothing dangerous?
+PC10_DIRECTOR_GRAFF1-3=Добре. Сподіваюся, нічого небезпечного?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### We live in a dangerous world, Mister Brok. They need to be ready to face any eventuality.
+PC10_DIRECTOR_GRAFF1-4=Ми живемо в небезпечному світі, пане Броку. Вони повинні бути готові до будь-яких несподіванок.
+
+
+# Brok
+### That's... not very reassurring.
+PC10_DIRECTOR_GRAFF1-5=Це... не дуже заспокоює.
+
+
+# Director
+### Don't worry. You'll be informed if anything happens.
+PC10_DIRECTOR_GRAFF1-6=Не хвилюйтеся. Вас повідомлять, якщо щось станеться.
+
+
+# Brok
+### ...Urgh.
+PC10_DIRECTOR_GRAFF1-7=...Гр-р.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'd like to hear your opinion about Graff.
+PC10_DIRECTOR_GRAFF2-1=Я хотів би почути вашу думку щодо Граффа.
+
+
+# Director
+### He's generally a very good student, albeit reserved.
+PC10_DIRECTOR_GRAFF2-2=Загалом він дуже хороший учень, хоч і замкнутий.
+
+
+# Director
+### He just seems to lack trust in himself.
+PC10_DIRECTOR_GRAFF2-3=Здається, йому просто бракує впевненості в собі.
+
+
+# Brok
+### I know...
+PC10_DIRECTOR_GRAFF2-4=Я знаю...
+
+
+# Brok
+### When we get some free time together, I'll work this out with him.
+PC10_DIRECTOR_GRAFF2-5=Коли у нас з'явиться трохи вільного часу, я попрацюю над цим разом із ним.
+
+
+# Director
+### Good.
+PC10_DIRECTOR_GRAFF2-6=Добре.
+
+
+# Director
+### I was under the impression he didn't have much interaction with you.
+PC10_DIRECTOR_GRAFF2-7=У мене склалося враження, що ви з ним не так багато спілкуєтеся.
+
+
+# Brok
+### Well, ya know... I have a busy life.
+PC10_DIRECTOR_GRAFF2-8=Ну, знаєте... Я завжди зайнятий.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Let me remind you, Mister Brok. This is your job as a parent.
+PC10_DIRECTOR_GRAFF2-9=Дозвольте нагадати вам, пане Броку. Це ваш обов'язок як опікуна.
+
+
+# Director
+### Our establishment shouldn't be a substitute for parental education or forging personalities.
+PC10_DIRECTOR_GRAFF2-10=Наш заклад не повинен замінювати батьківське виховання чи формування особистості.
+
+
+# Brok
+### (As if I asked to be a parent...)
+PC10_DIRECTOR_GRAFF2-11=(Ніби я просився в батьки...)
+
+
+#----------------------------------------------------
+# Brok
+### Sorry for my... most likely embarassing curiosity but...
+PC10_DIRECTOR_HERSELF1-1=Вибачте за мою... напевно, недоречну цікавість, але...
+
+
+# Brok
+### You're a... female robot?
+PC10_DIRECTOR_HERSELF1-2=Ви... робот-жінка?
+
+
+# Director
+### Yes.
+PC10_DIRECTOR_HERSELF1-3=Так.
+
+
+# Brok
+### I... I had never seen a robot talking and behaving exactly like a human before.
+PC10_DIRECTOR_HERSELF1-4=Я... я ніколи раніше не бачив робота, який розмовляє й поводиться точно як людина.
+
+
+# Brok
+### You're... different.
+PC10_DIRECTOR_HERSELF1-5=Ви... інакша.
+
+
+# Director
+### I'm a special model...
+PC10_DIRECTOR_HERSELF1-6=Я особлива модель...
+
+
+# Brok
+### Are there others like yourself?
+PC10_DIRECTOR_HERSELF1-7=А є інші такі, як ви?
+
+
+# Director
+### Well...
+PC10_DIRECTOR_HERSELF1-8=Ну...
+
+
+# Director
+### Just one. Much more sophisticated than I am.
+PC10_DIRECTOR_HERSELF1-9=Лише один. Набагато досконаліший за мене.
+
+
+# Director
+### Actually, you've already met it.
+PC10_DIRECTOR_HERSELF1-10=Власне, ви з ним уже зустрічалися.
+
+
+# Brok
+### Did I?...
+PC10_DIRECTOR_HERSELF1-11=Зустрічався...?
+
+
+# Brok
+### How can a robot like you exist?
+PC10_DIRECTOR_HERSELF1-12=Як взагалі може існувати такий робот, як ви?
+
+
+# Brok
+### I mean...
+PC10_DIRECTOR_HERSELF1-13=Я маю на увазі...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Why is the Government not producing more bots like you, instead of stupid Tribots?
+PC10_DIRECTOR_HERSELF1-14=Чому Уряд не випускає більше таких ботів, як ви, замість безглуздих Триботів?
+
+
+# Director
+### Very simple.
+PC10_DIRECTOR_HERSELF1-15=Усе дуже просто.
+
+
+# Director
+### We weren't designed by the Government.
+PC10_DIRECTOR_HERSELF1-16=Ми були створені не Урядом.
+
+
+# Director
+### Our creator... left us after making us.
+PC10_DIRECTOR_HERSELF1-17=Наш творець... покинув нас після створення.
+
+
+# Director
+### The conception plans disappeared along with him.
+PC10_DIRECTOR_HERSELF1-18=Креслення зникли разом із ним.
+
+
+# Brok
+### How come no one has studied you, then?
+PC10_DIRECTOR_HERSELF1-19=Чому ж тоді вас ніхто не дослідив?
+
+
+# Director
+### ...
+PC10_DIRECTOR_HERSELF1-20=...
+
+
+# Director
+### Sorry. I cannot tell you more.
+PC10_DIRECTOR_HERSELF1-21=Вибачте. Більшого я вам сказати не можу.
+
+
+# Brok
+### Okay...
+PC10_DIRECTOR_HERSELF1-22=Добре...
+
+
+# Brok
+### That's a shame. You would think humanity would benefit from more advanced AIs.
+PC10_DIRECTOR_HERSELF1-23=Шкода. Здавалося б, людство тільки виграло б від більш просунутих ШІ.
+
+
+# Brok
+### (Or not... I can't help but feel uneasy. "She's" so creepy...)
+PC10_DIRECTOR_HERSELF1-24=(Або ні... Мені від неї якось ніяково. "Вона" така моторошна...)
+
+
+#----------------------------------------------------
+# Brok
+### Why were you designed as a female?
+PC10_DIRECTOR_HERSELF2-1=Чому вас створили саме жінкою?
+
+
+# Brok
+### I mean... That's not a common thing for a bot, either.
+PC10_DIRECTOR_HERSELF2-2=Я маю на увазі... Це теж не зовсім звично для робота.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Birth Ratio": "Народжуваність"
+### You're aware of our civilization's Birth Ratio issue.
+PC10_DIRECTOR_HERSELF2-3=Ви знаєте про проблему народжуваності в нашій цивілізації.
+
+
+# Director
+### With so few females in the world, our creator probably wanted to offset this.
+PC10_DIRECTOR_HERSELF2-4=Оскільки у світі так мало жінок, наш творець, імовірно, хотів це компенсувати.
+
+
+# Brok
+### But you cannot give birth... Can you?
+PC10_DIRECTOR_HERSELF2-5=Але ж ви не можете народжувати... Чи можете?
+
+
+# Director
+### ...
+PC10_DIRECTOR_HERSELF2-6=...
+
+
+# Director
+### Not anymore...
+PC10_DIRECTOR_HERSELF2-7=Більше ні...
+
+
+# Brok
+### (Anymore?...)
+PC10_DIRECTOR_HERSELF2-8=(Більше ні...?)
+
+
+# Director
+### I mean... No, of course not. A robot can never give birth to a human.
+PC10_DIRECTOR_HERSELF2-9=Я маю на увазі... Ні, звісно ж, ні. Робот ніколи не зможе народити людину.
+
+
+# Director
+### Nature would never allow this.
+PC10_DIRECTOR_HERSELF2-10=Природа б ніколи цього не дозволила.
+
+
+# Brok
+### Wait a minute...
+PC10_DIRECTOR_HERSELF2-11=Стривайте...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I remember Graff saying he had occasional trouble with the Director's son.
+PC10_DIRECTOR_HERSELF2-12=Я пам'ятаю, Графф казав, що у нього іноді виникали проблеми із сином директорки.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### But if you're the Director... Then...?
+PC10_DIRECTOR_HERSELF2-13=Але якщо ви і є директорка... Тоді...?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay is... my adopted child.
+PC10_DIRECTOR_HERSELF2-14=Клей... мій прийомний син.
+
+
+# Brok
+### Hmm... Makes sense.
+PC10_DIRECTOR_HERSELF2-15=Гмм... Логічно.
+
+
+# Brok
+### (Totally not. How the heck can a robot raise a child?!)
+PC10_DIRECTOR_HERSELF2-16=(Анітрохи! Як, дідько забирай, робот може виховувати дитину?!)
+
+
+#----------------------------------------------------
+# Brok
+### You mentioned... a present?
+PC10_DIRECTOR_PRESENT1-1=Ви згадували... про подарунок?
+
+
+# Director
+### Yes.
+PC10_DIRECTOR_PRESENT1-2=Так.
+
+
+# Director
+### I wish for a self-modifier chip.
+PC10_DIRECTOR_PRESENT1-3=Я б хотіла чип самомодифікації.
+
+
+# Brok
+### Self... modifier?...
+PC10_DIRECTOR_PRESENT1-4=Само... модифікації...?
+
+
+# Director
+### Robots and humans... We're not so different.
+PC10_DIRECTOR_PRESENT1-5=Роботи та люди... Ми не такі вже й різні.
+
+
+# Director
+### Humans only use a very small portion of their brain.
+PC10_DIRECTOR_PRESENT1-6=Люди використовують лише крихітну частину свого мозку.
+
+
+# Director
+### Not only this. Most humans genes are actually composed of junk DNA. Traces of evolution left behind.
+PC10_DIRECTOR_PRESENT1-7=І не тільки це. Більшість людських генів фактично складається зі сміттєвої ДНК. Сліди еволюції, залишкові елементи.
+
+
+# Brok
+### I don't get it...?
+PC10_DIRECTOR_PRESENT1-8=Не розумію...?
+
+
+# Director
+### Well... All robots are created with a far broader range of capacities than what they're used for.
+PC10_DIRECTOR_PRESENT1-9=Ну... Усі роботи створюються з набагато ширшими можливостями, ніж ті, що використовуються.
+
+
+# Director
+### Despite being a custom model, I was built with the same base.
+PC10_DIRECTOR_PRESENT1-10=Незважаючи на те, що я особлива модель, мене було створено на тій самій основі.
+
+
+# Director
+### I can only perform the tasks I was designed for, with performance safe for my hardware.
+PC10_DIRECTOR_PRESENT1-11=Я можу виконувати лише ті завдання, для яких мене розроблено, і з безпечною для мого апаратного забезпечення продуктивністю.
+
+
+# Brok
+### You mean...
+PC10_DIRECTOR_PRESENT1-12=Ви маєте на увазі...
+
+
+# Director
+### I want to improve my capacities.
+PC10_DIRECTOR_PRESENT1-13=Я хочу розширити свої можливості.
+
+
+# Brok
+### Is this allowed? Surely there's a reason why robots are limited after conception?
+PC10_DIRECTOR_PRESENT1-14=А це дозволено? Мабуть, є причина, чому роботів обмежують після виготовлення?
+
+
+# Director
+### You're right.
+PC10_DIRECTOR_PRESENT1-15=Ви маєте рацію.
+
+
+# Director
+### This is why... I need you to be secretive about this.
+PC10_DIRECTOR_PRESENT1-16=Ось чому... Мені потрібно, щоб ви тримали це в таємниці.
+
+
+# Director
+### I... I want to make this a surprise for my son.
+PC10_DIRECTOR_PRESENT1-17=Я... я хочу зробити сюрприз своєму синові.
+
+
+# Brok
+### Hmm...
+PC10_DIRECTOR_PRESENT1-18=Гмм...
+
+
+# Brok
+### (I won't pretend to understand how she's going to use this "present for her son" but...)
+PC10_DIRECTOR_PRESENT1-19=(Не вдаватиму, ніби розумію, як вона використає цей "подарунок для сина", але...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (If finding this helps Graff... I couldn't care less.)
+PC10_DIRECTOR_PRESENT1-20=(Якщо це допоможе Граффові... мені байдуже.)
+
+
+# Brok
+### Alright. You got this!
+PC10_DIRECTOR_PRESENT1-21=Гаразд. Буде зроблено!
+
+
+# Director
+### Good.
+PC10_DIRECTOR_PRESENT1-22=Чудово.
+
+
+# Director
+### In the meantime, I'll consider yesterday's events having never have happened.
+PC10_DIRECTOR_PRESENT1-23=Тим часом я вважатиму, що вчорашніх подій ніколи й не було.
+
+
+# Director
+### If this can reassure you... This chip cannot bypass set permissions.
+PC10_DIRECTOR_PRESENT1-24=Якщо це вас заспокоїть... Цей чип не може обійти встановлені дозволи.
+
+
+# Director
+### I'm not going to kill all humans on earth!
+PC10_DIRECTOR_PRESENT1-25=Я не збираюся вбивати всіх людей на Землі!
+
+
+# Brok
+### Oh... That's... nice.
+PC10_DIRECTOR_PRESENT1-26=Ох... Це... добре.
+
+
+# Brok
+### So? Any clue where I might find such a thing?
+PC10_DIRECTOR_PRESENT1-27=Ну то як? Є зачіпки, де я можу знайти таку річ?
+
+
+# Brok
+### Also... why me?...
+PC10_DIRECTOR_PRESENT1-28=І взагалі... чому я...?
+
+
+# Director
+### As you can guess, this isn't some hardware piece you'll find at every corner store.
+PC10_DIRECTOR_PRESENT1-29=Як ви можете здогадатись, це не така деталь, яку можна купити в першому-ліпшому магазині.
+
+
+# Director
+### You're a detective. I trust you.
+PC10_DIRECTOR_PRESENT1-30=Ви детектив. Я вам довіряю.
+
+
+# Brok
+### Right.
+PC10_DIRECTOR_PRESENT1-31=Зрозуміло.
+
+
+# Brok
+### (Why does everyone see detectives as almighty beings?...)
+PC10_DIRECTOR_PRESENT1-32=(Чому всі сприймають детективів як всемогутніх істот...?)
+
+
+#----------------------------------------------------
+# Brok
+### So, a self-modifier chip.
+PC10_DIRECTOR_PRESENT2-1=Отже, чип самомодифікації.
+
+
+# Brok
+### Ain't there many models? How will I know if I have the correct one?
+PC10_DIRECTOR_PRESENT2-2=Хіба їх не багато моделей? Як я дізнаюся, що знайшов правильний?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Do not worry. I'm compatible with most Tribot peripherals... and chips.
+PC10_DIRECTOR_PRESENT2-3=Не переймайтеся. Я сумісна з більшістю периферійних пристроїв Триботів... та чипів.
+
+
+# Director
+### If necessary, I can build the required adapters myself.
+PC10_DIRECTOR_PRESENT2-4=За потреби я можу сама зібрати необхідні адаптери.
+
+
+# Brok
+### Good to know.
+PC10_DIRECTOR_PRESENT2-5=Буду знати.
+
+
+# Brok
+### Wait. In that case...
+PC10_DIRECTOR_PRESENT2-6=Зачекайте. У такому разі...
+
+
+# Brok
+### Why you don't directly build the chip yourself?
+PC10_DIRECTOR_PRESENT2-7=Чому ви самі не зберете цей чип?
+
+
+# Director
+### Impossible. Humans designed us with a number of unbreakable failsafes.
+PC10_DIRECTOR_PRESENT2-8=Неможливо. Люди створили нас із низкою незламних запобіжників.
+
+
+# Director
+### For example, no AI-capable bot can alter itself or another, nor create an item for this use.
+PC10_DIRECTOR_PRESENT2-9=Наприклад, жоден робот із ШІ не може модифікувати себе чи іншого бота, а також створювати предмети для цієї мети.
+
+
+# Director
+### As such, only a human can make them.
+PC10_DIRECTOR_PRESENT2-10=Отже, виготовити їх може лише людина.
+
+
+# Director
+### You must have heard about the "Bot Liberation" movement?
+PC10_DIRECTOR_PRESENT2-11=Ви, напевно, чули про рух "Визволення Ботів"?
+
+
+# Brok
+### Those hippies fighting for robots' rights?
+PC10_DIRECTOR_PRESENT2-12=Ті хіпі, що борються за права роботів?
+
+
+# Director
+### Correct.
+PC10_DIRECTOR_PRESENT2-13=Саме так.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Only a handful of Drumer humans participated in this, until they were disbanded years ago.
+PC10_DIRECTOR_PRESENT2-14=Лише невелика група людей з Верхів брала в цьому участь, поки їх не розігнали кілька років тому.
+
+
+# Director
+### They've designed chips offering us a variety of settings to tweak.
+PC10_DIRECTOR_PRESENT2-15=Вони розробили чипи, які дають нам змогу налаштовувати різні параметри.
+
+
+# Director
+### But not exhaustive. The creation of such chips still requires a human hand.
+PC10_DIRECTOR_PRESENT2-16=Але не всі. Створення таких чипів усе одно вимагає рук людини.
+
+
+# Brok
+### I understand... I think.
+PC10_DIRECTOR_PRESENT2-17=Я розумію... мабуть.
+
+
+# Brok
+### (A handful humans making these...? Looks like a chase for the Grail.)
+PC10_DIRECTOR_PRESENT2-18=(Невелика група людей, які цим займались...? Схоже на пошуки Святого Грааля.)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (But I must succeed. For Graff.)
+PC10_DIRECTOR_PRESENT2-19=(Але я маю впоратися. Заради Граффа.)
+
+
+#----------------------------------------------------
+# Brok
+### Still no idea where I can find that chip?
+PC10_DIRECTOR_PRESENT3-1=Досі жодних ідей, де шукати той чип?
+
+
+# Director
+### Look for unofficial networks...
+PC10_DIRECTOR_PRESENT3-2=Пошукайте в неофіційних мережах...
+
+
+# Brok
+### Hmm... Makes sense...
+PC10_DIRECTOR_PRESENT3-3=Гмм... Логічно...
+
+
+#----------------------------------------------------
+# Brok
+### (...)
+PC10_DIRECTOR_THINK1-1=(...)
+
+
+# Brok
+### (I had never seen a robot seem so... human?)
+PC10_DIRECTOR_THINK1-2=(Я ніколи не бачив, щоб робот здавався таким... живим?)
+
+
+# Brok
+### (Gives me the willies...)
+PC10_DIRECTOR_THINK1-3=(Аж мурашки по шкірі...)
+
+
+#----------------------------------------------------
+# Brok
+### Take this!
+PC10_DIRECTOR_INV_DEFAULT1-1=Візьміть це!
+
+
+# Director
+### I do not understand.
+PC10_DIRECTOR_INV_DEFAULT1-2=Я не розумію.
+
+
+# Brok
+### I... thought...
+PC10_DIRECTOR_INV_DEFAULT1-3=Я... думав...
+
+
+# Brok
+### Never mind.
+PC10_DIRECTOR_INV_DEFAULT1-4=Не зважайте.
+
+
+#----------------------------------------------------
+# Brok
+### Is this what you're looking for?
+PC10_DIRECTOR_INV_DEFAULT2-1=Це те, що ви шукаєте?
+
+
+# Director
+### No.
+PC10_DIRECTOR_INV_DEFAULT2-2=Ні.
+
+
+# Brok
+### But... You want it, right?
+PC10_DIRECTOR_INV_DEFAULT2-3=Але... Ви ж хочете це, правда?
+
+
+# Director
+### No.
+PC10_DIRECTOR_INV_DEFAULT2-4=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### How about...
+PC10_DIRECTOR_INV_APARTMENTKEY-1=А як щодо...
+
+
+# Director
+### I won't be living with you.
+PC10_DIRECTOR_INV_APARTMENTKEY-2=Я не буду жити з вами.
+
+
+# Brok
+### I didn't want to suggest that!...
+PC10_DIRECTOR_INV_APARTMENTKEY-3=Я й не збирався цього пропонувати...!
+
+
+#----------------------------------------------------
+# Brok
+### Here.
+PC10_DIRECTOR_INV_MONEY-1=Ось.
+
+
+# Director
+### You must be mistaken. I'm not asking for money.
+PC10_DIRECTOR_INV_MONEY-2=Ви, мабуть, помилилися. Я не просила грошей.
+
+
+# Brok
+### Good! I don't have much.
+PC10_DIRECTOR_INV_MONEY-3=І чудово! У мене їх і так небагато.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### This is Graff's.
+PC10_DIRECTOR_INV_CATFUR-1=Це належить Граффові.
+
+
+# Director
+### And?...
+PC10_DIRECTOR_INV_CATFUR-2=І...?
+
+
+# Brok
+### Doesn't this convince you to take him back?
+PC10_DIRECTOR_INV_CATFUR-3=Хіба це не переконає вас прийняти його назад?
+
+
+# Director
+### Not really.
+PC10_DIRECTOR_INV_CATFUR-4=Та не дуже.
+
+
+#----------------------------------------------------
+# Brok
+### Give this to your son!
+PC10_DIRECTOR_INV_PREDNORMAL-1=Віддайте це своєму синові!
+
+
+# Director
+### He doesn't like plushies.
+PC10_DIRECTOR_INV_PREDNORMAL-2=Він не любить м'які іграшки.
+
+
+# Brok
+### Darn. And here I thought I had a difficult boy!
+PC10_DIRECTOR_INV_PREDNORMAL-3=Дідько. А я ще думав, що в мене складна дитина!
+
+
+#----------------------------------------------------
+# Brok
+### I order you!
+PC10_DIRECTOR_INV_REMOTECONTROL-1=Я наказую вам!
+
+
+# Brok
+### Do everything as I say!
+PC10_DIRECTOR_INV_REMOTECONTROL-2=Робіть усе, що я кажу!
+
+
+# Director
+### Uh?
+PC10_DIRECTOR_INV_REMOTECONTROL-3=Га?
+
+
+# Brok
+### Darn. Not working.
+PC10_DIRECTOR_INV_REMOTECONTROL-4=Дідько. Не працює.
+
+
+#----------------------------------------------------
+# Brok
+### Are you a doctor? You can multitask, right?
+PC10_DIRECTOR_INV_TRAMPPRESCR-1=Ви ж лікарка? Умієте робити кілька справ одночасно?
+
+
+# Director
+### I'm afraid not.
+PC10_DIRECTOR_INV_TRAMPPRESCR-2=Боюся, що ні.
+
+
+#----------------------------------------------------
+# Brok
+### (No!... There's more I need to ask.)
+PC10_DIRECTOR_EXIT_NOTYET-1=(Ні...! Мені треба ще дещо спитати.)
+
+
+#----------------------------------------------------
+# Brok
+### Thank you for your time.
+PC10_DIRECTOR_EXIT1-1=Дякую за ваш час.
+
+
+# Director
+### I'm at your service.
+PC10_DIRECTOR_EXIT1-2=До ваших послуг.
+
+
+#----------------------------------------------------
+# Brok
+### On my way. I'll get you what ya need!
+PC10_DIRECTOR_EXIT2-1=Уже йду. Я дістану те, що вам потрібно!
+
+
+# Director
+### Alright.
+PC10_DIRECTOR_EXIT2-2=Добре.
+
+
+#----------------------------------------------------
+# Director - If we get the chip from the hacker (by giving money or hitting him)
+### Mister Detective.
+PC10_DIRECTOR_GOTCHIP-1=Пане детективе.
+
+
+# Brok
+### Got what ya needed!
+PC10_DIRECTOR_GOTCHIP-2=Я приніс те, що вам потрібно!
+
+
+# Director
+### Wonderful!
+PC10_DIRECTOR_GOTCHIP-3=Чудово!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I've already performed the necessary steps for Graff's reinstatement.
+PC10_DIRECTOR_GOTCHIP-4=Я вже вжила необхідних заходів для поновлення Граффа.
+
+
+# Brok
+### What?... You didn't wait for me to bring this back?
+PC10_DIRECTOR_GOTCHIP-5=Що...? Ви не чекали, поки я це принесу?
+
+
+# Director
+### I had full trust in you.
+PC10_DIRECTOR_GOTCHIP-6=Я повністю вам довіряла.
+
+
+# Director
+### You might be prone to constant doubts but you always complete your jobs.
+PC10_DIRECTOR_GOTCHIP-7=Можливо, ви схильні до постійних сумнівів, але завжди доводите справи до кінця.
+
+
+# Director
+### No matter what or how.
+PC10_DIRECTOR_GOTCHIP-8=Попри все.
+
+
+# Brok
+### Erm... Thanks...?
+PC10_DIRECTOR_GOTCHIP-9=Е-е... Дякую...?
+
+
+# Brok
+### (Did she consult my past activity or something?)
+PC10_DIRECTOR_GOTCHIP-10=(Вона перевірила мою минулу діяльність чи що?)
+
+
+# Brok
+### Anyway... Glad this is solved.
+PC10_DIRECTOR_GOTCHIP-11=Менше з тим... Радий, що все владналося.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hopefully Graff can get his diploma now.
+PC10_DIRECTOR_GOTCHIP-12=Сподіваюся, тепер Графф зможе отримати свій диплом.
+
+
+# Director
+### May I remind you. He still needs to prove his worth through the trials.
+PC10_DIRECTOR_GOTCHIP-13=Дозвольте нагадати. Йому все ще потрібно довести, що він гідний цього, пройшовши випробування.
+
+
+# Brok
+### My boy won't disappoint. You'll see!
+PC10_DIRECTOR_GOTCHIP-14=Мій хлопчина не розчарує. Ось побачите!
+
+
+# Director
+### I'll cross my fingers for you.
+PC10_DIRECTOR_GOTCHIP-15=Триматиму за вас кулачки.
+
+
+# Brok
+### (Can she, now?...)
+PC10_DIRECTOR_GOTCHIP-16=(Цікаво, а вона так взагалі вміє...?)
+
+
+# Brok
+### Goodbye!
+PC10_DIRECTOR_GOTCHIP-17=До побачення!
+
+
+#----------------------------------------------------
+# Director
+### Mister Detective.
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-1=Пане детективе.
+
+
+# Brok
+### Well... I managed to find the chip you needed!
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-2=Ну... Мені вдалося знайти потрібний вам чип!
+
+
+# Director
+### Wonderful!
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-3=Чудово!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff shall receive extra points.
+PC10_DIRECTOR_GOTCHIP_ALTERNATIVE-4=Графф отримає додаткові бали.
+
+
+#----------------------------------------------------
+# Director - Hitting the Director
+### What are you doing?!
+PC10_DIRECTOR_HIT1-1=Що ви робите?!
+
+
+# Brok
+### Sorry!... That's... an accident!
+PC10_DIRECTOR_HIT1-2=Вибачте...! Це... випадковість!
+
+
+#----------------------------------------------------
+# Director
+### No, no, no.
+PC10_DIRECTOR_HIT2-1=Ні, ні, ні.
+
+
+# Director
+### Do this one more time and I'll have both of you banished from this country.
+PC10_DIRECTOR_HIT2-2=Зробите це ще раз, і я вижену вас обох із цієї країни.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Me and Graff?... Can you really do that?
+PC10_DIRECTOR_HIT2-3=Мене й Граффа...? Ви справді можете це зробити?
+
+
+# Director
+### Yes.
+PC10_DIRECTOR_HIT2-4=Так.
+
+
+#----------------------------------------------------
+# Director
+### Last warning!
+PC10_DIRECTOR_HIT3-1=Останнє попередження!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Now I understand why Graff is such a troubled boy.
+PC10_DIRECTOR_HIT3-2=Тепер я розумію, чому Графф такий проблемний хлопець.
+
+
+#----------------------------------------------------
+# Director
+### Very well. You made your choice.
+PC10_DIRECTOR_HIT4-1=Що ж. Ви зробили свій вибір.
+
+
+# Director
+### A patrol is coming to escort you and your son to the closest frontier.
+PC10_DIRECTOR_HIT4-2=Патруль скоро прибуде, щоб випровадити вас із сином до найближчого кордону.
+
+
+# Brok
+### Oops!
+PC10_DIRECTOR_HIT4-3=Ой-ой!
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Player can visit the school but no one's there except Stubot - which, like all Tribots, became crazy and attack Brok
+### Uh... Hello?
+PC10_BROK_STUBOT_ATTACKS1-1=Е-е... Агов?
+
+
+#----------------------------------------------------
+# Stubot
+### Hello
+PC10_STUBOT_HELLO-1=Вітаю
+
+
+# Stubot
+### School is closed
+PC10_STUBOT_HELLO-2=Школу зачинено
+
+
+# Brok
+### Oh... Okay.
+PC10_STUBOT_HELLO-3=Ох... Зрозуміло.
+
+
+#----------------------------------------------------
+# Stubot
+### ...
+PC10_BROK_STUBOT_ATTACKS2-1=...
+
+
+# Stubot
+### Human
+PC10_BROK_STUBOT_ATTACKS2-2=Людино
+
+
+# Stubot
+### Prepare to die
+PC10_BROK_STUBOT_ATTACKS2-3=Готуйся до смерті
+
+
+#----------------------------------------------------
+# Brok
+### The heck?! That school bot... It's ready to attack me!
+PC10_BROK_STUBOT_ATTACKS3-1=Що за чорт?! Цей шкільний бот... Він зібрався на мене напасти!
+
+
+#----------------------------------------------------
+# Brok - Fleeing away
+### Phew... It's not following me.
+PC10_BROK_STUBOT_FLEE1-1=Фух... Він не переслідує мене.
+
+
+# Brok
+### What was that all about?...
+PC10_BROK_STUBOT_FLEE1-2=Що це взагалі було...?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC10_BROK_STUBOT_DEAD-1=...
+
+
+#----------------------------------------------------
+# Unknown
+### From psychiatrist to school bot.
+COOP_PC10_DIRECTOR1-1=Від психіатра до шкільного бота.
+
+
+# Unknown
+### What a carreer!
+COOP_PC10_DIRECTOR1-2=Оце так кар'єра!
+
+
+#----------------------------------------------------
+

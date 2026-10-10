@@ -1,0 +1,2839 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Sin (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Wes (Unknown)
+#     Sin - Brok (Unknown)
+#     Sin - Wes (Unknown)
+#     Unknown - Brok (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Sin (Unknown)
+
+#-------------------------------
+#= SIN APARTMENT HALLWAY
+#-------------------------------
+
+#----- Interactions --------
+### Plank
+PC_PLANK=Дошка
+
+### Remote control
+PC_REMOTECONTROL=Пульт керування
+
+### Jacket
+PC_JACKET=Куртка
+
+### Trash
+PC_TRASH=Сміття
+
+### Glasses
+PC_GLASSES=Склянки
+
+### Wall crack
+PC_WALLCRACK=Тріщина в стіні
+
+# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+### Wardfridge
+PC_WARDFRIDGE=Шафодильник
+
+### Mirror
+PC_MIRROR=Дзеркало
+
+### Cup
+PC_CUP=Кухоль
+
+### Washing machine
+PC_WASHINGMACHINE=Пральна машина
+
+### Food
+PC_FOOD=Їжа
+
+### Clothes
+PC_CLOTHES=Одяг
+
+### Pile of glasses
+PC_GLASSESPILE=Купа склянок
+
+
+#----- Choices / Items --------
+### A damaged remote control!
+GOT_REMOTECONTROLDAMAGED=Пошкоджений пульт керування!
+
+### A pill!
+GOT_PILL=Пігулка!
+
+# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+### Pour some Hot Juice?
+PC07B_CHOICE_HOTJUICE=Налити гарячого соку?
+
+
+#----- Topics --------
+### Gun
+TOPIC_GUN=Пістолет
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumer Street
+TOPIC_DRUMERSSTREET=Вулиця на Верхах
+
+
+### Denounce
+TOPIC_DENOUNCE=Викрити
+
+### Forgive
+TOPIC_FORGIVE=Пробачити
+
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What is Sin hiding?
+INTERROGATION_SIN=Що приховує Сін?
+
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+
+
+
+# Brok - Room interactions
+### Quite the stack... Looks like the guy loves to drink.
+PC07B_GLASSESPILE1-1=Оце так стос... Схоже, цей хлопець любить випити.
+
+
+#----------------------------------------------------
+# Sin - Jumping on bed
+### You're a professional... Right...?
+PC07B_BEDJUMP1-1=Ви ж професіонал... Правда...?
+
+
+# Brok
+### Sure!
+PC07B_BEDJUMP1-2=Звісно!
+
+
+# Sin
+### Right...
+PC07B_BEDJUMP1-3=Ну-ну...
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Two glasses, eh?
+PC07B_GLASSES1-1=Дві склянки, га?
+
+
+# Sin
+### So what?
+PC07B_GLASSES1-2=І що з того?
+
+
+# Brok
+### Dunno... I had a feeling you lived alone.
+PC07B_GLASSES1-3=Та навіть не знаю... У мене склалося враження, що ви живете один.
+
+
+# Sin
+### I do.
+PC07B_GLASSES1-4=Так і є.
+
+
+#----------------------------------------------------
+# Brok
+### Two empty glasses...
+PC07B_GLASSES2-1=Дві порожні склянки...
+
+
+#----------------------------------------------------
+# Brok
+### Not until I know what that pill is.
+PC07B_GLASSES_PILLLATER-1=Ні, поки не дізнаюся, що це за пігулка.
+
+
+#----------------------------------------------------
+# Brok
+### (Hmm... I won't give it to him yet)
+PC07B_GLASSES_GIVENOTYET-1=(Гмм... Я поки не віддам це йому)
+
+
+#----------------------------------------------------
+# Brok
+### Good idea but... the glass is empty.
+PC07B_GLASSES_PILLBEFORELIQUID-1=Гарна ідея, але... склянка порожня.
+
+
+#----------------------------------------------------
+# Brok
+### Here.
+PC07B_SIN_GIVEDRINK-1=Тримайте.
+
+
+# Sin
+### (Glurp)
+PC07B_SIN_GIVEDRINK-2=(Ковтає)
+
+
+# Sin
+### Thanks...
+PC07B_SIN_GIVEDRINK-3=Дякую...
+
+
+#----------------------------------------------------
+# Brok
+### Not here.
+PC07B_GLASSESPILE_PILL-1=Не тут.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, you want a drink?
+PC07B_GLASSES_POUR-1=Гей, хочете випити?
+
+
+# Sin
+### Erm... Sure.
+PC07B_GLASSES_POUR-2=Е-е... Звісно.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### A tablet... Looks like he used it to perform some searches on the Triweb.
+PC07B_TABLET1-1=Планшет... Схоже, він шукав щось у Тривебі.
+
+
+# Brok
+### "Find lost item..." "Pawn shop..." "Medication deep sleep..." "Cheap detective...?"
+PC07B_TABLET1-2="Знайти загублену річ..." "Ломбард..." "Ліки для міцного сну..." "Дешевий детектив...?"
+
+
+# Brok
+### Mrphh... I guess I should be glad to be well ranked for that search term...
+PC07B_TABLET1-3=М-ммм... Мабуть, мені варто радіти, що я на перших позиціях у цьому пошуковому запиті...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+### Without searching through it, I can see an empty bottle of Hot Juice.
+PC07B_TRASH1-1=Навіть не риючись у ньому, я бачу порожню пляшку з-під гарячого соку.
+
+
+# Brok
+### Perfect to get drunk as a skunk.
+PC07B_TRASH1-2=Ідеальний засіб, щоб напитися до нестями.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin is looking at me... I'm not going to rummage through his trash.
+PC07B_TRASH2-1=Сін дивиться на мене... Я не ритимуся в його смітті.
+
+
+#----------------------------------------------------
+# Brok
+### Empty...
+PC07B_TRASH_AFTER1-1=Порожньо...
+
+
+#----------------------------------------------------
+# Brok
+### This mirror has seen better days.
+PC07B_MIRROR1-1=Це дзеркало бачило й кращі дні.
+
+
+# Brok
+### Just like myself.
+PC07B_MIRROR1-2=Так само, як і я.
+
+
+#----------------------------------------------------
+# Brok
+### Something's stuck beside the mirror!
+PC07B_PICTURE1-1=За дзеркалом щось застрягло!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### A picture of Sin with a woman and a little girl... I wonder who they are.
+PC07B_PICTURE1B-1=Фотографія Сіна з жінкою та маленькою дівчинкою... Цікаво, хто вони.
+
+
+#----------------------------------------------------
+# Brok
+### That cup doesn't seem important. However...
+PC07B_CUP1-1=Цей кухоль не здається важливим. Втім...
+
+
+# Brok
+### There are two pills beside it. I'll take one.
+PC07B_CUP1-2=Поруч із ним лежать дві пігулки. Візьму одну.
+
+
+#----------------------------------------------------
+# Brok
+### Taking both pills would seem suspicious.
+PC07B_CUP2-1=Взяти обидві пігулки було б підозріло.
+
+
+#----------------------------------------------------
+# Brok
+### How lucky! An all-in-one washing machine.
+PC07B_WASHINGMACHINE1-1=Яка удача! Пральна машина "все в одному".
+
+
+# Brok
+### Wash yourself, your clothes, or both at the same time!
+PC07B_WASHINGMACHINE1-2=Помийся сам, випери одяг або зроби все це одночасно!
+
+
+#----------------------------------------------------
+# Brok
+### At least one thing that's still there. I guess it's too big to move...
+PC07B_WASHINGMACHINE_AFTER1-1=Принаймні хоч щось залишилося. Мабуть, вона надто велика, щоб її зсунути...
+
+
+#----------------------------------------------------
+# Brok
+### What's this button for?
+PC07B_BED1-1=Навіщо ця кнопка?
+
+
+# Sin
+### Don't! It's my...
+PC07B_BED1-2=Не треба! Це моє...
+
+
+#----------------------------------------------------
+# Sin
+### ...bed.
+PC07B_BED1B-1=...ліжко.
+
+
+# Brok
+### Oh.
+PC07B_BED1B-2=О.
+
+
+#----------------------------------------------------
+# Brok
+### Quite handy when you're running out of space! I should get me one of these.
+PC07B_BEDFALLEN1-1=Дуже зручно, коли бракує місця! Треба й собі таке придбати.
+
+
+#----------------------------------------------------
+# Brok
+### What's in there?
+PC07B_WARDFRIDGE1-1=Що там усередині?
+
+
+# Sin
+### Just food and clothes. What do you expect?
+PC07B_WARDFRIDGE1-2=Просто їжа й одяг. А ви що очікували?
+
+
+# Brok
+### Do you mind if I open it?
+PC07B_WARDFRIDGE1-3=Ви не проти, якщо я відчиню?
+
+
+# Sin
+### I didn't call you to check my fridge!
+PC07B_WARDFRIDGE1-4=Я покликав вас не для того, щоб перевіряти мій холодильник!
+
+
+# Brok
+### Just a look-see!
+PC07B_WARDFRIDGE1-5=Я тільки гляну!
+
+
+#----------------------------------------------------
+# Brok
+### Who knows, maybe you left the gun in there?
+PC07B_WARDFRIDGE1B-1=Хто знає, може, ви заховали пістолет саме там?
+
+
+#----------------------------------------------------
+# Brok
+### Guess not. Nothing in particular.
+PC07B_WARDFRIDGE1C-1=Здається, ні. Нічого особливого.
+
+
+# Sin
+### You know, I'm starting to question your detective skills...
+PC07B_WARDFRIDGE1C-2=Знаєте, я починаю сумніватися у ваших детективних здібностях...
+
+
+# Brok
+### Act before thinking! That's what Grandpa always said.
+PC07B_WARDFRIDGE1C-3=Спочатку дій, потім думай! Так завжди казав дідусь.
+
+
+# Brok
+### It usually works!
+PC07B_WARDFRIDGE1C-4=Зазвичай це працює!
+
+
+# Sin
+### Not when we're short on time! Oh gosh, if someone finds the gun before me...
+PC07B_WARDFRIDGE1C-5=Але не коли у нас обмаль часу! Ох, якщо хтось знайде пістолет раніше за мене...
+
+
+# Brok
+### Got it! I'll speed up the pace.
+PC07B_WARDFRIDGE1C-6=Зрозумів! Покваплюся.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+### Wardfridges are such a nice invention!
+PC07B_CLOTHES1-1=Шафодильники - такий чудовий винахід!
+
+
+# Brok
+### Cold air is pushed to the top, so the hot air stays at the bottom to keep the clothes warm.
+PC07B_CLOTHES1-2=Холодне повітря виштовхується нагору, тому гаряче залишається знизу, щоб одяг був теплим.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC07B_FOOD1-1=Гмм...
+
+
+# Sin
+### Don't tell me you're gonna steal something from my fridge?
+PC07B_FOOD1-2=Тільки не кажіть, що збираєтеся щось поцупити з мого холодильника?
+
+
+# Brok
+### Not stealing! Just consider this an advance payment.
+PC07B_FOOD1-3=Не поцупити! Просто вважайте це авансом.
+
+
+# Brok
+### Besides, I can't do my job properly on an empty stomach.
+PC07B_FOOD1-4=До того ж я не можу належно виконувати свою роботу на голодний шлунок.
+
+
+# Sin
+### You gotta be kidding me...
+PC07B_FOOD1-5=Ви, мабуть, жартуєте...
+
+
+#----------------------------------------------------
+# Brok
+### I'd better not abuse his hospitality... especially with the glance he's throwing at me.
+PC07B_FOOD2-1=Краще не зловживати його гостинністю... особливо зважаючи на те, як він на мене дивиться.
+
+
+#----------------------------------------------------
+# Brok
+### Empty.
+PC07B_WARDFRIGE_EMPTY-1=Порожньо.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa... I can see the other side of the hallway from there!
+PC07B_WALLCRACK1-1=Ого... Звідси видно інший кінець коридору!
+
+
+# Sin
+### Yeah. This whole building is falling apart. But this was the only apartment I could afford.
+PC07B_WALLCRACK1-2=Так. Уся ця будівля розвалюється. Але це була єдина квартира, яку я міг собі дозволити.
+
+
+# Brok
+### When did you move in?
+PC07B_WALLCRACK1-3=Коли ви сюди переїхали?
+
+
+# Sin
+### About two weeks ago...
+PC07B_WALLCRACK1-4=Десь два тижні тому...
+
+
+# Brok
+### Ah, that explains the barren place. Why did you...
+PC07B_WALLCRACK1-5=А, це пояснює таке порожнє житло. То чому ви...
+
+
+# Sin
+### None of your business!
+PC07B_WALLCRACK1-6=Не ваша справа!
+
+
+# Brok
+### No need to get upset! I'm just concerned whether you'll have the dough to pay me.
+PC07B_WALLCRACK1-7=Не ображайтеся! Мене просто цікавить, чи вистачить у вас бабок, щоб розплатитися зі мною.
+
+
+# Sin
+### I will. In due time.
+PC07B_WALLCRACK1-8=Вистачить. Всьому свій час.
+
+
+# Brok
+### (Two to one I'll never get paid for this...)
+PC07B_WALLCRACK1-9=(Два проти одного, що мені за це так і не заплатять...)
+
+
+#----------------------------------------------------
+# Brok
+### A huge crack in the wall... and here I thought my apartment was in a disastrous state!
+PC07B_WALLCRACK2-1=Величезна тріщина в стіні... а я ще думав, що це моя квартира в жахливому стані!
+
+
+#----------------------------------------------------
+# Brok
+### Why did I bother going through the door...
+PC07B_WALLCRACK_AFTER1-1=І навіщо я взагалі заходив через двері...
+
+
+#----------------------------------------------------
+# Brok
+### Let's see...
+PC07B_JACKET1-1=Погляньмо...
+
+
+# Sin
+### Hey! Don't touch my jacket!
+PC07B_JACKET1-2=Гей! Не чіпайте мою куртку!
+
+
+# Brok
+### Don't worry, I'm just rummaging through your pocket to see...
+PC07B_JACKET1-3=Не хвилюйтеся, я лише порпаюся у вашій кишені, щоб...
+
+
+# Brok
+### Ah-ah! I've found... a flyer!
+PC07B_JACKET1-4=Ага! Я знайшов... флаєр!
+
+
+# Sin
+### One of those activists in the street must have put it there. Keep it. I don't care.
+PC07B_JACKET1-5=Хтось із тих активістів на вулиці, мабуть, сунув його туди. Залишіть собі. Мені байдуже.
+
+
+#----------------------------------------------------
+# Brok
+### Nothing else in the jacket.
+PC07B_JACKET2-1=У куртці більше нічого немає.
+
+
+#----------------------------------------------------
+# Brok
+### What's that? Looks like some kind of...
+PC07B_DEVICEBED1-1=Що це? Схоже на якийсь...
+
+
+#----------------------------------------------------
+# Brok
+### ...whoops.
+PC07B_DEVICEBED1B-1=...ой.
+
+
+# Sin
+### I don't believe it! You've broken it!
+PC07B_DEVICEBED1B-2=Неймовірно! Ви зламали його!
+
+
+# Brok
+### Erm... really sorry. What's that, exactly?
+PC07B_DEVICEBED1B-3=Е-е... дуже шкода. А що це взагалі таке?
+
+
+# Sin
+### A... remote control. For my, erm... tablet.
+PC07B_DEVICEBED1B-4=Пульт... керування. Для мого, е-е... планшета.
+
+
+# Brok
+### Oh. In that case, no worries!
+PC07B_DEVICEBED1B-5=О. У такому разі не турбуйтеся!
+
+
+# Brok - The friend he refers to is Shay.
+### My friend is an electronic genius, she'll fix it in no time!
+PC07B_DEVICEBED1B-6=Моя подруга - справжній геній електроніки, вона відремонтує це миттєво!
+
+
+#----------------------------------------------------
+# Sin
+### That's mine! I didn't allow you to take it!
+PC07B_DEVICEBED1C-1=Це моє! Я не дозволяв вам це брати!
+
+
+# Brok
+### Trust me! I'll fix it. I owe it to you.
+PC07B_DEVICEBED1C-2=Повірте мені! Я відремонтую. Я вам винен.
+
+
+# Sin
+### (Sigh) Alright, alright!
+PC07B_DEVICEBED1C-3=(Зітхає) Гаразд, гаразд!
+
+
+#----------------------------------------------------
+# Sin
+### But hurry up and find that gun! You're wasting time here!
+PC07B_DEVICEBED1D-1=Але покваптеся й знайдіть той пістолет! Ви марнуєте тут час!
+
+
+#----------------------------------------------------
+# Sin - Exit before knowing we have to pass the border
+### Erm... you didn't ask much.
+PC07B_SIN_EXITEARLY1-1=Е-е... ви не так багато й запитали.
+
+
+# Sin
+### You sure you have enough info?
+PC07B_SIN_EXITEARLY1-2=Ви впевнені, що маєте достатньо інформації?
+
+
+# Brok
+### Hmm... maybe not.
+PC07B_SIN_EXITEARLY1-3=Гмм... можливо, й ні.
+
+
+#----------------------------------------------------
+# Sin - Talking to Sin - but trying to inspect his apartment
+### Hey! What are you doing?
+PC07B_SIN_NOTALLOWED1-1=Гей! Що ви робите?
+
+
+# Sin
+### Don't touch my stuff!
+PC07B_SIN_NOTALLOWED1-2=Не чіпайте мої речі!
+
+
+# Brok
+### Sorry.
+PC07B_SIN_NOTALLOWED1-3=Вибачте.
+
+
+#----------------------------------------------------
+# Sin
+### Are you listening?
+PC07B_SIN_NOTALLOWED2-1=Ви слухаєте?
+
+
+# Brok
+### Nope.
+PC07B_SIN_NOTALLOWED2-2=Ні.
+
+
+# Sin
+### What?!
+PC07B_SIN_NOTALLOWED2-3=Що?!
+
+
+# Brok
+### Just kiddin'! Just kiddin'!
+PC07B_SIN_NOTALLOWED2-4=Та жартую! Жартую!
+
+
+#----------------------------------------------------
+# Sin
+### Where are you going?
+PC07B_SIN_NOTALLOWEDBATHROOM1-1=Куди це ви?
+
+
+# Brok
+### Just checking...
+PC07B_SIN_NOTALLOWEDBATHROOM1-2=Просто оглядаюся...
+
+
+# Sin
+### Can you focus on my problem, please?
+PC07B_SIN_NOTALLOWEDBATHROOM1-3=Можете зосередитися на моїй проблемі, будь ласка?
+
+
+#----------------------------------------------------
+# Sin - Talking to Sin
+### At last! Here you are!
+PC07B_SIN_FIRST-1=Нарешті! Ось і ви!
+
+
+# Brok
+### Truly sorry. I had some... difficulties on the way.
+PC07B_SIN_FIRST-2=Щиро вибачаюся. У мене виникли деякі... труднощі в дорозі.
+
+
+# Brok
+### So, what's the fuss?
+PC07B_SIN_FIRST-3=То через що весь цей галас?
+
+
+# Sin
+### I'm in deep trouble... I've lost my crippling gun.
+PC07B_SIN_FIRST-4=Я у великій біді... Я загубив свій травматичний пістолет.
+
+
+# Brok
+### That's all? Why is it so important?
+PC07B_SIN_FIRST-5=І це все? Чому це так важливо?
+
+
+# Sin
+### I'm gonna lose my job! That's why!
+PC07B_SIN_FIRST-6=Я втрачу роботу! Ось чому!
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### I'm... kinda new on the force. If I tell the chief I messed up, he'll fire me!
+PC07B_SIN_FIRST-7=Я... так би мовити, новенький у поліції. Якщо скажу шефу, що накосячив, він мене звільнить!
+
+
+# Sin
+### I just can't afford it!
+PC07B_SIN_FIRST-8=Я просто не можу собі цього дозволити!
+
+
+# Brok
+### So you're hiring me to find that gun? Okay...
+PC07B_SIN_FIRST-9=То ви наймаєте мене, щоб знайти той пістолет? Добре...
+
+
+# Brok
+### How much can you offer?
+PC07B_SIN_FIRST-10=Скільки ви можете запропонувати?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 500 unis...
+PC07B_SIN_FIRST-11=500 Юні...
+
+
+# Brok
+### 1000.
+PC07B_SIN_FIRST-12=1000.
+
+
+# Sin
+### I can't! 500 is all I can afford!
+PC07B_SIN_FIRST-13=Я не можу! 500 - це все, що я можу собі дозволити!
+
+
+# Sin
+### Please! I'm begging you!
+PC07B_SIN_FIRST-14=Будь ласка! Я благаю вас!
+
+
+# Brok
+### (Sigh) Alright...500 it is.
+PC07B_SIN_FIRST-15=(Зітхає) Гаразд... нехай буде 500.
+
+
+# Brok
+### (Wish I was better at negotiating...)
+PC07B_SIN_FIRST-16=(Хотів би я краще вміти вести переговори...)
+
+
+# Brok
+### Tell me more.
+PC07B_SIN_FIRST-17=Розкажіть мені детальніше.
+
+
+#----------------------------------------------------
+# Brok
+### Any idea where you lost it?
+PC07B_SIN_GUN1-1=Є якісь ідеї, де ви могли його загубити?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Last night, I was on duty in Drumer Street.
+PC07B_SIN_GUN1-2=Минулої ночі я був на чергуванні на Верхах.
+
+
+# Sin
+### I'm absolutely certain I lost it during my watch in Alley number 12. I had it before.
+PC07B_SIN_GUN1-3=Я абсолютно впевнений, що загубив його під час варти у провулку номер 12. До цього він був при мені.
+
+
+# Brok
+### Then why don't you search for it yourself?
+PC07B_SIN_GUN1-4=То чому ви самі його не пошукаєте?
+
+
+# Sin
+### I can't go outside! If someone notices me without the gun, I'm done for!
+PC07B_SIN_GUN1-5=Я не можу вийти на вулицю! Якщо хтось помітить мене без пістолета, мені кінець!
+
+
+# Brok
+### Aren't you exaggerating a bit?
+PC07B_SIN_GUN1-6=Ви бува не перебільшуєте?
+
+
+# Sin
+### Are you from the police department?
+PC07B_SIN_GUN1-7=Ви що, з поліцейського відділку?
+
+
+# Brok
+### Of course not. I can't stand them. Erm...
+PC07B_SIN_GUN1-8=Звісно, ні. Терпіти їх не можу. Е-е...
+
+
+# Sin
+### Then you don't know! Trust me!
+PC07B_SIN_GUN1-9=Тоді ви нічого не знаєте! Повірте мені!
+
+
+#----------------------------------------------------
+# Brok
+### What happened exactly? How did you lose it?
+PC07B_SIN_GUN2-1=Що саме сталося? Як ви його загубили?
+
+
+# Sin
+### If only I knew! I just remember exiting the alley and noticing it missing.
+PC07B_SIN_GUN2-2=Якби ж я знав! Я тільки пам'ятаю, як виходив із провулка й помітив, що його немає.
+
+
+# Brok
+### Where did you store it?
+PC07B_SIN_GUN2-3=Де ви його тримали?
+
+
+# Sin
+### In my pocket, where else?
+PC07B_SIN_GUN2-4=У кишені, а де ж іще?
+
+
+# Brok
+### Anything else missing?
+PC07B_SIN_GUN2-5=Ще щось зникло?
+
+
+# Sin
+### Actually, yes. My handkerchief.
+PC07B_SIN_GUN2-6=Взагалі-то, так. Моя носова хустинка.
+
+
+# Sin
+### A blue one. My wife hand-stitched it for me.
+PC07B_SIN_GUN2-7=Синя. Моя дружина вишила її для мене вручну.
+
+
+# Sin
+### It was in my pocket, alongside the gun... Both are gone.
+PC07B_SIN_GUN2-8=Вона була в моїй кишені, поруч із пістолетом... Обидві речі зникли.
+
+
+# Brok
+### Okay, this might prove useful.
+PC07B_SIN_GUN2-9=Гаразд, це може знадобитися.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumer Street, you say?
+PC07B_SIN_DRUMERSSTREET1-1=На Верхах, кажете?
+
+
+# Brok
+### There's a border post to enter the area. I can't pass it.
+PC07B_SIN_DRUMERSSTREET1-2=Щоб увійти в ту зону, треба пройти прикордонний пост. Я не зможу його пройти.
+
+
+#----------------------------------------------------
+# Sin
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### You're a detective! I thought you had credentials to examine the Drums?
+PC07B_SIN_DRUMERSSTREET1B-1=Ви ж детектив! Я думав, у вас є перепустка для огляду Верхів?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Nope. All my clients are Slumers, I usually don't go near the Dome.
+PC07B_SIN_DRUMERSSTREET1B-2=Ні. Усі мої клієнти живуть у Нетрях, тож я зазвичай і близько не підходжу до Купола.
+
+
+# Sin
+### Oh, great...
+PC07B_SIN_DRUMERSSTREET1B-3=О, чудово...
+
+
+# Brok
+### You're a cop. Can't you give me somethin'?
+PC07B_SIN_DRUMERSSTREET1B-4=Ви коп. Хіба ви не можете мені щось дати?
+
+
+# Brok
+### Call your colleagues, maybe?
+PC07B_SIN_DRUMERSSTREET1B-5=Зателефонувати колегам, наприклад?
+
+
+# Sin
+### I said it... I'm new. I have no one I can trust.
+PC07B_SIN_DRUMERSSTREET1B-6=Я ж казав... я новенький. У мене немає нікого, кому я міг би довіряти.
+
+
+# Brok
+### In that case...
+PC07B_SIN_DRUMERSSTREET1B-7=У такому разі...
+
+
+# Brok
+### Give me your uniform and your badge. I'll impersonate you.
+PC07B_SIN_DRUMERSSTREET1B-8=Дайте мені вашу форму та значок. Я видам себе за вас.
+
+
+# Sin
+### Impossible! We don't use badges anymore.
+PC07B_SIN_DRUMERSSTREET1B-9=Це неможливо! Ми більше не використовуємо значки.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### There's a body scan at the entrance of the Dome. It can't be faked.
+PC07B_SIN_DRUMERSSTREET1B-10=Тим паче, на вході до Купола стоїть сканер тіла. Його не обдурити.
+
+
+# Brok
+### Darn... You're right. Then... Erm...
+PC07B_SIN_DRUMERSSTREET1B-11=Дідько... Ви праві. Тоді... Е-е...
+
+
+# Brok - He is talking about Shay.
+### I know! I have a friend who can do wonders with technology.
+PC07B_SIN_DRUMERSSTREET1B-12=Знаю! У мене є подруга, яка робить дива з технологіями.
+
+
+# Brok
+### She will find a way to get through.
+PC07B_SIN_DRUMERSSTREET1B-13=Вона знайде спосіб пройти.
+
+
+#----------------------------------------------------
+# Sin
+### Wonderful!
+PC07B_SIN_DRUMERSSTREET1C-1=Дивовижно!
+
+
+# Sin
+### Now, go ahead! What are you waiting for?!
+PC07B_SIN_DRUMERSSTREET1C-2=А тепер ідіть! Чого ви чекаєте?!
+
+
+# Brok
+### Hey! I'm gonna take some risks for you! You could be a bit more gracious.
+PC07B_SIN_DRUMERSSTREET1C-3=Гей! Я ризикуватиму заради вас! Могли б бути трохи ввічливішим.
+
+
+# Sin
+### Please Mr. Detective, hurry up!
+PC07B_SIN_DRUMERSSTREET1C-4=Будь ласка, пане детективе, покваптеся!
+
+
+# Brok
+### Better. But I won't move until I've got enough information.
+PC07B_SIN_DRUMERSSTREET1C-5=Вже краще. Але я не зрушу з місця, поки не отримаю достатньо інформації.
+
+
+# Sin
+### What now?
+PC07B_SIN_DRUMERSSTREET1C-6=Що ще?
+
+
+# Brok
+### I'd like to inspect your apartment.
+PC07B_SIN_DRUMERSSTREET1C-7=Я хотів би оглянути вашу квартиру.
+
+
+# Brok
+### Experience tells me things are often hidden right before our eyes.
+PC07B_SIN_DRUMERSSTREET1C-8=Досвід підказує мені, що речі часто ховаються просто у нас перед очима.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### But... I told you! I lost it on Drumer Street!
+PC07B_SIN_DRUMERSSTREET1C-9=Але... я ж казав вам! Я загубив його на Верхах!
+
+
+# Brok
+### I insist! Let me do my job.
+PC07B_SIN_DRUMERSSTREET1C-10=Я наполягаю! Дайте мені зробити свою роботу.
+
+
+# Brok
+### (Rule number 3 in my book : Never blindly trust your client)
+PC07B_SIN_DRUMERSSTREET1C-11=(Правило номер 3 у моїй книзі: ніколи наосліп не довіряй своєму клієнту)
+
+
+# Sin
+### Gah! Go ahead but hurry!
+PC07B_SIN_DRUMERSSTREET1C-12=Тьху! Оглядайте, але швидше!
+
+
+#----------------------------------------------------
+# Brok
+### Why were you patrolling in this street?
+PC07B_SIN_DRUMERSSTREET2-1=Чому ви патрулювали саме на тій вулиці?
+
+
+# Sin
+### I received orders... and I follow them.
+PC07B_SIN_DRUMERSSTREET2-2=Я отримав наказ... і виконував його.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Were you alone? Aren't Tribots and cameras enough for that job?
+PC07B_SIN_DRUMERSSTREET2-3=Ви були самі? Хіба Триботів і камер недостатньо для цієї роботи?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief insists on keeping some humans in the crucial areas.
+PC07B_SIN_DRUMERSSTREET2-4=Шеф наполягає на тому, щоб у найважливіших зонах залишалися охоронці-люди.
+
+
+# Brok
+### Crucial, eh...?
+PC07B_SIN_DRUMERSSTREET2-5=Найважливіших, га...?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I see what you mean... but that's how it is. Drumers get priority.
+PC07B_SIN_DRUMERSSTREET2-6=Розумію, про що ви... але маємо, що маємо. Мешканці Верхів у пріоритеті.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### How come you're living in the Slums? I could have sworn cops were Drumers.
+PC07B_SIN_HIMSELF1-1=Як так вийшло, що ви живете в Нетрях? Я міг би присягнутися, що всі копи - з Верхів.
+
+
+# Sin
+### You're wrong. I don't earn that much.
+PC07B_SIN_HIMSELF1-2=Ви помиляєтеся. Я не так багато заробляю.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### But are Slumers allowed on the police force? I thought...
+PC07B_SIN_HIMSELF1-3=А хіба мешканцям Нетрів дозволено служити в поліції? Я думав...
+
+
+# Sin
+### Please stop the useless questions and do your job! There's no time to waste!
+PC07B_SIN_HIMSELF1-4=Будь ласка, припиніть марні запитання й робіть свою роботу! Ми не можемо втрачати час!
+
+
+#----------------------------------------------------
+# Brok
+### (So I'm doing "lost and found" today?)
+PC07B_SIN_THINK1-1=(Тож сьогодні я працюю в "бюро знахідок"?)
+
+
+# Brok
+### (I shouldn't complain. I've had worse jobs. Although I can't shake the feeling that something's not right...)
+PC07B_SIN_THINK1-2=(Не варто скаржитись. У мене бували й гірші замовлення. Хоча й не можу позбутися відчуття, що тут щось не так...)
+
+
+# Brok
+### (Well! I'm used to it, anyway. Things ALWAYS go wrong.)
+PC07B_SIN_THINK1-3=(Що ж! Усе одно я до цього звик. Усе ЗАВЖДИ йде шкереберть.)
+
+
+#----------------------------------------------------
+# Brok
+### So, tell me...
+PC07B_SIN_WELCOME1-1=Тож скажіть мені...
+
+
+#----------------------------------------------------
+# Brok
+### Can I ask you somethin'?
+PC07B_SIN_WELCOME2-1=Можу щось запитати?
+
+
+# Sin
+### Again?! When are you going to start investigating?
+PC07B_SIN_WELCOME2-2=Знову?! Коли ви вже почнете розслідування?
+
+
+# Brok
+### First things first.
+PC07B_SIN_WELCOME2-3=Усьому свій час.
+
+
+#----------------------------------------------------
+# Brok
+### Thanks for the info.
+PC07B_SIN_EXIT1-1=Дякую за інформацію.
+
+
+# Sin
+### Hurry up!
+PC07B_SIN_EXIT1-2=Поспішіть!
+
+
+#----------------------------------------------------
+# Brok
+### Wait here.
+PC07B_SIN_EXIT2-1=Чекайте тут.
+
+
+# Sin
+### What else can I do?
+PC07B_SIN_EXIT2-2=А що мені ще робити?
+
+
+#----------------------------------------------------
+# Brok
+### Look at this!
+PC07B_SIN_INV_DEFAULT1-1=Погляньте на це!
+
+
+# Sin
+### What about it?
+PC07B_SIN_INV_DEFAULT1-2=І що?
+
+
+# Brok
+### No idea. I'm asking for your opinion. What do you think?
+PC07B_SIN_INV_DEFAULT1-3=Уявлення не маю. Я питаю вашої думки. Що скажете?
+
+
+# Sin
+### What kind of investigation is this? I don't have time to waste!
+PC07B_SIN_INV_DEFAULT1-4=Що це за дивне розслідування? Не втрачайте мій час!
+
+
+#----------------------------------------------------
+# Brok
+### I believe this might hel...
+PC07B_SIN_INV_DEFAULT2-1=Здається, це може допомог...
+
+
+# Sin
+### No!
+PC07B_SIN_INV_DEFAULT2-2=Ні!
+
+
+# Brok
+### No need to get angry.
+PC07B_SIN_INV_DEFAULT2-3=Не треба сердитися.
+
+
+#----------------------------------------------------
+# Brok
+### (Maaaaaybe not... I stole it from him.)
+PC07B_SIN_INV_PILL-1=(Маааабуть, не варто... Я ж украв це в нього.)
+
+
+#----------------------------------------------------
+# Brok
+### Don't worry! I'll fix it!
+PC07B_SIN_INV_REMOTECONTROLDAMAGED-1=Не хвилюйтеся! Я полагоджу його!
+
+
+# Sin
+### I hope so...
+PC07B_SIN_INV_REMOTECONTROLDAMAGED-2=Сподіваюся...
+
+
+#----------------------------------------------------
+# Sin
+### Hey! That's...
+PC07B_SIN_INV_HANDKERCHIEF-1=Гей! Це ж...
+
+
+# Brok
+### Yours, right?
+PC07B_SIN_INV_HANDKERCHIEF-2=Ваше, так?
+
+
+# Sin
+### Yeah! Finally some progress!
+PC07B_SIN_INV_HANDKERCHIEF-3=Так! Нарешті хоч якийсь прогрес!
+
+
+# Sin
+### Give it back!
+PC07B_SIN_INV_HANDKERCHIEF-4=Поверніть!
+
+
+# Brok
+### What? No way! That's a clue!
+PC07B_SIN_INV_HANDKERCHIEF-5=Що? Ні за що! Це зачіпка!
+
+
+# Sin
+### (Sigh)
+PC07B_SIN_INV_HANDKERCHIEF-6=(Зітхає)
+
+
+# Sin
+### Okay... You can keep it for now...
+PC07B_SIN_INV_HANDKERCHIEF-7=Гаразд... Можете поки що залишити собі...
+
+
+# Sin
+### But don't you dare blow your nose in it!
+PC07B_SIN_INV_HANDKERCHIEF-8=Але не смійте в неї шмаркати!
+
+
+# Brok
+### Who, me...? Never!
+PC07B_SIN_INV_HANDKERCHIEF-9=Хто, я...? Ніколи!
+
+
+#----------------------------------------------------
+# Sin
+### Urgh...
+PC07B_SIN_INV_CATFUR-1=Тьху...
+
+
+# Sin
+### Watch out! You're scattering fur everywhere!
+PC07B_SIN_INV_CATFUR-2=Обережніше! Ви розтрушуєте всюди шерсть!
+
+
+# Brok
+### Did you take a good look at me?
+PC07B_SIN_INV_CATFUR-3=А ви на мене уважно подивилися?
+
+
+# Sin
+### Uh... Where does it come from?
+PC07B_SIN_INV_CATFUR-4=Е-е... Звідки вона тоді взялась?
+
+
+#----------------------------------------------------
+# Sin
+### Erm... What's that for?
+PC07B_SIN_INV_MONEY-1=Е-е... Навіщо це?
+
+
+# Brok
+### Oops! I thought I owed you somethin'!
+PC07B_SIN_INV_MONEY-2=Ой! Я думав, що винен вам щось!
+
+
+# Sin
+### Yeah... To investigate!
+PC07B_SIN_INV_MONEY-3=Ага... Розслідувати!
+
+
+#----------------------------------------------------
+# Brok
+### See? I'm a detective!
+PC07B_SIN_INV_MAGNIFY-1=Бачите? Я детектив!
+
+
+# Sin
+### (Sigh)
+PC07B_SIN_INV_MAGNIFY-2=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Take this.
+PC07B_SIN_INV_POLLUTIONPILL-1=Візьміть це.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### A Toxout pill?! I don't need it!
+PC07B_SIN_INV_POLLUTIONPILL-2=Смогова пігулка?! Вона мені не потрібна!
+
+
+# Brok
+### You never know what might happen tomorrow!
+PC07B_SIN_INV_POLLUTIONPILL-3=Ніколи не знаєш, що може статися завтра!
+
+
+# Sin
+### No, thanks.
+PC07B_SIN_INV_POLLUTIONPILL-4=Ні, дякую.
+
+
+# Brok
+### Don't say I didn't warn you!
+PC07B_SIN_INV_POLLUTIONPILL-5=Не кажіть потім, що я вас не попереджав!
+
+
+#----------------------------------------------------
+# Brok
+### Please tell me you know where I can find a doctor!
+PC07B_SIN_INV_TRAMPPRESCR-1=Будь ласка, скажіть, що знаєте, де знайти лікаря!
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Medi-Tribot": "Мед-Трибот"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### No idea. With the Medi-Tribots I never needed it.
+PC07B_SIN_INV_TRAMPPRESCR-2=Уявлення не маю. З Мед-Триботами мені це ніколи не було потрібно.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### You got one? I thought you were a Slumer?
+PC07B_SIN_INV_TRAMPPRESCR-3=У вас є такий? Я думав, ви з Нетрів?
+
+
+# Sin
+### Well...
+PC07B_SIN_INV_TRAMPPRESCR-4=Ну...
+
+
+# Sin
+### I got it from the garbage dump...
+PC07B_SIN_INV_TRAMPPRESCR-5=Я підібрав його на смітнику...
+
+
+# Brok
+### Hmm.
+PC07B_SIN_INV_TRAMPPRESCR-6=Гмм.
+
+
+#----------------------------------------------------
+# Brok
+### (Not yet...)
+PC07B_SIN_INV_GUN-1=(Ще зарано...)
+
+
+#----------------------------------------------------
+# Sin
+### Please tell me you found it!
+PC07B_SIN_INTERROGATEGUN_NOTYET-1=Будь ласка, скажіть, що ви знайшли його!
+
+
+# Brok
+### (I did... But...)
+PC07B_SIN_INTERROGATEGUN_NOTYET-2=(Знайшов... Але...)
+
+
+# Brok
+### (I have a nagging feeling I shouldn't give it to him yet. Pretty sure I missed something.)
+PC07B_SIN_INTERROGATEGUN_NOTYET-3=(Мене не полишає відчуття, що поки не варто віддавати його. Майже впевнений, що упустив щось.)
+
+
+# Brok
+### Not yet but I'm getting close.
+PC07B_SIN_INTERROGATEGUN_NOTYET-4=Ще ні, але я вже близько.
+
+
+# Brok
+### (Better search his apartment thoroughly.)
+PC07B_SIN_INTERROGATEGUN_NOTYET-5=(Краще ретельно обшукати його квартиру.)
+
+
+#----------------------------------------------------
+# Brok
+### I found it.
+PC07B_SIN_INTERROGATEGUN-1=Я знайшов його.
+
+
+# Sin
+### The gun? You've got it?!
+PC07B_SIN_INTERROGATEGUN-2=Пістолет? Ви його знайшли?!
+
+
+# Sin
+### Awesome! You're a life saver!
+PC07B_SIN_INTERROGATEGUN-3=Чудово! Ви врятували мене!
+
+
+# Brok
+### Wait. I'm not giving it to you...yet.
+PC07B_SIN_INTERROGATEGUN-4=Зачекайте. Я не віддам його вам... поки що.
+
+
+# Sin
+### What? Why?!
+PC07B_SIN_INTERROGATEGUN-5=Що? Чому?!
+
+
+# Brok
+### My investigation brought up some questions that need clarification.
+PC07B_SIN_INTERROGATEGUN-6=Під час розслідування у мене виникли деякі запитання, які треба з'ясувати.
+
+
+# Brok
+### I'd like you to explain a few things.
+PC07B_SIN_INTERROGATEGUN-7=Я хотів би, щоб ви дещо пояснили.
+
+
+# Sin
+### Err... Sure... Go ahead.
+PC07B_SIN_INTERROGATEGUN-8=Е-е... Звісно... Запитуйте.
+
+
+#----------------------------------------------------
+# Brok
+### Let's resume our..."conversation."
+PC07B_SIN_INTERROGATEGUN2-1=Продовжимо нашу... "розмову".
+
+
+#----------------------------------------------------
+# Brok - Interrogating Sin
+### That gun ain't yours.
+PC07B_CLUE_SIN_GUNNOTHIM-1=Цей пістолет не ваш.
+
+
+# Sin
+### Huh...? Of course it is!
+PC07B_CLUE_SIN_GUNNOTHIM-2=Що...? Звісно ж, мій!
+
+
+# Sin
+### I got it when I was recruited onto the police force!
+PC07B_CLUE_SIN_GUNNOTHIM-3=Я отримав його, коли мене прийняли до лав поліції!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Then explain those initials... R.J.
+PC07B_CLUE_SIN_GUNNOTHIM-4=Тоді поясніть ці ініціали... Р. Джей.
+
+
+# Sin
+### Well... Yeah. Another agent got it before me...
+PC07B_CLUE_SIN_GUNNOTHIM-5=Ну... Так. До мене він належав іншому агентові...
+
+
+# Brok
+### Who?
+PC07B_CLUE_SIN_GUNNOTHIM-6=Кому?
+
+
+# Sin
+### Is that important?
+PC07B_CLUE_SIN_GUNNOTHIM-7=Хіба це важливо?
+
+
+# Sin
+### Must be the agent who went into retirement before me. Can't remember his name.
+PC07B_CLUE_SIN_GUNNOTHIM-8=Мабуть, агентові, який пішов на пенсію до мене. Не пам'ятаю його імені.
+
+
+# Brok
+### That's not all. The identifier code has been scratched beyond readable. How do you explain that?
+PC07B_CLUE_SIN_GUNNOTHIM-9=Це ще не все. Ідентифікаційний код зішкрябано так, що його неможливо прочитати. Як ви це поясните?
+
+
+# Sin
+### I guess...
+PC07B_CLUE_SIN_GUNNOTHIM-10=Гадаю...
+
+
+# Sin
+### It's not brand new, you know. He must have worn it out during his missions.
+PC07B_CLUE_SIN_GUNNOTHIM-11=Він уже не новий, знаєте. Швидше за все, зносився під час місій.
+
+
+# Brok
+### Mmph.
+PC07B_CLUE_SIN_GUNNOTHIM-12=Гм-м.
+
+
+#----------------------------------------------------
+# Brok
+### See this?
+PC07B_CLUE_SIN_CAMERAOFF-1=Бачите це?
+
+
+# Sin
+### Yes. My remote control. So what?!
+PC07B_CLUE_SIN_CAMERAOFF-2=Так. Мій пульт керування. І що з того?!
+
+
+# Brok
+### I forgot. What is it for?
+PC07B_CLUE_SIN_CAMERAOFF-3=Я забув. Для чого він?
+
+
+# Sin
+### It's for... changing my bed position.
+PC07B_CLUE_SIN_CAMERAOFF-4=Він для... зміни положення мого ліжка.
+
+
+# Brok
+### Oh! Is that so?
+PC07B_CLUE_SIN_CAMERAOFF-5=О! Справді?
+
+
+# Brok
+### Didn't you say this was for your tablet?
+PC07B_CLUE_SIN_CAMERAOFF-6=А хіба ви не казали, що це для вашого планшета?
+
+
+# Sin
+### Erm... Well... Yeah, it can do both...
+PC07B_CLUE_SIN_CAMERAOFF-7=Е-е... Ну... Так, він може і те, і те...
+
+
+# Brok
+### Hmm. Anyway, my friend told me something...quite interesting.
+PC07B_CLUE_SIN_CAMERAOFF-8=Гмм. В будь-якому разі, моя подруга сказала мені щось... досить цікаве.
+
+
+# Brok
+### See, she thinks that's a police device to remotely disable cameras.
+PC07B_CLUE_SIN_CAMERAOFF-9=Вона вважає, що це поліцейський пристрій для віддаленого вимкнення камер.
+
+
+# Sin
+### (Sigh)
+PC07B_CLUE_SIN_CAMERAOFF-10=(Зітхає)
+
+
+# Sin
+### OK. I admit, that's true.
+PC07B_CLUE_SIN_CAMERAOFF-11=Гаразд. Зізнаюся, це правда.
+
+
+# Brok
+### Then I just confirmed you're a liar.
+PC07B_CLUE_SIN_CAMERAOFF-12=Виходить, я щойно переконався, що ви брехун.
+
+
+# Sin
+### Are you stupid?!
+PC07B_CLUE_SIN_CAMERAOFF-13=Ви дурний?!
+
+
+# Sin
+### That's police equipment. Civilians aren't supposed to know about it!
+PC07B_CLUE_SIN_CAMERAOFF-14=Це поліцейське спорядження. Цивільні не повинні про нього знати!
+
+
+# Brok
+### Mmph. Have you ever used it?
+PC07B_CLUE_SIN_CAMERAOFF-15=Гм-м. Ви ним колись користувалися?
+
+
+# Sin
+### Not recently...
+PC07B_CLUE_SIN_CAMERAOFF-16=Останнім часом ні...
+
+
+# Brok
+### Alright. Then, tell me.
+PC07B_CLUE_SIN_CAMERAOFF-17=Гаразд. Тоді скажіть мені.
+
+
+# Brok
+### Weren't you patrolling near the pharmacy, last night?
+PC07B_CLUE_SIN_CAMERAOFF-18=Хіба ви не патрулювали біля аптеки минулої ночі?
+
+
+# Sin
+### Yes, I told you!
+PC07B_CLUE_SIN_CAMERAOFF-19=Так, я ж казав вам!
+
+
+# Sin
+### Then what?! Get to the point, already!
+PC07B_CLUE_SIN_CAMERAOFF-20=І що далі?! Переходьте вже до суті!
+
+
+# Brok
+### An incident occurred there.
+PC07B_CLUE_SIN_CAMERAOFF-21=Там стався інцидент.
+
+
+# Brok
+### The pharmacy camera had been deactivated. I suspect this little thingy could be responsible.
+PC07B_CLUE_SIN_CAMERAOFF-22=Камеру в аптеці було вимкнено. Підозрюю, що саме за допомогою цієї штуки.
+
+
+# Sin
+### I...No idea! Why would I do such a thing?
+PC07B_CLUE_SIN_CAMERAOFF-23=Я... Уявлення не маю! Навіщо мені робити таке?
+
+
+# Brok
+### You tell me.
+PC07B_CLUE_SIN_CAMERAOFF-24=Це ви мені скажіть.
+
+
+# Sin
+### You're testing my patience!
+PC07B_CLUE_SIN_CAMERAOFF-25=Ви випробовуєте моє терпіння!
+
+
+# Sin
+### I said I didn't use that darn remote control! Got it?!
+PC07B_CLUE_SIN_CAMERAOFF-26=Я ж сказав, що не використовував той клятий пульт! Зрозуміли?!
+
+
+# Brok
+### Did someone steal it from you?
+PC07B_CLUE_SIN_CAMERAOFF-27=Хтось його у вас вкрав?
+
+
+# Sin
+### Aside from you?! No!
+PC07B_CLUE_SIN_CAMERAOFF-28=Окрім вас?! Ні!
+
+
+# Brok
+### OK...
+PC07B_CLUE_SIN_CAMERAOFF-29=Добре...
+
+
+#----------------------------------------------------
+# Brok
+### Here's a pill! What is it for?
+PC07B_CLUE_SIN_SLEEP-1=Ось ця пігулка! Для чого вона?
+
+
+# Sin
+### The heck would I know!
+PC07B_CLUE_SIN_SLEEP-2=Звідки, чорт забирай, мені знати!
+
+
+# Brok
+### Really? You don't?
+PC07B_CLUE_SIN_SLEEP-3=Справді? Не знаєте?
+
+
+# Brok
+### Even though it's yours?
+PC07B_CLUE_SIN_SLEEP-4=Незважаючи на те, що вона ваша?
+
+
+# Sin
+### What?! You just stole it from me?!
+PC07B_CLUE_SIN_SLEEP-5=Що?! Ви поцупили її у мене?!
+
+
+# Brok
+### Actually I stole it an hour ago...
+PC07B_CLUE_SIN_SLEEP-6=Взагалі-то я вкрав її годину тому...
+
+
+# Sin
+### I can't believe it...
+PC07B_CLUE_SIN_SLEEP-7=Не можу в це повірити...
+
+
+# Brok
+### Well, you better. This is "Starix-500".
+PC07B_CLUE_SIN_SLEEP-8=А варто б. Це "Старікс-500".
+
+
+# Brok
+### An anti-depressant with an interesting side effect!
+PC07B_CLUE_SIN_SLEEP-9=Антидепресант з цікавим побічним ефектом!
+
+
+# Brok
+### With a strong enough dose anyone can fall into a comatose state.
+PC07B_CLUE_SIN_SLEEP-10=Якщо підвищити дозу, то будь-хто впаде в коматозний стан.
+
+
+# Sin
+### Where are you going with this?
+PC07B_CLUE_SIN_SLEEP-11=До чого ви клоните?
+
+
+# Sin
+### I almost think you're accusing me of drugging someone!
+PC07B_CLUE_SIN_SLEEP-12=Ви ніби звинувачуєте мене, що я когось накачав цими пігулками!
+
+
+# Brok
+### Not just someone. A cop.
+PC07B_CLUE_SIN_SLEEP-13=Не абикого. Копа.
+
+
+# Sin
+### You're insane!
+PC07B_CLUE_SIN_SLEEP-14=Ви божевільний!
+
+
+# Brok
+### Sure, maybe I am. But here's my theory...
+PC07B_CLUE_SIN_SLEEP-15=Можливо, й так. Але ось моя теорія...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### The merchant girl on your street described a guy deeply asleep earlier this morning...in his underwear!
+PC07B_CLUE_SIN_SLEEP-16=Крамарка на вашій вулиці описувала хлопця, який міцно спав сьогодні вранці... у самій спідній білизні!
+
+
+# Brok
+### She had a tough time waking him up and he couldn't remember what happened.
+PC07B_CLUE_SIN_SLEEP-17=Їй було важко його розбудити, і він не міг згадати, що сталося.
+
+
+# Brok
+### But he knew one thing for sure... He's a policeman.
+PC07B_CLUE_SIN_SLEEP-18=Але він точно знав одне... Що він поліцейський.
+
+
+# Sin
+### So you think this policeman came to see me?
+PC07B_CLUE_SIN_SLEEP-19=То ви думаєте, що цей поліцейський приходив до мене?
+
+
+# Sin
+### Impossible! I haven't had any visits in days!
+PC07B_CLUE_SIN_SLEEP-20=Неможливо! До мене вже кілька днів ніхто не приходив!
+
+
+# Brok
+### What about the two glasses on that table?
+PC07B_CLUE_SIN_SLEEP-21=А як щодо двох склянок на тому столі?
+
+
+# Sin
+### ...since when can we not drink with multiple glasses?
+PC07B_CLUE_SIN_SLEEP-22=...відколи це не можна пити з кількох склянок?
+
+
+# Sin
+### I'm going through a tough situation and you're making it worse!
+PC07B_CLUE_SIN_SLEEP-23=Я в скрутному становищі, а ви робите тільки гірше!
+
+
+# Sin
+### Why did I hire you... Now I understand why you were so cheap...
+PC07B_CLUE_SIN_SLEEP-24=Навіщо я взагалі вас найняв... Тепер я розумію, чому ваші послуги такі дешеві...
+
+
+# Brok
+### What? My prices are too low?
+PC07B_CLUE_SIN_SLEEP-25=Що? Мої ціни занадто низькі?
+
+
+# Sin
+### ...forget it.
+PC07B_CLUE_SIN_SLEEP-26=...забудьте.
+
+
+#----------------------------------------------------
+# Brok
+### Do you know anything about what happened at the pharmacy?
+PC07B_CLUE_SIN_PHARMACY-1=Ви знаєте щось про те, що сталося в аптеці?
+
+
+# Sin
+### Only what you told me. That someone deactivated the camera to steal something...
+PC07B_CLUE_SIN_PHARMACY-2=Тільки те, що ви мені розповіли. Хтось вимкнув камеру, щоб щось вкрасти...
+
+
+# Brok
+### I didn't mention any robbery.
+PC07B_CLUE_SIN_PHARMACY-3=Я не згадував про крадіжку.
+
+
+# Sin
+### Well... That's only logical. What else could it have been?
+PC07B_CLUE_SIN_PHARMACY-4=Ну... Це ж логічно. Що ще це могло б бути?
+
+
+# Brok
+### True. Except nothing seems to be missing.
+PC07B_CLUE_SIN_PHARMACY-5=Правда. Але, схоже, що нічого не зникло.
+
+
+# Brok
+### However... Someone attempted to force open a drawer in the back.
+PC07B_CLUE_SIN_PHARMACY-6=Проте... Хтось намагався зламати шухляду в задній частині аптеки.
+
+
+# Brok
+### Do you know what's stored in there?
+PC07B_CLUE_SIN_PHARMACY-7=Ви знаєте, що там зберігається?
+
+
+# Sin
+### No and I couldn't give a darn!
+PC07B_CLUE_SIN_PHARMACY-8=Ні, і мені плювати!
+
+
+# Brok
+### So you weren't involved in any way with the pharmacy incident?
+PC07B_CLUE_SIN_PHARMACY-9=Тобто ви жодним чином не причетні до інциденту в аптеці?
+
+
+# Sin
+### Enough with your questions! Mind your own business!
+PC07B_CLUE_SIN_PHARMACY-10=Досить уже ваших запитань! Займайтеся своєю справою!
+
+
+# Brok
+### You're the one who asked me to investigate.
+PC07B_CLUE_SIN_PHARMACY-11=Це ви попросили мене провести розслідування.
+
+
+# Sin
+### Not on me personally!
+PC07B_CLUE_SIN_PHARMACY-12=Але не щодо мене особисто!
+
+
+# Sin
+### This is irrelevant!
+PC07B_CLUE_SIN_PHARMACY-13=Це не має стосунку до справи!
+
+
+# Brok
+### (I can't trust him...)
+PC07B_CLUE_SIN_PHARMACY-14=(Я не можу йому довіряти...)
+
+
+#----------------------------------------------------
+# Brok
+### Let's assume I'm right and that gun ain't yours.
+PC07B_CLUE_SIN_STEAL-1=Припустимо, я правий і той пістолет не ваш.
+
+
+# Brok
+### Wouldn't it make sense that it belongs to the cop you put to sleep?
+PC07B_CLUE_SIN_STEAL-2=Хіба не логічно, що він належить копу, якого ви приспали?
+
+
+# Sin
+### Those are big accusations! Stop with the mindless assumptions!
+PC07B_CLUE_SIN_STEAL-3=Це серйозні звинувачення! Припиніть ці безглузді припущення!
+
+
+# Sin
+### I'm fed up with all that crap! Gimme my gun back!
+PC07B_CLUE_SIN_STEAL-4=З мене досить цього маразму! Поверніть мій пістолет!
+
+
+# Sin
+### I'll take it by force if I need to!
+PC07B_CLUE_SIN_STEAL-5=Я відберу його силою, якщо доведеться!
+
+
+# Brok
+### First, I won't let you.
+PC07B_CLUE_SIN_STEAL-6=По-перше, я вам не дозволю.
+
+
+# Brok
+### Second... Your insistence confirms my suspicions.
+PC07B_CLUE_SIN_STEAL-7=По-друге... Ваша наполегливість підтверджує мої підозри.
+
+
+# Sin
+### Argh... You're just trouble...
+PC07B_CLUE_SIN_STEAL-8=Ар-р... Від вас одні тільки проблеми...
+
+
+# Sin
+### Darn it! What do you want from me?!
+PC07B_CLUE_SIN_STEAL-9=Чорт забирай! Чого ви від мене хочете?!
+
+
+# Brok
+### The truth!
+PC07B_CLUE_SIN_STEAL-10=Правду!
+
+
+#----------------------------------------------------
+# Brok
+### So... The pharmacy incident. The drugged policeman. The gun's true owner.
+PC07B_CLUE_SIN_THIEF-1=Отже... Інцидент в аптеці. Поліцейський, якого накачали пігулками. Справжній власник пістолета.
+
+
+# Brok
+### All the evidence points towards the same direction...
+PC07B_CLUE_SIN_THIEF-2=Усі докази вказують в один бік...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### You're no policeman, Sin. You're a thief!
+PC07B_CLUE_SIN_THIEF-3=Ви не поліцейський, Сіне. Ви злодій!
+
+
+# Sin
+### No! That's wrong!
+PC07B_CLUE_SIN_THIEF-4=Ні! Це неправда!
+
+
+# Sin
+### You...don't have any tangible proof!
+PC07B_CLUE_SIN_THIEF-5=У вас... немає жодних переконливих доказів!
+
+
+# Brok
+### Maybe I don't... but the police would.
+PC07B_CLUE_SIN_THIEF-6=Можливо, у мене й немає... але у поліції знайдеться.
+
+
+# Brok
+### Look, I have an idea.
+PC07B_CLUE_SIN_THIEF-7=Слухайте, у мене є ідея.
+
+
+# Brok
+### If you're telling the truth, it shouldn't be a problem if I ask the cops about your identity?
+PC07B_CLUE_SIN_THIEF-8=Якщо ви кажете правду, то чи не буде проблемою, якщо я розпитаю копів про вашу особу?
+
+
+# Sin
+### Wait! Don't do this!
+PC07B_CLUE_SIN_THIEF-9=Зачекайте! Не робіть цього!
+
+
+# Sin
+### You just...don't understand...
+PC07B_CLUE_SIN_THIEF-10=Ви просто... не розумієте...
+
+
+# Sin
+### I'm...
+PC07B_CLUE_SIN_THIEF-11=Я...
+
+
+# Sin
+### ...
+PC07B_CLUE_SIN_THIEF-12=...
+
+
+# Sin - Sin attacks Brok
+### You don't leave me any choice.
+PC07B_CLUE_SIN_THIEF-13=Ви не залишаєте мені вибору.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### You're no policeman, Sin. You're a thief!
+PC07B_SIN_RESUME_FIGHT-1=Ви не поліцейський, Сіне. Ви злодій!
+
+
+# Sin
+### ...
+PC07B_SIN_RESUME_FIGHT-2=...
+
+
+# Sin - Sin attacks Brok
+### You don't leave me any choice.
+PC07B_SIN_RESUME_FIGHT-3=Ви не залишаєте мені вибору.
+
+
+#----------------------------------------------------
+# Sin
+### Argh...
+PC07B_SIN_DRINKED-1=А-аа...
+
+
+# Sin
+### My head... I feel weak...
+PC07B_SIN_DRINKED-2=Моя голова... Я почуваюся слабким...
+
+
+# Brok
+### Sorry.
+PC07B_SIN_DRINKED-3=Вибачайте.
+
+
+# Sin
+### That drink...
+PC07B_SIN_DRINKED-4=Той напій...
+
+
+# Sin
+### I see. You knew I might become dangerous.
+PC07B_SIN_DRINKED-5=Ясно. Ви знали, що я можу стати небезпечним.
+
+
+# Sin
+### You win. I can't fight like this.
+PC07B_SIN_DRINKED-6=Ваша взяла. У такому стані я битися не можу.
+
+
+#----------------------------------------------------
+# Brok - Brok reactions to clues during interrogation
+### (Both can cause blackout but...)
+PC07B_CLUE_BLACKOUT-1=(Обидва можуть спричинити знеструмлення, але...)
+
+
+# Brok
+### (I can't see how this helps.)
+PC07B_CLUE_BLACKOUT-2=(Не бачу, як це може допомогти.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### (Sure, Sin must have used those pills because he's stressed out. So...)
+PC07B_CLUE_STRESSED-1=(Звісно, Сін мабуть вживав ці пігулки через стрес. Тож...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### (It wouldn't be surprising that Sin would drink to relieve his stress...)
+PC07B_CLUE_ALCOHOL-1=(Немає нічого дивного в тому, що Сін міг випити, аби зняти стрес...)
+
+
+# Brok
+### (Nothing contradictory here.)
+PC07B_CLUE_ALCOHOL-2=(Тут немає суперечностей.)
+
+
+#----------------------------------------------------
+# Brok
+### (Yes, those two events must be related... I just need a way to find out what happened.)
+PC07B_CLUE_PHARMACYSTEAL-1=(Так, ці дві події мають бути пов'язані... Мені лиш потрібен спосіб дізнатися, що сталося.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### (Hmm... Was Sin involved? The link here is too weak to deduce anything...)
+PC07B_CLUE_LINKWEAK-1=(Гмм... Чи причетний Сін? Зв'язок занадто слабкий, щоб робити якісь висновки...)
+
+
+#----------------------------------------------------
+# Brok
+### (Yeah, I'm sure he got his pills from this pharmacy...like any regular client.)
+PC07B_CLUE_PILLPHARMACY-1=(Так, я впевнений, що він отримав свої пігулки в цій аптеці... як і будь-який звичайний клієнт.)
+
+
+#----------------------------------------------------
+# Brok
+### (Did the same people do both? I can't conclude anything...)
+PC07B_CLUE_STREET-1=(Чи це зробили ті самі люди? Не можу зробити висновків...)
+
+
+#----------------------------------------------------
+# Sin - Brok wins fight against Sin
+### Stop! Please!
+PC07B_SIN_WIN1-1=Зупиніться! Будь ласка!
+
+
+# Sin
+### I'm sorry... You win.
+PC07B_SIN_WIN1-2=Вибачте... Ви перемогли.
+
+
+# Sin
+### ...
+PC07B_SIN_WIN1-3=...
+
+
+# Sin
+### You were right... You read me like an open book...
+PC07B_SIN_WIN1-4=Ви мали рацію... Ви прочитали мене як розгорнуту книгу...
+
+
+# Sin
+### I'm a thief. A low-grade criminal...
+PC07B_SIN_WIN1-5=Я злодій. Дрібний злочинець...
+
+
+# Sin
+### But...
+PC07B_SIN_WIN1-6=Але...
+
+
+# Sin
+### I did it for my daughter...
+PC07B_SIN_WIN1-7=Я зробив це заради своєї доньки...
+
+
+# Brok
+### Your daughter?
+PC07B_SIN_WIN1-8=Вашої доньки?
+
+
+# Sin
+### Yes. I just...want to see her again...
+PC07B_SIN_WIN1-9=Так. Я просто... хочу знову її побачити...
+
+
+# Sin
+### I made a huge mistake... or at least, I think I did...
+PC07B_SIN_WIN1-10=Я припустився жахливої помилки... або, принаймні, мені так здається...
+
+
+# Sin
+### A week ago, my wife found videos of me with another woman.
+PC07B_SIN_WIN1-11=Тиждень тому моя дружина знайшла відео, де я з іншою жінкою.
+
+
+# Sin
+### The truth is... I can't remember it.
+PC07B_SIN_WIN1-12=Правда в тому... що я цього не пам'ятаю.
+
+
+# Brok
+### Think you've been framed?
+PC07B_SIN_WIN1-13=Думаєте, вас підставили?
+
+
+# Sin
+### ...
+PC07B_SIN_WIN1-14=...
+
+
+# Sin
+### Dunno. Maybe...
+PC07B_SIN_WIN1-15=Не знаю. Можливо...
+
+
+# Brok
+### Any enemies?
+PC07B_SIN_WIN1-16=Є якісь вороги?
+
+
+# Sin
+### Not that I'm aware of.
+PC07B_SIN_WIN1-17=Наскільки мені відомо, ні.
+
+
+# Sin
+### The videos seemed real. I concluded I must have been drunk one night and... Well...
+PC07B_SIN_WIN1-18=Відео виглядали справжніми. Я вирішив, що, мабуть, напився одного вечора й... Ну...
+
+
+# Sin
+### In any case, she was furious.
+PC07B_SIN_WIN1-19=У будь-якому разі, вона була люта.
+
+
+# Sin
+### She made me leave home. She warned that I should never come close to her or our daughter anymore.
+PC07B_SIN_WIN1-20=Вона змусила мене піти з дому. Попередила, щоб я більше ніколи не наближався ні до неї, ні до нашої доньки.
+
+
+# Sin
+### I tried to reason with her, but to no avail.
+PC07B_SIN_WIN1-21=Я намагався з нею поговорити, але марно.
+
+
+# Sin
+### Not seeing my wife anymore is hard enough, but my daughter too?
+PC07B_SIN_WIN1-22=Більше не бачити дружину й так важко, але ще й доньку?
+
+
+# Brok
+### Women can sure get hopping mad. But that's a temporary setback...
+PC07B_SIN_WIN1-23=Жінки справді вміють скаженіти. Але це тимчасова невдача...
+
+
+# Sin
+### Not this time.
+PC07B_SIN_WIN1-24=Не цього разу.
+
+
+# Sin
+### She's a journalist, you know...
+PC07B_SIN_WIN1-25=Вона журналістка, розумієте...
+
+
+# Sin
+### Knowing the truth is of the uttermost importance for her, and I definitely lost her trust...
+PC07B_SIN_WIN1-26=Для неї знати правду - найважливіше у світі, а я безповоротно втратив її довіру...
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### I attempted to talk to my daughter at the Consciousness Center. That made her totally mad.
+PC07B_SIN_WIN1-27=Я спробував поговорити з донькою в Центрі Свідомості. Це її остаточно розлютило.
+
+
+# Sin
+### She threatened to start an expel procedure.
+PC07B_SIN_WIN1-28=Вона погрожувала розпочати процедуру вигнання.
+
+
+# Brok
+### Expel?
+PC07B_SIN_WIN1-29=Вигнання?
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I would lose my qualification and access to the Drums.
+PC07B_SIN_WIN1-30=Я би втратив свою кваліфікацію та доступ до Верхів.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### So you're a Drumer?
+PC07B_SIN_WIN1-31=То ви мешканець Верхів?
+
+
+# Sin
+### Yes. Well... Not much longer, I guess.
+PC07B_SIN_WIN1-32=Так. Ну... Здається, вже ненадовго.
+
+
+# Sin
+### I had no choice. I left by myself to come to this awful dump...
+PC07B_SIN_WIN1-33=У мене не було вибору. Я сам пішов і дістався цього жахливого смітника...
+
+
+# Sin
+### Well, no offense.
+PC07B_SIN_WIN1-34=Ну, без образ.
+
+
+# Brok
+### None taken. But why the stealing?
+PC07B_SIN_WIN1-35=Ніяких образ. Але навіщо було красти?
+
+
+# Sin
+### I thought about this situation thoroughly.
+PC07B_SIN_WIN1-36=Я детально обдумав цю ситуацію.
+
+
+# Sin
+### I just... can't live without my sweet little girl. I can't.
+PC07B_SIN_WIN1-37=Я просто... не можу жити без моєї любої донечки. Не можу.
+
+
+# Sin
+### So... I had to go back and reverse what happened.
+PC07B_SIN_WIN1-38=Тож... мені довелося повернутися й виправити те, що сталося.
+
+
+# Brok
+### I'm afraid the past can't be changed.
+PC07B_SIN_WIN1-39=Боюся, минуле не змінити.
+
+
+# Sin
+### You're wrong. There is a way...
+PC07B_SIN_WIN1-40=Ви помиляєтесь. Спосіб є...
+
+
+# Sin
+### I could get her back... if her mother would forget this incident.
+PC07B_SIN_WIN1-41=Я міг би повернути доньку... якби її мати забула про цей випадок.
+
+
+# Brok
+### Can anyone really forget such an important event?
+PC07B_SIN_WIN1-42=Хіба можна забути таку важливу подію?
+
+
+# Sin
+### Yes. With "Oblivion."
+PC07B_SIN_WIN1-43=Так. За допомогою "Забуття".
+
+
+# Brok
+### Oblivion...
+PC07B_SIN_WIN1-44="Забуття"...
+
+
+# Sin
+### This medicine was invented for critical situations.
+PC07B_SIN_WIN1-45=Ці ліки створили для критичних ситуацій.
+
+
+# Sin
+### Victims of a trauma. Kids losing their parents tragically...
+PC07B_SIN_WIN1-46=Жертви травм. Діти, які трагічно втратили батьків...
+
+
+# Sin
+### It has the ability to suppress select memories, days after they occurred.
+PC07B_SIN_WIN1-47=Воно може пригнічувати окремі спогади через кілька днів після того, як вони сталися.
+
+
+# Sin
+### Of course, the Government kept it secret. Having this rolled out to the public would have dramatic effects...
+PC07B_SIN_WIN1-48=Звісно, Уряд тримав це в таємниці. Вихід такого препарату на ринок мав би катастрофічні наслідки...
+
+
+# Sin
+### I spent entire days searching for a solution... and I finally did.
+PC07B_SIN_WIN1-49=Я провів цілі дні в пошуках рішення... і врешті знайшов його.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### A hacker lived in the apartment next to mine...
+PC07B_SIN_WIN1-50=У сусідній зі мною квартирі жив гакер...
+
+
+# Sin
+### After some convincing he shared some leaked reports.
+PC07B_SIN_WIN1-51=Після тривалих переконань він поділився зі мною злитими звітами.
+
+
+# Sin
+### Oblivion was mentioned, as well as locations where it's stored.
+PC07B_SIN_WIN1-52=Там згадувалося "Забуття", а також місця, де воно зберігається.
+
+
+# Sin
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### I had a policeman friend...R.J. He regularly patrolled around one such location...
+PC07B_SIN_WIN1-53=У мене був друг-поліцейський... Р. Джей. Він регулярно патрулював одне з таких місць...
+
+
+# Brok
+### ...that pharmacy.
+PC07B_SIN_WIN1-54=...як ту аптеку.
+
+
+# Brok
+### So you drugged him to disguise yourself and steal the medicine.
+PC07B_SIN_WIN1-55=Тож ви накачали його препаратом, щоб видати себе за нього й украсти ліки.
+
+
+# Sin
+### Exactly. I desperately needed it...
+PC07B_SIN_WIN1-56=Саме так. Мені вони були відчайдушно потрібні...
+
+
+# Brok
+### What a way to treat your friends...
+PC07B_SIN_WIN1-57=Як же гарно ви ставитесь до своїх друзів...
+
+
+# Sin
+### ...true. But...
+PC07B_SIN_WIN1-58=...так. Але...
+
+
+# Sin
+### If you had a kid... You'd know...
+PC07B_SIN_WIN1-59=Якби у вас була дитина... Ви б зрозуміли...
+
+
+# Sin
+### You'd do anything for them.
+PC07B_SIN_WIN1-60=Ви зробили б задля неї все що завгодно.
+
+
+# Sin
+### I deactivated the camera and tried to force open the drawer. But then...
+PC07B_SIN_WIN1-61=Я вимкнув камеру й спробував зламати шухляду. Але потім...
+
+
+# Sin
+### I ran out of luck. A bot detected me and called the cops.
+PC07B_SIN_WIN1-62=Удача відвернулася від мене. Бот виявив мене й викликав копів.
+
+
+# Sin
+### I didn't have a choice. If I ended up in jail, my hopes of getting back my daughter would be lost forever.
+PC07B_SIN_WIN1-63=У мене не було вибору. Якби я опинився у в'язниці, мої надії повернути доньку були б назавжди втрачені.
+
+
+# Sin
+### So I escaped through the back alley...
+PC07B_SIN_WIN1-64=Тож я втік через задній провулок...
+
+
+# Brok
+### What about the gun?
+PC07B_SIN_WIN1-65=А як щодо пістолета?
+
+
+# Sin
+### In the rush, I took it out from my pocket and threw it in the sewers to get rid of it.
+PC07B_SIN_WIN1-66=У поспіху я дістав його з кишені й викинув у каналізацію, щоб позбутися.
+
+
+# Sin
+### But... What a fool. I forgot to clean off my fingerprints...
+PC07B_SIN_WIN1-67=Але... Який же я дурень. Забув витерти свої відбитки пальців...
+
+
+# Sin
+### If the cops got their hands on it... I'd be done for.
+PC07B_SIN_WIN1-68=Якби копи дістали його... мені б настав кінець.
+
+
+# Brok
+### So that's what happened...
+PC07B_SIN_WIN1-69=Ось, що сталось...
+
+
+# Brok
+### You hired me because you needed the gun back but couldn't take the risk to search for it yourself.
+PC07B_SIN_WIN1-70=Ви найняли мене, бо вам треба було повернути пістолет, але ви не могли ризикувати й шукати його самі.
+
+
+# Sin
+### Yes...
+PC07B_SIN_WIN1-71=Так...
+
+
+# Sin
+### Now, go ahead.
+PC07B_SIN_WIN1-72=А тепер, вперед.
+
+
+# Sin
+### Call the cops. I'm ready...
+PC07B_SIN_WIN1-73=Викликайте копів. Я готовий...
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. You made your own choice.
+PC07B_SIN_DENOUNCE1-1=Вибачте. Ви самі зробили свій вибір.
+
+
+# Sin
+### I know...
+PC07B_SIN_DENOUNCE1-2=Я знаю...
+
+
+# Brok
+### There's no excuse to break the law.
+PC07B_SIN_DENOUNCE1-3=Порушенню закону немає виправдання.
+
+
+# Brok
+### (...am I doing the right thing, though?)
+PC07B_SIN_DENOUNCE1-4=(...але чи правильно я чиню?)
+
+
+# Brok
+### (I could have done the same...)
+PC07B_SIN_DENOUNCE1-5=(Я міг би бути на його місці...)
+
+
+# Brok
+### (One thing's for sure... I won't get paid... again.)
+PC07B_SIN_DENOUNCE1-6=(В одному можна бути певним... Я... знову не отримаю плату.)
+
+
+# Brok
+### (Sigh)
+PC07B_SIN_DENOUNCE1-7=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok - IMPORTANT - At this moment you can make Brok talk to Sin in an informal way. (Maybe not the opposite yet though, but both should talk to each other in informal ways in jail in PC08B)
+### No.
+PC07B_SIN_FORGIVE1-1=Ні.
+
+
+# Sin
+### What?
+PC07B_SIN_FORGIVE1-2=Що?
+
+
+# Brok
+### I won't. The only thing I wanted was to know the truth.
+PC07B_SIN_FORGIVE1-3=Я не буду. Єдине, чого я хотів, це дізнатися правду.
+
+
+# Brok
+### Look... We're on the same side. I've got a kid too...
+PC07B_SIN_FORGIVE1-4=Слухай... Ми на одному боці. У мене теж є дитина...
+
+
+# Brok
+### Sort of.
+PC07B_SIN_FORGIVE1-5=Типу того.
+
+
+# Sin
+### But... I deserve it...
+PC07B_SIN_FORGIVE1-6=Але... Я це заслужив...
+
+
+# Sin
+### I attacked you!
+PC07B_SIN_FORGIVE1-7=Я ж напав на вас!
+
+
+# Sin
+### How could you forgive me? How could anyone?
+PC07B_SIN_FORGIVE1-8=Як ви можете мене пробачити? Як хтось узагалі міг би?
+
+
+# Brok
+### Don't worry about me. You've suffered more than enough, man.
+PC07B_SIN_FORGIVE1-9=Не турбуйся про мене. Ти й так досить настраждався, чоловіче.
+
+
+# Brok
+### I won't tell anyone. And I'll help you get rid of that stinkin' gun.
+PC07B_SIN_FORGIVE1-10=Я нікому не скажу. І допоможу тобі позбутися цього смердючого пістолета.
+
+
+# Sin
+### Really? But...
+PC07B_SIN_FORGIVE1-11=Справді? Але...
+
+
+# Sin
+### I... I lied about something else...
+PC07B_SIN_FORGIVE1-12=Я... Я збрехав ще про щось...
+
+
+# Sin
+### I don't even have enough money to pay you... I figured I'd just find a solution...
+PC07B_SIN_FORGIVE1-13=У мене навіть немає грошей, щоб заплатити вам... Думав, щось вигадаю...
+
+
+# Brok
+### Oh, well... I had a feeling you'd say that...
+PC07B_SIN_FORGIVE1-14=Ну що ж... Я відчував, що ти це скажеш...
+
+
+# Brok
+### No worries. We'll figure something out later.
+PC07B_SIN_FORGIVE1-15=Не переймайся. Щось вигадаємо пізніше.
+
+
+# Sin
+### I... This is...
+PC07B_SIN_FORGIVE1-16=Я... Це...
+
+
+# Sin
+### Thank you...
+PC07B_SIN_FORGIVE1-17=Дякую...
+
+
+# Brok
+### Don't mention it!
+PC07B_SIN_FORGIVE1-18=Нема за що!
+
+
+# Brok
+### Here's the g...
+PC07B_SIN_FORGIVE1-19=Ось п...
+
+
+#----------------------------------------------------
+# Wes - Wes and police robots come crashing to arrest them
+### Don't move! Hands over your head!
+PC07B_SIN_WIN2-1=Ану не рухатися! Руки за голову!
+
+
+# Sin
+### Gulp!
+PC07B_SIN_WIN2-2=(Ковтає слину)
+
+
+# Wes
+### You too. You're both under arrest.
+PC07B_SIN_WIN2-3=Ти також. Ви обидва заарештовані.
+
+
+# Brok
+### What?! But...
+PC07B_SIN_WIN2-4=Що?! Але...
+
+
+# Wes
+### Don't bother trying to use the gun. We've deactivated it.
+PC07B_SIN_WIN2-5=Навіть не намагайся використати пістолет. Ми його деактивували.
+
+
+# Sin
+### How did you find us?
+PC07B_SIN_WIN2-6=Як ви нас знайшли?
+
+
+# Wes
+### Your detective friend here was behaving suspiciously. It was automatically recorded by the system.
+PC07B_SIN_WIN2-7=Твій друг-детектив поводився підозріло. Система автоматично це зафіксувала.
+
+
+# Wes
+### He lead us to you.
+PC07B_SIN_WIN2-8=Він і привів нас до тебе.
+
+
+# Wes
+### We took the time to record your confessions behind the wall. That'll save us time!
+PC07B_SIN_WIN2-9=Ми знайшли час записати ваші зізнання з-за стіни. Це заощадить нам час!
+
+
+# Brok
+### Sorry...
+PC07B_SIN_WIN2-10=Вибач...
+
+
+# Wes
+### You're darn right to be sorry!
+PC07B_SIN_WIN2-11=Ти, дідько, правий, що вибачаєшся!
+
+
+# Wes
+### This time I got you, Pork! Helping criminals is a federal infraction!
+PC07B_SIN_WIN2-12=Цього разу я піймав тебе, Борку! Допомога злочинцям - це федеральне порушення!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### The name's Brok, you disrespectful weasel!
+PC07B_SIN_WIN2-13=Мене звати Брок, неповажна ласице!
+
+
+#----------------------------------------------------
+# Brok
+### And if you were eavesdropping, you should know I was going to denounce him!
+PC07B_TRUSTSIN_DENOUNCED-1=І якщо ви підслуховували, то маєте знати, що я збирався здати його!
+
+
+# Wes
+### I know you. That's enough for me.
+PC07B_TRUSTSIN_DENOUNCED-2=Я знаю тебе. Мені цього достатньо.
+
+
+# Brok
+### Hey! What does that even mean?!
+PC07B_TRUSTSIN_DENOUNCED-3=Гей! Що це взагалі має означати?!
+
+
+#----------------------------------------------------
+# Wes
+### Whatever.
+PC07B_SIN_WIN2B-1=Байдуже.
+
+
+# Wes
+### Come on, move! Both of you!
+PC07B_SIN_WIN2B-2=Ану ворушіться! Обидва!
+
+
+# Sin
+### (Sigh)
+PC07B_SIN_WIN2B-3=(Зітхає)
+
+
+#----------------------------------------------------
+# Sin - Player hits Sin
+### Argh!
+PC07B_SIN_HIT1-1=А-ай!
+
+
+# Sin
+### Are you crazy?! Is that how you do an investigation?!
+PC07B_SIN_HIT1-2=Ви що, божевільні?! Ви так розслідування проводите?!
+
+
+# Brok
+### Erm... Oops! My bad!
+PC07B_SIN_HIT1-3=Е-е... Ой! Винуватий!
+
+
+#----------------------------------------------------
+# Sin
+### Ouch!!!
+PC07B_SIN_HIT2-1=Ай!!!
+
+
+# Brok
+### Oh...! Err... I didn't mean for that to happen...
+PC07B_SIN_HIT2-2=О...! Е-е... Я не хотів, щоб так сталося...
+
+
+# Sin
+### ...
+PC07B_SIN_HIT2-3=...
+
+
+#----------------------------------------------------
+# Sin
+### Argh! That's enough!
+PC07B_SIN_HIT3-1=А-аа! Досить вже!
+
+
+#----------------------------------------------------
+# Sin - During fight
+### Won't you stay down?!
+PC07B_SIN_FIGHT1-1=Коли ти вже впадеш?!
+
+
+#----------------------------------------------------
+# Sin
+### How many glasses do I have to throw?
+PC07B_SIN_FIGHT2-1=Скільки ще склянок мені кинути?
+
+
+#----------------------------------------------------
+# Sin - Player kills Sin and the opposite
+### Oh man... I... didn't...
+PC07B_SIN_GAMEOVER1-1=О ні... Я... не...
+
+
+# Sin
+### I'm sorry it had to come to this...
+PC07B_SIN_GAMEOVER1-2=Шкода, що до цього дійшло...
+
+
+# Sin
+### Why did you have to be such a muckraker?
+PC07B_SIN_GAMEOVER1-3=Чому ти мав бути таким допитливим?
+
+
+#----------------------------------------------------
+# Brok
+### What have I done... I've killed my client...!
+PC07B_SIN_KILLED1-1=Що я накоїв... Я вбив свого клієнта...!
+
+
+# Brok
+### What's happening to me...?
+PC07B_SIN_KILLED1-2=Що зі мною відбувається...?
+
+
+# Brok
+### I can't go on like this...
+PC07B_SIN_KILLED1-3=Я так більше не можу...
+
+
+#----------------------------------------------------
+# Brok - Pause interrogation
+### Stay here.
+PC07B_INTERROGATION_EXIT_NOTENOUGH-1=Залишайтесь тут.
+
+
+# Sin
+### Huh...?
+PC07B_INTERROGATION_EXIT_NOTENOUGH-2=Га...?
+
+
+#----------------------------------------------------
+# Brok - Missing clues hints
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### (I must have missed a clue in Sin's apartment... Better check around!)
+PC07B_MISSINGCLUE_SIN-1=(Я, мабуть, пропустив зачіпку в квартирі Сіна... Краще все оглянути!)
+
+
+#----------------------------------------------------
+# Brok
+### (Hmm... That medicine analyzer at the pharmacy...)
+PC07B_MISSINGCLUE_PILL-1=(Гмм... Той аналізатор ліків в аптеці...)
+
+
+#----------------------------------------------------
+# Brok
+### (I should inspect the pharmacy more closely. Got a feeling I missed something there...)
+PC07B_MISSINGCLUE_DRUMERSTREET-1=(Мені слід детальніше оглянути аптеку. Відчуваю, що я щось там пропустив...)
+
+
+#----------------------------------------------------
+# Brok
+### (Got a feeling I haven't inspected Sector 56X enough...)
+PC07B_MISSINGCLUE_SECTOR56X-1=(Відчуваю, що я недостатньо оглянув Сектор 56X...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Shay might help me...)
+PC07B_MISSINGCLUE_SHAY-1=(Шей могла б мені допомогти...)
+
+
+#----------------------------------------------------
+# Brok - Coming back in day 2
+### Oh my...! The whole place has been looted!
+PC07B_LOOTED1-1=Ох ні...! Усе приміщення розграбоване!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Poor Sin...
+PC07B_LOOTED1-2=Бідний Сін...
+
+
+#----------------------------------------------------
+# Sin - Walk on table
+### Erm... Detective?
+PC07B_WALKTABLE1-1=Е-е... Детективе?
+
+
+# Brok
+### What's wrong?
+PC07B_WALKTABLE1-2=Що таке?
+
+
+# Sin
+### ...
+PC07B_WALKTABLE1-3=...
+
+
+#----------------------------------------------------
+# Sin - Hit the wall
+### Stop it! You'll make it worse!
+PC07B_HITWALL1-1=Припиніть! Ви робите тільки гірше!
+
+
+#----------------------------------------------------
+# Sin
+### Are you listening?! Stop!
+PC07B_HITWALL2-1=Чуєте?! Припиніть!
+
+
+#----------------------------------------------------
+# Sin
+### Argh!!!
+PC07B_HITWALL3-1=А-аа!!!
+
+
+# Brok
+### No big deal...
+PC07B_HITWALL3-2=Та нічого страшного...
+
+
+# Brok
+### Woops!
+PC07B_HITWALL3-3=Ой-ой!
+
+
+#----------------------------------------------------
+# Sin - Hit the glasses
+### Hey, stop!
+PC07B_HITGLASSES1-1=Гей, припиніть!
+
+
+#----------------------------------------------------
+# Sin
+### I didn't call you to break my stuff!
+PC07B_HITGLASSES2-1=Я кликав вас не для того, щоб трощити мої речі!
+
+
+#----------------------------------------------------
+# Brok
+### What is this magic? The more I break, the more there is!
+PC07B_HITGLASSES3-1=Що це за магія? Що більше я розбиваю, то більше їх стає!
+
+
+#----------------------------------------------------
+# Unknown
+### I have ambiguous feelings about this guy...
+COOP_PC07B_SIN1-1=У мене неоднозначні почуття щодо цього хлопця...
+
+
+#----------------------------------------------------
+

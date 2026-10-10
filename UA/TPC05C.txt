@@ -1,0 +1,275 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#= Sewers last room
+#-------------------------------
+
+#----- Interactions --------
+### Machine
+PC_MACHINE=Пристрій
+
+### Drink
+PC_DRINK=Напій
+
+### Pull out
+PC_PULLOUT=Витягнути
+
+### Reset
+PC_RESET=Скинути
+
+### Length
+PC_LENGTH=Довжина
+
+
+### Scratches
+PC_GUN_SCRATCHES=Подряпини
+
+### Number
+PC_GUN_NUMBER=Номер
+
+### Logo
+PC_GUN_LOGO=Логотип
+
+### Battery
+PC_GUN_BATTERY=Батарея
+
+### Dirt
+PC_GUN_DIRT=Бруд
+
+### Switch side
+PC_GUN_TURN_SIDE=Перевернути
+
+### Letters
+PC_GUN_INITIALS=Літери
+
+
+#----- Choices / Items --------
+### The gun!
+GOT_GUN=Пістолет!
+
+
+### Reset everything?
+PC_CHOICE_RESET=Скинути все?
+
+
+### Move the snake
+TUTORIAL_MOVESNAKE=Переміщати змійку
+
+### Switch side
+TUTORIAL_SWITCHSIDE=Змінити напрямок
+
+### Pull out
+TUTORIAL_PULLOUT=Витягнути
+
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions
+### Seems like the object I'm tracking went through that machine...
+PC05C_MARKS1-1=Схоже, предмет, який я шукаю, пройшов крізь цей пристрій...
+
+
+#----------------------------------------------------
+# Brok
+### The water coming out of it is clear.
+PC05C_MACHINE1-1=Вода, що витікає з нього, чиста.
+
+
+# Brok
+### I bet this is a purifying engine!
+PC05C_MACHINE1-2=Б'юся об заклад, це очисний пристрій!
+
+
+# Brok
+### I'm glad there's no acid leaking into it...
+PC05C_MACHINE1-3=Радий, що туди не протікає кислота...
+
+
+#----------------------------------------------------
+# Brok - Mini-game with a "snake" to get items stuck inside the engine
+### Hmm...
+PC05C_PANEL1-1=Гмм...
+
+
+# Brok
+### Must be an inside view of the purifying engine.
+PC05C_PANEL1-2=Мабуть, так виглядає очисний пристрій зсередини.
+
+
+# Brok
+### Some things are stuck inside...
+PC05C_PANEL1-3=Деякі речі застрягли там...
+
+
+# Brok
+### Let's try and get'em out!
+PC05C_PANEL1-4=Спробуймо їх дістати!
+
+
+#----------------------------------------------------
+# Brok
+### The gun might be in there!
+PC05C_PANEL2-1=Пістолет може бути всередині!
+
+
+# Brok
+### Gotta push those things to the exit!
+PC05C_PANEL2-2=Треба проштовхнути ці речі до виходу!
+
+
+#----------------------------------------------------
+# Brok
+### Can't move any further!
+PC05C_PANEL_TOOLONG1-1=Далі рухати не можу!
+
+
+#----------------------------------------------------
+# Brok
+### Gotta pull the cord out... Maybe one of those buttons can help.
+PC05C_PANEL_TOOLONG2-1=Треба витягнути шнур... Може, одна з цих кнопок допоможе.
+
+
+#----------------------------------------------------
+# Brok
+### This indicates the cord length.
+PC05C_PANEL_LENGTH1-1=Тут показано довжину шнура.
+
+
+#----------------------------------------------------
+# Brok - Got the gun
+### What do we have here!? A gun!
+PC05C_GUN1-1=Що це у нас тут?! Пістолет!
+
+
+# Brok
+### Let's examine it further...
+PC05C_GUN1-2=Огляньмо його детальніше...
+
+
+#----------------------------------------------------
+# Brok
+### There's the police logo here... Definitely the one I'm looking for.
+PC05C_GUN_LOGO1-1=Тут є поліцейський логотип... Це точно та зброя, яку я шукав.
+
+
+#----------------------------------------------------
+# Brok
+### It's dirty... No wonder, considering where it's been!
+PC05C_GUN_DIRT1-1=Брудний... Не дивно, зважаючи на те, де він побував!
+
+
+#----------------------------------------------------
+# Brok
+### That dirt might be covering somethin'. Any way to remove it?
+PC05C_GUN_DIRT2-1=Цей бруд щось прикриває. Його можна якось прибрати?
+
+
+#----------------------------------------------------
+# Brok
+### There ya go!
+PC05C_GUN_DIRT_HANDKERCHIEF-1=Ось так!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### Some initials. R.J...
+PC05C_GUN_INITIALS1-1=Якісь ініціали. Р. Джей...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Those can't be Sin's initials... What does this mean?
+PC05C_GUN_INITIALS1-2=Але це не ініціали Сіна... Що це означає?
+
+
+# Brok
+### I'd better get to the bottom of this.
+PC05C_GUN_INITIALS1-3=Мені краще розібратися в цьому.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Time to return to Sin's and have a lil' chat!
+PC05C_GUN_INITIALS1-4=Час повернутися до Сіна й трохи побалакати!
+
+
+#----------------------------------------------------
+# Brok
+### It has seen better days. Must have been used for a long time.
+PC05C_GUN_SCRATCHES1-1=Він бачив і кращі часи. Ним, мабуть, користувалися дуже довго.
+
+
+#----------------------------------------------------
+# Brok
+### Yup... Really scratched.
+PC05C_GUN_SCRATCHES_MAGNIFY-1=Так... Дуже подряпаний.
+
+
+#----------------------------------------------------
+# Brok
+### Seems loaded.
+PC05C_GUN_BATTERY1-1=Здається, заряджений.
+
+
+# Brok
+### I should resist shooting it... The gun may be tracked. Who knows what kind of info this could transmit!
+PC05C_GUN_BATTERY1-2=Краще з нього не стріляти... За пістолетом можуть стежити. Хтозна, яку інформацію він може передати!
+
+
+#----------------------------------------------------
+# Brok
+### A serial number...
+PC05C_GUN_NUMBER1-1=Серійний номер...
+
+
+# Brok
+### I doubt I could access the police database, so it's no use to me.
+PC05C_GUN_NUMBER1-2=Сумніваюся, що зможу отримати доступ до бази даних поліції, тож користі з цього ніякої.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, I thought this looked different!
+PC05C_GUN_AD1-1=Гей, я так і думав, що воно якось виділяється!
+
+
+# Brok
+### Someone stuck a small ad here!
+PC05C_GUN_AD1-2=Хтось наклеїв сюди маленьку рекламу!
+
+
+#----------------------------------------------------
+# Brok
+### Not yet... I should examine it thoroughly.
+PC05C_GUN_BACK1-1=Ще ні... Мені слід оглянути його ретельніше.
+
+
+#----------------------------------------------------
+# Brok
+### I'm pretty sure I missed somethin'!
+PC05C_GUN_BACK2-1=Я майже впевнений, що щось пропустив!
+
+
+#----------------------------------------------------
+# Brok
+### That dirt spot... Could there be something beneath it...?
+PC05C_GUN_BACK3-1=Ця пляма бруду... Чи може під нею щось бути...?
+
+
+#----------------------------------------------------
+# Brok
+### The way is blocked...
+PC05C_BARRIER1-1=Шлях заблоковано...
+
+
+#----------------------------------------------------
+

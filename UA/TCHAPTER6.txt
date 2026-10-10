@@ -1,0 +1,2725 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Unknown (Unknown)
+#     Graff - Various (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Unknown (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Graff (Unknown)
+#     Unknown - Ott (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------------
+#=CHAPTER 6 ROOMS
+#-------------------------------------
+
+# -------------------------------------
+### Break into the Center
+CH6_CHOICE_BREAK=Увірватися в Центр
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Call Brok
+CH6_CHOICE_BROK=Зателефонувати Броку
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Call Shay
+CH6_CHOICE_SHAY=Зателефонувати Шей
+
+### Check inventory
+CH6_CHOICE_INVENTORY=Перевірити інвентар
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff
+### ...
+CH6_OTTFOLLOWED1-1=...
+
+
+# Graff
+### All these efforts... All these years...
+CH6_OTTFOLLOWED1-2=Усі ці зусилля... Усі ці роки...
+
+
+# Graff
+### For nothing.
+CH6_OTTFOLLOWED1-3=Усе даремно.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What will I tell Brok...
+CH6_OTTFOLLOWED1-4=Що ж я скажу Броку...?
+
+
+# Graff
+### No... I have no reason to blame myself.
+CH6_OTTFOLLOWED1-5=Ні... У мене немає причин звинувачувати себе.
+
+
+# Graff
+### It's his fault I'm in this situation!
+CH6_OTTFOLLOWED1-6=Це його провина, що я опинився в такій ситуації!
+
+
+# Graff
+### I don't get it...
+CH6_OTTFOLLOWED1-7=Я не розумію...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### Why do so many people believe in the Untail...an entity watching over everyone?
+CH6_OTTFOLLOWED1-8=Чому так багато людей вірять у Безхвостого... сутність, яка наглядає за всіма нами?
+
+
+# Graff
+### If this was true... Why would it let us suffer like this?
+CH6_OTTFOLLOWED1-9=Якщо це правда... Чому ж вона дозволяє нам так страждати?
+
+
+# Graff
+### Living under constant threat. Whether it's pollution, aggression or...
+CH6_OTTFOLLOWED1-10=Життя в постійній небезпеці... Чи то забруднення, агресія чи...
+
+
+# Graff
+### This is nonsense! No one's watching over me!
+CH6_OTTFOLLOWED1-11=Нісенітниця! Ніхто за мною не наглядає!
+
+
+# Graff
+### I'm... alone...
+CH6_OTTFOLLOWED1-12=Я... один...
+
+
+#----------------------------------------------------
+# Graff
+### ...!
+CH6_OTTFOLLOWED2-1=...!
+
+
+# Graff
+### What?... Did you follow me?
+CH6_OTTFOLLOWED2-2=Що...? Ти йшов за мною?
+
+
+# Ott
+### You've already forgot what I said?
+CH6_OTTFOLLOWED2-3=Ти вже забув, що я сказав?
+
+
+# Ott
+### I'm sticking with you. No matter what!
+CH6_OTTFOLLOWED2-4=Я завжди буду з тобою. Що б там не було!
+
+
+# Graff
+### You mean...
+CH6_OTTFOLLOWED2-5=Хочеш сказати...
+
+
+# Graff
+### No! You can't!...
+CH6_OTTFOLLOWED2-6=Ні! Ти не можеш...!
+
+
+# Graff
+### You've worked so hard! You've earned it!
+CH6_OTTFOLLOWED2-7=Ти так наполегливо працював! Ти це заслужив!
+
+
+# Ott
+### I don't care! What future do I have if I don't have any freedom?
+CH6_OTTFOLLOWED2-8=Та байдуже! Яке майбутнє на мене чекає, якщо я не матиму свободи?
+
+
+# Ott
+### If... I can't be with my best friend?...
+CH6_OTTFOLLOWED2-9=Якщо... Я не можу бути поруч зі своїм найкращим другом...?
+
+
+# Graff
+### What will your parents say? And your uncle?
+CH6_OTTFOLLOWED2-10=Що скажуть твої батьки? А твій дядько?
+
+
+# Ott
+### It's my decision. Not theirs.
+CH6_OTTFOLLOWED2-11=Це моє рішення. Не їхнє.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### If you stay in the Slums, I stay too.
+CH6_OTTFOLLOWED2-12=Якщо ти залишишся в Нетрях, я теж залишуся.
+
+
+# Graff
+### ...
+CH6_OTTFOLLOWED2-13=...
+
+
+# Graff
+### Then...
+CH6_OTTFOLLOWED2-14=Тоді...
+
+
+# Graff
+### I can't let you ruin your future for me...
+CH6_OTTFOLLOWED2-15=Я не дозволю тобі згубити своє майбутнє заради мене...
+
+
+# Graff
+### I'd better find a solution so we both go.
+CH6_OTTFOLLOWED2-16=Краще я знайду спосіб, щоб ми обоє могли піти у Верхи.
+
+
+# Ott
+### That's the spirit!
+CH6_OTTFOLLOWED2-17=Оце інша розмова!
+
+
+# Ott
+### And... I have an idea.
+CH6_OTTFOLLOWED2-18=І... У мене є ідея.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### The Director said the results would be transmitted to the Government's mainframe tonight.
+CH6_THEIDEA1-1=Директорка казала, що сьогодні ввечері результати відправлять на сервер Уряду.
+
+
+# Ott
+### Which implies...
+CH6_THEIDEA1-2=Що означає...
+
+
+# Graff
+### They're not yet!
+CH6_THEIDEA1-3=Вони їх ще не відправили!
+
+
+# Ott
+### Yes! She's been giving us a hint!
+CH6_THEIDEA1-4=Так! Вона дала нам підказку!
+
+
+# Graff
+### If we can find a way to change the Center's data before it gets transmitted...
+CH6_THEIDEA1-5=Якщо ми знайдемо спосіб змінити дані Центру, перш ніж вони будуть передані...
+
+
+# Ott
+### You'll be accepted!
+CH6_THEIDEA1-6=Тебе приймуть!
+
+
+# Graff
+### This is cheating.
+CH6_THEIDEA1-7=Але це ж обман.
+
+
+# Ott
+### Just this once! For a good cause.
+CH6_THEIDEA1-8=Лише один раз! Заради доброї справи.
+
+
+# Graff
+### And probably very risky. Are you sure you want to go along with this?
+CH6_THEIDEA1-9=І, мабуть, дуже ризиковано. Ти впевнений, що хочеш на це піти?
+
+
+# Ott
+### Is there any other choice?
+CH6_THEIDEA1-10=Чи в нас є якийсь інший вибір?
+
+
+# Graff
+### I guess not.
+CH6_THEIDEA1-11=Гадаю, ні.
+
+
+# Ott
+### The only question is... Where do we start?
+CH6_THEIDEA1-12=Питання лише в тому... З чого нам почати?
+
+
+#----------------------------------------------------
+# Graff
+### Let's break into the Consc'.
+CH6_CHOICE_BREAK-1=Давай вдеремося в Центр Свідомості.
+
+
+# Ott
+### You can't be serious!
+CH6_CHOICE_BREAK-2=Ти жартуєш!
+
+
+# Ott
+### The place is shut down and there are cameras all around.
+CH6_CHOICE_BREAK-3=Там усе зачинено, а навколо купа камер спостереження!
+
+
+# Graff
+### Right...
+CH6_CHOICE_BREAK-4=Точно...
+
+
+#----------------------------------------------------
+# Graff
+### I know someone who can hack into computers...!
+CH6_CHOICE_SHAY-1=Я знаю декого, хто вміє зламувати комп'ютери...!
+
+
+# Unknown
+### (...)
+CH6_CHOICE_SHAY-2=(...)
+
+
+# Graff
+### Darn... She's not replying!
+CH6_CHOICE_SHAY-3=Чорт... Вона не відповідає!
+
+
+# Graff
+### That's not normal...
+CH6_CHOICE_SHAY-4=Це не нормально...
+
+
+# Ott
+### Do we have another option?
+CH6_CHOICE_SHAY-5=У нас є інші варіанти?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### No choice. I'll call Brok.
+CH6_CHOICE_BROK-1=Вибору немає. Я зателефоную Броку.
+
+
+# Ott
+### How would he help?
+CH6_CHOICE_BROK-2=І як він нам допоможе?
+
+
+# Graff
+### I'm not sure yet but it's worth a try.
+CH6_CHOICE_BROK-3=Ще не знаю, але варто спробувати.
+
+
+# Unknown
+### (Calls...)
+CH6_CHOICE_BROK-4=(Телефонує...)
+
+
+# Brok
+### ...Hello?
+CH6_CHOICE_BROK-5=...Ало?
+
+
+# Graff
+### Hi... Erm... I might need your...
+CH6_CHOICE_BROK-6=Привіт... Е-е... Мені потрібна твоя...
+
+
+# Brok
+### Bad timing son. We're trying to reach some kind of bunker right now and...
+CH6_CHOICE_BROK-7=Невдалий час, сину. Ми зараз намагаємося дійти до якогось бункера і...
+
+
+# Brok
+### Oh gosh! More are coming!
+CH6_CHOICE_BROK-8=Ой, леле! Їх іде ще більше!
+
+
+# Unknown
+### (Punch noises)
+CH6_CHOICE_BROK-9=(Звуки бійки)
+
+
+# Unknown
+### (...)
+CH6_CHOICE_BROK-10=(...)
+
+
+# Ott
+### What's going on?... Looks like he's the one who needs help!
+CH6_CHOICE_BROK-11=Що відбувається...? Схоже, саме йому потрібна допомога!
+
+
+# Graff
+### Oh, great...
+CH6_CHOICE_BROK-12=О, чудово...
+
+
+# Graff
+### I have no idea what he's involved into but... My future is at stake!
+CH6_CHOICE_BROK-13=Поняття не маю, у що він там вплутався, але... На кону моє майбутнє!
+
+
+# Graff
+### I know him. He'll be fine.
+CH6_CHOICE_BROK-14=Я його знаю. З ним все буде добре.
+
+
+# Ott
+### If you say so...
+CH6_CHOICE_BROK-15=Як скажеш...
+
+
+# Ott
+### Any another ideas?
+CH6_CHOICE_BROK-16=Ще якісь ідеї?
+
+
+#----------------------------------------------------
+# Graff
+### My belongings...
+CH6_CHOICE_INVENTORY-1=Мої речі...
+
+
+# Graff
+### ...?
+CH6_CHOICE_INVENTORY-2=...?
+
+
+# Graff
+### I know! This morning, in the mail...
+CH6_CHOICE_INVENTORY-3=Я знаю! Сьогодні вранці, в пошті...
+
+
+# Graff
+### ...There. An invoice from... "MISTER REKCAH".
+CH6_CHOICE_INVENTORY-4=...Ось. Рахунок... Підписано "ПАН РЕКАГ".
+
+
+# Ott
+### Rekcah? What a weird name.
+CH6_CHOICE_INVENTORY-5=Рекаг? Яке дивне ім'я.
+
+
+# Graff
+### It does sound suspicious.
+CH6_CHOICE_INVENTORY-6=Так, звучить підозріло.
+
+
+# Graff
+### And I get it now!
+CH6_CHOICE_INVENTORY-7=І я тепер розумію!
+
+
+# Ott
+### Oh! Spelled backwards, it becomes...
+CH6_CHOICE_INVENTORY-8=О! Якщо прочитати задом наперед, вийде...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Hacker! Yeah!
+CH6_CHOICE_INVENTORY-9=Гакер! Так!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### What kind of hacker sends an invoice?!
+CH6_CHOICE_INVENTORY-10=Що це за гакер такий, який надсилає рахунки?!
+
+
+# Graff
+### Maybe one who wants additional work...
+CH6_CHOICE_INVENTORY-11=Мабуть, такий, хто хоче отримати додаткову роботу...
+
+
+# Graff
+### There's even an address here... "Only valid for a few days"
+CH6_CHOICE_INVENTORY-12=Тут навіть адреса є... "Дійсна лише кілька днів"
+
+
+# Ott
+### That's silly.
+CH6_CHOICE_INVENTORY-13=Якась дурня.
+
+
+# Graff
+### Maybe that's why he's not detected by the automated security system.
+CH6_CHOICE_INVENTORY-14=Може, саме тому його й не помічає автоматизована система безпеки.
+
+
+# Graff
+### Sometimes the best solutions are the easiest ones!
+CH6_CHOICE_INVENTORY-15=Іноді найкращі рішення - найпростіші!
+
+
+# Ott
+### Okay. It's worth a shot.
+CH6_CHOICE_INVENTORY-16=Гаразд. Варто спробувати.
+
+
+# Graff
+### Yeah. Besides, I'm curious to know what business my old man had with him.
+CH6_CHOICE_INVENTORY-17=Так. Крім того, мені цікаво знати, які справи мав до нього мій старий.
+
+
+# Ott
+### Let's check this out!
+CH6_CHOICE_INVENTORY-18=Ходімо перевіримо!
+
+
+#----------------------------------------------------
+# Ott - Day 3 - Ott with Graff in the city
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Let's go meet that hacker!
+CH6_OTT_HACKER1-1=Давай зустрінемося із цим гакером!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### There's gotta be a way to get that hacker to help.
+CH6_OTT_HACKER2-1=Треба якось переконати цього гакера нам допомогти.
+
+
+# Ott
+### I don't know...
+CH6_OTT_HACKER2-2=Ну, не знаю...
+
+
+# Ott
+### Sorry. I'm starting to have a bad feeling about this.
+CH6_OTT_HACKER2-3=Вибач, але в мене якесь погане передчуття.
+
+
+# Graff
+### I won't give up now!
+CH6_OTT_HACKER2-4=Я не здамся зараз!
+
+
+#----------------------------------------------------
+# Graff
+### I don't get it.
+CH6_OTT1-1=Я от не розумію...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Why would the Director give me a hint? Couldn't she change the results?
+CH6_OTT1-2=Чому директорка дала мені підказку? Хіба вона сама не могла змінити результати?
+
+
+# Ott
+### I guess she's got her "hands" tied.
+CH6_OTT1-3=Гадаю, у неї зв'язані "руки".
+
+
+# Ott
+### Or maybe that's another trial specifically for you. Who knows.
+CH6_OTT1-4=Або, можливо, це ще одне випробування, спеціально для тебе. Хто знає.
+
+
+# Ott
+### Do you have another solution?
+CH6_OTT1-5=Маєш інші варіанти?
+
+
+# Graff
+### Nope...
+CH6_OTT1-6=Ні...
+
+
+#----------------------------------------------------
+# Graff
+### I feel so tired... Exhausted...
+CH6_OTT2-1=Я так втомився... Геть виснажений...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Maybe I should just let it go and start looking for a lousy job in the Slums...
+CH6_OTT2-2=Може, мені просто кинути все це й знайти якусь паршиву роботу в Нетрях...
+
+
+# Ott
+### You can't be serious! You're almost there!
+CH6_OTT2-3=Жартуєш! Ти ж уже майже досяг мети!
+
+
+# Ott
+### Besides, what do you have to lose?!
+CH6_OTT2-4=До того ж, що тобі втрачати?!
+
+
+# Graff
+### Dunno... Getting locked up in a cell?
+CH6_OTT2-5=Ну, не знаю... Ризикуючи опинитися за ґратами?
+
+
+# Ott
+### Look. If you don't do it for yourself... Do it for me.
+CH6_OTT2-6=Слухай. Якщо ти не зробиш це для себе... Зроби це для мене.
+
+
+# Ott
+### Because if you don't give it a try, I'll take that risk for you!
+CH6_OTT2-7=Бо якщо ти не спробуєш, я ризикну замість тебе!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+CH6_OTT2-8=Отт...
+
+
+#----------------------------------------------------
+# Graff
+### (I should stop complaining and focus...)
+CH6_OTT3-1=(Мені слід перестати скаржитись та зосередитися...)
+
+
+#----------------------------------------------------
+# Brok - Various phone calls (or attempts)
+### ...
+CH6_CALL_GRAFF_STORY280-1=...
+
+
+# Brok
+### Come on... Reply!
+CH6_CALL_GRAFF_STORY280-2=Давай... Відповідай!
+
+
+# Brok
+### I'm getting worried...
+CH6_CALL_GRAFF_STORY280-3=Я починаю хвилюватися...
+
+
+# Brok
+### (Sigh)
+CH6_CALL_GRAFF_STORY280-4=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH6_CALL_WES_STORY280-1=...
+
+
+# Brok
+### Come on, old man! It's urgent!
+CH6_CALL_WES_STORY280-2=Ну ж бо, старий! Це терміново!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+CH6_CALL_SHAY_STORY280-1=Шей...
+
+
+# Brok
+### What are you up to?...
+CH6_CALL_SHAY_STORY280-2=Чим ти там займаєшся...?
+
+
+#----------------------------------------------------
+# Brok - After the whole bunker scene, Brok is nervous
+### When leaving the police department...
+CH6_TO_BROK-1=Виходячи з відділку поліції...
+
+
+# Brok
+### I suddenly felt weirdly apprehensive.
+CH6_TO_BROK-2=Я раптом відчув дивне занепокоєння.
+
+
+# Brok
+### This whole investigation was coming to an end. I could feel it.
+CH6_TO_BROK-3=Усе це розслідування добігало кінця. Я це відчував.
+
+
+# Brok
+### "Prepare yourself."
+CH6_TO_BROK-4="Приготуйся."
+
+
+# Brok
+### These two words reverberated in my head.
+CH6_TO_BROK-5=Це слово відлунювало в моїй голові.
+
+
+# Brok
+### But I couldn't really grasp the reason.
+CH6_TO_BROK-6=Але я не міг зрозуміти причину.
+
+
+# Brok
+### Were there any signs my mind caught?...
+CH6_TO_BROK-7=Може, моя підсвідомість щось помітила...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### In the meantime, I figured I should go home and check on Graff. I had no news since morning.
+CH6_TO_BROK-8=Тим часом я вирішив, що варто піти додому й перевірити, як там Графф. Від самого ранку від нього ні чутки ні звістки.
+
+
+# Brok
+### Hopefully his day had been less eventful...
+CH6_TO_BROK-9=Сподіваюся, його день минув спокійніше...
+
+
+#----------------------------------------------------
+# Brok - Various phone calls (or attempts)
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee is taking care of him.
+CH6_CALL_SIN_AFTER-1=Ді піклується про нього.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH6_GRAFF_CALL_BROK_STORY270-1=...
+
+
+# Graff
+### No point insisting.
+CH6_GRAFF_CALL_BROK_STORY270-2=Немає сенсу наполягати.
+
+
+# Graff
+### We can handle this by ourselves!
+CH6_GRAFF_CALL_BROK_STORY270-3=Ми можемо впоратися з цим самі!
+
+
+#----------------------------------------------------
+# Graff
+### Nah.
+CH6_GRAFF_CALL_KLAY-1=Та ні.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott is with me. That's all the help I need.
+CH6_GRAFF_CALL_KLAY-2=Отт зі мною. Це вся допомога, яка мені потрібна.
+
+
+#----------------------------------------------------
+# Brok - Ending "fight together" - after the big fight, they come back home
+### Home, sweet home.
+CH6_ENDING_FIGHTTOGETHER1-1=Дім, милий дім.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+CH6_ENDING_FIGHTTOGETHER2-1=Брок...
+
+
+# Graff
+### There's something I need to tell you.
+CH6_ENDING_FIGHTTOGETHER2-2=Я маю тобі дещо сказати.
+
+
+# Brok
+### You didn't pass.
+CH6_ENDING_FIGHTTOGETHER2-3=Ти не склав.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### That's why you met that hacker.
+CH6_ENDING_FIGHTTOGETHER2-4=Саме тому ти і зустрівся з тим гакером.
+
+
+# Graff
+### How did you know?
+CH6_ENDING_FIGHTTOGETHER2-5=Звідки ти знаєш?
+
+
+# Brok
+### Call it a hunch.
+CH6_ENDING_FIGHTTOGETHER2-6=Чуйка.
+
+
+# Graff
+### You're a good detective...
+CH6_ENDING_FIGHTTOGETHER2-7=Ти хороший детектив...
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh) I'm so sorry.
+CH6_ENDING_FIGHTTOGETHER3-1=(Зітхає) Мені так шкода.
+
+
+# Brok
+### I guess... I'm responsible for this failure.
+CH6_ENDING_FIGHTTOGETHER3-2=Схоже... Це через мене все пішло шкереберть.
+
+
+# Graff
+### No...
+CH6_ENDING_FIGHTTOGETHER3-3=Ні...
+
+
+# Graff
+### You shouldn't worry.
+CH6_ENDING_FIGHTTOGETHER3-4=Не хвилюйся.
+
+
+# Graff
+### I've been thinking and...
+CH6_ENDING_FIGHTTOGETHER3-5=Я тут подумав і...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott?...
+CH6_ENDING_FIGHTTOGETHER4-1=Отте...?
+
+
+# Brok
+### Your parents okay?
+CH6_ENDING_FIGHTTOGETHER4-2=З твоїми батьками все гаразд?
+
+
+# Ott
+### Yes...
+CH6_ENDING_FIGHTTOGETHER4-3=Так...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff. The Director just called me.
+CH6_ENDING_FIGHTTOGETHER4-4=Граффе. Мені тільки що дзвонила директорка.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The situation in the Slums forced them to rush preparations.
+CH6_ENDING_FIGHTTOGETHER4-5=Ситуація в Нетрях змусила їх пришвидшити підготовку.
+
+
+# Ott - Move as in, quit the Slums and live forever in the Drums.
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I gotta move to the Drums. Now.
+CH6_ENDING_FIGHTTOGETHER4-6=Мені треба іти. Мушу переїжджати у Верхи. Просто зараз.
+
+
+# Graff
+### ...
+CH6_ENDING_FIGHTTOGETHER4-7=...
+
+
+# Graff
+### Well...
+CH6_ENDING_FIGHTTOGETHER4-8=Що ж...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Good luck, Ott.
+CH6_ENDING_FIGHTTOGETHER4-9=Хай щастить, Отте.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CH6_ENDING_FIGHTTOGETHER4-10=Граффе...
+
+
+# Ott
+### I... I'm not sure...
+CH6_ENDING_FIGHTTOGETHER4-11=Я... Я не впевнений...
+
+
+# Ott
+### I can't leave you... Leave my parents...
+CH6_ENDING_FIGHTTOGETHER4-12=Я не можу тебе покинути... Покинути батьків...
+
+
+# Ott
+### With everything that's happening?
+CH6_ENDING_FIGHTTOGETHER4-13=З усім, що відбувається?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+CH6_ENDING_FIGHTTOGETHER4-14=Отте!
+
+
+# Graff
+### You have to go!
+CH6_ENDING_FIGHTTOGETHER4-15=Ти мусиш іти!
+
+
+# Graff
+### This is your only chance to get out of this dump.
+CH6_ENDING_FIGHTTOGETHER4-16=Це твій єдиний шанс вибратися з цього смітника.
+
+
+# Ott
+### But...
+CH6_ENDING_FIGHTTOGETHER4-17=Але...
+
+
+# Graff
+### There's no but.
+CH6_ENDING_FIGHTTOGETHER4-18=Жодних "але".
+
+
+# Ott
+### We said we'd go together!
+CH6_ENDING_FIGHTTOGETHER4-19=Ми хотіли піти разом!
+
+
+# Ott
+### We promised!
+CH6_ENDING_FIGHTTOGETHER4-20=Ми обіцяли одне одному!
+
+
+# Graff
+### I... changed my mind.
+CH6_ENDING_FIGHTTOGETHER4-21=Я... Передумав.
+
+
+# Ott
+### Will you be alright?...
+CH6_ENDING_FIGHTTOGETHER4-22=З тобою все буде гаразд...?
+
+
+# Ott
+### It's not safe out there!
+CH6_ENDING_FIGHTTOGETHER4-23=Тут небезпечно!
+
+
+# Graff
+### Nothing new.
+CH6_ENDING_FIGHTTOGETHER4-24=Нічого нового.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### And I've got Brok. You've seen us, right?...
+CH6_ENDING_FIGHTTOGETHER4-25=Та і в мене є Брок. Ти ж бачив, на що ми здатні, га...?
+
+
+# Ott
+### ...
+CH6_ENDING_FIGHTTOGETHER4-26=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Leave it to us. We'll take care of the Slums.
+CH6_ENDING_FIGHTTOGETHER4-27=Залиш це нам. Ми подбаємо про Нетрі.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CH6_ENDING_FIGHTTOGETHER4-28=Граффе...
+
+
+# Ott - Ott is almost crying
+### I...
+CH6_ENDING_FIGHTTOGETHER4-29=Я...
+
+
+# Ott
+### I'll miss you...
+CH6_ENDING_FIGHTTOGETHER4-30=Я буду дуже сумувати...
+
+
+# Graff
+### Just promise to visit me sometimes. Okay?
+CH6_ENDING_FIGHTTOGETHER4-31=Тільки пообіцяй, що заходитимеш у гості. Добре?
+
+
+# Ott
+### Sure... I will.
+CH6_ENDING_FIGHTTOGETHER4-32=Звісно... Обіцяю.
+
+
+# Graff
+### Go ahead.
+CH6_ENDING_FIGHTTOGETHER4-33=Рушай. Вже час.
+
+
+# Ott
+### ...
+CH6_ENDING_FIGHTTOGETHER4-34=...
+
+
+# Ott
+### Goodbye...
+CH6_ENDING_FIGHTTOGETHER4-35=Прощавай...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Goodbye Ott...
+CH6_ENDING_FIGHTTOGETHER5-1=До зустрічі, Отте...
+
+
+# Graff
+### ...
+CH6_ENDING_FIGHTTOGETHER5-2=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CH6_ENDING_FIGHTTOGETHER5-3=Граффе...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I'll find a way to make you join the Drums. I swear.
+CH6_ENDING_FIGHTTOGETHER5-4=Я знайду спосіб затягти тебе у Верхи. Присягаюся.
+
+
+# Graff
+### Listen...
+CH6_ENDING_FIGHTTOGETHER5-5=Послухай...
+
+
+# Graff
+### When I fought with you...
+CH6_ENDING_FIGHTTOGETHER5-6=Коли я бився разом із тобою...
+
+
+# Graff
+### I never felt like this before.
+CH6_ENDING_FIGHTTOGETHER5-7=Я ніколи раніше не відчував нічого подібного.
+
+
+# Graff
+### I thought I would die so I gave it my best and...
+CH6_ENDING_FIGHTTOGETHER5-8=Я думав, що помру, тому я зробив усе можливе і...
+
+
+# Graff
+### I loved it.
+CH6_ENDING_FIGHTTOGETHER5-9=Це було блискуче.
+
+
+# Graff
+### That's when I realized.
+CH6_ENDING_FIGHTTOGETHER5-10=Саме тоді я зрозумів.
+
+
+# Graff
+### All this time...
+CH6_ENDING_FIGHTTOGETHER5-11=Весь цей час...
+
+
+# Graff
+### I've been lying to myself.
+CH6_ENDING_FIGHTTOGETHER5-12=Я обманював себе.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I will stay in the Slums.
+CH6_ENDING_FIGHTTOGETHER5-13=Я залишуся в Нетрях.
+
+
+# Brok
+### What?...
+CH6_ENDING_FIGHTTOGETHER5-14=Що...?
+
+
+# Graff
+### This...
+CH6_ENDING_FIGHTTOGETHER5-15=Це...
+
+
+# Graff
+### This is my destiny...
+CH6_ENDING_FIGHTTOGETHER5-16=Це моя доля...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### To make the Slums a better place.
+CH6_ENDING_FIGHTTOGETHER5-17=Зробити Нетрі кращим місцем.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CH6_ENDING_FIGHTTOGETHER5-18=Граффе...
+
+
+# Brok
+### Ya realize this is a dangerous path...?
+CH6_ENDING_FIGHTTOGETHER5-19=Ти розумієш, що це небезпечний шлях...?
+
+
+# Graff
+### I know.
+CH6_ENDING_FIGHTTOGETHER5-20=Я знаю.
+
+
+# Graff
+### But these days... I've already faced certain death several times.
+CH6_ENDING_FIGHTTOGETHER5-21=Але за ці дні... Я вже кілька разів дивився смерті в очі.
+
+
+#----------------------------------------------------
+# Graff
+### I'm not afraid anymore.
+CH6_ENDING_FIGHTTOGETHER6-1=Я більше не боюся.
+
+
+# Brok
+### You're gonna put all your dreams aside...?
+CH6_ENDING_FIGHTTOGETHER6-2=Ти збираєшся відкласти всі свої мрії...?
+
+
+# Graff
+### They never were my dreams.
+CH6_ENDING_FIGHTTOGETHER6-3=Вони ніколи не були моїми мріями.
+
+
+# Graff
+### You've always thought this would be better for me.
+CH6_ENDING_FIGHTTOGETHER6-4=Ти завжди думав, що так буде краще для мене.
+
+
+# Graff
+### I don't blame you but...
+CH6_ENDING_FIGHTTOGETHER6-5=Я тебе не звинувачую, але...
+
+
+# Graff
+### This is my own decision.
+CH6_ENDING_FIGHTTOGETHER6-6=Це моє власне рішення.
+
+
+# Graff
+### Will you help me?
+CH6_ENDING_FIGHTTOGETHER6-7=Ти допоможеш мені?
+
+
+# Brok
+### ...
+CH6_ENDING_FIGHTTOGETHER6-8=...
+
+
+# Brok
+### You bet I will!
+CH6_ENDING_FIGHTTOGETHER6-9=Ще б пак!
+
+
+# Brok
+### I still think you're making a hasty decision.
+CH6_ENDING_FIGHTTOGETHER6-10=Хоч я все ще думаю, що ти приймаєш поспішне рішення.
+
+
+# Graff
+### I'm not.
+CH6_ENDING_FIGHTTOGETHER6-11=Це не так.
+
+
+# Brok
+### Ha ha. If we were blood related...
+CH6_ENDING_FIGHTTOGETHER6-12=Ха-ха. Якби ми були кровними родичами...
+
+
+# Brok
+### I'd say you've inherited this from me!
+CH6_ENDING_FIGHTTOGETHER6-13=Я б сказав, що ти успадкував це від мене!
+
+
+# Graff
+### Maybe I did!
+CH6_ENDING_FIGHTTOGETHER6-14=Може, й так!
+
+
+# Brok
+### I'll have to make you change your mind but...
+CH6_ENDING_FIGHTTOGETHER6-15=Я ще змушу тебе передумати, але...
+
+
+# Graff
+### Don't count on it.
+CH6_ENDING_FIGHTTOGETHER6-16=Не розраховуй на це.
+
+
+# Brok
+### For now...
+CH6_ENDING_FIGHTTOGETHER6-17=Поки що...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Let's save the Slums.
+CH6_ENDING_FIGHTTOGETHER6-18=Давай врятуємо Нетрі.
+
+
+# Brok
+### Together.
+CH6_ENDING_FIGHTTOGETHER6-19=Разом.
+
+
+# Graff
+### ...
+CH6_ENDING_FIGHTTOGETHER6-20=...
+
+
+# Graff
+### Thank you...
+CH6_ENDING_FIGHTTOGETHER6-21=Дякую...
+
+
+# Graff
+### For understanding.
+CH6_ENDING_FIGHTTOGETHER6-22=За розуміння.
+
+
+# Brok
+### Don't mention it.
+CH6_ENDING_FIGHTTOGETHER6-23=Нема за що.
+
+
+# Graff
+### Well, no time to waste!
+CH6_ENDING_FIGHTTOGETHER6-24=Ну, не будемо гаяти час!
+
+
+# Graff
+### Let's go!
+CH6_ENDING_FIGHTTOGETHER6-25=Ходімо!
+
+
+# Brok
+### Huh?
+CH6_ENDING_FIGHTTOGETHER6-26=Га?
+
+
+# Brok
+### You mean... Now?
+CH6_ENDING_FIGHTTOGETHER6-27=Тобто... Зараз?
+
+
+# Graff
+### This city won't save itself!
+CH6_ENDING_FIGHTTOGETHER6-28=Місто саме себе не врятує!
+
+
+# Brok
+### Right!
+CH6_ENDING_FIGHTTOGETHER6-29=Точно!
+
+
+#----------------------------------------------------
+# Brok
+### I had never imagined this.
+CH6_ENDING_FIGHTTOGETHER_END-1=Я й уявити такого не міг.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... stayed with me.
+CH6_ENDING_FIGHTTOGETHER_END-2=Графф... лишився зі мною.
+
+
+# Brok
+### He chose this dangerous path...
+CH6_ENDING_FIGHTTOGETHER_END-3=Він обрав цей небезпечний шлях...
+
+
+# Brok
+### To help me everyday.
+CH6_ENDING_FIGHTTOGETHER_END-4=Щоб допомагати мені щодня.
+
+
+# Brok
+### Whether it's my detective (and handyman) job...
+CH6_ENDING_FIGHTTOGETHER_END-5=Чи то моя робота детектива (і майстра на всі руки)...
+
+
+# Brok
+### Or to fight crime.
+CH6_ENDING_FIGHTTOGETHER_END-6=Чи то боротьба зі злочинністю.
+
+
+# Brok
+### Every day is a struggle...
+CH6_ENDING_FIGHTTOGETHER_END-7=Кожен день - це боротьба...
+
+
+# Brok
+### But he's enjoying this life anyway.
+CH6_ENDING_FIGHTTOGETHER_END-8=Але він усе одно знаходить радість у цьому житті.
+
+
+# Brok
+### As much as I do enjoy his company.
+CH6_ENDING_FIGHTTOGETHER_END-9=Так само, як і я - у його товаристві.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I still feel there was so much he could have done in the Drums by using his intellect.
+CH6_ENDING_FIGHTTOGETHER_END-10=Я все ще думаю про те, скільки всього він міг би досягти у Верхах із його-то розумом.
+
+
+# Brok
+### In any case... He's brave and I could never be more proud of him.
+CH6_ENDING_FIGHTTOGETHER_END-11=Та в будь-якому разі... Він сміливий, і я ніколи ще не пишався ним так, як зараз.
+
+
+# Brok
+### As for me...
+CH6_ENDING_FIGHTTOGETHER_END-12=Що ж до мене...
+
+
+# Brok
+### I missed the opportunity to get to the bottom of this whole case.
+CH6_ENDING_FIGHTTOGETHER_END-13=Я втратив можливість докопатися до суті всієї цієї справи.
+
+
+# Brok
+### Who was behind the pill shortage?
+CH6_ENDING_FIGHTTOGETHER_END-14=Хто стояв за нестачею пігулок?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Who controlled the Tribots? Why did they target me?
+CH6_ENDING_FIGHTTOGETHER_END-15=Хто контролював Триботів? І чому вони полювали саме на мене?
+
+
+# Brok
+### I may never find out but I promised myself.
+CH6_ENDING_FIGHTTOGETHER_END-16=Можливо, я ніколи цього не дізнаюся, але я собі пообіцяв.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### I will avenge Dee.
+CH6_ENDING_FIGHTTOGETHER_END-17=Я помщуся за Ді.
+
+
+# Brok
+### Because of my blunder a little girl has to grow up without her mother.
+CH6_ENDING_FIGHTTOGETHER_END-18=Через мою помилку маленька дівчинка змушена зростати без матері.
+
+
+# Brok
+### If only I could go back and change things...
+CH6_ENDING_FIGHTTOGETHER_END-19=Якби ж то я міг повернутися назад і все змінити...
+
+
+# Brok
+### For now...
+CH6_ENDING_FIGHTTOGETHER_END-20=А поки що...
+
+
+# Brok
+### We'll keep fighting.
+CH6_ENDING_FIGHTTOGETHER_END-21=Ми продовжимо боротися.
+
+
+# Brok
+### Together.
+CH6_ENDING_FIGHTTOGETHER_END-22=Разом.
+
+
+#----------------------------------------------------
+# Brok - "Till end of time" ending - Graff & Brok arrive in Shay's garage
+### ...
+CH6_TILLENDTIME_ENDING1-1=...
+
+
+# Brok - They're in front of the time machine.
+### Come on. We need to enter.
+CH6_TILLENDTIME_ENDING1-2=Ну ж бо. Нам треба увійти.
+
+
+# Graff
+### You realize...
+CH6_TILLENDTIME_ENDING1-3=Ти усвідомлюєш...
+
+
+# Graff
+### ...what you're saying?
+CH6_TILLENDTIME_ENDING1-4=...що ти кажеш?
+
+
+# Graff
+### Do you really think... it's possible?
+CH6_TILLENDTIME_ENDING1-5=Ти справді думаєш... що це можливо?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### You know Shay.
+CH6_TILLENDTIME_ENDING1-6=Ти ж знаєш Шей.
+
+
+# Brok
+### If anyone can... She can.
+CH6_TILLENDTIME_ENDING1-7=Якщо хтось і може зробити це... то це вона.
+
+
+# Graff
+### ...
+CH6_TILLENDTIME_ENDING1-8=...
+
+
+# Brok
+### Darn... It's closed.
+CH6_TILLENDTIME_ENDING1-9=Дідько... Зачинено.
+
+
+# Brok
+### Wait here.
+CH6_TILLENDTIME_ENDING1-10=Зачекай тут.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH6_TILLENDTIME_TALK-1=...
+
+
+# Brok
+### (He's lost in his thoughts.)
+CH6_TILLENDTIME_TALK-2=(Він заглиблений у свої думки.)
+
+
+#----------------------------------------------------
+# Brok - In case we hit Graff during that scene
+### He's unconscious...
+CH6_TILLENDTIME_HITGRAFF2-1=Він без свідомості...
+
+
+# Brok
+### Why did I do this?!...
+CH6_TILLENDTIME_HITGRAFF2-2=Навіщо я це зробив...?!
+
+
+#----------------------------------------------------
+# Brok - Slumer (good) ending - Brok comes back after the big fight with Wes and sees Graff waiting for him
+### You're here...!
+CH6_STORY300_INITSLUMER1-1=Ти тут...!
+
+
+# Brok
+### Thank goodness.
+CH6_STORY300_INITSLUMER1-2=Дякувати небесам.
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER1-3=...
+
+
+# Graff
+### That man...
+CH6_STORY300_INITSLUMER1-4=Той чоловік...
+
+
+# Graff
+### You almost...
+CH6_STORY300_INITSLUMER1-5=Ти ледь не...
+
+
+# Brok
+### I know... I shouldn't have.
+CH6_STORY300_INITSLUMER1-6=Знаю... Я не мав би цього робити.
+
+
+# Brok
+### But...
+CH6_STORY300_INITSLUMER1-7=Але...
+
+
+# Brok
+### Seeing you like this, inert on the ground...
+CH6_STORY300_INITSLUMER1-8=Побачивши тебе таким... нерухомим на підлозі...
+
+
+# Brok
+### I couldn't help it.
+CH6_STORY300_INITSLUMER1-9=Я не міг стриматися.
+
+
+# Brok
+### I won't let anyone hurt you. Ever.
+CH6_STORY300_INITSLUMER1-10=Я не дам тебе скривдити. Нікому і ніколи.
+
+
+# Graff
+### Anyone but you...?
+CH6_STORY300_INITSLUMER1-11=Нікому, крім тебе самого...?
+
+
+# Brok
+### Huh?...
+CH6_STORY300_INITSLUMER1-12=Що...?
+
+
+# Graff
+### It's not intentional but...
+CH6_STORY300_INITSLUMER1-13=Це не навмисно, але...
+
+
+# Graff
+### ...everything you do ends up having terrible consequences.
+CH6_STORY300_INITSLUMER1-14=...все, що ти робиш, зрештою призводить до жахливих наслідків.
+
+
+# Graff
+### Today... I didn't pass.
+CH6_STORY300_INITSLUMER1-15=Сьогодні... Я не склав.
+
+
+# Brok
+### Oh no...
+CH6_STORY300_INITSLUMER1-16=О ні...
+
+
+# Brok
+### What happened?
+CH6_STORY300_INITSLUMER1-17=Що сталось?
+
+
+# Graff
+### I got a penalty.
+CH6_STORY300_INITSLUMER1-18=Я отримав штраф.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You weren't supposed to be a Drumer.
+CH6_STORY300_INITSLUMER1-19=Ти не повинен був бути мешканцем Верхів.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Me? A Drumer?...
+CH6_STORY300_INITSLUMER1-20=Я? Мешканець Верхів?...
+
+
+# Brok
+### Oh... I see...
+CH6_STORY300_INITSLUMER1-21=О... Зрозумів...
+
+
+# Brok
+### What a fool.
+CH6_STORY300_INITSLUMER1-22=Який же я дурень...
+
+
+# Graff
+### You didn't tell me the truth. Again.
+CH6_STORY300_INITSLUMER1-23=Ти не сказав мені правди. Знову.
+
+
+# Brok
+### You're right. I didn't think this was important.
+CH6_STORY300_INITSLUMER1-24=Ти маєш рацію... Я не думав, що це було важливо.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Two days ago I had to cheat and get access to the Dome for a case.
+CH6_STORY300_INITSLUMER1-25=Два дні тому мені довелося схитрувати й отримати доступ до Купола заради розслідування.
+
+
+# Brok
+### I never imagined...
+CH6_STORY300_INITSLUMER1-26=Я ніколи не уявляв...
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER1-27=...
+
+
+#----------------------------------------------------
+# Graff
+### That doesn't matter.
+CH6_STORY300_INITSLUMER2-1=Це не має значення.
+
+
+# Brok
+### How can you say that?
+CH6_STORY300_INITSLUMER2-2=Як ти можеш таке казати?
+
+
+# Brok
+### I just shattered your dream.
+CH6_STORY300_INITSLUMER2-3=Я щойно зруйнував твою мрію.
+
+
+# Brok
+### Listen.
+CH6_STORY300_INITSLUMER2-4=Слухай.
+
+
+# Brok
+### I'll find a way.
+CH6_STORY300_INITSLUMER2-5=Я щось придумаю.
+
+
+# Brok
+### There's always one.
+CH6_STORY300_INITSLUMER2-6=Вихід є завжди.
+
+
+# Brok
+### Even if I have to cross through a room filled with deadly lasers again...
+CH6_STORY300_INITSLUMER2-7=Навіть якщо мені знову доведеться пройти через кімнату зі смертоносними лазерами...
+
+
+# Brok
+### Yeah. I'll do it!
+CH6_STORY300_INITSLUMER2-8=Так. Я зроблю це!
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER2-9=...
+
+
+# Graff
+### Always so optimistic...
+CH6_STORY300_INITSLUMER2-10=Завжди такий оптимістичний...
+
+
+# Graff
+### You say you'll prevent anyone from hurting me.
+CH6_STORY300_INITSLUMER2-11=Ти кажеш, що не даси нікому мене скривдити.
+
+
+# Graff
+### But... You're looking at this the wrong way.
+CH6_STORY300_INITSLUMER2-12=Але... Ти дивишся на це під неправильним кутом.
+
+
+# Graff
+### I don't need anyone else but myself to be miserable...
+CH6_STORY300_INITSLUMER2-13=Мені не потрібен ніхто інший, щоб бути нещасним... Я й сам з цим чудово можу впоратись.
+
+
+# Graff
+### I'm a failure...
+CH6_STORY300_INITSLUMER2-14=Я - нікчема...
+
+
+# Brok
+### That's not true and you know it.
+CH6_STORY300_INITSLUMER2-15=Це неправда, і ти це знаєш.
+
+
+# Graff
+### You're wrong.
+CH6_STORY300_INITSLUMER2-16=Ти помиляєшся.
+
+
+# Graff
+### Today... I did something... awful.
+CH6_STORY300_INITSLUMER2-17=Сьогодні... Я зробив дещо... жахливе.
+
+
+# Graff
+### And... I'm afraid...
+CH6_STORY300_INITSLUMER2-18=І... Боюся...
+
+
+# Graff
+### When you find out... You'll never want me again.
+CH6_STORY300_INITSLUMER2-19=Коли дізнаєшся... Ти більше ніколи не захочеш мене знати.
+
+
+# Brok
+### Whatever you've done... I've done worse. Bet on this!
+CH6_STORY300_INITSLUMER2-20=Що б ти не зробив... Я робив і гірше. Б'юся об заклад!
+
+
+# Brok
+### Come on. Tell me.
+CH6_STORY300_INITSLUMER2-21=Давай. Розкажи мені.
+
+
+#----------------------------------------------------
+# Graff
+### This...
+CH6_STORY300_INITSLUMER3-1=Це...
+
+
+# Brok
+### Oh...
+CH6_STORY300_INITSLUMER3-2=О...
+
+
+# Brok
+### It was supposed to be a surprise.
+CH6_STORY300_INITSLUMER3-3=Це мав бути сюрприз.
+
+
+# Graff
+### A surprise?...
+CH6_STORY300_INITSLUMER3-4=Сюрприз...?
+
+
+# Brok
+### When we moved here... Right after the accident.
+CH6_STORY300_INITSLUMER3-5=Коли ми сюди переїхали... Відразу після нещасного випадку.
+
+
+# Brok
+### I suddenly was responsible for you.
+CH6_STORY300_INITSLUMER3-6=Раптом я став відповідальним за тебе.
+
+
+# Brok
+### We left everything behind for this lousy place because of me.
+CH6_STORY300_INITSLUMER3-7=Через мене ми все покинули заради цього жахливого місця.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I promised myself I would make you come back to the Drums.
+CH6_STORY300_INITSLUMER3-8=Я пообіцяв собі, що зроблю все, щоб повернути тебе у Верхи.
+
+
+# Brok
+### But you couldn't start a new life with empty pockets.
+CH6_STORY300_INITSLUMER3-9=Але ти не зміг би почати нове життя з порожніми кишенями.
+
+
+# Brok
+### So... I've saved up.
+CH6_STORY300_INITSLUMER3-10=Тож... Я відкладав.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### For five years. 50 Unis per day transferred to that account.
+CH6_STORY300_INITSLUMER3-11=Протягом п'яти років. 50 Юні щодня перераховувалися на цей рахунок.
+
+
+# Graff
+### Wait...
+CH6_STORY300_INITSLUMER3-12=Зачекай...
+
+
+# Graff
+### This money.... isn't Mom's?...
+CH6_STORY300_INITSLUMER3-13=Ці гроші... Не мамині...?
+
+
+# Brok
+### No.
+CH6_STORY300_INITSLUMER3-14=Ні.
+
+
+# Brok
+### She opened this account for you but never deposited anything.
+CH6_STORY300_INITSLUMER3-15=Вона відкрила для тебе цей рахунок, але ніколи його не поповнювала.
+
+
+# Brok
+### It may be hard to believe but...
+CH6_STORY300_INITSLUMER3-16=Можливо, у це важко повірити, але...
+
+
+# Graff
+### Oh gosh...
+CH6_STORY300_INITSLUMER3-17=О ні...
+
+
+# Graff
+### That makes it even worse...
+CH6_STORY300_INITSLUMER3-18=Так стає навіть ще гірше...
+
+
+# Graff
+### Your money...
+CH6_STORY300_INITSLUMER3-19=Твої гроші...
+
+
+# Graff
+### I... I've wasted it.
+CH6_STORY300_INITSLUMER3-20=Я... Я витратив їх.
+
+
+# Brok
+### What?
+CH6_STORY300_INITSLUMER3-21=Що?
+
+
+# Graff
+### After the results... I was devastated.
+CH6_STORY300_INITSLUMER3-22=Після оголошення результатів... Я був спустошений.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott and I found a solution which involved hacking into the Center's data.
+CH6_STORY300_INITSLUMER3-23=Ми з Оттом знайшли рішення, яке передбачало злом даних Центру Свідомості.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### So... The hacker?
+CH6_STORY300_INITSLUMER3-24=Тож... Гакер?
+
+
+# Graff
+### Yes.
+CH6_STORY300_INITSLUMER3-25=Так.
+
+
+# Graff
+### I... gave him the money...
+CH6_STORY300_INITSLUMER3-26=Я... дав йому гроші...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Then he turned against us... and sent the Squealers to capture us.
+CH6_STORY300_INITSLUMER3-27=А потім він зрадив нас... і наслав Верескунів, щоб нас схопити.
+
+
+# Brok
+### Ohhh... I hate them so much.
+CH6_STORY300_INITSLUMER3-28=Ох... Як же я їх всіх ненавиджу.
+
+
+# Graff
+### I'm... (sobs)
+CH6_STORY300_INITSLUMER3-29=Я... (схлипує)
+
+
+# Graff
+### I'm so sorry...!
+CH6_STORY300_INITSLUMER3-30=Мені так шкода...!
+
+
+#----------------------------------------------------
+# Brok
+### Don't worry about it.
+CH6_STORY300_INITSLUMER4-1=Не хвилюйся за це.
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER4-2=...
+
+
+# Graff
+### You're... not furious?
+CH6_STORY300_INITSLUMER4-3=Ти... не розлючений?
+
+
+# Brok
+### Well I can't say this is good news...
+CH6_STORY300_INITSLUMER4-4=Ну, не можу сказати, що це гарні новини...
+
+
+# Brok
+### But you shouldn't feel bad for this.
+CH6_STORY300_INITSLUMER4-5=Але тобі не варто через це засмучуватися.
+
+
+# Brok
+### You did what you thought was best.
+CH6_STORY300_INITSLUMER4-6=Ти зробив те, що вважав за найкраще.
+
+
+# Brok
+### It's just money. We can get that back.
+CH6_STORY300_INITSLUMER4-7=Це всього лише гроші. Ми ще заробимо.
+
+
+# Graff
+### So... You forgive me...
+CH6_STORY300_INITSLUMER4-8=Тож... Ти мені пробачаєш...?
+
+
+# Brok
+### Of course I do.
+CH6_STORY300_INITSLUMER4-9=Звісно, так.
+
+
+# Graff
+### Why?...
+CH6_STORY300_INITSLUMER4-10=Чому...?
+
+
+# Graff
+### You shouldn't!
+CH6_STORY300_INITSLUMER4-11=Тобі не варто!
+
+
+# Graff
+### I'm just a stupid crybaby... Weak...
+CH6_STORY300_INITSLUMER4-12=Я ж просто дурний плаксій... Слабкий...
+
+
+# Graff
+### You try your best and yet I constantly blame you for all my problems...
+CH6_STORY300_INITSLUMER4-13=Ти стараєшся якнайкраще, а я постійно звинувачую тебе у всіх своїх проблемах...
+
+
+# Graff
+### I'm despicable...
+CH6_STORY300_INITSLUMER4-14=Я просто жалюгідний...
+
+
+# Graff
+### I don't deserve your forgiveness!
+CH6_STORY300_INITSLUMER4-15=Я не заслуговую на твоє прощення!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+CH6_STORY300_INITSLUMER4-16=Граффе...
+
+
+# Graff
+### Why should you be so kind to me when there are so many people who deserve it more?!
+CH6_STORY300_INITSLUMER4-17=Чому ти маєш бути таким добрим до мене, якщо є стільки людей, які заслуговують на це більше, ніж я?!
+
+
+# Graff
+### I wanna know!
+CH6_STORY300_INITSLUMER4-18=Я хочу знати!
+
+
+# Brok
+### Because...
+CH6_STORY300_INITSLUMER4-19=Тому що...
+
+
+#----------------------------------------------------
+# Brok
+### You're here.
+CH6_STORY300_INITSLUMER4B-1=Ти поруч.
+
+
+# Brok
+### You're there when I come back late and you're the first friendly contact I've had for a whole crappy day.
+CH6_STORY300_INITSLUMER4B-2=Ти поруч, коли я повертаюся пізно, і ти - єдиний, хто ставиться до мене приязно за весь мій паршивий день.
+
+
+# Brok
+### You're there when we're sorting stale food to decide what we can make for dinner.
+CH6_STORY300_INITSLUMER4B-3=Ти поруч, коли ми перебираємо несвіжі продукти, щоб вирішити, що можемо приготувати на вечерю.
+
+
+# Brok
+### You're there when you pretend you're playing games but you actually take a peek at what I'm doing.
+CH6_STORY300_INITSLUMER4B-4=Ти поруч, коли вдаєш, що граєш в ігри, але насправді дивишся, що я роблю.
+
+
+# Brok
+### Ever since that accident...
+CH6_STORY300_INITSLUMER4B-5=Відтоді, як стався той нещасний випадок...
+
+
+# Brok
+### You've always been there.
+CH6_STORY300_INITSLUMER4B-6=Ти завжди був поруч.
+
+
+# Brok
+### It's all those small, insignificant details.
+CH6_STORY300_INITSLUMER4B-7=Це все ті дрібні, незначні деталі.
+
+
+# Brok
+### And whether you admit it or not... I know you care as well.
+CH6_STORY300_INITSLUMER4B-8=І визнаєш ти це чи ні... Я знаю, що тобі теж не байдуже.
+
+
+# Brok
+### I pretend to watch over you but...
+CH6_STORY300_INITSLUMER4B-9=Я вдаю, що наглядаю за тобою, але...
+
+
+# Brok
+### It's the opposite.
+CH6_STORY300_INITSLUMER4B-10=Все навпаки.
+
+
+# Brok
+### You're the only reason I wanna fight for this life.
+CH6_STORY300_INITSLUMER4B-11=Ти єдина причина, чому я хочу боротися за це життя.
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER4B-12=...
+
+
+# Brok
+### When I was your age... I've been through this myself.
+CH6_STORY300_INITSLUMER4B-13=Коли я був у твоєму віці... Я сам через це пройшов.
+
+
+# Brok
+### Grandpa told me those things. He made me who I am.
+CH6_STORY300_INITSLUMER4B-14=Дідусь розповідав мені ці речі. Він зробив мене тим, ким я є.
+
+
+# Brok
+### That's why I won't let you sink!
+CH6_STORY300_INITSLUMER4B-15=Ось чому я не дам тобі піти на дно!
+
+
+# Brok
+### You're brave. Hard working.
+CH6_STORY300_INITSLUMER4B-16=Ти сміливий. Працьовитий.
+
+
+# Brok
+### You've got everything needed to live and achieve whatever you choose to do.
+CH6_STORY300_INITSLUMER4B-17=У тебе є все необхідне, щоб жити й досягти всього, що для себе обереш.
+
+
+# Brok
+### All you need is to trust me and believe in yourself.
+CH6_STORY300_INITSLUMER4B-18=Тобі треба лише довіритися мені - і повірити в себе.
+
+
+# Graff
+### ...
+CH6_STORY300_INITSLUMER4B-19=...
+
+
+# Graff
+### I trust you...
+CH6_STORY300_INITSLUMER4B-20=Я тобі довіряю...
+
+
+# Brok
+### Then you know what's left to do.
+CH6_STORY300_INITSLUMER4B-21=Тоді ти знаєш, що залишається робити.
+
+
+# Graff
+### But...
+CH6_STORY300_INITSLUMER4B-22=Але...
+
+
+# Brok
+### No but.
+CH6_STORY300_INITSLUMER4B-23=Жодних "але".
+
+
+# Graff
+### ...Okay.
+CH6_STORY300_INITSLUMER4B-24=...Гаразд.
+
+
+#----------------------------------------------------
+# Graff - Graff reacts to being touched. He hates that.
+### Huh...!
+CH6_STORY300_INITSLUMER5-1=Ах...!
+
+
+# Brok
+### Sorry... I just wanted to comfort you.
+CH6_STORY300_INITSLUMER5-2=Вибач... Я просто хотів тебе втішити.
+
+
+# Graff
+### I know...
+CH6_STORY300_INITSLUMER5-3=Я знаю...
+
+
+# Graff
+### I... I just can't stand it when someone makes physical contact with me.
+CH6_STORY300_INITSLUMER5-4=Я... Я просто терпіти не можу, коли хтось ініціює фізичний контакт зі мною.
+
+
+# Brok
+### It's okay. I understand.
+CH6_STORY300_INITSLUMER5-5=Усе гаразд. Я розумію.
+
+
+# Brok
+### Maybe someday... You'll trust me on this as well.
+CH6_STORY300_INITSLUMER5-6=Можливо, колись... Ти й у цьому мені довіришся.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Well! Looks like I'll have to force that hacker to do his job.
+CH6_STORY300_INITSLUMER5-7=Що ж! Схоже, мені доведеться змусити того гакера виконати його роботу.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### After all you still need to go to the Drums...
+CH6_STORY300_INITSLUMER5-8=Зрештою, тобі все ще потрібно дістатися Верхів...
+
+
+# Graff
+### No!
+CH6_STORY300_INITSLUMER5-9=Ні!
+
+
+# Graff
+### I don't want to.
+CH6_STORY300_INITSLUMER5-10=Я не хочу.
+
+
+# Brok
+### Huh?...
+CH6_STORY300_INITSLUMER5-11=Що...?
+
+
+# Graff
+### You're not listening!
+CH6_STORY300_INITSLUMER5-12=Ти мене не слухаєш!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### I won't go to the Dome!
+CH6_STORY300_INITSLUMER5-13=Я не хочу під Купол!
+
+
+# Graff
+### Because...
+CH6_STORY300_INITSLUMER5-14=Тому що...
+
+
+# Graff
+### You couldn't be there.
+CH6_STORY300_INITSLUMER5-15=Ти не зможеш там бути.
+
+
+# Graff
+### I want to stay with you.
+CH6_STORY300_INITSLUMER5-16=Я хочу залишитися з тобою.
+
+
+# Brok
+### ...
+CH6_STORY300_INITSLUMER5-17=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... This is a mistake.
+CH6_STORY300_INITSLUMER5-18=Граффе... Це помилка.
+
+
+# Graff
+### Then it's my mistake. My choice!
+CH6_STORY300_INITSLUMER5-19=Тоді це моя помилка. Мій вибір!
+
+
+# Graff
+### Please... Let me.
+CH6_STORY300_INITSLUMER5-20=Будь ласка... Дозволь мені.
+
+
+# Brok
+### If this is what you truly want...
+CH6_STORY300_INITSLUMER5-21=Якщо це те, чого ти справді хочеш...
+
+
+# Brok
+### Alright.
+CH6_STORY300_INITSLUMER5-22=Гаразд.
+
+
+# Brok
+### Gotta admit... That makes me happy.
+CH6_STORY300_INITSLUMER5-23=Але мушу визнати... Це робить мене щасливішим.
+
+
+# Brok
+### After all this I'm still curious why you would want to lead such a terrible life.
+CH6_STORY300_INITSLUMER5-24=Все одно не второпаю, чому ти обираєш для себе таке жахливе і нестерпне життя.
+
+
+# Graff
+### It's not!
+CH6_STORY300_INITSLUMER5-25=Це не так!
+
+
+# Graff
+### You've always protected me. Provided me shelter and food.
+CH6_STORY300_INITSLUMER5-26=Ти завжди захищав мене. Давав мені притулок і їжу.
+
+
+# Graff
+### I don't regret one single moment spent here.
+CH6_STORY300_INITSLUMER5-27=Я не шкодую жодної миті, проведеної тут.
+
+
+# Brok
+### Even those times we argued to each other?
+CH6_STORY300_INITSLUMER5-28=Навіть тих, коли ми сперечалися?
+
+
+# Graff
+### Yeah. Even those.
+CH6_STORY300_INITSLUMER5-29=Так. Навіть тих.
+
+
+# Graff
+### Because it made me understand a lot of things.
+CH6_STORY300_INITSLUMER5-30=Бо це допомогло мені зрозуміти багато речей.
+
+
+# Graff
+### Thanks to you I found out who I really am.
+CH6_STORY300_INITSLUMER5-31=Завдяки тобі я дізнався, хто я насправді.
+
+
+# Graff
+### And that makes you the best detective there ever was.
+CH6_STORY300_INITSLUMER5-32=І це робить тебе найкращим детективом з усіх, хто коли-небудь існував.
+
+
+# Brok
+### Well I don't know if I deserve all this praise.
+CH6_STORY300_INITSLUMER5-33=Ну, я не знаю, чи заслуговую я на всю цю похвалу.
+
+
+# Graff
+### That makes two of us!
+CH6_STORY300_INITSLUMER5-34=Отже, ми квити!
+
+
+# Brok
+### Ah ah! Oh, man. You're right.
+CH6_STORY300_INITSLUMER5-35=Ха-ха! Ох, друже. Ти правий.
+
+
+# Brok
+### It's really time we both stop feeling sorry for ourselves.
+CH6_STORY300_INITSLUMER5-36=Нам обом час перестати себе жаліти.
+
+
+#----------------------------------------------------
+# Brok
+### ...?
+CH6_STORY300_INITSLUMER6-1=...?
+
+
+# Brok
+### That's weird...
+CH6_STORY300_INITSLUMER6-2=Це дивно...
+
+
+# Brok
+### Something's tickling in my pocket...
+CH6_STORY300_INITSLUMER6-3=Щось лоскоче в моїй кишені...
+
+
+#----------------------------------------------------
+# Graff
+### An envelope?
+CH6_STORY300_INITSLUMER7-1=Конверт?
+
+
+# Brok
+### "Open when desperate"?...
+CH6_STORY300_INITSLUMER7-2="Відкрити лише у безвихідній ситуації"...?
+
+
+# Brok
+### ...!
+CH6_STORY300_INITSLUMER7-3=...!
+
+
+#----------------------------------------------------
+# Graff
+### What just happened?...
+CH6_STORY300_INITSLUMER8-1=Що це зараз було...?
+
+
+# Brok
+### Dunno...
+CH6_STORY300_INITSLUMER8-2=Хтозна...
+
+
+# Graff
+### Weren't you... holding something?...
+CH6_STORY300_INITSLUMER8-3=Хіба ти не... тримав щось у руці...?
+
+
+# Brok
+### I was?...
+CH6_STORY300_INITSLUMER8-4=Хіба...?
+
+
+# Graff
+### Well... That's weird. Now I can't remember.
+CH6_STORY300_INITSLUMER8-5=Ну... Дивно. Не пам'ятаю.
+
+
+# Brok
+### Ha ha.
+CH6_STORY300_INITSLUMER8-6=Ха-ха.
+
+
+# Brok
+### It's comforting to know I'm not the only one losing my memory!
+CH6_STORY300_INITSLUMER8-7=Як добре знати, що я не єдиний, хто втрачає пам'ять!
+
+
+# Graff
+### Yeah. It's much better to lose our memories together!
+CH6_STORY300_INITSLUMER8-8=Ага. Набагато краще втрачати пам'ять разом!
+
+
+# Brok
+### Definitely!
+CH6_STORY300_INITSLUMER8-9=Безумовно!
+
+
+# Brok
+### Now! What would you say about making new memories?
+CH6_STORY300_INITSLUMER8-10=Ну що ж! А як щодо того, щоб створити нові спогади?
+
+
+# Graff
+### You mean...?
+CH6_STORY300_INITSLUMER8-11=В сенсі...?
+
+
+# Brok
+### Come on! Follow me.
+CH6_STORY300_INITSLUMER8-12=Ходімо! За мною.
+
+
+# Graff
+### Where are we going?
+CH6_STORY300_INITSLUMER8-13=Куди ми йдемо?
+
+
+# Brok
+### To buy some good food! Our fridge is still as empty as my wallet, ya know.
+CH6_STORY300_INITSLUMER8-14=Купити нормальної їжі! У нашому холодильнику так само порожньо, як і в моєму гаманці, сам знаєш.
+
+
+# Brok
+### And when we're back...
+CH6_STORY300_INITSLUMER8-15=А коли ми повернемося...
+
+
+# Brok
+### I shall cook you the best meal you've ever had!
+CH6_STORY300_INITSLUMER8-16=Я приготую тобі найкращу страву, яку ти коли-небудь куштував!
+
+
+# Graff
+### Oooh... I like that idea!
+CH6_STORY300_INITSLUMER8-17=Ооо... Мені подобається ця ідея!
+
+
+# Graff
+### I thought you had no money left?
+CH6_STORY300_INITSLUMER8-18=Але я думав, у тебе вже не лишилося грошей?
+
+
+# Brok
+### Let's just say... This day wasn't so worthless after all.
+CH6_STORY300_INITSLUMER8-19=Скажімо так... Цей день усе-таки не пройшов даремно.
+
+
+# Brok
+### Oh and...
+CH6_STORY300_INITSLUMER8-20=О, і ще...
+
+
+# Brok
+### Lemme get you a surprise on the way.
+CH6_STORY300_INITSLUMER8-21=Дозволь мені зробити тобі сюрприз по дорозі.
+
+
+# Graff
+### A good one?
+CH6_STORY300_INITSLUMER8-22=Хороший?
+
+
+# Brok
+### An excellent one!
+CH6_STORY300_INITSLUMER8-23=Відмінний!
+
+
+#----------------------------------------------------
+# Various - Brok bought tickets for the music band Graff wanted  (and invited Ott too)
+### Ladies and gentlemen.
+CH6_SLUMER_END1-1=Пані та панове.
+
+
+# Various
+### Please welcome the infamous band you've been waiting for.
+CH6_SLUMER_END1-2=Вашій увазі - гурт, на який ви всі так чекали. Зустрічайте славнозвісну легенду!
+
+
+# Various
+### The MasterTweaks!
+CH6_SLUMER_END1-3=MasterTweaks!
+
+
+# Graff
+### I can't thank you enough for buying those tickets!
+CH6_SLUMER_END1-4=Не можу передати, наскільки я вдячний тобі за ці квитки!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Yeah! Thank you Mister Brok!
+CH6_SLUMER_END1-5=Так! Дякую вам, пане Броку!
+
+
+# Brok
+### Don't mention it, kiddos.
+CH6_SLUMER_END1-6=Та годі вам, малечо.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### So... When will you move, Ott?
+CH6_SLUMER_END1-7=Тож... Коли ти переїжджаєш, Отте?
+
+
+# Ott
+### Tomorrow.
+CH6_SLUMER_END1-8=Завтра.
+
+
+# Ott
+### Actually... I don't know.
+CH6_SLUMER_END1-9=Та насправді... Я не знаю.
+
+
+# Ott
+### If you're staying here... Then...
+CH6_SLUMER_END1-10=Якщо ти залишаєшся тут... Тоді...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. You have to go!
+CH6_SLUMER_END1-11=Отте. Ти маєш іти!
+
+
+# Graff
+### You've worked so hard for this!
+CH6_SLUMER_END1-12=Ти так наполегливо працював заради цього!
+
+
+# Ott
+### So have you. What changed?
+CH6_SLUMER_END1-13=Ти також. І що змінилось?
+
+
+# Graff
+### I just realized...
+CH6_SLUMER_END1-14=Просто я зрозумів...
+
+
+# Graff
+### My place is here.
+CH6_SLUMER_END1-15=Що моє місце тут.
+
+
+# Ott
+### ...
+CH6_SLUMER_END1-16=...
+
+
+# Graff
+### Hey, that doesn't mean we can't work together!
+CH6_SLUMER_END1-17=Гей, це не означає, що ми не можемо працювати разом!
+
+
+# Graff
+### Being on both sides, we can collaborate to better understand the world and make it better.
+CH6_SLUMER_END1-18=Перебуваючи по обидва боки, ми можемо співпрацювати, щоб краще зрозуміти світ і зробити його ліпшим.
+
+
+# Ott
+### Maybe you're right.
+CH6_SLUMER_END1-19=Можливо, ти маєш рацію.
+
+
+# Ott
+### Will you be okay?
+CH6_SLUMER_END1-20=З тобою все буде гаразд?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### No worries. Brok and I can watch on each other.
+CH6_SLUMER_END1-21=Не хвилюйся. Ми з Броком подбаємо один про одного.
+
+
+# Ott
+### (Sigh) Alright...
+CH6_SLUMER_END1-22=(Зітхає) Гаразд...
+
+
+# Ott
+### I'm gonna get us some drinks!
+CH6_SLUMER_END1-23=Я піду принесу нам напої!
+
+
+# Graff
+### Good idea!
+CH6_SLUMER_END1-24=Гарна ідея!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Flowing water": "Плинна вода"
+### Hot, flowing water for me!
+CH6_SLUMER_END1-25=Гаряча, плинна вода для мене!
+
+
+# Ott
+### Sure!
+CH6_SLUMER_END1-26=Звісно!
+
+
+#----------------------------------------------------
+# Brok
+### He'll be fine.
+CH6_SLUMER_END2-1=З ним все буде добре.
+
+
+# Graff
+### I know.
+CH6_SLUMER_END2-2=Я знаю.
+
+
+# Brok
+### Say...
+CH6_SLUMER_END2-3=Слухай...
+
+
+# Brok
+### Tomorrow I'll need to make some moolah.
+CH6_SLUMER_END2-4=Завтра треба буде заробити трохи грошенят.
+
+
+# Brok
+### Now that things have settled down, I'm back to my usual activities.
+CH6_SLUMER_END2-5=Тепер, коли все врегулювалося, я повернуся до своїх звичних справ.
+
+
+# Brok
+### What would you say of assisting me?
+CH6_SLUMER_END2-6=Не хотів би мені в цьому допомогти?
+
+
+# Graff
+### For real?!
+CH6_SLUMER_END2-7=Невже?!
+
+
+# Brok
+### Well... You know how this is. Clearly not as exciting as you may think.
+CH6_SLUMER_END2-8=Ну... Ти ж знаєш, як воно. Це зовсім не так захопливо, як тобі, мабуть, здається.
+
+
+# Brok
+### Usually more of a bunch of tiring tasks.
+CH6_SLUMER_END2-9=Зазвичай це скоріше купа виснажливих завдань.
+
+
+# Graff
+### That doesn't matter.
+CH6_SLUMER_END2-10=Неважливо.
+
+
+# Graff
+### I can't wait!
+CH6_SLUMER_END2-11=Я вже не можу дочекатися!
+
+
+# Brok
+### Great.
+CH6_SLUMER_END2-12=Чудово.
+
+
+# Brok
+### ...
+CH6_SLUMER_END2-13=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... There's...
+CH6_SLUMER_END2-14=Граффе... Є...
+
+
+# Brok
+### One last thing I've been hiding from you.
+CH6_SLUMER_END2-15=Остання річ, що я від тебе приховував.
+
+
+# Brok
+### And I feel I can never gain your full trust until I tell you...
+CH6_SLUMER_END2-16=Я відчуваю, що не зможу претендувати на твою довіру, допоки не розкажу тобі...
+
+
+# Brok
+### You've still got family.
+CH6_SLUMER_END2-17=У тебе все ще є сім'я.
+
+
+# Graff
+### Thanks. I'm glad you're here too.
+CH6_SLUMER_END2-18=Дякую. Я теж радий, що ти тут.
+
+
+# Brok
+### No. I mean...
+CH6_SLUMER_END2-19=Ні. Я маю на увазі...
+
+
+# Brok
+### A living person in your mother's family.
+CH6_SLUMER_END2-20=Один родич твоєї матері досі живий.
+
+
+# Graff
+### What...?
+CH6_SLUMER_END2-21=Що...?
+
+
+# Brok
+### There's a reason I never told you about this but...
+CH6_SLUMER_END2-22=Є причина, чому я ніколи тобі про це не розповідав, але...
+
+
+# Brok
+### Oh well.
+CH6_SLUMER_END2-23=Що ж.
+
+
+# Brok
+### His name is...
+CH6_SLUMER_END2-24=Його звати...
+
+
+# Graff
+### No.
+CH6_SLUMER_END2-25=Ні.
+
+
+# Brok
+### No?...
+CH6_SLUMER_END2-26=Ні...?
+
+
+# Graff
+### I don't wanna know.
+CH6_SLUMER_END2-27=Я не хочу знати.
+
+
+# Graff
+### I trust your judgement.
+CH6_SLUMER_END2-28=Я довіряю твоєму рішенню.
+
+
+# Graff
+### You're all the family I need.
+CH6_SLUMER_END2-29=Ти - вся родина, яка мені потрібна.
+
+
+# Brok
+### ...
+CH6_SLUMER_END2-30=...
+
+
+# Brok
+### And you're mine.
+CH6_SLUMER_END2-31=А ти моя.
+
+
+# Brok
+### Thanks kiddo.
+CH6_SLUMER_END2-32=Дякую, малий.
+
+
+# Brok
+### Thanks... for being here.
+CH6_SLUMER_END2-33=Дякую... що ти поряд.
+
+
+# Various
+### (Applause sounds)
+CH6_SLUMER_END2-34=(Лунають оплески)
+
+
+#----------------------------------------------------
+# Graff - When Graff hits Ott
+### ...!
+CH6_GRAFF_HITOTT3-1=...!
+
+
+# Graff
+### Oh... N... No!...
+CH6_GRAFF_HITOTT3-2=О... Н... Ні...!
+
+
+# Graff
+### I've... turned evil... Argh...
+CH6_GRAFF_HITOTT3-3=Я... став монстром... А-аа...
+
+
+# Graff
+### Can't... breathe...
+CH6_GRAFF_HITOTT3-4=Не можу... дихати...
+
+
+# Graff
+### Help... (Cough)
+CH6_GRAFF_HITOTT3-5=Допоможіть... (Кашляє)
+
+
+#----------------------------------------------------
+# Brok
+### No time for this!...
+CH6_CALL_STORY255-1=Немає часу на це...!
+
+
+#----------------------------------------------------
+# Brok
+### Phone calls don't go through here...
+CH6_CALL_STORY260-1=Тут немає зв'язку...
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,7667 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Chiefrat (Unknown)
+#     Brok - Dee (Unknown)
+#     Brok - Director (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Brok - Wes (Unknown)
+#     Chiefrat - Brok (Unknown)
+#     Chiefrat - Ott (Unknown)
+#     Chiefrat - RJ (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Director (Unknown)
+#     Dee - Graff (Unknown)
+#     Dee - Ott (Unknown)
+#     Dee - Wes (Unknown)
+#     Director - Brok (Unknown)
+#     Director - Dee (Unknown)
+#     Director - Graff (Unknown)
+#     Director - Ott (Unknown)
+#     Director - Wes (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Dee (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Wes (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Chiefrat (Unknown)
+#     Ott - Dee (Unknown)
+#     Ott - Director (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Unknown (Unknown)
+#     Ott - Wes (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Chiefrat (Unknown)
+#     Tribot - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Ott (Unknown)
+#     Unknown - Wes (Unknown)
+#     Various - Brok (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Dee (Unknown)
+#     Wes - Director (Unknown)
+#     Wes - Graff (Unknown)
+#     Wes - Ott (Unknown)
+#     Wes - Unknown (Unknown)
+
+#-------------------------------
+#=SLUM Garbage Disposal Center
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+### Interrupt the interrogation?
+PC20_INTERROGATION_EXITCHOICE=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Ask Wes to show his rear?
+PC20_REVEAL_CHOICE=
+
+
+### What's your last word?
+PC20_LASTWORD_CHOICE=
+
+### Darn!
+PC20_LASTWORD_DARN=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Please spare Graff!
+PC20_LASTWORD_GRAFF=
+
+### I hate you, piece of junk!
+PC20_LASTWORD_HATE=
+
+### I understand.
+PC20_LASTWORD_UNDERSTAND=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I love you, Wes!
+PC20_LASTWORD_LOVE=
+
+
+### Play dead
+PC20_PLAYDEAD=
+
+### Keep talking
+PC20_ASKMORE=
+
+### Wait and see
+PC20_WAIT=
+
+
+#----- Topics --------
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### What is Wes hiding?
+INTERROGATION_WES=
+
+### Tries left
+INTERFACE_TRIES_LEFT=
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Dee - "Final" room. Brok arrive, Dee is waiting for Wes to show up
+### I thought you wouldn't come.
+PC20_INITA-1=
+
+
+# Brok
+### As you said. It's too important.
+PC20_INITA-2=
+
+
+#----------------------------------------------------
+# Dee
+### I'm getting worried...
+PC20_INITA_NOSIN-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin?...
+PC20_INITA_NOSIN-2=
+
+
+# Brok
+### Hopefully he just hid somewhere safe.
+PC20_INITA_NOSIN-3=
+
+
+#----------------------------------------------------
+# Brok
+### By the way! Doctor Gherkin?
+PC20_INITA2-1=
+
+
+# Dee
+### I dealt with him.
+PC20_INITA2-2=
+
+
+# Brok
+### ...What does that even mean?
+PC20_INITA2-3=
+
+
+# Dee
+### ...
+PC20_INITA2-4=
+
+
+# Dee
+### It seems like he was telling the truth.
+PC20_INITA2-5=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### I've obtained his signature and the procedure to fix the Pipe-Pills.
+PC20_INITA2-6=
+
+
+# Dee
+### But as you know, this isn't enough.
+PC20_INITA2-7=
+
+
+# Dee
+### Something is blocking the process.
+PC20_INITA2-8=
+
+
+# Brok
+### How did you convince him?...
+PC20_INITA2-9=
+
+
+# Dee
+### Well...
+PC20_INITA2-10=
+
+
+# Brok
+### Wait... Actually, I'd prefer not to know.
+PC20_INITA2-11=
+
+
+# Brok
+### Where is he, now?
+PC20_INITA2-12=
+
+
+# Dee
+### Gone.
+PC20_INITA2-13=
+
+
+# Brok
+### Gone... where?
+PC20_INITA2-14=
+
+
+# Dee
+### The doc was afraid of going back to his job at the pharmaceutical company.
+PC20_INITA2-15=
+
+
+# Dee
+### He wished to hide while the situation cools down.
+PC20_INITA2-16=
+
+
+# Dee
+### I escorted him to the closest country border.
+PC20_INITA2-17=
+
+
+# Dee
+### He's an important person. No trouble for him to get across.
+PC20_INITA2-18=
+
+
+# Brok
+### He left the country?...
+PC20_INITA2-19=
+
+
+# Brok
+### ...
+PC20_INITA2-20=
+
+
+# Brok
+### Wait... WHAT?!
+PC20_INITA2-21=
+
+
+# Brok
+### B-but!...
+PC20_INITA2-22=
+
+
+# Brok
+### He was supposed to give me ten grand!...
+PC20_INITA2-23=
+
+
+# Dee
+### Sorry... He didn't mention that.
+PC20_INITA2-24=
+
+
+# Brok
+### Oooooh...
+PC20_INITA2-25=
+
+
+# Brok
+### I'm doomed to live in poverty forever...
+PC20_INITA2-26=
+
+
+# Dee
+### If it makes you feel any better...
+PC20_INITA2-27=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Soon, all Slumers won't be living at all unless we get to the bottom of this.
+PC20_INITA2-28=
+
+
+# Brok
+### That's right.
+PC20_INITA2-29=
+
+
+# Brok
+### I have no desire to be the last person alive around here.
+PC20_INITA2-30=
+
+
+# Dee
+### Last?...
+PC20_INITA2-31=
+
+
+#----------------------------------------------------
+# Wes - Wes arrive to discuss all the matters
+### You're both here. Good.
+PC20_INITB-1=
+
+
+#----------------------------------------------------
+# Dee
+### Go ahead. What have you found?
+PC20_INITC-1=
+
+
+# Wes
+### ...
+PC20_INITC-2=
+
+
+# Wes
+### These last few days I've been investigating the pills shortage.
+PC20_INITC-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### All the Pipe-Pills in the Slums stopped working.
+PC20_INITC-4=
+
+
+# Brok
+### We know that!
+PC20_INITC-5=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Yet the Drums are totally unaffected.
+PC20_INITC-6=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I have reasons to believe the source behind the shortage is being run from the Drums.
+PC20_INITC-7=
+
+
+# Brok
+### By whom?
+PC20_INITC-8=
+
+
+# Dee
+### Someone from the Government, obviously.
+PC20_INITC-9=
+
+
+# Wes
+### Let's not jump to conclusions. Although it's a possibility.
+PC20_INITC-10=
+
+
+# Wes
+### But another important matter could be linked.
+PC20_INITC-11=
+
+
+# Wes
+### I've been with the police for 50 years now.
+PC20_INITC-12=
+
+
+# Wes
+### I had never experienced such a low recidivism rate.
+PC20_INITC-13=
+
+
+# Brok
+### And... That's a bad thing?
+PC20_INITC-14=
+
+
+# Wes
+### Definitely. When it's not natural.
+PC20_INITC-15=
+
+
+# Wes
+### Criminals don't stop doing crime after their first arrest.
+PC20_INITC-16=
+
+
+# Wes
+### In fact, they never stop.
+PC20_INITC-17=
+
+
+# Wes
+### They'll do it again. And again.
+PC20_INITC-18=
+
+
+# Wes
+### It's human nature.
+PC20_INITC-19=
+
+
+# Wes
+### But lately... Not anymore.
+PC20_INITC-20=
+
+
+# Dee
+### Of course. They disappear into thin air, right after their release.
+PC20_INITC-21=
+
+
+# Wes
+### I suspect my own agents are responsible.
+PC20_INITC-22=
+
+
+# Brok
+### Agents? Oh, you mean...
+PC20_INITC-23=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribots.
+PC20_INITC-24=
+
+
+# Wes
+### They handle the release of prisoners automatically...
+PC20_INITC-25=
+
+
+# Dee
+### ...and actually terminate them. Guilty or not.
+PC20_INITC-26=
+
+
+# Wes
+### I don't have any tangible proof yet. But if they do...
+PC20_INITC-27=
+
+
+# Wes
+### They're ignoring the judgements.
+PC20_INITC-28=
+
+
+# Dee
+### Or the judgements themselves are falsified.
+PC20_INITC-29=
+
+
+# Dee
+### And who better than a Triangle member to undertake it?
+PC20_INITC-30=
+
+
+# Wes
+### Possibly. In any case...
+PC20_INITC-31=
+
+
+# Wes
+### This is hypothetical. That's why I need your...
+PC20_INITC-32=
+
+
+# Dee
+### Proof.
+PC20_INITC-33=
+
+
+#----------------------------------------------------
+# Dee
+### Here. On this memory chip.
+PC20_INITD-1=
+
+
+# Dee
+### Hundreds of documents linking the Government to various shady activities. Judgements included.
+PC20_INITD-2=
+
+
+# Wes
+### Good.
+PC20_INITD-3=
+
+
+# Wes
+### I can reach some trustful, high ranking individuals in various sectors.
+PC20_INITD-4=
+
+
+# Wes
+### Under cover, they shall organize a revolt.
+PC20_INITD-5=
+
+
+# Wes
+### Spread the word. Make and distribute pills.
+PC20_INITD-6=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### How?... With Tribots?
+PC20_INITD-7=
+
+
+# Brok
+### We can't rely on those!
+PC20_INITD-8=
+
+
+# Wes
+### There's more people than you think who don't enjoy this regime we're living in, Mister Pork.
+PC20_INITD-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC20_INITD-10=
+
+
+# Wes
+### ...Mister... P... P...
+PC20_INITD-11=
+
+
+# Wes
+### Whatever.
+PC20_INITD-12=
+
+
+# Wes
+### I can organize this. But I need to gather all the evidence.
+PC20_INITD-13=
+
+
+# Dee
+### This contains everything I have. The only copy that exists.
+PC20_INITD-14=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### You'll have to be extremely careful. Never connect it to the Triweb!
+PC20_INITD-15=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC20_INITE-1=
+
+
+# Brok
+### Wait!
+PC20_INITE-2=
+
+
+# Brok
+### Don't give it to him.
+PC20_INITE-3=
+
+
+# Dee
+### What?... Why?
+PC20_INITE-4=
+
+
+# Dee
+### You said we could trust him!
+PC20_INITE-5=
+
+
+# Wes
+### Come on! There's no time to waste!
+PC20_INITE-6=
+
+
+# Brok
+### Something's wrong.
+PC20_INITE-7=
+
+
+# Dee
+### Care to explain?
+PC20_INITE-8=
+
+
+# Brok
+### Call it a hunch... My instinct.
+PC20_INITE-9=
+
+
+# Wes
+### And your instinct got you so far.
+PC20_INITE-10=
+
+
+# Dee
+### I need more than a hunch to make a decision!
+PC20_INITE-11=
+
+
+# Brok
+### Just...
+PC20_INITE-12=
+
+
+# Brok
+### Gimme a sec. I'll explain.
+PC20_INITE-13=
+
+
+# Dee
+### Alright. Go ahead.
+PC20_INITE-14=
+
+
+# Wes
+### Let's hear some of your famous nonsensical thoughts.
+PC20_INITE-15=
+
+
+# Brok
+### Hrmph. Yeah.
+PC20_INITE-16=
+
+
+# Brok
+### Hear me well, old man!
+PC20_INITE-17=
+
+
+#----------------------------------------------------
+# Brok - Interrogate Wes - Doing mistakes
+### So... Erm...
+PC20_INTERROGATION_MISTAKE1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes is not telling the truth about that!
+PC20_INTERROGATION_MISTAKE1-2=
+
+
+# Wes
+### I don't see where you're going with this.
+PC20_INTERROGATION_MISTAKE1-3=
+
+
+# Dee
+### I agree. This doesn't make any sense.
+PC20_INTERROGATION_MISTAKE1-4=
+
+
+# Brok
+### Oops! I meant...
+PC20_INTERROGATION_MISTAKE1-5=
+
+
+#----------------------------------------------------
+# Brok
+### Here! Convinced?
+PC20_INTERROGATION_MISTAKE2-1=
+
+
+# Wes
+### Nope.
+PC20_INTERROGATION_MISTAKE2-2=
+
+
+# Brok
+### Let me explain!
+PC20_INTERROGATION_MISTAKE2-3=
+
+
+# Dee
+### We don't have time for your far-fetched theories!
+PC20_INTERROGATION_MISTAKE2-4=
+
+
+# Dee
+### Do you realize people are suffering as we speak?!
+PC20_INTERROGATION_MISTAKE2-5=
+
+
+# Brok
+### More will die if we don't make the right decisions!
+PC20_INTERROGATION_MISTAKE2-6=
+
+
+#----------------------------------------------------
+# Brok
+### Isn't it clear?
+PC20_INTERROGATION_MISTAKE3-1=
+
+
+# Dee
+### What is?
+PC20_INTERROGATION_MISTAKE3-2=
+
+
+# Brok
+### I don't know. What was I talking about, anyway?...
+PC20_INTERROGATION_MISTAKE3-3=
+
+
+# Dee
+### Give us one good reason to continue this charade you're putting on.
+PC20_INTERROGATION_MISTAKE3-4=
+
+
+# Brok
+### Sorry. This won't happen again!
+PC20_INTERROGATION_MISTAKE3-5=
+
+
+#----------------------------------------------------
+# Dee
+### Seriously... That's the best you could come up with?
+PC20_INTERROGATION_MISTAKE4-1=
+
+
+# Dee
+### Do you have any concrete proof or what?!
+PC20_INTERROGATION_MISTAKE4-2=
+
+
+# Brok
+### Hey, I need time to think!
+PC20_INTERROGATION_MISTAKE4-3=
+
+
+# Wes
+### Let him make a fool of himself a bit more. I'm enjoying this.
+PC20_INTERROGATION_MISTAKE4-4=
+
+
+# Brok
+### See?! He's a bad guy!
+PC20_INTERROGATION_MISTAKE4-5=
+
+
+# Wes
+### And you're an idiot.
+PC20_INTERROGATION_MISTAKE4-6=
+
+
+#----------------------------------------------------
+# Brok
+### This is what I think.
+PC20_INTERROGATION_MISTAKE5-1=
+
+
+# Brok
+### Don't you agree?
+PC20_INTERROGATION_MISTAKE5-2=
+
+
+# Dee
+### ...
+PC20_INTERROGATION_MISTAKE5-3=
+
+
+# Dee
+### This is your last warning.
+PC20_INTERROGATION_MISTAKE5-4=
+
+
+# Dee
+### If you don't give me anything concrete, I will proceed as planned!
+PC20_INTERROGATION_MISTAKE5-5=
+
+
+# Brok
+### No worries!
+PC20_INTERROGATION_MISTAKE5-6=
+
+
+# Brok
+### I've got exactly what's needed to make him drop the mask!
+PC20_INTERROGATION_MISTAKE5-7=
+
+
+#----------------------------------------------------
+# Dee
+### Enough.
+PC20_INTERROGATION_MISTAKE6-1=
+
+
+# Brok
+### No, wait! I've still got plenty of theories...
+PC20_INTERROGATION_MISTAKE6-2=
+
+
+#----------------------------------------------------
+# Brok - Leaving
+### Wait... Gimme a sec.
+PC20_INTERROGATION_LEAVE1-1=
+
+
+# Dee
+### What?!...
+PC20_INTERROGATION_LEAVE1-2=
+
+
+# Dee
+### You're wasting precious time!
+PC20_INTERROGATION_LEAVE1-3=
+
+
+# Brok
+### Trust me. This is too important.
+PC20_INTERROGATION_LEAVE1-4=
+
+
+# Brok
+### Just one minute.
+PC20_INTERROGATION_LEAVE1-5=
+
+
+# Wes
+### Always the same. Dubious and filled with doubt.
+PC20_INTERROGATION_LEAVE1-6=
+
+
+# Wes
+### Allow him to return to his senses.
+PC20_INTERROGATION_LEAVE1-7=
+
+
+# Dee
+### Alright...
+PC20_INTERROGATION_LEAVE1-8=
+
+
+#----------------------------------------------------
+# Brok
+### Gotta think.
+PC20_INTERROGATION_LEAVE2-1=
+
+
+# Dee
+### Again?...
+PC20_INTERROGATION_LEAVE2-2=
+
+
+#----------------------------------------------------
+# Brok
+### Let's get back to it!
+PC20_INTERROGATE_RESUME1-1=
+
+
+#----------------------------------------------------
+# Brok
+### No... I can't do this. Must have been wrong.
+PC20_INTERROGATION_EXITYES-1=
+
+
+#----------------------------------------------------
+# Wes - When we fail
+### I told you.
+PC20_INTERROGATION_FAIL-1=
+
+
+# Wes
+### Now, give me this.
+PC20_INTERROGATION_FAIL-2=
+
+
+#----------------------------------------------------
+# Wes
+### Good.
+PC20_INTERROGATION_FAIL2-1=
+
+
+# Brok
+### No!...
+PC20_INTERROGATION_FAIL2-2=
+
+
+#----------------------------------------------------
+# Brok - Wes kills both Brok & Dee
+### Aaargh...
+PC20_INTERROGATION_FAIL3-1=
+
+
+# Wes
+### (Sigh)
+PC20_INTERROGATION_FAIL3-2=
+
+
+# Wes
+### How disappointing. I thought they'd show some resistance.
+PC20_INTERROGATION_FAIL3-3=
+
+
+# Wes - Wes may talk in familiar way here. He always does when he's alone.
+### You always ruin the fun, Pork.
+PC20_INTERROGATION_FAIL3-4=
+
+
+# Wes
+### But... I have to admit...
+PC20_INTERROGATION_FAIL3-5=
+
+
+# Wes
+### I'll miss you.
+PC20_INTERROGATION_FAIL3-6=
+
+
+#----------------------------------------------------
+# Brok - Doing interrogation
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes. Yesterday while you were away, I inadvertently...
+PC20_CLUE_WES_DEEINVESTIGATED-1=
+
+
+# Brok
+### ...checked the contents of your computer.
+PC20_CLUE_WES_DEEINVESTIGATED-2=
+
+
+# Wes
+### How dare you! This is a second-class crime punishable by...
+PC20_CLUE_WES_DEEINVESTIGATED-3=
+
+
+# Brok
+### Save it for later.
+PC20_CLUE_WES_DEEINVESTIGATED-4=
+
+
+# Brok
+### I found two protected folders. One of them was named "D. Silver".
+PC20_CLUE_WES_DEEINVESTIGATED-5=
+
+
+# Dee
+### Hey... That's my name!
+PC20_CLUE_WES_DEEINVESTIGATED-6=
+
+
+# Brok
+### That's what I assumed.
+PC20_CLUE_WES_DEEINVESTIGATED-7=
+
+
+# Brok
+### Any explanation, old weasel?
+PC20_CLUE_WES_DEEINVESTIGATED-8=
+
+
+# Wes
+### Easy. Can you remember who was in jail that day?
+PC20_CLUE_WES_DEEINVESTIGATED-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Hmm... I guess Sin was...
+PC20_CLUE_WES_DEEINVESTIGATED-10=
+
+
+# Wes
+### Correct.
+PC20_CLUE_WES_DEEINVESTIGATED-11=
+
+
+# Wes
+### I simply did some research in order to inform his wife.
+PC20_CLUE_WES_DEEINVESTIGATED-12=
+
+
+# Dee
+### But you never did!
+PC20_CLUE_WES_DEEINVESTIGATED-13=
+
+
+# Wes
+### I'm a busy person.
+PC20_CLUE_WES_DEEINVESTIGATED-14=
+
+
+# Wes
+### We're under staffed and that's why I hired you temporarily.
+PC20_CLUE_WES_DEEINVESTIGATED-15=
+
+
+# Dee
+### You worked with him?...
+PC20_CLUE_WES_DEEINVESTIGATED-16=
+
+
+# Brok
+### Erm... That didn't go so well.
+PC20_CLUE_WES_DEEINVESTIGATED-17=
+
+
+# Wes
+### And you're holding a grudge. That's why you're accusing me.
+PC20_CLUE_WES_DEEINVESTIGATED-18=
+
+
+# Brok
+### Not at all!
+PC20_CLUE_WES_DEEINVESTIGATED-19=
+
+
+# Brok
+### (Alright, this folder is suspicious. Yet...)
+PC20_CLUE_WES_DEEINVESTIGATED-20=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (This isn't what bothers me the most regarding Wes. Though I can't quite put my finger on it.)
+PC20_CLUE_WES_DEEINVESTIGATED-21=
+
+
+#----------------------------------------------------
+# Brok
+### Don't think I haven't noticed.
+PC20_CLUE_WES_MENTALISSUES-1=
+
+
+# Wes
+### Noticed what?
+PC20_CLUE_WES_MENTALISSUES-2=
+
+
+# Brok
+### My name.
+PC20_CLUE_WES_MENTALISSUES-3=
+
+
+# Wes
+### What about it?
+PC20_CLUE_WES_MENTALISSUES-4=
+
+
+# Brok
+### Go ahead. Say my name!
+PC20_CLUE_WES_MENTALISSUES-5=
+
+
+# Wes
+### It's Pork, of course.
+PC20_CLUE_WES_MENTALISSUES-6=
+
+
+# Brok
+### No, it isn't.
+PC20_CLUE_WES_MENTALISSUES-7=
+
+
+# Wes
+### ...
+PC20_CLUE_WES_MENTALISSUES-8=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok, chief. I thought you knew each other well?
+PC20_CLUE_WES_MENTALISSUES-9=
+
+
+# Wes
+### Yes...
+PC20_CLUE_WES_MENTALISSUES-10=
+
+
+# Wes
+### P-b-p...
+PC20_CLUE_WES_MENTALISSUES-11=
+
+
+# Dee
+### What?...
+PC20_CLUE_WES_MENTALISSUES-12=
+
+
+# Brok
+### Just what I thought. You can't pronounce it.
+PC20_CLUE_WES_MENTALISSUES-13=
+
+
+# Brok
+### You never could. All these years, I've thought you've just been making fun of me.
+PC20_CLUE_WES_MENTALISSUES-14=
+
+
+# Brok
+### And that's not all.
+PC20_CLUE_WES_MENTALISSUES-15=
+
+
+# Brok
+### At several occasions you've said some weird things. Confusing words with other, totally unrelated ones.
+PC20_CLUE_WES_MENTALISSUES-16=
+
+
+# Brok
+### Pardon me for saying this but...
+PC20_CLUE_WES_MENTALISSUES-17=
+
+
+# Brok
+### Do you happen to have any mental issues?
+PC20_CLUE_WES_MENTALISSUES-18=
+
+
+# Wes
+### ...
+PC20_CLUE_WES_MENTALISSUES-19=
+
+
+# Wes
+### I'm not so young anymore.
+PC20_CLUE_WES_MENTALISSUES-20=
+
+
+# Dee
+### This is a personal attack, cowboy.
+PC20_CLUE_WES_MENTALISSUES-21=
+
+
+# Dee
+### Does this make him too incompetent for our case?
+PC20_CLUE_WES_MENTALISSUES-22=
+
+
+# Brok
+### Hmm...
+PC20_CLUE_WES_MENTALISSUES-23=
+
+
+#----------------------------------------------------
+# Brok
+### We've known each other for a long time, old weasel.
+PC20_CLUE_WES_ACCIDENT-1=
+
+
+# Brok
+### Why didn't you tell me about your accident?
+PC20_CLUE_WES_ACCIDENT-2=
+
+
+# Wes
+### Accident...
+PC20_CLUE_WES_ACCIDENT-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+### Five years ago, a police investigator suffered from a very serious Aircar accident.
+PC20_CLUE_WES_ACCIDENT-4=
+
+
+# Brok
+### As far as I can remember, you were the only investigator at the police department.
+PC20_CLUE_WES_ACCIDENT-5=
+
+
+# Brok
+### It was you, wasn't it?
+PC20_CLUE_WES_ACCIDENT-6=
+
+
+# Wes
+### Yes.
+PC20_CLUE_WES_ACCIDENT-7=
+
+
+# Wes
+### And this is my personal story. Nothing to do with the affair at hand.
+PC20_CLUE_WES_ACCIDENT-8=
+
+
+# Brok
+### Somehow... I doubt it.
+PC20_CLUE_WES_ACCIDENT-9=
+
+
+# Wes
+### Really?...
+PC20_CLUE_WES_ACCIDENT-10=
+
+
+# Wes
+### Any proof of what you're saying?
+PC20_CLUE_WES_ACCIDENT-11=
+
+
+# Brok
+### Erm...
+PC20_CLUE_WES_ACCIDENT-12=
+
+
+# Brok
+### Let me think a minute. I'll find one!
+PC20_CLUE_WES_ACCIDENT-13=
+
+
+# Wes
+### Pathetic.
+PC20_CLUE_WES_ACCIDENT-14=
+
+
+# Dee
+### Hey, cowboy... I'm starting to doubt you've got anything tangible.
+PC20_CLUE_WES_ACCIDENT-15=
+
+
+# Brok
+### Gah...
+PC20_CLUE_WES_ACCIDENT-16=
+
+
+# Brok
+### Trust me, okay?...
+PC20_CLUE_WES_ACCIDENT-17=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### The first time we met, R.J. said you've changed...
+PC20_CLUE_WES_CARMENTAL-1=
+
+
+# Brok
+### And now we know you're having some mental issues.
+PC20_CLUE_WES_CARMENTAL-2=
+
+
+# Brok
+### Yeah, you're kinda old - or dare I say, an antique...
+PC20_CLUE_WES_CARMENTAL-3=
+
+
+# Wes
+### Hmmph.
+PC20_CLUE_WES_CARMENTAL-4=
+
+
+# Brok
+### But my little finger is telling me this all started after your accident. Wasn't it?
+PC20_CLUE_WES_CARMENTAL-5=
+
+
+# Wes
+### You know where you can put your little finger?
+PC20_CLUE_WES_CARMENTAL-6=
+
+
+# Wes
+### On the true culprit behind this affair.
+PC20_CLUE_WES_CARMENTAL-7=
+
+
+# Brok
+### Oh.
+PC20_CLUE_WES_CARMENTAL-8=
+
+
+# Brok
+### So you're saying the accident didn't affect your intellectual and judgement capacities?
+PC20_CLUE_WES_CARMENTAL-9=
+
+
+# Wes
+### My intellect, possibly.
+PC20_CLUE_WES_CARMENTAL-10=
+
+
+# Wes
+### My judgement? Never.
+PC20_CLUE_WES_CARMENTAL-11=
+
+
+# Brok
+### Alright. If you say so...
+PC20_CLUE_WES_CARMENTAL-12=
+
+
+# Dee
+### Stop being disrepectful. An old man will always stand behind his convictions.
+PC20_CLUE_WES_CARMENTAL-13=
+
+
+# Brok
+### You must be right. I just wonder what his true convictions are...
+PC20_CLUE_WES_CARMENTAL-14=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Can you draw something for me, Chief?
+PC20_CLUE_WES_DRAW-1=
+
+
+# Wes
+### What?...
+PC20_CLUE_WES_DRAW-2=
+
+
+# Brok
+### Go ahead. Draw me a sheep!
+PC20_CLUE_WES_DRAW-3=
+
+
+# Dee
+### Are you going crazy?...
+PC20_CLUE_WES_DRAW-4=
+
+
+# Wes
+### This is ridiculous!
+PC20_CLUE_WES_DRAW-5=
+
+
+# Brok
+### So? Can you?
+PC20_CLUE_WES_DRAW-6=
+
+
+# Wes
+### ...
+PC20_CLUE_WES_DRAW-7=
+
+
+# Wes
+### I won't submit myself to those petty tests of yours.
+PC20_CLUE_WES_DRAW-8=
+
+
+# Dee
+### What are you trying to prove?
+PC20_CLUE_WES_DRAW-9=
+
+
+# Brok
+### He cannot draw.
+PC20_CLUE_WES_DRAW-10=
+
+
+# Dee
+### Anyone can draw!
+PC20_CLUE_WES_DRAW-11=
+
+
+# Brok
+### Yeah... Normal human beings.
+PC20_CLUE_WES_DRAW-12=
+
+
+# Brok
+### (It's obvious. He can't. But why?...)
+PC20_CLUE_WES_DRAW-13=
+
+
+# Brok
+### (Fine, you won't cooperate. That makes you even more suspicious.)
+PC20_CLUE_WES_DRAW-14=
+
+
+#----------------------------------------------------
+# Brok - He addresses both of them here
+### Did you know AIs cannot draw?
+PC20_CLUE_WES_BRAINAI-1=
+
+
+# Dee
+### And again... How is this related to our case?!
+PC20_CLUE_WES_BRAINAI-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Well, Wes cannot draw either.
+PC20_CLUE_WES_BRAINAI-3=
+
+
+# Wes
+### You're trying my patience. We have a problem to solve!
+PC20_CLUE_WES_BRAINAI-4=
+
+
+# Dee
+### Even if it was true...
+PC20_CLUE_WES_BRAINAI-5=
+
+
+# Dee
+### What would be the conclusion?
+PC20_CLUE_WES_BRAINAI-6=
+
+
+# Brok
+### (Indeed...)
+PC20_CLUE_WES_BRAINAI-7=
+
+
+# Brok
+### (I'm not really sure myself where this is headed...)
+PC20_CLUE_WES_BRAINAI-8=
+
+
+# Brok
+### (This opens a whole range of possibilities, so let's stick with the facts.)
+PC20_CLUE_WES_BRAINAI-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Wes shares behaviors similar to artifical intelligence - but only sometimes)
+PC20_CLUE_WES_BRAINAI-10=
+
+
+# Wes
+### Lost your tongue, Pork?
+PC20_CLUE_WES_BRAINAI-11=
+
+
+# Brok
+### Not yet!
+PC20_CLUE_WES_BRAINAI-12=
+
+
+#----------------------------------------------------
+# Brok
+### Hey, old weasel.
+PC20_CLUE_WES_AICONTROL-1=
+
+
+# Brok
+### If I didn't know any better... I'd say you collided into a robot the day of your accident!
+PC20_CLUE_WES_AICONTROL-2=
+
+
+# Wes
+### Pray tell?...
+PC20_CLUE_WES_AICONTROL-3=
+
+
+# Brok
+### Well, how else would you explain your inability to draw and to pronounce my name?
+PC20_CLUE_WES_AICONTROL-4=
+
+
+# Brok
+### Are you somehow... controlled by an AI?...
+PC20_CLUE_WES_AICONTROL-5=
+
+
+# Wes
+### Good. You keep sinking further.
+PC20_CLUE_WES_AICONTROL-6=
+
+
+# Brok
+### Gotta uncover the truth!
+PC20_CLUE_WES_AICONTROL-7=
+
+
+# Wes
+### Or dig your own grave.
+PC20_CLUE_WES_AICONTROL-8=
+
+
+# Brok
+### Huh?...
+PC20_CLUE_WES_AICONTROL-9=
+
+
+# Brok
+### (I admit, what I suggested sounds absurd...)
+PC20_CLUE_WES_AICONTROL-10=
+
+
+# Brok
+### (This is a huge accusation.)
+PC20_CLUE_WES_AICONTROL-11=
+
+
+# Brok
+### (I need proof!)
+PC20_CLUE_WES_AICONTROL-12=
+
+
+#----------------------------------------------------
+# Brok
+### I found a proof of utmost importance in your office!
+PC20_CLUE_POLICE_OLDMODEL-1=
+
+
+# Wes
+### I'm all ears.
+PC20_CLUE_POLICE_OLDMODEL-2=
+
+
+# Brok
+### A burnt down power socket!
+PC20_CLUE_POLICE_OLDMODEL-3=
+
+
+# Dee
+### ...(Sigh)
+PC20_CLUE_POLICE_OLDMODEL-4=
+
+
+# Wes
+### ...
+PC20_CLUE_POLICE_OLDMODEL-5=
+
+
+# Wes
+### You should be ashamed of your moronic allegations, Pork.
+PC20_CLUE_POLICE_OLDMODEL-6=
+
+
+# Brok
+### I'm not basing them on nothing.
+PC20_CLUE_POLICE_OLDMODEL-7=
+
+
+# Brok
+### Only very old bots can cause an overload!
+PC20_CLUE_POLICE_OLDMODEL-8=
+
+
+# Wes
+### So what?...
+PC20_CLUE_POLICE_OLDMODEL-9=
+
+
+# Wes
+### Should I remind you the vast majority of our staff is composed of bots?
+PC20_CLUE_POLICE_OLDMODEL-10=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Aren't they all Tribots? They should be fairly recent.
+PC20_CLUE_POLICE_OLDMODEL-11=
+
+
+# Brok
+### And this happened in your office. What would an old bot do there?
+PC20_CLUE_POLICE_OLDMODEL-12=
+
+
+# Wes
+### I don't know. Probably some client.
+PC20_CLUE_POLICE_OLDMODEL-13=
+
+
+# Wes
+### I can't remember.
+PC20_CLUE_POLICE_OLDMODEL-14=
+
+
+# Brok
+### (Really?)
+PC20_CLUE_POLICE_OLDMODEL-15=
+
+
+# Brok
+### (Something's fishy. If this had happened a long time ago, the power socket would have been fixed and cleaned.)
+PC20_CLUE_POLICE_OLDMODEL-16=
+
+
+# Brok
+### (What's he hiding?...)
+PC20_CLUE_POLICE_OLDMODEL-17=
+
+
+#----------------------------------------------------
+# Brok
+### Yesterday, you made me a temporary cop, but I couldn't access your office.
+PC20_CLUE_POLICE_WESBOT-1=
+
+
+# Wes
+### Of course. I usually don't allow anyone to get close to my business when I'm away, not even my staff.
+PC20_CLUE_POLICE_WESBOT-2=
+
+
+# Brok
+### Then you should recall if an old bot was charging there!
+PC20_CLUE_POLICE_WESBOT-3=
+
+
+# Wes
+### That again?...
+PC20_CLUE_POLICE_WESBOT-4=
+
+
+# Wes
+### No idea. Maybe my nephew plugged in something there.
+PC20_CLUE_POLICE_WESBOT-5=
+
+
+# Brok
+### (Doubtful...)
+PC20_CLUE_POLICE_WESBOT-6=
+
+
+# Brok
+### (Alright, so...)
+PC20_CLUE_POLICE_WESBOT-7=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (If an AI is controlling Wes and a bot connected recently in his office despite restricted access...)
+PC20_CLUE_POLICE_WESBOT-8=
+
+
+# Brok
+### (Yes. This must the AI I'm looking for...!)
+PC20_CLUE_POLICE_WESBOT-9=
+
+
+# Brok
+### (And for an old model, it must be very clever.)
+PC20_CLUE_POLICE_WESBOT-10=
+
+
+# Brok
+### (If only I had a definitive proof of that...)
+PC20_CLUE_POLICE_WESBOT-11=
+
+
+#----------------------------------------------------
+# Brok
+### (Let's summarize what I know so far...)
+PC20_CLUE_WES_ROBOT-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Wes has mental problems...)
+PC20_CLUE_WES_ROBOT-2=
+
+
+# Brok
+### (Is sometimes behaving like an AI...)
+PC20_CLUE_WES_ROBOT-3=
+
+
+# Brok
+### (An ancient robot connected recently in his office...)
+PC20_CLUE_WES_ROBOT-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### (Much more advanced than the school Director...)
+PC20_CLUE_WES_ROBOT-5=
+
+
+# Brok
+### (Controlling him...)
+PC20_CLUE_WES_ROBOT-6=
+
+
+# Brok
+### (And I've already met it?...)
+PC20_CLUE_WES_ROBOT-7=
+
+
+# Brok
+### (...)
+PC20_CLUE_WES_ROBOT-8=
+
+
+# Brok
+### (...!)
+PC20_CLUE_WES_ROBOT-9=
+
+
+# Brok
+### (His accident...)
+PC20_CLUE_WES_ROBOT-10=
+
+
+# Brok - What if he hadn't survived!
+### (What if he...!)
+PC20_CLUE_WES_ROBOT-11=
+
+
+# Brok
+### No... This is absurd!...
+PC20_CLUE_WES_ROBOT-12=
+
+
+# Wes
+### I agree.
+PC20_CLUE_WES_ROBOT-13=
+
+
+# Dee
+### Fine. I shall...
+PC20_CLUE_WES_ROBOT-14=
+
+
+# Brok
+### Stop!
+PC20_CLUE_WES_ROBOT-15=
+
+
+# Brok
+### I... finally understand!
+PC20_CLUE_WES_ROBOT-16=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes...
+PC20_CLUE_WES_ROBOT-17=
+
+
+# Brok - Starting here, the "you" can become familiar!
+### You... You're...
+PC20_CLUE_WES_ROBOT-18=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (It's possible Wes had this accident but I'll need to prove it first...)
+PC20_INTERROGATE_BAD_CARACCIDENT-1=
+
+
+#----------------------------------------------------
+# Brok
+### (Yeah, I guess the car accident could have caused this but... I feel like I'm jumping to conclusions)
+PC20_INTERROGATE_BAD_WESACCIDENT-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### (Mental issues?... First I need a proof that those drawings are from Wes.)
+PC20_INTERROGATE_BAD_MENTAL-1=
+
+
+#----------------------------------------------------
+# Brok
+### (Nothing proves they're one and the same...)
+PC20_INTERROGATE_BAD_BOTMODEL-1=
+
+
+#----------------------------------------------------
+# Brok
+### You're not human!
+PC20_REVEAL-1=
+
+
+# Dee
+### Huh?...
+PC20_REVEAL-2=
+
+
+# Dee
+### What is he, then?... An extraterrestrial?
+PC20_REVEAL-3=
+
+
+# Brok
+### A bot! A very sophisticated one!
+PC20_REVEAL-4=
+
+
+# Wes
+### ...
+PC20_REVEAL-5=
+
+
+# Dee
+### Are you crazy?... Did you take a good look at him?
+PC20_REVEAL-6=
+
+
+# Dee
+### Have you ever heard a bot speak fluently like us?
+PC20_REVEAL-7=
+
+
+# Brok
+### I do.
+PC20_REVEAL-8=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### The Director of my son's school. She talks exactly like a human.
+PC20_REVEAL-9=
+
+
+# Brok
+### She said she's an experimental model from years ago.
+PC20_REVEAL-10=
+
+
+# Brok
+### And there's another like her in this city. An improved model.
+PC20_REVEAL-11=
+
+
+# Brok
+### She was referring to you... Wasn't she!
+PC20_REVEAL-12=
+
+
+# Wes
+### ...
+PC20_REVEAL-13=
+
+
+# Dee
+### Aaaand... I guess you suggest we open him, then?
+PC20_REVEAL-14=
+
+
+# Brok
+### There's an easy way to check.
+PC20_REVEAL-15=
+
+
+# Brok
+### If he's a bot, he must have a charging slot in the rear.
+PC20_REVEAL-16=
+
+
+# Brok
+### Go ahead! Search for it!
+PC20_REVEAL-17=
+
+
+# Dee
+### Are you serious?!
+PC20_REVEAL-18=
+
+
+# Dee
+### You're asking me to check the rear of... Mister head of the police department?!
+PC20_REVEAL-19=
+
+
+# Brok
+### Exactly!
+PC20_REVEAL-20=
+
+
+# Brok
+### And if you won't, I will!
+PC20_REVEAL-21=
+
+
+# Dee
+### (Sigh)
+PC20_REVEAL-22=
+
+
+# Wes
+### I'm warning you, Pork. This is a first-class criminal offence!
+PC20_REVEAL-23=
+
+
+#----------------------------------------------------
+# Brok - We decide to stop
+### ...
+PC20_REVEAL_NO-1=
+
+
+# Brok
+### You're right.
+PC20_REVEAL_NO-2=
+
+
+# Brok
+### I'm not sure what's up with me.
+PC20_REVEAL_NO-3=
+
+
+# Dee
+### You scared me for a sec.
+PC20_REVEAL_NO-4=
+
+
+# Wes
+### Thanks for the waste of time.
+PC20_REVEAL_NO-5=
+
+
+# Wes
+### The chip, please.
+PC20_REVEAL_NO-6=
+
+
+# Dee
+### Sure.
+PC20_REVEAL_NO-7=
+
+
+#----------------------------------------------------
+# Dee - Wes kills them both
+### Argh...
+PC20_REVEAL_NO2-1=
+
+
+# Brok
+### Noooo! What have you...
+PC20_REVEAL_NO2-2=
+
+
+#----------------------------------------------------
+# Wes
+### Finally, some silence.
+PC20_REVEAL_NO3-1=
+
+
+# Wes - Again - Wes talks in informal way when he's alone (here Brok & Dee are dead)
+### Too bad for you, Pork.
+PC20_REVEAL_NO3-2=
+
+
+# Wes
+### So close... Yet so far.
+PC20_REVEAL_NO3-3=
+
+
+# Wes
+### Now...
+PC20_REVEAL_NO3-4=
+
+
+# Wes
+### Let's end this.
+PC20_REVEAL_NO3-5=
+
+
+#----------------------------------------------------
+# Graff - Bad ending - Graff tells what happens after
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+PC20_REVEAL_NO4-1=
+
+
+# Graff
+### It's been a week since the accident.
+PC20_REVEAL_NO4-2=
+
+
+# Graff
+### That day...
+PC20_REVEAL_NO4-3=
+
+
+# Graff
+### After we escaped...
+PC20_REVEAL_NO4-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott and I found...
+PC20_REVEAL_NO4-5=
+
+
+# Graff
+### (Sigh)
+PC20_REVEAL_NO4-6=
+
+
+# Graff
+### I still can't believe it.
+PC20_REVEAL_NO4-7=
+
+
+# Graff
+### I'm not sure what happened but...
+PC20_REVEAL_NO4-8=
+
+
+# Graff
+### We were too late.
+PC20_REVEAL_NO4-9=
+
+
+# Graff
+### I wanted to stay there.
+PC20_REVEAL_NO4-10=
+
+
+# Graff
+### I didn't have the heart to go on without you.
+PC20_REVEAL_NO4-11=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### But Ott insisted...
+PC20_REVEAL_NO4-12=
+
+
+# Graff
+### The pills shortage went on.
+PC20_REVEAL_NO4-13=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### We tried to reach for the Drums but... all access was shut off.
+PC20_REVEAL_NO4-14=
+
+
+# Graff
+### As for moving to the closest country...
+PC20_REVEAL_NO4-15=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Nobody could. The Tribots were at every corner.
+PC20_REVEAL_NO4-16=
+
+
+# Graff
+### We were trapped.
+PC20_REVEAL_NO4-17=
+
+
+# Graff
+### Then...
+PC20_REVEAL_NO4-18=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's uncle found us.
+PC20_REVEAL_NO4-19=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### He made us enter the Drums.
+PC20_REVEAL_NO4-20=
+
+
+# Graff
+### But only us...
+PC20_REVEAL_NO4-21=
+
+
+# Graff
+### At the border Post...
+PC20_REVEAL_NO4-22=
+
+
+# Graff
+### There were families...
+PC20_REVEAL_NO4-23=
+
+
+# Graff
+### Children... Right behind us...
+PC20_REVEAL_NO4-24=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes prevented them from entering.
+PC20_REVEAL_NO4-25=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### So Ott refused to go as well. His own parents were still out there.
+PC20_REVEAL_NO4-26=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes said it was too late.
+PC20_REVEAL_NO4-27=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### He knocked out Ott...
+PC20_REVEAL_NO4-28=
+
+
+# Graff
+### I had no choice...
+PC20_REVEAL_NO4-29=
+
+
+# Graff
+### I couldn't leave him.
+PC20_REVEAL_NO4-30=
+
+
+# Graff
+### ...
+PC20_REVEAL_NO4-31=
+
+
+# Graff
+### After this...
+PC20_REVEAL_NO4-32=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### I tried to bring pills from the Dome to the outside...
+PC20_REVEAL_NO4-33=
+
+
+# Graff
+### But it was already over.
+PC20_REVEAL_NO4-34=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums became so silent.
+PC20_REVEAL_NO4-35=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Everyone in the Slums...
+PC20_REVEAL_NO4-36=
+
+
+# Graff
+### Perished...
+PC20_REVEAL_NO4-37=
+
+
+# Graff
+### Except us.
+PC20_REVEAL_NO4-38=
+
+
+# Graff
+### Why?...
+PC20_REVEAL_NO4-39=
+
+
+# Graff
+### Why saving us and no one else?
+PC20_REVEAL_NO4-40=
+
+
+# Graff
+### Are we... More important than all these people?
+PC20_REVEAL_NO4-41=
+
+
+# Graff
+### This isn't fair.
+PC20_REVEAL_NO4-42=
+
+
+# Graff
+### Now...
+PC20_REVEAL_NO4-43=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott and I have to live with this burden.
+PC20_REVEAL_NO4-44=
+
+
+# Graff
+### If only... You had been there...
+PC20_REVEAL_NO4-45=
+
+
+# Graff
+### You would have found a solution...
+PC20_REVEAL_NO4-46=
+
+
+# Graff
+### For everyone...
+PC20_REVEAL_NO4-47=
+
+
+# Graff
+### I'm sure of it.
+PC20_REVEAL_NO4-48=
+
+
+# Graff
+### ...
+PC20_REVEAL_NO4-49=
+
+
+# Graff
+### I've decided to dedicate my life to help others...
+PC20_REVEAL_NO4-50=
+
+
+# Graff
+### As you taught me...
+PC20_REVEAL_NO4-51=
+
+
+# Graff
+### To repair this mistake...
+PC20_REVEAL_NO4-52=
+
+
+# Graff
+### And make you proud.
+PC20_REVEAL_NO4-53=
+
+
+# Graff
+### I miss you...
+PC20_REVEAL_NO4-54=
+
+
+# Graff
+### ...
+PC20_REVEAL_NO4-55=
+
+
+# Graff
+### May we see each other again...
+PC20_REVEAL_NO4-56=
+
+
+# Graff
+### Someday...
+PC20_REVEAL_NO4-57=
+
+
+# Graff
+### On the other side.
+PC20_REVEAL_NO4-58=
+
+
+#----------------------------------------------------
+# Brok - We make the right choice
+### I insist!
+PC20_REVEAL_YES-1=
+
+
+# Brok
+### Come on! Show us your butt, old bot!
+PC20_REVEAL_YES-2=
+
+
+# Wes
+### How dare you...
+PC20_REVEAL_YES-3=
+
+
+# Dee
+### If you truly think so... Then...
+PC20_REVEAL_YES-4=
+
+
+# Dee
+### I'll trust you.
+PC20_REVEAL_YES-5=
+
+
+# Dee
+### Maybe you can just show him so we can move on?
+PC20_REVEAL_YES-6=
+
+
+# Wes
+### ...
+PC20_REVEAL_YES-7=
+
+
+# Dee
+### ...
+PC20_REVEAL_YES-8=
+
+
+# Brok
+### ...?
+PC20_REVEAL_YES-9=
+
+
+# Wes
+### Ha ha ha...
+PC20_REVEAL_YES-10=
+
+
+# Wes
+### To think... That idiot...
+PC20_REVEAL_YES-11=
+
+
+# Wes
+### With his moronic logic...
+PC20_REVEAL_YES-12=
+
+
+# Wes
+### HA HA HA HA HA!
+PC20_REVEAL_YES-13=
+
+
+# Brok
+### Are you done?... There's nothing funny.
+PC20_REVEAL_YES-14=
+
+
+# Wes
+### Oh, yes there is!
+PC20_REVEAL_YES-15=
+
+
+# Wes
+### I can't wait to see your face...
+PC20_REVEAL_YES-16=
+
+
+# Wes
+### When you see mine.
+PC20_REVEAL_YES-17=
+
+
+#----------------------------------------------------
+# Brok - Wes reveals his true self - he's a robot
+### ...!!!
+PC20_AFTERREVEAL1-1=
+
+
+# Dee
+### It's... That's...!
+PC20_AFTERREVEAL1-2=
+
+
+# Dee
+### Impossible!
+PC20_AFTERREVEAL1-3=
+
+
+# Brok
+### I was hoping I'd be wrong...!
+PC20_AFTERREVEAL1-4=
+
+
+# Wes - STARTING FROM HERE AND TO THE END OF THIS FILE, Wes reveals he's a bot so he talks to Brok in informal way! And Brok also talks to Wes in informal way.
+### You...
+PC20_AFTERREVEAL1-5=
+
+
+# Wes
+### Of all the people I've met, all these years...
+PC20_AFTERREVEAL1-6=
+
+
+# Wes
+### How could you be the one to discover my true identity?!
+PC20_AFTERREVEAL1-7=
+
+
+# Brok
+### Then... This means...
+PC20_AFTERREVEAL1-8=
+
+
+# Wes
+### Gimme that!
+PC20_AFTERREVEAL1-9=
+
+
+#----------------------------------------------------
+# Dee
+### Aww!
+PC20_AFTERREVEAL2-1=
+
+
+# Brok
+### No!!!
+PC20_AFTERREVEAL2-2=
+
+
+#----------------------------------------------------
+# Unknown - Brok swallows chip
+### (Glurp)
+PC20_AFTERREVEAL3-1=
+
+
+# Wes
+### The chip!...
+PC20_AFTERREVEAL3-2=
+
+
+# Wes
+### Darn you croc! Spit it out!
+PC20_AFTERREVEAL3-3=
+
+
+# Brok
+### No way in hell... where you probably come from!
+PC20_AFTERREVEAL3-4=
+
+
+# Dee
+### That doesn't make any sense...!
+PC20_AFTERREVEAL3-5=
+
+
+# Dee
+### How... Why...?!
+PC20_AFTERREVEAL3-6=
+
+
+# Dee
+### You're involved in all this?
+PC20_AFTERREVEAL3-7=
+
+
+# Dee
+### What do you need it for?
+PC20_AFTERREVEAL3-8=
+
+
+# Brok
+### That's the only copy. By erasing it...
+PC20_AFTERREVEAL3-9=
+
+
+# Brok
+### Poof. All proof... Gone!
+PC20_AFTERREVEAL3-10=
+
+
+# Wes
+### Pesky meddlers.
+PC20_AFTERREVEAL3-11=
+
+
+# Wes
+### You fail to realize that all our efforts are to ensure this world won't turn upside down!
+PC20_AFTERREVEAL3-12=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### For your safety, we made sure every single device is connected to the Triweb.
+PC20_AFTERREVEAL3-13=
+
+
+# Wes
+### We've set sophisticated algorithms to recognize and eradicate all inappropriate content.
+PC20_AFTERREVEAL3-14=
+
+
+# Wes
+### It was perfect!
+PC20_AFTERREVEAL3-15=
+
+
+# Wes
+### But this... stupid non-connected thing!...
+PC20_AFTERREVEAL3-16=
+
+
+# Wes
+### It contains information that will incriminate me!
+PC20_AFTERREVEAL3-17=
+
+
+# Brok
+### Too bad for you. They're in my stomach now!
+PC20_AFTERREVEAL3-18=
+
+
+# Dee
+### ...And your stomach better not destroy it...
+PC20_AFTERREVEAL3-19=
+
+
+# Brok
+### Erm... Good thing I didn't eat anything spicy...
+PC20_AFTERREVEAL3-20=
+
+
+# Wes
+### Enough.
+PC20_AFTERREVEAL3-21=
+
+
+#----------------------------------------------------
+# Brok - Wes tries shooting but he misses thanks to Brok
+### No!...
+PC20_AFTERREVEAL4-1=
+
+
+#----------------------------------------------------
+# Brok
+### You're okay?...
+PC20_AFTERREVEAL5-1=
+
+
+# Dee
+### ...
+PC20_AFTERREVEAL5-2=
+
+
+#----------------------------------------------------
+# Dee
+### Then this means...
+PC20_AFTERREVEAL5_NOSIN-1=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin...!
+PC20_AFTERREVEAL5_NOSIN-2=
+
+
+# Wes
+### I've taken care of him, of course.
+PC20_AFTERREVEAL5_NOSIN-3=
+
+
+# Dee
+### Noooo!
+PC20_AFTERREVEAL5_NOSIN-4=
+
+
+# Dee
+### This... can't be happening!
+PC20_AFTERREVEAL5_NOSIN-5=
+
+
+# Wes
+### It already has.
+PC20_AFTERREVEAL5_NOSIN-6=
+
+
+# Wes
+### The most pathetic criminal I've eliminated so far!
+PC20_AFTERREVEAL5_NOSIN-7=
+
+
+# Wes
+### Running away from me as soon as he understood... What a coward.
+PC20_AFTERREVEAL5_NOSIN-8=
+
+
+# Brok
+### You monster...
+PC20_AFTERREVEAL5_NOSIN-9=
+
+
+# Brok
+### Does your screwed-up brain even realize it's contradictory to treat people as criminals while killing them?!
+PC20_AFTERREVEAL5_NOSIN-10=
+
+
+# Wes
+### ...
+PC20_AFTERREVEAL5_NOSIN-11=
+
+
+# Wes
+### Don't try to confuse me.
+PC20_AFTERREVEAL5_NOSIN-12=
+
+
+#----------------------------------------------------
+# Dee
+### We... We've got to get rid of him... it!
+PC20_AFTERREVEAL5B-1=
+
+
+# Wes
+### ...
+PC20_AFTERREVEAL5B-2=
+
+
+# Wes - He addresses both of them here.
+### You're in luck. This old gun takes time to reload.
+PC20_AFTERREVEAL5B-3=
+
+
+#----------------------------------------------------
+# Wes
+### But I'm prepared for all eventualities.
+PC20_AFTERREVEAL5C-1=
+
+
+# Wes
+### Even this very improbable situation you would show resistance.
+PC20_AFTERREVEAL5C-2=
+
+
+# Unknown
+### (Click)
+PC20_AFTERREVEAL5C-3=
+
+
+#----------------------------------------------------
+# Brok - The whole place slowly collapses until they're all trapped into a hole
+### Woah!
+PC20_AFTERREVEAL6-1=
+
+
+# Dee
+### He's making this trash mountain collapse?!
+PC20_AFTERREVEAL6-2=
+
+
+#----------------------------------------------------
+# Wes
+### Good news. I've proceeded as planned.
+PC20_AFTERREVEAL7-1=
+
+
+# Wes - He addresses both of them here.
+### You won't leave this place alive.
+PC20_AFTERREVEAL7-2=
+
+
+# Brok
+### How is that good news?
+PC20_AFTERREVEAL7-3=
+
+
+# Wes
+### It is. For me!
+PC20_AFTERREVEAL7-4=
+
+
+#----------------------------------------------------
+# Brok - Tribots come, surrounding them
+### Obviously...
+PC20_AFTERREVEAL8-1=
+
+
+# Dee
+### It's bad... They keep coming!
+PC20_AFTERREVEAL8-2=
+
+
+# Brok
+### Argh...
+PC20_AFTERREVEAL8-3=
+
+
+# Dee
+### No choice!
+PC20_AFTERREVEAL8-4=
+
+
+# Dee
+### I'll take care of the minions. Get him!
+PC20_AFTERREVEAL8-5=
+
+
+# Brok
+### Got it!
+PC20_AFTERREVEAL8-6=
+
+
+# Wes
+### Hey. Guess what the penalty is for attacking a police officer?
+PC20_AFTERREVEAL8-7=
+
+
+# Brok
+### Lemme guess... Death?...
+PC20_AFTERREVEAL8-8=
+
+
+# Wes
+### You got that right!
+PC20_AFTERREVEAL8-9=
+
+
+#----------------------------------------------------
+# Brok - During the fight with Wes!
+### Hey, old bot...
+PC20_FIGHT1_SPEECHA1-1=
+
+
+# Brok
+### If you intended to destroy us... Why the speech?
+PC20_FIGHT1_SPEECHA1-2=
+
+
+# Wes
+### You're really stubborn, Pork. You always find a way out.
+PC20_FIGHT1_SPEECHA1-3=
+
+
+# Wes
+### I've tried so many times to destroy you...
+PC20_FIGHT1_SPEECHA1-4=
+
+
+# Wes
+### Unleashed hundreds of servants at you today...
+PC20_FIGHT1_SPEECHA1-5=
+
+
+# Wes
+### And you're still breathing!
+PC20_FIGHT1_SPEECHA1-6=
+
+
+# Wes - Here he's adressing both of them
+### I couldn't take the risk to have you flee again with those documents.
+PC20_FIGHT1_SPEECHA1-7=
+
+
+#----------------------------------------------------
+# Wes
+### You were my useful idiot, Pork.
+PC20_FIGHT1_SPEECHA1ALT-1=
+
+
+# Wes
+### Thanks to your abysmal detective skills...
+PC20_FIGHT1_SPEECHA1ALT-2=
+
+
+# Wes
+### ...I was finally able to locate the third member.
+PC20_FIGHT1_SPEECHA1ALT-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Dr. Gherkin.
+PC20_FIGHT1_SPEECHA1ALT-4=
+
+
+#----------------------------------------------------
+# Brok
+### So it was you!...
+PC20_FIGHT1_SPEECHA2-1=
+
+
+# Brok
+### You pushed that firmware update!
+PC20_FIGHT1_SPEECHA2-2=
+
+
+# Brok
+### This means...!
+PC20_FIGHT1_SPEECHA2-3=
+
+
+# Wes
+### Eh. You finally got it.
+PC20_FIGHT1_SPEECHA2-4=
+
+
+# Wes
+### Kneel in front of one of your masters!
+PC20_FIGHT1_SPEECHA2-5=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### He's a member of the Triangle?...
+PC20_FIGHT1_SPEECHA2-6=
+
+
+#----------------------------------------------------
+# Dee
+### You vermin!...
+PC20_FIGHT1_SPEECHA3-1=
+
+
+# Dee
+### The shortage...
+PC20_FIGHT1_SPEECHA3-2=
+
+
+# Wes
+### ...was my final plan.
+PC20_FIGHT1_SPEECHA3-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### My servants wrecked the Pipe-pills one by one.
+PC20_FIGHT1_SPEECHA3-4=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### What better way to clean the Slums?
+PC20_FIGHT1_SPEECHA3-5=
+
+
+# Wes
+### It's like all the conditions for this fate were met ages ago.
+PC20_FIGHT1_SPEECHA3-6=
+
+
+# Wes
+### All that was missing was the match to light the flame...
+PC20_FIGHT1_SPEECHA3-7=
+
+
+# Brok
+### You!
+PC20_FIGHT1_SPEECHA3-8=
+
+
+#----------------------------------------------------
+# Brok
+### I should have listened to my instinct...
+PC20_FIGHT1_SPEECHA4-1=
+
+
+# Brok
+### Never trust old weasels. Never trust bots.
+PC20_FIGHT1_SPEECHA4-2=
+
+
+# Brok
+### And you're the rotten combination of both!
+PC20_FIGHT1_SPEECHA4-3=
+
+
+# Wes
+### Shut your mouth and please die.
+PC20_FIGHT1_SPEECHA4-4=
+
+
+# Brok
+### I'd say stop dreaming...
+PC20_FIGHT1_SPEECHA4-5=
+
+
+# Brok
+### If only you could!
+PC20_FIGHT1_SPEECHA4-6=
+
+
+#----------------------------------------------------
+# Brok
+### So... You died in that accident and...
+PC20_FIGHT1_SPEECHA5-1=
+
+
+# Brok
+### How exactly did you get transformed into... this?...
+PC20_FIGHT1_SPEECHA5-2=
+
+
+# Wes
+### Does it matter? You'll be stiff in a moment.
+PC20_FIGHT1_SPEECHA5-3=
+
+
+# Brok
+### Consider this a last favor then!
+PC20_FIGHT1_SPEECHA5-4=
+
+
+# Wes
+### Very well.
+PC20_FIGHT1_SPEECHA5-5=
+
+
+#----------------------------------------------------
+# Wes
+### A long time ago...
+PC20_FIGHT1_SPEECHA6-1=
+
+
+# Wes
+### I had a friend. A brilliant engineer.
+PC20_FIGHT1_SPEECHA6-2=
+
+
+# Wes
+### Whose life was abruptly shattered...
+PC20_FIGHT1_SPEECHA6-3=
+
+
+# Wes
+### The night of my accident...
+PC20_FIGHT1_SPEECHA6-4=
+
+
+# Wes
+### Before my last breath... He recorded my brain.
+PC20_FIGHT1_SPEECHA6-5=
+
+
+# Wes
+### Then transferred the data into this host.
+PC20_FIGHT1_SPEECHA6-6=
+
+
+#----------------------------------------------------
+# Wes
+### I was reborn!
+PC20_FIGHT1_SPEECHA7-1=
+
+
+# Brok - To avoid possible copyright confusion with the famous film I added an hyphen
+### Yeah. As an evil robo-cop.
+PC20_FIGHT1_SPEECHA7-2=
+
+
+# Wes
+### He said my role on this earth wasn't over.
+PC20_FIGHT1_SPEECHA7-3=
+
+
+# Wes
+### At the time I didn't understand why.
+PC20_FIGHT1_SPEECHA7-4=
+
+
+# Wes
+### But now... I know this was my destiny.
+PC20_FIGHT1_SPEECHA7-5=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### To destroy the Slums?!
+PC20_FIGHT1_SPEECHA7-6=
+
+
+# Wes
+### The greatest minds are always misunderstood.
+PC20_FIGHT1_SPEECHA7-7=
+
+
+#----------------------------------------------------
+# Dee
+### Who cares!
+PC20_FIGHT1_SPEECHA8-1=
+
+
+# Dee
+### We won't let you win!
+PC20_FIGHT1_SPEECHA8-2=
+
+
+# Wes
+### This fight is already over.
+PC20_FIGHT1_SPEECHA8-3=
+
+
+# Wes
+### Accept this reality.
+PC20_FIGHT1_SPEECHA8-4=
+
+
+# Brok
+### Only after I've reduced you to a pile of scrap!
+PC20_FIGHT1_SPEECHA8-5=
+
+
+#----------------------------------------------------
+# Wes
+### How can you resist like this?!
+PC20_FIGHT1_SPEECHB1-1=
+
+
+# Wes
+### I should have destroyed you when I had the opportunity...
+PC20_FIGHT1_SPEECHB1-2=
+
+
+# Brok
+### Why didn't ya?
+PC20_FIGHT1_SPEECHB1-3=
+
+
+# Wes
+### It's as they say.
+PC20_FIGHT1_SPEECHB1-4=
+
+
+# Wes
+### Keep your friends close... and your enemies even closer.
+PC20_FIGHT1_SPEECHB1-5=
+
+
+#----------------------------------------------------
+# Brok
+### Why me?... What have I done to you?
+PC20_FIGHT1_SPEECHB2-1=
+
+
+# Wes
+### You're a threat.
+PC20_FIGHT1_SPEECHB2-2=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### The only Slumer immune to the Haze.
+PC20_FIGHT1_SPEECHB2-3=
+
+
+# Wes
+### A potential alternative to the pills lies within you.
+PC20_FIGHT1_SPEECHB2-4=
+
+
+# Wes
+### I had no choice but to send bots after you...
+PC20_FIGHT1_SPEECHB2-5=
+
+
+# Brok
+### Not enough to stop me!
+PC20_FIGHT1_SPEECHB2-6=
+
+
+#----------------------------------------------------
+# Wes
+### My plan to keep you close also failed.
+PC20_FIGHT1_SPEECHB2_INVESTOK-1=
+
+
+# Wes
+### I sent you on that staged investigation. I figured you would fall into our traps.
+PC20_FIGHT1_SPEECHB2_INVESTOK-2=
+
+
+# Wes
+### Against all odds... You solved it.
+PC20_FIGHT1_SPEECHB2_INVESTOK-3=
+
+
+# Wes
+### The doctor wanted to stop his AI research. Unacceptable.
+PC20_FIGHT1_SPEECHB2_INVESTOK-4=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy was an invaluable servant... and you destroyed him!
+PC20_FIGHT1_SPEECHB2_INVESTOK-5=
+
+
+# Wes
+### This poor bot asked me to cover for him. He did what was right.
+PC20_FIGHT1_SPEECHB2_INVESTOK-6=
+
+
+# Brok
+### What was right?!...
+PC20_FIGHT1_SPEECHB2_INVESTOK-7=
+
+
+# Brok
+### He attempted to kill his creator!
+PC20_FIGHT1_SPEECHB2_INVESTOK-8=
+
+
+# Wes
+### Interesting you'd say this, Pork...
+PC20_FIGHT1_SPEECHB2_INVESTOK-9=
+
+
+# Wes
+### Considering you destroyed mine!
+PC20_FIGHT1_SPEECHB2_INVESTOK-10=
+
+
+# Brok
+### What...?
+PC20_FIGHT1_SPEECHB2_INVESTOK-11=
+
+
+# Wes
+### ...
+PC20_FIGHT1_SPEECHB2_INVESTOK-12=
+
+
+#----------------------------------------------------
+# Brok
+### Come on!... Spill it!
+PC20_FIGHT1_SPEECHB3-1=
+
+
+# Brok
+### Who's your creator? Who did I kill?!
+PC20_FIGHT1_SPEECHB3-2=
+
+
+# Wes
+### Ha ha ha...
+PC20_FIGHT1_SPEECHB3-3=
+
+
+# Wes
+### You shall not know.
+PC20_FIGHT1_SPEECHB3-4=
+
+
+# Wes
+### This is your punishment.
+PC20_FIGHT1_SPEECHB3-5=
+
+
+# Wes
+### Torturing you is such a delight.
+PC20_FIGHT1_SPEECHB3-6=
+
+
+# Brok
+### Well there's one thing I know for sure...
+PC20_FIGHT1_SPEECHB3-7=
+
+
+# Brok
+### You're next on the list!
+PC20_FIGHT1_SPEECHB3-8=
+
+
+#----------------------------------------------------
+# Brok
+### Noooo!
+PC20_FIGHT1_DEEDIES-1=
+
+
+# Wes
+### Sorry it had to come to this.
+PC20_FIGHT1_DEEDIES-2=
+
+
+# Wes - This happens if Dee dies so he's talking about her
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I usually don't kill Drumers but this journalist was a serious pain in the neck.
+PC20_FIGHT1_DEEDIES-3=
+
+
+# Wes
+### Do not cry. You're next!
+PC20_FIGHT1_DEEDIES-4=
+
+
+# Brok
+### I'll get ya... I swear!
+PC20_FIGHT1_DEEDIES-5=
+
+
+# Brok
+### Even if it's the last thing I do!
+PC20_FIGHT1_DEEDIES-6=
+
+
+#----------------------------------------------------
+# Wes - Brok defeats Wes (first time)
+### Impossible...
+PC20_FIGHT1_END-1=
+
+
+# Wes
+### My faithful bots...
+PC20_FIGHT1_END-2=
+
+
+# Wes
+### They're... not returning my calls anymore...!
+PC20_FIGHT1_END-3=
+
+
+#----------------------------------------------------
+# Wes - Wes collapses
+### I...
+PC20_FIGHT1_END_DEEDEAD-1=
+
+
+# Wes
+### ...
+PC20_FIGHT1_END_DEEDEAD-2=
+
+
+# Brok
+### ...
+PC20_FIGHT1_END_DEEDEAD-3=
+
+
+# Brok
+### It's over.
+PC20_FIGHT1_END_DEEDEAD-4=
+
+
+#----------------------------------------------------
+# Brok - In case Dee died during the boss fight
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee...
+PC20_FIGHT1_END_DEEDEAD1-1=
+
+
+# Brok
+### I shouldn't have let that happen...
+PC20_FIGHT1_END_DEEDEAD1-2=
+
+
+# Brok
+### Please... Forgive me.
+PC20_FIGHT1_END_DEEDEAD1-3=
+
+
+#----------------------------------------------------
+# Dee
+### That's it. The game is over, bag of screws.
+PC20_FIGHT1_END_DEEALIVE-1=
+
+
+# Wes
+### Not... Till I...
+PC20_FIGHT1_END_DEEALIVE-2=
+
+
+#----------------------------------------------------
+# Dee - Wes shoots on Dee (if she's still alive)
+### Argh!!!
+PC20_FIGHT1_END2-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee!
+PC20_FIGHT1_END2-2=
+
+
+# Dee
+### My leg...
+PC20_FIGHT1_END2-3=
+
+
+# Dee
+### I can't move!...
+PC20_FIGHT1_END2-4=
+
+
+# Brok
+### That devil...
+PC20_FIGHT1_END2-5=
+
+
+# Brok
+### Come on. I'll carry you.
+PC20_FIGHT1_END2-6=
+
+
+# Dee
+### Don't... Don't mind me!
+PC20_FIGHT1_END2-7=
+
+
+# Dee
+### You've got to finish him!
+PC20_FIGHT1_END2-8=
+
+
+# Brok
+### I will...
+PC20_FIGHT1_END2-9=
+
+
+# Brok
+### After you're safe!
+PC20_FIGHT1_END2-10=
+
+
+# Brok
+### Someone's waiting for you at home.
+PC20_FIGHT1_END2-11=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+PC20_FIGHT1_END2-12=
+
+
+#----------------------------------------------------
+# Dee
+### Now... Go.
+PC20_FIGHT1_END3-1=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC20_FIGHT1_END4-1=
+
+
+# Brok
+### Where is he?!
+PC20_FIGHT1_END4-2=
+
+
+#----------------------------------------------------
+# Dee
+### I told you!... That old snake!...
+PC20_FIGHT1_END4DEEALIVE-1=
+
+
+# Brok
+### Now is not the good time for an argument!
+PC20_FIGHT1_END4DEEALIVE-2=
+
+
+#----------------------------------------------------
+# Unknown
+### (Shaking)
+PC20_FIGHT1_END5-1=
+
+
+# Brok
+### Oh boy... What again?...
+PC20_FIGHT1_END5-2=
+
+
+#----------------------------------------------------
+# Brok - Giant robot comes out of the ground, with Wes inside at the commands
+### !!!...
+PC20_FIGHT2_APPEAR-1=
+
+
+# Brok
+### This... is a nightmare!...
+PC20_FIGHT2_APPEAR-2=
+
+
+# Wes
+### How do you like my new shell, Pork?
+PC20_FIGHT2_APPEAR-3=
+
+
+#----------------------------------------------------
+# Dee
+### Do you even stand a chance against that?!
+PC20_FIGHT2_APPEAR_DEEALIVE-1=
+
+
+# Brok
+### There... must be a way...
+PC20_FIGHT2_APPEAR_DEEALIVE-2=
+
+
+# Brok
+### There's gotta be!
+PC20_FIGHT2_APPEAR_DEEALIVE-3=
+
+
+#----------------------------------------------------
+# Brok
+### You dirty... old snake!
+PC20_FIGHT2_APPEAR_DEEDEAD-1=
+
+
+#----------------------------------------------------
+# Wes
+### Let me estimate.
+PC20_FIGHT2_APPEARB-1=
+
+
+# Wes
+### The probability you'll survive more than two minutes is...
+PC20_FIGHT2_APPEARB-2=
+
+
+# Wes
+### Non-existent.
+PC20_FIGHT2_APPEARB-3=
+
+
+# Brok
+### I'll take my chances!
+PC20_FIGHT2_APPEARB-4=
+
+
+# Wes
+### Good. I was worried you'd try something foolish like escaping.
+PC20_FIGHT2_APPEARB-5=
+
+
+# Wes
+### That would be no fun.
+PC20_FIGHT2_APPEARB-6=
+
+
+# Brok
+### You should know me by now, old demon bot.
+PC20_FIGHT2_APPEARB-7=
+
+
+# Brok
+### As long as I'm standing...
+PC20_FIGHT2_APPEARB-8=
+
+
+# Brok
+### I'll keep fighting!
+PC20_FIGHT2_APPEARB-9=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### Right. Keep talking like you're in a livie!
+PC20_FIGHT2_APPEARB-10=
+
+
+# Wes
+### But this is reality!
+PC20_FIGHT2_APPEARB-11=
+
+
+#----------------------------------------------------
+# Brok - Win against giant robot
+### (Pant, pant) Yes!...
+PC20_FIGHT2_END-1=
+
+
+# Brok
+### Hope you liked this, giant tin can!
+PC20_FIGHT2_END-2=
+
+
+# Brok
+### ...Woah!
+PC20_FIGHT2_END-3=
+
+
+#----------------------------------------------------
+# Brok
+### Phew...
+PC20_FIGHT2_END_AFTER_DEEALIVE-1=
+
+
+# Brok
+### For a sec, I thought I was done f...
+PC20_FIGHT2_END_AFTER_DEEALIVE-2=
+
+
+# Dee
+### Watch out!
+PC20_FIGHT2_END_AFTER_DEEALIVE-3=
+
+
+#----------------------------------------------------
+# Brok
+### Phew...
+PC20_FIGHT2_END_AFTER_DEEDEAD-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. I avenged y...
+PC20_FIGHT2_END_AFTER_DEEDEAD-2=
+
+
+#----------------------------------------------------
+# Brok - Brok gets caught by the giant robot claw, unable to move and getting crushed
+### Ooooof!
+PC20_FIGHT2_END2-1=
+
+
+# Wes
+### I can't believe...
+PC20_FIGHT2_END2-2=
+
+
+# Wes
+### You've almost had me... Twice!
+PC20_FIGHT2_END2-3=
+
+
+# Wes
+### That final mistake will cost you your life.
+PC20_FIGHT2_END2-4=
+
+
+# Brok
+### Uuuurgh!
+PC20_FIGHT2_END2-5=
+
+
+# Brok
+### That hurts, ya know!
+PC20_FIGHT2_END2-6=
+
+
+# Wes
+### Don't worry. You won't die immediately.
+PC20_FIGHT2_END2-7=
+
+
+# Wes
+### I'll break you bit by bit, slowly.
+PC20_FIGHT2_END2-8=
+
+
+# Wes
+### Let me savor this moment!
+PC20_FIGHT2_END2-9=
+
+
+#----------------------------------------------------
+# Dee
+### No!...
+PC20_FIGHT2_END2_DEEALIVE-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee! Stay there!
+PC20_FIGHT2_END2_DEEALIVE-2=
+
+
+#----------------------------------------------------
+# Brok
+### Arghhh!
+PC20_FIGHT2_END2A-1=
+
+
+#----------------------------------------------------
+# Brok - Playing dead
+### ...
+PC20_FIGHT2_PLAYDEAD_DEEALIVE-1=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok?...
+PC20_FIGHT2_PLAYDEAD_DEEALIVE-2=
+
+
+# Brok
+### ...
+PC20_FIGHT2_PLAYDEAD_DEEALIVE-3=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!!!
+PC20_FIGHT2_PLAYDEAD_DEEALIVE-4=
+
+
+#----------------------------------------------------
+# Wes
+### Playing possum, uh?
+PC20_FIGHT2_PLAYDEAD-1=
+
+
+# Wes
+### Don't think you can fool me. I have sensors.
+PC20_FIGHT2_PLAYDEAD-2=
+
+
+# Wes
+### Even a dead cat can bounce when it falls from high up!
+PC20_FIGHT2_PLAYDEAD-3=
+
+
+# Brok
+### What you say... Urgh!... doesn't make any sense!
+PC20_FIGHT2_PLAYDEAD-4=
+
+
+# Wes
+### Ha!
+PC20_FIGHT2_PLAYDEAD-5=
+
+
+#----------------------------------------------------
+# Brok
+### Well...
+PC20_FIGHT2_ASKMORE_DEEALIVE-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Running out of ideas here. Dee?...
+PC20_FIGHT2_ASKMORE_DEEALIVE-2=
+
+
+# Dee
+### Before you kill us...
+PC20_FIGHT2_ASKMORE_DEEALIVE-3=
+
+
+# Dee
+### I need to know...
+PC20_FIGHT2_ASKMORE_DEEALIVE-4=
+
+
+# Dee
+### Why?
+PC20_FIGHT2_ASKMORE_DEEALIVE-5=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Why insist on wiping out Slumers?
+PC20_FIGHT2_ASKMORE_DEEALIVE-6=
+
+
+#----------------------------------------------------
+# Brok
+### Why?
+PC20_FIGHT2_ASKMORE_DEEDEAD-1=
+
+
+#----------------------------------------------------
+# Wes
+### Isn't it obvious?
+PC20_FIGHT2_ASKMORE-1=
+
+
+# Wes
+### ...
+PC20_FIGHT2_ASKMORE-2=
+
+
+# Wes
+### Pork...
+PC20_FIGHT2_ASKMORE-3=
+
+
+# Wes
+### The first time we met... Many years ago...
+PC20_FIGHT2_ASKMORE-4=
+
+
+# Wes
+### I wasn't a bot.
+PC20_FIGHT2_ASKMORE-5=
+
+
+# Brok
+### To me you've always been an old wreck!... Urgh!
+PC20_FIGHT2_ASKMORE-6=
+
+
+# Wes
+### After I was turned into this...
+PC20_FIGHT2_ASKMORE-7=
+
+
+# Wes
+### I resumed my job at the police department.
+PC20_FIGHT2_ASKMORE-8=
+
+
+# Wes
+### Slowly... Year after year...
+PC20_FIGHT2_ASKMORE-9=
+
+
+# Wes
+### I encountered the worst in humanity.
+PC20_FIGHT2_ASKMORE-10=
+
+
+# Wes
+### Murders... Thefts... Aggressions... Frauds...
+PC20_FIGHT2_ASKMORE-11=
+
+
+# Wes
+### Every new case worse than the last.
+PC20_FIGHT2_ASKMORE-12=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### All concentrated in the Slums.
+PC20_FIGHT2_ASKMORE-13=
+
+
+# Brok
+### This is hogwash!
+PC20_FIGHT2_ASKMORE-14=
+
+
+# Brok
+### The result of a buggy stack of algorithms inside your head!
+PC20_FIGHT2_ASKMORE-15=
+
+
+# Wes
+### No.
+PC20_FIGHT2_ASKMORE-16=
+
+
+# Wes
+### It's a very reasonable way of thinking.
+PC20_FIGHT2_ASKMORE-17=
+
+
+# Wes
+### A reasoning only possible thanks to my human side!
+PC20_FIGHT2_ASKMORE-18=
+
+
+# Brok
+### Human side... Yeah, right.
+PC20_FIGHT2_ASKMORE-19=
+
+
+# Wes
+### You see. I may look like a machine.
+PC20_FIGHT2_ASKMORE-20=
+
+
+# Wes
+### I still cannot do high speed calculations.
+PC20_FIGHT2_ASKMORE-21=
+
+
+# Wes
+### On the contrary. I was conceived in order to replicate the human brain.
+PC20_FIGHT2_ASKMORE-22=
+
+
+# Wes
+### I have all my memories from my past.
+PC20_FIGHT2_ASKMORE-23=
+
+
+# Wes
+### I've never felt any different from the person I was before.
+PC20_FIGHT2_ASKMORE-24=
+
+
+# Wes
+### No. I've simply been in the police long enough to understand.
+PC20_FIGHT2_ASKMORE-25=
+
+
+# Wes
+### Humans never learn.
+PC20_FIGHT2_ASKMORE-26=
+
+
+# Wes
+### Criminals always recidivate.
+PC20_FIGHT2_ASKMORE-27=
+
+
+# Wes
+### Bad seeds need to be eliminated.
+PC20_FIGHT2_ASKMORE-28=
+
+
+# Wes
+### This is the only way.
+PC20_FIGHT2_ASKMORE-29=
+
+
+# Wes
+### To ensure the safety of everyone who deserves it!
+PC20_FIGHT2_ASKMORE-30=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Lemme guess. The Drums citizens?
+PC20_FIGHT2_ASKMORE-31=
+
+
+# Wes
+### Evidently.
+PC20_FIGHT2_ASKMORE-32=
+
+
+# Wes
+### This part of humanity deserves to be saved.
+PC20_FIGHT2_ASKMORE-33=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Sooner or later, this plague infesting every living being outside the Dome will be spread inside.
+PC20_FIGHT2_ASKMORE-34=
+
+
+# Wes
+### Why do you refuse to understand?
+PC20_FIGHT2_ASKMORE-35=
+
+
+# Brok
+### Because...
+PC20_FIGHT2_ASKMORE-36=
+
+
+# Brok
+### You're a filthy piece of metal junk.
+PC20_FIGHT2_ASKMORE-37=
+
+
+# Brok
+### Humans have a heart. You don't.
+PC20_FIGHT2_ASKMORE-38=
+
+
+#----------------------------------------------------
+# Dee
+### Oh, he has borrowed something from humans indeed.
+PC20_FIGHT2_ASKMOREDEE-1=
+
+
+# Dee
+### The ability to lie.
+PC20_FIGHT2_ASKMOREDEE-2=
+
+
+# Dee
+### The prisoners that were terminated... You're behind that too, aren't you?!
+PC20_FIGHT2_ASKMOREDEE-3=
+
+
+# Wes
+### Of course.
+PC20_FIGHT2_ASKMOREDEE-4=
+
+
+# Wes
+### My first plan. Back when I still thought a selective approach could work.
+PC20_FIGHT2_ASKMOREDEE-5=
+
+
+# Dee
+### How?...
+PC20_FIGHT2_ASKMOREDEE-6=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Dr. Gherkin said three votes are needed.
+PC20_FIGHT2_ASKMOREDEE-7=
+
+
+# Wes
+### That's right.
+PC20_FIGHT2_ASKMOREDEE-8=
+
+
+# Wes
+### I'm not almighty. My power to take action has limits.
+PC20_FIGHT2_ASKMOREDEE-9=
+
+
+# Wes
+### Three votes needed to approve a proposal...
+PC20_FIGHT2_ASKMOREDEE-10=
+
+
+# Wes
+### One to block.
+PC20_FIGHT2_ASKMOREDEE-11=
+
+
+# Wes
+### So... I exploited a loophole in the system.
+PC20_FIGHT2_ASKMOREDEE-12=
+
+
+# Wes
+### The ability to reformulate questions.
+PC20_FIGHT2_ASKMOREDEE-13=
+
+
+# Brok
+### Reformulate?...
+PC20_FIGHT2_ASKMOREDEE-14=
+
+
+# Wes
+### Instead of "Should this person be condemned to death?"
+PC20_FIGHT2_ASKMOREDEE-15=
+
+
+# Wes
+### I simply rewrote it as... "Should this person be freed?"
+PC20_FIGHT2_ASKMOREDEE-16=
+
+
+# Wes
+### And reversed the replies.
+PC20_FIGHT2_ASKMOREDEE-17=
+
+
+# Wes
+### Same thing, wouldn't you say?
+PC20_FIGHT2_ASKMOREDEE-18=
+
+
+# Wes
+### Except this way... only one vote "against" becomes needed!
+PC20_FIGHT2_ASKMOREDEE-19=
+
+
+# Wes
+### Amongst the crowd of questions we receive, no one even noticed.
+PC20_FIGHT2_ASKMOREDEE-20=
+
+
+# Brok
+### What a joke...
+PC20_FIGHT2_ASKMOREDEE-21=
+
+
+# Brok
+### Whoever designed that system was a stupid moron.
+PC20_FIGHT2_ASKMOREDEE-22=
+
+
+# Wes
+### Not stupid.
+PC20_FIGHT2_ASKMOREDEE-23=
+
+
+# Wes
+### The Creator is imperfect, like all humans are.
+PC20_FIGHT2_ASKMOREDEE-24=
+
+
+# Wes
+### The plan I concocted was safe, subtle and simple.
+PC20_FIGHT2_ASKMOREDEE-25=
+
+
+# Wes
+### Yet far from enough.
+PC20_FIGHT2_ASKMOREDEE-26=
+
+
+# Wes
+### I shortly realized I had to act on a larger scale.
+PC20_FIGHT2_ASKMOREDEE-27=
+
+
+# Wes
+### Taking more risks.
+PC20_FIGHT2_ASKMOREDEE-28=
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### And condemn all the Slums inhabitants?!
+PC20_FIGHT2_ASKMOREDEE-29=
+
+
+#----------------------------------------------------
+# Wes
+### Be realistic.
+PC20_FIGHT2_ASKMOREC-1=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Cheating, stealing and fighting constitute the way of living for Slumers.
+PC20_FIGHT2_ASKMOREC-2=
+
+
+# Wes
+### Who amongst you never did such a thing?...
+PC20_FIGHT2_ASKMOREC-3=
+
+
+# Brok
+### Yeah...
+PC20_FIGHT2_ASKMOREC-4=
+
+
+# Brok
+### We are not perfect...
+PC20_FIGHT2_ASKMOREC-5=
+
+
+# Brok
+### But everyone deserves a second chance!
+PC20_FIGHT2_ASKMOREC-6=
+
+
+# Brok
+### We can better ourselves!
+PC20_FIGHT2_ASKMOREC-7=
+
+
+# Wes
+### You cannot.
+PC20_FIGHT2_ASKMOREC-8=
+
+
+# Brok
+### Yes we can!
+PC20_FIGHT2_ASKMOREC-9=
+
+
+# Wes
+### Silence!
+PC20_FIGHT2_ASKMOREC-10=
+
+
+# Brok
+### Urgggghh!!!
+PC20_FIGHT2_ASKMOREC-11=
+
+
+# Brok
+### ...
+PC20_FIGHT2_ASKMOREC-12=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Wait... Lia's case...
+PC20_FIGHT2_ASKMOREC-13=
+
+
+# Brok
+### You lied about this too?!
+PC20_FIGHT2_ASKMOREC-14=
+
+
+# Wes
+### I did not.
+PC20_FIGHT2_ASKMOREC-15=
+
+
+# Wes
+### As far as I know... it truly was an accident.
+PC20_FIGHT2_ASKMOREC-16=
+
+
+# Wes
+### A fire caused by the global power shutdown. The whole city was a mess.
+PC20_FIGHT2_ASKMOREC-17=
+
+
+# Brok
+### I... don't believe you!
+PC20_FIGHT2_ASKMOREC-18=
+
+
+# Wes
+### Granted. For all my career...
+PC20_FIGHT2_ASKMOREC-19=
+
+
+# Wes
+### This is the only case I couldn't solve with absolute certainty due to the data loss.
+PC20_FIGHT2_ASKMOREC-20=
+
+
+# Wes
+### It has always haunted me...
+PC20_FIGHT2_ASKMOREC-21=
+
+
+# Brok
+### You and me both, then!
+PC20_FIGHT2_ASKMOREC-22=
+
+
+# Wes
+### Shut up! We're nothing alike, scum!
+PC20_FIGHT2_ASKMOREC-23=
+
+
+# Brok
+### Aaaaargh!!!
+PC20_FIGHT2_ASKMOREC-24=
+
+
+#----------------------------------------------------
+# Wes
+### Enough played.
+PC20_FIGHT2_AFTEREND-1=
+
+
+# Wes
+### While you're still able to talk, let me know...
+PC20_FIGHT2_AFTEREND-2=
+
+
+# Wes
+### What shall be your last words before I terminate you?
+PC20_FIGHT2_AFTEREND-3=
+
+
+# Brok
+### Well...
+PC20_FIGHT2_AFTEREND-4=
+
+
+#----------------------------------------------------
+# Brok
+### Darn!
+PC20_LASTWORD_DARN1-1=
+
+
+# Wes
+### I should have guessed. You limited brain can't produce elaborate thoughts...
+PC20_LASTWORD_DARN1-2=
+
+
+# Wes
+### Even at the very end.
+PC20_LASTWORD_DARN1-3=
+
+
+#----------------------------------------------------
+# Brok
+### I hate you, piece of junk!
+PC20_LASTWORD_HATE1-1=
+
+
+# Brok
+### I've always known AIs were the biggest threat to humanity!
+PC20_LASTWORD_HATE1-2=
+
+
+# Wes
+### And you're the biggest threat to us!
+PC20_LASTWORD_HATE1-3=
+
+
+# Wes
+### Do you realize how many casualties you've caused at the bunker?!
+PC20_LASTWORD_HATE1-4=
+
+
+# Brok
+### Good!
+PC20_LASTWORD_HATE1-5=
+
+
+# Wes
+### Murderer!
+PC20_LASTWORD_HATE1-6=
+
+
+#----------------------------------------------------
+# Brok
+### I understand...
+PC20_LASTWORD_UNDERSTAND1-1=
+
+
+# Brok
+### I guess... you may be right after all.
+PC20_LASTWORD_UNDERSTAND1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums are condemned.
+PC20_LASTWORD_UNDERSTAND1-3=
+
+
+# Brok
+### Please end our suffering.
+PC20_LASTWORD_UNDERSTAND1-4=
+
+
+# Wes
+### Finally some reasonable thoughts!
+PC20_LASTWORD_UNDERSTAND1-5=
+
+
+#----------------------------------------------------
+# Brok
+### Please...
+PC20_LASTWORD_GRAFF1-1=
+
+
+# Brok
+### Whatever happens...
+PC20_LASTWORD_GRAFF1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Promise me you'll spare Graff.
+PC20_LASTWORD_GRAFF1-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC20_LASTWORD_GRAFF1-4=
+
+
+# Wes
+### ...
+PC20_LASTWORD_GRAFF1-5=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### He and Ott will be safe. I guarantee it.
+PC20_LASTWORD_GRAFF1-6=
+
+
+# Brok
+### Well then...
+PC20_LASTWORD_GRAFF1-7=
+
+
+# Brok
+### You need to know, they may be in danger right now...
+PC20_LASTWORD_GRAFF1-8=
+
+
+# Wes
+### What?...
+PC20_LASTWORD_GRAFF1-9=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I love you Wes! Please hold me tight!
+PC20_LASTWORD_LOVE1-1=
+
+
+# Wes
+### ...
+PC20_LASTWORD_LOVE1-2=
+
+
+# Wes
+### Not what I expected but... I shall grant your wish!
+PC20_LASTWORD_LOVE1-3=
+
+
+#----------------------------------------------------
+# Wes - The Director comes crashing, throws something at the giant robot to free Brok
+### Who did this...?!
+PC20_FIGHT2_END2B-1=
+
+
+#----------------------------------------------------
+# Director
+### Prototype 26.
+PC20_DIRECTOR1-1=
+
+
+# Director
+### You've derailed from the track that was assigned to you.
+PC20_DIRECTOR1-2=
+
+
+# Director
+### It's my duty to step in.
+PC20_DIRECTOR1-3=
+
+
+# Wes
+### How dare you mess with my business, P-19!
+PC20_DIRECTOR1-4=
+
+
+# Wes
+### I'm right and you know it!
+PC20_DIRECTOR1-5=
+
+
+#----------------------------------------------------
+# Brok
+### You okay?
+PC20_DIRECTOR1B-1=
+
+
+# Dee
+### I should be the one asking you this!
+PC20_DIRECTOR1B-2=
+
+
+# Brok
+### Well...
+PC20_DIRECTOR1B-3=
+
+
+# Brok
+### Not dead but I almost wish I was...
+PC20_DIRECTOR1B-4=
+
+
+# Brok
+### Man, my body hurts everywhere!
+PC20_DIRECTOR1B-5=
+
+
+# Dee
+### We'll get better. If we manage to get out of here alive.
+PC20_DIRECTOR1B-6=
+
+
+# Dee
+### Who... Or rather... What's this?
+PC20_DIRECTOR1B-7=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### My son's school Director...or so I thought.
+PC20_DIRECTOR1C-1=
+
+
+# Dee
+### ...
+PC20_DIRECTOR1C-2=
+
+
+#----------------------------------------------------
+# Dee
+### Hey, piles of scrap pretending to be humans !
+PC20_DIRECTOR1D-1=
+
+
+# Dee
+### How many of you are there?
+PC20_DIRECTOR1D-2=
+
+
+# Director
+### Only the two of us.
+PC20_DIRECTOR1D-3=
+
+
+#----------------------------------------------------
+# Director
+### I'm afraid there's no time to explain.
+PC20_DIRECTOR1E-1=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok. Let me handle this.
+PC20_DIRECTOR1E-2=
+
+
+# Brok
+### Erm... Okay?...
+PC20_DIRECTOR1E-3=
+
+
+# Director
+### I've been watching you, P-26.
+PC20_DIRECTOR1E-4=
+
+
+# Wes
+### Of course you have.
+PC20_DIRECTOR1E-5=
+
+
+# Wes
+### I've attempted so many times to get rid of our positioning connection.
+PC20_DIRECTOR1E-6=
+
+
+# Director
+### And always failed.
+PC20_DIRECTOR1E-7=
+
+
+# Director
+### What you want to do...
+PC20_DIRECTOR1E-8=
+
+
+# Director
+### This isn't the will of our creator!
+PC20_DIRECTOR1E-9=
+
+
+# Wes
+### Who cares. He's no longer there.
+PC20_DIRECTOR1E-10=
+
+
+# Director
+### This isn't true.
+PC20_DIRECTOR1E-11=
+
+
+# Director
+### He's...
+PC20_DIRECTOR1E-12=
+
+
+# Director
+### Still living... inside...
+PC20_DIRECTOR1E-13=
+
+
+# Wes
+### Oh, cut the crap. You know what I mean.
+PC20_DIRECTOR1E-14=
+
+
+# Wes
+### Now, get out of my way before...
+PC20_DIRECTOR1E-15=
+
+
+#----------------------------------------------------
+# Wes - The Director holds Wes so he cannot escape
+### What...?
+PC20_DIRECTOR1E2-1=
+
+
+# Wes
+### I... can't break free!
+PC20_DIRECTOR1E2-2=
+
+
+# Wes
+### How... How can you do this?!
+PC20_DIRECTOR1E2-3=
+
+
+# Wes
+### Release me or you'll regret it!
+PC20_DIRECTOR1E2-4=
+
+
+# Director
+### Not until you promise.
+PC20_DIRECTOR1E2-5=
+
+
+# Director
+### Let go.
+PC20_DIRECTOR1E2-6=
+
+
+# Director
+### Let go of your plans.
+PC20_DIRECTOR1E2-7=
+
+
+# Wes
+### Ha ha ha...
+PC20_DIRECTOR1E2-8=
+
+
+# Wes
+### You seriously think I've went this far...
+PC20_DIRECTOR1E2-9=
+
+
+# Wes
+### To give up at the last second?
+PC20_DIRECTOR1E2-10=
+
+
+# Director
+### It's never too late...
+PC20_DIRECTOR1E2-11=
+
+
+# Director
+### To do the right thing.
+PC20_DIRECTOR1E2-12=
+
+
+# Wes
+### Nonsense.
+PC20_DIRECTOR1E2-13=
+
+
+# Wes
+### I could say anything.
+PC20_DIRECTOR1E2-14=
+
+
+# Wes
+### Whatever you want to hear.
+PC20_DIRECTOR1E2-15=
+
+
+# Wes
+### How would you know it's true?
+PC20_DIRECTOR1E2-16=
+
+
+# Director
+### ...
+PC20_DIRECTOR1E2-17=
+
+
+# Director
+### You're probably right.
+PC20_DIRECTOR1E2-18=
+
+
+# Director
+### I would trust the human inside you.
+PC20_DIRECTOR1E2-19=
+
+
+# Director
+### But he no longer exists.
+PC20_DIRECTOR1E2-20=
+
+
+# Director
+### You... We... shouldn't have been allowed to live this long.
+PC20_DIRECTOR1E2-21=
+
+
+# Wes
+### ...
+PC20_DIRECTOR1E2-22=
+
+
+# Director
+### ...
+PC20_DIRECTOR1E2-23=
+
+
+# Wes
+### You can't hold me like this forever.
+PC20_DIRECTOR1E2-24=
+
+
+# Wes
+### Your battery will drain faster than mine.
+PC20_DIRECTOR1E2-25=
+
+
+# Wes
+### As soon as I'm free...
+PC20_DIRECTOR1E2-26=
+
+
+# Wes
+### I'll dispose of you and all those cockroaches around us.
+PC20_DIRECTOR1E2-27=
+
+
+# Brok
+### Hey! We're not...
+PC20_DIRECTOR1E2-28=
+
+
+# Brok
+### Actually, he's making me hungry.
+PC20_DIRECTOR1E2-29=
+
+
+#----------------------------------------------------
+# Dee
+### (Sigh) You're hopeless.
+PC20_DIRECTOR1E_DEE-1=
+
+
+#----------------------------------------------------
+# Wes
+### I'll rip open that croc to get that memory device back.
+PC20_DIRECTOR1FALT-1=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Then I'll deal with Dr. Gherkin.
+PC20_DIRECTOR1FALT-2=
+
+
+#----------------------------------------------------
+# Wes
+### I'll rip open that croc to get that memory device back.
+PC20_DIRECTOR1F-1=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Then I'll catch that Dr. Gherkin they mentioned.
+PC20_DIRECTOR1F-2=
+
+
+# Wes
+### Thanks for the hint, by the way! I've been looking for the third member for years.
+PC20_DIRECTOR1F-3=
+
+
+# Wes
+### I never suspected he was a human in the flesh.
+PC20_DIRECTOR1F-4=
+
+
+# Wes
+### What was our creator thinking?!
+PC20_DIRECTOR1F-5=
+
+
+# Director
+### How could you forget?
+PC20_DIRECTOR1F-6=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### We were all humans when the Triangle was planned.
+PC20_DIRECTOR1F-7=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Wait. Does this imply the Director is...?
+PC20_DIRECTOR1F-8=
+
+
+# Wes
+### Soon I'll be the only one to decide for this country!
+PC20_DIRECTOR1F-9=
+
+
+# Director
+### That's dictatorship!
+PC20_DIRECTOR1F-10=
+
+
+# Wes
+### What other choice? You're all blind!
+PC20_DIRECTOR1F-11=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Who else is fair enough to make the hard decisions to keep Atlasia on track?!
+PC20_DIRECTOR1F-12=
+
+
+# Director
+### Making...
+PC20_DIRECTOR1F-13=
+
+
+# Director
+### Hard decisions...
+PC20_DIRECTOR1F-14=
+
+
+# Wes
+### You can't get rid of me. The same way I can't annihilate you.
+PC20_DIRECTOR1F-15=
+
+
+# Wes
+### Otherwise you'd be a pile of screws right now!
+PC20_DIRECTOR1F-16=
+
+
+# Wes
+### This failsafe is implemented into our hardware.
+PC20_DIRECTOR1F-17=
+
+
+# Wes
+### There's no working around it!
+PC20_DIRECTOR1F-18=
+
+
+# Director
+### Yet...
+PC20_DIRECTOR1F-19=
+
+
+# Director
+### There's always a way.
+PC20_DIRECTOR1F-20=
+
+
+#----------------------------------------------------
+# Wes
+### N...
+PC20_DIRECTOR1G-1=
+
+
+# Wes
+### No. You're lying!
+PC20_DIRECTOR1G-2=
+
+
+# Wes
+### You...
+PC20_DIRECTOR1G-3=
+
+
+# Wes
+### You cannot beat me.
+PC20_DIRECTOR1G-4=
+
+
+# Wes
+### You're a weaker, older model!
+PC20_DIRECTOR1G-5=
+
+
+# Director
+### I was.
+PC20_DIRECTOR1G-6=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### But Mister Brok kindly remedied this.
+PC20_DIRECTOR1G-7=
+
+
+# Wes
+### He did what?!...
+PC20_DIRECTOR1G-8=
+
+
+# Brok
+### Erm... Actually...
+PC20_DIRECTOR1G-9=
+
+
+# Brok
+### What did I do?...
+PC20_DIRECTOR1G-10=
+
+
+# Director
+### Stand back!
+PC20_DIRECTOR1G-11=
+
+
+# Brok
+### What are you going to...?
+PC20_DIRECTOR1G-12=
+
+
+# Brok
+### ...!
+PC20_DIRECTOR1G-13=
+
+
+# Wes
+### N...No! It cannot be!
+PC20_DIRECTOR1G-14=
+
+
+# Wes
+### You... Overclocked yourself?!...
+PC20_DIRECTOR1G-15=
+
+
+# Wes
+### S-Stop! Immediately!
+PC20_DIRECTOR1G-16=
+
+
+#----------------------------------------------------
+# Ott - Ott arrives on scene (he had been kidnapped by the rats along with Graff and just escaped)
+### (Pant, pant)
+PC20_DIRECTOR2-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok! Mister Brok!...
+PC20_DIRECTOR2-2=
+
+
+# Ott
+### ...
+PC20_DIRECTOR2-3=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Director?...
+PC20_DIRECTOR2-4=
+
+
+# Ott
+### What's... going on here?...
+PC20_DIRECTOR2-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott! Where's Graff?
+PC20_DIRECTOR2-6=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### We've been kidnapped by the Squealers! He's still out there!
+PC20_DIRECTOR3_NOGRAFF-1=
+
+
+# Brok
+### What?!
+PC20_DIRECTOR3_NOGRAFF-2=
+
+
+# Brok
+### I... I'm coming!
+PC20_DIRECTOR3_NOGRAFF-3=
+
+
+# Wes
+### Wait.
+PC20_DIRECTOR3_NOGRAFF-4=
+
+
+# Wes
+### Now you understand, don't you?
+PC20_DIRECTOR3_NOGRAFF-5=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Those Squealers. They're one of those threats from the Slums that deserves nothing but elimination.
+PC20_DIRECTOR3_NOGRAFF-6=
+
+
+# Brok
+### I don't care! My boy is in danger!
+PC20_DIRECTOR3_NOGRAFF-7=
+
+
+# Director
+### P-26. Do it.
+PC20_DIRECTOR3_NOGRAFF-8=
+
+
+# Wes
+### ...
+PC20_DIRECTOR3_NOGRAFF-9=
+
+
+# Wes
+### Very well.
+PC20_DIRECTOR3_NOGRAFF-10=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### I've sent some of our Tribots after them.
+PC20_DIRECTOR3_NOGRAFF-11=
+
+
+# Brok
+### How could I trust you?!
+PC20_DIRECTOR3_NOGRAFF-12=
+
+
+# Director
+### Not him. Trust me.
+PC20_DIRECTOR3_NOGRAFF-13=
+
+
+# Director
+### They will bring him back.
+PC20_DIRECTOR3_NOGRAFF-14=
+
+
+# Brok
+### ...
+PC20_DIRECTOR3_NOGRAFF-15=
+
+
+#----------------------------------------------------
+# Graff
+### I'm here.
+PC20_DIRECTOR3-1=
+
+
+# Brok
+### Thank goodness! I was so worried about you!
+PC20_DIRECTOR3-2=
+
+
+# Graff
+### ...
+PC20_DIRECTOR3-3=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Those Squealers had kidnapped us!
+PC20_DIRECTOR3-4=
+
+
+# Ott
+### Fortunately that bear was here.
+PC20_DIRECTOR3-5=
+
+
+# Brok
+### Where is he, now?
+PC20_DIRECTOR3-6=
+
+
+# Ott
+### He gave us time to run away. I hope he's okay.
+PC20_DIRECTOR3-7=
+
+
+# Brok
+### I should have been there.
+PC20_DIRECTOR3-8=
+
+
+# Brok
+### But as you can see, things got even more complex...
+PC20_DIRECTOR3-9=
+
+
+#----------------------------------------------------
+# Director
+### See what you've done, P-26?
+PC20_DIRECTOR4-1=
+
+
+# Director
+### By involving them...
+PC20_DIRECTOR4-2=
+
+
+# Director
+### Can you think of the consequences if...
+PC20_DIRECTOR4-3=
+
+
+# Wes
+### None of my concerns.
+PC20_DIRECTOR4-4=
+
+
+# Wes
+### One cannot govern without the grand scheme in mind.
+PC20_DIRECTOR4-5=
+
+
+# Wes
+### A single individual means nothing over the fate of thousands.
+PC20_DIRECTOR4-6=
+
+
+# Ott
+### That voice...
+PC20_DIRECTOR4-7=
+
+
+# Wes
+### ...
+PC20_DIRECTOR4-8=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+PC20_DIRECTOR4-9=
+
+
+# Wes
+### You... weren't supposed to see me like this.
+PC20_DIRECTOR4-10=
+
+
+# Ott
+### ...?
+PC20_DIRECTOR4-11=
+
+
+# Ott
+### How...
+PC20_DIRECTOR4-12=
+
+
+# Ott
+### How can this robot speak like my uncle?!
+PC20_DIRECTOR4-13=
+
+
+# Wes
+### ...I am.
+PC20_DIRECTOR4-14=
+
+
+# Ott
+### ...?!
+PC20_DIRECTOR4-15=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. Whatever you hear from the others.
+PC20_DIRECTOR4-16=
+
+
+# Wes
+### Don't believe them. I've tried to make things right.
+PC20_DIRECTOR4-17=
+
+
+# Wes
+### For the future of this country.
+PC20_DIRECTOR4-18=
+
+
+# Wes
+### But people refuse change.
+PC20_DIRECTOR4-19=
+
+
+# Director
+### Your change involves a genocide!
+PC20_DIRECTOR4-20=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Director! What are you doing?!
+PC20_DIRECTOR4-21=
+
+
+# Ott
+### He's my uncle! Release him!
+PC20_DIRECTOR4-22=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+PC20_DIRECTOR4-23=
+
+
+# Director
+### Look at him...
+PC20_DIRECTOR4-24=
+
+
+# Director
+### He's not.
+PC20_DIRECTOR4-25=
+
+
+# Director
+### He never was.
+PC20_DIRECTOR4-26=
+
+
+# Wes
+### That's a lie!
+PC20_DIRECTOR4-27=
+
+
+# Director
+### It will be hard for you to accept.
+PC20_DIRECTOR4-28=
+
+
+# Director
+### Your real uncle died years ago.
+PC20_DIRECTOR4-29=
+
+
+# Director
+### What you see is a failed experiment.
+PC20_DIRECTOR4-30=
+
+
+# Wes
+### Don't listen to her, kiddo! She's the failure!
+PC20_DIRECTOR4-31=
+
+
+# Wes
+### Free me!
+PC20_DIRECTOR4-32=
+
+
+# Ott
+### But...
+PC20_DIRECTOR4-33=
+
+
+# Ott
+### Even if it's true...
+PC20_DIRECTOR4-34=
+
+
+# Ott
+### I love him anyway.
+PC20_DIRECTOR4-35=
+
+
+# Wes
+### Good boy!
+PC20_DIRECTOR4-36=
+
+
+# Ott
+### And if he's a fake...
+PC20_DIRECTOR4-37=
+
+
+# Ott
+### What about you?...
+PC20_DIRECTOR4-38=
+
+
+# Wes
+### Right! Go ahead, break her!
+PC20_DIRECTOR4-39=
+
+
+# Director
+### ...
+PC20_DIRECTOR4-40=
+
+
+# Director
+### I guess...
+PC20_DIRECTOR4-41=
+
+
+# Director
+### We're both shadows of the past.
+PC20_DIRECTOR4-42=
+
+
+# Director
+### And that's why...
+PC20_DIRECTOR4-43=
+
+
+# Director
+### We must disappear.
+PC20_DIRECTOR4-44=
+
+
+# Ott
+### I...
+PC20_DIRECTOR4-45=
+
+
+# Ott
+### I think... I understand.
+PC20_DIRECTOR4-46=
+
+
+# Wes
+### No! No no no!
+PC20_DIRECTOR4-47=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+PC20_DIRECTOR4-48=
+
+
+# Director
+### Please... Forgive me...
+PC20_DIRECTOR4-49=
+
+
+#----------------------------------------------------
+# Director - If Klay was killed
+### I'll be joining my dear son...
+PC20_DIRECTOR4_NOKLAY-1=
+
+
+#----------------------------------------------------
+# Director - If Klay is alive
+### And tell my son...
+PC20_DIRECTOR4_KLAY-1=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Tell Klay...
+PC20_DIRECTOR4_KLAY-2=
+
+
+# Director
+### I'll always be with him...
+PC20_DIRECTOR4_KLAY-3=
+
+
+# Director
+### No matter the form I take.
+PC20_DIRECTOR4_KLAY-4=
+
+
+# Director
+### Promise me!...
+PC20_DIRECTOR4_KLAY-5=
+
+
+# Ott
+### I...
+PC20_DIRECTOR4_KLAY-6=
+
+
+# Ott
+### I will...
+PC20_DIRECTOR4_KLAY-7=
+
+
+#----------------------------------------------------
+# Director
+### Goodbye...
+PC20_DIRECTOR4_NEXT-1=
+
+
+# Wes
+### N-NOOOOOOOOOOOOO!!!
+PC20_DIRECTOR4_NEXT-2=
+
+
+#----------------------------------------------------
+# Brok - The Director has exploded with robot Wes
+### ...
+PC20_AFTEREXPLOSION1-1=
+
+
+#----------------------------------------------------
+# Dee
+### Is everyone okay?
+PC20_AFTEREXPLOSION1_DEE-1=
+
+
+#----------------------------------------------------
+# Brok - RJ arrives on scene if he's alive
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.!
+PC20_AFTEREXPLOSION1B_RJ-1=
+
+
+# RJ
+### Hey.
+PC20_AFTEREXPLOSION1B_RJ-2=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers are all down.
+PC20_AFTEREXPLOSION1B_RJ-3=
+
+
+# Brok
+### I can't thank you enough.
+PC20_AFTEREXPLOSION1B_RJ-4=
+
+
+# RJ
+### Why the explosion?
+PC20_AFTEREXPLOSION1B_RJ-5=
+
+
+# Brok
+### ...Long story.
+PC20_AFTEREXPLOSION1B_RJ-6=
+
+
+#----------------------------------------------------
+# Brok - If Graff wasn't there already because he hadn't escaped with Ott, he arrives now
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC20_AFTEREXPLOSION1B_NOGRAFF-1=
+
+
+# Brok
+### I was so worried!...
+PC20_AFTEREXPLOSION1B_NOGRAFF-2=
+
+
+# Ott
+### The bots! They freed you?...
+PC20_AFTEREXPLOSION1B_NOGRAFF-3=
+
+
+# Graff
+### ...
+PC20_AFTEREXPLOSION1B_NOGRAFF-4=
+
+
+# Graff
+### What just happened here?...
+PC20_AFTEREXPLOSION1B_NOGRAFF-5=
+
+
+# Brok
+### Well... Remember when I told you I always get involved in the worst possible situations?...
+PC20_AFTEREXPLOSION1B_NOGRAFF-6=
+
+
+# Brok
+### I didn't lie...
+PC20_AFTEREXPLOSION1B_NOGRAFF-7=
+
+
+#----------------------------------------------------
+# Wes - Wes' head falls down from the sky and still "alive"
+### No...
+PC20_AFTEREXPLOSION3-1=
+
+
+# Brok
+### Ya gotta be kiddin'!...
+PC20_AFTEREXPLOSION3-2=
+
+
+# Brok
+### That thing just won't die?!
+PC20_AFTEREXPLOSION3-3=
+
+
+#----------------------------------------------------
+# Dee
+### He won't go very far like this.
+PC20_AFTEREXPLOSION3_DEE-1=
+
+
+#----------------------------------------------------
+# Wes
+### Who would have thought...
+PC20_AFTEREXPLOSION3B-1=
+
+
+# Wes
+### Defeated by...
+PC20_AFTEREXPLOSION3B-2=
+
+
+# Wes
+### Another machine...
+PC20_AFTEREXPLOSION3B-3=
+
+
+# Wes
+### ...
+PC20_AFTEREXPLOSION3B-4=
+
+
+# Wes
+### All these years...
+PC20_AFTEREXPLOSION3B-5=
+
+
+# Wes
+### All the arrests, the paperwork...
+PC20_AFTEREXPLOSION3B-6=
+
+
+# Wes
+### My whole life has been a gigantic waste of time.
+PC20_AFTEREXPLOSION3B-7=
+
+
+#----------------------------------------------------
+# Dee
+### A bit too late to have regrets. You chose this fate.
+PC20_AFTEREXPLOSION3C_DEE-1=
+
+
+# Wes
+### No. That's not it.
+PC20_AFTEREXPLOSION3C_DEE-2=
+
+
+#----------------------------------------------------
+# Wes
+### When I'm gone...
+PC20_AFTEREXPLOSION3C-1=
+
+
+# Wes
+### It's all over.
+PC20_AFTEREXPLOSION3C-2=
+
+
+# Wes
+### The country will fade into obscurity.
+PC20_AFTEREXPLOSION3C-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### It will extend to the Drums.
+PC20_AFTEREXPLOSION3C-4=
+
+
+# Wes
+### Humans never play by the rules.
+PC20_AFTEREXPLOSION3C-5=
+
+
+# Wes
+### That's why...
+PC20_AFTEREXPLOSION3C-6=
+
+
+# Wes
+### This society cannot work.
+PC20_AFTEREXPLOSION3C-7=
+
+
+# Brok
+### We do what we have to to survive!
+PC20_AFTEREXPLOSION3C-8=
+
+
+# Wes
+### Funny you'd say that, Pork...
+PC20_AFTEREXPLOSION3C-9=
+
+
+# Wes
+### As far as I'm concerned... You're the worst criminal of all!
+PC20_AFTEREXPLOSION3C-10=
+
+
+# Wes
+### What you did...
+PC20_AFTEREXPLOSION3C-11=
+
+
+# Wes
+### Is...
+PC20_AFTEREXPLOSION3C-12=
+
+
+# Wes
+### Un... acceptable...
+PC20_AFTEREXPLOSION3C-13=
+
+
+# Brok
+### Explain yourself!
+PC20_AFTEREXPLOSION3C-14=
+
+
+# Wes
+### You...
+PC20_AFTEREXPLOSION3C-15=
+
+
+# Wes
+### Don't...
+PC20_AFTEREXPLOSION3C-16=
+
+
+# Wes
+### Deserve...
+PC20_AFTEREXPLOSION3C-17=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff.
+PC20_AFTEREXPLOSION3C-18=
+
+
+# Brok
+### What?...
+PC20_AFTEREXPLOSION3C-19=
+
+
+# Wes
+### ...
+PC20_AFTEREXPLOSION3C-20=
+
+
+# Brok
+### Hey! What do you mean?!
+PC20_AFTEREXPLOSION3C-21=
+
+
+# Wes
+### ...
+PC20_AFTEREXPLOSION3C-22=
+
+
+# Wes
+### System failure.
+PC20_AFTEREXPLOSION3C-23=
+
+
+# Wes
+### Rebooting...
+PC20_AFTEREXPLOSION3C-24=
+
+
+# Wes
+### Operating system not found.
+PC20_AFTEREXPLOSION3C-25=
+
+
+# Wes
+### ...
+PC20_AFTEREXPLOSION3C-26=
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh)
+PC20_AFTEREXPLOSION4-1=
+
+
+# Brok
+### I guess... We won.
+PC20_AFTEREXPLOSION4-2=
+
+
+# Wes
+### (Zip, zip)
+PC20_AFTEREXPLOSION4-3=
+
+
+# Brok
+### Argh!
+PC20_AFTEREXPLOSION4-4=
+
+
+# Wes
+### Reverting to default OS.
+PC20_AFTEREXPLOSION4-5=
+
+
+# Wes
+### Triangle NMER 0.9 Beta.
+PC20_AFTEREXPLOSION4-6=
+
+
+# Wes - Meaning : the Pipe Pills didn't work because Wes had control over them. Now that he's dead, that control is gone.
+### Press any key to release any hold.
+PC20_AFTEREXPLOSION4-7=
+
+
+# Brok
+### Any hold?...
+PC20_AFTEREXPLOSION4-8=
+
+
+# Brok
+### Hmm... There's a button here.
+PC20_AFTEREXPLOSION4-9=
+
+
+# Unknown
+### (Click)
+PC20_AFTEREXPLOSION4-10=
+
+
+#----------------------------------------------------
+# Ott
+### Hey! Look!
+PC20_AFTEREXPLOSION5-1=
+
+
+#----------------------------------------------------
+# Dee
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### The Pipe-Pill... It works?
+PC20_AFTEREXPLOSION5_DEE-1=
+
+
+#----------------------------------------------------
+# Ott
+### You did it!
+PC20_AFTEREXPLOSION5A-1=
+
+
+# Brok
+### ...
+PC20_AFTEREXPLOSION5A-2=
+
+
+#----------------------------------------------------
+# Dee - Dee conclusion
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+PC20_AFTEREXPLOSION5A_DEE-1=
+
+
+# Dee
+### Don't let what he said go to you.
+PC20_AFTEREXPLOSION5A_DEE-2=
+
+
+# Dee
+### He was a wrecked human inside a defective machine.
+PC20_AFTEREXPLOSION5A_DEE-3=
+
+
+# Brok
+### Was he?...
+PC20_AFTEREXPLOSION5A_DEE-4=
+
+
+# Brok
+### Everything he said made sense... in a twisted way.
+PC20_AFTEREXPLOSION5A_DEE-5=
+
+
+# Brok
+### He... knew something.
+PC20_AFTEREXPLOSION5A_DEE-6=
+
+
+# Dee
+### ...
+PC20_AFTEREXPLOSION5A_DEE-7=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### About Sin...
+PC20_AFTEREXPLOSION5_NOSIN-1=
+
+
+# Brok
+### Forgive me. This is all my fault.
+PC20_AFTEREXPLOSION5_NOSIN-2=
+
+
+# Dee
+### Don't say that!
+PC20_AFTEREXPLOSION5_NOSIN-3=
+
+
+# Dee
+### Stop blaming yourself for everything going wrong in everyone's lives.
+PC20_AFTEREXPLOSION5_NOSIN-4=
+
+
+# Brok
+### You know...
+PC20_AFTEREXPLOSION5_NOSIN-5=
+
+
+# Brok
+### We've only just met...
+PC20_AFTEREXPLOSION5_NOSIN-6=
+
+
+# Brok
+### And you seem to know me so well already.
+PC20_AFTEREXPLOSION5_NOSIN-7=
+
+
+# Dee
+### Hey! A good journalist has to be a good psychologist.
+PC20_AFTEREXPLOSION5_NOSIN-8=
+
+
+# Dee
+### Our daughter... She needs me.
+PC20_AFTEREXPLOSION5_NOSIN-9=
+
+
+# Dee
+### I'll get her back.
+PC20_AFTEREXPLOSION5_NOSIN-10=
+
+
+# Brok
+### I know you will.
+PC20_AFTEREXPLOSION5_NOSIN-11=
+
+
+#----------------------------------------------------
+# Ott - Ott conclusion with Wes
+### ...
+PC20_AFTEREXPLOSION5B-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott.
+PC20_AFTEREXPLOSION5B-2=
+
+
+# Brok
+### I'm sorry it had to come to this.
+PC20_AFTEREXPLOSION5B-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Despite his plans to eradicate the Slums... He was still family to you.
+PC20_AFTEREXPLOSION5B-4=
+
+
+# Ott
+### ...
+PC20_AFTEREXPLOSION5B-5=
+
+
+# Ott
+### No.
+PC20_AFTEREXPLOSION5B-6=
+
+
+# Ott
+### He lied to us.
+PC20_AFTEREXPLOSION5B-7=
+
+
+# Ott
+### To me. To my parents. To everyone.
+PC20_AFTEREXPLOSION5B-8=
+
+
+# Ott
+### Can someone really be family...
+PC20_AFTEREXPLOSION5B-9=
+
+
+# Ott
+### ...when they spend their life lying to everyone close to you?...
+PC20_AFTEREXPLOSION5B-10=
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC20_AFTEREXPLOSION4B-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... I...
+PC20_AFTEREXPLOSION4B-2=
+
+
+#----------------------------------------------------
+# Graff - Graff suddenly gets hit by a crowbar
+### Argh!!!
+PC20_AFTEREXPLOSION5C-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+PC20_AFTEREXPLOSION5C-2=
+
+
+#----------------------------------------------------
+# Brok - The rat chief arrives on scene
+### You!...
+PC20_AFTEREXPLOSION6-1=
+
+
+#----------------------------------------------------
+# Ott
+### He's... still...?!
+PC20_AFTEREXPLOSION6_RJ-1=
+
+
+# Chiefrat
+### ...
+PC20_AFTEREXPLOSION6_RJ-2=
+
+
+# RJ
+### Devil!
+PC20_AFTEREXPLOSION6_RJ-3=
+
+
+# RJ
+### Should have broken your neck!
+PC20_AFTEREXPLOSION6_RJ-4=
+
+
+#----------------------------------------------------
+# Brok
+### I...
+PC20_AFTEREXPLOSION6B-1=
+
+
+# Brok
+### I'm gonna!...
+PC20_AFTEREXPLOSION6B-2=
+
+
+#----------------------------------------------------
+# Chiefrat - Brok jumps on Rat Chief and hits him repeatedly
+### Ha ha ha!...
+PC20_AFTEREXPLOSION7-1=
+
+
+# Brok
+### You... You'll never...
+PC20_AFTEREXPLOSION7-2=
+
+
+# Brok
+### Harm... anyone else!...
+PC20_AFTEREXPLOSION7-3=
+
+
+# Chiefrat
+### That's it!
+PC20_AFTEREXPLOSION7-4=
+
+
+# Chiefrat
+### Go ahead!... Show... your true nature!...
+PC20_AFTEREXPLOSION7-5=
+
+
+# Chiefrat
+### You see, croc...
+PC20_AFTEREXPLOSION7-6=
+
+
+# Brok
+### Shut up!
+PC20_AFTEREXPLOSION7-7=
+
+
+# Chiefrat
+### We're both vicious, but there's only a minor difference between us...
+PC20_AFTEREXPLOSION7-8=
+
+
+# Chiefrat
+### I never hide anything.
+PC20_AFTEREXPLOSION7-9=
+
+
+# Brok
+### I'm...
+PC20_AFTEREXPLOSION7-10=
+
+
+# Brok
+### Nothing like you!
+PC20_AFTEREXPLOSION7-11=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh no... Graff.
+PC20_AFTEREXPLOSION8-1=
+
+
+# Ott
+### Say something!...
+PC20_AFTEREXPLOSION8-2=
+
+
+# Graff
+### ...
+PC20_AFTEREXPLOSION8-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott?...
+PC20_AFTEREXPLOSION8-4=
+
+
+# Graff
+### I... I'm okay...
+PC20_AFTEREXPLOSION8-5=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC20_AFTEREXPLOSION9-1=
+
+
+# Graff
+### Stop it!
+PC20_AFTEREXPLOSION9-2=
+
+
+# Brok
+### N... No!
+PC20_AFTEREXPLOSION9-3=
+
+
+# Brok
+### He deserves it!... He tried to kill you!
+PC20_AFTEREXPLOSION9-4=
+
+
+# Brok
+### This time... he won't get away with this!
+PC20_AFTEREXPLOSION9-5=
+
+
+#----------------------------------------------------
+# Graff
+### Listen to me!
+PC20_AFTEREXPLOSION9_GRAFFGOOD-1=
+
+
+# Graff
+### Don't play his game!
+PC20_AFTEREXPLOSION9_GRAFFGOOD-2=
+
+
+# Graff
+### He wants to destroy you. No matter how...
+PC20_AFTEREXPLOSION9_GRAFFGOOD-3=
+
+
+# Graff
+### Even by sacrificing himself!
+PC20_AFTEREXPLOSION9_GRAFFGOOD-4=
+
+
+# Graff
+### I'm begging you...
+PC20_AFTEREXPLOSION9_GRAFFGOOD-5=
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC20_AFTEREXPLOSION9_GRAFFBAD-1=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok!...
+PC20_AFTEREXPLOSION9B_OTTGOOD-1=
+
+
+# Ott
+### You can't do this!
+PC20_AFTEREXPLOSION9B_OTTGOOD-2=
+
+
+# Ott
+### You're not a murderer!
+PC20_AFTEREXPLOSION9B_OTTGOOD-3=
+
+
+#----------------------------------------------------
+# Ott
+### No...
+PC20_AFTEREXPLOSION9B_OTTBAD-1=
+
+
+#----------------------------------------------------
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok... You said it yourself!
+PC20_AFTEREXPLOSION9_DEE-1=
+
+
+# Dee
+### Everyone deserves a second chance.
+PC20_AFTEREXPLOSION9_DEE-2=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC20_AFTEREXPLOSION9B-1=
+
+
+#----------------------------------------------------
+# Brok - In case Brok has been using violence a lot during the game, he kills the rat chief
+### NO!!!
+PC20_CHECKBRAWL_VIOLENCE-1=
+
+
+# Unknown
+### (Crack)
+PC20_CHECKBRAWL_VIOLENCE-2=
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC20_CHECKBRAWL_VIOLENCE2-1=
+
+
+# Ott
+### Oh no...
+PC20_CHECKBRAWL_VIOLENCE2-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok... What have you done?...
+PC20_CHECKBRAWL_VIOLENCE2-3=
+
+
+# Brok
+### ...
+PC20_CHECKBRAWL_VIOLENCE2-4=
+
+
+# Brok
+### This...
+PC20_CHECKBRAWL_VIOLENCE2-5=
+
+
+# Brok
+### This was the only way...
+PC20_CHECKBRAWL_VIOLENCE2-6=
+
+
+# Brok
+### To protect everyone.
+PC20_CHECKBRAWL_VIOLENCE2-7=
+
+
+#----------------------------------------------------
+# Chiefrat - When not killing the rat chief (normal case)
+### Ha ha...
+PC20_CHECKBRAWL_NORMAL-1=
+
+
+# Chiefrat
+### Wimp...
+PC20_CHECKBRAWL_NORMAL-2=
+
+
+# Chiefrat
+### Someday...
+PC20_CHECKBRAWL_NORMAL-3=
+
+
+# Chiefrat
+### I'll get ya... and yer boy...
+PC20_CHECKBRAWL_NORMAL-4=
+
+
+# Chiefrat
+### ...
+PC20_CHECKBRAWL_NORMAL-5=
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC20_CHECKBRAWL_NORMAL2-1=
+
+
+# Ott
+### He passed out.
+PC20_CHECKBRAWL_NORMAL2-2=
+
+
+# Brok
+### What he did...
+PC20_CHECKBRAWL_NORMAL2-3=
+
+
+# Brok
+### I... I couldn't bare the thought...
+PC20_CHECKBRAWL_NORMAL2-4=
+
+
+#----------------------------------------------------
+# Dee
+### ...
+PC20_CHECKBRAWL_NORMALDEE-1=
+
+
+# Dee
+### I know...
+PC20_CHECKBRAWL_NORMALDEE-2=
+
+
+# Dee
+### But I'm not the one you should apologize to.
+PC20_CHECKBRAWL_NORMALDEE-3=
+
+
+# Brok
+### You're right...
+PC20_CHECKBRAWL_NORMALDEE-4=
+
+
+#----------------------------------------------------
+# Brok - Scene conclusion
+### ...?
+PC20_AFTERGRAFF1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...? Where did he go?
+PC20_AFTERGRAFF1-2=
+
+
+# Ott
+### He left.
+PC20_AFTERGRAFF1-3=
+
+
+# Brok
+### Uh...?
+PC20_AFTERGRAFF1-4=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok...
+PC20_AFTERGRAFF1-5=
+
+
+# Ott
+### I don't know what the rat told him but...
+PC20_AFTERGRAFF1-6=
+
+
+# Ott
+### Ever since we've escaped, he's been acting strange.
+PC20_AFTERGRAFF1-7=
+
+
+# Ott
+### Talk to him.
+PC20_AFTERGRAFF1-8=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC20_AFTERGRAFF1_DEE-1=
+
+
+# Brok
+### I will.
+PC20_AFTERGRAFF1_DEE-2=
+
+
+# Brok
+### But first...
+PC20_AFTERGRAFF1_DEE-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. Let me help you.
+PC20_AFTERGRAFF1_DEE-4=
+
+
+# Dee
+### No. Don't worry about me. I can walk now.
+PC20_AFTERGRAFF1_DEE-5=
+
+
+# Dee
+### You deserve some time with your son.
+PC20_AFTERGRAFF1_DEE-6=
+
+
+# Dee
+### You just saved our world, cowboy.
+PC20_AFTERGRAFF1_DEE-7=
+
+
+# Brok
+### Did I?...
+PC20_AFTERGRAFF1_DEE-8=
+
+
+# Brok
+### What's gonna happen...
+PC20_AFTERGRAFF1_DEE-9=
+
+
+# Brok
+### Now that no one's in charge of our country?
+PC20_AFTERGRAFF1_DEE-10=
+
+
+# Dee
+### The world can run itself for now.
+PC20_AFTERGRAFF1_DEE-11=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Let us worry about this later, Mister Brok.
+PC20_AFTERGRAFF1_DEE-12=
+
+
+# Dee
+### Come on! Go!
+PC20_AFTERGRAFF1_DEE-13=
+
+
+#----------------------------------------------------
+# Brok
+### Not yet...
+PC20_AFTERGRAFF1B_DEEDEAD-1=
+
+
+#----------------------------------------------------
+# Brok - Case when Dee died
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee...
+PC20_AFTERGRAFF1B_DEEDEAD2-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I saved the Slums... thanks to you.
+PC20_AFTERGRAFF1B_DEEDEAD2-2=
+
+
+# Brok
+### Your daughter will be forever proud of you.
+PC20_AFTERGRAFF1B_DEEDEAD2-3=
+
+
+# Brok
+### Everyone shall know your courage.
+PC20_AFTERGRAFF1B_DEEDEAD2-4=
+
+
+# Brok
+### I'll make sure of it.
+PC20_AFTERGRAFF1B_DEEDEAD2-5=
+
+
+# Brok
+### ...
+PC20_AFTERGRAFF1B_DEEDEAD2-6=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok...
+PC20_AFTERGRAFF1B_DEEDEAD2-7=
+
+
+# Ott
+### Let me handle this.
+PC20_AFTERGRAFF1B_DEEDEAD2-8=
+
+
+# Brok
+### You're sure?
+PC20_AFTERGRAFF1B_DEEDEAD2-9=
+
+
+# Ott
+### Yes.
+PC20_AFTERGRAFF1B_DEEDEAD2-10=
+
+
+# Ott
+### Go.
+PC20_AFTERGRAFF1B_DEEDEAD2-11=
+
+
+#----------------------------------------------------
+# Brok
+### Okay...
+PC20_AFTERGRAFF1B-1=
+
+
+#----------------------------------------------------
+# Brok
+### Thanks, everyone...
+PC20_AFTERGRAFF2-1=
+
+
+# Brok
+### Goodbye.
+PC20_AFTERGRAFF2-2=
+
+
+#----------------------------------------------------
+# Brok - Alternative ending "Fight together" - Brok, Graff & Ott arrive too late. Dee is dead and Wes is gone. Bots arrive to kill the group.
+### ...!
+PC20_ENDINGB-1=
+
+
+# Brok
+### No!!!...
+PC20_ENDINGB-2=
+
+
+#----------------------------------------------------
+# Brok
+### She's...
+PC20_ENDINGB2-1=
+
+
+# Brok
+### I'm so sorry. I've come too late...
+PC20_ENDINGB2-2=
+
+
+# Ott
+### Oh my gosh...
+PC20_ENDINGB2-3=
+
+
+# Graff
+### What happened?
+PC20_ENDINGB2-4=
+
+
+# Brok
+### I wish I knew.
+PC20_ENDINGB2-5=
+
+
+# Brok
+### Whoever did this... is gonna pay!
+PC20_ENDINGB2-6=
+
+
+#----------------------------------------------------
+# Brok - Like in the regular boss fight, the floor collapses until they're trapped in a hole
+### What the?...
+PC20_INITB_FLOORFALL2-1=
+
+
+# Graff
+### The floor!
+PC20_INITB_FLOORFALL2-2=
+
+
+#----------------------------------------------------
+# Ott
+### Watch out!
+PC20_INITB_BEFOREFIGHT1-1=
+
+
+#----------------------------------------------------
+# Brok - Preparing for the fight of their lives
+### Bots!...
+PC20_INITB_BEFOREFIGHT1B-1=
+
+
+# Graff
+### They're coming for us!
+PC20_INITB_BEFOREFIGHT1B-2=
+
+
+# Brok
+### This is a trap...
+PC20_INITB_BEFOREFIGHT1B-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+PC20_INITB_BEFOREFIGHT1B-4=
+
+
+# Ott
+### I... I'll go fetch help!
+PC20_INITB_BEFOREFIGHT1B-5=
+
+
+#----------------------------------------------------
+# Brok - Brok is addressing Graff. They're both trapped into a hole with bots who wants to kill them.
+### Stay behind me! I'll deal with them!
+PC20_INITB_BEFOREFIGHT2-1=
+
+
+# Graff
+### ...
+PC20_INITB_BEFOREFIGHT2-2=
+
+
+# Graff
+### No!
+PC20_INITB_BEFOREFIGHT2-3=
+
+
+# Graff
+### I... I will fight.
+PC20_INITB_BEFOREFIGHT2-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+PC20_INITB_BEFOREFIGHT2-5=
+
+
+# Graff
+### There's so many. You need me!
+PC20_INITB_BEFOREFIGHT2-6=
+
+
+# Brok
+### This isn't the time for...
+PC20_INITB_BEFOREFIGHT2-7=
+
+
+# Graff
+### No! Listen to me!
+PC20_INITB_BEFOREFIGHT2-8=
+
+
+# Graff
+### I'm starting to understand.
+PC20_INITB_BEFOREFIGHT2-9=
+
+
+# Graff
+### Everytime you weren't there for me...
+PC20_INITB_BEFOREFIGHT2-10=
+
+
+# Graff
+### You were fighting for us.
+PC20_INITB_BEFOREFIGHT2-11=
+
+
+# Graff
+### For everyone.
+PC20_INITB_BEFOREFIGHT2-12=
+
+
+# Graff
+### Because of my selfishness...someone died today.
+PC20_INITB_BEFOREFIGHT2-13=
+
+
+# Graff
+### I... gotta make up for it!
+PC20_INITB_BEFOREFIGHT2-14=
+
+
+# Graff
+### Besides. If we're doomed to die here...
+PC20_INITB_BEFOREFIGHT2-15=
+
+
+# Graff
+### Then I might as well fight...
+PC20_INITB_BEFOREFIGHT2-16=
+
+
+# Graff
+### At your side.
+PC20_INITB_BEFOREFIGHT2-17=
+
+
+# Brok
+### ...
+PC20_INITB_BEFOREFIGHT2-18=
+
+
+# Brok
+### Stay close.
+PC20_INITB_BEFOREFIGHT2-19=
+
+
+# Brok
+### We'll get through this! I promise!
+PC20_INITB_BEFOREFIGHT2-20=
+
+
+# Graff
+### Here they come!
+PC20_INITB_BEFOREFIGHT2-21=
+
+
+#----------------------------------------------------
+# Brok - Ott comes back to save them
+### What... just happened?...
+PC20_INITB_ENDFIGHT1-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+PC20_INITB_ENDFIGHT1-2=
+
+
+#----------------------------------------------------
+# Ott
+### I found this device in the police department.
+PC20_INITB_ENDFIGHT2-1=
+
+
+# Ott
+### I wasn't sure it would work!
+PC20_INITB_ENDFIGHT2-2=
+
+
+# Graff
+### You saved us!
+PC20_INITB_ENDFIGHT2-3=
+
+
+# Brok
+### Thanks. We owe you one!
+PC20_INITB_ENDFIGHT2-4=
+
+
+# Ott
+### I've seen you fight. You guys are amazing!
+PC20_INITB_ENDFIGHT2-5=
+
+
+# Graff
+### ...
+PC20_INITB_ENDFIGHT2-6=
+
+
+# Graff
+### Thanks... I didn't do much though.
+PC20_INITB_ENDFIGHT2-7=
+
+
+# Brok
+### Oh, come on!
+PC20_INITB_ENDFIGHT2-8=
+
+
+# Brok
+### I couldn't have made it without you, son.
+PC20_INITB_ENDFIGHT2-9=
+
+
+#----------------------------------------------------
+# Brok
+### Back on earth now, eh?...
+PC20_INITB_BEFOREFIGHT4-1=
+
+
+#----------------------------------------------------
+# Ott
+### Guys...
+PC20_INITB_BEFOREFIGHT5-1=
+
+
+# Ott
+### I gotta check on my parents...
+PC20_INITB_BEFOREFIGHT5-2=
+
+
+# Ott
+### I'm getting worried.
+PC20_INITB_BEFOREFIGHT5-3=
+
+
+# Brok
+### Of course.
+PC20_INITB_BEFOREFIGHT5-4=
+
+
+# Graff
+### We'll go with you!
+PC20_INITB_BEFOREFIGHT5-5=
+
+
+# Ott
+### It's fine.
+PC20_INITB_BEFOREFIGHT5-6=
+
+
+# Ott
+### I've got this device. Just in case.
+PC20_INITB_BEFOREFIGHT5-7=
+
+
+# Brok
+### If anything happens...call me!
+PC20_INITB_BEFOREFIGHT5-8=
+
+
+# Ott
+### Sure.
+PC20_INITB_BEFOREFIGHT5-9=
+
+
+#----------------------------------------------------
+# Brok
+### Well, time to go.
+PC20_INITB_BEFOREFIGHT6-1=
+
+
+# Graff
+### Yeah...
+PC20_INITB_BEFOREFIGHT6-2=
+
+
+#----------------------------------------------------
+# Graff - "Rupture" ending - In this alternate ending, Graff & Ott arrive early, before Brok fights Wes (who already revealed his robot appearance). They don't understand what's going on.
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC20_RUPTURE1-1=
+
+
+# Ott
+### ...?
+PC20_RUPTURE1-2=
+
+
+# Ott
+### Who... who's this?
+PC20_RUPTURE1-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### ...Ott...
+PC20_RUPTURE1-4=
+
+
+# Wes
+### You weren't supposed to be here...
+PC20_RUPTURE1-5=
+
+
+# Brok
+### Kids?...
+PC20_RUPTURE1-6=
+
+
+# Ott
+### What's going on?...
+PC20_RUPTURE1-7=
+
+
+# Ott
+### Why does this bot... look like my uncle?...
+PC20_RUPTURE1-8=
+
+
+# Brok
+### Tell him, old weasel.
+PC20_RUPTURE1-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### And don't forget to mention your plan to destroy the Slums.
+PC20_RUPTURE1-10=
+
+
+# Ott
+### Destroy...?
+PC20_RUPTURE1-11=
+
+
+# Ott
+### The shortage... It was you?...
+PC20_RUPTURE1-12=
+
+
+# Ott
+### How... How is this possible?...
+PC20_RUPTURE1-13=
+
+
+# Wes
+### ...
+PC20_RUPTURE1-14=
+
+
+#----------------------------------------------------
+# Wes
+### I never wanted you to see me like this...
+PC20_RUPTURE2-1=
+
+
+# Wes
+### But hear me.
+PC20_RUPTURE2-2=
+
+
+# Wes
+### I'm doing this for you. And everyone else who deserves it.
+PC20_RUPTURE2-3=
+
+
+# Wes
+### For a better life.
+PC20_RUPTURE2-4=
+
+
+# Graff
+### You're insane!
+PC20_RUPTURE2-5=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums have no future. This plague which will spread sooner or later and take everyone down with it.
+PC20_RUPTURE2-6=
+
+
+# Wes
+### No matter what they tell you. Criminals never change.
+PC20_RUPTURE2-7=
+
+
+#----------------------------------------------------
+# Wes
+### Children. I need you to leave.
+PC20_RUPTURE3-1=
+
+
+# Wes
+### Allow me to get rid of that croc.
+PC20_RUPTURE3-2=
+
+
+# Wes
+### He's the biggest threat.
+PC20_RUPTURE3-3=
+
+
+# Graff
+### What...?
+PC20_RUPTURE3-4=
+
+
+# Wes
+### Within you lies a potential cure to the pollution.
+PC20_RUPTURE3-5=
+
+
+# Wes
+### If such a thing was made possible. All I've worked for would be for naught.
+PC20_RUPTURE3-6=
+
+
+# Wes
+### I don't have a choice. You must be eliminated!
+PC20_RUPTURE3-7=
+
+
+#----------------------------------------------------
+# Ott
+### I won't let you!
+PC20_RUPTURE4-1=
+
+
+# Ott
+### If you kill him...
+PC20_RUPTURE4-2=
+
+
+# Ott - Ott puts himself in front of Brok
+### You'll have to kill me first!
+PC20_RUPTURE4-3=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. Get out of the way.
+PC20_RUPTURE4-4=
+
+
+# Wes
+### I order you!
+PC20_RUPTURE4-5=
+
+
+# Graff - Graff does the same
+### Me too.
+PC20_RUPTURE4-6=
+
+
+# Brok
+### Kids... I appreciate what you're doing but...
+PC20_RUPTURE4-7=
+
+
+# Graff
+### We're no longer kids. We can protect you too.
+PC20_RUPTURE4-8=
+
+
+# Ott
+### Uncle...
+PC20_RUPTURE4-9=
+
+
+# Ott
+### I don't know what turned you into such a monster.
+PC20_RUPTURE4-10=
+
+
+# Ott
+### You're wrong! There's always another choice!
+PC20_RUPTURE4-11=
+
+
+# Wes
+### ...
+PC20_RUPTURE4-12=
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC20_RUPTURE5-1=
+
+
+# Wes
+### You're right.
+PC20_RUPTURE5-2=
+
+
+# Wes
+### There's another way.
+PC20_RUPTURE5-3=
+
+
+# Wes
+### I'll just have to eliminate the root of the problem.
+PC20_RUPTURE5-4=
+
+
+#----------------------------------------------------
+# Wes - Wes addresses Graff.
+### You.
+PC20_RUPTURE5B-1=
+
+
+# Graff
+### ...?
+PC20_RUPTURE5B-2=
+
+
+# Graff
+### Me?...
+PC20_RUPTURE5B-3=
+
+
+# Wes
+### Your mother. Your family.
+PC20_RUPTURE5B-4=
+
+
+# Wes
+### This world and I wouldn't have turned into this...
+PC20_RUPTURE5B-5=
+
+
+# Wes
+### If it weren't for you!
+PC20_RUPTURE5B-6=
+
+
+# Graff
+### W-What did I do?!
+PC20_RUPTURE5B-7=
+
+
+# Wes
+### You exist...
+PC20_RUPTURE5B-8=
+
+
+# Wes
+### And I shall remedy that!
+PC20_RUPTURE5B-9=
+
+
+# Brok - Brok puts himself in front of Graff to protect him and gets zapped in his place
+### Nooooo!
+PC20_RUPTURE5B-10=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!!!
+PC20_RUPTURE6-1=
+
+
+# Dee
+### No...
+PC20_RUPTURE6-2=
+
+
+# Graff
+### Is... Is he...?
+PC20_RUPTURE6-3=
+
+
+# Dee
+### He's still breathing...
+PC20_RUPTURE6-4=
+
+
+# Dee
+### But badly injured.
+PC20_RUPTURE6-5=
+
+
+#----------------------------------------------------
+# Wes - Wes can't understand why Brok did that attempt to save Graff and goes screw loose, then runs away from the scene
+### Why...
+PC20_RUPTURE6B-1=
+
+
+# Wes
+### Why did-did you do this P-Pork...
+PC20_RUPTURE6B-2=
+
+
+# Wes
+### I th-thought...
+PC20_RUPTURE6B-3=
+
+
+# Wes
+### Cri... minal...
+PC20_RUPTURE6B-4=
+
+
+# Wes
+### Giving his life...for so-so-someone else...?
+PC20_RUPTURE6B-5=
+
+
+# Wes
+### Cannot...
+PC20_RUPTURE6B-6=
+
+
+#----------------------------------------------------
+# Ott
+### Uncle!...
+PC20_RUPTURE6C-1=
+
+
+# Dee
+### Let him go.
+PC20_RUPTURE6C-2=
+
+
+# Dee
+### I believe he finally realized his mistake.
+PC20_RUPTURE6C-3=
+
+
+# Ott
+### ...
+PC20_RUPTURE6C-4=
+
+
+# Graff
+### He saved me...
+PC20_RUPTURE6C-5=
+
+
+# Graff
+### Now it's up to us to save him!
+PC20_RUPTURE6C-6=
+
+
+# Dee
+### I've injected him with a remedy but...
+PC20_RUPTURE6C-7=
+
+
+# Dee
+### We need to bring him to a hospital!
+PC20_RUPTURE6C-8=
+
+
+# Dee
+### Help me!
+PC20_RUPTURE6C-9=
+
+
+# Dee
+### ...Urgh...!
+PC20_RUPTURE6C-10=
+
+
+# Graff
+### He's... so heavy!
+PC20_RUPTURE6C-11=
+
+
+# Director
+### Allow me.
+PC20_RUPTURE6C-12=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Director?...
+PC20_RUPTURE6C-13=
+
+
+#----------------------------------------------------
+# Brok - After getting injured, Brok wakes up a week later in a Drumer hospital.
+### Uh...
+PC20_RUPTURE7-1=
+
+
+# Brok
+### What...
+PC20_RUPTURE7-2=
+
+
+# Brok
+### Where...
+PC20_RUPTURE7-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC20_RUPTURE7-4=
+
+
+# Graff
+### Take it easy!
+PC20_RUPTURE7-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+PC20_RUPTURE7-6=
+
+
+# Brok
+### Where am I?...
+PC20_RUPTURE7-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### The Drums. Central Hospital.
+PC20_RUPTURE7-8=
+
+
+# Graff
+### You've been out for a week... I was worried you'd never wake up.
+PC20_RUPTURE7-9=
+
+
+# Brok
+### A week...
+PC20_RUPTURE7-10=
+
+
+# Brok
+### Wait... Please tell me...
+PC20_RUPTURE7-11=
+
+
+# Graff
+### Yeah.
+PC20_RUPTURE7-12=
+
+
+# Graff
+### Everyone's safe for now. Thanks to you.
+PC20_RUPTURE7-13=
+
+
+# Brok
+### Phew.
+PC20_RUPTURE7-14=
+
+
+# Graff
+### ...
+PC20_RUPTURE7-15=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### The Director... She's a member of the Government.
+PC20_RUPTURE7-16=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott, me and you.
+PC20_RUPTURE7-17=
+
+
+# Graff
+### We've all been made honorary members of this country.
+PC20_RUPTURE7-18=
+
+
+# Brok
+### Us?...
+PC20_RUPTURE7-19=
+
+
+# Brok
+### Wow. I guess we're popular then!
+PC20_RUPTURE7-20=
+
+
+# Brok
+### Looks like I missed a lot!
+PC20_RUPTURE7-21=
+
+
+# Graff
+### Sorry I ever doubted you...
+PC20_RUPTURE7-22=
+
+
+# Brok
+### Don't be. I've made more mistakes in my life than you've got fur on your body!
+PC20_RUPTURE7-23=
+
+
+# Brok
+### Well then! I feel ready to...
+PC20_RUPTURE7-24=
+
+
+# Brok
+### ...Urgh...
+PC20_RUPTURE7-25=
+
+
+# Brok
+### I... just need to...
+PC20_RUPTURE7-26=
+
+
+# Brok
+### ...
+PC20_RUPTURE7-27=
+
+
+# Brok
+### Ouch!
+PC20_RUPTURE7-28=
+
+
+# Graff
+### Please... Don't strain yourself...
+PC20_RUPTURE7-29=
+
+
+# Brok
+### What's going on?...
+PC20_RUPTURE7-30=
+
+
+# Brok
+### I... can't stand up...
+PC20_RUPTURE7-31=
+
+
+# Graff
+### ...
+PC20_RUPTURE7-32=
+
+
+# Graff
+### You cannot.
+PC20_RUPTURE7-33=
+
+
+# Graff
+### You'll never be able to...
+PC20_RUPTURE7-34=
+
+
+# Graff
+### Anymore.
+PC20_RUPTURE7-35=
+
+
+# Brok
+### ...
+PC20_RUPTURE7-36=
+
+
+# Graff
+### When he shot you... Your spine...
+PC20_RUPTURE7-37=
+
+
+# Graff
+### ...has been permanently damaged.
+PC20_RUPTURE7-38=
+
+
+# Brok
+### ...
+PC20_RUPTURE7-39=
+
+
+# Brok
+### Well...
+PC20_RUPTURE7-40=
+
+
+# Brok
+### That sucks.
+PC20_RUPTURE7-41=
+
+
+# Graff
+### It's all my fault...
+PC20_RUPTURE7-42=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Don't tell me you believe what this broken bot from hell said?
+PC20_RUPTURE7-43=
+
+
+# Graff
+### But... If I hadn't come...
+PC20_RUPTURE7-44=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Then he would probably have destroyed us. And the Slums in the process.
+PC20_RUPTURE7-45=
+
+
+# Brok
+### You saved me, son.
+PC20_RUPTURE7-46=
+
+
+# Brok
+### Now... You need to move forward with your life.
+PC20_RUPTURE7-47=
+
+
+# Graff
+### What about you?
+PC20_RUPTURE7-48=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC20_RUPTURE7B-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I know! Ask Shay!
+PC20_RUPTURE7B-2=
+
+
+# Brok
+### I bet she can find a way.
+PC20_RUPTURE7B-3=
+
+
+# Graff
+### ...
+PC20_RUPTURE7B-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Who's Shay?
+PC20_RUPTURE7B-5=
+
+
+# Brok
+### Uh?...
+PC20_RUPTURE7B-6=
+
+
+# Brok
+### You know! She's...
+PC20_RUPTURE7B-7=
+
+
+# Brok
+### Well...
+PC20_RUPTURE7B-8=
+
+
+# Brok
+### ...
+PC20_RUPTURE7B-9=
+
+
+# Brok
+### This is... weird.
+PC20_RUPTURE7B-10=
+
+
+# Brok
+### I can't remember.
+PC20_RUPTURE7B-11=
+
+
+# Graff
+### ...
+PC20_RUPTURE7B-12=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm still worried for the people of the Slums.
+PC20_RUPTURE7B-13=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes could still be wandering around.
+PC20_RUPTURE7B-14=
+
+
+# Graff
+### I shouldn't care anymore but...
+PC20_RUPTURE7B-15=
+
+
+# Brok
+### It's normal.
+PC20_RUPTURE7B-16=
+
+
+# Brok
+### No matter how corrupt this place is, you've grown attached.
+PC20_RUPTURE7B-17=
+
+
+# Brok
+### This is our home. It always will be.
+PC20_RUPTURE7B-18=
+
+
+# Brok
+### I wish I could help but in this state...
+PC20_RUPTURE7B-19=
+
+
+# Graff
+### ...
+PC20_RUPTURE7B-20=
+
+
+# Brok
+### Wait!
+PC20_RUPTURE7B-21=
+
+
+# Brok
+### Maybe I can.
+PC20_RUPTURE7B-22=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### There's one thing Wes was right about...
+PC20_RUPTURE7B-23=
+
+
+# Brok
+### The cure to the pollution. It's within me.
+PC20_RUPTURE7B-24=
+
+
+# Graff
+### It's true...
+PC20_RUPTURE7B-25=
+
+
+# Graff
+### For some reason... you're unique.
+PC20_RUPTURE7B-26=
+
+
+# Graff
+### One minute...
+PC20_RUPTURE7B-27=
+
+
+# Graff
+### Do you mean...?
+PC20_RUPTURE7B-28=
+
+
+# Brok
+### Yeah.
+PC20_RUPTURE7B-29=
+
+
+# Brok
+### Analyzes.
+PC20_RUPTURE7B-30=
+
+
+# Brok
+### Let scientists study my case.
+PC20_RUPTURE7B-31=
+
+
+# Graff
+### But... You would become a laboratory rat.
+PC20_RUPTURE7B-32=
+
+
+# Brok
+### If this can help everyone...
+PC20_RUPTURE7B-33=
+
+
+# Brok
+### I'm ready for it.
+PC20_RUPTURE7B-34=
+
+
+# Graff
+### ...
+PC20_RUPTURE7B-35=
+
+
+# Graff
+### Thank you...
+PC20_RUPTURE7B-36=
+
+
+# Graff
+### For everything.
+PC20_RUPTURE7B-37=
+
+
+#----------------------------------------------------
+# Brok
+### I tried my best to hide my true feelings...
+PC20_RUPTURE8-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### As much as I was happy for Graff to finally have a life of his own in the Drums...
+PC20_RUPTURE8-2=
+
+
+# Brok
+### Being forced into a bed and a wheelchair for years...
+PC20_RUPTURE8-3=
+
+
+# Brok
+### Most of it alone or surrounded by medical bots...
+PC20_RUPTURE8-4=
+
+
+# Brok
+### For my entire future...
+PC20_RUPTURE8-5=
+
+
+# Brok
+### This was the worst part of my life.
+PC20_RUPTURE8-6=
+
+
+# Brok
+### Unfortunately... My idea was short lived.
+PC20_RUPTURE8-7=
+
+
+# Brok
+### The scientists could never produce a permanent vaccine to the pollution.
+PC20_RUPTURE8-8=
+
+
+# Brok
+### Our world didn't change.
+PC20_RUPTURE8-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### The Dome was still standing... And I felt ashamed to be safe inside when others were suffering out there.
+PC20_RUPTURE8-10=
+
+
+# Brok
+### But one failure can sometimes lead to a success.
+PC20_RUPTURE8-11=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Graff and Ott were able to get a team working on a separate project.
+PC20_RUPTURE8-12=
+
+
+# Brok
+### And if there certainly are bad sides to science...
+PC20_RUPTURE8-13=
+
+
+# Brok
+### It can also make miracles.
+PC20_RUPTURE8-14=
+
+
+# Brok
+### And one day...
+PC20_RUPTURE8-15=
+
+
+#----------------------------------------------------
+# Various - Brok is back as boxer in fight pits again
+### Ladies and gentlemen!
+PC20_RUPTURE9-1=
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### For the grand reopening of the fighting pits in the Slums...
+PC20_RUPTURE9-2=
+
+
+# Various
+### Please welcome...
+PC20_RUPTURE9-3=
+
+
+# Various
+### Our national hero...
+PC20_RUPTURE9-4=
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!
+PC20_RUPTURE9-5=
+
+
+# Brok
+### I'm ready!
+PC20_RUPTURE9-6=
+
+
+#----------------------------------------------------
+# Tribot
+### They were the heroes?
+PC20_FIGHTTOGETHER_GAMEOVER-1=
+
+
+# Tribot
+### If only we could laugh! Alas, we cannot.
+PC20_FIGHTTOGETHER_GAMEOVER-2=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+PC20_GRAFF_KO-1=
+
+
+#----------------------------------------------------
+# Wes
+### Already?
+PC20_FIGHT1_GAMEOVER-1=
+
+
+# Wes
+### Up until the end, you've been a disappointment, Pork.
+PC20_FIGHT1_GAMEOVER-2=
+
+
+#----------------------------------------------------
+# Wes
+### What are you doing?
+PC20_WES_HIT1-1=
+
+
+#----------------------------------------------------
+# Wes
+### Stop!
+PC20_WES_HIT2-1=
+
+
+#----------------------------------------------------
+# Wes
+### Enough playing.
+PC20_WES_HIT3-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (The following scene for this ending contains potentially sensitive elements which despite being depicted in the same cartoony style, can be shocking and difficult to watch. Viewer discretion is advised.)
+PC20_FALL_WARNING-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Just you wait, ancient thing...
+COOP_PC20_WES1-1=
+
+
+# Unknown
+### Or should I say...you *spoilers*
+COOP_PC20_WES1-2=
+
+
+# Unknown
+### Oh no, I'm censored!
+COOP_PC20_WES1-3=
+
+
+#----------------------------------------------------
+

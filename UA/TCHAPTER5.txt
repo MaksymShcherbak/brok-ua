@@ -1,0 +1,1339 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Gherkin (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Klay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Unknown (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Ott (Unknown)
+#     Klay - Brok (Unknown)
+#     Klay - Graff (Unknown)
+#     Ott - Graff (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Gherkin (Unknown)
+
+#-------------------------------------
+#=CHAPTER 5 ROOMS
+#-------------------------------------
+
+#Graff is talking to Ott
+### Help me!
+TOPIC_HELPME=Допоможи мені!
+
+### Stop the trial
+TOPIC_STOP=Зупинимо випробування
+
+### Chit-chat
+TOPIC_CHAT=Балаканина
+
+### The situation
+TOPIC_SITUATION=Ситуація
+
+
+### Quit the trial?
+CH5_OTT_QUITCHOICES=Покинути випробування?
+
+# Ott - Day 3 - Graff talks to Ott during the Museum exam
+### Should we go to the museum?...
+CH5_OTT_OUTSIDEMUSEUM-1=Можливо, підемо до музею?
+
+
+#----------------------------------------------------
+# Graff
+### Any ideas?
+CH5_OTT_IDEA1-1=Є якісь ідеї?
+
+
+# Ott
+### You've noticed those weird blue symbols?
+CH5_OTT_IDEA1-2=Ти помітив ці дивні сині символи?
+
+
+# Ott
+### They're pretty much everywhere...
+CH5_OTT_IDEA1-3=Вони тут практично всюди...
+
+
+# Graff
+### Yeah. Seems like an ancient language.
+CH5_OTT_IDEA1-4=Так. Схоже, що це стародавня мова.
+
+
+# Ott
+### Must be important somehow...
+CH5_OTT_IDEA1-5=Мабуть, це щось важливе...
+
+
+#----------------------------------------------------
+# Graff
+### I've gone blank.
+CH5_OTT_IDEA2-1=У мене закінчилися ідеї.
+
+
+# Ott
+### What about that triangular stone thing?
+CH5_OTT_IDEA2-2=А як щодо цього каміння у формі трикутника?
+
+
+# Ott
+### It's some kind of game. You pick a symbol and then you must find it again... hidden in plain sight.
+CH5_OTT_IDEA2-3=Це схоже на якусь гру. Ти піднімаєш символ і потім маєш знайти його ще раз... схований у всіх на виду.
+
+
+# Ott
+### I tried but I suck at this...
+CH5_OTT_IDEA2-4=Я намагався, але виходить в мене кепсько...
+
+
+# Graff
+### There's an idea.
+CH5_OTT_IDEA2-5=А це ідея.
+
+
+#----------------------------------------------------
+# Graff
+### I'm not sure we'll win this trial...
+CH5_OTT_IDEA3-1=Не впевнений, що ми впораємося з цим випробуванням...
+
+
+# Ott
+### Don't despair!
+CH5_OTT_IDEA3-2=Не впадай у відчай!
+
+
+# Ott
+### Let's just try thoroughly checking everything.
+CH5_OTT_IDEA3-3=Давай просто ретельно все перевіримо.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### It's also possible the puzzles extend outside of here...
+CH5_OTT_IDEA3-4=Можливо, головоломки виходять за межі цього місця...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Yeah... Knowing the Director, I wouldn't be surprised if she would try and trick us.
+CH5_OTT_IDEA3-5=Так... Знаючи директорку, я б не здивувався, якби вона спробувала нас таким чином обдурити.
+
+
+#----------------------------------------------------
+# Graff
+### Let's stop here.
+CH5_OTT_QUIT1-1=Давай на цьому зупинимось.
+
+
+# Ott
+### What?... Are you sure?
+CH5_OTT_QUIT1-2=Що...? Ти впевнений?
+
+
+# Ott
+### There's still time and this trial is crucial.
+CH5_OTT_QUIT1-3=У нас все ще є час. До того ж, це випробування має вирішальне значення.
+
+
+#----------------------------------------------------
+# Graff
+### You're right... I'll keep on searching.
+CH5_OTT_QUIT_NO-1=Ти правий... Я продовжу свої пошуки.
+
+
+#----------------------------------------------------
+# Graff
+### Sorry. I'm getting a headache, so I won't be very useful anyway.
+CH5_OTT_QUIT_YES-1=Вибач. У мене болить голова, тож від мене все одно не буде користі.
+
+
+# Ott
+### Too bad...
+CH5_OTT_QUIT_YES-2=Шкода...
+
+
+# Ott
+### But if you don't mind, I'll keep on searching myself.
+CH5_OTT_QUIT_YES-3=Але, якщо ти не проти, я продовжу пошуки сам.
+
+
+# Graff
+### Okay. I'll just rest a little until the time is out.
+CH5_OTT_QUIT_YES-4=Гаразд. А я трохи відпочину, поки ще є час.
+
+
+#----------------------------------------------------
+# Graff
+### So! You didn't tell me.
+CH5_OTT_CHAT1-1=Що ж! Ти мені так і не розказав.
+
+
+# Graff
+### How did your trial go yesterday evening?
+CH5_OTT_CHAT1-2=Як пройшло твоє вчорашнє випробування?
+
+
+# Ott
+### Well... It was okay.
+CH5_OTT_CHAT1-3=Ну... Нормально.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot isn't exactly the perfect partner but I managed.
+CH5_OTT_CHAT1-4=Студбот - не те щоб ідеальний партнер, але я впорався.
+
+
+# Ott
+### At one point he received a firmware update.
+CH5_OTT_CHAT1-5=В якийсь момент він почав оновлювати програмне забезпечення.
+
+
+# Ott
+### In the middle of the trial! I lost a few precious minutes because of it.
+CH5_OTT_CHAT1-6=Прямо посеред випробування! Через це я втратив кілька дорогоцінних хвилин.
+
+
+# Graff
+### That's not fair!
+CH5_OTT_CHAT1-7=Це ж несправедливо!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Still better than what you experienced with Klay, apparently...
+CH5_OTT_CHAT1-8=Але, як я чув, це все одно краще, ніж твоя ситуація з Клеєм...
+
+
+# Graff
+### Yeah...
+CH5_OTT_CHAT1-9=Так...
+
+
+# Graff
+### And those lasers... Urgh.
+CH5_OTT_CHAT1-10=Ще й ці лазери... Пхе.
+
+
+# Ott
+### Lasers?
+CH5_OTT_CHAT1-11=Лазери?
+
+
+# Graff
+### You didn't have these?
+CH5_OTT_CHAT1-12=А в тебе їх не було?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Weren't you in the bunker? With the Tribots?
+CH5_OTT_CHAT1-13=Ти не був у бункері? З Триботами?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Bunker?... Tribots? No, I wasn't.
+CH5_OTT_CHAT1-14=Бункер...? З Триботами? Ні, не був.
+
+
+# Graff
+### That's weird... We had different trials?
+CH5_OTT_CHAT1-15=Дивно... У нас були різні випробування?
+
+
+# Ott
+### Must be. Sounds like yours was pretty dangerous...
+CH5_OTT_CHAT1-16=Мабуть, так. Схоже, що твоє було досить небезпечним...
+
+
+# Graff
+### You don't say...
+CH5_OTT_CHAT1-17=І не кажи...
+
+
+#----------------------------------------------------
+# Graff
+### (He's trusting me... I got to do my best.)
+CH5_OTT_THINK1-1=(Він довіряє мені... Я маю докласти усіх зусиль.)
+
+
+#----------------------------------------------------
+# Ott
+### We can do this!
+CH5_OTT_EXIT1-1=Ми це зможемо!
+
+
+# Graff
+### Right!
+CH5_OTT_EXIT1-2=Так!
+
+
+#----------------------------------------------------
+# Graff
+### I'll resume my search.
+CH5_OTT_EXIT2-1=Я продовжу свої пошуки.
+
+
+#----------------------------------------------------
+# Graff
+### Let's keep looking!
+CH5_OTT_EXIT3-1=Давай продовжимо пошуки.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm...
+CH5_OTT_INV_DEFAULT1-1=Гмм...
+
+
+# Ott
+### Do you think this could be used to solve a puzzle?
+CH5_OTT_INV_DEFAULT1-2=Думаєш, це допоможе нам у вирішенні головоломки?
+
+
+# Graff
+### Gotta try.
+CH5_OTT_INV_DEFAULT1-3=Варто спробувати.
+
+
+#----------------------------------------------------
+# Graff
+### Maybe I should get rid of this.
+CH5_OTT_INV_DEFAULT2-1=Можливо, мені варто це викинути.
+
+
+# Ott
+### Don't!
+CH5_OTT_INV_DEFAULT2-2=Не треба!
+
+
+# Ott
+### Maybe it will come in handy later.
+CH5_OTT_INV_DEFAULT2-3=Воно ще може потім знадобитись.
+
+
+# Graff
+### Well, you're not the one carrying all this stuff.
+CH5_OTT_INV_DEFAULT2-4=Ну так, це ж не ти носиш з собою всі ці речі.
+
+
+#----------------------------------------------------
+# Ott - Day 3 - Running out of time for the last trial
+### Oh no! Look at the time!
+CH5_TIMEROUT1-1=О ні! Глянь на час!
+
+
+# Graff
+### Darn...
+CH5_TIMEROUT1-2=От халепа...
+
+
+# Graff
+### We did our best...
+CH5_TIMEROUT1-3=Ми зробили все, що могли...
+
+
+#----------------------------------------------------
+# Graff
+### (Will this be enough to get our diplomas?...)
+CH5_MUSEUM_OVER_FOUND1B-1=(Чи буде цього достатньо, щоб отримати дипломи...?)
+
+
+# Graff
+### (Obviously... I have that feeling in my guts again.)
+CH5_MUSEUM_OVER_FOUND1B-2=(Ну звичайно... Тепер у мене знову це дивне передчуття.)
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Brok talks with Dr Gherkin
+### Can we talk?
+CH5_GHERKIN_WELCOME1-1=Ми можемо поговорити?
+
+
+# Gherkin
+### O-of course.
+CH5_GHERKIN_WELCOME1-2=З-звісно.
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+CH5_GHERKIN_WELCOME2-1=Гей!
+
+
+# Gherkin
+### W-what?... Where are they?
+CH5_GHERKIN_WELCOME2-2=Щ-що...? Де вони?
+
+
+# Brok
+### Bots? No, just wanna chat.
+CH5_GHERKIN_WELCOME2-3=Боти? Та нема їх, я просто хочу поговорити.
+
+
+#----------------------------------------------------
+# Brok
+### Been wondering for a while...
+CH5_GHERKIN_HIMSELF1-1=Я от вже деякий час замислююсь...
+
+
+# Brok
+### Have we met somewhere? I could swear I've seen you before.
+CH5_GHERKIN_HIMSELF1-2=Ми з вами раніше ніде не зустрічалися? Можу поклястись, що десь бачив вас раніше.
+
+
+# Gherkin
+### That's... possible. I... Erm...
+CH5_GHERKIN_HIMSELF1-3=Це... можливо. Я... Е-е-е...
+
+
+# Gherkin
+### I worked with your wife.
+CH5_GHERKIN_HIMSELF1-4=Я працював з вашою дружиною.
+
+
+# Brok
+### You did?...
+CH5_GHERKIN_HIMSELF1-5=Дійсно...?
+
+
+# Gherkin
+### Of course. That was years ago, before I became part of...
+CH5_GHERKIN_HIMSELF1-6=Звісно. Це було багато років тому, до того як я став частиною...
+
+
+# Gherkin
+### Erm... I mean, there's only one pharmaceutical company in this country after all.
+CH5_GHERKIN_HIMSELF1-7=Е-е-е... Ну, в сенсі, в нашій країні є лише одна фармацевтична компанія, як не крути.
+
+
+# Brok
+### Huh-huh.
+CH5_GHERKIN_HIMSELF1-8=Ага.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH5_GHERKIN_HIMSELF1B-1=...
+
+
+#----------------------------------------------------
+# Brok
+### That's peculiar. You seem like a desk type of guy, not the one who would go on a mission.
+CH5_GHERKIN_HIMSELF2-1=Оце дивина. Ви мені радше нагадуєте людину, яка весь час сидить за столом, ніж когось, хто би наважився вирушити на місію.
+
+
+# Gherkin
+### And that's why I need you!
+CH5_GHERKIN_HIMSELF2-2=І саме тому ви мені потрібні!
+
+
+#----------------------------------------------------
+# Brok
+### What exactly is happening?
+CH5_GHERKIN_SITUATION1-1=Що взагалі відбувається?
+
+
+# Gherkin
+### The pills shortage?
+CH5_GHERKIN_SITUATION1-2=Ви про нестачу пігулок?
+
+
+# Gherkin
+### I don't know much. The bots run the factory and they started going crazy.
+CH5_GHERKIN_SITUATION1-3=Я не дуже багато знаю. Боти, які керують виробництвом на заводі, почали сходити з глузду.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### In the meantime, the Pipe-Pills all over the Slums got damaged so whatever's in stock wouldn't be transferred.
+CH5_GHERKIN_SITUATION1-4=В той же час, пневматична система Пігулкоматів по всіх Нетрях була пошкоджена. Тож навіть те, що було в наявності, неможливо перенести.
+
+
+# Brok
+### Then it's not just one problem to take care of...
+CH5_GHERKIN_SITUATION1-5=Отже, потрібно розібратися більше, ніж з однією проблемою...
+
+
+# Gherkin
+### I'm afraid so.
+CH5_GHERKIN_SITUATION1-6=Боюся, що так.
+
+
+#----------------------------------------------------
+# Brok - He's talking about Pipe Pills
+### What does it take to fix those Pipes?
+CH5_GHERKIN_SITUATION2-1=То що потрібно, щоб полагодити цю систему?
+
+
+# Gherkin
+### It's... technically complex.
+CH5_GHERKIN_SITUATION2-2=Це... технічно складно.
+
+
+# Gherkin
+### Only an expert like myself can fix them.
+CH5_GHERKIN_SITUATION2-3=Лише такий експерт, як я, зможе їх полагодити.
+
+
+# Brok
+### Obviously...
+CH5_GHERKIN_SITUATION2-4=Ну звісно...
+
+
+#----------------------------------------------------
+# Brok
+### Ya think I could help to...
+CH5_GHERKIN_SITUATION3-1=Може, я вам допоможу з...
+
+
+# Gherkin
+### I'd rather not. I might lose my concentration.
+CH5_GHERKIN_SITUATION3-2=Не треба. Я можу втратити свою зосередженість.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Tell me more about Lia.
+CH5_GHERKIN_LIA1-1=Розкажіть мені про Лію.
+
+
+# Gherkin
+### Her abrupt passing was a shock. She was a very valuable asset.
+CH5_GHERKIN_LIA1-2=Її раптова смерть була для нас шоком. Вона була надзвичайно цінною фахівчинею.
+
+
+# Gherkin
+### I hope her job didn't cause her demise.
+CH5_GHERKIN_LIA1-3=Сподіваюся, це не робота її вбила.
+
+
+# Brok
+### What do you mean?
+CH5_GHERKIN_LIA1-4=Що ви маєте на увазі?
+
+
+# Gherkin
+### I-I'm not supposed to say... My contract has a non-disclosure agreement which covers...
+CH5_GHERKIN_LIA1-5=Я-я не маю цього казати... У моєму контракті є пункт про нерозголошення інформації, який стосується...
+
+
+# Brok
+### Tell me! Now!
+CH5_GHERKIN_LIA1-6=Кажіть! Зараз!
+
+
+# Gherkin
+### Oh... I...
+CH5_GHERKIN_LIA1-7=Ох... Я...
+
+
+# Gherkin
+### I guess it's fine now... It's been almost six years after all.
+CH5_GHERKIN_LIA1-8=Мабуть, вже можу розказати... Зрештою, минуло шість років.
+
+
+# Gherkin
+### Not long before the accident, she made a discovery.
+CH5_GHERKIN_LIA1-9=Не так давно перед тим нещасним випадком, вона зробила відкриття.
+
+
+# Brok
+### What discovery?...
+CH5_GHERKIN_LIA1-10=Яке відкриття...?
+
+
+# Gherkin
+### I don't know. That's all she said in her message.
+CH5_GHERKIN_LIA1-11=Я не знаю. Це все, що вона написала в своєму повідомленні.
+
+
+# Gherkin
+### It could have been anything. A breakthrough or a minor observation...
+CH5_GHERKIN_LIA1-12=Це могло бути що завгодно. Як прорив, так і незначне спостереження...
+
+
+# Gherkin
+### Who knows. After all her job was to find stuff.
+CH5_GHERKIN_LIA1-13=Хто його знає. Зрештою, її робота полягала в знаходженні речей.
+
+
+# Gherkin
+### Unfortunately, I think this secret died with her.
+CH5_GHERKIN_LIA1-14=На жаль, цей секрет помер разом із нею.
+
+
+# Brok
+### Why is this the first time I've heard about that?
+CH5_GHERKIN_LIA1-15=І чому я лише зараз вперше про це чую?
+
+
+# Gherkin
+### After the city power shutdown, all data was lost. Including this message.
+CH5_GHERKIN_LIA1-16=Після відключення електропостачання в місті всі дані були втрачені. У тому числі й це повідомлення.
+
+
+# Gherkin
+### I only remembered this after the investigation. It didn't seem so important.
+CH5_GHERKIN_LIA1-17=Я лише згадав це після розслідування. І воно не здавалося мені такою важливою деталлю.
+
+
+# Brok
+### We'll talk more after we're done, doctor.
+CH5_GHERKIN_LIA1-18=Ми ще поговоримо з вами про це, коли закінчимо, докторе.
+
+
+# Gherkin
+### B-but I don't know anymore...
+CH5_GHERKIN_LIA1-19=А-але я більше нічого не знаю...
+
+
+# Brok
+### I said we will.
+CH5_GHERKIN_LIA1-20=Я сказав, що ми поговоримо.
+
+
+# Gherkin
+### Alright...
+CH5_GHERKIN_LIA1-21=Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### (I have many questions but now is hardly a good time to give him the third degree)
+CH5_GHERKIN_LIA2-1=(У мене ще є стільки питань, але зараз не найкращий час для допиту)
+
+
+#----------------------------------------------------
+# Brok
+### (Is that guy hiding something from me?...)
+CH5_GHERKIN_THINK1-1=(Він щось від мене приховує...?)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### (Oh well. He's my only clue to save the Slums. And get paid!)
+CH5_GHERKIN_THINK1-2=(Ну що ж. Він - моя єдина зачіпка, щоб врятувати Нетрі. І заробити грошей!)
+
+
+#----------------------------------------------------
+# Brok
+### Can you analyze this?
+CH5_GHERKIN_INV_DEFAULT1-1=Ви можете це проаналізувати?
+
+
+# Gherkin
+### I'm afraid I don't have the appropriate equipment.
+CH5_GHERKIN_INV_DEFAULT1-2=Боюся, у мене немає відповідного обладнання.
+
+
+# Gherkin
+### But from my perspective this is nothing out of the ordinary.
+CH5_GHERKIN_INV_DEFAULT1-3=Але, на мій погляд, у цьому немає нічого незвичайного.
+
+
+# Brok
+### You wouldn't say that if you knew where it's been.
+CH5_GHERKIN_INV_DEFAULT1-4=Ви б це не казали, якби знали, де ця річ побувала.
+
+
+#----------------------------------------------------
+# Brok
+### Take this.
+CH5_GHERKIN_INV_DEFAULT2-1=Тримайте.
+
+
+# Gherkin
+### What for?... Will this help us on the streets?
+CH5_GHERKIN_INV_DEFAULT2-2=Навіщо...? Це якось допоможе нам?
+
+
+# Brok
+### Erm... I guess it's worth a try.
+CH5_GHERKIN_INV_DEFAULT2-3=Е-е... Гадаю, варто спробувати.
+
+
+# Gherkin
+### Keep it.
+CH5_GHERKIN_INV_DEFAULT2-4=Лишіть собі.
+
+
+#----------------------------------------------------
+# Brok
+### We still have our agreement, right?...
+CH5_GHERKIN_INV_MONEY-1=Наш договір все ще в силі, так...?
+
+
+# Gherkin
+### Sure. Ten thousand.
+CH5_GHERKIN_INV_MONEY-2=Звісно. Десять тисяч.
+
+
+# Brok
+### (That's like... ten times more than I usually get a month)
+CH5_GHERKIN_INV_MONEY-3=(Це... в десять разів більше, ніж я зазвичай отримую в місяць)
+
+
+#----------------------------------------------------
+# Brok
+### We should hide at my home!
+CH5_GHERKIN_INV_APARTMENTKEY-1=Ми маємо сховатися в моєму домі!
+
+
+# Gherkin
+### Are you forgetting our mission? Who's going to save us if we don't?
+CH5_GHERKIN_INV_APARTMENTKEY-2=Ви що, забули про нашу місію? Хто нас врятує, якщо не ми самі?
+
+
+# Brok
+### Oh... right.
+CH5_GHERKIN_INV_APARTMENTKEY-3=Ох... точно.
+
+
+#----------------------------------------------------
+# Brok
+### See? I'm a detective!
+CH5_GHERKIN_INV_MAGNIFY-1=Бачиш? Я детектив!
+
+
+# Gherkin
+### I know. I've read all about your career online.
+CH5_GHERKIN_INV_MAGNIFY-2=Знаю. Я читав про вашу кар'єру в мережі.
+
+
+# Brok
+### But a magnifying glass doesn't lie!
+CH5_GHERKIN_INV_MAGNIFY-3=Але лупа не бреше!
+
+
+#----------------------------------------------------
+# Gherkin
+### Hmm... I believe your wife wore one like this.
+CH5_GHERKIN_INV_PENDANT-1=Гмм... Здається, ваша дружина носила такий самий.
+
+
+# Brok
+### That's the one.
+CH5_GHERKIN_INV_PENDANT-2=Це він і є.
+
+
+#----------------------------------------------------
+# Gherkin
+### Where did you get this one?
+CH5_GHERKIN_INV_POLLUTIONPILL-1=Звідки ви її дістали?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### In the Drums.
+CH5_GHERKIN_INV_POLLUTIONPILL-2=Вона з Верхів.
+
+
+# Gherkin
+### I should have guessed... They still have stock over there.
+CH5_GHERKIN_INV_POLLUTIONPILL-3=Що ж, я мав би здогадатись... У них там все ще є запаси.
+
+
+#----------------------------------------------------
+# Brok
+### You're a doctor, right?...
+CH5_GHERKIN_INV_TRAMPPRESCR-1=Ви ж лікар, так...?
+
+
+# Brok
+### I need that medical prescription cancelled... Or something like that.
+CH5_GHERKIN_INV_TRAMPPRESCR-2=Мені потрібно скасувати цей медичний рецепт... Чи щось типу того.
+
+
+# Gherkin
+### Renewed?
+CH5_GHERKIN_INV_TRAMPPRESCR-3=Поновити?
+
+
+# Gherkin
+### Is this yours?
+CH5_GHERKIN_INV_TRAMPPRESCR-4=Він ваш?
+
+
+# Brok
+### No, a friend who desperately needs help.
+CH5_GHERKIN_INV_TRAMPPRESCR-5=Ні, це для друга, якому конче потрібна допомога.
+
+
+# Gherkin
+### Then bring me to them. Medicine is personal.
+CH5_GHERKIN_INV_TRAMPPRESCR-6=Тоді відведіть мене до вашого друга. Медицина - це особиста справа.
+
+
+# Brok
+### Alright! Let's do this!
+CH5_GHERKIN_INV_TRAMPPRESCR-7=Гаразд! Давайте зробимо це!
+
+
+#----------------------------------------------------
+# Brok
+### I'll be around.
+CH5_GHERKIN_EXIT1-1=Я тут ще трохи поблукаю.
+
+
+# Gherkin
+### Stay close, please!...
+CH5_GHERKIN_EXIT1-2=Лишайтеся поруч, будь ласка...!
+
+
+#----------------------------------------------------
+# Brok
+### Enough chit-chat. Back to work!
+CH5_GHERKIN_EXIT2-1=Достатньо балаканини. Повертаємося до роботи!
+
+
+# Gherkin
+### You're enjoying this?
+CH5_GHERKIN_EXIT2-2=Вам, що, це подобається?
+
+
+# Gherkin
+### You must have suicidal tendencies. There are pills you can take to...
+CH5_GHERKIN_EXIT2-3=У вас, мабуть, суїцидальні нахили. Знаєте, десь є пігулки, які вам...
+
+
+# Brok
+### No, thank you.
+CH5_GHERKIN_EXIT2-4=Ні, дякую.
+
+
+#----------------------------------------------------
+# Brok
+### Don't move.
+CH5_GHERKIN_EXIT3-1=Не рухайтесь.
+
+
+# Gherkin
+### I won't!
+CH5_GHERKIN_EXIT3-2=Не буду!
+
+
+#----------------------------------------------------
+# Brok - Various phone calls or attempts
+### Hey!
+CH5_CALL_GRAFF_STORY210-1=Гей!
+
+
+# Graff
+### Hi.
+CH5_CALL_GRAFF_STORY210-2=Привіт.
+
+
+# Brok
+### How's it going?
+CH5_CALL_GRAFF_STORY210-3=Як твої справи?
+
+
+# Graff
+### In the middle of my trial... I don't have much time left.
+CH5_CALL_GRAFF_STORY210-4=Я зараз посеред випробування... У мене лишилося мало часу.
+
+
+# Brok
+### Oh, sorry.
+CH5_CALL_GRAFF_STORY210-5=Ой, вибач.
+
+
+# Brok
+### Lemme know if I can help!
+CH5_CALL_GRAFF_STORY210-6=Дай мені знати, якщо я можу якось допомогти!
+
+
+# Graff
+### Sure.
+CH5_CALL_GRAFF_STORY210-7=Добре.
+
+
+# Graff
+### Thanks for calling... I appreciate it.
+CH5_CALL_GRAFF_STORY210-8=Дякую, що подзвонив... Я це ціную.
+
+
+# Brok
+### No problem, kiddo.
+CH5_CALL_GRAFF_STORY210-9=Без проблем, малий.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH5_CALL_WES_STORY210-1=...
+
+
+# Brok
+### Guess he's too busy with everything that's going on in this city.
+CH5_CALL_WES_STORY210-2=Мабуть, він зайнятий, враховуючи весь цей безлад, що відбувається в місті.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH5_CALL_SHAY_STORY210-1=...
+
+
+# Brok
+### She warned me she wouldn't be available today.
+CH5_CALL_SHAY_STORY210-2=Вона попереджала мене, що не буде сьогодні доступною.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, kiddo!
+CH5_GRAFF_CALL_BROK_STORY270-1=Гей, малий!
+
+
+# Brok
+### What's going on?
+CH5_GRAFF_CALL_BROK_STORY270-2=Що там?
+
+
+# Graff
+### Just...
+CH5_GRAFF_CALL_BROK_STORY270-3=Просто...
+
+
+# Graff
+### ...making sure you're reachable.
+CH5_GRAFF_CALL_BROK_STORY270-4=...хотів переконатися, що можу додзвонитися до тебе.
+
+
+# Brok
+### Are you okay? You took your pill?
+CH5_GRAFF_CALL_BROK_STORY270-5=У тебе все в порядку? Ти прийняв пігулку?
+
+
+# Graff
+### Yeah. No worries.
+CH5_GRAFF_CALL_BROK_STORY270-6=Так. Не хвилюйся.
+
+
+# Graff
+### Keep looking for clues.
+CH5_GRAFF_CALL_BROK_STORY270-7=Продовжуй шукати зачіпки.
+
+
+# Brok
+### Sure!
+CH5_GRAFF_CALL_BROK_STORY270-8=Звісно!
+
+
+# Brok
+### Take care.
+CH5_GRAFF_CALL_BROK_STORY270-9=Бережи себе.
+
+
+# Graff
+### You too.
+CH5_GRAFF_CALL_BROK_STORY270-10=Ти теж.
+
+
+#----------------------------------------------------
+# Ott
+### Hey, I'm right here!
+CH5_GRAFF_CALL_OTT-1=Гей, я ж прямо тут стою!
+
+
+# Graff
+### Oh... Sorry, I forgot.
+CH5_GRAFF_CALL_OTT-2=Ой... Вибач, я забув.
+
+
+# Ott
+### I understand. The stress of the final trial...
+CH5_GRAFF_CALL_OTT-3=Я розумію. Стрес від останнього випробування...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+CH5_GRAFF_CALL_KLAY-1=...
+
+
+# Graff
+### No point. He won't re...
+CH5_GRAFF_CALL_KLAY-2=Марно. Він не від...
+
+
+# Klay
+### Hey.
+CH5_GRAFF_CALL_KLAY-3=Алло.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay?!
+CH5_GRAFF_CALL_KLAY-4=Клей?!
+
+
+# Klay
+### Who else?
+CH5_GRAFF_CALL_KLAY-5=А хто ще?
+
+
+# Klay
+### Oh, don't tell me. You called the wrong number!
+CH5_GRAFF_CALL_KLAY-6=Ой, тільки не кажи, що... Ти помилився номером!
+
+
+# Graff
+### N... No.
+CH5_GRAFF_CALL_KLAY-7=Н... Ні.
+
+
+# Graff
+### Just... wanted to know where you are.
+CH5_GRAFF_CALL_KLAY-8=Я... просто хотів дізнатись, де ти.
+
+
+# Klay
+### Sorry. Won't tell.
+CH5_GRAFF_CALL_KLAY-9=Вибач. Не скажу.
+
+
+# Klay
+### This is our final trial. It's too important!
+CH5_GRAFF_CALL_KLAY-10=Це наше фінальне випробування. Воно занадто важливе!
+
+
+# Graff
+### Okay. Never mind.
+CH5_GRAFF_CALL_KLAY-11=Гаразд. Проїхали.
+
+
+# Graff
+### Good luck.
+CH5_GRAFF_CALL_KLAY-12=Удачі.
+
+
+# Klay
+### Yeah. May the best win.
+CH5_GRAFF_CALL_KLAY-13=Ага. Нехай переможе найкращий.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH5_GHERKIN_CALLS1-1=...
+
+
+# Brok
+### A call... Someone I don't know...
+CH5_GHERKIN_CALLS1-2=Дзвінок... Це хтось, кого я не знаю...
+
+
+# Brok
+### Hello?
+CH5_GHERKIN_CALLS1-3=Алло?
+
+
+# Gherkin
+### I need your help! Urgently!
+CH5_GHERKIN_CALLS1-4=Мені потрібна ваша допомога! Терміново!
+
+
+# Brok
+### Hold on. Who are you?
+CH5_GHERKIN_CALLS1-5=Зачекайте. Хто ви?
+
+
+# Gherkin
+### Doctor Gherkin. From the pharmaceutical factory!
+CH5_GHERKIN_CALLS1-6=Доктор Геркін. З фармацевтичного заводу!
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribots have gone mad!
+CH5_GHERKIN_CALLS1-7=Триботи збожеволіли!
+
+
+# Gherkin
+### I swear, they're after me!
+CH5_GHERKIN_CALLS1-8=Клянуся, вони мене переслідують!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### A Drumer, huh...
+CH5_GHERKIN_CALLS1-9=З Верхів, га...
+
+
+# Brok
+### What do you need me for?
+CH5_GHERKIN_CALLS1-10=А я вам навіщо потрібен?
+
+
+# Gherkin
+### Ohhh... Can't I just explain when you're here?...
+CH5_GHERKIN_CALLS1-11=Ооох... Я не можу це пояснити, коли ви вже будете на місці?
+
+
+# Brok
+### Sorry. I'm already on an investigation, so...
+CH5_GHERKIN_CALLS1-12=Вибачте. Я вже займаюся одним розслідуванням, тож...
+
+
+# Gherkin
+### Wait!
+CH5_GHERKIN_CALLS1-13=Зачекайте!
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm the only one who can fix the situation in the Slums.
+CH5_GHERKIN_CALLS1-14=Я єдиний, хто може виправити ситуацію в Нетрях.
+
+
+# Brok
+### The pills shortage?...
+CH5_GHERKIN_CALLS1-15=Ви про нестачу пігулок...?
+
+
+# Gherkin
+### That one.
+CH5_GHERKIN_CALLS1-16=Саме так.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### I can fix the Pipe-Pills. But for this I need to remain alive!
+CH5_GHERKIN_CALLS1-17=Я можу полагодити Пігулкомати. Але для цього мені потрібно лишатися живим!
+
+
+# Brok
+### That's fantastic news!
+CH5_GHERKIN_CALLS1-18=Це чудові новини!
+
+
+# Brok
+### ...Well, not that you're in danger but...
+CH5_GHERKIN_CALLS1-19=...Ну, не те, що ви в небезпеці, а те, що полагодите...
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### It's my job. No other Drumer would agree to accompany me to this dump...
+CH5_GHERKIN_CALLS1-20=Це моя робота. Жоден інший мешканець Верхів не погодився б супроводжувати мене на це звалище...
+
+
+# Gherkin
+### Well, no offense.
+CH5_GHERKIN_CALLS1-21=Без образ.
+
+
+# Brok
+### Nope, it's a dump alright.
+CH5_GHERKIN_CALLS1-22=Ні, ви праві, це звалище.
+
+
+# Brok
+### I just think you're overreacting. Just a liiiitle bit.
+CH5_GHERKIN_CALLS1-23=Мені просто здається, що ви перебільшуєте. Зовсім тріііішечки.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm not afraid of the Slums' inhabitants...
+CH5_GHERKIN_CALLS1-24=Я не боюся мешканців Нетрів...
+
+
+# Gherkin
+### But those bots! They're...
+CH5_GHERKIN_CALLS1-25=Але ці боти! Вони...
+
+
+# Gherkin
+### Oh gosh...
+CH5_GHERKIN_CALLS1-26=Ой, леле...
+
+
+# Gherkin
+### There's one in the corner looking at me... I can see its shadow!...
+CH5_GHERKIN_CALLS1-27=Один в кутку, він дивиться на мене... Я бачу його тінь...!
+
+
+# Brok
+### Why me, though?
+CH5_GHERKIN_CALLS1-28=Але чому саме я?
+
+
+# Gherkin
+### I took the time to study your history in the last ten minutes.
+CH5_GHERKIN_CALLS1-29=Протягом останніх десяти хвилин я ознайомився з вашою історією.
+
+
+# Gherkin
+### You've got a track record for street fights. You sure can defend yourself!
+CH5_GHERKIN_CALLS1-30=У вас є величезний досвід вуличних бійок. Ви точно знаєте, як себе захистити!
+
+
+# Brok
+### Erm... I'm flattered...
+CH5_GHERKIN_CALLS1-31=Е-е-е... Дякую...
+
+
+# Gherkin
+### Besides, you're the only one who replied to my calls...
+CH5_GHERKIN_CALLS1-32=До того ж, ви єдиний, хто відповів на мої дзвінки...
+
+
+# Brok
+### Oh.
+CH5_GHERKIN_CALLS1-33=Ох.
+
+
+# Gherkin
+### Please! I'm begging you!
+CH5_GHERKIN_CALLS1-34=Будь ласка! Я благаю вас!
+
+
+# Gherkin
+### How much do you want?
+CH5_GHERKIN_CALLS1-35=Скільки ви хочете?
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Two thousands Unis? Five?
+CH5_GHERKIN_CALLS1-36=Дві тисячі Юні? П'ять?
+
+
+# Brok
+### Five... thousand?!
+CH5_GHERKIN_CALLS1-37=П'ять... тисяч?!
+
+
+# Gherkin
+### What? Not enough?
+CH5_GHERKIN_CALLS1-38=Що? Цього недостатньо?
+
+
+# Gherkin
+### Okay, okay! Make it ten then!
+CH5_GHERKIN_CALLS1-39=Гаразд, гаразд! Хай буде десять!
+
+
+# Brok
+### Ten...!!!
+CH5_GHERKIN_CALLS1-40=Десять...!!!
+
+
+# Brok
+### Deal!
+CH5_GHERKIN_CALLS1-41=Домовились!
+
+
+# Gherkin
+### Thank heavens!
+CH5_GHERKIN_CALLS1-42=Хвала небесам!
+
+
+# Gherkin
+### Please hurry! I'll be waiting for you in front of the factory.
+CH5_GHERKIN_CALLS1-43=Будь ласка, поспішіть! Я чекатиму на вас біля заводу.
+
+
+# Unknown
+### [...]
+CH5_GHERKIN_CALLS1-44=[...]
+
+
+# Brok
+### Oh, man!
+CH5_GHERKIN_CALLS1-45=Ох, нічого собі!
+
+
+# Brok
+### Just escorting that guy from one place to another and get ten grand?
+CH5_GHERKIN_CALLS1-46=Просто провести цього хлопця з одного місця в інше і отримати десять тисяч?
+
+
+# Brok
+### This is exactly what I needed. A lead and money!
+CH5_GHERKIN_CALLS1-47=Це саме те, що мені було потрібно. Зачіпка і гроші!
+
+
+# Brok - Talking about luck
+### Did the tide finally turn?
+CH5_GHERKIN_CALLS1-48=Невже удача починає мені посміхатись?
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Checking Pipe Pill with Dr Gherkin
+### ...
+CH5_GHERKIN_PIPEPILL1-1=...
+
+
+# Brok
+### Nothin'? Isn't it supposed to be fixed?
+CH5_GHERKIN_PIPEPILL1-2=Нічого? Хіба ви її не полагодили?
+
+
+# Gherkin
+### I-I never said it would work right after.
+CH5_GHERKIN_PIPEPILL1-3=Я-я ніколи не казав, що воно запрацює негайно.
+
+
+# Gherkin
+### Give it some time for the stocks to transfer.
+CH5_GHERKIN_PIPEPILL1-4=Дайте трохи часу, щоб запаси дійшли по трубі.
+
+
+# Brok
+### Hmm. That better work.
+CH5_GHERKIN_PIPEPILL1-5=Гмм. Краще б воно скоріше запрацювало.
+
+
+#----------------------------------------------------
+# Gherkin
+### Watch out!
+CH5_GHERKIN_HIT1-1=Обережно!
+
+
+#----------------------------------------------------
+# Gherkin
+### I... I'm scared!
+CH5_GHERKIN_HIT2-1=Мені... Мені страшно!
+
+
+#----------------------------------------------------
+# Gherkin
+### Help! I need protection... From you!
+CH5_GHERKIN_HIT3-1=Допоможіть! Мені потрібен захист... Від вас!
+
+
+#----------------------------------------------------
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### I'm starting to believe I was safer with the Tribots...
+CH5_GHERKIN_HIT4-1=Я починаю думати, що з Триботами було безпечніше...
+
+
+#----------------------------------------------------
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok?...
+CH5_GHERKIN_FOLLOWS1-1=Пане Броку...?
+
+
+#----------------------------------------------------
+# Gherkin
+### What are we doing here...?
+CH5_GHERKIN_FOLLOWS2-1=Що ми тут робимо...?
+
+
+#----------------------------------------------------
+

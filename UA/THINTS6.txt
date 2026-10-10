@@ -1,0 +1,119 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=HINTS - CHAPTER 6
+#-------------------------------
+
+#----- Hints GRAFF --------
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Kitty, the hacker lives in the back street. Go meet him!
+HINT_CH6_255_HACKERGO1=
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Ask the hacker about your request.
+HINT_CH6_255_HACKERMISSION1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### So... That hacker guy wants a ton of moolah. There aren't too many ways to get this within a day, kitty. Actually, there's only one. Think about what you picked up today...
+HINT_CH6_255_HACKERMONEY1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Show the hacker your bank statement.
+HINT_CH6_255_HACKERMONEY2=
+
+### Talk to the big bear...
+HINT_CH6_255_HACKERRJ1=
+
+### Go to the back street. That's your destiny...
+HINT_CH6_255_HACKERSTREET1=
+
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### There are several ways to get outta here, kitty. So... for once, I'll just be listing some elements to help.##- Your friend Ott is in the next room.##- You can almost move anywhere you want while tied up but the rats might spot you!##- The exit is a ladder at the far right of the corridor.##- There's a metal bar at the right wall of your room but to get it you'll need to break free.##- That little hook next to that cupboard could help to cut the rope but it'll take (a lot of) time.##Choose your own path!
+HINT_CH6_290_ESCAPE1=
+
+
+
+#----- Hints BROK --------
+### Croc dude... If you choose to solve that puzzle, here's my advice for you : press everything! Ain't got time to think! But... I guess I'll give you the exact solution for the first part.##You need all lights to turn green. Each button activate some and deactivate others. Here are the buttons to press (from top left to bottom right) : 1, 3, 7, 8.
+HINT_CH6_255_BUNKERENTER1=
+
+### Here's a solution for the second part : 1, 9. (Is pressing two buttons too hard for you, croc?...)
+HINT_CH6_255_BUNKERENTER2=
+
+### Just avoid those lasers, croc. If the kitty could do it, so can you!
+HINT_CH6_255_BUNKERLASERS1=
+
+### Take a look at the frame on the right wall.
+HINT_CH6_260_BUNKERFRAME1=
+
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Talk to Dee.
+HINT_CH6_260_BUNKERDEE1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Interrogate Dr. Gherkin.
+HINT_CH6_260_BUNKERINTERROGATE1=
+
+
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Find a way to get rid of these bots, croc! Just try opening that door and choose to fight or let Dee handle this.
+HINT_CH6_270_BUNKERBOTS1=
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Take a look at those wires behind that furniture in the room where the Tribots were. Then move the furniture!
+HINT_CH6_270_FURNITURE1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Check that control panel and ask Dr. Gherkin for his opinion!
+HINT_CH6_270_CONTROLPANEL1=
+
+### Switch to action mode and destroy that button panel! Then pick up the box inside it.
+HINT_CH6_270_BUTTONBOX1=
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Give the little box you have to Dr. Gherkin.
+HINT_CH6_270_GIVEBOX1=
+
+
+### You might be blocked by those lasers. Surely you've got something to deactivate them. Just use 'it' at the right time! And remember - those bots can only see what's in front of them.
+HINT_CH6_280_SINJAIL1=
+
+### Use your remote control to deactivate the lasers.
+HINT_CH6_280_SINJAIL2=
+
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Search around the city for Graff. You know where he was the last time, right?... You might want to prepare yourself before going there, though.
+HINT_CH6_290_SEARCHGRAFF1=
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### The hacker back street. Go talk to R.J. if he's there, otherwise go to the hacker. Then visit the street.
+HINT_CH6_290_SEARCHGRAFF2=
+
+
+
+### Croc dude, you gotta assemble a sentence of three words! Like "CHICKEN LOVES FAT" (no, don't try that one).##It's linked to what you've just deduced. And for each word, there's an icon - look at them!
+HINT_CH6_320_KEYWORDS1=
+
+### Enter : TIME ERASES MEMORY
+HINT_CH6_320_KEYWORDS2=
+
+
+### Remove the blanket from the machine!
+HINT_CH6_320_UNCOVER1=
+
+### Check the timeline (bottom right of the machine)
+HINT_CH6_320_TIMELINE1=
+
+### Croc... Use your pendant on the slot of the machine (on the left).
+HINT_CH6_320_PENDANT1=
+
+### Open that egg, croc...
+HINT_CH6_320_EGG1=
+
+### Croc dude... Your destiny awaits you. Will you be up to it?...##Don't worry... I'm sticking with you, no matter the choice you make. We'll have more adventures together! (Sniffles)
+HINT_CH6_320_ENTEREGG1=
+
+

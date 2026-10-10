@@ -1,0 +1,1221 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Hacker (Unknown)
+#     Graff - Ott (Unknown)
+#     Hacker - Graff (Unknown)
+#     Hacker - Ott (Unknown)
+#     Hacker - RJ (Unknown)
+#     Hacker - Unknown (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Hacker (Unknown)
+#     RJ - Hacker (Unknown)
+#     Unknown - Hacker (Unknown)
+
+#-------------------------------
+#= GRAFF - HACKER INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Choices / Items --------
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+# Hacker - Day 3 - Graff & Ott meet the hacker
+### What?... Who's that?!
+GPC14C_HACKER_FIRST1-1=Що...? Хто це?!
+
+
+# RJ
+### Kids. To hide here.
+GPC14C_HACKER_FIRST1-2=Діти. Сховаються тут.
+
+
+# Hacker
+### Are you insane?!
+GPC14C_HACKER_FIRST1-3=Ви з глузду з'їхали?!
+
+
+# Hacker
+### Yesterday the croc, now this?!
+GPC14C_HACKER_FIRST1-4=Учора крокодил, а тепер оце?!
+
+
+# Hacker
+### Don't make me reconsider hiring you back!
+GPC14C_HACKER_FIRST1-5=Не змушуй мене шкодувати, що я тебе взяв назад на роботу!
+
+
+# RJ
+### Aww... But...
+GPC14C_HACKER_FIRST1-6=Ох... Але...
+
+
+#----------------------------------------------------
+# Hacker - Entering if RJ wasn't there
+### What the?...
+GPC14C_HACKER_FIRST_NORJ-1=Що за...?
+
+
+# Hacker
+### Kids?!
+GPC14C_HACKER_FIRST_NORJ-2=Діти?!
+
+
+# Graff
+### Erm...
+GPC14C_HACKER_FIRST_NORJ-3=Е-е...
+
+
+# Hacker
+### Tsk. Go play outside.
+GPC14C_HACKER_FIRST_NORJ-4=Пхе. Ідіть гратися на вулицю.
+
+
+# Hacker
+### I really need to find me some other goon.
+GPC14C_HACKER_FIRST_NORJ-5=Мені справді треба знайти якогось кращого охоронця.
+
+
+#----------------------------------------------------
+# Graff
+### Actually, we came to see you.
+GPC14C_HACKER_FIRST2-1=Узагалі-то, ми прийшли до тебе.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### You're a hacker, right?
+GPC14C_HACKER_FIRST2-2=Ти гакер, еге ж?
+
+
+# Hacker
+### I prefer the term "Skilled programmer bypassing securities."
+GPC14C_HACKER_FIRST2-3=Радше "талановитий програміст, який обходить системи безпеки."
+
+
+# Hacker
+### Wait... How do you know?
+GPC14C_HACKER_FIRST2-4=Стривайте... Звідки ви це знаєте?
+
+
+# Graff
+### Doesn't matter. I need your help.
+GPC14C_HACKER_FIRST2-5=Неважливо. Мені потрібна твоя допомога.
+
+
+# Hacker
+### Ha! And you brought your pocket money, huh?
+GPC14C_HACKER_FIRST2-6=Ха! І ти приніс свої кишенькові гроші, га?
+
+
+# Hacker
+### I seriously doubt this will suffice, kiddos!
+GPC14C_HACKER_FIRST2-7=Сумніваюся, що цього на щось вистачить, дітлахи!
+
+
+# Hacker
+### Go away. You're wasting my precious time.
+GPC14C_HACKER_FIRST2-8=Йдіть геть. Ви витрачаєте мій дорогоцінний час.
+
+
+# Graff
+### No.
+GPC14C_HACKER_FIRST2-9=Ні.
+
+
+# Hacker
+### No...?
+GPC14C_HACKER_FIRST2-10=Ні...?
+
+
+# Graff
+### Listen. We're clients. Right in front of you.
+GPC14C_HACKER_FIRST2-11=Послухай. Ми - клієнти. Стоїмо прямо перед тобою.
+
+
+# Graff
+### What kind of businessman would ignore an easy sale?
+GPC14C_HACKER_FIRST2-12=Який бізнесмен ігноруватиме таку пропозицію?
+
+
+# Hacker
+### ...
+GPC14C_HACKER_FIRST2-13=...
+
+
+# Hacker
+### Okay, okay!
+GPC14C_HACKER_FIRST2-14=Гаразд, гаразд!
+
+
+# Hacker
+### Go ahead and tell me all about your lost cuddly toy.
+GPC14C_HACKER_FIRST2-15=Давайте, розкажіть мені все про свою загублену іграшку.
+
+
+# Graff
+### Argh...
+GPC14C_HACKER_FIRST2-16=Ар-р...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### I need you to hack into the Consciousness Center's dataframe.
+GPC14C_HACKER_MISSION1-1=Мені потрібно, щоб ти зламав базу даних Центру Свідомості.
+
+
+# Hacker
+### I see...
+GPC14C_HACKER_MISSION1-2=Зрозуміло...
+
+
+# Hacker
+### You posted some naughty pics and they've caught you, huh?
+GPC14C_HACKER_MISSION1-3=То ти виклав якісь пікантні фоточки, і тебе спіймали, га?
+
+
+# Graff
+### No! I just...
+GPC14C_HACKER_MISSION1-4=Ні! Я просто...
+
+
+# Graff
+### Need to pass my exam.
+GPC14C_HACKER_MISSION1-5=Мені потрібно скласти іспит.
+
+
+#----------------------------------------------------
+# Graff
+### I had some bad results and...
+GPC14C_HACKER_BADRESULTS-1=У мене були деякі погані результати, і...
+
+
+# Hacker
+### ...you wanna cheat.
+GPC14C_HACKER_BADRESULTS-2=...ти хочеш змахлювати.
+
+
+# Graff
+### No moral lesson, please.
+GPC14C_HACKER_BADRESULTS-3=Тільки без моралей, будь ласка.
+
+
+# Hacker
+### Kids. So predictable.
+GPC14C_HACKER_BADRESULTS-4=Діти. Такі передбачувані.
+
+
+#----------------------------------------------------
+# Graff
+### I had great results! I should have passed if not for...
+GPC14C_HACKER_FORBIDDEN-1=У мене були чудові результати! Я би склав іспит, якби не...
+
+
+# Hacker
+### For what?
+GPC14C_HACKER_FORBIDDEN-2=Якби не що?
+
+
+# Graff
+### I thought you wouldn't ask questions.
+GPC14C_HACKER_FORBIDDEN-3=Я думав, ти не ставитимеш запитань.
+
+
+# Hacker
+### You expect me to do a clean job, don't you?
+GPC14C_HACKER_FORBIDDEN-4=Ти ж хочеш, щоб я зробив свою роботу чисто, еге ж?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### My old man is a Drumer, which is forbidden.
+GPC14C_HACKER_FORBIDDEN-5=Мій старий виявився мешканцем Верхів, а це заборонено.
+
+
+# Hacker
+### Hmm...
+GPC14C_HACKER_FORBIDDEN-6=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### Well, just make sure I pass.
+GPC14C_HACKER_MISSIONNEXT-1=Ну, просто зроби так, щоб я склав іспит.
+
+
+# Hacker
+### Hmph...
+GPC14C_HACKER_MISSIONNEXT-2=Гм-м...
+
+
+# Hacker
+### There are quite a few firewalls and other securities there but...
+GPC14C_HACKER_MISSIONNEXT-3=Там доволі багато брандмауерів та інших систем захисту, але...
+
+
+# Hacker
+### That's feasible.
+GPC14C_HACKER_MISSIONNEXT-4=Це можливо.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### For 100,000 Unis.
+GPC14C_HACKER_MISSIONNEXT-5=За 100,000 Юні.
+
+
+# Graff
+### What...?
+GPC14C_HACKER_MISSIONNEXT-6=Що...?
+
+
+# Graff
+### One hundred... Thousand?!
+GPC14C_HACKER_MISSIONNEXT-7=Сто... Тисяч?!
+
+
+# Hacker
+### I warned you. That's the price for a quality job.
+GPC14C_HACKER_MISSIONNEXT-8=Я тебе попереджав. Така ціна за якісну роботу.
+
+
+# Ott
+### He's a crook.
+GPC14C_HACKER_MISSIONNEXT-9=Він шахрай.
+
+
+# Hacker
+### Hey, I'm doing a risky job!
+GPC14C_HACKER_MISSIONNEXT-10=Гей, я виконую ризиковану роботу!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Come on, Graff. Let's find another way.
+GPC14C_HACKER_MISSIONNEXT-11=Ну ж бо, Граффе. Знайдемо інший вихід.
+
+
+# Graff
+### What other way?!
+GPC14C_HACKER_MISSIONNEXT-12=Який інший вихід?!
+
+
+# Graff
+### We've explored the possibilities! There's no other solution!
+GPC14C_HACKER_MISSIONNEXT-13=Ми вже все перепробували! Інших варіантів немає!
+
+
+# Ott
+### But how are you going to get to that kind of money before tonight?
+GPC14C_HACKER_MISSIONNEXT-14=Але як ти збираєшся дістати такі гроші до вечора?
+
+
+# Graff
+### Let me think.
+GPC14C_HACKER_MISSIONNEXT-15=Дай мені подумати.
+
+
+# Hacker
+### Don't take all day!
+GPC14C_HACKER_MISSIONNEXT-16=Тільки не думай увесь день!
+
+
+# Hacker
+### I hate flies buzzing around me while I'm working.
+GPC14C_HACKER_MISSIONNEXT-17=Терпіти не можу, коли мухи дзижчать над вухом під час роботи.
+
+
+#----------------------------------------------------
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Will you get me those 100,000 Unis, boy?
+GPC14C_HACKER_MISSION2-1=Дістанеш мені ці 100,000 Юні, хлопче?
+
+
+# Graff
+### Yeah. But...
+GPC14C_HACKER_MISSION2-2=Так. Але...
+
+
+# Hacker
+### Don't even try to negotiate. I've already decided on my price! This amount just about covers the risks.
+GPC14C_HACKER_MISSION2-3=Навіть не намагайся торгуватися. Я вже визначився з ціною! Ця сума якраз покриває ризики.
+
+
+#----------------------------------------------------
+# Graff
+### Tell me more about the croc from yesterday.
+GPC14C_HACKER_BROK1-1=Розкажи мені більше про вчорашнього крокодила.
+
+
+# Hacker
+### There are six sacred words in our data world, boy.
+GPC14C_HACKER_BROK1-2=У світі даних є п'ять священних слів, хлопче.
+
+
+# Hacker
+### Con-Fi-Den-Ti-Ali-Ty.
+GPC14C_HACKER_BROK1-3=Кон-Фі-Ден-Цій-Ність.
+
+
+# Graff
+### That's just one w...
+GPC14C_HACKER_BROK1-4=Але ж це одне с...
+
+
+# Hacker
+### This is a deal between my client and me. No one else.
+GPC14C_HACKER_BROK1-5=Це угода між моїм клієнтом і мною. Більше ніким.
+
+
+# Graff
+### You don't understand! He's my... My...
+GPC14C_HACKER_BROK1-6=Ти не розумієш! Він мій... Мій...
+
+
+#----------------------------------------------------
+# Ott
+### Tutor.
+GPC14C_HACKER_BROK1B-1=Опікун.
+
+
+# Graff
+### Yeah.
+GPC14C_HACKER_BROK1B-2=Угу.
+
+
+# Hacker
+### He can be the pope for all I care. You won't get anything from me.
+GPC14C_HACKER_BROK1B-3=Та хоч понтифік, мені байдуже. Ти нічого від мене не дізнаєшся.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Pfft. Stupid Squealer...
+GPC14C_HACKER_BROK1B-4=Тьху. Тупий Верескун...
+
+
+# Hacker
+### What did you just say?!
+GPC14C_HACKER_BROK1B-5=Що ти зараз сказав?!
+
+
+# Hacker
+### I'm not one of those dirty rats! I'm a mouse!
+GPC14C_HACKER_BROK1B-6=Я тобі не один із тих брудних щурів! Я миша!
+
+
+# Hacker
+### You should know that by your age!
+GPC14C_HACKER_BROK1B-7=У твоєму віці вже слід би це знати!
+
+
+# Graff
+### Okay, okay! Sorry!... Geez.
+GPC14C_HACKER_BROK1B-8=Гаразд, гаразд! Вибач...! Йой.
+
+
+# Hacker
+### Kids nowadays. What a disrespectful bunch.
+GPC14C_HACKER_BROK1B-9=Сучасні діти. Зовсім не поважають старших.
+
+
+# Graff
+### So?...
+GPC14C_HACKER_BROK1B-10=Ну то що...?
+
+
+# Hacker
+### You'll keep bothering me with this, uh?...
+GPC14C_HACKER_BROK1B-11=Ти й далі будеш мене цим діставати, га...?
+
+
+# Hacker
+### Don't stay around him. That guy is shady.
+GPC14C_HACKER_BROK1B-12=Тримайся від нього подалі. Він дуже підозрілий.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Says the even shadier hacker...
+GPC14C_HACKER_BROK1B-13=Каже ще більш підозрілий гакер...
+
+
+#----------------------------------------------------
+# Hacker
+### He claimed to be a policeman. This doesn't make any sense considering his record.
+GPC14C_HACKER_BROK_MISSION-1=Він стверджував, що працює поліцейським. З огляду на його судимості, це повна маячня.
+
+
+# Graff
+### What do you mean?...
+GPC14C_HACKER_BROK_MISSION-2=Що ти маєш на увазі...?
+
+
+# Hacker
+### I've already said too much.
+GPC14C_HACKER_BROK_MISSION-3=Я й так сказав занадто багато.
+
+
+# Graff
+### ...
+GPC14C_HACKER_BROK_MISSION-4=...
+
+
+#----------------------------------------------------
+# Hacker
+### Wait. You're related?
+GPC14C_HACKER_BROK_KO-1=Стривай. То ви родичі?
+
+
+# Graff
+### Yes.
+GPC14C_HACKER_BROK_KO-2=Так.
+
+
+# Hacker
+### Oh no! Please don't hurt me!
+GPC14C_HACKER_BROK_KO-3=О ні! Будь ласка, не чіпай мене!
+
+
+# Ott
+### Uh?...
+GPC14C_HACKER_BROK_KO-4=Га...?
+
+
+# Graff
+### I'm not here for that!
+GPC14C_HACKER_BROK_KO-5=Я тут не заради цього!
+
+
+# Graff
+### I just... wanna know!
+GPC14C_HACKER_BROK_KO-6=Я просто... хочу знати!
+
+
+# Hacker
+### That guy is mad!
+GPC14C_HACKER_BROK_KO-7=Цей чувак психопат!
+
+
+#----------------------------------------------------
+# Hacker
+### He threatened me! Almost broke my neck!
+GPC14C_HACKER_BROK_THREATEN-1=Він погрожував мені! Ледь шию мені не згорнув!
+
+
+# Hacker
+### I thought I'd be a goner!
+GPC14C_HACKER_BROK_THREATEN-2=Я думав, мені гаплик!
+
+
+# Hacker
+### Oh gosh. If he learns...
+GPC14C_HACKER_BROK_THREATEN-3=О ні. Якщо він дізнається...
+
+
+# Hacker
+### Please don't tell him I said that!...
+GPC14C_HACKER_BROK_THREATEN-4=Будь ласка, не кажи йому про все це...!
+
+
+# Graff
+### I won't! I promise.
+GPC14C_HACKER_BROK_THREATEN-5=Не скажу! Обіцяю.
+
+
+# Ott
+### Threatened... What's your old man up to?...
+GPC14C_HACKER_BROK_THREATEN-6=Погрожував... Що там твій старий затіяв...?
+
+
+# Graff
+### Wish I knew...
+GPC14C_HACKER_BROK_THREATEN-7=Хотів би я знати...
+
+
+#----------------------------------------------------
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### He claims to be poor but then he's able to find 10,000 Unis to pay me.
+GPC14C_HACKER_BROK_MONEY-1=Він каже, що бідний, але при цьому зміг знайти 10,000 Юні, щоб заплатити мені.
+
+
+# Graff
+### Uh?!
+GPC14C_HACKER_BROK_MONEY-2=Га?!
+
+
+# Ott
+### How did he get all that money?!
+GPC14C_HACKER_BROK_MONEY-3=Звідки у нього стільки грошей?!
+
+
+# Hacker
+### Ask him.
+GPC14C_HACKER_BROK_MONEY-4=У нього й запитай.
+
+
+#----------------------------------------------------
+# Graff
+### Tell me more.
+GPC14C_HACKER_BROK2-1=Розкажи ще.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 1,000 Unis. Or my mouth is shut.
+GPC14C_HACKER_BROK2-2=1,000 Юні. Або я закриваю рота.
+
+
+# Graff
+### What?... Forget it.
+GPC14C_HACKER_BROK2-3=Що...? Забудь.
+
+
+#----------------------------------------------------
+# Graff
+### Would this do?
+GPC14C_HACKER_INV_DEFAULT1-1=Це підійде?
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### In exchange for a 100,000 Unis job? Are you crazy?!
+GPC14C_HACKER_INV_DEFAULT1-2=В обмін на роботу вартістю 100,000 Юні? Ти з глузду з'їхав?!
+
+
+# Graff
+### No need to shout! I'll find something else.
+GPC14C_HACKER_INV_DEFAULT1-3=Не обов'язково кричати! Я знайду щось інше.
+
+
+#----------------------------------------------------
+# Graff
+### It's hard for me to part with this but... Here.
+GPC14C_HACKER_INV_DEFAULT2-1=Мені важко з цим розлучатися, але... Тримай.
+
+
+# Hacker
+### What's this crap?
+GPC14C_HACKER_INV_DEFAULT2-2=Що це за лайно?
+
+
+#----------------------------------------------------
+# Graff
+### Here's your money.
+GPC14C_HACKER_INV_MONEY-1=Ось твої гроші.
+
+
+# Hacker
+### Little boy. Go back to school.
+GPC14C_HACKER_INV_MONEY-2=Малий. Іди назад до школи.
+
+
+# Hacker
+### You visibly can't count.
+GPC14C_HACKER_INV_MONEY-3=Ти, очевидно, не вмієш рахувати.
+
+
+# Ott
+### You know... He's right.
+GPC14C_HACKER_INV_MONEY-4=Знаєш... Він правий.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott... You're not helping there.
+GPC14C_HACKER_INV_MONEY-5=Отте... Ти зараз не допомагаєш.
+
+
+#----------------------------------------------------
+# Graff
+### This is what you're looking for, isn't it?
+GPC14C_HACKER_INV_INVOICEHACKER-1=Це те, що ти шукаєш, еге ж?
+
+
+# Hacker
+### My own invoice?!
+GPC14C_HACKER_INV_INVOICEHACKER-2=Мій власний рахунок?!
+
+
+# Hacker
+### I knew kid's IQs were lowering, but I didn't know it was that much.
+GPC14C_HACKER_INV_INVOICEHACKER-3=Я знав, що IQ у дітей падає, але не думав, що настільки.
+
+
+#----------------------------------------------------
+# Hacker
+### A picture?!
+GPC14C_HACKER_INV_SELFIE-1=Фото?!
+
+
+# Hacker
+### Give me a break.
+GPC14C_HACKER_INV_SELFIE-2=Дай мені спокій.
+
+
+# Graff
+### I just meant to ask. Is he the man who requested your help?
+GPC14C_HACKER_INV_SELFIE-3=Я просто хотів запитати. Це той чоловік, який просив тебе про допомогу?
+
+
+# Hacker
+### Maybe. Maybe not.
+GPC14C_HACKER_INV_SELFIE-4=Можливо. А може й ні.
+
+
+# Ott
+### Let it go. He won't tell us anything.
+GPC14C_HACKER_INV_SELFIE-5=Забудь. Він нам нічого не скаже.
+
+
+#----------------------------------------------------
+# Graff
+### (I shouldn't show this...)
+GPC14C_HACKER_INV_BANKSTATEMENT_NOPE-1=(Мені не варто це показувати...)
+
+
+# Graff
+### (Unless I have a good reason.)
+GPC14C_HACKER_INV_BANKSTATEMENT_NOPE-2=(Якщо у мене не знайдеться вагомої причини.)
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-1=...
+
+
+# Graff
+### I have the money.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-2=У мене є гроші.
+
+
+# Ott
+### What?...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-3=Що...?
+
+
+# Graff
+### Take a look at this.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-4=Поглянь на це.
+
+
+# Hacker
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-5=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### This account was opened by my mother. There's more than 100,000 Unis on it.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-6=Цей рахунок відкрила моя мати. На ньому понад 100,000 Юні.
+
+
+# Graff
+### She's dead now, so this means...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-7=Вона вже мертва, тож це означає...
+
+
+# Graff
+### I'll have access to this money in a few days when I turn sixteen.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-8=Я матиму доступ до цих грошей за кілька днів, коли мені виповниться шістнадцять.
+
+
+# Ott
+### How come?
+GPC14C_HACKER_INV_BANKSTATEMENTOK-9=Як це так?
+
+
+# Graff
+### I just found out about this myself.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-10=Я й сам щойно про це дізнався.
+
+
+# Hacker
+### Interesting...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-11=Цікаво...
+
+
+# Graff
+### I guarantee you. You will get the money in a few days.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-12=Я тобі гарантую. Ти отримаєш гроші за кілька днів.
+
+
+# Ott
+### Don't!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-13=Не роби цього!
+
+
+# Ott
+### This must be money your mom saved for you!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-14=Це ж, мабуть, гроші, які твоя мама заощадила для тебе!
+
+
+# Ott
+### You... You can't!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-15=Ти... Ти не можеш!
+
+
+# Graff
+### Then... What's the purpose of it?
+GPC14C_HACKER_INV_BANKSTATEMENTOK-16=Тоді... Яка від них мета?
+
+
+# Graff
+### Wouldn't she want me to use it to ensure a better future for myself?
+GPC14C_HACKER_INV_BANKSTATEMENTOK-17=Хіба вона не хотіла б, щоб я забезпечив ними собі краще майбутнє?
+
+
+# Ott
+### I...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-18=Я...
+
+
+# Ott
+### I don't know but...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-19=Я не знаю, але...
+
+
+# Graff
+### It's decided.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-20=Вирішено.
+
+
+# Hacker
+### Give me your hand, boy.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-21=Дай мені руку, хлопче.
+
+
+# Hacker
+### Hmm...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-22=Гмм...
+
+
+# Hacker
+### So, you are...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-23=Отже, ти...
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff Filsh. Aged 15, birthday in three days.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-24=Графф Філш. 15 років, день народження за три дні.
+
+
+# Hacker
+### Looks like you're telling the truth.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-25=Схоже, ти кажеш правду.
+
+
+# Hacker
+### Alright. Deal.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-26=Гаразд. Домовилися.
+
+
+# Hacker
+### Come back in three days and we shall sort this out.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-27=Повертайся за три дні, і ми розберемося з цим.
+
+
+# Graff
+### No! You don't understand.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-28=Ні! Ти не розумієш.
+
+
+# Graff
+### The data will be transmitted tonight!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-29=Дані будуть передані сьогодні ввечері!
+
+
+# Graff
+### You need to hack the server now!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-30=Треба зламати сервер вже зараз!
+
+
+# Hacker
+### And do credit for you?!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-31=І працювати для тебе в борг?!
+
+
+# Hacker
+### Nah-uh. No way.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-32=Ні. Ні за що.
+
+
+# Graff
+### This is a matter of life and death!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-33=Це питання життя і смерті!
+
+
+# Hacker
+### Exactly. For me as well.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-34=Саме так. Для мене також.
+
+
+# Graff
+### Listen.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-35=Послухай.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Do you really want to pass on the opportunity to win 100,000 Unis?
+GPC14C_HACKER_INV_BANKSTATEMENTOK-36=Невже ти упустиш можливість заробити 100,000 Юні?
+
+
+# Hacker
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-37=...
+
+
+# Hacker
+### Alright.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-38=Гаразд.
+
+
+# Hacker
+### With your prints, I should be able to plan a wire transfer right now.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-39=Маючи твої відбитки, я зможу налаштувати банківський переказ просто зараз.
+
+
+# Hacker
+### I'll re-route it to a few of my cryptocurrencies for... safety reasons.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-40=Я перенаправлю його на кілька своїх криптовалют з... міркувань безпеки.
+
+
+# Hacker
+### But I warn you. This won't be cancellable.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-41=Але попереджаю. Це неможливо буде скасувати.
+
+
+# Graff
+### Do it!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-42=Зроби це!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-43=Граффе...
+
+
+# Hacker
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-44=...
+
+
+# Hacker
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-45=...
+
+
+# Hacker
+### And...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-46=І...
+
+
+# Hacker
+### Done.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-47=Готово.
+
+
+# Hacker
+### Just one thing. Keep in mind.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-48=Лише одне. Май на увазі.
+
+
+# Hacker
+### I'll be watching over you, boy!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-49=Я стежитиму за тобою, хлопче!
+
+
+# Hacker
+### If you dare double-cross me...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-50=Якщо ти захочеш мене обдурити...
+
+
+# Hacker
+### I have the means to ruin your life!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-51=Я маю спосіб, як зруйнувати твоє життя!
+
+
+# Graff
+### Oh, don't worry. It already is.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-52=Ой, не хвилюйся. Воно й так уже зруйноване.
+
+
+# Hacker
+### Now, give me some space. I need to focus!
+GPC14C_HACKER_INV_BANKSTATEMENTOK-53=А тепер відійди. Мені треба зосередитися!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Come on, Ott.
+GPC14C_HACKER_INV_BANKSTATEMENTOK-54=Ходімо, Отте.
+
+
+# Ott
+### ...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-55=...
+
+
+#----------------------------------------------------
+# Ott - After given bank statement to hacker
+### I can't believe it...
+GPC14C_AFTER1-1=Я не можу в це повірити...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### What's wrong with you?! 100,000 Unis?!
+GPC14C_AFTER1-2=Що з тобою не так?! 100,000 Юні?!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Even in the Slums, you could have lived like a lord for years with that kind of money!
+GPC14C_AFTER1-3=Навіть у Нетрях, з такими грошима ти міг би роками жити як король!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Sorry, Ott...
+GPC14C_AFTER1-4=Вибач, Отте...
+
+
+# Graff
+### I... I can't stay here...
+GPC14C_AFTER1-5=Я... Я не можу тут залишатися...
+
+
+# Ott
+### ...
+GPC14C_AFTER1-6=...
+
+
+# Ott
+### Okay. It's your decision, after all.
+GPC14C_AFTER1-7=Гаразд. Зрештою, це твоє рішення.
+
+
+# Ott
+### I'm not saying it's bad. Just...
+GPC14C_AFTER1-8=Я не кажу, що це погано. Просто...
+
+
+# Ott
+### Maybe you should have thought a little more about it before rushing straight ahead.
+GPC14C_AFTER1-9=Можливо, тобі варто було краще все обміркувати, перш ніж робити поспішні рішення.
+
+
+# Graff
+### Well... It's done.
+GPC14C_AFTER1-10=Ну... Що зроблено, те зроблено.
+
+
+# Hacker
+### Eh, boys. What did I say?
+GPC14C_AFTER1-11=Ей, малята. Що я казав?
+
+
+# Hacker
+### Leave the heck out of my place!
+GPC14C_AFTER1-12=Йдіть геть з мого помешкання!
+
+
+# Ott
+### (Sigh) He better deliver...
+GPC14C_AFTER1-13=(Зітхає) Сподіваюся, він усе зробить...
+
+
+#----------------------------------------------------
+# Hacker - More talk with hacker
+### So?...
+GPC14C_HACKER_WELCOME1-1=Ну то що...?
+
+
+#----------------------------------------------------
+# Graff
+### (Desperate times call for desperate measures...)
+GPC14C_HACKER_THINK1-1=(Відчайдушні часи вимагають відчайдушних заходів...)
+
+
+#----------------------------------------------------
+# Graff
+### I'll be around.
+GPC14C_HACKER_EXIT1-1=Я буду неподалік.
+
+
+# Hacker
+### Huh.
+GPC14C_HACKER_EXIT1-2=Гм.
+
+
+#----------------------------------------------------
+# Hacker - AFter Graff & Ott have exited the room, the hacker calls the rats to make a deal with them
+### (...)
+GPC14C_HACKER_AFTEREXIT1-1=(...)
+
+
+# Hacker
+### Guys?...
+GPC14C_HACKER_AFTEREXIT1-2=Хлопці...?
+
+
+# Hacker
+### About the dough I owe you...
+GPC14C_HACKER_AFTEREXIT1-3=Щодо того бабла, яке я вам винен...
+
+
+# Hacker
+### Yeah, yeah.
+GPC14C_HACKER_AFTEREXIT1-4=Так, так.
+
+
+# Hacker
+### Well I got something for you that should make up for it.
+GPC14C_HACKER_AFTEREXIT1-5=У мене є дещо для вас, що підійде як оплата.
+
+
+# Hacker
+### I just require your help with something first.
+GPC14C_HACKER_AFTEREXIT1-6=Але спочатку мені потрібна ваша допомога з однією справою.
+
+
+#----------------------------------------------------
+# Hacker
+### Argh!
+GPC14C_HACKER_HIT1-1=А-ай!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+GPC14C_HACKER_HIT1-2=Граффе...!
+
+
+# Graff
+### ...Sorry.
+GPC14C_HACKER_HIT1-3=...Вибачте.
+
+
+#----------------------------------------------------
+# Hacker
+### Stop! That hurts!
+GPC14C_HACKER_HIT2-1=Досить! Боляче!
+
+
+# Ott
+### Oh no...!
+GPC14C_HACKER_HIT2-2=О ні...!
+
+
+#----------------------------------------------------
+# Ott
+### Enough! Look what you've done!
+GPC14C_HACKER_HIT3-1=Досить! Подивися, що ти наробив!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I was wrong. You don't deserve to be a Drumer.
+GPC14C_HACKER_HIT3-2=Я помилявся. Ти не заслуговуєш жити у Верхах.
+
+
+#----------------------------------------------------
+# Graff - After Graff hits the hacker
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott! Wait!
+GPC14C_HACKER_HIT3B-1=Отте! Стривай!
+
+
+# Graff
+### ...
+GPC14C_HACKER_HIT3B-2=...
+
+
+# Graff
+### I'm... alone...
+GPC14C_HACKER_HIT3B-3=Я... один...
+
+
+#----------------------------------------------------
+# Graff
+### No, thanks... (Cough)
+GPC14C_PIZZABOX1-1=Ні, дякую... (Кашляє)
+
+
+#----------------------------------------------------
+# Graff
+### Gross.
+GPC14C_BOTTLE1-1=Бридота.
+
+
+#----------------------------------------------------
+# Graff
+### Closed...
+GPC14C_WINDOW1-1=Зачинено...
+
+
+#----------------------------------------------------
+# Graff
+### What a mess.
+GPC14C_STUFF1-1=Який безлад.
+
+
+# Graff
+### I don't see anything of interest.
+GPC14C_STUFF1-2=Не бачу нічого цікавого.
+
+
+#----------------------------------------------------
+# Hacker
+### What the?...
+GPC14C_HACKER_WALKONSTAND1-1=Що за...?
+
+
+#----------------------------------------------------
+# Hacker
+### Tsk. Go play outside.
+GPC14C_HACKER_WALKONSTAND2-1=Пхе. Ідіть гратися на вулицю.
+
+
+#----------------------------------------------------
+# Hacker
+### (Sigh)
+GPC14C_HACKER_WALKONSTAND3-1=(Зітхає)
+
+
+#----------------------------------------------------
+# Unknown
+### Cute mouse, but looks are deceiving.
+COOP_GPC14C_HACKER1-1=Миле мишеня, але зовнішність буває оманливою.
+
+
+#----------------------------------------------------
+

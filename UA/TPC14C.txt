@@ -1,0 +1,2735 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Hacker (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Unknown (Unknown)
+#     Hacker - Brok (Unknown)
+#     Hacker - RJ (Unknown)
+#     Hacker - Unknown (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Hacker (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Hacker (Unknown)
+
+#-------------------------------
+#=HACKER INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+
+#----- Choices / Items --------
+### Pills shortage
+TOPIC_PILLS=Нестача пігулок
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribots
+TOPIC_TRIBOTS=Триботи
+
+### Messages
+TOPIC_MESSAGES=Повідомлення
+
+
+#----- Topics --------
+### Box
+PC_PIZZABOX=Коробка
+
+### Bottle
+PC_BOTTLE=Пляшка
+
+### Stuff
+PC_STUFF=Речі
+
+### Planks
+PC_PLANKS=Дошки
+
+
+### Accept
+PC14C_HACKER_ACCEPT=Погодитися
+
+### Find another way
+PC14C_HACKER_ANOTHER=Знайти інший шлях
+
+### Threaten
+PC14C_HACKER_THREATEN=Погрожувати
+
+### Think about it
+PC14C_HACKER_THINK=Подумати
+
+### Insist
+PC14C_HACKER_INSIST=Наполягати
+
+### Let it go
+PC14C_HACKER_LETITGO=Забудемо про це
+
+### Give up
+PC14C_HACKER_GIVEUP=Здатися
+
+### The money
+TOPIC_MONEY=Гроші
+
+### The mission
+TOPIC_MISSION=Місія
+
+### Lower the price
+PC14C_HACKER_LOWER=Знизити ціну
+
+
+### Changed your mind?
+PC14C_HACKER_CHANGEMIND=Передумав?
+
+
+
+### A hack phone!
+GOT_HACKPHONE=Гакерський телефон!
+
+
+#----- Dialog --------
+# Hacker - Meet the hacker for the first time (after beating R.J.)
+### ...What the...?!
+PC14C_FIRST_BEATEN1-1=...Що за...?!
+
+
+# Hacker
+### Who the heck are you?!
+PC14C_FIRST_BEATEN1-2=Хто ти, в біса, такий?!
+
+
+# Brok
+### The Gloom, isn't it?
+PC14C_FIRST_BEATEN1-3="Похмурий", так?
+
+
+# Brok
+### I need your help...
+PC14C_FIRST_BEATEN1-4=Мені потрібна твоя допомога...
+
+
+# Hacker
+### You shouldn't be here!
+PC14C_FIRST_BEATEN1-5=Тебе тут не повинно бути!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### How did you get past the guard?!
+PC14C_FIRST_BEATEN1-6=Як ти пройшов повз охоронця?!
+
+
+# Brok
+### Well he's...
+PC14C_FIRST_BEATEN1-7=Ну, він...
+
+
+# Brok
+### Incapacitated.
+PC14C_FIRST_BEATEN1-8=Знешкоджений.
+
+
+# Hacker
+### Gulp!
+PC14C_FIRST_BEATEN1-9=(Ковтає слину)
+
+
+# Hacker
+### P-p-please! Don't hurt me!...
+PC14C_FIRST_BEATEN1-10=Б-будь ласка! Не чіпай мене...!
+
+
+# Brok
+### Don't be silly.
+PC14C_FIRST_BEATEN1-11=Не дурій.
+
+
+# Brok
+### I said I need your help!
+PC14C_FIRST_BEATEN1-12=Я ж сказав, що мені потрібна твоя допомога!
+
+
+# Hacker
+### Erm... O-okay...
+PC14C_FIRST_BEATEN1-13=Е-е... Д-добре...
+
+
+# Hacker
+### So! What do you want?
+PC14C_FIRST_BEATEN1-14=Ну ж бо! Чого ти хочеш?
+
+
+# Brok
+### Well...
+PC14C_FIRST_BEATEN1-15=Ну...
+
+
+# Hacker
+### Come on! You're wasting my time!
+PC14C_FIRST_BEATEN1-16=Давай уже! Ти марнуєш мій час!
+
+
+# Brok
+### (What a change of attitude...)
+PC14C_FIRST_BEATEN1-17=(Оце так він змінив манеру поведінки...)
+
+
+# Brok
+### I'm looking for a very special item.
+PC14C_FIRST_BEATEN1-18=Я шукаю один дуже особливий предмет.
+
+
+#----------------------------------------------------
+# Hacker - Meet the hacker for the first time (with disguise)
+### ...What the...?!
+PC14C_FIRST1-1=...Що за...?!
+
+
+# Hacker
+### Who the heck are you?!
+PC14C_FIRST1-2=Хто ти, в біса, такий?!
+
+
+# Brok
+### The Gloom, isn't it?
+PC14C_FIRST1-3="Похмурий", так?
+
+
+# Brok
+### I need your help...
+PC14C_FIRST1-4=Мені потрібна твоя допомога...
+
+
+# Hacker
+### You shouldn't be here!
+PC14C_FIRST1-5=Тебе тут не повинно бути!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The guard let you enter?!
+PC14C_FIRST1-6=Охоронець пропустив тебе?!
+
+
+# Brok
+### Well, I'm an elephant! Can't you see?
+PC14C_FIRST1-7=Ну, я ж слон! Хіба не видно?
+
+
+# Hacker
+### An... elephant?...
+PC14C_FIRST1-8=Слон...?
+
+
+# Hacker
+### Hey! You idiot! Why did you let that one get through?!
+PC14C_FIRST1-9=Гей! Ідіоте! Чому ти пропустив його?!
+
+
+# RJ
+### Duh! T'is what ya told me!
+PC14C_FIRST1-10=Ну так! Ви ж самі мені сказали!
+
+
+# Hacker
+### Uh?!
+PC14C_FIRST1-11=Га?!
+
+
+#----------------------------------------------------
+# Hacker - Flashback - the hacker explains the job to R.J.
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### ...so that's your job. You stay here and guard the door.
+PC14C_FIRST2-1=...тож це твоя робота. Стій тут і охороняй двері.
+
+
+# Hacker
+### Nobody enters unless I tell you otherwise!
+PC14C_FIRST2-2=Ніхто не заходить, поки я не скажу!
+
+
+# RJ
+### Nobody?...
+PC14C_FIRST2-3=Ніхто...?
+
+
+# RJ
+### I can't enter?
+PC14C_FIRST2-4=І я не можу зайти?
+
+
+# Hacker
+### No! You stay outside!
+PC14C_FIRST2-5=Ні! Ти залишаєшся зовні!
+
+
+# RJ
+### What about cats? I hate cats.
+PC14C_FIRST2-6=А як щодо котів? Я ненавиджу котів.
+
+
+# Hacker
+### No cats!
+PC14C_FIRST2-7=Жодних котів!
+
+
+# RJ
+### Then... Dogs? Doggies can enter?
+PC14C_FIRST2-8=Тоді... Собаки? Песикам можна заходити?
+
+
+# Hacker
+### No!
+PC14C_FIRST2-9=Ні!
+
+
+# RJ
+### Maybe cows? Pigs? Hens?
+PC14C_FIRST2-10=Може, корови? Свині? Кури?
+
+
+# Hacker
+### No, no, no!
+PC14C_FIRST2-11=Ні, ні, ні!
+
+
+# RJ
+### Then elephants! They can enter, right?
+PC14C_FIRST2-12=Тоді слони! Їм же можна, правда?
+
+
+# Hacker
+### Argh!... You gotta be kidding me!...
+PC14C_FIRST2-13=Ар-р...! Ти що, жартуєш...?!
+
+
+# RJ
+### ...?
+PC14C_FIRST2-14=...?
+
+
+# RJ
+### So...?
+PC14C_FIRST2-15=То...?
+
+
+# Hacker
+### Gah...
+PC14C_FIRST2-16=Пхе...
+
+
+# Hacker
+### Fine! As you wish! Elephants can enter!
+PC14C_FIRST2-17=Добре! Як хочеш! Слонам заходити можна!
+
+
+# RJ
+### Oh! Cool.
+PC14C_FIRST2-18=О! Круто.
+
+
+# Hacker
+### ...Pfft. Goons gotta be goons.
+PC14C_FIRST2-19=...Пхе. Що взяти з цих дурнів.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### It's not like an elephant would come to the Slums anyway. All rich company higher-ups.
+PC14C_FIRST2-20=Та й взагалі, слони в Нетрі не ходять. Усі вони - багаті шишки з компаній.
+
+
+#----------------------------------------------------
+# Hacker - Back to present
+### Are you stupid?!
+PC14C_FIRSTB-1=Ти дурний?!
+
+
+# Hacker
+### Wait, why am I even asking...
+PC14C_FIRSTB-2=Хоча, навіщо я взагалі питаю...
+
+
+# Hacker
+### Just take a look at this guy! He's wearing a silly disguise!
+PC14C_FIRSTB-3=Тільки поглянь на цього хлопця! На ньому безглузде маскування!
+
+
+# RJ
+### Erm... Ya sure?
+PC14C_FIRSTB-4=Е-е... Ви впевнені?
+
+
+# Hacker
+### TAKE IT OFF!!!
+PC14C_FIRSTB-5=ЗНІМАЙ!!!
+
+
+# Brok
+### Argh! Hey, that hurts!
+PC14C_FIRSTB-6=А-аа! Гей, боляче!
+
+
+# RJ
+### ...?
+PC14C_FIRSTB-7=...?
+
+
+# RJ
+### Hey! It's you!!!
+PC14C_FIRSTB-8=Гей! Це ж ти!!!
+
+
+# Hacker
+### Bear goon...
+PC14C_FIRSTB-9=Ведмідь-бовдур...
+
+
+# Hacker
+### You're fired!
+PC14C_FIRSTB-10=Тебе звільнено!
+
+
+# RJ
+### What?! But...
+PC14C_FIRSTB-11=Шо?! Але...
+
+
+# RJ
+### But I did what you said!
+PC14C_FIRSTB-12=Але я зробив усе, як ви казали!
+
+
+# Hacker
+### I'll just find another big guy with a bigger brain.
+PC14C_FIRSTB-13=Я знайду іншого здорованя з більшими мізками.
+
+
+# Hacker
+### You're useless.
+PC14C_FIRSTB-14=Від тебе жодної користі.
+
+
+# RJ
+### Argh!!! YOU...
+PC14C_FIRSTB-15=Ар-р!!! ТИ...
+
+
+# RJ
+### T'is all your fault! AGAIN!
+PC14C_FIRSTB-16=Це все твоя провина! ЗНОВУ!
+
+
+# Brok
+### Gulp!
+PC14C_FIRSTB-17=(Ковтає слину)
+
+
+# RJ
+### I'll make you pay for this!
+PC14C_FIRSTB-18=Ти ще в мене за це заплатиш!
+
+
+# Brok
+### (...Oh oh.)
+PC14C_FIRSTB-19=(...Ой-ой.)
+
+
+# Brok
+### (Looks like I didn't make a friend...)
+PC14C_FIRSTB-20=(Здається, в нас не вийде здружитися...)
+
+
+#----------------------------------------------------
+# Hacker - Talk to Hacker
+### Still here? You're wasting my time.
+PC14C_FIRSTC1-1=Все ще тут? Ти марнуєш мій час.
+
+
+# Brok
+### Wait! I've got an important request.
+PC14C_FIRSTC1-2=Зачекай! У мене важливе прохання.
+
+
+# Hacker
+### Important for me... or for you?
+PC14C_FIRSTC1-3=Важливе для мене... чи для тебе?
+
+
+# Brok
+### Depends...
+PC14C_FIRSTC1-4=Це як подивитись...
+
+
+# Brok
+### Just... Please hear me out!
+PC14C_FIRSTC1-5=Просто... Будь ласка, вислухай мене!
+
+
+#----------------------------------------------------
+# Hacker
+### (Sigh) Alright, alright.
+PC14C_FIRSTAGREE-1=(Зітхає) Ну гаразд.
+
+
+# Hacker
+### But first...
+PC14C_FIRSTAGREE-2=Але спершу...
+
+
+# Hacker
+### Put your hand here.
+PC14C_FIRSTAGREE-3=Поклади руку сюди.
+
+
+# Brok
+### Why?
+PC14C_FIRSTAGREE-4=Навіщо?
+
+
+# Hacker
+### Just do it!
+PC14C_FIRSTAGREE-5=Просто зроби це!
+
+
+# Brok
+### ...Okay.
+PC14C_FIRSTAGREE-6=...Гаразд.
+
+
+# Unknown
+### (Computer sounds)
+PC14C_FIRSTAGREE-7=(Звуки комп'ютера)
+
+
+# Hacker
+### Now, let's see...
+PC14C_FIRSTAGREE-8=Так, подивимося...
+
+
+# Hacker
+### Ah! My database search returned some results.
+PC14C_FIRSTAGREE-9=А! Пошук у моїй базі даних дав результати.
+
+
+# Hacker
+### ...!
+PC14C_FIRSTAGREE-10=...!
+
+
+# Brok
+### What? What's wrong?
+PC14C_FIRSTAGREE-11=Що? Що не так?
+
+
+# Hacker
+### ...You're a... A cop?!
+PC14C_FIRSTAGREE-12=...Ти... Коп?!
+
+
+# Brok
+### Well... Not exa...
+PC14C_FIRSTAGREE-13=Ну... Не зовс...
+
+
+# Hacker
+### ...Gulp!
+PC14C_FIRSTAGREE-14=...(Ковтає слину)
+
+
+#----------------------------------------------------
+# Hacker - Hacker sent drones at Brok who defeated them
+### Oh gosh...
+PC14C_AFTERFIGHT_BEATEN-1=О ні...
+
+
+# Hacker
+### Just my luck. An exterminator agent.
+PC14C_AFTERFIGHT_BEATEN-2=Оце так удача. Агент-ліквідатор.
+
+
+# Brok
+### Come on! I'm not gonna harm you!
+PC14C_AFTERFIGHT_BEATEN-3=Та заспокойся! Я не заподію тобі шкоди!
+
+
+# Hacker
+### Your file says otherwise.
+PC14C_AFTERFIGHT_BEATEN-4=Твоє досьє каже протилежне.
+
+
+# Brok
+### Believe me. If I wanted you dead, you'd already be.
+PC14C_AFTERFIGHT_BEATEN-5=Повір мені. Якби я хотів твоєї смерті, ти б уже був мертвий.
+
+
+# Brok
+### Wait, that's not what...
+PC14C_AFTERFIGHT_BEATEN-6=Зачекай, я не це...
+
+
+# Hacker
+### Oh no...
+PC14C_AFTERFIGHT_BEATEN-7=О ні...
+
+
+#----------------------------------------------------
+# Hacker
+### Oh no...!
+PC14C_AFTERFIGHT_FIRED-1=О ні...!
+
+
+# Hacker
+### I... I shouldn't have fired that guy...
+PC14C_AFTERFIGHT_FIRED-2=Не... Не варто було звільняти того хлопця...
+
+
+#----------------------------------------------------
+# Hacker
+### P-please don't put me in jail! It'd be a waste of my great intellect!
+PC14C_AFTERFIGHT_NEXT-1=Не саджай мене за ґрати, будь ласка! Це буде марнуванням мого великого інтелекту!
+
+
+# Brok
+### That's not what you think! I'm no cop!
+PC14C_AFTERFIGHT_NEXT-2=Усе не так, як ти думаєш! Я не коп!
+
+
+# Hacker
+### Uh?...
+PC14C_AFTERFIGHT_NEXT-3=Га...?
+
+
+# Brok
+### The police are understaffed. I'm a detective, they just needed my help.
+PC14C_AFTERFIGHT_NEXT-4=У поліції не вистачає людей. Я детектив, їм просто потрібна була моя допомога.
+
+
+# Hacker
+### Hrmph.
+PC14C_AFTERFIGHT_NEXT-5=Гм-мм.
+
+
+# Hacker
+### Cops or detectives, I hate both of your kinds anyway.
+PC14C_AFTERFIGHT_NEXT-6=Копи чи детективи, я все одно ненавиджу вас усіх.
+
+
+# Hacker
+### Always messing with the lives of people trying to make an honest living with the black market.
+PC14C_AFTERFIGHT_NEXT-7=Завжди втручаєтеся в життя людей, які намагаються чесно заробляти на чорному ринку.
+
+
+#----------------------------------------------------
+# Brok
+### Let's forget about all this and focus on my request.
+PC14C_AFTERFIGHT_NEXT2-1=Забудьмо про це і зосередимося на моєму проханні.
+
+
+# Hacker
+### What makes you think I'll help you?
+PC14C_AFTERFIGHT_NEXT2-2=З чого ти взяв, що я буду тобі допомагати?
+
+
+# Brok
+### Isn't it clear by now?
+PC14C_AFTERFIGHT_NEXT2-3=Хіба це ще не зрозуміло?
+
+
+# Brok
+### You're alone, your security system failed and I'm... Let's say...
+PC14C_AFTERFIGHT_NEXT2-4=Ти один, твоя система безпеки не спрацювала, а я... скажімо так...
+
+
+# Brok
+### Stronger than you.
+PC14C_AFTERFIGHT_NEXT2-5=Сильніший за тебе.
+
+
+# Hacker
+### ...Good point.
+PC14C_AFTERFIGHT_NEXT2-6=...Слушно.
+
+
+# Hacker
+### Alright. What do you need?
+PC14C_AFTERFIGHT_NEXT2-7=Гаразд. Що тобі потрібно?
+
+
+# Brok
+### A self modifier chip.
+PC14C_AFTERFIGHT_NEXT2-8=Чип самомодифікації.
+
+
+# Brok
+### No questions asked.
+PC14C_AFTERFIGHT_NEXT2-9=Без зайвих запитань.
+
+
+# Hacker
+### Fine. I can get you one but these don't come cheap.
+PC14C_AFTERFIGHT_NEXT2-10=Добре. Я можу дістати тобі один, але це обійдеться недешево.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It'll be 100,000 Unis.
+PC14C_AFTERFIGHT_NEXT2-11=Це коштуватиме 100,000 Юні.
+
+
+# Brok
+### One hundred... thousands?!
+PC14C_AFTERFIGHT_NEXT2-12=Сто... тисяч?!
+
+
+# Brok
+### You gotta be kiddin'!
+PC14C_AFTERFIGHT_NEXT2-13=Ти, мабуть, жартуєш!
+
+
+# Hacker
+### Hey, that's the deal! Take it or leave it!
+PC14C_AFTERFIGHT_NEXT2-14=Гей, така ціна! Бери або йди!
+
+
+# Hacker
+### Do you even have any idea what trouble I'm getting into in order to get one of these?!
+PC14C_AFTERFIGHT_NEXT2-15=Ти взагалі маєш уявлення, у які проблеми я вляпався, щоб дістати один із таких?!
+
+
+# Brok
+### This means you already have one here?
+PC14C_AFTERFIGHT_NEXT2-16=Отже, один у тебе вже є?
+
+
+# Hacker
+### ...Argh. Me and my big mouth.
+PC14C_AFTERFIGHT_NEXT2-17=...Ар-р. Я і мій довгий язик.
+
+
+# Brok
+### Give it to me.
+PC14C_AFTERFIGHT_NEXT2-18=Віддай його мені.
+
+
+# Hacker
+### No way!
+PC14C_AFTERFIGHT_NEXT2-19=Ні за що!
+
+
+# Brok
+### Give it, or else...
+PC14C_AFTERFIGHT_NEXT2-20=Віддай, або інакше...
+
+
+# Brok
+### I might have to...
+PC14C_AFTERFIGHT_NEXT2-21=Мені доведеться...
+
+
+# Hacker
+### Aarrgh!
+PC14C_AFTERFIGHT_NEXT2-22=А-аааа!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Okay, okay. Then... 10,000 Unis!
+PC14C_AFTERFIGHT_NEXT2-23=Добре, добре. Тоді... 10,000 Юні!
+
+
+# Hacker
+### I-It can't be any lower than that... That's how much I paid for it!
+PC14C_AFTERFIGHT_NEXT2-24=Н-нижче не вийде... Це стільки, скільки я сам за нього заплатив!
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh) Fine. 10,000.
+PC14C_FIRST_ACCEPT1-1=(Зітхає) Гаразд. 10,000.
+
+
+# Brok
+### You'll get the moolah this morning.
+PC14C_FIRST_ACCEPT1-2=Ти отримаєш бабло сьогодні вранці.
+
+
+# Hacker
+### G-Good to hear!
+PC14C_FIRST_ACCEPT1-3=Р-радий це чути!
+
+
+#----------------------------------------------------
+# Brok
+### (Not yet...)
+PC14C_TO_PC14B_NOTYET-1=(Ще ні...)
+
+
+#----------------------------------------------------
+# Brok
+### (Not yet...)
+PC14C_HACKER_NOTYET-1=(Зарано...)
+
+
+#----------------------------------------------------
+# Brok
+### On my way.
+PC14C_FIRST_ALTERNATIVE-1=Я пішов.
+
+
+# Hacker
+### Wait!
+PC14C_FIRST_ALTERNATIVE-2=Зачекай!
+
+
+# Hacker
+### I need you to do something for me.
+PC14C_FIRST_ALTERNATIVE-3=Мені потрібно, щоб ти дещо зробив для мене.
+
+
+# Brok
+### (Everyone's sending me on errands today?)
+PC14C_FIRST_ALTERNATIVE-4=(Чому сьогодні всі ганяють мене з дорученнями?)
+
+
+# Brok
+### Not interested.
+PC14C_FIRST_ALTERNATIVE-5=Не цікавить.
+
+
+# Hacker
+### Very well.
+PC14C_FIRST_ALTERNATIVE-6=Ну що ж.
+
+
+# Hacker
+### I shall then send a little message to the Government...
+PC14C_FIRST_ALTERNATIVE-7=Тоді я надішлю невеличке повідомлення Уряду...
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### With the whereabouts of your friend Shay.
+PC14C_FIRST_ALTERNATIVE-8=З відомостями про місцеперебування твоєї подруги Шей.
+
+
+# Brok
+### You dare blackmail me?!
+PC14C_FIRST_ALTERNATIVE-9=Ти смієш мене шантажувати?!
+
+
+# Hacker
+### It's... just a tiny request!
+PC14C_FIRST_ALTERNATIVE-10=Це... просто крихітне прохання!
+
+
+# Hacker
+### Do this for me and I shall help you on other matters.
+PC14C_FIRST_ALTERNATIVE-11=Зроби це для мене, і я допоможу тобі в інших справах.
+
+
+# Brok
+### ...
+PC14C_FIRST_ALTERNATIVE-12=...
+
+
+#----------------------------------------------------
+# Brok
+### Okay. What's the deal?
+PC14C_FIRST_BLACKMAIL_ACCEPT-1=Добре. Що за справа?
+
+
+# Hacker
+### You're a cop.
+PC14C_FIRST_BLACKMAIL_ACCEPT-2=Ти коп.
+
+
+#----------------------------------------------------
+# Brok
+### No... I can't afford that much.
+PC14C_FIRST_ANOTHER1-1=Ні... Я не можу собі це дозволити.
+
+
+# Brok
+### Surely I can offer you something else?...
+PC14C_FIRST_ANOTHER1-2=Але ж є щось інше, що я можу тобі запропонувати...?
+
+
+# Hacker
+### ...
+PC14C_FIRST_ANOTHER1-3=...
+
+
+# Hacker
+### Wait a second...
+PC14C_FIRST_ANOTHER1-4=Стривай...
+
+
+# Hacker
+### That pendant you're carrying!...
+PC14C_FIRST_ANOTHER1-5=Той кулон, який ти носиш...!
+
+
+# Brok
+### What about it?
+PC14C_FIRST_ANOTHER1-6=А що з ним?
+
+
+# Hacker
+### To most people this is an ordinary trinket but I have a good eye for these things...
+PC14C_FIRST_ANOTHER1-7=Для більшості людей це звичайна прикраса, але я чудово розуміюся на таких речах...
+
+
+# Hacker - Heptamide comes back one or two times during the game. If it doesn't sound good, change it to whatever you want.
+### I've seen that material before. It's made of Heptamide!
+PC14C_FIRST_ANOTHER1-8=Я вже бачив цей матеріал раніше. Він зроблений з гептаміду!
+
+
+# Brok
+### Heptamide...?
+PC14C_FIRST_ANOTHER1-9=Гептаміду...?
+
+
+# Hacker
+### A very powerful alloy. An ounce of it can light up a whole city for a year!
+PC14C_FIRST_ANOTHER1-10=Надзвичайно потужний сплав. Одна лиш його унція може забезпечувати світлом ціле місто протягом року!
+
+
+# Brok
+### You can't be serious.
+PC14C_FIRST_ANOTHER1-11=Та ти жартуєш.
+
+
+# Hacker
+### I'm dead serious!
+PC14C_FIRST_ANOTHER1-12=Я цілком серйозно!
+
+
+# Hacker
+### Give me that!
+PC14C_FIRST_ANOTHER1-13=Дай це мені!
+
+
+# Brok
+### No way! I'm not giving it to you!
+PC14C_FIRST_ANOTHER1-14=Ні за що! Я не віддам його!
+
+
+# Brok
+### It has a high sentimental value.
+PC14C_FIRST_ANOTHER1-15=Він має для мене велику сентиментальну цінність.
+
+
+# Hacker
+### Sentimental... Pfft.
+PC14C_FIRST_ANOTHER1-16=Сентиментальну... Пхе.
+
+
+# Brok
+### No is no. Find something else!
+PC14C_FIRST_ANOTHER1-17=Ні - це ні. Придумай щось інше!
+
+
+# Hacker
+### ...
+PC14C_FIRST_ANOTHER1-18=...
+
+
+# Hacker
+### Then...
+PC14C_FIRST_ANOTHER1-19=Тоді...
+
+
+# Hacker
+### I know. You're a cop!
+PC14C_FIRST_ANOTHER1-20=Знаю. Ти ж коп!
+
+
+# Brok
+### I said it... I'm not really...
+PC14C_FIRST_ANOTHER1-21=Я ж казав... Я не зовсім...
+
+
+# Hacker
+### Doesn't matter. You must have access to it!
+PC14C_FIRST_ANOTHER1-22=Неважливо. У тебе має бути доступ!
+
+
+# Brok
+### To what?
+PC14C_FIRST_ANOTHER1-23=До чого?
+
+
+# Hacker
+### The mainframe!
+PC14C_FIRST_ANOTHER1-24=До центрального комп'ютера!
+
+
+# Hacker
+### There's a reason why I have those killing machines...
+PC14C_FIRST_ANOTHER1-25=Є причина, чому я тримаю біля себе ці вбивчі машини...
+
+
+# Brok
+### Sure. You do illegal stuff.
+PC14C_FIRST_ANOTHER1-26=Звісно. Ти займаєшся незаконними справами.
+
+
+# Hacker
+### That's not it!
+PC14C_FIRST_ANOTHER1-27=Справа не в цьому!
+
+
+# Hacker
+### The cops... They have a file on me. It contains my signature and other personal info.
+PC14C_FIRST_ANOTHER1-28=Копи... У них є досьє на мене. Воно містить мій підпис та інші особисті дані.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Due to this, all drones, cameras and Tribots automatically detect and report me!
+PC14C_FIRST_ANOTHER1-29=Через це всі дрони, камери та Триботи автоматично вистежують мене і звітують про це владі!
+
+
+# Hacker
+### This makes my life impossible!
+PC14C_FIRST_ANOTHER1-30=Це робить моє життя нестерпним!
+
+
+# Hacker
+### I can hack into the system, but even a genius like me can only get read-only access.
+PC14C_FIRST_ANOTHER1-31=Я можу зламати систему, але навіть такий геній, як я, може отримати доступ лише для читання.
+
+
+# Hacker
+### If... "someone" would remove that file...
+PC14C_FIRST_ANOTHER1-32=Якби... "хтось" видалив це досьє...
+
+
+# Brok
+### You could escape?...
+PC14C_FIRST_ANOTHER1-33=Ти зміг би втекти...?
+
+
+# Hacker
+### I'll be free! No more bots following me at every corner!
+PC14C_FIRST_ANOTHER1-34=Я був би вільний! Жодних ботів, що стежать за мною на кожному кроці!
+
+
+# Brok
+### Sounds good but...
+PC14C_FIRST_ANOTHER1-35=Звучить непогано, але...
+
+
+# Brok
+### How am I supposed to do that?
+PC14C_FIRST_ANOTHER1-36=Як я маю це зробити?
+
+
+# Hacker
+### You're a cop. Getting access to the mainframe should be easy for you!
+PC14C_FIRST_ANOTHER1-37=Ти коп. Для тебе має бути легко отримати доступ до центрального комп'ютера!
+
+
+# Brok
+### Not so sure about that...
+PC14C_FIRST_ANOTHER1-38=Не дуже в цьому впевнений...
+
+
+# Hacker
+### Get that file erased, and the chip is yours!
+PC14C_FIRST_ANOTHER1-39=Видали моє досьє, і чип буде твоїм!
+
+
+# Brok
+### Hmm...
+PC14C_FIRST_ANOTHER1-40=Гмм...
+
+
+# Brok
+### Won't there be a password or something?
+PC14C_FIRST_ANOTHER1-41=А хіба там не буде пароля чи чогось подібного?
+
+
+# Hacker
+### Yup. Face recognition.
+PC14C_FIRST_ANOTHER1-42=Ага. Розпізнавання обличчя.
+
+
+# Hacker
+### Find the computer owner's face and use this awesome app of mine - FaceBuilderHax!
+PC14C_FIRST_ANOTHER1-43=Знайди обличчя власника комп'ютера і використай цю мою чудову програму - ГакерКонструкторОблич!
+
+
+# Hacker
+### Easy as pie! Let me transfer it to your phone...
+PC14C_FIRST_ANOTHER1-44=Це простіше простого! Дай я перекину її на твій телефон...
+
+
+# Brok
+### ...
+PC14C_FIRST_ANOTHER1-45=...
+
+
+# Hacker
+### Ugh! The heck?! That phone of yours...
+PC14C_FIRST_ANOTHER1-46=Пхе! Що за чорт?! Твій телефон...
+
+
+# Hacker
+### What kind of ancient technology is this?! The firmware and OS have been outdated for decades!
+PC14C_FIRST_ANOTHER1-47=Що це за давні технології?! Прошивка й операційна система застаріли десятиліття тому!
+
+
+# Brok
+### Who cares! It works!
+PC14C_FIRST_ANOTHER1-48=Кого це хвилює! Він працює!
+
+
+# Hacker
+### Seriously...
+PC14C_FIRST_ANOTHER1-49=Ти зараз серйозно...
+
+
+# Hacker
+### Okay. Take this phone.
+PC14C_FIRST_ANOTHER1-50=Гаразд. Візьми цей телефон.
+
+
+#----------------------------------------------------
+# Hacker
+### This has the app installed.
+PC14C_FIRST_ANOTHER2-1=На ньому вже встановлено програму.
+
+
+# Hacker
+### It'll generate a holographic mask you can use to enter the system.
+PC14C_FIRST_ANOTHER2-2=Вона згенерує голографічну маску, за допомогою якої ти зможеш увійти в систему.
+
+
+# Hacker
+### For this you'll need both a front-facing picture and a three-quarter view of someone who has access to the system.
+PC14C_FIRST_ANOTHER2-3=Для цього тобі знадобляться фото когось, хто має доступ до системи. Одне анфас, інше у ракурсі три чверті.
+
+
+# Brok
+### Front-facing and 3/4 view pictures. Check.
+PC14C_FIRST_ANOTHER2-4=Фото анфас і в 3/4. Зрозуміло.
+
+
+# Hacker
+### Now, scoot!
+PC14C_FIRST_ANOTHER2-5=А тепер шуруй!
+
+
+#----------------------------------------------------
+# Brok
+### Don't you dare flee when I'm away!
+PC14C_FIRST_EXIT1-1=Тільки не смій тікати, поки мене немає!
+
+
+# Brok
+### Remember, I'm a detective...
+PC14C_FIRST_EXIT1-2=Пам'ятай, я детектив...
+
+
+# Brok
+### I've found you once. I can do it again!
+PC14C_FIRST_EXIT1-3=Я знайшов тебе один раз. Знайду й знову!
+
+
+# Brok
+### And that day...
+PC14C_FIRST_EXIT1-4=А коли знайду...
+
+
+# Hacker
+### Gulp!
+PC14C_FIRST_EXIT1-5=(Ковтає слину)
+
+
+# Hacker
+### O-okay... Not moving! Staying right here, stuck on this chair!
+PC14C_FIRST_EXIT1-6=Г-гаразд... Не рухаюся! Залишуся просто тут, прикутий до цього крісла!
+
+
+# Brok
+### You better!
+PC14C_FIRST_EXIT1-7=Отож-бо!
+
+
+#----------------------------------------------------
+# Brok
+### (...)
+PC14C_FIRST_MONEYEXIT1-1=(...)
+
+
+# Brok
+### (How am I supposed to get that much dough, though? That's more than I get in a month...)
+PC14C_FIRST_MONEYEXIT1-2=(Але як я маю дістати стільки грошей? Це більше, ніж я заробляю за місяць...)
+
+
+# Brok
+### (I'm already regretting this...)
+PC14C_FIRST_MONEYEXIT1-3=(Я вже шкодую про це...)
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh) I give up.
+PC14C_FIRST_GIVEUP1-1=(Зітхає) Я здаюся.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### I'll call the Director later.
+PC14C_FIRST_GIVEUP1-2=Я зателефоную директорці пізніше.
+
+
+# Hacker
+### Good. Now, go away.
+PC14C_FIRST_GIVEUP1-3=Добре. А тепер іди звідси.
+
+
+# Brok
+### Wait.
+PC14C_FIRST_GIVEUP1-4=Стривай.
+
+
+#----------------------------------------------------
+# Brok
+### (Oops! I've wasted the money!)
+PC14C_FIRST_SHAYNOMONEY-1=(Ой-ой! Я витратив всі гроші!)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Here. 100 Unis. From my friend Shay.
+PC14C_FIRST_SHAY1-1=Ось. 100 Юні. Від моєї подруги Шей.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+PC14C_FIRST_SHAY1-2=Шей...
+
+
+# Hacker
+### That girl. Always on the lookout for rare materials.
+PC14C_FIRST_SHAY1-3=Ця дівчина. Завжди в пошуках рідкісних матеріалів.
+
+
+# Brok
+### Yeah. That's the dough she owed you.
+PC14C_FIRST_SHAY1-4=Ага. Це бабло, яке вона тобі заборгувала.
+
+
+# Hacker
+### Lemme check her account.
+PC14C_FIRST_SHAY1-5=Дай-но я перевірю її рахунок.
+
+
+# Hacker
+### Huh. I don't see any...
+PC14C_FIRST_SHAY1-6=Га? Я не бачу жодного...
+
+
+# Hacker
+### ...
+PC14C_FIRST_SHAY1-7=...
+
+
+# Hacker
+### Alright! I'll take it.
+PC14C_FIRST_SHAY1-8=Гаразд! Я візьму.
+
+
+# Brok
+### Good!
+PC14C_FIRST_SHAY1-9=Добре!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### What business do you have with Shay, exactly?
+PC14C_FIRST_SHAY2-1=Які саме в тебе справи з Шей?
+
+
+# Hacker
+### This is confidential. Although...
+PC14C_FIRST_SHAY2-2=Це конфіденційна інформація. Хоча...
+
+
+# Hacker
+### You better watch out. That girl's insane.
+PC14C_FIRST_SHAY2-3=Тобі краще бути обережнішим. Ця дівчина божевільна.
+
+
+# Brok
+### Well, nothing new!
+PC14C_FIRST_SHAY2-4=Що ж, нічого нового!
+
+
+# Hacker
+### I'm serious. Her file indicates she escaped from an asylum 9 years ago.
+PC14C_FIRST_SHAY2-5=Я серйозно. У неї в досьє вказано, що вона втекла з психлікарні 9 років тому.
+
+
+# Hacker
+### And not an ordinary one.
+PC14C_FIRST_SHAY2-6=І не з якоїсь звичайної.
+
+
+# Hacker
+### Central Light is known for hosting the worst loonies whose profile means danger to others.
+PC14C_FIRST_SHAY2-7=Центральне Світло відоме тим, що утримує найгірших божевільних, чий профіль становить небезпеку для інших.
+
+
+# Hacker
+### She's been covering her tracks for years.
+PC14C_FIRST_SHAY2-8=Вона роками замітає сліди.
+
+
+# Brok
+### Asylum?...
+PC14C_FIRST_SHAY2-9=Психлікарня...?
+
+
+# Brok
+### Whatever. I trust her more than you.
+PC14C_FIRST_SHAY2-10=Байдуже. Їй я довіряю більше, ніж тобі.
+
+
+# Hacker
+### Loonies attract loonies.
+PC14C_FIRST_SHAY2-11=Божевільні приваблюють божевільних.
+
+
+#----------------------------------------------------
+# Hacker
+### So?... Where's my money?
+PC14C_HACKER_WELCOME_MONEY1-1=Ну...? Де мої гроші?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### (10,000 Unis is still a lot of dough...)
+PC14C_HACKER_ANOTHERMONEY1-1=(10,000 Юні - це все одно велика сума...)
+
+
+# Brok
+### (Maybe I ought to find another solution?)
+PC14C_HACKER_ANOTHERMONEY1-2=(Може, мені варто знайти інше рішення?)
+
+
+#----------------------------------------------------
+# Brok
+### I've changed my mind.
+PC14C_HACKER_CHANGEMIND1-1=Я передумав.
+
+
+# Hacker
+### What? You mean... You won't get the dough?!
+PC14C_HACKER_CHANGEMIND1-2=Що? Ти маєш на увазі... Ти не дістанеш бабло?!
+
+
+#----------------------------------------------------
+# Brok
+### I will. But...
+PC14C_HACKER_MONEYAGAIN-1=Дістану. Але...
+
+
+# Brok
+### 10,000 is way too much.
+PC14C_HACKER_MONEYAGAIN-2=10,000 - це занадто багато.
+
+
+# Hacker
+### Sorry. That's final.
+PC14C_HACKER_MONEYAGAIN-3=Вибач. Це остаточна сума.
+
+
+# Hacker
+### Anything lower and I'll be upside down on this deal!
+PC14C_HACKER_MONEYAGAIN-4=Якщо взяти менше, я залишуся в збитках від цієї угоди!
+
+
+# Brok
+### I don't care.
+PC14C_HACKER_MONEYAGAIN-5=Мені байдуже.
+
+
+# Hacker
+### Get it or get out.
+PC14C_HACKER_MONEYAGAIN-6=Дістань їх або йди геть.
+
+
+# Brok
+### ...
+PC14C_HACKER_MONEYAGAIN-7=...
+
+
+#----------------------------------------------------
+# Brok
+### Let me get this straight...
+PC14C_HACKER_MISSION1-1=Отже, уточнімо...
+
+
+# Brok
+### First I locate a police department computer to access the mainframe and delete your file.
+PC14C_HACKER_MISSION1-2=Спочатку я знаходжу комп'ютер у відділку поліції, щоб отримати доступ і видалити твоє досьє.
+
+
+# Brok
+### To bypass security, I'll use your phone... thingy.
+PC14C_HACKER_MISSION1-3=Щоб обійти систему безпеки, я використаю твою телефонну... штуковину.
+
+
+# Hacker
+### My FaceBuilderHax app.
+PC14C_HACKER_MISSION1-4=Мою програму ГакерКонструкторОблич.
+
+
+# Brok
+### Yeah, that.
+PC14C_HACKER_MISSION1-5=Ага, її.
+
+
+# Hacker
+### Identify the computer owner and apply pictures on the phone.
+PC14C_HACKER_MISSION1-6=Ідентифікуй власника комп'ютера та завантаж фотографії на телефон.
+
+
+# Brok
+### Pictures... Check.
+PC14C_HACKER_MISSION1-7=Фотографії... Ясно.
+
+
+# Hacker
+### Go on! Move! You're annoying me.
+PC14C_HACKER_MISSION1-8=Іди вже! Рухайся! Ти мені набридаєш.
+
+
+# Brok
+### Hmph...
+PC14C_HACKER_MISSION1-9=Гм-м...
+
+
+#----------------------------------------------------
+# Hacker
+### So?... What are you standing here for!...
+PC14C_HACKER_WELCOME_MISSION1-1=Ну...? Чого ти тут стоїш...!
+
+
+#----------------------------------------------------
+# Hacker
+### So?...
+PC14C_HACKER_WELCOME_THINK1-1=Ну...?
+
+
+#----------------------------------------------------
+# Hacker
+### How long is this gonna take?!
+PC14C_HACKER_MONEY1-1=Скільки це ще триватиме?!
+
+
+# Brok
+### Money doesn't exactly grow on trees, ya know!
+PC14C_HACKER_MONEY1-2=Знаєш, гроші на деревах не ростуть!
+
+
+# Hacker
+### No kiddin'. Why do you think I'm doing this job?!
+PC14C_HACKER_MONEY1-3=Та ти що. Як думаєш, чому я цим займаюся?!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Remember. 10,000 Unis.
+PC14C_HACKER_MONEY1-4=Пам'ятай. 10,000 Юні.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### How on earth can you expect anyone in the Slums to have that kind of money?!
+PC14C_HACKER_MONEY1-5=З якого біса ти сподіваєшся, що у когось у Нетрях є такі гроші?!
+
+
+# Hacker
+### You'd be surprised.
+PC14C_HACKER_MONEY1-6=Ти здивуєшся.
+
+
+# Hacker
+### Some people keep their cards well hidden.
+PC14C_HACKER_MONEY1-7=Дехто добре вміє тримати козирі в рукаві.
+
+
+#----------------------------------------------------
+# Brok
+### Here's your dough!
+PC14C_HACKER_MONEYGIVE-1=Ось твоє бабло!
+
+
+# Hacker
+### You... actually managed to get that much?!
+PC14C_HACKER_MONEYGIVE-2=Ти... справді зміг здобути стільки?!
+
+
+# Brok
+### You have no idea how tough this was...
+PC14C_HACKER_MONEYGIVE-3=Ти й уявити не можеш, як це було важко...
+
+
+# Brok
+### So you better deliver, buddy!!!
+PC14C_HACKER_MONEYGIVE-4=Тож краще виконай обіцяне, друже!!!
+
+
+# Hacker
+### Yeah, yeah. Here.
+PC14C_HACKER_MONEYGIVE-5=Та знаю, знаю. Тримай.
+
+
+# Brok
+### Finally!
+PC14C_HACKER_MONEYGIVE-6=Нарешті!
+
+
+# Hacker
+### And here's a present.
+PC14C_HACKER_MONEYGIVE-7=А ось і подарунок.
+
+
+#----------------------------------------------------
+# Brok
+### What's that?
+PC14C_HACKER_MONEYGIVE2-1=Що це?
+
+
+# Hacker
+### A special phone.
+PC14C_HACKER_MONEYGIVE2-2=Особливий телефон.
+
+
+# Hacker
+### With this line you can reach me in a secure way.
+PC14C_HACKER_MONEYGIVE2-3=Завдяки йому ти можеш безпечно зі мною зв'язатися.
+
+
+# Hacker
+### It can also bypass security systems. With pictures of someone you can...
+PC14C_HACKER_MONEYGIVE2-4=Він також може обходити системи безпеки. Маючи чиїсь фотографії, ти можеш...
+
+
+# Brok
+### No time for an explanation. Gotta go.
+PC14C_HACKER_MONEYGIVE2-5=Немає часу на пояснення. Мені час іти.
+
+
+# Brok
+### Time to bring that present to a lucky robot...
+PC14C_HACKER_MONEYGIVE2-6=Час віднести цей подарунок одному щасливому роботові...
+
+
+#----------------------------------------------------
+# Brok
+### That's not acceptable!
+PC14C_FIRST_THREATEN1-1=Це неприйнятно!
+
+
+# Hacker
+### B-but anything lower won't do!
+PC14C_FIRST_THREATEN1-2=А-але менше не підійде!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I... I owe money to some Squealers... I'll be a dead man!
+PC14C_FIRST_THREATEN1-3=Я... я винен гроші Верескунам... вони мене прикінчать!
+
+
+# Brok - He's referring to the chip. Here specifically when threatening the hacker, Brok can be informal to him.
+### You're dead if you don't give it to me right now!
+PC14C_FIRST_THREATEN1-4=Я сам тебе прикінчу, якщо не віддаси мені його просто зараз!
+
+
+# Brok
+### Where's the darn thing?!
+PC14C_FIRST_THREATEN1-5=Де ця клята річ?!
+
+
+# Brok
+### Tell me!
+PC14C_FIRST_THREATEN1-6=Кажи!
+
+
+# Hacker
+### N-No! Please!
+PC14C_FIRST_THREATEN1-7=Н-ні! Будь ласка!
+
+
+#----------------------------------------------------
+# Brok
+### Hrmph...
+PC14C_HACKER_THREATEN_ANOTHER1-1=Гм-мм...
+
+
+# Brok
+### Okay.
+PC14C_HACKER_THREATEN_ANOTHER1-2=Добре.
+
+
+# Hacker
+### Okay? Like... You're... gonna pay?
+PC14C_HACKER_THREATEN_ANOTHER1-3=Добре? У сенсі... Ти... заплатиш?
+
+
+#----------------------------------------------------
+# Brok - Again it's probably better if Brok is informal here.
+### That was your last chance!
+PC14C_HACKER_THREATENINSIST1-1=Це був твій останній шанс!
+
+
+# Brok
+### You're done for!
+PC14C_HACKER_THREATENINSIST1-2=Ти покійник!
+
+
+# Hacker
+### Aaaargh!
+PC14C_HACKER_THREATENINSIST1-3=Аа-а-ааа!
+
+
+# Unknown - Oops, that must have hurt
+### (Crack)
+PC14C_HACKER_THREATENINSIST1-4=(Хрускіт)
+
+
+# Brok
+### ...!
+PC14C_HACKER_THREATENINSIST1-5=...!
+
+
+# Brok
+### Oh gosh!...
+PC14C_HACKER_THREATENINSIST1-6=Ой леле...!
+
+
+# Brok
+### Did I...?!
+PC14C_HACKER_THREATENINSIST1-7=Невже я...?!
+
+
+# Brok
+### ...
+PC14C_HACKER_THREATENINSIST1-8=...
+
+
+# Brok
+### Phew... He's still breathing.
+PC14C_HACKER_THREATENINSIST1-9=Фух... Він ще дихає.
+
+
+# Brok
+### That was close. I should really calm my nerves...
+PC14C_HACKER_THREATENINSIST1-10=Ледь не вбив. Мені треба заспокоїтись...
+
+
+# Brok
+### How am I gonna get that chip, now?...
+PC14C_HACKER_THREATENINSIST1-11=Як мені тепер дістати той чип...?
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh...)
+PC14C_HACKER_THREATENTHINK1-1=(Зітхає)
+
+
+# Brok
+### (If I break his neck, I risk never finding that chip...)
+PC14C_HACKER_THREATENTHINK1-2=(Якщо я зламаю йому шию, є ризик, що я ніколи не знайду той чип...)
+
+
+# Brok
+### (On the other hand, I can't afford such an expense !)
+PC14C_HACKER_THREATENTHINK1-3=(З іншого боку, я не можу дозволити собі такі витрати!)
+
+
+# Brok
+### (...)
+PC14C_HACKER_THREATENTHINK1-4=(...)
+
+
+# Brok
+### (The real question is...)
+PC14C_HACKER_THREATENTHINK1-5=(Справжнє питання в тому...)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (How far will I go to get Graff out of this mess?...)
+PC14C_HACKER_THREATENTHINK1-6=(Як далеко я зайду, щоб витягти Граффа з цієї халепи...?)
+
+
+#----------------------------------------------------
+# Brok
+### Nope!
+PC14C_TO_PC14B_NO-1=Ні!
+
+
+#----------------------------------------------------
+# Brok
+### That's the only way to handle that kind of swindler.
+PC14C_HACKER_BEATEN1-1=Це єдиний спосіб розбиратися з такими шахраями.
+
+
+# Brok
+### Now. Where did he store that chip?
+PC14C_HACKER_BEATEN1-2=Так. І де ж він сховав той чип?
+
+
+#----------------------------------------------------
+# Hacker
+### Argh!
+PC14C_HACKER_HIT1-1=А-аа!
+
+
+#----------------------------------------------------
+# Hacker
+### Stop! That hurts!
+PC14C_HACKER_HIT2-1=Зупинись! Боляче!
+
+
+#----------------------------------------------------
+# Hacker
+### I'm too cute to die!...
+PC14C_HACKER_HIT3-1=Я занадто милий, щоб помирати...!
+
+
+#----------------------------------------------------
+# Brok - Brok has beaten up the hacker
+### He's okay... For the most part.
+PC14C_HACKER_SEARCH1-1=Він у нормі... Здебільшого.
+
+
+# Brok
+### Hmm... (Searches)
+PC14C_HACKER_SEARCH1-2=Гмм... (Обшукує)
+
+
+# Brok
+### Ha-ha! A chip!
+PC14C_HACKER_SEARCH1-3=Ха-ха! Чип!
+
+
+# Hacker
+### D-Don't...
+PC14C_HACKER_SEARCH1-4=Н-не треба...
+
+
+# Brok
+### Uh?...
+PC14C_HACKER_SEARCH1-5=Га...?
+
+
+# Hacker
+### It's... too valuable...
+PC14C_HACKER_SEARCH1-6=Він... надто цінний...
+
+
+# Brok
+### Shut up. (Punches)
+PC14C_HACKER_SEARCH1-7=Замовкни. (Вдаряє)
+
+
+# Hacker
+### Ooof!
+PC14C_HACKER_SEARCH1-8=У-ух!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Well he just confirmed it. Must be what the Director was looking for!
+PC14C_HACKER_SEARCH1-9=Ну, він сам це підтвердив. Це має бути те, що шукала директорка!
+
+
+# Brok
+### And... This?...
+PC14C_HACKER_SEARCH1-10=А... що це...?
+
+
+#----------------------------------------------------
+# Brok
+### Nice phone!
+PC14C_HACKER_SEARCH1B-1=Гарний телефон!
+
+
+# Brok
+### I'll take it. Pretty sure he's got a lot of these!
+PC14C_HACKER_SEARCH1B-2=Заберу його. Майже впевнений, що в нього таких повно!
+
+
+# Brok
+### I'm outta here.
+PC14C_HACKER_SEARCH1B-3=Я пішов звідси.
+
+
+#----------------------------------------------------
+# Brok
+### Got what I wanted.
+PC14C_HACKER_SEARCH2-1=Отримав, що хотів.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### (Better be on my guard... That guy's face screams "crook" all over.)
+PC14C_HACKER_THINK1-1=(Краще бути насторожі... Обличчя цього хлопця так і кричить "шахрай".)
+
+
+#----------------------------------------------------
+# Brok - Showing inventory to the hacker
+### Hmm... May I trade this?
+PC14C_HACKER_INV_DEFAULT1-1=Гмм... Можу обміняти це?
+
+
+# Hacker
+### Forget it.
+PC14C_HACKER_INV_DEFAULT1-2=Забудь.
+
+
+# Brok
+### But... it's beautiful, isn't it?
+PC14C_HACKER_INV_DEFAULT1-3=Але... воно гарне, хіба ні?
+
+
+# Hacker
+### ...
+PC14C_HACKER_INV_DEFAULT1-4=...
+
+
+#----------------------------------------------------
+# Brok
+### Here. Take.
+PC14C_HACKER_INV_DEFAULT2-1=Ось. Бери.
+
+
+# Hacker
+### Who are you kiddin'?
+PC14C_HACKER_INV_DEFAULT2-2=Ти знущаєшся?
+
+
+# Brok
+### But... This is invaluable!
+PC14C_HACKER_INV_DEFAULT2-3=Але... Це ж безцінна річ!
+
+
+# Hacker
+### Invaluable crap.
+PC14C_HACKER_INV_DEFAULT2-4=Безцінний непотріб.
+
+
+# Brok
+### Buddy, you're spending way too much time locked up. Your perspective of things is warped.
+PC14C_HACKER_INV_DEFAULT2-5=Друже, ти проводиш занадто багато часу в замкненому просторі. Твій погляд на речі спотворений.
+
+
+# Hacker
+### Get lost.
+PC14C_HACKER_INV_DEFAULT2-6=Відчепись.
+
+
+#----------------------------------------------------
+# Hacker
+### Hmm...!
+PC14C_HACKER_INV_PENDANT-1=Гмм...!
+
+
+# Brok
+### ...
+PC14C_HACKER_INV_PENDANT-2=...
+
+
+# Brok
+### Sorry... I can't.
+PC14C_HACKER_INV_PENDANT-3=Вибач... Я не можу.
+
+
+# Hacker
+### Geez! How stupid!
+PC14C_HACKER_INV_PENDANT-4=Йой! Яка дурість!
+
+
+#----------------------------------------------------
+# Brok
+### Here's all I've got... Take it.
+PC14C_HACKER_INV_MONEY1-1=Ось усе, що в мене є... Бери.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Are you kidding?! I couldn't even buy an Antburger with that!
+PC14C_HACKER_INV_MONEY1-2=Ти жартуєш?! Я за це навіть мурахобургер не куплю!
+
+
+# Brok
+### You're exaggerating. I know for a fact that you could buy two.
+PC14C_HACKER_INV_MONEY1-3=Ти перебільшуєш. Я достеменно знаю, що ти міг би купити два.
+
+
+#----------------------------------------------------
+# Brok
+### Do your business in my apartment!
+PC14C_HACKER_INV_APARTMENTKEY-1=Займайся своїми справами в моїй квартирі!
+
+
+# Hacker
+### Interesting but... No.
+PC14C_HACKER_INV_APARTMENTKEY-2=Цікаво, але... Ні.
+
+
+# Hacker
+### I've had a bad experience in that kind of apartment lately.
+PC14C_HACKER_INV_APARTMENTKEY-3=Останнім часом у мене був поганий досвід у подібних квартирах.
+
+
+#----------------------------------------------------
+# Brok
+### Can you...
+PC14C_HACKER_INV_BILL1-1=Ти можеш...
+
+
+# Hacker
+### Invalidate this bill? Sure!
+PC14C_HACKER_INV_BILL1-2=Анулювати цей рахунок? Звісно!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### That will cost you 5,000 Unis.
+PC14C_HACKER_INV_BILL1-3=Це коштуватиме тобі 5,000 Юні.
+
+
+# Brok
+### No, thanks.
+PC14C_HACKER_INV_BILL1-4=Ні, дякую.
+
+
+#----------------------------------------------------
+# Brok
+### I wonder what it's worth...
+PC14C_HACKER_INV_HACKPHONE-1=Цікаво, скільки він коштує...
+
+
+# Hacker
+### Don't even think about it!
+PC14C_HACKER_INV_HACKPHONE-2=Навіть не думай!
+
+
+# Hacker
+### I'll track you! I'll erase your identity!
+PC14C_HACKER_INV_HACKPHONE-3=Я відстежу тебе! Я зітру твої особисті дані!
+
+
+# Brok
+### Might not be such a bad idea.
+PC14C_HACKER_INV_HACKPHONE-4=Можливо, це не така й погана ідея.
+
+
+#----------------------------------------------------
+# Hacker
+### What's this?...
+PC14C_HACKER_INV_RADAR-1=Що це...?
+
+
+# Brok
+### A radar for materials.
+PC14C_HACKER_INV_RADAR-2=Радар для пошуку матеріалів.
+
+
+# Hacker
+### Uh? What's the point?... Can't you just order what you need?
+PC14C_HACKER_INV_RADAR-3=Га? Який у цьому сенс...? Хіба ти не можеш просто замовити те, що тобі потрібно?
+
+
+# Brok
+### Not everyone's rolling in the dough...
+PC14C_HACKER_INV_RADAR-4=Не всі купаються у грошах...
+
+
+#----------------------------------------------------
+# Brok
+### I'll trade this remote control! It's rare police equipment!
+PC14C_HACKER_INV_REMOTECONTROL-1=Обміняю цей пульт керування! Це рідкісне поліцейське обладнання!
+
+
+# Hacker
+### I've got twenty of these.
+PC14C_HACKER_INV_REMOTECONTROL-2=У мене таких двадцять.
+
+
+#----------------------------------------------------
+# Brok
+### You can cut through bots with this!
+PC14C_HACKER_INV_RUBBERCUTTER-1=Цим можна розрізати роботів!
+
+
+# Hacker
+### I don't use violence to defend myself.
+PC14C_HACKER_INV_RUBBERCUTTER-2=Я не використовую насильство для самозахисту.
+
+
+# Brok
+### Right... I'm sure those drones of yours wanted to give me a kiss.
+PC14C_HACKER_INV_RUBBERCUTTER-3=Ага... Я впевнений, що ті твої дрони просто хотіли мене поцілувати.
+
+
+#----------------------------------------------------
+# Brok - Exit hacker talk
+### I'll be back!
+PC14C_HACKER_EXIT1-1=Я ще повернуся!
+
+
+# Hacker
+### If only you didn't...
+PC14C_HACKER_EXIT1-2=Краще б ти цього не робив...
+
+
+# Brok
+### What?!
+PC14C_HACKER_EXIT1-3=Що?!
+
+
+# Hacker
+### N-nothing!
+PC14C_HACKER_EXIT1-4=Н-нічого!
+
+
+#----------------------------------------------------
+# Brok
+### Stay!
+PC14C_HACKER_EXIT2-1=Лишайся тут!
+
+
+# Hacker
+### Pfft...
+PC14C_HACKER_EXIT2-2=Пфф...
+
+
+#----------------------------------------------------
+# Hacker
+### !
+PC14C_HACKER_GHERKIN_KO1-1=!
+
+
+# Hacker
+### AaaaAaaah!... Not you!
+PC14C_HACKER_GHERKIN_KO1-2=АаааАаааа...! Тільки не ти!
+
+
+# Brok
+### Hey! Stop hiding! I need you!
+PC14C_HACKER_GHERKIN_KO1-3=Гей! Перестань ховатися! Ти мені потрібен!
+
+
+# Hacker
+### B-but...
+PC14C_HACKER_GHERKIN_KO1-4=А-але...
+
+
+# Brok
+### I won't hurt ya!
+PC14C_HACKER_GHERKIN_KO1-5=Я тебе не скривджу!
+
+
+# Hacker
+### P-promise?...
+PC14C_HACKER_GHERKIN_KO1-6=О-обіцяєш...?
+
+
+# Brok
+### Sure.
+PC14C_HACKER_GHERKIN_KO1-7=Звісно.
+
+
+# Hacker
+### ...
+PC14C_HACKER_GHERKIN_KO1-8=...
+
+
+# Hacker
+### Okay. But don't waste my time!
+PC14C_HACKER_GHERKIN_KO1-9=Добре. Але не марнуй мій час!
+
+
+# Brok
+### (Sigh)
+PC14C_HACKER_GHERKIN_KO1-10=(Зітхає)
+
+
+#----------------------------------------------------
+# Hacker - Day 3 - Talking to Hacker (when Gherkin around)
+### Mister Detective.
+PC14C_HACKER_GHERKIN_FIRST1-1=Пане детективе.
+
+
+# Hacker
+### I have to warn you, I'm pretty busy right n...
+PC14C_HACKER_GHERKIN_FIRST1-2=Мушу попередити, зараз я досить зайня...
+
+
+# Brok
+### Yeah, yeah. Listen.
+PC14C_HACKER_GHERKIN_FIRST1-3=Так, так. Послухай.
+
+
+#----------------------------------------------------
+# Brok
+### Any info on what caused that pill situation?
+PC14C_HACKER_GHERKIN_PILL-1=Є якась інформація про те, що спричинило ситуацію з пігулками?
+
+
+# Hacker
+### I wish. This is a disaster!
+PC14C_HACKER_GHERKIN_PILL-2=Якби ж то. Це катастрофа!
+
+
+# Hacker
+### At this rate, I'll be outta dough before the end of the week.
+PC14C_HACKER_GHERKIN_PILL-3=З такими темпами до кінця тижня у мене взагалі не залишиться бабла.
+
+
+# Hacker
+### And clients, too! One more day and they'll drop like flies.
+PC14C_HACKER_GHERKIN_PILL-4=І клієнтів теж! Ще день, і вони гинутимуть, як мухи.
+
+
+# Brok
+### We gotta do something!
+PC14C_HACKER_GHERKIN_PILL-5=Ми мусимо щось зробити!
+
+
+# Brok
+### With your competence and all your doodads, surely you can investigate!
+PC14C_HACKER_GHERKIN_PILL-6=З твоїм досвідом та всіма цими штучками ти точно міг би провести розслідування!
+
+
+# Hacker
+### Don't think I haven't tried!
+PC14C_HACKER_GHERKIN_PILL-7=Не думай, що я не намагався!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I've searched all over the Triweb. Zip, nada.
+PC14C_HACKER_GHERKIN_PILL-8=Я обшукав увесь Тривеб. Нуль, нічого.
+
+
+# Brok
+### I should have guessed.
+PC14C_HACKER_GHERKIN_PILL-9=Я мав здогадатися.
+
+
+# Brok
+### Nothing replaces an investigation in the field.
+PC14C_HACKER_GHERKIN_PILL-10=Ніщо не замінить реальне розслідування.
+
+
+#----------------------------------------------------
+# Brok
+### What's going on with those darn bots?!
+PC14C_HACKER_GHERKIN_TRIBOT-1=Що відбувається з тими клятими ботами?!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribots? What's with them?
+PC14C_HACKER_GHERKIN_TRIBOT-2=Триботи? А що з ними?
+
+
+# Brok
+### Don't tell me you're not aware?
+PC14C_HACKER_GHERKIN_TRIBOT-3=Тільки не кажи, що ти не в курсі?
+
+
+# Brok
+### Since this morning, they've made countless attacks on people!
+PC14C_HACKER_GHERKIN_TRIBOT-4=З самого ранку вони здійснили незліченну кількість нападів на людей!
+
+
+# Brok
+### I can't even count how many I've put into pieces!
+PC14C_HACKER_GHERKIN_TRIBOT-5=Я навіть порахувати не можу, скількох із них я розніс на шматки!
+
+
+# Hacker
+### You should know better than calling them "Tin cans".
+PC14C_HACKER_GHERKIN_TRIBOT-6=Бо менше треба називати їх "бляшанками".
+
+
+# Brok
+### Very funny.
+PC14C_HACKER_GHERKIN_TRIBOT-7=Дуже смішно.
+
+
+# Hacker
+### I'm serious.
+PC14C_HACKER_GHERKIN_TRIBOT-8=Я серйозно.
+
+
+# Brok
+### So you haven't heard anything?
+PC14C_HACKER_GHERKIN_TRIBOT-9=Тож ти нічого не чув?
+
+
+# Hacker
+### Not the slightest. But I'll be on the lookout.
+PC14C_HACKER_GHERKIN_TRIBOT-10=Взагалі нічого. Але я стежитиму за ситуацією.
+
+
+#----------------------------------------------------
+# Brok
+### Someone's sending me messages from an unknown number.
+PC14C_HACKER_GHERKIN_MESSAGES-1=Хтось надсилає мені повідомлення з невідомого номера.
+
+
+# Brok
+### Find out who this is.
+PC14C_HACKER_GHERKIN_MESSAGES-2=З'ясуй, хто це.
+
+
+# Hacker
+### Straight to the point, eh?
+PC14C_HACKER_GHERKIN_MESSAGES-3=Одразу до справи, так?
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### That's easy as pie. 1,000 Unis should do it.
+PC14C_HACKER_GHERKIN_MESSAGES-4=Це дуже легко. 1,000 Юні має вистачити.
+
+
+# Brok
+### I don't have time for this!
+PC14C_HACKER_GHERKIN_MESSAGES-5=У мене нема на це часу!
+
+
+# Brok
+### Do it now or I might turn your pretty face into mashed potatoes!
+PC14C_HACKER_GHERKIN_MESSAGES-6=Зроби це зараз, або я перетворю твоє личко на пюре!
+
+
+# Hacker
+### Erm... Okay, okay! No need to get upset over spare change!
+PC14C_HACKER_GHERKIN_MESSAGES-7=Е-е... Добре, добре! Не треба дратуватися через таку дрібницю!
+
+
+# Hacker
+### I'll put it on your tab.
+PC14C_HACKER_GHERKIN_MESSAGES-8=Запишу на твій рахунок.
+
+
+# Brok
+### Good.
+PC14C_HACKER_GHERKIN_MESSAGES-9=Добре.
+
+
+# Hacker
+### ...
+PC14C_HACKER_GHERKIN_MESSAGES-10=...
+
+
+# Hacker
+### Okay. Found it.
+PC14C_HACKER_GHERKIN_MESSAGES-11=Так. Знайшов.
+
+
+# Brok
+### So? Who is it?
+PC14C_HACKER_GHERKIN_MESSAGES-12=Ну? Хто це?
+
+
+# Hacker
+### I can't tell you.
+PC14C_HACKER_GHERKIN_MESSAGES-13=Я не можу тобі сказати.
+
+
+# Brok
+### What?...
+PC14C_HACKER_GHERKIN_MESSAGES-14=Що...?
+
+
+# Hacker
+### Confidentiality. The keyword in this profession.
+PC14C_HACKER_GHERKIN_MESSAGES-15=Конфіденційність. Ключове слово у цій професії.
+
+
+# Hacker
+### It's a matter of trust between me and my client. She specifically...
+PC14C_HACKER_GHERKIN_MESSAGES-16=Це питання довіри між мною та моїм клієнтом. Вона спеціально...
+
+
+# Brok
+### She?
+PC14C_HACKER_GHERKIN_MESSAGES-17=Вона?
+
+
+# Hacker
+### Argh!...
+PC14C_HACKER_GHERKIN_MESSAGES-18=Ар-р...!
+
+
+# Brok
+### Come on, pour it out!
+PC14C_HACKER_GHERKIN_MESSAGES-19=Давай, викладай усе!
+
+
+# Hacker
+### My professional ethics strictly forbid from revealing her name!
+PC14C_HACKER_GHERKIN_MESSAGES-20=Моя професійна етика суворо забороняє розголошувати її ім'я!
+
+
+# Hacker
+### But... I guess it's okay to tell you a few things about her request.
+PC14C_HACKER_GHERKIN_MESSAGES-21=Але... Гадаю, я можу розповісти тобі дещо про її запит.
+
+
+# Brok
+### Ethics, huh?...
+PC14C_HACKER_GHERKIN_MESSAGES-22=Етика, кажеш...?
+
+
+# Hacker
+### Two days ago she asked for a few searches and to notify her of updates related to a few topics.
+PC14C_HACKER_GHERKIN_MESSAGES-23=Два дні тому вона попросила дещо пошукати й повідомити їй, якщо з'являться оновлення з кількох тем.
+
+
+# Brok
+### Which ones?
+PC14C_HACKER_GHERKIN_MESSAGES-24=Яких саме?
+
+
+# Hacker
+### Hmm... Here's the list.
+PC14C_HACKER_GHERKIN_MESSAGES-25=Гмм... Ось список.
+
+
+# Hacker
+### The Government...
+PC14C_HACKER_GHERKIN_MESSAGES-26=Уряд...
+
+
+# Hacker
+### Various statistics over the past year...
+PC14C_HACKER_GHERKIN_MESSAGES-27=Різна статистика за минулий рік...
+
+
+# Hacker
+### Breaking into some journalist's message inbox...
+PC14C_HACKER_GHERKIN_MESSAGES-28=Злом поштової скриньки якогось журналіста...
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Finances from pharmaceutical companies. In particular, Toxout pills...
+PC14C_HACKER_GHERKIN_MESSAGES-29=Фінанси фармацевтичних компаній. Зокрема, смогові пігулки...
+
+
+# Brok
+### Well, well! If I believed in coincidences...
+PC14C_HACKER_GHERKIN_MESSAGES-30=Ну, ну! Якби я вірив у збіги...
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### And the whereabouts of a man named Sin.
+PC14C_HACKER_GHERKIN_MESSAGES-31=І місцеперебування чоловіка на ім'я Сін.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin?!
+PC14C_HACKER_GHERKIN_MESSAGES-32=Сін?!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Yeah. A roo who lived in the Drums.
+PC14C_HACKER_GHERKIN_MESSAGES-33=Ага. Кенгуру, який раніше жив на Верхах.
+
+
+# Brok
+### No doubt. That's him.
+PC14C_HACKER_GHERKIN_MESSAGES-34=Без сумніву. Це він.
+
+
+# Hacker
+### I've learned over time to analyze emotional states. Helps a lot with affairs.
+PC14C_HACKER_GHERKIN_MESSAGES-35=З часом я навчився розпізнавати емоційні стани людей. Це дуже допомагає у справах.
+
+
+# Hacker
+### And I can tell you this.
+PC14C_HACKER_GHERKIN_MESSAGES-36=І я можу сказати тобі таке.
+
+
+# Hacker
+### She tried hard to cover it but she seemed pretty worried about the man.
+PC14C_HACKER_GHERKIN_MESSAGES-37=Вона щосили намагалася це приховати, але здавалася вельми стурбованою через цього чоловіка.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin... I wonder...
+PC14C_HACKER_GHERKIN_MESSAGES-38=Сін... Цікаво...
+
+
+# Hacker
+### Hope you're satisfied.
+PC14C_HACKER_GHERKIN_MESSAGES-39=Сподіваюся, ти задоволений.
+
+
+# Hacker
+### Now, shoo!
+PC14C_HACKER_GHERKIN_MESSAGES-40=А тепер, шуруй!
+
+
+# RJ
+### (Cough, cough, cough....)
+PC14C_HACKER_GHERKIN_MESSAGES-41=(Сильно кашляє)
+
+
+# Brok
+### ...?
+PC14C_HACKER_GHERKIN_MESSAGES-42=...?
+
+
+#----------------------------------------------------
+# Brok - Day 3 - After RJ collapses due to lack of pill
+### Hey! Help me!
+PC14C_HACKER_GHERKIN_SECOND-1=Гей! Допоможи мені!
+
+
+# Brok
+### Your bodyguard collapsed!
+PC14C_HACKER_GHERKIN_SECOND-2=Твій охоронець знепритомнів!
+
+
+# Hacker
+### What?
+PC14C_HACKER_GHERKIN_SECOND-3=Що?
+
+
+# Brok
+### He's been outta pills for too long!
+PC14C_HACKER_GHERKIN_SECOND-4=Він занадто довго був без пігулок!
+
+
+# Brok
+### This is urgent! Gimme one!
+PC14C_HACKER_GHERKIN_SECOND-5=Це терміново! Дай мені одну!
+
+
+# Hacker
+### Hey! Are you kidding?!
+PC14C_HACKER_GHERKIN_SECOND-6=Гей! Ти жартуєш?!
+
+
+# Hacker
+### You know the price of those on the black market?! I can barely afford one for myself!
+PC14C_HACKER_GHERKIN_SECOND-7=Ти знаєш їхню ціну на чорному ринку?! Я ледве можу дозволити собі одну для себе!
+
+
+# Brok
+### It's a matter of life and death!
+PC14C_HACKER_GHERKIN_SECOND-8=Це питання життя і смерті!
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### OK. Gimme 20,000 Unis.
+PC14C_HACKER_GHERKIN_SECOND-9=Гаразд. За 20,000 Юні.
+
+
+# Brok
+### Are you insane?! I don't have that money!
+PC14C_HACKER_GHERKIN_SECOND-10=Ти божевільний?! У мене немає таких грошей!
+
+
+# Hacker
+### Then you've got your answer.
+PC14C_HACKER_GHERKIN_SECOND-11=Тоді ти сам знаєш відповідь.
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### We're in the Slums. The strongest survive.
+PC14C_HACKER_GHERKIN_SECOND-12=Ми в Нетрях. Виживає найсильніший.
+
+
+# Hacker
+### If he doesn't, this just means I made a bad choice hiring him.
+PC14C_HACKER_GHERKIN_SECOND-13=Якщо він не виживе, це означає, що я просто зробив поганий вибір, найнявши його.
+
+
+# Brok
+### How can you be so selfish?!
+PC14C_HACKER_GHERKIN_SECOND-14=Як ти можеш бути таким егоїстом?!
+
+
+# Hacker
+### Not selfish. Responsible.
+PC14C_HACKER_GHERKIN_SECOND-15=Це не егоїзм. Це відповідальність.
+
+
+# Hacker
+### How do you think I'm staying in business? By giving away valuable stuff or services for free?!
+PC14C_HACKER_GHERKIN_SECOND-16=Як, по-твоєму, мій бізнес досі тримається на плаву? Бо я роздаю цінні речі чи послуги безкоштовно?!
+
+
+# Hacker
+### The life of second-rate citizens isn't worth that much.
+PC14C_HACKER_GHERKIN_SECOND-17=Життя громадян другого сорту коштує не так уже й багато.
+
+
+# Brok
+### Right. You're not selfish. You're despicable.
+PC14C_HACKER_GHERKIN_SECOND-18=Ясно. Ти не егоїст. Ти мерзотник.
+
+
+# Brok
+### No more Mister nice guy!
+PC14C_HACKER_GHERKIN_SECOND-19=Моє терпіння урвалося!
+
+
+# Brok
+### Gimme a pill or I'm gonna...
+PC14C_HACKER_GHERKIN_SECOND-20=Дай мені пігулку, або я...
+
+
+# Hacker
+### Woah! No point threatening me!...
+PC14C_HACKER_GHERKIN_SECOND-21=Гей! Немає сенсу погрожувати...!
+
+
+# Hacker
+### I don't have any currently! I swear!...
+PC14C_HACKER_GHERKIN_SECOND-22=У мене зараз при собі немає жодної пігулки! Клянусь...!
+
+
+# Brok
+### Then ask your contacts!
+PC14C_HACKER_GHERKIN_SECOND-23=Тоді запитай у своїх контактів!
+
+
+# Hacker
+### Even if I did... I can't have one delivered right away!
+PC14C_HACKER_GHERKIN_SECOND-24=Навіть якби я й зробив це... я не можу доставити її миттєво!
+
+
+# Hacker
+### The big bear will be long dead.
+PC14C_HACKER_GHERKIN_SECOND-25=Цей здоровань-ведмідь до того часу уже буде мертвий.
+
+
+# Brok
+### Gah... I won't get anything from that guy!...
+PC14C_HACKER_GHERKIN_SECOND-26=Пхе... Я нічого не виб'ю з цього хлопця...!
+
+
+# Brok
+### Better find another way, and fast!
+PC14C_HACKER_GHERKIN_SECOND-27=Краще знайти інший спосіб, і швидко!
+
+
+#----------------------------------------------------
+# Hacker
+### ...
+PC14C_HACKER_GHERKIN_SECOND2-1=...
+
+
+#----------------------------------------------------
+# Brok
+### He's useless.
+PC14C_HACKER_GHERKIN_USELESS-1=З нього ніякої користі.
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Coming back to look for Graff
+### Still here?
+PC14C_HACKER_END_FIRST-1=Все ще тут?
+
+
+# Hacker
+### ...!
+PC14C_HACKER_END_FIRST-2=...!
+
+
+# Hacker
+### Stop scaring me like that!
+PC14C_HACKER_END_FIRST-3=Перестань лякати мене так!
+
+
+# Brok
+### I'm looking for my boy.
+PC14C_HACKER_END_FIRST-4=Я шукаю свого малого.
+
+
+# Hacker
+### So?...
+PC14C_HACKER_END_FIRST-5=І...?
+
+
+# Brok
+### Cat. Grey fur, blue eyes. Red sweatshirt.
+PC14C_HACKER_END_FIRST-6=Кіт. Сіра шерсть, блакитні очі. Червоне худі.
+
+
+# Hacker
+### ...
+PC14C_HACKER_END_FIRST-7=...
+
+
+# Brok
+### ...?
+PC14C_HACKER_END_FIRST-8=...?
+
+
+# Brok
+### You... You've seen him!
+PC14C_HACKER_END_FIRST-9=Ти... Ти бачив його!
+
+
+# Hacker
+### Well...
+PC14C_HACKER_END_FIRST-10=Ну...
+
+
+# Brok
+### Tell me!
+PC14C_HACKER_END_FIRST-11=Кажи!
+
+
+# Brok
+### Where is he?!
+PC14C_HACKER_END_FIRST-12=Де він?!
+
+
+# Hacker
+### He... He went out! Not long ago! With a friend of his!
+PC14C_HACKER_END_FIRST-13=Він... Він вже пішов! Нещодавно! Зі своїм другом!
+
+
+# Brok
+### That can't be... What was he doing here?...
+PC14C_HACKER_END_FIRST-14=Не може бути... Що він тут робив...?
+
+
+# Hacker
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Something about Toxout pills...
+PC14C_HACKER_END_FIRST-15=Питав щось про смогові пігулки...
+
+
+# Hacker
+### They must be around! Take a look!
+PC14C_HACKER_END_FIRST-16=Вони мають бути десь неподалік! Пошукай!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... What are you up to!...
+PC14C_HACKER_END_FIRST-17=Граффе... Що ти задумав...?
+
+
+# Hacker
+### ...
+PC14C_HACKER_END_FIRST-18=...
+
+
+#----------------------------------------------------
+# Hacker - Gameover during drones fight
+### ...
+PC14C_HACKERFIGHT_GAMEOVER-1=...
+
+
+# Hacker
+### Phew. Good thing I installed those drones!
+PC14C_HACKERFIGHT_GAMEOVER-2=Фух. Добре, що я встановив тих дронів!
+
+
+# Hacker
+### Okay, back to work.
+PC14C_HACKERFIGHT_GAMEOVER-3=Гаразд, назад до роботи.
+
+
+#----------------------------------------------------
+# Brok
+### Gross!
+PC14C_PIZZABOX1-1=Огидно!
+
+
+#----------------------------------------------------
+# Brok
+### May I have a drink?
+PC14C_BOTTLE1-1=Можу випити?
+
+
+# Hacker
+### No.
+PC14C_BOTTLE1-2=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### What a marvelous view...
+PC14C_WINDOW1-1=Який дивовижний краєвид...
+
+
+#----------------------------------------------------
+# Brok
+### Whoa... Too much stuff. I have more urgent business to attend to.
+PC14C_STUFF1-1=Ого... Тут занадто багато речей. У мене є нагальніші справи.
+
+
+#----------------------------------------------------
+# Hacker
+### What the?...
+PC14C_HACKER_WALKONSTAND1-1=Що за...?
+
+
+#----------------------------------------------------
+# Hacker
+### Tsk. Go play outside.
+PC14C_HACKER_WALKONSTAND2-1=Тьху. Іди пограйся на вулиці.
+
+
+#----------------------------------------------------
+# Hacker
+### (Sigh)
+PC14C_HACKER_WALKONSTAND3-1=(Зітхає)
+
+
+#----------------------------------------------------
+# Unknown
+### He doesn't trust us, and I don't trust him.
+COOP_PC14C_HACKER1-1=Він не довіряє нам, а я не довіряю йому.
+
+
+#----------------------------------------------------
+

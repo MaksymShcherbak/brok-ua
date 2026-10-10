@@ -1,0 +1,554 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Lia (Unknown)
+#     Lia - Brok (Unknown)
+
+#-------------------------------
+#=LIA APARTMENT NIGHTMARE (LOUNGE)
+#-------------------------------
+
+#----- Interactions --------
+
+# ----- Interactions --------
+### Rock
+PC_ROCK=Каміння
+
+### To the lounge
+PC_LOUNGE=До вітальні
+
+### Inscription?
+PC_INSCRIPTION=Напис?
+
+### Display cabinet
+PC_SHOWCASE=Вітрина
+
+### Collapsed furniture
+PC_FALLEN=Завалені меблі
+
+### Rewards
+PC_REWARDS=Нагороди
+
+### Pill reward
+PC_PILL=Нагорода у формі пігулки
+
+
+### GUILTY
+PC_GUILTY=ВИНЕН
+
+
+#----- Choices / Items --------
+### A metal bar!
+GOT_METALBAR=Металевий прут!
+
+
+#----- Help --------
+
+# ----- Help --------
+### To jump, switch to action mode then press <spr=CONTROL_mousemiddle> or <button=INPUT_ACTION_JUMP>.
+TUTORIAL_JUMP_MSG_MOUSE=Щоб стрибнути, перемкніться в режим бійки та натисніть <spr=CONTROL_mousemiddle> або <button=INPUT_ACTION_JUMP>.
+
+### To jump, switch to action mode then press <button=INPUT_ACTION_JUMP>.
+TUTORIAL_JUMP_MSG_GAMEPAD=Щоб стрибнути, перемкніться в режим бійки та натисніть <button=INPUT_ACTION_JUMP>.
+
+### Jump over the fallen cupboard
+TUTORIAL_JUMP_CUPBOARD=Перестрибніть через повалену шафу
+
+### Switch to action mode and break the display cabinet glass
+TUTORIAL_BREAK_WINDOW=Перемкніться в режим бійки та розбийте скло вітрини
+
+### Inspect the pill reward
+TUTORIAL_INSPECT_PILL=Огляньте нагороду у формі пігулки
+
+### Use the metal bar on the fallen furniture
+TUTORIAL_USE_METALBAR=Використайте металевий прут на завалених меблях
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - The last room is filled with smoke
+### (Cough, cough)
+PC11C_ENTER1-1=(Кашляє)
+
+
+# Brok
+### That smoke...(cough)... It's unbearable.
+PC11C_ENTER1-2=Цей дим...(кашляє)... Нестерпний.
+
+
+# Brok
+### I need to find a way out of here, fast!
+PC11C_ENTER1-3=Мені треба якнайшвидше знайти вихід!
+
+
+#----------------------------------------------------
+# Brok - When Brok advances, some text gets written on the wall then disappears
+### Huh...?
+PC11C_INSCRIPTION1-1=Га...?
+
+
+# Brok
+### I thought I saw some kind of weird inscription there...
+PC11C_INSCRIPTION1-2=Здається, я бачив там якийсь дивний напис...
+
+
+# Brok
+### Never mind. I must have dreamt it.
+PC11C_INSCRIPTION1-3=Неважливо. Мабуть, здалося.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### A diploma... Some rewards...
+PC11C_SHOWCASE1-1=Диплом... Якісь нагороди...
+
+
+# Brok
+### "Medical Discovery of the Year"?
+PC11C_SHOWCASE1-2="Медичне відкриття року"?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Are these Lia's? Why can't I remember...?
+PC11C_SHOWCASE1-3=Це речі Лії? Чому я не пам'ятаю...?
+
+
+#----------------------------------------------------
+# Brok
+### Maybe something in here could be useful.
+PC11C_SHOWCASE2-1=Можливо, щось звідси стане в пригоді.
+
+
+#----------------------------------------------------
+# Brok
+### Those won't help me move the furniture.
+PC11C_REWARDS1-1=Це не допоможе мені посунути меблі.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm, what if I removed that metal bar...
+PC11C_PILL1-1=Гмм, а що, як зняти цей металевий прут...
+
+
+# Brok
+### There ya go!
+PC11C_PILL1-2=Ось так!
+
+
+#----------------------------------------------------
+# Brok
+### Rocks? Where did these come from?
+PC11C_ROCK1-1=Каміння? Звідки воно тут?
+
+
+# Brok
+### They're blocking the way...
+PC11C_ROCK1-2=Воно перекриває шлях...
+
+
+#----------------------------------------------------
+# Brok
+### Whoa! What happened here?! I can't even see the bottom!
+PC11C_HOLE1-1=Ого! Що тут сталося?! Я навіть дна не бачу!
+
+
+# Brok
+### I'd better be careful...
+PC11C_HOLE1-2=Краще бути обережним...
+
+
+#----------------------------------------------------
+# Brok - Brok finds Lia half unconscious, stuck under a fallen piece of furniture
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia!
+PC11C_LIA_FIRST1-1=Ліє!
+
+
+#----------------------------------------------------
+# Brok
+### Hang on! I'm right here!
+PC11C_LIA_FIRST2-1=Тримайся! Я поруч!
+
+
+# Lia
+### It's you...
+PC11C_LIA_FIRST2-2=Це ти...
+
+
+# Brok
+### Don't talk! You'll wear yourself out.
+PC11C_LIA_FIRST2-3=Нічого не говори! Ти себе виснажиш.
+
+
+# Brok
+### I'll get you out of here!
+PC11C_LIA_FIRST2-4=Я тебе витягну звідси!
+
+
+# Lia
+### ...no need...
+PC11C_LIA_FIRST2-5=...не треба...
+
+
+# Brok
+### Why are you saying that?
+PC11C_LIA_FIRST2-6=Чому ти це кажеш?
+
+
+# Lia
+### You know why...
+PC11C_LIA_FIRST2-7=Ти знаєш, чому...
+
+
+# Brok
+### I...
+PC11C_LIA_FIRST2-8=Я...
+
+
+# Brok
+### No, I don't. What happened?
+PC11C_LIA_FIRST2-9=Ні, не знаю. Що сталося?
+
+
+# Lia
+### ...
+PC11C_LIA_FIRST2-10=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia?
+PC11C_LIA_FIRST2-11=Ліє?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia!
+PC11C_LIA_FIRST2-12=Ліє!
+
+
+# Brok
+### She passed out... I need to help her, quick!
+PC11C_LIA_FIRST2-13=Вона знепритомніла... Треба швидко їй допомогти!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia! Wake up!
+PC11C_LIA1-1=Ліє! Прокинься!
+
+
+# Lia
+### ...
+PC11C_LIA1-2=...
+
+
+# Brok
+### It's useless...
+PC11C_LIA1-3=Марно...
+
+
+# Brok
+### Her leg is stuck. I need to get her out of there!
+PC11C_LIA1-4=Її нога застрягла. Мені потрібно витягти її звідти!
+
+
+#----------------------------------------------------
+# Lia - Player jumps on the furniture
+### AaaaAaaaAaaargh!
+PC11C_LIA_CLIMB1-1=А-ааАааааАааа!
+
+
+# Brok
+### Oh no! I'm sorry.
+PC11C_LIA_CLIMB1-2=О ні! Вибач.
+
+
+#----------------------------------------------------
+# Brok
+### There's no point in going back!
+PC11C_GOAWAY-1=Немає сенсу повертатися!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### I can't go too far from Lia. She needs me!
+PC11C_LIA_GOAWAY-1=Я не можу відходити далеко від Лії. Я потрібен їй!
+
+
+#----------------------------------------------------
+# Brok - Brok trying to move the fallen piece of furniture with bare hands
+### Arrrrgh...
+PC11C_FALLEN1-1=Ар-р-р...
+
+
+# Brok
+### Argh... No way...
+PC11C_FALLEN1-2=Ар-р... Ніяк...
+
+
+# Brok
+### It's too heavy...I'll need a tool to help me move the furniture!
+PC11C_FALLEN1-3=Занадто важко... Мені знадобиться якийсь інструмент, щоб посунути меблі!
+
+
+#----------------------------------------------------
+# Brok - Brok trying to move the fallen piece of furniture with a metal bar. Still not enough to save Lia
+### Argh...
+PC11C_FALLEN_METALBAR-1=Ар-р...
+
+
+# Brok
+### So... heavy... I have to...!
+PC11C_FALLEN_METALBAR-2=Таке... важке... Я мушу...!
+
+
+# Brok
+### Arrrrrgh!!!
+PC11C_FALLEN_METALBAR-3=Ар-р-р!!!
+
+
+# Brok
+### No... I'm not strong enough...
+PC11C_FALLEN_METALBAR-4=Ні... У мене замало сил...
+
+
+# Lia - This is a nightmare. Lia blames him (the voice will be transformed so it sounds weird)
+### ...all your fault...
+PC11C_FALLEN_METALBAR-5=...це все твоя вина...
+
+
+# Brok
+### What?
+PC11C_FALLEN_METALBAR-6=Що?
+
+
+# Lia
+### Murderer...
+PC11C_FALLEN_METALBAR-7=Убивця...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia... What are you saying? I just found you...
+PC11C_FALLEN_METALBAR-8=Ліє... Що ти таке кажеш? Я тільки-но тебе знайшов...
+
+
+# Brok
+### You're gonna make it. I promise.
+PC11C_FALLEN_METALBAR-9=Все буде добре. Я обіцяю.
+
+
+# Lia
+### Liar...
+PC11C_FALLEN_METALBAR-10=Брехун...
+
+
+# Lia
+### You killed me... You killed him...
+PC11C_FALLEN_METALBAR-11=Ти вбив мене... Ти вбив його...
+
+
+# Brok
+### Stop it... You know I'd never do anything like that!
+PC11C_FALLEN_METALBAR-12=Припини... Ти ж знаєш, я б ніколи такого не зробив!
+
+
+# Lia
+### ...worthless... dangerous...
+PC11C_FALLEN_METALBAR-13=...нікчемний... небезпечний...
+
+
+# Lia
+### How can you lie to everyone?
+PC11C_FALLEN_METALBAR-14=Як ти можеш брехати всім?
+
+
+# Lia
+### Even yourself...
+PC11C_FALLEN_METALBAR-15=Навіть собі...
+
+
+# Brok
+### Stop it! Please!
+PC11C_FALLEN_METALBAR-16=Припини! Благаю!
+
+
+# Lia
+### ...shouldn't have trusted you...
+PC11C_FALLEN_METALBAR-17=...не треба було тобі довіряти...
+
+
+# Lia
+### My son isn't safe with you...
+PC11C_FALLEN_METALBAR-18=Поруч із тобою мій син у небезпеці...
+
+
+# Brok
+### That's not true... I...
+PC11C_FALLEN_METALBAR-19=Це неправда... Я...
+
+
+# Brok
+### I'm taking good care of him.
+PC11C_FALLEN_METALBAR-20=Я добре про нього піклуюся.
+
+
+# Brok
+### Wait... Something's not right...
+PC11C_FALLEN_METALBAR-21=Зачекай... Щось не так...
+
+
+# Brok
+### Where is...?
+PC11C_FALLEN_METALBAR-22=Де...?
+
+
+# Lia
+### Criminal... Doomed...
+PC11C_FALLEN_METALBAR-23=Злочинець... Приречений...
+
+
+# Brok
+### I...need to focus...
+PC11C_FALLEN_METALBAR-24=Я... мушу зосередитися...
+
+
+# Brok
+### To get you out of here.
+PC11C_FALLEN_METALBAR-25=Щоб витягти тебе звідси.
+
+
+# Brok
+### Hold on... I'll try it again...
+PC11C_FALLEN_METALBAR-26=Тримайся... Я спробую ще раз...
+
+
+# Brok
+### Argh! It's so heavy!
+PC11C_FALLEN_METALBAR-27=Ар-р! Воно таке важке!
+
+
+# Brok
+### AaaaaAAAarrgh AAAAArrrrgh!!!
+PC11C_FALLEN_METALBAR-28=А-аааАр-ррр А-АААаа-ррр!!!
+
+
+# Brok
+### (Panting)
+PC11C_FALLEN_METALBAR-29=(Важко дихає)
+
+
+# Brok
+### No...I'm...
+PC11C_FALLEN_METALBAR-30=Ні... я...
+
+
+# Brok
+### I'm sorry...
+PC11C_FALLEN_METALBAR-31=Пробач...
+
+
+# Brok
+### I love you, but I'm just not strong enough...
+PC11C_FALLEN_METALBAR-32=Я кохаю тебе, але мені бракує сил...
+
+
+# Lia
+### ...should've known...
+PC11C_FALLEN_METALBAR-33=...мала б знати, що так буде..
+
+
+# Brok
+### ...
+PC11C_FALLEN_METALBAR-34=...
+
+
+# Brok
+### What's going on?!
+PC11C_FALLEN_METALBAR-35=Що відбувається?!
+
+
+# Brok
+### I... I'll get some help! Don't move!
+PC11C_FALLEN_METALBAR-36=Я... я покличу на допомогу! Не рухайся!
+
+
+# Lia
+### ...of course!
+PC11C_FALLEN_METALBAR-37=...авжеж!
+
+
+# Lia
+### Running away, like always...
+PC11C_FALLEN_METALBAR-38=Тікаєш, як і завжди...
+
+
+# Brok
+### I'm not! But...
+PC11C_FALLEN_METALBAR-39=Я не тікаю! Але...
+
+
+# Lia
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### You'll be judged for your sins...
+PC11C_FALLEN_METALBAR-40=Тебе судитимуть за твої гріхи...
+
+
+# Brok
+### No... no!
+PC11C_FALLEN_METALBAR-41=Ні... ні!
+
+
+# Brok
+### The ground! Is everything collapsing?!
+PC11C_FALLEN_METALBAR-42=Земля! Все руйнується?!
+
+
+# Brok
+### I'll... stay here with you until the end!
+PC11C_FALLEN_METALBAR-43=Я... залишуся тут із тобою до самого кінця!
+
+
+# Lia
+### LIAR!
+PC11C_FALLEN_METALBAR-44=БРЕХУН!
+
+
+# Lia
+### YOU LEFT ME ALONE!
+PC11C_FALLEN_METALBAR-45=ТИ ПОКИНУВ МЕНЕ САМУ!
+
+
+# Brok
+### No... I won't!
+PC11C_FALLEN_METALBAR-46=Ні... не покину!
+
+
+# Lia
+### I'LL NEVER FORGET!
+PC11C_FALLEN_METALBAR-47=Я НІКОЛИ НЕ ЗАБУДУ!
+
+
+# Lia
+### I'LL NEVER FORGIVE YOU!
+PC11C_FALLEN_METALBAR-48=Я НІКОЛИ ТОБІ НЕ ПРОБАЧУ!
+
+
+# Brok
+### Noooooooooo!
+PC11C_FALLEN_METALBAR-49=Ніііііііііі!
+
+
+#----------------------------------------------------
+

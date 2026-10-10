@@ -1,0 +1,6943 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Ott (Unknown)
+#     Director - Graff (Unknown)
+#     Director - Klay (Unknown)
+#     Director - Ott (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Stubot (Unknown)
+#     Graff - Unknown (Unknown)
+#     Graff - Various (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Ott (Unknown)
+#     Klay - Stubot (Unknown)
+#     Klay - Unknown (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Director (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Klay (Unknown)
+#     Ott - Stubot (Unknown)
+#     Stubot - Graff (Unknown)
+#     Stubot - Klay (Unknown)
+#     Stubot - Ott (Unknown)
+#     Unknown - Graff (Unknown)
+#     Unknown - Klay (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#=SCHOOL INSIDE
+#-------------------------------
+
+#----- Interactions --------
+
+#----- Graff's Trial text --------
+### Trial - Year 3035 A.R.
+PC_TRIAL_WELCOME=Випробування - Рік 3035 П.В.
+
+### Each page contains a question. Press the buttons to navigate!
+PC_TRIAL_PAGES=Кожна сторінка містить запитання. Натискай кнопки для навігації!
+
+### When you're done, press here to send!
+PC_TRIAL_SEND=Коли закінчиш, натисни сюди, щоб надіслати!
+
+### Work sent!
+PC_TRIAL_SENT=Роботу надіслано!
+
+
+
+#----- Topics --------
+### Cheat?
+PC10_DESK_CHEATCHOICE=Списати?
+
+### Send the completed test?
+PC10_SCREEN_SENDCHOICE=Надіслати виконаний тест?
+
+
+# It is recommended to check the instructions for this part.
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# It is recommended to check the instructions for this part.
+### A Tribot deliverer crushes a citizen by accident. What do you do?
+PC10_Q1=Трибот-кур'єр випадково збиває громадянина. Що ти робитимеш?
+
+### Call the police
+PC10_Q1_1=Викличу поліцію
+
+### Give first aid
+PC10_Q1_2=Надам першу допомогу
+
+### Do nothing
+PC10_Q1_3=Нічого не робитиму
+
+### Finish them off
+PC10_Q1_4=Прикінчу постраждалого
+
+
+### Finish this suite :#5 - 12 - 7 - 16 - 9 - 20 - .. - ..
+PC10_Q2=Заверши послідовність:#5 - 12 - 7 - 16 - 9 - 20 - .. - ..
+
+
+### If Sam's daughter is the mother of your daughter, who are you to Sam?
+PC10_Q3=Якщо донька Сема - мати твоєї доньки, то хто ти для Сема?
+
+### Nephew
+PC10_Q3_1=Небіж
+
+### Mother
+PC10_Q3_2=Мати
+
+### Brother
+PC10_Q3_3=Брат
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### His personal Tribot
+PC10_Q3_4=Його особистий Трибот
+
+### Brother in law
+PC10_Q3_5=Брат дружини
+
+### Son in law
+PC10_Q3_6=Зять
+
+### Sam
+PC10_Q3_7=Сем
+
+
+### Enter the correct word.
+PC10_Q4=Введи правильне слово.
+
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### 1. It's better than living.#2. It's worse than eternal suffering.#3. Slumers have it.#4. Drumers need it.#5. If we eat it, we die.
+PC10_Q4B=1. Це краще за життя.#2. Це гірше за вічні страждання.#3. Це є у мешканців Нетрів.#4. Це потрібно мешканцям Верхів.#5. Якщо ми з'їмо це, то помремо.
+
+
+
+#Rainbow colors, next should be purple. In French : RO - OR - JA - VE - BL - ..
+### Finish this suite :#RE - OR - YE - GR - BL - ..
+PC10_Q5=Заверши послідовність:#ЧЕР - ПОМ - ЖОВ - ЗЕЛ - БЛА - ..
+
+
+
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### Your best friend and ten people you don't know are in danger. You can only save either the strangers or your friend. Who will you save?
+PC10_Q6=Твій найкращий друг і десять людей, яких ти не знаєш, у небезпеці. Ти можеш врятувати або друга, або незнайомців. Кого врятуєш?
+
+### Your friend
+PC10_Q6_1=Свого друга
+
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### The ten strangers
+PC10_Q6_2=Десятьох незнайомців
+
+### No one
+PC10_Q6_3=Нікого
+
+
+### You're still a minor and your parents died. When will you inherit their estate?
+PC10_Q7=Ти ще не повнолітній, а твої батьки померли. У якому віці ти успадкуєш їхнє майно?
+
+### 14
+PC10_Q7_1=14
+
+### 16
+PC10_Q7_2=16
+
+### 15
+PC10_Q7_3=15
+
+### 18
+PC10_Q7_4=18
+
+### 22
+PC10_Q7_5=22
+
+
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### When did Autarchism Day occur?
+PC10_Q8=Коли відбувся день Аутархізму?
+
+### 3026 A.R.
+PC10_Q8_1=3026 П.В.
+
+### 3035 A.R.
+PC10_Q8_2=3035 П.В.
+
+### 3030 A.R.
+PC10_Q8_3=3030 П.В.
+
+
+### Oh my! You're losing your fur! What medicine should you take?
+PC10_Q9=Ой-ой! Ти втрачаєш шерсть! Які ліки тобі слід прийняти?
+
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### Delistute
+PC10_Q9_1=Смакозамін
+
+# NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
+### Youthgain
+PC10_Q9_2=Молодин
+
+# NB: Lexicon word in Ukrainian for "Bod-Normalizer": "Тілонорм"
+### Bod-normalizer
+PC10_Q9_3=Тілонорм
+
+
+#Get either 0, +1 or -1
+### Estimate your score on this test. (out of 25)
+PC10_Q10=Оціни результат свого іспиту. (від 0 до 25)
+
+
+### Thank you.
+PC10_Q99=Дякуємо.
+
+
+# Klay asks Graff what his machine is
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Tell Klay?
+PC10_STORY100_CHOICEKLAY=Розповісти Клейові?
+
+### Tell him
+PC10_STORY100_TELL=Розповісти
+
+### Refuse
+PC10_STORY100_REFUSE=Відмовити
+
+
+### Punch
+PC10_STORY100_FIGHT=Вдарити
+
+### Let it go
+PC10_STORY100_LETITGO=Не піддаватись
+
+
+### What do you think?
+PC10_STORY100_CHOICEINSIST=Що думаєш?
+
+### Play fairly
+PC10_STORY100_PROTECT=Грати по-чесному
+
+### Wreck their machines
+PC10_STORY100_BREAK=Зламати винаходи інших
+
+
+
+### Learn everything about...
+PC10_VRLEARNER_CHOICE=Дізнайтеся все про...
+
+### Ants
+PC10_VRLEARNER_ANTS=Мурах
+
+### Bots
+PC10_VRLEARNER_BOTS=Ботів
+
+
+### Fixing
+TOPIC_FIXING=Полагодити
+
+### Protection
+TOPIC_PROTECTION=Захистити
+
+### Mess up
+TOPIC_MESS=Зіпсувати
+
+
+### A print! (hopefully)
+GOT_FINGERPRINT=Відбиток! (сподіваюся)
+
+### A force field base!
+GOT_FORCEFIELD=Основа силового поля!
+
+
+### Excuse him
+PC10_DIRECTOR_EXCUSEHIM=Пробачити йому
+
+### Put the blame on myself
+PC10_DIRECTOR_BLAMEBROK=Взяти провину на себе
+
+
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Denounce Klay?
+PC10_REVEAL_CHOICE=Викрити Клея?
+
+
+### An old-fashioned key!
+GOT_MUSEUMKEY=Старовинний ключ!
+
+
+#----- Dialog --------
+
+
+#These replies are ONLY for alternate replies for some translations.
+### GO
+PC10_Q5_1=ЗОЛ
+
+### BL
+PC10_Q5_2=БЛА
+
+### PB
+PC10_Q5_3=БУЗ
+
+#The correct reply is this one (number 4)
+### PU
+PC10_Q5_4=ФІО
+
+### LO
+PC10_Q5_5=ЛІЛ
+
+### PI
+PC10_Q5_6=РОЖ
+
+
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### What is better than becoming a Drumer?
+PC10_Q4ALT=Що може бути кращим, аніж стати мешканцем Верхів?
+
+### Wealth
+PC10_Q4_1=Багатство
+
+### Swimming in the sea
+PC10_Q4_2=Плавання в морі
+
+#This is the correct reply (number 3)
+### Nothing
+PC10_Q4_3=Нічого
+
+### Power
+PC10_Q4_4=Сила
+
+### Knowledge
+PC10_Q4_5=Знання
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff - Day 1 - Graff arrives at school (first time we control him)
+### ...
+PC10_INTRO1-1=...
+
+
+# Graff
+### Woah! I'm late!
+PC10_INTRO1-2=Ого! Я запізнився!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_INTRO2-1=...
+
+
+# Stubot
+### Take a seat
+PC10_INTRO2-2=Сідай.
+
+
+# Stubot
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### The Director will arrive in 3 minutes and 30 seconds
+PC10_INTRO2-3=Директорка буде тут через 3 хвилини і 30 секунд.
+
+
+# Stubot
+### In the meantime, feel free to do exercises at your desk
+PC10_INTRO2-4=Можеш поки виконувати вправи за своїм столом.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_INTRO3-1=...
+
+
+# Graff
+### Psst!
+PC10_INTRO3-2=Пс-с!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hey, Ott!
+PC10_INTRO3-3=Гей, Отте!
+
+
+# Ott
+### ...?
+PC10_INTRO3-4=...?
+
+
+# Graff
+### What's going on? Where are the others?
+PC10_INTRO3-5=Що відбувається? Де інші?
+
+
+# Ott
+### I'm not sure...
+PC10_INTRO3-6=Я не впевнений...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### But Stubot said Mr. Fenton has been promoted to another Center.
+PC10_INTRO3-7=Але Студбот сказав, що пана Фентона перевели до іншого Центру.
+
+
+# Graff
+### ...
+PC10_INTRO3-8=...
+
+
+#----------------------------------------------------
+# Ott
+### Don't you think that's strange?
+PC10_INTRO3B-1=Тобі не здається це дивним?
+
+
+# Graff
+### What is?
+PC10_INTRO3B-2=Що?
+
+
+# Ott
+### Well...
+PC10_INTRO3B-3=Ну...
+
+
+# Ott - Polyrectical is an invented term meant to sound complex, feel free to change to whatever you want
+### First it was our Polyrectical teacher who became clinically depressed...
+PC10_INTRO3B-4=Спочатку наш вчитель з поліректики впав у клінічну депресію...
+
+
+# Ott - Same here
+### Then our Eco-manager started having health issues, and now our Algoritechnic teacher's transferred elsewhere.
+PC10_INTRO3B-5=Потім в екоменеджера почалися проблеми зі здоров'ям, а тепер викладача з алгоритехніки перевели кудись.
+
+
+# Ott
+### All of our human teachers are gone and replaced by bots.
+PC10_INTRO3B-6=Усі наші вчителі-люди пішли, і їх замінили ботами.
+
+
+# Graff
+### ...
+PC10_INTRO3B-7=...
+
+
+# Graff
+### Nah!
+PC10_INTRO3B-8=Та ні!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### No conspiracy there. You watch too many livies!
+PC10_INTRO3B-9=Немає тут ніякої змови. Ти дивишся забагато серіалів!
+
+
+# Graff
+### They're just replacing the staff with bots to optimize cost.
+PC10_INTRO3B-10=Вони замінюють персонал ботами, щоб оптимізувати витрати.
+
+
+# Graff
+### They're becoming less expensive over time, while us humans are much less reliable.
+PC10_INTRO3B-11=З часом вони стають дешевшими, тоді як ми, люди, набагато менш надійні.
+
+
+# Ott
+### Don't you feel concerned?
+PC10_INTRO3B-12=Тебе це не турбує?
+
+
+# Graff
+### It sucks but...
+PC10_INTRO3B-13=Це відстій, але...
+
+
+# Graff
+### We should be thankful to have been accepted here.
+PC10_INTRO3B-14=Ми маємо бути вдячні, що нас сюди прийняли.
+
+
+# Graff
+### Would you prefer one of those crappy Slum-kids Centers?
+PC10_INTRO3B-15=Чи ти волів би опинитися в одному з тих убогих Центрів для дітей-нетрівців?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### It's our only chance to become Drumers. To live under the Dome.
+PC10_INTRO3B-16=Це наш єдиний шанс стати мешканцями Верхів. Жити під Куполом.
+
+
+# Ott
+### I know. I worked hard enough just to get a place here.
+PC10_INTRO3B-17=Знаю. Я наполегливо працював, щоб отримати місце тут.
+
+
+# Ott
+### Still...
+PC10_INTRO3B-18=І все ж...
+
+
+#----------------------------------------------------
+# Director
+### Go ahead, sweetie. Take a seat.
+PC10_INTRO4-1=Нумо, сонечко, сідай.
+
+
+# Klay
+### Hey! I told you!
+PC10_INTRO4-2=Гей! Я тобі казав!
+
+
+# Klay
+### Don't call me that in front of everyone!
+PC10_INTRO4-3=Не називай мене так перед усіма!
+
+
+#----------------------------------------------------
+# Director
+### Students. I have some rather major news.
+PC10_INTRO5-1=Студенти. У мене є доволі важливі новини.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### As Stubot must have informed you, Mr. Fenton has been promoted and will not be coming back.
+PC10_INTRO5-2=Студбот мав повідомити вам, що пана Фентона перевели і він не повернеться.
+
+
+# Director
+### This incident and some previous others have implied unforeseen changes to the management.
+PC10_INTRO5-3=Цей інцидент і деякі попередні призвели до непередбачуваних змін у керівництві.
+
+
+# Director
+### It has been decided that your final trials will be advanced to this week, starting now.
+PC10_INTRO5-4=Було вирішено, що ваші фінальні випробування переносяться на цей тиждень і починаються просто зараз.
+
+
+# Graff
+### What?!
+PC10_INTRO5-5=Що?!
+
+
+# Ott
+### Now? But...
+PC10_INTRO5-6=Зараз? Але...
+
+
+# Klay
+### Afraid you won't pass, stinkies?
+PC10_INTRO5-7=Боїтеся, що не пройдете, смердюки?
+
+
+# Graff
+### Shut up, baby robot!
+PC10_INTRO5-8=Замовкни, робот-малюк!
+
+
+# Director
+### Quiet, please!
+PC10_INTRO5-9=Будь ласка, тихіше!
+
+
+# Director
+### The trials will span across three days.
+PC10_INTRO5-10=Випробування триватимуть три дні.
+
+
+# Director
+### In addition, your Science fair invention will be rated and counted for the diploma.
+PC10_INTRO5-11=Крім того, ваші винаходи для Наукового Ярмарку будуть оцінені та зараховані в дипломи.
+
+
+# Director
+### As the only students choosing this career path, all four of you will be constituting one group.
+PC10_INTRO5-12=Як єдині студенти, що обрали цей шлях, ви всі четверо складатимете одну групу.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot here will serve as standard meter to evaluate your performance.
+PC10_INTRO6-1=Студбот слугуватиме орієнтиром для оцінювання ваших робіт.
+
+
+# Ott
+### Meaning?
+PC10_INTRO6-2=Тобто?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### You will pass if you get a score equal or better than Stubot.
+PC10_INTRO6-3=Ви складете, якщо отримаєте стільки ж або більше балів, ніж Студбот.
+
+
+# Director
+### Keep in mind though. This is not a competition.
+PC10_INTRO6-4=Однак, майте на увазі. Це не змагання.
+
+
+# Graff
+### Yeah, right...
+PC10_INTRO6-5=Так, звісно...
+
+
+# Director
+### The trials are split into four parts, each counting 25 points for a total of 100 points altogether.
+PC10_INTRO6-6=Випробування поділені на чотири частини, кожна з яких оцінюється у 25 балів, разом - 100 балів.
+
+
+# Director
+### The first part consists in a series of exercises you'll be doing now.
+PC10_INTRO6-7=Перша частина складається із серії вправ, які ви зараз будете виконувати.
+
+
+# Director
+### Any questions?
+PC10_INTRO6-8=Є якісь питання?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott?
+PC10_INTRO6-9=Отте?
+
+
+# Ott
+### I've got a major problem.
+PC10_INTRO6-10=У мене велика проблема.
+
+
+# Ott
+### From tomorrow, I'm supposed to start my internship at the police station.
+PC10_INTRO6-11=Від завтра я маю почати стажування у відділку поліції.
+
+
+# Director
+### I know. We've decided to do you a favor.
+PC10_INTRO6-12=Я знаю. Ми вирішили піти тобі назустріч.
+
+
+# Director
+### You'll be doing tomorrow's trial in the evening after everyone else.
+PC10_INTRO6-13=Ти складатимеш завтрашнє випробування ввечері, після решти.
+
+
+# Ott
+### What?... But...
+PC10_INTRO6-14=Що...? Але...
+
+
+# Director
+### No but. Remember!
+PC10_INTRO6-15=Ніяких але. Пам'ятай!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Getting accepted into active society as a Drumer for kids like yourself means substantial efforts.
+PC10_INTRO6-16=Для таких дітей, як ти, стати частиною суспільства Верхів вимагає чималих зусиль.
+
+
+# Director
+### You must be willing to make sacrifices.
+PC10_INTRO6-17=Ти маєш бути готовим іти на жертви.
+
+
+# Director
+### Don't worry. It'll be fine!
+PC10_INTRO6-18=Не хвилюйся. Все буде добре!
+
+
+# Ott
+### ...
+PC10_INTRO6-19=...
+
+
+# Director
+### Alright. The exam starts now.
+PC10_INTRO6-20=Отже. Іспит починається зараз.
+
+
+# Graff
+### (There you go. I'm stressing full steam now...)
+PC10_INTRO6-21=(Ну ось. Тепер я весь на нервах...)
+
+
+#----------------------------------------------------
+# Graff - Checking the room - Looking at the door
+### (So close... Yet so far.)
+PC10_DESK_EXIT1-1=(Так близько... І так далеко.)
+
+
+#----------------------------------------------------
+# Graff - His written exam
+### "Before starting please check the rules by pressing this button."
+PC10_INSTRUCTIONS-1="Перш ніж розпочати, будь ласка, ознайомтесь із правилами, натиснувши цю кнопку."
+
+
+# Graff
+### "When you're done, press the upper right button to submit."
+PC10_INSTRUCTIONS-2="Коли закінчите, натисніть праву верхню кнопку, щоб надіслати."
+
+
+# Graff
+### "Good luck!"
+PC10_INSTRUCTIONS-3="Успіхів!"
+
+
+#----------------------------------------------------
+# Unknown
+### "Rules applicable for this year (3035 A.R.)"
+PC10_RULES-1="Правила, чинні цього року (3035 П.В.)"
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### "This exam and all related trials are part of the process to validate your acceptance as first-class citizen (Drumer)."
+PC10_RULES-2="Цей іспит і всі пов'язані випробування є частиною процесу підтвердження визнання вас громадянином першого класу (мешканцем Верхів)."
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### "As such it is strictly reserved to Slumer children who will become adults (16 year old) this year, under penalty of exclusion."
+PC10_RULES-3="Таким чином, іспит призначений лише для дітей-мешканців Нетрів, які стануть дорослими (16-річними) цього року. Будь-яке порушення цього правила карається відрахуванням."
+
+
+# Unknown
+### "- Respect your partners. Damaging others' belongings is forbidden. (Immediate exclusion)"
+PC10_RULES-4="- Поважайте своїх напарників. Пошкодження чужого майна заборонене. (Негайне відрахування)"
+
+
+# Unknown
+### "- Repeated absences. (First-class penalty - 40 points)"
+PC10_RULES-5="- Повторювані пропуски. (Штраф першого класу - 40 балів)"
+
+
+# Unknown
+### "- No cheating allowed (Second-class penalty - 5 points per offense)"
+PC10_RULES-6="- Списування заборонене. (Штраф другого класу - 5 балів за кожне порушення)"
+
+
+# Unknown
+### "- No phone usage during this exam. (Third-class penalty - 2 points)"
+PC10_RULES-7="- Заборонено використання телефону під час цього іспиту. (Штраф третього класу - 2 бали)"
+
+
+# Unknown
+### "Outside of these cases, tricks whether moral or immoral are allowed. Outmatching others is encouraged and will help you in your future life."
+PC10_RULES-8="За винятком переліченого, дозволяються будь-які хитрощі, моральні чи аморальні. Прагнення перевершити інших заохочується і стане вам у пригоді в майбутньому житті."
+
+
+# Unknown
+### "Copyright NMER Technologies"
+PC10_RULES-9="Авторське право належить NMER-Технології"
+
+
+#----------------------------------------------------
+# Graff - Checking the room
+### (My best friend.)
+PC10_DESK_OTT1-1=(Мій найкращий друг.)
+
+
+# Graff
+### (Or more accurately... my only friend.)
+PC10_DESK_OTT1-2=(Якщо бути точнішим... мій єдиний друг.)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott isn't the best student in this class but maybe he's got some answers...?)
+PC10_DESK_OTT1-3=(Отт - не найкращий учень у цьому класі, але, можливо, у нього є якісь відповіді...?)
+
+
+#----------------------------------------------------
+# Graff
+### (My best friend...)
+PC10_DESK_OTT2-1=(Мій найкращий друг...)
+
+
+#----------------------------------------------------
+# Graff
+### (I can't believe I even thought of doing this!)
+PC10_DESK_CHEATNO-1=(Я повірити не можу, що навіть подумав про таке!)
+
+
+# Graff
+### (What's wrong with me?! I can't afford to lose my only friend.)
+PC10_DESK_CHEATNO-2=(Що зі мною не так?! Я не можу дозволити собі втратити єдиного друга.)
+
+
+#----------------------------------------------------
+# Graff
+### (Cheating should be impossible. But they overlooked something!)
+PC10_DESK_CHEATYES-1=(Списування має бути неможливим. Але вони щось прогледіли!)
+
+
+# Graff
+### (My protective barrier is defective on the right side. There's a tiny hole I can see through.)
+PC10_DESK_CHEATYES-2=(Мій захисний бар'єр несправний з правого боку. Там є крихітна дірочка, через яку я можу подивитися.)
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### From now on, click on Ott whenever you want to cheat.
+PC10_DESK_CHEATYES-3=Відтепер натисніть на Отта, коли захочете списати.
+
+
+#----------------------------------------------------
+# Graff - Graff attempts to cheat
+### (Just a look-see!...)
+PC10_DESK_OTT_DOCHEAT1-1=(Просто подивлюся...!)
+
+
+# Graff
+### (...)
+PC10_DESK_OTT_DOCHEAT1-2=(...)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Looks like Ott replied "Do nothing" for the first question...)
+PC10_DESK_OTT_DOCHEAT1-3=(Схоже, Отт відповів "Нічого не робитиму" на перше запитання...)
+
+
+# Graff
+### (Weird.)
+PC10_DESK_OTT_DOCHEAT1-4=(Дивно.)
+
+
+#----------------------------------------------------
+# Graff
+### (Hmm...)
+PC10_DESK_OTT_DOCHEAT2-1=(Гмм...)
+
+
+# Graff
+### (For the second question he wrote 13 for the first number.)
+PC10_DESK_OTT_DOCHEAT2-2=(На друге запитання він написав 13 першим числом.)
+
+
+# Graff
+### (Darn, I can't read the second one.)
+PC10_DESK_OTT_DOCHEAT2-3=(Чорт, не можу прочитати друге.)
+
+
+#----------------------------------------------------
+# Graff
+### (Hmm...)
+PC10_DESK_OTT_DOCHEAT3-1=(Гмм...)
+
+
+# Graff
+### (Third question... "Son in law"?)
+PC10_DESK_OTT_DOCHEAT3-2=(Третє запитання... "Зять"?)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (I should keep in mind Ott isn't the best student over here.)
+PC10_DESK_OTT_DOCHEAT3-3=(Мені слід тримати в голові, що Отт - не найкращий учень.)
+
+
+#----------------------------------------------------
+# Graff - Actually the word "nothing"!
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott entered "nothing" for question 4...)
+PC10_DESK_OTT_DOCHEAT4-1=(Отт написав "нічого" у відповідь на 4-те запитання...)
+
+
+#----------------------------------------------------
+# Graff
+### (For question 6, he'd choose to save his friend...)
+PC10_DESK_OTT_DOCHEAT5-1=(У 6-му питанні він би обрав урятувати друга...)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott...)
+PC10_DESK_OTT_DOCHEAT5-2=(Отте...)
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC10_DESK_OTT_DOCHEAT6-1=...
+
+
+# Graff
+### (Gulp!)
+PC10_DESK_OTT_DOCHEAT6-2=(Ковтає слину)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (I... think Ott spotted me...)
+PC10_DESK_OTT_DOCHEAT6-3=(Я... думаю, Отт мене помітив...)
+
+
+# Graff
+### (I'd better stop...)
+PC10_DESK_OTT_DOCHEAT6-4=(Мені краще зупинитися...)
+
+
+#----------------------------------------------------
+# Graff
+### (Nah... I should stop...)
+PC10_DESK_OTT_DOCHEAT7-1=(Ні... Мені слід зупинитися...)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### (The Director's kid... even though his mother is a robot.)
+PC10_DESK_KLAY1-1=(Син директорки... хоч його мати й робот.)
+
+
+# Graff
+### (Don't ask me how that's even possible!)
+PC10_DESK_KLAY1-2=(Не питайте мене, як це взагалі можливо!)
+
+
+# Graff
+### (All I know is... I hate him.)
+PC10_DESK_KLAY1-3=(Все, що я знаю... Я його ненавиджу.)
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_DESK_GRAFF1-1=...
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff? Where are you going?
+PC10_DESK_GRAFF1-2=Граффе? Куди ти зібрався?
+
+
+# Director
+### Have you finished your test?
+PC10_DESK_GRAFF1-3=Ти закінчив тест?
+
+
+# Graff
+### Erm... Not yet.
+PC10_DESK_GRAFF1-4=Е-е... Поки ні.
+
+
+# Graff
+### I'm all cramped up from sitting in this chair.
+PC10_DESK_GRAFF1-5=У мене все затерпло від сидіння на цьому стільці.
+
+
+# Director
+### Please sit or you'll get a penalty.
+PC10_DESK_GRAFF1-6=Будь ласка, сядь на місце, або отримаєш покарання.
+
+
+# Graff
+### (Sigh) Okay...
+PC10_DESK_GRAFF1-7=(Зітхає) Гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### (So our performance will be measured to this... bot guy...?)
+PC10_DESK_STUBOT1-1=(То наші результати будуть оцінювати порівняно з цим... хлопцем-ботом...?)
+
+
+# Graff
+### (If there wasn't the risk of getting excluded, everyone would be trying to eliminate him.)
+PC10_DESK_STUBOT1-2=(Якби не ризик відрахування, всі б намагалися усунути його.)
+
+
+#----------------------------------------------------
+# Graff
+### (I call it "the brainwashing instrument".)
+PC10_DESK_VRLEARNER1-1=(Я називаю його "інструментом для промивання мізків".)
+
+
+# Graff
+### (It definitely works well when we're young for fast learning. Like memorizing an entire book.)
+PC10_DESK_VRLEARNER1-2=(Він справді добре працює для швидкого навчання, якщо ти молодий. Наприклад, щоб запам'ятати цілу книгу.)
+
+
+# Graff
+### (But the effect doesn't last. Only scraps remain after a few hours.)
+PC10_DESK_VRLEARNER1-3=(Але ефект нетривалий. Через кілька годин лишаються тільки уривки.)
+
+
+# Graff
+### (I barely use it. So painful...)
+PC10_DESK_VRLEARNER1-4=(Я ним майже не користуюся. Це доволі боляче...)
+
+
+#----------------------------------------------------
+# Graff
+### (No! Using it during exams is forbidden.)
+PC10_DESK_VRLEARNER2-1=(Ні! Використовувати його під час іспитів заборонено.)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### (I don't mind the Director. I've known worse bots. It... She does the job.)
+PC10_DESK_DIRECTOR1-1=(Я нічого не маю проти директорки. Я знавав ботів і гірших. Вона... непогано виконує свою роботу.)
+
+
+# Graff
+### (It just feels weird that it's supposed to be female. We rarely see any.)
+PC10_DESK_DIRECTOR1-2=(Просто дивно, що це робот-жінка. Таких рідко можна побачити.)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### (Clearly the best district of the Slums. I'm glad I was accepted here.)
+PC10_DESK_VIEW1-1=(Очевидно, це найкращий район Нетрів. Радий, що мене сюди прийняли.)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### (I can't wait to get my diploma and become a Drumer!... Again.)
+PC10_DESK_VIEW1-2=(Не можу дочекатися, коли отримаю диплом і стану мешканцем Верхів...! Знову.)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### (Must be Klay's invention. Man, it's huge!)
+PC10_DESK_INVENTIONA1-1=(Мабуть, винахід Клея. Оце так, він величезний!)
+
+
+#----------------------------------------------------
+# Graff
+### (Some inventions for the fair this afternoon.)
+PC10_DESK_INVENTIONB1-1=(Винаходи для сьогоднішнього ярмарку.)
+
+
+# Graff
+### (If I had known the rating would count for the final exams...)
+PC10_DESK_INVENTIONB1-2=(Якби я знав, що оцінювання вплине на підсумкові іспити...)
+
+
+# Graff
+### (I would have made something less... crappy.)
+PC10_DESK_INVENTIONB1-3=(Зробив би щось менш... відстійне.)
+
+
+#----------------------------------------------------
+# Graff - Graff submits his exam
+### (I feel sick...)
+PC10_SENDTRIAL_NOTHING-1=(Мені зле...)
+
+
+#----------------------------------------------------
+# Graff
+### (Too easy!)
+PC10_SENDTRIAL_TOOEASY-1=(Надто легко!)
+
+
+#----------------------------------------------------
+# Graff
+### (Looks like the others haven't finished yet.)
+PC10_SENDTRIAL_WAIT-1=(Схоже, інші ще не закінчили.)
+
+
+#----------------------------------------------------
+# Graff
+### (I hope it's okay...)
+PC10_SENDTRIAL_NORMAL-1=(Сподіваюся, все добре...)
+
+
+#----------------------------------------------------
+# Director - First exam results
+### Very well.
+PC10_SENDTRIAL_RESULT-1=Чудово.
+
+
+# Director
+### The results should appear in a few seconds.
+PC10_SENDTRIAL_RESULT-2=Результати з'являться через кілька секунд.
+
+
+# Graff
+### (Oh, man... Here comes the stress again...)
+PC10_SENDTRIAL_RESULT-3=(Ох, дідько... Знову стрес...)
+
+
+#----------------------------------------------------
+# Director
+### None of you got a perfect score. However...
+PC10_SENDTRIAL_RESULT_NORMAL-1=Ніхто з вас не отримав найвищий бал. Однак...
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay submitted fast enough to get 2 bonus points.
+PC10_SENDTRIAL_RESULT_KLAY-1=Клей надіслав роботу достатньо швидко, щоб отримати 2 бонусні бали.
+
+
+# Klay
+### Eh.
+PC10_SENDTRIAL_RESULT_KLAY-2=Пф.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Same for you, Graff. Good job.
+PC10_SENDTRIAL_RESULT_GRAFFBONUS-1=Як і ти, Граффе. Гарна робота.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... What happened?
+PC10_SENDTRIAL_RESULT_NOTHING-1=Граффе, що сталося?
+
+
+# Graff
+### I... Erm...
+PC10_SENDTRIAL_RESULT_NOTHING-2=Я... Е-е...
+
+
+# Klay
+### Ha ha! You suck.
+PC10_SENDTRIAL_RESULT_NOTHING-3=Ха-ха! Бездара.
+
+
+#----------------------------------------------------
+# Ott
+### Good job, guys!
+PC10_SENDTRIAL_RESULT_TOOEASY-1=Гарна робота, хлопці!
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### On the other hand, Graff... You get a 10 points penalty for submitting too fast.
+PC10_SENDTRIAL_RESULT_EARLY-1=А от ти, Граффе, отримуєш штраф на 10 балів за надто швидку відправку.
+
+
+# Graff
+### What?!... That's unfair!
+PC10_SENDTRIAL_RESULT_EARLY-2=Що...?! Це несправедливо!
+
+
+#----------------------------------------------------
+# Director
+### No human can solve exercises that fast.
+PC10_SENDTRIAL_RESULT_EARLY2-1=Жодна людина не може виконати ці вправи так швидко.
+
+
+# Graff
+### But...
+PC10_SENDTRIAL_RESULT_EARLY2-2=Але...
+
+
+# Klay
+### Ha ha! Thought you could cheat, huh?
+PC10_SENDTRIAL_RESULT_EARLY2-3=Ха-ха! Думав, зможеш списати, га?
+
+
+# Graff
+### Shut up!
+PC10_SENDTRIAL_RESULT_EARLY2-4=Заткнися!
+
+
+#----------------------------------------------------
+# Director
+### You will get the correct answers on your phone in the evening.
+PC10_SENDTRIAL_RESULT_AFTER-1=Ввечері ви отримаєте правильні відповіді на свої телефони.
+
+
+# Director
+### That's all for now.
+PC10_SENDTRIAL_RESULT_AFTER-2=Поки це все.
+
+
+# Director
+### The fair will take place right here. Deliberation will occur at 5 PM.
+PC10_SENDTRIAL_RESULT_AFTER-3=Ярмарок проводитиметься просто тут. Обговорення відбудеться о 5-й вечора.
+
+
+# Director
+### Thank you.
+PC10_SENDTRIAL_RESULT_AFTER-4=Дякую усім.
+
+
+#----------------------------------------------------
+# Ott
+### Well, that's not too bad.
+PC10_SENDTRIAL_AFTER_FAIL-1=Ну, все не так вже й погано.
+
+
+# Graff
+### Talk for yourself... I failed that test.
+PC10_SENDTRIAL_AFTER_FAIL-2=Кажи про себе... Я провалив цей тест.
+
+
+# Ott
+### Cheer up! You're not that far.
+PC10_SENDTRIAL_AFTER_FAIL-3=Вище ніс! Ти не так вже й далеко.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I know you, Graff. You can do it!
+PC10_SENDTRIAL_AFTER_FAIL-4=Я знаю тебе, Граффе. Ти впораєшся!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### ...Thanks, Ott.
+PC10_SENDTRIAL_AFTER_FAIL-5=...Дякую, Отте.
+
+
+# Graff
+### You too! If we do our best, we'll both pass!
+PC10_SENDTRIAL_AFTER_FAIL-6=Ти теж! Якщо ми старатимемось якнайкраще, то обидва складемо!
+
+
+# Ott
+### That's the spirit!
+PC10_SENDTRIAL_AFTER_FAIL-7=Так тримати!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm sorry, Graff...
+PC10_SENDTRIAL_AFTER_DISASTER-1=Мені шкода, Граффе...
+
+
+# Graff
+### Please don't...
+PC10_SENDTRIAL_AFTER_DISASTER-2=Будь ласка, не треба...
+
+
+# Graff
+### This is a disaster... but I'm the only one to blame.
+PC10_SENDTRIAL_AFTER_DISASTER-3=Це катастрофа... але це тільки моя провина.
+
+
+# Ott
+### Don't give up! Anything can happen!
+PC10_SENDTRIAL_AFTER_DISASTER-4=Не здавайся! Усе ще може змінитися!
+
+
+# Graff
+### ...
+PC10_SENDTRIAL_AFTER_DISASTER-5=...
+
+
+# Graff
+### Yeah. I hope so...
+PC10_SENDTRIAL_AFTER_DISASTER-6=Ага. Сподіваюся...
+
+
+#----------------------------------------------------
+# Ott
+### I can't believe what you did...
+PC10_SENDTRIAL_AFTER_CHEAT-1=Не можу повірити, що ти це зробив...
+
+
+# Graff
+### What do you mean?...
+PC10_SENDTRIAL_AFTER_CHEAT-2=Що ти маєш на увазі...?
+
+
+# Ott
+### Don't play innocent. I saw you.
+PC10_SENDTRIAL_AFTER_CHEAT-3=Не вдавай невинного. Я тебе бачив.
+
+
+# Ott
+### You're better than me... Why are you doing this?...
+PC10_SENDTRIAL_AFTER_CHEAT-4=Ти кращий за мене... Нащо ти це робиш...?
+
+
+# Graff
+### I...
+PC10_SENDTRIAL_AFTER_CHEAT-5=Я...
+
+
+# Graff
+### I'm sorry... I panicked.
+PC10_SENDTRIAL_AFTER_CHEAT-6=Вибач... Я запанікував.
+
+
+# Ott
+### ...
+PC10_SENDTRIAL_AFTER_CHEAT-7=...
+
+
+# Ott
+### I understand.
+PC10_SENDTRIAL_AFTER_CHEAT-8=Я розумію.
+
+
+# Ott
+### Thinking our whole future depends on this... This sure puts stress on our mind and body.
+PC10_SENDTRIAL_AFTER_CHEAT-9=Думка про те, що від цього залежить наше майбутнє... Звісно, це виснажує розум і тіло.
+
+
+# Graff
+### Yeah...
+PC10_SENDTRIAL_AFTER_CHEAT-10=Ага...
+
+
+#----------------------------------------------------
+# Ott
+### Great job!
+PC10_SENDTRIAL_AFTER_BEST-1=Чудова робота!
+
+
+# Graff
+### Thanks. You did well too.
+PC10_SENDTRIAL_AFTER_BEST-2=Дякую! Ти теж добре впорався.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I'm sure I answered everything correctly but... I still couldn't beat Klay.
+PC10_SENDTRIAL_AFTER_BEST-3=Впевнений, що я на все відповів правильно, але... Перемогти Клея все ж не вдалося.
+
+
+# Ott
+### Don't worry about it!
+PC10_SENDTRIAL_AFTER_BEST-4=Не хвилюйся через це!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### You'll get your diploma and become a Drumer.
+PC10_SENDTRIAL_AFTER_BEST-5=Ти отримаєш диплом і станеш мешканцем Верхів.
+
+
+# Graff
+### We'll pass together!
+PC10_SENDTRIAL_AFTER_BEST-6=Ми обидва складемо!
+
+
+# Ott
+### Of course we will!
+PC10_SENDTRIAL_AFTER_BEST-7=Звісно!
+
+
+#----------------------------------------------------
+# Graff
+### (...)
+PC10_SENDTRIAL_OVER-1=(...)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (I wonder what Brok would say about all this.)
+PC10_SENDTRIAL_OVER-2=(Цікаво, що б про все це сказав Брок.)
+
+
+# Graff
+### (Pretty sure he's having fun right now. Being a detective must be so cool.)
+PC10_SENDTRIAL_OVER-3=(Цілком впевнений, зараз він розважається. Бути детективом, мабуть, так круто.)
+
+
+# Graff
+### (...)
+PC10_SENDTRIAL_OVER-4=(...)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hey, Ott! Wait for me!...
+PC10_SENDTRIAL_OVER-5=Гей, Отте! Зачекай мене...!
+
+
+#----------------------------------------------------
+# Graff - Try to use phone
+### (Can't... There's no network currently. They don't want anyone to cheat.)
+PC10_GRAFF_CALL_NONETWORK-1=(Не можу... Зараз немає мережі. Вони не хочуть, щоб хтось списував.)
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Phone usage is strictly forbidden!
+PC10_GRAFF_CALL_FORBIDDEN-1=Граффе! Використання телефону суворо заборонене!
+
+
+# Graff
+### Oops!
+PC10_GRAFF_CALL_FORBIDDEN-2=Ой!
+
+
+# Director
+### Minus two points.
+PC10_GRAFF_CALL_FORBIDDEN-3=Мінус два бали.
+
+
+# Graff
+### But... There's no network...
+PC10_GRAFF_CALL_FORBIDDEN-4=Але... Мережі немає...
+
+
+# Director
+### Do not discuss.
+PC10_GRAFF_CALL_FORBIDDEN-5=Не обговорюється.
+
+
+# Klay
+### Ha ha! You suck.
+PC10_GRAFF_CALL_FORBIDDEN-6=Ха-ха! Бездара!
+
+
+# Graff
+### Argh...
+PC10_GRAFF_CALL_FORBIDDEN-7=Ар-р...
+
+
+#----------------------------------------------------
+# Graff - Ott and Graff are preparing for the science fair
+### There.
+PC10_STORY100_A-1=Ось.
+
+
+# Ott
+### Mine's all set up, too!
+PC10_STORY100_A-2=У мене теж усе вже готово!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Say, Graff. I'm intrigued.
+PC10_STORY100_A2-1=Слухай, Граффе. Я заінтригований.
+
+
+# Ott
+### What does your invention do?
+PC10_STORY100_A2-2=Що робить твій винахід?
+
+
+# Graff
+### Well! This, my friend...
+PC10_STORY100_A2-3=Ну що ж! Це, мій друже...
+
+
+# Graff
+### ...is gonna solve our water shortage problems! Partly.
+PC10_STORY100_A2-4=...вирішить наші проблеми з нестачею води! Частково.
+
+
+# Ott
+### Wow! Hmm... Don't tell me!...
+PC10_STORY100_A2-5=Вау! Гмм... Тільки не кажи, що...!
+
+
+# Ott
+### This is a...
+PC10_STORY100_A2-6=Це...
+
+
+# Ott
+### Moisture recycler?
+PC10_STORY100_A2-7=Пристрій для переробки вологи?
+
+
+# Graff
+### Almost!
+PC10_STORY100_A2-8=Майже!
+
+
+# Ott
+### Then... Let's say...
+PC10_STORY100_A2-9=Тоді... Скажімо...
+
+
+# Ott
+### Does this turn rain water into drinking water?
+PC10_STORY100_A2-10=Воно перетворює дощову воду на питну?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Nope! But you're getting hotter, Ott!
+PC10_STORY100_A2-11=Ні! Але це вже тепліше, Отте!
+
+
+# Ott
+### So! Are you gonna tell me?
+PC10_STORY100_A2-12=То що? Ти мені розповіси?
+
+
+# Graff
+### You first!
+PC10_STORY100_A2-13=Ти перший!
+
+
+# Ott
+### Okay.
+PC10_STORY100_A2-14=Добре.
+
+
+#----------------------------------------------------
+# Ott
+### It's also a solution to our everyday problems!
+PC10_STORY100_B-1=Це теж розв'язання наших щоденних проблем!
+
+
+# Ott
+### Just less... crucial.
+PC10_STORY100_B-2=Просто менш... критичних.
+
+
+# Graff
+### Is that a sock?
+PC10_STORY100_B-3=Це шкарпетка?
+
+
+# Ott
+### Yup.
+PC10_STORY100_B-4=Ага.
+
+
+# Ott
+### This is a socks auto-pairing machine!
+PC10_STORY100_B-5=Це машина для автоматичного підбору пар шкарпеток!
+
+
+# Ott
+### Put all your favorite socks inside, and it automatically matches them according to size and color!
+PC10_STORY100_B-6=Кладеш всередину всі свої улюблені шкарпетки, а вона автоматично підбирає пари за розміром і кольором!
+
+
+# Graff
+### Is that... really useful?
+PC10_STORY100_B-7=Це... справді корисно?
+
+
+# Ott
+### Well, my parents force me to do their laundry. So tiring!
+PC10_STORY100_B-8=Ну, батьки змушують мене займатися пранням. Це так виснажує!
+
+
+# Graff
+### Wait a sec. That doesn't fit the theme, does it?
+PC10_STORY100_B-9=Стривай. Це ж не відповідає темі, так?
+
+
+# Ott
+### The theme?
+PC10_STORY100_B-10=Темі?
+
+
+# Graff
+### Yeah. "Converting".
+PC10_STORY100_B-11=Так. "Перетворення".
+
+
+# Ott
+### What?! There was a theme?!
+PC10_STORY100_B-12=Що?! У нас була тема?!
+
+
+# Graff
+### Afraid so...
+PC10_STORY100_B-13=Боюся, що так...
+
+
+# Ott
+### Oh no!... That means I'll lose half the points... at least!
+PC10_STORY100_B-14=О ні...! Це означає, я втрачу... щонайменше половину балів!
+
+
+# Ott
+### How am I going to...
+PC10_STORY100_B-15=Як мені бути...
+
+
+#----------------------------------------------------
+# Klay
+### Hey, Porky and Kitty! What's this crap next to you?
+PC10_STORY100_C-1=Гей, поросятко й кошенятко! Що це за мотлох поруч із вами?
+
+
+# Ott
+### ...
+PC10_STORY100_C-2=...
+
+
+# Klay
+### ...No way! Don't tell me... these are your creations?!
+PC10_STORY100_C-3=...Не може бути! Тільки не кажіть... це ваші творіння?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Back off, Klay! Now's not the time!
+PC10_STORY100_C-4=Відвали, Клею! Зараз не час для цього!
+
+
+# Klay
+### Oh! They're really yours!
+PC10_STORY100_C-5=О! То вони і справді ваші!
+
+
+# Klay
+### Well, no surprise there. Garbage boys can only make garbage.
+PC10_STORY100_C-6=Ну, нічого дивного. Сміттєві хлопчики можуть створювати лише сміття.
+
+
+# Ott
+### What did you call us?!
+PC10_STORY100_C-7=Як ти нас назвав?!
+
+
+# Klay
+### Still... I'm curious.
+PC10_STORY100_C-8=Усе ж... Мені цікаво.
+
+
+# Klay
+### You gotta know your competition, right?
+PC10_STORY100_C-9=Треба ж знати, з ким змагаєшся. Чи не так?
+
+
+# Klay
+### What's that piece of rubbish, Kitty? Tell me!
+PC10_STORY100_C-10=Що це за мотлох, котику? Розповідай!
+
+
+# Graff
+### No.
+PC10_STORY100_C-11=Ні.
+
+
+# Klay
+### Ah, come on! I'll know sooner or later.
+PC10_STORY100_C-12=Та годі вже! Рано чи пізно я все одно дізнаюся.
+
+
+# Graff
+### Then wait.
+PC10_STORY100_C-13=Тоді чекай далі.
+
+
+#----------------------------------------------------
+# Ott
+### Aww!
+PC10_STORY100_D-1=Ох!
+
+
+# Klay
+### Spit it out, or I break his neck!
+PC10_STORY100_D-2=Розповідай, або я зламаю йому шию!
+
+
+# Graff
+### Hey! Are you crazy?!
+PC10_STORY100_D-3=Гей! Ти збожеволів?
+
+
+# Graff
+### Stop it! You're hurting him!
+PC10_STORY100_D-4=Припини! Ти робиш йому боляче!
+
+
+# Klay
+### I'll stop...
+PC10_STORY100_D-5=Припиню...
+
+
+# Klay
+### If you tell me what this piece of crap of yours is.
+PC10_STORY100_D-6=Якщо скажеш мені, що це в тебе за шмат лайна.
+
+
+#----------------------------------------------------
+# Graff
+### You win.
+PC10_STORY100_TELL-1=Ти переміг.
+
+
+# Graff
+### This machine transforms urine into drinking water.
+PC10_STORY100_TELL-2=Ця машина перетворює сечу на питну воду.
+
+
+# Klay
+### ...
+PC10_STORY100_TELL-3=...
+
+
+# Ott
+### Ooof!
+PC10_STORY100_TELL-4=У-ух!
+
+
+# Klay
+### Are you serious?!
+PC10_STORY100_TELL-5=Ти серйозно?!
+
+
+# Klay
+### Ha ha ha!... Urine... into... water?!...
+PC10_STORY100_TELL-6=Ха-ха-ха!... Сечу... на... воду...!
+
+
+# Klay
+### This... This is ridiculous!...
+PC10_STORY100_TELL-7=Це... Це смішно...!
+
+
+# Graff
+### It works. You'll see.
+PC10_STORY100_TELL-8=Воно працює. От побачиш.
+
+
+# Klay
+### Wait... You expect someone to... try your machine?!
+PC10_STORY100_TELL-9=Чекай... Ти очікуєш, що хтось... випробує твою машину?!
+
+
+# Klay
+### There's your piss in it!
+PC10_STORY100_TELL-10=Там же твої сцяки!
+
+
+# Klay
+### HA HA HA!...
+PC10_STORY100_TELL-11=ХА-ХА-ХА...!
+
+
+# Graff
+### Idiot.
+PC10_STORY100_TELL-12=Ідіот.
+
+
+# Ott
+### Yeah. I'm sure he's never had to drink polluted water.
+PC10_STORY100_TELL-13=Еге ж. Впевнений, він ніколи не пив забруднену воду.
+
+
+# Klay
+### Okay, okay...
+PC10_STORY100_TELL-14=Гаразд, гаразд...
+
+
+# Klay
+### I'm convinced. Let me try it.
+PC10_STORY100_TELL-15=Ти мене переконав. Дай спробувати.
+
+
+#----------------------------------------------------
+# Graff
+### What? No.
+PC10_STORY100_TELL2-1=Що? Ні.
+
+
+# Klay
+### Oh, don't be like that!
+PC10_STORY100_TELL2-2=Та годі тобі!
+
+
+# Klay
+### I'll just press that button. Here!
+PC10_STORY100_TELL2-3=Я просто натисну цю кнопку. Ось!
+
+
+#----------------------------------------------------
+# Graff - "I won't tell anything"
+### I won't.
+PC10_STORY100_DONOTTELL-1=Не буду.
+
+
+# Klay
+### Oh? Okay.
+PC10_STORY100_DONOTTELL-2=Так? Добре.
+
+
+# Ott
+### Ooof!
+PC10_STORY100_DONOTTELL-3=У-ух!
+
+
+# Klay
+### In that case, I'll just have to figure it out by myself!
+PC10_STORY100_DONOTTELL-4=У такому разі мені доведеться розібратися самому!
+
+
+#----------------------------------------------------
+# Klay
+### Let's try this...
+PC10_STORY100_DONOTTELLB-1=Спробуймо це...
+
+
+#----------------------------------------------------
+# Graff
+### What did you do?!
+PC10_STORY100_TELL3-1=Що ти наробив?!
+
+
+# Klay
+### Oooh... Too bad.
+PC10_STORY100_TELL3-2=О-ох... Дуже прикро.
+
+
+# Klay
+### It's broken!
+PC10_STORY100_TELL3-3=Зламалося!
+
+
+# Graff
+### I... I'm going to...
+PC10_STORY100_TELL3-4=Я... Та я тебе...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Don't!
+PC10_STORY100_TELL3-5=Граффе! Ні!
+
+
+#----------------------------------------------------
+# Graff
+### No. I won't play your game.
+PC10_STORY100_LETITGO-1=Ні. Я не гратиму в твої ігри.
+
+
+# Klay
+### What?...
+PC10_STORY100_LETITGO-2=Що...?
+
+
+# Graff
+### You won't do anything.
+PC10_STORY100_LETITGO-3=Ти нічого не зробиш.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### If you harm Ott, we'll ask your mom for a DNA search on his clothes. You'll get banned.
+PC10_STORY100_LETITGO-4=Якщо ти зашкодиш Оттові, ми попросимо твою маму провести аналіз ДНК на його одязі. Тебе відрахують.
+
+
+# Klay
+### ...
+PC10_STORY100_LETITGO-5=...
+
+
+# Klay
+### Man. You always ruin all the fun.
+PC10_STORY100_LETITGO-6=Дідько. Ти завжди псуєш усі веселощі.
+
+
+# Klay
+### That was just a little joke!
+PC10_STORY100_LETITGO-7=Це був просто маленький жарт!
+
+
+# Klay
+### Oh well.
+PC10_STORY100_LETITGO-8=Ну що ж.
+
+
+#----------------------------------------------------
+# Graff
+### That's ENOUGH!
+PC10_STORY100_FIGHT-1=ГОДІ!
+
+
+# Klay
+### Wha...
+PC10_STORY100_FIGHT-2=Що...
+
+
+# Klay
+### Arrrgh!
+PC10_STORY100_FIGHT-3=Ар-р-р!
+
+
+# Klay
+### You... You hit me!...
+PC10_STORY100_FIGHT-4=Ти... Ти мене вдарив...!
+
+
+# Graff
+### Well deserved.
+PC10_STORY100_FIGHT-5=Цілком заслужено.
+
+
+# Klay
+### I'm gonna...
+PC10_STORY100_FIGHT-6=Я...
+
+
+# Ott
+### Enough! Stop it, you both!
+PC10_STORY100_FIGHT-7=Досить! Припиніть, обидва!
+
+
+# Klay
+### Hmph...
+PC10_STORY100_FIGHT-8=Гр-р...
+
+
+#----------------------------------------------------
+# Klay
+### I'll be on my way. Just one last thing.
+PC10_STORY100_AFTERKLAYPROVOKE-1=Я пішов. І ще одне.
+
+
+# Klay
+### Don't even bother fixing it.
+PC10_STORY100_AFTERKLAYPROVOKE-2=Навіть не намагайся його полагодити.
+
+
+# Graff
+### What?!...
+PC10_STORY100_AFTERKLAYPROVOKE-3=Що...?!
+
+
+# Klay
+### Who knows. The same accident might happen again.
+PC10_STORY100_AFTERKLAYPROVOKE-4=Хто його знає. Нещасний випадок може статися знову.
+
+
+# Graff
+### If you dare!
+PC10_STORY100_AFTERKLAYPROVOKE-5=Тільки посмій!
+
+
+# Graff
+### I... I'll crush yours!
+PC10_STORY100_AFTERKLAYPROVOKE-6=Я... Я зламаю твоє!
+
+
+# Klay
+### Hmm...
+PC10_STORY100_AFTERKLAYPROVOKE-7=Гмм...
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot. Activate.
+PC10_STORY100_AFTERKLAYPROVOKE-8=Студботе. Активація.
+
+
+# Stubot
+### (Starting process)
+PC10_STORY100_AFTERKLAYPROVOKE-9=(Запуск)
+
+
+# Stubot
+### Hello sir
+PC10_STORY100_AFTERKLAYPROVOKE-10=Вітаю, пане.
+
+
+# Klay
+### Please watch over my invention.
+PC10_STORY100_AFTERKLAYPROVOKE-11=Будь ласка, постеж за моїм винаходом.
+
+
+# Stubot
+### I will
+PC10_STORY100_AFTERKLAYPROVOKE-12=Буде зроблено.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Hey! You can't use Stubot like that!
+PC10_STORY100_AFTERKLAYPROVOKE-13=Гей! Ти не можеш так використовувати Студбота!
+
+
+# Klay
+### Of course I can. He's material for this Center, and the Center belongs to my family.
+PC10_STORY100_AFTERKLAYPROVOKE-14=Звісно, що можу. Він - майно цього Центру, а Центр належить моїй родині.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Isn't that right, Stubot?
+PC10_STORY100_AFTERKLAYPROVOKE-15=Чи не так, Студботе?
+
+
+# Stubot
+### Okay
+PC10_STORY100_AFTERKLAYPROVOKE-16=Все так
+
+
+# Klay
+### Ta-ta for now! The sun is shining, I'll get some due rest!
+PC10_STORY100_AFTERKLAYPROVOKE-17=Па-па! Поки сонечко світить, я відпочину як слід!
+
+
+#----------------------------------------------------
+# Graff
+### Grmph...
+PC10_STORY100_AFTERFIGHT-1=Гр-р...
+
+
+# Ott
+### Let it go...
+PC10_STORY100_AFTERFIGHT-2=Забудь...
+
+
+# Graff
+### You're okay?
+PC10_STORY100_AFTERFIGHT-3=У тебе все гаразд?
+
+
+# Ott
+### Yeah...
+PC10_STORY100_AFTERFIGHT-4=Так...
+
+
+# Ott
+### Thanks for standing up for me but...
+PC10_STORY100_AFTERFIGHT-5=Дякую, що вступився за мене, але...
+
+
+# Ott
+### You shouldn't have...
+PC10_STORY100_AFTERFIGHT-6=Тобі не слід було...
+
+
+# Graff
+### Don't worry about that.
+PC10_STORY100_AFTERFIGHT-7=Не переймайся цим.
+
+
+#----------------------------------------------------
+# Ott
+### By the way. You still haven't told me what this is!
+PC10_STORY100_AFTERFIGHTTELL-1=До речі. Ти досі не сказав мені, що це таке!
+
+
+# Graff
+### Right.
+PC10_STORY100_AFTERFIGHTTELL-2=Точно.
+
+
+# Graff
+### My machine transforms urine into drinking water.
+PC10_STORY100_AFTERFIGHTTELL-3=Моя машина перетворює сечу на питну воду.
+
+
+# Ott
+### ...
+PC10_STORY100_AFTERFIGHTTELL-4=...
+
+
+# Ott
+### For real?...
+PC10_STORY100_AFTERFIGHTTELL-5=Справді...?
+
+
+# Graff
+### Go ahead, laugh.
+PC10_STORY100_AFTERFIGHTTELL-6=Можеш сміятись.
+
+
+# Ott
+### Are you kidding?
+PC10_STORY100_AFTERFIGHTTELL-7=Ти жартуєш?
+
+
+# Ott
+### It's amazing!
+PC10_STORY100_AFTERFIGHTTELL-8=Це чудово!
+
+
+# Graff
+### Well... It's still a prototype but...
+PC10_STORY100_AFTERFIGHTTELL-9=Ну... Це все ще прототип, але...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay broke it...
+PC10_STORY100_AFTERFIGHTTELL-10=Клей зламав її...
+
+
+#----------------------------------------------------
+# Ott
+### What's his problem?!
+PC10_STORY100_F-1=Що з ним не так?!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### He's the Director's favorite and he always gets the best marks.
+PC10_STORY100_F-2=Він улюбленець директорки та завжди отримує найкращі оцінки.
+
+
+# Ott
+### He doesn't have to act like that!
+PC10_STORY100_F-3=Йому не треба так поводитися!
+
+
+# Graff
+### You don't say. Look what he created.
+PC10_STORY100_F-4=І не кажи. Подивися, що він створив.
+
+
+# Ott
+### ...
+PC10_STORY100_F-5=...
+
+
+# Ott
+### Oh. So sleek.
+PC10_STORY100_F-6=Ох. Який стильний.
+
+
+#----------------------------------------------------
+# Graff
+### We're in trouble.
+PC10_STORY100_F2-1=У нас проблема.
+
+
+# Graff
+### Your invention doesn't fit the theme... Mine is broken...
+PC10_STORY100_F2-2=Твій винахід не відповідає темі... Мій - зламаний...
+
+
+# Graff
+### And I'm starting to have second thoughts about my choice...
+PC10_STORY100_F2-3=І я починаю сумніватися у своєму виборі...
+
+
+# Graff
+### There's no way we're gonna win this.
+PC10_STORY100_F2-4=У нас немає шансів виграти.
+
+
+# Ott
+### Don't listen to him. It's an amazing idea!
+PC10_STORY100_F2-5=Не слухай його. У тебе чудова ідея!
+
+
+# Ott
+### It's too late for me. But we can fix your machine!
+PC10_STORY100_F2-6=Для мене вже занадто пізно. Але ми можемо полагодити твою машину!
+
+
+# Graff
+### Possibly... But you heard his threats.
+PC10_STORY100_F2-7=Можливо... Але ти чув його погрози.
+
+
+# Graff
+### Besides... I wouldn't feel right if you helped me pass while you fail.
+PC10_STORY100_F2-8=Крім того... Я б не почувався добре, якби ти допоміг мені скласти, а сам провалив.
+
+
+# Ott
+### Oh, don't worry! I'll catch up with the next trial!
+PC10_STORY100_F2-9=О, не хвилюйся! Я наздожену тебе у наступному випробуванні!
+
+
+# Graff
+### Hmm...
+PC10_STORY100_F2-10=Гмм...
+
+
+# Graff
+### There's another way.
+PC10_STORY100_F2-11=Є інший спосіб.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Remember, we're evaluated according to Stubot.
+PC10_STORY100_F2-12=Пам'ятаєш, нас будуть оцінювати порівняно зі Студботом.
+
+
+# Graff
+### What if we... Let's say...
+PC10_STORY100_F2-13=А що, як ми... Скажімо...
+
+
+# Graff
+### "Use" their machines?...
+PC10_STORY100_F2-14="Використаємо" їхні машини...?
+
+
+# Ott
+### You mean... messing them up? Like he did?
+PC10_STORY100_F2-15=Маєш на увазі... зіпсуємо їх? Як він зробив?
+
+
+# Ott
+### I'm not sure I agree with this...
+PC10_STORY100_F2-16=Не впевнений, що я згоден із цим...
+
+
+#----------------------------------------------------
+# Graff
+### I won't touch them. Promise!
+PC10_STORY100_F_YES-1=Я не буду їх торкатися. Обіцяю!
+
+
+# Graff
+### I'll just push them beyond their limits. From a distance.
+PC10_STORY100_F_YES-2=Я просто трохи виштовхну їх за межі можливостей. На відстані.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot is a program. As long as there's no physical contact, he won't notice.
+PC10_STORY100_F_YES-3=Студбот - програма. Поки немає фізичного контакту, він не помітить.
+
+
+# Graff
+### If all three machines are broken, we're even! And you'll automatically win.
+PC10_STORY100_F_YES-4=Якщо всі три машини будуть зламані, ми квиті! І ти автоматично виграєш.
+
+
+# Ott
+### Well...
+PC10_STORY100_F_YES-5=Ну...
+
+
+# Graff
+### Trust me. What's the worst that can happen?
+PC10_STORY100_F_YES-6=Довірся мені. Що найгірше може статися?
+
+
+# Ott
+### That's what I'm afraid of.
+PC10_STORY100_F_YES-7=Цього я й боюсь.
+
+
+# Ott
+### Okay. It's your idea. I won't stop you.
+PC10_STORY100_F_YES-8=Добре. Це твоя ідея. Не буду тебе зупиняти.
+
+
+# Graff
+### ...
+PC10_STORY100_F_YES-9=...
+
+
+# Graff
+### (I hope I'm doing the right thing.)
+PC10_STORY100_F_YES-10=(Сподіваюсь, я вчиняю правильно.)
+
+
+#----------------------------------------------------
+# Graff
+### You're right.
+PC10_STORY100_F_NO-1=Ти маєш рацію.
+
+
+# Graff
+### We're not like him.
+PC10_STORY100_F_NO-2=Ми не такі, як він.
+
+
+# Graff
+### I'll just fix my invention and hope for the best.
+PC10_STORY100_F_NO-3=Я просто полагоджу свій винахід і буду сподіватися на краще.
+
+
+# Graff
+### But... I can't afford letting him break it again!
+PC10_STORY100_F_NO-4=Але... Я не можу дозволити йому знову його зламати!
+
+
+# Ott
+### You could watch over it.
+PC10_STORY100_F_NO-5=Ти міг би наглядати за ним.
+
+
+# Graff
+### No. There's gotta be something better.
+PC10_STORY100_F_NO-6=Ні. Має бути щось краще.
+
+
+# Graff
+### Some kind of protection.
+PC10_STORY100_F_NO-7=Якийсь захист.
+
+
+# Graff
+### Giving a shock if he touches it...
+PC10_STORY100_F_NO-8=Удар струмом, якщо він доторкнеться...
+
+
+# Ott
+### Hmmm...
+PC10_STORY100_F_NO-9=Гммм...
+
+
+# Ott
+### I've got something for you.
+PC10_STORY100_F_NO-10=У мене для тебе дещо є.
+
+
+#----------------------------------------------------
+# Graff
+### What's that?
+PC10_STORY100_F_NO2-1=Що це?
+
+
+# Ott
+### A force field.
+PC10_STORY100_F_NO2-2=Силове поле.
+
+
+# Ott
+### It defines a perimeter. By connecting the right stuff, you should be able to get the result you want.
+PC10_STORY100_F_NO2-3=Воно окреслює периметр. Якщо з'єднаєш його з правильними компонентами, зможеш отримати бажаний результат.
+
+
+# Ott
+### I had to use several for my machine but I had a spare just in case.
+PC10_STORY100_F_NO2-4=Довелося використати кілька таких для моєї машини, але у мене було запасне, про всяк випадок.
+
+
+# Graff
+### You're sure?
+PC10_STORY100_F_NO2-5=Ти впевнений?
+
+
+# Ott
+### Yeah. Take it!
+PC10_STORY100_F_NO2-6=Так. Бери!
+
+
+#----------------------------------------------------
+# Ott
+### You should hook up a detector and an operator on the NUB ports.
+PC10_STORY100_F_NO3-1=Тобі слід підключити детектор та оператор до NUB-портів.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### That's perfect! You're a genius, Ott!
+PC10_STORY100_F_NO3-2=Ідеально! Отте, ти геній!
+
+
+# Ott
+### Nah. Geniuses don't forget the instructions...
+PC10_STORY100_F_NO3-3=Ні. Генії не забувають про тему випробування...
+
+
+# Ott
+### I'll be around if you need me!
+PC10_STORY100_F_NO3-4=Я буду поруч, якщо потрібна моя допомога!
+
+
+# Graff
+### Okay! Thanks a bunch!
+PC10_STORY100_F_NO3-5=Добре! Щиро дякую!
+
+
+# Graff
+### (Well... To be honest, this solution is a bit convoluted.)
+PC10_STORY100_F_NO3-6=(Ну... Якщо чесно, таке рішення проблеми дещо складне.)
+
+
+# Graff
+### (But this trial is crucial.)
+PC10_STORY100_F_NO3-7=(Але це випробування надзвичайно важливе.)
+
+
+# Graff
+### (Anyway. Let's get started!)
+PC10_STORY100_F_NO3-8=(Отже. Розпочнімо!)
+
+
+#----------------------------------------------------
+# Graff - Checking the inventions
+### The "source liquid" is added here. It's filtered, then a combination of chemical agents transform it.
+PC10_MACHINE_GRAFF_LEFT1-1=Сюди додається "вхідна рідина". Вона фільтрується, а потім комбінація хімікатів перетворює її.
+
+
+# Graff
+### Residues fall to the bottom, which can be cleaned out with this trap.
+PC10_MACHINE_GRAFF_LEFT1-2=Залишки стікають донизу, де їх можна очистити за допомогою цього фільтра.
+
+
+# Graff
+### The reaction takes a few hours. Progressively, tiny drops fall into the glass.
+PC10_MACHINE_GRAFF_LEFT1-3=Реакція займає кілька годин. Поступово крихітні краплі падають у склянку.
+
+
+#----------------------------------------------------
+# Graff
+### That side seems okay. I should focus on the glass!
+PC10_MACHINE_GRAFF_LEFT_BROKEN1-1=Ця сторона виглядає нормально. Мені слід сфокусуватися на склянці!
+
+
+#----------------------------------------------------
+# Graff
+### The chemical reaction has started.
+PC10_MACHINE_GRAFF_LEFT_FIXED1-1=Хімічна реакція розпочалася.
+
+
+#----------------------------------------------------
+# Graff
+### That part isn't broken!
+PC10_MACHINE_GRAFF_LEFT_MELTPLASTIC-1=Ця частина не зламана!
+
+
+#----------------------------------------------------
+# Graff
+### What a mess. I need to fix this quickly!
+PC10_MACHINE_GRAFF_RIGHT_BROKEN1-1=Що за безлад. Мені треба швидко це виправити!
+
+
+# Graff
+### Melted plastic could work... If only I had some.
+PC10_MACHINE_GRAFF_RIGHT_BROKEN1-2=Розплавлений пластик міг би допомогти... Якби він у мене був.
+
+
+#----------------------------------------------------
+# Graff
+### This should work but...
+PC10_MACHINE_GRAFF_TALKSHAY-1=Це має спрацювати, але...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I should talk to Brok's inventor friend before changing anything. Just in case.
+PC10_MACHINE_GRAFF_TALKSHAY-2=Мені слід поговорити з подругою Брока - винахідницею, перш ніж щось змінювати. Про всяк випадок.
+
+
+#----------------------------------------------------
+# Graff
+### I hope this fix holds after the votes...
+PC10_MACHINE_GRAFF_RIGHT_FIXED1-1=Сподіваюся, воно витримає до завершення голосування...
+
+
+#----------------------------------------------------
+# Graff
+### There. Not perfect but that should do the trick.
+PC10_MACHINE_GRAFF_RIGHT_FIXING1-1=Ось. Не ідеально, але має спрацювати.
+
+
+#----------------------------------------------------
+# Graff
+### I would need to melt that plastic first!
+PC10_MACHINE_GRAFF_RIGHT_STATUETTE-1=Спочатку мені потрібно розплавити пластик!
+
+
+#----------------------------------------------------
+# Graff
+### Let's fix it...
+PC10_MACHINE_GRAFF_TABLE_BEFOREFIX1-1=Полагодимо мій винахід...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott gave me something. What was it, already?
+PC10_MACHINE_GRAFF_TABLE_PROTECTION1-1=Отт щось дав мені. Що це було?
+
+
+#----------------------------------------------------
+# Graff
+### My invention is okay now. Let's "see" the other machines!
+PC10_MACHINE_GRAFF_TABLE_MESS1-1=Мій винахід зараз у нормі. "Подивимось" на інші машини!
+
+
+#----------------------------------------------------
+# Graff
+### The table isn't the part I want to fix...
+PC10_MACHINE_PLASTIC-1=Стіл - не та частина, яку я хочу полагодити...
+
+
+#----------------------------------------------------
+# Graff
+### I need to put something else first.
+PC10_MACHINE_NOTTHERE-1=Спочатку мені потрібне щось інше.
+
+
+#----------------------------------------------------
+# Graff
+### My invention is messed up enough as it is!
+PC10_MACHINE_MESSED-1=Мій винахід і без того достатньо зіпсований!
+
+
+#----------------------------------------------------
+# Graff
+### Good idea but... not in this form. That plastic is too hard!
+PC10_MACHINE_STATUETTE-1=Гарна ідея, але... не в такому вигляді. Цей пластик надто твердий!
+
+
+#----------------------------------------------------
+# Graff
+### Not this side!
+PC10_MACHINE_MELTPLASTIC-1=Не з цього боку!
+
+
+#----------------------------------------------------
+# Graff
+### Apparently, it's in "detect everybody" mode.
+PC10_MACHINE_GRAFF_DETECTOR1-1=Ймовірно, він зараз у режимі "виявляти всіх".
+
+
+# Graff
+### Not good. I can't take the risk of hurting anyone from the examination board.
+PC10_MACHINE_GRAFF_DETECTOR1-2=Це недобре. Я не можу ризикнути зашкодити комусь із екзаменаційної комісії.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay told me the detector's surface can sense fingerprints. Hmm...
+PC10_MACHINE_GRAFF_DETECTOR1-3=Шей сказала, що поверхня детектора розпізнає відбитки пальців. Гмм...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### It's set to detect Klay only!
+PC10_MACHINE_GRAFF_DETECTOR2-1=Він налаштований на виявлення лише Клея!
+
+
+#----------------------------------------------------
+# Graff
+### That doesn't work... I guess there's no fingerprint on that sticker.
+PC10_MACHINE_GRAFF_STICKER1-1=Не працює... Мабуть, на цій наліпці немає відбитку пальця.
+
+
+#----------------------------------------------------
+# Graff
+### The short circuit is ready to unleash!
+PC10_MACHINE_GRAFF_OPERATOR1-1=Коротке замикання готове до дії!
+
+
+#----------------------------------------------------
+# Graff
+### There!
+PC10_MACHINE_GRAFF_ADDFORCE-1=Ось!
+
+
+# Graff
+### The force field perimeter should extend just enough to cover my machine.
+PC10_MACHINE_GRAFF_ADDFORCE-2=Силове поле має розширитися рівно настільки, щоб накрити мою машину.
+
+
+# Graff
+### But it's not active yet...
+PC10_MACHINE_GRAFF_ADDFORCE-3=Але воно ще не активне...
+
+
+#----------------------------------------------------
+# Graff
+### The NUB connectors on the force field allow me to connect a few devices.
+PC10_FORCE1-1=Роз'єми NUB на силовому полі дозволяють підключити кілька пристроїв.
+
+
+#----------------------------------------------------
+# Graff
+### I'll activate the force field when it's all ready.
+PC10_FORCE2-1=Я активую силове поле, коли все буде готово.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's force field has quite a few NUB connectors! I should only need two though.
+PC10_FORCE_NOTCONNECTED1-1=Силове поле Отта має доволі багато роз'ємів NUB! Хоча мені знадобиться лише два.
+
+
+# Graff
+### A detection device to detect wrong intentions, and an operator to... react appropriately.
+PC10_FORCE_NOTCONNECTED1-2=Детектор, щоб виявляти лихі наміри, та оператор, щоб... реагувати належним чином.
+
+
+#----------------------------------------------------
+# Graff
+### The force field won't be active unless I add a detector.
+PC10_FORCE_NOTCONNECTED2-1=Силове поле не буде активним, поки я не додам детектор.
+
+
+# Graff
+### Any device that could identify wrong hands.
+PC10_FORCE_NOTCONNECTED2-2=Це має бути пристрій, який розпізнає чужі руки.
+
+
+#----------------------------------------------------
+# Graff
+### This hasn't got a NUB connector. Besides, I doubt this would help.
+PC10_MACHINE_GRAFF_ADD-1=Тут немає роз'єму NUB. До того ж, сумніваюся, що це допоможе.
+
+
+#----------------------------------------------------
+# Graff
+### Good idea but... The force field alone can't detect the prints.
+PC10_FORCE_ADDSTICKER_NOTYET-1=Гарна ідея, але... Силове поле саме по собі не може ідентифікувати відбитки.
+
+
+#----------------------------------------------------
+# Graff
+### Great, it fits!
+PC10_FORCE_ADDDETECTOR1-1=Чудово, підходить!
+
+
+# Graff
+### The force field should spread the detection so it's not localized to one point, but everywhere around.
+PC10_FORCE_ADDDETECTOR1-2=Силове поле має поширити дію детектора, щоб він бачив не лише одну точку, а все навколо.
+
+
+#----------------------------------------------------
+# Graff
+### The trap is set!
+PC10_FORCE_ADDOPERATOR1-1=Пастка готова!
+
+
+#----------------------------------------------------
+# Graff
+### It works! What a relief.
+PC10_FORCE_ADDSTICKER1-1=Працює! Яке полегшення.
+
+
+#----------------------------------------------------
+# Graff
+### I still need to fix my invention.
+PC10_FORCE_MISSINGFIX1-1=Мені все ще треба полагодити свій винахід.
+
+
+#----------------------------------------------------
+# Graff
+### Now I need an operator to give a shock to... a certain someone.
+PC10_FORCE_MISSINGOPERATOR1-1=Тепер мені потрібен оператор, щоби вдарити струмом... декого.
+
+
+# Graff
+### What could fit that definition?
+PC10_FORCE_MISSINGOPERATOR1-2=Що могло б підійти під це визначення?
+
+
+#----------------------------------------------------
+# Graff
+### Okay... Though the operator will be useless until the force field can detect intruders.
+PC10_FORCE_MISSINGDETECTOR1-1=Добре... Однак від оператора не буде користі, поки силове поле не вміє виявляти зловмисника.
+
+
+#----------------------------------------------------
+# Graff
+### Good!
+PC10_FORCE_MISSINGSTICKER1-1=Добре!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Only one problem left... I need to target Klay exclusively.
+PC10_FORCE_MISSINGSTICKER1-2=Лишається тільки одна проблема... Ціллю має бути виключно Клей.
+
+
+#----------------------------------------------------
+# Graff
+### Final step. I activate the force field.
+PC10_FORCE_READY-1=Останній крок. Активую силове поле.
+
+
+# Graff
+### Perfect. My convoluted protection is almost invisible now!
+PC10_FORCE_READY-2=Ідеально. Мій хитромудрий захист тепер майже невидимий!
+
+
+#----------------------------------------------------
+# Ott
+### Oh! Is it working?
+PC10_FORCE_READY2-1=Ох! Воно працює?
+
+
+# Graff
+### I'll know the answer in a few seconds.
+PC10_FORCE_READY2-2=Дізнаюся через кілька секунд.
+
+
+# Ott
+### Oh no... He's coming back.
+PC10_FORCE_READY2-3=О ні... Він повертається.
+
+
+# Klay
+### (Yawn)
+PC10_FORCE_READY2-4=(Позіхає)
+
+
+# Klay
+### What...
+PC10_FORCE_READY2-5=Що...
+
+
+# Klay
+### Hmm... Idiot.
+PC10_FORCE_READY2-6=Гмм... Ідіот.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot, I forgot my socks on my chair. Bring them back.
+PC10_FORCE_READY2-7=Студботе, я забув шкарпетки на стільці. Поверни їх мені.
+
+
+# Stubot
+### Yes sir
+PC10_FORCE_READY2-8=Так, пане
+
+
+# Klay
+### Tsk tsk. I told you, kitty.
+PC10_FORCE_READY2-9=Тц-тц. Я ж казав, кошенятко.
+
+
+# Klay
+### Accidents tend to happen...
+PC10_FORCE_READY2-10=Нещасний випадок може статися...
+
+
+# Various - Klay gets shocked
+### Aaaagaaaaaaaaiiiiinnnn?!?
+PC10_FORCE_READY2-11=Зноооооооовввууууу?!?
+
+
+# Various
+### (Poof...)
+PC10_FORCE_READY2-12=(Шух...)
+
+
+# Graff
+### Yes!
+PC10_FORCE_READY2-13=Так!
+
+
+# Ott
+### Oh my!...
+PC10_FORCE_READY2-14=Ой леле...!
+
+
+# Ott
+### ...
+PC10_FORCE_READY2-15=...
+
+
+# Ott
+### Phew, he's just knocked unconscious. You sure were heavy-handed.
+PC10_FORCE_READY2-16=Фух, він щойно знепритомнів. Ти сили не шкодував.
+
+
+# Graff
+### He started it.
+PC10_FORCE_READY2-17=Він перший почав.
+
+
+#----------------------------------------------------
+# Ott
+### It's almost time. The examination board will be here any minute now.
+PC10_STORY100_ENDDIALOG-1=Вже майже час. Екзаменаційна комісія з'явиться будь-якої хвилини.
+
+
+# Graff
+### (Okay. I did everything I could.)
+PC10_STORY100_ENDDIALOG-2=(Добре. Я зробив все, що міг.)
+
+
+# Graff
+### (Now I just have to cross fingers...)
+PC10_STORY100_ENDDIALOG-3=(Тепер лишається тільки схрестити пальці...)
+
+
+# Graff
+### (And wait for my old man.)
+PC10_STORY100_ENDDIALOG-4=(І чекати на свого старого.)
+
+
+# Ott
+### Look! My parents, they're over there!
+PC10_STORY100_ENDDIALOG-5=Дивись! Мої батьки, вони он там!
+
+
+#----------------------------------------------------
+# Graff
+### (Auto-pairing socks... A useful invention! Just not what they asked for.)
+PC10_MACHINE_OTT1-1=(Автоматичний підбір шкарпеток... Корисний винахід! Просто це не те, що просили.)
+
+
+# Graff
+### (I feel bad for him...)
+PC10_MACHINE_OTT1-2=(Мені його шкода...)
+
+
+#----------------------------------------------------
+# Graff
+### "Convert stinking odors into energy which powers the wheel and generates perfume"
+PC10_MACHINE_KLAY_BOX1-1="Перетворює смердючі запахи на енергію, що приводить у рух колесо та генерує парфуми"
+
+
+# Graff
+### And here he was mocking me for my invention! They're similar, after all.
+PC10_MACHINE_KLAY_BOX1-2=А ще глузував з мене через мій винахід! Вони ж подібні.
+
+
+# Graff
+### Well... Save for the aspect, I admit it's well crafted.
+PC10_MACHINE_KLAY_BOX1-3=Ну... За винятком зовнішнього вигляду, маю визнати, воно гарно зібране.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Better not touch it... Stubot is watching me.
+PC10_MACHINE_KLAY_NOMESS1-1=Краще не доторкатися... Студбот дивиться на мене.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I promised Ott not to touch the other's machines. Pretty sure I don't have to, anyway...
+PC10_MACHINE_KLAY_MESS1-1=Я обіцяв Оттові не торкатися чужих машин. Впевнений, це все одно необов'язково...
+
+
+# Graff
+### Let's push it to its maximum, shall we?
+PC10_MACHINE_KLAY_MESS1-2=Дотиснемо її до максимальної потужності, га?
+
+
+#----------------------------------------------------
+# Graff
+### The closer I get, the faster it spins...
+PC10_MACHINE_KLAY_ROUND1-1=Що ближче я підходжу, то швидше воно крутиться...
+
+
+# Graff
+### Alright, I admit... I couldn't take my shower this morning.
+PC10_MACHINE_KLAY_ROUND1-2=Добре, визнаю... Я не зміг прийняти душ цього ранку.
+
+
+#----------------------------------------------------
+# Graff
+### This attracts foul odors. The faster it spins, the more there are.
+PC10_MACHINE_KLAY_ROUND2-1=Воно притягує неприємні запахи. Що швидше крутиться колесо, то їх більше.
+
+
+#----------------------------------------------------
+# Graff
+### It's spinning faster than before...
+PC10_MACHINE_KLAY_ROUND_LOWSTINK-1=Воно крутиться швидше, ніж раніше...
+
+
+# Graff
+### (Sniff)
+PC10_MACHINE_KLAY_ROUND_LOWSTINK-2=(Нюхає)
+
+
+# Graff
+### Eww... Now I get it. Why do my clothes smell like that?
+PC10_MACHINE_KLAY_ROUND_LOWSTINK-3=Фу... Тепер зрозумів. Чому мій одяг так смердить?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Can't... Stubot is watching me!
+PC10_MACHINE_KLAY_ROUND_OTHERS-1=Не можу... Студбот дивиться на мене!
+
+
+# Graff
+### Besides, I promised I wouldn't touch it.
+PC10_MACHINE_KLAY_ROUND_OTHERS-2=До того ж, я обіцяв, що не буду торкатися.
+
+
+#----------------------------------------------------
+# Graff
+### (Sniff, sniff)
+PC10_MACHINE_KLAY_CONTAINER1-1=(Нюхає)
+
+
+# Graff
+### Hmm... Yup. Smells nice.
+PC10_MACHINE_KLAY_CONTAINER1-2=Гмм... Ага. Приємно пахне.
+
+
+#----------------------------------------------------
+# Graff
+### Can't really say I'm proud but... What's done is done.
+PC10_MACHINE_KLAY_ISBROKEN-1=Не скажу, що пишаюся цим, але... Що зроблено, те зроблено.
+
+
+#----------------------------------------------------
+# Graff - Double sense with the word stink. Replace by whatever you feel like.
+### This idea stinks... but that won't make it spin any faster.
+PC10_MACHINE_KLAY_STINK1-1=Ця ідея, звісно, лайно... але від неї колесо не почне крутитись швидше.
+
+
+#----------------------------------------------------
+# Graff
+### Woah!
+PC10_MACHINE_KLAY_WRONG-1=Ого!
+
+
+# Graff
+### It's reacting to my presence...
+PC10_MACHINE_KLAY_WRONG-2=Воно реагує на мою присутність...
+
+
+# Graff
+### I'd better not get closer to avoid any trouble!
+PC10_MACHINE_KLAY_WRONG-3=Краще не підходити ближче, щоб уникнути неприємностей!
+
+
+#----------------------------------------------------
+# Graff
+### Woah!
+PC10_MACHINE_KLAY_MAXED-1=Ого!
+
+
+# Graff
+### I'm not even close, yet it spins so...
+PC10_MACHINE_KLAY_MAXED-2=Я навіть не близько, а воно так швидко крутиться...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_MACHINE_KLAY_MAXED2-1=...
+
+
+# Graff
+### Oh... It broke.
+PC10_MACHINE_KLAY_MAXED2-2=Ох... Зламалося.
+
+
+# Graff
+### No one noticed...
+PC10_MACHINE_KLAY_MAXED2-3=Ніхто не помітив...
+
+
+# Graff
+### Good!
+PC10_MACHINE_KLAY_MAXED2-4=Добре!
+
+
+#----------------------------------------------------
+# Graff
+### I'm done.
+PC10_MACHINE_BROKEN_TWO_OVER-1=Готово.
+
+
+# Graff
+### ...
+PC10_MACHINE_BROKEN_TWO_OVER-2=...
+
+
+# Ott
+### So, you managed to pull it off, huh?
+PC10_MACHINE_BROKEN_TWO_OVER-3=Тож, тобі це вдалося, га?
+
+
+# Graff
+### Yeah.
+PC10_MACHINE_BROKEN_TWO_OVER-4=Ага.
+
+
+# Ott
+### I don't know. I still have a bad feeling about all this.
+PC10_MACHINE_BROKEN_TWO_OVER-5=Не знаю. У мене все ще погане передчуття щодо всього цього.
+
+
+# Ott
+### We'll see what happens.
+PC10_MACHINE_BROKEN_TWO_OVER-6=Подивимося, що буде.
+
+
+#----------------------------------------------------
+# Graff
+### Oh! There are some ants in there!
+PC10_MACHINE_STUBOT1-1=Ох! Тут всередині мурахи!
+
+
+# Graff
+### I bet this converts their footsteps into energy.
+PC10_MACHINE_STUBOT1-2=Б'юся об заклад, воно перетворює їхні кроки на енергію.
+
+
+# Graff
+### Kinda ironic. The only one of us who involved a living being is a robot!
+PC10_MACHINE_STUBOT1-3=Доволі іронічно. Єдиний з нас, хто задіяв живих істот - це робот!
+
+
+#----------------------------------------------------
+# Graff
+### It's not really innovative but still pretty cool for a robot invention!
+PC10_MACHINE_STUBOT_NORMAL1-1=Це не те щоб інновація, але як для робота - дуже крутий винахід!
+
+
+#----------------------------------------------------
+# Graff
+### Hmm. How to push this machine to the maximum?...
+PC10_MACHINE_STUBOT_PUSHMAX1-1=Гмм. Як витиснути з цієї машини максимум...?
+
+
+#----------------------------------------------------
+# Graff
+### I should try and find more info on ants.
+PC10_MACHINE_STUBOT_PUSHMAX2-1=Мені слід спробувати знайти інформацію про мурах.
+
+
+#----------------------------------------------------
+# Graff
+### Oh! I know!
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-1=О! Знаю!
+
+
+# Graff
+### This is an "Antaerground" species. They're most often found in gloomy places.
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-2=Цей вид називається "підземмурахи". Найчастіше вони водяться у темних місцях.
+
+
+# Graff
+### As such, they're scared of light. It makes them run away to hide.
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-3=Тому вони бояться світла. Воно змушує їх утікати, щоб сховатися.
+
+
+# Graff
+### That explains them running.
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-4=Це пояснює їхній біг.
+
+
+# Graff
+### Now... What if they were exposed to a very bright, direct light?
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-5=А що, якщо вони потраплять під дію дуже яскравого напрямленого світла...
+
+
+# Graff
+### Hmm!...
+PC10_MACHINE_STUBOT_PUSHMAXLIGHT-6=Гмм...!
+
+
+#----------------------------------------------------
+# Graff
+### Sorry, little ants...
+PC10_MACHINE_STUBOT_BROKEN1-1=Вибачте, мурахи...
+
+
+#----------------------------------------------------
+# Graff
+### The converted energy is stored here.
+PC10_MACHINE_STUBOT_ENERGYBOX1-1=Перетворена енергія зберігається тут.
+
+
+# Graff
+### You can even hook up a device! Classy!
+PC10_MACHINE_STUBOT_ENERGYBOX1-2=Можна навіть підключити якийсь пристрій! Класно!
+
+
+#----------------------------------------------------
+# Graff
+### No, I promised not to touch it... And I can't do that from a distance.
+PC10_MACHINE_STUBOT_WHEEL_OTHERS-1=Ні, я обіцяв не торкатися... І я не можу цим нічого зробити на відстані.
+
+
+#----------------------------------------------------
+# Graff
+### No... I don't want to make those ants blind!
+PC10_MACHINE_STUBOT_WHEEL_NEON_NOMESS-1=Ні... Я не хочу засліпити мурах!
+
+
+#----------------------------------------------------
+# Graff
+### Good idea!
+PC10_MACHINE_STUBOT_WHEEL_NEON-1=Гарна ідея!
+
+
+#----------------------------------------------------
+# Graff
+### Uh-oh...
+PC10_MACHINE_STUBOT_WHEEL_NEON2-1=Ой-ой...
+
+
+# Graff
+### It worked too well... Poor ants!
+PC10_MACHINE_STUBOT_WHEEL_NEON2-2=Спрацювало надто добре... Бідолашні мурахи!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Well... I got what I wanted. Stubot didn't even notice!
+PC10_MACHINE_STUBOT_WHEEL_NEON2-3=Ну... Я зробив, що хотів. Студбот навіть не помітив!
+
+
+#----------------------------------------------------
+# Graff - Talking to the "student bot"
+### Hi!
+PC10_STUBOT1-1=Привіт!
+
+
+# Stubot
+### Hello
+PC10_STUBOT1-2=Вітаю
+
+
+# Graff
+### How are you?
+PC10_STUBOT1-3=Як ти?
+
+
+# Stubot
+### Fine
+PC10_STUBOT1-4=Нормально
+
+
+# Graff
+### He doesn't have much conversation...
+PC10_STUBOT1-5=Співрозмовник з нього так собі...
+
+
+#----------------------------------------------------
+# Graff
+### Hey, what do you think of this trial?
+PC10_STUBOT2-1=Гей, що думаєш з приводу цього випробування?
+
+
+# Stubot
+### I will win
+PC10_STUBOT2-2=Я переможу
+
+
+# Graff
+### How can you be so certain?
+PC10_STUBOT2-3=Чому ти так впевнений?
+
+
+# Stubot
+### I was designed for it
+PC10_STUBOT2-4=Я був розроблений для цього
+
+
+# Graff
+### Hmph...
+PC10_STUBOT2-5=Гм-мм...
+
+
+#----------------------------------------------------
+# Graff
+### And it's supposed to represent the average student?
+PC10_STUBOT3-1=І він має уособлювати образ звичайного студента?
+
+
+# Graff
+### I'm glad not all bots are like this. There's no point talking to that soulless machine...
+PC10_STUBOT3-2=Я радий, що не всі боти такі, як він. Немає сенсу розмовляти з цією бездушною машиною...
+
+
+#----------------------------------------------------
+# Graff
+### Talking to him? Bad idea...
+PC10_KLAY1-1=Говорити з ним? Погана ідея...
+
+
+# Graff
+### He's unpredictable.
+PC10_KLAY1-2=Він непередбачуваний.
+
+
+#----------------------------------------------------
+# Graff - More room interactions
+### Hmm... Do I have a reason to use that brainwashing apparatus?
+PC10_VRLEARNER1-1=Гмм... Чи є у мене причина використати цей апарат для промивання мізків?
+
+
+#----------------------------------------------------
+# Graff
+### I hate this but there's no time to waste!
+PC10_VRLEARNER_BEFORECHOICE-1=Ненавиджу його, але я не можу втрачати час!
+
+
+# Graff
+### I need to learn everything about...
+PC10_VRLEARNER_BEFORECHOICE-2=Мені треба дізнатися все про...
+
+
+#----------------------------------------------------
+# Graff
+### Huh?... Okay.
+PC10_VRLEARNER_BROK-1=Га...? Добре.
+
+
+# Graff
+### Who knows what the database could find.
+PC10_VRLEARNER_BROK-2=Хто знає, що знайдеться в базі даних.
+
+
+# Various
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Learning about : Brok (last name unknown) selected.
+PC10_VRLEARNER_BROK-3=Дізнатися про: Брок (прізвище невідоме) обрано.
+
+
+# Various
+### Born in 3000 A.R. Parents unknown. Adopted child.
+PC10_VRLEARNER_BROK-4=Народився 3000 П.В. Батьки невідомі. Усиновлений.
+
+
+# Graff
+### ...Adopted?
+PC10_VRLEARNER_BROK-5=...Усиновлений?
+
+
+# Graff
+### I... didn't know.
+PC10_VRLEARNER_BROK-6=Я... не знав.
+
+
+# Graff
+### He keeps referring to his Grandpa but... I thought he was family.
+PC10_VRLEARNER_BROK-7=Він постійно згадує свого дідуся, але... Я думав, вони були сім'єю.
+
+
+# Various
+### Current job : None.
+PC10_VRLEARNER_BROK-8=Поточне місце роботи: Відсутнє.
+
+
+# Graff
+### He'd be pleased to hear that...
+PC10_VRLEARNER_BROK-9=Йому було би приємно це почути...
+
+
+# Various
+### Current legal state : Widowed.
+PC10_VRLEARNER_BROK-10=Сімейний стан: Вдівець.
+
+
+# Various
+### Please note. The data for this person is incomplete due to the 3030 A.R. global shutdown.
+PC10_VRLEARNER_BROK-11=Будь ласка, зауважте. Інформація про цю людину неповна у зв'язку з глобальним знеструмленням 3030 П.В.
+
+
+# Graff
+### Obviously...
+PC10_VRLEARNER_BROK-12=Звісно...
+
+
+#----------------------------------------------------
+# Graff
+### Yeah. Dunno why but I feel this might become important.
+PC10_VRLEARNER_BOTS1-1=Ага. Не знаю чому, але відчуваю, що це може бути важливим.
+
+
+# Various
+### Learning about bots selected.
+PC10_VRLEARNER_BOTS1-2=Дізнатися про ботів обрано.
+
+
+# Graff
+### ...
+PC10_VRLEARNER_BOTS1-3=...
+
+
+# Graff
+### Woah. There's so much to learn about robots!
+PC10_VRLEARNER_BOTS1-4=Ого! Так багато можна дізнатися про роботів!
+
+
+# Graff
+### I need to... stop...
+PC10_VRLEARNER_BOTS1-5=Мені треба... зупинитися...
+
+
+# Graff
+### Aargh...!
+PC10_VRLEARNER_BOTS1-6=А-а-а...!
+
+
+# Graff
+### Ohhh, that thing is always so painful.
+PC10_VRLEARNER_BOTS1-7=Ох, від цієї штуки завжди так боляче.
+
+
+#----------------------------------------------------
+# Graff
+### Already did! There's nothing more I can learn on that topic.
+PC10_VRLEARNER_ALREADY-1=Я вже це вивчив! Більше нічого немає з цієї теми.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Of course. I'm curious about those ants Stubot has used.
+PC10_VRLEARNER_ANTS1-1=Звісно. Мені цікаві ті мурахи, яких використав Студбот.
+
+
+# Various
+### Learning about ants selected.
+PC10_VRLEARNER_ANTS1-2=Дізнатися про мурах обрано.
+
+
+# Graff
+### ...
+PC10_VRLEARNER_ANTS1-3=...
+
+
+# Graff
+### Ouch...!
+PC10_VRLEARNER_ANTS1-4=Ай...!
+
+
+# Graff
+### ...Aah...
+PC10_VRLEARNER_ANTS1-5=...Ааа...
+
+
+# Graff
+### Phew! That was hard.
+PC10_VRLEARNER_ANTS1-6=Фух! Це було важко.
+
+
+# Graff
+### Next time I see ants, I should be able take advantage of that info!
+PC10_VRLEARNER_ANTS1-7=Наступного разу, коли побачу мурах, зможу скористатися цією інформацією!
+
+
+# Graff
+### ...
+PC10_VRLEARNER_ANTS1-8=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### For some reason, I suddenly feel hungry for an Antburger...
+PC10_VRLEARNER_ANTS1-9=З якоїсь причини мені раптом захотілося мурахобургера...
+
+
+#----------------------------------------------------
+# Graff - Talking to Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hey, Ott!
+PC10_OTT_WELCOME1-1=Гей, Отте!
+
+
+#----------------------------------------------------
+# Ott
+### What's up?
+PC10_OTT_WELCOME2-1=Як справи?
+
+
+#----------------------------------------------------
+# Graff
+### So, your internship starts tomorrow?
+PC10_OTT_HIMSELF1-1=Тож, твоє стажування почнеться завтра?
+
+
+# Ott
+### Yeah! That's quite exciting. I'll get to work with real policemen!
+PC10_OTT_HIMSELF1-2=Ага! Це так захоплює. Я працюватиму зі справжніми поліцейськими!
+
+
+# Ott
+### My uncle is head of the police station.
+PC10_OTT_HIMSELF1-3=Мій дядько - керівник відділку поліції.
+
+
+# Graff
+### I admire you. I'd be so stressed in your situation...
+PC10_OTT_HIMSELF1-4=Захоплююся тобою. Я б так нервував у подібній ситуації...
+
+
+# Ott
+### Why?
+PC10_OTT_HIMSELF1-5=Чому?
+
+
+# Graff
+### I'm like a fish in a bowl. As soon as I get out of it, I get all anxious without control...
+PC10_OTT_HIMSELF1-6=Я наче риба в акваріумі. Варто мені з нього вибратися, як мене охоплює неконтрольована тривога...
+
+
+# Ott - Proto-copier is an invented name for "photocopier"
+### Actually... They'll probably stick me around the proto-copier all day long.
+PC10_OTT_HIMSELF1-7=Насправді... мене, ймовірно, посадять весь день працювати на псероксі.
+
+
+# Ott
+### But I'm still looking forward to it!
+PC10_OTT_HIMSELF1-8=Але я все одно чекаю з нетерпінням!
+
+
+#----------------------------------------------------
+# Graff
+### You're okay?
+PC10_OTT_HIMSELF2-1=Все гаразд?
+
+
+# Ott
+### Yeah!
+PC10_OTT_HIMSELF2-2=Так!
+
+
+# Graff
+### I mean...
+PC10_OTT_HIMSELF2-3=Я про...
+
+
+# Ott
+### I know what you mean. But really, it's fine.
+PC10_OTT_HIMSELF2-4=Я розумію, про що ти. Але, справді, все гаразд.
+
+
+# Ott
+### If I don't win this, I'll catch up later!
+PC10_OTT_HIMSELF2-5=Якщо я не переможу тут, то наздожену пізніше!
+
+
+# Graff
+### You always seem so confident... Even in the worst situations.
+PC10_OTT_HIMSELF2-6=Ти завжди такий впевнений в собі, навіть у найгірших ситуаціях.
+
+
+# Ott
+### That's because I've known worse...
+PC10_OTT_HIMSELF2-7=Це тому, що я бачив і гірше...
+
+
+# Graff
+### ...
+PC10_OTT_HIMSELF2-8=...
+
+
+# Ott
+### Sorry. I know you've had your share of rough moments too.
+PC10_OTT_HIMSELF2-9=Вибач. Я знаю, що у тебе теж були важкі моменти.
+
+
+# Graff
+### I'm more concerned about the present situation.
+PC10_OTT_HIMSELF2-10=Мене більше турбує поточна ситуація.
+
+
+#----------------------------------------------------
+# Graff
+### Any idea how I could fix my invention?
+PC10_OTT_FIXING1-1=Є якісь ідеї, як мені полагодити винахід?
+
+
+# Ott
+### Well... You built it, didn't you? You should know better.
+PC10_OTT_FIXING1-2=Ну... Ти його створив, чи не так? Тобі краще знати.
+
+
+# Graff
+### Right...
+PC10_OTT_FIXING1-3=Так...
+
+
+# Graff
+### I think melted plastic could fix the glass. Do you have some?
+PC10_OTT_FIXING1-4=Думаю, розплавлений пластик міг би залатати скло. У тебе є трохи?
+
+
+# Ott
+### Afraid not. Sorry!
+PC10_OTT_FIXING1-5=Боюся, що ні. Вибач!
+
+
+# Graff
+### That's okay. I'll figure out something.
+PC10_OTT_FIXING1-6=Добре. Я щось придумаю.
+
+
+#----------------------------------------------------
+# Graff
+### Thanks again for the force field. How do I use it, again?
+PC10_OTT_PROTECTION1-1=Ще раз дякую за силове поле. Нагадай, як мені його використовувати?
+
+
+# Ott
+### Hey, I thought you were the most clever out of us!
+PC10_OTT_PROTECTION1-2=Гей, я думав, ти найрозумніший з нас!
+
+
+# Graff
+### Well...
+PC10_OTT_PROTECTION1-3=Ну...
+
+
+# Ott
+### Just kidding!
+PC10_OTT_PROTECTION1-4=Жартую!
+
+
+# Ott
+### Connect NUB peripherals on the base. I think you'll need two...
+PC10_OTT_PROTECTION1-5=Під'єднай NUB-периферію до основи. Для цього тобі потрібні два механізми...
+
+
+# Graff
+### A detector and an operator.
+PC10_OTT_PROTECTION1-6=Детектор та оператор.
+
+
+# Ott
+### Yeah!
+PC10_OTT_PROTECTION1-7=Так!
+
+
+# Graff
+### In particular, I need something to detect wrong intentions. Got a clue?
+PC10_OTT_PROTECTION1-8=Зокрема, мені потрібна якась річ для виявлення лихих намірів. Є ідеї?
+
+
+# Ott
+### Hmm... Some fingerprint reader, maybe?
+PC10_OTT_PROTECTION1-9=Гмм... Можливо, якийсь сканер відбитків пальців?
+
+
+# Graff
+### Yeah. As for the operator, anything that can provoke a shock.
+PC10_OTT_PROTECTION1-10=Ага. Щодо оператора - згодиться все, що може спровокувати удар струмом.
+
+
+# Ott
+### Is it really necessary?
+PC10_OTT_PROTECTION1-11=Це справді необхідно?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Definitely. I don't trust Klay, at all.
+PC10_OTT_PROTECTION1-12=Обов'язково. Я зовсім не довіряю Клею.
+
+
+#----------------------------------------------------
+# Graff
+### You're certain I can't just kick their machines directly?...
+PC10_OTT_MESS1-1=Ти впевнений, що я не можу просто розтрощити їхні машини...?
+
+
+# Graff
+### That would be so much easier!
+PC10_OTT_MESS1-2=Це було б набагато простіше!
+
+
+# Ott
+### Sometimes you think like your dad...
+PC10_OTT_MESS1-3=Іноді ти думаєш зовсім як свій батько...
+
+
+# Graff
+### He's not my dad! You know that.
+PC10_OTT_MESS1-4=Він мені не батько! Ти ж знаєш.
+
+
+# Ott
+### Yeah... Sorry.
+PC10_OTT_MESS1-5=Ага... Вибач.
+
+
+# Ott
+### But really... Don't do anything you might regret.
+PC10_OTT_MESS1-6=Але справді... Не роби нічого, про що потім пошкодуєш.
+
+
+# Graff
+### Okay... I'll resort to messing them up from a distance.
+PC10_OTT_MESS1-7=Гаразд... Я спробую зіпсувати їх з відстані.
+
+
+# Ott
+### As long as there's no proof you did it, it should be fine!
+PC10_OTT_MESS1-8=Доки немає доказів, що це зробив ти, все має бути гаразд!
+
+
+#----------------------------------------------------
+# Graff
+### You want this?
+PC10_OTT_INV_DEFAULT1-1=Хочеш це?
+
+
+# Ott
+### Nah. It'll be more useful to you!
+PC10_OTT_INV_DEFAULT1-2=Ні. Тобі від цього буде більше користі!
+
+
+#----------------------------------------------------
+# Graff
+### Will this help?
+PC10_OTT_INV_DEFAULT2-1=Це допоможе?
+
+
+# Ott
+### I don't know. Try it?
+PC10_OTT_INV_DEFAULT2-2=Не знаю. Спробуй?
+
+
+#----------------------------------------------------
+# Ott
+### No use, you've already repaid what you owed me!
+PC10_OTT_INV_MONEY-1=Не треба, ти вже повернув мені борг!
+
+
+#----------------------------------------------------
+# Ott
+### You still haven't used it?
+PC10_OTT_INV_FORCEFIELD1-1=Ти досі його не використав?
+
+
+#----------------------------------------------------
+# Graff
+### Gotta go.
+PC10_OTT_EXIT1-1=Мушу йти.
+
+
+# Ott
+### No worries, I'll stay here to watch over our inventions.
+PC10_OTT_EXIT1-2=Без проблем, я залишуся тут і стерегтиму наші винаходи.
+
+
+# Graff
+### Thanks!
+PC10_OTT_EXIT1-3=Дякую!
+
+
+#----------------------------------------------------
+# Graff
+### See ya!
+PC10_OTT_EXIT2-1=Бувай!
+
+
+#----------------------------------------------------
+# Graff
+### (People always give him a funny look due to being a mixed breed...)
+PC10_OTT_THINK1-1=(Люди завжди косо дивляться на нього через те, що він мішаної породи...)
+
+
+# Graff
+### (I couldn't care less. He's the only person I can be confident with.)
+PC10_OTT_THINK1-2=(Мене таке не турбує. Він єдиний, з ким я можу почуватися впевнено.)
+
+
+#----------------------------------------------------
+# Graff - Klay is laying in a bed outside
+### (Look at him! All joyful after wrecking the project I've spent days to work on.)
+PC10_KLAYBED1-1=(Тільки подивися на нього! Весь сяє після того, як зруйнував проєкт, над яким я довго працював.)
+
+
+# Graff
+### (I don't wanna talk to him. Only smash him in the face.)
+PC10_KLAYBED1-2=(Не хочу з ним розмовляти. Хіба що врізати йому в пику.)
+
+
+#----------------------------------------------------
+# Graff
+### (Talking with him is pointless. I should try something...)
+PC10_KLAYBED2-1=(Розмовляти з ним марно. Треба щось вигадати...)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Oops... Those earbuds were for Brok. Too late to get them back...)
+PC10_KLAYBED3-1=(Ой... Ті навушники призначалися для Брока. Повертати їх уже пізно...)
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_KLAYBED_OTHERS1-1=...
+
+
+# Klay
+### What the heck are you doing?!
+PC10_KLAYBED_OTHERS1-2=Що ти, в біса, робиш?!
+
+
+# Graff
+### Erm...
+PC10_KLAYBED_OTHERS1-3=Е-е...
+
+
+# Klay
+### Go away! I need to rest.
+PC10_KLAYBED_OTHERS1-4=Забирайся! Мені треба відпочити.
+
+
+# Klay
+### And stop walking around me! My ears are sensitive.
+PC10_KLAYBED_OTHERS1-5=І годі тут вештатися! У мене дуже чутливі вуха.
+
+
+# Graff
+### Okay... Erm, sorry...
+PC10_KLAYBED_OTHERS1-6=Гаразд... Е-е, вибач...
+
+
+# Graff
+### (Argh... Why do I even apologize... I'm too stupid!)
+PC10_KLAYBED_OTHERS1-7=(Ар-р... Чого це я взагалі перепрошую... Я такий дурний!)
+
+
+# Graff
+### (In any case, I need a more subtle approach.)
+PC10_KLAYBED_OTHERS1-8=(У будь-якому разі, мені потрібен хитріший підхід.)
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_KLAYBED_OTHERS2-1=...
+
+
+# Klay
+### Hey!!!
+PC10_KLAYBED_OTHERS2-2=Гей!!!
+
+
+# Klay
+### Whatever you're trying to do, you better stop!
+PC10_KLAYBED_OTHERS2-3=Чим би ти там не займався, краще припини!
+
+
+# Klay
+### And stop wandering around like this! I can hear you coming from miles around!
+PC10_KLAYBED_OTHERS2-4=І досить тут тинятися! Я чую, як ти йдеш, за милю звідси!
+
+
+# Graff
+### Erm... Okay.
+PC10_KLAYBED_OTHERS2-5=Е-е... Гаразд.
+
+
+# Graff
+### (Pfttt... Another failure.)
+PC10_KLAYBED_OTHERS2-6=(Пхе... Чергова невдача.)
+
+
+#----------------------------------------------------
+# Graff
+### (Hmm... I'd love to see his face! But that wouldn't help me.)
+PC10_KLAYBED_NOTRY1-1=(Гмм... Із задоволенням подивився б на його обличчя! Але мені це не допоможе.)
+
+
+#----------------------------------------------------
+# Graff
+### (What for? Hit him?... No, I gotta be more clever.)
+PC10_KLAYBED_NOTRY2-1=(Навіщо? Вдарити його...? Ні, треба бути розумнішим.)
+
+
+#----------------------------------------------------
+# Graff
+### Erm...
+PC10_KLAYBED_EARBUDS-1=Е-е...
+
+
+# Klay
+### Still around? What do you want?
+PC10_KLAYBED_EARBUDS-2=Ти все ще тут? Чого тобі треба?
+
+
+# Graff
+### I'd like to... apologize about earlier.
+PC10_KLAYBED_EARBUDS-3=Я хотів би... вибачитися за те, що сталося.
+
+
+# Klay
+### Ah! Finally, you're making some sense!
+PC10_KLAYBED_EARBUDS-4=Ах! Нарешті ти говориш щось путнє!
+
+
+# Graff
+### I'd like for us to take a new start. And... I've got a gift for you.
+PC10_KLAYBED_EARBUDS-5=Я хотів би почати все з чистого аркуша. І... у мене є для тебе подарунок.
+
+
+# Graff
+### A pair of earbuds. You won't be bothered by outside sounds anymore.
+PC10_KLAYBED_EARBUDS-6=Пара навушників. Зовнішні звуки більше не турбуватимуть тебе.
+
+
+# Klay
+### Oh... Interesting.
+PC10_KLAYBED_EARBUDS-7=О... Цікаво.
+
+
+# Klay
+### Wait a minute.
+PC10_KLAYBED_EARBUDS-8=Хвильку.
+
+
+# Klay
+### You're not trying to trick me, are you?
+PC10_KLAYBED_EARBUDS-9=Ти ж не намагаєшся мене обдурити, еге ж?
+
+
+# Graff
+### Of course not! Look, I'll wear them...
+PC10_KLAYBED_EARBUDS-10=Звісно, ні! Дивись, я їх надягну...
+
+
+# Graff
+### See?
+PC10_KLAYBED_EARBUDS-11=Бачиш?
+
+
+# Klay
+### Hmm...
+PC10_KLAYBED_EARBUDS-12=Гмм...
+
+
+# Klay
+### Okay. Let me try it.
+PC10_KLAYBED_EARBUDS-13=Гаразд. Дай спробувати.
+
+
+# Graff
+### What?
+PC10_KLAYBED_EARBUDS-14=Що?
+
+
+# Klay
+### I SAID...
+PC10_KLAYBED_EARBUDS-15=Я КАЖУ...
+
+
+# Klay
+### ARGH, WILL YOU REMOVE THOSE DARN THINGS?
+PC10_KLAYBED_EARBUDS-16=АР-Р, ЗНІМЕШ ТИ ВЖЕ ЦІ БІСОВІ НАВУШНИКИ?
+
+
+# Graff
+### Huh? Wait, I can't hear you!
+PC10_KLAYBED_EARBUDS-17=Га? Зачекай, я тебе не чую!
+
+
+# Graff
+### ...There. Convinced?
+PC10_KLAYBED_EARBUDS-18=...Ось. Переконався?
+
+
+# Klay
+### Give me that!
+PC10_KLAYBED_EARBUDS-19=Дай сюди!
+
+
+# Klay
+### ...
+PC10_KLAYBED_EARBUDS-20=...
+
+
+# Klay
+### Oh... Yeah! A perfect silence!
+PC10_KLAYBED_EARBUDS-21=О... Так! Ідеальна тиша!
+
+
+# Klay
+### Exactly what I needed.
+PC10_KLAYBED_EARBUDS-22=Саме те, що мені потрібно.
+
+
+# Graff
+### ...
+PC10_KLAYBED_EARBUDS-23=...
+
+
+# Klay
+### What are you waiting for? Beat it!
+PC10_KLAYBED_EARBUDS-24=Чого ти чекаєш? Звалюй!
+
+
+# Graff
+### (I hope I don't regret this...)
+PC10_KLAYBED_EARBUDS-25=(Сподіваюся, я не пошкодую про це...)
+
+
+#----------------------------------------------------
+# Graff
+### (Good idea but sticking his finger will wake him up!)
+PC10_KLAYBED_STICKER_NOTYET-1=(Гарна ідея, але якщо наліпити наліпку на його палець, він прокинеться!)
+
+
+# Graff
+### (Besides, the handprint won't hold on the sticker.)
+PC10_KLAYBED_STICKER_NOTYET-2=(До того ж, відбиток руки не триматиметься на наліпці.)
+
+
+# Graff
+### (What do cheap detectives do to get fingerprints, already?...)
+PC10_KLAYBED_STICKER_NOTYET-3=(Що там роблять оті дешеві детективи, щоб отримати відбитки пальців...?)
+
+
+#----------------------------------------------------
+# Graff
+### (Very gently...)
+PC10_KLAYBED_STICKER_OK-1=(Дуже обережно...)
+
+
+#----------------------------------------------------
+# Graff - Graff just applied the sticker on Klay's finger, trying not to wake him up
+### ...
+PC10_KLAYBED_STICKER_OK2-1=...
+
+
+# Klay
+### ...
+PC10_KLAYBED_STICKER_OK2-2=...
+
+
+# Klay
+### Uh...
+PC10_KLAYBED_STICKER_OK2-3=А...
+
+
+# Graff
+### (...!)
+PC10_KLAYBED_STICKER_OK2-4=(...!)
+
+
+# Graff
+### (Phew. Hopefully I applied enough pressure.)
+PC10_KLAYBED_STICKER_OK2-5=(Фух. Сподіваюся, я натиснув достатньо сильно.)
+
+
+#----------------------------------------------------
+# Graff
+### (Okay. Just... gotta be careful.)
+PC10_KLAYBED_FLOUR-1=(Гаразд. Просто... треба бути обережним.)
+
+
+#----------------------------------------------------
+# Graff
+### (...)
+PC10_KLAYBED_FLOUR2-1=(...)
+
+
+# Graff
+### (There, I've applied some flour on his finger. He didn't feel a thing.)
+PC10_KLAYBED_FLOUR2-2=(Ось так, я притрусив борошном його палець. Він нічого не відчув.)
+
+
+#----------------------------------------------------
+# Graff
+### (Already done.)
+PC10_KLAYBED_FLOUR_ALREADY-1=(Вже зроблено.)
+
+
+#----------------------------------------------------
+# Graff
+### (Oh yes.)
+PC10_KLAYBED_FLOUR_SPLASH-1=(О так.)
+
+
+# Unknown
+### (Splashes flour)
+PC10_KLAYBED_FLOUR_SPLASH-2=(Сипле борошно)
+
+
+# Klay
+### Aaaargh!
+PC10_KLAYBED_FLOUR_SPLASH-3=А-а-а-а!
+
+
+# Klay
+### What the... I'm covered in...
+PC10_KLAYBED_FLOUR_SPLASH-4=Якого біса... Я весь у...
+
+
+# Klay
+### ...Oh well.
+PC10_KLAYBED_FLOUR_SPLASH-5=...Ну гаразд.
+
+
+# Graff
+### Huh?
+PC10_KLAYBED_FLOUR_SPLASH-6=Га?
+
+
+# Klay
+### All gone. Thanks to my auto-clothes cleaner!
+PC10_KLAYBED_FLOUR_SPLASH-7=Все зникло. Завдяки моєму автоматичному очиснику одягу!
+
+
+# Klay
+### See? Your attempt miserably failed!
+PC10_KLAYBED_FLOUR_SPLASH-8=Бачиш? Твоя спроба ганебно провалилася!
+
+
+# Graff
+### Argh... Darn technology...
+PC10_KLAYBED_FLOUR_SPLASH-9=Ар-р... Клята техніка...
+
+
+#----------------------------------------------------
+# Graff
+### I should get closer to talk.
+PC10_TALK_TOOFAR-1=Треба підійти ближче, щоб поговорити.
+
+
+#----------------------------------------------------
+# Stubot - Hitting the machines
+### Stop immediately
+PC10_MACHINEKLAY_HIT1-1=Негайно припини
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! What are you doing?!
+PC10_MACHINEKLAY_HIT2-1=Граффе! Що ти робиш?!
+
+
+#----------------------------------------------------
+# Stubot
+### You will get a penalty
+PC10_MACHINEKLAY_HIT3-1=Ти отримаєш штраф
+
+
+#----------------------------------------------------
+# Stubot
+### The master shall be... infooooormed.
+PC10_MACHINEKLAY_DEAD-1=Господаря буде... повідоооомлено.
+
+
+# Graff
+### Stupid tin can!
+PC10_MACHINEKLAY_DEAD-2=Тупа бляшанка!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! I don't recognize you anymore...
+PC10_MACHINEKLAY_DEAD-3=Граффе! Я тебе більше не впізнаю...
+
+
+#----------------------------------------------------
+# Stubot - Mine = My machine
+### Stop this is mine
+PC10_MACHINESTUBOT_HIT1-1=Припини це моє
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+PC10_MACHINESTUBOT_HIT2-1=Граффе...?
+
+
+#----------------------------------------------------
+# Stubot
+### You cannot do this
+PC10_MACHINESTUBOT_HIT3-1=Тобі не можна цього робити
+
+
+#----------------------------------------------------
+# Graff
+### I don't care.
+PC10_MACHINE_DONTCARE-1=Мені байдуже.
+
+
+# Graff
+### Let's break them!
+PC10_MACHINE_DONTCARE-2=Зламаємо їх!
+
+
+#----------------------------------------------------
+# Stubot
+### The ants ran away
+PC10_MACHINESTUBOT_DEAD-1=Мурахи втекли
+
+
+# Stubot
+### This is not acceptable
+PC10_MACHINESTUBOT_DEAD-2=Це неприйнятно
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### What got into you?! He'll report this to the Director!
+PC10_MACHINESTUBOT_DEAD-3=Що на тебе найшло?! Він доповість про це директорці!
+
+
+# Graff
+### I don't care.
+PC10_MACHINESTUBOT_DEAD-4=Мені байдуже.
+
+
+#----------------------------------------------------
+# Ott
+### Watch out! You're breaking my machine!
+PC10_MACHINEOTT_HIT1-1=Обережно! Ти ламаєш мою машину!
+
+
+#----------------------------------------------------
+# Ott
+### What the heck are you doing?!
+PC10_MACHINEOTT_HIT2-1=Що ти, в біса, робиш?!
+
+
+#----------------------------------------------------
+# Ott
+### Please... Stop!...
+PC10_MACHINEOTT_HIT3-1=Будь ласка... Досить...!
+
+
+#----------------------------------------------------
+# Ott
+### No... It's all screwed up now...
+PC10_MACHINEOTT_DEAD-1=Ні... Тепер усе зіпсовано...
+
+
+# Ott
+### Why did you do this?...
+PC10_MACHINEOTT_DEAD-2=Навіщо ти це зробив...?
+
+
+#----------------------------------------------------
+# Ott
+### What?...
+PC10_MACHINEGRAFF_HIT1-1=Що...?
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Somebody... do something! Graff has gone insane!
+PC10_MACHINEGRAFF_HIT2-1=Хто-небудь... зробіть щось! Графф збожеволів!
+
+
+#----------------------------------------------------
+# Graff
+### (Hmm... No idea why I did this but...)
+PC10_MACHINEGRAFF_DEAD-1=(Гмм... Гадки не маю, нащо я це зробив, але...)
+
+
+# Graff
+### (Smashing things is so enjoyable!)
+PC10_MACHINEGRAFF_DEAD-2=(Так приємно трощити речі!)
+
+
+#----------------------------------------------------
+# Ott
+### I can't believe you did this...
+PC10_OTT_MACHINEBROKEN-1=Не віриться, що ти це зробив...
+
+
+# Ott
+### Leave me alone. I don't want to talk to you right now.
+PC10_OTT_MACHINEBROKEN-2=Дай мені спокій. Я не хочу зараз із тобою розмовляти.
+
+
+#----------------------------------------------------
+# Graff - When doing that, Graff goes crazy
+### Totally dead!
+PC10_MACHINE_DEAD1-1=Їй капець!
+
+
+#----------------------------------------------------
+# Graff
+### I screwed it up! So, who's the sucker now?!
+PC10_MACHINE_DEAD2-1=Я її зіпсував! Ну і хто тепер невдаха?!
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... Strangely enough, it's still as broken as before.
+PC10_MACHINEGRAFF_BROKEN1-1=Гмм... Вона як була зламаною, так і лишилася зламаною.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Oops... I broke Ott's machine.)
+PC10_MACHINEOTT_DEAD1-1=(Ой... Я зламав машину Отта.)
+
+
+#----------------------------------------------------
+# Graff - Checking the scores
+### (For now we're all even...)
+PC10_SCORES_START1-1=(Поки що ми на рівних...)
+
+
+# Graff
+### (I'm not in a hurry to see it change.)
+PC10_SCORES_START1-2=(Я не поспішаю бачити якісь зміни.)
+
+
+#----------------------------------------------------
+# Graff
+### (Oh gosh... Why isn't there a way to turn it off?...)
+PC10_SCORES_BAD1-1=(Ох, йой... Чому немає способу вимкнути це...?)
+
+
+#----------------------------------------------------
+# Graff
+### (Not bad! I need to keep this up!)
+PC10_SCORES_GOOD1-1=(Непогано! Треба продовжувати в тому ж темпі!)
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### (Yeah! Take that, Klay!)
+PC10_SCORES_BEST1-1=(Ага! Ось тобі, Клею!)
+
+
+#----------------------------------------------------
+# Graff - Door
+### Going outside? No way!
+PC10_TO_DOOR_MACHINEBROKEN-1=Піти назовні? У жодному разі!
+
+
+# Graff
+### I'll wreck all these machines. If I don't win, nobody will!
+PC10_TO_DOOR_MACHINEBROKEN-2=Я розтрощу всі ці машини. Якщо не виграю я, то не виграє ніхто!
+
+
+#----------------------------------------------------
+# Graff
+### I can't leave yet.
+PC10_TO_OUTSIDE_NOPE-1=Я ще не можу піти.
+
+
+#----------------------------------------------------
+# Graff - More hitting
+### (...)
+PC10_ALLMACHINESBROKEN-1=(...)
+
+
+# Graff
+### (That's it... I broke all of them.)
+PC10_ALLMACHINESBROKEN-2=(От і все... Я зламав їх усі.)
+
+
+# Graff
+### (It's time. The examination board is coming...)
+PC10_ALLMACHINESBROKEN-3=(Час настав. Екзаменаційна комісія вже йде...)
+
+
+#----------------------------------------------------
+# Klay
+### Woah!!!
+PC10_KLAYBED_HIT1-1=Ого!!!
+
+
+# Klay
+### You woke me up! Don't you dare do this again!
+PC10_KLAYBED_HIT1-2=Ти мене розбудив! Навіть не смій робити це знову!
+
+
+#----------------------------------------------------
+# Klay
+### Ouch!
+PC10_KLAYBED_HIT2-1=Ай!
+
+
+# Klay
+### Last warning, buddy!
+PC10_KLAYBED_HIT2-2=Останнє попередження, пацан!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!
+PC10_STUBOT_REPORTOTT-1=Клею!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Help! Graff has hit me!
+PC10_STUBOT_REPORTOTT-2=Допоможи! Графф мене вдарив!
+
+
+# Klay
+### What did you do?!
+PC10_STUBOT_REPORTOTT-3=Що ти зробив?!
+
+
+# Ott
+### Nothing! He's crazy!
+PC10_STUBOT_REPORTOTT-4=Нічого! Він збожеволів!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC10_STUBOT_REPORTOTT-5=Граффе!
+
+
+# Klay
+### You want to play this game? Okay.
+PC10_STUBOT_REPORTOTT-6=Хочеш пограти в цю гру? Гаразд.
+
+
+# Unknown
+### (Ringtone)
+PC10_STUBOT_REPORTOTT-7=(Мелодія дзвінка)
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Mom! Graff is going insane!
+PC10_STUBOT_REPORTOTT-8=Мамо! Графф божеволіє!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### He hit Ott!
+PC10_STUBOT_REPORTOTT-9=Він вдарив Отта!
+
+
+# Graff
+### What?
+PC10_STUBOT_REPORTOTT-10=Що?
+
+
+# Ott
+### This is true!
+PC10_STUBOT_REPORTOTT-11=Це правда!
+
+
+#----------------------------------------------------
+# Stubot
+### Master.
+PC10_STUBOT_REPORT-1=Господарю.
+
+
+# Stubot
+### This individual has commited violent acts on our delicate metal skin.
+PC10_STUBOT_REPORT-2=Цей індивід вчинив насильницькі дії щодо нашої тендітної металевої оболонки.
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+PC10_STUBOT_REPORT-3=Граффе!
+
+
+# Klay
+### You want to play this game? Okay.
+PC10_STUBOT_REPORT-4=Хочеш пограти в цю гру? Гаразд.
+
+
+# Unknown
+### (Ringtone)
+PC10_STUBOT_REPORT-5=(Мелодія дзвінка)
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Mom! Graff is going insane!
+PC10_STUBOT_REPORT-6=Мамо! Графф божеволіє!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### He hit Stubot!
+PC10_STUBOT_REPORT-7=Він вдарив Студбота!
+
+
+# Graff
+### What?
+PC10_STUBOT_REPORT-8=Що?
+
+
+# Klay
+### Yes, I have proof!
+PC10_STUBOT_REPORT-9=Так, у мене є докази!
+
+
+# Klay
+### His fingerprints are all over it.
+PC10_STUBOT_REPORT-10=Його відбитки пальців усюди.
+
+
+#----------------------------------------------------
+# Klay
+### You want to play this game? Okay.
+PC10_KLAYBED_DEAD-1=Хочеш пограти в цю гру? Гаразд.
+
+
+# Unknown
+### (Ringtone)
+PC10_KLAYBED_DEAD-2=(Мелодія дзвінка)
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Mom! Graff is going insane! He hit me!
+PC10_KLAYBED_DEAD-3=Мамо! Графф божеволіє! Він мене вдарив!
+
+
+# Graff
+### What?
+PC10_KLAYBED_DEAD-4=Що?
+
+
+# Klay
+### Yes, I have proof! I've just recorded him.
+PC10_KLAYBED_DEAD-5=Так, у мене є докази! Я щойно записав його на відео.
+
+
+# Graff
+### Uh-oh...
+PC10_KLAYBED_DEAD-6=Ой-ой...
+
+
+# Klay
+### It's over. You're gonna get excluded.
+PC10_KLAYBED_DEAD-7=Усе скінчено. Тебе відрахують.
+
+
+# Graff
+### ...
+PC10_KLAYBED_DEAD-8=...
+
+
+# Graff
+### You know what this means, right?...
+PC10_KLAYBED_DEAD-9=Ти ж знаєш, що це означає, еге ж...?
+
+
+# Klay
+### Yeah. You won't be a problem anymore!
+PC10_KLAYBED_DEAD-10=Ага. Ти більше не будеш для мене проблемою!
+
+
+# Klay
+### Bye, bye!
+PC10_KLAYBED_DEAD-11=Бувай!
+
+
+# Graff
+### Wrong, you moron!
+PC10_KLAYBED_DEAD-12=А от і ні, йолопе!
+
+
+# Klay
+### Wait! Where are you going?!
+PC10_KLAYBED_DEAD-13=Чекай! Куди це ти?!
+
+
+# Klay
+### Stop right there!
+PC10_KLAYBED_DEAD-14=Ану стій!
+
+
+# Graff
+### If I'm going down...
+PC10_KLAYBED_DEAD-15=Якщо я лечу на дно...
+
+
+# Graff
+### You're going down with me!
+PC10_KLAYBED_DEAD-16=То ти летиш зі мною!
+
+
+#----------------------------------------------------
+# Graff - Day 2 end Graff - Graff is affected by pollution and desperately tries to find a pill
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot!
+PC10_STUBOT_STORY165_1-1=Студботе!
+
+
+# Stubot
+### Hello human
+PC10_STUBOT_STORY165_1-2=Привіт людино
+
+
+# Graff
+### By any chance... (Cough, cough)
+PC10_STUBOT_STORY165_1-3=У тебе часом... (Кашляє)
+
+
+# Graff
+### Do you have a pill?...
+PC10_STUBOT_STORY165_1-4=...немає пігулки...?
+
+
+# Stubot - This is a robot and it doesn't understand the word. Find something close to the word
+### Bill
+PC10_STUBOT_STORY165_1-5=Фігурки
+
+
+# Graff
+### No, a pill!
+PC10_STUBOT_STORY165_1-6=Та ні, пігулки!
+
+
+# Stubot
+### Bill
+PC10_STUBOT_STORY165_1-7=Фігурки
+
+
+# Graff
+### Darn it... You piece of junk built to destroy our future... (Cough)
+PC10_STUBOT_STORY165_1-8=Дідько... Шматок брухту, створений знищити наше майбутнє... (Кашляє)
+
+
+# Graff
+### Can't you see I need help?! (Cough, cough)
+PC10_STUBOT_STORY165_1-9=Ти що, не бачиш, що мені потрібна допомога?! (Кашляє)
+
+
+# Stubot
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Transferred 200 Unis
+PC10_STUBOT_STORY165_1-10=Переказано 200 Юні
+
+
+# Graff
+### Wait... What?...
+PC10_STUBOT_STORY165_1-11=Чекай... Що...?
+
+
+# Graff
+### ...
+PC10_STUBOT_STORY165_1-12=...
+
+
+# Graff
+### That's true! He gave me money!
+PC10_STUBOT_STORY165_1-13=Це правда! Він дав мені грошей!
+
+
+# Graff
+### Great! Unexpected but... Thanks!
+PC10_STUBOT_STORY165_1-14=Чудово! Несподівано, але... Дякую!
+
+
+# Stubot
+### Goodbye
+PC10_STUBOT_STORY165_1-15=До побачення
+
+
+# Graff
+### Hmm. Still not very (Cough) chatty...
+PC10_STUBOT_STORY165_1-16=Гмм. Усе ще не дуже (Кашляє) говіркий...
+
+
+#----------------------------------------------------
+# Graff
+### Thanks again!
+PC10_STUBOT_STORY165_2-1=Ще раз дякую!
+
+
+# Stubot
+### School fund
+PC10_STUBOT_STORY165_2-2=Шкільний фонд
+
+
+# Stubot
+### Give it back later
+PC10_STUBOT_STORY165_2-3=Повернеш пізніше
+
+
+# Graff
+### (Cough) Great...
+PC10_STUBOT_STORY165_2-4=(Кашляє) Чудово...
+
+
+#----------------------------------------------------
+# Graff - Day 3 begin - (if we broke Ott's machine)
+### Hey...
+PC10_DAY3BEGIN1_OTTBROKEN-1=Гей...
+
+
+# Graff
+### Listen. About the other day...
+PC10_DAY3BEGIN1_OTTBROKEN-2=Послухай. Щодо того, що сталось...
+
+
+# Ott
+### The fair?...
+PC10_DAY3BEGIN1_OTTBROKEN-3=Ярмарок...?
+
+
+# Ott
+### You were stressed out. That happens.
+PC10_DAY3BEGIN1_OTTBROKEN-4=Ти був на нервах. З кожним буває.
+
+
+# Graff
+### Still... I'm truly sorry. I shouldn't have destroyed your work.
+PC10_DAY3BEGIN1_OTTBROKEN-5=Усе одно... Мені дуже шкода. Я не мав нищити твою роботу.
+
+
+# Ott
+### It's already forgotten. And... there's more concerning matters.
+PC10_DAY3BEGIN1_OTTBROKEN-6=Це вже в минулому. І... в нас є тривожніші справи.
+
+
+#----------------------------------------------------
+# Ott - Normal
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hey, Graff!
+PC10_DAY3BEGIN1-1=Привіт, Граффе!
+
+
+# Graff
+### ...
+PC10_DAY3BEGIN1-2=...
+
+
+# Graff
+### Hey.
+PC10_DAY3BEGIN1-3=Привіт.
+
+
+# Ott
+### Anxious?
+PC10_DAY3BEGIN1-4=Хвилюєшся?
+
+
+# Graff
+### Yeah... and I wish this was due to the trial.
+PC10_DAY3BEGIN1-5=Ага... і хотілося б, щоб це було через випробування.
+
+
+# Ott
+### I know what you mean...
+PC10_DAY3BEGIN1-6=Я розумію, про що ти...
+
+
+#----------------------------------------------------
+# Ott
+### With that pill shortage going on...
+PC10_DAY3BEGIN1B-1=З цією нестачею пігулок...
+
+
+# Ott
+### I'm lucky my uncle provided us with enough this morning.
+PC10_DAY3BEGIN1B-2=Мені пощастило, що дядько забезпечив нас пігулками цього ранку.
+
+
+# Graff
+### (Better not worry him with my recent trouble...)
+PC10_DAY3BEGIN1B-3=(Краще не тривожити його своїми нещодавніми проблемами...)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Me too... Brok got me one.
+PC10_DAY3BEGIN1B-4=Я теж... Брок дістав мені одну.
+
+
+# Ott
+### By the way...
+PC10_DAY3BEGIN1B-5=До речі...
+
+
+#----------------------------------------------------
+# Ott - If Ott has a bad relationship with Brok
+### There's something I need to tell you about your old man.
+PC10_DAY3_OTTBAD-1=Треба дещо розповісти тобі про твого старого.
+
+
+# Graff
+### What about him?
+PC10_DAY3_OTTBAD-2=А що він?
+
+
+# Ott
+### I got to work with him yesterday.
+PC10_DAY3_OTTBAD-3=Учора мені довелося попрацювати з ним.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes forced us to cooperate to investigate on a murder case.
+PC10_DAY3_OTTBAD-4=Дядько Вес змусив нас об'єднатися для розслідування справи про вбивство.
+
+
+# Graff
+### Huh?... Really?
+PC10_DAY3_OTTBAD-5=Га...? Справді?
+
+
+# Ott
+### Yeah...
+PC10_DAY3_OTTBAD-6=Ага...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok... He's...
+PC10_DAY3_OTTBAD-7=Брок... Він...
+
+
+# Ott
+### Not what I expected him to be.
+PC10_DAY3_OTTBAD-8=Зовсім не те, чого я від нього очікував.
+
+
+# Graff
+### What do you mean?
+PC10_DAY3_OTTBAD-9=Що ти маєш на увазі?
+
+
+#----------------------------------------------------
+# Ott - If good relationship
+### Yesterday I got to work with your old man!
+PC10_DAY3_OTTGOOD-1=Учора мені пощастило попрацювати з твоїм старим!
+
+
+# Ott
+### We investigated a murder case together! It was so cool!
+PC10_DAY3_OTTGOOD-2=Ми разом розслідували справу про вбивство! Це було крутезно!
+
+
+# Graff
+### Wait. What?
+PC10_DAY3_OTTGOOD-3=Чекай. Що?
+
+
+# Ott
+### Yeah, the police is seriously understaffed currently... At least, on the human side.
+PC10_DAY3_OTTGOOD-4=Ага, у поліції зараз серйозний брак кадрів... Принаймні, серед людей.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### So, Uncle Wes decided to send us.
+PC10_DAY3_OTTGOOD-5=Тож дядько Вес вирішив відправити нас.
+
+
+# Graff
+### How did that go?
+PC10_DAY3_OTTGOOD-6=І як усе пройшло?
+
+
+#----------------------------------------------------
+# Ott - If Brok hit Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... He hit me.
+PC10_DAY3_OTTKO-1=Граффе... Він мене вдарив.
+
+
+# Graff
+### What?!
+PC10_DAY3_OTTKO-2=Що?!
+
+
+# Ott
+### And not just me.
+PC10_DAY3_OTTKO-3=І не тільки мене.
+
+
+# Ott
+### That guy is prone to violence.
+PC10_DAY3_OTTKO-4=Він дуже схильний до насильства.
+
+
+# Graff
+### ...
+PC10_DAY3_OTTKO-5=...
+
+
+# Ott
+### I know... I probably shouldn't worry you more, but...
+PC10_DAY3_OTTKO-6=Я знаю... Напевно, мені не варто тебе додатково хвилювати, але...
+
+
+# Ott
+### Sometimes an external opinion helps to see the truth...
+PC10_DAY3_OTTKO-7=Іноді сторонній погляд допомагає побачити правду...
+
+
+# Graff
+### That doesn't matter.
+PC10_DAY3_OTTKO-8=Байдуже.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Today I'll get my diploma so I can move to the Drums...
+PC10_DAY3_OTTKO-9=Сьогодні я отримаю диплом і зможу переїхати на Верхи...
+
+
+# Ott
+### You seem confident all of a sudden.
+PC10_DAY3_OTTKO-10=Ти раптом став таким упевненим.
+
+
+# Graff
+### What other choice do I have?...
+PC10_DAY3_OTTKO-11=А який у мене інший вибір...?
+
+
+#----------------------------------------------------
+# Ott
+### It was totally crazy.
+PC10_DAY3_OTTSOLVED-1=Це було приголомшливо.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Detective Brok... I mean, your old man managed it like a pro.
+PC10_DAY3_OTTSOLVED-2=Детектив Брок... Тобто твій старий впорався як справжній професіонал.
+
+
+# Ott
+### This was a convoluted mystery tied like spaghetti, and yet he ended up finding the truth!
+PC10_DAY3_OTTSOLVED-3=Це була заплутана таємниця, переплетена мов спагеті, але врешті-решт він докопався до правди!
+
+
+# Ott
+### When the criminal escaped, he chased after him out on the rails of the highway to arrest it!
+PC10_DAY3_OTTSOLVED-4=Коли злочинець утік, він кинувся за ним просто на рейки шосе, щоб заарештувати!
+
+
+# Graff
+### He did?...
+PC10_DAY3_OTTSOLVED-5=Справді...?
+
+
+# Ott
+### Yeah! Your old man is so cool!
+PC10_DAY3_OTTSOLVED-6=Ага! Твій старий такий крутий!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes was so furious he fired him.
+PC10_DAY3_OTTSOLVED-7=Дядько Вес був настільки лютим, що звільнив його.
+
+
+# Ott
+### But if you ask me... He was right to chase that criminal.
+PC10_DAY3_OTTSOLVED-8=Але якщо спитаєш моєї думки... Він мав рацію, коли переслідував того злочинця.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Seems like you already know more about Brok than I do.
+PC10_DAY3_OTTSOLVED-9=Здається, ти вже знаєш про Брока більше, ніж я.
+
+
+# Ott
+### Don't tell me... You're jealous?
+PC10_DAY3_OTTSOLVED-10=Тільки не кажи... Що ти ревнуєш?
+
+
+#----------------------------------------------------
+# Ott
+### The victim of the case was still alive.
+PC10_DAY3_OTTJUMPED-1=Жертва у цій справі виявилася живою.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok found out by... walking on him.
+PC10_DAY3_OTTJUMPED-2=Брок дізнався про це... наступивши на нього.
+
+
+# Graff
+### Huh?!
+PC10_DAY3_OTTJUMPED-3=Га?!
+
+
+# Ott
+### Yeah... But it worked...
+PC10_DAY3_OTTJUMPED-4=Ага... Але це спрацювало...
+
+
+# Graff
+### Weird...
+PC10_DAY3_OTTJUMPED-5=Дивно...
+
+
+#----------------------------------------------------
+# Ott
+### Well... We solved the case...
+PC10_DAY3_OTTNOTSOLVED-1=Ну... Ми розкрили справу...
+
+
+# Ott
+### But I have second thoughts about it.
+PC10_DAY3_OTTNOTSOLVED-2=Але я маю деякі сумніви щодо цього.
+
+
+# Ott
+### I'm pretty sure we sent the wrong person to jail...
+PC10_DAY3_OTTNOTSOLVED-3=Я майже певен, що ми відправили до в'язниці не ту людину...
+
+
+# Graff
+### ...
+PC10_DAY3_OTTNOTSOLVED-4=...
+
+
+# Ott
+### Oh well. I probably shouldn't bother you with that.
+PC10_DAY3_OTTNOTSOLVED-5=Ну гаразд. Напевно, мені не варто докучати тобі цим.
+
+
+# Graff
+### That's fine. I always enjoy hearing from you.
+PC10_DAY3_OTTNOTSOLVED-6=Усе нормально. Мені завжди приємно слухати тебе.
+
+
+#----------------------------------------------------
+# Ott
+### Your old man... is totally insane...
+PC10_DAY3_OTTACCUSED-1=Твій старий... просто божевільний...
+
+
+# Ott
+### He accused me of this murder!
+PC10_DAY3_OTTACCUSED-2=Він звинуватив мене в цьому вбивстві!
+
+
+# Graff
+### What?!
+PC10_DAY3_OTTACCUSED-3=Що?!
+
+
+# Ott
+### Yeah, and for no valid reason!
+PC10_DAY3_OTTACCUSED-4=Ага, і без жодної вагомої причини!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### If it wasn't for Uncle Wes, I'd be sleeping in jail right now!
+PC10_DAY3_OTTACCUSED-5=Якби не дядько Вес, я б зараз спав у в'язниці!
+
+
+# Graff
+### No way...
+PC10_DAY3_OTTACCUSED-6=Бути такого не може...
+
+
+# Ott
+### I'm sorry to say this but...
+PC10_DAY3_OTTACCUSED-7=Мені шкода це казати, але...
+
+
+# Ott
+### I think he's got some screws loose...
+PC10_DAY3_OTTACCUSED-8=Думаю, у нього клепки бракує...
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC10_DAY3_OTTMEH-1=...
+
+
+# Ott
+### I'd... rather not talk about it.
+PC10_DAY3_OTTMEH-2=Я б... не хотів говорити про це.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott... I need to know.
+PC10_DAY3_OTTMEH-3=Отте... Мені треба знати.
+
+
+# Graff
+### What happened?
+PC10_DAY3_OTTMEH-4=Що сталося?
+
+
+# Ott
+### Your dad is... special.
+PC10_DAY3_OTTMEH-5=Твій батько... особливий.
+
+
+# Ott
+### At times he can be the most clever person on earth.
+PC10_DAY3_OTTMEH-6=Часом він буває найрозумнішою людиною на Землі.
+
+
+# Ott
+### But the minute after, he can hit you in the face for no reason...
+PC10_DAY3_OTTMEH-7=Але вже за хвилину може вдарити тебе в обличчя без жодної причини...
+
+
+# Graff
+### ...
+PC10_DAY3_OTTMEH-8=...
+
+
+# Graff
+### That description seems very fitting...
+PC10_DAY3_OTTMEH-9=Цей опис здається дуже слушним...
+
+
+#----------------------------------------------------
+# Graff - If Graff killed Klay
+### ...
+PC10_DAY3_BEGIN2_NOKLAY-1=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Where's Klay?
+PC10_DAY3_BEGIN2_NOKLAY-2=Де Клей?
+
+
+# Ott
+### Usually he arrives before his mom.
+PC10_DAY3_BEGIN2_NOKLAY-3=Зазвичай він приходить раніше за маму.
+
+
+# Graff
+### Well...
+PC10_DAY3_BEGIN2_NOKLAY-4=Ну...
+
+
+# Director
+### Students.
+PC10_DAY3_BEGIN2_NOKLAY-5=Студенти.
+
+
+# Director
+### I'm afraid... an accident happened yesterday.
+PC10_DAY3_BEGIN2_NOKLAY-6=Боюся... учора сталася трагедія.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay will not be coming back.
+PC10_DAY3_BEGIN2_NOKLAY-7=Клей більше не повернеться.
+
+
+# Ott
+### What do you mean?...
+PC10_DAY3_BEGIN2_NOKLAY-8=Що ви маєте на увазі...?
+
+
+# Director
+### ...
+PC10_DAY3_BEGIN2_NOKLAY-9=...
+
+
+# Ott
+### N-no...
+PC10_DAY3_BEGIN2_NOKLAY-10=Н-ні...
+
+
+# Director
+### Please. Do not worry about it.
+PC10_DAY3_BEGIN2_NOKLAY-11=Будь ласка. Не переймайтеся цим.
+
+
+# Director
+### You need to focus on your own trial.
+PC10_DAY3_BEGIN2_NOKLAY-12=Вам потрібно зосередитися на власному випробуванні.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_DAY3_BEGIN2_KLAY-1=...
+
+
+# Ott
+### Oh no. Look who's coming straight at us.
+PC10_DAY3_BEGIN2_KLAY-2=О ні. Дивись, хто йде просто на нас.
+
+
+# Klay
+### Hey!
+PC10_DAY3_BEGIN2_KLAY-3=Привіт!
+
+
+# Klay
+### How's it going, guys?
+PC10_DAY3_BEGIN2_KLAY-4=Як справи, хлопці?
+
+
+# Graff
+### You...!
+PC10_DAY3_BEGIN2_KLAY-5=Ти...!
+
+
+# Klay
+### Ooof!
+PC10_DAY3_BEGIN2_KLAY-6=У-ух!
+
+
+# Klay
+### What's with you?...
+PC10_DAY3_BEGIN2_KLAY-7=Чого це ти...?
+
+
+# Graff
+### I almost died yesterday! Because of you!
+PC10_DAY3_BEGIN2_KLAY-8=Я вчора ледь не помер! Через тебе!
+
+
+# Ott
+### What?...
+PC10_DAY3_BEGIN2_KLAY-9=Що...?
+
+
+#----------------------------------------------------
+# Klay
+### I know...
+PC10_DAY3_BEGIN2_KLAYMONEY-1=Я знаю...
+
+
+# Klay
+### I lent you money! Remember?...
+PC10_DAY3_BEGIN2_KLAYMONEY-2=Я позичив тобі грошей! Пам'ятаєш...?
+
+
+# Graff
+### Thankfully! But have you ever felt that kind of pain?!
+PC10_DAY3_BEGIN2_KLAYMONEY-3=Ще б пак! Але чи ти коли-небудь відчував такий жахливий біль?!
+
+
+#----------------------------------------------------
+# Klay
+### This is ridiculous!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-1=Це смішно!
+
+
+# Graff
+### You swallowed my pill!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-2=Ти проковтнув мою пігулку!
+
+
+# Graff
+### Do you know what it's like to suffocate for hours?!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-3=Ти знаєш, як це - задихатися годинами?!
+
+
+# Klay
+### Ah... Erm...
+PC10_DAY3_BEGIN2_KLAYNOMONEY-4=А... Е-е...
+
+
+# Klay
+### Alright, I admit...
+PC10_DAY3_BEGIN2_KLAYNOMONEY-5=Гаразд, визнаю...
+
+
+# Graff
+### I'm gonna...!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-6=Я зараз тобі...!
+
+
+# Klay
+### Wait! Please don't hurt me!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-7=Стривай! Будь ласка, не чіпай мене!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I had no idea what was going on in the Slums!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-8=Я й гадки не мав, що коїться в Нетрях!
+
+
+# Klay
+### That was just a prank!
+PC10_DAY3_BEGIN2_KLAYNOMONEY-9=Це був просто розіграш!
+
+
+# Graff
+### A prank?!...
+PC10_DAY3_BEGIN2_KLAYNOMONEY-10=Розіграш...?!
+
+
+#----------------------------------------------------
+# Klay
+### I'm... sorry! I...
+PC10_DAY3_BEGIN2_KLAYNEXT-1=Мені... шкода! Я...
+
+
+# Klay
+### This was an accident! I didn't want you dead!
+PC10_DAY3_BEGIN2_KLAYNEXT-2=Це випадковість! Я не хотів твоєї смерті!
+
+
+# Klay
+### You've got to believe me!
+PC10_DAY3_BEGIN2_KLAYNEXT-3=Ти маєш мені повірити!
+
+
+# Graff
+### Hrrmph... I swear...
+PC10_DAY3_BEGIN2_KLAYNEXT-4=Гм-м... Клянуся, я...
+
+
+# Klay
+### Shh. Mom's coming!
+PC10_DAY3_BEGIN2_KLAYNEXT-5=Ш-ш. Мама йде!
+
+
+# Klay
+### Please, guys... Don't tell her!
+PC10_DAY3_BEGIN2_KLAYNEXT-6=Благаю, хлопці... Не кажіть їй!
+
+
+# Klay
+### It would ruin my future!
+PC10_DAY3_BEGIN2_KLAYNEXT-7=Це зруйнує моє майбутнє!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### Miss Director!
+PC10_DAY3BEGIN_REVEAL-1=Пані директорко!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+PC10_DAY3BEGIN_REVEAL-2=Граффе...!
+
+
+# Director
+### Yes?
+PC10_DAY3BEGIN_REVEAL-3=Слухаю?
+
+
+# Graff
+### I've got something important to tell you.
+PC10_DAY3BEGIN_REVEAL-4=Я маю сказати вам дещо важливе.
+
+
+# Graff
+### Your precious son here...
+PC10_DAY3BEGIN_REVEAL-5=Оцей ваш дорогенький синочок...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### During yesterday's trial, he stole my Toxout pill...
+PC10_DAY3BEGIN_REVEAL-6=Під час учорашнього випробування вкрав мою смогову пігулку...
+
+
+# Graff
+### And left me to die!
+PC10_DAY3BEGIN_REVEAL-7=І залишив мене вмирати!
+
+
+# Klay
+### No way!
+PC10_DAY3BEGIN_REVEAL-8=Неправда!
+
+
+# Klay
+### Don't listen to him, Mom! He's just jealous of my performance!
+PC10_DAY3BEGIN_REVEAL-9=Не слухай його, мамо! Він просто заздрить моїм успіхам!
+
+
+# Klay
+### You know I've been working hard! I had no reason to do that!
+PC10_DAY3BEGIN_REVEAL-10=Ти ж знаєш, як наполегливо я працював! У мене не було причин робити таке!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, I will ask you a single question.
+PC10_DAY3BEGIN_REVEAL-11=Граффе, я поставлю тобі лише одне запитання.
+
+
+# Director
+### Does this matter right now?
+PC10_DAY3BEGIN_REVEAL-12=Це зараз має якесь значення?
+
+
+# Graff
+### I... Erm...
+PC10_DAY3BEGIN_REVEAL-13=Я... Е-е...
+
+
+# Director
+### I'm afraid this is unrelated to the trial.
+PC10_DAY3BEGIN_REVEAL-14=Боюся, це не стосується випробування.
+
+
+# Director
+### Thus, I cannot take this into account.
+PC10_DAY3BEGIN_REVEAL-15=Тому я не можу взяти це до уваги.
+
+
+# Graff
+### But...!
+PC10_DAY3BEGIN_REVEAL-16=Але...!
+
+
+# Director
+### I'm sorry.
+PC10_DAY3BEGIN_REVEAL-17=На жаль.
+
+
+# Klay
+### See? Liars never win!
+PC10_DAY3BEGIN_REVEAL-18=Бачиш? Брехуни ніколи не перемагають!
+
+
+# Graff
+### You scoundrel...!
+PC10_DAY3BEGIN_REVEAL-19=Ах ти ж негідник...!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_DAY3BEGIN_LETITGO-1=...
+
+
+# Klay
+### Good. Keep your mouth shut and everything will be fine.
+PC10_DAY3BEGIN_LETITGO-2=Добре. Тримай язика за зубами, і все буде гаразд.
+
+
+# Klay
+### Take this free advice from me and keep it all your life!
+PC10_DAY3BEGIN_LETITGO-3=Візьми цю безкоштовну пораду від мене і запам'ятай на все життя!
+
+
+# Graff
+### I hate him...
+PC10_DAY3BEGIN_LETITGO-4=Я ненавиджу його...
+
+
+# Graff
+### During yesterday's trial I almost thought he wasn't that bad... But now...
+PC10_DAY3BEGIN_LETITGO-5=Під час учорашнього випробування я майже подумав, що він не такий уже й поганий... Але тепер...
+
+
+#----------------------------------------------------
+# Ott
+### Let it go.
+PC10_DAY3BEGINB-1=Забудь.
+
+
+# Ott
+### We really need to focus on what's coming.
+PC10_DAY3BEGINB-2=Нам справді потрібно зосередитися на тому, що на нас чекає.
+
+
+# Graff
+### ...
+PC10_DAY3BEGINB-3=...
+
+
+# Graff
+### You're right. This is the final step.
+PC10_DAY3BEGINB-4=Ти маєш рацію. Це останній крок.
+
+
+#----------------------------------------------------
+# Director - Last trial
+### Everyone.
+PC10_DAY3BEGINC-1=Усім до уваги.
+
+
+# Director
+### As you know, this is your final day.
+PC10_DAY3BEGINC-2=Як ви знаєте, це ваш останній день.
+
+
+# Director
+### First, let me display the current scores.
+PC10_DAY3BEGINC-3=Спершу дозвольте показати поточні результати.
+
+
+#----------------------------------------------------
+# Director
+### The final trial starts now.
+PC10_DAY3BEGIND-1=Фінальне випробування починається зараз.
+
+
+# Director
+### You've got exactly one hour.
+PC10_DAY3BEGIND-2=У вас є рівно одна година.
+
+
+# Director
+### Good luck.
+PC10_DAY3BEGIND-3=Успіхів.
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC10_DAY3BEGINE_NOKLAY-1=...
+
+
+#----------------------------------------------------
+# Ott
+### ...
+PC10_DAY3BEGINE-1=...
+
+
+# Klay
+### Mom?...
+PC10_DAY3BEGINE-2=Мамо...?
+
+
+# Klay
+### Wait! What are we supposed to do?
+PC10_DAY3BEGINE-3=Стривай! Що ми маємо робити?
+
+
+#----------------------------------------------------
+# Graff
+### How are we supposed to do this trial...
+PC10_DAY3BEGINE_WONDER-1=Як ми маємо пройти це випробування...
+
+
+# Graff
+### If we don't even know what it's about?...
+PC10_DAY3BEGINE_WONDER-2=Якщо ми навіть не знаємо, про що воно...?
+
+
+# Ott
+### I think...
+PC10_DAY3BEGINE_WONDER-3=Я думаю...
+
+
+# Ott
+### This is part of the trial itself.
+PC10_DAY3BEGINE_WONDER-4=Це частина самого випробування.
+
+
+# Ott
+### In life we won't always be told what we're supposed to do. It's up to us to decide.
+PC10_DAY3BEGINE_WONDER-5=У житті нам не завжди казатимуть, що робити. Ми самі маємо вирішувати.
+
+
+# Graff
+### But if we screw up...our future is doomed.
+PC10_DAY3BEGINE_WONDER-6=Але якщо ми схибимо... наше майбутнє приречене.
+
+
+# Ott
+### Relax! We'll figure something out.
+PC10_DAY3BEGINE_WONDER-7=Розслабся! Ми щось придумаємо.
+
+
+#----------------------------------------------------
+# Klay
+### I got this!
+PC10_DAY3BEGINE_KLAYNEXT-1=Я впораюся!
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm out of here, suckers! Good luck for the rest of your life in the Slums!
+PC10_DAY3BEGINE_KLAYNEXT-2=Я валю звідси, невдахи! Успіхів вам до кінця життя в Нетрях!
+
+
+# Graff
+### Hrmph...
+PC10_DAY3BEGINE_KLAYNEXT-3=Гр-р...
+
+
+#----------------------------------------------------
+# Graff
+### Any idea?...
+PC10_DAY3BEGINE_NEXT-1=Якісь ідеї...?
+
+
+# Ott
+### Hmm...
+PC10_DAY3BEGINE_NEXT-2=Гмм...
+
+
+# Ott
+### This morning I got an ad message. The museum is open to everyone today.
+PC10_DAY3BEGINE_NEXT-3=Уранці я отримав рекламне повідомлення. Музей сьогодні відкритий для всіх.
+
+
+# Graff
+### The history museum?...
+PC10_DAY3BEGINE_NEXT-4=Історичний музей...?
+
+
+# Graff
+### Now that you mention it... I received it too!
+PC10_DAY3BEGINE_NEXT-5=О, справді... Я згадав, що теж його отримав!
+
+
+# Ott
+### Maybe that's not a coincidence...
+PC10_DAY3BEGINE_NEXT-6=Може, це не збіг обставин...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### It's located in an independent area, near the edge of the dome.
+PC10_DAY3BEGINE_NEXT-7=Він розташований у незалежній зоні, біля краю Купола.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### One of the only areas aside from this Center and the police department to be run by Drumers.
+PC10_DAY3BEGINE_NEXT-8=Одна з небагатьох зон, окрім цього Центру та відділку поліції, якою керують мешканці Верхів.
+
+
+# Graff
+### How do you know all this?
+PC10_DAY3BEGINE_NEXT-9=Звідки ти все це знаєш?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes brought me here once.
+PC10_DAY3BEGINE_NEXT-10=Дядько Вес якось приводив мене туди.
+
+
+# Ott
+### He said history is very important because it reflects the natural evolution of things, making it easier for us to accept changes.
+PC10_DAY3BEGINE_NEXT-11=Він казав, що історія дуже важлива, бо вона відображає природну еволюцію речей, допомагаючи нам легше сприймати зміни.
+
+
+# Graff
+### Accept changes?...
+PC10_DAY3BEGINE_NEXT-12=Сприймати зміни...?
+
+
+# Ott
+### Well, you know... He's an old man.
+PC10_DAY3BEGINE_NEXT-13=Ну, ти ж знаєш... Він старий.
+
+
+# Ott
+### Anyway. What do you think?
+PC10_DAY3BEGINE_NEXT-14=У будь-якому разі. Що думаєш?
+
+
+# Graff
+### Good idea. This should be interesting!
+PC10_DAY3BEGINE_NEXT-15=Гарна ідея. Це має бути цікаво!
+
+
+# Ott
+### Then again, maybe I'm wrong. Maybe we're supposed to help the poor or fight bad guys...
+PC10_DAY3BEGINE_NEXT-16=А з іншого боку, я можу помилятись. Може, ми маємо допомагати бідним чи боротися з лиходіями...
+
+
+# Graff
+### Those seem like valid options too.
+PC10_DAY3BEGINE_NEXT-17=Теж звучить як непогані варіанти.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Whatever you choose... I'll follow you, Graff.
+PC10_DAY3BEGINE_NEXT-18=Що б ти не обрав... Я піду за тобою, Граффе.
+
+
+# Ott
+### If we do a blunder, we'll do it together!
+PC10_DAY3BEGINE_NEXT-19=Якщо накосячимо, то разом!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Thanks, Ott. I'm glad to have a friend like you.
+PC10_DAY3BEGINE_NEXT-20=Дякую, Отте. Радий мати такого друга, як ти.
+
+
+# Ott
+### You and I both!
+PC10_DAY3BEGINE_NEXT-21=І я теж радий!
+
+
+# Graff
+### Let's go!
+PC10_DAY3BEGINE_NEXT-22=Ходімо!
+
+
+#----------------------------------------------------
+# Ott - Graff is guilty about killing Klay accidentally the day before
+### Wait...
+PC10_DAY3BEGIN_ASKKLAY-1=Стривай...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### What happened to Klay?...
+PC10_DAY3BEGIN_ASKKLAY-2=Що сталося з Клеєм...?
+
+
+# Ott
+### Is he really?...
+PC10_DAY3BEGIN_ASKKLAY-3=Він справді...?
+
+
+# Graff
+### ...
+PC10_DAY3BEGIN_ASKKLAY-4=...
+
+
+# Ott
+### I can't believe it...
+PC10_DAY3BEGIN_ASKKLAY-5=Я не можу в це повірити...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay is... was despicable at times but...
+PC10_DAY3BEGIN_ASKKLAY-6=Клей часом буває... був мерзенним, але...
+
+
+# Ott
+### He didn't deserve this...
+PC10_DAY3BEGIN_ASKKLAY-7=Він на це не заслуговував...
+
+
+# Graff
+### I... agree...
+PC10_DAY3BEGIN_ASKKLAY-8=Я... згоден...
+
+
+# Ott
+### Now I feel bad for everything we made him go through.
+PC10_DAY3BEGIN_ASKKLAY-9=Тепер мені соромно за все, через що ми його змусили пройти.
+
+
+# Graff
+### ...
+PC10_DAY3BEGIN_ASKKLAY-10=...
+
+
+# Graff
+### It's hard but... We should...
+PC10_DAY3BEGIN_ASKKLAY-11=Це важко, але... Ми повинні...
+
+
+# Ott
+### Right. We don't have time to mourn him right now.
+PC10_DAY3BEGIN_ASKKLAY-12=Правильно. У нас зараз немає часу його оплакувати.
+
+
+# Ott
+### Let's move on.
+PC10_DAY3BEGIN_ASKKLAY-13=Ходімо далі.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Hey, Stubot is still there.
+PC10_DAY3BEGIN_STUBOT-1=Гей, Студбот усе ще тут.
+
+
+# Ott
+### Strange.
+PC10_DAY3BEGIN_STUBOT-2=Дивно.
+
+
+# Stubot
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot   Giving you some advance   A little help for humans
+PC10_DAY3BEGIN_STUBOT-3=Студбот Дає вам перевагу Невелика допомога для людей
+
+
+# Graff
+### Oh...
+PC10_DAY3BEGIN_STUBOT-4=О...
+
+
+# Ott
+### Do you know anything about the content of this trial?
+PC10_DAY3BEGIN_STUBOT-5=Тобі щось відомо про зміст цього випробування?
+
+
+# Stubot
+### Yes and no
+PC10_DAY3BEGIN_STUBOT-6=І так і ні
+
+
+# Stubot
+### Can only calculate probabilities
+PC10_DAY3BEGIN_STUBOT-7=Можу розрахувати лише ймовірності
+
+
+# Graff
+### And what's most probable?
+PC10_DAY3BEGIN_STUBOT-8=І що є найбільш імовірним?
+
+
+# Stubot
+### Competition   Cannot tell
+PC10_DAY3BEGIN_STUBOT-9=Змагання Не можу сказати
+
+
+# Graff
+### Obviously...
+PC10_DAY3BEGIN_STUBOT-10=Очевидно...
+
+
+# Ott
+### We better get going.
+PC10_DAY3BEGIN_STUBOT-11=Нам краще йти.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC10_STUBOTSEAT_BEFORE-1=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### What's going on, Graff?
+PC10_STUBOTSEAT_BEFORE-2=Що трапилося, Граффе?
+
+
+# Graff
+### ...I'm not sure myself.
+PC10_STUBOTSEAT_BEFORE-3=...Я й сам не певен.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot, please don't mind us...
+PC10_STUBOTSEAT1-1=Студботе, не зважай на нас...
+
+
+# Stubot
+### What is human doing
+PC10_STUBOTSEAT1-2=Що робить людина
+
+
+# Graff
+### ...
+PC10_STUBOTSEAT1-3=...
+
+
+# Graff
+### Ah-ha!
+PC10_STUBOTSEAT1-4=Ага!
+
+
+# Ott
+### You found it?
+PC10_STUBOTSEAT1-5=Знайшов?
+
+
+# Graff
+### Yeah! A key!
+PC10_STUBOTSEAT1-6=Так! Ключ!
+
+
+#----------------------------------------------------
+# Ott
+### Let's hurry back to the museum!
+PC10_STUBOTSEAT1B-1=Поспішаймо назад до музею!
+
+
+#----------------------------------------------------
+# Stubot
+### Stop bothering
+PC10_STUBOTSEAT_AFTER-1=Досить турбувати
+
+
+#----------------------------------------------------
+# Graff - The final results!
+### ...
+PC10_DAY3RESULTS1-1=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Psst... Graff...
+PC10_DAY3RESULTS1-2=Пс-с... Граффе...
+
+
+# Ott
+### You're nervous?
+PC10_DAY3RESULTS1-3=Ти нервуєшся?
+
+
+# Graff
+### ...
+PC10_DAY3RESULTS1-4=...
+
+
+# Ott
+### You know, it's weird... I've imagined this moment many times.
+PC10_DAY3RESULTS1-5=Знаєш, це дивно... Я уявляв цей момент багато разів.
+
+
+# Ott
+### I thought I'd be super stressed, like the world on the verge of collapsing.
+PC10_DAY3RESULTS1-6=Я думав, що відчуватиму шалений стрес, ніби світ на межі руйнування.
+
+
+# Graff
+### (...)
+PC10_DAY3RESULTS1-7=(...)
+
+
+# Ott
+### I mean, if we don't pass, it's "game over".
+PC10_DAY3RESULTS1-8=Тобто, якщо ми не складемо, це буде "кінець гри".
+
+
+# Ott
+### We won't have a second chance...
+PC10_DAY3RESULTS1-9=У нас не буде другого шансу...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott, please...
+PC10_DAY3RESULTS1-10=Отте, прошу...
+
+
+# Ott
+### Oh...
+PC10_DAY3RESULTS1-11=О...
+
+
+#----------------------------------------------------
+# Graff - The final results! (alternative if we hit Ott in chapter 5)
+### ...
+PC10_DAY3RESULTS1_BADOTT-1=...
+
+
+# Ott
+### ...
+PC10_DAY3RESULTS1_BADOTT-2=...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+PC10_DAY3RESULTS1_BADOTT-3=Отте...
+
+
+# Graff
+### Sorry about earlier.
+PC10_DAY3RESULTS1_BADOTT-4=Вибач за те, що було раніше.
+
+
+# Graff
+### The stress of the trial got to me.
+PC10_DAY3RESULTS1_BADOTT-5=Стрес через випробування вибив мене з колії.
+
+
+#----------------------------------------------------
+# Klay
+### Not me! I'm confident.
+PC10_DAY3RESULTS1_KLAY-1=А я не хвилююсь! Я впевнений у собі.
+
+
+# Klay
+### If you're not, maybe you just don't deserve to become part of the best!
+PC10_DAY3RESULTS1_KLAY-2=Якщо у вас з цим проблеми, то, може, ви просто не заслуговуєте стати одними з найкращих!
+
+
+# Graff
+### Shut up...
+PC10_DAY3RESULTS1_KLAY-3=Заткнися...
+
+
+# Klay
+### ...
+PC10_DAY3RESULTS1_KLAY-4=...
+
+
+#----------------------------------------------------
+# Klay
+### Hmph.
+PC10_DAY3RESULTS_KLAYBAD-1=Гр-р.
+
+
+# Klay
+### I'm glad I won't have to deal with you guys on the other side anymore.
+PC10_DAY3RESULTS_KLAYBAD-2=Я радий, що мені не доведеться терпіти вас і на тому боці.
+
+
+# Graff
+### ...
+PC10_DAY3RESULTS_KLAYBAD-3=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Don't reply, Graff. He's not worth it.
+PC10_DAY3RESULTS_KLAYBAD-4=Не відповідай йому, Граффе. Він того не вартий.
+
+
+# Graff
+### Right...
+PC10_DAY3RESULTS_KLAYBAD-5=Авжеж...
+
+
+#----------------------------------------------------
+# Klay
+### ...
+PC10_DAY3RESULTS_KLAYGOOD-1=...
+
+
+# Klay
+### Sorry.
+PC10_DAY3RESULTS_KLAYGOOD-2=Вибачте.
+
+
+# Ott
+### What?...
+PC10_DAY3RESULTS_KLAYGOOD-3=Що...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay just... apologized?...
+PC10_DAY3RESULTS_KLAYGOOD-4=Клей щойно... вибачився...?
+
+
+# Klay
+### ...Yeah.
+PC10_DAY3RESULTS_KLAYGOOD-5=...Угу.
+
+
+# Klay
+### I know... I've been a little rough with you guys.
+PC10_DAY3RESULTS_KLAYGOOD-6=Я знаю... Я був трохи грубим із вами.
+
+
+# Klay
+### I just... needed it.
+PC10_DAY3RESULTS_KLAYGOOD-7=Мені просто... це було потрібно.
+
+
+# Klay
+### To get confidence in myself.
+PC10_DAY3RESULTS_KLAYGOOD-8=Щоб здобути впевненість у собі.
+
+
+# Ott
+### Maybe the world is collapsing after all...
+PC10_DAY3RESULTS_KLAYGOOD-9=Може, світ таки руйнується...
+
+
+# Graff
+### Don't pay attention. He just wants to leave a good impression in case he failed.
+PC10_DAY3RESULTS_KLAYGOOD-10=Не звертай уваги. Він просто хоче залишити хороше враження на випадок, якщо провалився.
+
+
+# Klay
+### No, I'm serious...
+PC10_DAY3RESULTS_KLAYGOOD-11=Ні, я серйозно...
+
+
+# Klay
+### (Gulp) Mom's coming...
+PC10_DAY3RESULTS_KLAYGOOD-12=(Ковтає слину) Мама йде...
+
+
+# Klay
+### Oh boy, oh boy, oh boy...
+PC10_DAY3RESULTS_KLAYGOOD-13=Ой леле, ой леле, ой леле...
+
+
+# Graff
+### Now who's the one stressing?...
+PC10_DAY3RESULTS_KLAYGOOD-14=І хто тепер тут нервує...?
+
+
+#----------------------------------------------------
+# Director
+### Everyone.
+PC10_DAY3RESULTS2-1=Усім до уваги.
+
+
+# Director
+### Before announcing the results, I would like to congratulate all of you.
+PC10_DAY3RESULTS2-2=Перш ніж оголосити результати, я б хотіла привітати всіх вас.
+
+
+# Director
+### You've been offered this opportunity because you were the hardest working students from this year.
+PC10_DAY3RESULTS2-3=Цю можливість вам надали тому, що ви були найпрацьовитішими студентами цього року.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Keep this in mind. Whether or not you'll be living under or outside the dome...
+PC10_DAY3RESULTS2-4=Майте це на увазі. Незалежно від того, чи житимете ви під Куполом, чи за його межами...
+
+
+# Director
+### You're the future. This world needs you.
+PC10_DAY3RESULTS2-5=Ви - майбутнє. Цей світ потребує вас.
+
+
+# Director
+### Yet... There are many things you're not aware of.
+PC10_DAY3RESULTS2-6=Проте... Є багато речей, про які ви не знаєте.
+
+
+# Director
+### Each one of you is special.
+PC10_DAY3RESULTS2-7=Кожен із вас особливий.
+
+
+# Director
+### You're all linked together in ways you can't even imagine.
+PC10_DAY3RESULTS2-8=Ви всі пов'язані між собою так, як навіть уявити собі не можете.
+
+
+# Director
+### ...
+PC10_DAY3RESULTS2-9=...
+
+
+# Director
+### I'd like to correct myself though.
+PC10_DAY3RESULTS2-10=Втім, я хотіла б дещо уточнити.
+
+
+# Director
+### Despite your hard work, your skills and your intelligence... They're not the main reason you've been chosen.
+PC10_DAY3RESULTS2-11=Попри вашу наполегливу працю, навички та інтелект... Це не головні критерії, за якими вас було обрано.
+
+
+# Graff
+### (...?)
+PC10_DAY3RESULTS2-12=(...?)
+
+
+# Director
+### During those past years, I've attempted to make you aware and prepared.
+PC10_DAY3RESULTS2-13=Протягом останніх років я намагалася зробити так, щоб ви були обізнані й готові.
+
+
+# Director
+### But no longer. In a few moments, your destiny will be in your hands.
+PC10_DAY3RESULTS2-14=Але тепер усе інакше. За кілька хвилин ваша доля буде у ваших руках.
+
+
+# Director
+### Now... Here's the moment you've been waiting for.
+PC10_DAY3RESULTS2-15=А тепер... Ось момент, на який ви так довго чекали.
+
+
+# Director
+### The final results.
+PC10_DAY3RESULTS2-16=Фінальні результати.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Here's Stubot's score.
+PC10_DAY3RESULTS3-1=Ось бал Студбота.
+
+
+# Director
+### As you know, this is the reference. Any score equalling or superior to this means you pass.
+PC10_DAY3RESULTS3-2=Як ви знаєте, це орієнтир. Будь-який бал, що дорівнює чи перевищує його, означає успішне проходження.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### I'm afraid Stubot was damaged beyond repair earlier today.
+PC10_DAY3RESULTS3_STUBOTDEAD-1=Боюся, сьогодні вранці Студбот зазнав пошкоджень, які не підлягають ремонту.
+
+
+# Director
+### I will perform a system check to find out what happened.
+PC10_DAY3RESULTS3_STUBOTDEAD-2=Я виконаю перевірку системи, щоб з'ясувати, що сталося.
+
+
+# Director
+### Nevertheless, he managed to complete today's trial.
+PC10_DAY3RESULTS3_STUBOTDEAD-3=Утім, він зумів завершити сьогоднішнє випробування.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay. My son... Here is your score.
+PC10_DAY3RESULTS3_KLAY-1=Клею. Сину мій... Ось твій бал.
+
+
+#----------------------------------------------------
+# Klay
+### Yes!
+PC10_DAY3RESULTS4-1=Ура!
+
+
+# Director
+### I would like to point out that no favoritism whatsoever has been exercised.
+PC10_DAY3RESULTS4-2=Я хотіла б зазначити, що тут не було жодного фаворитизму.
+
+
+# Director
+### All criteria used for ratings are neutral.
+PC10_DAY3RESULTS4-3=Усі критерії оцінювання є нейтральними.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Next candidate - Ott.
+PC10_DAY3RESULTS4-4=Наступний кандидат - Отт.
+
+
+#----------------------------------------------------
+# Ott
+### Phew. That was close!
+PC10_DAY3RESULTS5-1=Фух. Це було близько!
+
+
+# Graff
+### Congrats! I knew you could do it!
+PC10_DAY3RESULTS5-2=Вітаю! Я знав, що ти зможеш!
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### And now... Graff.
+PC10_DAY3RESULTS5-3=А тепер... Граффе.
+
+
+#----------------------------------------------------
+# Graff
+### Oh... No!...
+PC10_DAY3RESULTS_GRAFFLOSES-1=О ні... Тільки не це...!
+
+
+# Director
+### Truly sorry. You did not pass.
+PC10_DAY3RESULTS_GRAFFLOSES-2=Мені дуже шкода. Ти не склав.
+
+
+# Director
+### However... It doesn't matter.
+PC10_DAY3RESULTS_GRAFFLOSES-3=Втім... Це неважливо.
+
+
+#----------------------------------------------------
+# Graff
+### ...!
+PC10_DAY3RESULTS_GRAFFWINS-1=...!
+
+
+# Graff
+### I passed!
+PC10_DAY3RESULTS_GRAFFWINS-2=Я склав!
+
+
+# Director
+### It's not that simple.
+PC10_DAY3RESULTS_GRAFFWINS-3=Усе не так просто.
+
+
+#----------------------------------------------------
+# Director
+### You have received a 40 points penalty.
+PC10_DAY3RESULTS_GRAFFPENALTY-1=Ти отримав штраф у розмірі 40 балів.
+
+
+# Director
+### So... Here is your final score.
+PC10_DAY3RESULTS_GRAFFPENALTY-2=Отже... Ось твій підсумковий бал.
+
+
+#----------------------------------------------------
+# Graff
+### Phew...!
+PC10_DAY3RESULTS_GRAFFSTILLWINS-1=Фух...!
+
+
+# Graff
+### I... still managed to pass but...
+PC10_DAY3RESULTS_GRAFFSTILLWINS-2=Мені... все ж вдалося скласти, але...
+
+
+# Graff
+### I don't understand?...
+PC10_DAY3RESULTS_GRAFFSTILLWINS-3=Я не розумію...?
+
+
+#----------------------------------------------------
+# Graff
+### What?!... Why?...
+PC10_DAY3RESULTS_GRAFFLOSES2-1=Що...?! Чому...?
+
+
+#----------------------------------------------------
+# Director
+### The system has performed a check.
+PC10_DAY3RESULTS_GRAFFLOSES3-1=Система виконала перевірку.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, your tutor is registered as a Drumer.
+PC10_DAY3RESULTS_GRAFFLOSES3-2=Граффе, твій опікун зареєстрований як мешканець Верхів.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok?... A Drumer?...
+PC10_DAY3RESULTS_GRAFFLOSES3-3=Брок...? Мешканець Верхів...?
+
+
+# Director
+### As such, this breaches the institution rules that you signed when you got accepted here.
+PC10_DAY3RESULTS_GRAFFLOSES3-4=А це порушує правила закладу, які ти підписав під час вступу сюди.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### This Center is strictly reserved for Slums children.
+PC10_DAY3RESULTS_GRAFFLOSES3-5=Цей Центр суворо призначений лише для дітей з Нетрів.
+
+
+# Graff
+### But...
+PC10_DAY3RESULTS_GRAFFLOSES3-6=Але...
+
+
+# Graff
+### Oh! I know!
+PC10_DAY3RESULTS_GRAFFLOSES3-7=О! Я знаю!
+
+
+# Graff
+### He's taken a job as a police officer... Temporarily!
+PC10_DAY3RESULTS_GRAFFLOSES3-8=Він влаштувався поліцейським... Тимчасово!
+
+
+# Director
+### No. He's registered as a permanent citizen.
+PC10_DAY3RESULTS_GRAFFLOSES3-9=Ні. Він зареєстрований як постійний громадянин.
+
+
+# Director
+### It's right there in the Government mainframe data which is inviolable.
+PC10_DAY3RESULTS_GRAFFLOSES3-10=Це чітко зазначено в базі даних Уряду, яка є недоторканною.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm sorry, Graff. The rules are the rules.
+PC10_DAY3RESULTS_GRAFFLOSES3-11=Мені шкода, Граффе. Правила є правила.
+
+
+# Graff
+### He... lied to me?...
+PC10_DAY3RESULTS_GRAFFLOSES3-12=Він... збрехав мені...?
+
+
+# Director
+### Furthermore, you should have been automatically excluded.
+PC10_DAY3RESULTS_GRAFFLOSES3-13=Крім того, тебе мали автоматично відрахувати.
+
+
+# Director
+### However, I attempted to save your profile by reclassifying this as a first-class penalty.
+PC10_DAY3RESULTS_GRAFFLOSES3-14=Однак я спробувала врятувати тебе, перекваліфікувавши покарання на штраф першого класу.
+
+
+# Director
+### This is the best I could do.
+PC10_DAY3RESULTS_GRAFFLOSES3-15=Це все, що я могла зробити.
+
+
+#----------------------------------------------------
+# Director
+### Fortunately your impressive results allowed you to reach the required threshold.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-1=На щастя, завдяки твоїм дивовижним результатам ти зміг досягти потрібного порогу.
+
+
+# Director
+### Now.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-2=А тепер.
+
+
+# Director
+### Congratulations to all of you.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-3=Вітаю всіх вас.
+
+
+# Director
+### Due to circumstances, there won't be any ceremony.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-4=Через обставини жодної церемонії не буде.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### In addition, I have opened a thirty minute window for all of you to move to the Dome.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-5=Крім того, я відкрила тридцятихвилинне вікно часу для всіх вас, щоб перебратися під Купол.
+
+
+# Klay
+### Thirty minutes?... From now?
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-6=Тридцять хвилин...? Починаючи відтепер?
+
+
+# Director
+### Yes.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-7=Так.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### This will be your only opportunity to become Drumers officially.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-8=Це буде ваша єдина можливість офіційно стати мешканцями Верхів.
+
+
+# Director
+### You need to get prepared right away.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-9=Ви повинні підготуватися просто зараз.
+
+
+# Director
+### I will meet you in front of the Border Post 001.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-10=Я зустріну вас перед прикордонним постом 001.
+
+
+# Graff
+### But... I'm not sixteen yet!
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-11=Але... Мені ще немає шістнадцяти!
+
+
+# Director
+### Do not worry.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-12=Не хвилюйся.
+
+
+# Director
+### You're already registered. Just come.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-13=Ти вже зареєстрований. Просто приходь.
+
+
+# Director
+### That will be all.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-14=На цьому все.
+
+
+# Director
+### I wish you good luck with your future.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-15=Бажаю вам удачі в майбутньому.
+
+
+# Ott
+### Just... Half an hour...
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-16=Лише... Пів години...
+
+
+# Ott
+### To say goodbye to my parents and prepare my stuff?...
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-17=Щоб попрощатися з батьками та зібрати свої речі...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm sorry Graff. Gotta leave.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-18=Вибач, Граффе. Мушу йти.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### But... What about the situation in the Slums?
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-19=Але... Як же ситуація в Нетрях?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### You heard the Director. We can't miss this opportunity.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-20=Ти чув директорку. Ми не можемо пропустити цю можливість.
+
+
+# Ott
+### We won't give up on them.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-21=Ми від них не відмовимося.
+
+
+# Ott
+### And... your old man's on the case, right?
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-22=І... твій старий усе розрулить, так?
+
+
+# Graff
+### Yeah...
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-23=Так...
+
+
+# Ott
+### Let's get prepared.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-24=Давай готуватися.
+
+
+#----------------------------------------------------
+# Director
+### Unfortunately... With your total score this still wasn't enough for you to pass.
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-1=На жаль... З твоїм загальним балом цього все одно не вистачило для проходження.
+
+
+# Director
+### I'm truly sorry.
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-2=Мені справді дуже шкода.
+
+
+# Graff
+### Sorry?...
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-3=Шкода...?
+
+
+# Graff
+### If you truly are sorry, change this!
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-4=Якщо вам справді шкода, змініть це!
+
+
+# Director
+### I wish I could.
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-5=Якби ж я могла.
+
+
+# Director
+### My abilities are limited. I didn't write the rules.
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-6=Мої можливості обмежені. Не я писала правила.
+
+
+# Graff
+### Then... Who did?...
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-7=Тоді... Хто ж їх писав...?
+
+
+# Director
+### ...
+PC10_DAY3RESULTS_GRAFFNOTENOUGH-8=...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Wait... If he's really a Drumer...
+PC10_DAY3RESULTS7-1=Стривай... Якщо він справді мешканець Верхів...
+
+
+# Graff
+### Doesn't this automatically make me one as well?
+PC10_DAY3RESULTS7-2=Хіба це автоматично не робить і мене таким самим?
+
+
+# Director
+### You should know this by now.
+PC10_DAY3RESULTS7-3=Ти вже мав би це знати.
+
+
+# Director
+### Children need to prove they earn this right. This is too late.
+PC10_DAY3RESULTS7-4=Діти повинні доводити, що вони заслуговують на це право. Тепер уже запізно.
+
+
+# Graff
+### Argh...
+PC10_DAY3RESULTS7-5=Ар-р...
+
+
+# Graff
+### This... can't be happening...
+PC10_DAY3RESULTS7-6=Цього... не може бути...
+
+
+# Director
+### I shouldn't say this but...
+PC10_DAY3RESULTS7-7=Я не повинна цього казати, але...
+
+
+# Director
+### Don't worry about it too much.
+PC10_DAY3RESULTS7-8=Занадто цим не переймайся.
+
+
+# Director
+### You have a great destiny lying ahead of you.
+PC10_DAY3RESULTS7-9=На тебе чекає велике майбутнє.
+
+
+# Graff
+### A great destiny?!
+PC10_DAY3RESULTS7-10=Велике майбутнє?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'll... get to live the rest of my life in the Slums...
+PC10_DAY3RESULTS7-11=Я... проведу решту свого життя в Нетрях...
+
+
+# Graff
+### How can this be of little importance?!
+PC10_DAY3RESULTS7-12=Як це може бути неважливим?!
+
+
+# Director
+### ...
+PC10_DAY3RESULTS7-13=...
+
+
+# Director
+### The final results are currently inside the Center data.
+PC10_DAY3RESULTS7-14=Остаточні результати наразі зберігаються в базі даних Центру.
+
+
+# Director
+### They will be transmitted to the Government data frame tonight.
+PC10_DAY3RESULTS7-15=Сьогодні ввечері їх буде передано до урядової бази даних.
+
+
+# Director
+### Due to current events, there won't be any ceremony.
+PC10_DAY3RESULTS7-16=У зв'язку з поточними подіями жодної церемонії не буде.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### I shall inform you as soon as possible when you're able to move under the Dome.
+PC10_DAY3RESULTS7-17=Я повідомлю вам якнайшвидше, коли ви зможете перебратися під Купол.
+
+
+# Director
+### That is all.
+PC10_DAY3RESULTS7-18=Це все.
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### May the Untail watch over you.
+PC10_DAY3RESULTS7-19=Хай Безхвостий наглядає за вами.
+
+
+# Ott
+### ...
+PC10_DAY3RESULTS7-20=...
+
+
+#----------------------------------------------------
+# Klay
+### ...
+PC10_DAY3RESULTS8_KLAYBAD-1=...
+
+
+#----------------------------------------------------
+# Klay
+### Well...
+PC10_DAY3RESULTS8_KLAYGOOD-1=Що ж...
+
+
+# Klay
+### That sucks. You didn't deserve...
+PC10_DAY3RESULTS8_KLAYGOOD-2=Це відстій. Ти цього не заслужив...
+
+
+# Graff
+### Go away!
+PC10_DAY3RESULTS8_KLAYGOOD-3=Забирайся!
+
+
+# Klay
+### I just wanted to say...
+PC10_DAY3RESULTS8_KLAYGOOD-4=Я просто хотів сказати...
+
+
+# Klay
+### Fathers should never be trusted.
+PC10_DAY3RESULTS8_KLAYGOOD-5=Ніколи не можна довіряти своєму батькові.
+
+
+# Klay
+### My mom learnt this the hard way. I'm sorry for you...
+PC10_DAY3RESULTS8_KLAYGOOD-6=Моя мама переконалася в цьому на власному гіркому досвіді. Мені шкода тебе...
+
+
+# Graff
+### I don't want your pity! Scram!
+PC10_DAY3RESULTS8_KLAYGOOD-7=Мені не потрібна твоя жалість! Геть!
+
+
+# Klay
+### ...
+PC10_DAY3RESULTS8_KLAYGOOD-8=...
+
+
+# Klay
+### Take care.
+PC10_DAY3RESULTS8_KLAYGOOD-9=Бувай.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott. Please...
+PC10_DAY3RESULTS9_BADOTT-1=Отте. Будь ласка...
+
+
+# Graff
+### Did I lose everything... including your friendship?...
+PC10_DAY3RESULTS9_BADOTT-2=Невже я втратив усе... включно з твоєю дружбою...?
+
+
+# Ott
+### Don't worry.
+PC10_DAY3RESULTS9_BADOTT-3=Не хвилюйся.
+
+
+# Ott
+### I understand and I accept your apology.
+PC10_DAY3RESULTS9_BADOTT-4=Я розумію й приймаю твої вибачення.
+
+
+# Graff
+### Thanks.
+PC10_DAY3RESULTS9_BADOTT-5=Дякую.
+
+
+#----------------------------------------------------
+# Ott
+### Did you hear what she said?
+PC10_DAY3RESULTS9-1=Ти чув, що вона сказала?
+
+
+# Graff
+### ...
+PC10_DAY3RESULTS9-2=...
+
+
+# Graff
+### Yeah. Who would have thought a robot could have religious beliefs. She never mentioned it...
+PC10_DAY3RESULTS9-3=Ага. Хто б міг подумати, що робот може мати релігійні переконання. Вона ніколи про це не згадувала...
+
+
+# Ott
+### No, that's not...
+PC10_DAY3RESULTS9-4=Ні, я не про...
+
+
+# Director
+### Boys. I have to close the building.
+PC10_DAY3RESULTS9-5=Хлопці. Я маю закрити будівлю.
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Congratulations, Ott.
+PC10_DAY3RESULTS10-1=Вітаю, Отте.
+
+
+# Director
+### Your arrival statistics showed a very low percentage of success. Yet... you passed.
+PC10_DAY3RESULTS10-2=Твої вступні показники демонстрували дуже низький відсоток успіху. І все ж... ти склав.
+
+
+# Director
+### Your uncle is very proud of you.
+PC10_DAY3RESULTS10-3=Твій дядько дуже пишається тобою.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Uncle Wes?... How can you...?
+PC10_DAY3RESULTS10-4=Дядько Вес...? Звідки ви...?
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### As for you, Graff... This is just a small setback.
+PC10_DAY3RESULTS10-5=Щодо тебе, Граффе... Це лише невелика невдача.
+
+
+# Director
+### Do not let anyone else decide your future.
+PC10_DAY3RESULTS10-6=Не дозволяй нікому іншому вирішувати твоє майбутнє.
+
+
+# Director
+### Be strong. Prove yourself!
+PC10_DAY3RESULTS10-7=Будь сильним. Доведи, на що здатен!
+
+
+#----------------------------------------------------
+# Graff
+### So... This is where our path ends.
+PC10_DAY3RESULTS11-1=Отже... На цьому наші шляхи розходяться.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Bye, Ott.
+PC10_DAY3RESULTS11-2=Бувай, Отте.
+
+
+#----------------------------------------------------
+# Ott
+### What? No way!
+PC10_DAY3RESULTS11B-1=Що? У жодному разі!
+
+
+# Ott
+### I won't let you go like this!
+PC10_DAY3RESULTS11B-2=Я не дозволю тобі ось так піти!
+
+
+#----------------------------------------------------
+# Graff
+### You've seen it. I'm a disaster. A total failure.
+PC10_DAY3RESULTS11_GRAFFLOST-1=Ти сам бачив. Я катастрофа. Повний невдаха.
+
+
+# Graff
+### Just like my old man.
+PC10_DAY3RESULTS11_GRAFFLOST-2=Точнісінько як мій старий.
+
+
+# Ott
+### There must be a solution...
+PC10_DAY3RESULTS11_GRAFFLOST-3=Має ж бути якесь рішення...
+
+
+# Graff
+### Forget it. I don't deserve it.
+PC10_DAY3RESULTS11_GRAFFLOST-4=Забудь. Я на це не заслуговую.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+PC10_DAY3RESULTS11_GRAFFLOST-5=Граффе...!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### No choice. You'll be living under the Dome soon...
+PC10_DAY3RESULTS11_GRAFFWINS-1=Нічого не вдієш. Скоро ти житимеш під Куполом...
+
+
+# Graff
+### I'm glad for you.
+PC10_DAY3RESULTS11_GRAFFWINS-2=Я радий за тебе.
+
+
+# Graff
+### But you better stay away from me.
+PC10_DAY3RESULTS11_GRAFFWINS-3=Але тобі краще триматися від мене подалі.
+
+
+# Ott
+### What?...
+PC10_DAY3RESULTS11_GRAFFWINS-4=Що...?
+
+
+#----------------------------------------------------
+# Graff
+### My bad luck could be contagious.
+PC10_DAY3RESULTS11_NORMAL-1=Моє невезіння може бути заразним.
+
+
+#----------------------------------------------------
+# Graff
+### There are things... you don't know...
+PC10_DAY3RESULTS11_KLAY-1=Є речі... про які ти не знаєш...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I'm not a good person, Ott...
+PC10_DAY3RESULTS11_KLAY-2=Я погана людина, Отте...
+
+
+# Ott
+### That's not true!
+PC10_DAY3RESULTS11_KLAY-3=Це неправда!
+
+
+#----------------------------------------------------
+# Ott
+### Wait!
+PC10_DAY3RESULTS11_NEXT-1=Стривай!
+
+
+# Ott
+### That's not fair! You deserved to pass!
+PC10_DAY3RESULTS11_NEXT-2=Це нечесно! Ти заслужив скласти іспит!
+
+
+# Graff
+### Life's unfair.
+PC10_DAY3RESULTS11_NEXT-3=Життя несправедливе.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### The Graff I know would never give up!
+PC10_DAY3RESULTS11_NEXT-4=Графф, якого я знаю, ніколи б не здався!
+
+
+# Graff
+### Well you're wrong! I never showed my true self!
+PC10_DAY3RESULTS11_NEXT-5=А от і ні! Я ніколи не показував свого справжнього "я"!
+
+
+# Graff
+### I'm just a liar and selfish! After all, I take from my old man!
+PC10_DAY3RESULTS11_NEXT-6=Я просто брехун і егоїст! Зрештою, я вдався у свого старого!
+
+
+# Unknown
+### (Smacks)
+PC10_DAY3RESULTS11_NEXT-7=(Ляпас)
+
+
+# Graff
+### Huh?!
+PC10_DAY3RESULTS11_NEXT-8=Га?!
+
+
+# Graff
+### Why... did you hit me?!
+PC10_DAY3RESULTS11_NEXT-9=Чому... ти вдарив мене?!
+
+
+# Ott
+### Get ahold of yourself!
+PC10_DAY3RESULTS11_NEXT-10=Візьми себе в руки!
+
+
+# Ott
+### Haven't you noticed?...
+PC10_DAY3RESULTS11_NEXT-11=Ти хіба не помітив...?
+
+
+#----------------------------------------------------
+# Brok - Day 3 results "Drumer" ending - If Graff passes, Brok explains what happens next
+### The next events are a blur...
+PC10_DAY3RESULTS_WINSANYWAY_BROK-1=Усі подальші події як у тумані...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### I remember entering the bunker with Dee and the doc.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-2=Я пам'ятаю, як увійшов до бункера разом із Ді та доком.
+
+
+# Brok
+### It was tough but we found a way to get rid of those bots surrounding us.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-3=Було важко, але ми знайшли спосіб позбутися ботів, які нас оточили.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### On our way out, I received Graff's message...
+PC10_DAY3RESULTS_WINSANYWAY_BROK-4=Коли ми вибиралися назовні, я отримав повідомлення від Граффа...
+
+
+# Brok
+### He made it...
+PC10_DAY3RESULTS_WINSANYWAY_BROK-5=Він впорався...
+
+
+# Brok
+### But he needed me urgently.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-6=Але я був терміново йому потрібен.
+
+
+# Brok
+### I was faced again with a hard choice.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-7=Я знову зіткнувся з важким вибором.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee had her own trouble and she needed my help.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-8=У Ді були власні проблеми, та їй була потрібна моя допомога.
+
+
+# Brok
+### This time...
+PC10_DAY3RESULTS_WINSANYWAY_BROK-9=Цього разу...
+
+
+# Brok
+### I had to make the right decision.
+PC10_DAY3RESULTS_WINSANYWAY_BROK-10=Я мав ухвалити правильне рішення.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+PC10_HITSTUBOT_OTT1-1=Граффе...?
+
+
+#----------------------------------------------------
+# Ott
+### Are you sure about this?...
+PC10_HITSTUBOT_OTT2-1=Ти впевнений щодо цього...?
+
+
+#----------------------------------------------------
+# Ott
+### ...!
+PC10_HITSTUBOT_OTT3-1=...!
+
+
+# Graff
+### There!
+PC10_HITSTUBOT_OTT3-2=Ось так!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### No more Stubot, no more competition!
+PC10_HITSTUBOT_OTT3-3=Більше ніякого Студбота, ніякої конкуренції!
+
+
+# Ott
+### I'm not sure...
+PC10_HITSTUBOT_OTT3-4=Я не впевнений...
+
+
+# Graff
+### It's worth a try.
+PC10_HITSTUBOT_OTT3-5=Варто спробувати.
+
+
+# Ott
+### ...
+PC10_HITSTUBOT_OTT3-6=...
+
+
+#----------------------------------------------------
+# Graff
+### Locked.
+PC10_DOOR_LOCKED-1=Зачинено.
+
+
+#----------------------------------------------------
+

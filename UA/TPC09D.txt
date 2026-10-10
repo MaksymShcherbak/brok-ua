@@ -1,0 +1,3155 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - RJ (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Wes (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Tribotcop (Unknown)
+#     RJ - Brok (Unknown)
+#     RJ - Wes (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Tribotcop - Dee (Unknown)
+#     Tribotcop - Wes (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - RJ (Unknown)
+#     Wes - Tribotcop (Unknown)
+
+#-------------------------------
+#=POLICE INTERROGATION
+#-------------------------------
+
+#----- Interactions --------
+### Barrier
+PC_BARRIER=Бар'єр
+
+### To jail
+PC_TOJAIL=До в'язниці
+
+### To entrance
+PC_TOENTRANCE=До входу
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+### What's your name?
+PC09D_QUESTION1=Як тебе звати?
+
+### What's your job?
+PC09D_QUESTION2=Ким ти працюєш?
+
+### Why did you become a detective?
+PC09D_QUESTION3=Чому ти став детективом?
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What relationship do you have with Sin?
+PC09D_QUESTION4=Які в тебе стосунки з Сіном?
+
+### What have you been doing this morning?
+PC09D_QUESTION5=Що ти робив сьогодні вранці?
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### How do you think we should handle Sin?
+PC09D_QUESTION6=Як, по-твоєму, ми маємо вчинити з Сіном?
+
+### Have you ever murdered someone?
+PC09D_QUESTION8=Ти коли-небудь когось убивав?
+
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Have you killed Lia?
+PC09D_QUESTION9=Ти убив Лію?
+
+### Who did you kill?
+PC09D_QUESTION10=Кого ти убив?
+
+
+
+### Hotdog
+CHOICE_HOTDOG=Хот-дог
+
+### Private detective
+CHOICE_PD=Приватний детектив
+
+### Handyman
+CHOICE_HANDYMAN=Майстер на всі руки
+
+### Dancer
+CHOICE_DANCER=Танцюрист
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### For Graff
+CHOICE_GRAFF=Заради Граффа
+
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### For Lia
+CHOICE_LIA=Заради Лії
+
+### For the money
+CHOICE_MONEY=Заради грошей
+
+### Friend
+CHOICE_FRIEND=Друг
+
+### Client
+CHOICE_CLIENT=Клієнт
+
+### Foe
+CHOICE_FOE=Ворог
+
+### Investigating
+CHOICE_INVESTIGATING=Розслідував справу
+
+### Hacking server
+CHOICE_HACKING=Зламував сервер
+
+### I'm hungry!
+CHOICE_HUNGRY=Я голодний!
+
+### Free
+CHOICE_FREE=Звільнити
+
+### Prison
+CHOICE_PRISON=У в'язницю
+
+### Kill
+CHOICE_KILL=Вбити
+
+### No one
+CHOICE_NOONE=Нікого
+
+### Me
+CHOICE_ME=Себе
+
+### I don't know
+CHOICE_NOIDEA=Не знаю
+
+
+#----- Dialog --------
+# Brok - Both Sin and Brok have been arrested by Wes. He's going to interrogate Brok in this room
+### ...so I gathered a few clues. I had suspicions of course but...
+PC09D_INTRO1-1=...тож я зібрав кілька зачіпок. Я мав підозри, звісно, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### A detective gotta trust his clients a bare minimum, ya know? And this is when I realized that Sin...
+PC09D_INTRO1-2=Детектив мусить бодай трохи довіряти своїм клієнтам, знаєте? І ось тоді я зрозумів, що Сін...
+
+
+# Wes
+### Shut up!
+PC09D_INTRO1-3=Замовкни!
+
+
+# Brok
+### Uh...
+PC09D_INTRO1-4=Е-е...
+
+
+# Wes
+### What a chatterbox you are.
+PC09D_INTRO1-5=Який же ти балакучий.
+
+
+# Wes
+### Sit.
+PC09D_INTRO1-6=Сядь.
+
+
+#----------------------------------------------------
+# Brok
+### Wait a minute...
+PC09D_INTRO2-1=Зачекайте хвилинку...
+
+
+# Brok
+### The interrogation room?
+PC09D_INTRO2-2=Кімната для допитів?
+
+
+# Wes
+### How perspicacious.
+PC09D_INTRO2-3=Який проникливий.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Aren't you supposed to interrogate Sin first?
+PC09D_INTRO2-4=Хіба ви не мали б спершу допитати Сіна?
+
+
+# Wes
+### Uh-uh. In due time.
+PC09D_INTRO2-5=От і ні. Всьому свій час.
+
+
+# Wes
+### Sit!
+PC09D_INTRO2-6=Сідай!
+
+
+# Brok
+### Erm... Okay.
+PC09D_INTRO2-7=Е-е... Добре.
+
+
+#----------------------------------------------------
+# Brok
+### Man, those cuffs sure are tight!...
+PC09D_INTRO3-1=Оце так кайданки, тиснуть...!
+
+
+# Brok
+### They aren't really necessary, ya know...
+PC09D_INTRO3-2=Знаєте, вони не такі вже й потрібні...
+
+
+# Wes
+### Don't be a child. This is the procedure.
+PC09D_INTRO3-3=Не будь дитиною. Це процедура.
+
+
+# Brok
+### Yeah... Procedures, schmedures...
+PC09D_INTRO3-4=Ага... Процедури-шмоцедури...
+
+
+# Brok
+### Ya haven't changed a bit, huh? After all these years...
+PC09D_INTRO3-5=Ви анітрохи не змінилися, га? Після стількох років...
+
+
+# Wes
+### This is irrelevant to the case.
+PC09D_INTRO3-6=Це не стосується справи.
+
+
+# Brok
+### So... What am I guilty of?
+PC09D_INTRO3-7=То... У чому я винен?
+
+
+# Wes
+### We'll determine that.
+PC09D_INTRO3-8=Ми це з'ясуємо.
+
+
+# Tribotcop
+### ...
+PC09D_INTRO3-9=...
+
+
+# Brok
+### ...
+PC09D_INTRO3-10=...
+
+
+# Brok
+### I don't feel comfortable with this robot watching us. Why is it here, anyway?
+PC09D_INTRO3-11=Мені некомфортно від того, що цей робот спостерігає за нами. І взагалі, навіщо він тут?
+
+
+# Wes
+### To perform technical requirements such as recording and testing the equipment.
+PC09D_INTRO3-12=Для виконання технічних вимог, як-от запис та перевірка обладнання.
+
+
+# Wes
+### Just ignore it.
+PC09D_INTRO3-13=Не зважай.
+
+
+# Tribotcop
+### Starting...
+PC09D_INTRO3-14=Запуск...
+
+
+#----------------------------------------------------
+# Brok
+### What's this contraption for?...
+PC09D_INTRO4-1=Для чого ця штуковина...?
+
+
+# Wes
+### The procedure.
+PC09D_INTRO4-2=Для процедури.
+
+
+# Brok
+### Enough with your procedure drivel! I have the right to know what this is!
+PC09D_INTRO4-3=Досить вже цієї маячні про процедури! Я маю право знати, що це таке!
+
+
+# Wes
+### Fine. That's a lie detector.
+PC09D_INTRO4-4=Гаразд. Це детектор брехні.
+
+
+# Brok
+### What?... I thought these weren't reliable enough to...
+PC09D_INTRO4-5=Що...? Я думав, вони недостатньо надійні, щоб...
+
+
+# Wes
+### The engineers have made remarkable improvements.
+PC09D_INTRO4-6=Інженери досягли значного прогресу.
+
+
+# Tribotcop
+### False positives are now reduced to 0.02%, which was deemed an acceptable rate.
+PC09D_INTRO4-7=Рівень хибнопозитивних помилок знижено до 0,02%, що було визнано припустимим рівнем.
+
+
+# Tribotcop
+### As such, this equipment has been recently approved by our Government.
+PC09D_INTRO4-8=Тому це обладнання нещодавно було схвалено нашим Урядом.
+
+
+# Wes
+### A very precious asset.
+PC09D_INTRO4-9=Дуже цінна річ.
+
+
+# Tribotcop
+### Calibration in process... Subject needs to stay still.
+PC09D_INTRO4-10=Триває калібрування... Суб'єкт повинен сидіти нерухомо.
+
+
+# Wes
+### A word of advice. You'd better not lie.
+PC09D_INTRO4-11=Дам одну пораду. Краще не бреши.
+
+
+# Brok
+### Or what?... That thing's gonna electroshock me?
+PC09D_INTRO4-12=А то що...? Ця штука вдарить мене струмом?
+
+
+#----------------------------------------------------
+# Brok
+### N-no way!...
+PC09D_INTRO4B-1=Т-та ну ні...!
+
+
+# Brok
+### Is this even legal?...
+PC09D_INTRO4B-2=Це взагалі законно...?
+
+
+# Tribotcop
+### Calibration over.
+PC09D_INTRO4B-3=Калібрування завершено.
+
+
+# Wes
+### Perfectly legal.
+PC09D_INTRO4B-4=Абсолютно законно.
+
+
+# Wes
+### I could show you the description of the law but I'm not even sure you can read.
+PC09D_INTRO4B-5=Я міг би показати тобі цей закон, але навіть не впевнений, що ти вмієш читати.
+
+
+# Brok
+### Mrrrph...
+PC09D_INTRO4B-6=Мрррр...
+
+
+# Brok
+### I've been to school... for a few years.
+PC09D_INTRO4B-7=Я ходив до школи... кілька років.
+
+
+# Wes
+### Shall we start?
+PC09D_INTRO4B-8=Почнемо?
+
+
+#----------------------------------------------------
+# Wes
+### Listen carefully.
+PC09D_INTRO5-1=Слухай уважно.
+
+
+# Wes
+### I will ask you ten questions.
+PC09D_INTRO5-2=Я поставлю тобі десять запитань.
+
+
+# Wes
+### For each one, you've got exactly ten seconds to reply.
+PC09D_INTRO5-3=На кожне ти маєш рівно десять секунд для відповіді.
+
+
+# Tribotcop
+### It is highly recommended to give the first answer that comes to mind.
+PC09D_INTRO5-4=Наполегливо рекомендується давати першу відповідь, яка спадає на думку.
+
+
+# Wes
+### Our only aim is solving this case.
+PC09D_INTRO5-5=Наша єдина мета - розкрити цю справу.
+
+
+# Wes
+### If the device detects a lie...
+PC09D_INTRO5-6=Якщо пристрій виявить брехню...
+
+
+# Brok
+### Lemme guess. Electro-shock?
+PC09D_INTRO5-7=Дайте вгадаю. Електрошок?
+
+
+# Wes
+### Uh-uh.
+PC09D_INTRO5-8=Угу.
+
+
+# Brok
+### Glad I don't have hair then. It would be such a mess!
+PC09D_INTRO5-9=Радий, що не маю волосся. А то був би такий безлад!
+
+
+# Tribotcop
+### Starting timer...
+PC09D_INTRO5-10=Запуск таймера...
+
+
+#----------------------------------------------------
+# Wes - Wes interrogates Brok. The player has various choices possible.
+### Alright. First question.
+PC09D_INTRO5B-1=Гаразд. Перше запитання.
+
+
+# Wes
+### What is your name?
+PC09D_INTRO5B-2=Як тебе звати?
+
+
+#----------------------------------------------------
+# Brok
+### Ya know my name, inspector.
+PC09D_Q1_BROK-1=Ви знаєте моє ім'я, інспекторе.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### I'm not inspector anymore. From now on, call me "commissioner Wes".
+PC09D_Q1_BROK-2=Я більше не інспектор. Відтепер клич мене "комісар Вес".
+
+
+# Brok
+### Oh. Okay, inspect... err, commissioner.
+PC09D_Q1_BROK-3=О. Добре, інспек... кхм, комісаре.
+
+
+# Tribotcop
+### This question is meant to provide cross checking for fine-tuning end results.
+PC09D_Q1_BROK-4=Це запитання призначене для перехресної перевірки з метою точного налаштування кінцевих результатів.
+
+
+# Wes
+### I still didn't hear your name.
+PC09D_Q1_BROK-5=Я все ще не почув твого імені.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Oh, erm... Yeah. It's Brok.
+PC09D_Q1_BROK-6=О, е-е... Так. Брок.
+
+
+# Wes
+### Are you sure?
+PC09D_Q1_BROK-7=Ти впевнений?
+
+
+# Brok
+### Of course!
+PC09D_Q1_BROK-8=Звісно!
+
+
+# Wes
+### Last name?
+PC09D_Q1_BROK-9=Прізвище?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### It's just Brok.
+PC09D_Q1_BROK-10=Тільки Брок.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Subject now registered as Just Brok.
+PC09D_Q1_BROK-11=Суб'єкт зареєстрований як Тільки Брок.
+
+
+# Brok
+### No, I meant...ugh. Forget it.
+PC09D_Q1_BROK-12=Ні, я мав на увазі... тьху. Забудьте.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Your name?... It's Wes, of course.
+PC09D_Q1_WES-1=Ваше ім'я...? Це Вес, звісно.
+
+
+#----------------------------------------------------
+# Wes
+### I didn't ask you my name!
+PC09D_Q1_WESB-1=Я не питав у тебе моє ім'я!
+
+
+# Wes
+### I know this is difficult for your below-average reptile brain but you need to focus!
+PC09D_Q1_WESB-2=Я знаю, що це важко для твого рептилячого мозку з розвитком нижче середнього, але тобі треба зосередитися!
+
+
+# Brok
+### Hey! I was joking! No need for the insults.
+PC09D_Q1_WESB-3=Гей! Я ж жартував! Не треба образ.
+
+
+#----------------------------------------------------
+# Brok
+### Hotdog.
+PC09D_Q1_HOTDOG-1=Хот-дог.
+
+
+# Wes
+### ...
+PC09D_Q1_HOTDOG-2=...
+
+
+# Tribotcop
+### ...
+PC09D_Q1_HOTDOG-3=...
+
+
+# Brok
+### ...I was expecting to get electroshocked here.
+PC09D_Q1_HOTDOG-4=...Я чекав, що мене зараз вдарить струмом.
+
+
+# Wes
+### You're not the only one. Any explanation?
+PC09D_Q1_HOTDOG-5=Не ти один. Якісь пояснення?
+
+
+# Tribotcop
+### The subject may actually have the secret desire to be called Hotdog.
+PC09D_Q1_HOTDOG-6=Суб'єкт насправді може мати таємне бажання, щоб його називали Хот-догом.
+
+
+# Brok
+### I had no idea...
+PC09D_Q1_HOTDOG-7=Я й гадки не мав...
+
+
+# Wes
+### This reveals a lot about ourselves. Keep doing it.
+PC09D_Q1_HOTDOG-8=Це багато чого розкриває про нас самих. Продовжуй у тому ж дусі.
+
+
+# Brok
+### Erm... Alright...
+PC09D_Q1_HOTDOG-9=Е-е... Гаразд...
+
+
+#----------------------------------------------------
+# Brok - When the player doesn't take a choice
+### Erm...
+PC09D_TIMEOUT-1=Е-е...
+
+
+#----------------------------------------------------
+# Wes
+### Don't take all your time to answer!
+PC09D_TIMEOUT1-1=Не витрачай стільки часу на відповідь!
+
+
+#----------------------------------------------------
+# Wes
+### Again?!
+PC09D_TIMEOUT2-1=Знову?!
+
+
+# Brok
+### Hey, I need more time!
+PC09D_TIMEOUT2-2=Гей, мені потрібно більше часу!
+
+
+#----------------------------------------------------
+# Wes
+### Come on! It's not that difficult!
+PC09D_TIMEOUT3-1=Та годі! Це не так важко!
+
+
+# Brok
+### No pressure, uh? It's not like I had a torture device on my head!
+PC09D_TIMEOUT3-2=Ніякого тиску, га? Наче в мене на голові немає пристрою для тортур!
+
+
+#----------------------------------------------------
+# Brok
+### Argh... My brain is melting.
+PC09D_TIMEOUT4-1=А-аа... У мене мізки плавляться.
+
+
+# Wes
+### What's left of it, anyway.
+PC09D_TIMEOUT4-2=Або те, що від них залишилося.
+
+
+#----------------------------------------------------
+# Wes
+### You can't be serious.
+PC09D_TIMEOUT5-1=Ти це несерйозно.
+
+
+# Tribotcop
+### The subject has a 54.6% probability to want to commit suicide, 40.4% to enjoy pain, and 5% for both.
+PC09D_TIMEOUT5-2=Ймовірність того, що суб'єкт бажає накласти на себе руки - 54,6%, що отримує задоволення від болю - 40,4%, і 5% - і те, й інше.
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09D_TIMEOUT6-1=...
+
+
+#----------------------------------------------------
+# Wes - More interrogation
+### Next question.
+PC09D_Q2-1=Наступне запитання.
+
+
+# Wes
+### What's your job?
+PC09D_Q2-2=Ким ти працюєш?
+
+
+#----------------------------------------------------
+# Brok
+### It's obvious. Private detective.
+PC09D_Q2_PD-1=Це ж очевидно. Приватний детектив.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q2_PD-2=Угу.
+
+
+# Wes
+### If I remember correctly, you used to be a boxer.
+PC09D_Q2_PD-3=Якщо я правильно пам'ятаю, раніше ти був боксером.
+
+
+# Brok
+### I ended my boxing career. Right after the fighting pits were closed.
+PC09D_Q2_PD-4=Я закінчив боксерську кар'єру. Одразу після того, як закрили бійцівські ями.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
+### They got replaced by virtual arenas.
+PC09D_Q2_PD-5=Їх замінили Віртуальні Арени.
+
+
+# Wes
+### Give it a try! You could make a lot of money.
+PC09D_Q2_PD-6=Можеш спробувати! Ти міг би заробити купу грошей.
+
+
+# Brok
+### Oh... Well, erm...
+PC09D_Q2_PD-7=О... Ну, е-е...
+
+
+# Brok
+### I wouldn't dare to participate... They're illegal.
+PC09D_Q2_PD-8=Я б не наважився брати участь... Вони ж незаконні.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q2_PD-9=Угу.
+
+
+# Wes
+### ...
+PC09D_Q2_PD-10=...
+
+
+# Brok
+### ...
+PC09D_Q2_PD-11=...
+
+
+# Tribotcop
+### The subject seems nervous. Sweat has increased by 50%.
+PC09D_Q2_PD-12=Суб'єкт видається знервованим. Виділення поту зросло на 50%.
+
+
+# Tribotcop
+### Should we add a new question to the queue?
+PC09D_Q2_PD-13=Додати нове запитання до черги?
+
+
+# Wes
+### That won't be necessary.
+PC09D_Q2_PD-14=У цьому немає потреби.
+
+
+# Brok
+### ...
+PC09D_Q2_PD-15=...
+
+
+#----------------------------------------------------
+# Brok
+### Handyman!
+PC09D_Q2_HANDYMAN-1=Майстер на всі руки!
+
+
+# Brok
+### I do plumbing, sewing and sometimes even cooking!
+PC09D_Q2_HANDYMAN-2=Я займаюся сантехнікою, шиттям і іноді навіть готую!
+
+
+# Wes
+### ...
+PC09D_Q2_HANDYMAN-3=...
+
+
+# Brok
+### See? I'm telling the truth!
+PC09D_Q2_HANDYMAN-4=Бачите? Я кажу правду!
+
+
+# Wes
+### No surprise there. You put your best competences into practice.
+PC09D_Q2_HANDYMAN-5=Нічого дивного. Ти застосовуєш свої найкращі здібності на практиці.
+
+
+# Tribotcop
+### This declaration makes no sense.
+PC09D_Q2_HANDYMAN-6=Це твердження позбавлене сенсу.
+
+
+# Tribotcop
+### All these tasks can be performed by bots with a lot more efficiency than humans.
+PC09D_Q2_HANDYMAN-7=Усі ці завдання боти можуть виконувати значно ефективніше.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### We Slumers would never let our jobs in the hands of petty tin cans!
+PC09D_Q2_HANDYMAN-8=Ми, мешканці Нетрів, ніколи б не віддали нашу роботу дріб'язковим бляшанкам!
+
+
+# Wes
+### And you can't afford bots.
+PC09D_Q2_HANDYMAN-9=А ще ви не можете дозволити собі ботів.
+
+
+# Brok
+### ...Yeah.
+PC09D_Q2_HANDYMAN-10=...Так.
+
+
+# Wes
+### Your population is declining at a steady rate. Soon you won't have a choice...
+PC09D_Q2_HANDYMAN-11=Ваше населення невпинно зменшується. Невдовзі у вас не буде вибору...
+
+
+# Brok
+### Never!
+PC09D_Q2_HANDYMAN-12=Ніколи!
+
+
+# Brok
+### The strongest survives. That's how it's always been.
+PC09D_Q2_HANDYMAN-13=Виживає найсильніший. Так завжди було.
+
+
+# Wes
+### Uh-uh. Very true.
+PC09D_Q2_HANDYMAN-14=Угу. Щира правда.
+
+
+#----------------------------------------------------
+# Brok
+### What do you think?
+PC09D_Q2_DANCER-1=А ви як думаєте?
+
+
+# Brok
+### I'm a dancer! Sometimes I give lessons...
+PC09D_Q2_DANCER-2=Я танцюрист! Іноді я даю уроки...
+
+
+#----------------------------------------------------
+# Tribotcop
+### It is physically impossible for the subject to be a good dancer due to his proportions.
+PC09D_Q2_DANCERB-1=Фізично неможливо, щоб суб'єкт був хорошим танцюристом через свої пропорції.
+
+
+# Brok
+### I said I dance... Not that I'm good at it.
+PC09D_Q2_DANCERB-2=Я сказав, що танцюю... А не що вмію це добре робити.
+
+
+# Wes
+### Stop wasting our time. The more you do, the longer you'll be held.
+PC09D_Q2_DANCERB-3=Перестань гаяти наш час. Чим більше гаятимеш, тим довше тебе тут триматимуть.
+
+
+# Brok
+### You're just being jealous!
+PC09D_Q2_DANCERB-4=Ви просто заздрите!
+
+
+# Wes
+### ...
+PC09D_Q2_DANCERB-5=...
+
+
+# Wes
+### We're still waiting for a reply.
+PC09D_Q2_DANCERB-6=Ми все ще чекаємо на відповідь.
+
+
+# Brok
+### Alright, alright. I'm a private detective. Happy?
+PC09D_Q2_DANCERB-7=Гаразд, гаразд. Я приватний детектив. Задоволені?
+
+
+#----------------------------------------------------
+# Wes
+### Next question.
+PC09D_Q3-1=Наступне запитання.
+
+
+# Wes
+### Why did you become a detective?
+PC09D_Q3-2=Чому ти став детективом?
+
+
+# Brok
+### And handyman.
+PC09D_Q3-3=І майстром на всі руки.
+
+
+# Wes
+### Whatever.
+PC09D_Q3-4=Неважливо.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm doin' it for Graff.
+PC09D_Q3_GRAFF-1=Я роблю це заради Граффа.
+
+
+# Wes
+### ...
+PC09D_Q3_GRAFF-2=...
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...
+PC09D_Q3_GRAFF-3=Графф...
+
+
+# Wes
+### ...
+PC09D_Q3_GRAFF-4=...
+
+
+# Brok
+### Uh?
+PC09D_Q3_GRAFF-5=Га?
+
+
+# Wes
+### Oh.
+PC09D_Q3_GRAFF-6=О.
+
+
+# Wes
+### I assume this is your son.
+PC09D_Q3_GRAFF-7=Припускаю, це твій син.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### No... He's Lia's.
+PC09D_Q3_GRAFF-8=Ні... Він син Лії.
+
+
+# Brok
+### In her testament, she asked me to...
+PC09D_Q3_GRAFF-9=У своєму заповіті вона попросила мене...
+
+
+# Brok
+### Hey. I thought you'd remember?
+PC09D_Q3_GRAFF-10=Гей. Я гадав, ви пам'ятаєте?
+
+
+# Brok
+### After all, you were in charge of the case five years ago...
+PC09D_Q3_GRAFF-11=Адже п'ять років тому саме ви вели цю справу...
+
+
+# Wes
+### My memory isn't a database, you know.
+PC09D_Q3_GRAFF-12=Моя пам'ять - не база даних, знаєш.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### The chief means he's getting old and can't be as efficient as he used to.
+PC09D_Q3_GRAFF-13=Шеф має на увазі, що він старіє і не може бути таким ефективним, як раніше.
+
+
+# Brok
+### I guess. Lately I've been losing my memory too.
+PC09D_Q3_GRAFF-14=Мабуть. Останнім часом я теж втрачаю пам'ять.
+
+
+# Brok
+### Whatever...
+PC09D_Q3_GRAFF-15=Менше з тим...
+
+
+# Brok
+### I needed to make a livin', for both of us.
+PC09D_Q3_GRAFF-16=Мені потрібно було заробляти на життя нам обом.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### The police ain't helping us so I figured a lot of Slumers could use my assistance...
+PC09D_Q3_GRAFF-17=Поліція нам не допомагає, тож я подумав, що багатьом мешканцям Нетрів знадобиться моя допомога...
+
+
+# Wes
+### Uh-uh.
+PC09D_Q3_GRAFF-18=Угу.
+
+
+# Brok
+### ...
+PC09D_Q3_GRAFF-19=...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### After Lia's death...
+PC09D_Q3_LIA-1=Після смерті Лії...
+
+
+# Brok
+### I... I couldn't get over it.
+PC09D_Q3_LIA-2=Я... Я не міг із цим змиритися.
+
+
+# Brok
+### Ya know...
+PC09D_Q3_LIA-3=Знаєте...
+
+
+# Wes
+### Of course. I was in charge of this case.
+PC09D_Q3_LIA-4=Звісно. Я вів цю справу.
+
+
+# Brok
+### I figured... If I become a detective... I'll get a chance to find the culprit.
+PC09D_Q3_LIA-5=Я подумав... Якщо я стану детективом... то матиму шанс знайти винуватця.
+
+
+# Brok
+### Someone... has to pay.
+PC09D_Q3_LIA-6=Хтось... мусить заплатити.
+
+
+# Wes
+### So this is revenge.
+PC09D_Q3_LIA-7=Отже, це помста.
+
+
+# Brok
+### ...
+PC09D_Q3_LIA-8=...
+
+
+# Brok
+### I'm not sure. Much has happened since then.
+PC09D_Q3_LIA-9=Я не впевнений. Відтоді багато чого сталося.
+
+
+# Wes
+### But you never found any clue.
+PC09D_Q3_LIA-10=Але ти так і не знайшов жодної зачіпки.
+
+
+# Brok
+### No... I hardly have time to focus on that now.
+PC09D_Q3_LIA-11=Ні... Зараз я ледь маю час, щоб зосередитися на цьому.
+
+
+# Brok
+### But I'm not giving up hope.
+PC09D_Q3_LIA-12=Але я не втрачаю надії.
+
+
+# Tribotcop
+### Hope is a hard concept to grasp. It doesn't rely on any factual data.
+PC09D_Q3_LIA-13=Надія - це складне для розуміння поняття. Воно не спирається на жодні фактичні дані.
+
+
+# Brok
+### Hence why you'll never be more than metal scraps on feet.
+PC09D_Q3_LIA-14=Ось чому ти ніколи не будеш чимось більшим, ніж металобрухт на ніжках.
+
+
+# Tribotcop
+### I can sense hostility coming from this subject.
+PC09D_Q3_LIA-15=Я відчуваю ворожість від цього суб'єкта.
+
+
+# Wes
+### Let's move on.
+PC09D_Q3_LIA-16=Рухаємось далі.
+
+
+#----------------------------------------------------
+# Brok
+### What else? For the money, of course!
+PC09D_Q3_MONEY-1=Заради чого ще? Заради грошей, звісно!
+
+
+# Brok
+### You wouldn't believe how much people are ready to spend for putting out the trash or fixing their toilets!
+PC09D_Q3_MONEY-2=Ви й уявити не можете, скільки люди готові заплатити за те, щоб винести сміття чи відремонтувати туалет!
+
+
+#----------------------------------------------------
+# Wes
+### Trying to impress us? What a failure.
+PC09D_Q3_MONEYB-1=Намагаєшся вразити нас? В тебе не вийшло.
+
+
+# Brok
+### I'm not like that...! I-I can't understand...
+PC09D_Q3_MONEYB-2=Я не такий...! Я-я не можу зрозуміти...
+
+
+# Wes
+### I believe you. The lie detector must have fried a good portion of your brain.
+PC09D_Q3_MONEYB-3=Я тобі вірю. Детектор брехні, мабуть, підсмажив добру частину твого мозку.
+
+
+# Brok
+### Yeah!...
+PC09D_Q3_MONEYB-4=Еге ж...!
+
+
+# Brok
+### The truth is, I can barely make ends meet.
+PC09D_Q3_MONEYB-5=Правда в тому, що я ледь зводжу кінці з кінцями.
+
+
+# Brok
+### Sure, I get jobs... but from lads even poorer than myself.
+PC09D_Q3_MONEYB-6=Звісно, я отримую замовлення... але від хлопців ще бідніших за мене.
+
+
+# Brok
+### Most of the time, I can't bear asking them for a retribution.
+PC09D_Q3_MONEYB-7=Здебільшого я просто не можу змусити себе просити в них винагороду.
+
+
+# Wes
+### Working for free?... How charitable and altruistic.
+PC09D_Q3_MONEYB-8=Працювати безкоштовно...? Як благодійно й альтруїстично.
+
+
+# Tribotcop
+### I'd cry if I could.
+PC09D_Q3_MONEYB-9=Я б заплакав, якби міг.
+
+
+# Brok
+### Shut up. Ya have no idea what living...
+PC09D_Q3_MONEYB-10=Заткнися. Ти уяви не маєш, що таке жити...
+
+
+# Brok
+### Real living means.
+PC09D_Q3_MONEYB-11=Що таке справжнє життя.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q3_MONEYB-12=Угу.
+
+
+#----------------------------------------------------
+# Wes
+### Next question.
+PC09D_Q4-1=Наступне запитання.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What relationship do you have with Sin?
+PC09D_Q4-2=Які в тебе стосунки з Сіном?
+
+
+#----------------------------------------------------
+# Brok
+### A good guy. I'd call him a friend now.
+PC09D_Q4_FRIEND_FALSE-1=Хороший хлопець. Тепер я назвав би його другом.
+
+
+#----------------------------------------------------
+# Brok
+### Okay, okay. That's true. I hate him.
+PC09D_Q4_FRIENDB-1=Гаразд, гаразд. Це правда. Я його ненавиджу.
+
+
+# Brok
+### Not only did I waste my time but he'll never pay me!
+PC09D_Q4_FRIENDB-2=Мало того, що я згаяв час, так він мені ще й ніколи не заплатить!
+
+
+# Wes
+### That's for certain.
+PC09D_Q4_FRIENDB-3=Це точно.
+
+
+#----------------------------------------------------
+# Brok
+### Despite what happened... I feel bad for him.
+PC09D_Q4_FRIEND_TRUE-1=Попри те, що сталося... Мені його шкода.
+
+
+# Brok
+### He was ready to put his life in danger for his girl. Who wouldn't do the same in his place?
+PC09D_Q4_FRIEND_TRUE-2=Він був готовий ризикувати життям заради своєї дівчини. Хто б не зробив те саме на його місці?
+
+
+# Wes
+### ...
+PC09D_Q4_FRIEND_TRUE-3=...
+
+
+# Wes
+### You fell for it...
+PC09D_Q4_FRIEND_TRUE-4=І ти на це повівся...
+
+
+# Brok
+### Uh? What do you mean?
+PC09D_Q4_FRIEND_TRUE-5=Га? Що ви маєте на увазі?
+
+
+# Wes
+### Impressive. And you call yourself a detective!
+PC09D_Q4_FRIEND_TRUE-6=Вражає. І ти ще називаєш себе детективом!
+
+
+# Wes
+### You haven't imagined for one second... That what he told you...
+PC09D_Q4_FRIEND_TRUE-7=Ти ні на мить не припустив... Що те, що він тобі сказав...
+
+
+# Wes
+### Could be lies?!
+PC09D_Q4_FRIEND_TRUE-8=Могло бути брехнею?!
+
+
+# Brok
+### ...
+PC09D_Q4_FRIEND_TRUE-9=...
+
+
+# Brok
+### Impossible. I know the guy...
+PC09D_Q4_FRIEND_TRUE-10=Неможливо. Я знаю цього хлопця...
+
+
+# Wes
+### ...who you met that same morning.
+PC09D_Q4_FRIEND_TRUE-11=...якого ти зустрів того ж ранку.
+
+
+# Brok
+### Besides, I spotted a picture of his wife and girl.
+PC09D_Q4_FRIEND_TRUE-12=Крім того, я помітив фотографію його дружини й доньки.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### This could be anyone. Something he printed from the Triweb.
+PC09D_Q4_FRIEND_TRUE-13=Це міг бути хто завгодно. Щось, що він роздрукував із Тривебу.
+
+
+# Brok
+### I can tell lies from truth without a stinkin' machine.
+PC09D_Q4_FRIEND_TRUE-14=Я можу відрізнити брехню від правди й без смердючої машини.
+
+
+# Brok
+### Just like I can blindly trust some people... and should never, ever trust some others.
+PC09D_Q4_FRIEND_TRUE-15=Так само як я можу сліпо довіряти деяким людям... і ніколи в житті не буду довіряти іншим.
+
+
+# Brok
+### You're in the second category.
+PC09D_Q4_FRIEND_TRUE-16=Ви в другій категорії.
+
+
+# Wes
+### ...
+PC09D_Q4_FRIEND_TRUE-17=...
+
+
+# Wes
+### In our job, we don't trust feelings. We trust tangible, hard as rock facts.
+PC09D_Q4_FRIEND_TRUE-18=У нашій роботі ми не довіряємо почуттям. Ми довіряємо чітким, твердим, як камінь, фактам.
+
+
+# Brok
+### Ya haven't changed one bit...
+PC09D_Q4_FRIEND_TRUE-19=Ви анітрохи не змінилися...
+
+
+# Brok
+### No different than this robot watching us, compiling data...
+PC09D_Q4_FRIEND_TRUE-20=Нічим не відрізняєтеся від цього робота, який спостерігає за нами, збираючи дані...
+
+
+# Brok
+### I'd rather be a lousy detective than a cold-as-ice flatfoot with no heart like you!
+PC09D_Q4_FRIEND_TRUE-21=Краще я буду кепським детективом, ніж холодним, як лід, і безсердечним копом, як ви!
+
+
+# Wes
+### Uh-uh.
+PC09D_Q4_FRIEND_TRUE-22=Угу.
+
+
+# Brok
+### Can't you stop with your "uh-uhs"?! It's stressful beyond imagination!
+PC09D_Q4_FRIEND_TRUE-23=Можете припинити це ваше "угу"?! Це неймовірно дратує!
+
+
+# Wes
+### Uh-uh.
+PC09D_Q4_FRIEND_TRUE-24=Угу.
+
+
+#----------------------------------------------------
+# Brok
+### He's... was... my client.
+PC09D_Q4_CLIENT-1=Він... був... моїм клієнтом.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q4_CLIENT-2=Угу.
+
+
+# Brok
+### He was looking for somethin' he lost...
+PC09D_Q4_CLIENT-3=Він шукав те, що загубив...
+
+
+# Wes
+### The gun. No need to explain.
+PC09D_Q4_CLIENT-4=Пістолет. Пояснювати не треба.
+
+
+# Tribotcop
+### The conversation between the subject and the suspect has been fully recorded as evidence number 2563.
+PC09D_Q4_CLIENT-5=Розмову між суб'єктом та підозрюваним повністю записано як доказ номер 2563.
+
+
+# Brok
+### So you know everything!
+PC09D_Q4_CLIENT-6=То ви все знаєте!
+
+
+# Brok
+### What's the point of this whole interrogation?!
+PC09D_Q4_CLIENT-7=Який тоді сенс у цьому всьому допиті?!
+
+
+# Wes
+### I'm the one asking questions here. Focus.
+PC09D_Q4_CLIENT-8=Тут запитання ставлю я. Зосередься.
+
+
+# Wes
+### Tell us how you met.
+PC09D_Q4_CLIENT-9=Розкажи, як ви познайомилися.
+
+
+# Brok
+### He tried to call me endlessly...
+PC09D_Q4_CLIENT-10=Він без упину намагався мені подзвонити...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### I believe he found me on the Triweb. I've seen his searches.
+PC09D_Q4_CLIENT-11=Гадаю, він знайшов мене в Тривебі. Я бачив його пошукові запити.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q4_CLIENT-12=Угу.
+
+
+#----------------------------------------------------
+# Brok
+### What d'ya think? I hate him!
+PC09D_Q4_ENEMY_FALSE-1=А як ви думаєте? Я ненавиджу його!
+
+
+#----------------------------------------------------
+# Brok
+### B-But... He... attacked me! Almost killed me!
+PC09D_Q4_ENEMYB-1=А-але... Він... напав на мене! Ледь не вбив!
+
+
+# Wes
+### I know. A good fight.
+PC09D_Q4_ENEMYB-2=Я знаю. Гарний був бій.
+
+
+#----------------------------------------------------
+# Brok
+### Wait a minute...
+PC09D_Q4_ENEMY_AFTER-1=Зачекайте хвилинку...
+
+
+# Brok
+### You were there? Watching?!
+PC09D_Q4_ENEMY_AFTER-2=Ви були там? І спостерігали?!
+
+
+# Wes
+### We solve cases. We don't prevent little quarrels.
+PC09D_Q4_ENEMY_AFTER-3=Ми розкриваємо справи. Ми не вирішуємо дрібні суперечки.
+
+
+# Brok
+### So you didn't mind if one of us got killed?!
+PC09D_Q4_ENEMY_AFTER-4=Тож вам було байдуже, що хтось із нас міг убити іншого?!
+
+
+# Tribotcop
+### The suspect was not threatening a first-class citizen. There was no reason to intervene.
+PC09D_Q4_ENEMY_AFTER-5=Підозрюваний не погрожував громадянину першого класу. Не було причин втручатися.
+
+
+# Tribotcop
+### One less prisoner means space for another. This is pure logic.
+PC09D_Q4_ENEMY_AFTER-6=На одного в'язня менше - більше місця для іншого. Це чиста логіка.
+
+
+# Brok
+### I can't believe this...
+PC09D_Q4_ENEMY_AFTER-7=Я не можу в це повірити...
+
+
+# Wes
+### In any case, the protocols recommend the lethal use of our guns in such circumstances.
+PC09D_Q4_ENEMY_AFTER-8=У будь-якому разі, протоколи рекомендують застосовувати смертоносну зброю за таких обставин.
+
+
+# Wes
+### You should be thanking us for not intervening!
+PC09D_Q4_ENEMY_AFTER-9=Ти мав би дякувати нам за те, що ми не втрутилися!
+
+
+# Brok
+### Oh yeah... I'm always so lucky.
+PC09D_Q4_ENEMY_AFTER-10=О так... Мені завжди щастить.
+
+
+#----------------------------------------------------
+# Brok
+### What d'ya think? I hate him!
+PC09D_Q4_ENEMY_TRUE-1=А як ви думаєте? Я ненавиджу його!
+
+
+# Brok
+### ...
+PC09D_Q4_ENEMY_TRUE-2=...
+
+
+# Brok
+### (Weird. I thought I'd get electrocuted here.)
+PC09D_Q4_ENEMY_TRUE-3=(Дивно. Я думав, мене зараз струмом вдарить.)
+
+
+# Wes
+### Rightfully so. He attacked you after all.
+PC09D_Q4_ENEMY_TRUE-4=Цілком справедливо. Зрештою, він на тебе напав.
+
+
+#----------------------------------------------------
+# Wes
+### Next question.
+PC09D_Q5-1=Наступне запитання.
+
+
+# Wes
+### What have you been doing this morning?
+PC09D_Q5-2=Що ти робив сьогодні вранці?
+
+
+#----------------------------------------------------
+# Brok
+### My investigation.
+PC09D_Q5_INVESTIGATING-1=Займався розслідуванням.
+
+
+# Wes
+### Be more precise.
+PC09D_Q5_INVESTIGATING-2=Будь точнішим.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I went to Sin's home... Then to the sewers...
+PC09D_Q5_INVESTIGATING-3=Я пішов додому до Сіна... Потім у каналізацію...
+
+
+# Brok
+### Oh, and before that I crossed the border to check the alley and the pharmacy for clues...
+PC09D_Q5_INVESTIGATING-4=О, а перед цим я перетнув кордон, щоб перевірити провулок та аптеку на наявність зачіпок...
+
+
+# Wes
+### Uh-uh. You crossed the border.
+PC09D_Q5_INVESTIGATING-5=Угу. Ти перетнув кордон.
+
+
+# Wes
+### ...
+PC09D_Q5_INVESTIGATING-6=...
+
+
+# Brok
+### Erm... Ya know...
+PC09D_Q5_INVESTIGATING-7=Е-е... Ну знаєте...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### I used to be a Drumer, so...
+PC09D_Q5_INVESTIGATING-8=Раніше я був мешканцем Верхів, тож...
+
+
+# Wes
+### You still have access?
+PC09D_Q5_INVESTIGATING-9=Ти досі маєш доступ?
+
+
+# Wes
+### This isn't acceptable. It should have been revoked long ago.
+PC09D_Q5_INVESTIGATING-10=Це неприпустимо. Його мали скасувати вже дуже давно.
+
+
+# Tribotcop
+### Should the main database be checked for this record?
+PC09D_Q5_INVESTIGATING-11=Перевірити головну базу даних на наявність цього запису?
+
+
+# Wes
+### Yes, please.
+PC09D_Q5_INVESTIGATING-12=Так, будь ласка.
+
+
+#----------------------------------------------------
+# Wes
+### You mentioned the sewers.
+PC09D_Q5_INVESTIGATING2-1=Ти згадав каналізацію.
+
+
+# Brok
+### Erm... Yeah. The gun left tracks that lead me there.
+PC09D_Q5_INVESTIGATING2-2=Е-е... Так. Пістолет залишив сліди, які привели мене туди.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Tell me about the Squealers.
+PC09D_Q5_INVESTIGATING2-3=Розкажи мені про Верескунів.
+
+
+# Brok
+### Their leader and a few of his minions wouldn't let me pass through, so...
+PC09D_Q5_INVESTIGATING2-4=Їхній ватажок і кілька його посіпак не хотіли мене пропускати, тож...
+
+
+# Brok
+### Hey but... How do you know I met them?
+PC09D_Q5_INVESTIGATING2-5=Гей, але... Звідки ви знаєте, що я їх зустрів?
+
+
+# Wes
+### A wild guess. They've been causing a lot of trouble lately.
+PC09D_Q5_INVESTIGATING2-6=Просто здогадка. Останнім часом вони створюють чимало клопоту.
+
+
+# Wes
+### You just confirmed our suspicions.
+PC09D_Q5_INVESTIGATING2-7=Ти щойно підтвердив наші підозри.
+
+
+# Brok
+### Yeah. You need to do somethin' about 'em!
+PC09D_Q5_INVESTIGATING2-8=Ага. Вам треба щось із ними зробити!
+
+
+# Brok
+### They're acting like it's their territory and everything...
+PC09D_Q5_INVESTIGATING2-9=Поводяться так, ніби це їхня територія і все таке...
+
+
+# Wes
+### In due time.
+PC09D_Q5_INVESTIGATING2-10=Всьому свій час.
+
+
+#----------------------------------------------------
+# Brok
+### Gulp!
+PC09D_Q5_REVOCATION-1=(Ковтає слину)
+
+
+# Tribotcop
+### ...
+PC09D_Q5_REVOCATION-2=...
+
+
+# Tribotcop
+### Record found. Revocation request...
+PC09D_Q5_REVOCATION-3=Запис знайдено. Генеруємо запит на анулювання...
+
+
+# Tribotcop
+### There is no availability right now. A ticket has been reserved.
+PC09D_Q5_REVOCATION-4=Наразі немає вільного місця в черзі. Заявку зарезервовано.
+
+
+# Tribotcop
+### The process will be performed as soon as possible. Estimate...
+PC09D_Q5_REVOCATION-5=Процедуру буде виконано якнайшвидше. Орієнтовний час...
+
+
+# Tribotcop
+### 58 hours and 35 minutes from now.
+PC09D_Q5_REVOCATION-6=58 годин і 35 хвилин відтепер.
+
+
+# Wes
+### What a slow process.
+PC09D_Q5_REVOCATION-7=Який повільний процес.
+
+
+# Wes
+### Well, never mind. As long as it's done.
+PC09D_Q5_REVOCATION-8=Що ж, менше з тим. Аби лише зробили.
+
+
+# Brok
+### (Good. That leaves me some time.)
+PC09D_Q5_REVOCATION-9=(Добре. Це дає мені трохи часу.)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin reported losing his gun in Drumer Street.
+PC09D_Q5_HACKING-1=Сін повідомив, що загубив пістолет на Верхах.
+
+
+# Brok
+### I desperately needed to cross the border post...
+PC09D_Q5_HACKING-2=Мені відчайдушно треба було пройти через прикордонний пост...
+
+
+# Brok
+### So I entered that pyramid building and hacked the server to add my identity.
+PC09D_Q5_HACKING-3=Тож я зайшов у ту будівлю-піраміду і зламав сервер, додавши свої дані.
+
+
+# Brok
+### Man, that was tough! That place is literally a hive of lasers!
+PC09D_Q5_HACKING-4=Хух, це було непросто! Те місце - справжній вулик з лазерів!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### My friend Shay helped set this up. She's an expert at hacking servers, ya know!
+PC09D_Q5_HACKING-5=Моя подруга Шей допомогла це влаштувати. Вона експертка зі злому серверів, знаєте!
+
+
+# Wes
+### ...
+PC09D_Q5_HACKING-6=...
+
+
+# Tribotcop
+### ...
+PC09D_Q5_HACKING-7=...
+
+
+# Brok
+### Erm... That's embarassing.
+PC09D_Q5_HACKING-8=Е-е... Якось ніяково вийшло.
+
+
+# Wes
+### You don't say.
+PC09D_Q5_HACKING-9=І не кажи.
+
+
+# Wes
+### Not only did you reveal commiting a crime...
+PC09D_Q5_HACKING-10=Ти не лише зізнався в скоєнні злочину...
+
+
+# Wes
+### But you've implicated your friend as well.
+PC09D_Q5_HACKING-11=А ще й підставив свою подругу.
+
+
+# Wes
+### Bravo.
+PC09D_Q5_HACKING-12=Браво.
+
+
+# Brok
+### Thank you!
+PC09D_Q5_HACKING-13=Дякую!
+
+
+# Wes
+### Agent X-598, please revoke his identity immediately.
+PC09D_Q5_HACKING-14=Агенте X-598, будь ласка, негайно анулюйте його дані.
+
+
+#----------------------------------------------------
+# Wes
+### As for your friend... We shall start an investigation on her as soon as possible.
+PC09D_Q5_HACKING2-1=Щодо твоєї подруги... Ми розпочнемо розслідування щодо неї якнайшвидше.
+
+
+# Brok
+### Oh, great. She's gonna kill me!
+PC09D_Q5_HACKING2-2=О, чудово. Вона мене вб'є!
+
+
+# Wes
+### Only if we won't do it first.
+PC09D_Q5_HACKING2-3=Хіба що ми зробимо це першими.
+
+
+#----------------------------------------------------
+# Brok
+### I'm starving! Can't we take a break?
+PC09D_Q5_HUNGRY-1=Я вмираю з голоду! Ми не можемо зробити перерву?
+
+
+#----------------------------------------------------
+# Brok
+### B-But... I'm not lying... I'm really hungry!
+PC09D_Q5_HUNGRYB-1=А-але... я не брешу... я правда голодний!
+
+
+# Wes
+### It also detects attempts to avoid direct questions.
+PC09D_Q5_HUNGRYB-2=Він також виявляє спроби ухилитися від прямих відповідей.
+
+
+# Brok
+### Couldn't you tell me beforehand?!
+PC09D_Q5_HUNGRYB-3=Не могли сказати заздалегідь?!
+
+
+# Tribotcop
+### The algorithm suggests this question should be skipped.
+PC09D_Q5_HUNGRYB-4=Алгоритм пропонує пропустити це питання.
+
+
+# Wes
+### Very well.
+PC09D_Q5_HUNGRYB-5=Добре.
+
+
+# Brok
+### Hey!... What about my snack?...
+PC09D_Q5_HUNGRYB-6=Гей!... А як щодо мого перекусу...?
+
+
+# Wes
+### ...
+PC09D_Q5_HUNGRYB-7=...
+
+
+#----------------------------------------------------
+# Wes
+### Next question.
+PC09D_Q6-1=Наступне питання.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### How do you think we should handle Sin?
+PC09D_Q6-2=Як, по-твоєму, ми маємо вчинити з Сіном?
+
+
+#----------------------------------------------------
+# Brok
+### It's obvious. Free him immediately!
+PC09D_Q6_FREE-1=Це ж очевидно. Звільніть його негайно!
+
+
+# Brok
+### Give him a second chance! He deserves it.
+PC09D_Q6_FREE-2=Дайте йому другий шанс! Він на це заслуговує.
+
+
+#----------------------------------------------------
+# Wes
+### No, he doesn't. And you seem to agree with us.
+PC09D_Q6_FREENOTOK-1=Ні, не заслуговує. І ти, схоже, згодний з нами.
+
+
+# Brok
+### I... thought I did...
+PC09D_Q6_FREENOTOK-2=Я... гадав, що я...
+
+
+#----------------------------------------------------
+# Wes
+### Deserves...?
+PC09D_Q6_FREEOK-1=Заслуговує...?
+
+
+# Wes
+### So you believe in redemption.
+PC09D_Q6_FREEOK-2=Виходить, ти віриш у спокуту.
+
+
+# Wes
+### You think a criminal can redeem himself and never repeat any wrong-doings again.
+PC09D_Q6_FREEOK-3=Ти вважаєш, що злочинець може спокутувати провину і більше ніколи не чинити правопорушень.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Ya're talkin' about Sin as if he murdered someone!
+PC09D_Q6_FREEOK-4=Ви говорите про Сіна так, ніби він когось убив!
+
+
+#----------------------------------------------------
+# Brok
+### It was just a failed robbery!
+PC09D_Q6_FREEB-1=Це було лише невдале пограбування!
+
+
+# Wes
+### And poisoning a police officer.
+PC09D_Q6_FREEB-2=І отруєння поліцейського.
+
+
+# Wes
+### Nothing important, then.
+PC09D_Q6_FREEB-3=Нічого важливого, виходить.
+
+
+# Brok
+### I wouldn't say not important... But nobody's dead.
+PC09D_Q6_FREEB-4=Я б не сказав, що це неважливо... Але ж ніхто не помер.
+
+
+# Brok
+### Besides... he won't do it again. I'm 100% sure of it.
+PC09D_Q6_FREEB-5=До того ж... він більше цього не зробить. Я впевнений на всі 100%.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q6_FREEB-6=Угу.
+
+
+# Wes
+### Agent X-598. Please give your input on this.
+PC09D_Q6_FREEB-7=Агенте X-598. Будь ласка, надайте інформацію з цього приводу.
+
+
+# Tribotcop
+### There's a 95% probability of criminals committing a new crime within 10 years.
+PC09D_Q6_FREEB-8=Існує 95% ймовірність того, що злочинці скоюють новий злочин протягом 10 років.
+
+
+# Tribotcop
+### This is a well known statistic.
+PC09D_Q6_FREEB-9=Це загальновідома статистика.
+
+
+# Tribotcop
+### Therefore, we suggest the subject must be having some kind of brain malfunction for contradicting this.
+PC09D_Q6_FREEB-10=Тому ми припускаємо, що у суб'єкта стався певний збій у роботі мозку, оскільки він це заперечує.
+
+
+# Brok
+### Oh! So I'm crazy, uh?...
+PC09D_Q6_FREEB-11=О! То я божевільний, га...?
+
+
+# Brok
+### For what? Believing no one's perfect?
+PC09D_Q6_FREEB-12=За що? За те, що вірю: ніхто не ідеальний?
+
+
+# Brok
+### Do all citizens have to believe all the crap you say?
+PC09D_Q6_FREEB-13=Усі громадяни мусять вірити в усю цю маячню, яку ви верзете?
+
+
+# Brok
+### Tell me! What's the source of this blasted figure?
+PC09D_Q6_FREEB-14=Скажіть мені! Звідки взагалі взялася ця проклята цифра?
+
+
+# Brok
+### Even if it were true, there's still a 5% chance to never get in any trouble! And ten years is a very long time!
+PC09D_Q6_FREEB-15=Навіть якби це була правда, все одно є 5% шансу ніколи не потрапити в халепу! А десять років - це дуже довгий термін!
+
+
+# Wes
+### Calm down and focus.
+PC09D_Q6_FREEB-16=Заспокойся і зосередься.
+
+
+# Wes
+### We're not here to judge you.
+PC09D_Q6_FREEB-17=Ми тут не для того, щоб тебе судити.
+
+
+# Brok
+### Yeah, right...
+PC09D_Q6_FREEB-18=Ага, звісно...
+
+
+# Wes
+### Let's move on.
+PC09D_Q6_FREEB-19=Рухаємось далі.
+
+
+#----------------------------------------------------
+# Brok
+### Put him in prison.
+PC09D_Q6_PRISON-1=Посадіть його до в'язниці.
+
+
+# Wes
+### ...Uh-uh.
+PC09D_Q6_PRISON-2=...Угу.
+
+
+# Tribotcop
+### For your information...
+PC09D_Q6_PRISON-3=До вашого відома...
+
+
+# Tribotcop
+### The device was up to 90%, close to shock-reacting when the subject replied.
+PC09D_Q6_PRISON-4=Пристрій дійшов до 90% і був близьким до шокової реакції, коли суб'єкт відповів.
+
+
+# Wes
+### Looks like even you don't really believe this is an appropriate solution.
+PC09D_Q6_PRISON-5=Схоже, навіть ти не віриш, що це належне рішення.
+
+
+# Brok
+### Well... Why not?
+PC09D_Q6_PRISON-6=Ну... Чому ні?
+
+
+# Brok
+### Give him some time to think. That's what prisons are for, right?
+PC09D_Q6_PRISON-7=Дайте йому час подумати. Для цього ж і потрібні в'язниці, хіба ні?
+
+
+# Wes
+### I thought you'd be better aware of our system by now.
+PC09D_Q6_PRISON-8=Я гадав, ти вже краще знайомий з нашою системою.
+
+
+# Wes
+### Prisons are only there for one reason. Give us time before passing judgement.
+PC09D_Q6_PRISON-9=В'язниці існують лише з однієї причини. Дати нам час перед винесенням вироку.
+
+
+# Tribotcop
+### Incidentally, the Government is currently aiming to reduce judgement calculation time.
+PC09D_Q6_PRISON-10=Між іншим, Уряд зараз прагне скоротити час розрахунку вироку.
+
+
+# Tribotcop
+### When this process is finalized, prisons will be deemed unnecessary.
+PC09D_Q6_PRISON-11=Коли цей процес завершиться, в'язниці будуть визнані непотрібними.
+
+
+# Wes
+### There are only three possible outcomes.
+PC09D_Q6_PRISON-12=Є лише три можливі наслідки.
+
+
+# Wes
+### Get freed, exiled, or...
+PC09D_Q6_PRISON-13=Звільнення, вигнання або...
+
+
+# Brok
+### Assassinated.
+PC09D_Q6_PRISON-14=Убивство.
+
+
+# Wes
+### We prefer the term "eliminated".
+PC09D_Q6_PRISON-15=Ми віддаємо перевагу терміну "ліквідований".
+
+
+# Brok
+### Wait a sec. A machine decides whether we live or die...?
+PC09D_Q6_PRISON-16=Чекайте-но. Машина вирішує, жити нам чи вмирати...?
+
+
+# Brok
+### I'm aware of the data thingamabobs to help with the investigation but...
+PC09D_Q6_PRISON-17=Я знаю про всі ці штуковини з базами даних, які допомагають вам в розслідуванні, але...
+
+
+# Brok
+### What happened to "only a human can be judge?"
+PC09D_Q6_PRISON-18=Що сталося з принципом "лише людина може бути суддею"?
+
+
+# Tribotcop
+### This point is still being debated inside the Government.
+PC09D_Q6_PRISON-19=Це питання все ще обговорюється в Уряді.
+
+
+# Tribotcop
+### Which doesn't make sense. Machines don't commit mistakes. They're neutral.
+PC09D_Q6_PRISON-20=Що позбавлено сенсу. Машини не припускаються помилок. Вони нейтральні.
+
+
+# Brok
+### Says who?
+PC09D_Q6_PRISON-21=Хто це сказав?
+
+
+# Tribotcop
+### Commissioner, we've got enough elements for this question.
+PC09D_Q6_PRISON-22=Комісаре, у нас вже достатньо матеріалів щодо цього питання.
+
+
+# Wes
+### Uh-uh. I agree.
+PC09D_Q6_PRISON-23=Угу. Згоден.
+
+
+# Brok
+### What a world we live in...
+PC09D_Q6_PRISON-24=У якому світі ми живемо...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### So... Sin tried to rob valuable medicine, he poisoned a police officer...
+PC09D_Q6_KILL-1=Отже... Сін намагався вкрасти цінні ліки, він отруїв поліцейського...
+
+
+# Brok
+### He brutally attacked me and if I didn't have fighting abilities, I'd probably be dead now!
+PC09D_Q6_KILL-2=Він жорстоко напав на мене, і якби я не вмів битися, я вже був би мертвий!
+
+
+# Brok
+### What are you waiting for? Kill him!
+PC09D_Q6_KILL-3=Чого ви чекаєте? Убийте його!
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09D_Q6_KILLOK-1=...
+
+
+# Wes
+### You're actually OK with us terminating him.
+PC09D_Q6_KILLOK-2=То ти насправді не проти, щоб ми його ліквідували.
+
+
+# Wes
+### Aren't you full of surprises.
+PC09D_Q6_KILLOK-3=А ти сповнений сюрпризів.
+
+
+# Brok
+### I... was just joking...
+PC09D_Q6_KILLOK-4=Я... просто пожартував...
+
+
+# Wes
+### You have no idea how many people "joke" during interrogations.
+PC09D_Q6_KILLOK-5=Ти навіть не уявляєш, скільки людей "жартують" під час допитів.
+
+
+#----------------------------------------------------
+# Wes
+### No. You don't believe this.
+PC09D_Q6_KILLNOTOK-1=Ні. Ти в це не віриш.
+
+
+# Wes
+### This is either extreme foolishness or a mental weakness.
+PC09D_Q6_KILLNOTOK-2=Це або крайнє невігластво, або душевна слабкість.
+
+
+# Brok
+### I... thought this was the answer you expected from me...
+PC09D_Q6_KILLNOTOK-3=Я... думав, такої відповіді ви від мене чекали...
+
+
+# Wes
+### We don't expect anything but the truth from you.
+PC09D_Q6_KILLNOTOK-4=Ми чекаємо від тебе лише правди.
+
+
+# Tribotcop
+### This feedback will be noted as a positive aspect of the subject.
+PC09D_Q6_KILLNOTOK-5=Цю відповідь буде відзначено як позитивний аспект суб'єкта.
+
+
+# Brok
+### Pray tell?!
+PC09D_Q6_KILLNOTOK-6=Та що ви кажете?!
+
+
+# Tribotcop
+### Trying to solve inner conflicts by looking at facts only.
+PC09D_Q6_KILLNOTOK-7=Спроба розв'язати внутрішні конфлікти, зважаючи лише на факти.
+
+
+# Brok
+### I just lied... That's all.
+PC09D_Q6_KILLNOTOK-8=Я просто збрехав... От і все.
+
+
+# Brok
+### You won't change what I believe in.
+PC09D_Q6_KILLNOTOK-9=Ви не зміните те, у що я вірю.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q6_KILLNOTOK-10=Угу.
+
+
+# Wes
+### Talking about that...
+PC09D_Q6_KILLNOTOK-11=До речі, про це...
+
+
+#----------------------------------------------------
+# Wes
+### Next question.
+PC09D_Q8-1=Наступне питання.
+
+
+# Wes
+### Have you ever murdered someone?
+PC09D_Q8-2=Ти коли-небудь когось убивав?
+
+
+# Brok
+### Uh?!
+PC09D_Q8-3=Що?!
+
+
+# Wes
+### Please reply.
+PC09D_Q8-4=Будь ласка, дайте відповідь.
+
+
+# Brok
+### ...
+PC09D_Q8-5=...
+
+
+#----------------------------------------------------
+# Brok
+### Yeah. Of course I've murdered someone!
+PC09D_Q8_YES-1=Ага. Звісно, я когось убив!
+
+
+#----------------------------------------------------
+# Brok
+### No! I've never murdered anyone.
+PC09D_Q8_NO-1=Ні! Я ніколи нікого не вбивав.
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09D_Q8B-1=...
+
+
+# Tribotcop
+### ...
+PC09D_Q8B-2=...
+
+
+# Brok
+### ...
+PC09D_Q8B-3=...
+
+
+# Brok
+### W-What the...?!
+PC09D_Q8B-4=Щ-Що за...?!
+
+
+# Wes
+### Hmm.
+PC09D_Q8B-5=Гмм.
+
+
+# Brok
+### That's impossible! I'd never...
+PC09D_Q8B-6=Це неможливо! Я б ніколи...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09D_Q8_KILLEDTRAMP-1=...
+
+
+# Brok
+### I... I know.
+PC09D_Q8_KILLEDTRAMP-2=Я... Я знаю.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### This morning, I terminated a tramp on my street.
+PC09D_Q8_KILLEDTRAMP-3=Сьогодні вранці я вбив волоцюгу на своїй вулиці.
+
+
+# Wes
+### Did you?
+PC09D_Q8_KILLEDTRAMP-4=Справді?
+
+
+# Brok
+### He... asked me to do it. Incurable disease.
+PC09D_Q8_KILLEDTRAMP-5=Він... попросив мене це зробити. Невиліковна хвороба.
+
+
+# Wes
+### Alright.
+PC09D_Q8_KILLEDTRAMP-6=Добре.
+
+
+# Brok
+### "Alright?" That's all?...
+PC09D_Q8_KILLEDTRAMP-7="Добре?" І це все?...
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### Tramps aren't considered valuable people. Quite the opposite, actually.
+PC09D_Q8_KILLEDTRAMP-8=Волоцюги не вважаються цінними членами суспільства. Скоріше навпаки.
+
+
+# Brok
+### I bet you'd say that. But this was a good person.
+PC09D_Q8_KILLEDTRAMP-9=Я так і знав, що ви це скажете. Але він був доброю душею.
+
+
+# Wes
+### Right.
+PC09D_Q8_KILLEDTRAMP-10=Ясно.
+
+
+#----------------------------------------------------
+# Brok
+### I... couldn't kill someone in cold blood!
+PC09D_Q8_KILLEDNOONE-1=Я... не міг вбити когось холоднокровно!
+
+
+# Brok
+### There's something wrong with your contraption! Ya gotta believe me!
+PC09D_Q8_KILLEDNOONE-2=З вашою штуковиною щось не так! Ви мусите мені повірити!
+
+
+# Wes
+### Uh-uh.
+PC09D_Q8_KILLEDNOONE-3=Угу.
+
+
+# Brok
+### Unless... You're considering bots.
+PC09D_Q8_KILLEDNOONE-4=Хіба що... Ви маєте на увазі ботів.
+
+
+# Wes
+### You've killed bots?
+PC09D_Q8_KILLEDNOONE-5=Ти вбивав ботів?
+
+
+# Brok
+### They can't be killed. They're machines.
+PC09D_Q8_KILLEDNOONE-6=Їх не можна вбити. Вони ж машини.
+
+
+# Tribotcop
+### ...
+PC09D_Q8_KILLEDNOONE-7=...
+
+
+# Wes
+### Uh-uh.
+PC09D_Q8_KILLEDNOONE-8=Угу.
+
+
+# Wes
+### Let's be more specific.
+PC09D_Q8_KILLEDNOONE-9=Уточнімо.
+
+
+#----------------------------------------------------
+# Wes
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Have you killed Lia?
+PC09D_Q9-1=Ти вбив Лію?
+
+
+# Brok
+### What?!
+PC09D_Q9-2=Що?!
+
+
+# Wes
+### Answer the question!
+PC09D_Q9-3=Відповідай на питання!
+
+
+#----------------------------------------------------
+# Brok
+### Sure! I killed her!
+PC09D_Q9_YES-1=Авжеж! Я її вбив!
+
+
+# Brok
+### Then I cut her into a thousand pieces and swallowed 'em!
+PC09D_Q9_YES-2=А потім порізав її на тисячу шматків і проковтнув їх!
+
+
+#----------------------------------------------------
+# Brok
+### Never been so happy to get electroshocked...
+PC09D_Q9_YESB-1=Ще ніколи не був такий радий отримати удар струмом...
+
+
+# Wes
+### So... you didn't.
+PC09D_Q9_YESB-2=Виходить... ти цього не робив.
+
+
+#----------------------------------------------------
+# Brok
+### No! Of course not!
+PC09D_Q9_NO-1=Ні! Звісно, ні!
+
+
+# Wes
+### Say it aloud.
+PC09D_Q9_NO-2=Скажіть це вголос.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### I did not kill Lia!
+PC09D_Q9_NO-3=Я не вбивав Лію!
+
+
+# Brok
+### ...
+PC09D_Q9_NO-4=...
+
+
+# Tribotcop
+### ...
+PC09D_Q9_NO-5=...
+
+
+# Tribotcop
+### The data is confirmed with a 99.998% probability.
+PC09D_Q9_NO-6=Дані підтверджені з ймовірністю 99,998%.
+
+
+# Brok
+### See? Your stupid machine agrees with me!
+PC09D_Q9_NO-7=Бачите? Ваша дурна машина згодна зі мною!
+
+
+# Wes
+### Uh-uh.
+PC09D_Q9_NO-8=Угу.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### What does this have to do with Sin?!
+PC09D_Q9_NO-9=Яке це має відношення до Сіна?!
+
+
+# Wes
+### You can complain later. This interrogation isn't over.
+PC09D_Q9_NO-10=Поскаржишся пізніше. Цей допит ще не закінчився.
+
+
+#----------------------------------------------------
+# Wes
+### Last question.
+PC09D_Q10-1=Останнє питання.
+
+
+# Wes
+### Who did you really kill?
+PC09D_Q10-2=Кого ти насправді вбив?
+
+
+#----------------------------------------------------
+# Brok
+### No one.
+PC09D_Q10_NOONE-1=Нікого.
+
+
+# Brok
+### I've never killed anyone.
+PC09D_Q10_NOONE-2=Я ніколи нікого не вбивав.
+
+
+#----------------------------------------------------
+# Wes
+### I don't quite understand your insistence.
+PC09D_Q10_NOONEB-1=Я не зовсім розумію твою наполегливість.
+
+
+# Brok
+### Are ya tryin' to frame me for somethin'?!
+PC09D_Q10_NOONEB-2=Ви намагаєтеся мене в чомусь підставити?!
+
+
+# Brok
+### Don't tell me I wouldn't remember if I ever killed someone!
+PC09D_Q10_NOONEB-3=Не кажіть мені, ніби я не пам'ятаю, що когось убив!
+
+
+# Tribotcop
+### Technically there's a slim possibility the subject cannot remember doing it.
+PC09D_Q10_NOONEB-4=Технічно існує незначна ймовірність того, що суб'єкт не пам'ятає про скоєне.
+
+
+# Tribotcop
+### This usually happens when suffering from psychotic issues like schizophrenia...
+PC09D_Q10_NOONEB-5=Це зазвичай трапляється при психотичних розладах, таких як шизофренія...
+
+
+# Brok
+### Shut up, you heap of junk! I'm not mad!
+PC09D_Q10_NOONEB-6=Замовкни, купа брухту! Я не божевільний!
+
+
+# Wes
+### Uh-uh.
+PC09D_Q10_NOONEB-7=Угу.
+
+
+# Brok
+### ...
+PC09D_Q10_NOONEB-8=...
+
+
+#----------------------------------------------------
+# Brok
+### I've killed myself.
+PC09D_Q10_ME-1=Я вбив самого себе.
+
+
+#----------------------------------------------------
+# Tribotcop
+### The subject is not making any sense.
+PC09D_Q10_MEB-1=Слова суб'єкта позбавлені сенсу.
+
+
+# Wes
+### I can confirm you're not dead...
+PC09D_Q10_MEB-2=Я можу підтвердити, що ти не мертвий...
+
+
+# Wes
+### But it seems you do want to die prematurely.
+PC09D_Q10_MEB-3=Але, схоже, ти справді хочеш померти передчасно.
+
+
+# Brok
+### Where's your sense of humor?
+PC09D_Q10_MEB-4=А де ваше почуття гумору?
+
+
+# Tribotcop
+### Humor is a concept hard to grasp for us but it seems highly counter-productive...
+PC09D_Q10_MEB-5=Гумор - це поняття, складне для нашого сприйняття, але воно здається вкрай контрпродуктивним...
+
+
+# Brok
+### Yeah yeah, I get the picture. You're no fun.
+PC09D_Q10_MEB-6=Та йдіть ви, я все зрозумів. З вами нудно.
+
+
+# Brok
+### So! Are we done?
+PC09D_Q10_MEB-7=То що! Ми закінчили?
+
+
+# Wes
+### You did this to escape the question...
+PC09D_Q10_MEB-8=Ти зробив це, щоб ухилитися від питання...
+
+
+# Wes
+### Very well.
+PC09D_Q10_MEB-9=Ну добре.
+
+
+#----------------------------------------------------
+# Brok
+### I... can't remember.
+PC09D_Q10_NOIDEA-1=Я... не пам'ятаю.
+
+
+# Wes
+### ...
+PC09D_Q10_NOIDEA-2=...
+
+
+# Tribotcop
+### ...
+PC09D_Q10_NOIDEA-3=...
+
+
+# Brok
+### See? No electroshock. I told you!
+PC09D_Q10_NOIDEA-4=Бачите? Жодного удару струмом. Я ж казав!
+
+
+# Brok
+### Must be somethin' wrong with your machine.
+PC09D_Q10_NOIDEA-5=З вашою машиною явно щось не так.
+
+
+# Wes
+### Uh-uh. Possibly.
+PC09D_Q10_NOIDEA-6=Угу. Можливо.
+
+
+# Tribotcop
+### We agree with the subject. The data of this interrogation is of contradictory nature.
+PC09D_Q10_NOIDEA-7=Ми згодні з суб'єктом. Дані цього допиту мають суперечливий характер.
+
+
+# Wes
+### Very well.
+PC09D_Q10_NOIDEA-8=Добре.
+
+
+#----------------------------------------------------
+# Brok
+### Yeah... There's this robot I met recently.
+PC09D_Q10_BOLT-1=Так... Є один робот, якого я нещодавно зустрів.
+
+
+# Brok
+### After losing his job, he feared being reset and losing his memory...
+PC09D_Q10_BOLT-2=Утративши роботу, він боявся перезавантаження та втрати пам'яті...
+
+
+# Brok
+### There was so much suffering in his voice...
+PC09D_Q10_BOLT-3=У його голосі було стільки страждань...
+
+
+# Wes
+### Uh-uh. So you...
+PC09D_Q10_BOLT-4=Угу. Тож ти...
+
+
+# Brok
+### Destroyed him. Yeah.
+PC09D_Q10_BOLT-5=Знищив його. Так.
+
+
+# Wes
+### ...
+PC09D_Q10_BOLT-6=...
+
+
+# Tribotcop
+### ...
+PC09D_Q10_BOLT-7=...
+
+
+# Brok
+### As I said... It doesn't matter, right?
+PC09D_Q10_BOLT-8=Як я й казав... Це не має значення, так?
+
+
+# Brok
+### I mean, he was just a robot.
+PC09D_Q10_BOLT-9=Тобто, він був лише роботом.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q10_BOLT-10=Угу.
+
+
+# Wes
+### Yet you now consider a robot to be "someone".
+PC09D_Q10_BOLT-11=Проте зараз ти вважаєш робота "кимось".
+
+
+# Brok
+### I... Erm...
+PC09D_Q10_BOLT-12=Я... Е-е...
+
+
+# Brok
+### Ya sure?
+PC09D_Q10_BOLT-13=Ви впевнені?
+
+
+# Wes
+### Remember the question. "Who did you kill".
+PC09D_Q10_BOLT-14=Згадай питання. "Кого ти вбив".
+
+
+# Brok
+### Oh...
+PC09D_Q10_BOLT-15=О...
+
+
+# Brok
+### Well, maybe... But...
+PC09D_Q10_BOLT-16=Ну, можливо... Але...
+
+
+# Brok
+### They're not humans. So...
+PC09D_Q10_BOLT-17=Вони ж не люди. Тож...
+
+
+# Wes
+### They're inferior?
+PC09D_Q10_BOLT-18=Вони гірші за тебе?
+
+
+# Brok
+### Yeah... I guess.
+PC09D_Q10_BOLT-19=Так... Мабуть.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q10_BOLT-20=Угу.
+
+
+# Tribotcop
+### ...
+PC09D_Q10_BOLT-21=...
+
+
+#----------------------------------------------------
+# Brok
+### I told you...
+PC09D_Q10_TRAMP-1=Я ж казав вам...
+
+
+# Brok
+### This morning... There was this old man in my street.
+PC09D_Q10_TRAMP-2=Сьогодні вранці... На моїй вулиці був старий.
+
+
+# Wes
+### Uh-uh.
+PC09D_Q10_TRAMP-3=Угу.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### I'm guessing he was a Slumer.
+PC09D_Q10_TRAMP-4=Думаю, він був Нетрівцем.
+
+
+# Brok
+### Yeah.
+PC09D_Q10_TRAMP-5=Так.
+
+
+# Wes
+### It doesn't matter, then.
+PC09D_Q10_TRAMP-6=Тоді це не має значення.
+
+
+# Brok
+### Obviously... Police ain't supposed to protect us, right?
+PC09D_Q10_TRAMP-7=Очевидно... Поліція ж не повинна нас захищати, так?
+
+
+# Wes
+### We aren't.
+PC09D_Q10_TRAMP-8=Не повинна.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### As a general rule, the population refered to as "Slumers" aren't paying contributions to the police department.
+PC09D_Q10_TRAMP-9=За загальним правилом, населення, яке називають "мешканцями Нетрів", не сплачує внесків до відділку поліції.
+
+
+# Brok
+### Then why are your robots and drones wandering through our streets constantly?
+PC09D_Q10_TRAMP-10=То чому ваші роботи й дрони постійно вештаються нашими вулицями?
+
+
+# Wes
+### Criminals need to be chased, wherever they are.
+PC09D_Q10_TRAMP-11=Злочинців потрібно переслідувати, де б вони не були.
+
+
+# Brok
+### But we're not all..
+PC09D_Q10_TRAMP-12=Але ж ми не всі...
+
+
+# Wes
+### Enough.
+PC09D_Q10_TRAMP-13=Досить.
+
+
+#----------------------------------------------------
+# Wes
+### This interrogation is over.
+PC09D_OVER-1=Цей допит закінчено.
+
+
+# Tribotcop
+### Stopping timer...
+PC09D_OVER-2=Зупинка таймера...
+
+
+# Brok
+### Not too soon!
+PC09D_OVER-3=Нарешті!
+
+
+#----------------------------------------------------
+# Brok - After the interrogation
+### Wait!
+PC09D_OVER1B-1=Зачекайте!
+
+
+# Brok
+### What's up with those last questions?!
+PC09D_OVER1B-2=Що за справи з тими останніми питаннями?!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### They're totally irrelevant to Sin's case!
+PC09D_OVER1B-3=Вони геть не стосуються справи Сіна!
+
+
+# Wes
+### We do not disclose our work methods.
+PC09D_OVER1B-4=Ми не розголошуємо наші методи роботи.
+
+
+# Brok
+### Ohhhh... I see what you're up to.
+PC09D_OVER1B-5=О-о-о... Я розумію, до чого ви хилите.
+
+
+# Brok
+### You're still blaming me for her death?
+PC09D_OVER1B-6=Ви досі звинувачуєте мене в її смерті?
+
+
+# Wes
+### That case has been closed years ago. It was an accident.
+PC09D_OVER1B-7=Цю справу було закрито роки тому. Це був нещасний випадок.
+
+
+# Brok
+### Then why? Why are you bringing this up?
+PC09D_OVER1B-8=Тоді навіщо? Навіщо ви це порушуєте?
+
+
+# Wes
+### We didn't have this powerful hardware at our disposal back then.
+PC09D_OVER1B-9=Тоді у нашому розпорядженні не було цього потужного обладнання.
+
+
+# Wes
+### I just needed to confirm some details.
+PC09D_OVER1B-10=Мені просто потрібно було підтвердити деякі деталі.
+
+
+# Brok
+### Well... Satisfied?
+PC09D_OVER1B-11=Ну... Задоволені?
+
+
+# Wes
+### Uh-uh.
+PC09D_OVER1B-12=Угу.
+
+
+# Brok
+### What I believe is...
+PC09D_OVER1B-13=Я думаю, що...
+
+
+# Wes
+### Not important.
+PC09D_OVER1B-14=Не має значення.
+
+
+# Wes
+### You'll have time to think about it in custody.
+PC09D_OVER1B-15=У тебе буде час подумати про це під вартою.
+
+
+# Brok
+### Custody?! But...!
+PC09D_OVER1B-16=Під вартою?! Але...!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I thought you understood I had nothing to do with Sin's incident?
+PC09D_OVER1B-17=Я гадав, ви зрозуміли, що я не причетний до інциденту з Сіном?
+
+
+# Wes
+### Maybe not, but you sure have your share of problems.
+PC09D_OVER1B-18=Можливо, й ні, але у тебе точно вистачає своїх проблем.
+
+
+# Wes
+### Anyway, the investigation AI needs time to examine your answers.
+PC09D_OVER1B-19=У будь-якому разі, ШІ-системі розслідувань потрібен час, щоб вивчити твої відповіді.
+
+
+# Brok
+### Investigation... AI?
+PC09D_OVER1B-20=ШІ... розслідувань?
+
+
+# Brok
+### You mean an artificial intelligence is gonna solve the case by itself?!
+PC09D_OVER1B-21=Ви хочете сказати, що штучний інтелект розкриє справу самотужки?!
+
+
+# Wes
+### Uh-uh. Most of it.
+PC09D_OVER1B-22=Угу. Більшу її частину.
+
+
+# Brok
+### This is outrageous!...
+PC09D_OVER1B-23=Це обурливо...!
+
+
+# Brok
+### I'm... outraged...
+PC09D_OVER1B-24=Я... обурений...
+
+
+# Wes
+### Do not worry. You're not a suspect for these events.
+PC09D_OVER1B-25=Не хвилюйся. Ти не підозрюваний у цих подіях.
+
+
+# Wes
+### There's not much to solve anyway. This case is crystal clear.
+PC09D_OVER1B-26=У будь-якому разі розслідувати особливо нічого. Ця справа кришталево чиста.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Is it?... Sin could have been framed.
+PC09D_OVER1B-27=Справді?... Сіна могли підставити.
+
+
+# Wes
+### Very unlikely.
+PC09D_OVER1B-28=Малоймовірно.
+
+
+# Wes
+### Let our algorithms do their work. We will release you as soon as possible.
+PC09D_OVER1B-29=Нехай наші алгоритми зроблять свою роботу. Ми звільнимо тебе якнайшвидше.
+
+
+# Brok
+### The sooner the better!
+PC09D_OVER1B-30=Що раніше, то краще!
+
+
+# Wes
+### Hmm.
+PC09D_OVER1B-31=Гмм.
+
+
+# Wes
+### Agent X-598, please start the analysis.
+PC09D_OVER1B-32=Агенте X-598, будь ласка, розпочніть аналіз.
+
+
+# Wes
+### And tell Agent Ray to come in.
+PC09D_OVER1B-33=І скажіть агенту Рею увійти.
+
+
+# Tribotcop
+### Yes, commissioner.
+PC09D_OVER1B-34=Так, комісаре.
+
+
+#----------------------------------------------------
+# Wes
+### ...
+PC09D_OVER2-1=...
+
+
+# Wes
+### Come over on this side.
+PC09D_OVER2-2=Підійди сюди.
+
+
+# Brok
+### Uh?...
+PC09D_OVER2-3=А?...
+
+
+#----------------------------------------------------
+# Wes
+### That's a blind spot.
+PC09D_OVER3-1=Тут сліпа зона.
+
+
+# Brok
+### ...?
+PC09D_OVER3-2=...?
+
+
+# Wes
+### Listen. I hate this as much as you do.
+PC09D_OVER3-3=Слухай. Я ненавиджу це так само, як і ти.
+
+
+# Wes
+### Those AI reliability algorithms, figures and everything...
+PC09D_OVER3-4=Усі ці алгоритми надійності ШІ, цифри і все таке...
+
+
+# Wes
+### A bunch of crap. No robot should be making decisions in our place.
+PC09D_OVER3-5=Купа маячні. Жоден робот не має приймати рішення замість нас.
+
+
+# Brok
+### You don't say!
+PC09D_OVER3-6=І не кажи!
+
+
+# Wes
+### But the law is the law.
+PC09D_OVER3-7=Але закон є закон.
+
+
+# Wes
+### I'm the commissioner here. I need to follow orders.
+PC09D_OVER3-8=Я тут комісар. Я мушу виконувати накази.
+
+
+# Brok
+### From who?!
+PC09D_OVER3-9=Від кого?!
+
+
+#----------------------------------------------------
+# RJ
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### You asked me, chief?
+PC09D_OVER4-1=Ви кликали мене, шеф?
+
+
+# Wes
+### Yes. Please take this man to a cell.
+PC09D_OVER4-2=Так. Відведи цього чолов'ягу до камери.
+
+
+# RJ
+### Okay.
+PC09D_OVER4-3=Гаразд.
+
+
+#----------------------------------------------------
+# RJ
+### At-cha!...
+PC09D_OVER5-1=Апчхи...!
+
+
+# RJ
+### Hey!... You're a cat?...
+PC09D_OVER5-2=Гей...! Ти кіт...?
+
+
+# Brok
+### Uh?...
+PC09D_OVER5-3=Що...?
+
+
+# Wes
+### Don't be foolish. Surely even you can see he's a Reptilian.
+PC09D_OVER5-4=Не дурій. Навіть ти бачиш, що він рептилія.
+
+
+# RJ
+### Yeah but I hate cats!
+PC09D_OVER5-5=Так, але я ненавиджу котів!
+
+
+# RJ
+### Allergic to cat fur. Yuck.
+PC09D_OVER5-6=Алергія на котячу шерсть. Тьху.
+
+
+# Wes
+### Enough!
+PC09D_OVER5-7=Годі!
+
+
+# Wes
+### Screw up one more time and you're fired!
+PC09D_OVER5-8=Ще один прокол - і ти звільнений!
+
+
+# RJ
+### Okay, okay!...
+PC09D_OVER5-9=Добре, добре...!
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### You've changed... Chief.
+PC09D_OVER5-10=Ви змінилися... Шеф.
+
+
+# RJ
+### Never threatened me before...
+PC09D_OVER5-11=Раніше ви мені не погрожували...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC09D_DEAD1-1=...
+
+
+# Tribotcop
+### My sensors indicate that the subject's vital functions turned off.
+PC09D_DEAD1-2=Мої датчики вказують на те, що життєві функції піддослідного вимкнулися.
+
+
+# Wes
+### ...
+PC09D_DEAD1-3=...
+
+
+# Wes
+### What a wimp.
+PC09D_DEAD1-4=Який слабак.
+
+
+# Wes
+### Giving us trouble up until the end, eh?
+PC09D_DEAD1-5=Створював нам клопоти аж до самого кінця, еге ж?
+
+
+# Wes
+### This incident shall not be made public.
+PC09D_DEAD1-6=Цей інцидент не повинен розголошуватися.
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Erase all evidence including the body. Nobody will look for a Slumer.
+PC09D_DEAD1-7=Знищте всі докази, включно з тілом. Ніхто не шукатиме Нетрівця.
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Yes, chief!
+PC09D_DEAD1-8=Так, шефе!
+
+
+#----------------------------------------------------
+# Tribotcop - Day 3 - Dee and Brok come to rescue Sin
+### Human. Not authorized!
+PC09D_SMASH1-1=Людина. Не авторизована!
+
+
+#----------------------------------------------------
+# Dee
+### That barrier solidified as well!
+PC09D_SMASH_FIGHTEND-1=Той бар'єр теж затвердів!
+
+
+# Brok
+### It wasn't there two days ago. I guess they upped the security.
+PC09D_SMASH_FIGHTEND-2=Два дні тому його тут не було. Гадаю, вони посилили охорону.
+
+
+# Dee
+### Smash it, big guy!
+PC09D_SMASH_FIGHTEND-3=Розтрощи його, здорованю!
+
+
+#----------------------------------------------------
+# Brok
+### The way is open!
+PC09D_SMASH_FINALLY-1=Шлях відкритий!
+
+
+# Dee
+### Come on!
+PC09D_SMASH_FINALLY-2=Давай!
+
+
+#----------------------------------------------------
+# Tribotcop
+### What is. Human doing here?!
+PC09D_SPOTTED_STORY280B-1=Що. Людина тут робить?!
+
+
+#----------------------------------------------------
+# Brok
+### Almost there!...
+PC09D_TO_JAIL1-1=Майже на місці!...
+
+
+#----------------------------------------------------
+# Brok
+### Not coming back there!
+PC09D_TO_JAIL_NOPE-1=Я туди не повернуся!
+
+
+#----------------------------------------------------
+# Brok
+### That barrier wasn't there!...
+PC09D_BARRIER1-1=Цього бар'єра тут не було...!
+
+
+# Dee
+### Doesn't matter. Do your trick!
+PC09D_BARRIER1-2=Не має значення. Використай цю штуку!
+
+
+# Brok
+### If it works...
+PC09D_BARRIER1-3=Якщо спрацює...
+
+
+#----------------------------------------------------
+# Brok
+### The deactivation doesn't last long!
+PC09D_BARRIER_AFTER-1=Деактивація триває недовго!
+
+
+#----------------------------------------------------
+# Dee
+### Hey! Where are you going?!
+PC09D_TO_PC09_NOPE-1=Гей! Куди ти йдеш?!
+
+
+# Brok
+### Erm... Sorry.
+PC09D_TO_PC09_NOPE-2=Е-е... Вибач.
+
+
+#----------------------------------------------------
+# Brok
+### Almost there!...
+PC09D_TO_JAIL_DEE1-1=Майже на місці...!
+
+
+# Dee
+### Let's move on!
+PC09D_TO_JAIL_DEE1-2=Рухаємось далі.
+
+
+#----------------------------------------------------
+

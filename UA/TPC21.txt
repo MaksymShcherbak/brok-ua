@@ -1,0 +1,9217 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Armadillo - Bear (Unknown)
+#     Armadillo - Boxersnake (Unknown)
+#     Armadillo - Brok (Unknown)
+#     Armadillo - Hyena (Unknown)
+#     Armadillo - Rooster (Unknown)
+#     Backbadger - Backbat (Unknown)
+#     Backbadger - Brok (Unknown)
+#     Backbadger - Hyena (Unknown)
+#     Backbat - Backbadger (Unknown)
+#     Backbat - Backmouse (Unknown)
+#     Backbat - Brok (Unknown)
+#     Backbunny - Backfox (Unknown)
+#     Backbunny - Hyena (Unknown)
+#     Backclient - Brok (Unknown)
+#     Backclient - Frog (Unknown)
+#     Backclient - Hedgehog (Unknown)
+#     Backclient - Unknown (Unknown)
+#     Backcroc - Brok (Unknown)
+#     Backdave - Brok (Unknown)
+#     Backfox - Backbunny (Unknown)
+#     Backfox - Backroo (Unknown)
+#     Backfox - Brok (Unknown)
+#     Backmouse - Backbat (Unknown)
+#     Backmouse - Brok (Unknown)
+#     Backplatypus - Backrhino (Unknown)
+#     Backplatypus - Backwolf (Unknown)
+#     Backplatypus - Brok (Unknown)
+#     Backrhino - Backplatypus (Unknown)
+#     Backrhino - Brok (Unknown)
+#     Backroo - Backfox (Unknown)
+#     Backroo - Brok (Unknown)
+#     Backwolf - Backplatypus (Unknown)
+#     Backwolf - Brok (Unknown)
+#     Bear - Armadillo (Unknown)
+#     Bear - Boxersnake (Unknown)
+#     Bear - Brok (Unknown)
+#     Bear - Rooster (Unknown)
+#     Bear - Unknown (Unknown)
+#     Boxersnake - Armadillo (Unknown)
+#     Boxersnake - Bear (Unknown)
+#     Boxersnake - Brok (Unknown)
+#     Boxersnake - Hedgehog (Unknown)
+#     Boxersnake - Rooster (Unknown)
+#     Boxersnake - Unknown (Unknown)
+#     Brok - Armadillo (Unknown)
+#     Brok - Backbadger (Unknown)
+#     Brok - Backbat (Unknown)
+#     Brok - Backclient (Unknown)
+#     Brok - Backcroc (Unknown)
+#     Brok - Backdave (Unknown)
+#     Brok - Backfox (Unknown)
+#     Brok - Backmouse (Unknown)
+#     Brok - Backplatypus (Unknown)
+#     Brok - Backrhino (Unknown)
+#     Brok - Backroo (Unknown)
+#     Brok - Backwolf (Unknown)
+#     Brok - Bear (Unknown)
+#     Brok - Boxersnake (Unknown)
+#     Brok - Clint (Unknown)
+#     Brok - Dart (Unknown)
+#     Brok - Frog (Unknown)
+#     Brok - Hedgehog (Unknown)
+#     Brok - Hyena (Unknown)
+#     Brok - Iguana (Unknown)
+#     Brok - Rooster (Unknown)
+#     Brok - Shark (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Unknown (Unknown)
+#     Clint - Brok (Unknown)
+#     Clint - Hyena (Unknown)
+#     Clint - Rooster (Unknown)
+#     Dart - Brok (Unknown)
+#     Frog - Backclient (Unknown)
+#     Frog - Brok (Unknown)
+#     Frog - Hedgehog (Unknown)
+#     Frog - Hyena (Unknown)
+#     Frog - Iguana (Unknown)
+#     Frog - Unknown (Unknown)
+#     Hedgehog - Backclient (Unknown)
+#     Hedgehog - Boxersnake (Unknown)
+#     Hedgehog - Brok (Unknown)
+#     Hedgehog - Frog (Unknown)
+#     Hedgehog - Hyena (Unknown)
+#     Hedgehog - Unknown (Unknown)
+#     Hyena - Armadillo (Unknown)
+#     Hyena - Backbadger (Unknown)
+#     Hyena - Backbunny (Unknown)
+#     Hyena - Brok (Unknown)
+#     Hyena - Clint (Unknown)
+#     Hyena - Frog (Unknown)
+#     Hyena - Hedgehog (Unknown)
+#     Hyena - Iguana (Unknown)
+#     Hyena - Rooster (Unknown)
+#     Hyena - Shark (Unknown)
+#     Hyena - Unknown (Unknown)
+#     Iguana - Brok (Unknown)
+#     Iguana - Frog (Unknown)
+#     Iguana - Hyena (Unknown)
+#     Rooster - Armadillo (Unknown)
+#     Rooster - Bear (Unknown)
+#     Rooster - Boxersnake (Unknown)
+#     Rooster - Brok (Unknown)
+#     Rooster - Clint (Unknown)
+#     Rooster - Hyena (Unknown)
+#     Rooster - Unknown (Unknown)
+#     Shark - Brok (Unknown)
+#     Shark - Hyena (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Unknown - Backclient (Unknown)
+#     Unknown - Bear (Unknown)
+#     Unknown - Boxersnake (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Frog (Unknown)
+#     Unknown - Hedgehog (Unknown)
+#     Unknown - Hyena (Unknown)
+#     Unknown - Rooster (Unknown)
+
+#-------------------------------
+#= DLC BRAWL BAR
+#-------------------------------
+# Brok - Story scene - Brok arrives to the bar for the first time
+### Erm... Hello?
+PC21_00_HEDGEHOG1-1=
+
+
+# Hedgehog
+### Hello, sir! Welcome!
+PC21_00_HEDGEHOG1-2=
+
+
+# Hedgehog
+### Sorry for earlier. Just a way to filter bots.
+PC21_00_HEDGEHOG1-3=
+
+
+# Hedgehog
+### They'd never say something so stupid!
+PC21_00_HEDGEHOG1-4=
+
+
+# Brok
+### I... see...
+PC21_00_HEDGEHOG1-5=
+
+
+# Hedgehog
+### Here for the fights, right?
+PC21_00_HEDGEHOG1-6=
+
+
+# Brok
+### Fights...?
+PC21_00_HEDGEHOG1-7=
+
+
+# Hedgehog
+### I handle the extra challenges! Go see my boss, he'll fill you in.
+PC21_00_HEDGEHOG1-8=
+
+
+# Brok
+### Okay...?
+PC21_00_HEDGEHOG1-9=
+
+
+#----------------------------------------------------
+# Frog - Talking to the frog before being introduced
+### Hmm...
+PC21_00_FROG1-1=
+
+
+# Brok
+### Hmm...?
+PC21_00_FROG1-2=
+
+
+# Frog
+### Hmm.
+PC21_00_FROG1-3=
+
+
+#----------------------------------------------------
+# Hyena - First talk
+### Hey, newcomer! Have a seat, please.
+PC21_00_HYENA1-1=
+
+
+# Brok
+### No, thanks. What's this place, a bar?
+PC21_00_HYENA1-2=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Sure is. Best bar in the Slums, I can tell ya!
+PC21_00_HYENA1-3=
+
+
+# Hyena - Word play "a high bar to reach"
+### Not that the bar is high... Ha!
+PC21_00_HYENA1-4=
+
+
+# Brok
+### ...?
+PC21_00_HYENA1-5=
+
+
+# Hyena
+### Get it? Bar?
+PC21_00_HYENA1-6=
+
+
+# Hyena - Word play. If not possible in your language, replace with another joke.
+### We're an underground bar, and the bar is low so... Ah, forget it.
+PC21_00_HYENA1-7=
+
+
+# Hyena
+### You should try our VR challenges! You'd fit right in!
+PC21_00_HYENA1-8=
+
+
+# Brok
+### VR? Like... Oh, those cabins.
+PC21_00_HYENA1-9=
+
+
+# Hyena
+### Right. They're free to use. Just take one!
+PC21_00_HYENA1-10=
+
+
+# Hyena
+### Go ahead!
+PC21_00_HYENA1-11=
+
+
+# Brok
+### Wait, you didn't explain m...
+PC21_00_HYENA1-12=
+
+
+# Hyena
+### Leave the chitchat for later! You're clearly not that kind of guy.
+PC21_00_HYENA1-13=
+
+
+# Brok
+### (Hmmph... Who does he take me for...)
+PC21_00_HYENA1-14=
+
+
+# Hyena
+### Look. This should convince you!
+PC21_00_HYENA1-15=
+
+
+#----------------------------------------------------
+# Brok
+### Boxing gloves?!
+PC21_00_HYENA1B-1=
+
+
+# Hyena
+### Take'em!
+PC21_00_HYENA1B-2=
+
+
+#----------------------------------------------------
+# Hyena
+### Take those gloves!
+PC21_00_HYENA1C-1=
+
+
+#----------------------------------------------------
+# Brok
+### Oh man. Been years since I've worn some!
+PC21_00_HYENA2-1=
+
+
+# Brok
+### How did you know?
+PC21_00_HYENA2-2=
+
+
+# Hyena
+### Call it a sixth sense.
+PC21_00_HYENA2-3=
+
+
+#----------------------------------------------------
+# Hyena - Brok just put the boxing attire on
+### Changing in the blink of an eye. Now that's a superpower!
+PC21_00_HYENA2B-1=
+
+
+# Brok
+### Second nature to me!
+PC21_00_HYENA2B-2=
+
+
+# Hyena
+### Well, you can't exactly interact in this state. Save it for the fights, supercroc.
+PC21_00_HYENA2B-3=
+
+
+#----------------------------------------------------
+# Hyena
+### We'll chat later. Check the VR cabins!
+PC21_00_HYENA2C-1=
+
+
+#----------------------------------------------------
+# Brok - First time losing in VR cabin
+### ...
+PC21_AFTER_LOSE-1=
+
+
+# Brok
+### Strange. I lost, but it doesn't hurt like normal.
+PC21_AFTER_LOSE-2=
+
+
+# Hedgehog
+### Like normal?
+PC21_AFTER_LOSE-3=
+
+
+# Brok
+### The VR cabins I'm used to make every hit feel like I'm losing teeth.
+PC21_AFTER_LOSE-4=
+
+
+# Hedgehog
+### Oh, we set the cabins to "normal sensitivity."
+PC21_AFTER_LOSE-5=
+
+
+# Brok
+### That's a setting?! You mean I can't die in here?
+PC21_AFTER_LOSE-6=
+
+
+# Hedgehog
+### Of course not! What a silly idea!
+PC21_AFTER_LOSE-7=
+
+
+# Hedgehog
+### That other cabin must've been set wayyy past the safety limit.
+PC21_AFTER_LOSE-8=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...!
+PC21_AFTER_LOSE-9=
+
+
+#----------------------------------------------------
+# Hyena - Exit after first fight
+### Hey! How'd your first round go?
+PC21_10_EXITVR-1=
+
+
+# Brok
+### Tough...
+PC21_10_EXITVR-2=
+
+
+#----------------------------------------------------
+# Brok
+### Say, what did I just win? Some blue coins?
+PC21_10_FIRSTFIGHT_WIN-1=
+
+
+# Hedgehog
+### C-Tokens! Our private currency.
+PC21_10_FIRSTFIGHT_WIN-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### So... I'm not getting any Unis for this?
+PC21_10_FIRSTFIGHT_WIN-3=
+
+
+# Hedgehog
+### Nope!
+PC21_10_FIRSTFIGHT_WIN-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### But I can convert those C-Thingies into Unis, right?
+PC21_10_FIRSTFIGHT_WIN-5=
+
+
+# Hedgehog
+### Nope!
+PC21_10_FIRSTFIGHT_WIN-6=
+
+
+# Hedgehog
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Can't convert back or forth. And you can't spend Unis, either.
+PC21_10_FIRSTFIGHT_WIN-7=
+
+
+# Brok
+### Seems like a scam to me...
+PC21_10_FIRSTFIGHT_WIN-8=
+
+
+# Hedgehog
+### Well, that's not tooootally true.
+PC21_10_FIRSTFIGHT_WIN-9=
+
+
+# Hedgehog
+### You can purchase items from the machine near the jukebox with your tokens, but they're virtual and can only be used inside the VR cabins.
+PC21_10_FIRSTFIGHT_WIN-10=
+
+
+#----------------------------------------------------
+# Hedgehog
+### You can also use C-Tokens to skip challenges and to spin our special wheel!
+PC21_10_FIRSTFIGHT_WIN2-1=
+
+
+# Frog
+### And the restaurant.
+PC21_10_FIRSTFIGHT_WIN2-2=
+
+
+# Hedgehog
+### Oh yeah! Stupid me, I always forget the main course!
+PC21_10_FIRSTFIGHT_WIN2-3=
+
+
+# Hedgehog
+### Consider this bar an independent country within another independent country!
+PC21_10_FIRSTFIGHT_WIN2-4=
+
+
+# Hedgehog
+### Our own money, our own rule!
+PC21_10_FIRSTFIGHT_WIN2-5=
+
+
+# Brok
+### Right...
+PC21_10_FIRSTFIGHT_WIN2-6=
+
+
+# Frog
+### (Pssst...The actual reason is...)
+PC21_10_FIRSTFIGHT_WIN2-7=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### (Unis are traceable. We don't want any of that government money, or it might trace back to us.)
+PC21_10_FIRSTFIGHT_WIN2-8=
+
+
+# Brok
+### Huh...
+PC21_10_FIRSTFIGHT_WIN2-9=
+
+
+#----------------------------------------------------
+# Brok - Exit VR cabin after a few challenges
+### Hey, quick question.
+PC21_20_EXITVR-1=
+
+
+# Brok
+### I don't recognize some of the people I'm fighting. Aren't VR cabinets supposed to model enemies off of my own memories?
+PC21_20_EXITVR-2=
+
+
+# Hyena
+### It's a mix.
+PC21_20_EXITVR-3=
+
+
+# Hyena
+### Some are bots created from scratch.
+PC21_20_EXITVR-4=
+
+
+# Hyena
+### Others are actual citizens whose skills and appearance were recorded, and are played by an AI.
+PC21_20_EXITVR-5=
+
+
+# Hedgehog
+### You'll even encounter real folks from other VR cabins, playing live!
+PC21_20_EXITVR-6=
+
+
+# Hyena
+### That's the beauty of this technology. You can't tell!
+PC21_20_EXITVR-7=
+
+
+# Brok
+### So there's a chance some of these people I don't recognize might show up here?
+PC21_20_EXITVR-8=
+
+
+# Hyena
+### More than you'd think! Ha ha!
+PC21_20_EXITVR-9=
+
+
+#----------------------------------------------------
+# Brok
+### Weird... For a minute I thought I was...
+PC21_EXITVR_ANOTHERCHAR-1=
+
+
+# Frog
+### Yes. You can imitate people you know. Borrow their appearance and fight style.
+PC21_EXITVR_ANOTHERCHAR-2=
+
+
+# Brok
+### What? How?!
+PC21_EXITVR_ANOTHERCHAR-3=
+
+
+# Frog
+### Do I look like a coder? We simply bought the cabins.
+PC21_EXITVR_ANOTHERCHAR-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### That doesn't even make any sense! And Shay told me it was impossible.
+PC21_EXITVR_ANOTHERCHAR-5=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay! Yes, I remember her. Slums competition! Nasty, nasty!
+PC21_EXITVR_ANOTHERCHAR-6=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Well, we own private servers, separate from the Triweb.
+PC21_EXITVR_ANOTHERCHAR-7=
+
+
+# Frog
+### No online bets, no problems!
+PC21_EXITVR_ANOTHERCHAR-8=
+
+
+#----------------------------------------------------
+# Brok - Exit VR cabin after a few challenges
+### (Pant)
+PC21_30_EXITVR-1=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles, I'm waiting for your explanation.
+PC21_30_EXITVR-2=
+
+
+# Brok
+### ...?
+PC21_30_EXITVR-3=
+
+
+#----------------------------------------------------
+# Frog
+### Why do I have a 350 C-Tokens hole in my accounting?
+PC21_30_EXITVR2-1=
+
+
+# Hedgehog
+### Oh, hmm...
+PC21_30_EXITVR2-2=
+
+
+# Hedgehog
+### I know! The tips!
+PC21_30_EXITVR2-3=
+
+
+# Hedgehog
+### You forgot a line in the account journal.
+PC21_30_EXITVR2-4=
+
+
+# Frog
+### Blaming me?! How dare you!
+PC21_30_EXITVR2-5=
+
+
+# Hedgehog
+### I didn't make a mistake. You did.
+PC21_30_EXITVR2-6=
+
+
+# Frog
+### Youngsters these days... No respect.
+PC21_30_EXITVR2-7=
+
+
+# Brok
+### Say, why C-Tokens?
+PC21_30_EXITVR2-8=
+
+
+# Brok
+### Why not, dunno... D-Dummies?
+PC21_30_EXITVR2-9=
+
+
+# Hedgehog
+### The "C" stands for "CounterAttack," because we're the CounterAttack Bar!
+PC21_30_EXITVR2-10=
+
+
+# Frog
+### This place is our way of pushing back against the laws that outlawed these clubs. It's revenge.
+PC21_30_EXITVR2-11=
+
+
+# Hedgehog
+### To put it bluntly.
+PC21_30_EXITVR2-12=
+
+
+#----------------------------------------------------
+# Hedgehog - Exit VR cabin after a few challenges - Puzzles gives food to clients
+### There ya go, sir!
+PC21_40_EXITVR-1=
+
+
+# Backclient
+### Smells good! Who does the cooking?
+PC21_40_EXITVR-2=
+
+
+# Hedgehog
+### Erm... our chef, of course!
+PC21_40_EXITVR-3=
+
+
+# Brok
+### Chef? But I haven't seen...
+PC21_40_EXITVR-4=
+
+
+# Hedgehog
+### (Psst, not in front of the clients.)
+PC21_40_EXITVR-5=
+
+
+# Brok
+### Huh?
+PC21_40_EXITVR-6=
+
+
+#----------------------------------------------------
+# Hedgehog
+### We serve canned food. None of us have time to cook.
+PC21_40_EXITVR2-1=
+
+
+# Hedgehog
+# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+### We scored an excellent deal on a big supply of Tomatoze Lungfish Fillet!
+PC21_40_EXITVR2-2=
+
+
+# Brok
+### Oh man, been months since I've had seafood!
+PC21_40_EXITVR2-3=
+
+
+# Hedgehog
+### If you beat all the challenges, I'll make sure you get some!
+PC21_40_EXITVR2-4=
+
+
+# Brok
+### Deal!
+PC21_40_EXITVR2-5=
+
+
+# Brok
+### And if you need a cook, I'm right here!
+PC21_40_EXITVR2-6=
+
+
+# Hedgehog
+### Erm... we'll see!
+PC21_40_EXITVR2-7=
+
+
+#----------------------------------------------------
+# Backclient - Exit VR cabin after a few challenges - A client complains
+### This is unacceptable!
+PC21_50_EXITVR-1=
+
+
+# Frog
+### Any problem, madam?
+PC21_50_EXITVR-2=
+
+
+# Backclient
+### This food is cold!
+PC21_50_EXITVR-3=
+
+
+# Frog
+### That's because you've been talking instead of eating.
+PC21_50_EXITVR-4=
+
+
+# Backclient
+### Such insolence!
+PC21_50_EXITVR-5=
+
+
+# Backclient
+### Here's your money, but don't expect me to come back!
+PC21_50_EXITVR-6=
+
+
+#----------------------------------------------------
+# Brok
+### Aren't you afraid of losing clients?
+PC21_50_EXITVR2-1=
+
+
+# Frog
+### I'm doing a favor to all of us.
+PC21_50_EXITVR2-2=
+
+
+# Frog
+### Believe me, you don't want clients like this.
+PC21_50_EXITVR2-3=
+
+
+#----------------------------------------------------
+# Hedgehog - Exit VR cabin after a few challenges - Puzzles does a mistake in front of a client
+### There you go, sir! Enjoy your...
+PC21_120_EXITVR-1=
+
+
+# Backclient
+### Watch out!
+PC21_120_EXITVR-2=
+
+
+# Unknown
+### (Bottle breaks)
+PC21_120_EXITVR-3=
+
+
+# Hedgehog
+### Oh no... my hand slipped.
+PC21_120_EXITVR-4=
+
+
+# Hedgehog
+### Please excuse me. I'll bring you another one.
+PC21_120_EXITVR-5=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Boss... I'm sorry...
+PC21_120_EXITVR2-1=
+
+
+# Hedgehog
+### This was an expensive bottle. I'm way too clumsy...
+PC21_120_EXITVR2-2=
+
+
+# Hedgehog
+### I don't deserve to work for you.
+PC21_120_EXITVR2-3=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles...
+PC21_120_EXITVR2-4=
+
+
+# Hedgehog
+### If you choose to let me go, I'll understand.
+PC21_120_EXITVR2-5=
+
+
+# Frog
+### Listen.
+PC21_120_EXITVR2-6=
+
+
+# Frog
+### This is your first job. Everyone makes mistakes.
+PC21_120_EXITVR2-7=
+
+
+# Frog
+### That's what makes us human. If we wanted a bot, we would have one.
+PC21_120_EXITVR2-8=
+
+
+# Frog
+### We chose you because we believe in you.
+PC21_120_EXITVR2-9=
+
+
+# Hyena
+### I couldn't say it better myself.
+PC21_120_EXITVR2-10=
+
+
+# Hedgehog
+### I...
+PC21_120_EXITVR2-11=
+
+
+# Hedgehog
+### Thanks.
+PC21_120_EXITVR2-12=
+
+
+# Hedgehog
+### Okay! Then I'll do my best!
+PC21_120_EXITVR2-13=
+
+
+#----------------------------------------------------
+# Frog
+### Well, I still need to account for this loss.
+PC21_120_EXITVR3-1=
+
+
+# Frog
+### Guess I'll deduct it from your salary, 'Jaw.
+PC21_120_EXITVR3-2=
+
+
+# Hyena
+### Urgh...
+PC21_120_EXITVR3-3=
+
+
+#----------------------------------------------------
+# Brok - Before entering VR, the menu gets glitched out
+### ...
+PC21_130_ENTERVR-1=
+
+
+# Brok
+### Wait a minute...
+PC21_130_ENTERVR-2=
+
+
+# Brok
+### What's going on? It's all glitched out!
+PC21_130_ENTERVR-3=
+
+
+# Hedgehog
+### Oh no. It's happening again.
+PC21_130_ENTERVR-4=
+
+
+# Hedgehog
+### The virus is back!
+PC21_130_ENTERVR-5=
+
+
+# Brok
+### Virus?
+PC21_130_ENTERVR-6=
+
+
+# Hedgehog
+### Quick, choose any previous challenge and win it!
+PC21_130_ENTERVR-7=
+
+
+# Brok
+### Isn't that dangerous?
+PC21_130_ENTERVR-8=
+
+
+# Hedgehog
+### It'll be worse if you don't do anything!
+PC21_130_ENTERVR-9=
+
+
+# Brok
+### How?
+PC21_130_ENTERVR-10=
+
+
+# Hedgehog
+### Stop talking! Just do it!
+PC21_130_ENTERVR-11=
+
+
+# Brok
+### O...kay...
+PC21_130_ENTERVR-12=
+
+
+#----------------------------------------------------
+# Hedgehog
+### No no, you need to replay an old challenge!
+PC21_130_BUGNEW-1=
+
+
+# Hedgehog
+### Playing a new one will destroy the space time stability!
+PC21_130_BUGNEW-2=
+
+
+# Brok
+### Aren't you exaggerating?
+PC21_130_BUGNEW-3=
+
+
+# Hedgehog
+### You're gonna try to anyway?
+PC21_130_BUGNEW-4=
+
+
+# Brok
+### ...yeah?
+PC21_130_BUGNEW-5=
+
+
+# Hedgehog
+### Good thing I blocked that option, then.
+PC21_130_BUGNEW-6=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Oh no, the virus is still spreading.
+PC21_130_BUGNOPE-1=
+
+
+# Hedgehog
+### Get back into it! You need to win one of those challenges again!
+PC21_130_BUGNOPE-2=
+
+
+# Brok
+### I will, I will!
+PC21_130_BUGNOPE-3=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Congratulations!
+PC21_130_BUGAFTER-1=
+
+
+# Hedgehog
+### You bested our home-made virus!
+PC21_130_BUGAFTER-2=
+
+
+# Brok
+### You mean...
+PC21_130_BUGAFTER-3=
+
+
+# Hedgehog
+### There never was one. All fabricated. Part of the challenge, if you will.
+PC21_130_BUGAFTER-4=
+
+
+# Hedgehog
+### It was my idea to spice things up! Did you like it?
+PC21_130_BUGAFTER-5=
+
+
+# Brok
+### Let me think...
+PC21_130_BUGAFTER-6=
+
+
+# Brok
+### No, not really.
+PC21_130_BUGAFTER-7=
+
+
+# Hedgehog
+### Oh.
+PC21_130_BUGAFTER-8=
+
+
+# Hedgehog
+### Sorry. I'll do better...
+PC21_130_BUGAFTER-9=
+
+
+# Brok
+### Just gimme C-Tokens after this, and my opinion will change!
+PC21_130_BUGAFTER-10=
+
+
+# Hedgehog
+### Yeah! Good idea!
+PC21_130_BUGAFTER-11=
+
+
+# Hedgehog
+### I'll have that ready for the next challenger. Thanks for the advice!
+PC21_130_BUGAFTER-12=
+
+
+# Brok
+### The next one... Of course...
+PC21_130_BUGAFTER-13=
+
+
+#----------------------------------------------------
+# Brok - Exit VR cabin after a few challenges - Puzzles found some old pictures
+### ...
+PC21_140_EXITVR-1=
+
+
+# Hedgehog
+### I had no idea! That's so cool!
+PC21_140_EXITVR-2=
+
+
+#----------------------------------------------------
+# Brok
+### What's going on?
+PC21_140_EXITVR2-1=
+
+
+# Hedgehog
+### I found some old pictures stuck in the corner of my desk!
+PC21_140_EXITVR2-2=
+
+
+#----------------------------------------------------
+# Hedgehog
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Look! It's Tenderjaw when he was young!
+PC21_140_EXITVR3-1=
+
+
+# Hyena
+### Yeah...
+PC21_140_EXITVR3-2=
+
+
+# Brok
+### I see!
+PC21_140_EXITVR3-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Isn't that Sharpteeth the Thief?
+PC21_140_EXITVR3-4=
+
+
+# Hedgehog
+### Oh my god, I would soooo freak out to meet a legend like him!
+PC21_140_EXITVR3-5=
+
+
+# Hedgehog
+### Why the long face, boss?
+PC21_140_EXITVR3-6=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### I've made mistakes and have regrets, Puzzles. You'll understand when you're older.
+PC21_140_EXITVR3-7=
+
+
+# Hedgehog
+### Nonsense! As a veteran fighter, you're a model for me!
+PC21_140_EXITVR3-8=
+
+
+# Hedgehog
+### I want to get strong like you and face popular fighters!
+PC21_140_EXITVR3-9=
+
+
+# Hedgehog
+### And have a metal jaw! That rocks!
+PC21_140_EXITVR3-10=
+
+
+# Hyena
+### You might not want that, though.
+PC21_140_EXITVR3-11=
+
+
+# Hyena
+### But... alright, I'll add these to my photo albums.
+PC21_140_EXITVR3-12=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Please go back to work now, Miss Bubbles is looking daggers at us.
+PC21_140_EXITVR3-13=
+
+
+# Hedgehog
+### Sure, sir!
+PC21_140_EXITVR3-14=
+
+
+#----------------------------------------------------
+# Frog - A client escapes without paying
+### Sir! Come back here!
+PC21_150_EXITVR-1=
+
+
+# Brok
+### Oh oh...
+PC21_150_EXITVR-2=
+
+
+#----------------------------------------------------
+# Frog
+### It happened again.
+PC21_150_EXITVR2-1=
+
+
+# Brok
+### What did?
+PC21_150_EXITVR2-2=
+
+
+# Hyena
+### A client left without paying.
+PC21_150_EXITVR2-3=
+
+
+# Hedgehog
+### I'm super sorry. They didn't leave me with time to react.
+PC21_150_EXITVR2-4=
+
+
+# Frog
+### That's not your fault, sweety.
+PC21_150_EXITVR2-5=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### We're in the Slums. There are some bad seeds.
+PC21_150_EXITVR2-6=
+
+
+# Frog
+### I told you, we need to ask payment before serving!
+PC21_150_EXITVR2-7=
+
+
+# Hyena
+### That isn't how I want to run this business and you know it.
+PC21_150_EXITVR2-8=
+
+
+# Hyena
+### Some badly behaved individuals should not make things worse for everyone else.
+PC21_150_EXITVR2-9=
+
+
+# Hyena
+### Look, I know that guy. He lives in Sector 52X.
+PC21_150_EXITVR2-10=
+
+
+# Hyena
+### I'll talk to him after closing, okay?
+PC21_150_EXITVR2-11=
+
+
+# Frog
+### Good luck with that. When they run this fast...
+PC21_150_EXITVR2-12=
+
+
+# Hyena
+### You never know until you try!
+PC21_150_EXITVR2-13=
+
+
+# Frog
+### Your optimism is, in equal parts, grating and motivating.
+PC21_150_EXITVR2-14=
+
+
+#----------------------------------------------------
+# Brok - While Brok was in V.R. mode, he comes back and sees everyone dead, killed by bots (it's fake but doesn't know it yet)
+### ...!!!
+PC21_220_EXITVR-1=
+
+
+# Brok
+### No!!!
+PC21_220_EXITVR-2=
+
+
+# Tribotcop
+### Citizen. You've vandalized. This place.
+PC21_220_EXITVR-3=
+
+
+# Brok
+### What?!
+PC21_220_EXITVR-4=
+
+
+# Brok
+### What did you do, you insane contraptions???
+PC21_220_EXITVR-5=
+
+
+# Tribotcop
+### Pay. Now...
+PC21_220_EXITVR-6=
+
+
+# Tribotcop
+### ...or be destroyed.
+PC21_220_EXITVR-7=
+
+
+# Brok
+### You're the ones who's gonna pay!!!
+PC21_220_EXITVR-8=
+
+
+# Brok
+### I will avenge you... everyone!!!
+PC21_220_EXITVR-9=
+
+
+#----------------------------------------------------
+# Brok - After that fight
+### Sigh...
+PC21_220_EXITVR2-1=
+
+
+# Brok
+### This... can't be happening!
+PC21_220_EXITVR2-2=
+
+
+# Brok
+### If only...
+PC21_220_EXITVR2-3=
+
+
+# Brok
+### I should have...
+PC21_220_EXITVR2-4=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC21_220_EXITVR2B-1=
+
+
+# Brok
+### Huh...?
+PC21_220_EXITVR2B-2=
+
+
+#----------------------------------------------------
+# Brok - Everything back to normal
+### The heck? What just happened?!
+PC21_220_EXITVR3-1=
+
+
+# Hedgehog
+### Hmm...?
+PC21_220_EXITVR3-2=
+
+
+# Hedgehog
+### Oh! Right. You did that challenge.
+PC21_220_EXITVR3-3=
+
+
+# Brok
+### That was fake?!
+PC21_220_EXITVR3-4=
+
+
+# Brok
+### I thought... I thought you were...!
+PC21_220_EXITVR3-5=
+
+
+# Hedgehog
+### I know! Great simulation, right?
+PC21_220_EXITVR3-6=
+
+
+# Hedgehog
+### How do you behave against near-certain death?
+PC21_220_EXITVR3-7=
+
+
+# Hedgehog
+### No better way to find out than tricking players into thinking this is real!
+PC21_220_EXITVR3-8=
+
+
+# Hedgehog
+### You wouldn't believe how many run away.
+PC21_220_EXITVR3-9=
+
+
+# Hedgehog
+### But you didn't! You fought adversity, no matter what!
+PC21_220_EXITVR3-10=
+
+
+# Hedgehog
+### You're amazing!
+PC21_220_EXITVR3-11=
+
+
+# Brok
+### Thanks... but...
+PC21_220_EXITVR3-12=
+
+
+# Brok
+### Don't do that again! Ever!
+PC21_220_EXITVR3-13=
+
+
+# Hedgehog
+### You care that much about us?
+PC21_220_EXITVR3-14=
+
+
+# Brok
+### Of course I do! Even if you're a sicko!
+PC21_220_EXITVR3-15=
+
+
+# Hedgehog
+### Aww, that's sweet!
+PC21_220_EXITVR3-16=
+
+
+#----------------------------------------------------
+# Frog - Bartenders discussing a strange order
+### Hey, 'Jaw. What is this?
+PC21_230_EXITVR-1=
+
+
+# Hyena
+### Dunno?
+PC21_230_EXITVR-2=
+
+
+# Frog
+### Looks like a purchase order to me.
+PC21_230_EXITVR-3=
+
+
+# Hyena
+### For what?
+PC21_230_EXITVR-4=
+
+
+# Frog
+### Good question. It's half erased.
+PC21_230_EXITVR-5=
+
+
+# Frog
+### Sha..o... Quantity: 100. Ordered yesterday.
+PC21_230_EXITVR-6=
+
+
+# Hyena
+### Doesn't ring a bell...
+PC21_230_EXITVR-7=
+
+
+#----------------------------------------------------
+# Unknown
+### (Deliverer) Hey guys!
+PC21_230_EXITVR2-1=
+
+
+# Unknown
+### Here! Your one hundred shampoos.
+PC21_230_EXITVR2-2=
+
+
+# Unknown
+### Don't forget my part of the trade! Ciao!
+PC21_230_EXITVR2-3=
+
+
+# Hyena
+### One hundred...
+PC21_230_EXITVR2-4=
+
+
+# Iguana
+### Oh! They arrived, great!
+PC21_230_EXITVR2-5=
+
+
+# Frog
+### ...
+PC21_230_EXITVR2-6=
+
+
+# Hyena
+### ...
+PC21_230_EXITVR2-7=
+
+
+# Iguana
+### What? What?!
+PC21_230_EXITVR2-8=
+
+
+# Iguana
+### You know my hair is sensitive, I need these. And they were half price with a bulk order!
+PC21_230_EXITVR2-9=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Ivy...
+PC21_230_EXITVR2-10=
+
+
+# Iguana
+### Besides, my girl also loves that "Fresh Stix Island" flavor and...
+PC21_230_EXITVR2-11=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Ivy!
+PC21_230_EXITVR2-12=
+
+
+# Iguana
+### I know, I know! "Not with the business account."
+PC21_230_EXITVR2-13=
+
+
+# Iguana
+### Dad, it's your fault! You don't give me enough pocket money.
+PC21_230_EXITVR2-14=
+
+
+# Hyena
+### You're 25 and have a job.
+PC21_230_EXITVR2-15=
+
+
+# Iguana
+### No way, you're such a pain! I'm outta here.
+PC21_230_EXITVR2-16=
+
+
+# Iguana
+### Besides... oh gosh, I'm late!
+PC21_230_EXITVR2-17=
+
+
+# Frog
+### ...
+PC21_230_EXITVR2-18=
+
+
+# Hyena
+### Children.
+PC21_230_EXITVR2-19=
+
+
+# Frog
+### Counting on you to clean up this mess.
+PC21_230_EXITVR2-20=
+
+
+# Frog
+### Get it...? "Clean?"
+PC21_230_EXITVR2-21=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Bubbles, humor doesn't suit ya.
+PC21_230_EXITVR2-22=
+
+
+# Frog
+### Pfft.
+PC21_230_EXITVR2-23=
+
+
+#----------------------------------------------------
+# Hedgehog - After a challenge, Puzzles is pollution sick because he didn't get his daily pill
+### (Sigh...)
+PC21_240_EXITVR-1=
+
+
+# Brok
+### Hey, man. What's going on?
+PC21_240_EXITVR-2=
+
+
+# Brok
+### You don't seem so well.
+PC21_240_EXITVR-3=
+
+
+# Hedgehog
+### (Cough, cough)
+PC21_240_EXITVR-4=
+
+
+# Brok
+### Oh no...
+PC21_240_EXITVR-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### The Haze?
+PC21_240_EXITVR-6=
+
+
+# Hedgehog
+### You guessed right.
+PC21_240_EXITVR-7=
+
+
+# Hedgehog
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### It's not as bad down here, but I haven't had a Toxout in almost two days...
+PC21_240_EXITVR-8=
+
+
+# Brok
+### That's no good...!
+PC21_240_EXITVR-9=
+
+
+# Brok
+### I... I'll try and find one!
+PC21_240_EXITVR-10=
+
+
+# Hedgehog
+### Thanks, sir... (cough, cough)
+PC21_240_EXITVR-11=
+
+
+# Brok
+### (I need to investigate...)
+PC21_240_EXITVR-12=
+
+
+#----------------------------------------------------
+# Brok
+### Are you holding up okay?
+PC21_240_HEDGEHOG1-1=
+
+
+# Hedgehog
+### (Cough, cough) Yeah... I'm okay...!
+PC21_240_HEDGEHOG1-2=
+
+
+# Hedgehog
+### (Coughs like about to die)
+PC21_240_HEDGEHOG1-3=
+
+
+# Brok
+### No, you're not.
+PC21_240_HEDGEHOG1-4=
+
+
+#----------------------------------------------------
+# Brok
+### I'm sorry...
+PC21_240_HEDGEHOG2-1=
+
+
+# Brok
+### I just can't find any. I'm the worst investigator ever.
+PC21_240_HEDGEHOG2-2=
+
+
+# Hedgehog
+### I... didn't realize... you were a detective! (cough, cough)
+PC21_240_HEDGEHOG2-3=
+
+
+# Hedgehog
+### That's so cool! (cough) I am such an idiot.
+PC21_240_HEDGEHOG2-4=
+
+
+# Brok
+### It doesn't matter! What matters is you!
+PC21_240_HEDGEHOG2-5=
+
+
+# Hedgehog
+### I'll be... (cough, cough) ...okay!
+PC21_240_HEDGEHOG2-6=
+
+
+# Brok
+### ...
+PC21_240_HEDGEHOG2-7=
+
+
+# Brok
+### Wait a minute. That glass next to you?
+PC21_240_HEDGEHOG2-8=
+
+
+# Hedgehog
+### What about it? (cough)
+PC21_240_HEDGEHOG2-9=
+
+
+# Hedgehog
+### ...Oh!!!
+PC21_240_HEDGEHOG2-10=
+
+
+# Hedgehog
+### I put one pill inside the other day (cough) and forgot to swallow it!
+PC21_240_HEDGEHOG2-11=
+
+
+# Hedgehog
+### (Glurb)
+PC21_240_HEDGEHOG2-12=
+
+
+# Hedgehog
+### Ha! I feel better already!
+PC21_240_HEDGEHOG2-13=
+
+
+# Hedgehog
+### See, you're a good investigator after all!
+PC21_240_HEDGEHOG2-14=
+
+
+# Brok
+### Sigh!
+PC21_240_HEDGEHOG2-15=
+
+
+# Hedgehog
+### No more time to lose. Get back to action!
+PC21_240_HEDGEHOG2-16=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Not until I've found a pill for Puzzles!
+PC21_240_ANYTHING-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### (Been a while. I should ask Puzzles how he's doing...)
+PC21_240_ANYTHINGAFTER-1=
+
+
+#----------------------------------------------------
+# Brok
+### No... I don't have time to look outside. There has to be one in the bar.
+PC21_240_LEAVE-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Hey, I'm looking for a Toxout Pill!
+PC21_240_TALK-1=
+
+
+#----------------------------------------------------
+# Brok
+### I was hoping but... Even now, it's closed.
+PC21_240_DOORLEFT-1=
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC21_240_DOORRIGHT-1=
+
+
+# Brok
+### No pill there...
+PC21_240_DOORRIGHT-2=
+
+
+# Brok
+### Maybe under the...
+PC21_240_DOORRIGHT-3=
+
+
+# Brok
+### Ewww!
+PC21_240_DOORRIGHT-4=
+
+
+#----------------------------------------------------
+# Brok
+### Nothin'... Save from the shame I feel for doing that...
+PC21_240_DOORRIGHT2-1=
+
+
+#----------------------------------------------------
+# Brok
+### Oh! There's a pill on this pic...
+PC21_240_NEWSARTICLES1-1=
+
+
+# Brok
+### Oh, wait. That's just chewing gum.
+PC21_240_NEWSARTICLES1-2=
+
+
+#----------------------------------------------------
+# Brok
+### This doesn't distribute pills!
+PC21_240_SINK1-1=
+
+
+#----------------------------------------------------
+# Brok
+### I can't see well from down here, but that's no pill.
+PC21_240_EMBLEME1-1=
+
+
+# Brok
+### It's not even anything, really.
+PC21_240_EMBLEME1-2=
+
+
+#----------------------------------------------------
+# Brok
+### Oh no... There's so much.
+PC21_240_KITCHENWARE1-1=
+
+
+# Brok
+### This is gonna take a while...
+PC21_240_KITCHENWARE1-2=
+
+
+#----------------------------------------------------
+# Unknown
+### Three hours later...
+PC21_240_KITCHENWARE1B-1=
+
+
+#----------------------------------------------------
+# Brok
+### I've searched everywhere. No pill.
+PC21_240_KITCHENWARE1C-1=
+
+
+# Brok
+### (Sigh)
+PC21_240_KITCHENWARE1C-2=
+
+
+#----------------------------------------------------
+# Brok
+### Hey, any chance you hid a pill in the trophies?
+PC21_240_AWARDS1-1=
+
+
+# Hyena
+### Good idea! Let me look!
+PC21_240_AWARDS1-2=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC21_240_AWARDS1B-1=
+
+
+# Hyena
+### Guess what?
+PC21_240_AWARDS1B-2=
+
+
+# Brok
+### You found one?!
+PC21_240_AWARDS1B-3=
+
+
+# Hyena
+### Unfortunately not.
+PC21_240_AWARDS1B-4=
+
+
+# Hyena
+### But I found 50 C-Tokens!
+PC21_240_AWARDS1B-5=
+
+
+# Hyena
+### There ya go!
+PC21_240_AWARDS1B-6=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Great... I'm...sure Puzzles will like this...
+PC21_240_AWARDS1B-7=
+
+
+# Hedgehog
+### Thank you sir! But (cough) you keep them! (cough, cough)
+PC21_240_AWARDS1B-8=
+
+
+#----------------------------------------------------
+# Brok
+### That was useless.
+PC21_240_AWARDS2-1=
+
+
+#----------------------------------------------------
+# Brok - After a challenge, Puzzles is pollution sick because he didn't get his daily pill - Play on the two meanings of the word "sick"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Hey, Puzzles is sick!
+PC21_240_HYENA1-1=
+
+
+# Hyena
+### I know! He's quite an excellent young man!
+PC21_240_HYENA1-2=
+
+
+# Brok
+### No! I mean, he's pollution sick!
+PC21_240_HYENA1-3=
+
+
+# Hyena
+### Oh oh... I already took the spare I had...
+PC21_240_HYENA1-4=
+
+
+# Hyena
+### I could swear I had one in the bar the other day, but where was it?
+PC21_240_HYENA1-5=
+
+
+# Brok
+### Yes, where?
+PC21_240_HYENA1-6=
+
+
+# Hyena
+### Lemme think!
+PC21_240_HYENA1-7=
+
+
+#----------------------------------------------------
+# Brok
+### So?...
+PC21_240_HYENA2-1=
+
+
+# Hyena
+### Hmm...
+PC21_240_HYENA2-2=
+
+
+#----------------------------------------------------
+# Brok - After a challenge, Puzzles is pollution sick because he didn't get his daily pill
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Help! Puzzles needs a Toxout pill!
+PC21_240_FROG1-1=
+
+
+# Frog
+### How unfortunate.
+PC21_240_FROG1-2=
+
+
+# Frog
+### ...
+PC21_240_FROG1-3=
+
+
+# Brok
+### So?
+PC21_240_FROG1-4=
+
+
+# Brok
+### Any solution?
+PC21_240_FROG1-5=
+
+
+# Frog
+### He's a strong boy. He'll survive.
+PC21_240_FROG1-6=
+
+
+# Brok
+### I wish I was as optimistic...
+PC21_240_FROG1-7=
+
+
+#----------------------------------------------------
+# Brok
+### She won't help.
+PC21_240_FROG2-1=
+
+
+#----------------------------------------------------
+# Hyena - Bartenders discussing the future
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Bubbles, what's the future look like for you?
+PC21_250_EXITVR-1=
+
+
+# Frog
+### What brought this up?
+PC21_250_EXITVR-2=
+
+
+# Hyena
+### We've been running this place for a while now. What's in store for us?
+PC21_250_EXITVR-3=
+
+
+# Hyena
+### I'm just wondering...
+PC21_250_EXITVR-4=
+
+
+# Frog
+### I'll do this until the day I die. I am too attached to this job.
+PC21_250_EXITVR-5=
+
+
+# Hyena
+### Wow. That's...
+PC21_250_EXITVR-6=
+
+
+# Frog
+### Realistic.
+PC21_250_EXITVR-7=
+
+
+# Hyena
+### Me, I'd love to take an early retirement. Spend my days on the beach, drinking cocktails.
+PC21_250_EXITVR-8=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### 'Jaw, don't confuse dreams and reality. Atlasia's beaches are dangerous and polluted.
+PC21_250_EXITVR-9=
+
+
+# Hyena
+### Sadly. But what if...
+PC21_250_EXITVR-10=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What about you, Brok?
+PC21_250_EXITVR-11=
+
+
+# Brok
+### Hmm...
+PC21_250_EXITVR-12=
+
+
+# Brok
+### I see myself in a creaking rocking chair, like 90 years old.
+PC21_250_EXITVR-13=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### The dome would be gone and rendered useless because everyone could finally breathe normally.
+PC21_250_EXITVR-14=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'd be living in a fully rebuilt Slums, so much so that we wouldn't call it that anymore!
+PC21_250_EXITVR-15=
+
+
+# Hyena
+### And you call me a dreamer!
+PC21_250_EXITVR-16=
+
+
+# Hyena
+### What a utopia! Ha ha!
+PC21_250_EXITVR-17=
+
+
+#----------------------------------------------------
+# Brok - A new arcade machine installed in the bar
+### Hey! That's new!
+PC21_ARCADEMACHINE1-1=
+
+
+# Hyena
+### Yeah! A fan made this!
+PC21_ARCADEMACHINE1-2=
+
+
+# Hyena
+### Pretty cool, huh?
+PC21_ARCADEMACHINE1-3=
+
+
+#----------------------------------------------------
+# Hyena - After winning all the challenges in novice category
+### Hey croc, congrats on beating the beginner challenges!
+PC21_BOSS1_UNLOCKED-1=
+
+
+# Brok
+### Thanks! That was... a piece of cake!
+PC21_BOSS1_UNLOCKED-2=
+
+
+# Hyena
+### Well, duh! That's the novice category.
+PC21_BOSS1_UNLOCKED-3=
+
+
+# Brok
+### Oh, erm... right...!
+PC21_BOSS1_UNLOCKED-4=
+
+
+# Brok
+### Well, what do I win?
+PC21_BOSS1_UNLOCKED-5=
+
+
+# Hyena
+### You've been challenged to a duel!
+PC21_BOSS1_UNLOCKED-6=
+
+
+# Brok
+### A challenger?!
+PC21_BOSS1_UNLOCKED-7=
+
+
+# Hyena
+### Yep! He's waiting over there!
+PC21_BOSS1_UNLOCKED-8=
+
+
+#----------------------------------------------------
+# Clint - First time meeting Clint, who is Ott's dad
+### Pretty impressive, man! How long have you been fighting?
+PC21_BOSS1_UNLOCKED2-1=
+
+
+# Brok
+### Well...
+PC21_BOSS1_UNLOCKED2-2=
+
+
+# Clint
+### Oh, sorry! I just realized, I've never given you my name.
+PC21_BOSS1_UNLOCKED2-3=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### I'm Clint!
+PC21_BOSS1_UNLOCKED2-4=
+
+
+# Clint
+### I used to be a boxer years ago.
+PC21_BOSS1_UNLOCKED2-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok. And really? I used to be a boxer too.
+PC21_BOSS1_UNLOCKED2-6=
+
+
+# Clint
+### Oh yeah? That just confirms what I was thinking!
+PC21_BOSS1_UNLOCKED2-7=
+
+
+# Brok
+### Huh?
+PC21_BOSS1_UNLOCKED2-8=
+
+
+# Clint
+### Never mind. Let's fight!
+PC21_BOSS1_UNLOCKED2-9=
+
+
+#----------------------------------------------------
+# Clint
+### Here goes nothing!
+PC21_BOSS1_LETSGO-1=
+
+
+#----------------------------------------------------
+# Clint
+### Don't make me wait! I'm excited for this!
+PC21_BOSS1_WAIT-1=
+
+
+#----------------------------------------------------
+# Clint
+### Ha ha, I won!
+PC21_BOSS1_LOSE-1=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You know what, Brok? I'll give you another chance!
+PC21_BOSS1_LOSE-2=
+
+
+# Clint
+### Just poke me when you wanna try again.
+PC21_BOSS1_LOSE-3=
+
+
+#----------------------------------------------------
+# Clint
+### Ready?
+PC21_BOSS1_TRYAGAIN-1=
+
+
+#----------------------------------------------------
+# Clint
+### Ooof, you're good!
+PC21_BOSS1_WIN-1=
+
+
+# Clint
+### That was like going back to the old days!
+PC21_BOSS1_WIN-2=
+
+
+# Clint
+### Even more so, since this isn't our first fight.
+PC21_BOSS1_WIN-3=
+
+
+# Brok
+### Huh?
+PC21_BOSS1_WIN-4=
+
+
+# Clint
+### Gonna settle myself in. Give me a shout when you want to talk!
+PC21_BOSS1_WIN-5=
+
+
+#----------------------------------------------------
+# Clint - Hitting Clint
+### Woah! If you wanna duel, just tell me!
+PC21_CLINT_HIT1-1=
+
+
+#----------------------------------------------------
+# Clint
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Hey, not here, Brok.
+PC21_CLINT_HIT2-1=
+
+
+#----------------------------------------------------
+# Brok - After winning the intermediate challenges
+### Ha! I'm on a roll today!
+PC21_BOSS2_UNLOCKED-1=
+
+
+# Brok
+### These were tougher but nothing I can't handle.
+PC21_BOSS2_UNLOCKED-2=
+
+
+# Iguana
+### Excuse me sir.
+PC21_BOSS2_UNLOCKED-3=
+
+
+# Brok
+### Huh...? Oh. Hello!
+PC21_BOSS2_UNLOCKED-4=
+
+
+# Iguana
+### Let me introduce mys...
+PC21_BOSS2_UNLOCKED-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I'm Brok, nice to meet ya!
+PC21_BOSS2_UNLOCKED-6=
+
+
+# Iguana
+### I know! Very spectacular!
+PC21_BOSS2_UNLOCKED-7=
+
+
+# Brok
+### Fan of the spectacle, then?
+PC21_BOSS2_UNLOCKED-8=
+
+
+# Iguana
+### Ha ha! You can say that. But I practice, myself.
+PC21_BOSS2_UNLOCKED-9=
+
+
+# Iguana
+### Which is why I requested a duel against you!
+PC21_BOSS2_UNLOCKED-10=
+
+
+# Brok
+### Huh?! You mean...
+PC21_BOSS2_UNLOCKED-11=
+
+
+# Iguana
+### Oh, don't you dare give me that look.
+PC21_BOSS2_UNLOCKED-12=
+
+
+# Iguana
+### You think women don't stand a chance against a tough guy like you?
+PC21_BOSS2_UNLOCKED-13=
+
+
+# Brok
+### No, I'm just surpr-
+PC21_BOSS2_UNLOCKED-14=
+
+
+# Iguana
+### Well, croc, I'm a wrestler-in-training. I can handle you!
+PC21_BOSS2_UNLOCKED-15=
+
+
+# Brok
+### I said I wouldn't back down from a challenge. You're not an exception, lady!
+PC21_BOSS2_UNLOCKED-16=
+
+
+# Iguana
+### Wonderful!
+PC21_BOSS2_UNLOCKED-17=
+
+
+# Iguana
+### So, ready?
+PC21_BOSS2_UNLOCKED-18=
+
+
+#----------------------------------------------------
+# Iguana - After Ivy boss fight, lose
+### Yeeeah! I won, I won!
+PC21_BOSS2_LOSE-1=
+
+
+# Brok
+### I... just didn't put all my strength into it.
+PC21_BOSS2_LOSE-2=
+
+
+# Iguana
+### Riiight.
+PC21_BOSS2_LOSE-3=
+
+
+#----------------------------------------------------
+# Iguana
+### Wanna have another shot?
+PC21_BOSS2_TRYAGAIN-1=
+
+
+#----------------------------------------------------
+# Iguana - After Ivy boss fight, win
+### Sorry, dad. I lost this time.
+PC21_BOSS2_WIN-1=
+
+
+# Hyena
+### Looks like you gave my daughter some trouble!
+PC21_BOSS2_WIN-2=
+
+
+# Brok
+### Your daughter? I didn't realize...
+PC21_BOSS2_WIN-3=
+
+
+# Hyena
+### You bet! She takes after her mother.
+PC21_BOSS2_WIN-4=
+
+
+# Iguana
+### Oh, come on. I wouldn't be here if not for you teaching me.
+PC21_BOSS2_WIN-5=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Ivy, tell me you'll stay for a while!
+PC21_BOSS2_WIN-6=
+
+
+# Iguana
+### Just a bit. My part-time job starts in an hour.
+PC21_BOSS2_WIN-7=
+
+
+#----------------------------------------------------
+# Hyena - After winning all the hard challenges (right before last boss)
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Hey, Brok!
+PC21_290_EXITVR-1=
+
+
+# Hyena
+### Amazing job, man! I can't believe you're almost through!
+PC21_290_EXITVR-2=
+
+
+# Brok
+### I wasn't sure I could do it either, honestly...!
+PC21_290_EXITVR-3=
+
+
+# Hyena
+### Well, congrats!
+PC21_290_EXITVR-4=
+
+
+# Hyena
+### But it's not over yet. Your last challenge is a secret!
+PC21_290_EXITVR-5=
+
+
+# Brok
+### If I had to bet... another duel?
+PC21_290_EXITVR-6=
+
+
+# Hyena
+### Man, I won't spoil it for you!
+PC21_290_EXITVR-7=
+
+
+# Brok
+### Sounds exciting anyway!
+PC21_290_EXITVR-8=
+
+
+# Hyena
+### Use the cabin when you're ready!
+PC21_290_EXITVR-9=
+
+
+#----------------------------------------------------
+# Brok - After winning boss fight against Sharpteeth
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### It... it's you, Sharpteeth! You're really here!
+PC21_BOSS3_WIN-1=
+
+
+# Shark
+### I am, man.
+PC21_BOSS3_WIN-2=
+
+
+# Shark - The player name will be added here. For voice acting just stop before saying the name.
+### Or should I say...{name}!
+PC21_BOSS3_WIN-3=
+
+
+# Brok
+### I... I...!
+PC21_BOSS3_WIN-4=
+
+
+# Shark
+### Take your time collecting your thoughts, man. ...Ooof, you've got iron in those fists...!
+PC21_BOSS3_WIN-5=
+
+
+# Shark
+### Lemme sit. I'm not so young anymore, need to recover after this.
+PC21_BOSS3_WIN-6=
+
+
+# Brok
+### Oh... sure!
+PC21_BOSS3_WIN-7=
+
+
+#----------------------------------------------------
+# Shark - Talking with Sharpeeth on a table
+### You got me good!
+PC21_BOSS3_SHARP-1=
+
+
+# Brok
+### Guess so. You were so slippery, at first I thought I would never hit you!
+PC21_BOSS3_SHARP-2=
+
+
+# Shark
+### That's one natural advantage for me!
+PC21_BOSS3_SHARP-3=
+
+
+# Shark
+### Not to undermine your performance, but I used to be faster.
+PC21_BOSS3_SHARP-4=
+
+
+# Shark
+### I'm retired, although I still come once in a while to check on the new fighters.
+PC21_BOSS3_SHARP-5=
+
+
+# Shark
+### Few come this far, I was impressed!
+PC21_BOSS3_SHARP-6=
+
+
+# Shark
+### Tell me. What's your story?
+PC21_BOSS3_SHARP-7=
+
+
+# Brok
+### Well... when I was a boxer I heard about you so much.
+PC21_BOSS3_SHARP-8=
+
+
+# Brok
+### I always wanted to face you, even when I knew I didn't have what it took.
+PC21_BOSS3_SHARP-9=
+
+
+# Brok
+### Never thought I'd actually meet you after quitting the boxing scene.
+PC21_BOSS3_SHARP-10=
+
+
+# Brok
+### And that I would win, on top of that!
+PC21_BOSS3_SHARP-11=
+
+
+# Shark
+### You never really quit though, right?
+PC21_BOSS3_SHARP-12=
+
+
+# Brok
+### Right.
+PC21_BOSS3_SHARP-13=
+
+
+# Brok
+### The fight pits got closed, but then I found out about those VR thingies.
+PC21_BOSS3_SHARP-14=
+
+
+# Shark
+### They're a suitable replacement to prevent real injuries.
+PC21_BOSS3_SHARP-15=
+
+
+# Shark
+### But I still miss the days where you could really feel your opponent under your hands.
+PC21_BOSS3_SHARP-16=
+
+
+# Brok
+### Agreed.
+PC21_BOSS3_SHARP-17=
+
+
+#----------------------------------------------------
+# Hyena - Talking with Sharpeeth on a table
+### Heyyyy, Sharp!
+PC21_BOSS3_SHARP2-1=
+
+
+# Shark
+### What's cooking, 'Jaw?
+PC21_BOSS3_SHARP2-2=
+
+
+# Hyena
+### Here, your favorite. Supreme delice of worms!
+PC21_BOSS3_SHARP2-3=
+
+
+# Shark
+### Wooh, nice!
+PC21_BOSS3_SHARP2-4=
+
+
+# Hyena
+### And for our winner...
+PC21_BOSS3_SHARP2-5=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### A delicious antburger!
+PC21_BOSS3_SHARP2-6=
+
+
+# Brok
+### Hey! I thought you didn't have any!
+PC21_BOSS3_SHARP2-7=
+
+
+# Hyena
+### Yeah, well... I went out for a minute to get one from the closest vending machine. Ha!
+PC21_BOSS3_SHARP2-8=
+
+
+# Hyena
+### That's the least I could do for my current favorite fighter!
+PC21_BOSS3_SHARP2-9=
+
+
+# Brok
+### Much appreciated!
+PC21_BOSS3_SHARP2-10=
+
+
+# Brok
+### You guys are friends?
+PC21_BOSS3_SHARP2-11=
+
+
+# Shark
+### We sparred for a while. It feels like another life now.
+PC21_BOSS3_SHARP2-12=
+
+
+# Hyena
+### It was.
+PC21_BOSS3_SHARP2-13=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### So! What do you think, Brok?
+PC21_BOSS3_SHARP2-14=
+
+
+# Brok
+### Hmm... Very good! (eats)
+PC21_BOSS3_SHARP2-15=
+
+
+# Hyena
+### The fight or the food?
+PC21_BOSS3_SHARP2-16=
+
+
+# Brok
+### Both!
+PC21_BOSS3_SHARP2-17=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+### You... spilled some Tomatoze on your shirt.
+PC21_BOSS3_SHARP2-18=
+
+
+# Brok
+### Oh yeah. (Slurp)
+PC21_BOSS3_SHARP2-19=
+
+
+# Brok
+### Fixed!
+PC21_BOSS3_SHARP2-20=
+
+
+# Hyena
+### Ha! You're one of a kind, supercroc.
+PC21_BOSS3_SHARP2-21=
+
+
+# Hyena
+### Be right back!
+PC21_BOSS3_SHARP2-22=
+
+
+#----------------------------------------------------
+# Brok
+### I didn't remember you had such an accent. Where are you from?
+PC21_BOSS3_SHARP3-1=
+
+
+# Shark
+### Droll, the "village behind the sea".
+PC21_BOSS3_SHARP3-2=
+
+
+# Shark
+### We had waterfalls as far as the eye could see.
+PC21_BOSS3_SHARP3-3=
+
+
+# Shark
+### Ahhh, I miss it. Makes me regret my choice, sometimes.
+PC21_BOSS3_SHARP3-4=
+
+
+# Brok
+### Whaddya mean?
+PC21_BOSS3_SHARP3-5=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### Autarchism, of course.
+PC21_BOSS3_SHARP3-6=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### When that ultimatum came down, I was in Atlasia for a tournament.
+PC21_BOSS3_SHARP3-7=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Like all foreigners, I was offered to leave Atlasia or remain forever.
+PC21_BOSS3_SHARP3-8=
+
+
+# Shark
+### I chose to stay.
+PC21_BOSS3_SHARP3-9=
+
+
+# Brok
+### Why?
+PC21_BOSS3_SHARP3-10=
+
+
+# Brok
+### What could possibly be better here than your homeland?
+PC21_BOSS3_SHARP3-11=
+
+
+# Shark
+### People.
+PC21_BOSS3_SHARP3-12=
+
+
+# Shark
+### My city was beautiful and the citizens wonderful, but we were severely lacking resources.
+PC21_BOSS3_SHARP3-13=
+
+
+# Shark
+### I wanted more from life than being stuck with the same few hundred people around me, day-in and day-out forever.
+PC21_BOSS3_SHARP3-14=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### I couldn't imagine never coming back to Atlasia. I was at the top of my career, and there was so much more to experience here.
+PC21_BOSS3_SHARP3-15=
+
+
+# Shark
+### That was short lived, though. Soon after, all fight pits were banned.
+PC21_BOSS3_SHARP3-16=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Atlasia made its choice, and I was forced to follow along.
+PC21_BOSS3_SHARP3-17=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### So, I retired to make a new life for myself...and remained secretly in the Slums.
+PC21_BOSS3_SHARP3-18=
+
+
+# Shark
+### I didn't want my former fame to hound me. That chapter of my life was over.
+PC21_BOSS3_SHARP3-19=
+
+
+# Shark
+### Time doesn't spare anyone. Nowadays, I have different priorities.
+PC21_BOSS3_SHARP3-20=
+
+
+# Shark
+### In particular, I am helping with a team to fix the radioactive leak issue.
+PC21_BOSS3_SHARP3-21=
+
+
+# Brok
+### What? A radioactive leak?
+PC21_BOSS3_SHARP3-22=
+
+
+# Shark
+### Yeah. More precisely, Chloridum 13.
+PC21_BOSS3_SHARP3-23=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### On the east side of Atlasia, we've identified a number of cracks in the nuclear waste area.
+PC21_BOSS3_SHARP3-24=
+
+
+# Brok
+### That's not far from where I live!
+PC21_BOSS3_SHARP3-25=
+
+
+# Shark
+### It's getting worse... Spreading.
+PC21_BOSS3_SHARP3-26=
+
+
+# Shark
+### At this rate, the contamination will reach the inhabited sectors in a few months.
+PC21_BOSS3_SHARP3-27=
+
+
+# Brok
+### Great, more worries...
+PC21_BOSS3_SHARP3-28=
+
+
+# Shark
+### Sharks are naturally more resistant to Chloridum 13, so that's in part why I'm contributing.
+PC21_BOSS3_SHARP3-29=
+
+
+# Shark
+### I'm no scientist. None of us really are.
+PC21_BOSS3_SHARP3-30=
+
+
+# Shark
+### But we're doing what we can to build a dry screed, big enough to cover up all the area.
+PC21_BOSS3_SHARP3-31=
+
+
+# Brok
+### I had no idea! I'll help ya!
+PC21_BOSS3_SHARP3-32=
+
+
+# Shark
+### Oh no, I'm sure you're already busy with your own issues.
+PC21_BOSS3_SHARP3-33=
+
+
+# Shark
+### But you can pay us a visit someday!
+PC21_BOSS3_SHARP3-34=
+
+
+# Brok
+### Sure thing!
+PC21_BOSS3_SHARP3-35=
+
+
+# Shark
+### Actually... we don't know what the cause of those cracks is.
+PC21_BOSS3_SHARP3-36=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Even stranger, I could swear I saw a Tribot squeeze itself through one of the cracks.
+PC21_BOSS3_SHARP3-37=
+
+
+# Shark
+### It was late at night, and I still wonder if I was hallucinating.
+PC21_BOSS3_SHARP3-38=
+
+
+# Shark
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribots have the ability to compress their bodies to take up less space, but it's not something they usually do on their own.
+PC21_BOSS3_SHARP3-39=
+
+
+# Shark
+### So why would they? Did someone order them to go there?
+PC21_BOSS3_SHARP3-40=
+
+
+# Shark
+### I have no idea.
+PC21_BOSS3_SHARP3-41=
+
+
+# Brok
+### Hmm...
+PC21_BOSS3_SHARP3-42=
+
+
+# Shark
+### Anyway! Sorry for my blabbering.
+PC21_BOSS3_SHARP3-43=
+
+
+# Shark
+### I don't want to bring the mood down any further!
+PC21_BOSS3_SHARP3-44=
+
+
+# Shark
+### Congrats, champ! That was fun!
+PC21_BOSS3_SHARP3-45=
+
+
+# Shark
+### I wish I could stay longer, but...
+PC21_BOSS3_SHARP3-46=
+
+
+# Shark
+### My team needs me.
+PC21_BOSS3_SHARP3-47=
+
+
+# Brok
+### Understood.
+PC21_BOSS3_SHARP3-48=
+
+
+# Brok
+### Thanks for the fight, hope we meet again!
+PC21_BOSS3_SHARP3-49=
+
+
+# Shark
+### I'm sure we will!
+PC21_BOSS3_SHARP3-50=
+
+
+#----------------------------------------------------
+# Hyena - After Sharpteeth leaves, near end of the game
+### Hey... oh, Sharp is already gone?
+PC21_BOSS3_END-1=
+
+
+# Brok
+### Afraid so!
+PC21_BOSS3_END-2=
+
+
+# Hyena
+### That's fine. Time for my speech!
+PC21_BOSS3_END-3=
+
+
+# Hyena
+### You've now completed all the challenges! Congrats!
+PC21_BOSS3_END-4=
+
+
+# Brok
+### I... I'm done?
+PC21_BOSS3_END-5=
+
+
+# Brok
+### That's it?
+PC21_BOSS3_END-6=
+
+
+# Hyena
+### Well, what did you expect?
+PC21_BOSS3_END-7=
+
+
+# Brok
+### Dunno... to end with a bang?
+PC21_BOSS3_END-8=
+
+
+# Hyena
+### Ha!
+PC21_BOSS3_END-9=
+
+
+# Hyena
+### Who said anything about ending? It's a new beginning for you!
+PC21_BOSS3_END-10=
+
+
+# Hyena
+### Enter the VR cabin again and select the final challenge, you'll get a small surprise!
+PC21_BOSS3_END-11=
+
+
+# Brok
+### Oh... okay!
+PC21_BOSS3_END-12=
+
+
+# Brok
+### I will!
+PC21_BOSS3_END-13=
+
+
+#----------------------------------------------------
+# Armadillo - The enemies arrived for real in the bar
+### There he is!
+PC21_ENDING_FINAL-1=
+
+
+# Boxersnake
+### You're done for, man!
+PC21_ENDING_FINAL-2=
+
+
+# Hedgehog
+### Those... gentlemen burst in here.
+PC21_ENDING_FINAL-3=
+
+
+# Brok
+### Wow. You guys came here? For me?!
+PC21_ENDING_FINAL-4=
+
+
+# Rooster
+### Dang right we did!
+PC21_ENDING_FINAL-5=
+
+
+# Bear
+### I'll teach ya pain!
+PC21_ENDING_FINAL-6=
+
+
+# Brok
+### Why?
+PC21_ENDING_FINAL-7=
+
+
+# Armadillo
+### I was the champ of crushers. You've stained my reputation!
+PC21_ENDING_FINAL-8=
+
+
+# Boxersnake
+### No one boxes me out!
+PC21_ENDING_FINAL-9=
+
+
+# Bear
+### I wanna feel your skin under my claws!
+PC21_ENDING_FINAL-10=
+
+
+# Rooster
+### Chicks don't think I'm so hensome anymore!
+PC21_ENDING_FINAL-11=
+
+
+# Brok
+### Oookay. Well...
+PC21_ENDING_FINAL-12=
+
+
+# Brok
+### If it's a fight you want... you're gonna get one!
+PC21_ENDING_FINAL-13=
+
+
+# Hyena
+### Okay. Just this once, I'll deactivate the Anti-Scuffle system.
+PC21_ENDING_FINAL-14=
+
+
+# Hyena
+### You better not destroy the furniture. Whoever does will pay for it!
+PC21_ENDING_FINAL-15=
+
+
+# Clint
+### I'll help. I don't like the tone of these guys.
+PC21_ENDING_FINAL-16=
+
+
+# Brok
+### Thanks, man!
+PC21_ENDING_FINAL-17=
+
+
+# Hedgehog
+### Can I join? Can I?!
+PC21_ENDING_FINAL-18=
+
+
+# Hyena
+### No.
+PC21_ENDING_FINAL-19=
+
+
+# Hedgehog
+### Aww...
+PC21_ENDING_FINAL-20=
+
+
+#----------------------------------------------------
+# Armadillo - Brok won against the enemies
+### Aww aww aww...
+PC21_ENDING_FINAL3-1=
+
+
+# Boxersnake
+### Defeated again...
+PC21_ENDING_FINAL3-2=
+
+
+# Bear
+### He broke my nail...
+PC21_ENDING_FINAL3-3=
+
+
+# Bear
+### (Cries) Ma... I need my mama...
+PC21_ENDING_FINAL3-4=
+
+
+# Rooster
+### It's okay big bear. No need to cry.
+PC21_ENDING_FINAL3-5=
+
+
+# Brok
+### Well, you asked for it!
+PC21_ENDING_FINAL3-6=
+
+
+# Clint
+### (Pants) You all put up a good fight, if that's any consolation.
+PC21_ENDING_FINAL3-7=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### But I was barely helpful. Brok did all the work.
+PC21_ENDING_FINAL3-8=
+
+
+# Rooster
+### Guys. Remember what we said before coming here.
+PC21_ENDING_FINAL3-9=
+
+
+# Boxersnake
+### "If we can't defeat him, we'll crown him"
+PC21_ENDING_FINAL3-10=
+
+
+# Bear
+### (Sniffles) No choice then.
+PC21_ENDING_FINAL3-11=
+
+
+#----------------------------------------------------
+# Unknown
+### All: You're the ultimate fighter!
+PC21_ENDING_FINAL4-1=
+
+
+# Brok
+### Say what?
+PC21_ENDING_FINAL4-2=
+
+
+# Clint
+### Congrats! You've earned it!
+PC21_ENDING_FINAL4-3=
+
+
+# Rooster
+### For now we lack skills.
+PC21_ENDING_FINAL4-4=
+
+
+# Bear
+### But someday...
+PC21_ENDING_FINAL4-5=
+
+
+# Armadillo
+### We'll train here until we're ready!
+PC21_ENDING_FINAL4-6=
+
+
+# Hyena
+### New clients. The best gift I could hope for!
+PC21_ENDING_FINAL4-7=
+
+
+#----------------------------------------------------
+# Hyena - Free talk with Tenderjaw
+### Hey, what can I do for you?
+PC21_HYENA_WELCOME1-1=
+
+
+#----------------------------------------------------
+# Hyena
+### What will it be?
+PC21_HYENA_WELCOME2-1=
+
+
+#----------------------------------------------------
+# Brok
+### Gotta go!
+PC21_HYENA_EXIT1-1=
+
+
+#----------------------------------------------------
+# Hyena
+### Stay around!
+PC21_HYENA_EXIT2-1=
+
+
+#----------------------------------------------------
+# Hyena - Trying to hit Tenderjaw
+### Too bad for you. I've built up a resistance to pain over the years.
+PC21_HYENA_HIT1-1=
+
+
+#----------------------------------------------------
+# Hyena
+### Don't think you're the first one to try!
+PC21_HYENA_HIT2-1=
+
+
+#----------------------------------------------------
+# Hyena
+### I told ya. I'm retired.
+PC21_HYENA_HIT3-1=
+
+
+#----------------------------------------------------
+# Brok - Think about Tenderjaw
+### (If he was a fighter, I might have encountered him before...)
+PC21_HYENA_THINK1-1=
+
+
+# Brok
+### (But I can't be sure. Ah...losing my memory is dreadful.)
+PC21_HYENA_THINK1-2=
+
+
+#----------------------------------------------------
+# Brok - Free talk with Tenderjaw - Brok misheard and/or forgot the term.
+### So, those sea coppers...
+PC21_HYENA_HELP1-1=
+
+
+# Hyena
+### C-Tokens.
+PC21_HYENA_HELP1-2=
+
+
+# Brok
+### Yeah, those. How do I get some?
+PC21_HYENA_HELP1-3=
+
+
+# Hyena
+### Win challenges.
+PC21_HYENA_HELP1-4=
+
+
+# Hyena
+### Victory'll get you a lot of C-Tokens, but you can also grind a few from destroying enemies, crates and more.
+PC21_HYENA_HELP1-5=
+
+
+# Hyena
+### Even from already completed challenges.
+PC21_HYENA_HELP1-6=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### You can also win some with Puzzles' extras and Bubble's wheel.
+PC21_HYENA_HELP1-7=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles? Bubbles?
+PC21_HYENA_HELP1-8=
+
+
+# Hyena
+### Our codenames.
+PC21_HYENA_HELP1-9=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Did you think we'd use our real names, Brok?
+PC21_HYENA_HELP1-10=
+
+
+# Brok
+### Right... Hey...!
+PC21_HYENA_HELP1-11=
+
+
+# Brok
+### How d'ya know me?!
+PC21_HYENA_HELP1-12=
+
+
+# Hyena
+### I have my little secrets!
+PC21_HYENA_HELP1-13=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Anyway, I'm Tenderjaw. Hope you like this joint of ours.
+PC21_HYENA_HELP1-14=
+
+
+#----------------------------------------------------
+# Brok
+### This is kinda tough!
+PC21_HYENA_HELP2-1=
+
+
+# Hyena
+### I know! I designed these challenges!
+PC21_HYENA_HELP2-2=
+
+
+# Frog
+### (What... taking all the credit from us again, naturally...)
+PC21_HYENA_HELP2-3=
+
+
+# Hyena
+### The best you can do is...
+PC21_HYENA_HELP2-4=
+
+
+# Frog
+### To skip them.
+PC21_HYENA_HELP2-5=
+
+
+# Hyena
+### I mean, yes, you can... if you're ready to fork out a hefty number of your hard-earned C-Tokens.
+PC21_HYENA_HELP2-6=
+
+
+# Frog
+### Just lower the difficulty in the options. Like all losers do.
+PC21_HYENA_HELP2-7=
+
+
+# Brok
+### (Way to go and make me feel insecure about asking...)
+PC21_HYENA_HELP2-8=
+
+
+# Frog
+### Winners, however, use smarter methods like buying V.R. food from the sink.
+PC21_HYENA_HELP2-9=
+
+
+# Frog
+### Select it from the challenges menu. They're one-time use, but you keep it until you win the challenge.
+PC21_HYENA_HELP2-10=
+
+
+# Frog
+### Some challenges are also easier in co-op with a friend.
+PC21_HYENA_HELP2-11=
+
+
+# Frog
+### You have friends, right?
+PC21_HYENA_HELP2-12=
+
+
+# Brok
+### Well, yeah, of course!
+PC21_HYENA_HELP2-13=
+
+
+# Brok
+### You are!
+PC21_HYENA_HELP2-14=
+
+
+# Hyena
+### Ah! Nice try. But you won't butter us up with pretty words.
+PC21_HYENA_HELP2-15=
+
+
+# Hyena
+### Seriously man, don't worry about losing a lot. That's normal.
+PC21_HYENA_HELP2-16=
+
+
+# Hyena
+### Don't go busting our hardware because you died ten times in a row! That's life.
+PC21_HYENA_HELP2-17=
+
+
+# Hyena
+### Keep at it! Have faith in yourself!
+PC21_HYENA_HELP2-18=
+
+
+#----------------------------------------------------
+# Brok
+### How do I upgrade category?
+PC21_HYENA_HELP3-1=
+
+
+# Hyena
+### There are three. Novice, Intermediate and Professional.
+PC21_HYENA_HELP3-2=
+
+
+# Hyena
+### Complete all challenges in the category to progress to the next one.
+PC21_HYENA_HELP3-3=
+
+
+# Frog
+### Skip the ones you're stuck on when you're hopeless.
+PC21_HYENA_HELP3-4=
+
+
+# Hyena
+### A special boss awaits you in the final challenge.
+PC21_HYENA_HELP3-5=
+
+
+# Brok
+### Oooooh, exciting!
+PC21_HYENA_HELP3-6=
+
+
+#----------------------------------------------------
+# Brok
+### I thought I was strong, but...
+PC21_HYENA_HELP4-1=
+
+
+# Brok
+### My experience level isn't making any difference?
+PC21_HYENA_HELP4-2=
+
+
+# Hyena
+### You're right. Whatever you learned out there isn't going to help you here.
+PC21_HYENA_HELP4-3=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "EXP": "ДОСВІД"
+### Forget EXP. These challenges require pure skills.
+PC21_HYENA_HELP4-4=
+
+
+# Hyena
+### Only the best can beat them all, ha ha!
+PC21_HYENA_HELP4-5=
+
+
+#----------------------------------------------------
+# Brok
+### I don't get it. Why are you all hiding here?
+PC21_HYENA_WELCOMEFIRST-1=
+
+
+# Brok
+### People are suffering every day, in this very street. Criminals are everywhere!
+PC21_HYENA_WELCOMEFIRST-2=
+
+
+# Brok
+### And every day, these strong fighters you've got are wasting their time on virtual stuff when the right fight's out there!
+PC21_HYENA_WELCOMEFIRST-3=
+
+
+# Hyena
+### First of all, running a business is not hiding.
+PC21_HYENA_WELCOMEFIRST-4=
+
+
+# Hyena
+### Second, read this.
+PC21_HYENA_WELCOMEFIRST-5=
+
+
+# Brok
+### Err...
+PC21_HYENA_WELCOMEFIRST-6=
+
+
+# Brok
+### "Please stop using the sink to..."
+PC21_HYENA_WELCOMEFIRST-7=
+
+
+# Hyena
+### No, not that! The big letters!
+PC21_HYENA_WELCOMEFIRST-8=
+
+
+# Brok
+### Oh. "We don't get involved."
+PC21_HYENA_WELCOMEFIRST-9=
+
+
+# Hyena
+### Our motto.
+PC21_HYENA_WELCOMEFIRST-10=
+
+
+# Brok
+### That's ridiculous.
+PC21_HYENA_WELCOMEFIRST-11=
+
+
+# Hyena
+### We all do what we have to survive out here, man.
+PC21_HYENA_WELCOMEFIRST-12=
+
+
+# Hyena
+### Even if we wanted to, this place is fully soundproof. No one can hear us, and we can't hear the street above either.
+PC21_HYENA_WELCOMEFIRST-13=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### If anything, being this far underground has helped people stay clear from the Haze.
+PC21_HYENA_WELCOMEFIRST-14=
+
+
+# Hyena
+### That alone has probably saved more folks than you might think.
+PC21_HYENA_WELCOMEFIRST-15=
+
+
+# Brok
+### If you say so. I, on the other hand, prefer to act!
+PC21_HYENA_WELCOMEFIRST-16=
+
+
+# Hyena
+### Good for you, supercroc.
+PC21_HYENA_WELCOMEFIRST-17=
+
+
+#----------------------------------------------------
+# Brok
+### Ya know, for a "brawl bar" I was expecting more... brawling among the customers.
+PC21_HYENA_WELCOMESECOND-1=
+
+
+# Hyena
+### First, this is the "CounterAttack Bar". You must have imagined that name!
+PC21_HYENA_WELCOMESECOND-2=
+
+
+# Hyena
+### Second... they do.
+PC21_HYENA_WELCOMESECOND-3=
+
+
+# Hyena
+### We have a rule for that. It is forbidden to directly attack other customers.
+PC21_HYENA_WELCOMESECOND-4=
+
+
+# Hyena
+### If you want a fight with someone, you gotta request a duel.
+PC21_HYENA_WELCOMESECOND-5=
+
+
+# Brok
+### A duel?
+PC21_HYENA_WELCOMESECOND-6=
+
+
+# Hyena
+### Yep. If both fighters accept, I set their stage in our VR cabins to give us a good show! Hah!
+PC21_HYENA_WELCOMESECOND-7=
+
+
+# Brok
+### In the VR cabin? It'd be better in real life.
+PC21_HYENA_WELCOMESECOND-8=
+
+
+# Hyena
+### Not that I disagree, but I can't have this place turned into a wreck, ya know?
+PC21_HYENA_WELCOMESECOND-9=
+
+
+# Hyena
+### Who knows, maybe someone will notice you and ask for a duel!
+PC21_HYENA_WELCOMESECOND-10=
+
+
+# Brok
+### Oooh, I hope someone does. I won't back down from any challenge!
+PC21_HYENA_WELCOMESECOND-11=
+
+
+#----------------------------------------------------
+# Brok
+### Who are those new challengers?
+PC21_HYENA_CHALLENGER1-1=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The gang of four? Yeah, they're V.R. regulars from the Slums.
+PC21_HYENA_CHALLENGER1-2=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Boyd": "Бойд"
+### There's Boyd, the macho rooster with a mechanical arm. 33 years old.
+PC21_HYENA_CHALLENGER1-3=
+
+
+# Hyena
+### Cocky, spunky and arrogant, his good looks can't hide the fact he's a common punk. Very easy to taunt him into a fight!
+PC21_HYENA_CHALLENGER1-4=
+
+
+# Hyena
+### Not very dangerous. Just watch out for his extendable arm. If you get grabbed, there's no escaping it.
+PC21_HYENA_CHALLENGER1-5=
+
+
+# Hyena
+### Some say it's a fake prosthetic and his real arm is inside.
+PC21_HYENA_CHALLENGER1-6=
+
+
+# Hyena
+### Don't tell him that, or you'll get lectured for hours on how and why he replaced it!
+PC21_HYENA_CHALLENGER1-7=
+
+
+# Hyena
+### Worse, you'll get a different story each time. No one's really sure why!
+PC21_HYENA_CHALLENGER1-8=
+
+
+#----------------------------------------------------
+# Brok
+### Who's the big armadillo?
+PC21_HYENA_CHALLENGER2-1=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Matt": "Метт"
+### Matt, a delivery guy in his forties. Also a jerk.
+PC21_HYENA_CHALLENGER2-2=
+
+
+# Hyena
+### Mail or goods, he's the fastest at his job, rolling while pulling a back-truck at record speed!
+PC21_HYENA_CHALLENGER2-3=
+
+
+# Hyena
+### Quite the achievement...! As long as wreckage isn't a concern to you.
+PC21_HYENA_CHALLENGER2-4=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### He's his own boss in the Slums and business keeps coming anyway, so he couldn't care less.
+PC21_HYENA_CHALLENGER2-5=
+
+
+# Hyena
+### During battle, his front shield combined with his own shell provide full protection.
+PC21_HYENA_CHALLENGER2-6=
+
+
+# Hyena
+### Use your most powerful moves on his shield until it breaks, but be careful.
+PC21_HYENA_CHALLENGER2-7=
+
+
+# Hyena
+### He can't be stunned while he still has his shield, and can easily strike back against any attacks.
+PC21_HYENA_CHALLENGER2-8=
+
+
+#----------------------------------------------------
+# Brok
+### That bear looks tough!
+PC21_HYENA_CHALLENGER3-1=
+
+
+# Hyena
+### A real killer! Good thing for you this is V.R.!
+PC21_HYENA_CHALLENGER3-2=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Rok": "Рок"
+### His name's Rok, age unknown.
+PC21_HYENA_CHALLENGER3-3=
+
+
+# Hyena
+### He doesn't communicate much, and no one has survived to tell his story.
+PC21_HYENA_CHALLENGER3-4=
+
+
+# Brok
+### You're joking, right?
+PC21_HYENA_CHALLENGER3-5=
+
+
+# Hyena
+### Who knows!
+PC21_HYENA_CHALLENGER3-6=
+
+
+# Hyena
+### Some say he was locked up in some distant country, that he came back for revenge, having mutated, which gave him those huge claws.
+PC21_HYENA_CHALLENGER3-7=
+
+
+# Hyena
+### Personally, I think he just let them grow long like a lady! Ha!
+PC21_HYENA_CHALLENGER3-8=
+
+
+# Hyena
+### Anyway, better not let him grab you. That's practically a death sentence!
+PC21_HYENA_CHALLENGER3-9=
+
+
+# Hyena
+### A wild, vicious beast, I tell you!
+PC21_HYENA_CHALLENGER3-10=
+
+
+# Brok
+### Part of me would love to fight him in real life. The more danger, the greater the fight!
+PC21_HYENA_CHALLENGER3-11=
+
+
+# Hyena
+### Ha! I know the feeling. Life or death situations really bring out the best in a fighter, don't they?
+PC21_HYENA_CHALLENGER3-12=
+
+
+# Hyena
+### But hey, maybe he's a softie deep, deep inside?
+PC21_HYENA_CHALLENGER3-13=
+
+
+# Hyena
+### You can't know until you try!
+PC21_HYENA_CHALLENGER3-14=
+
+
+#----------------------------------------------------
+# Brok
+### Glad to have some boxing competition!
+PC21_HYENA_CHALLENGER4-1=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Sly": "Слай"
+### Sly's not just anyone. He's a 37 year old, former pro boxer like you.
+PC21_HYENA_CHALLENGER4-2=
+
+
+# Hyena
+### Unlike you though, he kept training, looking for every opportunity to push himself further as a fighter.
+PC21_HYENA_CHALLENGER4-3=
+
+
+# Brok
+### Hey! I still train. I even have a punching bag at home!
+PC21_HYENA_CHALLENGER4-4=
+
+
+# Hyena
+### Heh. Sure, man.
+PC21_HYENA_CHALLENGER4-5=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Sly": "Слай"
+### Anyway, Sly's not the most approachable person, socially-speaking, and that makes him all the more threatening.
+PC21_HYENA_CHALLENGER4-6=
+
+
+# Hyena
+### Don't ever get caught up in his combo! It's so fast that you won't have time to counter or block it.
+PC21_HYENA_CHALLENGER4-7=
+
+
+#----------------------------------------------------
+# Brok
+### Tell me something about Mister Warthog?
+PC21_HYENA_CHALLENGER5-1=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Oh, Clint! He's a regular.
+PC21_HYENA_CHALLENGER5-2=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Just a Slums citizen trying his best to earn money for his family.
+PC21_HYENA_CHALLENGER5-3=
+
+
+# Hyena
+### Also a former boxer, but you may have guessed that from his fighting style.
+PC21_HYENA_CHALLENGER5-4=
+
+
+# Hyena
+### He lost his boxing gear a while ago and refuses to replace them.
+PC21_HYENA_CHALLENGER5-5=
+
+
+# Hyena
+### I've heard he's a father, and his son's a mixed breed!
+PC21_HYENA_CHALLENGER5-6=
+
+
+# Hyena
+### Can you imagine that? A cross-breed between him and an otter!
+PC21_HYENA_CHALLENGER5-7=
+
+
+# Brok
+### Right! Must be something...
+PC21_HYENA_CHALLENGER5-8=
+
+
+# Brok
+### ...huh.
+PC21_HYENA_CHALLENGER5-9=
+
+
+#----------------------------------------------------
+# Brok
+### I didn't expect your own daughter to challenge me!
+PC21_HYENA_CHALLENGER6-1=
+
+
+# Hyena
+### What can I say? On my end, I didn't expect her to follow in my footsteps.
+PC21_HYENA_CHALLENGER6-2=
+
+
+# Hyena
+### Usually kids do everything they can to stand out from their parents.
+PC21_HYENA_CHALLENGER6-3=
+
+
+# Brok
+### That's nice.
+PC21_HYENA_CHALLENGER6-4=
+
+
+# Brok
+### Not her attacks, though! Ouch!
+PC21_HYENA_CHALLENGER6-5=
+
+
+# Hyena
+### Specifically for you, I told her not to hold back!
+PC21_HYENA_CHALLENGER6-6=
+
+
+# Brok
+### Thanks... I guess...!
+PC21_HYENA_CHALLENGER6-7=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### You know, I almost thought Sharpteeth the Thief was just a legend, but he's here, in the flesh!
+PC21_HYENA_CHALLENGER7-1=
+
+
+# Hyena
+### Yes! Few challengers reach the very top.
+PC21_HYENA_CHALLENGER7-2=
+
+
+# Hyena
+### He occasionally comes out of retirement for the ones who do. Great job!
+PC21_HYENA_CHALLENGER7-3=
+
+
+# Brok
+### I can't believe I beat him!
+PC21_HYENA_CHALLENGER7-4=
+
+
+# Hyena
+### Very impressive work! You should be proud of yourself. He's a long-time friend of mine, and I never would've been able to beat him.
+PC21_HYENA_CHALLENGER7-5=
+
+
+#----------------------------------------------------
+# Hyena
+### What do you want to eat?
+PC21_HYENA_FOOD1-1=
+
+
+# Brok
+### Hmm...
+PC21_HYENA_FOOD1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+### I could use an antburger right now! With extra Tomatoze sauce!
+PC21_HYENA_FOOD1-3=
+
+
+# Hyena
+### In a restaurant?!
+PC21_HYENA_FOOD1-4=
+
+
+# Brok
+### Well... yeah?
+PC21_HYENA_FOOD1-5=
+
+
+# Hyena
+### I'm afraid that kind of industrial-packaged, consumer product can only get pooped out by machines!
+PC21_HYENA_FOOD1-6=
+
+
+# Brok
+### Heyyyy, I love those!
+PC21_HYENA_FOOD1-7=
+
+
+# Hyena
+### But if you're desperate, our virtual food sink can provide you some. For a few C-Tokens.
+PC21_HYENA_FOOD1-8=
+
+
+# Hyena
+### How about a real drink instead?
+PC21_HYENA_FOOD1-9=
+
+
+# Brok
+### What kind?
+PC21_HYENA_FOOD1-10=
+
+
+# Hyena
+### We've got plenty of flavored, alcohol-free cocktails.
+PC21_HYENA_FOOD1-11=
+
+
+# Hyena
+### Actually, that's all we have, other than sodas...
+PC21_HYENA_FOOD1-12=
+
+
+# Hyena
+### Here, first one's free!
+PC21_HYENA_FOOD1-13=
+
+
+#----------------------------------------------------
+# Brok
+### Maybe later...
+PC21_HYENA_FOOD_NO-1=
+
+
+#----------------------------------------------------
+# Brok
+### (Glurp)
+PC21_HYENA_FOOD_YES-1=
+
+
+# Brok
+### Not bad!
+PC21_HYENA_FOOD_YES-2=
+
+
+# Brok
+### What's the effect?
+PC21_HYENA_FOOD_YES-3=
+
+
+# Hyena
+### They taste good.
+PC21_HYENA_FOOD_YES-4=
+
+
+# Brok
+### That's all?!
+PC21_HYENA_FOOD_YES-5=
+
+
+# Hyena
+### Well, I guess the sugar makes you fatter!
+PC21_HYENA_FOOD_YES-6=
+
+
+# Brok
+### Hmph... Not a good sale argument, man.
+PC21_HYENA_FOOD_YES-7=
+
+
+# Hyena
+### It's a cocktail. What did you expect?
+PC21_HYENA_FOOD_YES-8=
+
+
+#----------------------------------------------------
+# Hyena - Cricket + grasshopper mix
+### Crickethopper wings? Crabcake? Grub fillet?
+PC21_HYENA_FOOD2-1=
+
+
+# Brok
+### Can't believe I'm saying this but...
+PC21_HYENA_FOOD2-2=
+
+
+# Brok
+### Right now, I'm hungry for action!
+PC21_HYENA_FOOD2-3=
+
+
+# Hyena
+### Ha-ha! In that case, I'll show you our V.R. food products.
+PC21_HYENA_FOOD2-4=
+
+
+#----------------------------------------------------
+# Hyena
+### Here's our V.R. food catalogue!
+PC21_HYENA_FOOD3-1=
+
+
+#----------------------------------------------------
+# Brok
+### Your jaw...
+PC21_HYENA_HIMSELF1-1=
+
+
+# Hyena
+### Everyone's gotta ask.
+PC21_HYENA_HIMSELF1-2=
+
+
+# Hyena
+### Yeah, I lost it.
+PC21_HYENA_HIMSELF1-3=
+
+
+# Brok
+### Lost?
+PC21_HYENA_HIMSELF1-4=
+
+
+# Hyena
+### Well... one day I woke up, and it wasn't there!
+PC21_HYENA_HIMSELF1-5=
+
+
+# Brok
+### What...? But...
+PC21_HYENA_HIMSELF1-6=
+
+
+# Hyena
+### Ha! No way! Don't tell me you're buying into this!
+PC21_HYENA_HIMSELF1-7=
+
+
+# Hyena
+### I lost it after too many fights, of course. One in particular.
+PC21_HYENA_HIMSELF1-8=
+
+
+# Hyena
+### So broken and disjointed that it became easier to straight up replace it.
+PC21_HYENA_HIMSELF1-9=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Amazing technology Drumers have, isn't it? Looks neat, don't you think?
+PC21_HYENA_HIMSELF1-10=
+
+
+# Hyena
+### Your story is similar.
+PC21_HYENA_HIMSELF1-11=
+
+
+# Brok
+### You noticed...
+PC21_HYENA_HIMSELF1-12=
+
+
+# Hyena
+### You had better luck than I did, though! Ha!
+PC21_HYENA_HIMSELF1-13=
+
+
+# Brok
+### I'm still up and fighting!
+PC21_HYENA_HIMSELF1-14=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### So... you were a fighter... in the Drums?
+PC21_HYENA_HIMSELF2-1=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Right. Up until the Triangle suddenly outlawed fighting pits.
+PC21_HYENA_HIMSELF2-2=
+
+
+# Hyena
+### "Too violent, not safe!" Wretched Government!
+PC21_HYENA_HIMSELF2-3=
+
+
+# Hyena
+### I saw the tragedy, but one individual should not have caused a full ban.
+PC21_HYENA_HIMSELF2-4=
+
+
+# Hyena
+### To be fair, after my own jaw accident, I considered taking early retirement.
+PC21_HYENA_HIMSELF2-5=
+
+
+# Hyena
+### Doesn't matter, though. I'll never forgive them...
+PC21_HYENA_HIMSELF2-6=
+
+
+# Hyena
+### The frustrating part is I don't even know who's to blame!
+PC21_HYENA_HIMSELF2-7=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### So I did what I had to. I left the Drums, quit the job that I spent most of my life getting into.
+PC21_HYENA_HIMSELF2-8=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Surveillance in the Slums is more limited, so my goal was to establish a new pit out here.
+PC21_HYENA_HIMSELF2-9=
+
+
+# Brok
+### But this isn't exactly a fight pit...
+PC21_HYENA_HIMSELF2-10=
+
+
+# Hyena
+### True. I changed my mind.
+PC21_HYENA_HIMSELF2-11=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I realized the Slums needed more than fights.
+PC21_HYENA_HIMSELF2-12=
+
+
+# Hyena
+### They needed a place to make friends. Somewhere to find food and shelter when needed.
+PC21_HYENA_HIMSELF2-13=
+
+
+# Hyena
+### A fighter's spirit, however, doesn't need a physical place to express itself.
+PC21_HYENA_HIMSELF2-14=
+
+
+# Hyena
+### Everyone can enjoy our VR cabins, and they take up way less space!
+PC21_HYENA_HIMSELF2-15=
+
+
+# Brok
+### Isn't the Government aware?
+PC21_HYENA_HIMSELF2-16=
+
+
+# Hyena
+### We do what we can to stay out of their notice.
+PC21_HYENA_HIMSELF2-17=
+
+
+# Hyena
+### Maybe they know and they're just turning a blind eye to it. The violence here is artificial, after all.
+PC21_HYENA_HIMSELF2-18=
+
+
+# Hyena
+### We still get drones and bots that snoop around, but we can handle those!
+PC21_HYENA_HIMSELF2-19=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Isn't that right, Puzzles?
+PC21_HYENA_HIMSELF2-20=
+
+
+# Hedgehog
+### Yup! I grab my trusty broom and shoo 'em off!
+PC21_HYENA_HIMSELF2-21=
+
+
+# Hyena
+### Ha! You should see him! It's a riot.
+PC21_HYENA_HIMSELF2-22=
+
+
+#----------------------------------------------------
+# Brok
+### Let's fight someday! Make this one of my challenges!
+PC21_HYENA_HIMSELF3-1=
+
+
+# Hyena
+### Sorry, man! I retired.
+PC21_HYENA_HIMSELF3-2=
+
+
+# Brok
+### Oh, come on!
+PC21_HYENA_HIMSELF3-3=
+
+
+# Hedgehog
+### I can take you on myself!
+PC21_HYENA_HIMSELF3-4=
+
+
+# Brok
+### You...?!
+PC21_HYENA_HIMSELF3-5=
+
+
+# Hedgehog
+### Don't underestimate me because I'm small...! And inexperienced...!
+PC21_HYENA_HIMSELF3-6=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Not before you're done with your work, Puzzles.
+PC21_HYENA_HIMSELF3-7=
+
+
+# Hedgehog
+### Aww. You're no fun, boss.
+PC21_HYENA_HIMSELF3-8=
+
+
+#----------------------------------------------------
+# Brok - Free talk with Bubbles
+### Hello! I was wondering...
+PC21_FROG_WELCOME1-1=
+
+
+# Frog
+### You want to create something? If not, don't waste my time.
+PC21_FROG_WELCOME1-2=
+
+
+# Brok
+### Meaning...?
+PC21_FROG_WELCOME1-3=
+
+
+# Frog
+### Free mode. Create your own challenges.
+PC21_FROG_WELCOME1-4=
+
+
+# Brok
+### Sounds fun!
+PC21_FROG_WELCOME1-5=
+
+
+# Brok
+### Wait... So I make challenges just to deal with them myself?
+PC21_FROG_WELCOME1-6=
+
+
+# Frog
+### Of course!
+PC21_FROG_WELCOME1-7=
+
+
+#----------------------------------------------------
+# Frog
+### Sir.
+PC21_FROG_WELCOME2-1=
+
+
+#----------------------------------------------------
+# Brok
+### Bye!
+PC21_FROG_EXIT1-1=
+
+
+#----------------------------------------------------
+# Brok
+### I'll be back.
+PC21_FROG_EXIT2-1=
+
+
+#----------------------------------------------------
+# Frog
+### (Bubbling)
+PC21_FROG_HIT1-1=
+
+
+# Brok
+### Argh! My eyes!
+PC21_FROG_HIT1-2=
+
+
+#----------------------------------------------------
+# Frog
+### (Bubbling)
+PC21_FROG_HIT2-1=
+
+
+# Brok
+### Help! I'm blind!
+PC21_FROG_HIT2-2=
+
+
+#----------------------------------------------------
+# Brok
+### (Maybe I could do some bubbling too.)
+PC21_FROG_THINK1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Well...maybe not. Graff has sensitive hearing, he'd probably hate it!)
+PC21_FROG_THINK1-2=
+
+
+#----------------------------------------------------
+# Brok
+### I assume you're the second-in-command of this ship.
+PC21_FROG_HERSELF1-1=
+
+
+# Frog
+### Ha! Good one.
+PC21_FROG_HERSELF1-2=
+
+
+# Frog
+### I run things here.
+PC21_FROG_HERSELF1-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Are you? Isn't Tenderjaw the owner?
+PC21_FROG_HERSELF1-4=
+
+
+# Frog
+### I like to let him think that.
+PC21_FROG_HERSELF1-5=
+
+
+# Brok
+### I... see...?
+PC21_FROG_HERSELF1-6=
+
+
+# Brok
+### How did you meet?
+PC21_FROG_HERSELF1-7=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### We were neighbors in the Drums.
+PC21_FROG_HERSELF1-8=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I left the Drums a little after 'Jaw did, but not for the same reason.
+PC21_FROG_HERSELF1-9=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### When I finally settled in the Slums, there he was, my neighbor again. Happy happenstance.
+PC21_FROG_HERSELF1-10=
+
+
+# Frog
+### So I figured... if we're gonna be next to each other constantly, better work with the guy!
+PC21_FROG_HERSELF1-11=
+
+
+# Brok
+### That's, erm... not what I expected.
+PC21_FROG_HERSELF1-12=
+
+
+# Frog
+### Life is full of surprises.
+PC21_FROG_HERSELF1-13=
+
+
+#----------------------------------------------------
+# Brok
+### Bubbling a lot, I see!
+PC21_FROG_HERSELF2-1=
+
+
+# Frog
+### Very soothing. I need it.
+PC21_FROG_HERSELF2-2=
+
+
+# Brok
+### You mean... this is a stressful work environment?
+PC21_FROG_HERSELF2-3=
+
+
+# Frog
+### ...
+PC21_FROG_HERSELF2-4=
+
+
+# Frog
+### (Bubbling)
+PC21_FROG_HERSELF2-5=
+
+
+#----------------------------------------------------
+# Frog
+### Would you like a name change?
+PC21_FROG_RENAMEPLAYER1-1=
+
+
+# Brok
+### What? I can do that?!
+PC21_FROG_RENAMEPLAYER1-2=
+
+
+# Frog
+### Nothing is off limits down here.
+PC21_FROG_RENAMEPLAYER1-3=
+
+
+#----------------------------------------------------
+# Frog
+### When you have co-op friends, tell them to talk to me so they can rename themselves, too.
+PC21_FROG_RENAMEPLAYER2-1=
+
+
+#----------------------------------------------------
+# Frog
+### Okay. Your fighter name is now {name}.
+PC21_FROG_RENAMEPLAYER_CONFIRM1-1=
+
+
+# Frog
+### Weird name, but hey. Who am I to judge.
+PC21_FROG_RENAMEPLAYER_CONFIRM1-2=
+
+
+#----------------------------------------------------
+# Frog
+### Alright then, {name}.
+PC21_FROG_RENAMEPLAYER_CONFIRM2-1=
+
+
+#----------------------------------------------------
+# Frog
+### So, you want a face change?
+PC21_FROG_CHANGEPLAYER1-1=
+
+
+# Brok
+### Huh?!
+PC21_FROG_CHANGEPLAYER1-2=
+
+
+# Frog
+### For the challenges. You can replay all of them with another character.
+PC21_FROG_CHANGEPLAYER1-3=
+
+
+# Brok
+### Errr...
+PC21_FROG_CHANGEPLAYER1-4=
+
+
+#----------------------------------------------------
+# Frog
+### Who will it be?
+PC21_FROG_CHANGEPLAYER2-1=
+
+
+#----------------------------------------------------
+# Brok
+### What just happened?!
+PC21_FROG_CHANGEPLAYER_AFTER-1=
+
+
+# Brok
+### Nothing makes sense! I'm somebody else and this is not V.R.!
+PC21_FROG_CHANGEPLAYER_AFTER-2=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### Sweety, you better lay off the energy drinks.
+PC21_FROG_CHANGEPLAYER_AFTER-3=
+
+
+#----------------------------------------------------
+# Frog - The amount might change...
+### Come and spin our wheel.
+PC21_FROG_WHEEL1-1=
+
+
+# Frog
+### 10 C-Tokens per try to unlock nice things.
+PC21_FROG_WHEEL1-2=
+
+
+# Frog
+### Every spin wins something.
+PC21_FROG_WHEEL1-3=
+
+
+#----------------------------------------------------
+# Frog
+### 10 C-Tokens.
+PC21_FROG_WHEEL2-1=
+
+
+#----------------------------------------------------
+# Frog - Bubbles spins the wheel
+### Here we go.
+PC21_FROG_WHEELSPIN1-1=
+
+
+#----------------------------------------------------
+# Frog
+### Vroom, vroom...!
+PC21_FROG_WHEELSPIN2-1=
+
+
+#----------------------------------------------------
+# Frog
+### The anticipation is killing me.
+PC21_FROG_WHEELSPIN3-1=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### (Bubbles)
+PC21_FROG_WHEELSPIN4-1=
+
+
+#----------------------------------------------------
+# Frog
+### Let's go, I guess.
+PC21_FROG_WHEELSPIN5-1=
+
+
+#----------------------------------------------------
+# Frog
+### I can't tell which section the arrow is pointing at...
+PC21_FROG_WHEELCLOSE1-1=
+
+
+# Frog
+### Just spin it again.
+PC21_FROG_WHEELCLOSE1-2=
+
+
+#----------------------------------------------------
+# Frog
+### You've unlocked a bonus challenge. Amazing.
+PC21_FROG_WHEEL_CHALLENGE-1=
+
+
+#----------------------------------------------------
+# Frog
+### Looks like you've already unlocked all of them, sweetie.
+PC21_FROG_WHEEL_FULL-1=
+
+
+# Frog
+### So, from now on you'll get a collectible card instead!
+PC21_FROG_WHEEL_FULL-2=
+
+
+#----------------------------------------------------
+# Frog
+### Here is a collectible card for you.
+PC21_FROG_WHEEL_COLLECTIBLE-1=
+
+
+#----------------------------------------------------
+# Frog
+### You've unlocked a track for the jukebox. Wow.
+PC21_FROG_WHEEL_MUSIC-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (<col=BOLD>{title}</col> unlocked)
+PC21_FROG_WHEEL_UNLOCKED-1=
+
+
+#----------------------------------------------------
+# Frog
+### You get a 10% discount.
+PC21_FROG_WHEEL_COUPON10-1=
+
+
+#----------------------------------------------------
+# Frog
+### You get a 25% discount.
+PC21_FROG_WHEEL_COUPON25-1=
+
+
+#----------------------------------------------------
+# Frog
+### You get a 50% discount. Amazing.
+PC21_FROG_WHEEL_COUPON50-1=
+
+
+#----------------------------------------------------
+# Frog
+### It will automatically be used the next time you buy V.R. food or skip a challenge.
+PC21_FROG_WHEEL_COUPONEXPLAIN-1=
+
+
+# Brok
+### Can I add those discounts together?
+PC21_FROG_WHEEL_COUPONEXPLAIN-2=
+
+
+# Frog
+### Ha ha. No.
+PC21_FROG_WHEEL_COUPONEXPLAIN-3=
+
+
+# Frog
+### But you can get as many coupons as you want. The deepest discounts are used first.
+PC21_FROG_WHEEL_COUPONEXPLAIN-4=
+
+
+#----------------------------------------------------
+# Frog
+### You've unlocked a surprise...
+PC21_FROG_WHEEL_SURPRISE-1=
+
+
+#----------------------------------------------------
+# Frog
+### ...an ad coupon!
+PC21_FROG_WHEEL_AD-1=
+
+
+# Brok
+### I got owned...
+PC21_FROG_WHEEL_AD-2=
+
+
+#----------------------------------------------------
+# Frog
+### ...a free retry.
+PC21_FROG_WHEEL_RETRY-1=
+
+
+# Frog
+### Go ahead, spin.
+PC21_FROG_WHEEL_RETRY-2=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+### ...a virtual pampalos.
+PC21_FROG_WHEEL_FREEPAMPALOS-1=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### ...a virtual antburger.
+PC21_FROG_WHEEL_FREEANTBURGER-1=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+### ...a virtual energy drink.
+PC21_FROG_WHEEL_FREEENERGYDRINK-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (Added to your inventory)
+PC21_FROG_WHEEL_FREEFOOD-1=
+
+
+#----------------------------------------------------
+# Frog
+### ...a free drink. Here.
+PC21_FROG_WHEEL_FREEDRINK-1=
+
+
+# Brok
+### (Glurp)
+PC21_FROG_WHEEL_FREEDRINK-2=
+
+
+#----------------------------------------------------
+# Frog
+### ...a free hug.
+PC21_FROG_WHEEL_FREEHUG-1=
+
+
+# Brok
+### Woah!
+PC21_FROG_WHEEL_FREEHUG-2=
+
+
+#----------------------------------------------------
+# Brok
+### I...did not expect that...
+PC21_FROG_WHEEL_FREEHUG_FIRST-1=
+
+
+# Frog
+### Well, we're a business, but we still care about our clients.
+PC21_FROG_WHEEL_FREEHUG_FIRST-2=
+
+
+# Frog
+### It's a free way to show it for us.
+PC21_FROG_WHEEL_FREEHUG_FIRST-3=
+
+
+# Brok
+### Not exactly free for me, though...
+PC21_FROG_WHEEL_FREEHUG_FIRST-4=
+
+
+# Frog
+### We agreed to take turns to do it.
+PC21_FROG_WHEEL_FREEHUG_FIRST-5=
+
+
+#----------------------------------------------------
+# Frog
+### Wanna spin it again?
+PC21_FROG_WHEEL_END-1=
+
+
+#----------------------------------------------------
+# Frog
+### But... you poor thing. You don't even have that much.
+PC21_FROG_WHEEL_NOTOKENS-1=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Okay. (Bubbles)
+PC21_FROG_OKAY-1=
+
+
+#----------------------------------------------------
+# Frog - Bubbles detects that player modified the number of C Tokens
+### No, no, no.
+PC21_FROG_CHEATED-1=
+
+
+# Frog
+### I won't accept this.
+PC21_FROG_CHEATED-2=
+
+
+# Brok
+### What?
+PC21_FROG_CHEATED-3=
+
+
+# Frog
+### You just edited your save file, didn't you?
+PC21_FROG_CHEATED-4=
+
+
+# Brok
+### ...oh. Oops.
+PC21_FROG_CHEATED-5=
+
+
+# Frog
+### Fortunately, I can revert the number of C-Tokens for you.
+PC21_FROG_CHEATED-6=
+
+
+#----------------------------------------------------
+# Frog
+### Done.
+PC21_FROG_CHEATED_YES-1=
+
+
+# Frog
+### Thank you for doing the right thing.
+PC21_FROG_CHEATED_YES-2=
+
+
+#----------------------------------------------------
+# Frog
+### I can't force you unfortunately.
+PC21_FROG_CHEATED_NO-1=
+
+
+# Frog
+### Just feel the endless guilt that there is now a hole in my accounting.
+PC21_FROG_CHEATED_NO-2=
+
+
+#----------------------------------------------------
+# Brok - More talk with Bubbles
+### So, a creator mode, really?
+PC21_FROG_CREATOR1-1=
+
+
+# Frog
+### Yes. Do you wanna try it?
+PC21_FROG_CREATOR1-2=
+
+
+# Frog
+### Fortunately for you, this is free to use.
+PC21_FROG_CREATOR1-3=
+
+
+# Brok
+### Nice!
+PC21_FROG_CREATOR1-4=
+
+
+# Frog
+### And you can make a mess as much as you want. Which you definitely will.
+PC21_FROG_CREATOR1-5=
+
+
+# Brok
+### Err...
+PC21_FROG_CREATOR1-6=
+
+
+#----------------------------------------------------
+# Brok
+### Can I share my superb creations with other players?
+PC21_FROG_CREATOR2-1=
+
+
+# Frog
+### Yeah. Use the appropriate "Share" option in the top right of the creator mode and follow the instructions.
+PC21_FROG_CREATOR2-2=
+
+
+# Frog
+### As for playing challenges created by others, try the "Download" option.
+PC21_FROG_CREATOR2-3=
+
+
+#----------------------------------------------------
+# Frog
+### Feeling creative?
+PC21_FROG_CREATOR_END-1=
+
+
+#----------------------------------------------------
+# Frog
+### Hmm...
+PC21_FROG_AFTER1-1=
+
+
+# Frog
+### Phew. I'm relieved you didn't ruin my tablet with those fat greasy fingers of yours.
+PC21_FROG_AFTER1-2=
+
+
+# Brok
+### Hey...! Don't serve food if you can't stand grease!
+PC21_FROG_AFTER1-3=
+
+
+#----------------------------------------------------
+# Frog
+### Let's see what you did...
+PC21_FROG_AFTER2-1=
+
+
+# Brok
+### Huh?!
+PC21_FROG_AFTER2-2=
+
+
+# Frog
+### Well, I expected worse.
+PC21_FROG_AFTER2-3=
+
+
+# Brok
+### Thanks... I guess.
+PC21_FROG_AFTER2-4=
+
+
+#----------------------------------------------------
+# Frog
+### Hmm.
+PC21_FROG_AFTER3-1=
+
+
+#----------------------------------------------------
+# Hedgehog - Free talk with the hedgehog
+### Hey, mister!
+PC21_HEDGEHOG_WELCOME1-1=
+
+
+# Hedgehog
+### Let me know when you want to place your trust in a fighter!
+PC21_HEDGEHOG_WELCOME1-2=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Ohh, I can't wait!
+PC21_HEDGEHOG_WELCOME2-1=
+
+
+# Hedgehog
+### What do you have in mind?
+PC21_HEDGEHOG_WELCOME2-2=
+
+
+#----------------------------------------------------
+# Hedgehog
+### See you soon!
+PC21_HEDGEHOG_EXIT1-1=
+
+
+#----------------------------------------------------
+# Brok
+### Just a moment.
+PC21_HEDGEHOG_EXIT2-1=
+
+
+#----------------------------------------------------
+# Hedgehog - Free talk with the hedgehog
+### Try our daily challenge!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-1=
+
+
+# Hedgehog
+### One new each day, 'til the end of time!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-2=
+
+
+# Hedgehog
+### You'll get a few C-Tokens if you win!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-3=
+
+
+# Brok
+### Sounds good!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-4=
+
+
+# Hedgehog
+### Just one... minor thing.
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-5=
+
+
+# Hedgehog
+### They're procedurally generated, so they're random...
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-6=
+
+
+# Hedgehog
+### You might run into challenges that are impossible to complete.
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-7=
+
+
+# Hedgehog
+### I'm still working on improvements!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-8=
+
+
+# Brok
+### No worries! I'm ready for anything!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-9=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Got a new daily challenge for ya!
+PC21_HEDGEHOG_NEWDAILYCHALLENGE-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Here's the list!
+PC21_HEDGEHOG_DAILYCHALLENGES-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Battling foes may pose challenges, yet there's something even more formidable.
+PC21_HEDGEHOG_SUPPORTFIRST-1=
+
+
+# Hedgehog
+### It's placing your trust in others!
+PC21_HEDGEHOG_SUPPORTFIRST-2=
+
+
+# Hedgehog
+### Choose which fighter or group of fighters you expect to win.
+PC21_HEDGEHOG_SUPPORTFIRST-3=
+
+
+# Hedgehog
+### Watch them fight. And if they're victorious, you get some C-Tokens too!
+PC21_HEDGEHOG_SUPPORTFIRST-4=
+
+
+# Hedgehog
+### This is entirely free. Give it a try!
+PC21_HEDGEHOG_SUPPORTFIRST-5=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Have you noticed? There's percentages next to each group of characters.
+PC21_HEDGEHOG_SUPPORTSECOND-1=
+
+
+# Hedgehog
+### This indicates their current morale. The higher the number, the more effort they'll put into the fight!
+PC21_HEDGEHOG_SUPPORTSECOND-2=
+
+
+# Hedgehog
+### Of course, a value lower than 100% means the opposite.
+PC21_HEDGEHOG_SUPPORTSECOND-3=
+
+
+# Hedgehog
+### The C-Tokens awarded vary accordingly. If you trust a group who isn't likely to win, you'll get more C-Tokens!
+PC21_HEDGEHOG_SUPPORTSECOND-4=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Here are the current challengers!
+PC21_HEDGEHOG_SUPPORT1-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Great job!
+PC21_HEDGEHOG_SUPPORTWIN1-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Better luck next time!
+PC21_HEDGEHOG_SUPPORTLOSE1-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### A tie? Too bad...
+PC21_HEDGEHOG_SUPPORTDRAW1-1=
+
+
+#----------------------------------------------------
+# Brok
+### (Seems like a cool guy.)
+PC21_HEDGEHOG_THINK1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### (Pretty rare to see such enthusiastic youngsters in the Slums)
+PC21_HEDGEHOG_THINK1-2=
+
+
+#----------------------------------------------------
+# Hedgehog - Trying to hit him
+### Hey! What?
+PC21_HEDGEHOG_HIT1-1=
+
+
+# Hedgehog
+### You... you wanna fight? For real?!
+PC21_HEDGEHOG_HIT1-2=
+
+
+# Hedgehog
+### Amazing! Let's go!
+PC21_HEDGEHOG_HIT1-3=
+
+
+# Hyena
+### Nope.
+PC21_HEDGEHOG_HIT1-4=
+
+
+# Hedgehog
+### Aww, I forgot...
+PC21_HEDGEHOG_HIT1-5=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Please don't...! The boss said no.
+PC21_HEDGEHOG_HIT2-1=
+
+
+#----------------------------------------------------
+# Brok - Free talk with the hedgehog
+### So...
+PC21_HEDGEHOG_HIMSELF1-1=
+
+
+# Hedgehog
+### Lemme tell you! Lemme tell you everything!
+PC21_HEDGEHOG_HIMSELF1-2=
+
+
+# Brok
+### I didn't ask yet!
+PC21_HEDGEHOG_HIMSELF1-3=
+
+
+# Hedgehog
+### No need!
+PC21_HEDGEHOG_HIMSELF1-4=
+
+
+# Hedgehog
+### I'm an aspiring fighter!
+PC21_HEDGEHOG_HIMSELF1-5=
+
+
+# Hedgehog
+### After work, I take VR lessons in martial arts. One day, I'm gonna become a master so I can beat up thugs in real life!
+PC21_HEDGEHOG_HIMSELF1-6=
+
+
+# Hedgehog
+### And... and...
+PC21_HEDGEHOG_HIMSELF1-7=
+
+
+# Hedgehog
+### I guess that's it.
+PC21_HEDGEHOG_HIMSELF1-8=
+
+
+# Hedgehog
+### Sorry. I'm lame.
+PC21_HEDGEHOG_HIMSELF1-9=
+
+
+# Brok
+### Nah! Your story is just starting. No shame in that!
+PC21_HEDGEHOG_HIMSELF1-10=
+
+
+# Hedgehog
+### True! Thanks, sir!
+PC21_HEDGEHOG_HIMSELF1-11=
+
+
+#----------------------------------------------------
+# Brok
+### I wonder. Are those spikes of yours sharp or soft?
+PC21_HEDGEHOG_HIMSELF2-1=
+
+
+# Hedgehog
+### Both!
+PC21_HEDGEHOG_HIMSELF2-2=
+
+
+# Hedgehog
+### Normally they're soft, but I can flex them to make them sharp and protect myself!
+PC21_HEDGEHOG_HIMSELF2-3=
+
+
+# Hedgehog
+### That takes a lot of effort though, soooo...
+PC21_HEDGEHOG_HIMSELF2-4=
+
+
+# Hedgehog
+### I'm still training to keep them flexed long enough to be useful.
+PC21_HEDGEHOG_HIMSELF2-5=
+
+
+# Brok
+### That's amazing! You'll get it someday!
+PC21_HEDGEHOG_HIMSELF2-6=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Oh, so you're ready to die! Cool!
+PC21_HEDGEHOG_SURVIVAL1-1=
+
+
+# Brok
+### What?!
+PC21_HEDGEHOG_SURVIVAL1-2=
+
+
+# Hedgehog
+### Survival mode! It's exactly what it sounds like.
+PC21_HEDGEHOG_SURVIVAL1-3=
+
+
+# Hedgehog
+### You fight a horde of enemies as long as you can until you die!
+PC21_HEDGEHOG_SURVIVAL1-4=
+
+
+# Hedgehog
+### Only in V.R. mode, though. No one has died in the cabin!
+PC21_HEDGEHOG_SURVIVAL1-5=
+
+
+# Hedgehog
+### So far.
+PC21_HEDGEHOG_SURVIVAL1-6=
+
+
+# Brok
+### Erm... okay...
+PC21_HEDGEHOG_SURVIVAL1-7=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Would you like the enemies to always be the same, or randomized?
+PC21_HEDGEHOG_SURVIVAL_CHOICE-1=
+
+
+#----------------------------------------------------
+# Hedgehog - For voice acting just say "Your record so far is this number of waves"
+### Your record so far is {number} waves!
+PC21_HEDGEHOG_SURVIVAL2-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Get ready!
+PC21_HEDGEHOG_SURVIVAL2B-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Time to fight your friends! Or will you team up against computer foes?
+PC21_HEDGEHOG_VERSUS1-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### ...oh, wait.
+PC21_HEDGEHOG_VERSUSALONE1-1=
+
+
+# Hedgehog
+### I hate to tell you this, but... to do versus battle, you need a friend.
+PC21_HEDGEHOG_VERSUSALONE1-2=
+
+
+# Hedgehog
+### A friend in the real world.
+PC21_HEDGEHOG_VERSUSALONE1-3=
+
+
+# Brok
+### Real world...? Am I in V.R. right now?
+PC21_HEDGEHOG_VERSUSALONE1-4=
+
+
+# Hedgehog
+### Ha! You never know!
+PC21_HEDGEHOG_VERSUSALONE1-5=
+
+
+# Hedgehog
+### Actually, that's fine! We have an alternative!
+PC21_HEDGEHOG_VERSUSALONE1-6=
+
+
+#----------------------------------------------------
+# Hedgehog
+### Versus, yes!
+PC21_HEDGEHOG_VERSUS2-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### That was intense!
+PC21_HEDGEHOG_AFTER1-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### How was it?
+PC21_HEDGEHOG_AFTER2-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### I had my eyes stuck to the screen the whole fight!
+PC21_HEDGEHOG_AFTER3-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### That was so cool!
+PC21_HEDGEHOG_AFTER4-1=
+
+
+#----------------------------------------------------
+# Iguana - Free talk with Ivy
+### Hey, man!
+PC21_IGUANA1-1=
+
+
+# Iguana
+### You broke my win streak!
+PC21_IGUANA1-2=
+
+
+# Iguana
+### Just one more and I would've reached the 10-wins medal!
+PC21_IGUANA1-3=
+
+
+# Brok
+### Ah... sorry, miss.
+PC21_IGUANA1-4=
+
+
+# Iguana
+### That's okay! This means I'll have to work harder.
+PC21_IGUANA1-5=
+
+
+# Iguana
+### I heard you're a former boxer?
+PC21_IGUANA1-6=
+
+
+# Brok
+### Yeah, although I haven't practiced for six years.
+PC21_IGUANA1-7=
+
+
+# Iguana
+### Makes sense. Your style is more... let's say...
+PC21_IGUANA1-8=
+
+
+# Iguana
+### Free style.
+PC21_IGUANA1-9=
+
+
+# Brok
+### Fair enough. I was never fond of following all the boxing rules.
+PC21_IGUANA1-10=
+
+
+# Brok
+### Now I'm a free gator!
+PC21_IGUANA1-11=
+
+
+# Iguana
+### Looks like you've found your inner fighter balance then. Fun!
+PC21_IGUANA1-12=
+
+
+#----------------------------------------------------
+# Brok
+### You're actually a pretty good wrestler!
+PC21_IGUANA2-1=
+
+
+# Brok
+### Can you do all those moves in real life, too?
+PC21_IGUANA2-2=
+
+
+# Iguana
+### Ha! All that and more!
+PC21_IGUANA2-3=
+
+
+# Iguana
+### You'd be dazzled if you saw everything I could do. I keep telling Dad to put in a ring for real, but nooo.
+PC21_IGUANA2-4=
+
+
+# Brok
+### Aww... Why not?
+PC21_IGUANA2-5=
+
+
+# Brok
+### With a ring here, I could finally get into a fight for fun instead of self-defense!
+PC21_IGUANA2-6=
+
+
+# Iguana
+### See, Dad? Your customers want it too!
+PC21_IGUANA2-7=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### I told you, Ivy. For one, we don't have the room for it.
+PC21_IGUANA2-8=
+
+
+# Hyena
+### And where would I even find a ring? They were all destroyed after the ban.
+PC21_IGUANA2-9=
+
+
+# Iguana
+### We could just make our own!
+PC21_IGUANA2-10=
+
+
+# Iguana
+### You could treat the customers to some real action, and I could finally wrestle for real too!
+PC21_IGUANA2-11=
+
+
+# Hyena
+### And when the customers limp home with injuries, drawing even more attention to us until the Government catches on and shuts us down?
+PC21_IGUANA2-12=
+
+
+# Hyena
+### No thanks! 'Sides, the VRs are easier to manage.
+PC21_IGUANA2-13=
+
+
+# Iguana
+### Ugh. I thought you were a fun dad, now you're just a dull dad.
+PC21_IGUANA2-14=
+
+
+# Hyena
+### Ow! Striking at your old man's heart. Daughters are so mean these days.
+PC21_IGUANA2-15=
+
+
+# Iguana
+### (He'll get over it, ha ha!)
+PC21_IGUANA2-16=
+
+
+# Brok
+### (Ah-hahah...)
+PC21_IGUANA2-17=
+
+
+#----------------------------------------------------
+# Brok
+### You and your father seem to get along well.
+PC21_IGUANA3-1=
+
+
+# Iguana
+### Yup! He's always been there for me.
+PC21_IGUANA3-2=
+
+
+# Iguana
+### He taught me how to stand up for myself. And how to throw a sick right hook, too!
+PC21_IGUANA3-3=
+
+
+# Iguana
+### Honestly, I think I learned just as much by watching him fight in his tournaments. Those were good times.
+PC21_IGUANA3-4=
+
+
+# Brok
+### Sounds like a wild childhood. Bet you had lots of fun!
+PC21_IGUANA3-5=
+
+
+# Iguana
+### Maybe too wild.
+PC21_IGUANA3-6=
+
+
+# Iguana
+### Other girls my age were intimidated by my "bombastic" nature. Which wasn't fair!
+PC21_IGUANA3-7=
+
+
+# Iguana
+### I may love some action, but I still wanted to play with dolls!
+PC21_IGUANA3-8=
+
+
+# Iguana
+### Mom kept me company and played with me, which I appreciated, but it wasn't quite the same, y'know?
+PC21_IGUANA3-9=
+
+
+# Brok
+### Well, those girls are missing out. As far as I can tell, you're a future star!
+PC21_IGUANA3-10=
+
+
+# Iguana
+### Aww, you're too kind, thank you!
+PC21_IGUANA3-11=
+
+
+# Iguana
+### I'll be sure to invite you for VIP seats when I become a top wrestler!
+PC21_IGUANA3-12=
+
+
+#----------------------------------------------------
+# Brok
+### Speaking of, why wrestling?
+PC21_IGUANA4-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Tenderjaw doesn't seem to be one as far as I can tell.
+PC21_IGUANA4-2=
+
+
+# Iguana
+### True, he's not. But in the tournaments I watched, there were a few wrestlers.
+PC21_IGUANA4-3=
+
+
+# Iguana
+### Compared to the boxers, it's like they were putting on a whole different show.
+PC21_IGUANA4-4=
+
+
+# Iguana
+### Their moves were mesmerizing, and the crowd went crazy every time they landed one.
+PC21_IGUANA4-5=
+
+
+# Iguana
+### That's when I knew I wanted to be one!
+PC21_IGUANA4-6=
+
+
+# Brok
+### Well, I may not be a wrestler, but I can tell you've got potential.
+PC21_IGUANA4-7=
+
+
+# Brok
+### Keep fighting for it, and I'm sure you'll reach your goal!
+PC21_IGUANA4-8=
+
+
+# Brok
+### Just be sure to take care of yourself. I say this from experience in these sports.
+PC21_IGUANA4-9=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I will. Thanks for your concern, Brok.
+PC21_IGUANA4-10=
+
+
+#----------------------------------------------------
+# Brok
+### Is that... makeup in your hand?
+PC21_IGUANA5-1=
+
+
+# Iguana
+### Oh, just some blush.
+PC21_IGUANA5-2=
+
+
+# Iguana
+### I can fight, but that doesn't mean I can't look amazing as well. In fact, it's the opposite!
+PC21_IGUANA5-3=
+
+
+# Iguana
+### Do you know how important a good look is during battle?
+PC21_IGUANA5-4=
+
+
+# Brok
+### Not really...?
+PC21_IGUANA5-5=
+
+
+# Iguana
+### When you've got the public's adoration, the more they cheer for you, and the better you fight.
+PC21_IGUANA5-6=
+
+
+# Iguana
+### And don't discount the possibility of distracting your opponents!
+PC21_IGUANA5-7=
+
+
+# Iguana
+### (Psst, dad probably wouldn't agree but you know... he's old fashioned)
+PC21_IGUANA5-8=
+
+
+# Iguana
+### Besides, after my job I'm going out with my girlfriend. Can't wait!
+PC21_IGUANA5-9=
+
+
+# Brok
+### Busy day, I see!
+PC21_IGUANA5-10=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### So, are you and your partner Slumers?
+PC21_IGUANA6-1=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Actually... she's a Drumer.
+PC21_IGUANA6-2=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm super lucky. Drumers rarely come to the Slums-they fear this place.
+PC21_IGUANA6-3=
+
+
+# Iguana
+### And I can't really blame her. Her dad was killed here.
+PC21_IGUANA6-4=
+
+
+# Iguana
+### He was robbed and fought back. Things escalated and...
+PC21_IGUANA6-5=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+### She came to give him a proper burial, but by the time she got here, he'd already been processed in the Body Recycling Center.
+PC21_IGUANA6-6=
+
+
+# Iguana
+### Not being able to see your loved ones again, even just to say goodbye... It's awful.
+PC21_IGUANA6-7=
+
+
+# Iguana
+### You're not able to grieve.
+PC21_IGUANA6-8=
+
+
+# Brok
+### Yeah...
+PC21_IGUANA6-9=
+
+
+# Iguana
+### I found her in the streets. She was so sad... broken.
+PC21_IGUANA6-10=
+
+
+# Iguana
+### I had to comfort her. It kinda made me feel bad, honestly, like I was taking advantage of the situation.
+PC21_IGUANA6-11=
+
+
+# Iguana
+### But she needed it. In time, we got to know each other. It's been months now.
+PC21_IGUANA6-12=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Actually, she proposed to me just last week! We'd get married, and I'd become a Drumer with her.
+PC21_IGUANA6-13=
+
+
+# Brok
+### I had a similar situation.
+PC21_IGUANA6-14=
+
+
+# Iguana
+### Did you? How did it turn out?
+PC21_IGUANA6-15=
+
+
+# Brok
+### ...she was taken from me before I could find out.
+PC21_IGUANA6-16=
+
+
+# Iguana
+### I'm sorry... Grr, I really just don't know.
+PC21_IGUANA6-17=
+
+
+# Iguana
+### Should I take the risk that our relationship evolves and we find out we're not actually compatible?
+PC21_IGUANA6-18=
+
+
+# Iguana
+### I have a life here. A job. My dream wrestling career.
+PC21_IGUANA6-19=
+
+
+# Iguana
+### I love visiting Dad regularly.
+PC21_IGUANA6-20=
+
+
+# Iguana
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Will I even be able to pass the tests to remain in the Drums?
+PC21_IGUANA6-21=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I was still in the probation period, myself. Had to leave the Drums before passing them.
+PC21_IGUANA6-22=
+
+
+# Iguana
+### Too bad.
+PC21_IGUANA6-23=
+
+
+# Iguana
+### Well, guess I'll have to find out for myself.
+PC21_IGUANA6-24=
+
+
+# Brok
+### Right. This kind of big, life changing decision...
+PC21_IGUANA6-25=
+
+
+# Brok
+### Only you can decide that.
+PC21_IGUANA6-26=
+
+
+# Iguana
+### Thanks.
+PC21_IGUANA6-27=
+
+
+# Brok
+### Ha... I keep making the worst decisions in my own life, so I'm not exactly the right person to give advice!
+PC21_IGUANA6-28=
+
+
+# Iguana
+### Well, thanks for listening to me. I think that alone helped.
+PC21_IGUANA6-29=
+
+
+#----------------------------------------------------
+# Iguana
+### Thanks again!
+PC21_IGUANA7-1=
+
+
+# Brok
+### No problem! Keep training, you'll become a great wrestler!
+PC21_IGUANA7-2=
+
+
+#----------------------------------------------------
+# Iguana - Hitting Ivy
+### Hey!!! Dad doesn't allow fighting in here!
+PC21_IGUANA_HIT1-1=
+
+
+#----------------------------------------------------
+# Iguana - Hitting Ivy
+### Dad! Your prized fighter is having an aneurysm!
+PC21_IGUANA_HIT2-1=
+
+
+#----------------------------------------------------
+# Clint - Free talk with Clint
+### Man! You really showed me that I'm not quite as good as I used to be.
+PC21_CLINT1-1=
+
+
+# Brok
+### Nah! Any slip up and you would've had me!
+PC21_CLINT1-2=
+
+
+# Clint
+### I was an experienced boxer hog.
+PC21_CLINT1-3=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### There was this fight pit in the Slums. How was it called...
+PC21_CLINT1-4=
+
+
+# Clint
+### "The Halo".
+PC21_CLINT1-5=
+
+
+# Brok
+### Yeah, I practiced there for a while, but...
+PC21_CLINT1-6=
+
+
+# Clint
+### You don't remember our combat, do you?
+PC21_CLINT1-7=
+
+
+# Brok
+### Huh...?
+PC21_CLINT1-8=
+
+
+# Clint
+### I participated in a tournament. You did too!
+PC21_CLINT1-9=
+
+
+# Clint
+### We had a pretty good fight! But the same day, during the tournament...
+PC21_CLINT1-10=
+
+
+# Clint
+### A while after his defeat, one of the fighters went crazy and murdered his opponent... before killing himself.
+PC21_CLINT1-11=
+
+
+# Brok
+### Yeah, I heard of that.
+PC21_CLINT1-12=
+
+
+# Clint
+### Of course you did. You were there!
+PC21_CLINT1-13=
+
+
+# Brok
+### I was...?
+PC21_CLINT1-14=
+
+
+# Brok
+### Well, I'd say it's strange I can't remember, but my memory's been failing me lately.
+PC21_CLINT1-15=
+
+
+# Clint
+### Ha! It's okay, pal, all those hits in the face had effects for sure!
+PC21_CLINT1-16=
+
+
+# Clint
+### We tried to calm the situation down, but... nothing worked.
+PC21_CLINT1-17=
+
+
+# Clint
+### That's what led to the fight pits closing down.
+PC21_CLINT1-18=
+
+
+# Brok
+### Oh, yeah...
+PC21_CLINT1-19=
+
+
+# Clint
+### It's kinda strange. Been almost six years, so my memory is a bit fuzzy too, but I remember you looking exactly the same.
+PC21_CLINT1-20=
+
+
+# Clint
+### Well, except you had boxing gear on instead of this getup.
+PC21_CLINT1-21=
+
+
+# Brok
+### Gators age well!
+PC21_CLINT1-22=
+
+
+# Clint
+### I guess so!
+PC21_CLINT1-23=
+
+
+# Clint
+### Anyway, after everything shut down, I decided to focus on helping my family instead of continuing to train.
+PC21_CLINT1-24=
+
+
+# Clint
+### I've only been coming here for a few weeks. My kid's about to graduate, and I've got more time to myself now.
+PC21_CLINT1-25=
+
+
+# Brok
+### I get ya. It's been good being able to cut loose and get back in the ring again. Even if it's virtual.
+PC21_CLINT1-26=
+
+
+# Brok
+### I just wish that fighting here could bring in real money. Then I wouldn't have to be scraping by on handyman jobs...
+PC21_CLINT1-27=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Or risking my life in Shay's nightly fights.)
+PC21_CLINT1-28=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### All of us Slumers end up becoming handymen in one way or another. You really get clients?
+PC21_CLINT1-29=
+
+
+# Brok
+### You'd be surprised!
+PC21_CLINT1-30=
+
+
+# Brok
+### The real issue is... what they pay me with.
+PC21_CLINT1-31=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### Good thing I love antburgers and energy drinks!
+PC21_CLINT1-32=
+
+
+# Clint
+### I believe you! I totally do. Ha ha!
+PC21_CLINT1-33=
+
+
+#----------------------------------------------------
+# Brok
+### So what do you do with the C-Tokens you earn?
+PC21_CLINT2-1=
+
+
+# Clint
+### I trade 'em, mostly.
+PC21_CLINT2-2=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Some guys'll pay Unis for these, believe it or not.
+PC21_CLINT2-3=
+
+
+# Clint
+### People that just want to come buy a meal, socialize, and leave the fighting to the rest of us.
+PC21_CLINT2-4=
+
+
+# Brok
+### Really? Huh, first I've heard of that.
+PC21_CLINT2-5=
+
+
+# Clint
+### That's how I found out about this place, actually!
+PC21_CLINT2-6=
+
+
+# Clint
+### It's not much, but it's some pocket change on the side that I can use to help my son.
+PC21_CLINT2-7=
+
+
+# Brok
+### Good on ya, man!
+PC21_CLINT2-8=
+
+
+# Clint
+### Ahh, it's not completely selfless. I'll treat myself to a drink sometimes.
+PC21_CLINT2-9=
+
+
+# Clint
+### And the fights? Feels great to get back to action!
+PC21_CLINT2-10=
+
+
+#----------------------------------------------------
+# Brok
+### How's your family?
+PC21_CLINT3-1=
+
+
+# Clint
+### Got a lovely wife and son. We sometimes have disputes, but hey, who doesn't.
+PC21_CLINT3-2=
+
+
+# Clint
+### She's a great cook, and I convinced her to open up a restaurant!
+PC21_CLINT3-3=
+
+
+# Brok
+### Nice! The choice is pretty limited around here.
+PC21_CLINT3-4=
+
+
+# Clint
+### It requires a huge amount of money.
+PC21_CLINT3-5=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Even in the Slums, we can't exactly take an abandoned property and claim it for ourselves, ya know?
+PC21_CLINT3-6=
+
+
+# Brok
+### I've seen folks do exactly that.
+PC21_CLINT3-7=
+
+
+# Clint
+### That's how you get drones tracking your butt everywhere.
+PC21_CLINT3-8=
+
+
+# Clint
+### My Nela deserves better than this.
+PC21_CLINT3-9=
+
+
+# Clint
+### Fortunately, her great uncle has a high-ranking job and helped us with all the administrative stuff.
+PC21_CLINT3-10=
+
+
+# Clint
+### The restaurant never would have been possible without him.
+PC21_CLINT3-11=
+
+
+# Brok
+### Oh! Sounds like a nice man!
+PC21_CLINT3-12=
+
+
+# Clint
+### Yeah, and he shows such love for our son.
+PC21_CLINT3-13=
+
+
+# Clint
+### Almost too much. He would shower him with gifts if we didn't set limits.
+PC21_CLINT3-14=
+
+
+# Clint
+### You see, my boy has some... difficulties.
+PC21_CLINT3-15=
+
+
+# Clint
+### I fear for him. He's too kind for this world.
+PC21_CLINT3-16=
+
+
+# Clint
+### I'm trying to find a balance between being firm and caring.
+PC21_CLINT3-17=
+
+
+# Clint
+### This is such a harsh society we live in.
+PC21_CLINT3-18=
+
+
+# Clint
+### I want him to grow strong and face adversity, no matter what, no matter where.
+PC21_CLINT3-19=
+
+
+# Brok
+### I agree.
+PC21_CLINT3-20=
+
+
+# Clint
+### Now, tell me about yours!
+PC21_CLINT3-21=
+
+
+# Brok
+### It's... complicated.
+PC21_CLINT3-22=
+
+
+# Brok
+### I'm taking care of my wife's son.
+PC21_CLINT3-23=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Blackout": "Знеструмлення"
+### She passed away during the blackout accident six years ago.
+PC21_CLINT3-24=
+
+
+# Clint
+### So sorry.
+PC21_CLINT3-25=
+
+
+# Brok
+### To be fair, we weren't married very long.
+PC21_CLINT3-26=
+
+
+# Brok
+### I should have moved on, but... I just can't. It was so sudden.
+PC21_CLINT3-27=
+
+
+# Clint
+### No doubt. With our busy life, it's hard enough to raise a son when there are two of us...
+PC21_CLINT3-28=
+
+
+# Clint
+### Being a single parent must be incredibly hard.
+PC21_CLINT3-29=
+
+
+# Brok
+### Yeah...
+PC21_CLINT3-30=
+
+
+# Brok
+### But I'm doing my best. I want to.
+PC21_CLINT3-31=
+
+
+# Brok
+### I love him so much.
+PC21_CLINT3-32=
+
+
+# Clint
+### We're the same, then! Ha ha!
+PC21_CLINT3-33=
+
+
+#----------------------------------------------------
+# Clint
+### Gotta say, I was still hoping to win our fight.
+PC21_CLINT4-1=
+
+
+# Clint
+### Truth is, there's a regular here that runs a second-hand store.
+PC21_CLINT4-2=
+
+
+# Clint
+### Talked to him about trading my C-Tokens to get some clothes for my boy, but he wants a lot.
+PC21_CLINT4-3=
+
+
+# Clint
+### Ah well! Guess I'll just have to keep at it until I get enough!
+PC21_CLINT4-4=
+
+
+#----------------------------------------------------
+# Brok
+### Here.
+PC21_CLINT_CHOICE_YES-1=
+
+
+# Clint
+### Oh my! But you won fair and square. You really shouldn't!
+PC21_CLINT_CHOICE_YES-2=
+
+
+# Brok
+### Too late! I've already transferred them.
+PC21_CLINT_CHOICE_YES-3=
+
+
+# Clint
+### Ha ha! Alright! Thanks so much, man!
+PC21_CLINT_CHOICE_YES-4=
+
+
+# Clint
+### I should be able to trade those in for some fancy new attire.
+PC21_CLINT_CHOICE_YES-5=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Can't have my boy roam around the Drums with those outworn sneakers!
+PC21_CLINT_CHOICE_YES-6=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Is your son a Drumer?
+PC21_CLINT_CHOICE_YES-7=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### He might not be inside the dome yet, but he will!
+PC21_CLINT_CHOICE_YES-8=
+
+
+# Brok
+### Right. I trust my son will too, he's so clever.
+PC21_CLINT_CHOICE_YES-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### He would waste his potential if he remained in the Slums.
+PC21_CLINT_CHOICE_YES-10=
+
+
+# Clint
+### Same for mine, really!
+PC21_CLINT_CHOICE_YES-11=
+
+
+#----------------------------------------------------
+# Brok
+### Sorry. I'm also trying to save up money for my son.
+PC21_CLINT_CHOICE_NO-1=
+
+
+# Clint
+### That's admirable! And there is no need for an apology!
+PC21_CLINT_CHOICE_NO-2=
+
+
+#----------------------------------------------------
+# Clint
+### Let's fight again someday, shall we?
+PC21_CLINT5-1=
+
+
+# Clint
+### Not for money. Just for the fun of the duel!
+PC21_CLINT5-2=
+
+
+# Brok
+### Sure thing!
+PC21_CLINT5-3=
+
+
+#----------------------------------------------------
+# Dart - Brok notices Dart sitting in the bar, for the first time
+### ...
+PC21_BACK_DART1-1=
+
+
+# Dart
+### Agh, you! Not you again!
+PC21_BACK_DART1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### A Squealer...? Here?!
+PC21_BACK_DART1-3=
+
+
+# Dart
+### Go away! Gimme some peace.
+PC21_BACK_DART1-4=
+
+
+# Brok
+### (Huh...?)
+PC21_BACK_DART1-5=
+
+
+#----------------------------------------------------
+# Dart
+### Argh... whaddya want?
+PC21_BACK_DART2-1=
+
+
+# Brok
+### Just curious. Is it just you?
+PC21_BACK_DART2-2=
+
+
+# Dart
+### Yeah.
+PC21_BACK_DART2-3=
+
+
+# Dart
+### Dis place allows us. S'neutral ground.
+PC21_BACK_DART2-4=
+
+
+# Dart
+### No bots down here.
+PC21_BACK_DART2-5=
+
+
+# Dart
+### Da guys dunno or care.
+PC21_BACK_DART2-6=
+
+
+# Dart
+### Here I can... think.
+PC21_BACK_DART2-7=
+
+
+# Brok
+### Hmm...
+PC21_BACK_DART2-8=
+
+
+# Brok
+### If it clears things up, I had to defend myself. You guys attacked first.
+PC21_BACK_DART2-9=
+
+
+# Dart
+### Oh yeah?!
+PC21_BACK_DART2-10=
+
+
+# Dart
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### What about dat time in da Drums' sewers?!
+PC21_BACK_DART2-11=
+
+
+# Brok
+### Well... you guys were in my way and wouldn't move...
+PC21_BACK_DART2-12=
+
+
+# Dart
+### What, gotta move every time we're told? Can't even have da sewer as our territory?
+PC21_BACK_DART2-13=
+
+
+# Dart
+### Ya'd blame us for dat?!
+PC21_BACK_DART2-14=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+### Hey, you attack people. You steal. You even attempted to murder a tramp!
+PC21_BACK_DART2-15=
+
+
+# Dart
+### Dat cheat didn't pay us!
+PC21_BACK_DART2-16=
+
+
+# Brok
+### You're killers!
+PC21_BACK_DART2-17=
+
+
+# Dart
+### Am not!
+PC21_BACK_DART2-18=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Are you gonna try to deny you Squealers tried to overthrow the government by force?
+PC21_BACK_DART2-19=
+
+
+# Brok
+### You killed innocent people in the process!
+PC21_BACK_DART2-20=
+
+
+# Dart
+### Dat was years ago! I wasn't even there!
+PC21_BACK_DART2-21=
+
+
+# Dart
+### Okay, ya know what?
+PC21_BACK_DART2-22=
+
+
+# Dart
+### Can't fight here. But...!
+PC21_BACK_DART2-23=
+
+
+# Dart
+### We can arm wrestle.
+PC21_BACK_DART2-24=
+
+
+# Brok
+### Hmm...
+PC21_BACK_DART2-25=
+
+
+# Brok
+### Okay! I'm up.
+PC21_BACK_DART2-26=
+
+
+# Dart
+### Let's settle this!
+PC21_BACK_DART2-27=
+
+
+# Dart
+### Gonna squeeze that dumb smirk offa yare face!
+PC21_BACK_DART2-28=
+
+
+#----------------------------------------------------
+# Dart
+### No way...
+PC21_BACK_DART_WIN-1=
+
+
+# Dart
+### Guess you win, gator. I'm outta here.
+PC21_BACK_DART_WIN-2=
+
+
+# Brok
+### No! Wait.
+PC21_BACK_DART_WIN-3=
+
+
+# Dart
+### Can't keep losing like dat. Gotta get stronger.
+PC21_BACK_DART_WIN-4=
+
+
+# Brok
+### I just want to talk.
+PC21_BACK_DART_WIN-5=
+
+
+# Dart
+### What?
+PC21_BACK_DART_WIN-6=
+
+
+#----------------------------------------------------
+# Dart
+### Heh, too easy!
+PC21_BACK_DART_LOSE-1=
+
+
+# Brok
+### Man... My arm feels like jelly now...
+PC21_BACK_DART_LOSE-2=
+
+
+#----------------------------------------------------
+# Brok
+### I admit... mayyybe I went a bit too far the other day.
+PC21_BACK_DART_AFTER-1=
+
+
+# Brok
+### That... tends to happen when someone gets in my way while on a mission.
+PC21_BACK_DART_AFTER-2=
+
+
+# Dart
+### Feh! Whatever, man...
+PC21_BACK_DART_AFTER-3=
+
+
+# Brok
+### Sorry again. Got nothing against you personally.
+PC21_BACK_DART_AFTER-4=
+
+
+# Brok
+### I get it. The situation of your people is hard. Harder than I can imagine.
+PC21_BACK_DART_AFTER-5=
+
+
+# Brok
+### But you're not the only ones who struggle out here.
+PC21_BACK_DART_AFTER-6=
+
+
+# Brok
+### We all can choose between hurting others to get what we need, or finding another way.
+PC21_BACK_DART_AFTER-7=
+
+
+# Brok
+### If I wasn't there, you would have killed that homeless man.
+PC21_BACK_DART_AFTER-8=
+
+
+# Dart
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Chief's orders. He's gonna die anyway. Better get our due from him before he kicks it.
+PC21_BACK_DART_AFTER-9=
+
+
+# Brok
+### You don't know that! With the right medicine, he's cured!
+PC21_BACK_DART_AFTER-10=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Is a handful of Unis really worth someone's life? Would you do that to anyone you care about?
+PC21_BACK_DART_AFTER-11=
+
+
+# Dart
+### ...
+PC21_BACK_DART_AFTER-12=
+
+
+# Dart
+### Maybe... maybe ya're right. About somethin', not everythin'.
+PC21_BACK_DART_AFTER-13=
+
+
+# Brok
+### It's the same thing for me, too.
+PC21_BACK_DART_AFTER-14=
+
+
+# Dart
+### What? Someone orders you 'round?
+PC21_BACK_DART_AFTER-15=
+
+
+# Brok
+### No, but I've made some decisions lately that I regret. Things that turned into disasters for Gra...
+PC21_BACK_DART_AFTER-16=
+
+
+# Brok
+### Well, nevermind.
+PC21_BACK_DART_AFTER-17=
+
+
+# Brok
+### Y'know, you put up a good fight! Always nice to face a strong opponent!
+PC21_BACK_DART_AFTER-18=
+
+
+# Dart
+### Heh, yeah! Dat's da first thing ya've said that's true.
+PC21_BACK_DART_AFTER-19=
+
+
+# Dart
+### See these biceps? I can carry four times my own weight!
+PC21_BACK_DART_AFTER-20=
+
+
+# Brok
+### Impressive! A real mountain of muscles!
+PC21_BACK_DART_AFTER-21=
+
+
+# Dart
+### Heh! Ya don't look too bad, ya'self!
+PC21_BACK_DART_AFTER-22=
+
+
+# Brok
+### Err... thanks.
+PC21_BACK_DART_AFTER-23=
+
+
+# Dart
+### I train every day, with anythin' I can get my hands on. Dat way, I can protect my friends.
+PC21_BACK_DART_AFTER-24=
+
+
+# Brok
+### Really...?
+PC21_BACK_DART_AFTER-25=
+
+
+# Brok
+### By the way, those pictures...
+PC21_BACK_DART_AFTER-26=
+
+
+# Dart
+### Yeah.
+PC21_BACK_DART_AFTER-27=
+
+
+# Dart
+### S'who I wanna be.
+PC21_BACK_DART_AFTER-28=
+
+
+# Brok
+### A wrestler?
+PC21_BACK_DART_AFTER-29=
+
+
+# Dart
+### Here, in da V.R. cabin... it's possible.
+PC21_BACK_DART_AFTER-30=
+
+
+# Dart
+### Pits're closed, bots always on our tails, everybody lookin' at me like I did somethin'...
+PC21_BACK_DART_AFTER-31=
+
+
+# Dart
+### It's da only way it can be real for me.
+PC21_BACK_DART_AFTER-32=
+
+
+# Brok
+### I see. That's a nice goal to have.
+PC21_BACK_DART_AFTER-33=
+
+
+# Brok
+### Maybe one day, you'll be a true wrestler and show yourself to the world!
+PC21_BACK_DART_AFTER-34=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Well, to Atlasia at least.
+PC21_BACK_DART_AFTER-35=
+
+
+# Dart
+### Heh... Thanks, croc.
+PC21_BACK_DART_AFTER-36=
+
+
+#----------------------------------------------------
+# Dart
+### Wanna arm wrestle again?
+PC21_BACK_DART3-1=
+
+
+#----------------------------------------------------
+# Dart - Hitting Dart
+### Nuh!!!
+PC21_BACK_DART_HIT1-1=
+
+
+# Dart
+### Ya promised!
+PC21_BACK_DART_HIT1-2=
+
+
+# Brok
+### Did I...?
+PC21_BACK_DART_HIT1-3=
+
+
+#----------------------------------------------------
+# Dart
+### I'm. Not. Leavin'!
+PC21_BACK_DART_HIT2-1=
+
+
+#----------------------------------------------------
+# Dart
+### I'm da best!
+PC21_BACK_DART_LOSE2-1=
+
+
+#----------------------------------------------------
+# Dart
+### My biceps failed me...
+PC21_BACK_DART_WIN2-1=
+
+
+# Dart
+### Gotta train harder!
+PC21_BACK_DART_WIN2-2=
+
+
+#----------------------------------------------------
+# Backcroc - Free talk with background character
+### (zZ zz ZZ zZ)
+PC21_BACK_CROC1-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (Zzz zzz ZZz ZZz)
+PC21_BACK_CROC2-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (zzzZ zZZZ zZzz ZzzZ)
+PC21_BACK_CROC3-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (Zzzzz ZzzZz ZzzZZ ZzzZZ)
+PC21_BACK_CROC4-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (zzZzZz zzZzZZ ZZzZzZ ZZzZZz)
+PC21_BACK_CROC5-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (ZZzZzZz ZzzzzzZ zzZzzZz ZzzzZZz)
+PC21_BACK_CROC6-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (zZZzzZZz zZZZzZzZ zZZzzzZZ zZZzZzZZ)
+PC21_BACK_CROC7-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (You just don't understand binary code, do you...)
+PC21_BACK_CROC8-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (Pffft, take this and leave me alone...)
+PC21_BACK_CROC9-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (Snorts)
+PC21_BACK_CROC_HIT1-1=
+
+
+#----------------------------------------------------
+# Backcroc
+### (...)
+PC21_BACK_CROC_HIT2-1=
+
+
+# Brok
+### Oh no! I think I knocked him out for good!
+PC21_BACK_CROC_HIT2-2=
+
+
+# Backcroc
+### (Snorts!)
+PC21_BACK_CROC_HIT2-3=
+
+
+# Brok
+### Never mind.
+PC21_BACK_CROC_HIT2-4=
+
+
+#----------------------------------------------------
+# Backroo
+### ...
+PC21_BACK_ROO1-1=
+
+
+# Brok
+### You okay, man?
+PC21_BACK_ROO1-2=
+
+
+# Backroo
+### Huh...?
+PC21_BACK_ROO1-3=
+
+
+# Brok
+### Aren't all the fights here virtual? How did you get that injury?
+PC21_BACK_ROO1-4=
+
+
+# Backroo
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### New to the Slums?
+PC21_BACK_ROO1-5=
+
+
+# Brok
+### Nope.
+PC21_BACK_ROO1-6=
+
+
+# Backroo
+### Then you should know by now. Got robbed, tried to defend myself.
+PC21_BACK_ROO1-7=
+
+
+# Backroo
+### I have to get stronger.
+PC21_BACK_ROO1-8=
+
+
+# Brok
+### I see...
+PC21_BACK_ROO1-9=
+
+
+# Backroo
+### Don't mind me.
+PC21_BACK_ROO1-10=
+
+
+#----------------------------------------------------
+# Backroo
+### Maybe if I...
+PC21_BACK_ROO2-1=
+
+
+# Brok
+### Planning some strategies?
+PC21_BACK_ROO2-2=
+
+
+# Backroo
+### How can you tell?
+PC21_BACK_ROO2-3=
+
+
+# Brok
+### You're writing them in your notepad.
+PC21_BACK_ROO2-4=
+
+
+# Backroo
+### No privacy, huh?
+PC21_BACK_ROO2-5=
+
+
+# Backroo
+### Not even polite enough to not imply you were snooping. You're a gator alright.
+PC21_BACK_ROO2-6=
+
+
+# Brok
+### Hey...! I'm not just any gator, I'm an investigator! Snooping is part of my job.
+PC21_BACK_ROO2-7=
+
+
+#----------------------------------------------------
+# Brok
+### I almost confused you with another roo I know!
+PC21_BACK_ROO3-1=
+
+
+# Backroo
+### Yeah? How'd you tell the difference?
+PC21_BACK_ROO3-2=
+
+
+# Brok
+### Let's say you're much less...
+PC21_BACK_ROO3-3=
+
+
+# Brok
+### Round...?
+PC21_BACK_ROO3-4=
+
+
+# Backroo
+### ...
+PC21_BACK_ROO3-5=
+
+
+# Backroo
+### Right...
+PC21_BACK_ROO3-6=
+
+
+#----------------------------------------------------
+# Backroo
+### Weirdo...
+PC21_BACK_ROO3B-1=
+
+
+#----------------------------------------------------
+# Brok - A play with the character name Sin
+### I'll call him "Sinister".
+PC21_BACK_ROO4-1=
+
+
+#----------------------------------------------------
+# Backroo
+### Ouch! Hey, if you want a duel so badly, ask the owner!
+PC21_BACK_ROO_HIT1-1=
+
+
+#----------------------------------------------------
+# Backroo
+### Ooof... You aren't gonna force me to leave, stupid gator...
+PC21_BACK_ROO_HIT2-1=
+
+
+#----------------------------------------------------
+# Backfox
+### Thanks for introducing me to this place.
+PC21_BACK_FOX1-1=
+
+
+# Backbunny
+### Yeah! It's pretty cool, I love their ladybug pie.
+PC21_BACK_FOX1-2=
+
+
+# Backfox
+### I mean, I can finally breathe easily.
+PC21_BACK_FOX1-3=
+
+
+# Backbunny
+### Right... With everything's that happening, being underground is a blessing.
+PC21_BACK_FOX1-4=
+
+
+# Backfox
+### We better not tell the others! Can't risk getting too crowded in here.
+PC21_BACK_FOX1-5=
+
+
+# Backbunny
+### I'm still worried. What if the shortage goes on?
+PC21_BACK_FOX1-6=
+
+
+# Backfox
+### Let's not think about that for now...
+PC21_BACK_FOX1-7=
+
+
+#----------------------------------------------------
+# Backbunny
+### That guy is looking at me.
+PC21_BACK_FOX2-1=
+
+
+# Backfox
+### No...?
+PC21_BACK_FOX2-2=
+
+
+# Backbunny
+### Oh, he totally is. He's so cute.
+PC21_BACK_FOX2-3=
+
+
+# Backfox
+### Well, go ahead?
+PC21_BACK_FOX2-4=
+
+
+# Backbunny
+### I can't!
+PC21_BACK_FOX2-5=
+
+
+# Backfox
+### Why not?
+PC21_BACK_FOX2-6=
+
+
+# Backbunny
+### I'm not programmed to move!
+PC21_BACK_FOX2-7=
+
+
+# Backfox
+### Very funny, Tri-bunny-ot.
+PC21_BACK_FOX2-8=
+
+
+#----------------------------------------------------
+# Brok
+### I shouldn't bother them.
+PC21_BACK_FOX3-1=
+
+
+#----------------------------------------------------
+# Backfox
+### Gasp!
+PC21_BACK_FOX_HIT1-1=
+
+
+# Backbunny
+### What's wrong with you?!
+PC21_BACK_FOX_HIT1-2=
+
+
+#----------------------------------------------------
+# Backfox
+### Help!
+PC21_BACK_FOX_HIT2-1=
+
+
+# Backbunny
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Mister Tenderjaw! Please!
+PC21_BACK_FOX_HIT2-2=
+
+
+# Hyena
+### Supercroc, I am thoroughly disappointed in you.
+PC21_BACK_FOX_HIT2-3=
+
+
+#----------------------------------------------------
+# Backbadger
+### (Eating sounds)
+PC21_BACK_BADGER1-1=
+
+
+# Brok
+### Hey! What's good today?
+PC21_BACK_BADGER1-2=
+
+
+# Backbadger
+### Nachroachs.
+PC21_BACK_BADGER1-3=
+
+
+# Brok
+### Nice! Can I have one?
+PC21_BACK_BADGER1-4=
+
+
+# Backbadger
+### No.
+PC21_BACK_BADGER1-5=
+
+
+#----------------------------------------------------
+# Backbadger
+### (Yum, yum)
+PC21_BACK_BADGER2-1=
+
+
+# Brok
+### (Getting hungry... Need to stop looking...)
+PC21_BACK_BADGER2-2=
+
+
+#----------------------------------------------------
+# Brok
+### (Salivating)
+PC21_BACK_BADGER3-1=
+
+
+#----------------------------------------------------
+# Backbadger
+### Awww!
+PC21_BACK_BADGER_HIT1-1=
+
+
+# Backbadger
+### Okay, okay! If you want one so badly, take this!
+PC21_BACK_BADGER_HIT1-2=
+
+
+# Brok
+### Delicious!
+PC21_BACK_BADGER_HIT1-3=
+
+
+#----------------------------------------------------
+# Backbadger
+### Oh no!
+PC21_BACK_BADGER_HIT2-1=
+
+
+# Backbadger
+### Why does this happen to me everytime I get a good meal?!
+PC21_BACK_BADGER_HIT2-2=
+
+
+#----------------------------------------------------
+# Backbat
+### Hey, you!
+PC21_BACK_TRAIN1-1=
+
+
+# Brok
+### ...?
+PC21_BACK_TRAIN1-2=
+
+
+# Backbat
+### Yes, you!
+PC21_BACK_TRAIN1-3=
+
+
+# Backbat
+### You look like a novice!
+PC21_BACK_TRAIN1-4=
+
+
+# Brok
+### ...
+PC21_BACK_TRAIN1-5=
+
+
+# Brok
+### You wouldn't say that if...
+PC21_BACK_TRAIN1-6=
+
+
+# Backbat
+### Whatever! Don't get too confident!
+PC21_BACK_TRAIN1-7=
+
+
+# Backbat
+### Are you sure you're making use of all your moves?
+PC21_BACK_TRAIN1-8=
+
+
+# Backbat
+### If you want a chance at winning those challenges, you better listen!
+PC21_BACK_TRAIN1-9=
+
+
+# Backbat
+### Let's refresh your memory on what you can do!
+PC21_BACK_TRAIN1-10=
+
+
+#----------------------------------------------------
+# Backbat
+### First, take your time to check the commands in the menu.
+PC21_BACK_TRAIN_YES-1=
+
+
+# Backbat
+### Talk to me again when you're done.
+PC21_BACK_TRAIN_YES-2=
+
+
+#----------------------------------------------------
+# Backbat
+### If you're using a keyboard and don't like the default keys, I wouldn't blame ya!
+PC21_BACK_TRAIN_YES2-1=
+
+
+# Backbat
+### Thankfully, you can change those in the options menu.
+PC21_BACK_TRAIN_YES2-2=
+
+
+# Backbat
+### Now, go practice in this V.R. training challenge!
+PC21_BACK_TRAIN_YES2-3=
+
+
+#----------------------------------------------------
+# Backbat
+### Don't forget to check the Tutorials in the Player menu. They have valuable info.
+PC21_BACK_TRAIN_AFTER-1=
+
+
+# Brok
+### Thanks for the advice!
+PC21_BACK_TRAIN_AFTER-2=
+
+
+# Backbat
+### Wanna do V.R. training again?
+PC21_BACK_TRAIN_AFTER-3=
+
+
+#----------------------------------------------------
+# Backbat
+### Ouch! Good job!
+PC21_BACK_TRAIN_HIT1-1=
+
+
+#----------------------------------------------------
+# Backbat
+### Ooof!!! Nice, my training is paying off!
+PC21_BACK_TRAIN_HIT2-1=
+
+
+#----------------------------------------------------
+# Backmouse
+### Greetings, child. Might you be seeking a reprieve from your burdens?
+PC21_BACK_RESET1-1=
+
+
+# Brok
+### Excuse me?
+PC21_BACK_RESET1-2=
+
+
+# Backmouse
+### You seem weary, my dear.
+PC21_BACK_RESET1-3=
+
+
+# Backmouse
+### I can sense the agony, your memories gnawing at your very soul.
+PC21_BACK_RESET1-4=
+
+
+# Backmouse
+### Thus, you must cast them away.
+PC21_BACK_RESET1-5=
+
+
+# Brok
+### What is this, an Oblivion pill?
+PC21_BACK_RESET1-6=
+
+
+# Backmouse
+### ...
+PC21_BACK_RESET1-7=
+
+
+# Backmouse
+### A perceptive question, indeed.
+PC21_BACK_RESET1-8=
+
+
+# Backmouse
+### I possess the means to erase all your sorrows since you first set foot in this humble tavern.
+PC21_BACK_RESET1-9=
+
+
+# Brok
+### Bar, not tavern...
+PC21_BACK_RESET1-10=
+
+
+# Backmouse
+### In doing so, you shall embark upon a new beginning.
+PC21_BACK_RESET1-11=
+
+
+# Brok
+### What is this, a scam?
+PC21_BACK_RESET1-12=
+
+
+# Backmouse
+### Oh, no. This comes at no cost to you.
+PC21_BACK_RESET1-13=
+
+
+# Backmouse
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### I am a humble servant of the Untail Salvation Army.
+PC21_BACK_RESET1-14=
+
+
+# Backmouse
+### My sole mission is to spread joy and peace.
+PC21_BACK_RESET1-15=
+
+
+# Backmouse
+### Come to see me again, child, when you are ready to forget.
+PC21_BACK_RESET1-16=
+
+
+# Brok
+### ...Right...
+PC21_BACK_RESET1-17=
+
+
+#----------------------------------------------------
+# Backmouse
+### Will you accept this pill to lift the heavy burden from your heart, dear one?
+PC21_BACK_RESET2-1=
+
+
+# Brok
+### You mean, erase all my struggles and challenges progress?
+PC21_BACK_RESET2-2=
+
+
+# Backmouse
+### Precisely so, child.
+PC21_BACK_RESET2-3=
+
+
+#----------------------------------------------------
+# Backmouse
+### Ah, you are finally ready.
+PC21_BACK_RESET3-1=
+
+
+# Brok
+### Wait, no!
+PC21_BACK_RESET3-2=
+
+
+# Backmouse
+### Then why have you come to me, child?
+PC21_BACK_RESET3-3=
+
+
+# Brok
+### I...
+PC21_BACK_RESET3-4=
+
+
+#----------------------------------------------------
+# Backmouse
+### Why...! I offer this pill freely!
+PC21_BACK_RESET_HIT1-1=
+
+
+# Brok
+### Why not! You said I would forget everything.
+PC21_BACK_RESET_HIT1-2=
+
+
+# Backmouse
+### But I won't!
+PC21_BACK_RESET_HIT1-3=
+
+
+#----------------------------------------------------
+# Backmouse
+### You won't escape judgment for this!
+PC21_BACK_RESET_HIT2-1=
+
+
+# Brok
+### Who cares! You're nobody.
+PC21_BACK_RESET_HIT2-2=
+
+
+#----------------------------------------------------
+# Backwolf
+### ...
+PC21_BACK_WOLF1-1=
+
+
+# Brok
+### Hi?
+PC21_BACK_WOLF1-2=
+
+
+# Backwolf
+### Don't mind me. Just need to focus.
+PC21_BACK_WOLF1-3=
+
+
+# Brok
+### Feeling impatient to fight, huh?
+PC21_BACK_WOLF1-4=
+
+
+# Backwolf
+### Actually...
+PC21_BACK_WOLF1-5=
+
+
+# Backwolf
+### I made a pretty big bet with a coworker, and now...
+PC21_BACK_WOLF1-6=
+
+
+# Brok
+### ...ah.
+PC21_BACK_WOLF1-7=
+
+
+# Backwolf
+### ...
+PC21_BACK_WOLF1-8=
+
+
+#----------------------------------------------------
+# Backwolf
+### Of course, they had to give me the worst challenge.
+PC21_BACK_WOLF2-1=
+
+
+# Backwolf
+### A nightmare of buffed enemies, spikes, and lasers.
+PC21_BACK_WOLF2-2=
+
+
+# Backwolf
+### Got any tips?
+PC21_BACK_WOLF2-3=
+
+
+# Brok
+### Well...
+PC21_BACK_WOLF2-4=
+
+
+# Brok
+### Don’t overthink it. Just go!
+PC21_BACK_WOLF2-5=
+
+
+# Backwolf
+### Right... but how does that help you win?
+PC21_BACK_WOLF2-6=
+
+
+# Brok
+### It helps moving forward!
+PC21_BACK_WOLF2-7=
+
+
+#----------------------------------------------------
+# Backwolf
+### Oh no!
+PC21_BACK_WOLF_HIT1-1=
+
+
+# Backwolf
+### Now I've got a bruise and the challenge hasn't even started!
+PC21_BACK_WOLF_HIT1-2=
+
+
+#----------------------------------------------------
+# Backwolf
+### Argh...okay okay, I'll go!
+PC21_BACK_WOLF_HIT2-1=
+
+
+#----------------------------------------------------
+# Backplatypus
+### (Sigh)
+PC21_BACK_PLATYPUS1-1=
+
+
+# Brok
+### Hello. Is something wrong?
+PC21_BACK_PLATYPUS1-2=
+
+
+# Backplatypus
+### Nothing.
+PC21_BACK_PLATYPUS1-3=
+
+
+# Backplatypus
+### (Sigh)
+PC21_BACK_PLATYPUS1-4=
+
+
+#----------------------------------------------------
+# Backplatypus
+### (Sigh)
+PC21_BACK_PLATYPUS2-1=
+
+
+# Brok
+### So...what's wrong?
+PC21_BACK_PLATYPUS2-2=
+
+
+# Backplatypus
+### Please, just go away.
+PC21_BACK_PLATYPUS2-3=
+
+
+# Brok
+### Oh, come on. I'm a great listener!
+PC21_BACK_PLATYPUS2-4=
+
+
+# Backplatypus
+### No, you're not. What did I just tell you?
+PC21_BACK_PLATYPUS2-5=
+
+
+# Brok
+### "Please listen to me?"
+PC21_BACK_PLATYPUS2-6=
+
+
+# Backplatypus
+### No. Please leave.
+PC21_BACK_PLATYPUS2-7=
+
+
+#----------------------------------------------------
+# Brok
+### The curiosity is killing me, but...
+PC21_BACK_PLATYPUS3-1=
+
+
+# Brok
+### Some people just need space. Better leave her alone.
+PC21_BACK_PLATYPUS3-2=
+
+
+#----------------------------------------------------
+# Backplatypus
+### I wish I was invisible...
+PC21_BACK_PLATYPUS_HIT1-1=
+
+
+#----------------------------------------------------
+# Backplatypus
+### Why are all men despicable?!
+PC21_BACK_PLATYPUS_HIT2-1=
+
+
+#----------------------------------------------------
+# Backrhino
+### Huh.
+PC21_BACK_RHINO1-1=
+
+
+# Brok
+### Did you say something?
+PC21_BACK_RHINO1-2=
+
+
+# Backrhino
+### Move. This is my spot. Ya're not welcome here.
+PC21_BACK_RHINO1-3=
+
+
+# Brok
+### Oh yeah? You don’t get to decide that.
+PC21_BACK_RHINO1-4=
+
+
+# Backrhino
+### My fists delimit my close proximity area.
+PC21_BACK_RHINO1-5=
+
+
+#----------------------------------------------------
+# Backrhino
+### Pfft.
+PC21_BACK_RHINO2-1=
+
+
+# Backrhino
+### You may have won last time, but you're still the enemy.
+PC21_BACK_RHINO2-2=
+
+
+# Brok
+### Now that you mention it...
+PC21_BACK_RHINO2-3=
+
+
+# Brok
+### You're that low-level thug!
+PC21_BACK_RHINO2-4=
+
+
+# Backrhino
+### No funny names! I'm an independant businessman.
+PC21_BACK_RHINO2-5=
+
+
+# Brok
+### Right, and I'm a princess.
+PC21_BACK_RHINO2-6=
+
+
+# Brok
+### Oh, I get it now. Your "business" must be a front for laundering cash!
+PC21_BACK_RHINO2-7=
+
+
+# Backrhino
+### Can't do laundry with a non-existant currency.
+PC21_BACK_RHINO2-8=
+
+
+# Brok
+### But I'm burning, right?
+PC21_BACK_RHINO2-9=
+
+
+# Backrhino
+### Buzz off. No business with the likes of ya.
+PC21_BACK_RHINO2-10=
+
+
+# Brok
+### Then you're a poor business man.
+PC21_BACK_RHINO2-11=
+
+
+#----------------------------------------------------
+# Brok
+### No time to waste on small-time criminals.
+PC21_BACK_RHINO3-1=
+
+
+# Backrhino
+### No time to waste with spare tires.
+PC21_BACK_RHINO3-2=
+
+
+#----------------------------------------------------
+# Brok
+### Come on, let’s fight! Or are you scared?
+PC21_BACK_RHINO_HIT1-1=
+
+
+# Backrhino
+### No.
+PC21_BACK_RHINO_HIT1-2=
+
+
+# Brok
+### No?...
+PC21_BACK_RHINO_HIT1-3=
+
+
+# Backrhino
+### No.
+PC21_BACK_RHINO_HIT1-4=
+
+
+#----------------------------------------------------
+# Backrhino
+### No.
+PC21_BACK_RHINO_HIT2-1=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?! What are you...
+PC21_BACK_DAVE1-1=
+
+
+# Backdave
+### Huh?...
+PC21_BACK_DAVE1-2=
+
+
+# Brok
+### Oh!... Oops, sorry. Confused you with someone else.
+PC21_BACK_DAVE1-3=
+
+
+# Backdave
+### That's alright.
+PC21_BACK_DAVE1-4=
+
+
+# Backdave
+### ...
+PC21_BACK_DAVE1-5=
+
+
+# Brok
+### So, what are you doing here?
+PC21_BACK_DAVE1-6=
+
+
+# Backdave
+### I like the coffee.
+PC21_BACK_DAVE1-7=
+
+
+# Brok
+### Not here for a fight, then.
+PC21_BACK_DAVE1-8=
+
+
+# Backdave
+### No. My friend's Tyson's into it, though.
+PC21_BACK_DAVE1-9=
+
+
+# Backdave
+### He's the one who introduced me to this place. Maybe you know him?
+PC21_BACK_DAVE1-10=
+
+
+# Brok
+### Can't say that I do. But I'll keep an eye open for a grey wolf!
+PC21_BACK_DAVE1-11=
+
+
+# Backdave
+### Wait... I didn’t mention how he looks?
+PC21_BACK_DAVE1-12=
+
+
+# Brok
+### Err...that's right...weird!
+PC21_BACK_DAVE1-13=
+
+
+# Brok
+### I have memory loss.
+PC21_BACK_DAVE1-14=
+
+
+# Backdave
+### I wish I did...
+PC21_BACK_DAVE1-15=
+
+
+#----------------------------------------------------
+# Brok
+### Say... I'm curious.
+PC21_BACK_DAVE2-1=
+
+
+# Backdave
+### Yes?
+PC21_BACK_DAVE2-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Is Tenderjaw your dad?
+PC21_BACK_DAVE2-3=
+
+
+# Backdave
+### ...
+PC21_BACK_DAVE2-4=
+
+
+# Backdave
+### Dad...
+PC21_BACK_DAVE2-5=
+
+
+# Brok
+### ...?
+PC21_BACK_DAVE2-6=
+
+
+# Backdave
+### Sorry. No, the bartender isn't my dad.
+PC21_BACK_DAVE2-7=
+
+
+# Backdave
+### I'm a striped hyena. He's spotted.
+PC21_BACK_DAVE2-8=
+
+
+# Brok
+### I see...
+PC21_BACK_DAVE2-9=
+
+
+# Brok
+### So your dad's a striped hyena?
+PC21_BACK_DAVE2-10=
+
+
+# Backdave
+### Actually...no. He's a spotted hyena.
+PC21_BACK_DAVE2-11=
+
+
+# Brok
+### Okay...?
+PC21_BACK_DAVE2-12=
+
+
+#----------------------------------------------------
+# Backdave
+### I'm surprised to see so many people here today.
+PC21_BACK_DAVE3-1=
+
+
+# Backdave
+### It took me a while to figure out the password.
+PC21_BACK_DAVE3-2=
+
+
+# Brok
+### Huh? What password?
+PC21_BACK_DAVE3-3=
+
+
+# Backdave
+### At the entrance.
+PC21_BACK_DAVE3-4=
+
+
+# Brok
+### I just said anything, and it worked.
+PC21_BACK_DAVE3-5=
+
+
+# Backdave
+### Really?
+PC21_BACK_DAVE3-6=
+
+
+# Backdave
+### Lucky you...
+PC21_BACK_DAVE3-7=
+
+
+#----------------------------------------------------
+# Backdave
+### I'm no fighter!
+PC21_BACK_DAVE_HIT1-1=
+
+
+#----------------------------------------------------
+# Backdave
+### Don't! If you kill me, everyone here might die!
+PC21_BACK_DAVE_HIT2-1=
+
+
+#----------------------------------------------------
+# Armadillo - Free talk with the group of 4 enemies
+### Hey, Brook!
+PC21_BACK_GROUPFOUR1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### The name's Brok.
+PC21_BACK_GROUPFOUR1-2=
+
+
+# Armadillo
+### Yeah? Well, I remember ya!
+PC21_BACK_GROUPFOUR1-3=
+
+
+# Armadillo
+### Did a bed delivery and da thing wouldn't fit through the stairs.
+PC21_BACK_GROUPFOUR1-4=
+
+
+# Brok
+### That was you?! I almost got crushed when you threw it!
+PC21_BACK_GROUPFOUR1-5=
+
+
+# Armadillo
+### Hey, don't blame me if your home sucks!
+PC21_BACK_GROUPFOUR1-6=
+
+
+# Brok
+### At least I'm not wearing mine on my back!
+PC21_BACK_GROUPFOUR1-7=
+
+
+# Rooster
+### Ha! He got ya there!
+PC21_BACK_GROUPFOUR1-8=
+
+
+#----------------------------------------------------
+# Brok - Free talk with the group of 4 enemies
+### I'm pleased to meet another boxer here like you. Feels nostalgic!
+PC21_BACK_GROUPFOUR2-1=
+
+
+# Boxersnake
+### And?...
+PC21_BACK_GROUPFOUR2-2=
+
+
+# Brok
+### Uhh, nothing, just saying. Since I used to be one.
+PC21_BACK_GROUPFOUR2-3=
+
+
+# Boxersnake
+### Yes, I could tell. Which is why I'll make sure I won't lose next time.
+PC21_BACK_GROUPFOUR2-4=
+
+
+# Brok
+### Hey now, no need to take it seriously.
+PC21_BACK_GROUPFOUR2-5=
+
+
+# Boxersnake
+### It was a four against two and yet I lost, I can't let that slide.
+PC21_BACK_GROUPFOUR2-6=
+
+
+# Boxersnake
+### I'll have to train harder and improve my skills enough so no other boxer can beat me so easily.
+PC21_BACK_GROUPFOUR2-7=
+
+
+# Brok
+### Well... I admire the dedication at least so I wish you luck. I don't mind getting more duels!
+PC21_BACK_GROUPFOUR2-8=
+
+
+# Brok
+### Hmm? What's that in your pocket?
+PC21_BACK_GROUPFOUR2-9=
+
+
+# Boxersnake
+### My music player, it helps with my training routine.
+PC21_BACK_GROUPFOUR2-10=
+
+
+# Unknown
+### "Slithery Snek"
+PC21_BACK_GROUPFOUR2-11=
+
+
+# Boxersnake
+### Just my current regular track to listen to.
+PC21_BACK_GROUPFOUR2-12=
+
+
+# Brok
+### Cool, maybe I'll give it a listen!
+PC21_BACK_GROUPFOUR2-13=
+
+
+# Boxersnake
+### If you wanna.
+PC21_BACK_GROUPFOUR2-14=
+
+
+# Unknown
+### <col=BOLD>"Slithery Snek"</col> added to the jukebox music tracks.
+PC21_BACK_GROUPFOUR2-15=
+
+
+#----------------------------------------------------
+# Unknown - Free talk with the group of 4 enemies
+### (Rattles nails on table)
+PC21_BACK_GROUPFOUR3-1=
+
+
+# Brok
+### Hmm... Nice nails...!
+PC21_BACK_GROUPFOUR3-2=
+
+
+# Bear
+### Right?!
+PC21_BACK_GROUPFOUR3-3=
+
+
+# Bear
+### Yeah!...
+PC21_BACK_GROUPFOUR3-4=
+
+
+# Brok
+### I mean, I've felt them... under my skin...
+PC21_BACK_GROUPFOUR3-5=
+
+
+# Brok
+### So, is it true you're from a distant country?
+PC21_BACK_GROUPFOUR3-6=
+
+
+# Bear
+### Nah. Prisoner exiled.
+PC21_BACK_GROUPFOUR3-7=
+
+
+# Bear
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Outside of Atlasia, I mutated.
+PC21_BACK_GROUPFOUR3-8=
+
+
+# Brok
+### Mutated?!
+PC21_BACK_GROUPFOUR3-9=
+
+
+# Bear
+### Month after month, my nails grew.
+PC21_BACK_GROUPFOUR3-10=
+
+
+# Bear
+### Did not want to cut them. Turned into deathly claws.
+PC21_BACK_GROUPFOUR3-11=
+
+
+# Bear
+### Last month, mommy finally came and freed me! Mommy is the best!
+PC21_BACK_GROUPFOUR3-12=
+
+
+# Brok
+### Wait, what?
+PC21_BACK_GROUPFOUR3-13=
+
+
+# Bear
+### Yeah. Mommy is big and strong.
+PC21_BACK_GROUPFOUR3-14=
+
+
+# Bear
+### Someday I'll be stronger than mommy, too!
+PC21_BACK_GROUPFOUR3-15=
+
+
+# Brok
+### Not sure I want to meet her then...
+PC21_BACK_GROUPFOUR3-16=
+
+
+#----------------------------------------------------
+# Armadillo
+### I'm so thirsty. Can you guys call one of those server buffoons?
+PC21_BACK_GROUPFOUR4-1=
+
+
+# Rooster
+### No need, man.
+PC21_BACK_GROUPFOUR4-2=
+
+
+# Unknown
+### (Extends arm to grab a drink)
+PC21_BACK_GROUPFOUR4-3=
+
+
+# Rooster
+### Flawless catch.
+PC21_BACK_GROUPFOUR4-4=
+
+
+# Boxersnake
+### Tsk. Show off!
+PC21_BACK_GROUPFOUR4-5=
+
+
+# Rooster
+### What can I say? I'm a natural.
+PC21_BACK_GROUPFOUR4-6=
+
+
+# Boxersnake
+### There's nothing natural about that metal piece of trash.
+PC21_BACK_GROUPFOUR4-7=
+
+
+# Rooster
+### Feh, you're just jealous.
+PC21_BACK_GROUPFOUR4-8=
+
+
+# Rooster
+### Not only does it attracts the chicks, it makes me the toughest guy around here.
+PC21_BACK_GROUPFOUR4-9=
+
+
+# Brok
+### Pfft, yeah, so tough you lost the fight.
+PC21_BACK_GROUPFOUR4-10=
+
+
+# Armadillo
+### Ha! He got you there.
+PC21_BACK_GROUPFOUR4-11=
+
+
+# Rooster
+### Hmph! So what if I lost that stupid fight?
+PC21_BACK_GROUPFOUR4-12=
+
+
+# Rooster
+### With my threads and feathers, I won the looks battle.
+PC21_BACK_GROUPFOUR4-13=
+
+
+# Brok
+### Yeah yeah, keep crowing. I've heard it all before from other losers.
+PC21_BACK_GROUPFOUR4-14=
+
+
+# Rooster
+### You only won because everyone else distracted me!
+PC21_BACK_GROUPFOUR4-15=
+
+
+# Rooster
+### Face me one-on-one, and I'll punch that broken muzzle of yours so they have to replace the entire thing with metal!
+PC21_BACK_GROUPFOUR4-16=
+
+
+# Brok
+### Now you're just projecting.
+PC21_BACK_GROUPFOUR4-17=
+
+
+# Brok
+### You're jealous that I've got these real biceps, and you're stuck with that steel accordion for an arm.
+PC21_BACK_GROUPFOUR4-18=
+
+
+# Rooster
+### Oh, I'll play some music for ya, stupid croc!
+PC21_BACK_GROUPFOUR4-19=
+
+
+# Armadillo
+### Fight! Fight! Fight!
+PC21_BACK_GROUPFOUR4-20=
+
+
+# Rooster
+# NB: Lexicon word in Ukrainian for "Matt": "Метт"
+### Shuddup, Matt!
+PC21_BACK_GROUPFOUR4-21=
+
+
+# Brok
+### What, too chicken to back up all your talk?
+PC21_BACK_GROUPFOUR4-22=
+
+
+# Rooster
+### That does it...!
+PC21_BACK_GROUPFOUR4-23=
+
+
+# Hyena
+### Throw one punch, and you two will see what'll happen.
+PC21_BACK_GROUPFOUR4-24=
+
+
+# Rooster
+### ...
+PC21_BACK_GROUPFOUR4-25=
+
+
+# Brok
+### ...
+PC21_BACK_GROUPFOUR4-26=
+
+
+# Boxersnake
+### You'd better not piss 'Jaw off.
+PC21_BACK_GROUPFOUR4-27=
+
+
+# Bear
+### I did once. Broke off a tooth...
+PC21_BACK_GROUPFOUR4-28=
+
+
+# Armadillo
+### Haha, yeah. That was fun to watch.
+PC21_BACK_GROUPFOUR4-29=
+
+
+# Rooster
+### Fine, whatever.
+PC21_BACK_GROUPFOUR4-30=
+
+
+# Rooster
+### We'll finish this somewhere else. Soon.
+PC21_BACK_GROUPFOUR4-31=
+
+
+# Brok
+### Anytime.
+PC21_BACK_GROUPFOUR4-32=
+
+
+# Brok
+### (Punks like this always back down. Just gotta stand your ground)
+PC21_BACK_GROUPFOUR4-33=
+
+
+#----------------------------------------------------
+# Rooster
+### Man! We've crowned you, what more do you want?!
+PC21_BACK_GROUPFOURHIT1-1=
+
+
+#----------------------------------------------------
+# Bear
+### Ya're gonna get it...
+PC21_BACK_GROUPFOURHIT2-1=
+
+
+# Armadillo
+### No way. The rules, guys.
+PC21_BACK_GROUPFOURHIT2-2=
+
+
+# Boxersnake
+### Let's fight in V.R.!
+PC21_BACK_GROUPFOURHIT2-3=
+
+
+#----------------------------------------------------
+# Brok - First time choosing the quizz challenge
+### ...
+PC21_QUIZZ_FIRST-1=
+
+
+# Brok
+### Huh...? The headset is displaying something...
+PC21_QUIZZ_FIRST-2=
+
+
+# Unknown
+### Hello and welcome to 'Counter Quizz!'
+PC21_QUIZZ_FIRST-3=
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### This game is provided by the CounterAttack Bar and is 100% not affiliated with the Triangle.
+PC21_QUIZZ_FIRST-4=
+
+
+# Brok
+### A game?!
+PC21_QUIZZ_FIRST-5=
+
+
+# Unknown
+### Yes, a game challenge! You have 60 seconds to reply 10 questions.
+PC21_QUIZZ_FIRST-6=
+
+
+# Unknown
+### You pass when you answer at least {nb} questions correctly.
+PC21_QUIZZ_FIRST-7=
+
+
+# Unknown
+### Are you ready?
+PC21_QUIZZ_FIRST-8=
+
+
+#----------------------------------------------------
+# Unknown
+### Your score is <col=BOLD>{value}</col>.
+PC21_QUIZZ_RESULT-1=
+
+
+#----------------------------------------------------
+# Hedgehog
+### What do you think? I coded that quiz!
+PC21_QUIZZ_ENDDIALOGUE-1=
+
+
+# Brok
+### This is tough!
+PC21_QUIZZ_ENDDIALOGUE-2=
+
+
+# Hedgehog
+### Yeah! You can do it!
+PC21_QUIZZ_ENDDIALOGUE-3=
+
+
+#----------------------------------------------------
+# Frog - Actions in the room: jumping on tables - Jump on table
+### All newbies do this.
+PC21_JUMPTABLE1-1=
+
+
+# Frog
+### Every. Single. One. Of them.
+PC21_JUMPTABLE1-2=
+
+
+#----------------------------------------------------
+# Frog
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Not a single care for Bubbles, who has to clean up the mess.
+PC21_JUMPTABLE2-1=
+
+
+#----------------------------------------------------
+# Frog - Actions in the room: go behind the bar
+### Sir.
+PC21_HYENA_OFFLIMIT1-1=
+
+
+# Frog
+### This bubble of joy you're having will burst at any moment.
+PC21_HYENA_OFFLIMIT1-2=
+
+
+#----------------------------------------------------
+# Hyena - Go behind the bar
+### Off limit, man.
+PC21_HYENA_OFFLIMIT2-1=
+
+
+# Hyena
+### Of course you won't listen, so I'll keep acting as if nothing happened.
+PC21_HYENA_OFFLIMIT2-2=
+
+
+#----------------------------------------------------
+# Hyena - Go behind the bar
+### Wanna help?
+PC21_HYENA_OFFLIMIT3-1=
+
+
+#----------------------------------------------------
+# Hedgehog - Go behind the bar
+### Oh!
+PC21_HEDGEHOG_OFFLIMIT1-1=
+
+
+# Hedgehog
+### There's no secrets here. Hope you're not too disappointed!
+PC21_HEDGEHOG_OFFLIMIT1-2=
+
+
+#----------------------------------------------------
+# Hedgehog - Go behind the bar
+### I don't need help right now, thanks anyway!
+PC21_HEDGEHOG_OFFLIMIT2-1=
+
+
+#----------------------------------------------------
+# Brok - Hitting the background characters
+### ...huh? Smoke?
+PC21_HIT_BACKGROUNDCHAR1-1=
+
+
+# Hyena
+### Bad croc! You just triggered our Anti-Scuffle system.
+PC21_HIT_BACKGROUNDCHAR1-2=
+
+
+# Frog
+### We set it up to prevent fights in the bar. It's for the good of everyone.
+PC21_HIT_BACKGROUNDCHAR1-3=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I got inspired by a similar thing I saw in the Drums, back when I lived there.
+PC21_HIT_BACKGROUNDCHAR1-4=
+
+
+# Frog
+### It disorients you enough so that you can't actually land any hits.
+PC21_HIT_BACKGROUNDCHAR1-5=
+
+
+# Hyena
+### Amazing what we can do using decrepit dome hardware salvaged from landfills, don't ya think?
+PC21_HIT_BACKGROUNDCHAR1-6=
+
+
+# Brok
+### That sucks!
+PC21_HIT_BACKGROUNDCHAR1-7=
+
+
+# Hyena
+### I'll forgive you for saying that if you behave yourself.
+PC21_HIT_BACKGROUNDCHAR1-8=
+
+
+#----------------------------------------------------
+# Hedgehog
+### I'm disappointed in you, Mister Gator...
+PC21_HIT_BACKGROUNDCHAR2-1=
+
+
+# Hedgehog
+### I thought you were different...
+PC21_HIT_BACKGROUNDCHAR2-2=
+
+
+# Hedgehog
+### See, now I'm gonna cry...
+PC21_HIT_BACKGROUNDCHAR2-3=
+
+
+#----------------------------------------------------
+# Hyena
+### You mother...
+PC21_HIT_BACKGROUNDCHAR3-1=
+
+
+# Frog
+### Hey. Remember. Not in front of the clients.
+PC21_HIT_BACKGROUNDCHAR3-2=
+
+
+# Hyena
+### Urgh...
+PC21_HIT_BACKGROUNDCHAR3-3=
+
+
+# Frog
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok.
+PC21_HIT_BACKGROUNDCHAR3-4=
+
+
+# Frog
+### You are not a privileged client. If you keep disturbing everyone...
+PC21_HIT_BACKGROUNDCHAR3-5=
+
+
+# Brok
+### What will happen?
+PC21_HIT_BACKGROUNDCHAR3-6=
+
+
+# Frog
+### ...
+PC21_HIT_BACKGROUNDCHAR3-7=
+
+
+# Brok
+### So? What will?
+PC21_HIT_BACKGROUNDCHAR3-8=
+
+
+# Frog
+### Don't test our patience.
+PC21_HIT_BACKGROUNDCHAR3-9=
+
+
+#----------------------------------------------------
+# Hyena - He's about to say a swear word but it's interrupted
+### THAT'S IT! YOU F...
+PC21_HIT_BACKGROUNDCHAR4-1=
+
+
+#----------------------------------------------------
+# Brok - Interactions in the room
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### "Squealers Still Around - Beware!"
+PC21_NEWSARTICLES1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Looks like an old Drums article. "If you spot a Squealer, you are required to report them immediately to..."
+PC21_NEWSARTICLES1-2=
+
+
+# Brok
+### Someone covered the contact info with a sticker and wrote...
+PC21_NEWSARTICLES1-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### "Don't listen to Government propaganda. Let Squealers live."
+PC21_NEWSARTICLES1-4=
+
+
+# Brok
+### "Don't mess with them, they won't mess with you!"
+PC21_NEWSARTICLES1-5=
+
+
+#----------------------------------------------------
+# Brok
+### "Bar guidelines"
+PC21_NEWSARTICLES2-1=
+
+
+# Brok
+### "Never disclose our location to the authorities."
+PC21_NEWSARTICLES2-2=
+
+
+# Brok
+### "Make sure you are not followed before entering"
+PC21_NEWSARTICLES2-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### "We don't accept Unis."
+PC21_NEWSARTICLES2-4=
+
+
+# Brok
+### "Fight in the cabins, not in the room"
+PC21_NEWSARTICLES2-5=
+
+
+# Brok
+### "You break it, you pay for it."
+PC21_NEWSARTICLES2-6=
+
+
+# Brok
+### "All V.R. fights are broadcast only within the confines of the bar."
+PC21_NEWSARTICLES2-7=
+
+
+# Brok
+### "Tell management when you want to challenge someone to a duel."
+PC21_NEWSARTICLES2-8=
+
+
+# Brok
+### "Enjoy yourselves!"
+PC21_NEWSARTICLES2-9=
+
+
+#----------------------------------------------------
+# Brok
+### Is that... the logo of this bar?
+PC21_EMBLEME1-1=
+
+
+# Frog
+### Yes. Every place needs a striking symbol. This took me a month to design.
+PC21_EMBLEME1-2=
+
+
+# Frog
+### Tell me, how does it make you feel?
+PC21_EMBLEME1-3=
+
+
+# Brok
+### ...ehhh...?
+PC21_EMBLEME1-4=
+
+
+# Brok
+### A devil bean with two malformed eyes?
+PC21_EMBLEME1-5=
+
+
+# Frog
+### Don't look with your eyes. Look with your head.
+PC21_EMBLEME1-6=
+
+
+# Brok
+### Well...
+PC21_EMBLEME1-7=
+
+
+# Brok
+### It... hurts to look at...?
+PC21_EMBLEME1-8=
+
+
+# Frog
+### I'm sure. Tsk. The beauty of abstraction is wasted on the ignorant.
+PC21_EMBLEME1-9=
+
+
+#----------------------------------------------------
+# Brok
+### Still a devil bean to me!
+PC21_EMBLEME2-1=
+
+
+#----------------------------------------------------
+# Brok
+### Smells like fruit...
+PC21_SINK1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It doesn't take Unis, only C-Tokens. Better be careful to only buy what I need.
+PC21_SINK1-2=
+
+
+# Brok
+### Let's try it!
+PC21_SINK1-3=
+
+
+#----------------------------------------------------
+# Brok
+### Plates, glasses, trays...
+PC21_KITCHENWARE1-1=
+
+
+# Brok
+### And bottles. A lot of bottles-most I don't recognize.
+PC21_KITCHENWARE1-2=
+
+
+# Brok
+### Hey, I don't usually spend that much time in bars!
+PC21_KITCHENWARE1-3=
+
+
+#----------------------------------------------------
+# Brok
+### Just the usual stuff you'd expect to find in a bar.
+PC21_KITCHENWARE2-1=
+
+
+#----------------------------------------------------
+# Brok
+### "Secret area."
+PC21_DOORLEFT1-1=
+
+
+# Brok
+### What...?
+PC21_DOORLEFT1-2=
+
+
+#----------------------------------------------------
+# Brok
+### (...)
+PC21_DOORLEFT2-1=
+
+
+# Brok
+### It's locked.
+PC21_DOORLEFT2-2=
+
+
+# Brok
+### (Knock, knock)
+PC21_DOORLEFT2-3=
+
+
+# Brok
+### Oh, come on!
+PC21_DOORLEFT2-4=
+
+
+# Brok
+### You can't just name a door "secret" and not expect me to be curious about it!
+PC21_DOORLEFT2-5=
+
+
+#----------------------------------------------------
+# Brok
+### This is killing me!
+PC21_DOORLEFT3-1=
+
+
+#----------------------------------------------------
+# Brok
+### If only I could hit it. Dang perspective!
+PC21_DOORLEFT4-1=
+
+
+#----------------------------------------------------
+# Brok
+### Wait...
+PC21_DOORLEFT_OPEN-1=
+
+
+# Brok
+### No way... It opened?!
+PC21_DOORLEFT_OPEN-2=
+
+
+#----------------------------------------------------
+# Unknown
+### (This dynamically generated picture contains clues to events in the sequel)
+PC21_DOORLEFT_OPEN_AFTER-1=
+
+
+#----------------------------------------------------
+# Brok
+### "Toilets."
+PC21_DOORRIGHT1-1=
+
+
+# Brok
+### I can wait!
+PC21_DOORRIGHT1-2=
+
+
+#----------------------------------------------------
+# Brok
+### I'm fine!
+PC21_DOORRIGHT2-1=
+
+
+#----------------------------------------------------
+# Brok
+### I don't need to!
+PC21_DOORRIGHT3-1=
+
+
+#----------------------------------------------------
+# Brok
+### I'm okay!
+PC21_DOORRIGHT4-1=
+
+
+#----------------------------------------------------
+# Brok
+### No rush!
+PC21_DOORRIGHT5-1=
+
+
+#----------------------------------------------------
+# Brok
+### I have other priorities!
+PC21_DOORRIGHT6-1=
+
+
+#----------------------------------------------------
+# Brok
+### Pretty sure it's occupied!
+PC21_DOORRIGHT7-1=
+
+
+#----------------------------------------------------
+# Brok
+### Meh!
+PC21_DOORRIGHT8-1=
+
+
+#----------------------------------------------------
+# Brok
+### I don't want to enter!
+PC21_DOORRIGHT9-1=
+
+
+#----------------------------------------------------
+# Brok
+### I'm not afraid! I just won't!
+PC21_DOORRIGHT10-1=
+
+
+#----------------------------------------------------
+# Brok
+### (Sigh)
+PC21_DOORRIGHT11-1=
+
+
+#----------------------------------------------------
+# Brok
+### Okay, okay! Enough!
+PC21_DOORRIGHT12-1=
+
+
+# Brok
+### I'll go.
+PC21_DOORRIGHT12-2=
+
+
+#----------------------------------------------------
+# Unknown
+### (Door)
+PC21_DOORRIGHT_DO-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (...)
+PC21_DOORRIGHT_DO2-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (Whistles)
+PC21_DOORRIGHT_DO3-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (...)
+PC21_DOORRIGHT_DO4-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (Door)
+PC21_DOORRIGHT_DO5-1=
+
+
+#----------------------------------------------------
+# Unknown
+### (Washes)
+PC21_DOORRIGHT_DO6-1=
+
+
+#----------------------------------------------------
+# Brok
+### Hope I didn't make you wait too long!
+PC21_DOORRIGHT_END-1=
+
+
+# Hedgehog
+### It's okay! I didn't even notice you were gone!
+PC21_DOORRIGHT_END-2=
+
+
+# Brok
+### ...right.
+PC21_DOORRIGHT_END-3=
+
+
+# Brok
+### Anyway, look what I've found!
+PC21_DOORRIGHT_END-4=
+
+
+#----------------------------------------------------
+# Brok
+### Which was... totally not stuck in a weird spot...!
+PC21_DOORRIGHT_END2-1=
+
+
+#----------------------------------------------------
+# Brok
+### NO.
+PC21_DOORRIGHT13-1=
+
+
+#----------------------------------------------------
+# Brok
+### How do I use this?
+PC21_JUKEBOX1-1=
+
+
+# Frog
+### How many tracks have you unlocked?
+PC21_JUKEBOX1-2=
+
+
+# Brok
+### ...zero?
+PC21_JUKEBOX1-3=
+
+
+# Frog
+### (Sigh) Use the spinning wheel next to me to unlock some.
+PC21_JUKEBOX1-4=
+
+
+#----------------------------------------------------
+# Brok
+### Impressive collection of trophies!
+PC21_AWARDS1-1=
+
+
+# Hyena
+### Naaah.
+PC21_AWARDS1-2=
+
+
+# Hyena
+### Just won some B-grade competitions back in the old days.
+PC21_AWARDS1-3=
+
+
+# Hyena
+### I never was a big champion.
+PC21_AWARDS1-4=
+
+
+# Brok
+### Seems to me like you're too modest.
+PC21_AWARDS1-5=
+
+
+# Hyena
+### Besides, they aren't all mine!
+PC21_AWARDS1-6=
+
+
+# Hyena
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Most belong to my friend Sharpteeth.
+PC21_AWARDS1-7=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### What, THE Sharpteeth?
+PC21_AWARDS1-8=
+
+
+# Brok
+### Why would he keep his collection here?
+PC21_AWARDS1-9=
+
+
+# Hyena
+### Well...
+PC21_AWARDS1-10=
+
+
+# Hyena
+### He's a friend from the old days.
+PC21_AWARDS1-11=
+
+
+# Hyena
+### The night the bar opened, he showed up with an armful of these.
+PC21_AWARDS1-12=
+
+
+# Hyena
+### Told me to take 'em off his hands, that they'd give the bar "legitimacy."
+PC21_AWARDS1-13=
+
+
+# Hyena
+### Always had to one-up me. Ha!
+PC21_AWARDS1-14=
+
+
+# Frog
+### (Ahem, ahem)
+PC21_AWARDS1-15=
+
+
+# Hyena
+### Oh...! Of course, one of these is yours: the 'longest bubbling' record!
+PC21_AWARDS1-16=
+
+
+# Frog
+### (Bubbling)
+PC21_AWARDS1-17=
+
+
+# Brok
+### Nice!
+PC21_AWARDS1-18=
+
+
+#----------------------------------------------------
+# Brok
+### A long time ago, I won a trophy like these...
+PC21_AWARDS2-1=
+
+
+# Brok
+### It's long gone, now. Same as everything else from my past life.
+PC21_AWARDS2-2=
+
+
+#----------------------------------------------------
+# Brok
+### (Groan noises)
+PC21_LASTFIGHT_GAMEOVER1-1=
+
+
+# Rooster
+### Ha! Who's the better fighter now?!
+PC21_LASTFIGHT_GAMEOVER1-2=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Stand up, Brok! We can take another round!
+PC21_LASTFIGHT_GAMEOVER1-3=
+
+
+# Rooster
+### I'll hold the croc down. You take care of his friend.
+PC21_LASTFIGHT_GAMEOVER1-4=
+
+
+#----------------------------------------------------
+# Unknown
+### "Atlasian Madness" is a fan game included as bonus. Each continue costs 50 C-Tokens.
+PC21_ARCADE_WARNING_NEW-1=
+
+
+#----------------------------------------------------
+# Brok
+### What?! But...
+PC21_JUKEBOX_ADDIALOGUE-1=
+
+
+#----------------------------------------------------
+# Brok
+### Huh?...
+PC21_BOX_EMPTY-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Give me a drink, bartender!
+COOP_PC21_HYENA1-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Where's my catch-the-glass mini-game!
+COOP_PC21_HYENA2-1=
+
+
+#----------------------------------------------------
+# Unknown
+### He's got the spiky attitude.
+COOP_PC21_HEDGEHOG1-1=
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### I expected more puzzles from Puzzles.
+COOP_PC21_HEDGEHOG2-1=
+
+
+#----------------------------------------------------
+# Unknown
+### He's a cool dad!
+COOP_PC21_CLINT1-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Too many reptiles in here.
+COOP_PC21_IGUANA1-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Smells fishy.
+COOP_PC21_SHARK1-1=
+
+
+#----------------------------------------------------
+# Unknown
+### I'm too shy.
+COOP_PC21_BACK1-1=
+
+
+#----------------------------------------------------
+# Unknown
+### I bet they're ghost haters.
+COOP_PC21_BACK2-1=
+
+
+#----------------------------------------------------
+# Unknown
+### Urgh, lower class citizens.
+COOP_PC21_BACK3-1=
+
+
+#----------------------------------------------------
+

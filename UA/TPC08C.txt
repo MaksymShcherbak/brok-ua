@@ -1,0 +1,1085 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Shay (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Unknown (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Shay (Unknown)
+#     Various - Brok (Unknown)
+
+#-------------------------------
+#=Shay garage
+#-------------------------------
+
+#----- Interactions --------
+### Tarp
+PC_TARP=Брезент
+
+### Poster
+PC_POSTER=Плакат
+
+### Metal thing
+PC_METALTHING=Металева штука
+
+
+#----- Choices / Items --------
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Pay 5 Unis to rest?
+PC08C_BED_ASK=Заплатити 5 Юні за відпочинок?
+
+### Read it?
+PC08C_DRAWER_READ=Прочитати це?
+
+
+
+#----- Topics --------
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - Room interactions
+### I wish I wasn't being spied on... Even here.
+PC08C_CAMERA1-1=Хотілося б, щоб за мною не шпигували... Хоча б тут.
+
+
+# Shay
+### It's for your own safety. What if something happens to you while you're in there?
+PC08C_CAMERA1-2=Це задля твоєї ж безпеки. А що, як із тобою щось станеться, поки ти там?
+
+
+# Brok
+### Don't you get life readings and all kinds of figures?
+PC08C_CAMERA1-3=Хіба ти вже не збираєш показники життєдіяльності та всілякі інші цифри?
+
+
+# Shay
+### Yeah but I can't take my eyes off of you.
+PC08C_CAMERA1-4=Ага, але я просто очей від тебе відвести не можу.
+
+
+# Brok
+### Very funny.
+PC08C_CAMERA1-5=Дуже смішно.
+
+
+#----------------------------------------------------
+# Brok
+### Hey! What's that?
+PC08C_EGG1-1=Гей! А це що таке?
+
+
+# Brok
+### Some kind of giant egg?
+PC08C_EGG1-2=Якесь гігантське яйце?
+
+
+# Shay
+### Tut tut tut! No touching!
+PC08C_EGG1-3=Но-но-но! Руками не чіпати!
+
+
+# Brok
+### But I just...
+PC08C_EGG1-4=Та я лише...
+
+
+# Shay
+### Nope!
+PC08C_EGG1-5=Зась!
+
+
+# Brok
+### Can you at least tell me what's in there?
+PC08C_EGG1-6=Можеш хоч сказати, що там всередині?
+
+
+# Shay
+### It's...a secret!
+PC08C_EGG1-7=Це... таємниця!
+
+
+# Brok
+### Oooh... A new invention?
+PC08C_EGG1-8=О-о-о... Новий винахід?
+
+
+# Shay
+### Yeah! I promise, this will change your life!
+PC08C_EGG1-9=Ага! Обіцяю, це змінить твоє життя!
+
+
+# Brok
+### Let me guess! That's a...
+PC08C_EGG1-10=Дай вгадаю! Це...
+
+
+# Brok
+### Money making machine!
+PC08C_EGG1-11=Машина для друкування грошей!
+
+
+# Shay
+### Not even close.
+PC08C_EGG1-12=Навіть не близько.
+
+
+# Brok
+### Then a... Erm...
+PC08C_EGG1-13=Тоді... Е-е...
+
+
+# Shay
+### Take your time!
+PC08C_EGG1-14=Не поспішай, час у тебе є!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I'm always excited to discover Shay's newest inventions!
+PC08C_EGG2-1=Я завжди із захопленням дізнаюся про нові винаходи Шей!
+
+
+#----------------------------------------------------
+# Brok - That name isn't important.
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### I know that guy! Sharpteeth the Thief!
+PC08C_POSTER1-1=Я знаю цього хлопця! Гострозуб Крадій!
+
+
+# Brok
+### He was a popular fighter who retired a few years ago. One of my idols!
+PC08C_POSTER1-2=Він був популярним бійцем, який кілька років тому завершив кар'єру. Один із моїх кумирів!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Hmmm... Shay might have a soft spot for him?
+PC08C_POSTER1-3=Гммм... Можливо, Шей небайдужа до нього?
+
+
+#----------------------------------------------------
+# Brok
+### I can recover my health after a fight here!
+PC08C_BED_GOODHEALTH1-1=Тут я можу відновити своє здоров'я після бою!
+
+
+# Unknown - This bed talks in informal ways to Brok
+### You seem well enough. No time for slacking off!
+PC08C_BED_GOODHEALTH1-2=Виглядаєш бадьоро. Немає часу байдикувати!
+
+
+# Brok
+### Yeah. I forgot that bed could talk.
+PC08C_BED_GOODHEALTH1-3=Ага. Я й забув, що це ліжко вміє розмовляти.
+
+
+#----------------------------------------------------
+# Brok
+### I don't feel tired right now, and I've got a lot on my plate!
+PC08C_BED_GOODHEALTH2-1=Зараз я не почуваюся втомленим, та в мене й так повно справ!
+
+
+# Various
+### You're right! Go to work, you lazy butt!
+PC08C_BED_GOODHEALTH2-2=Твоя правда! Йди працюй, ледащо!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It's 5 Unis for a rest.
+PC08C_BED_ASK1-1=Відпочинок коштує 5 Юні.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I should have guessed... It's Shay's creation after all.
+PC08C_BED_ASK1-2=Я мав здогадатися... Це ж творіння Шей, як-не-як.
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 5 Unis, please!
+PC08C_BED_ASK2-1=5 Юні, будь ласка!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 5 Unis! Come on, bring the moolah!
+PC08C_BED_ASK3-1=5 Юні! Давай, діставай бабки!
+
+
+#----------------------------------------------------
+# Brok
+### No money for you.
+PC08C_BED_NO1-1=Ніяких грошей ти не отримаєш.
+
+
+# Various
+### Hope you enjoy the pain then.
+PC08C_BED_NO1-2=Тоді сподіваюся, ти насолодишся болем.
+
+
+#----------------------------------------------------
+# Brok
+### I'm exhausted... I'll take a little nap.
+PC08C_BED_BADHEALTH1-1=Я виснажений... Трішки подрімаю.
+
+
+#----------------------------------------------------
+# Brok
+### ...Oh, man! Look at the time! I'd better get moving!
+PC08C_BED_BADHEALTHB1-1=...Ой леле! Тільки подивіться, котра година! Треба йти!
+
+
+# Various
+### See ya!
+PC08C_BED_BADHEALTHB1-2=Побачимось!
+
+
+#----------------------------------------------------
+# Various
+### You're in bad shape! Rest on me!
+PC08C_BED_BADHEALTH2-1=Ти в жахливій формі! Відпочинь на мені!
+
+
+# Brok
+### Erm...
+PC08C_BED_BADHEALTH2-2=Е-е...
+
+
+#----------------------------------------------------
+# Various
+### Come on! Wake up!
+PC08C_BED_BADHEALTHB2-1=Ану! Прокидайся!
+
+
+# Brok
+### (Yawn) Just one more minute...
+PC08C_BED_BADHEALTHB2-2=(Позіхає) Ще тільки одну хвилинку...
+
+
+# Various
+### Nope! Rise and shine, sleeping beauty!
+PC08C_BED_BADHEALTHB2-3=Ні! Час вставати, спляча красуне!
+
+
+# Brok
+### Alright, alright...
+PC08C_BED_BADHEALTHB2-4=Добре, добре...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Should I do a little training?
+PC08C_CABIN_TRAINING_CHOICE1-1=Гмм... Може, трохи потренуватися?
+
+
+#----------------------------------------------------
+# Brok
+### Not the right time...
+PC08C_CABIN_NOPE-1=Зараз не час...
+
+
+#----------------------------------------------------
+# Brok - Losing after training in VR
+### Ooof...
+PC08C_LOSTTRAINING1-1=У-ух...
+
+
+#----------------------------------------------------
+# Brok
+### Good thing this wasn't the night fight... Or I'd be a goner.
+PC08C_LOSTTRAINING1B-1=Добре, що це був не нічний бій... Інакше мені був би кінець.
+
+
+# Brok
+### Gotta be more careful!
+PC08C_LOSTTRAINING1B-2=Треба бути обережнішим!
+
+
+#----------------------------------------------------
+# Brok
+### Awww...
+PC08C_LOSTTRAINING2-1=О-ох...
+
+
+#----------------------------------------------------
+# Brok
+### I wish the pain was virtual too!
+PC08C_LOSTTRAINING2B-1=Хотілося б, щоб і біль був віртуальним!
+
+
+#----------------------------------------------------
+# Shay - Bed
+### Sleep time is over!
+PC08C_REST1-1=Час сну скінчився!
+
+
+# Shay
+### Hop, hop!
+PC08C_REST1-2=Годі спати!
+
+
+# Brok
+### Aww...I barely closed my eyes...
+PC08C_REST1-3=Ох... Я ж ледь очі заплющив...
+
+
+# Shay
+### No complaining! Just fighting!
+PC08C_REST1-4=Ніяких скарг! Тільки боротьба!
+
+
+# Brok
+### Mrrph...
+PC08C_REST1-5=М-ммм...
+
+
+#----------------------------------------------------
+# Brok - Losing the day 1 night fight
+### Well... Looks like I lost.
+PC08C_NOFIGHT-1=Ну... Схоже, я програв.
+
+
+# Shay
+### Of course you did! What were you thinking?!
+PC08C_NOFIGHT-2=Звісно, програв! Про що ти тільки думав?!
+
+
+# Shay
+### This is a virtual space. Maybe that wasn't even a woman!
+PC08C_NOFIGHT-3=Це віртуальний простір. Можливо, це навіть була не жінка!
+
+
+# Brok
+### Is it possible?
+PC08C_NOFIGHT-4=Це можливо?
+
+
+# Shay
+### Well...
+PC08C_NOFIGHT-5=Ну...
+
+
+# Shay
+### Technically anything's possible. But for a while now there have been security measures to ensure fighters don't conceal their identity.
+PC08C_NOFIGHT-6=Технічно можливе все. Але вже певний час діють заходи безпеки, які гарантують, що бійці не приховують свою особу.
+
+
+# Shay
+### Even for a lawless area, this caused too many problems.
+PC08C_NOFIGHT-7=Навіть для беззаконного району це створювало забагато проблем.
+
+
+# Brok
+### So the answer is no.
+PC08C_NOFIGHT-8=Виходить, що ні.
+
+
+# Shay
+### Don't change the subject, mister! You lost some precious money there.
+PC08C_NOFIGHT-9=Не намагайся змінити тему, чоловіче! Ти втратив там цінні гроші.
+
+
+# Brok
+### I'd rather lose some bucks than my ethics.
+PC08C_NOFIGHT-10=Я краще втрачу кілька баксів, ніж свою етику.
+
+
+# Shay
+### Let's forget this.
+PC08C_NOFIGHT-11=Забудьмо про це.
+
+
+#----------------------------------------------------
+# Shay
+### (Sigh)
+PC08C_GIVEUP1-1=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok - Winning the day 1 night fight
+### Done!
+PC08C_WON1-1=Готово!
+
+
+# Brok
+### No one can withstand my fists of steel!
+PC08C_WON1-2=Ніхто не витримає моїх сталевих кулаків!
+
+
+# Shay
+### Congrats, Bro'!
+PC08C_WON1-3=Вітаю, брате!
+
+
+# Shay
+### That should cover some of your debt!
+PC08C_WON1-4=Це має покрити частину твого боргу!
+
+
+# Brok
+### Why do you always have to ruin the fun?
+PC08C_WON1-5=Чому тобі завжди треба псувати всі веселощі?
+
+
+#----------------------------------------------------
+# Shay - Win day 2 after punching R.J. but Brok kinda regrets it
+### Great job, Bro'!
+PC08C_DAY2_WONPUNCH1-1=Чудова робота, брате!
+
+
+# Brok
+### I did what I had to...
+PC08C_DAY2_WONPUNCH1-2=Я зробив те, що мав...
+
+
+# Shay
+### You knew that bear?
+PC08C_DAY2_WONPUNCH1-3=Ти знав того ведмедя?
+
+
+# Shay
+### Don't worry, I can confirm he's still alive.
+PC08C_DAY2_WONPUNCH1-4=Не хвилюйся, я можу підтвердити, що він усе ще живий.
+
+
+# Brok
+### Yeah but...
+PC08C_DAY2_WONPUNCH1-5=Так, але...
+
+
+# Shay
+### Sorry Bro'. No time for getting lost in your thoughts.
+PC08C_DAY2_WONPUNCH1-6=Вибач, брате. Немає часу занурюватися в роздуми.
+
+
+#----------------------------------------------------
+# Shay
+### Great job, Bro'!
+PC08C_DAY2_WONTALK1-1=Чудова робота, брате!
+
+
+# Brok
+### ...
+PC08C_DAY2_WONTALK1-2=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay...
+PC08C_DAY2_WONTALK1-3=Шей...
+
+
+# Brok
+### Am I a bad person?
+PC08C_DAY2_WONTALK1-4=Я поганець?
+
+
+# Brok
+### I keep ruining other people's lives.
+PC08C_DAY2_WONTALK1-5=Я продовжую руйнувати життя інших людей.
+
+
+# Brok
+### I promise everyone I'll fix things but...
+PC08C_DAY2_WONTALK1-6=Я усім обіцяю, що все виправлю, але...
+
+
+# Brok
+### Everytime I try... I fail.
+PC08C_DAY2_WONTALK1-7=Щоразу, коли я намагаюся... я зазнаю невдачі.
+
+
+# Shay
+### Don't you worry.
+PC08C_DAY2_WONTALK1-8=Не хвилюйся.
+
+
+# Shay
+### Soon you'll have a chance to change everything.
+PC08C_DAY2_WONTALK1-9=Скоро в тебе буде шанс усе змінити.
+
+
+# Brok
+### I will?
+PC08C_DAY2_WONTALK1-10=Справді?
+
+
+#----------------------------------------------------
+# Brok - Losing the day 2 night fight
+### Sorry I lost...
+PC08C_DAY2_LOST1-1=Вибач, що я програв...
+
+
+# Brok
+### I just... couldn't focus.
+PC08C_DAY2_LOST1-2=Я просто... не зміг зосередитися.
+
+
+# Shay
+### Normally I would scold you, but I haven't got the time for it.
+PC08C_DAY2_LOST1-3=У звичайній ситуації я б тебе відчитала, але у мене зараз немає на це часу.
+
+
+#----------------------------------------------------
+# Shay - Giving up the day 2 night fight
+### What was that about?! You almost won!
+PC08C_DAY2_GIVEUP1-1=Що це взагалі було?! Ти ж майже виграв!
+
+
+# Brok
+### This was the only way... I didn't want to...
+PC08C_DAY2_GIVEUP1-2=Це був єдиний шлях... Я не хотів...
+
+
+# Shay
+### No! There's always another way!
+PC08C_DAY2_GIVEUP1-3=Ні! Завжди є інший шлях!
+
+
+# Shay
+### You just made him even angrier! And me too!
+PC08C_DAY2_GIVEUP1-4=Ти просто розлютив його ще більше! І мене також!
+
+
+# Brok
+### ...
+PC08C_DAY2_GIVEUP1-5=...
+
+
+# Brok
+### Sorry...
+PC08C_DAY2_GIVEUP1-6=Вибач...
+
+
+# Shay
+### ...
+PC08C_DAY2_GIVEUP1-7=...
+
+
+# Shay
+### It's okay. Soon it won't matter anymore.
+PC08C_DAY2_GIVEUP1-8=Усе гаразд. Скоро це вже не матиме жодного значення.
+
+
+#----------------------------------------------------
+# Shay
+### I hope you enjoyed your last VR night fight.
+PC08C_DAY2_AFTER-1=Сподіваюся, тобі сподобався твій останній нічний бій у VR.
+
+
+# Brok
+### The last?
+PC08C_DAY2_AFTER-2=Останній?
+
+
+# Shay
+### Yeah. I'll be unreachable tomorrow, and after that...
+PC08C_DAY2_AFTER-3=Ага. Завтра зі мною неможливо буде зв'язатися, а після цього...
+
+
+# Shay
+### I've got no idea what will happen.
+PC08C_DAY2_AFTER-4=Я й уяви не маю, що станеться.
+
+
+# Brok
+### You're scaring me...
+PC08C_DAY2_AFTER-5=Ти мене лякаєш...
+
+
+#----------------------------------------------------
+# Brok - Interact with mysterious locked drawer
+### That's a weird drawer...
+PC08C_DRAWER1-1=Якась дивна шухляда...
+
+
+# Brok
+### And it's locked.
+PC08C_DRAWER1-2=І вона замкнена.
+
+
+#----------------------------------------------------
+# Brok
+### I wonder if...
+PC08C_DRAWER2-1=Цікаво, чи...
+
+
+# Shay
+### Hey! No touching!
+PC08C_DRAWER2-2=Гей! Не чіпати!
+
+
+# Brok
+### Private stuff?
+PC08C_DRAWER2-3=Особисті речі?
+
+
+# Shay
+### Why do you think it's locked?
+PC08C_DRAWER2-4=Як гадаєш, чому вона замкнена?
+
+
+# Brok
+### Now I'm even more curious.
+PC08C_DRAWER2-5=Тепер мені стало ще цікавіше.
+
+
+#----------------------------------------------------
+# Brok
+### Apparently it's protected by a passcode.
+PC08C_DRAWER3-1=Судячи з усього, вона захищена паролем.
+
+
+#----------------------------------------------------
+# Brok
+### Wrong code?
+PC08C_DRAWER_WRONG1-1=Неправильний код?
+
+
+#----------------------------------------------------
+# Brok
+### Nope...
+PC08C_DRAWER_WRONG2-1=Ні...
+
+
+#----------------------------------------------------
+# Brok - Easter egg interaction
+### Looks old...
+PC08C_AIRGLIDER1-1=Виглядає старим...
+
+
+# Shay
+### It is. Some kind of ancient air glider I got out of the lake.
+PC08C_AIRGLIDER1-2=Так і є. Це стародавній аеропланер, який я витягла з озера.
+
+
+# Brok
+### An air glider...? Can you really picture anyone standing on that?
+PC08C_AIRGLIDER1-3=Аеропланер...? Ти справді уявляєш, як хтось буде стояти на цій штуці?
+
+
+# Shay
+### I do! The shape is aerodynamic.
+PC08C_AIRGLIDER1-4=Уявляю! Форма аеродинамічна.
+
+
+# Shay
+### Who knows! Someday we may all travel with that!
+PC08C_AIRGLIDER1-5=Хто зна! Може, колись ми всі будемо пересуватися на таких!
+
+
+# Brok
+### Yeah... When bears fly!
+PC08C_AIRGLIDER1-6=Ага... Коли ведмеді почнуть літати!
+
+
+#----------------------------------------------------
+# Various - Hit the bed
+### How dare you! After everything I've done for you!
+PC08C_BED_HIT1-1=Як ти смієш! Після всього, що я для тебе зробило!
+
+
+#----------------------------------------------------
+# Various
+### Next time you lay on me, my pillow shall suffocate you to death!
+PC08C_BED_HIT2-1=Наступного разу, коли ти ляжеш на мене, моя подушка задушить тебе до смерті!
+
+
+#----------------------------------------------------
+# Various - Walk on bed
+### This ain't the proper way to use me, ya know.
+PC08C_BED_WALK1-1=Знаєш, використовувати мене отак - якось неправильно.
+
+
+#----------------------------------------------------
+# Brok - Hit the cabin
+### Truly solid.
+PC08C_CABIN_HIT1-1=Справді міцна.
+
+
+# Brok
+### Otherwise I would have already smashed it to smithereens when I'm fighting in there.
+PC08C_CABIN_HIT1-2=Інакше я вже б розтрощив її на друзки під час своїх боїв усередині.
+
+
+#----------------------------------------------------
+# Brok
+### Whatever this is... I can't break it!
+PC08C_EGG_HIT1-1=Що б це не було... зламати це я не можу!
+
+
+# Brok
+### And my hands hurt...
+PC08C_EGG_HIT1-2=І руки болять...
+
+
+#----------------------------------------------------
+# Brok
+### It works?!
+PC08C_DRAWER_UNLOCK-1=Спрацювало?!
+
+
+# Brok
+### Huh. A small diary?
+PC08C_DRAWER_UNLOCK-2=Гм. Маленький щоденник?
+
+
+#----------------------------------------------------
+# Unknown
+### How did this all begin? I have no idea.
+PC08C_DRAWER_DIARY1-1=Як усе це почалося? Поняття не маю.
+
+
+# Unknown
+### He came to me when I needed it the most. If not for him, I wouldn't be here now.
+PC08C_DRAWER_DIARY1-2=Він прийшов до мене саме тоді, коли я потребувала цього найбільше. Якби не він, мене б зараз тут не було.
+
+
+# Unknown
+### And now I need to ensure everything repeats again.
+PC08C_DRAWER_DIARY1-3=І тепер мені потрібно зробити так, щоб усе сталося знову.
+
+
+#----------------------------------------------------
+# Unknown
+### I try my best to hide it but...
+PC08C_DRAWER_DIARY2-1=Я всіляко намагаюся це приховати, але...
+
+
+# Unknown
+### I'm afraid. What happens if I fail?
+PC08C_DRAWER_DIARY2-2=Мені страшно. Що буде, якщо я зазнаю невдачі?
+
+
+#----------------------------------------------------
+# Unknown
+### He will think that I invented this machine.
+PC08C_DRAWER_DIARY3-1=Він думатиме, що це я винайшла цю машину.
+
+
+# Unknown
+### No. I merely copied it.
+PC08C_DRAWER_DIARY3-2=Ні. Я лише скопіювала її.
+
+
+# Unknown
+### Who did, then? Me from another timeline?
+PC08C_DRAWER_DIARY3-3=Хто ж тоді? Я з іншої часової лінії?
+
+
+# Unknown
+### I might never find out.
+PC08C_DRAWER_DIARY3-4=Можливо, я ніколи цього не дізнаюся.
+
+
+#----------------------------------------------------
+# Unknown
+### Today... It happened. Just like he told me.
+PC08C_DRAWER_DIARY4-1=Сьогодні... це сталося. Саме так, як він мені й казав.
+
+
+# Unknown
+### It was... horrible...
+PC08C_DRAWER_DIARY4-2=Це було... жахливо...
+
+
+# Unknown
+### Could I have prevented it?
+PC08C_DRAWER_DIARY4-3=Чи могла я цьому запобігти?
+
+
+# Unknown
+### Technically I did. I used the machine. A tiny jump back in time. Not much power needed.
+PC08C_DRAWER_DIARY4-4=Технічно я це зробила. Скористалася машиною. Крихітний стрибок назад у часі. Багато енергії не знадобилося.
+
+
+# Unknown
+### It worked. But...
+PC08C_DRAWER_DIARY4-5=Це спрацювало. Але...
+
+
+# Unknown
+### This vision... will haunt me forever...
+PC08C_DRAWER_DIARY4-6=Цей образ... переслідуватиме мене вічно...
+
+
+#----------------------------------------------------
+# Unknown
+### The only thing that matters is the present. The current timeline... Right?...
+PC08C_DRAWER_DIARY5-1=Єдине, що має значення - це теперішнє. Поточна часова лінія... Правильно...?
+
+
+# Unknown
+### I have to keep moving forward.
+PC08C_DRAWER_DIARY5-2=Я повинна рухатися далі.
+
+
+#----------------------------------------------------
+# Unknown
+### I've been focused on this goal for so long. Practically all my life.
+PC08C_DRAWER_DIARY6-1=Я так довго була зосереджена на цій меті. Практично все своє життя.
+
+
+# Unknown
+### What a life... I barely had time for... living. (way to go girl, best writer ever)
+PC08C_DRAWER_DIARY6-2=Що за життя... У мене майже не було часу на... життя. (так тримати, дівчино, найкраща письменниця у світі)
+
+
+#----------------------------------------------------
+# Unknown
+### Sometimes I wonder if all this is worth it.
+PC08C_DRAWER_DIARY7-1=Іноді я замислююся, чи воно того варте.
+
+
+# Unknown
+### If I'm worth all that pain... That I'm going to cause him...
+PC08C_DRAWER_DIARY7-2=Чи варта я всього того болю... Який я йому завдам...
+
+
+# Unknown
+### If he knew...
+PC08C_DRAWER_DIARY7-3=Якби він знав...
+
+
+# Unknown
+### He would never forgive me.
+PC08C_DRAWER_DIARY7-4=Він би ніколи мені не пробачив.
+
+
+#----------------------------------------------------
+# Unknown
+### I know all the story thus far.
+PC08C_DRAWER_DIARY8-1=Я знала все, що станеться до цього моменту.
+
+
+# Unknown
+### Everything he told me. How ironic!
+PC08C_DRAWER_DIARY8-2=Усе те, що він мені розповів. Яка іронія!
+
+
+# Unknown
+### After tomorrow? A blank.
+PC08C_DRAWER_DIARY8-3=А що буде після завтрашнього дня? Порожнеча.
+
+
+# Unknown
+### I'll be like everyone. Scared of the future.
+PC08C_DRAWER_DIARY8-4=Я буду такою, як усі. Наляканою майбутнім.
+
+
+#----------------------------------------------------
+# Unknown
+### He doesn't suspect a thing. No matter how many times I put him on the right track. What an idiot!
+PC08C_DRAWER_DIARY9-1=Він ні про що не підозрює. Скільки б разів я не направляла його на правильний шлях. Який же дурень!
+
+
+# Unknown
+### Such a lovable idiot...
+PC08C_DRAWER_DIARY9-2=Такий милий дурень...
+
+
+# Unknown
+### I could never tell him. Not because I might cease to exist.
+PC08C_DRAWER_DIARY9-3=Я б ніколи не змогла йому сказати. І не тому, що можу припинити існувати.
+
+
+# Unknown
+### I... just can't. I don't have his courage.
+PC08C_DRAWER_DIARY9-4=Я... просто не можу. У мене немає його сміливості.
+
+
+# Unknown
+### I'm weak. And that's why I don't care that I'll never get to be with him. I don't deserve it.
+PC08C_DRAWER_DIARY9-5=Я слабка. І саме тому мені байдуже, що я ніколи не буду з ним. Я цього не заслуговую.
+
+
+#----------------------------------------------------
+# Unknown
+### I only care about his well being and...
+PC08C_DRAWER_DIARY10-1=Мене хвилює лише його добробут та...
+
+
+# Unknown
+### ...
+PC08C_DRAWER_DIARY10-2=...
+
+
+# Unknown
+### Who am I kidding...
+PC08C_DRAWER_DIARY10-3=Кого я обманюю...
+
+
+# Unknown
+### I'm egotistical.
+PC08C_DRAWER_DIARY10-4=Я егоїстична.
+
+
+#----------------------------------------------------
+# Unknown
+### If only... Someday...
+PC08C_DRAWER_DIARY11-1=Якби ж тільки... Колись...
+
+
+# Unknown
+### You'll take me in your arms.
+PC08C_DRAWER_DIARY11-2=Ти візьмеш мене у свої обійми.
+
+
+# Unknown
+### The world can end.
+PC08C_DRAWER_DIARY11-3=Нехай навіть світ загине.
+
+
+# Unknown
+### Nothing else matters to me.
+PC08C_DRAWER_DIARY11-4=Ніщо інше для мене не має значення.
+
+
+#----------------------------------------------------
+# Shay
+### Bro'...
+PC08C_DRAWER_ENDING1-1=Брате...
+
+
+# Shay
+### How did you?...
+PC08C_DRAWER_ENDING1-2=Як ти...?
+
+
+# Brok
+### ...
+PC08C_DRAWER_ENDING1-3=...
+
+
+# Brok
+### I understand now.
+PC08C_DRAWER_ENDING1-4=Тепер я розумію.
+
+
+# Shay
+### It doesn't matter!
+PC08C_DRAWER_ENDING1-5=Це вже не важливо!
+
+
+# Shay
+### You need to leave!
+PC08C_DRAWER_ENDING1-6=Тобі треба йти!
+
+
+# Brok
+### Why?
+PC08C_DRAWER_ENDING1-7=Чому?
+
+
+# Shay
+### It wasn't supposed to happen that way!
+PC08C_DRAWER_ENDING1-8=Усе мало бути зовсім не так!
+
+
+# Shay
+### You shouldn't have read this!
+PC08C_DRAWER_ENDING1-9=Ти не мав цього читати!
+
+
+# Shay
+### I... I'm not supposed to see you!
+PC08C_DRAWER_ENDING1-10=Я... я не повинна була з тобою бачитись!
+
+
+# Brok
+### Relax. Everything's fine.
+PC08C_DRAWER_ENDING1-11=Заспокойся. Усе гаразд.
+
+
+# Shay
+### No, it's not!
+PC08C_DRAWER_ENDING1-12=Ні, не гаразд!
+
+
+# Shay
+### Years of preparation and you ruin everything at the last min...
+PC08C_DRAWER_ENDING1-13=Роки підготовки, і ти руйнуєш усе в останню хвил...
+
+
+# Shay
+### Oh no!... It's happening!
+PC08C_DRAWER_ENDING1-14=О ні...! Це відбувається!
+
+
+# Shay
+### Get out of here! Now!
+PC08C_DRAWER_ENDING1-15=Забирайся звідси! Негайно!
+
+
+# Brok
+### No.
+PC08C_DRAWER_ENDING1-16=Ні.
+
+
+# Shay
+### But...!
+PC08C_DRAWER_ENDING1-17=Але...!
+
+
+# Brok
+### I won't.
+PC08C_DRAWER_ENDING1-18=Я не піду.
+
+
+# Brok
+### I'm sick of running away.
+PC08C_DRAWER_ENDING1-19=Мені набридло тікати.
+
+
+# Brok
+### I don't wanna be alone. Never again.
+PC08C_DRAWER_ENDING1-20=Я не хочу бути на самоті. Більше ніколи.
+
+
+# Brok
+### No matter what happens.
+PC08C_DRAWER_ENDING1-21=Що б не сталося.
+
+
+# Brok
+### I'll stay here...
+PC08C_DRAWER_ENDING1-22=Я залишуся тут...
+
+
+# Brok
+### With you.
+PC08C_DRAWER_ENDING1-23=З тобою.
+
+
+#----------------------------------------------------
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+PC08C_DRAWER_ENDING2-1=Броку...
+
+
+#----------------------------------------------------
+# Shay
+### Thank you.
+PC08C_DRAWER_ENDING3-1=Дякую тобі.
+
+
+#----------------------------------------------------
+

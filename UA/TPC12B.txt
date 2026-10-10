@@ -1,0 +1,216 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=  INSIDE PYRAMID
+#-------------------------------
+
+#----- Interactions --------
+### Mainframe
+PC_MAINFRAME=Центральний комп'ютер
+
+### Touch panel
+PC_TOUCHPANEL=Сенсорна панель
+
+### Number
+PC_NUMBER=Число
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+# Brok - This room is filled with lasers
+### Whoa! They're not kidding around with security here.
+PC12B_FIRST-1=Ого! З безпекою тут не жартують.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Those lasers look deadly.
+PC12B_AFTERGAMEOVER-1=Гмм... Ці лазери смертельно небезпечні.
+
+
+# Brok
+### I can probably get through if I'm super careful... or maybe find an alternate route?
+PC12B_AFTERGAMEOVER-2=Я зможу пройти, якщо буду надзвичайно обережним... чи, може, краще знайти інший шлях?
+
+
+#----------------------------------------------------
+# Brok - Panel in the background
+### Nggggh!
+PC12B_PANEL1-1=У-уух...!
+
+
+# Brok
+### This won't open. Not with bare hands, at least.
+PC12B_PANEL1-2=Не відкриється. Принаймні голими руками.
+
+
+#----------------------------------------------------
+# Brok
+### There!
+PC12B_PANEL_UNLOCKED-1=Готово!
+
+
+# Brok
+### Hmm... Looks like it's running at full power.
+PC12B_PANEL_UNLOCKED-2=Гмм... Схоже, працює на повній потужності.
+
+
+# Brok
+### I should take care of that!
+PC12B_PANEL_UNLOCKED-3=Треба з цим розібратися!
+
+
+#----------------------------------------------------
+# Brok
+### Hey! It worked!
+PC12B_PANEL_UNLOCKED2-1=Гей! Спрацювало!
+
+
+# Brok
+### Bye-bye lasers!
+PC12B_PANEL_UNLOCKED2-2=Прощавайте, лазери!
+
+
+#----------------------------------------------------
+# Brok
+### Nope... I'd need an object I could use as a handle with that hole.
+PC12B_PANEL_OTHERS-1=Ні... Для цього отвору потрібен якийсь предмет, який можна використати як ручку.
+
+
+#----------------------------------------------------
+# Brok - Mainframe computer
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### This must be the computer Shay talked about!
+PC12B_MAINFRAME1-1=Мабуть, це той самий комп'ютер, про який казала Шей!
+
+
+# Brok
+### Let's see...
+PC12B_MAINFRAME1-2=Що ж, подивимося...
+
+
+#----------------------------------------------------
+# Brok
+### There, I've touched that panel... And...
+PC12B_TOUCHPANEL1-1=Ось, я торкнувся цієї панелі... І...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Now what? That's all Shay told me to do!
+PC12B_TOUCHPANEL1-2=І що тепер? Це все, що казала мені Шей!
+
+
+# Brok
+### I should have known it wouldn't be that easy...
+PC12B_TOUCHPANEL1-3=Треба було здогадатися, що все не буде так просто...
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Nothin'.
+PC12B_BUTTON1-1=Гмм... Нічого.
+
+
+#----------------------------------------------------
+# Brok
+### Nope.
+PC12B_BUTTON2-1=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### Gulp!
+PC12B_BUTTON_ALERT1-1=(Ковтає слину)
+
+
+#----------------------------------------------------
+# Brok
+### Oh gosh! Not again!
+PC12B_BUTTON_ALERT2-1=О ні! Тільки не знову!
+
+
+#----------------------------------------------------
+# Brok
+### I should really start paying attention to where I put my paws...
+PC12B_BUTTON_ALERT3-1=Мені справді слід стежити за тим, куди я ставлю лапи...
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### It worked?! Do I have a Drumer license now?
+PC12B_BUTTON_GOOD-1=Це спрацювало?! Тепер у мене є ліцензія мешканця Верхів?
+
+
+# Brok
+### Awesome! I can finally leave this stressful place...
+PC12B_BUTTON_GOOD-2=Чудово! Я нарешті можу залишити це жахливе місце...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12B_BUTTON_GOOD2-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Maybe I should do the same for Graff.
+PC12B_BUTTON_GOOD2-2=Може, мені слід зробити те саме для Граффа.
+
+
+# Brok
+### ...
+PC12B_BUTTON_GOOD2-3=...
+
+
+# Brok
+### ...nah.
+PC12B_BUTTON_GOOD2-4=...ні.
+
+
+# Brok
+### He'll get his diploma, and he'd blame me forever if he knew I cheated.
+PC12B_BUTTON_GOOD2-5=Він сам отримає свій диплом, і потім вічно звинувачуватиме мене, якщо дізнається, що я схитрував.
+
+
+# Brok
+### I trust him!
+PC12B_BUTTON_GOOD2-6=Я довіряю йому!
+
+
+#----------------------------------------------------
+# Brok
+### I can't leave yet!
+PC12B_EXIT1-1=Я ще не можу піти!
+
+
+#----------------------------------------------------
+# Brok - No more robots to fight
+### Huh...? They're not comin'...?
+PC12B_NOMORE-1=Га...? Вони більше не йдуть...?
+
+
+# Brok
+### Out of stock?
+PC12B_NOMORE-2=Закінчилися, чи що?
+
+
+#----------------------------------------------------
+# Brok - A number on the door where Tribots arrive from
+### I'd... rather not know what's in there...
+PC12B_NUMBER1-1=Я б... краще не хотів знати, що там всередині...
+
+
+#----------------------------------------------------
+

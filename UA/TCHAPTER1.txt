@@ -1,0 +1,217 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Shay (Unknown)
+#     Brok - Sin (Unknown)
+#     Brok - Unknown (Unknown)
+#     Shay - Brok (Unknown)
+#     Sin - Brok (Unknown)
+#     Sin - Unknown (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Sin (Unknown)
+
+#-------------------------------------
+#=CHAPTER 1 ROOMS
+#-------------------------------------
+
+
+# Sin
+### Yeah? Why aren't you here yet?
+CH1_CALL_SIN1-1=Алло? Чому ви досі не прийшли?
+
+
+# Brok
+### I'm comin'! Don't worry!
+CH1_CALL_SIN1-2=Ось-ось буду! Не хвилюйтесь!
+
+
+# Brok
+### But, err... Where do you live?
+CH1_CALL_SIN1-3=Але, е-е... Де ви живете?
+
+
+# Sin
+### Are you kidding me?! I told you! I sent a message with the address!
+CH1_CALL_SIN1-4=Це ви зараз жартуєте?! Я ж сказав! Я надіслав вам листа з адресою!
+
+
+# Brok
+### Oh... Right! Sorry...
+CH1_CALL_SIN1-5=Ох... Так! Перепрошую...
+
+
+# Brok
+### Better hurry. I don't get many clients... and I really need that dough.
+CH1_CALL_SIN1-6=Варто поквапитись. У мене небагато клієнтів... Та і мені дуже потрібні ці гроші.
+
+
+#----------------------------------------------------
+# Brok
+### No need. I got his address. Let's go!
+CH1_CALL_SIN2-1=Не треба. Я вже знаю його адресу. Ходімо!
+
+
+#----------------------------------------------------
+# Brok
+### No... I don't need him to investigate.
+CH1_CALL_SIN3-1=Ні... Мені не потрібна його допомога в розслідуванні.
+
+
+# Brok
+### I'll just report to him after I find that darn gun.
+CH1_CALL_SIN3-2=Відзвітую йому вже після того, як знайду цей клятий пістолет.
+
+
+#----------------------------------------------------
+# Brok
+### Erm...
+CH1_CALL_SINROOM-1=Е-е...
+
+
+#----------------------------------------------------
+# Sin
+### I'm getting sick of waiting! Where are you?!
+CH1_CALL_SIN_PANEL-1=Мене вже нудить від цього чекання! Ви де взагалі?!
+
+
+# Brok
+### Right in front of your building, actually...
+CH1_CALL_SIN_PANEL-2=Власне, я вже стою перед вашою будівлею...
+
+
+# Brok
+### I... just have a small problem. The metal gate is closed. How do I get in?
+CH1_CALL_SIN_PANEL-3=В мене просто... невеличка проблема. Металева брама зачинена. Як мені дістатися всередину?
+
+
+# Sin
+### Enter the code on the panel! I sent it to you in a message!
+CH1_CALL_SIN_PANEL-4=Введіть код на панелі! Я надсилав його вам у повідомленні!
+
+
+# Unknown
+### [...]
+CH1_CALL_SIN_PANEL-5=[...]
+
+
+# Brok
+### Yeah but...
+CH1_CALL_SIN_PANEL-6=Так, але...
+
+
+# Brok
+### Too late. He hung up.
+CH1_CALL_SIN_PANEL-7=Запізно. Він кинув слухавку.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+CH1_CALL_SHAY1-1=...
+
+
+# Brok
+### She's not replying. What's she doin'?
+CH1_CALL_SHAY1-2=Не відповідає. Чим вона зайнята?
+
+
+# Brok
+### I better check it out.
+CH1_CALL_SHAY1-3=Краще перевірити.
+
+
+#----------------------------------------------------
+# Brok
+### Hi! I was wondering if...
+CH1_CALL_SHAY2-1=Привіт! Я от подумав, може...
+
+
+# Shay
+### Sorry, can't talk right now.
+CH1_CALL_SHAY2-2=Вибач, я не можу зараз говорити.
+
+
+# Shay
+### If it's super important, come to the garage!
+CH1_CALL_SHAY2-3=Якщо це щось дуже важливе, приходь до мене в гараж!
+
+
+# Brok
+### Yeah but...
+CH1_CALL_SHAY2-4=Так, але...
+
+
+# Brok
+### Ugh! She hung up.
+CH1_CALL_SHAY2-5=Тьху! Вона кинула слухавку.
+
+
+#----------------------------------------------------
+# Brok
+### Hey!
+CH1_CALL_SHAY_PYRAMID-1=Гей!
+
+
+# Brok
+### I'm in front of the mainframe and...
+CH1_CALL_SHAY_PYRAMID-2=Я от зараз стою навпроти центрального комп'ютера і...
+
+
+# Brok
+### Erm... What am I supposed to do, exactly...?
+CH1_CALL_SHAY_PYRAMID-3=Гм... Що тут, власне, потрібно робити...?
+
+
+# Shay
+### Touch the panel.
+CH1_CALL_SHAY_PYRAMID-4=Торкнися панелі.
+
+
+# Brok
+### Yeah but... What next?
+CH1_CALL_SHAY_PYRAMID-5=Так, але... Що далі?
+
+
+# Shay
+### I have no idea. It was supposed to work.
+CH1_CALL_SHAY_PYRAMID-6=Гадки не маю. Воно мало спрацювати.
+
+
+# Brok
+### Oh, great...
+CH1_CALL_SHAY_PYRAMID-7=О, чудово...
+
+
+# Brok
+### There's a screen, a bunch of debris, and a touch panel shaped like a triangle.
+CH1_CALL_SHAY_PYRAMID-8=Тут є екран, купа уламків і сенсорна панель у формі трикутника.
+
+
+# Shay
+### A triangle? Really?
+CH1_CALL_SHAY_PYRAMID-9=Трикутника? Серйозно?
+
+
+# Shay
+### They love triangles. That must be important.
+CH1_CALL_SHAY_PYRAMID-10=Вони люблять трикутники. Тож, мабуть, це щось важливе.
+
+
+# Brok
+### Erm... Okay...
+CH1_CALL_SHAY_PYRAMID-11=Е-е... Гаразд...
+
+
+#----------------------------------------------------
+# Brok
+### I'll call him right before the Science Fair.
+CH1_CALL_GRAFF_BEFOREFAIR-1=Я подзвоню йому перед початком Наукового Ярмарку.
+
+
+# Brok
+### But first, I have work to do!
+CH1_CALL_GRAFF_BEFOREFAIR-2=Але спершу треба розібратися з усіма справами!
+
+
+#----------------------------------------------------
+

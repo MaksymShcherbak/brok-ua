@@ -1,0 +1,71 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Hedgehog (Unknown)
+#     Brok - Unknown (Unknown)
+#     Hedgehog - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+
+#-------------------------------
+#= Virtual arena for DLC challenges
+#-------------------------------
+# Unknown
+### (Fight noises)
+BM03_STORY200-1=(Звуки бійки)
+
+
+# Brok
+### ...?
+BM03_STORY200-2=...?
+
+
+# Unknown
+### (Lasers)
+BM03_STORY200-3=(Лазери)
+
+
+# Unknown
+### (Screams)
+BM03_STORY200-4=(Крики)
+
+
+# Brok
+### What the...?
+BM03_STORY200-5=Що за...?
+
+
+# Brok
+### Those sounds...they're not coming from my headset!
+BM03_STORY200-6=Ці звуки... вони лунають не з моїх навушників!
+
+
+#----------------------------------------------------
+# Hedgehog - During the last challenge, before the end
+### (Hello?)
+BM03_STORY330-1=(Агов?)
+
+
+# Brok
+### Huh?
+BM03_STORY330-2=Га?
+
+
+# Hedgehog
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Mister Brok? Sir?)
+BM03_STORY330-3=(Пане Броку? Пане?)
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles?
+BM03_STORY330-4=Пазлс?
+
+
+# Hedgehog
+### (We need to interrupt the simulation immediately. You'll...see why)
+BM03_STORY330-5=(Нам потрібно негайно перервати симуляцію. Ви... зрозумієте, чому)
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,1307 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Hush (Unknown)
+#     Brok - Mink (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Various (Unknown)
+#     Hush - Brok (Unknown)
+#     Hush - Mink (Unknown)
+#     Mink - Brok (Unknown)
+#     Mink - Hush (Unknown)
+#     Mink - Ott (Unknown)
+#     Mink - Various (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Mink (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Mink (Unknown)
+
+#-------------------------------
+#=LAB RESTROOM
+#-------------------------------
+
+#----- Interactions --------
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### Meety-me
+PC_MEETYME=Голограф
+
+### Wrapping
+PC_WRAPPING=Обгортка
+
+### Grinder
+PC_GRINDER=Подрібнювач
+
+### Map
+PC_MAP=Мапа
+
+### First aid kit
+PC_FIRSTAIDKIT=Аптечка першої допомоги
+
+### Fridge left
+PC_FRIDGELEFT=Ліва частина холодильника
+
+### Fridge right
+PC_FRIDGERIGHT=Права частина холодильника
+
+### Food
+PC_FOOD=Їжа
+
+### Wardrobe
+PC_WARDROBE=Шафа
+
+### Coffee machine
+PC_COFFEEMACHINE=Кавоварка
+
+### Bag
+PC_BAG=Сумка
+
+### Shower?
+PC_SHOWER=Душ?
+
+#The combination of "Shower" and "Toilet"!
+# NB: Lexicon word in Ukrainian for "Showlet": "Душлет"
+### Showlet
+PC_SHOWLET=Душлет
+
+### Little round things
+PC_ROUNDTHINGS=Маленькі круглі штуки
+
+### Pills
+PC_PILLS=Пігулки
+
+
+#----- Choices / Items --------
+### A map of the building!
+GOT_MAPBUILDING=Мапа будівлі!
+
+### A pill!
+GOT_PILLHUSH=Пігулка!
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Room interactions
+### A map of the building?
+PC15E_MAP1-1=Мапа будівлі?
+
+
+# Brok
+### I'll take it.
+PC15E_MAP1-2=Я її візьму.
+
+
+#----------------------------------------------------
+# Brok
+### It's hard to believe high-tech facilities still use hard-paper maps.
+PC15E_MAP2-1=Важко повірити, що такі високотехнологічні установи досі використовують паперові мапи.
+
+
+# Brok
+### Makes sense in the eventuality of a power breakdown though.
+PC15E_MAP2-2=Втім, це має сенс на випадок знеструмлення.
+
+
+#----------------------------------------------------
+# Brok
+### I remember this!
+PC15E_MEETYME1-1=Я пам'ятаю це!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### A holographic display to watch livies.
+PC15E_MEETYME1-2=Дисплей для перегляду голографічних роликів.
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### To watch a livie, say or think "Meety" followed by the title.
+PC15E_MEETYME2-1=Щоб переглянути голографічний ролик, скажіть або подумайте "Голограф" разом із назвою вашого ролика.
+
+
+# Brok
+### Hmm...
+PC15E_MEETYME2-2=Гмм...
+
+
+# Mink
+### You're not seriously considering it, are you?!
+PC15E_MEETYME2-3=Ви ж не серйозно збираєтеся це робити?!
+
+
+# Various
+### I sense someone disagrees with your choice.
+PC15E_MEETYME2-4=Я відчуваю, що хтось не згоден із вашим вибором.
+
+
+# Various
+### Would you still like to start watching "Hilarious Fairy Tales"?
+PC15E_MEETYME2-5=Все одно бажаєте почати перегляд серіалу "Кумедні Казки"?
+
+
+# Brok
+### Erm... No, thanks...
+PC15E_MEETYME2-6=Е-е... Ні, дякую...
+
+
+# Mink
+### Thoughts detection still doesn't work very well.
+PC15E_MEETYME2-7=Зчитування думок досі працює не дуже добре.
+
+
+# Brok
+### Yeah... Must be that...
+PC15E_MEETYME2-8=Угу... Певно, так і є...
+
+
+#----------------------------------------------------
+# Various
+### Other actions are available. Say or think "Help" to get a list.
+PC15E_MEETYME3-1=Доступні інші дії. Скажіть або подумайте "Допомога", щоб отримати список.
+
+
+# Mink
+### This is a waste of time. Shouldn't you be looking for clues?
+PC15E_MEETYME3-2=Це марнування часу. Хіба вам не слід шукати зачіпки?
+
+
+# Brok
+### I'm working on it!
+PC15E_MEETYME3-3=Я працюю над цим!
+
+
+#----------------------------------------------------
+# Various
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### Do you wish to watch a livie?
+PC15E_MEETYME_AFTER1-1=Бажаєте переглянути голографічний ролик?
+
+
+# Brok
+### Not now.
+PC15E_MEETYME_AFTER1-2=Не зараз.
+
+
+# Various
+### You're lying but that's fine.
+PC15E_MEETYME_AFTER1-3=Ви брешете, але нічого страшного.
+
+
+# Various
+### Other actions are available. Say or think "Help" to get a list.
+PC15E_MEETYME_AFTER1-4=Доступні інші дії. Скажіть або подумайте "Допомога", щоб отримати список.
+
+
+# Brok
+### Hmm... "Help".
+PC15E_MEETYME_AFTER1-5=Гмм... "Допомога".
+
+
+# Various
+### ...
+PC15E_MEETYME_AFTER1-6=...
+
+
+# Various
+### Error. Unable to connect.
+PC15E_MEETYME_AFTER1-7=Помилка. Не вдається підключитися.
+
+
+# Various
+### Reverting to offline mode.
+PC15E_MEETYME_AFTER1-8=Перехід в автономний режим.
+
+
+# Various
+### One record found! Would you like to play it?
+PC15E_MEETYME_AFTER1-9=Знайдено один запис! Бажаєте відтворити його?
+
+
+# Brok
+### A record?...
+PC15E_MEETYME_AFTER1-10=Запис...?
+
+
+# Brok
+### Why not!
+PC15E_MEETYME_AFTER1-11=Чом би й ні!
+
+
+# Hush
+### "I'm in the restroom"
+PC15E_MEETYME_AFTER1-12="Я у вбиральні"
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### That's Dr. Hush's voice!
+PC15E_MEETYME_AFTER1-13=Це голос доктора Гаша!
+
+
+# Mink
+### He must have recorded this by accident. That happens sometimes.
+PC15E_MEETYME_AFTER1-14=Він, мабуть, записав це випадково. Таке іноді трапляється.
+
+
+# Brok
+### An accident...
+PC15E_MEETYME_AFTER1-15=Випадково...
+
+
+#----------------------------------------------------
+# Brok
+### Replay the last record!
+PC15E_MEETYME_AFTER2-1=Відтворити останній запис!
+
+
+# Hush
+### "I'm in the restroom"
+PC15E_MEETYME_AFTER2-2="Я у вбиральні"
+
+
+# Brok
+### Hmm...
+PC15E_MEETYME_AFTER2-3=Гмм...
+
+
+# Mink
+### Why are you wasting time on this?
+PC15E_MEETYME_AFTER2-4=Чому ви марнуєте на це час?
+
+
+# Brok
+### I'm not sure yet...
+PC15E_MEETYME_AFTER2-5=Я ще не впевнений...
+
+
+#----------------------------------------------------
+# Brok
+### A trash grinder!
+PC15E_TRAP1-1=Подрібнювач сміття!
+
+
+# Brok
+### I wonder why the blades are so close to the surface.
+PC15E_TRAP1-2=Цікаво, чому леза так близько до поверхні.
+
+
+#----------------------------------------------------
+# Brok
+### I wonder if anything passed through here...
+PC15E_TRAP2-1=Цікаво, чи кидали сюди щось...
+
+
+# Mink
+### If there was, too late to find anything.
+PC15E_TRAP2-2=Якщо й кидали, то вже пізно щось шукати.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Trash gets compacted and sent directly to the Slums dumps.
+PC15E_TRAP2-3=Сміття утрамбовується і вирушає прямісінько на смітники Нетрів.
+
+
+# Brok
+### A necessary evil. We're stronger due to this...
+PC15E_TRAP2-4=Необхідне зло. Завдяки цьому ми стаємо сильнішими...
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Don't tell me you're a Slumer?...
+PC15E_TRAP2-5=Тільки не кажіть, що ви мешканець Нетрів...?
+
+
+# Brok
+### O-of course not!...
+PC15E_TRAP2-6=З-звісно ж, ні...!
+
+
+#----------------------------------------------------
+# Brok
+### That paper didn't get totally destroyed...
+PC15E_WRAPPING1-1=Цей папір знищився не повністю...
+
+
+# Brok
+### Hey! I recognize it!
+PC15E_WRAPPING1-2=Гей! Я його впізнаю!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### That's the wrapping for Mc Flea's flagship Antburger!
+PC15E_WRAPPING1-3=Це обгортка фірмового мурахобургера від МакБліх!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+### "With extra Tomatoze sauce!" My favorites!
+PC15E_WRAPPING1-4="З додатковим соусом томатози!" Моє улюблене!
+
+
+#----------------------------------------------------
+# Brok
+### What do we have inside?...
+PC15E_FIRSTAIDKIT1-1=Що ж там усередині...?
+
+
+# Brok
+### ...!
+PC15E_FIRSTAIDKIT1-2=...!
+
+
+# Brok
+### A button? That's all?!
+PC15E_FIRSTAIDKIT1-3=Кнопка? І це все?!
+
+
+# Mink
+### Of course. What did you expect?
+PC15E_FIRSTAIDKIT1-4=Звісно. А чого ви очікували?
+
+
+# Mink
+### Usually our health chip will detect any problem and send whatever we need immediately.
+PC15E_FIRSTAIDKIT1-5=Зазвичай наш чип здоров'я виявляє будь-яку проблему і негайно надсилає все необхідне.
+
+
+# Mink
+### This button is only for use in extreme situations, which are technically unthinkable.
+PC15E_FIRSTAIDKIT1-6=Ця кнопка призначена лише для екстремальних ситуацій, які є технічно немислимими.
+
+
+# Mink
+### Like a power outage, a meteorite falling down or even...
+PC15E_FIRSTAIDKIT1-7=Наприклад, відключення електроенергії, падіння метеорита чи навіть...
+
+
+# Mink
+### ...
+PC15E_FIRSTAIDKIT1-8=...
+
+
+# Brok
+### A fire?...
+PC15E_FIRSTAIDKIT1-9=Пожежа...?
+
+
+# Mink
+### Yes! Even less probable.
+PC15E_FIRSTAIDKIT1-10=Так! Це ще менш імовірно.
+
+
+# Mink
+### Press this and you'll get a package delivered to the closest pipe to provide health cure basics.
+PC15E_FIRSTAIDKIT1-11=Натисніть її, і пакунок із базовими ліками доставлять до найближчої труби.
+
+
+# Brok
+### If such a situation happened...
+PC15E_FIRSTAIDKIT1-12=Якби така ситуація сталася...
+
+
+# Brok
+### Would you even know how to use that "minimal package"?
+PC15E_FIRSTAIDKIT1-13=Ви б взагалі знали, як користуватися цим "мінімальним пакунком"?
+
+
+# Mink
+### Hmm...
+PC15E_FIRSTAIDKIT1-14=Гмм...
+
+
+# Mink
+### Probably not but who cares?
+PC15E_FIRSTAIDKIT1-15=Мабуть, ні, але кому яке діло?
+
+
+# Mink
+### It's not like it's going to happen anyway!
+PC15E_FIRSTAIDKIT1-16=Все одно цього не станеться!
+
+
+# Brok
+### Yeah...
+PC15E_FIRSTAIDKIT1-17=Угу...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC15E_FIRSTAIDKIT_BUTTON-1=...
+
+
+# Brok
+### Nothin'?
+PC15E_FIRSTAIDKIT_BUTTON-2=Нічого?
+
+
+# Ott
+### Try pressing harder!
+PC15E_FIRSTAIDKIT_BUTTON-3=Спробуйте натиснути сильніше!
+
+
+# Ott
+### Remember, this is for emergencies!
+PC15E_FIRSTAIDKIT_BUTTON-4=Пам'ятайте, це для надзвичайних ситуацій!
+
+
+# Brok
+### Hmm...
+PC15E_FIRSTAIDKIT_BUTTON-5=Гмм...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC15E_FIRSTAIDKIT_HIT1-1=...
+
+
+# Brok
+### I heard a sound!
+PC15E_FIRSTAIDKIT_HIT1-2=Я чув звук!
+
+
+# Mink
+### Are you sure? All I could hear was a bump caused by your fist.
+PC15E_FIRSTAIDKIT_HIT1-3=Ви впевнені? Все, що я чув - це удар вашого кулака.
+
+
+# Brok
+### Only one way to find out!
+PC15E_FIRSTAIDKIT_HIT1-4=Є лише один спосіб дізнатися!
+
+
+# Brok
+### So, where's the package?...
+PC15E_FIRSTAIDKIT_HIT1-5=Отже, де пакунок...?
+
+
+#----------------------------------------------------
+# Brok
+### I'm thirsty!
+PC15E_FIRSTAIDKIT_HIT2-1=Я хочу пити!
+
+
+# Mink
+### This isn't exactly a vending machine, you know.
+PC15E_FIRSTAIDKIT_HIT2-2=Знаєте, це не зовсім торговельний автомат.
+
+
+# Brok
+### Who cares? As long as I get what I want.
+PC15E_FIRSTAIDKIT_HIT2-3=Кого це хвилює? Головне - отримати те, що я хочу.
+
+
+#----------------------------------------------------
+# Brok
+### Oops!
+PC15E_FIRSTAIDKIT_DEATH-1=Ой!
+
+
+#----------------------------------------------------
+# Brok
+### One for the glory!
+PC15E_FRIDGEPAMPALOS1-1=Заради слави!
+
+
+#----------------------------------------------------
+# Mink
+### Hey! You can't steal that!
+PC15E_FRIDGEPAMPALOS1B-1=Гей! Ви не можете це вкрасти!
+
+
+# Brok
+### Not stealing! I'm... gathering clues!
+PC15E_FRIDGEPAMPALOS1B-2=Я не краду! Я... збираю зачіпки!
+
+
+# Mink
+### ...
+PC15E_FRIDGEPAMPALOS1B-3=...
+
+
+#----------------------------------------------------
+# Brok
+### A box of ants... alive.
+PC15E_FRIDGELEFTFOOD1-1=Коробка мурах... живих.
+
+
+# Mink
+### My favorites! Very fresh and crunchy.
+PC15E_FRIDGELEFTFOOD1-2=Мої улюблені! Дуже свіжі та хрусткі.
+
+
+# Brok
+### I thought you'd use them for experiments?
+PC15E_FRIDGELEFTFOOD1-3=Я думав, ви використовуєте їх для експериментів?
+
+
+# Mink
+### We do! But nothing wrong with taking a snack sometimes.
+PC15E_FRIDGELEFTFOOD1-4=Використовуємо! Але немає нічого поганого в тому, щоб іноді перекусити.
+
+
+# Brok
+### I'm starting to like you!
+PC15E_FRIDGELEFTFOOD1-5=Ви починаєте мені подобатися!
+
+
+#----------------------------------------------------
+# Brok
+### Food. Nothing particularly...
+PC15E_FRIDGE_AFTER1-1=Їжа. Нічого особливого...
+
+
+# Mink
+### Wait a minute...
+PC15E_FRIDGE_AFTER1-2=Хвилинку...
+
+
+# Brok
+### What's wrong?
+PC15E_FRIDGE_AFTER1-3=Щось не так?
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### There should be Antburgers in there!
+PC15E_FRIDGE_AFTER1-4=Там мали бути мурахобургери!
+
+
+# Mink
+### I ate the last one a while ago. It should have ordered more automatically.
+PC15E_FRIDGE_AFTER1-5=Я нещодавно з'їв останній. Система мала автоматично замовити ще.
+
+
+# Mink
+### Oh, I forgot... External communication is out.
+PC15E_FRIDGE_AFTER1-6=Ой, я забув... Зовнішній зв'язок не працює.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### You ate an Antburger?
+PC15E_FRIDGE_AFTER1-7=Ви з'їли мурахобургер?
+
+
+# Brok
+### Tell me more about it.
+PC15E_FRIDGE_AFTER1-8=Розкажіть про це детальніше.
+
+
+# Mink
+### How is that interesting?
+PC15E_FRIDGE_AFTER1-9=Чим це цікаво?
+
+
+# Brok
+### You never know.
+PC15E_FRIDGE_AFTER1-10=Хто знає.
+
+
+# Mink
+### Well... I have some kind of ritual.
+PC15E_FRIDGE_AFTER1-11=Ну... у мене є певний ритуал.
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+### I always have an Antburger while watching my science show!
+PC15E_FRIDGE_AFTER1-12=Я завжди їм мурахобургер, коли дивлюся своє наукове шоу!
+
+
+# Mink
+### This morning I got pretty angry though.
+PC15E_FRIDGE_AFTER1-13=Проте сьогодні вранці я дуже розізлився.
+
+
+# Mink
+### There was only one left and it was already unfrozen.
+PC15E_FRIDGE_AFTER1-14=Залишився лише один бургер, і він уже розморозився.
+
+
+# Brok
+### Curious...
+PC15E_FRIDGE_AFTER1-15=Цікаво...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Do you think Dr. Hush wanted to eat it?
+PC15E_FRIDGE_AFTER1-16=Думаєте, доктор Гаш хотів його з'їсти?
+
+
+# Mink
+### Possibly, though he usually dislikes these. And it was in one piece.
+PC15E_FRIDGE_AFTER1-17=Можливо, хоча він зазвичай не любить таке. Та й бургер був цілим.
+
+
+# Mink
+### I bet he gave it a shot and then decided against it!
+PC15E_FRIDGE_AFTER1-18=Б'юся об заклад, він спробував, а потім передумав!
+
+
+# Brok
+### Yeah.
+PC15E_FRIDGE_AFTER1-19=Угу.
+
+
+#----------------------------------------------------
+# Brok
+### A wardrobe on this side of the fridge.
+PC15E_WARDROBE1-1=Шафа з цього боку холодильника.
+
+
+# Brok
+### Nothing unusual but... boy! Those clothes are one heck of a pack!
+PC15E_WARDROBE1-2=Нічого особливого, але... отакої! Одяг набитий просто вщент!
+
+
+# Brok
+### You couldn't even fit a paper between them!
+PC15E_WARDROBE1-3=Аркуша паперу між ними не впихнеш!
+
+
+#----------------------------------------------------
+# Brok
+### I should inspect this further.
+PC15E_WARDROBE_AFTER1-1=Треба оглянути ретельніше.
+
+
+# Brok
+### Only one way to do it.
+PC15E_WARDROBE_AFTER1-2=Є тільки один спосіб це зробити.
+
+
+#----------------------------------------------------
+# Mink
+### Couldn't you do this more... gently?
+PC15E_WARDROBE_AFTER1B-1=Ви не могли б зробити це... делікатніше?
+
+
+# Brok
+### I don't have all day, ya know.
+PC15E_WARDROBE_AFTER1B-2=Розумієте, я не можу тут цілий день порпатися.
+
+
+#----------------------------------------------------
+# Brok
+### Plenty of room now!
+PC15E_WARDROBE_AFTER2-1=Тепер тут повно місця!
+
+
+#----------------------------------------------------
+# Brok
+### Looks like...
+PC15E_PILLS1-1=Схоже на...
+
+
+# Brok
+### Pills?
+PC15E_PILLS1-2=Пігулки?
+
+
+#----------------------------------------------------
+# Brok
+### ...Yup. Definitely pills.
+PC15E_PILLS1B-1=...Ага. Певно, пігулки.
+
+
+# Brok
+### Whose are they?
+PC15E_PILLS1B-2=Чиї вони?
+
+
+# Mink
+### Don't look at me! I've never seen those.
+PC15E_PILLS1B-3=Не дивіться на мене! Я їх ніколи не бачив.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### Is Dr. Hush taking some medication?
+PC15E_PILLS1B-4=Доктор Гаш приймає якісь ліки?
+
+
+# Mink
+### That's highly probable. No one else lives here.
+PC15E_PILLS1B-5=Це дуже ймовірно. Тут більше ніхто не живе.
+
+
+# Mink
+### Keep in mind, I've barely had contact with him lately.
+PC15E_PILLS1B-6=Майте на увазі, останнім часом я майже з ним не контактував.
+
+
+# Mink
+### Maybe you should analyze them.
+PC15E_PILLS1B-7=Можливо, вам варто їх проаналізувати.
+
+
+# Brok
+### Good idea.
+PC15E_PILLS1B-8=Гарна ідея.
+
+
+#----------------------------------------------------
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### They must belong to Dr. Hush.
+PC15E_PILLS2-1=Вони мають належати докторові Гашу.
+
+
+#----------------------------------------------------
+# Brok
+### What restroom doesn't have its coffee machine?
+PC15E_COFFEEMACHINE1-1=Жодна вбиральня не обійдеться без власної кавомашини.
+
+
+# Brok
+### Knowing them, I bet this produces other drinks too.
+PC15E_COFFEEMACHINE1-2=Знаючи цих вчених, б'юся б об заклад, що вона готує й інші напої.
+
+
+# Mink
+### No. Just coffee.
+PC15E_COFFEEMACHINE1-3=Ні. Тільки каву.
+
+
+# Brok
+### Really?!...
+PC15E_COFFEEMACHINE1-4=Серйозно...?!
+
+
+# Mink
+### We don't need anything else.
+PC15E_COFFEEMACHINE1-5=Нам більше нічого не потрібно.
+
+
+# Mink
+### Designing it for other uses would be a waste of resources.
+PC15E_COFFEEMACHINE1-6=Створювати її для інших потреб було б марною тратою ресурсів.
+
+
+# Brok
+### Good point.
+PC15E_COFFEEMACHINE1-7=Справедливо.
+
+
+#----------------------------------------------------
+# Brok
+### How come you don't have a machine in your own rooms?
+PC15E_COFFEEMACHINE2-1=Чому у вас немає кавомашини у власних кімнатах?
+
+
+# Mink
+### It's obvious. We're always working inside.
+PC15E_COFFEEMACHINE2-2=Це очевидно. Ми завжди працюємо всередині.
+
+
+# Mink
+### Our health chip requires us to do a minimal amount of steps in a day.
+PC15E_COFFEEMACHINE2-3=Наш чип здоров'я вимагає робити мінімальну кількість кроків на день.
+
+
+# Mink
+### Three round-trips a day between our office and the restroom is enough to cover these minimal needs.
+PC15E_COFFEEMACHINE2-4=Трьох походів туди й назад на день між кабінетом та вбиральнею достатньо, щоб покрити ці мінімальні потреби.
+
+
+# Brok
+### ...Along with some drugs, I guess.
+PC15E_COFFEEMACHINE2-5=...Разом із якимись препаратами, мабуть.
+
+
+#----------------------------------------------------
+# Brok
+### Hey...
+PC15E_COFFEEMACHINE_MAGNIFY-1=Гей...
+
+
+# Brok - A few nanites
+### There... seems to be a few on that machine...
+PC15E_COFFEEMACHINE_MAGNIFY-2=Там... здається, є кілька на тій машині...
+
+
+# Brok
+### Maybe I'll find more around here...
+PC15E_COFFEEMACHINE_MAGNIFY-3=Може, десь поряд я зможу знайти ще більше...
+
+
+#----------------------------------------------------
+# Brok
+### (Smells)
+PC15E_SINK1-1=(Нюхає)
+
+
+# Mink
+### What are you doing?
+PC15E_SINK1-2=Що ви робите?
+
+
+# Brok
+### Just checking what could have sunk in there.
+PC15E_SINK1-3=Просто перевіряю, що могло туди потрапити.
+
+
+# Brok
+### Smells like coffee.
+PC15E_SINK1-4=Пахне кавою.
+
+
+# Mink
+### Great...
+PC15E_SINK1-5=Чудово...
+
+
+#----------------------------------------------------
+# Brok
+### No time to wash my hands.
+PC15E_SINK2-1=Немає часу мити руки.
+
+
+# Ott
+### Touching it could ruin any potential evidence!
+PC15E_SINK2-2=Якщо доторкнетеся, це може знищити потенційні зачіпки!
+
+
+# Brok
+### Yeah, that too.
+PC15E_SINK2-3=Угу, це теж.
+
+
+#----------------------------------------------------
+# Brok
+### The heck...
+PC15E_SINK_MAGNIFY-1=Якого біса...
+
+
+# Brok
+### It's full of nanites stuck in that sink!
+PC15E_SINK_MAGNIFY-2=В цьому умивальнику застрягло повно нанітів!
+
+
+# Brok
+### Not only this. There seems to be some kind of flower...?
+PC15E_SINK_MAGNIFY-3=І не тільки це. Здається, тут якась квітка...?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Dr. Mink must have flushed some experiments...
+PC15E_SINK_MAGNIFY-4=Доктор Мінк, мабуть, змив якісь експерименти...
+
+
+# Mink
+### What?... No, I've never done such a thing. I have my own sink.
+PC15E_SINK_MAGNIFY-5=Що...? Ні, я ніколи такого не робив. У мене є свій умивальник.
+
+
+# Brok
+### Then... What are they doing here?
+PC15E_SINK_MAGNIFY-6=Тоді... Що вони тут роблять?
+
+
+# Mink
+### Beats me!
+PC15E_SINK_MAGNIFY-7=Чорт його знає!
+
+
+#----------------------------------------------------
+# Brok
+### Yup, there was coffee in there.
+PC15E_CUP1-1=Ага, тут була кава.
+
+
+# Ott
+### So? What does this mean?
+PC15E_CUP1-2=І що? Що це означає?
+
+
+# Brok
+### That someone drank coffee.
+PC15E_CUP1-3=Що хтось пив каву.
+
+
+# Ott
+### Oh...
+PC15E_CUP1-4=О...
+
+
+# Ott
+### I would have thought...
+PC15E_CUP1-5=Я би подумав...
+
+
+# Ott
+### Someone was in the restroom recently, and you'd ask the staff who drank it.
+PC15E_CUP1-6=Хтось нещодавно був у вбиральні, і ви захочете запитати персонал, хто її пив.
+
+
+# Brok
+### Yeah, sounds good.
+PC15E_CUP1-7=Угу, звучить непогано.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### Did you drink that coffee, Mink?
+PC15E_CUP1-8=Це ви пили каву, Мінк?
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+### It's Dr. Mink for you, and yes.
+PC15E_CUP1-9=Для вас - доктор Мінк, і так.
+
+
+# Brok
+### When exactly?
+PC15E_CUP1-10=Коли саме?
+
+
+# Mink
+### Around 4:40. I always get a bit peckish during "TechnoJunky".
+PC15E_CUP1-11=Близько 4:40. Я завжди трохи голоднію під час "ТехноМанії".
+
+
+# Brok
+### Is that some kind of show?
+PC15E_CUP1-12=Це якесь шоу?
+
+
+# Mink
+### Yes. It lasts for 30 minutes approximately so I must have went out of the restroom at around 5:00.
+PC15E_CUP1-13=Так. Воно триває приблизно 30 хвилин, тож я мав вийти зі вбиральні десь о 5:00.
+
+
+#----------------------------------------------------
+# Brok
+### Is coffee automatically prepared?
+PC15E_CUP2-1=Кава готується автоматично?
+
+
+# Mink
+### Oh gosh, no!
+PC15E_CUP2-2=Та ні, ви що!
+
+
+# Mink
+### As high-rank beings, we both crave for more natural processes.
+PC15E_CUP2-3=Як представники найвищого рангу, ми обоє віддаємо перевагу природнішим процесам.
+
+
+# Brok
+### You're full of surprises...
+PC15E_CUP2-4=Ви повні сюрпризів...
+
+
+# Brok
+### Who makes it, then?
+PC15E_CUP2-5=То хто ж її робить?
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Dr. Hush's maintenance bot, Tidy.
+PC15E_CUP2-6=Сервісний бот доктора Гаша, Тайді.
+
+
+# Ott
+### But... That's not a human?
+PC15E_CUP2-7=Але... Це ж не людина?
+
+
+# Mink
+### Who talked about human?
+PC15E_CUP2-8=А хто казав про людину?
+
+
+# Mink
+### I just said we like more natural processes when it comes to feeding ourselves.
+PC15E_CUP2-9=Я просто сказав, що ми любимо природніші процеси, коли йдеться про харчування.
+
+
+# Mink
+### There's nothing natural about a machine making its own coffee!
+PC15E_CUP2-10=Немає нічого природного в тому, що машина сама варить собі каву!
+
+
+# Brok
+### Now that's what I call logic.
+PC15E_CUP2-11=Оце я розумію - логіка.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+### I'm surprised to see only one cup in here. Doesn't Dr. Hush drink coffee?
+PC15E_CUP3-1=Я здивований, що тут лише один кухоль. Хіба доктор Гаш не п'є каву?
+
+
+# Mink
+### He does!
+PC15E_CUP3-2=П'є!
+
+
+# Mink
+### Actually, he always drinks his coffee in the restroom.
+PC15E_CUP3-3=Взагалі-то він завжди п'є каву у вбиральні.
+
+
+# Mink
+### I know him... He couldn't bare spilling a few drops on his precious materials while working in his office!
+PC15E_CUP3-4=Я його знаю... Він би не виніс, якби пролив кілька крапель на свої дорогоцінні матеріали під час роботи в кабінеті!
+
+
+# Mink
+### But he uses auto-degradable cups. Throw them into the sink and they're automatically reduced into powder.
+PC15E_CUP3-5=Але він використовує саморозкладні кухлі. Кидаєте в умивальник - і вони автоматично перетворюються на порошок.
+
+
+# Mink
+### I prefer solid cups. I don't care what they say about lack of hygiene or whatever. Coffee tastes better in it!
+PC15E_CUP3-6=Я віддаю перевагу звичайним кухолям. Мені байдуже, що там кажуть про брак гігієни чи щось таке. У них кава смачніша!
+
+
+# Brok
+### I can relate to that!
+PC15E_CUP3-7=Я вас розумію!
+
+
+#----------------------------------------------------
+# Brok
+### No nanite on that coffee cup?
+PC15E_CUP_MAGNIFY-1=Нічого з нанітів на цьому кухлі кави?
+
+
+# Brok
+### This shouldn't be a surprise, and yet...
+PC15E_CUP_MAGNIFY-2=Це не мало б дивувати, і все ж...
+
+
+#----------------------------------------------------
+# Brok
+### Inside, there's...
+PC15E_DRAWER1-1=Всередині...
+
+
+# Brok
+### ...tons of coffee. Powder, more precisely.
+PC15E_DRAWER1-2=...тони кави. Порошку, якщо точніше.
+
+
+# Mink
+### What did you expect?
+PC15E_DRAWER1-3=А чого ви очікували?
+
+
+# Brok
+### Dunno. A toothbrush, maybe?
+PC15E_DRAWER1-4=Не знаю. Зубну щітку, наприклад?
+
+
+# Mink
+### Toothbrush?...
+PC15E_DRAWER1-5=Зубну щітку...?
+
+
+# Mink
+### Like... A brush to clean our teeth?...
+PC15E_DRAWER1-6=Типу... Щітку для чищення зубів...?
+
+
+# Mink
+### How silly! Why not a feetbrush, then!
+PC15E_DRAWER1-7=Яка дурниця! Чому б тоді не щітку для ніг!
+
+
+# Ott
+### Their water is so full of chemicals that they lost the need for it...
+PC15E_DRAWER1-8=Їхня вода настільки сповнена хімікатів, що вони втратили в цьому потребу...
+
+
+#----------------------------------------------------
+# Brok
+### Coffee. That's all.
+PC15E_DRAWER2-1=Кава. От і все.
+
+
+#----------------------------------------------------
+# Brok
+### This is... Erm...
+PC15E_SHOWLET1-1=Це... Е-е...
+
+
+# Brok
+### A shower?
+PC15E_SHOWLET1-2=Душ?
+
+
+# Mink
+# NB: Lexicon word in Ukrainian for "Showlet": "Душлет"
+### What? No. A showlet.
+PC15E_SHOWLET1-3=Що? Ні. Душлет.
+
+
+# Brok
+### You mean... This combines a shower and a toilet?...
+PC15E_SHOWLET1-4=Тобто... Це поєднує в собі душ і туалет...?
+
+
+# Mink
+### Oh, I get it now! You're from a far away country, right?
+PC15E_SHOWLET1-5=О, я тепер зрозумів! Ви з якоїсь далекої країни, еге ж?
+
+
+# Brok
+### Something like that...
+PC15E_SHOWLET1-6=Щось типу того...
+
+
+# Brok
+### I've been out of touch with technology advances lately...
+PC15E_SHOWLET1-7=Я останнім часом трохи відстав від технологічного прогресу...
+
+
+# Mink
+### Well, it's a huge space and time saver.
+PC15E_SHOWLET1-8=Ну, це величезна економія часу та простору.
+
+
+# Mink
+### Enter the cabin and let it take care of you!
+PC15E_SHOWLET1-9=Заходьте у кабіну і дозвольте їй подбати про вас!
+
+
+# Mink
+### The robotic hand removes your clothes, then feel free to let it go while it washes you!
+PC15E_SHOWLET1-10=Роботизована рука знімає ваш одяг, а потім ви можете розслабитися, поки вона вас миє!
+
+
+# Mink
+### When finished, it gives you new clothes.
+PC15E_SHOWLET1-11=Закінчивши, вона видає вам новий одяг.
+
+
+# Brok
+### Seems... convenient.
+PC15E_SHOWLET1-12=Здається... доволі зручно.
+
+
+#----------------------------------------------------
+# Brok
+### So... you take a shower each time you go pee?
+PC15E_SHOWLET2-1=Тобто... ви приймаєте душ щоразу, як ходите в туалет?
+
+
+# Mink
+### Of course!
+PC15E_SHOWLET2-2=Звісно!
+
+
+# Brok
+### Isn't that a waste?
+PC15E_SHOWLET2-3=Хіба це не марнотратство?
+
+
+# Brok
+### We don't really need to wash and change clothes that often.
+PC15E_SHOWLET2-4=Нам насправді не потрібно митися і перевдягатися так часто.
+
+
+# Mink
+### Hmm...
+PC15E_SHOWLET2-5=Гмм...
+
+
+# Mink
+### That's an interesting thought...
+PC15E_SHOWLET2-6=Цікава думка...
+
+
+# Mink
+### I know! Maybe we could improve it by separating both functions!
+PC15E_SHOWLET2-7=О, придумав! Ми можемо вдосконалити його, розділивши обидві функції!
+
+
+# Mink
+### You would then have a toilet on one side, and a shower on the other!
+PC15E_SHOWLET2-8=Тоді з одного боку був би туалет, а з іншого - душ!
+
+
+# Mink
+### That way we could sell it for twice the price!
+PC15E_SHOWLET2-9=Таким чином ми зможемо продавати його вдвічі дорожче!
+
+
+# Brok
+### The cycle of modernity.
+PC15E_SHOWLET2-10=Колесо прогресу.
+
+
+#----------------------------------------------------
+# Brok
+### Clothes...
+PC15E_BAG1-1=Одяг...
+
+
+# Brok
+### Eww! They're smelly!
+PC15E_BAG1-2=Фу! Смердить!
+
+
+# Mink
+### Don't touch that!
+PC15E_BAG1-3=Не чіпайте це!
+
+
+# Mink
+### Our maintenance bot will do the laundry.
+PC15E_BAG1-4=Наш сервісний бот випере білизну.
+
+
+#----------------------------------------------------
+# Mink
+### Pitiful.
+PC15E_TRAPGAMEOVER1-1=Жалюгідно.
+
+
+#----------------------------------------------------
+# Ott
+### Huh?
+PC15E_MEETYME_HIT1-1=Га?
+
+
+#----------------------------------------------------
+# Brok
+### Oops!
+PC15E_MEETYME_DEAD-1=Ой!
+
+
+#----------------------------------------------------
+# Various
+### Hello!
+PC15E_MEETYME_AFTERDESTROY-1=Привіт!
+
+
+# Brok
+### Hey, still works!
+PC15E_MEETYME_AFTERDESTROY-2=Гей, досі працює!
+
+
+#----------------------------------------------------
+

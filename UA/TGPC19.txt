@@ -1,0 +1,626 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Unknown (Unknown)
+#     Unknown - Graff (Unknown)
+
+#-------------------------------
+#=BUNKER INSIDE (GRAFF LEVEL)
+#-------------------------------
+
+#----- Interactions --------
+### Wall
+PC_WALL=Стіна
+
+### Floor
+PC_FLOOR=Підлога
+
+
+#----- Choices / Items --------
+
+
+#----- Topics --------
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Skip the bunker puzzles?
+PC19_SKIP_BUNKER=Пропустити головоломки в бункері?
+
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Graff - Day 2 - Graff is waking up in a strange room.
+### ...
+GPC19_WAKE1-1=...
+
+
+# Graff
+### Uh...
+GPC19_WAKE1-2=Ох...
+
+
+#----------------------------------------------------
+# Graff
+### Ah... Can't believe... They actually drugged us...!
+GPC19_WAKE2-1=Ах... Не можу повірити... Вони й справді накачали нас чимось...!
+
+
+# Graff
+### ...
+GPC19_WAKE2-2=...
+
+
+#----------------------------------------------------
+# Graff
+### This must be a test room. Am I trapped here?...
+GPC19_WAKE3-1=Це, мабуть, кімната випробувань. Я що, в пастці...?
+
+
+# Graff
+### I should take a look around.
+GPC19_WAKE3-2=Варто озирнутися довкола.
+
+
+#----------------------------------------------------
+# Graff - Exploring the room
+### Must be the way out.
+GPC19_NOWAYOUT-1=Це має бути вихід.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Unless I solve these puzzles or give up, I can't exit.
+GPC19_NOWAYOUT-2=Поки я не розв'яжу ці головоломки або не здамся, я не зможу вийти.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I wonder where Klay is?
+GPC19_NOWAYOUT-3=Цікаво, де Клей?
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... Judging from that symbol...
+GPC19_GIVEUPBUTTON1-1=Гмм... Судячи з цього символу...
+
+
+# Graff
+### And considering it's close to what appears to be an exit...
+GPC19_GIVEUPBUTTON1-2=І зважаючи на те, що це близько до виходу...
+
+
+# Graff
+### This button must be for quitting.
+GPC19_GIVEUPBUTTON1-3=Ця кнопка, мабуть, для того, щоб здатися.
+
+
+#----------------------------------------------------
+# Graff
+### Better think twice! I won't have a second chance to pass this test.
+GPC19_GIVEUP_CONFIRM-1=Краще подумати двічі! Другого шансу скласти цей тест у мене не буде.
+
+
+#----------------------------------------------------
+# Graff
+### I'm starting to feel claustrophobic. Should I give up?
+GPC19_GIVEUPBUTTON2-1=У мене починається клаустрофобія. Може, варто здатися?
+
+
+#----------------------------------------------------
+# Graff
+### No! I can do it!
+GPC19_GIVEUP_NO-1=Ні! Я впораюсь!
+
+
+#----------------------------------------------------
+# Graff
+### Too late for remorse.
+GPC19_GIVEUPBUTTON_DONE-1=Каятися вже запізно.
+
+
+#----------------------------------------------------
+# Graff
+### Locked.
+GPC19_DOOR_LOCKED-1=Зачинено.
+
+
+#----------------------------------------------------
+# Graff
+### I can't go through.
+GPC19_ACCESS1-1=Я не можу пройти.
+
+
+# Graff
+### Maybe it will unlock when I complete all the tasks.
+GPC19_ACCESS1-2=Можливо, воно відчиниться, коли я виконаю всі завдання.
+
+
+#----------------------------------------------------
+# Graff
+### A rusty golden token.
+GPC19_TOKEN1-1=Іржавий золотий жетон.
+
+
+#----------------------------------------------------
+# Graff
+### Some kind of reward?
+GPC19_TOKEN1B-1=Якась нагорода?
+
+
+#----------------------------------------------------
+# Graff
+### Another triangle token.
+GPC19_TOKEN2-1=Ще один трикутний жетон.
+
+
+#----------------------------------------------------
+# Graff
+### Looks precious. It might help to get out of here.
+GPC19_TOKEN2B-1=Виглядає цінним. Він може допомогти мені забратися звідси.
+
+
+#----------------------------------------------------
+# Graff
+### I guess this is the last one?
+GPC19_TOKEN3-1=Здається, це останній?
+
+
+#----------------------------------------------------
+# Graff
+### ...?
+GPC19_SYMBOLS1-1=...?
+
+
+#----------------------------------------------------
+# Graff
+### It's obvious. I'm supposed to place some weights here.
+GPC19_BALANCE1-1=Усе очевидно. Я маю покласти сюди якісь важки.
+
+
+#----------------------------------------------------
+# Graff
+### The number 17 is written at the base.
+GPC19_BALANCE2-1=На основі написано число 17.
+
+
+# Graff
+### Hmm...
+GPC19_BALANCE2-2=Гмм...
+
+
+#----------------------------------------------------
+# Graff - Picking up a weight
+### What's a weight doing here?
+GPC19_WEIGHT1-1=Що тут робить важок?
+
+
+# Graff
+### It's not so heavy. I should take it.
+GPC19_WEIGHT1-2=Він не такий уже й важкий. Варто його взяти.
+
+
+#----------------------------------------------------
+# Graff
+### A weight.
+GPC19_WEIGHT2-1=Важок.
+
+
+#----------------------------------------------------
+# Graff
+### Another one...
+GPC19_WEIGHT3-1=Ще один...
+
+
+#----------------------------------------------------
+# Graff
+### How many of these are there?...
+GPC19_WEIGHT4-1=Скільки їх тут узагалі...?
+
+
+#----------------------------------------------------
+# Graff
+### Got it!
+GPC19_WEIGHT5-1=Є!
+
+
+#----------------------------------------------------
+# Graff
+### A weight... Up there?...
+GPC19_WEIGHTD_TOOHIGH-1=Важок... Он там...?
+
+
+# Graff
+### How do I access it?
+GPC19_WEIGHTD_TOOHIGH-2=Як мені до нього дістатися?
+
+
+#----------------------------------------------------
+# Graff
+### It's a bit high!...
+GPC19_WEIGHTJ1-1=Трохи зависоко...!
+
+
+# Graff
+### Ngghhh...
+GPC19_WEIGHTJ1-2=Г-ггх...
+
+
+# Graff
+### Darn! It's just a bit too high!
+GPC19_WEIGHTJ1-3=Чорт! Трохи зависоко!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC19_WEIGHTJ2-1=...
+
+
+# Graff
+### Argh!... That's a slanted wall, I can't really jump either.
+GPC19_WEIGHTJ2-2=Ар-р...! Це похила стіна, нормально стрибнути теж не вийде.
+
+
+# Graff
+### No chance... If only I was a bit taller!
+GPC19_WEIGHTJ2-3=Жодних шансів... Якби ж я був трохи вищим!
+
+
+#----------------------------------------------------
+# Graff
+### Good idea, I'll try to climb on this.
+GPC19_WEIGHTH_WEIGHT-1=Гарна ідея, спробую залізти на це.
+
+
+# Graff
+### ...
+GPC19_WEIGHTH_WEIGHT-2=...
+
+
+#----------------------------------------------------
+# Graff
+### Yes!
+GPC19_WEIGHTH_WEIGHTB-1=Так!
+
+
+#----------------------------------------------------
+# Graff
+### What's this?...
+GPC19_TRAP1-1=Що це...?
+
+
+#----------------------------------------------------
+# Graff
+### A keylock?
+GPC19_TRAP2-1=Замок?
+
+
+#----------------------------------------------------
+# Graff
+### No way! My key works?
+GPC19_TRAP_KEY-1=Неймовірно! Мій ключ підходить?
+
+
+#----------------------------------------------------
+# Graff
+### I guess those trials are custom made...
+GPC19_TRAP_KEYNEXT1-1=Здається, ці випробування розроблені під кожного особисто...
+
+
+#----------------------------------------------------
+# Graff
+### A crack in the floor?...
+GPC19_WEIGHTC1-1=Тріщина в підлозі...?
+
+
+#----------------------------------------------------
+# Unknown
+### (Hits)
+GPC19_WEIGHTC_OTHERS1-1=(Вдаряє)
+
+
+# Graff
+### I'm barely making a scratch... Digging with this isn't really practical.
+GPC19_WEIGHTC_OTHERS1-2=Я ледь залишаю подряпини... Копати цією штукою не дуже практично.
+
+
+# Graff
+### They must want me to do something else.
+GPC19_WEIGHTC_OTHERS1-3=Вони, мабуть, хочуть, щоб я зробив щось інше.
+
+
+#----------------------------------------------------
+# Unknown
+### (Hits)
+GPC19_WEIGHTC_OTHERS2-1=(Вдаряє)
+
+
+# Graff
+### Nothing doing. I need something... heavier!
+GPC19_WEIGHTC_OTHERS2-2=Нічого не виходить. Мені потрібно щось... важче!
+
+
+# Graff
+### Hmm... What if...?
+GPC19_WEIGHTC_OTHERS2-3=Гмм... А що як...?
+
+
+#----------------------------------------------------
+# Graff
+### Ha! Looks like I needed to use my own weight!
+GPC19_WEIGHTC_FLOORBREAK-1=Ха! Схоже, мені треба було використати власну вагу!
+
+
+# Graff
+### And here's what was below.
+GPC19_WEIGHTC_FLOORBREAK-2=А ось і те, що було знизу.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... I can't see any way to open it.
+GPC19_CRATE1-1=Гмм... Я не бачу жодного способу відкрити його.
+
+
+#----------------------------------------------------
+# Graff
+### Nah. There's an "easier" way!
+GPC19_CRATE_OTHERS-1=Та ні. Є "простіший" спосіб!
+
+
+#----------------------------------------------------
+# Graff
+### Isn't there something... embedded in that wall?
+GPC19_WALLA1-1=Здається, в тій стіні... щось застрягло?
+
+
+#----------------------------------------------------
+# Graff
+### Argh... I can't get it out!
+GPC19_WALLA1B-1=Ар-р... Я не можу це витягнути!
+
+
+#----------------------------------------------------
+# Graff
+### This could be important. I need to find a way!
+GPC19_WALLA2-1=Це може бути важливо. Треба знайти спосіб!
+
+
+#----------------------------------------------------
+# Graff
+### Nope... I tried but removing it with that would take ages.
+GPC19_WALLA_OTHERS-1=Та ні... Я спробував, але витягати це таким чином можна цілу вічність.
+
+
+#----------------------------------------------------
+# Graff
+### Argh, my hands!
+GPC19_WALLA_DEATH1-1=Ар-р, мої руки!
+
+
+# Graff
+### Hey. The weight fell!
+GPC19_WALLA_DEATH1-2=О. Важок упав!
+
+
+# Graff
+### Who would have thought this would actually work?...
+GPC19_WALLA_DEATH1-3=Хто б міг подумати, що це справді спрацює...?
+
+
+#----------------------------------------------------
+# Graff
+### If using your brain doesn't work, use your fists.
+GPC19_WALLA_DEATH1B-1=Якщо мізки не допомагають, використовуй кулаки.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Thanks, Brok.
+GPC19_WALLA_DEATH1B-2=Дякую, Броку.
+
+
+#----------------------------------------------------
+# Graff
+### Darn... Is there any way to win this?...
+GPC19_TICTACLOSE1-1=Чорт... Чи є спосіб тут виграти...?
+
+
+#----------------------------------------------------
+# Graff
+### Playing fair won't work.
+GPC19_TICTACLOSE2-1=Грати чесно не вийде.
+
+
+# Graff
+### Maybe it's time to think outside the box.
+GPC19_TICTACLOSE2-2=Можливо, час мислити нестандартно.
+
+
+#----------------------------------------------------
+# Graff
+### And the morale is... Sometimes cheating is the only way!
+GPC19_TICTACWINCHEAT1-1=І мораль така... Іноді хитрувати - єдиний вихід!
+
+
+#----------------------------------------------------
+# Graff
+### Weird. A bunch of impacts on this wall.
+GPC19_TICTACWALL1-1=Дивно. Купа слідів від ударів на цій стіні.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... there's some idea but how exactly should I use it?
+GPC19_TICTACWALL_OTHERS-1=Гмм... Ідея є, але як саме мені це використати?
+
+
+#----------------------------------------------------
+# Graff
+### A static hologram. Is this significant?
+GPC19_HOLOGRAM1-1=Статична голограма. Це важливо?
+
+
+#----------------------------------------------------
+# Graff
+### No doubt. The exact same shape! Just smaller.
+GPC19_HOLOGRAM_TRIANGLEBUNKER-1=Безсумнівно. Точно така ж форма! Тільки менша.
+
+
+# Graff
+### What could this mean?...
+GPC19_HOLOGRAM_TRIANGLEBUNKER-2=Що б це могло означати...?
+
+
+#----------------------------------------------------
+# Graff
+### Let's put something here.
+GPC19_PLATE_EMPTY1-1=Покладімо щось сюди.
+
+
+#----------------------------------------------------
+# Graff
+### Nothing's happening...
+GPC19_PLATE_FILLED1-1=Нічого не відбувається...
+
+
+#----------------------------------------------------
+# Graff
+### Wrong weights?...
+GPC19_PLATE_FILLED2-1=Неправильні важки...?
+
+
+#----------------------------------------------------
+# Graff
+### Darn. I thought this would work.
+GPC19_PLATE_BALANCED1-1=Чорт. Я думав, це спрацює.
+
+
+# Graff
+### I must have missed something.
+GPC19_PLATE_BALANCED1-2=Я, мабуть, щось пропустив.
+
+
+#----------------------------------------------------
+# Graff
+### Yes!
+GPC19_PLATE_WIN-1=Так!
+
+
+#----------------------------------------------------
+# Graff
+### ...No response.
+GPC19_BUTTONPUSH_NOTHING-1=...Нічого.
+
+
+#----------------------------------------------------
+# Graff
+### I won?
+GPC19_PIPEGAME_WON-1=Я виграв?
+
+
+#----------------------------------------------------
+# Graff
+### ...?
+GPC19_STUCK-1=...?
+
+
+#----------------------------------------------------
+# Graff
+### No way. The ball is stuck!
+GPC19_BALLSTUCK1-1=Та ну. Кулька застрягла!
+
+
+# Graff
+### Is this part of my test? Or am I just as unlucky as my old man?
+GPC19_BALLSTUCK1-2=Це частина мого тесту? Чи мені просто не щастить так само, як моєму старому?
+
+
+#----------------------------------------------------
+# Graff
+### The ball is stuck in the pipe, right behind that glass...
+GPC19_BALLSTUCK2-1=Кулька застрягла в трубі, просто за тим склом...
+
+
+#----------------------------------------------------
+# Graff
+### How do I use it exactly?...
+GPC19_BALLSTUCK_OTHERS-1=Як саме мені це використати?...
+
+
+# Graff
+### This is getting on my nerves!
+GPC19_BALLSTUCK_OTHERS-2=Це вже діє мені на нерви!
+
+
+#----------------------------------------------------
+# Graff
+### Hey, it worked!
+GPC19_BALLUNSTUCK-1=О, спрацювало!
+
+
+#----------------------------------------------------
+# Graff
+### I'm afraid that slot is already occupied.
+GPC19_TRIANGLE_OCCUPIED-1=Боюся, цей роз'єм уже зайнятий.
+
+
+#----------------------------------------------------
+# Graff
+### Err... I don't think that will fit.
+GPC19_TRIANGLE_OTHERS-1=Е-е... Не думаю, що це підійде.
+
+
+#----------------------------------------------------
+# Graff
+### It fits but... I don't know...
+GPC19_TRIANGLE_GET-1=Підходить, але... Я не знаю...
+
+
+#----------------------------------------------------
+# Graff
+### I was hoping something would happen.
+GPC19_TRIANGLE_WRONG1-1=Я сподівався, що щось станеться.
+
+
+# Graff
+### What did I do wrong?
+GPC19_TRIANGLE_WRONG1-2=Що я зробив не так?
+
+
+#----------------------------------------------------
+# Graff
+### I must have made a mistake.
+GPC19_TRIANGLE_WRONG2-1=Я, мабуть, припустився помилки.
+
+
+#----------------------------------------------------
+# Graff
+### Nope...
+GPC19_TRIANGLE_WRONG3-1=Ні...
+
+
+#----------------------------------------------------
+# Graff
+### Finally!
+GPC19_TRIANGLE_WIN1-1=Нарешті!
+
+
+#----------------------------------------------------
+# Graff
+### No point touching this anymore.
+GPC19_TRIANGLE_OVER-1=Більше немає сенсу цього торкатися.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm...
+GPC19_ADBUTTON-1=Гмм...
+
+
+#----------------------------------------------------
+

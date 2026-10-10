@@ -1,0 +1,1714 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - Flower (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Gherkin (Unknown)
+#     Flower - Brok (Unknown)
+#     Flower - Unknown (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Dee (Unknown)
+#     Unknown - Flower (Unknown)
+
+#-------------------------------
+#=SECTOR 56X STREET
+#-------------------------------
+
+#----- Interactions --------
+# Female
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### Merchant
+PC_FLOWERS=Крамарка
+
+### Stall
+PC_STALL=Прилавок
+
+### Metal shutters
+PC_METALSHUTTERS=Металеві ролети
+
+#PC_LEFTPANEL=Left command panel
+#PC_RIGHTPANEL=Right command panel
+# NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
+### Infophone
+PC_INFOPHONE=Інфофон
+
+### Entry code
+PC_ENTRYCODE=Код доступу
+
+### Bridge
+PC_BRIDGE=Міст
+
+### Left button
+PC_BUTTON_LEFT=Ліва кнопка
+
+### Middle button
+PC_BUTTON_MIDDLE=Середня кнопка
+
+### Right button
+PC_BUTTON_RIGHT=Права кнопка
+
+
+### Statuette
+PC_STATUETTE=Статуетка
+
+### Book
+PC_BOOK=Книга
+
+### Panel
+PC_BOTTOMPANEL=Панель
+
+### Glass shell
+PC_WIREPANEL=Скляна оболонка
+
+### Battery
+PC_BATTERY=Батарея
+
+### Thumb wheel
+PC_THUMBWHEEL=Коліщатко
+
+### Neon bulb
+PC_NEON=Неонова лампочка
+
+### Rubble
+PC_RUBBLE=Уламки
+
+### Building
+PC_BUILDING=Будівля
+
+
+
+#----- Choices / Items --------
+### A statuette!
+GOT_STATUETTE=Статуетка!
+
+
+#----- Topics --------
+# We're talking about Dee here
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### What's her connection to Brok?
+INTERROGATION_CONNECTION=Який її зв'язок із Броком?
+
+### Who is she?
+INTERROGATION_IDENTITY=Хто вона така?
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### What's the real reason she contacted Dr. Gherkin?
+INTERROGATION_WANT=Яка справжня причина її звернення до д-ра Геркіна?
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Why does she suspect Dr. Gherkin?
+INTERROGATION_WHYGHERKIN=Чому вона підозрює доктора Геркіна?
+
+### What's the problem with the Government?
+INTERROGATION_GOVERNMENT=В чому проблема з Урядом?
+
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+
+# Brok - Coming here for the first time
+### According to the message, my client lives in Center Basic 568... That block is near this street.
+PC06_FIRST1-1=Згідно з повідомленням, мій клієнт живе в Базовому Центрі 568... Десь поруч із цією вулицею.
+
+
+# Brok
+### Let's go check it out!
+PC06_FIRST1-2=Ходімо перевіримо!
+
+
+#----------------------------------------------------
+# Brok - Checking the Pipemail
+### This one's been vandalized...
+PC06_PIPEMAIL_STORY190-1=Пошкоджений вандалами...
+
+
+#----------------------------------------------------
+# Brok
+### This gizmo can be used for paying invoices and getting a daily pill. Let's give it a whirl!
+PC06_PIPEMAIL1-1=За допомогою нього можна сплачувати рахунки та отримувати щоденну пігулку. Варто спробувати!
+
+
+#----------------------------------------------------
+# Brok
+### Nothing is happening. Is it broken?
+PC06_PIPEMAIL1B-1=Нічого не відбувається. Він зламаний?
+
+
+# Flower
+### It is.
+PC06_PIPEMAIL1B-2=Так.
+
+
+# Flower
+### It's been like this since yesterday but no one has repaired it yet.
+PC06_PIPEMAIL1B-3=Він у такому стані відучора, але ніхто його досі не відремонтував.
+
+
+# Brok
+### Just my luck...
+PC06_PIPEMAIL1B-4=От же ж пощастило...
+
+
+# Flower
+### You don't say! I set up my stall here for a reason... but no one comes around anymore.
+PC06_PIPEMAIL1B-5=І не кажіть! Я недарма поставила тут свій прилавок... але сюди більше ніхто не ходить.
+
+
+# Brok
+### Are there any others around here?
+PC06_PIPEMAIL1B-6=А поблизу є інші апарати?
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Probably, though I've heard the same thing has happened at other places in the Slums.
+PC06_PIPEMAIL1B-7=Мабуть, хоча я чула, що те саме сталося й в інших місцях у Нетрях.
+
+
+# Brok
+### Really? I haven't heard about this.
+PC06_PIPEMAIL1B-8=Справді? Я про це не чув.
+
+
+# Flower
+### Oh, you know.
+PC06_PIPEMAIL1B-9=Ой, ну ви ж знаєте.
+
+
+# Flower
+### The media is all controlled by the Government.
+PC06_PIPEMAIL1B-10=Усі ЗМІ контролює Уряд.
+
+
+# Brok
+### You think so?
+PC06_PIPEMAIL1B-11=Думаєте?
+
+
+# Flower
+### Of course!
+PC06_PIPEMAIL1B-12=Звісно!
+
+
+# Flower
+### In any case... It's kinda worrying. We need these.
+PC06_PIPEMAIL1B-13=У будь-якому разі... Це викликає занепокоєння. Вони нам потрібні.
+
+
+# Brok
+### Yeah...
+PC06_PIPEMAIL1B-14=Так...
+
+
+# Brok
+### Eh, I have too many other things going on to worry about.
+PC06_PIPEMAIL1B-15=Ех, у мене й без цього вистачає клопоту, щоб ще й цим перейматися.
+
+
+# Flower
+### Everyone's saying the same thing.
+PC06_PIPEMAIL1B-16=Усі кажуть те саме.
+
+
+# Flower
+### We need to stay positive, and have faith in a brighter future!
+PC06_PIPEMAIL1B-17=Нам потрібно зберігати оптимізм і вірити в краще майбутнє!
+
+
+#----------------------------------------------------
+# Brok
+### This machine is out of order...
+PC06_PIPEMAIL2-1=Цей апарат не працює...
+
+
+#----------------------------------------------------
+# Brok
+### No use. I tried to put the bill in the machine but it's turned off. Gotta find another...
+PC06_PIPEMAIL_BILL-1=Марна справа. Я намагався вставити рахунок в апарат, але він вимкнений. Треба знайти інший...
+
+
+#----------------------------------------------------
+# Brok
+### Not a chance...
+PC06_PIPEMAIL_TRAMPPRESCR-1=Це неможливо...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Pipe-Pills can only distribute Toxout pills, and this one's broken!
+PC06_PIPEMAIL_TRAMPPRESCR-2=Пігулкомати можуть видавати лише смогові пігулки, а до того ж він зламаний!
+
+
+#----------------------------------------------------
+# Brok
+### It's... supposed to be the other way around.
+PC06_PIPEMAIL_PILL-1=Все... має бути навпаки.
+
+
+#----------------------------------------------------
+# Brok
+### That contraption can only deliver items... Not the other way around.
+PC06_PIPEMAIL_OTHERS-1=Ця штуковина може лише видавати речі... А не навпаки.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Pretty sure the client said Block 568. I shouldn't waste time going in here.
+PC06_OTHERBUILDING_BEFORE-1=Здається, клієнт казав про Блок 568. Не варто гаяти час і заходити сюди.
+
+
+#----------------------------------------------------
+# Brok
+### I got no business there.
+PC06_OTHERBUILDING1-1=Мені там нічого робити.
+
+
+#----------------------------------------------------
+# Brok
+### I can't just go and enter buildings at random!
+PC06_OTHERBUILDING2-1=Я не можу просто так заходити в будинки наосліп!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### All kinds of stuff related to the Untail...
+PC06_STALL1-1=Усілякі дрібниці, пов'язані з Безхвостям...
+
+
+# Brok
+### I'm not a believer.
+PC06_STALL1-2=Я не вірянин.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm... Security is a bit tighter here than it is at my place.
+PC06_METALSHUTTERS1-1=Гмм... Охорона тут трохи суворіша, ніж у мене вдома.
+
+
+#----------------------------------------------------
+# Brok
+### Gotta find a way to enter.
+PC06_METALSHUTTERS2-1=Треба знайти спосіб увійти.
+
+
+#----------------------------------------------------
+# Brok
+### It's already open!
+PC06_LEFTPANEL_OPEN-1=Вже відчинено!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
+### The infophone... It's displaying a list of the residents.
+PC06_RIGHTPANEL1-1=Інфофон... Він показує список мешканців.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin's name... Yup, he's home.
+PC06_RIGHTPANEL1-2=Ім'я Сіна... Так, він вдома.
+
+
+# Brok
+### Maybe I should give him a ring?
+PC06_RIGHTPANEL1-3=Може, подзвонити йому?
+
+
+#----------------------------------------------------
+# Brok
+### Argh!!! That button is busted!
+PC06_RIGHTPANEL1B-1=Ар-р!!! Ця кнопка зламана!
+
+
+#----------------------------------------------------
+# Brok
+### I'm glad we don't have this spying contraption in our block.
+PC06_RIGHTPANEL2-1=Я радий, що в нашому блоці немає цієї шпигунської штуковини.
+
+
+#----------------------------------------------------
+# Brok - Talking to the Flower religious merchant
+### Hello!
+PC06_FLOWERS_WELCOME1-1=Вітаю!
+
+
+# Flower
+### Hello, sir. Would you like anything?
+PC06_FLOWERS_WELCOME1-2=Вітаю, пане. Бажаєте щось придбати?
+
+
+# Brok
+### Just chatting, for now.
+PC06_FLOWERS_WELCOME1-3=Поки що просто базікаю.
+
+
+# Brok
+### How's business?
+PC06_FLOWERS_WELCOME1-4=Як торгівля?
+
+
+# Flower
+### Could be better... But I'm not complaining.
+PC06_FLOWERS_WELCOME1-5=Могла б бути й кращою... Але я не скаржусь.
+
+
+# Flower
+### As long as I earn enough to make a living, it's fine.
+PC06_FLOWERS_WELCOME1-6=Поки заробляю собі на життя, усе гаразд.
+
+
+# Flower
+### I like this job, even if you see all kinds of weird stuff going on.
+PC06_FLOWERS_WELCOME1-7=Мені подобається ця робота, хоча тут і бачиш усіляку дивину.
+
+
+# Brok
+### Whaddya mean?
+PC06_FLOWERS_WELCOME1-8=Що ви маєте на увазі?
+
+
+# Flower
+### Like, this morning, I got up early to prepare the stand.
+PC06_FLOWERS_WELCOME1-9=Ну от, сьогодні вранці я встала раніше, щоб підготувати прилавок.
+
+
+# Flower
+### There was this big man sleeping, like, right around the corner... in his underwear!
+PC06_FLOWERS_WELCOME1-10=І там просто за рогом спав якийсь здоровань... у самій білизні!
+
+
+# Flower
+### I was worried he would scare off the customers, so I tried to wake him up.
+PC06_FLOWERS_WELCOME1-11=Я хвилювалася, що він відлякає покупців, тож спробувала його розбудити.
+
+
+# Flower
+### And boy, was it hard! I thought I wouldn't ever get him to stand up!
+PC06_FLOWERS_WELCOME1-12=Ой леле, як це було важко! Думала, взагалі не підведу його на ноги!
+
+
+# Flower
+### That poor man... He said he couldn't remember drinking, but has no memory from the night before.
+PC06_FLOWERS_WELCOME1-13=Бідний чоловік... Сказав, що не пам'ятає, щоб пив, але й взагалі нічого не пам'ятає про минулу ніч.
+
+
+# Flower
+### He probably took some drugs...
+PC06_FLOWERS_WELCOME1-14=Мабуть, прийняв якісь препарати...
+
+
+# Brok
+### A homeless guy?
+PC06_FLOWERS_WELCOME1-15=Безхатько?
+
+
+# Flower
+### Nope! He told me he's a policeman.
+PC06_FLOWERS_WELCOME1-16=Ні! Він сказав мені, що працює поліцейським.
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Goes to show that even Drumers aren't so happy with their lives after all.
+PC06_FLOWERS_WELCOME1-17=Це свідчить про те, що навіть мешканці Верхів не такі вже й щасливі зі своїм життям.
+
+
+# Flower
+### For a policeman to go that low... That's really bad.
+PC06_FLOWERS_WELCOME1-18=Щоб поліцейський опустився так низько... Це справді жахливо.
+
+
+# Flower
+### It doesn't matter how much they flash their shiny badge around town, they've got their share of troubles, too.
+PC06_FLOWERS_WELCOME1-19=І байдуже, скільки вони розмахують своїми блискучими значками по місту, у них теж вистачає своїх бід.
+
+
+# Brok
+### Yes, all about maintaining that image.
+PC06_FLOWERS_WELCOME1-20=Так, усе заради підтримки іміджу.
+
+
+#----------------------------------------------------
+# Flower
+### So! You came here for a reason, right?
+PC06_FLOWERS_WELCOME2-1=Ну що ж! Ви ж прийшли сюди не просто так, правда?
+
+
+# Flower
+### I've got lovely statues of our protector, and they're currently on sale!
+PC06_FLOWERS_WELCOME2-2=У мене є чудові статуетки нашого захисника, і зараз вони зі знижкою!
+
+
+# Brok
+### No thanks, I don't believe in that nonsense.
+PC06_FLOWERS_WELCOME2-3=Ні, дякую, я не вірю в ці нісенітниці.
+
+
+# Flower
+### That's a pretty outrageous thing to say!
+PC06_FLOWERS_WELCOME2-4=Яке обурливе висловлювання!
+
+
+# Flower
+### But you're in luck. I'm used to hearing worse.
+PC06_FLOWERS_WELCOME2-5=Але вам пощастило. Я звикла чути й гірше.
+
+
+# Brok
+### Whatever.
+PC06_FLOWERS_WELCOME2-6=Байдуже.
+
+
+# Brok
+### Go ahead believing in magical stuff you can't see, and I'll just keep believing in things based in reality.
+PC06_FLOWERS_WELCOME2-7=Вірте собі далі у всяку магію, яку не бачите, а я віритиму в речі, засновані на реальності.
+
+
+# Brok
+### Like... My strength. To survive every day.
+PC06_FLOWERS_WELCOME2-8=Наприклад... у свою силу. Щоб виживати щодня.
+
+
+# Flower
+### That's where you're wrong!
+PC06_FLOWERS_WELCOME2-9=Ось тут ви й помиляєтеся!
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### The true purpose of the Untail lies exactly there. Helping us stay strong!
+PC06_FLOWERS_WELCOME2-10=Справжня мета Безхвостя полягає саме в цьому. Допомагати нам лишатися сильними!
+
+
+# Brok
+### Yeah... and I guess your store helps you a lot with that.
+PC06_FLOWERS_WELCOME2-11=Ага... і гадаю, ваша крамниця вам у цьому дуже допомагає.
+
+
+# Flower
+### Still... It's never too late.
+PC06_FLOWERS_WELCOME2-12=І все ж... Ніколи не пізно.
+
+
+# Flower
+### Come back if you change your mind!
+PC06_FLOWERS_WELCOME2-13=Повертайтеся, якщо зміните думку!
+
+
+# Brok
+### Yeah, yeah.
+PC06_FLOWERS_WELCOME2-14=Угу, угу.
+
+
+#----------------------------------------------------
+# Flower
+### Back already! I'm glad I was able to convince you!
+PC06_FLOWERS_WELCOME3-1=Уже повернулися! Я рада, що змогла вас переконати!
+
+
+# Brok
+### Afraid not.
+PC06_FLOWERS_WELCOME3-2=Боюся, що ні.
+
+
+#----------------------------------------------------
+# Flower
+### Feel free to take a look!
+PC06_FLOWERS_WELCOME4-1=Оглядайтеся скільки завгодно!
+
+
+#----------------------------------------------------
+# Brok - More interactions
+### Whatever's inside must control the power around here.
+PC06_BOTTOMPANEL1-1=Те, що всередині, мабуть, керує живленням у районі.
+
+
+# Brok
+### Messing with power cables brings up bad memories... I'll pass.
+PC06_BOTTOMPANEL1-2=Порпання в кабелях живлення викликає в мене погані спогади... Утримаюсь.
+
+
+#----------------------------------------------------
+# Brok
+### That bridge used to be a dazzling piece of art, welcoming citizens every day.
+PC06_NEON1-1=Цей міст колись був сліпучим витвором мистецтва та щодня вітав громадян.
+
+
+# Brok
+### Now a shadow of the past...
+PC06_NEON1-2=Тепер це лише тінь минулого...
+
+
+#----------------------------------------------------
+# Brok
+### I don't need it.
+PC06_THENEON1-1=Мені це не потрібно.
+
+
+#----------------------------------------------------
+# Brok
+### It's blocking the way... A building must have collapsed recently.
+PC06_RUBBLE1-1=Вони перекривають шлях... Мабуть, нещодавно завалилася будівля.
+
+
+# Brok
+### All sectors are falling apart, piece by piece...
+PC06_RUBBLE1-2=Усі сектори розвалюються, шматок за шматком...
+
+
+#----------------------------------------------------
+# Gherkin - Day 3 - Dr. Gherkin accompanies us to fix the Pipe pills
+### I'll fix this one.
+PC06_GHERKIN_FIRST1-1=Я полагоджу цей.
+
+
+#----------------------------------------------------
+# Brok
+### The city is so quiet...
+PC06_GHERKIN_FIRST2-1=У місті так тихо...
+
+
+# Brok
+### I'm getting worried.
+PC06_GHERKIN_FIRST2-2=Я починаю хвилюватися.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### No. I-I believe most Slumers are staying inside.
+PC06_GHERKIN_FIRST2-3=Ні. Я-я думаю, більшість мешканців Нетрів сидять по домівках.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### That's the guideline when the Haze is strong and the pollution levels peak.
+PC06_GHERKIN_FIRST2-4=Це інструкція на випадок, коли Смог сильний і рівень забруднення досягає піку.
+
+
+# Brok
+### Hope you're right...
+PC06_GHERKIN_FIRST2-5=Сподіваюся, ви праві...
+
+
+#----------------------------------------------------
+# Brok - At this point, Brok doesn't know the journalist is a she
+### So, who's this journalist?
+PC06_GHERKIN_FIRST3-1=То хто цей журналіст?
+
+
+# Gherkin
+### I'm not sure. They were disguising their voice.
+PC06_GHERKIN_FIRST3-2=Я не впевнений. Ця особа маскувала свій голос.
+
+
+# Brok
+### ...Ain't that suspicious?
+PC06_GHERKIN_FIRST3-3=...Хіба це не підозріло?
+
+
+# Gherkin
+### ...
+PC06_GHERKIN_FIRST3-4=...
+
+
+# Gherkin
+### Now that you mention it...
+PC06_GHERKIN_FIRST3-5=Так, мабуть, ви праві...
+
+
+# Brok
+### Oh, great...
+PC06_GHERKIN_FIRST3-6=О, чудово...
+
+
+# Brok
+### Hope we're not walking into a trap.
+PC06_GHERKIN_FIRST3-7=Сподіваюся, ми не йдемо прямо в пастку.
+
+
+# Gherkin
+### Who would be mad enough to make a profit off of such a terrible situation?
+PC06_GHERKIN_FIRST3-8=А хто був би достатньо божевільним, щоб наживатися на такій жахливій ситуації?
+
+
+# Brok
+### You wouldn't believe how far some people would go around here.
+PC06_GHERKIN_FIRST3-9=Ви не повірили б, як далеко деякі люди можуть зайти.
+
+
+#----------------------------------------------------
+# Brok
+### Better not go too far...
+PC06_GHERKIN_TOOFAR-1=Краще не відходити надто далеко...
+
+
+#----------------------------------------------------
+# Gherkin
+### I'm done!
+PC06_GHERKIN_TIMEROUT1-1=Я закінчив!
+
+
+#----------------------------------------------------
+# Brok
+### Fast enough!
+PC06_GHERKIN_TIMEROUT2-1=Досить швидко!
+
+
+# Brok
+### Does it work?
+PC06_GHERKIN_TIMEROUT2-2=Воно працює?
+
+
+# Gherkin
+### For paying your bills, yes.
+PC06_GHERKIN_TIMEROUT2-3=Для оплати рахунків - так.
+
+
+# Brok
+### Who cares! What about the pills?
+PC06_GHERKIN_TIMEROUT2-4=Кому яке діло! А як щодо пігулок?
+
+
+# Gherkin
+### Well... We'll have to wait until the route is reactivated.
+PC06_GHERKIN_TIMEROUT2-5=Ну... Нам доведеться зачекати, поки маршрут не відновиться.
+
+
+# Brok
+### How long until then?
+PC06_GHERKIN_TIMEROUT2-6=Скільки чекати?
+
+
+# Gherkin
+### A few minutes... maybe a day.
+PC06_GHERKIN_TIMEROUT2-7=Кілька хвилин... може, день.
+
+
+# Brok
+### A day?!
+PC06_GHERKIN_TIMEROUT2-8=День?!
+
+
+# Gherkin
+### That's a very rough estimate. We don't do this that often.
+PC06_GHERKIN_TIMEROUT2-9=Це дуже приблизна оцінка. Ми робимо це не так вже й часто.
+
+
+# Brok
+### Then let's hope it's just a matter of minutes.
+PC06_GHERKIN_TIMEROUT2-10=Тоді будемо сподіватися, що це справа кількох хвилин.
+
+
+# Brok
+### Your journalist isn't here yet.
+PC06_GHERKIN_TIMEROUT2-11=Вашого журналіста ще немає.
+
+
+# Gherkin
+### Well... Let's look around?
+PC06_GHERKIN_TIMEROUT2-12=Ну... Озирнемося довкола?
+
+
+#----------------------------------------------------
+# Dee - Day 3 - Meeting with Dee
+### ...
+PC06_GHERKIN_DEE-1=...
+
+
+# Brok
+### ...you?
+PC06_GHERKIN_DEE-2=...ти?
+
+
+# Gherkin
+### I... wasn't expecting...
+PC06_GHERKIN_DEE-3=Я... не очікував...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Dr. Gherkin, I explicitly told you we should meet privately.
+PC06_GHERKIN_DEE-4=Докторе Геркіне, я чітко казала, що ми маємо зустрітися приватно.
+
+
+# Gherkin
+### This is just my bodyguard, don't worry about them.
+PC06_GHERKIN_DEE-5=Це лише мій охоронець, не переймайтеся щодо нього.
+
+
+# Gherkin
+### What's your name?
+PC06_GHERKIN_DEE-6=Як вас звати?
+
+
+# Dee
+### ...
+PC06_GHERKIN_DEE-7=...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee.
+PC06_GHERKIN_DEE-8=Ді.
+
+
+# Dee
+### Let's keep this short. We're both busy people.
+PC06_GHERKIN_DEE-9=Не будемо затягувати. Ми обоє маємо купу справ.
+
+
+# Dee
+### I need some crucial information.
+PC06_GHERKIN_DEE-10=Мені потрібна важлива інформація.
+
+
+# Gherkin
+### V-very well, then. Ask away.
+PC06_GHERKIN_DEE-11=Д-дуже добре. Запитуйте.
+
+
+# Brok
+### Uh-oh...
+PC06_GHERKIN_DEE-12=Ой-ой...
+
+
+# Brok
+### Sorry to interrupt but... Some "friends" are following us.
+PC06_GHERKIN_DEE-13=Вибачте, що перебиваю, але... За нами йдуть деякі "друзі".
+
+
+# Gherkin
+### Oh gosh! Not again...
+PC06_GHERKIN_DEE-14=Ой леле! Тільки не знову...
+
+
+# Dee
+### What's going on? Why are they attacking us?
+PC06_GHERKIN_DEE-15=Що відбувається? Чому вони нападають на нас?
+
+
+# Brok
+### Beats me!
+PC06_GHERKIN_DEE-16=Без поняття!
+
+
+# Brok
+### Stay back, I'll deal with them.
+PC06_GHERKIN_DEE-17=Залишайтеся позаду, я розберуся з ними.
+
+
+# Dee
+### Ha! Don't think I'll simply stand by and watch.
+PC06_GHERKIN_DEE-18=Ха! Не думай, що я буду просто стояти й дивитися.
+
+
+#----------------------------------------------------
+# Brok
+### Looks like we're good.
+PC06_GHERKIN_FIGHTOVER1-1=Схоже, все гаразд.
+
+
+# Brok
+### For now, anyway.
+PC06_GHERKIN_FIGHTOVER1-2=Принаймні поки що.
+
+
+# Dee
+### Doctor Gherkin. Please follow me.
+PC06_GHERKIN_FIGHTOVER1-3=Докторе Геркіне. Будь ласка, йдіть за мною.
+
+
+# Gherkin
+### A-alright.
+PC06_GHERKIN_FIGHTOVER1-4=Г-гаразд.
+
+
+# Brok
+### Wait!
+PC06_GHERKIN_FIGHTOVER1-5=Зачекайте!
+
+
+# Gherkin
+### ...?
+PC06_GHERKIN_FIGHTOVER1-6=...?
+
+
+# Brok
+### I don't trust her.
+PC06_GHERKIN_FIGHTOVER1-7=Я їй не довіряю.
+
+
+# Dee
+### No "thanks for the help," huh?
+PC06_GHERKIN_FIGHTOVER1-8=Ніякого "дякую за допомогу", га?
+
+
+# Brok
+### I didn't ask for your help!
+PC06_GHERKIN_FIGHTOVER1-9=Я не просив про твою допомогу!
+
+
+# Dee
+### Oh!
+PC06_GHERKIN_FIGHTOVER1-10=О!
+
+
+# Dee
+### Mister cowboy thinks he's so strong!
+PC06_GHERKIN_FIGHTOVER1-11=Пан ковбой думає, що він такий сильний!
+
+
+# Brok
+### This ain't no cowboy hat, miss. I'm a detective.
+PC06_GHERKIN_FIGHTOVER1-12=Це не ковбойський капелюх, пані. Я детектив.
+
+
+# Dee
+### I see. Bodyguard, detective, and cowboy. You can do everything, huh?
+PC06_GHERKIN_FIGHTOVER1-13=Розумію. Охоронець, детектив і ковбой. Ти вмієш геть усе, так?
+
+
+# Brok
+### Argh...
+PC06_GHERKIN_FIGHTOVER1-14=Ар-р...
+
+
+# Dee
+### It's none of your concern. I'm only here to interview the Doc.
+PC06_GHERKIN_FIGHTOVER1-15=Це тебе не стосується. Я тут лише для того, щоб узяти інтерв'ю в доктора.
+
+
+# Brok
+### Somehow, I doubt that.
+PC06_GHERKIN_FIGHTOVER1-16=Щось я в цьому сумніваюся.
+
+
+# Dee
+### What?!
+PC06_GHERKIN_FIGHTOVER1-17=Га?!
+
+
+# Brok
+### While I was fighting, I started to put two and two together.
+PC06_GHERKIN_FIGHTOVER1-18=Поки бився, я почав складати все докупи.
+
+
+# Brok
+### You're hiding something.
+PC06_GHERKIN_FIGHTOVER1-19=Ти щось приховуєш.
+
+
+# Dee
+### You were brainstorming in the middle of a fight?
+PC06_GHERKIN_FIGHTOVER1-20=Ти влаштував мозковий штурм посеред бійки?
+
+
+# Dee
+### This is ridiculous!
+PC06_GHERKIN_FIGHTOVER1-21=Це просто смішно!
+
+
+# Gherkin
+### Are you certain about this, Mister Detective?
+PC06_GHERKIN_FIGHTOVER1-22=Ви впевнені, пане детективе?
+
+
+# Brok
+### Trust me on this.
+PC06_GHERKIN_FIGHTOVER1-23=Довіртеся мені в цьому.
+
+
+# Dee
+### I don't have time to argue. Let's keep this moving.
+PC06_GHERKIN_FIGHTOVER1-24=У мене немає часу сперечатися. Будемо рухатись далі.
+
+
+# Brok
+### No.
+PC06_GHERKIN_FIGHTOVER1-25=Ні.
+
+
+# Brok
+### My mission is to protect the Doc so he fixes the Pipe Pills. NOT to wander around for an interview!
+PC06_GHERKIN_FIGHTOVER1-26=Моє завдання - захистити Дока, щоб він відремонтував Пігулкомати. А НЕ блукати заради інтерв'ю!
+
+
+# Brok
+### We're not going anywhere until you've explained your true motive.
+PC06_GHERKIN_FIGHTOVER1-27=Ми нікуди не підемо, поки ти не поясниш свій справжній мотив.
+
+
+# Dee
+### (Sigh) Aren't you persistent...
+PC06_GHERKIN_FIGHTOVER1-28=(Зітхає) Який впертий...
+
+
+# Dee
+### Fine, you win. Ask away!
+PC06_GHERKIN_FIGHTOVER1-29=Гаразд, твоя взяла. Запитуй!
+
+
+# Brok
+### Doc. Leave us alone for a minute.
+PC06_GHERKIN_FIGHTOVER1-30=Доку. Залиште нас на хвилинку.
+
+
+# Gherkin
+### But...! Mister Detective...
+PC06_GHERKIN_FIGHTOVER1-31=Але...! Пане детективе...
+
+
+# Brok
+### No worries. Put yourself in the corner.
+PC06_GHERKIN_FIGHTOVER1-32=Не хвилюйтеся. Станьте он у той куток.
+
+
+# Brok
+### Scream if you spot one of those darn machines.
+PC06_GHERKIN_FIGHTOVER1-33=Кричіть, якщо помітите одну з тих клятих машин.
+
+
+# Gherkin
+### Aww... O-okay...
+PC06_GHERKIN_FIGHTOVER1-34=Ох... Г-гаразд...
+
+
+# Gherkin
+### D-Don't take too long...!
+PC06_GHERKIN_FIGHTOVER1-35=Н-не затримуйтеся надовго...!
+
+
+# Brok
+### Let's get started.
+PC06_GHERKIN_FIGHTOVER1-36=Почнімо.
+
+
+#----------------------------------------------------
+# Brok
+### Wait.
+PC06_INTERROGATION_EXIT1-1=Зачекай.
+
+
+# Dee
+### Wait for what?
+PC06_INTERROGATION_EXIT1-2=На що чекати?
+
+
+# Brok
+### Just... wait.
+PC06_INTERROGATION_EXIT1-3=Просто... зачекай.
+
+
+#----------------------------------------------------
+# Brok - Resume interrogation
+### So...
+PC06_INTERROGATION_RESUME-1=Отже...
+
+
+#----------------------------------------------------
+# Dee - Go away after exiting interrogation
+### Hey!
+PC06_INTERROGATION_LIMIT-1=Гей!
+
+
+# Brok
+### Sorry...!
+PC06_INTERROGATION_LIMIT-2=Перепрошую...!
+
+
+#----------------------------------------------------
+# Brok - Interrogation
+### Earlier you mentioned this was none of my concern.
+PC06_CLUE_DEE_GHERKINWARN-1=Раніше ти сказала, що це мене не стосується.
+
+
+# Brok
+### But your actions say otherwise.
+PC06_CLUE_DEE_GHERKINWARN-2=Але твої вчинки свідчать про протилежне.
+
+
+# Dee
+### My actions...?
+PC06_CLUE_DEE_GHERKINWARN-3=Мої вчинки...?
+
+
+# Brok
+### The messages you sent me. "Don't trust that guy."
+PC06_CLUE_DEE_GHERKINWARN-4=Повідомлення, яке ти мені надіслала. "Не довіряй йому".
+
+
+# Brok
+### Wondering about the sender, I asked a few questions to a... particular individual named The Gloom.
+PC06_CLUE_DEE_GHERKINWARN-5=Цікавлячись відправником, я поставив кілька запитань... одній особі на ім'я Похмурий.
+
+
+# Brok
+### He confirmed a journalist woman sent them.
+PC06_CLUE_DEE_GHERKINWARN-6=Він підтвердив, що їх надіслала жінка-журналістка.
+
+
+# Dee
+### No way. That guy promised to keep it confidential!
+PC06_CLUE_DEE_GHERKINWARN-7=Не може бути. Той чувак обіцяв зберігати конфіденційність!
+
+
+# Brok
+### I know how to squeeze the facts out of crooks like him.
+PC06_CLUE_DEE_GHERKINWARN-8=Я знаю, як витягувати факти з таких шахраїв, як він.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Now, considering you're the journalist who contacted Dr. Gherkin while concealing your identity...
+PC06_CLUE_DEE_GHERKINWARN-9=Враховуючи, що ти журналістка, яка зв'язалася з доктором Геркіном, приховуючи свою особу...
+
+
+# Brok
+### It's not hard to believe there's only one person behind all this.
+PC06_CLUE_DEE_GHERKINWARN-10=Неважко повірити, що за цим усім стоїть лише одна людина.
+
+
+# Brok
+### You.
+PC06_CLUE_DEE_GHERKINWARN-11=Ти.
+
+
+# Dee
+### Good thinking. A bit far-fetched but...
+PC06_CLUE_DEE_GHERKINWARN-12=Гарно мислиш. Трохи натягнуто, але...
+
+
+# Dee
+### You certainly hit the spot.
+PC06_CLUE_DEE_GHERKINWARN-13=Ти справді влучив у ціль.
+
+
+# Dee
+### Yes, I have reasons to believe the doctor is not coming clean.
+PC06_CLUE_DEE_GHERKINWARN-14=Так, у мене є підстави вважати, що доктор говорить не всю правду.
+
+
+# Brok
+### Right now, I'm not sure who has the most secrets.
+PC06_CLUE_DEE_GHERKINWARN-15=Зараз я не впевнений, хто має більше секретів.
+
+
+# Brok
+### But why bother warning me?
+PC06_CLUE_DEE_GHERKINWARN-16=Але навіщо було попереджати мене?
+
+
+# Dee
+### I'm... Not sure.
+PC06_CLUE_DEE_GHERKINWARN-17=Я... Не впевнена.
+
+
+# Dee
+### Trusting an investigator seemed right. To be honest, I'm already starting to regret it.
+PC06_CLUE_DEE_GHERKINWARN-18=Довіритися детективу здавалося тоді правильним рішенням. Чесно кажучи, я вже починаю про це шкодувати.
+
+
+# Brok
+### There's no trust without truth. That's the whole point of this interrogation.
+PC06_CLUE_DEE_GHERKINWARN-19=Немає довіри без правди. У цьому й полягає вся суть цього допиту.
+
+
+# Brok
+### Now, I have some clues regarding your true identity.
+PC06_CLUE_DEE_GHERKINWARN-20=А тепер у мене є декілька зачіпок щодо твоєї справжньої особи.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin. The name rings a bell, huh?
+PC06_CLUE_DEE_WORRIEDSIN-1=Сін. Це ім'я тобі щось нагадує, так?
+
+
+# Dee
+### ...
+PC06_CLUE_DEE_WORRIEDSIN-2=...
+
+
+# Brok
+### Of course it does.
+PC06_CLUE_DEE_WORRIEDSIN-3=Звісно, нагадує.
+
+
+# Brok
+### He actually hired me for an investigation two days ago.
+PC06_CLUE_DEE_WORRIEDSIN-4=Насправді він найняв мене для розслідування два дні тому.
+
+
+# Brok
+### I found a picture of him with a woman and a little girl in his apartment.
+PC06_CLUE_DEE_WORRIEDSIN-5=Я знайшов у його квартирі фотографію, де він із жінкою та маленькою дівчинкою.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
+### That night, when I met you in the Virtual Arena and accidentally revealed your appearance...
+PC06_CLUE_DEE_WORRIEDSIN-6=Тієї ночі, коли я зустрів тебе на Віртуальній Арені та випадково розкрив твою зовнішність...
+
+
+# Dee
+### And I still hate you for that.
+PC06_CLUE_DEE_WORRIEDSIN-7=І я досі ненавиджу тебе за це.
+
+
+# Brok
+### Took me a while to make the connection but I finally realized...
+PC06_CLUE_DEE_WORRIEDSIN-8=Мені знадобився деякий час, щоб зв'язати це, але врешті-решт я зрозумів...
+
+
+# Brok
+### You were in that picture.
+PC06_CLUE_DEE_WORRIEDSIN-9=Ти була на тій фотографії.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### The hacker also mentioned you did research on Sin.
+PC06_CLUE_DEE_WORRIEDSIN-10=Гакер також згадав, що ти шукала інформацію про Сіна.
+
+
+# Brok
+### Obviously. You've been separated for a while and you wanted to know his whereabouts.
+PC06_CLUE_DEE_WORRIEDSIN-11=Очевидно. Ви давно розійшлися, і ти хотіла дізнатися, де він перебуває.
+
+
+# Brok
+### All this makes sense.
+PC06_CLUE_DEE_WORRIEDSIN-12=Усе це має сенс.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin was a Drumer, so you'd have to be as well.
+PC06_CLUE_DEE_WORRIEDSIN-13=Сін раніше був мешканцем Верхів, тож ти, мабуть, теж.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Journalism is a job only Drumers can do.
+PC06_CLUE_DEE_WORRIEDSIN-14=Журналістика - це робота, яку можуть виконувати лише мешканці Верхів.
+
+
+# Brok
+### Aaaand... I guess it's a coincidence you've asked us to meet right next to where he's been living?
+PC06_CLUE_DEE_WORRIEDSIN-15=І-і-і... Це, мабуть, збіг, що ти попросила про зустріч саме поруч із місцем, де він жив?
+
+
+# Brok
+### But I don't believe in coincidences!
+PC06_CLUE_DEE_WORRIEDSIN-16=Але я не вірю в збіги!
+
+
+# Dee
+### ...
+PC06_CLUE_DEE_WORRIEDSIN-17=...
+
+
+# Dee
+### Impressive.
+PC06_CLUE_DEE_WORRIEDSIN-18=Вражає.
+
+
+# Dee
+### I'd say you're the best detective ever, if not for the luck that you've had in all these situations.
+PC06_CLUE_DEE_WORRIEDSIN-19=Я б сказала, що ти найкращий детектив у світі, якби не удача, яка супроводжувала тебе в усіх цих ситуаціях.
+
+
+# Brok
+### Not luck. Quite the opposite. Always implicated in the worst events.
+PC06_CLUE_DEE_WORRIEDSIN-20=Це не удача. Зовсім навпаки. Я постійно вплутуюся в найгірші події.
+
+
+# Dee
+### In any case, you're right.
+PC06_CLUE_DEE_WORRIEDSIN-21=У будь-якому разі, ти правий.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin Silver is my husband. The love of my life.
+PC06_CLUE_DEE_WORRIEDSIN-22=Сін Сільвер - мій чоловік. Кохання мого життя.
+
+
+# Brok
+### Weird way to describe someone you ditched.
+PC06_CLUE_DEE_WORRIEDSIN-23=Дивний спосіб описати того, кого ти кинула.
+
+
+# Dee
+### It's a long and personal story.
+PC06_CLUE_DEE_WORRIEDSIN-24=Це довга та особиста історія.
+
+
+# Brok
+### Okay. Let's not deviate from the matter at hand.
+PC06_CLUE_DEE_WORRIEDSIN-25=Гаразд. Не будемо відхилятися від нашої теми.
+
+
+# Brok
+### Although this brings a whole new question.
+PC06_CLUE_DEE_WORRIEDSIN-26=Хоча це породжує зовсім нове питання.
+
+
+# Brok
+### What exactly are you looking for?
+PC06_CLUE_DEE_WORRIEDSIN-27=Чого саме ти шукаєш?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### It's obvious you hold a grudge against Dr. Gherkin.
+PC06_CLUE_DEE_GHERKINTHREAT-1=Очевидно, що ти маєш зуб на доктора Геркіна.
+
+
+# Brok
+### First, you warn me about him with your messages.
+PC06_CLUE_DEE_GHERKINTHREAT-2=Спочатку ти попереджаєш мене про нього у своїх повідомленнях.
+
+
+# Brok
+### Then you're worried about what may happen to your husband.
+PC06_CLUE_DEE_GHERKINTHREAT-3=Потім переймаєшся тим, що може статися з твоїм чоловіком.
+
+
+# Brok
+### I have a hard time imagining it, but...
+PC06_CLUE_DEE_GHERKINTHREAT-4=Мені важко це уявити, але...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Is Dr. Gherkin a threat?
+PC06_CLUE_DEE_GHERKINTHREAT-5=Доктор Геркін становить загрозу?
+
+
+# Dee
+### ...
+PC06_CLUE_DEE_GHERKINTHREAT-6=...
+
+
+# Dee
+### I'm still gathering evidence... but in an indirect way, yes.
+PC06_CLUE_DEE_GHERKINTHREAT-7=Я все ще збираю докази... але непрямим чином - так.
+
+
+# Dee
+### He doesn't know my identity yet and I intend to use that as an opportunity.
+PC06_CLUE_DEE_GHERKINTHREAT-8=Він ще не знає, хто я, і я планую скористатися цією нагодою.
+
+
+# Brok
+### He's just a scientist working in a factory. What could he possibly do?
+PC06_CLUE_DEE_GHERKINTHREAT-9=Він просто науковець, який працює на заводі. Що він узагалі міг би зробити?
+
+
+# Dee
+### That's where you're wrong! He's much more than that!
+PC06_CLUE_DEE_GHERKINTHREAT-10=Ось тут ти й помиляєшся! Він значно більше, ніж просто науковець!
+
+
+# Brok
+### So... The scientist job is a front?
+PC06_CLUE_DEE_GHERKINTHREAT-11=Тож... Робота науковця - це лише прикриття?
+
+
+# Dee
+### More or less.
+PC06_CLUE_DEE_GHERKINTHREAT-12=Більш-менш.
+
+
+# Brok
+### I think I'm starting to understand.
+PC06_CLUE_DEE_GHERKINTHREAT-13=Здається, я починаю розуміти.
+
+
+#----------------------------------------------------
+# Brok
+### No way!
+PC06_CLUE_DEE_GHERKINGOVERNMENT-1=Не може бути!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### You asked the hacker for searches on the Government...
+PC06_CLUE_DEE_GHERKINGOVERNMENT-2=Ти просила гакера пошукати інформацію про Уряд...
+
+
+# Brok
+### And he accidentally slipped that he's "part of" something.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-3=А він випадково обмовився, що є "частиною" чогось.
+
+
+# Dee
+### So you finally DO understand.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-4=Тож ти ВСЕ-ТАКИ зрозумів, нарешті.
+
+
+# Brok
+### That guy... as slim as an Asparagusite...
+PC06_CLUE_DEE_GHERKINGOVERNMENT-5=Той тип... худий, як спаржа...
+
+
+# Brok
+### Is a member of the Government?
+PC06_CLUE_DEE_GHERKINGOVERNMENT-6=Він член Уряду?
+
+
+# Dee
+### Yes. And I have proof of it.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-7=Так. І в мене є цьому підтвердження.
+
+
+# Brok
+### Ah, now I get it. Ever since meeting him, I thought he looked familiar!
+PC06_CLUE_DEE_GHERKINGOVERNMENT-8=А, тепер я зрозумів. Ще з моменту нашої зустрічі мені здавалося, що він мені когось нагадує!
+
+
+# Dee
+### Impossible. Citizens don't know the members of the Government.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-9=Неможливо. Громадяни не знають, хто є членами Уряду.
+
+
+# Brok
+### Well, true.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-10=Ну, це правда.
+
+
+# Brok
+### Wait, but that doesn't make any sense!
+PC06_CLUE_DEE_GHERKINGOVERNMENT-11=Стривай, але це не має жодного сенсу!
+
+
+# Brok
+### Why would he risk his life around here, all alone?
+PC06_CLUE_DEE_GHERKINGOVERNMENT-12=Навіщо йому ризикувати життям тут, зовсім самому?
+
+
+# Dee
+### I have a theory on this.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-13=У мене є теорія щодо цього.
+
+
+# Brok
+### Besides. The Government's purpose is to serve the citizens, isn't it?
+PC06_CLUE_DEE_GHERKINGOVERNMENT-14=До того ж. Мета Уряду - служити громадянам, хіба ні?
+
+
+# Dee
+### Don't be silly. You know things aren't that simple.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-15=Не будь дурником. Ти знаєш, що все не так просто.
+
+
+# Brok
+### Hmm...
+PC06_CLUE_DEE_GHERKINGOVERNMENT-16=Гмм...
+
+
+# Brok
+### I bet this is the reason why you're directly concerned.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-17=Б'юся об заклад, саме тому ти так переймаєшся.
+
+
+#----------------------------------------------------
+# Brok
+### That's why! You only bring trouble around here!
+PC06_PICKONE_GOVERNMENT_WRONG1-1=Ось чому! Бо від тебе одні лише неприємності!
+
+
+# Dee
+### Hey!
+PC06_PICKONE_GOVERNMENT_WRONG1-2=Гей!
+
+
+# Brok
+### Erm... Sorry. I meant...
+PC06_PICKONE_GOVERNMENT_WRONG1-3=Е-е... Вибач. Я мав на увазі...
+
+
+#----------------------------------------------------
+# Brok
+### You're working for the media...
+PC06_CLUE_SECTOR56X_GOVERNMENT-1=Ти працюєш на ЗМІ...
+
+
+# Brok
+### And the Government controls the media.
+PC06_CLUE_SECTOR56X_GOVERNMENT-2=А Уряд контролює ЗМІ.
+
+
+# Brok
+### I can see where this is going.
+PC06_CLUE_SECTOR56X_GOVERNMENT-3=Я розумію, до чого все йде.
+
+
+# Dee
+### In a nutshell, yes.
+PC06_CLUE_SECTOR56X_GOVERNMENT-4=Коротко кажучи, так.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### That guy is responsible for my situation and Sin's.
+PC06_CLUE_SECTOR56X_GOVERNMENT-5=Той тип відповідальний за моє становище та становище Сіна.
+
+
+#----------------------------------------------------
+# Brok
+### Your situation? You still didn't tell...
+PC06_DEE_AFTERINTERROGATION1-1=Твоє становище? Ти досі не розповіла...
+
+
+# Dee
+### Listen.
+PC06_DEE_AFTERINTERROGATION1-2=Слухай.
+
+
+# Dee
+### Time is running out. I need you to trust me.
+PC06_DEE_AFTERINTERROGATION1-3=Час спливає. Мені потрібно, щоб ти мені довірився.
+
+
+# Brok
+### What's your plan?
+PC06_DEE_AFTERINTERROGATION1-4=Який у тебе план?
+
+
+# Dee
+### Luring him into a place where he can't escape.
+PC06_DEE_AFTERINTERROGATION1-5=Заманити його в місце, звідки він не зможе втекти.
+
+
+# Brok
+### What...?
+PC06_DEE_AFTERINTERROGATION1-6=Що...?
+
+
+# Brok
+### That sounds pretty...
+PC06_DEE_AFTERINTERROGATION1-7=Це звучить досить...
+
+
+# Gherkin
+### Aaaargh!
+PC06_DEE_AFTERINTERROGATION1-8=А-а-ааа!
+
+
+#----------------------------------------------------
+# Brok - Big number of robots come at them
+### What the heck? They can jump now?!
+PC06_DEE_AFTERINTERROGATION2-1=Що за чорт? Вони тепер уміють стрибати?!
+
+
+# Dee
+### What's going on here?
+PC06_DEE_AFTERINTERROGATION2-2=Що тут відбувається?
+
+
+# Brok
+### There's so many of them!
+PC06_DEE_AFTERINTERROGATION2-3=Їх тут так багато!
+
+
+# Gherkin
+### W-We're done for!
+PC06_DEE_AFTERINTERROGATION2-4=Н-нам кінець!
+
+
+# Dee
+### Come on! We gotta get out of here!
+PC06_DEE_AFTERINTERROGATION2-5=Ну ж бо! Нам треба забиратися звідси!
+
+
+# Brok
+### And go where?!
+PC06_DEE_AFTERINTERROGATION2-6=І куди нам іти?!
+
+
+# Dee
+### Anywhere is better than here.
+PC06_DEE_AFTERINTERROGATION2-7=Будь-де краще, ніж тут.
+
+
+# Gherkin
+### T-there's a bunker...a few blocks from here...
+PC06_DEE_AFTERINTERROGATION2-8=Т-тут є бункер... за кілька блоків звідси...
+
+
+# Gherkin
+### I-I have access to it...
+PC06_DEE_AFTERINTERROGATION2-9=У м-мене є до нього доступ...
+
+
+# Dee
+### Good!
+PC06_DEE_AFTERINTERROGATION2-10=Чудово!
+
+
+# Brok
+### Stay close to us, doc!
+PC06_DEE_AFTERINTERROGATION2-11=Тримайтеся біля нас, доку!
+
+
+# Brok
+### Let's go!
+PC06_DEE_AFTERINTERROGATION2-12=Вперед!
+
+
+#----------------------------------------------------
+# Brok
+### (Going to the bunker...)
+PC06_ENDINTERROGATE3-1=(Прямуючи до бункера...)
+
+
+# Brok
+### (This was a perfect opportunity for her plan.)
+PC06_ENDINTERROGATE3-2=(Це була ідеальна нагода для втілення її плану.)
+
+
+# Brok
+### (I should have protested against it. But in the situation we were in...)
+PC06_ENDINTERROGATE3-3=(Я мав би бути проти цього. Але в тій ситуації, у якій ми опинилися...)
+
+
+# Brok
+### (This was our only option.)
+PC06_ENDINTERROGATE3-4=(Це був наш єдиний вихід.)
+
+
+#----------------------------------------------------
+# Flower
+### Good heavens! You've scared me!
+PC06_FLOWERS_HIT1-1=О небеса! Ви мене злякали!
+
+
+#----------------------------------------------------
+# Flower
+### I'll give you a discount!... Please don't hurt me!
+PC06_FLOWERS_HIT2-1=Я зроблю вам знижку...! Будь ласка, не бийте мене!
+
+
+#----------------------------------------------------
+# Flower
+### Aaahhaaah!...
+PC06_FLOWERS_HIT3-1=А-хаааах...!
+
+
+#----------------------------------------------------
+# Flower
+### Sir!...
+PC06_FLOWERS_BACKAFTERHIT-1=Пане...!
+
+
+# Brok
+### Erm... Sorry about earlier.
+PC06_FLOWERS_BACKAFTERHIT-2=Е-е... Вибачте за те, що сталося раніше.
+
+
+# Flower
+### Danante! I forgive you. This is the will of the almighty!
+PC06_FLOWERS_BACKAFTERHIT-3=Дананте! Я прощаю вас. На все воля Всемогутнього!
+
+
+#----------------------------------------------------
+# Flower
+### Sir! Please get off my stall!
+PC06_FLOWERS_WALKONSTAND1-1=Пане! Будь ласка, злізьте з мого прилавка!
+
+
+#----------------------------------------------------
+# Flower
+### If you break anything, I'll have you pay for it!
+PC06_FLOWERS_WALKONSTAND2-1=Якщо ви щось зламаєте, я змушу вас заплатити за це!
+
+
+#----------------------------------------------------
+# Flower
+### The almighty shall punish you for this!
+PC06_FLOWERS_WALKONSTAND3-1=Всемогутній покарає вас за це!
+
+
+#----------------------------------------------------
+# Brok
+### Nah... Even free, I wouldn't want those.
+PC06_STALL_STEAL1-1=Та ні... Навіть задарма я б цього не хотів.
+
+
+#----------------------------------------------------
+# Flower
+### Oh no... Not you too!
+PC06_PIPEPILL_HIT1-1=О ні... Тільки не ви теж!
+
+
+# Brok
+### Whadd'ya mean?
+PC06_PIPEPILL_HIT1-2=Що ви маєте на увазі?
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### The Squealers. They've broken it.
+PC06_PIPEPILL_HIT1-3=Верескуни. Вони його зламали.
+
+
+# Brok
+### Did you see them?
+PC06_PIPEPILL_HIT1-4=Ви бачили їх?
+
+
+# Flower
+### It's obvious. Who else could do this?
+PC06_PIPEPILL_HIT1-5=Це ж очевидно. Хто ще міг це зробити?
+
+
+#----------------------------------------------------
+# Brok
+### There you go!
+PC06_TYPE_DEATH-1=Ось так!
+
+
+#----------------------------------------------------
+# Flower
+### We need to stay positive!
+PC06_TRAILER1-1=Нам потрібно зберігати оптимізм!
+
+
+#----------------------------------------------------
+# Unknown
+# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+### One of those Untail street merchants.
+COOP_PC06_FLOWERS1-1=Одна з тих вуличних крамарок, схиблених на релігії Безхвостя.
+
+
+# Unknown
+### For better or worse, she sees everything going on around here.
+COOP_PC06_FLOWERS1-2=Не знаю, чи добре це, чи погано, але вона бачить усе, що відбувається довкола.
+
+
+#----------------------------------------------------
+

@@ -1,0 +1,695 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - Tribot (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Gherkin (Unknown)
+#     Dee - Tribot (Unknown)
+#     Dee - Unknown (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Dee (Unknown)
+#     Tribot - Brok (Unknown)
+#     Tribot - Dee (Unknown)
+#     Tribot - Unknown (Unknown)
+#     Unknown - Dee (Unknown)
+#     Unknown - Tribot (Unknown)
+
+#-------------------------------
+#=BUNKER OUTSIDE/FRONT
+#-------------------------------
+
+#----- Interactions --------
+### Indicator
+PC_INDICATOR=
+
+### Over there
+PC_OVERTHERE=
+
+### Portal
+PC_PORTAL=
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Who should fight?
+PC19D_CHOICE_PORTAL=
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### How to take Sin out of jail?
+PC19D_LEAVING_CHOICE=
+
+### Fight'em all
+PC19D_SMASH=
+
+### Infiltrate
+PC19D_INFILTRATE=
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Call Wes
+PC19D_CALL=
+
+
+
+#----- Topics --------
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Room interactions
+### I'll get to the bottom of this...
+PC19D_PIPEPILL1-1=
+
+
+#----------------------------------------------------
+# Brok
+### Is the doctor still inside?...
+PC19D_PORTAL1-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Hopefully I won't regret trusting Dee...
+PC19D_PORTAL1-2=
+
+
+#----------------------------------------------------
+# Brok
+### A diode...
+PC19D_INDICATOR1-1=
+
+
+# Brok
+### Red for bad, green for good?...
+PC19D_INDICATOR1-2=
+
+
+#----------------------------------------------------
+# Gherkin - Brok, Dee & Dr. Gherkin arrive at the bunker as they are being chased by a huge number of robots
+### (Pant, pant) It's here!...
+PC19D_BUNKER1-1=
+
+
+#----------------------------------------------------
+# Brok - Brok is addressing Dr. Gherkin
+### Quick! Open it!
+PC19D_BUNKER1B-1=
+
+
+# Gherkin
+### Sure!...
+PC19D_BUNKER1B-2=
+
+
+# Gherkin
+### Err...
+PC19D_BUNKER1B-3=
+
+
+# Brok
+### Err what?
+PC19D_BUNKER1B-4=
+
+
+# Gherkin
+### Let me think...
+PC19D_BUNKER1B-5=
+
+
+# Gherkin
+### Now, where did I put this key?
+PC19D_BUNKER1B-6=
+
+
+# Brok
+### A key?! Like... an actual key?...
+PC19D_BUNKER1B-7=
+
+
+# Gherkin
+### This bunker was built a long time ago during...
+PC19D_BUNKER1B-8=
+
+
+# Brok
+### Forget the history lesson!
+PC19D_BUNKER1B-9=
+
+
+# Dee
+### They're coming! We don't have much time!
+PC19D_BUNKER1B-10=
+
+
+# Gherkin
+### Ah! There it is.
+PC19D_BUNKER1B-11=
+
+
+# Brok
+### Gimme that!
+PC19D_BUNKER1B-12=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19D_BUNKER1C-1=
+
+
+# Brok
+### What's that?
+PC19D_BUNKER1C-2=
+
+
+# Brok
+### There seems to be another mechanism in there...
+PC19D_BUNKER1C-3=
+
+
+# Brok
+### Doc!...
+PC19D_BUNKER1C-4=
+
+
+#----------------------------------------------------
+# Brok
+### You've gotta be kiddin' me!
+PC19D_BUNKER1D-1=
+
+
+# Gherkin
+### I... I have to repair this one! It's my job!
+PC19D_BUNKER1D-2=
+
+
+# Brok
+### But how do I open this portal?!
+PC19D_BUNKER1D-3=
+
+
+# Gherkin
+### I won't be of any help. It's my first time here!
+PC19D_BUNKER1D-4=
+
+
+# Brok
+### Oh, great...
+PC19D_BUNKER1D-5=
+
+
+#----------------------------------------------------
+# Dee
+### They'll be onto us in a minute!
+PC19D_BUNKER1E-1=
+
+
+# Brok
+### One of us has got to hold them back!
+PC19D_BUNKER1E-2=
+
+
+# Brok
+### While the other figures this out...
+PC19D_BUNKER1E-3=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. Think you're up to givin' me some time?
+PC19D_DEEFIGHTS1-1=
+
+
+# Dee
+### I can try. But...
+PC19D_DEEFIGHTS1-2=
+
+
+# Brok
+### Thanks.
+PC19D_DEEFIGHTS1-3=
+
+
+# Dee
+### I thought you'd be the fighting type.
+PC19D_DEEFIGHTS1-4=
+
+
+# Brok
+### No time to argue. Let's do this!
+PC19D_DEEFIGHTS1-5=
+
+
+# Dee
+### Here they come!
+PC19D_DEEFIGHTS1-6=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. Can you check this?
+PC19D_BROKFIGHTS1-1=
+
+
+# Dee
+### Sure. But...
+PC19D_BROKFIGHTS1-2=
+
+
+# Brok
+### I'll keep them away as long as I can.
+PC19D_BROKFIGHTS1-3=
+
+
+# Dee
+### Riddles aren't really my thing. We won't have a second chance!
+PC19D_BROKFIGHTS1-4=
+
+
+# Brok
+### Just... do it, okay?...
+PC19D_BROKFIGHTS1-5=
+
+
+# Dee
+### Okay.
+PC19D_BROKFIGHTS1-6=
+
+
+# Brok
+### Thanks.
+PC19D_BROKFIGHTS1-7=
+
+
+# Dee
+### You'll thank me if we get out of here alive.
+PC19D_BROKFIGHTS1-8=
+
+
+# Brok
+### Nah! They won't get pass me!
+PC19D_BROKFIGHTS1-9=
+
+
+# Brok
+### Bring'em on!
+PC19D_BROKFIGHTS1-10=
+
+
+#----------------------------------------------------
+# Dee
+### I don't get it...
+PC19D_TIMER_DEEFIGHTS_FIRST1-1=
+
+
+# Dee
+### What's up with those bots?!
+PC19D_TIMER_DEEFIGHTS_FIRST1-2=
+
+
+# Brok
+### Wish I knew!
+PC19D_TIMER_DEEFIGHTS_FIRST1-3=
+
+
+# Brok
+### Let's survive. Then we'll figure this out!
+PC19D_TIMER_DEEFIGHTS_FIRST1-4=
+
+
+#----------------------------------------------------
+# Dee
+### Hurry! Huge wave of bots incoming!
+PC19D_TIMER_DEEFIGHTS_LASTSECONDS1-1=
+
+
+#----------------------------------------------------
+# Dee
+### Nooo!
+PC19D_TIMER_DEEFIGHTS_TOOLATE-1=
+
+
+#----------------------------------------------------
+# Brok
+### Another?!
+PC19D_PUZZLE_ANOTHER-1=
+
+
+#----------------------------------------------------
+# Dee - Brok succeeds opening portal
+### You did it!
+PC19D_BROK_OPENS-1=
+
+
+#----------------------------------------------------
+# Dee - Dee succeeds opening portal
+### Yes!
+PC19D_DEE_OPENS-1=
+
+
+# Brok
+### Congrats! Just let me finish.
+PC19D_DEE_OPENS-2=
+
+
+#----------------------------------------------------
+# Brok
+### There ya go!
+PC19D_DEE_OPENSB-1=
+
+
+#----------------------------------------------------
+# Brok
+### Come on, Doc!
+PC19D_AFTER_OPENED1-1=
+
+
+# Gherkin
+### One second...
+PC19D_AFTER_OPENED1-2=
+
+
+# Gherkin
+### Done!
+PC19D_AFTER_OPENED1-3=
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19D_AFTER_OPENED2-1=
+
+
+# Brok
+### Which way?
+PC19D_AFTER_OPENED2-2=
+
+
+# Dee
+### Let's split.
+PC19D_AFTER_OPENED2-3=
+
+
+# Dee
+### You take the left. I'll go with the doctor.
+PC19D_AFTER_OPENED2-4=
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### B-but... Mister Brok is...
+PC19D_AFTER_OPENED2-5=
+
+
+# Dee
+### Hurry! They're here!
+PC19D_AFTER_OPENED2-6=
+
+
+#----------------------------------------------------
+# Brok
+### I give up.
+PC19D_GIVEUP1-1=
+
+
+# Dee
+### You can't! If you don't get this open, we're goners!
+PC19D_GIVEUP1-2=
+
+
+# Brok
+### Hmm... That's right.
+PC19D_GIVEUP1-3=
+
+
+#----------------------------------------------------
+# Brok
+### I can't give up now!
+PC19D_GIVEUP2-1=
+
+
+#----------------------------------------------------
+# Dee
+### We made it?...
+PC19D_AFTER_BIGFIGHT1-1=
+
+
+# Brok
+### Seems so!
+PC19D_AFTER_BIGFIGHT1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Quite amazing fighting skills for a Drumer journalist!
+PC19D_AFTER_BIGFIGHT1-3=
+
+
+# Dee
+### Huh. Save the praise for later.
+PC19D_AFTER_BIGFIGHT1-4=
+
+
+#----------------------------------------------------
+# Dee - After exiting the bunker, they leave to rescue Sin
+### Let's go.
+PC19D_BEFORELEAVING1-1=
+
+
+# Brok
+### Wait!
+PC19D_BEFORELEAVING1-2=
+
+
+# Brok
+### What's your plan?
+PC19D_BEFORELEAVING1-3=
+
+
+# Dee
+### Simple.
+PC19D_BEFORELEAVING1-4=
+
+
+# Dee
+### I go in, kick those bots asses and come back with my man.
+PC19D_BEFORELEAVING1-5=
+
+
+# Brok
+### It's a police department. There are dozens of bots in there.
+PC19D_BEFORELEAVING1-6=
+
+
+# Brok
+### There must be a better way...
+PC19D_BEFORELEAVING1-7=
+
+
+# Dee
+### Okay. Tell me.
+PC19D_BEFORELEAVING1-8=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes is the chief of this police department. I can call him.
+PC19D_LEAVE_CALL-1=
+
+
+# Dee
+### Are you serious?
+PC19D_LEAVE_CALL-2=
+
+
+# Dee
+### If by any chance he's involved into all this mess...
+PC19D_LEAVE_CALL-3=
+
+
+# Dee
+### We'll fall right into a trap.
+PC19D_LEAVE_CALL-4=
+
+
+# Brok
+### I've known him for years. He's certainly not an easy guy but...
+PC19D_LEAVE_CALL-5=
+
+
+# Brok
+### Desperate situations call for desperate measures.
+PC19D_LEAVE_CALL-6=
+
+
+# Dee
+### OK. I trust you.
+PC19D_LEAVE_CALL-7=
+
+
+# Dee
+### Do it.
+PC19D_LEAVE_CALL-8=
+
+
+# Unknown
+### ...
+PC19D_LEAVE_CALL-9=
+
+
+# Unknown
+### ...
+PC19D_LEAVE_CALL-10=
+
+
+# Tribot
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Police department. The chief is currently busy. Please state your requ...
+PC19D_LEAVE_CALL-11=
+
+
+# Brok
+### Darn... He's not available.
+PC19D_LEAVE_CALL-12=
+
+
+# Dee
+### Then no time to waste. Let's try my plan.
+PC19D_LEAVE_CALL-13=
+
+
+# Brok
+### No...
+PC19D_LEAVE_CALL-14=
+
+
+#----------------------------------------------------
+# Brok
+### We should infiltrate the place.
+PC19D_LEAVE_INFILTRATE-1=
+
+
+# Brok
+### It'd be much less risky. Fewer tin cans to wreck.
+PC19D_LEAVE_INFILTRATE-2=
+
+
+# Dee
+### Hmm...
+PC19D_LEAVE_INFILTRATE-3=
+
+
+# Dee
+### Are you certain there's a way to enter the jail discretly?
+PC19D_LEAVE_INFILTRATE-4=
+
+
+# Brok
+### Yes. The main entrance.
+PC19D_LEAVE_INFILTRATE-5=
+
+
+# Dee
+### Is that a joke?...
+PC19D_LEAVE_INFILTRATE-6=
+
+
+# Brok
+### Those bots are stupid. We can enter from the main entrance and distract them.
+PC19D_LEAVE_INFILTRATE-7=
+
+
+# Brok
+### I'll go first. Follow me.
+PC19D_LEAVE_INFILTRATE-8=
+
+
+# Dee
+### Alright. Just...
+PC19D_LEAVE_INFILTRATE-9=
+
+
+# Dee
+### Be careful, okay?...
+PC19D_LEAVE_INFILTRATE-10=
+
+
+# Brok
+### Hey, I can defend myself if anything goes wrong!
+PC19D_LEAVE_INFILTRATE-11=
+
+
+# Dee
+### Right...
+PC19D_LEAVE_INFILTRATE-12=
+
+
+# Dee
+### Off we go!
+PC19D_LEAVE_INFILTRATE-13=
+
+
+#----------------------------------------------------
+# Brok
+### I'll go in and smash my way through those tin cans.
+PC19D_LEAVE_SMASH-1=
+
+
+# Dee
+### And... What's the difference with my plan, pray tell?
+PC19D_LEAVE_SMASH-2=
+
+
+# Brok
+### Well, I'll do most of the job. You'll stay behind me for support.
+PC19D_LEAVE_SMASH-3=
+
+
+# Dee
+### Ohhh, I see.
+PC19D_LEAVE_SMASH-4=
+
+
+# Dee
+### Mister thinks I'm too weak to beat those AIs!
+PC19D_LEAVE_SMASH-5=
+
+
+# Brok
+### No but I'm more experienced!
+PC19D_LEAVE_SMASH-6=
+
+
+# Brok
+### I eat bots chips for breakfast!
+PC19D_LEAVE_SMASH-7=
+
+
+# Dee
+### How courteous!
+PC19D_LEAVE_SMASH-8=
+
+
+# Dee
+### OK, tough guy. Show me what you've got!
+PC19D_LEAVE_SMASH-9=
+
+
+#----------------------------------------------------
+# Tribot
+### Target acquired!
+PC19D_ENDCHAPTER6-1=
+
+
+#----------------------------------------------------
+

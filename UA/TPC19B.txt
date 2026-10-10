@@ -1,0 +1,3931 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Dee (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - Tribot (Unknown)
+#     Dee - Brok (Unknown)
+#     Dee - Gherkin (Unknown)
+#     Dee - Tribot (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Dee (Unknown)
+#     Gherkin - Tribot (Unknown)
+#     Tribot - Brok (Unknown)
+#     Tribot - Dee (Unknown)
+#     Tribot - Gherkin (Unknown)
+
+#-------------------------------
+#=BUNKER MAIN ROOM
+#-------------------------------
+
+#----- Interactions --------
+# A screen on the floor
+### Footscreen
+PC_FOOTSCREEN=Підлоговий екран
+
+### This way
+PC_THISWAY=Сюди
+
+# Kinda like a screen the player can use to see what's happening on the outside of the bunker
+### Frame
+PC_FRAME=Рамка
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribots
+PC_TRIBOTS=Триботи
+
+### Wall
+PC_WALL=Стіна
+
+### Control panel
+PC_CONTROLPANEL=Панель керування
+
+### Furniture
+PC_FURNITURE=Меблі
+
+### Little box
+PC_LITTLEBOX=Коробочка
+
+
+
+#----- Choices / Items --------
+### A little box!
+GOT_BATTERY=Коробочка!
+
+
+#----- Topics --------
+### What is off?
+PC19B_CHOICE_OFF=Що тут не так?
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### The Tribots behavior
+PC19B_CHOICE_TARGET=Поведінка Триботів
+
+### The Pills shortage
+PC19B_CHOICE_PILLS=Нестача пігулок
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Disable the Tribots
+PC19B_CHOICE_LETBROK=Розібратися з Триботами
+
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### What is Dr. Gherkin hiding?
+INTERROGATION_GHERKIN=Що приховує доктор Геркін?
+
+### How many members form the Government?
+INTERROGATION_TRIANGLE=Скільки членів входять до складу Уряду?
+
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Let Dee disable the Tribots
+PC19B_CHOICE_LETDEE=Дозволити Ді розібратися з Триботами
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Wreck the Tribots
+PC19B_CHOICE_FIGHT=Розтрощити Триботів
+
+### Exit and fight all the bots?
+PC19B_DOOR_CHOICE=Вийти й битися з усіма ботами?
+
+
+#----- Dialog --------
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+# Brok - Dee has tied up Dr. Gherkin to interrogate him. In this room a button can be pushed to do a shock to whoever is tied up so she uses that to interrogate him.
+### He's out cold...
+PC19B_GHERKIN1-1=Він зовсім непритомний...
+
+
+# Brok
+### That girl is crazy!
+PC19B_GHERKIN1-2=Ця дівчина божевільна!
+
+
+# Dee
+### Hey!!!
+PC19B_GHERKIN1-3=Гей!!!
+
+
+# Brok
+### Erm... Did I really say that out loud?...
+PC19B_GHERKIN1-4=Е-е... Я що, сказав це вголос...?
+
+
+#----------------------------------------------------
+# Brok - Brok presses the button
+### ...
+PC19B_BUTTON1-1=...
+
+
+# Brok
+### Still out cold.
+PC19B_BUTTON1-2=Досі непритомний.
+
+
+# Dee
+### Careful. He's no use to us stiff.
+PC19B_BUTTON1-3=Обережно. З мерця нам користі мало.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19B_BUTTON2-1=...
+
+
+#----------------------------------------------------
+# Dee
+### Stop! You're gonna kill him!
+PC19B_BUTTON3-1=Зупинись! Ти ж його вб'єш!
+
+
+# Brok
+### But... I like pressing that button!
+PC19B_BUTTON3-2=Але... мені подобається натискати цю кнопку!
+
+
+# Dee
+### And I'm the crazy one?!
+PC19B_BUTTON3-3=І це я тут божевільна?!
+
+
+#----------------------------------------------------
+# Dee - Brok kills Dr. Gherkin
+### ...Oh no.
+PC19B_GHERKIN_DEAD1-1=...О ні.
+
+
+# Brok
+### Oops.
+PC19B_GHERKIN_DEAD1-2=Ой.
+
+
+# Dee
+### I warned you! Now we'll never know the truth!
+PC19B_GHERKIN_DEAD1-3=Я ж попереджала! Тепер ми ніколи не дізнаємося правду!
+
+
+# Brok
+### That's... a shame, I guess?
+PC19B_GHERKIN_DEAD1-4=Це... прикро, мабуть?
+
+
+# Dee
+### You just killed a man! The one you were supposed to protect!
+PC19B_GHERKIN_DEAD1-5=Ти щойно вбив людину! Того, кого мав захищати!
+
+
+# Brok
+### Oh... No no no!
+PC19B_GHERKIN_DEAD1-6=О... Ні-ні-ні!
+
+
+# Brok
+### He owes me tons of moolah!
+PC19B_GHERKIN_DEAD1-7=Він мені винен був купу бабла!
+
+
+# Brok
+### Wake up! WAKE UP!
+PC19B_GHERKIN_DEAD1-8=Прокиньтеся! ПРОКИНЬТЕСЯ!
+
+
+#----------------------------------------------------
+# Brok - Trying to open the door of the room which is filled with Tribots
+### Err...
+PC19B_DOORBOTS1-1=Е-е...
+
+
+# Brok
+### Tempting, but for once, I'm mighty afraid of the consequences if I did that.
+PC19B_DOORBOTS1-2=Спокусливо, але цього разу мене аж трясе від думки про наслідки.
+
+
+#----------------------------------------------------
+# Brok
+### Must... resist... opening...
+PC19B_DOORBOTS2-1=Мушу... стриматися... і не... відчиняти...
+
+
+#----------------------------------------------------
+# Dee
+### ...!
+PC19B_DOORBOTS3-1=...!
+
+
+# Dee
+### What have you done!
+PC19B_DOORBOTS3-2=Що ти наробив!
+
+
+# Brok
+### Err... Oops?
+PC19B_DOORBOTS3-3=Е-е... Ой?
+
+
+# Dee
+### Your fault. You deal with them.
+PC19B_DOORBOTS3-4=Твоя провина. Сам із ними розбирайся.
+
+
+# Brok
+### Easy-peasy! Just watch!
+PC19B_DOORBOTS3-5=Раз плюнути! Просто дивися!
+
+
+#----------------------------------------------------
+# Brok - Winning a fight against them
+### (Pant, pant) What did I... tell ya!...
+PC19B_DOORBOTS_WIN-1=(Важко дихає) Що я тобі... казав...!
+
+
+# Dee
+### ...
+PC19B_DOORBOTS_WIN-2=...
+
+
+# Dee
+### Impressive. You truly are one heck of a guy.
+PC19B_DOORBOTS_WIN-3=Вражає. Ти й справді неймовірний хлопець.
+
+
+# Brok
+### Ha ha! No machine shall defeat me!
+PC19B_DOORBOTS_WIN-4=Ха-ха! Жодна машина мене не здолає!
+
+
+#----------------------------------------------------
+# Dee
+### Hey!
+PC19B_DOORBOTS_AFTER-1=Гей!
+
+
+# Dee
+### Aren't you forgetting something?
+PC19B_DOORBOTS_AFTER-2=Ти нічого не забув?
+
+
+# Brok
+### I gotta check this room.
+PC19B_DOORBOTS_AFTER-3=Треба оглянути цю кімнату.
+
+
+# Dee
+### Good idea. But not like this.
+PC19B_DOORBOTS_AFTER-4=Гарна думка. Але зачекай.
+
+
+# Dee
+### Hide. Let me disable the bots first.
+PC19B_DOORBOTS_AFTER-5=Поки сховайся. Дай я спершу розберуся з ботами.
+
+
+#----------------------------------------------------
+# Brok
+### Got it. I'll disable them one by one.
+PC19B_DOORBOTS_DISABLE-1=Зрозумів. Розберуся з ними по одному.
+
+
+#----------------------------------------------------
+# Brok
+### You really expect me to hide?!
+PC19B_DOORBOTS_FIGHTANYWAY-1=Ти й справді чекаєш, що я сховаюся?!
+
+
+# Brok
+### Nah! I'll handle them.
+PC19B_DOORBOTS_FIGHTANYWAY-2=Та ну! Я сам із ними впораюся.
+
+
+# Dee
+### Are you craz...
+PC19B_DOORBOTS_FIGHTANYWAY-3=Ти з глузду з'ї...
+
+
+# Dee
+### You know what? Do as you want.
+PC19B_DOORBOTS_FIGHTANYWAY-4=Знаєш що? Роби, як хочеш.
+
+
+# Dee
+### But don't count on me to help!
+PC19B_DOORBOTS_FIGHTANYWAY-5=Але на мою допомогу не розраховуй!
+
+
+# Brok
+### Me? Needing help?
+PC19B_DOORBOTS_FIGHTANYWAY-6=Я? Потребую допомоги?
+
+
+# Brok
+### Sit and watch!
+PC19B_DOORBOTS_FIGHTANYWAY-7=Просто сядь і дивись!
+
+
+#----------------------------------------------------
+# Brok
+### Go ahead.
+PC19B_DOORBOTS_DEEDISABLE-1=Вперед.
+
+
+#----------------------------------------------------
+# Dee
+### There. It's safe.
+PC19B_DOORBOTS_DEE-1=Ось так. Тут безпечно.
+
+
+# Brok
+### Thanks. I owe you one!
+PC19B_DOORBOTS_DEE-2=Дякую. Я твій боржник!
+
+
+# Dee
+### Find a way out. That's all that matters.
+PC19B_DOORBOTS_DEE-3=Знайди вихід. Це все, що має значення.
+
+
+#----------------------------------------------------
+# Brok
+### There ya go!
+PC19B_DOORBOTS_BROK-1=Ось так!
+
+
+# Dee
+### Huh.
+PC19B_DOORBOTS_BROK-2=Гмм.
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Doesn't seem very practical to watch the latest Skyball match.
+PC19B_SCREEN1-1=Він не дуже підійде, щоб подивитися останній матч зі скайболу.
+
+
+#----------------------------------------------------
+# Brok
+### The way is blocked.
+PC19B_GRAFFROOMS1-1=Шлях заблоковано.
+
+
+#----------------------------------------------------
+# Brok
+### Can't go there...
+PC19B_KLAYROOMS1-1=Туди не можна пройти...
+
+
+#----------------------------------------------------
+# Brok
+### I don't get it. Why are these things so keen to have my skin?
+PC19B_TRIBOTS1-1=Не розумію. Чому ці штуки так прагнуть здерти з мене шкіру?
+
+
+#----------------------------------------------------
+# Brok
+### I hate those.
+PC19B_TRIBOTS1_ALTERNATIVE-1=Ненавиджу їх.
+
+
+#----------------------------------------------------
+# Brok
+### Sure, I could leave.
+PC19B_DOOR1-1=Звісно, я міг би піти.
+
+
+# Brok
+### If not for the hundreds of killer machines waiting for me outside.
+PC19B_DOOR1-2=Якби не сотні машин-вбивць, що чекають на мене зовні.
+
+
+#----------------------------------------------------
+# Dee
+### Wait!
+PC19B_DOOR2-1=Стривай!
+
+
+# Dee
+### I thought you didn't want to go out?
+PC19B_DOOR2-2=Я думала, ти не хочеш виходити?
+
+
+# Dee
+### Do we really stand a chance against all those bots?
+PC19B_DOOR2-3=Чи справді в нас є шанси проти всіх цих ботів?
+
+
+#----------------------------------------------------
+# Brok
+### Right... this is suicide.
+PC19B_DOOR_NO-1=Маєш рацію... це самогубство.
+
+
+#----------------------------------------------------
+# Brok
+### We're running out of options!
+PC19B_DOOR_GO-1=У нас закінчуються варіанти!
+
+
+# Dee
+### Very well.
+PC19B_DOOR_GO-2=Гаразд.
+
+
+# Dee
+### But I'm not giving up yet!
+PC19B_DOOR_GO-3=Але я ще не здаюся!
+
+
+#----------------------------------------------------
+# Brok - Alternative to go out of the room - we decide to fight all the bots outside
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee attempted to find a solution with the help of Dr. Gherkin...
+PC19B_DOOR_YES3-1=Ді намагалася знайти вихід за допомогою доктора Геркіна...
+
+
+# Brok
+### To no avail.
+PC19B_DOOR_YES3-2=Усе марно.
+
+
+# Brok
+### During this search, the doc mentioned weird theories.
+PC19B_DOOR_YES3-3=Під час цих пошуків доктор згадував дивні теорії.
+
+
+# Brok
+### Like... "Eggs are the scientific symbol for loops."
+PC19B_DOOR_YES3-4=Наприклад... "Яйце - науковий символ петлі."
+
+
+# Brok
+### I was getting bored so I wrote it all down.
+PC19B_DOOR_YES3-5=Мені ставало нудно, тож я все це записав.
+
+
+# Brok
+### In the end, we decided to leave the doctor inside...
+PC19B_DOOR_YES3-6=Зрештою, ми вирішили залишити доктора всередині...
+
+
+# Brok
+### ...while we prepared ourselves...
+PC19B_DOOR_YES3-7=...поки ми готувалися...
+
+
+# Brok
+### ...for the fight of our lives.
+PC19B_DOOR_YES3-8=...до бою не на життя, а на смерть.
+
+
+# Brok
+### You're ready?
+PC19B_DOOR_YES3-9=Ти готова?
+
+
+# Dee
+### To save my husband? Couldn't be more ready.
+PC19B_DOOR_YES3-10=Врятувати свого чоловіка? Як ніколи готова.
+
+
+# Brok
+### Okay.
+PC19B_DOOR_YES3-11=Гаразд.
+
+
+# Brok
+### Three...
+PC19B_DOOR_YES3-12=Три...
+
+
+# Brok
+### Two...
+PC19B_DOOR_YES3-13=Два...
+
+
+# Brok
+### One...
+PC19B_DOOR_YES3-14=Один...
+
+
+#----------------------------------------------------
+# Brok - Room interactions
+### Hmm!... If my eyes aren't deceiving... There's some food inside!
+PC19B_FURNITURE_BEFORE1-1=Гмм...! Якщо очі мені не зраджують... Всередині є їжа!
+
+
+# Brok
+### But I can't reach it.
+PC19B_FURNITURE_BEFORE1-2=Але я не можу до неї дістатися.
+
+
+#----------------------------------------------------
+# Brok
+### I'll move this.
+PC19B_FURNITURE_MOVE-1=Спробую це пересунути.
+
+
+#----------------------------------------------------
+# Brok
+### Ah-ha!
+PC19B_FURNITURE_MOVE2-1=Ага!
+
+
+#----------------------------------------------------
+# Brok
+### Awww... It's locked.
+PC19B_FURNITURE_AFTER1-1=О-ох... Замкнено.
+
+
+#----------------------------------------------------
+# Brok
+### Empty.
+PC19B_FURNITURE_EMPTY-1=Порожньо.
+
+
+#----------------------------------------------------
+# Brok
+### Woops! It... accidentally broke!
+PC19B_FURNITURE_BREAK-1=Ой! Воно... випадково зламалося!
+
+
+# Dee
+### An accident, huh...
+PC19B_FURNITURE_BREAK-2=Випадково, кажеш...
+
+
+# Brok
+### Well... Better take this food before it expires!
+PC19B_FURNITURE_BREAK-3=Ну... Краще взяти їжу, поки вона не зіпсувалася!
+
+
+#----------------------------------------------------
+# Brok
+### Looks like some wires...? There might be something behind that piece of furniture.
+PC19B_CONTROLPANEL_BEFORE1-1=Схоже на якісь дроти...? За цією частиною меблів може щось бути.
+
+
+#----------------------------------------------------
+# Dee
+### Hey, wait!
+PC19B_CONTROLPANEL_OTHERS-1=Гей, почекай!
+
+
+# Dee
+### Do you know what you're doing?
+PC19B_CONTROLPANEL_OTHERS-2=Ти хоч знаєш, що робиш?
+
+
+# Brok
+### Not really.
+PC19B_CONTROLPANEL_OTHERS-3=Не дуже.
+
+
+# Dee
+### (Sigh)
+PC19B_CONTROLPANEL_OTHERS-4=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...
+PC19B_CONTROLPANEL1-1=Гмм...
+
+
+# Brok
+### Doc. I need your help.
+PC19B_CONTROLPANEL1-2=Доку. Мені потрібна ваша допомога.
+
+
+# Brok
+### Any idea what's over here?
+PC19B_CONTROLPANEL1-3=Є ідеї, що це таке?
+
+
+# Gherkin
+### ...
+PC19B_CONTROLPANEL1-4=...
+
+
+# Gherkin
+### I can't see very well from here. What does it look like?
+PC19B_CONTROLPANEL1-5=Звідси погано видно. На що це схоже?
+
+
+# Brok
+### A bunch of... egg shaped thingies.
+PC19B_CONTROLPANEL1-6=Купа якихось... штуковин у формі яєць.
+
+
+# Gherkin
+### This must be a control panel for the bunker equipment.
+PC19B_CONTROLPANEL1-7=Це, мабуть, панель керування обладнанням бункера.
+
+
+# Brok
+### What kind of equipment?
+PC19B_CONTROLPANEL1-8=Яким саме обладнанням?
+
+
+# Gherkin
+### The light... The fridge... The shield...
+PC19B_CONTROLPANEL1-9=Світлом... холодильником... щитом...
+
+
+# Dee
+### Shield?...
+PC19B_CONTROLPANEL1-10=Щитом...?
+
+
+# Gherkin
+### Of course! This is a bunker.
+PC19B_CONTROLPANEL1-11=Звісно! Це ж бункер.
+
+
+# Gherkin
+### It's meant to protect from external threats.
+PC19B_CONTROLPANEL1-12=Він створений для захисту від зовнішніх загроз.
+
+
+# Dee
+### We HAVE an external threat!
+PC19B_CONTROLPANEL1-13=У нас ЯКРАЗ є зовнішня загроза!
+
+
+# Gherkin
+### Oh?...
+PC19B_CONTROLPANEL1-14=О...?
+
+
+# Gherkin
+### Oh!
+PC19B_CONTROLPANEL1-15=О!
+
+
+# Brok
+### Let's use this to get rid of them!
+PC19B_CONTROLPANEL1-16=Давайте скористаємося щитом, щоб їх позбутися!
+
+
+# Gherkin
+### I-I'm afraid that's not possible.
+PC19B_CONTROLPANEL1-17=Я-я боюся, що це неможливо.
+
+
+# Gherkin
+### As it is, the shield will only prevent the bots from coming in.
+PC19B_CONTROLPANEL1-18=У такому стані щит лише завадить ботам зайти всередину.
+
+
+# Dee
+### Not good enough. We need a way to immobilize or damage them.
+PC19B_CONTROLPANEL1-19=Нам потрібен спосіб їх знерухомити чи пошкодити.
+
+
+# Brok
+### This will require some more thought.
+PC19B_CONTROLPANEL1-20=Нам треба краще все обміркувати.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19B_CONTROLPANEL2-1=...
+
+
+# Dee
+### Wait! What are you doing?
+PC19B_CONTROLPANEL2-2=Стривай! Що ти робиш?
+
+
+# Brok
+### Gonna cut some wires to try...
+PC19B_CONTROLPANEL2-3=Збираюся перерізати кілька дротів, щоб...
+
+
+# Dee
+### Woah! No way!
+PC19B_CONTROLPANEL2-4=Ого! У жодному разі!
+
+
+# Dee
+### I forbid you to touch that!
+PC19B_CONTROLPANEL2-5=Не чіпай, я забороняю!
+
+
+# Brok
+### Hey, you're not my mom. We gotta try somethin'.
+PC19B_CONTROLPANEL2-6=Гей, ти мені не мама. Ми маємо щось спробувати.
+
+
+# Dee
+### Go on. Try and I'll make you eat my bludgeon.
+PC19B_CONTROLPANEL2-7=Ну ж бо. Спробуй, і я тобі усі зуби виб'ю.
+
+
+# Brok
+### You're no fun.
+PC19B_CONTROLPANEL2-8=Зануда.
+
+
+#----------------------------------------------------
+# Brok
+### I'll let the doctor handle this.
+PC19B_CONTROLPANEL_AFTER-1=Залишу це докторові.
+
+
+#----------------------------------------------------
+# Brok
+### You're okay?
+PC19B_GHERKIN_BEFORECONTROLPANEL-1=Усе гаразд?
+
+
+# Gherkin
+### I'd be much better if you would release me.
+PC19B_GHERKIN_BEFORECONTROLPANEL-2=Було б набагато краще, якби ви мене звільнили.
+
+
+# Brok
+### We'll untie you before leaving. Promise.
+PC19B_GHERKIN_BEFORECONTROLPANEL-3=Ми вас розв'яжемо, перш ніж підемо. Обіцяю.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, Doc. Think you can use that control panel?
+PC19B_GHERKIN_CONTROLPANEL1-1=Гей, доку. Як думаєте, зможете скористатися панеллю керування?
+
+
+# Gherkin
+### I can't be sure...
+PC19B_GHERKIN_CONTROLPANEL1-2=Я не впевнений...
+
+
+# Gherkin
+### I would need to go over there to check!
+PC19B_GHERKIN_CONTROLPANEL1-3=Мені треба підійти туди й перевірити!
+
+
+# Dee
+### Is that a trick to release you?
+PC19B_GHERKIN_CONTROLPANEL1-4=Це якийсь трюк, щоб ми вас звільнили?
+
+
+# Gherkin
+### ...Please!
+PC19B_GHERKIN_CONTROLPANEL1-5=...Будь ласка!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Come on. Let's untie him, Dee. He could be useful.
+PC19B_GHERKIN_CONTROLPANEL1-6=Ну ж бо. Розв'яжімо його, Ді. Він може бути корисним.
+
+
+# Dee
+### ...
+PC19B_GHERKIN_CONTROLPANEL1-7=...
+
+
+# Dee
+### Alright. But no escaping!
+PC19B_GHERKIN_CONTROLPANEL1-8=Гаразд. Але не намагайтеся втекти!
+
+
+# Gherkin
+### With all those bots waiting for us? I'm not crazy!
+PC19B_GHERKIN_CONTROLPANEL1-9=З усіма цими ботами? Я ще при здоровому глузді!
+
+
+#----------------------------------------------------
+# Brok
+### So?...
+PC19B_GHERKIN_CONTROLPANEL2-1=Ну то що...?
+
+
+# Gherkin
+### Have you ever wondered why these panels have this particular shape?
+PC19B_GHERKIN_CONTROLPANEL2-2=Ви коли-небудь замислювалися, чому ці панелі мають саме таку форму?
+
+
+# Brok
+### No but I'm afraid you're gonna tell me.
+PC19B_GHERKIN_CONTROLPANEL2-3=Ні, але боюся, ви зараз мені розкажете.
+
+
+# Gherkin
+### The egg is the scientific symbol for loops.
+PC19B_GHERKIN_CONTROLPANEL2-4=Яйце - це науковий символ петлі.
+
+
+# Gherkin
+### The energy flows in and out of those receptacles, creating a loop.
+PC19B_GHERKIN_CONTROLPANEL2-5=Енергія втікає в ці резервуари й витікає з них, утворюючи петлю.
+
+
+# Brok
+### Okay... And how does this help?
+PC19B_GHERKIN_CONTROLPANEL2-6=Гаразд... І чим це допоможе?
+
+
+# Gherkin
+### I've made some changes.
+PC19B_GHERKIN_CONTROLPANEL2-7=Я дещо змінив.
+
+
+# Brok
+### Already?...
+PC19B_GHERKIN_CONTROLPANEL2-8=Вже...?
+
+
+# Gherkin - This is random scientific blah blah, don't search any meaning and translate how you want
+### I've reverted the polarities of the non-zero component in order to transform the charge.
+PC19B_GHERKIN_CONTROLPANEL2-9=Я змінив полярність ненульового компонента, щоб перетворити заряд.
+
+
+# Brok
+### Which means?...
+PC19B_GHERKIN_CONTROLPANEL2-10=І це означає...?
+
+
+# Gherkin
+### The shield should now generate energy surrounding the portal.
+PC19B_GHERKIN_CONTROLPANEL2-11=Тепер щит повинен генерувати енергію навколо входу.
+
+
+# Gherkin
+### I'll try it. Can you check if it's having any effect?
+PC19B_GHERKIN_CONTROLPANEL2-12=Я спробую. Можете перевірити, чи він працює?
+
+
+# Brok
+### Sure.
+PC19B_GHERKIN_CONTROLPANEL2-13=Звісно.
+
+
+#----------------------------------------------------
+# Gherkin
+### One... Two... Three.
+PC19B_GHERKIN_FRAMECHECK1-1=Раз... Два... Три.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19B_GHERKIN_FRAMECHECK2-1=...
+
+
+# Brok
+### I've seen... A blue light surrounding the portal...
+PC19B_GHERKIN_FRAMECHECK2-2=Я бачив... Синє світло навколо входу...
+
+
+# Gherkin
+### That's all?
+PC19B_GHERKIN_FRAMECHECK2-3=І все?
+
+
+# Gherkin
+### What about the bots?
+PC19B_GHERKIN_FRAMECHECK2-4=А що з ботами?
+
+
+# Brok
+### Nothin'.
+PC19B_GHERKIN_FRAMECHECK2-5=Нічого.
+
+
+# Gherkin
+### Darn...
+PC19B_GHERKIN_FRAMECHECK2-6=Дідько...
+
+
+# Gherkin
+### I'm afraid this won't work.
+PC19B_GHERKIN_FRAMECHECK2-7=Боюся, мій план не спрацює.
+
+
+# Brok
+### Hey, it's a good start!
+PC19B_GHERKIN_FRAMECHECK2-8=Гей, але ж це гарний початок!
+
+
+#----------------------------------------------------
+# Gherkin
+### It's over. We'll be stuck here forever...
+PC19B_GHERKIN_CONTROLPANEL3-1=Усе скінчено. Ми застрягнемо тут назавжди...
+
+
+# Brok
+### No way! I'll fight my way through if I need to!
+PC19B_GHERKIN_CONTROLPANEL3-2=Ще чого! Якщо треба, то я проб'юся з боєм!
+
+
+# Brok
+### What's wrong with your idea?
+PC19B_GHERKIN_CONTROLPANEL3-3=А що не так із вашою ідеєю?
+
+
+# Gherkin
+### I was convinced I could generate a small power field...
+PC19B_GHERKIN_CONTROLPANEL3-4=Я був переконаний, що зможу створити невелике силове поле...
+
+
+# Gherkin
+### Enough to hit the power container next to the portal.
+PC19B_GHERKIN_CONTROLPANEL3-5=Достатньо потужне, щоб ударити по енергоблоку біля входу.
+
+
+# Brok
+### That pyramid shaped thing?
+PC19B_GHERKIN_CONTROLPANEL3-6=Ота штука у формі піраміди?
+
+
+# Gherkin
+### Yes. It would create a closed circuit, which would then generate a big shock wave.
+PC19B_GHERKIN_CONTROLPANEL3-7=Так. Це замкнуло б ланцюг і створило б потужну ударну хвилю.
+
+
+# Brok
+### Man! That is a crazy good idea! Let's do this!
+PC19B_GHERKIN_CONTROLPANEL3-8=Йой! А це неймовірна ідея! Нумо зробімо це!
+
+
+# Gherkin
+### I've tried! You've seen it.
+PC19B_GHERKIN_CONTROLPANEL3-9=Я спробував! Ви самі бачили.
+
+
+# Gherkin
+### The field is too short to reach the power container.
+PC19B_GHERKIN_CONTROLPANEL3-10=Поле занадто коротке, воно не дістає до енергоблока.
+
+
+# Brok
+### Surely there's a way to improve it.
+PC19B_GHERKIN_CONTROLPANEL3-11=Певно, є спосіб це покращити.
+
+
+# Gherkin
+### With the right material, yes.
+PC19B_GHERKIN_CONTROLPANEL3-12=З відповідним матеріалом - так.
+
+
+# Gherkin
+### But here?
+PC19B_GHERKIN_CONTROLPANEL3-13=Але тут?
+
+
+# Brok
+### What do you need, exactly?
+PC19B_GHERKIN_CONTROLPANEL3-14=Що саме вам потрібно?
+
+
+# Gherkin
+### I don't know...
+PC19B_GHERKIN_CONTROLPANEL3-15=Я не знаю...
+
+
+# Gherkin
+### Maybe... A power generator?...
+PC19B_GHERKIN_CONTROLPANEL3-16=Можливо... Генератор живлення...?
+
+
+# Brok
+### I'll get you that!
+PC19B_GHERKIN_CONTROLPANEL3-17=Я його для вас дістану!
+
+
+# Gherkin
+### Don't get your hopes up...
+PC19B_GHERKIN_CONTROLPANEL3-18=Не тіште себе надіями...
+
+
+#----------------------------------------------------
+# Gherkin
+### One... Two... Three.
+PC19B_GHERKIN_FRAMECHECKB1-1=Раз... Два... Три.
+
+
+#----------------------------------------------------
+# Brok
+### Holy moly! It worked!!!
+PC19B_GHERKIN_FRAMECHECKB2-1=Ого-го! Спрацювало!!!
+
+
+# Gherkin
+### For real?!
+PC19B_GHERKIN_FRAMECHECKB2-2=Справді?!
+
+
+# Brok
+### Yeah! All bots... Wiped out!
+PC19B_GHERKIN_FRAMECHECKB2-3=Ага! Усіх ботів... Знищено!
+
+
+# Dee
+### Finally. Not a second to spare!
+PC19B_GHERKIN_FRAMECHECKB2-4=Нарешті. Не будемо гаяти ані хвилини!
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Come on, Brok!
+PC19B_GHERKIN_FRAMECHECKB2-5=Ходімо, Броку!
+
+
+#----------------------------------------------------
+# Gherkin
+### Hey, don't forget me!
+PC19B_GHERKIN_FRAMECHECKB3-1=Гей, не забудьте про мене!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee! Don't tell me...
+PC19B_GHERKIN_FRAMECHECKB3-2=Ді! Тільки не кажи мені...
+
+
+# Gherkin
+### I'm stuck inside!
+PC19B_GHERKIN_FRAMECHECKB3-3=Я застряг усередині!
+
+
+# Dee
+### Don't worry. It's a bunker. There are plenty of supplies.
+PC19B_GHERKIN_FRAMECHECKB3-4=Не хвилюйтеся. Це бункер. Там повно запасів.
+
+
+# Gherkin
+### B-but!...
+PC19B_GHERKIN_FRAMECHECKB3-5=А-але...!
+
+
+# Brok
+### Another crazy idea of yours?
+PC19B_GHERKIN_FRAMECHECKB3-6=Чергова твоя божевільна ідея?
+
+
+# Dee
+### I'm not finished with him.
+PC19B_GHERKIN_FRAMECHECKB3-7=Я з ним ще не закінчила.
+
+
+# Dee - Here she addresses the doc
+### We'll come back for you right after.
+PC19B_GHERKIN_FRAMECHECKB3-8=Ми повернемося за вами одразу, як закінчимо.
+
+
+# Gherkin
+### Ohh... This nightmare will never end.
+PC19B_GHERKIN_FRAMECHECKB3-9=Ох... Цей жах ніколи не закінчиться.
+
+
+# Brok
+### (Sigh)
+PC19B_GHERKIN_FRAMECHECKB3-10=(Зітхає)
+
+
+# Brok
+### Okay... At least he's safe there.
+PC19B_GHERKIN_FRAMECHECKB3-11=Гаразд... Принаймні там він у безпеці.
+
+
+# Brok
+### Let's go.
+PC19B_GHERKIN_FRAMECHECKB3-12=Ходімо.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, Doc. Would this doodah help?
+PC19B_GHERKIN_BATTERY-1=Гей, док. Оця штука допоможе?
+
+
+# Gherkin
+### ...
+PC19B_GHERKIN_BATTERY-2=...
+
+
+# Gherkin
+### Where did you find this?!
+PC19B_GHERKIN_BATTERY-3=Де ви це знайшли?!
+
+
+# Brok
+### The switch that, erm... Shocked you.
+PC19B_GHERKIN_BATTERY-4=У перемикачі, який, е-е... Бив вас струмом.
+
+
+# Brok
+### I believe that's what powered it.
+PC19B_GHERKIN_BATTERY-5=Здається, це його джерело живлення.
+
+
+# Gherkin
+### It's... perfect!
+PC19B_GHERKIN_BATTERY-6=Це... ідеально!
+
+
+# Brok
+### Really?... Cool!
+PC19B_GHERKIN_BATTERY-7=Справді...? Круто!
+
+
+# Brok
+### So this will work?
+PC19B_GHERKIN_BATTERY-8=То це спрацює?
+
+
+# Gherkin
+### Very unlikely.
+PC19B_GHERKIN_BATTERY-9=Дуже малоймовірно.
+
+
+# Brok
+### But you said?...
+PC19B_GHERKIN_BATTERY-10=Але ж ви казали...?
+
+
+# Gherkin
+### We'll try. I'll connect the wires.
+PC19B_GHERKIN_BATTERY-11=Ми спробуємо. Я під'єднаю дроти.
+
+
+# Gherkin
+### This will take a while.
+PC19B_GHERKIN_BATTERY-12=На це піде певний час.
+
+
+# Brok
+### Okay. I'll leave you to it.
+PC19B_GHERKIN_BATTERY-13=Гаразд. Не буду вам заважати.
+
+
+#----------------------------------------------------
+# Brok - Brok tries to comfort Dee after the news her husband Sin is in danger
+### You okay?
+PC19B_GHERKIN_AFTERGIVEN1-1=Ти як?
+
+
+# Dee
+### ...
+PC19B_GHERKIN_AFTERGIVEN1-2=...
+
+
+# Dee
+### When I didn't see him at his apartment, I just figured he left.
+PC19B_GHERKIN_AFTERGIVEN1-3=Коли я не побачила його у квартирі, то вирішила, що він кудись пішов.
+
+
+# Dee
+### I could never imagine...
+PC19B_GHERKIN_AFTERGIVEN1-4=Я й уявити не могла...
+
+
+# Brok
+### Relax. We'll save him.
+PC19B_GHERKIN_AFTERGIVEN1-5=Розслабся. Ми врятуємо його.
+
+
+# Dee
+### How can you say that?!
+PC19B_GHERKIN_AFTERGIVEN1-6=Як ти можеш таке казати?!
+
+
+# Dee
+### It may already be too late...!
+PC19B_GHERKIN_AFTERGIVEN1-7=Можливо, вже занадто пізно...!
+
+
+# Brok
+### We will.
+PC19B_GHERKIN_AFTERGIVEN1-8=Врятуємо.
+
+
+# Brok
+### ...
+PC19B_GHERKIN_AFTERGIVEN1-9=...
+
+
+# Brok
+### I had never met someone like you before.
+PC19B_GHERKIN_AFTERGIVEN1-10=Я ніколи раніше не зустрічав таких людей, як ти.
+
+
+# Dee
+### You're certainly right.
+PC19B_GHERKIN_AFTERGIVEN1-11=Тут ти, безперечно, маєш рацію.
+
+
+# Dee
+### I'm not the kind of person who would stay home all day to make and raise children.
+PC19B_GHERKIN_AFTERGIVEN1-12=Я не з тих, хто сидітиме вдома цілими днями заради народження й виховання дітей.
+
+
+# Dee
+### I don't care if we're the last of our kind, society needs us.
+PC19B_GHERKIN_AFTERGIVEN1-13=Мені байдуже, чи ми останні у своєму роді, суспільство потребує нас.
+
+
+# Dee
+### Society won't decide for me.
+PC19B_GHERKIN_AFTERGIVEN1-14=Суспільство не вирішуватиме за мене.
+
+
+# Brok
+### But you still have a daughter.
+PC19B_GHERKIN_AFTERGIVEN1-15=Але ж у тебе є донька.
+
+
+# Dee
+### Yes...
+PC19B_GHERKIN_AFTERGIVEN1-16=Так...
+
+
+# Dee
+### ...
+PC19B_GHERKIN_AFTERGIVEN1-17=...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### I miss her... I miss Sin...
+PC19B_GHERKIN_AFTERGIVEN1-18=Я сумую за нею... Я сумую за Сіном...
+
+
+# Dee
+### What about you?
+PC19B_GHERKIN_AFTERGIVEN1-19=А як щодо тебе?
+
+
+# Brok
+### I had a wife... for a brief moment. She passed away.
+PC19B_GHERKIN_AFTERGIVEN1-20=У мене була дружина... на коротку мить. Вона померла.
+
+
+# Dee
+### Oh... Sorry.
+PC19B_GHERKIN_AFTERGIVEN1-21=Ох... Вибач.
+
+
+# Brok
+### And a son... who isn't really my son.
+PC19B_GHERKIN_AFTERGIVEN1-22=І син... не рідний.
+
+
+# Brok
+### He doesn't like me.
+PC19B_GHERKIN_AFTERGIVEN1-23=Я йому не подобаюся.
+
+
+# Dee
+### That's a lie.
+PC19B_GHERKIN_AFTERGIVEN1-24=Це брехня.
+
+
+# Brok
+### What?
+PC19B_GHERKIN_AFTERGIVEN1-25=Що?
+
+
+# Dee
+### He loves you. I'm certain of it.
+PC19B_GHERKIN_AFTERGIVEN1-26=Він любить тебе. Я в цьому впевнена.
+
+
+# Brok
+### How would you know? You've never met him.
+PC19B_GHERKIN_AFTERGIVEN1-27=Звідки тобі знати? Ти ж із ним навіть не знайома.
+
+
+# Dee
+### I know you.
+PC19B_GHERKIN_AFTERGIVEN1-28=Я знаю тебе.
+
+
+# Dee
+### Yeah, we've only just met but...
+PC19B_GHERKIN_AFTERGIVEN1-29=Так, ми щойно познайомилися, але...
+
+
+# Dee
+### I feel... That I can trust you.
+PC19B_GHERKIN_AFTERGIVEN1-30=Я відчуваю... Що можу тобі довіряти.
+
+
+# Brok
+### Erm... An hour ago you were ready to slay me.
+PC19B_GHERKIN_AFTERGIVEN1-31=Е-е... Годину тому ти була готова мене вбити.
+
+
+# Dee
+### Just fooling with you! You don't get girl humor, do you?
+PC19B_GHERKIN_AFTERGIVEN1-32=Просто жартувала! Ти не розумієш жіночого гумору, еге ж?
+
+
+# Brok
+### A joke... Right! Ah ah.
+PC19B_GHERKIN_AFTERGIVEN1-33=Жарт... Авжеж! Ха-ха.
+
+
+# Dee
+### ...
+PC19B_GHERKIN_AFTERGIVEN1-34=...
+
+
+# Brok
+### ...
+PC19B_GHERKIN_AFTERGIVEN1-35=...
+
+
+# Brok
+### Erm... Something on my face?...
+PC19B_GHERKIN_AFTERGIVEN1-36=Е-е... У мене щось на обличчі...?
+
+
+# Dee
+### You know... If the situation was different...
+PC19B_GHERKIN_AFTERGIVEN1-37=Знаєш... Якби ситуація була іншою...
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Mister Brok!
+PC19B_GHERKIN_AFTERGIVEN1-38=Пане Броку!
+
+
+# Gherkin
+### It's done. Can you check the entrance view?
+PC19B_GHERKIN_AFTERGIVEN1-39=Усе готово. Можете подивитися на вхід?
+
+
+# Brok
+### Alright.
+PC19B_GHERKIN_AFTERGIVEN1-40=Гаразд.
+
+
+#----------------------------------------------------
+# Brok - Checking frame on the wall
+### Isn't this... a view of the bunker entrance?
+PC19B_FRAME1-1=Хіба це... не вид на вхід до бункера?
+
+
+#----------------------------------------------------
+# Brok
+### Oh oh...
+PC19B_ENTRANCE_PICTURE1-1=Ой-ой...
+
+
+# Brok
+### I've been in an awful lot of messed up situations in the past but this is...
+PC19B_ENTRANCE_PICTURE1-2=У моєму житті бувало чимало лайна, але це...
+
+
+# Brok
+### The cherry on the cake!
+PC19B_ENTRANCE_PICTURE1-3=Просто вишенька на торті!
+
+
+# Dee
+### And we're the cherry.
+PC19B_ENTRANCE_PICTURE1-4=І ми - ця вишенька.
+
+
+#----------------------------------------------------
+# Brok
+### How are we ever gonna pass through this?...
+PC19B_ENTRANCE_PICTURE2-1=Як нам взагалі пройти крізь це все...?
+
+
+#----------------------------------------------------
+# Gherkin - Pressing the button
+### Stop!
+PC19B_BUTTON_GHERKIN1-1=Спиніться!
+
+
+# Gherkin
+### Why are you doing this?
+PC19B_BUTTON_GHERKIN1-2=Чому ви це робите?
+
+
+# Brok
+### For fun?
+PC19B_BUTTON_GHERKIN1-3=Заради розваги?
+
+
+# Gherkin
+### Please!... That hurts!
+PC19B_BUTTON_GHERKIN1-4=Благаю...! Це боляче!
+
+
+# Brok
+### Okay, okay. I'll try to contain my fingers.
+PC19B_BUTTON_GHERKIN1-5=Гаразд, гаразд. Намагатимусь стримувати свої пальці.
+
+
+#----------------------------------------------------
+# Gherkin
+### Please...! Don't!
+PC19B_BUTTON_GHERKIN2-1=Благаю...! Не треба!
+
+
+# Brok
+### Just joking!
+PC19B_BUTTON_GHERKIN2-2=Я просто жартую!
+
+
+#----------------------------------------------------
+# Brok
+### Why build a bunker with this kind of torture device?
+PC19B_BUTTON_WITHOUT1-1=Навіщо будувати бункер із таким знаряддям тортур?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC19B_BUTTON_WITHOUT2-1=...
+
+
+# Brok
+### That thing generates a power shock. I wonder where this power comes from?...
+PC19B_BUTTON_WITHOUT2-2=Ця штука генерує потужний розряд. Цікаво, звідки береться ця енергія...?
+
+
+#----------------------------------------------------
+# Dee - Dee is talking to Brok here (informal)
+### Hey! Stop!
+PC19B_BUTTON_NODESTROY1-1=Гей! Зупинись!
+
+
+# Dee
+### I know you don't approve but I need to get this working.
+PC19B_BUTTON_NODESTROY1-2=Я знаю, що ти не схвалюєш моїх методів, але мені треба, щоб воно працювало.
+
+
+#----------------------------------------------------
+# Dee
+### You destroyed this? With your bare hands?!
+PC19B_BUTTON_DESTROY1-1=Ти це знищив? Голими руками?!
+
+
+# Brok
+### Gotta investigate, ma'am!
+PC19B_BUTTON_DESTROY1-2=Мушу розслідувати, пані!
+
+
+#----------------------------------------------------
+# Brok
+### What for? Disabling it?...
+PC19B_BUTTON_REMOTECONTROL-1=Для чого? Щоб вимкнути це...?
+
+
+#----------------------------------------------------
+# Brok
+### No time to waste. I need to take drastic measures!
+PC19B_BUTTON_OTHERS-1=Немає часу гаяти. Доведеться вдатися до радикальних заходів!
+
+
+#----------------------------------------------------
+# Brok
+### What's this doodad?...
+PC19B_BATTERY1-1=Що це за штукенція...?
+
+
+# Brok
+### Seems interesting. I should take it!
+PC19B_BATTERY1-2=Виглядає цікаво. Заберу з собою!
+
+
+#----------------------------------------------------
+# Brok - Coming in this room for the first time, Brok sees Dee who already tied up Dr Gherkin - Here he addresses both of them
+### There you are...
+PC19B_INIT1-1=А ось і ви...
+
+
+# Brok - And here, only Dee
+### Huh...? What the heck are you doin'?!
+PC19B_INIT1-2=Га?... Якого біса ти робиш?!
+
+
+# Dee
+### Interrogating.
+PC19B_INIT1-3=Допитую.
+
+
+# Gherkin
+### She... She hooked me there!
+PC19B_INIT1-4=Вона... Вона причепила мене до стіни!
+
+
+# Brok
+### Are you nuts?!
+PC19B_INIT1-5=Ти з глузду з'їхала?!
+
+
+# Brok
+### You think it's the right time for this?!
+PC19B_INIT1-6=Думаєш, зараз слушний час для допитів?!
+
+
+# Dee
+### This guy is hiding something!
+PC19B_INIT1-7=Цей тип щось приховує!
+
+
+# Brok
+### What about you?!
+PC19B_INIT1-8=А як щодо тебе?!
+
+
+# Dee
+### I thought I had come clean.
+PC19B_INIT1-9=Я думала, що все вже розповіла.
+
+
+# Brok
+### No, you didn't! I wasn't finished when all those bots landed on us.
+PC19B_INIT1-10=Ні, не все! Коли на нас навалилися всі ці боти, я ще не закінчив.
+
+
+# Dee
+### Fine.
+PC19B_INIT1-11=Гаразд.
+
+
+# Dee
+### I'll tell you everything. As long as you don't get in my way to interrogate him.
+PC19B_INIT1-12=Я розповім тобі все. За умови, що ти не заважатимеш мені його допитувати.
+
+
+# Brok
+### Can't promise that.
+PC19B_INIT1-13=Не можу обіцяти.
+
+
+# Dee
+### Then we'll have to settle this once and for all.
+PC19B_INIT1-14=Тоді нам доведеться покінчити з цим раз і назавжди.
+
+
+# Brok
+### A fight?!
+PC19B_INIT1-15=Бійка?!
+
+
+# Brok
+### No thanks. I've had enough brawling for the day.
+PC19B_INIT1-16=Ні, дякую. З мене на сьогодні досить бійок.
+
+
+# Brok
+### Should I remind you we're surrounded by bots who want us dead?
+PC19B_INIT1-17=Нагадати тобі, що нас оточили боти, які прагнуть нашої смерті?
+
+
+# Brok
+### Let's save our strength for them.
+PC19B_INIT1-18=Краще збережімо сили для них.
+
+
+# Dee
+### (Sigh)
+PC19B_INIT1-19=(Зітхає)
+
+
+# Dee
+### I guess you're right.
+PC19B_INIT1-20=Мабуть, маєш рацію.
+
+
+# Brok
+### And talking about that...
+PC19B_INIT1-21=І якщо ми вже про це заговорили...
+
+
+# Brok
+### Man. Those things are everywhere... and relentless!
+PC19B_INIT1-22=Дідько. Ці штуки скрізь... і вони невтомні!
+
+
+# Gherkin
+### I-I'm scared... Can someone untie me?...
+PC19B_INIT1-23=Я-я боюся... Може, хтось мене розв'яже...?
+
+
+# Dee
+### Not yet.
+PC19B_INIT1-24=Поки ні.
+
+
+# Gherkin
+### B-but...!
+PC19B_INIT1-25=А-але...!
+
+
+# Brok
+### Are you suspecting the doctor to be the cause of the robots havoc?
+PC19B_INIT1-26=Ти підозрюєш, що це доктор влаштував увесь цей безлад із роботами?
+
+
+# Dee
+### ...
+PC19B_INIT1-27=...
+
+
+# Dee
+### It's a possibility. He's involved in a lot of things.
+PC19B_INIT1-28=Це можливо. Він замішаний у багатьох справах.
+
+
+# Brok
+### That can't be right.
+PC19B_INIT1-29=Цього не може бути.
+
+
+# Gherkin
+### I've got nothing to do with this! I swear!
+PC19B_INIT1-30=Я не маю до цього жодного стосунку! Клянуся!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### If he unleashed them, why risk his own life by getting through the Slums?
+PC19B_INIT1-31=Якщо це він їх випустив, то навіщо ризикувати власним життям, пробираючись через Нетрі?
+
+
+# Brok
+### What would he gain from this?
+PC19B_INIT1-32=Що він від цього отримає?
+
+
+# Dee
+### ...
+PC19B_INIT1-33=...
+
+
+# Dee
+### I don't have all the info yet. But I have the means to find out!
+PC19B_INIT1-34=У мене ще немає всієї інформації. Але тепер я маю добрий засіб, щоб усе з'ясувати!
+
+
+#----------------------------------------------------
+# Brok
+### Well... I'm not sure...
+PC19B_INIT1B-1=Ну... Я не впевнений...
+
+
+# Brok
+### ...?
+PC19B_INIT1B-2=...?
+
+
+# Brok
+### Something's off.
+PC19B_INIT1B-3=Щось тут не так.
+
+
+# Dee
+### What do you mean?
+PC19B_INIT1B-4=Що ти маєш на увазі?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Dr. Gherkin is lying to us.
+PC19B_GHERKINPROB1-1=Доктор Геркін нам бреше.
+
+
+# Dee
+### Finally, you're listening!
+PC19B_GHERKINPROB1-2=Нарешті ти прислухаєшся!
+
+
+# Dee
+### Let's finish this. I know exactly how to make him spill the beans.
+PC19B_GHERKINPROB1-3=Покінчимо з цим. Я точно знаю, як змусити його розколотися.
+
+
+# Brok
+### Wait!...
+PC19B_GHERKINPROB1-4=Зачекай...!
+
+
+# Brok
+### There's... Something else.
+PC19B_GHERKINPROB1-5=Є... ще дещо.
+
+
+#----------------------------------------------------
+# Brok
+### That pills shortage is abnormal.
+PC19B_PILLS1-1=Ця нестача пігулок дуже нетипова.
+
+
+# Dee
+### Figured that one out all by yourself, Sherlock?
+PC19B_PILLS1-2=Сам додумався, Шерлоку?
+
+
+# Dee
+### I thought you were gonna say something clever.
+PC19B_PILLS1-3=Я думала, ти скажеш щось розумне.
+
+
+# Dee
+### That was too much to expect from someone like you.
+PC19B_PILLS1-4=Марно було очікувати більшого від когось на кшталт тебе.
+
+
+# Brok
+### Someone like me?!
+PC19B_PILLS1-5=Від когось на кшталт мене?!
+
+
+# Dee
+### Yeah. A scaly stack of fat built over a fine stature.
+PC19B_PILLS1-6=Угу. Лускатого мішку із жиром на прекрасній статурі.
+
+
+# Brok
+### Fine...?
+PC19B_PILLS1-7=Прекрасній...?
+
+
+# Dee
+### You've been living alone for a long time, am I right?
+PC19B_PILLS1-8=Ти вже давно живеш сам, я права?
+
+
+# Brok
+### Yeah... Well... Not exactly.
+PC19B_PILLS1-9=Ну... Ну... Не зовсім.
+
+
+# Dee
+### Sorry. You've been through a lot too. It'd be hard not to notice.
+PC19B_PILLS1-10=Вибач. Ти теж багато чого пережив. Важко цього не помітити.
+
+
+# Dee
+### And that's what makes you... what you are.
+PC19B_PILLS1-11=І саме це робить тебе... тим, хто ти є.
+
+
+# Brok
+### Actually, you just reminded me that girls always love talking in cryptic ways.
+PC19B_PILLS1-12=Власне, ти щойно нагадала мені, що дівчата завжди люблять говорити загадками.
+
+
+# Dee
+### Hmm.
+PC19B_PILLS1-13=Гмм.
+
+
+# Dee
+### So! Was there something else you noticed, Genius?
+PC19B_PILLS1-14=Отже! Було ще щось, що ти помітив, генію?
+
+
+#----------------------------------------------------
+# Brok - Brok wants to test the behavior of robots
+### I'd like to test somethin'.
+PC19B_TARGET1-1=Я хотів би дещо перевірити.
+
+
+# Brok
+### Can you open the door to these bots?
+PC19B_TARGET1-2=Ти можеш відчинити двері до цих ботів?
+
+
+# Dee
+### Probably. Why?
+PC19B_TARGET1-3=Мабуть. А навіщо?
+
+
+# Brok
+### I'll stay hidden. Release one.
+PC19B_TARGET1-4=Я залишуся в укритті. Випусти одного.
+
+
+# Dee
+### Are you mad?!
+PC19B_TARGET1-5=Ти з глузду з'їхав?!
+
+
+# Dee
+### You realize they may all come at us when I open this door?...
+PC19B_TARGET1-6=Ти розумієш, що вони всі можуть кинутися на нас, коли я відчиню ці двері...?
+
+
+# Brok
+### Trust me.
+PC19B_TARGET1-7=Довірся мені.
+
+
+# Dee
+### Very well...
+PC19B_TARGET1-8=Ну добре...
+
+
+# Dee
+### I'll try. Just one.
+PC19B_TARGET1-9=Я спробую. Тільки одного.
+
+
+#----------------------------------------------------
+# Dee
+### ...
+PC19B_TARGET2-1=...
+
+
+# Tribot
+### Hello. How may I serve you?
+PC19B_TARGET2-2=Вітаю. Чим можу вам допомогти?
+
+
+# Dee
+### That one seems nice.
+PC19B_TARGET2-3=Цей здається милим.
+
+
+# Brok
+### Hmm.
+PC19B_TARGET2-4=Гмм.
+
+
+# Brok
+### Bring it closer to Doctor Gherkin.
+PC19B_TARGET2-5=Підведи його ближче до доктора Геркіна.
+
+
+# Gherkin
+### D-Don't!...
+PC19B_TARGET2-6=Н-не треба...!
+
+
+# Dee
+### Go ahead, bot. To that man in front of you.
+PC19B_TARGET2-7=Давай, боте. До того чоловіка перед тобою.
+
+
+# Gherkin
+### Oh no!...
+PC19B_TARGET2-8=О ні...!
+
+
+#----------------------------------------------------
+# Tribot
+### Hello.
+PC19B_TARGET3-1=Вітаю.
+
+
+# Gherkin
+### Huh?...
+PC19B_TARGET3-2=Га...?
+
+
+# Dee
+### I'm not sure what you were expecting.
+PC19B_TARGET3-3=Не знаю, чого ти очікував.
+
+
+# Brok
+### Now, what happens if...
+PC19B_TARGET3-4=А тепер, що буде, якщо...
+
+
+#----------------------------------------------------
+# Tribot
+### Target acquired!
+PC19B_TARGET4-1=Ціль виявлено!
+
+
+# Brok
+### ...!
+PC19B_TARGET4-2=...!
+
+
+# Dee
+### It's gone crazy!
+PC19B_TARGET4-3=Він з глузду з'їхав!
+
+
+# Brok
+### I'll handle this.
+PC19B_TARGET4-4=Я розберуся з цим.
+
+
+#----------------------------------------------------
+# Brok
+### You were right, doc!
+PC19B_TARGET5_ALTERNATIVE-1=Ви мали рацію, доку!
+
+
+# Brok
+### They're after you!
+PC19B_TARGET5_ALTERNATIVE-2=Вони полюють на вас!
+
+
+# Gherkin
+### Now do you believe me?
+PC19B_TARGET5_ALTERNATIVE-3=Тепер ви вірите мені?
+
+
+#----------------------------------------------------
+# Brok
+### Just as I thought.
+PC19B_TARGET5-1=Я так і знав.
+
+
+# Brok
+### They're not after the scientist...
+PC19B_TARGET5-2=Вони полюють не на науковця...
+
+
+# Brok
+### They're after me!
+PC19B_TARGET5-3=Вони полюють на мене!
+
+
+# Gherkin
+### Good heavens!
+PC19B_TARGET5-4=Матінко рідна!
+
+
+# Dee
+### Wait a minute.
+PC19B_TARGET5-5=Стривай.
+
+
+# Dee
+### We're in this disastrous situation... Because of you?!
+PC19B_TARGET5-6=Ми опинилися в цій жахливій ситуації... Через тебе?!
+
+
+# Dee
+### For crying out loud, what have you done?!
+PC19B_TARGET5-7=Що ти, чорт забирай, накоїв?!
+
+
+# Brok
+### No idea! Honest.
+PC19B_TARGET5-8=Я й гадки не маю! Чесно.
+
+
+# Brok
+### Though... I guess I destroyed a lot of their friends recently. But that was self defense!
+PC19B_TARGET5-9=Хоча... Здається, нещодавно я знищив чимало їхніх друзів. Але це була самооборона!
+
+
+# Dee
+### Those things don't have a mind of their own.
+PC19B_TARGET5-10=Ці залізяки не мають власного розуму.
+
+
+# Dee
+### Someone must want you dead!
+PC19B_TARGET5-11=Певно, хтось хоче твоєї смерті!
+
+
+# Dee
+### And... That wouldn't be such a bad option to get away from here...
+PC19B_TARGET5-12=І... Це був би непоганий варіант, щоб вибратися звідси...
+
+
+# Brok
+### Argh! Stop that.
+PC19B_TARGET5-13=Ар-р! Досить.
+
+
+# Brok
+### I'll figure out what's happening. But I need both of you to start pouring it out!
+PC19B_TARGET5-14=Я з'ясую, що відбувається. Але мені потрібно, щоб ви обоє розкрили свої карти!
+
+
+# Brok
+### First... Doctor.
+PC19B_TARGET5-15=Спершу... Докторе.
+
+
+# Gherkin
+### STAY AWAY!!! You're the one attracting them!
+PC19B_TARGET5-16=ТРИМАЙТЕСЯ ПОДАЛІ!!! Це ви їх приманюєте!
+
+
+# Brok
+### Come on! Be reasonable!
+PC19B_TARGET5-17=Ну ж бо! Будьте розсудливі!
+
+
+# Gherkin
+### I'm safer without you around!
+PC19B_TARGET5-18=Без вас поруч мені безпечніше!
+
+
+# Brok
+### Hmm. Guess I'll leave you alone with that girl, then.
+PC19B_TARGET5-19=Гмм. Ну тоді, мабуть, залишу вас наодинці з цією дівчиною.
+
+
+# Dee
+### Hmph.
+PC19B_TARGET5-20=Гр-р.
+
+
+# Gherkin
+### ...
+PC19B_TARGET5-21=...
+
+
+# Gherkin
+### D-Don't!...
+PC19B_TARGET5-22=Н-не треба...!
+
+
+# Gherkin
+### Oh boy. I'm screwed either way.
+PC19B_TARGET5-23=Ой леле. Так чи інакше, мені гаплик.
+
+
+# Brok
+### Doc. If the bots aren't attacking you...
+PC19B_TARGET5-24=Доку. Якщо боти на вас не нападають...
+
+
+# Brok
+### Why did you call me?
+PC19B_TARGET5-25=Навіщо ви мені зателефонували?
+
+
+# Gherkin
+### I... I had no idea!
+PC19B_TARGET5-26=Я... я й гадки не мав!
+
+
+# Gherkin
+### But now it's all making sense.
+PC19B_TARGET5-27=Але тепер усе стає на свої місця.
+
+
+# Gherkin
+### This morning... I was alone at the factory.
+PC19B_TARGET5-28=Сьогодні вранці... я був на заводі сам.
+
+
+# Brok
+### Alone?
+PC19B_TARGET5-29=Сам?
+
+
+# Gherkin
+### Yes. The production process is automated. And no human operators.
+PC19B_TARGET5-30=Так. Виробничий процес автоматизований. Жодних операторів-людей.
+
+
+# Gherkin
+### Actually... The pill shortage is the only reason I went to the factory today.
+PC19B_TARGET5-31=Власне... Нестача пігулок - це єдина причина, чому я пішов сьогодні на завод.
+
+
+# Gherkin
+### I was starting to understand what was wrong, when suddenly...
+PC19B_TARGET5-32=Я якраз починав розуміти, що не так, коли раптом...
+
+
+# Gherkin
+### A massive number of bots rushed out of the factory, hitting me in the process!
+PC19B_TARGET5-33=Із заводу вирвалася величезна кількість ботів. Вони налетіли на мене!
+
+
+# Gherkin
+### I concluded they went crazy!
+PC19B_TARGET5-34=Я дійшов висновку, що вони з глузду з'їхали!
+
+
+# Gherkin
+### Got frightened... Ran outside to the entry box and...
+PC19B_TARGET5-35=Перелякався... Вибіг назовні до вартової будки і...
+
+
+# Gherkin
+### You know the rest.
+PC19B_TARGET5-36=Решту ви знаєте.
+
+
+# Brok
+### And... You never thought leaving all the work to a bunch of metallic boxes would be a bad idea?...
+PC19B_TARGET5-37=І... вам ніколи не здавалося, що доручати всю роботу купі бляшанок - погана ідея...?
+
+
+# Gherkin
+### No! The production has been working well for years!
+PC19B_TARGET5-38=Ні! Виробництво чудово працювало вже багато років!
+
+
+# Gherkin
+### This is all very strange.
+PC19B_TARGET5-39=Усе це дуже дивно.
+
+
+# Gherkin
+### These bots were programmed for one specific task at the factory. They shouldn't attack people!
+PC19B_TARGET5-40=Ці боти були запрограмовані на одне конкретне завдання на заводі. Вони не повинні нападати на людей!
+
+
+# Brok
+### No offense Doc but... I don't trust all those programs.
+PC19B_TARGET5-41=Без образ, доку, але... я не довіряю всім цим програмам.
+
+
+# Brok
+### By the way. How come you have access to this bunker?
+PC19B_TARGET5-42=До речі. Звідки у вас доступ до цього бункера?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### After all, you're a stranger to the Slums.
+PC19B_TARGET5-43=Зрештою, ви тут чужий, у Нетрях.
+
+
+# Gherkin
+### ...
+PC19B_TARGET5-44=...
+
+
+# Gherkin
+### W-well... You see...
+PC19B_TARGET5-45=Н-ну... Розумієте...
+
+
+#----------------------------------------------------
+# Gherkin - Dee presses the button
+### Yyyyaaaouch!
+PC19B_TARGET6-1=А-а-ааа-ай!
+
+
+# Brok
+### He's fainted...
+PC19B_TARGET6-2=Він знепритомнів...
+
+
+# Brok
+### What's your problem?!
+PC19B_TARGET6-3=Ти що, здуріла?!
+
+
+# Dee
+### He wasn't going to tell you the truth.
+PC19B_TARGET6-4=Він не збирався говорити тобі правду.
+
+
+# Brok
+### But you will?!
+PC19B_TARGET6-5=А ти хіба розповіси?!
+
+
+# Dee
+### This time... Yes.
+PC19B_TARGET6-6=Цього разу... так.
+
+
+# Brok
+### Fine. I'm all ears.
+PC19B_TARGET6-7=Добре. Я уважно слухаю.
+
+
+# Dee
+### As a member of the Government, he has the "keys to the city".
+PC19B_TARGET6-8=Як член Уряду, він має "ключі від міста".
+
+
+# Brok
+### I guessed. I was merely trying to get him to admit it.
+PC19B_TARGET6-9=Я й сам здогадувався. Просто хотів змусити його зізнатися.
+
+
+# Brok
+### Anyway. I need a break.
+PC19B_TARGET6-10=Так чи інакше. Мені потрібна перерва.
+
+
+# Brok
+### Let me check this room.
+PC19B_TARGET6-11=Дозволь мені оглянути цю кімнату.
+
+
+# Dee
+### Don't waste your time.
+PC19B_TARGET6-12=Не марнуй часу.
+
+
+#----------------------------------------------------
+# Brok
+### Not yet...
+PC19B_DEE_NOTYET-1=Ще ні...
+
+
+#----------------------------------------------------
+# Dee - After checking the room, Dee tells her story
+### You're done?
+PC19B_DEE1-1=Закінчив?
+
+
+# Brok
+### We're stuck here...
+PC19B_DEE1-2=Ми тут застрягли...
+
+
+# Dee
+### I told you. But we'll have to escape somehow.
+PC19B_DEE1-3=Я ж казала. Але нам доведеться якось звідси вибратися.
+
+
+# Brok
+### One thing at a time.
+PC19B_DEE1-4=Не все одразу.
+
+
+# Brok
+### Tell me about yourself. From the start, please!
+PC19B_DEE1-5=Розкажи мені про себе. З самого початку, будь ласка!
+
+
+# Dee
+### ...
+PC19B_DEE1-6=...
+
+
+# Dee
+### As you know, I'm a journalist.
+PC19B_DEE1-7=Як ти знаєш, я журналістка.
+
+
+# Dee
+### When I started this career, it was more than a job to me.
+PC19B_DEE1-8=Коли я починала цю кар'єру, це було для мене чимось більшим, ніж просто роботою.
+
+
+# Dee
+### This was a way to uncover the truth and make a difference in this apathetic world we live in.
+PC19B_DEE1-9=Це був спосіб розкрити правду і змінити на краще цей апатичний світ, у якому ми живемо.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+### And that's why I got sick of writing articles like "How to prepare the best wormcake" or "This year's best livies".
+PC19B_DEE1-10=І саме тому мені набридло писати статті на кшталт "Як приготувати найкращий хробаковий пиріг" чи "Найкращі серіали цього року".
+
+
+# Dee
+### So... I've spent months working on another investigation undercover.
+PC19B_DEE1-11=Тож... я витратила місяці на інше таємне розслідування.
+
+
+# Brok
+### Don't you have a family to take care of?
+PC19B_DEE1-12=Хіба в тебе немає сім'ї, про яку треба піклуватися?
+
+
+# Dee
+### Yes. But a journalist always finds time for important matters!
+PC19B_DEE1-13=Так. Але журналістка завжди знайде час для важливих справ!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Right. I forgot you Drumers barely work four hours a day.
+PC19B_DEE1-14=Авжеж. Забув, що ви, мешканці Верхів, ледь працюєте по чотири години на день.
+
+
+# Dee
+### What a stereotype.
+PC19B_DEE1-15=Який стереотип.
+
+
+# Dee
+### Ever since I was a kid, I've noticed things... Changing.
+PC19B_DEE1-16=З самого дитинства я помічала, як усе... Змінюється.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Drumers became less critical. They lived in their own bubble.
+PC19B_DEE1-17=Мешканці Верхів стали менш критичними. Вони жили у власній бульбашці.
+
+
+# Brok
+### Is that really new?...
+PC19B_DEE1-18=Хіба це щось нове...?
+
+
+# Dee
+### To this extent, yes.
+PC19B_DEE1-19=У такому обсязі - так.
+
+
+# Dee
+### I investigated the evolution of every activity of our society.
+PC19B_DEE1-20=Я досліджувала еволюцію кожної сфери діяльності нашого суспільства.
+
+
+# Dee
+### And I made some important discoveries.
+PC19B_DEE1-21=І зробила кілька важливих відкриттів.
+
+
+# Dee
+### I was about to make them public through my media when the trouble begun.
+PC19B_DEE1-22=Я вже збиралася оприлюднити їх через власні медіа, коли почалися неприємності.
+
+
+# Dee
+### You know, there's one thing even more important to me than my career.
+PC19B_DEE1-23=Знаєш, для мене є дещо важливіше за кар'єру.
+
+
+# Brok
+### Yourself?
+PC19B_DEE1-24=Твоя свобода?
+
+
+# Dee
+### No! My family.
+PC19B_DEE1-25=Ні! Моя сім'я.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### My colleagues found some videos of Sin... cheating on me with another girl.
+PC19B_DEE1-26=Мої колеги знайшли якісь відеозаписи того, як Сін... зраджує мені з іншою дівчиною.
+
+
+# Dee
+### This set off something inside me.
+PC19B_DEE1-27=Це щось надломило всередині мене.
+
+
+# Dee
+### He betrayed me. He betrayed our daughter.
+PC19B_DEE1-28=Він зрадив мене. Він зрадив нашу доньку.
+
+
+# Dee
+### My colleagues acted nice and understanding in front of me...
+PC19B_DEE1-29=Мої колеги вдавали переді мною чуйних і доброзичливих...
+
+
+# Dee
+### But behind my back, they laughed.
+PC19B_DEE1-30=Але за моєю спиною вони сміялися.
+
+
+# Dee
+### I couldn't bear it. I got mad.
+PC19B_DEE1-31=Я не могла цього винести. Я сказилася.
+
+
+# Dee
+### I quit my job.
+PC19B_DEE1-32=Я пішла з роботи.
+
+
+# Dee
+### Thus... I lost access to the best way to spread information.
+PC19B_DEE1-33=Отже... я втратила доступ до найкращого способу поширення інформації.
+
+
+# Brok
+### I can see where this is leading...
+PC19B_DEE1-34=Я бачу, до чого це йде...
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin and I argued. He said it was all lies.
+PC19B_DEE1-35=Ми з Сіном посварилися. Він казав, що все це брехня.
+
+
+# Dee
+### I didn't listen. Didn't believe him. Why would I?
+PC19B_DEE1-36=Я не слухала. Не повірила йому. З якого б дива?
+
+
+# Dee
+### There was tangible proof. That video seemed so real!
+PC19B_DEE1-37=Були реальні докази. Те відео здавалося таким справжнім!
+
+
+# Dee
+### But he insisted. And if he wouldn't admit to it and apologize...
+PC19B_DEE1-38=Але він наполягав. І якби він не зізнався в цьому і не вибачився...
+
+
+# Brok
+### ...you threatened to start an expel procedure.
+PC19B_DEE1-39=...ти погрожувала розпочати процедуру вигнання.
+
+
+# Dee
+### Yes...
+PC19B_DEE1-40=Так...
+
+
+# Dee
+### But... He ended up leaving by himself.
+PC19B_DEE1-41=Але... Зрештою, він пішов сам.
+
+
+# Dee
+### Despite this, I had no intention to give up on my investigation. So I reached other media.
+PC19B_DEE1-42=Попри це, я не збиралася кидати своє розслідування. Тож я звернулася до інших медіа.
+
+
+# Dee
+### They refused my story. Each and every one of them.
+PC19B_DEE1-43=Вони відмовилися публікувати мою історію. Кожне з них.
+
+
+# Dee
+### This didn't make sense. Why would other news corporations turn down exclusive, breaking information?
+PC19B_DEE1-44=Це не мало жодного сенсу. Чому новинні корпорації мали б відмовлятися від ексклюзивної та сенсаційної інформації?
+
+
+# Dee
+### Without proof this is only a suspicion. But logic meant...
+PC19B_DEE1-45=Без доказів це була лише підозра. Але логіка підказувала...
+
+
+# Dee
+### They're all facades.
+PC19B_DEE1-46=Усі вони - лише прикриття.
+
+
+# Brok
+### You said it earlier.
+PC19B_DEE1-47=Ти казала це раніше.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### All information in the Drums is controlled by a single entity. Right?
+PC19B_DEE1-48=Уся інформація на Верхах контролюється однією структурою. Правильно?
+
+
+# Dee
+### Yes.
+PC19B_DEE1-49=Так.
+
+
+# Dee
+### This theory got even more weight when I found out that all my findings... vanished.
+PC19B_DEE1-50=Ця теорія набула ще більшої ваги, коли я з'ясувала, що всі мої знахідки... зникли.
+
+
+# Dee
+### The local data stored in my DNA. All my backups.
+PC19B_DEE1-51=Локальні дані, що зберігалися в моїй ДНК. Усі мої резервні копії.
+
+
+# Dee
+### Even the original sources and everything linked to them.
+PC19B_DEE1-52=Навіть першоджерела та все, що з ними пов'язано.
+
+
+# Dee
+### All gone.
+PC19B_DEE1-53=Усе зникло.
+
+
+# Dee
+### It was as if I had imagined it all.
+PC19B_DEE1-54=Здавалося, ніби я все це просто вигадала.
+
+
+#----------------------------------------------------
+# Dee
+### My friends started to think I was losing it.
+PC19B_DEE1B-1=Мої друзі почали думати, що я сходжу з глузду.
+
+
+# Dee
+### They were even ready to send me to a mental hospital.
+PC19B_DEE1B-2=Вони навіть готові були відправити мене до психлікарні.
+
+
+# Brok
+### Yeah, well...
+PC19B_DEE1B-3=Ну, знаєш...
+
+
+# Dee
+### Shut up. It's not a laughing matter.
+PC19B_DEE1B-4=Заткнися. Це не привід для сміху.
+
+
+# Dee
+### My friends took my daughter from me!
+PC19B_DEE1B-5=Друзі відібрали в мене доньку!
+
+
+# Dee
+### They didn't believe me!
+PC19B_DEE1B-6=Вони мені не повірили!
+
+
+# Dee
+### I had lost everything.
+PC19B_DEE1B-7=Я втратила все.
+
+
+# Dee
+### My job. My family. My friends. And my mind...
+PC19B_DEE1B-8=Мою роботу. Сім'ю. Друзів. І здоровий глузд...
+
+
+# Dee
+### But the tides of misfortune finally turned.
+PC19B_DEE1B-9=Але смуга невдач нарешті скінчилася.
+
+
+# Dee
+### I always carry a memory chip hidden in my clothes.
+PC19B_DEE1B-10=Я завжди ношу з собою чип пам'яті, схований в одязі.
+
+
+# Dee
+### During one of my investigations, it broke and stopped connecting.
+PC19B_DEE1B-11=Під час одного з моїх розслідувань він зламався і перестав підключатися.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### This made me think. What if all my backups were simply erased when I accessed the Triweb?
+PC19B_DEE1B-12=Це змусило мене замислитися. А що, як усі мої резервні копії просто стиралися, коли я заходила в Тривеб?
+
+
+# Dee
+### But I still couldn't check the data on that chip without risking it to be flagged as unsupported and erased.
+PC19B_DEE1B-13=Але я все одно не могла без ризику перевірити дані на чипі, інакше його позначили б як "непідтримуваний" і стерли всю інформацію.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### So... I came to the Slums and brought the chip to that person called The Gloom.
+PC19B_DEE1B-14=Тож... я прийшла в Нетрі і принесла чип декому на прізвисько "Похмурий".
+
+
+# Brok
+### Ha. What would we do without that darn mouse!
+PC19B_DEE1B-15=Ха. Що б ми робили без цього триклятого мишака!
+
+
+# Dee
+### This was my last hope. My last chance to prove I wasn't just crazy.
+PC19B_DEE1B-16=Це була моя остання надія. Останній шанс довести, що я не просто божевільна.
+
+
+# Dee
+### And I was right.
+PC19B_DEE1B-17=І я мала рацію.
+
+
+# Dee
+### The data is there. Only part of my findings but enough to validate all my theories.
+PC19B_DEE1B-18=Дані там. Лише частина моїх знахідок, але цього досить, щоб підтвердити всі мої теорії.
+
+
+# Dee
+### Now I realize how much of a fool I've been...
+PC19B_DEE1B-19=Тепер я розумію, якою дурепою я була...
+
+
+# Dee
+### All this was a distraction.
+PC19B_DEE1B-20=Усе, що сталося, було лише задля відволікання уваги.
+
+
+# Dee
+### The videos were fake. Very elaborate ones and undetectable to the human eye.
+PC19B_DEE1B-21=Відео були фальшивками. Дуже майстерно зробленими, непомітними для людського ока.
+
+
+# Dee
+### They destroyed my life for one single reason...
+PC19B_DEE1B-22=Вони зруйнували моє життя з однієї-єдиної причини...
+
+
+# Dee
+### To prevent me from revealing the truth!
+PC19B_DEE1B-23=Щоб завадити мені розкрити правду!
+
+
+# Brok
+### But who? What truth...?
+PC19B_DEE1B-24=Але хто? Яку правду...?
+
+
+# Gherkin
+### Hmmm...
+PC19B_DEE1B-25=Гмм...
+
+
+# Brok
+### Our friend is waking up.
+PC19B_DEE1B-26=Наш друг приходить до тями.
+
+
+# Dee
+### Good timing.
+PC19B_DEE1B-27=Як вчасно.
+
+
+# Gherkin
+### ...
+PC19B_DEE1B-28=...
+
+
+# Gherkin
+### I feel bad...
+PC19B_DEE1B-29=Мені зле...
+
+
+# Gherkin
+### Please release me.
+PC19B_DEE1B-30=Будь ласка, звільніть мене.
+
+
+# Dee
+### Not until you confess!
+PC19B_DEE1B-31=Аж доки не зізнаєтесь!
+
+
+# Dee
+### Admit it! You're a member of the Government.
+PC19B_DEE1B-32=Визнайте! Ви - член Уряду.
+
+
+# Gherkin
+### I... I have no idea what you're talking about!
+PC19B_DEE1B-33=Я... я й гадки не маю, про що ви!
+
+
+# Dee
+### Fine.
+PC19B_DEE1B-34=Гаразд.
+
+
+# Dee
+### Maybe another press of that button shall "shake" your memory.
+PC19B_DEE1B-35=Можливо, ще одне натискання цієї кнопки "струсить" вам пам'ять.
+
+
+# Gherkin
+### N-No!...
+PC19B_DEE1B-36=Н-ні...!
+
+
+# Brok
+### Stop that!
+PC19B_DEE1B-37=Припини це!
+
+
+# Brok
+### I'll take it from here.
+PC19B_DEE1B-38=Далі я сам.
+
+
+# Dee
+### No, you won't!
+PC19B_DEE1B-39=Ні, ще чого!
+
+
+# Brok
+### Trust me! You won't gain anything with constant threats.
+PC19B_DEE1B-40=Довірся мені! Постійними погрозами ти нічого не досягнеш.
+
+
+# Dee
+### Pft...
+PC19B_DEE1B-41=Пхе...
+
+
+# Dee
+### Fine. Have it your way, cowboy.
+PC19B_DEE1B-42=Гаразд. Як знаєш, ковбою.
+
+
+# Brok
+### Let me gather the pieces of that puzzle!
+PC19B_DEE1B-43=Дай-но я зберу докупи цю головоломку!
+
+
+#----------------------------------------------------
+# Brok
+### Doc. I can tell that something's bothering you, and this isn't a comfortable situation but...
+PC19B_DEE2-1=Доку. Я бачу, що вас щось турбує, і ситуація тут не з приємних, але...
+
+
+# Brok
+### I need you to trust me.
+PC19B_DEE2-2=Мені треба, щоб ви мені довірились.
+
+
+# Gherkin
+### Erm... O-okay...
+PC19B_DEE2-3=Е-е... Д-добре...
+
+
+# Brok
+### First, let's talk about this morning.
+PC19B_DEE2-4=Спершу поговоримо про сьогоднішній ранок.
+
+
+#----------------------------------------------------
+# Brok - Interrogation
+### Let's resume.
+PC19B_GHERKIN_RESUME-1=Продовжимо.
+
+
+#----------------------------------------------------
+# Brok
+### I need some time to digest it all.
+PC19B_GHERKIN_EXIT1-1=Мені потрібен час, щоб усе це переварити.
+
+
+# Dee
+### There is no time to waste!
+PC19B_GHERKIN_EXIT1-2=У нас немає часу гаяти!
+
+
+# Brok
+### Just one minute. Okay?
+PC19B_GHERKIN_EXIT1-3=Лише хвилиночку. Гаразд?
+
+
+# Dee
+### ...Fine.
+PC19B_GHERKIN_EXIT1-4=...Гаразд.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### (Nah. The doctor is too scared to go alone and mess up all the Pipe-Pills without getting noticed.)
+PC19B_INTERROGATE_BAD_SCARED-1=(Та ні. Доктор занадто наляканий, щоб самому піти і потай зіпсувати всі Пігулкомати.)
+
+
+#----------------------------------------------------
+# Brok
+### (I guess the Government has control over a lot of things but... That comes with the job.)
+PC19B_INTERROGATE_BAD_CONTROL-1=(Певно, Уряд контролює багато чого, але... Така вже робота.)
+
+
+#----------------------------------------------------
+# Brok
+### (Yup, seems logical that the doctor would know... Then what?)
+PC19B_INTERROGATE_BAD_KNOW-1=(Угу, здається логічним, що доктор міг знати... А що тоді?)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### (Even the chief of police couldn't keep me in jail. I'm no criminal!)
+PC19B_INTERROGATE_OUTJAIL-1=(Навіть шеф поліції не зміг би утримати мене у в'язниці. Я не злочинець!)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### You've said the Tribots changed behavior this morning.
+PC19B_CLUE_TRIBOT_FIRMWARE_ALT-1=Ви казали, що Триботи змінили поведінку сьогодні вранці.
+
+
+# Brok
+### And we've proven they're exclusively targeting you!
+PC19B_CLUE_TRIBOT_FIRMWARE_ALT-2=І ми довели, що вони полюють виключно на вас!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### You've said the Tribots changed behavior this morning.
+PC19B_CLUE_TRIBOT_FIRMWARE-1=Ви казали, що Триботи змінили поведінку сьогодні вранці.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### And that same morning, I got attacked by Tribots in my own home!
+PC19B_CLUE_TRIBOT_FIRMWARE-2=І того ж ранку на мене вдома напали Триботи!
+
+
+# Brok
+### Did you notice anything before they left the factory?
+PC19B_CLUE_TRIBOT_FIRMWARE-3=Ви помітили щось до того, як вони залишили завод?
+
+
+# Gherkin
+### Before...
+PC19B_CLUE_TRIBOT_FIRMWARE-4=До того...
+
+
+# Gherkin
+### Now that you mention it.
+PC19B_CLUE_TRIBOT_FIRMWARE-5=Тепер, коли ви про це згадали.
+
+
+# Gherkin
+### They received a firmware update.
+PC19B_CLUE_TRIBOT_FIRMWARE-6=Вони отримали оновлення прошивки.
+
+
+# Brok
+### An update...
+PC19B_CLUE_TRIBOT_FIRMWARE-7=Оновлення...
+
+
+# Brok
+### Who manages those?
+PC19B_CLUE_TRIBOT_FIRMWARE-8=Хто ними керує?
+
+
+# Gherkin
+### There are dedicated labs of engineers working on all the AI improvements.
+PC19B_CLUE_TRIBOT_FIRMWARE-9=Існують спеціальні лабораторії інженерів, які працюють над усіма вдосконаленнями ШІ.
+
+
+# Brok
+### Yeah. I believe I met two of these guys yesterday.
+PC19B_CLUE_TRIBOT_FIRMWARE-10=Так. Здається, вчора я зустрів двох із них.
+
+
+# Brok
+### But do they send the updates themselves?
+PC19B_CLUE_TRIBOT_FIRMWARE-11=Але чи надсилають вони оновлення самостійно?
+
+
+# Gherkin
+### No. The decision to send a firmware update to production lies in the hands of the Government.
+PC19B_CLUE_TRIBOT_FIRMWARE-12=Ні. Рішення про надсилання оновлення прошивки ухвалює Уряд.
+
+
+# Brok
+### Is that so?...
+PC19B_CLUE_TRIBOT_FIRMWARE-13=Справді...?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Doctor. What did you do exactly with the Pipe-Pills?
+PC19B_CLUE_GHERKIN_SIGNATURE-1=Докторе. Що саме ви робили з Пігулкоматами?
+
+
+# Gherkin
+### I tried fixing them.
+PC19B_CLUE_GHERKIN_SIGNATURE-2=Я намагався їх полагодити.
+
+
+# Brok
+### You tried...
+PC19B_CLUE_GHERKIN_SIGNATURE-3=Ви намагалися...
+
+
+# Brok
+### But failed?
+PC19B_CLUE_GHERKIN_SIGNATURE-4=Але не вийшло?
+
+
+# Gherkin
+### Erm...
+PC19B_CLUE_GHERKIN_SIGNATURE-5=Е-е...
+
+
+# Dee
+### He's right. I've checked myself.
+PC19B_CLUE_GHERKIN_SIGNATURE-6=Він має рацію. Я сама перевіряла.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### After your visit, the Pipe-Pills still weren't working.
+PC19B_CLUE_GHERKIN_SIGNATURE-7=Після ваших дій Пігулкомати досі не запрацювали.
+
+
+# Gherkin
+### True. Actually...
+PC19B_CLUE_GHERKIN_SIGNATURE-8=Це правда. Власне...
+
+
+# Gherkin
+### I'm not entirely sure why.
+PC19B_CLUE_GHERKIN_SIGNATURE-9=Я й сам до кінця не впевнений, чому так.
+
+
+# Brok
+### Pray tell?
+PC19B_CLUE_GHERKIN_SIGNATURE-10=Просвітіть мене.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Back at the factory, I noticed the pills stopped being sent to the Slums due to missing signatures.
+PC19B_CLUE_GHERKIN_SIGNATURE-11=На заводі я помітив, що пігулки перестали надсилати в Нетрі через відсутність підписів.
+
+
+# Brok
+### Signature?...
+PC19B_CLUE_GHERKIN_SIGNATURE-12=Підписів...?
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Each Pipe-Pill has to validate its authenticity in order to work.
+PC19B_CLUE_GHERKIN_SIGNATURE-13=Кожен Пігулкомат повинен підтвердити свою автентичність, щоб працювати.
+
+
+# Brok
+### Why?
+PC19B_CLUE_GHERKIN_SIGNATURE-14=Чому?
+
+
+# Gherkin
+### Otherwise, anyone could re-route the pipes to get unauthorized medicine!
+PC19B_CLUE_GHERKIN_SIGNATURE-15=Інакше будь-хто міг би перенаправити труби, щоб отримувати несанкціоновані ліки!
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Somehow... All the signatures in the Slums vanished.
+PC19B_CLUE_GHERKIN_SIGNATURE-16=Якимось чином... Усі підписи в Нетрях зникли.
+
+
+# Gherkin
+### Probably due to external damage.
+PC19B_CLUE_GHERKIN_SIGNATURE-17=Ймовірно, через зовнішні пошкодження.
+
+
+# Gherkin
+### So I attempted to input the signature back into each one.
+PC19B_CLUE_GHERKIN_SIGNATURE-18=Тож я спробував ввести підпис заново у кожен із них.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Stupid. Why not apply the change to all Pipe-Pills at once?
+PC19B_CLUE_GHERKIN_SIGNATURE-19=Безглуздо. Чому б не застосувати зміни до всіх Пігулкоматів одразу?
+
+
+# Gherkin
+### No! It's set in the hardware. Direct contact is required.
+PC19B_CLUE_GHERKIN_SIGNATURE-20=Ні! Це зашито на апаратному рівні. Потрібен прямий контакт.
+
+
+# Brok
+### Okay, then... We should split the work. That'd be faster!
+PC19B_CLUE_GHERKIN_SIGNATURE-21=Ну, гаразд... Тоді нам треба розділитися. Так буде швидше!
+
+
+# Gherkin
+### Impossible.
+PC19B_CLUE_GHERKIN_SIGNATURE-22=Неможливо.
+
+
+# Brok
+### Argh. Simple ideas are always impossible for you tech guys.
+PC19B_CLUE_GHERKIN_SIGNATURE-23=Ар-р. Прості ідеї завжди неможливі для вас, технарів.
+
+
+# Brok
+### Why, then?
+PC19B_CLUE_GHERKIN_SIGNATURE-24=Чому ж тоді?
+
+
+# Brok
+### Don't tell me you're the only person in this country who can do it!
+PC19B_CLUE_GHERKIN_SIGNATURE-25=Тільки не кажіть, що ви єдина людина в цій країні, яка може це зробити!
+
+
+# Gherkin
+### Precisely.
+PC19B_CLUE_GHERKIN_SIGNATURE-26=Саме так.
+
+
+# Brok
+### What?!
+PC19B_CLUE_GHERKIN_SIGNATURE-27=Що?!
+
+
+# Gherkin
+### The signature is kept secret. That's the whole point.
+PC19B_CLUE_GHERKIN_SIGNATURE-28=Підпис тримається в секреті. У цьому ж і весь сенс.
+
+
+# Brok
+### You've gotta be kiddin' me! What if something happens to you?
+PC19B_CLUE_GHERKIN_SIGNATURE-29=Та ви, певно, жартуєте! А що, якщо з вами щось станеться?
+
+
+# Gherkin
+### Why do you think I hired you?
+PC19B_CLUE_GHERKIN_SIGNATURE-30=А як ви думаєте, чому я вас найняв?
+
+
+# Brok
+### Argh...
+PC19B_CLUE_GHERKIN_SIGNATURE-31=Ар-р...
+
+
+# Brok
+### Wait...
+PC19B_CLUE_GHERKIN_SIGNATURE-32=Заждіть...
+
+
+# Brok
+### If that's true. Then...
+PC19B_CLUE_GHERKIN_SIGNATURE-33=Якщо це правда. Тоді...
+
+
+# Brok
+### It gives some credit to something we suspected.
+PC19B_CLUE_GHERKIN_SIGNATURE-34=Це підтверджує дещо з того, про що ми підозрювали.
+
+
+#----------------------------------------------------
+# Brok
+### You're quite an important person, Doctor Gherkin. Aren't you?
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-1=Ви доволі важлива особа, докторе Геркіне. Еге ж?
+
+
+# Gherkin
+### O-Of course. I direct the factory...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-2=З-звісно. Я керую заводом...
+
+
+# Brok
+### No. Much more important than that.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-3=Ні. Набагато важливіша за це.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### How exactly did you learn the Pipe-Pills signature?
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-4=Як саме ви дізналися підпис Пігулкоматів?
+
+
+# Gherkin
+### ...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-5=...
+
+
+# Gherkin
+### I-It's... confidential...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-6=Ц-це... конфіденційно...
+
+
+# Dee
+### I've had enough. Let me press that button.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-7=Годі з мене. Дай-но я натисну цю кнопку.
+
+
+# Brok
+### Okay. Do it.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-8=Гаразд. Зроби це.
+
+
+# Gherkin
+### No no no no! Please!
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-9=Ні-ні-ні-ні! Благаю!
+
+
+# Gherkin
+### ...Oh... You win...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-10=...Ох... Ваша взяла...
+
+
+# Gherkin
+### Yes, I'm a member of the Government.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-11=Так, я член Уряду.
+
+
+# Gherkin
+### The signature is kept secret between our members.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-12=Підпис тримається в секреті між нашими членами.
+
+
+# Dee
+### Finally!
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-13=Нарешті!
+
+
+# Dee
+### Now, tell us everything!
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-14=А тепер розповідайте усе!
+
+
+# Gherkin
+### I don't know where to start!
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-15=Я не знаю, з чого почати!
+
+
+# Brok
+### Start with the number. How many are you?
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-16=Почніть із кількості. Скільки вас?
+
+
+# Dee
+### The answer is obvious.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-17=Відповідь очевидна.
+
+
+# Brok
+### Hmm...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-18=Гмм...
+
+
+# Brok
+### Now that you mention it. I believe I've always known, thanks to this.
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-19=Тепер, коли ви про це згадали. Здається, я завжди знав відповідь, завдяки цьому.
+
+
+#----------------------------------------------------
+# Brok
+### (No...)
+PC19B_PICKONE_TRIANGLE_WRONG1-1=(Ні...)
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### The Triangle...
+PC19B_CLUE_GHERKIN_TRIANGLE-1=Трикутник...
+
+
+# Brok
+### There are three members.
+PC19B_CLUE_GHERKIN_TRIANGLE-2=Всього троє членів.
+
+
+# Gherkin
+### Yes.
+PC19B_CLUE_GHERKIN_TRIANGLE-3=Так.
+
+
+# Gherkin
+### But... I do not know the others.
+PC19B_CLUE_GHERKIN_TRIANGLE-4=Але... я не знаю інших.
+
+
+# Dee
+### Liar!
+PC19B_CLUE_GHERKIN_TRIANGLE-5=Брехня!
+
+
+# Gherkin
+### I swear! This... was part of the original deal!
+PC19B_CLUE_GHERKIN_TRIANGLE-6=Клянуся! Це... було частиною початкової угоди!
+
+
+# Gherkin
+### We're supposed to make the decisions separately.
+PC19B_CLUE_GHERKIN_TRIANGLE-7=Ми повинні приймати рішення окремо одне від одного.
+
+
+# Gherkin
+### This was the only way to ensure we wouldn't be influenced one way or another.
+PC19B_CLUE_GHERKIN_TRIANGLE-8=Це був єдиний спосіб гарантувати, що на нас ніяк не впливатимуть.
+
+
+# Dee
+### Uh... Typical well-meaning behavior from the elite who don't know crap about how the world runs.
+PC19B_CLUE_GHERKIN_TRIANGLE-9=Е-е... Типова доброчесна поведінка еліти, яка гадки не має, як насправді працює цей світ.
+
+
+# Brok
+### That, I have to agree with.
+PC19B_CLUE_GHERKIN_TRIANGLE-10=З цим я мушу погодитися.
+
+
+# Gherkin
+### T-there's no perfect governing system! It's a complex thing.
+PC19B_CLUE_GHERKIN_TRIANGLE-11=Ідеальної системи правління не існує! Це непросте питання.
+
+
+# Brok
+### Let's focus on the matter at hand.
+PC19B_CLUE_GHERKIN_TRIANGLE-12=Зосередьмося на справі.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Earlier, you said the Government controls the updates for the Tribots.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATALT-1=Раніше ви казали, що Уряд контролює оновлення для Триботів.
+
+
+# Brok
+### And you're part of it!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATALT-2=І ви його частина!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### It's obvious! Someone from the Government made the Tribots come after you!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATALT-3=Це очевидно! Хтось із Уряду нацькував на вас Триботів!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Earlier, you said the Government controls the updates for the Tribots...
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-1=Раніше ви казали, що Уряд контролює оновлення для Триботів...
+
+
+# Brok
+### And you're part of it!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-2=І ви його частина!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### It's you! You decided to make the Tribots come after me!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-3=Це ви! Ви вирішили нацькувати на мене Триботів!
+
+
+# Gherkin
+### N-No! I didn't!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-4=Н-ні! Я цього не робив!
+
+
+# Brok
+### You better give me some convincing arguments, doc.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-5=Краще наведіть мені переконливі аргументи, доку.
+
+
+# Gherkin
+### I-I don't know!...
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-6=Я-я не знаю...!
+
+
+# Gherkin
+### This... shouldn't be possible!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-7=Цього... не може бути!
+
+
+# Gherkin
+### You see... Each decision we take follows the same process.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-8=Розумієте... Кожне наше рішення проходить через той самий процес.
+
+
+# Gherkin
+### When a new question arises, it comes with neutral elements to help us make our decision.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-9=Коли постає нове питання, воно супроводжується нейтральними елементами, які допомагають нам прийняти рішення.
+
+
+# Dee
+### Neutral, right...
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-10=Нейтральними, ага...
+
+
+# Gherkin
+### We are three members. However, approval from all three is required for a decision to pass.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-11=Нас троє членів. Проте для прийняття рішення потрібне схвалення всіх трьох.
+
+
+# Gherkin
+### On the other hand, one member's disapproval is enough to block a process.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-12=З іншого боку, несхвалення хоча б одного члена достатньо, щоб заблокувати процес.
+
+
+# Gherkin
+### I'm an engineer. I can read the code.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-13=Я інженер. Я вмію читати код.
+
+
+# Gherkin
+### I would never have agreed to this!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-14=Я б ні за що на це не погодився!
+
+
+# Gherkin
+### And if I had known you were responsible for the bots going crazy...
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-15=І якби я знав, що ви відповідальні за те, що боти з глузду з'їхали...
+
+
+# Brok
+### Hey, I'm the victim here!
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-16=Гей, я взагалі-то жертва в цій ситуації!
+
+
+# Gherkin
+### Why would I voluntarily put my life in danger?
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-17=Навіщо мені добровільно наражати своє життя на небезпеку?
+
+
+# Dee
+### He has a point.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-18=Він має рацію.
+
+
+# Dee
+### Even if the bots don't attack him, he's still taking a risk of getting hit or run over accidentally in that chaos.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-19=Навіть якщо боти на нього не нападають, він усе одно ризикує отримати удар або випадково потрапити під колеса в цьому хаосі.
+
+
+# Brok
+### In that case...
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-20=У такому разі...
+
+
+# Dee
+### One of the other two Triangle members decided to destroy you. Maybe even both.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-21=Хтось із двох інших членів Трикутника вирішив знищити тебе. Може, навіть обоє.
+
+
+# Brok
+### That's just... great. My future keeps getting brighter.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-22=Це просто... чудово. Моє майбутнє стає дедалі світлішим.
+
+
+# Dee
+### At least you know the threat. We'll find a way to end this.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-23=Принаймні ти знаєш про загрозу. Ми знайдемо спосіб покласти цьому край.
+
+
+# Brok
+### As long as I'm still in one piece afterwards.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-24=Аби тільки я після цього не лишився розділеним на шматки.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### No problem with that. The Tribots aren't equipped with giant scissors.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-25=З цим проблем не буде. Триботи поки не оснащені велетенськими ножицями.
+
+
+# Brok
+### Not funny.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-26=Не смішно.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Only one good aspect about this... Tribots won't harm Graff.)
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-27=(У цьому є лише один плюс... Триботи не зашкодять Граффові.)
+
+
+#----------------------------------------------------
+# Dee
+### Enough! I must find out what this guy knows about my situation!
+PC19B_CLUE_TRIANGLE_DEELIFE-1=Досить! Я мушу дізнатися, що цей тип знає про мою ситуацію!
+
+
+# Brok
+### I was getting to it!
+PC19B_CLUE_TRIANGLE_DEELIFE-2=Я якраз збирався до цього перейти!
+
+
+# Brok
+### This, erm... lady here suspects her investigations lead her to become a black sheep for news publishing.
+PC19B_CLUE_TRIANGLE_DEELIFE-3=Ця, е-е... пані підозрює, що її розслідування зробили її білою вороною в новинній індустрії.
+
+
+# Brok
+### Incidentally, she also believes all the medias are controlled by the Government.
+PC19B_CLUE_TRIANGLE_DEELIFE-4=До того ж, вона переконана, що всі ЗМІ знаходяться під контролем Уряду.
+
+
+# Brok
+### Is she right?
+PC19B_CLUE_TRIANGLE_DEELIFE-5=Вона має рацію?
+
+
+# Gherkin
+### Well... Yes. To an extent.
+PC19B_CLUE_TRIANGLE_DEELIFE-6=Ну... Так. Певною мірою.
+
+
+# Gherkin
+### We only make decisions for important ma...
+PC19B_CLUE_TRIANGLE_DEELIFE-7=Ми приймаємо рішення лише щодо важливих спра...
+
+
+# Dee
+### What have you done?! You dirty...
+PC19B_CLUE_TRIANGLE_DEELIFE-8=Що ви наробили?! Ви, брудний...
+
+
+# Gherkin
+### Wait!... I... did nothing wrong!
+PC19B_CLUE_TRIANGLE_DEELIFE-9=Зачекайте...! Я... нічого поганого не робив!
+
+
+# Dee
+### Nothing wrong?!
+PC19B_CLUE_TRIANGLE_DEELIFE-10=Нічого поганого?!
+
+
+# Dee
+### You ruined my life!!!
+PC19B_CLUE_TRIANGLE_DEELIFE-11=Ви зруйнували моє життя!!!
+
+
+# Gherkin
+### Aaargh!
+PC19B_CLUE_TRIANGLE_DEELIFE-12=А-а-аа!
+
+
+# Brok
+### Calm down!
+PC19B_CLUE_TRIANGLE_DEELIFE-13=Заспокойся!
+
+
+# Gherkin
+### I... never made any decision about yourself!
+PC19B_CLUE_TRIANGLE_DEELIFE-14=Я... ніколи не приймав жодних рішень щодо вас, пані!
+
+
+# Gherkin
+### I'd remember you! And I'd never have accepted meeting you!
+PC19B_CLUE_TRIANGLE_DEELIFE-15=Я б вас запам'ятав! І ні за що не погодився б на зустріч!
+
+
+# Brok
+### I agree. I too would have stayed far away.
+PC19B_CLUE_TRIANGLE_DEELIFE-16=Згоден. Я б теж тримався якомога далі.
+
+
+# Dee
+### Shut up!
+PC19B_CLUE_TRIANGLE_DEELIFE-17=Замовкни!
+
+
+# Dee
+### Then who?!
+PC19B_CLUE_TRIANGLE_DEELIFE-18=То хто ж тоді?!
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### It could be someone else. From the Triangle...
+PC19B_CLUE_TRIANGLE_DEELIFE-19=Це міг бути хтось інший. З Трикутника...
+
+
+# Dee
+### Pft. How convenient.
+PC19B_CLUE_TRIANGLE_DEELIFE-20=Пхе. Як зручно.
+
+
+# Dee
+### Mister I-Make-Big-Decisions is actually not responsible for anything!
+PC19B_CLUE_TRIANGLE_DEELIFE-21=Пан "Я-Приймаю-Великі-Рішення" насправді ні за що не відповідає!
+
+
+# Gherkin
+### P-Please...
+PC19B_CLUE_TRIANGLE_DEELIFE-22=Б-будь ласка...
+
+
+# Gherkin
+### I've always wanted to help. To do my best!
+PC19B_CLUE_TRIANGLE_DEELIFE-23=Я завжди хотів допомагати. Робити все можливе!
+
+
+# Brok
+### I believe you.
+PC19B_CLUE_TRIANGLE_DEELIFE-24=Я вам вірю.
+
+
+# Dee
+### Ha! I'll prove you wrong.
+PC19B_CLUE_TRIANGLE_DEELIFE-25=Ха! Я доведу тобі, що ти помиляєшся.
+
+
+# Brok
+### Let's continue. That's not much info but we're onto something.
+PC19B_CLUE_TRIANGLE_DEELIFE-26=Продовжуймо. Інформації небагато, але ми напали на слід.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. If you hadn't noticed...
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAALT-1=Ді. Якщо ти не помітила...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Both of you have been targetted by a member of the Triangle.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAALT-2=Ви обоє стали мішенню для члена Трикутника.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. If you hadn't noticed...
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-1=Ді. Якщо ти не помітила...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Both of us have been targetted by a member of the Triangle.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-2=Ми обоє стали мішенню для члена Трикутника.
+
+
+# Brok
+### If we want to solve this, we'd better cooperate.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-3=Якщо ми хочемо розв'язати цю проблему, нам краще співпрацювати.
+
+
+# Dee
+### ...
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-4=...
+
+
+# Brok
+### Maybe it's time to shed some light on your investigation.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-5=Може, настав час пролити світло на твоє розслідування.
+
+
+# Brok
+### What exactly was it about?
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-6=Про що саме воно було?
+
+
+# Brok
+### This could help us understand what's happening.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-7=Це могло б допомогти нам зрозуміти, що відбувається.
+
+
+# Dee
+### Fair enough.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-8=Слушно.
+
+
+# Dee
+### For years, I've witnessed many dysfunctional aspects of our society.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-9=
+
+
+# Dee
+### And now that I've learned how exactly we're being governed... I'm not surprised.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-10=І тепер, коли я дізналася, як саме нами керують... я не здивована.
+
+
+# Dee
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Anyway, the most worrying matter concerns the fate of prisoners in the Slums.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-11=У будь-якому разі, найбільше занепокоєння викликає доля в'язнів у Нетрях.
+
+
+# Dee
+### Over the last few months, every single prisoner accused has been sentenced to death.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-12=Упродовж останніх місяців кожного звинуваченого в'язня засуджували до страти.
+
+
+# Brok
+### All of them?
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-13=Усіх до єдиного?
+
+
+# Dee
+### I double-checked my sources.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-14=Я двічі перевірила свої джерела.
+
+
+# Dee
+### No accused prisoner ever gave any sign of life after being put to jail.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-15=Жоден звинувачений більше не подавав ознак життя після ув'язнення.
+
+
+# Dee
+### Doesn't matter if it's high security prison or just custody. The result is the same.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-16=Неважливо, чи це в'язниця суворого режиму, чи просто під вартою. Результат той самий.
+
+
+# Dee
+### They just... disappear from the surface of Earth.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-17=Вони просто... зникають із поверхні Землі.
+
+
+# Dee
+### Moreover, this was accompanied by a dramatic increase of the number of bodies incinerated or recycled during the same timespan.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-18=Крім того, це супроводжувалося різким збільшенням кількості спалених і перероблених тіл за той самий час.
+
+
+# Dee
+### So it's not very difficult to understand what happened to them.
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-19=Тож не важко здогадатися, що з ними сталося.
+
+
+# Gherkin
+### T-That... can't be...!
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-20=Ц-цього... не може бути...!
+
+
+# Brok
+### Care to say anything, Doc?...
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-21=Хочете щось сказати, доку...?
+
+
+# Gherkin
+### ...
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-22=...
+
+
+#----------------------------------------------------
+# Brok
+### Once again, Doc...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-1=Ще раз, доку...
+
+
+# Gherkin
+### I know what you're going to say. So I'll cut it short.
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-2=Я знаю, що ви збираєтеся сказати. Тому розповім коротко.
+
+
+# Gherkin
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### Yes, the Triangle has a judiciary power over prisoners' outcome.
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-3=Так, Трикутник має судову владу над долею в'язнів.
+
+
+# Gherkin
+### After each investigation, we're being sent all the required information to take the final decision...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-4=Після кожного розслідування нам надсилають всю необхідну інформацію для прийняття остаточного рішення...
+
+
+# Brok
+### Of life and death.
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-5=Про життя і смерть.
+
+
+# Gherkin
+### Yes. But...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-6=Так. Але...
+
+
+# Gherkin
+### What she says cannot be true...!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-7=Те, що вона каже, не може бути правдою...!
+
+
+# Dee
+### I've got proof!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-8=У мене є докази!
+
+
+# Brok
+### Explain yourself!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-9=Поясніть!
+
+
+# Gherkin
+### I've pretty much always voted no.
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-10=Я майже завжди голосував проти.
+
+
+# Gherkin
+### And one disapproval should be enough to prevent a death penalty! I've said it earlier!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-11=І одного несхвалення має бути достатньо, щоб запобігти смертному вироку! Я казав це раніше!
+
+
+# Dee
+### But how can you be so sure?
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-12=Але як ви можете бути в цьому певним?
+
+
+# Dee
+### Have you ever left your desk to check the consequences of your decisions?!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-13=Ви хоч раз вставали з робочого місця, щоб перевірити наслідки своїх рішень?!
+
+
+# Gherkin
+### N... Not exactly...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-14=Н... Не зовсім...
+
+
+# Brok
+### Wait a minute!...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-15=Хвилиночку...!
+
+
+# Brok
+### All prisoners... are sentenced to death?...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-16=Усіх в'язнів... засуджують до страти...?
+
+
+# Dee
+### Yes. They're being put to death two days after being incarcerated.
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-17=Так. Їх страчують через два дні після ув'язнення.
+
+
+# Brok
+### Two days...!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-18=Два дні...!
+
+
+# Brok
+### If this is true... This means...!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-19=Якщо це правда... Це означає...!
+
+
+# Dee
+### What? What's going on?...
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-20=Що? Що відбувається...?
+
+
+# Dee
+### Spit it!
+PC19B_CLUE_GHERKIN_PRISONERSKILLED-21=Викладай!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee. Remember that your husband hired me for an investigation?...
+PC19B_CLUE_SIN_DANGER-1=Ді. Пам'ятаєш, твій чоловік найняв мене для розслідування...?
+
+
+# Brok
+### This... didn't turn out well.
+PC19B_CLUE_SIN_DANGER-2=Це... закінчилося погано.
+
+
+# Dee
+### Which means...?
+PC19B_CLUE_SIN_DANGER-3=Тобто...?
+
+
+# Brok
+### He's in jail. At the police department.
+PC19B_CLUE_SIN_DANGER-4=Він у в'язниці. У відділку поліції.
+
+
+# Dee
+### N-No!...
+PC19B_CLUE_SIN_DANGER-5=Н-ні...!
+
+
+# Dee
+### How long?!
+PC19B_CLUE_SIN_DANGER-6=Як давно?!
+
+
+# Brok
+### A couple of days ago...
+PC19B_CLUE_SIN_DANGER-7=Це сталося пару днів тому...
+
+
+# Dee
+### I gotta leave!
+PC19B_CLUE_SIN_DANGER-8=Я маю йти!
+
+
+# Dee
+### NOW!!!
+PC19B_CLUE_SIN_DANGER-9=ЗАРАЗ!!!
+
+
+# Brok
+### You can't!
+PC19B_CLUE_SIN_DANGER-10=Ти не можеш!
+
+
+# Dee
+### The bots are after you! Not me!
+PC19B_CLUE_SIN_DANGER-11=Боти полюють на тебе! Не на мене!
+
+
+# Brok
+### They're hundreds surrounding us! You've attacked some of them!
+PC19B_CLUE_SIN_DANGER-12=Вони оточили нас сотнями! А деяких із них ти раніше атакувала!
+
+
+# Brok
+### They'll crush you regardless!
+PC19B_CLUE_SIN_DANGER-13=Вони тебе в будь-якому випадку розчавлять!
+
+
+# Dee
+### I have to take my chance!
+PC19B_CLUE_SIN_DANGER-14=Я мушу ризикнути!
+
+
+# Brok
+### And what will you do when you get there?
+PC19B_CLUE_SIN_DANGER-15=І що ти робитимеш, коли туди дістанешся?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### The guards will never let you reach him, let alone escape!
+PC19B_CLUE_SIN_DANGER-16=Охоронці ніколи не дозволять тобі дістатися до нього, не кажучи вже про втечу!
+
+
+# Brok
+### Besides...
+PC19B_CLUE_SIN_DANGER-17=Окрім того...
+
+
+# Brok
+### I'm also responsible for this.
+PC19B_CLUE_SIN_DANGER-18=Я теж несу за це відповідальність.
+
+
+# Brok
+### I could have got him out.
+PC19B_CLUE_SIN_DANGER-19=Я міг витягти його звідти.
+
+
+# Brok
+### I know the place! I'll help you!
+PC19B_CLUE_SIN_DANGER-20=Я знаю це місце! Я допоможу тобі!
+
+
+# Dee
+### ...
+PC19B_CLUE_SIN_DANGER-21=...
+
+
+# Dee
+### I hope I won't regret this.
+PC19B_CLUE_SIN_DANGER-22=Сподіваюся, я про це не пошкодую.
+
+
+#----------------------------------------------------
+# Dee
+### First, we need a way out of here!
+PC19B_INTERROGATION_OVER-1=Спершу нам потрібно вибратися звідси!
+
+
+# Brok
+### I'm on it!
+PC19B_INTERROGATION_OVER-2=Я вже над цим працюю!
+
+
+# Gherkin
+### What about me?...
+PC19B_INTERROGATION_OVER-3=А як же я...?
+
+
+# Brok
+### Use your brain! Anything that can help!
+PC19B_INTERROGATION_OVER-4=Увімкніть мізки! Думайте над тим, що могло б нам допомогти!
+
+
+# Gherkin
+### Oooh... I thought you'd get me out.
+PC19B_INTERROGATION_OVER-5=О-о-ой... Я думав, ви мене витягнете.
+
+
+#----------------------------------------------------
+# Brok
+### Found anything?
+PC19B_DEE_AFTER-1=Знайшла щось?
+
+
+# Dee
+### Not much, I'm afraid...
+PC19B_DEE_AFTER-2=Боюся, що нічого цікавого...
+
+
+# Brok
+### Don't worry. I'm on it!
+PC19B_DEE_AFTER-3=Не хвилюйся. Я над цим працюю!
+
+
+# Dee
+### ...Thanks.
+PC19B_DEE_AFTER-4=...Дякую.
+
+
+# Brok
+### (She's clearly troubled. Better handle it myself)
+PC19B_DEE_AFTER-5=(Вона явно стривожена. Краще розберуся з цим сам)
+
+
+#----------------------------------------------------
+# Brok
+### Take this.
+PC19B_GHERKIN_INV_DEFAULT-1=Візьміть це.
+
+
+# Gherkin
+### What for?... Keep it.
+PC19B_GHERKIN_INV_DEFAULT-2=Навіщо...? Залиште собі.
+
+
+#----------------------------------------------------
+

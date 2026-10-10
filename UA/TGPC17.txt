@@ -1,0 +1,1438 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Graff - Ott (Unknown)
+#     Graff - Unknown (Unknown)
+#     Ott - Graff (Unknown)
+#     Unknown - Graff (Unknown)
+
+#-------------------------------
+#= GRAFF --- MUSEUM
+#-------------------------------
+
+#----- Interactions --------
+### Exposition
+PC_EXPOSITION=Експозиція
+
+### Exposition (left)
+PC_EXPOSITIONLEFT=Експозиція (ліворуч)
+
+### Exposition (right)
+PC_EXPOSITIONRIGHT=Експозиція (праворуч)
+
+### Stand
+PC_STAND=Стенд
+
+### Sign
+PC_SIGN=Табличка
+
+### Big keyboard
+PC_PIANO=Велика клавіатура
+
+### Round stone
+PC_ROUNDSTONE=Круглий камінь
+
+### Triangular stone
+PC_TRIANGLESTONE=Трикутний камінь
+
+### Stele
+PC_STELE=Стела
+
+### Parchment
+PC_PARCHMENT=Пергамент
+
+### Date
+PC_DATE=Дата
+
+### Pill
+PC_PILL=Пігулка
+
+### Screw
+PC_SCREW=Гвинт
+
+### Text
+PC_TEXT=Текст
+
+### Small object
+PC_SMALLOBJECT=Маленький предмет
+
+#Of a piano keyboard
+### Key
+PC_KEY=Клавіша
+
+### Space
+PC_SPACE=Порожнє місце
+
+### Apparatus
+PC_APPARATUS=Прилад
+
+### Mark
+PC_MARK=Позначка
+
+### Crack
+PC_CRACK=Тріщина
+
+### Mirror
+PC_MIRROR=Дзеркало
+
+
+
+#----- Choices / Items --------
+### A museum piece!
+GOT_PHONEMUSEUM=Музейний експонат!
+
+### A rectangular slab!
+GOT_RECTANGLEPRINT=Прямокутна плита!
+
+### A half sphere!
+GOT_HALFCIRCLEPRINT=Напівсфера!
+
+### A sphere!
+GOT_FULLCIRCLEPRINT=Сфера!
+
+### A triangular prism!
+GOT_TRIANGLEPRINT=Трикутна призма!
+
+
+### A parchment!
+GOT_PARCHMENT=Пергамент!
+
+
+#----- Topics --------
+### Read?
+PC17_READ_CHOICE=Прочитати?
+
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Skip the museum puzzles?
+PC17_SKIP_MUSEUM=Пропустити головоломки в музеї?
+
+
+
+#----- Dialog --------
+
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+# Graff - Graff & Ott arrive at the museum for their last trial
+### Not many visitors around...
+PC17_ARRIVE1-1=Небагато тут відвідувачів...
+
+
+# Ott
+### Obviously.
+PC17_ARRIVE1-2=Очевидно.
+
+
+# Graff
+### What do you mean?
+PC17_ARRIVE1-3=Що ти маєш на увазі?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### It's an open day. Drumers don't like getting near Slumers very much.
+PC17_ARRIVE1-4=Сьогодні день відкритих дверей. Мешканці Верхів не дуже люблять наближатися до Нетрівців.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### On the other hand, Slumers are more concerned about daily survival than culture.
+PC17_ARRIVE1-5=З іншого боку, мешканці Нетрів більше переймаються щоденним виживанням, ніж культурою.
+
+
+# Graff
+### You got a point...
+PC17_ARRIVE1-6=Твоя правда...
+
+
+#----------------------------------------------------
+# Graff - Exploring the room
+### That's a weird skull...
+PC17_EXPOSKULL1-1=Якийсь дивний череп...
+
+
+# Graff
+### Ears on the side instead of on top? No pointed canine teeth?
+PC17_EXPOSKULL1-2=Вуха з боків замість того, щоб бути зверху? Немає загострених іклів?
+
+
+# Graff
+### What kind of species is that?
+PC17_EXPOSKULL1-3=Що це взагалі за вид?
+
+
+# Graff
+### "This skull is dated -1,000,000 B.R. This stands for "Before Rebirth."
+PC17_EXPOSKULL1-4="Цей череп датований -1,000,000 Д.В. Це означає "До Відродження"."
+
+
+# Graff
+### "It was found at the bottom of the ocean floor, which explains its exceptional preservation state for its age."
+PC17_EXPOSKULL1-5="Його було знайдено на дні океану, що пояснює винятковий стан його збереження для такого віку."
+
+
+# Graff
+### "It belongs to an extinct species we've called Tamed Earthian. We've determined that this one was bipedal unlike most ancient animals.
+PC17_EXPOSKULL1-6="Він належить вимерлому виду, який ми назвали Приручений Землянин. Ми встановили, що цей вид був двоногим, на відміну від більшості древніх тварин."
+
+
+# Graff
+### "The representations below seem to have been handmade by this species."
+PC17_EXPOSKULL1-7="Зображення нижче, схоже, були зроблені цим видом вручну."
+
+
+# Graff
+### "If confirmed, Tamed Earthian would be one of our first ancestors featuring creative skills and a surprising intelligence, though much less developed than our own."
+PC17_EXPOSKULL1-8="Якщо це підтвердиться, Приручений Землянин може бути одним із наших перших предків, що мав творчі навички та дивовижний інтелект, хоча й значно менш розвинений, ніж наш."
+
+
+#----------------------------------------------------
+# Graff
+### -1,000,000 B.R.
+PC17_EXPOSKULL2-1=-1,000,000 Д.В.
+
+
+# Graff
+### Those creatures looked scary... Some wild beasts, for sure.
+PC17_EXPOSKULL2-2=Ці істоти виглядали лячно... Напевно, якісь дикі звірі.
+
+
+#----------------------------------------------------
+# Graff
+### What a strange device...
+PC17_PHONE1-1=Який дивний пристрій...
+
+
+# Graff
+### Kinda looks like my phone but even mine doesn't look that ancient.
+PC17_PHONE1-2=Схоже на мій телефон, але навіть мій не виглядає настільки древнім.
+
+
+# Graff
+### What's it doing on the floor? That must be an exposition piece!
+PC17_PHONE1-3=Що він робить на підлозі? Це ж має бути музейний експонат!
+
+
+#----------------------------------------------------
+# Graff
+### "A primitive mirror, blackened by the passage of time."
+PC17_PHONESTAND1-1="Примітивне дзеркало, потемніле від часу."
+
+
+# Graff
+### "Its compact form factor made it easy for Tamed Earthians to carry around everywhere."
+PC17_PHONESTAND1-2="Його компактний розмір дозволяв Прирученим Землянам легко носити його всюди із собою."
+
+
+# Graff
+### "More specifically, the presence of countless bacteria indicates that they stored it inside their rectum."
+PC17_PHONESTAND1-3="Зокрема, наявність незліченної кількості бактерій свідчить про те, що вони зберігали його у своїй прямій кишці."
+
+
+#----------------------------------------------------
+# Graff
+### It fits! And... displays something?...
+PC17_PHONESTAND_PUT-1=Підходить! І... воно щось показує...?
+
+
+#----------------------------------------------------
+# Graff
+### This displays a weird symbol.
+PC17_PHONESTAND_AFTER-1=Тут відображається дивний символ.
+
+
+#----------------------------------------------------
+# Graff
+### I believe something is supposed to stand here.
+PC17_PHONESTAND2-1=Здається, тут має щось стояти.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### "This medal commemorates the invention of the Toxout pill (also known as Daily Pill and Anti-pollution Pill) in 385 After Rebirth."
+PC17_SIGN_TEXT1-1="Ця медаль присвячена винайденню смогової пігулки (також відомої як щоденна пігулка та пігулка проти забруднення) у 385 Після Відродження."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### "It counters the effects of the permanent Haze in Atlasia. However, the protective effect only lasts for one day."
+PC17_SIGN_TEXT1-2="Вона нейтралізує вплив постійного Смогу в Атлазії. Однак захисний ефект триває лише один день."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### "History has forgotten the name of our benefactor, yet this breakthrough discovery allowed the expansion of the modern world outside the boundaries of the Dome."
+PC17_SIGN_TEXT1-3="Історія забула ім'я творця, але це проривне відкриття дозволило розширити сучасний світ за межі Купола."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Whoever wrote this knows nothing... Living outside the Dome is far from a nice thing.
+PC17_SIGN_TEXT1-4=Хто б це не написав, він нічого не знає... Життя за межами Купола зовсім не солодке.
+
+
+#----------------------------------------------------
+# Graff
+### Isn't this screw a bit... off?
+PC17_SCREW1-1=Цей гвинт, здається, трохи… недокручений?
+
+
+#----------------------------------------------------
+# Graff
+### ...Wait, what?...
+PC17_SIGN_SCREW_SCREWDRIVER-1=...Стоп, що...?
+
+
+# Graff
+### My screwdriver won't do... The tip is different.
+PC17_SIGN_SCREW_SCREWDRIVER-2=Моя викрутка не підійде... Потрібен інший наконечник.
+
+
+# Graff
+### Obviously... That's some ancient panel here.
+PC17_SIGN_SCREW_SCREWDRIVER-3=Звісно... Це ж якась древня панель.
+
+
+# Graff
+### There must be another way...
+PC17_SIGN_SCREW_SCREWDRIVER-4=Має бути інший спосіб...
+
+
+#----------------------------------------------------
+# Graff
+### It won't fit... That screw is triangular shaped.
+PC17_SIGN_SCREW_OTHERS-1=Не підійде... Той гвинт має трикутну форму.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC17_SCREW_TRIANGLEPRINT-1=...
+
+
+# Graff
+### Yes! The tip of that pyramid fits the screw!
+PC17_SCREW_TRIANGLEPRINT-2=Так! Наконечник цієї піраміди підходить до гвинта!
+
+
+# Graff
+### And...
+PC17_SCREW_TRIANGLEPRINT-3=І...
+
+
+# Graff
+### There ya go!
+PC17_SCREW_TRIANGLEPRINT-4=Ось так!
+
+
+#----------------------------------------------------
+# Graff
+### 385 A.R... We've been using it for such a long time?...
+PC17_SIGN_DATE1-1=385 П.В... Ми користуємося цим вже так довго...?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Looks like some ancient model of our Toxout pill.
+PC17_SIGN_PILL1-1=Схоже на древню модель нашої смогової пігулки.
+
+
+#----------------------------------------------------
+# Graff
+### "Statues, feathered tails and stones dated -200,000 B.R."
+PC17_EXPOUNTAIL1-1="Статуї, пернаті хвости та камені, датовані -200,000 Д.В."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### "These distinct features make them, without any shadow of a doubt, the first traces of The Untail worshipping."
+PC17_EXPOUNTAIL1-2="Ці виразні риси роблять їх, поза всяким сумнівом, першими свідченнями поклоніння Безхвостому."
+
+
+#----------------------------------------------------
+# Graff - Stands as in "slots for making the statues stand"
+### Hmm... Three stands, two statues.
+PC17_EXPOUNTAIL2-1=Гмм... Три стенди, дві статуї.
+
+
+#----------------------------------------------------
+# Graff
+### The statuette fits in the slot!
+PC17_STATUETTE_PUT-1=Статуетка входить у роз'єм!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Good job, Graff! I think you unlocked something!
+PC17_STATUETTE_PUT-2=Чудова робота, Граффе! Думаю, ти щось розблокував!
+
+
+# Graff
+### Hmm... A symbol? That's all?
+PC17_STATUETTE_PUT-3=Гмм... Символ? І це все?
+
+
+# Ott
+### Must be important.
+PC17_STATUETTE_PUT-4=Мабуть, це щось важливе.
+
+
+#----------------------------------------------------
+# Graff - We talk about piano keys here - not door keys!
+### Weird. The keys are all aligned on this keyboard. What's it for?
+PC17_PIANO1-1=Дивно. Усі клавіші на цій клавіатурі вирівняні. Навіщо?
+
+
+# Graff
+### I should take a closer look.
+PC17_PIANO1-2=Варто роздивитися ближче.
+
+
+#----------------------------------------------------
+# Ott
+### What was that?...
+PC17_PIANO_FOUND1-1=Що це було...?
+
+
+# Graff
+### I've solved the final riddle!
+PC17_PIANO_FOUND1-2=Я розгадав останню загадку!
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Congrats, Graff! I knew you could do it!
+PC17_PIANO_FOUND1-3=Вітаю, Граффе! Я знав, що ти зможеш!
+
+
+# Ott
+### Back to the Consc', shall we?
+PC17_PIANO_FOUND1-4=Повернемося до Центру?
+
+
+# Graff
+### Okay... Let's go.
+PC17_PIANO_FOUND1-5=Гаразд... Ходімо.
+
+
+#----------------------------------------------------
+# Graff
+### I can't press here... The key is missing!
+PC17_PIANO_KEYMISSING1-1=Я не можу тут натиснути... Клавіші бракує!
+
+
+#----------------------------------------------------
+# Graff
+### "Starting from the 9th century, technology got progressive evolutions. Entertainment became an important part of society, as evidenced by all the cultural objects retrieved."
+PC17_PIANO_TEXT1-1="Починаючи з 9-го століття, технології поступово розвивалися. Розваги стали важливою частиною суспільства, про що свідчать усі знайдені культурні об'єкти."
+
+
+# Graff
+### "Here is an ancient musical instrument we've carefully restored according to the materials found in direct proximity of its remains."
+PC17_PIANO_TEXT1-2="Ось древній музичний інструмент, який ми ретельно реставрували відповідно до матеріалів, знайдених безпосередньо поруч із його залишками."
+
+
+#----------------------------------------------------
+# Graff
+### There you go! A crystal-clear key!
+PC17_PIANO_KEYFIXED1-1=Ось і все! Кришталево прозора клавіша!
+
+
+#----------------------------------------------------
+# Graff
+### Oh, I don't need any explanation for this one!
+PC17_EXPODOME1-1=О, для цього мені пояснення не потрібні!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+### That's Rebirth Day. The great turning point after the catastrophe which ended up polluting the whole planet!
+PC17_EXPODOME1-2=Це день Відродження. Великий переломний момент після катастрофи, яка зрештою забруднила всю планету!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### If it wasn't for the Dome, humanity could've gone extinct.
+PC17_EXPODOME1-3=Якби не Купол, усе людство могло б вимерти.
+
+
+#----------------------------------------------------
+# Graff
+### "A couple of heroes used all-new technology to prevent the living world from being wiped out."
+PC17_EXPODOME2-1="Пара героїв використала новітні технології, щоб запобігти знищенню живого світу."
+
+
+# Graff
+### "In particular, they built a Dome prototype in order to house survivors and, hopefully, prosper again in safety."
+PC17_EXPODOME2-2="Зокрема, вони збудували прототип Купола, щоб дати притулок тим, хто вижив, і, маємо надію, знову процвітати в безпеці."
+
+
+# Graff
+### "This event closed off contact between all continents and civilizations on Earth, which are still limited to this day."
+PC17_EXPODOME2-3="Ця подія припинила контакти між усіма континентами та цивілізаціями Землі, які залишаються обмеженими й донині."
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### That's odd. This is an exposition on the construction of the Dome but I don't see one.
+PC17_EXPODOME2B-1=Дивно. Це експозиція про будівництво Купола, але я його тут не бачу.
+
+
+#----------------------------------------------------
+# Graff
+### This should be good enough to replace the missing Dome.
+PC17_EXPODOME_PUTDOME-1=Цього має вистачити, щоб замінити відсутній Купол.
+
+
+# Graff
+### ...Hey! Something appeared on it!
+PC17_EXPODOME_PUTDOME-2=...Гей! На ньому щось з'явилося!
+
+
+#----------------------------------------------------
+# Graff
+### Good idea but... A sphere would never stand here.
+PC17_EXPODOME_FULLCIRCLEPRINT-1=Гарна ідея, але... Сфера ніколи тут не втримається.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+### "Population is estimated to have grown from 50,000 on Rebirth Day to 1 million by 172 A.R."
+PC17_STONEGROWTH1-1="За оцінками, чисельність населення зросла з 50,000 у день Відродження до 1 мільйона на момент 172 П.В."
+
+
+# Graff
+### "Yet a Dome's housing capacity is supposed to be 200,000 max."
+PC17_STONEGROWTH1-2="Проте місткість Купола становить максимум 200,000 осіб."
+
+
+# Graff
+### "Therefore, restrictions on the number of births had to be put into place."
+PC17_STONEGROWTH1-3="Тому довелося запровадити обмеження на кількість народжень."
+
+
+#----------------------------------------------------
+# Graff
+### Restrictions which we still suffer to this day...
+PC17_STONEGROWTH2-1=Обмеження, від яких ми страждаємо й досі...
+
+
+#----------------------------------------------------
+# Graff
+### The color of the panel is different here. Was something there before?
+PC17_PARCHMENTSPACE1-1=Колір панелі відрізняється. Тут раніше щось було?
+
+
+#----------------------------------------------------
+# Graff
+### Just as I thought. It fits perfectly!
+PC17_PARCHMENTSPACE_PLACE-1=Як я й думав. Підходить ідеально!
+
+
+#----------------------------------------------------
+# Graff
+### Just a symbol...?
+PC17_PARCHMENTSPACE_OK-1=Просто символ...?
+
+
+#----------------------------------------------------
+# Graff
+### Some old paper.
+PC17_PARCHMENT1-1=Якийсь старий папір.
+
+
+#----------------------------------------------------
+# Graff
+### With nothing on it except for one weird symbol. What's the point?...
+PC17_PARCHMENT1B-1=І на ньому нічого немає, крім дивного символу. Який у цьому сенс...?
+
+
+#----------------------------------------------------
+# Graff
+### Is that a paper? I can't reach it from here.
+PC17_PARCHMENT_TOOFAR-1=Це папір? Я не можу дістати його звідси.
+
+
+#----------------------------------------------------
+# Graff
+### "An antique game dated 1600 A.R., entirely mechanical. Play it and win a special prize!"
+PC17_PRINTER1-1="Старовинна гра, датована 1600 П.В., повністю механічна. Зіграйте й виграйте особливий приз!"
+
+
+#----------------------------------------------------
+# Graff
+### Did I win?... I think I heard something fall.
+PC17_PRINTERWON1-1=Я виграв...? Здається, я чув, як щось впало.
+
+
+#----------------------------------------------------
+# Graff
+### Something fell in that drawer.
+PC17_PRINTERWON2-1=Щось впало в ту шухляду.
+
+
+#----------------------------------------------------
+# Graff
+### ...?
+PC17_PRINTERWON_ALREADY-1=...?
+
+
+# Graff
+### Nothing?...
+PC17_PRINTERWON_ALREADY-2=Нічого...?
+
+
+#----------------------------------------------------
+# Graff
+### Hmm... That thing won't turn on. What's wrong?
+PC17_PRINTER_TAKEBEFORE-1=Гмм... Ця штука не вмикається. Що не так?
+
+
+#----------------------------------------------------
+# Graff
+### Looks like a drawer but I can't see any way to open it...
+PC17_DRAWER1-1=Схоже на шухляду, але я не бачу способу її відкрити...
+
+
+#----------------------------------------------------
+# Graff
+### Cool! Here's my reward!
+PC17_DRAWER_PICK1-1=Круто! Ось моя нагорода!
+
+
+#----------------------------------------------------
+# Graff
+### Another reward for me!
+PC17_DRAWER_PICK2-1=Ще одна нагорода для мене!
+
+
+#----------------------------------------------------
+# Graff
+### I didn't have this one yet!
+PC17_DRAWER_PICK3-1=Такого в мене ще не було!
+
+
+#----------------------------------------------------
+# Graff
+### Do I have the whole collection, now?
+PC17_DRAWER_PICK4-1=Тож тепер у мене вся колекція?
+
+
+#----------------------------------------------------
+# Graff
+### Some history about the revolt...
+PC17_EXPOREVOLT1-1=Трохи історії про повстання...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### "Five centuries after the Rebirth Day, tensions increased between the descendants of nomads living outside the Dome and the domists living inside."
+PC17_EXPOREVOLT_READ-1="Через п'ять століть після дня Відродження напруга між нащадками кочівників, які жили за межами Купола, та жителями Купола зросла."
+
+
+# Graff
+### "Even though their ancestors made their own decision to live outside, the nomads began to claim the same possessions and rights as domists, resulting in free trade circulation between the two sides."
+PC17_EXPOREVOLT_READ-2="Хоча їхні предки самі вирішили жити зовні, кочівники почали вимагати таких самих прав та майна, як і жителі Купола, що призвело до вільної торгівлі між двома сторонами."
+
+
+# Graff
+### "A revolt turned into a war which claimed hundreds of thousands of victims."
+PC17_EXPOREVOLT_READ-3="Повстання переросло у війну, яка забрала сотні тисяч життів."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### "It is during this conflict that domists named the outside people 'Slumers', while they respectively started calling people living under the Dome 'Drumers.'"
+PC17_EXPOREVOLT_READ-4="Саме під час цього конфлікту жителі Купола назвали людей зовні 'мешканцями Нетрів', тоді як ті у відповідь почали називати жителів під Куполом 'мешканцями Верхів'."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### "The overwhelming violence of those revolts still resonates to this day. No further rebellion involving all united Slumers ever happened again."
+PC17_EXPOREVOLT_READ-5="Неймовірна жорстокість тих повстань відгукується й донині. Більше жодного бунту за участю всіх об'єднаних Нетрівців не було."
+
+
+#----------------------------------------------------
+# Graff
+### A hologram with a timeline mentioning the major inventions of our civilization.
+PC17_EXPOTECHNOLOGICAL1-1=Голограма з часовою шкалою, де згадуються головні винаходи нашої цивілізації.
+
+
+# Graff
+### "Usage of potentially polluting power sources was forbidden until the 25th century. This hampered the capacity of scientists to improve our everyday life dramatically."
+PC17_EXPOTECHNOLOGICAL1-2="Використання потенційно забруднювальних джерел енергії було заборонено до 25-го століття. Це суттєво перешкоджало науковцям покращувати наше повсякденне життя."
+
+
+# Graff
+### "We're all living in a golden era with visible technological improvements over less than one generation!"
+PC17_EXPOTECHNOLOGICAL1-3="Ми всі живемо в золоту еру з помітними технологічними покращеннями менш ніж за одне покоління!"
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+### Oh, sure... For Drumers. Conditions for us Slumers don't really advance at the same rate.
+PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе у Верхах. Умови для нас, Нетрівців, покращуються не з такою швидкістю.
+
+
+# Graff
+### You took the words right out of my mouth.
+PC17_EXPOTECHNOLOGICAL1-5=Ти в мене з язика зняв.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Pipe-Mail, Propulsed Bicycles, Temperature Regulating Clothes, E-Physical Libraries...
+PC17_EXPOTECHNOLOGICAL2-1=Поштомати, реактивні велосипеди, одяг із терморегуляцією, електронно-фізичні бібліотеки...
+
+
+# Graff
+### I don't have access to any of the listed inventions.
+PC17_EXPOTECHNOLOGICAL2-2=Я не маю доступу до жодного з перелічених винаходів.
+
+
+#----------------------------------------------------
+# Graff
+### "The current sex ratio at birth for females is 31%. Archeological research suggests this hasn't always been the case but it is the unequivocal result of our evolution."
+PC17_STELE1-1="Поточне співвідношення статей при народженні для самок становить 31%. Археологічні дослідження свідчать, що так було не завжди, але це беззаперечний результат нашої еволюції."
+
+
+# Graff
+### Who knows... Maybe nature did it itself to prevent disproportionate population growth.
+PC17_STELE1-2=Хто знає... Може, природа сама це зробила, щоб запобігти непропорційному зростанню населення.
+
+
+# Graff
+### "In the past centuries, males and females fought for their rights. In our society, females are deemed too valuable to do trivial jobs and it's their duty to carry and take care of children."
+PC17_STELE1-3="У минулих століттях чоловіки та жінки боролися за свої права. У нашому суспільстві жінки вважаються надто цінними для простих робіт, і їхній обов'язок - виношувати діточок та піклуватися про них."
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Birth Ratio": "Народжуваність"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Again, they forget to mention these rules don't apply in the Slums... but the low female birth ratio does.
+PC17_STELE1-4=І знову вони забули згадати, що ці правила не діють у Нетрях... а ось низька народжуваність самок діє.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Yeah. It's not like there are many women roaming around the Slums.
+PC17_STELE1-5=Ага. Не те щоб у Нетрях вельми багато жінок.
+
+
+# Graff
+### And the few I've ever met are way too busy making a living to worry about offspring.
+PC17_STELE1-6=А ті нечисленні, яких я зустрічав, надто зайняті заробітком на життя, щоб перейматися потомством.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### If we don't get to be Drumers, we can pretty much forget getting married someday.
+PC17_STELE2-1=Якщо ми не станемо мешканцями Верхів, то можна забути про те, щоб колись одружитися.
+
+
+# Ott
+### Well, in my case...
+PC17_STELE2-2=Ну, у моєму випадку...
+
+
+# Ott
+### It's not like... anyone... Would pick me anyway.
+PC17_STELE2-3=Навряд чи... хтось... взагалі б мене обрав.
+
+
+# Graff
+### Why do you say that?
+PC17_STELE2-4=Чому ти так кажеш?
+
+
+# Ott
+### You know why. I'm an ugly mixed breed.
+PC17_STELE2-5=Ти знаєш чому. Я потворна мішана порода.
+
+
+# Graff
+### No, you're not!
+PC17_STELE2-6=Ні, це не так!
+
+
+# Graff
+### I mean... Yes, you're a mixed breed and I understand it's difficult but you're a really nice person.
+PC17_STELE2-7=Я маю на увазі... Так, ти мішаної породи, і я розумію, що це важко, але ти справді чудовий хлопець.
+
+
+# Graff
+### And the best friend I could ever hope for!
+PC17_STELE2-8=І найкращий друг, про якого я міг тільки мріяти!
+
+
+# Graff
+### I'm certain you'll find someone.
+PC17_STELE2-9=Я впевнений, що ти знайдеш когось.
+
+
+# Ott
+### You think so?...
+PC17_STELE2-10=Ти правда так думаєш...?
+
+
+# Ott
+### ...
+PC17_STELE2-11=...
+
+
+# Ott
+### What about you?
+PC17_STELE2-12=А як щодо тебе?
+
+
+# Graff
+### Me?...
+PC17_STELE2-13=Я...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### Yeah. When you get to be a Drumer...
+PC17_STELE2-14=Ага. Коли ти станеш мешканцем Верхів...
+
+
+# Ott
+### Will you try having a family?
+PC17_STELE2-15=Ти спробуєш створити сім'ю?
+
+
+# Graff
+### I... didn't really think about it...
+PC17_STELE2-16=Я... особливо про це не думав...
+
+
+# Graff
+### My parentage is so broken that I can't even consider passing this failure onto any children.
+PC17_STELE2-17=Моя сім'я настільки зламана, що я навіть уявити не можу, щоб передати цю невдачу власним дітям.
+
+
+# Graff
+### Besides...
+PC17_STELE2-18=До того ж...
+
+
+# Ott
+### Besides what?
+PC17_STELE2-19=До того ж що?
+
+
+# Graff
+### Nothing...
+PC17_STELE2-20=Нічого...
+
+
+#----------------------------------------------------
+# Graff
+### Hey, look! There's some keyhole here!
+PC17_STELE_HOLE1-1=Гей, подивись! Тут є якась замочна шпарина!
+
+
+# Ott
+### You're right! I think something's written inside...
+PC17_STELE_HOLE1-2=Твоя правда! Здається, всередині щось написано...
+
+
+# Ott - This means : Consciousness Center, under Stubot seat. We're meant to look for the key under Stubot's seat inside the school.
+### "CC. Under STU seat."
+PC17_STELE_HOLE1-3="ЦС. Під стільцем СТУД."
+
+
+# Graff
+### Strange. You think this may be a clue?
+PC17_STELE_HOLE1-4=Дивно. Думаєш, це може бути зачіпкою?
+
+
+# Ott
+### Might be...
+PC17_STELE_HOLE1-5=Можливо...
+
+
+#----------------------------------------------------
+# Graff
+### A keyhole with the words "CC. Under STU seat."
+PC17_STELE_HOLE2-1=Замочна шпарина зі словами "ЦС. Під стільцем СТУД."
+
+
+# Graff
+### Hmm...
+PC17_STELE_HOLE2-2=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### Two-to-one this fits into the keyhole...
+PC17_STELE_HOLE_KEY-1=Ставлю два проти одного, що цей ключ підійде до замочної шпарини...
+
+
+# Graff
+### Yup! Now what am I supposed to do?
+PC17_STELE_HOLE_KEY-2=Ага! І що мені тепер робити?
+
+
+# Ott
+### Hmm... I believe those ancient keys are meant to be turned one side or another.
+PC17_STELE_HOLE_KEY-3=Гмм... Здається, такі стародавні ключі треба повертати в той чи інший бік.
+
+
+# Graff
+### I'll try...
+PC17_STELE_HOLE_KEY-4=Я спробую...
+
+
+# Ott
+### Look! A panel moved right below the lock!
+PC17_STELE_HOLE_KEY-5=Дивись! Панель під замком зрушила з місця!
+
+
+# Graff
+### Does this help us?...
+PC17_STELE_HOLE_KEY-6=Це нам якось допоможе...?
+
+
+# Ott
+### I guess it's supposed to...
+PC17_STELE_HOLE_KEY-7=Мало б допомогти...
+
+
+#----------------------------------------------------
+# Graff
+### No point messing with that anymore.
+PC17_STELE_HOLE_DONE-1=Більше немає сенсу з цим возитися.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### What's this Tribot doing here?
+PC17_TRIBOT_BEFORE1-1=Що тут робить цей Трибот?
+
+
+# Graff
+### I wonder...
+PC17_TRIBOT_BEFORE1-2=Цікаво...
+
+
+# Graff
+### Maybe to handle security?
+PC17_TRIBOT_BEFORE1-3=Може, стежить за безпекою?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Those Tribots are scaring me... I better look away.
+PC17_TRIBOT1-1=Ці Триботи лякають мене... Краще відвернуся.
+
+
+#----------------------------------------------------
+# Graff
+### No reaction...
+PC17_TRIBOT_GUARD1-1=Жодної реакції...
+
+
+#----------------------------------------------------
+# Graff
+### Uh oh!
+PC17_TRIBOT_OOPS-1=Ой-ой!
+
+
+#----------------------------------------------------
+# Ott - If Graff makes a mistake with the piano, there is a fight with bots
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Oh no! Graff, look out!!!
+PC17_TRIBOT_GRAFFATTACKED1-1=О ні! Граффе, стережись!!!
+
+
+# Graff
+### What?!...
+PC17_TRIBOT_GRAFFATTACKED1-2=Що...?!
+
+
+#----------------------------------------------------
+# Ott
+### Pheew... I'm glad you made it!
+PC17_TRIBOT_GRAFFATTACKED2-1=Фуух... Я радий, що ти впорався!
+
+
+# Ott
+### I'm sorry I couldn't help... I'm totally worthless in those situations.
+PC17_TRIBOT_GRAFFATTACKED2-2=Вибач, що не зміг допомогти... У таких ситуаціях від мене зовсім немає користі.
+
+
+# Graff
+### Don't worry about it. But... I guess this was a warning.
+PC17_TRIBOT_GRAFFATTACKED2-3=Не переймайся. Але... Здається, це було попередження.
+
+
+# Ott
+### Yeah. I think we've made a mistake.
+PC17_TRIBOT_GRAFFATTACKED2-4=Ага. Думаю, ми припустилися помилки.
+
+
+# Ott
+### Gotta be more careful!
+PC17_TRIBOT_GRAFFATTACKED2-5=Треба бути обережнішими!
+
+
+#----------------------------------------------------
+# Graff
+### Crap! I did a blunder again!...
+PC17_TRIBOT_GRAFFATTACKEDAGAIN-1=Чорт! Я знову схибив...!
+
+
+# Graff
+### ...
+PC17_TRIBOT_GRAFFATTACKEDAGAIN-2=...
+
+
+# Graff
+### At least it seems they ran out of robots to attack this t...
+PC17_TRIBOT_GRAFFATTACKEDAGAIN-3=Принаймні цього разу у них закінчилися роботи для ата...
+
+
+#----------------------------------------------------
+# Graff
+### Oh boy...
+PC17_TRIBOT_GRAFFATTACKEDAGAIN2-1=Ой леле...
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! Are you okay?...
+PC17_LASERS_JUMP1-1=Граффе! З тобою все гаразд...?
+
+
+# Graff
+### No way...
+PC17_LASERS_JUMP1-2=Ні...
+
+
+#----------------------------------------------------
+# Graff
+### I need to think this over...
+PC17_LASERS_JUMP2-1=Мені треба це обдумати...
+
+
+#----------------------------------------------------
+# Graff
+### A sign... or a button?
+PC17_SIGNBUTTON1-1=Знак... чи кнопка?
+
+
+# Graff
+### In any case, I can't reach it.
+PC17_SIGNBUTTON1-2=У будь-якому разі, я не можу дістати до неї.
+
+
+#----------------------------------------------------
+# Graff
+### I'm pretty sure this button deactivates the lasers, so... I don't need it anymore.
+PC17_SIGNBUTTON2-1=Я майже впевнений, що ця кнопка вимикає лазери, тож... вона мені більше не потрібна.
+
+
+#----------------------------------------------------
+# Graff
+### I bet this controls the lasers...
+PC17_LASERSCONTROL1-1=Б'юся об заклад, ця річ керує лазерами...
+
+
+#----------------------------------------------------
+# Graff
+### It's pointless now.
+PC17_LASERSCONTROL2-1=Мені вже це не потрібно.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... Are you sure this is the right way?...
+PC17_LASERSCONTROLHIT1-1=Граффе... Ти впевнений, що це правильний шлях...?
+
+
+#----------------------------------------------------
+# Graff
+### See?... It worked!
+PC17_LASERSCONTROLHIT2-1=Бачиш...? Спрацювало!
+
+
+# Ott
+### Yes but...
+PC17_LASERSCONTROLHIT2-2=Так, але...
+
+
+# Graff
+### No buts. Let's continue.
+PC17_LASERSCONTROLHIT2-3=Ніяких "але". Продовжимо.
+
+
+#----------------------------------------------------
+# Graff
+### There doesn't seem to be any screw.
+PC17_LASERSCONTROL_SCREWDRIVER-1=Здається, тут немає жодного гвинта.
+
+
+#----------------------------------------------------
+# Graff
+### I can't quite move it.
+PC17_LASERSCONTROL_OTHERS-1=Я не можу зрушити це.
+
+
+# Graff
+### Maybe I need to opt for a more brutal way.
+PC17_LASERSCONTROL_OTHERS-2=Може, варто діяти жорсткіше.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Tredecium": "Тредецій"
+### "3026 A.R. Tredecium 5th : The Autarchism day."
+PC17_EXPOAUTARCHISM1-1="3026 П.В. 5 тредеція: день Аутархізму."
+
+
+#----------------------------------------------------
+# Graff
+### "Over the history, several political models have succeeded one another."
+PC17_EXPOAUTARCHISM_READ-1="Протягом історії кілька політичних моделей змінювали одна одну."
+
+
+# Graff
+### "The longest running, a direct democracy involving several countries, was phased out after years of skepticism and a deep economic crisis."
+PC17_EXPOAUTARCHISM_READ-2="Найтриваліша з них, пряма демократія за участю кількох країн, була поступово скасована після років скептицизму та глибокої економічної кризи."
+
+
+# Graff
+### "Resistance came from political grounds, who didn't want to believe there could be a better model."
+PC17_EXPOAUTARCHISM_READ-3="Опір в політиці чинили ті, хто не вірив, що може існувати краща модель."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### "However, the vast majority of the Atlasia citizens refused those debates."
+PC17_EXPOAUTARCHISM_READ-4="Однак переважна більшість громадян Атлазії відмовилася від цих дебатів."
+
+
+# Graff
+### "They believed politics to take a growing part of their free time and judged themselves unable and unwilling to decide."
+PC17_EXPOAUTARCHISM_READ-5="Вони вважали, що політика займає дедалі більше їхнього вільного часу, і визнали, що не бажають і неспроможні нічого вирішувати."
+
+
+# Graff
+### "A census survey was conducted, which clearly showed that political talks are harmful for humans' health."
+PC17_EXPOAUTARCHISM_READ-6="Було проведено опитування населення, яке чітко показало, що політичні розмови шкідливі для здоров'я людей."
+
+
+# Graff
+### "It was then decided that politics would be banned altogether."
+PC17_EXPOAUTARCHISM_READ-7="Тоді було вирішено повністю заборонити політику."
+
+
+# Graff
+### "A self-proclaimed Government now makes the decisions for everyone."
+PC17_EXPOAUTARCHISM_READ-8="Самопроголошений Уряд тепер приймає рішення за всіх."
+
+
+# Graff
+### "This way, no citizen has to worry about bigger state decisions in their day-to-day life."
+PC17_EXPOAUTARCHISM_READ-9="Таким чином, жодному громадянину не доводиться перейматися важливими державними рішеннями у своєму повсякденному житті."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### "In addition to this, Atlasia became independent, cutting all remaining ties with nearby countries."
+PC17_EXPOAUTARCHISM_READ-10="Крім того, Атлазія стала незалежною, розірвавши всі залишки зв'язків із сусідніми країнами."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### "Atlasia citizens can focus on their own priorities. This freedom is what gave it the name Autarchism."
+PC17_EXPOAUTARCHISM_READ-11="Громадяни Атлазії можуть зосередитися на власних пріоритетах. Ця свобода і дала цій системі назву Аутархізм."
+
+
+#----------------------------------------------------
+# Graff
+### An X on this wall...
+PC17_BREAKWALL1-1=Хрестик на цій стіні...
+
+
+#----------------------------------------------------
+# Ott
+### Woah!
+PC17_BREAKWALL_HIT-1=Ого!
+
+
+# Ott
+### I didn't expect you to hit the wall!
+PC17_BREAKWALL_HIT-2=Я не очікував, що ти вдариш стіну!
+
+
+# Graff
+### Erm... Well, it worked.
+PC17_BREAKWALL_HIT-3=Е-е... Ну, це спрацювало.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC17_MARK_OTHERS-1=...
+
+
+# Graff
+### I'm trying to dig a hole but... I'd need something better.
+PC17_MARK_OTHERS-2=Я намагаюся викопати яму, але... мені знадобиться щось краще.
+
+
+#----------------------------------------------------
+# Graff
+### Haven't I seen this symbol somewhere else?...
+PC17_BREAKWALL_AFTER-1=Хіба я не бачив цей символ деінде...?
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+### "Another major event happened during Autarchism Day, which was occulted by many news reportings."
+PC17_EXPORECENTA1-1="В День Аутархізму сталася ще одна важлива подія, яку замовчували у багатьох випусках новин."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### "The newly formed government almost ended prematurely when a group from the Slums, called 'Squealers,' attempted a coup."
+PC17_EXPORECENTA1-2="Новостворений уряд ледь не припинив своє існування передчасно, коли група з Нетрів під назвою 'Верескуни' спробувала здійснити переворот."
+
+
+# Graff
+### "They claimed power in order to protest against the promise that robots would take a major role in the future, leaving many out of jobs."
+PC17_EXPORECENTA1-3="Вони вимагали влади, намагаючись запобігти майбутньому, в якому роботи відіграватимуть провідну роль і залишать багатьох без роботи."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### "This attempt failed however, and the new government quickly banned Squealers out of the country with the help of the militaries to avoid any further attempts."
+PC17_EXPORECENTA1-4="Однак ця спроба провалилася, і новий уряд швидко вигнав Верескунів з країни за допомогою військових, щоб уникнути подальших спроб."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### That was quite a harsh decision but in retrospect... I can't really blame them. Those Squealers are quite the scum of our w...
+PC17_EXPORECENTA1-5=Це було досить жорстоке рішення, але озираючись назад... я не можу їх звинувачувати. Ці Верескуни - ті ще покидьки нашого с...
+
+
+# Graff
+### Wait... That picture...
+PC17_EXPORECENTA1-6=Чекай... Це фото...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC17_EXPORECENTA1B-1=...
+
+
+# Graff
+### Must be my imagination.
+PC17_EXPORECENTA1B-2=Мабуть, це моя уява.
+
+
+#----------------------------------------------------
+# Graff
+### I wonder what caused this crack...
+PC17_CRACK1-1=Цікаво, що спричинило цю тріщину...
+
+
+#----------------------------------------------------
+# Graff
+### Better not make it worse...
+PC17_CRACK_OTHERS-1=Краще її не чіпати...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Blackout": "Знеструмлення"
+# NB: Lexicon word in Ukrainian for "Lorgust": "Славерпень"
+### "3030 A.R. Lorgust 9th : The Blackout."
+PC17_EXPORECENTB1-1="3030 П.В. 9 славерпня: Знеструмлення."
+
+
+# Graff
+### "Unprecedented in modern history, a power failure occurred that day for a few minutes."
+PC17_EXPORECENTB1-2="Безпрецедентний випадок у сучасній історії: того дня на кілька хвилин сталося вимкнення електроенергії."
+
+
+# Graff
+### "This caused a huge number of problems all over the country."
+PC17_EXPORECENTB1-3="Це спричинило величезну кількість проблем по всій країні."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### "The Dome got cut off, which could have had dramatic effects if not for the military Tribots repelling Slumers from trying to enter the Drums."
+PC17_EXPORECENTB1-4="Купол відключився, що могло б мати катастрофічні наслідки, якби військові Триботи не стримали Нетрівців від спроб проникнути на Верхи."
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### "In addition, the Triweb went down. All citizens suffered from unpredictable situations ranging from getting stuck inside elevators to falling Aircars."
+PC17_EXPORECENTB1-5="Крім того, відключився Тривеб. Усі громадяни постраждали від непередбачуваних ситуацій: від застрягання в ліфтах до падіння аеромобілів."
+
+
+# Graff
+### "A few of those accidents led to Drum citizen casualties, who shall always be remembered."
+PC17_EXPORECENTB1-6="Деякі з цих нещасних випадків призвели до жертв серед мешканців Верхів, про яких завжди пам'ятатимуть."
+
+
+# Graff
+### A few accidents...
+PC17_EXPORECENTB1-7=Кілька нещасних випадків...
+
+
+# Graff
+### Mom's name is listed below...
+PC17_EXPORECENTB1-8=Мамине ім'я вказано нижче...
+
+
+#----------------------------------------------------
+# Graff
+### I'd rather not read this again.
+PC17_EXPORECENTB2-1=Я б краще не читав це знову.
+
+
+#----------------------------------------------------
+# Graff - Talk to Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Have you noticed Klay isn't here?...
+PC17_OTT_KLAY1-1=Ти помітив, що Клея тут немає...?
+
+
+# Ott
+### Yeah... I hope we're doing the right thing.
+PC17_OTT_KLAY1-2=Ага... Сподіваюся, ми робимо все правильно.
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I was almost wondering where Klay is... I still can't realize...
+PC17_OTT_KLAYKILLED1-1=Я от якраз думав, де Клей... Досі не можу зрозуміти...
+
+
+# Graff
+### ...
+PC17_OTT_KLAYKILLED1-2=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Do you know anything, Graff?
+PC17_OTT_KLAYKILLED1-3=Ти щось знаєш, Граффе?
+
+
+# Graff
+### ...Not really...
+PC17_OTT_KLAYKILLED1-4=...Не зовсім...
+
+
+# Ott
+### Hmm?...
+PC17_OTT_KLAYKILLED1-5=Гмм...?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... Is there something you're not telling me?...
+PC17_OTT_KLAYKILLED1-6=Граффе... Ти щось приховуєш від мене...?
+
+
+# Graff
+### Sorry... It's just...
+PC17_OTT_KLAYKILLED1-7=Вибач... Просто...
+
+
+# Graff
+### We gotta focus.
+PC17_OTT_KLAYKILLED1-8=Нам треба зосередитися.
+
+
+# Ott
+### (Sigh) You must be right...
+PC17_OTT_KLAYKILLED1-9=(Зітхає) Мабуть, ти правий...
+
+
+#----------------------------------------------------
+# Graff
+### Hey.
+PC17_OTT_WELCOME1-1=Гей.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm...
+PC17_MIRROR1-1=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### Empty.
+PC17_STAND_EMPTY1-1=Порожньо.
+
+
+# Graff
+### Below is written...
+PC17_STAND_EMPTY1-2=Нижче написано...
+
+
+#----------------------------------------------------
+# Unknown
+### Do. Not. Touch.
+COOP_PC17_TRIBOT1-1=Не. Торкатися.
+
+
+#----------------------------------------------------
+

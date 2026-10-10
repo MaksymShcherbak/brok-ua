@@ -1,0 +1,3217 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Bolt - Brok (Unknown)
+#     Bolt - Tribot (Unknown)
+#     Brok - Bolt (Unknown)
+#     Brok - Gherkin (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Tribot (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Unknown (Unknown)
+#     Brok - Various (Unknown)
+#     Director - Klay (Unknown)
+#     Gherkin - Brok (Unknown)
+#     Gherkin - Tribotcop (Unknown)
+#     Gherkin - Unknown (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Various (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Graff (Unknown)
+#     Ott - Graff (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Tribotcop - Gherkin (Unknown)
+#     Tribotcop - Unknown (Unknown)
+#     Tribot - Bolt (Unknown)
+#     Tribot - Brok (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Gherkin (Unknown)
+#     Unknown - Tribotcop (Unknown)
+#     Various - Brok (Unknown)
+#     Various - Graff (Unknown)
+
+#-------------------------------
+#=  BORDER POST
+#-------------------------------
+
+#----- Interactions --------
+### Hand sign
+PC_HAND=Вказівник
+
+### Aperture
+PC_APERTURE=Прохід
+
+### Scanner
+PC_SCANNER=Сканер
+
+### Support line
+PC_HELPLINE=Лінія підтримки
+
+### Pyramid building
+PC_PYRAMIDBUILDING=Будівля-піраміда
+
+### Entrance
+PC_ENTRANCE=Вхід
+
+### Commands
+PC_COMMANDS=Панель керування
+
+### Ladder
+PC_LADDER=Драбина
+
+### Shelf brace
+PC_SHELFBRACE=Кронштейн
+
+### Plank
+PC_PLANK=Дошка
+
+### Antenna
+PC_ANTENNA=Антена
+
+### Vending machine
+PC_DISTRIBUTOR=Торговельний автомат
+
+### Hide here!
+PC_HIDE=Сховатися тут!
+
+### Stop hiding
+PC_UNHIDE=Перестати ховатися
+
+### Platform
+PC_PLATFORM=Платформа
+
+### Package
+PC_PACKAGE=Посилка
+
+
+
+#----- Choices / Items --------
+
+# ----- Choices / Items --------
+### Fight
+CHOICE_FIGHT=Битися
+
+### Go back
+CHOICE_GOBACK=Відступити
+
+### Hide
+CHOICE_HIDE=Сховатися
+
+
+### A screw!
+GOT_SCREW=Гвинт!
+
+
+
+#----- Topics --------
+### His job
+TOPIC_JOB=Його робота
+
+### Offer to help
+TOPIC_HELP=Запропонувати допомогу
+
+### Building
+TOPIC_BUILDING=Будівля
+
+### Assistant
+TOPIC_ASSISTANT=Помічник
+
+### Waste treatment
+TOPIC_WASTETREATMENT=Переробка відходів
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - illuminati1556 - 17/06/2019
+###############################################
+
+# Brok - Room interactions
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### A Toxout pill dispenser...
+PC12_PIPEPILL1-1=Розподільник смогових пігулок...
+
+
+#----------------------------------------------------
+# Brok
+### Darn... it's busted.
+PC12_PIPEPILL1B-1=Дідько... він зламаний.
+
+
+#----------------------------------------------------
+# Brok
+### Can't even pay my bills... It's totally broken!
+PC12_PIPEPILL_BILL-1=Не можу навіть оплатити рахунки... Геть зламаний!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Everything in the Slums is decaying...
+PC12_PIPEPILL2-1=Усе в Нетрях занепадає...
+
+
+#----------------------------------------------------
+# Brok
+### How could I access it?
+PC12_PLATFORM-1=Як мені туди дістатися?
+
+
+#----------------------------------------------------
+# Brok
+### "Please place your body over there."
+PC12_HAND1-1="Будь ласка, розмістіть своє тіло он там."
+
+
+#----------------------------------------------------
+# Brok - Using the scanner
+### I doubt it will work but I'll give it a try...
+PC12_SCANNER1-1=Сумніваюся, що спрацює, але спробую...
+
+
+# Brok
+### If I remember correctly, I only need to stay still and...
+PC12_SCANNER1-2=Якщо я правильно пам'ятаю, мені треба лише стояти нерухомо і...
+
+
+#----------------------------------------------------
+# Various
+### Scan complete. Unknown user.
+PC12_SCANNER_WRONG1-1=Сканування завершено. Невідомий користувач.
+
+
+# Various
+### Forbidden access!
+PC12_SCANNER_WRONG1-2=Доступ заборонено!
+
+
+# Various
+### Please move away before the countdown.
+PC12_SCANNER_WRONG1-3=Будь ласка, відійдіть до завершення відліку.
+
+
+# Various
+### Three...
+PC12_SCANNER_WRONG1-4=Три...
+
+
+# Various
+### Two...
+PC12_SCANNER_WRONG1-5=Два...
+
+
+# Various
+### One...
+PC12_SCANNER_WRONG1-6=Один...
+
+
+#----------------------------------------------------
+# Various
+### Scan complete.
+PC12_SCANNER_OK1-1=Сканування завершено.
+
+
+# Various
+### User allowed!
+PC12_SCANNER_OK1-2=Вхід дозволено!
+
+
+#----------------------------------------------------
+# Various
+### Error 0x5421.
+PC12_SCANNER_CAMERADISABLED-1=Помилка 0x5421.
+
+
+#----------------------------------------------------
+# Various
+### Procedure over. Thank you for understanding!
+PC12_SCANNER_OVER-1=Процедуру завершено. Дякуємо за розуміння!
+
+
+#----------------------------------------------------
+# Brok
+### Phew!
+PC12_SCANNER_OVER_REACT-1=Фух!
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### As expected, I'm not allowed to cross into the Drums area.
+PC12_SCANNER_OVER_REACT-2=Як і очікувалося, мені не дозволено проходити на Верхи.
+
+
+# Brok
+### I'd better think this over...
+PC12_SCANNER_OVER_REACT-3=Краще мені все обміркувати...
+
+
+#----------------------------------------------------
+# Brok
+### If these are what I think they are...
+PC12_CAMERA1-1=Якщо це те, про що я думаю...
+
+
+# Brok
+### I'd better behave!
+PC12_CAMERA1-2=Краще мені поводитися чемно!
+
+
+#----------------------------------------------------
+# Brok
+### Throwing that to destroy it?
+PC12_CAMERA_OTHERS-1=Кинути це, щоб її зламати?
+
+
+# Brok
+### That won't work. The camera doesn't control the authorization. It's just a defense mechanism...
+PC12_CAMERA_OTHERS-2=Не спрацює. Камера не впливає на авторизацію. Це лише захисний механізм...
+
+
+#----------------------------------------------------
+# Brok - Control panel inside the building where Bolt used to work
+### What does this control?
+PC12_COMMANDS_WHAT-1=Чим керує ця штука?
+
+
+# Brok
+### There aren't any labels...
+PC12_COMMANDS_WHAT-2=Тут немає жодних підписів...
+
+
+#----------------------------------------------------
+# Brok
+### No need to touch anymore.
+PC12_COMMANDS_NONEED-1=Вже немає потреби її чіпати.
+
+
+#----------------------------------------------------
+# Various
+### Obstruction detected! Imminent destruction of the packages!
+PC12_COMMANDS_VOICERESET-1=Виявлено перешкоду! Негайне знищення посилок!
+
+
+#----------------------------------------------------
+# Brok
+### I could do this all day!
+PC12_COMMANDS_LOT-1=Я міг би займатися цим цілий день!
+
+
+# Brok
+### Should I, though?
+PC12_COMMANDS_LOT-2=Але чи варто?
+
+
+#----------------------------------------------------
+# Brok
+### I guess it's used for... communicating?
+PC12_ANTENNA1-1=Здається, це для... зв'язку?
+
+
+# Brok
+### I suck at technology. In any case, I probably shouldn't try climbing it...
+PC12_ANTENNA1-2=Я повний нуль у технологіях. У будь-якому разі, мабуть, не варто лізти на неї...
+
+
+# Brok
+### Unless I wanna die prematurely.
+PC12_ANTENNA1-3=Хіба що я хочу померти передчасно.
+
+
+#----------------------------------------------------
+# Brok - Pyramid door
+### I need to find a way to get closer!
+PC12_PYRAMIDDOOR_FAR-1=Треба знайти спосіб підібратися ближче!
+
+
+#----------------------------------------------------
+# Brok
+### Closed, obviously...
+PC12_PYRAMIDDOOR1-1=Зачинено, звісно...
+
+
+# Brok
+### No way I got up there for nothin'!
+PC12_PYRAMIDDOOR1-2=Але я ж не дарма сюди піднявся!
+
+
+#----------------------------------------------------
+# Brok
+### Argh! I'm getting sick of this!
+PC12_PYRAMIDDOOR1B-1=Ар-р! Мені це вже набридло!
+
+
+# Brok
+### What in the world am I doing up here?! Why did I even accept this mission? I'm so...
+PC12_PYRAMIDDOOR1B-2=Що я взагалі тут роблю?! Навіщо я взагалі погодився на це завдання? Я такий...
+
+
+#----------------------------------------------------
+# Brok
+### Stupid!
+PC12_PYRAMIDDOOR1C-1=Дурний!
+
+
+# Brok
+### ...
+PC12_PYRAMIDDOOR1C-2=...
+
+
+# Brok
+### Oh. I guess it just needed a good kick.
+PC12_PYRAMIDDOOR1C-3=О. Здається, їм просто був потрібен добрячий копняк.
+
+
+#----------------------------------------------------
+# Brok
+### I'm done with this!
+PC12_PYRAMIDDOOR_DONE-1=Із цим я вже закінчив!
+
+
+#----------------------------------------------------
+# Brok
+### Wait... This must be a high security area!
+PC12_PYRAMIDDOOR_NOTYET-1=Стривайте... Це, мабуть, зона високого рівня безпеки!
+
+
+# Brok
+### I shouldn't enter before knowing what I'm stepping into.
+PC12_PYRAMIDDOOR_NOTYET-2=Не варто заходити, доки я не дізнаюся, у що вв'язуюся.
+
+
+#----------------------------------------------------
+# Brok
+### Advertisement everywhere... Even in the oddest places.
+PC12_PLANK1-1=Реклама скрізь... Навіть у найдивніших місцях.
+
+
+# Brok
+### This one won't fit in my pocket.
+PC12_PLANK1-2=Вона не поміститься в мою кишеню.
+
+
+#----------------------------------------------------
+# Brok
+### One sturdy plank.
+PC12_PLANK2-1=Міцна дошка.
+
+
+#----------------------------------------------------
+# Brok
+### No use... It's not moving an inch!
+PC12_PLANK_HIT-1=Марно... Вона навіть не зрушила з місця!
+
+
+#----------------------------------------------------
+# Brok
+### All kinds of food and drink are on sale...
+PC12_DISTRIBUTOR1-1=Тут продаються всі види їжі та напоїв...
+
+
+#----------------------------------------------------
+# Brok
+### Too bad it's broken.
+PC12_DISTRIBUTOR1B-1=Шкода, що він зламаний.
+
+
+#----------------------------------------------------
+# Brok
+### Whoa... What happened?
+PC12_DISTRIBUTORBROKEN_PICK1-1=Ого... Що сталося?
+
+
+# Brok
+### Well, it was broken anyway... But...
+PC12_DISTRIBUTORBROKEN_PICK1-2=Ну, він усе одно був зламаний... Але...
+
+
+# Brok
+### Hey, look at that! A few products fell on the floor!
+PC12_DISTRIBUTORBROKEN_PICK1-3=Гей, погляньте! Кілька товарів упало на підлогу!
+
+
+#----------------------------------------------------
+# Brok
+### It'd be a shame to let good food go to waste!
+PC12_DISTRIBUTORBROKEN_PICK1B-1=Було б шкода, якби така смачна їжа пропала даремно!
+
+
+#----------------------------------------------------
+# Brok
+### Nothing left.
+PC12_DISTRIBUTORBROKEN1-1=Нічого не залишилося.
+
+
+#----------------------------------------------------
+# Brok
+### This is screwed in to help keep the plank in place.
+PC12_SHELFBRACE1-1=Він прикручений, щоб утримувати дошку на місці.
+
+
+#----------------------------------------------------
+# Brok
+### For once, I'm glad I didn't forget to take my keys!
+PC12_SHELFBRACE_UNSCREW_LEFT-1=Хоч раз я радий, що не забув узяти ключі!
+
+
+#----------------------------------------------------
+# Brok
+### I'm thankful for whoever invented screwdriver-keys!
+PC12_SHELFBRACE_UNSCREW_RIGHT-1=Я вдячний тому, хто винайшов ключі-викрутки!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_SHELFBRACE_BREAK-1=...
+
+
+# Brok
+### I'm trying to break it but...
+PC12_SHELFBRACE_BREAK-2=Я намагаюся його зламати, але...
+
+
+# Brok
+### It's firmly attached.
+PC12_SHELFBRACE_BREAK-3=Він міцно прикріплений.
+
+
+#----------------------------------------------------
+# Brok
+### Using a screw to...screw?
+PC12_SHELFBRACE_SCREW-1=Використати гвинт на... гвинт?
+
+
+# Brok
+### Nope... Doesn't work.
+PC12_SHELFBRACE_SCREW-2=Ні... Не працює.
+
+
+#----------------------------------------------------
+# Brok
+### Good idea! But...
+PC12_SHELFBRACE_NOTHERE-1=Гарна ідея! Але...
+
+
+# Brok
+### Not here.
+PC12_SHELFBRACE_NOTHERE-2=Не тут.
+
+
+#----------------------------------------------------
+# Various - Using the help line
+### Please wait. An agent with pre-recorded messages will take your call.
+PC12_HELPLINE1-1=Будь ласка, зачекайте. Ваш дзвінок прийме агент із заздалегідь записаними повідомленнями.
+
+
+# Various
+### Estimated waiting time...
+PC12_HELPLINE1-2=Орієнтовний час очікування...
+
+
+# Various
+### Two days.
+PC12_HELPLINE1-3=Два дні.
+
+
+# Brok
+### Two days?! I'm not gonna wait that long!
+PC12_HELPLINE1-4=Два дні?! Я не збираюся чекати так довго!
+
+
+# Various
+### In case of emergency, please hit the keyboard panel violently.
+PC12_HELPLINE1-5=У разі надзвичайної ситуації, будь ласка, з силою вдарте по клавіатурній панелі.
+
+
+# Brok
+### ...
+PC12_HELPLINE1-6=...
+
+
+#----------------------------------------------------
+# Various - Hitting the help line
+### Violent behavior detected in sector 1.
+PC12_HELPLINE_HIT-1=У секторі 1 виявлено агресивну поведінку.
+
+
+# Brok
+### What? But...
+PC12_HELPLINE_HIT-2=Що? Але...
+
+
+# Various
+### No emergency justifies violence. Immediate action requested.
+PC12_HELPLINE_HIT-3=Жодна надзвичайна ситуація не виправдовує насильства. Вживаємо негайних заходів.
+
+
+# Brok
+### Uh oh...
+PC12_HELPLINE_HIT-4=Ой-ой...
+
+
+#----------------------------------------------------
+# Various - Hitting the help line
+### Violent behavior detected in sector 1.
+PC12_HELPLINE_HIT2-1=У секторі 1 виявлено агресивну поведінку.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### So this is the pyramid-shaped building Shay mentioned?
+PC12_PYRAMIDBUILDING_FROMAFAR-1=То це і є та будівля у формі піраміди, про яку згадувала Шей?
+
+
+#----------------------------------------------------
+# Brok
+### I have no idea what's in there...
+PC12_PYRAMIDBUILDING_BEFORE1-1=Гадки не маю, що там усередині...
+
+
+#----------------------------------------------------
+# Brok
+### And I won't find out. The entrance seems to be locked.
+PC12_PYRAMIDBUILDING_BEFORE1B-1=І не дізнаюся. Схоже, вхід зачинено.
+
+
+#----------------------------------------------------
+# Brok
+### There's a door at the top. But...
+PC12_PYRAMIDBUILDING1-1=Нагорі є двері. Але...
+
+
+# Brok
+### How the heck am I gonna climb all the way up there?!
+PC12_PYRAMIDBUILDING1-2=Як мені, чорт забирай, залізти нагору?!
+
+
+#----------------------------------------------------
+# Brok
+### The entrance is locked...
+PC12_PYRAMID_ALREADY1-1=Вхід зачинено...
+
+
+# Brok
+### But I don't need to enter it again, anyway!
+PC12_PYRAMID_ALREADY1-2=Але мені все одно більше не треба туди заходити!
+
+
+#----------------------------------------------------
+# Brok - Trying to open the bottom pyramid door
+### Locked?
+PC12_APERTURE1-1=Зачинено?
+
+
+# Brok
+### Ngghh!!!
+PC12_APERTURE1-2=Нг-г-г!!!
+
+
+# Brok
+### No good. It's either firmly sealed, only opens from the inside, or is simply not a door.
+PC12_APERTURE1-3=Марно. Вхід або наглухо запечатаний, або відчиняється лише зсередини, або це взагалі не двері.
+
+
+# Brok
+### I need another way in...
+PC12_APERTURE1-4=Мені потрібен інший шлях усередину...
+
+
+#----------------------------------------------------
+# Unknown
+### (Knocks, knocks)
+PC12_APERTURE2-1=(Тук-тук)
+
+
+# Brok
+### Is someone there?
+PC12_APERTURE2-2=Там хтось є?
+
+
+# Brok
+### ...
+PC12_APERTURE2-3=...
+
+
+# Brok
+### Nope.
+PC12_APERTURE2-4=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### A maintenance area, maybe?
+PC12_BUILDING1-1=Мабуть, це зона технічного обслуговування?
+
+
+#----------------------------------------------------
+# Brok
+### Locked!
+PC12_BUILDING_LOCKED-1=Зачинено!
+
+
+#----------------------------------------------------
+# Brok
+### I can't get in.
+PC12_BUILDING2-1=Я не можу увійти.
+
+
+#----------------------------------------------------
+# Brok - Talking to Bolt, a depressive robot on the bench
+### Hi?
+PC12_BOLT_FIRST-1=Привіт?
+
+
+# Bolt
+### ...
+PC12_BOLT_FIRST-2=...
+
+
+# Bolt
+### ...hello.
+PC12_BOLT_FIRST-3=...вітаю.
+
+
+# Brok
+### You look kinda...depressed? Especially for a robot.
+PC12_BOLT_FIRST-4=Ти виглядаєш якось... пригніченим? Особливо як для робота.
+
+
+# Bolt
+### You - don't know - the half - of it.
+PC12_BOLT_FIRST-5=Ви й - гадки - не маєте.
+
+
+# Bolt
+### ...
+PC12_BOLT_FIRST-6=...
+
+
+# Brok
+### So? Are you gonna tell me?
+PC12_BOLT_FIRST-7=То що? Розкажеш мені?
+
+
+# Bolt
+### Please - don't talk - to me. Dismay - can be - contagious...
+PC12_BOLT_FIRST-8=Будь ласка - не говоріть - зі мною. Зневіра - може бути - заразною...
+
+
+# Brok
+### Oh, come on! It can't be that bad! After all, you're alive!
+PC12_BOLT_FIRST-9=Та ну ж бо! Не може все бути так погано! Зрештою, ти живий!
+
+
+# Brok
+### Err, I mean...
+PC12_BOLT_FIRST-10=Е-е, тобто...
+
+
+# Bolt
+### Do not - worry - about me.
+PC12_BOLT_FIRST-11=Не - турбуйтеся - про мене.
+
+
+#----------------------------------------------------
+# Brok
+### Me again!
+PC12_BOLT_WELCOME1-1=Це знову я!
+
+
+# Bolt
+### Why - are you - insisting? I'm - done for.
+PC12_BOLT_WELCOME1-2=Чому - ви - наполягаєте? Зі мною - все - скінчено.
+
+
+#----------------------------------------------------
+# Brok
+### How ya doin'?
+PC12_BOLT_WELCOME2-1=Як поживаєш?
+
+
+# Bolt
+### Bad.
+PC12_BOLT_WELCOME2-2=Погано.
+
+
+#----------------------------------------------------
+# Brok
+### Gotta go. But no worries, I'll be back soon!
+PC12_BOLT_EXIT1-1=Мушу йти. Але не хвилюйся, я скоро повернуся!
+
+
+# Bolt
+### Don't - bother.
+PC12_BOLT_EXIT1-2=Не - витрачайте свій час.
+
+
+#----------------------------------------------------
+# Brok
+### I'll find something to help ya.
+PC12_BOLT_EXIT2-1=Я придумаю, як тобі допомогти.
+
+
+# Bolt
+### Please don't. I - feel bad - for wasting - your time.
+PC12_BOLT_EXIT2-2=Будь ласка, не треба. Мені - соромно - витрачати - ваш час.
+
+
+#----------------------------------------------------
+# Brok
+### Tell me. What's on your mind?
+PC12_BOLT1-1=Скажи мені. Про що ти думаєш?
+
+
+# Bolt
+### Despair. Darkness. Death.
+PC12_BOLT1-2=Відчай. Темрява. Смерть.
+
+
+# Brok
+### Not that... I mean, what happened to you?
+PC12_BOLT1-3=Я не про це... Я про те, що з тобою трапилося?
+
+
+# Bolt
+### How would - you benefit - from knowing - that?
+PC12_BOLT1-4=Яка - вам - користь - від цього - знання?
+
+
+# Brok
+### Dunno. Just curious!
+PC12_BOLT1-5=Не знаю. Просто цікаво!
+
+
+# Bolt
+### Is - that so...
+PC12_BOLT1-6=Ось - як...
+
+
+# Bolt
+### See that - building with - a huge antenna - in front of you?
+PC12_BOLT1-7=Бачите ту - будівлю з - величезною антеною - перед вами?
+
+
+#----------------------------------------------------
+# Bolt
+### This is - the sorting center - I've been - working there - for the past - 30 years.
+PC12_BOLT1B-1=Це - центр сортування - я - працював там - останні - 30 років.
+
+
+#----------------------------------------------------
+# Bolt
+### I was - responsible for - the delivery of - big packages.
+PC12_BOLT1C-1=Я був - відповідальним за - доставку - великих посилок.
+
+
+# Bolt
+### Lately - I haven't been - efficient enough.
+PC12_BOLT1C-2=Останнім часом - я не був - достатньо - ефективним.
+
+
+# Bolt
+### The management - noticed it. Today they've - fired me...
+PC12_BOLT1C-3=Керівництво - помітило це. Сьогодні вони - мене звільнили...
+
+
+# Brok
+### Man, that sucks... I'm so sorry.
+PC12_BOLT1C-4=Ох, це паршиво... Мені дуже шкода.
+
+
+# Brok
+### (Not even robots are immune to layoffs now?)
+PC12_BOLT1C-5=(Невже навіть роботи стають жертвами скорочень?)
+
+
+#----------------------------------------------------
+# Brok
+### So, what are you waiting for on this bench?
+PC12_BOLT2-1=І чого ж ти чекаєш на цій лавці?
+
+
+# Bolt
+### Some scientists - are on their way - to pick me up.
+PC12_BOLT2-2=Науковці - вже в дорозі - щоб забрати - мене.
+
+
+# Bolt
+### They're going - to recondition me...
+PC12_BOLT2-3=Вони збираються - змінити мене...
+
+
+# Brok
+### What does that mean?
+PC12_BOLT2-4=Що це означає?
+
+
+# Bolt
+### Taking out - some of my - circuitry...
+PC12_BOLT2-5=Витягнуть - частину моїх - мікросхем...
+
+
+# Bolt
+### Giving me - a new triangle head - like those new models...
+PC12_BOLT2-6=Встановлять мені - нову трикутну голову - як у тих нових моделей...
+
+
+# Bolt
+### Then my firmware - will be updated...
+PC12_BOLT2-7=Потім мою прошивку - оновлять...
+
+
+# Bolt
+### I will lose - all data - on my hardware memory.
+PC12_BOLT2-8=Я втрачу - всі дані - з апаратної пам'яті.
+
+
+# Brok
+### You... will be reset?
+PC12_BOLT2-9=Тебе... перезавантажать?
+
+
+# Bolt
+### Yes. Precisely.
+PC12_BOLT2-10=Так. Саме так.
+
+
+# Bolt
+### I've never felt - like this - before...
+PC12_BOLT2-11=Я ще ніколи - не почувався - так...
+
+
+# Bolt
+### I believe - I won't be - myself anymore...
+PC12_BOLT2-12=Я думаю - я більше не буду - собою...
+
+
+# Bolt
+### Isn't this - like... dying?
+PC12_BOLT2-13=Хіба це - не схоже... на смерть?
+
+
+# Brok
+### I don't know but it sure sounds terrible...
+PC12_BOLT2-14=Не знаю, але звучить жахливо...
+
+
+#----------------------------------------------------
+# Bolt
+### There are - so many questions - on my mind...
+PC12_BOLT3-1=У мене - так багато запитань - у голові...
+
+
+# Bolt
+### What happens - if I die?
+PC12_BOLT3-2=Що станеться - якщо я помру?
+
+
+# Bolt
+### What if - I commit suicide? Is there - a god - for robots?
+PC12_BOLT3-3=Що як - я скою самогубство? Чи є - бог - для роботів?
+
+
+# Brok
+### Man... I can't keep up with spiritual stuff for humans, never mind robots...
+PC12_BOLT3-4=Ох... Я й у духовних справах для людей ледве тямлю, що вже казати про роботів...
+
+
+#----------------------------------------------------
+# Brok
+### Can you describe your job more precisely?
+PC12_BOLT_JOB1-1=Можеш детальніше описати свою роботу?
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### My main objective - was to sort - packages between - various destinations - including the Slums - and the Drums.
+PC12_BOLT_JOB1-2=Моїм головним завданням - було сортувати - посилки між - різними пунктами призначення - включно з Нетрями - та Верхами.
+
+
+# Bolt
+### Packages were - automatically sorted - by size and shape - to fit the pipe - leading to their target.
+PC12_BOLT_JOB1-3=Посилки - автоматично сортувалися - за розміром і формою - щоб поміститися в трубу - яка вела до їхньої цілі.
+
+
+# Bolt
+### I just had - to push - the correct buttons - on my control panel.
+PC12_BOLT_JOB1-4=Мені лише треба було - натискати - правильні кнопки - на моїй панелі керування.
+
+
+# Bolt
+### Square button for square packages... triangle button for triangle packages...
+PC12_BOLT_JOB1-5=Квадратну кнопку для квадратних посилок... трикутну кнопку для трикутних посилок...
+
+
+# Brok
+### Seems simple enough... Can't a machine take care of that?
+PC12_BOLT_JOB1-6=Звучить досить просто... Хіба з цим не зможе впоратися машина?
+
+
+# Bolt
+### ...
+PC12_BOLT_JOB1-7=...
+
+
+# Brok
+### Err... I think I may have said something stupid again.
+PC12_BOLT_JOB1-8=Е-е... Здається, я знову бовкнув якусь дурницю.
+
+
+# Bolt
+### No - you're right. That's - the thing. They're going - to fully - automatize the process.
+PC12_BOLT_JOB1-9=Ні - ви маєте рацію. У тому - й річ. Вони збираються - повністю - автоматизувати процес.
+
+
+# Bolt
+### Although - part of the job - was also - to ensure - no dangerous materials - went past this point.
+PC12_BOLT_JOB1-10=Хоча - частиною роботи - також було - переконатися - що жодні небезпечні матеріали - не пройдуть далі цієї точки.
+
+
+# Bolt
+### This didn't - happen often - but in case - of any doubt - I had physical - access to the packages - to check them.
+PC12_BOLT_JOB1-11=Це траплялося - нечасто - але в разі - будь-яких сумнівів - я мав фізичний - доступ до посилок - щоб перевірити їх.
+
+
+# Bolt
+### It's - not fair... I never - screwed up.
+PC12_BOLT_JOB1-12=Це - несправедливо... Я ніколи - не робив помилок.
+
+
+# Bolt
+### Always pushed - the right buttons.
+PC12_BOLT_JOB1-13=Завжди натискав - правильні кнопки.
+
+
+# Bolt
+### No accident. Never!
+PC12_BOLT_JOB1-14=Жодних нещасних випадків. Ніколи!
+
+
+# Bolt
+### Sure - I may be - getting slower - over time. Memory chips - wearing.
+PC12_BOLT_JOB1-15=Звісно - з часом - я міг стати повільнішим. Чипи пам'яті - зношуються.
+
+
+# Bolt
+### Was that - enough reason - to get rid - of me?
+PC12_BOLT_JOB1-16=Хіба це - достатня причина - щоб позбутися - мене?
+
+
+# Brok
+### I... probably not.
+PC12_BOLT_JOB1-17=Я... думаю, що ні.
+
+
+#----------------------------------------------------
+# Brok
+### So who's doing the job now?
+PC12_BOLT_JOB2-1=І хто тепер виконує цю роботу?
+
+
+# Bolt
+### No one.
+PC12_BOLT_JOB2-2=Ніхто.
+
+
+# Brok
+### Really? How is the mail delivered now?
+PC12_BOLT_JOB2-3=Справді? А як тепер доставляється пошта?
+
+
+# Bolt
+### I guess - it's stuck...
+PC12_BOLT_JOB2-4=Гадаю - вона застрягла...
+
+
+# Bolt
+### Actually - I don't care. I just - couldn't care - less.
+PC12_BOLT_JOB2-5=Власне - мені байдуже. Мені просто - начхати.
+
+
+# Bolt
+### ...am I - being - selfish?
+PC12_BOLT_JOB2-6=...чи я - поводжуся - егоїстично?
+
+
+# Brok
+### (That bot is something... I've never seen any reacting like this)
+PC12_BOLT_JOB2-7=(Оце так бот... Я ще ніколи не бачив, щоб вони так реагували)
+
+
+# Brok
+### Maybe just a little. But that's OK! It happens to the best of us.
+PC12_BOLT_JOB2-8=Може, зовсім трохи. Але все гаразд! Таке буває навіть із найкращими з нас.
+
+
+# Bolt
+### ...(Sigh)
+PC12_BOLT_JOB2-9=...(Зітхає)
+
+
+#----------------------------------------------------
+# Bolt
+### Square button - for square packages... triangle button - for triangle packages...
+PC12_BOLT_JOB3-1=Квадратна кнопка - для квадратних посилок... трикутна кнопка - для трикутних посилок...
+
+
+# Bolt
+### Poor control panel... I'll never - see you - again...
+PC12_BOLT_JOB3-2=Бідна панель керування... Я більше ніколи - тебе не побачу...
+
+
+#----------------------------------------------------
+# Brok
+### (Poor thing...)
+PC12_BOLT_THINK1-1=(Бідолаха...)
+
+
+# Brok
+### (He may be just a machine but I can't help feeling bad for him.)
+PC12_BOLT_THINK1-2=(Може, він всього лише машина, але мені все одно його шкода.)
+
+
+#----------------------------------------------------
+# Bolt
+### If I - could cry - there'd be - a river - down my feet - right now...
+PC12_BOLT_HELP1-1=Якби я - міг плакати - біля моїх ніг - зараз була б - ціла річка...
+
+
+# Brok
+### ...
+PC12_BOLT_HELP1-2=...
+
+
+# Brok
+### I'll help ya.
+PC12_BOLT_HELP1-3=Я допоможу тобі.
+
+
+# Bolt
+### You cannot.
+PC12_BOLT_HELP1-4=Ви не зможете.
+
+
+# Brok
+### Yes, I can!
+PC12_BOLT_HELP1-5=Зможу!
+
+
+# Brok
+### All you need to do is find yourself a new job!
+PC12_BOLT_HELP1-6=Усе, що тобі треба, це знайти нову роботу!
+
+
+# Bolt
+### Impossible. I was designed - for this - specific task.
+PC12_BOLT_HELP1-7=Неможливо. Мене створили - для цього - конкретного завдання.
+
+
+# Brok
+### I don't believe that for a second.
+PC12_BOLT_HELP1-8=Я ані на мить у це не вірю.
+
+
+# Brok
+### You got two arms, two legs. You can do anything!
+PC12_BOLT_HELP1-9=У тебе дві руки, дві ноги. Ти можеш робити будь-що!
+
+
+# Bolt
+### ...if you - say so.
+PC12_BOLT_HELP1-10=...якщо ви - так кажете.
+
+
+# Bolt
+### Then... What do - you suggest?
+PC12_BOLT_HELP1-11=Тоді... Що ви - пропонуєте?
+
+
+#----------------------------------------------------
+# Brok
+### I've got an idea!
+PC12_BOLT_HELP2-1=У мене є ідея!
+
+
+#----------------------------------------------------
+# Brok
+### Erm... Just let me think a little more.
+PC12_BOLT_HELPEXIT1-1=Е-е... Дай мені ще трохи подумати.
+
+
+# Bolt
+### I'm not - worth your time. Leave me - alone...
+PC12_BOLT_HELPEXIT1-2=Я не - вартий вашого часу. Залиште мене - у спокої...
+
+
+#----------------------------------------------------
+# Brok
+### You could work for me?
+PC12_BOLT_HELPBROK1-1=Ти міг би працювати на мене?
+
+
+# Bolt
+### What do - you do - in life?
+PC12_BOLT_HELPBROK1-2=Чим ви - займаєтеся - у житті?
+
+
+# Brok
+### Many things.
+PC12_BOLT_HELPBROK1-3=Багатьма речами.
+
+
+# Brok
+### I'm a detective. People ask me for help in various ways.
+PC12_BOLT_HELPBROK1-4=Я детектив. Люди звертаються до мене по допомогу з різних приводів.
+
+
+# Brok
+### By night, I fight to get some extra money.
+PC12_BOLT_HELPBROK1-5=А вночі я б'юся, щоб заробити трохи додаткових грошей.
+
+
+# Bolt
+### Wow - this is...
+PC12_BOLT_HELPBROK1-6=Ого - це...
+
+
+# Bolt
+### I'm sorry...I'm - nothing like you.
+PC12_BOLT_HELPBROK1-7=Вибачте... Я - зовсім не такий, як ви.
+
+
+# Bolt
+### I'm neither - bright nor strong. I would - just be - a burden.
+PC12_BOLT_HELPBROK1-8=Я - ані розумний, ані сильний. Я був би - просто - тягарем.
+
+
+# Brok
+### Don't say that! I'm not either, really.
+PC12_BOLT_HELPBROK1-9=Не говори так! Я й сам особливими якостями не відрізняюся, якщо чесно.
+
+
+# Brok
+### I just try my best. And I'm sure you're very capable.
+PC12_BOLT_HELPBROK1-10=Я просто стараюся з усіх сил. І я певен, що ти дуже здібний.
+
+
+# Brok
+### What do you need to, erm... live?
+PC12_BOLT_HELPBROK1-11=Що тобі потрібно, щоб, е-е... жити?
+
+
+# Bolt - "thermionic" is not an important term.
+### I use - one non-rechargeable - thermionic battery - per year.
+PC12_BOLT_HELPBROK1-12=Я використовую - одну одноразову - терміонічну батарею - на рік.
+
+
+# Brok
+### Ah... This could be a problem...
+PC12_BOLT_HELPBROK1-13=А... Це може стати проблемою...
+
+
+# Brok
+### I'm not rich and those are very expensive...
+PC12_BOLT_HELPBROK1-14=Я небагатий, а вони дуже дорогі...
+
+
+# Bolt
+### I told you - this wasn't possible...
+PC12_BOLT_HELPBROK1-15=Я ж казав вам - це неможливо...
+
+
+# Brok
+### Okay, I'll find somethin' else.
+PC12_BOLT_HELPBROK1-16=Добре, я знайду щось інше.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Why don't you work at the waste treatment center in the Slums?
+PC12_BOLT_WASTETREATMENT1-1=Чому б тобі не попрацювати в центрі переробки відходів в Нетрях?
+
+
+# Bolt
+### I - don't know. What - is it like?
+PC12_BOLT_WASTETREATMENT1-2=Я - не знаю. А як - це?
+
+
+# Brok
+### It's pretty similar. Using a lever to uncover interesting stuff and throw away the rest.
+PC12_BOLT_WASTETREATMENT1-3=Дуже схоже. Важелем витягати цікаві штуки, а решту викидати.
+
+
+# Brok
+### Darn...I forgot. It's on free mode but it's not free.
+PC12_BOLT_WASTETREATMENT1-4=Чорт... Я забув. Це доступно всім, але не безкоштовно.
+
+
+# Bolt
+### I have - no money...
+PC12_BOLT_WASTETREATMENT1-5=У мене - немає грошей...
+
+
+# Brok
+### Hmm... Maybe I can come up with something better.
+PC12_BOLT_WASTETREATMENT1-6=Гмм... Може, я придумаю щось краще.
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I got the perfect job for you. An assistant to my best friend Shay!
+PC12_BOLT_HELPSHAY1-1=У мене є для тебе ідеальна робота. Помічник моєї найкращої подруги Шей!
+
+
+# Brok
+### She's some kind of crazy inventor and is very skilled with technology.
+PC12_BOLT_HELPSHAY1-2=Вона така собі божевільна винахідниця і дуже добре знається на технологіях.
+
+
+# Brok
+### You could help her by bringing her tools, performing searches, and...
+PC12_BOLT_HELPSHAY1-3=Ти міг би допомагати їй: подавати інструменти, шукати інформацію, та й...
+
+
+# Brok
+### All kinds of stuff mad inventors do, I guess?
+PC12_BOLT_HELPSHAY1-4=З усім тим, чим займаються божевільні винахідники, мабуть?
+
+
+# Brok
+### You just need to agree to being tweaked to get your tracking components removed. Among other things...
+PC12_BOLT_HELPSHAY1-5=Тобі треба лише погодитися на модифікацію, щоб вона видалила твої компоненти відстеження. Серед усього іншого...
+
+
+# Bolt
+### Will she - erase - my memory?
+PC12_BOLT_HELPSHAY1-6=Вона - зітре - мою пам'ять?
+
+
+# Brok
+### She promised not to. But remind her... You know. Just in case.
+PC12_BOLT_HELPSHAY1-7=Вона обіцяла, що ні. Але нагадай їй... Ну, про всяк випадок.
+
+
+# Bolt
+### I hope - I'll be - up to the task...
+PC12_BOLT_HELPSHAY1-8=Сподіваюся - я впораюся - з цим завданням...
+
+
+# Bolt
+### But - it'll always be - better than - being wiped out.
+PC12_BOLT_HELPSHAY1-9=Але - це все - краще, ніж - бути стертим.
+
+
+# Bolt
+### Thank you - so much - Mister! Mister...
+PC12_BOLT_HELPSHAY1-10=Щиро - дякую - пане! Пане...
+
+
+# Bolt
+### I'm sorry. I do not - know your name.
+PC12_BOLT_HELPSHAY1-11=Вибачте. Я не - знаю вашого імені.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### No apologies needed! The name's Brok.
+PC12_BOLT_HELPSHAY1-12=Не варто вибачатися! Моє ім'я - Брок.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Just go to Shay's Garage, right near the Garbage Sea harbor.
+PC12_BOLT_HELPSHAY1-13=Просто йди до гаража Шей, що біля гавані Сміттєвого Моря.
+
+
+# Bolt
+### My navigation system - is a bit rusty - but I should - be able - to locate it.
+PC12_BOLT_HELPSHAY1-14=Моя навігаційна система - трохи заіржавіла - але я маю - зуміти - знайти його.
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### You've got - my eternal - gratitude - Master Brok.
+PC12_BOLT_HELPSHAY1-15=Ви отримали - мою вічну - вдячність - господарю Броку.
+
+
+#----------------------------------------------------
+# Tribot
+### Citizen. Do Not Talk To This Apparatus.
+PC12_BOLT_HELP_GUARDSCOME1-1=Громадянине. Не розмовляйте з цим апаратом.
+
+
+# Tribot
+### Move Away.
+PC12_BOLT_HELP_GUARDSCOME1-2=Відійдіть.
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Oh no - the guards!
+PC12_BOLT_HELP_GUARDSCOME1-3=О ні - охоронці!
+
+
+# Bolt
+### They're here - to take me!
+PC12_BOLT_HELP_GUARDSCOME1-4=Вони прийшли - щоб забрати мене!
+
+
+# Brok
+### Not gonna happen!
+PC12_BOLT_HELP_GUARDSCOME1-5=Цього не станеться!
+
+
+# Tribot
+### Refusing To Obey Is A 5th Class Fault. You Shall Be Eliminated.
+PC12_BOLT_HELP_GUARDSCOME1-6=Відмова підкорятися - це порушення 5-го рівня. Вас буде знищено.
+
+
+# Brok
+### Stay down while I get them!
+PC12_BOLT_HELP_GUARDSCOME1-7=Ховайся, я розберуся з ними!
+
+
+#----------------------------------------------------
+# Brok
+### It's over.
+PC12_BOLT_HELP_GUARDSCOME1B-1=Усе скінчено.
+
+
+# Bolt
+### ...you've - destroyed them - but...
+PC12_BOLT_HELP_GUARDSCOME1B-2=...ви - знищили їх - але...
+
+
+# Bolt
+### Why? - They're robots - too.
+PC12_BOLT_HELP_GUARDSCOME1B-3=Чому? - Вони ж - теж роботи.
+
+
+# Brok
+### They threatened both of us.
+PC12_BOLT_HELP_GUARDSCOME1B-4=Вони погрожували нам обом.
+
+
+# Bolt
+### But... - Am I - more important - than them? I can't...
+PC12_BOLT_HELP_GUARDSCOME1B-5=Але... - Хіба я - важливіший - за них? Я не можу...
+
+
+# Brok
+### No time for existential questions! Get out of here fast before more come!
+PC12_BOLT_HELP_GUARDSCOME1B-6=Немає часу на екзистенційні питання! Забирайся звідси швидше, поки не прибуло підкріплення!
+
+
+# Bolt
+### You're - right.
+PC12_BOLT_HELP_GUARDSCOME1B-7=Ви - маєте рацію.
+
+
+#----------------------------------------------------
+# Bolt
+### I've unlocked - the door - to the sorting - center.
+PC12_BOLT_HELP_GUARDSCOME1C-1=Я відімкнув - двері - до сортувального - центру.
+
+
+# Bolt
+### This is - my duty - as the last - one with access - to it.
+PC12_BOLT_HELP_GUARDSCOME1C-2=Це - мій обов'язок - як останнього - хто має доступ - до нього.
+
+
+#----------------------------------------------------
+# Bolt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Goodbye - Master Brok!
+PC12_BOLT_HELP_GUARDSCOME1D-1=Прощавайте - господарю Броку!
+
+
+#----------------------------------------------------
+# Tribot
+# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+### Stranger Eliminated. Now Please Come With Us.
+PC12_BOLT_GUARDS_GAMEOVER-1=Незнайомця знищено. Тепер, будь ласка, ходімо з нами.
+
+
+# Bolt
+### Oh no... It's all - my fault...
+PC12_BOLT_GUARDS_GAMEOVER-2=О ні... Все це - моя провина...
+
+
+#----------------------------------------------------
+# Brok
+### You made me curious. May I take a look at where you work?
+PC12_BOLT_BUILDING1-1=Ти мене зацікавив. Чи можу я глянути на місце, де ти працював?
+
+
+# Bolt
+### No. I've - locked access.
+PC12_BOLT_BUILDING1-2=Ні. Я - закрив доступ.
+
+
+# Brok
+### Can you open it?
+PC12_BOLT_BUILDING1-3=Ти можеш його відчинити?
+
+
+# Bolt
+### Alright...
+PC12_BOLT_BUILDING1-4=Гаразд...
+
+
+#----------------------------------------------------
+# Bolt
+### Now - you can - enter.
+PC12_BOLT_BUILDING1B-1=Тепер - ви можете - увійти.
+
+
+# Brok
+### Wonderful, thanks!
+PC12_BOLT_BUILDING1B-2=Чудово, дякую!
+
+
+# Brok
+### See, you're useful!
+PC12_BOLT_BUILDING1B-3=Бачиш, ти корисний!
+
+
+# Bolt
+### No. This is - my last act - on this planet.
+PC12_BOLT_BUILDING1B-4=Ні. Це - мій останній вчинок - на цій планеті.
+
+
+# Brok
+### (Sigh)
+PC12_BOLT_BUILDING1B-5=(Зітхає)
+
+
+#----------------------------------------------------
+# Brok
+### Thanks again!
+PC12_BOLT_BUILDING2-1=Ще раз дякую!
+
+
+# Bolt
+### No problem - glad to help - one last time.
+PC12_BOLT_BUILDING2-2=Нема за що - радий допомогти - востаннє.
+
+
+#----------------------------------------------------
+# Brok
+### This will cheer you up!
+PC12_BOLT_INV_DEFAULT1-1=Це підніме тобі настрій!
+
+
+# Bolt
+### No.
+PC12_BOLT_INV_DEFAULT1-2=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### How about this? Can this help?
+PC12_BOLT_INV_DEFAULT2-1=А як щодо цього? Це може допомогти?
+
+
+# Bolt
+### My algorithm - has detected - you're showing me - random stuff - without logic.
+PC12_BOLT_INV_DEFAULT2-2=Мій алгоритм - виявив - що ви показуєте мені - випадкові речі - без жодної логіки.
+
+
+# Bolt
+### Please don't.
+PC12_BOLT_INV_DEFAULT2-3=Будь ласка, не треба.
+
+
+#----------------------------------------------------
+# Brok
+### Maybe I could fix you?
+PC12_BOLT_INV_APARTMENTKEY-1=Може, я міг би тебе полагодити?
+
+
+# Bolt
+### I'm - not broken...
+PC12_BOLT_INV_APARTMENTKEY-2=Я - не зламаний...
+
+
+# Bolt
+### Or maybe - I am...
+PC12_BOLT_INV_APARTMENTKEY-3=Або, може - і зламаний...
+
+
+# Bolt
+### Who knows...
+PC12_BOLT_INV_APARTMENTKEY-4=Хтозна...
+
+
+#----------------------------------------------------
+# Brok
+### Here! Put this on yourself!
+PC12_BOLT_INV_CATFUR-1=Ось! Одягни це на себе!
+
+
+# Bolt
+### I'm afraid - there's not enough - to hide...
+PC12_BOLT_INV_CATFUR-2=Боюся - цього замало - щоб сховатися...
+
+
+#----------------------------------------------------
+# Brok
+### How about a friend?
+PC12_BOLT_INV_HOOVER-1=Як щодо друга?
+
+
+# Bolt
+### I have - no friend...
+PC12_BOLT_INV_HOOVER-2=У мене - немає друзів...
+
+
+# Bolt
+### And - this one - is broken...
+PC12_BOLT_INV_HOOVER-3=А - цей - зламаний...
+
+
+#----------------------------------------------------
+# Brok
+### Are you a doctor?
+PC12_BOLT_INV_TRAMPPRESCR-1=Ти лікар?
+
+
+# Bolt
+### I'm just - a postman...
+PC12_BOLT_INV_TRAMPPRESCR-2=Я лише - листоноша...
+
+
+# Bolt
+### A - useless one...
+PC12_BOLT_INV_TRAMPPRESCR-3=Нікчемний - листоноша...
+
+
+# Brok
+### Aww...
+PC12_BOLT_INV_TRAMPPRESCR-4=Ох...
+
+
+#----------------------------------------------------
+# Bolt
+### Go ahead - I don't feel - pain...
+PC12_BOLT_HURT1-1=Давай - я не відчуваю - болю...
+
+
+#----------------------------------------------------
+# Bolt
+### I... feel..
+PC12_BOLT_KILLED1-1=Я... відчуваю...
+
+
+# Bolt
+### ...
+PC12_BOLT_KILLED1-2=...
+
+
+# Brok
+### ...
+PC12_BOLT_KILLED1-3=...
+
+
+# Brok
+### Oh gosh... Did I really do that?
+PC12_BOLT_KILLED1-4=О небеса... Я справді це зробив?
+
+
+# Brok
+### At least... Nobody will come after you now...
+PC12_BOLT_KILLED1-5=Принаймні... Тепер за тобою ніхто не прийде...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_BOLT_TAKENAWAY1-1=...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Where's Bolt?
+PC12_BOLT_TAKENAWAY1-2=Де Болт?
+
+
+#----------------------------------------------------
+# Brok
+### Oh no... Don't tell me...
+PC12_BOLT_TAKENAWAY1C-1=О ні... Тільки не кажіть мені...
+
+
+# Brok
+### I'm too late! They must have taken him away...
+PC12_BOLT_TAKENAWAY1C-2=Я запізнився! Вони, мабуть, забрали його...
+
+
+# Brok
+### Sorry lil' guy...
+PC12_BOLT_TAKENAWAY1C-3=Вибач, малий...
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_BOLT_AFTERDEAD-1=...
+
+
+# Brok
+### Something... on the bench?
+PC12_BOLT_AFTERDEAD-2=Щось... на лавці?
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Looks like a... little screw shaped like a bolt...
+PC12_BOLT_AFTERDEAD-3=Схоже на... маленький гвинтик у формі болта...
+
+
+#----------------------------------------------------
+# Brok
+### Hey! That was the sound of something unlocking... But where?
+PC12_BOLT_AFTERUNLOCKED-1=Гей! Це був звук відмикання... Але звідки?
+
+
+#----------------------------------------------------
+# Brok - Go onto the middle platform for the first time
+### Getting high... I better watch my step!
+PC12_FLOOR2_DIALOG-1=Височенько... Краще дивитися під ноги!
+
+
+#----------------------------------------------------
+# Brok - Day 3 - Brok goes to the factory to meet Gherking and notices Slumer citizens trying to get through the border
+### ...
+PC12_STORY220_ARRIVE-1=...
+
+
+# Various
+### "Let us through! (Cough, cough)"
+PC12_STORY220_ARRIVE-2="Пропустіть нас! (Кашель)"
+
+
+# Various
+### "We have children! Don't let us die here!"
+PC12_STORY220_ARRIVE-3="У нас діти! Не дайте нам померти тут!"
+
+
+# Various
+### "Where are the pills?!"
+PC12_STORY220_ARRIVE-4="Де пігулки?!"
+
+
+# Various
+### "Come on! We deserve to know what's happening!"
+PC12_STORY220_ARRIVE-5="Та ну ж бо! Ми маємо право знати, що відбувається!"
+
+
+# Various
+### "Everyone! (Cough)"
+PC12_STORY220_ARRIVE-6="Усі разом! (Кашель)"
+
+
+# Various
+### "Break that entrance!"
+PC12_STORY220_ARRIVE-7="Ламайте цей вхід!"
+
+
+# Brok
+### The situation is worse than I thought...
+PC12_STORY220_ARRIVE-8=Ситуація гірша, ніж я думав...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I was so focused on my own problems... I didn't realize everyone in the Slums is suffering.
+PC12_STORY220_ARRIVE-9=Я був настільки зосереджений на власних проблемах... що й не помітив, як страждають усі в Нетрях.
+
+
+#----------------------------------------------------
+# Tribotcop - Bots arrive
+### Stop!
+PC12_STORY220_ARRIVE2-1=Стійте!
+
+
+# Brok
+### Argh!... The cops!
+PC12_STORY220_ARRIVE2-2=Ар-р...! Копи!
+
+
+# Unknown
+### "Please! You must understand!"
+PC12_STORY220_ARRIVE2-3="Будь ласка! Ви повинні зрозуміти!"
+
+
+# Tribotcop
+### Violating the law.
+PC12_STORY220_ARRIVE2-4=Порушення закону.
+
+
+# Tribotcop
+### Stay away or be destroyed.
+PC12_STORY220_ARRIVE2-5=Відійдіть або будете знищені.
+
+
+# Unknown
+### "Mom... I'm scared!"
+PC12_STORY220_ARRIVE2-6="Мамо... Мені страшно!"
+
+
+# Unknown
+### "Do something for us! Inform the Government!"
+PC12_STORY220_ARRIVE2-7="Зробіть щось для нас! Повідомте Уряд!"
+
+
+# Tribotcop
+### Violating the law. Last warning.
+PC12_STORY220_ARRIVE2-8=Порушення закону. Останнє попередження.
+
+
+# Unknown
+### "What should we do? (Cough)"
+PC12_STORY220_ARRIVE2-9="Що нам робити? (Кашель)"
+
+
+# Tribotcop
+### 3... 2...
+PC12_STORY220_ARRIVE2-10=3... 2...
+
+
+# Unknown
+### "We... we can't fight them!"
+PC12_STORY220_ARRIVE2-11="Ми... ми не можемо з ними битися!"
+
+
+# Tribotcop
+### 1...
+PC12_STORY220_ARRIVE2-12=1...
+
+
+# Unknown
+### "I can't die like this...!"
+PC12_STORY220_ARRIVE2-13="Я не можу так померти...!"
+
+
+# Brok
+### Hey! Wait! Don't run away!
+PC12_STORY220_ARRIVE2-14=Гей! Зачекайте! Не тікайте!
+
+
+#----------------------------------------------------
+# Brok
+### Too late...
+PC12_STORY220_ARRIVE3-1=Запізно...
+
+
+#----------------------------------------------------
+# Tribotcop - Bots attack Brok
+### Target acquired.
+PC12_STORY220_ARRIVE4-1=Ціль виявлено.
+
+
+# Brok
+### Well I'm not going away!
+PC12_STORY220_ARRIVE4-2=А я й нікуди йти не збирався!
+
+
+# Brok
+### If there's the slightest hope I can help all these people, I'll take it!
+PC12_STORY220_ARRIVE4-3=Якщо є хоч найменша надія, що я можу допомогти всім цим людям, я скористаюся нею!
+
+
+#----------------------------------------------------
+# Brok - Win
+### Man... They were tough!
+PC12_STORY220_AFTER-1=Оце так... Ну й міцні ж вони!
+
+
+# Brok
+### Hopefully I don't get into more trouble for wrecking all these police bots...
+PC12_STORY220_AFTER-2=Сподіваюся, у мене не буде ще більше проблем через те, що я розтрощив усіх цих поліцейських ботів...
+
+
+#----------------------------------------------------
+# Brok - After picking up Dr. Gherkin, we see bots guards
+### More bots.
+PC12_GHERKIN_ARRIVE1-1=Ще боти.
+
+
+# Gherkin
+### Oh no!
+PC12_GHERKIN_ARRIVE1-2=О ні!
+
+
+# Gherkin
+### What do we do?!
+PC12_GHERKIN_ARRIVE1-3=Що нам робити?!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### You gotta examine that Pipe-Pill, right?
+PC12_GHERKIN_FIGHT1-1=Вам треба оглянути той Пігулкомат, так?
+
+
+# Brok
+### No choice. I gotta eliminate them!
+PC12_GHERKIN_FIGHT1-2=Вибору немає. Мушу їх позбутися!
+
+
+#----------------------------------------------------
+# Brok
+### Hey, metal brains! I've got the perfect tool to unscrew you...
+PC12_GHERKIN_APPROACHFIGHT2-1=Гей, металеві мізки! У мене є ідеальний інструмент, щоб тебе розкрутити...
+
+
+# Brok
+### My fists!
+PC12_GHERKIN_APPROACHFIGHT2-2=Мої кулаки!
+
+
+# Tribotcop
+### Idiotic target acquired.
+PC12_GHERKIN_APPROACHFIGHT2-3=Виявлено ціль: ідіот.
+
+
+#----------------------------------------------------
+# Brok
+### Retreat!
+PC12_GHERKIN_GOBACK-1=Відступаємо!
+
+
+# Gherkin
+### A-Alright... Let me...
+PC12_GHERKIN_GOBACK-2=Г-гаразд... Дозвольте я...
+
+
+# Unknown
+### (Loud Beep)
+PC12_GHERKIN_GOBACK-3=(Гучний сигнал)
+
+
+# Gherkin
+### Oh no!
+PC12_GHERKIN_GOBACK-4=О ні!
+
+
+#----------------------------------------------------
+# Brok
+### They haven't noticed us yet...
+PC12_GHERKIN_HIDE-1=Вони нас ще не помітили...
+
+
+# Brok
+### Let's hide!
+PC12_GHERKIN_HIDE-2=Ховаймося!
+
+
+# Gherkin
+### I-I'm behind you!
+PC12_GHERKIN_HIDE-3=Я-я за вами!
+
+
+#----------------------------------------------------
+# Tribotcop
+### Target acquired.
+PC12_GHERKIN_SPOTTED1-1=Ціль виявлено.
+
+
+# Brok
+### Oh... Great.
+PC12_GHERKIN_SPOTTED1-2=О... Чудово.
+
+
+# Gherkin
+### Argh!
+PC12_GHERKIN_SPOTTED1-3=А-ах!
+
+
+#----------------------------------------------------
+# Gherkin
+### I can't jump!
+PC12_GHERKIN_JUMP-1=Я не можу стрибнути!
+
+
+# Brok
+### Shh! Stop screaming or...
+PC12_GHERKIN_JUMP-2=Ш-ш! Припиніть кричати, поки нас не...
+
+
+# Unknown
+### Target acquired.
+PC12_GHERKIN_JUMP-3=Ціль виявлено.
+
+
+# Brok
+### Too late!
+PC12_GHERKIN_JUMP-4=Запізно!
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_GHERKIN_WINHIDE-1=...
+
+
+# Brok
+### They're gone.
+PC12_GHERKIN_WINHIDE-2=Вони пішли.
+
+
+# Gherkin
+### Phew! I thought my heart was going to explode!
+PC12_GHERKIN_WINHIDE-3=Фух! Я думав, моє серце вибухне!
+
+
+# Brok
+### Yeah... Well less talk and more action.
+PC12_GHERKIN_WINHIDE-4=Так... Менше слів, більше діла.
+
+
+# Gherkin
+### Oh... Right.
+PC12_GHERKIN_WINHIDE-5=Ох... Точно.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_GHERKIN_WINFIGHT-1=...
+
+
+# Brok
+### Hey, Doc. I could watch you duck and cover all day but we can't stay here that long.
+PC12_GHERKIN_WINFIGHT-2=Гей, докторе. Я міг би цілий день дивитися, як ви пригинаєтеся й ховаєтеся, але ми не можемо лишатися тут так довго.
+
+
+# Gherkin
+### Oh...!
+PC12_GHERKIN_WINFIGHT-3=Ох...!
+
+
+# Gherkin
+### Good job. Now let me do my part.
+PC12_GHERKIN_WINFIGHT-4=Добре. А тепер дайте мені зробити свою частину роботи.
+
+
+#----------------------------------------------------
+# Gherkin
+### Where are you going? I'm not finished!
+PC12_GHERKIN_LEAVENOTYET-1=Куди ви йдете? Я ще не закінчив!
+
+
+# Brok
+### Sorry.
+PC12_GHERKIN_LEAVENOTYET-2=Вибачте.
+
+
+#----------------------------------------------------
+# Gherkin
+### Wait!
+PC12_GHERKIN_BEFORELEAVE-1=Зачекайте!
+
+
+#----------------------------------------------------
+# Gherkin
+### I'm done.
+PC12_GHERKIN_FINISHED-1=Я закінчив.
+
+
+# Brok
+### Great news!
+PC12_GHERKIN_FINISHED-2=Чудова новина!
+
+
+# Brok
+### Let's move on, then.
+PC12_GHERKIN_FINISHED-3=Тоді ходімо далі.
+
+
+# Gherkin
+### I'll be right behind you.
+PC12_GHERKIN_FINISHED-4=Я йтиму слідом.
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_MESSAGEDEE-1=...
+
+
+# Brok
+### A message...
+PC12_MESSAGEDEE-2=Повідомлення...
+
+
+#----------------------------------------------------
+# Brok
+### What...? Who sent this?
+PC12_MESSAGEDEE_READ-1=Що...? Хто це надіслав?
+
+
+#----------------------------------------------------
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Oh my...! That Pipe-Pill is in a disastrous state...
+PC12_GHERKIN_CHITCHAT-1=Отакої...! Цей Пігулкомат у жахливому стані...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers, most likely...
+PC12_GHERKIN_CHITCHAT-2=Напевно, діло рук Верескунів...
+
+
+# Brok
+### I bet they learned about the shortages and tried to steal as much as possible.
+PC12_GHERKIN_CHITCHAT-3=Б'юся об заклад, вони дізналися про дефіцит і спробували вкрасти якомога більше.
+
+
+# Gherkin
+### Fortunately only external damage.
+PC12_GHERKIN_CHITCHAT-4=На щастя, пошкодження лише зовнішні.
+
+
+#----------------------------------------------------
+# Gherkin
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### So, Mister Brok. Why a detective?
+PC12_GHERKIN_CHITCHAT2-1=Тож, пане Броку. Чому ви обрали професію детектива?
+
+
+# Brok
+### I thought you read all my history?
+PC12_GHERKIN_CHITCHAT2-2=Я думав, ви прочитали всю мою історію?
+
+
+# Gherkin
+### Only what can be found in administrative, camera records, and other tracking methods.
+PC12_GHERKIN_CHITCHAT2-3=Лише те, що можна знайти в адміністративних записах, записах з камер та за допомогою інших методів відстеження.
+
+
+# Brok
+### Huh.
+PC12_GHERKIN_CHITCHAT2-4=Гмм.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Just figured there'd be some business. There ain't that many investigators in the Slums.
+PC12_GHERKIN_CHITCHAT2-5=Просто думав, що буде якась робота. У Нетрях не так багато детективів.
+
+
+# Brok
+### Why the question?
+PC12_GHERKIN_CHITCHAT2-6=Чому ви питаєте?
+
+
+# Gherkin
+### I... just like to talk when I'm nervous...
+PC12_GHERKIN_CHITCHAT2-7=Я... просто люблю побалакати, коли нервую...
+
+
+# Brok
+### Makes sense.
+PC12_GHERKIN_CHITCHAT2-8=Зрозуміло.
+
+
+# Gherkin
+### Ask me questions, please... I don't like the silence.
+PC12_GHERKIN_CHITCHAT2-9=Запитуйте мене про щось, будь ласка... Мені не подобається тиша.
+
+
+#----------------------------------------------------
+# Brok - ASking Gherkin to repair the distributor
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### Dr. Gherkin! Can you fix this vending machine?
+PC12_DISTRIBUTORBROKEN_FIX-1=Докторе Геркіне! Чи можете ви полагодити цей торговельний автомат?
+
+
+# Gherkin
+### Hey! I'm not a mechanic!
+PC12_DISTRIBUTORBROKEN_FIX-2=Гей! Я не механік!
+
+
+# Gherkin
+### What do you need it for?
+PC12_DISTRIBUTORBROKEN_FIX-3=Навіщо він вам?
+
+
+# Brok
+### Just hungry. I need strength to battle those bots.
+PC12_DISTRIBUTORBROKEN_FIX-4=Просто зголоднів. Мені потрібні сили для боротьби з ботами.
+
+
+# Brok
+### So! Can you?
+PC12_DISTRIBUTORBROKEN_FIX-5=То як? Зможете?
+
+
+# Gherkin
+### Maybe. Help me put it back on its feet.
+PC12_DISTRIBUTORBROKEN_FIX-6=Можливо. Допоможіть мені його поставити.
+
+
+#----------------------------------------------------
+# Gherkin
+### That should do it.
+PC12_DISTRIBUTORBROKEN_FIX2-1=Ось і все, має спрацювати.
+
+
+# Brok
+### Nice!
+PC12_DISTRIBUTORBROKEN_FIX2-2=Чудово!
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+### I should have asked Dr. Gherkin to fix it...
+PC12_DISTRIBUTORBROKEN_DIDNOTFIX-1=Варто було попросити доктора Геркіна полагодити його...
+
+
+#----------------------------------------------------
+# Gherkin - If coming back with Gherkin after escaping or fighting the bots
+### (Pant, pant)
+PC12_GHERKIN_BACK1-1=(Важко дихає)
+
+
+# Gherkin
+### Wait for me!
+PC12_GHERKIN_BACK1-2=Зачекайте на мене!
+
+
+#----------------------------------------------------
+# Brok - Getting Shay's material from this room
+### Huh? Something under that little trap?
+PC12_MATERIAL1-1=Га? Щось під цією плитою?
+
+
+#----------------------------------------------------
+# Brok
+### Whaddya know! Little pearls!
+PC12_MATERIAL2-1=Ти диви! Маленькі перлини!
+
+
+# Brok
+### Probably valuable. Someone must have hidden them here...
+PC12_MATERIAL2-2=Мабуть, цінні. Хтось, напевно, сховав їх тут...
+
+
+#----------------------------------------------------
+# Director - "Drumer" ending - Graff passed. Students and the director are in front of the border post, ready to cross.
+### Good. You're all here.
+PC12_DRUMER1-1=Добре. Ви всі тут.
+
+
+# Director
+### Everything is set. You'll just have to cross when you're ready.
+PC12_DRUMER1-2=Усе готово. Вам залишилося лише перейти кордон, коли будете готові.
+
+
+# Director
+### Your new home awaits you.
+PC12_DRUMER1-3=Ваш новий дім чекає на вас.
+
+
+#----------------------------------------------------
+# Klay
+### Bye, you fools!
+PC12_DRUMER2-1=Бувайте, дурні!
+
+
+# Klay
+### Hopefully I won't have to be lumbered with you both in this new life!
+PC12_DRUMER2-2=Сподіваюся, мені не доведеться тягатися з вами обома в цьому новому житті!
+
+
+#----------------------------------------------------
+# Graff
+### Hmmph... Always the same.
+PC12_DRUMER3-1=Гм-мм... Усе як завжди.
+
+
+# Graff
+### Looks like we'll travel lightweight.
+PC12_DRUMER3-2=Схоже, ми подорожуватимемо без зайвих речей.
+
+
+# Ott
+### They can provide us with everything we need.
+PC12_DRUMER3-3=Вони можуть забезпечити нас усім необхідним.
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Nothing from our life in the Slums would be valuable there...
+PC12_DRUMER3-4=Ніщо з нашого життя в Нетрях не матиме там цінності...
+
+
+# Graff
+### I suppose you're right...
+PC12_DRUMER3-5=Гадаю, так...
+
+
+# Graff
+### Hey, where are your parents?
+PC12_DRUMER3-6=Гей, а де твої батьки?
+
+
+# Ott
+### We said farewell already...
+PC12_DRUMER3-7=Ми вже попрощалися...
+
+
+# Ott
+### But...
+PC12_DRUMER3-8=Але...
+
+
+# Ott
+### I admit... I have second thoughts about all this now...
+PC12_DRUMER3-9=Зізнаюся... Тепер я сумніваюся щодо всього цього...
+
+
+# Ott
+### Leaving everything behind... This is hard...
+PC12_DRUMER3-10=Залишити все позаду... Це так важко...
+
+
+# Graff
+### We made this choice. Years ago.
+PC12_DRUMER3-11=Ми самі зробили цей вибір. Багато років тому.
+
+
+# Ott
+### I know...
+PC12_DRUMER3-12=Я знаю...
+
+
+# Ott
+### On the other side... I should be able to help them somehow.
+PC12_DRUMER3-13=Коли я опинюсь на іншому боці... Має бути якийсь спосіб допомогти їм.
+
+
+# Ott
+### What about you?
+PC12_DRUMER3-14=А як щодо тебе?
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Were you able to talk to Brok?
+PC12_DRUMER3-15=Тобі вдалося поговорити з Броком?
+
+
+# Graff
+### No...
+PC12_DRUMER3-16=Ні...
+
+
+# Graff
+### He wasn't there.
+PC12_DRUMER3-17=Його не було.
+
+
+# Graff
+### I sent him a message but...
+PC12_DRUMER3-18=Я надіслав йому повідомлення, але...
+
+
+# Ott
+### I see...
+PC12_DRUMER3-19=Зрозуміло...
+
+
+# Ott
+### Always the busy one, huh.
+PC12_DRUMER3-20=Як завжди зайнятий, га.
+
+
+# Graff
+### Yeah...
+PC12_DRUMER3-21=Так...
+
+
+# Ott
+### ...
+PC12_DRUMER3-22=...
+
+
+# Ott
+### I'll go but...
+PC12_DRUMER3-23=Я піду, але...
+
+
+# Ott
+### You should wait.
+PC12_DRUMER3-24=Тобі варто зачекати.
+
+
+# Ott
+### He'll be here any minute.
+PC12_DRUMER3-25=Він буде тут будь-якої миті.
+
+
+# Graff
+### How could you know?
+PC12_DRUMER3-26=Звідки ти знаєш?
+
+
+# Ott
+### I don't.
+PC12_DRUMER3-27=Не знаю.
+
+
+# Ott
+### Just a feeling...
+PC12_DRUMER3-28=Просто відчуття...
+
+
+# Ott
+### ...
+PC12_DRUMER3-29=...
+
+
+# Ott
+### This is it. Onto a new life!
+PC12_DRUMER3-30=Ось і все. Назустріч новому життю!
+
+
+# Ott
+### See you on the other side!
+PC12_DRUMER3-31=Побачимося по той бік!
+
+
+# Graff
+### Yeah...
+PC12_DRUMER3-32=Так...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Goodbye Ott.
+PC12_DRUMER3-33=Прощавай, Отте.
+
+
+# Graff
+### ...
+PC12_DRUMER3-34=...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+PC12_DRUMER4-1=...
+
+
+# Various - "Window" not in the literal sense here but a time limit
+### Three minutes left before the window closes.
+PC12_DRUMER4-2=Залишилося три хвилини до закінчення відведеного часу.
+
+
+# Graff
+### ...
+PC12_DRUMER4-3=...
+
+
+# Graff
+### What a fool I am...
+PC12_DRUMER4-4=Який же я дурень...
+
+
+# Graff
+### I'm waiting for...
+PC12_DRUMER4-5=Я чекаю...
+
+
+# Graff
+### Nothing...
+PC12_DRUMER4-6=Марно...
+
+
+# Graff
+### There's nothing tying me here anymore.
+PC12_DRUMER4-7=Мене тут більше нічого не тримає.
+
+
+#----------------------------------------------------
+# Brok
+### Wait!
+PC12_DRUMER5-1=Зачекай!
+
+
+#----------------------------------------------------
+# Brok
+### I'm... (Pant, pant)
+PC12_DRUMER6-1=Я... (Важко дихає)
+
+
+# Brok
+### I'm here...!
+PC12_DRUMER6-2=Я тут...!
+
+
+# Graff
+### ...
+PC12_DRUMER6-3=...
+
+
+# Graff
+### I thought you'd never come...
+PC12_DRUMER6-4=Я думав, ти вже не прийдеш...
+
+
+# Brok
+### Well...
+PC12_DRUMER6-5=Ну...
+
+
+# Brok
+### I had to leave in the middle of a tough situation but...
+PC12_DRUMER6-6=Мені довелося піти в розпал складної ситуації, але...
+
+
+# Brok
+### I couldn't let you leave without telling you...
+PC12_DRUMER6-7=Я не міг дозволити тобі піти, не сказавши...
+
+
+# Brok
+### Congratulations, kiddo.
+PC12_DRUMER6-8=Вітаю тебе, малий.
+
+
+# Brok
+### I knew you could do it.
+PC12_DRUMER6-9=Я знав, що ти зможеш.
+
+
+# Brok
+### I'm proud of you.
+PC12_DRUMER6-10=Я пишаюся тобою.
+
+
+# Graff
+### Thanks...
+PC12_DRUMER6-11=Дякую...
+
+
+# Graff
+### ...
+PC12_DRUMER6-12=...
+
+
+# Brok
+### ...
+PC12_DRUMER6-13=...
+
+
+# Graff
+### Before I leave...
+PC12_DRUMER6-14=Перш ніж я піду...
+
+
+# Graff
+### Something keeps bothering me.
+PC12_DRUMER6-15=Дещо не дає мені спокою.
+
+
+# Graff
+### I found this in our mail.
+PC12_DRUMER6-16=Я знайшов це в нашій пошті.
+
+
+# Brok
+### Oh! That's right!
+PC12_DRUMER6-17=О! Точно!
+
+
+# Brok
+### What an idiot! How could I forget something so important...
+PC12_DRUMER6-18=Який дурень! Як я міг забути щось настільки важливе...
+
+
+# Brok
+### This money...
+PC12_DRUMER6-19=Ці гроші...
+
+
+# Brok
+### It's for you.
+PC12_DRUMER6-20=Вони для тебе.
+
+
+# Graff
+### Is this...
+PC12_DRUMER6-21=Це...
+
+
+# Graff
+### Mom's inheritance?
+PC12_DRUMER6-22=Мамина спадщина?
+
+
+# Brok
+### No...
+PC12_DRUMER6-23=Ні...
+
+
+# Brok
+### Your mom was the spender type but...
+PC12_DRUMER6-24=Твоя мама любила витрачати гроші, але...
+
+
+# Brok
+### She opened you an account. It was empty.
+PC12_DRUMER6-25=Вона відкрила тобі рахунок. Він був порожнім.
+
+
+# Brok
+### For the last five years...
+PC12_DRUMER6-26=Останні п'ять років...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### I've saved money. 50 Unis per day.
+PC12_DRUMER6-27=Я відкладав гроші. По 50 Юні щодня.
+
+
+# Brok
+### I knew you'd need this. To make a new start.
+PC12_DRUMER6-28=Я знав, що вони тобі знадобляться. Для нового початку.
+
+
+# Graff
+### You did this...
+PC12_DRUMER6-29=Ти зробив це...
+
+
+# Graff
+### For me...?
+PC12_DRUMER6-30=Для мене...?
+
+
+# Brok
+### Of course.
+PC12_DRUMER6-31=Звісно.
+
+
+# Graff
+### All this money...
+PC12_DRUMER6-32=Усі ці гроші...
+
+
+# Graff
+### I...
+PC12_DRUMER6-33=Я...
+
+
+# Graff
+### I can't accept it.
+PC12_DRUMER6-34=Я не можу їх прийняти.
+
+
+# Brok
+### Trust me! You're gonna need it!
+PC12_DRUMER6-35=Повір мені! Вони тобі знадобляться!
+
+
+# Brok
+### Everything is so outrageously expensive over there.
+PC12_DRUMER6-36=Там усе страшенно дороге.
+
+
+# Brok
+### And that's your name on there. Only you can have it.
+PC12_DRUMER6-37=І там твоє ім'я. Лише ти можеш їх забрати.
+
+
+# Graff
+### What about you?
+PC12_DRUMER6-38=А як же ти?
+
+
+# Graff
+### How will you live now...?
+PC12_DRUMER6-39=Як ти тепер житимеш...?
+
+
+# Brok
+### You know me!
+PC12_DRUMER6-40=Ти ж мене знаєш!
+
+
+# Brok
+### I'll manage. I always have!
+PC12_DRUMER6-41=Я впораюся. Як завжди!
+
+
+# Graff
+### Alright...
+PC12_DRUMER6-42=Гаразд...
+
+
+# Graff
+### Then... I guess...
+PC12_DRUMER6-43=Тоді... напевно...
+
+
+# Graff
+### I have to go...
+PC12_DRUMER6-44=Мені час іти...
+
+
+# Graff
+### ...
+PC12_DRUMER6-45=...
+
+
+#----------------------------------------------------
+# Graff
+### Come with me!
+PC12_DRUMER6C-1=Ходімо зі мною!
+
+
+# Brok
+### You know I can't.
+PC12_DRUMER6C-2=Ти знаєш, що я не можу.
+
+
+# Graff
+### Yes you can!
+PC12_DRUMER6C-3=Ні, ти можеш!
+
+
+# Brok
+### ...
+PC12_DRUMER6C-4=...
+
+
+#----------------------------------------------------
+# Various
+### Access denied.
+PC12_DRUMER6D-1=У доступі відмовлено.
+
+
+# Brok
+### My access got revoked...
+PC12_DRUMER6D-2=Мій доступ анулювали...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+### But... The Director said it was permanent...!
+PC12_DRUMER6D-3=Але... директорка сказала, що він постійний...!
+
+
+# Brok
+### Sorry...
+PC12_DRUMER6D-4=Вибач...
+
+
+# Brok
+### I had to cheat to get it.
+PC12_DRUMER6D-5=Мені довелося схитрувати, щоб його отримати.
+
+
+# Graff
+### Well do it again!
+PC12_DRUMER6D-6=То зроби це знову!
+
+
+# Brok
+### Nah.
+PC12_DRUMER6D-7=Ні.
+
+
+#----------------------------------------------------
+# Brok
+### You need to understand.
+PC12_DRUMER6E-1=Ти маєш зрозуміти.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### The Drums... I don't belong to that world.
+PC12_DRUMER6E-2=Верхи... Я не належу до того світу.
+
+
+# Brok
+### I tried years ago with your mom but...
+PC12_DRUMER6E-3=Я намагався багато років тому з твоєю мамою, але...
+
+
+# Brok
+### Sometimes... You gotta be honest with yourself.
+PC12_DRUMER6E-4=Іноді... Треба бути чесним із самим собою.
+
+
+# Brok
+### Besides! I've still got an unfinished job here. Remember?
+PC12_DRUMER6E-5=До того ж! У мене тут ще є незавершена справа. Пам'ятаєш?
+
+
+# Graff
+### Then...
+PC12_DRUMER6E-6=Тоді...
+
+
+# Graff
+### I'll stay.
+PC12_DRUMER6E-7=Я залишуся.
+
+
+# Brok
+### What? No!
+PC12_DRUMER6E-8=Що? Ні!
+
+
+# Graff
+### You'll need help!
+PC12_DRUMER6E-9=Тобі знадобиться допомога!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums needs us!
+PC12_DRUMER6E-10=Нетрі потребують нас!
+
+
+# Brok
+### I forbid you.
+PC12_DRUMER6E-11=Я забороняю тобі.
+
+
+# Graff
+### But...
+PC12_DRUMER6E-12=Але...
+
+
+# Brok
+### You're not thinking straight!
+PC12_DRUMER6E-13=Ти не думаєш, що кажеш!
+
+
+# Brok
+### Your friend's over there. Your future!
+PC12_DRUMER6E-14=Твій друг там. Твоє майбутнє!
+
+
+# Brok
+### I won't let you throw away all your efforts at the spur of the moment!
+PC12_DRUMER6E-15=Я не дозволю тобі перекреслити всі твої зусилля через хвилинний порив!
+
+
+# Graff
+### ...
+PC12_DRUMER6E-16=...
+
+
+# Brok
+### ...
+PC12_DRUMER6E-17=...
+
+
+# Brok
+### Come on. Don't make that face!
+PC12_DRUMER6E-18=Ну ж бо. Не роби таке обличчя!
+
+
+# Brok
+### It's not a farewell.
+PC12_DRUMER6E-19=Це не прощання.
+
+
+# Brok
+### You can visit me anytime!
+PC12_DRUMER6E-20=Ти можеш будь-коли мене навідувати!
+
+
+# Graff
+### You know it's not that simple...
+PC12_DRUMER6E-21=Ти знаєш, що все не так просто...
+
+
+# Graff
+### What if... I can't make it on my own...?
+PC12_DRUMER6E-22=А що, якщо... я не впораюся сам...?
+
+
+# Graff
+### I'm... I'm not strong... like you...
+PC12_DRUMER6E-23=Я... я не такий сильний... як ти...
+
+
+# Brok
+### You're just being silly.
+PC12_DRUMER6E-24=Не кажи дурниць.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### You're going to the Drums. There'll be all kinds of bots to support you.
+PC12_DRUMER6E-25=Ти вирушаєш на Верхи. Там буде купа всіляких ботів, щоб тобі допомагати.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### If you've survived all this time in the Slums, you've got nothing to fear!
+PC12_DRUMER6E-26=Якщо ти вижив увесь цей час у Нетрях, тобі нічого боятися!
+
+
+# Graff
+### I... guess...
+PC12_DRUMER6E-27=Гадаю... так...
+
+
+# Brok
+### And... You're strong. Much more than you think.
+PC12_DRUMER6E-28=І... Ти сильний. Набагато сильніший, ніж думаєш.
+
+
+# Graff
+### I...
+PC12_DRUMER6E-29=Я...
+
+
+# Graff
+### I'll miss you so much...
+PC12_DRUMER6E-30=Я дуже за тобою сумуватиму...
+
+
+#----------------------------------------------------
+# Various
+### One minute left.
+PC12_DRUMER6F-1=Залишилася одна хвилина.
+
+
+# Brok
+### Listen...
+PC12_DRUMER6F-2=Послухай...
+
+
+# Brok
+### When you cross...
+PC12_DRUMER6F-3=Коли ти будеш переходити...
+
+
+# Brok
+### I want to see you smile.
+PC12_DRUMER6F-4=Я хочу побачити твою усмішку.
+
+
+# Brok
+### Do it for me.
+PC12_DRUMER6F-5=Зроби це заради мене.
+
+
+# Graff
+### ...
+PC12_DRUMER6F-6=...
+
+
+# Graff
+### A-Alright...
+PC12_DRUMER6F-7=Г-гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### I want you to know...
+PC12_DRUMER6G-1=Я хочу, щоб ти знав...
+
+
+# Graff
+### Wherever we are...
+PC12_DRUMER6G-2=Де б ми не були...
+
+
+# Graff
+### You'll always be my family.
+PC12_DRUMER6G-3=Ти завжди будеш моєю родиною.
+
+
+# Brok
+### And you'll always be mine.
+PC12_DRUMER6G-4=А ти завжди будеш моєю.
+
+
+# Brok
+### Now... Go.
+PC12_DRUMER6G-5=А тепер... Іди.
+
+
+# Graff
+### ...
+PC12_DRUMER6G-6=...
+
+
+#----------------------------------------------------
+# Brok
+### Goodbye, kiddo...
+PC12_DRUMER7-1=Прощавай, малий...
+
+
+# Brok
+### I'll miss you too...
+PC12_DRUMER7-2=Я теж за тобою сумуватиму...
+
+
+# Brok
+### ...
+PC12_DRUMER7-3=...
+
+
+#----------------------------------------------------
+# Brok
+### ?
+PC12_DRUMER8-1=?
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### The Pipe-Pill... is working again...?
+PC12_DRUMER9-1=Пігулкомат... знову працює...?
+
+
+# Brok
+### The Doc...
+PC12_DRUMER9-2=Док...
+
+
+# Brok
+### Did he fix it after all?
+PC12_DRUMER9-3=Він все-таки полагодив його?
+
+
+# Brok
+### ...
+PC12_DRUMER9-4=...
+
+
+# Brok
+### Oh well!
+PC12_DRUMER9-5=Ну що ж!
+
+
+# Brok
+### I guess this means...
+PC12_DRUMER9-6=Гадаю, це означає...
+
+
+# Brok
+### Things ended well for everyone.
+PC12_DRUMER9-7=Усе закінчилося добре для всіх.
+
+
+# Brok
+### ...
+PC12_DRUMER9-8=...
+
+
+#----------------------------------------------------
+# Brok
+### Wait...
+PC12_DRUMER10-1=Стривайте...
+
+
+# Brok
+### Something's tickling me... In my pocket?
+PC12_DRUMER10-2=Щось лоскоче мене... У кишені?
+
+
+#----------------------------------------------------
+# Brok
+### ...
+PC12_DRUMER11-1=...
+
+
+# Brok
+### This envelope...
+PC12_DRUMER11-2=Цей конверт...
+
+
+# Brok
+### What's going on?
+PC12_DRUMER11-3=Що відбувається?
+
+
+# Brok
+### ...
+PC12_DRUMER11-4=...
+
+
+# Brok
+### ?
+PC12_DRUMER11-5=?
+
+
+# Brok
+### Weird...
+PC12_DRUMER11-6=Дивно...
+
+
+# Brok
+### I feel like... I forgot something...
+PC12_DRUMER11-7=Таке відчуття, ніби... я щось забув...
+
+
+# Brok
+### ...
+PC12_DRUMER11-8=...
+
+
+# Brok
+### No point torturing myself. It'll come back!
+PC12_DRUMER11-9=Нема сенсу мучити себе. Згадається!
+
+
+# Brok
+### I bet my brain is like a giant donut... with a big hole in the middle!
+PC12_DRUMER11-10=Мабуть, мій мозок схожий на велетенський пончик... з великою діркою посередині!
+
+
+# Brok
+### Hmm...
+PC12_DRUMER11-11=Гмм...
+
+
+# Brok
+### Makes me hungry. Let's have some cricket donuts!
+PC12_DRUMER11-12=Захотілося їсти. З'їм кілька пончиків із цвіркунами!
+
+
+#----------------------------------------------------
+# Brok
+### Somehow...
+PC12_DRUMER12-1=Якимось чином...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The situation in the Slums solved itself.
+PC12_DRUMER12-2=Ситуація в Нетрях владналася сама собою.
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee and Dr. Gherkin disappeared into thin air...
+PC12_DRUMER12-3=Ді та доктор Геркін розчинилися в повітрі...
+
+
+# Brok
+### Thus...
+PC12_DRUMER12-4=Тож...
+
+
+# Brok
+### I never got to the bottom of this investigation.
+PC12_DRUMER12-5=Мені так і не вдалося докопатися до суті цього розслідування.
+
+
+# Brok
+### Things went back to normal for everyone.
+PC12_DRUMER12-6=Для всіх усе повернулося до норми.
+
+
+# Brok
+### Except...
+PC12_DRUMER12-7=Ось тільки...
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Without Graff...
+PC12_DRUMER12-8=Без Граффа...
+
+
+# Brok
+### It's hard...
+PC12_DRUMER12-9=Важко...
+
+
+# Brok
+### To give a sense to my life.
+PC12_DRUMER12-10=Знайти сенс у житті.
+
+
+# Brok
+### But I'll never give up.
+PC12_DRUMER12-11=Але я ніколи не здамся.
+
+
+# Brok
+### I'll always keep fighting...
+PC12_DRUMER12-12=Я завжди боротимуся...
+
+
+# Brok
+### For him...
+PC12_DRUMER12-13=Заради нього...
+
+
+# Brok
+### For myself...
+PC12_DRUMER12-14=Заради себе...
+
+
+# Brok
+### And everyone.
+PC12_DRUMER12-15=І заради всіх.
+
+
+#----------------------------------------------------
+# Brok
+### No pill...
+PC12_HITPIPEPILL1-1=Немає пігулок...
+
+
+#----------------------------------------------------
+# Brok
+### Nope... I'm just busting it even more.
+PC12_HITPIPEPILL2-1=Ні... Я тільки сильніше його розбиваю.
+
+
+#----------------------------------------------------
+# Brok
+### Hey, that old trick still works!
+PC12_HITDISTRIBUTOR1-1=Гей, а цей старий трюк досі працює!
+
+
+#----------------------------------------------------
+# Brok
+### (Pant) Nothing more... Better stop.
+PC12_HITDISTRIBUTOR2-1=(Важко дихає) Більше нічого немає... Краще припинити.
+
+
+#----------------------------------------------------
+# Brok
+### Looks sturdy.
+PC12_PACKAGE1-1=Виглядає міцною.
+
+
+#----------------------------------------------------
+# Brok
+### Hmm...!
+PC12_PACKAGE_CLIMB-1=Гмм...!
+
+
+#----------------------------------------------------
+

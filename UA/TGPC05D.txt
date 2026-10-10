@@ -1,0 +1,3044 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Chiefrat - Dart (Unknown)
+#     Chiefrat - Graff (Unknown)
+#     Chiefrat - Kins (Unknown)
+#     Chiefrat - Ott (Unknown)
+#     Dart - Chiefrat (Unknown)
+#     Dart - Graff (Unknown)
+#     Graff - Chiefrat (Unknown)
+#     Graff - Dart (Unknown)
+#     Graff - Kins (Unknown)
+#     Graff - Ott (Unknown)
+#     Kins - Chiefrat (Unknown)
+#     Kins - Graff (Unknown)
+#     Kins - Ott (Unknown)
+#     Ott - Chiefrat (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Kins (Unknown)
+
+#-------------------------------
+#= GRAFF --- SEWERS BELOW
+#-------------------------------
+
+#----- Interactions --------
+# A little kichen hook that Graff can use to cut his rope
+### Hook
+PC_HOOK=Гачок
+
+### Cupboard
+PC_CUPBOARD=Буфет
+
+### Bag
+PC_BAG=Мішок
+
+### Table
+PC_TABLE=Стіл
+
+# A sewers access we can see in the background that is sealed with bars
+### Tunnel
+PC_TUNNEL=Тунель
+
+### Stuff
+PC_STUFF=Речі
+
+### Rope
+PC_ROPE=Мотузка
+
+### Skip to next room
+PC_SKIP=Пропустити до наступної кімнати
+
+### Skip to ladder
+PC_SKIPLADDER=Пропустити до драбини
+
+
+#----- Choices / Items --------
+### <button=INPUT_ACTION_SWITCH_MODE> or <spr=CONTROL_mouseleft> repeatedly to cut
+TUTORIAL_ROPEHOOK_MSG_MOUSE=Натискайте <button=INPUT_ACTION_SWITCH_MODE> або <spr=CONTROL_mouseleft> багато разів, щоб різати мотузку
+
+### <button=INPUT_ACTION_SWITCH_MODE> repeatedly to cut
+TUTORIAL_ROPEHOOK_MSG_GAMEPAD=Натискайте <button=INPUT_ACTION_SWITCH_MODE> багато разів, щоб різати мотузку
+
+
+#----- Topics --------
+
+# ----- Topics --------
+### Stay in the chair?
+PC05D_ROPEHOOKEND_CHOICE=Лишитися на стільці?
+
+### Yes, pretend
+PC05D_ROPEHOOKEND_YES=Так, прикидатись
+
+### No, get off
+PC05D_ROPEHOOKEND_NO=Ні, встати
+
+### A pipe chunk!
+GOT_PIPEWEAPON=Шматок труби!
+
+
+### Who will you save?
+PC05D_CHOICEBOMB=Кого ви врятуєте?
+
+### The hospital patients
+PC05D_CHOICEBOMB_GROUP=Пацієнти лікарні
+
+### Fight
+PC05D_FIGHT=Битися
+
+### Surrender
+PC05D_SURRENDER=Здатися
+
+### Attempt a surprise attack?
+PC05D_SURPRISEATTACK_CHOICE=Спробувати несподівано атакувати?
+
+
+
+#----- Dialog --------
+
+
+
+###############################################
+# PROOFREAD - jblaker - 04/09/2019
+###############################################
+
+
+
+
+# Graff - Graff has been kidnapped by the rats. He's waking up...
+### ...
+GPC05D_FIRST-1=...
+
+
+# Graff
+### Argh... My head...
+GPC05D_FIRST-2=Ай... Моя голова...
+
+
+# Graff
+### Oh no... I'm tied up!...
+GPC05D_FIRST-3=О ні... Я зв'язаний...!
+
+
+# Graff
+### I... don't like this...
+GPC05D_FIRST-4=Мені... не подобається це...
+
+
+# Graff
+### ...
+GPC05D_FIRST-5=...
+
+
+# Graff
+### My rope is a bit loose. With some efforts, I can move!
+GPC05D_FIRST-6=Моя мотузка трохи ослабла. Якщо трохи постаратися, я можу рухатися!
+
+
+#----------------------------------------------------
+# Chiefrat - Graff meets rat chief
+### Hey, Princess! Finally woke up?
+GPC05D_CHIEFRAT_NORMAL-1=Гей, принцеско! Нарешті прокинувся?
+
+
+# Graff
+### ...
+GPC05D_CHIEFRAT_NORMAL-2=...
+
+
+#----------------------------------------------------
+# Chiefrat - If Graff moved and was spotted by the chief
+### Ya gotta be kiddin' me, boy!
+GPC05D_CHIEFRAT_SPOTTED-1=Та ти мабуть жартуєш, хлопче!
+
+
+# Chiefrat
+### Ya really think you could get past us?
+GPC05D_CHIEFRAT_SPOTTED-2=Ти реально думав, шо зможеш прослизнути повз нас?
+
+
+#----------------------------------------------------
+# Chiefrat - If Graff had picked the pipe chunk
+### And drop dat weapon ya're hiding.
+GPC05D_CHIEFRAT_SURRENDERWEAPON-1=І викинь зброю, яку ти отам ховаєш.
+
+
+# Graff
+### Erm... Okay...
+GPC05D_CHIEFRAT_SURRENDERWEAPON-2=Е-е... Гаразд...
+
+
+#----------------------------------------------------
+# Graff - Surrender
+### Please. Go easy on me...
+GPC05D_CHIEFRAT_SURRENDER-1=Будь ласка. Змилуйтеся...
+
+
+# Chiefrat
+### Ugh. Wimp.
+GPC05D_CHIEFRAT_SURRENDER-2=Фу. Слабак.
+
+
+#----------------------------------------------------
+# Chiefrat - If Graff moved from his original position
+### Hey! Looks like ya travelled around, huh?
+GPC05D_CHIEFRAT_MOVED-1=Гей! Схоже, ти помандрував навколо, га?
+
+
+#----------------------------------------------------
+# Chiefrat
+### Ya better stop or I'll strengthen your ties. And... Dat might hurt.
+GPC05D_CHIEFRAT_MOVED2-1=Радше б ти зупинився, бо інакше я прив'яжу тебе ше міцніше. І... Це буде дуже боляче.
+
+
+# Graff
+### Why do you care?
+GPC05D_CHIEFRAT_MOVED2-2=А тобі що до цього?
+
+
+# Chiefrat
+### Ya're our guest!
+GPC05D_CHIEFRAT_MOVED2-3=Ти наш гість!
+
+
+#----------------------------------------------------
+# Chiefrat - If Graff is spotted while cutting his rope
+### Oh, dat's cute! Ya thought you might cut your ropes with dat hook, huh?
+GPC05D_CHIEFRAT_CUTROPE-1=О, як мило! Ти думав, шо зможеш порізати мотузку оцим гачком, чи не так?
+
+
+#----------------------------------------------------
+# Chiefrat - If he took the pipe chunk
+### Oh! And you were hiding a weapon behind yar back?
+GPC05D_CHIEFRAT_DROPWEAPON-1=О! І ти ше й ховав зброю за спиною?
+
+
+# Chiefrat
+### Bad kitty!
+GPC05D_CHIEFRAT_DROPWEAPON-2=Погане кошенятко!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Lemme put ya back.
+GPC05D_CHIEFRAT_MOVED3-1=Давай я поставлю тебе на місце.
+
+
+#----------------------------------------------------
+# Chiefrat - If Graff hits the rat chief with the pipe chunk by surprise
+### Oooof!!!
+GPC05D_SURPRISEATTACK1-1=У-уух!!!
+
+
+#----------------------------------------------------
+# Graff
+### It worked!
+GPC05D_SURPRISEATTACK2-1=Спрацювало!
+
+
+# Kins
+### ...?
+GPC05D_SURPRISEATTACK2-2=...?
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### What was dat, chief?
+GPC05D_SURPRISEATTACK2-3=Шо то було, шефе?
+
+
+# Graff
+### Darn! Here they come!
+GPC05D_SURPRISEATTACK2-4=Дідько! Вони ідуть сюди!
+
+
+#----------------------------------------------------
+# Kins
+### Ya did this, kitty?!
+GPC05D_SURPRISEATTACK3-1=Це твоїх лап справа, кошеня?!
+
+
+# Kins
+### Ya're dead meat!
+GPC05D_SURPRISEATTACK3-2=Ти покійник!
+
+
+#----------------------------------------------------
+# Graff - First dialog with the rat chief
+### I bet you're the boss here.
+GPC05D_FIRSTDIALOG-1=Схоже, що ти тут головний.
+
+
+# Chiefrat
+### Ain't you the clever one!
+GPC05D_FIRSTDIALOG-2=Який розумничок!
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### The name's Graff, huh? I figured ya'd be smart like yar friend.
+GPC05D_FIRSTDIALOG-3=Звати Графф, чи не так? Так і думав, шо ти будеш розумним, як твій друг.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott?!
+GPC05D_FIRSTDIALOG-4=Отт?!
+
+
+# Graff
+### You better not touch him!
+GPC05D_FIRSTDIALOG-5=Краще вам його не чіпати!
+
+
+# Chiefrat
+### Hey! Everything will be fine. As long as ya cooperate.
+GPC05D_FIRSTDIALOG-6=Гей! Усе буде гаразд. Доки ти з нами співпрацюєш.
+
+
+# Graff
+### What do you want from us?
+GPC05D_FIRSTDIALOG-7=Що ви від нас хочете?
+
+
+# Chiefrat
+### Oh, come on! A clever boy like ya should be able to figure dat out!
+GPC05D_FIRSTDIALOG-8=Та годі! Такий розумний хлопчина, як ти, мав би вже здогадатись!
+
+
+# Graff
+### ...
+GPC05D_FIRSTDIALOG-9=...
+
+
+# Graff
+### You kidnapped us for money.
+GPC05D_FIRSTDIALOG-10=Ви викрали нас заради грошей.
+
+
+# Chiefrat
+### Dat's one way to summarize it. But actually...
+GPC05D_FIRSTDIALOG-11=Шо ж, можна і так сказати. Але насправді...
+
+
+# Chiefrat
+### Not dat simple.
+GPC05D_FIRSTDIALOG-12=Все не так просто.
+
+
+# Graff
+### Then what...
+GPC05D_FIRSTDIALOG-13=Тоді що...
+
+
+# Chiefrat
+### Enough. I'm the one who ask questions!
+GPC05D_FIRSTDIALOG-14=Досить. Це я тут ставлю запитання!
+
+
+# Chiefrat
+### Are you comfortable?
+GPC05D_FIRSTDIALOG-15=Тобі тут комфортно?
+
+
+# Graff
+### Huh?...
+GPC05D_FIRSTDIALOG-16=Що...?
+
+
+# Graff
+### What do you think?
+GPC05D_FIRSTDIALOG-17=А ти як думаєш?
+
+
+# Graff
+### I'm held against my will in these sewers that stink like death!
+GPC05D_FIRSTDIALOG-18=Мене тримають проти волі в цій смердючій каналізації!
+
+
+# Chiefrat
+### Sorry. We' doin' our best efforts to make this place pleasant enough to live.
+GPC05D_FIRSTDIALOG-19=Вибачай. Ми робимо все можливе, шоб це місце було придатним для життя.
+
+
+# Chiefrat
+### Ya hungry? Thirsty?
+GPC05D_FIRSTDIALOG-20=Ти не голодний? Пити хочеш?
+
+
+# Graff
+### Stop the funny act!
+GPC05D_FIRSTDIALOG-21=Припини ці дурниці!
+
+
+# Graff
+### Tell me what exactly you want from me or let me go!
+GPC05D_FIRSTDIALOG-22=Скажи, чого саме ти від мене хочеш, або відпусти мене!
+
+
+# Chiefrat
+### I believe we've started on da wrong foot.
+GPC05D_FIRSTDIALOG-23=Здається, наше знайомство почалося не з тої ноти.
+
+
+# Chiefrat
+### We're no bad guys. We're civilized.
+GPC05D_FIRSTDIALOG-24=Ми не погані хлопці. Ми цивілізовані.
+
+
+# Chiefrat
+### We'll take good care of ya for the next three days.
+GPC05D_FIRSTDIALOG-25=Ми подбаємо про вас протягом наступних трьох днів.
+
+
+# Graff
+### Three days?...
+GPC05D_FIRSTDIALOG-26=Трьох днів...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### That's it! The hacker!
+GPC05D_FIRSTDIALOG-27=Точно! Гакер!
+
+
+# Graff
+### You're working with him! He asked you to make me a prisoner!
+GPC05D_FIRSTDIALOG-28=Ви співпрацюєте із ним! Він наказав вам мене ув'язнити!
+
+
+# Chiefrat
+### Yup. Dat guy has some debt to pay us and ya're the bargaining chip.
+GPC05D_FIRSTDIALOG-29=Ага. Той чувак має віддати нам борг, а ти - наш козир.
+
+
+# Chiefrat
+### No worries. Once done, we'll release ya!
+GPC05D_FIRSTDIALOG-30=Можеш не хвилюватись. Як закінчимо, то відпустимо тебе!
+
+
+# Graff
+### No way! I'm not staying here!
+GPC05D_FIRSTDIALOG-31=У жодному разі! Я тут не залишуся!
+
+
+# Graff
+### My old man is a detective! He'll get me out! You'll see!
+GPC05D_FIRSTDIALOG-32=Мій старий - детектив! Він мене звідси витягне! Ви ще побачите!
+
+
+# Chiefrat
+### A detective, huh?...
+GPC05D_FIRSTDIALOG-33=Детектив, га...?
+
+
+# Chiefrat
+### How delusional.
+GPC05D_FIRSTDIALOG-34=Ну й маячня.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### Ya really expect him to get in here and pass our guards?
+GPC05D_FIRSTDIALOG-35=Ти справді думаєш, шо він пробереться через вартових?
+
+
+# Graff
+### Yeah! He's super strong! He'll beat you all up!
+GPC05D_FIRSTDIALOG-36=Так! Він неймовірно сильний! Він всіх вас переб'є!
+
+
+# Graff
+### He already did!
+GPC05D_FIRSTDIALOG-37=Як вже робив це раніше!
+
+
+# Chiefrat
+### Is dat true...
+GPC05D_FIRSTDIALOG-38=Невже...?
+
+
+# Chiefrat
+### Dat croc... Ya're his...!
+GPC05D_FIRSTDIALOG-39=Отой крок... Ти його...!
+
+
+#----------------------------------------------------
+# Graff
+### Hey! Where are you going?...
+GPC05D_FIRSTDIALOG2-1=Гей! Куди ти пішов...?
+
+
+# Chiefrat
+### Have a rest. I need to think.
+GPC05D_FIRSTDIALOG2-2=Відпочивай. Мені треба подумати.
+
+
+# Graff
+### But...!
+GPC05D_FIRSTDIALOG2-3=Але...!
+
+
+#----------------------------------------------------
+# Graff - Second dialog with the rat chief
+### So! Did you miss me already?
+GPC05D_SECONDDIALOG1-1=Ну-ну! Скучив за мною?
+
+
+# Graff
+### Good! I'm not finished with you!
+GPC05D_SECONDDIALOG1-2=Чудово! Бо я з тобою ще не закінчив!
+
+
+# Chiefrat
+### Oooooh! Now ya pretend to be brave, huh?
+GPC05D_SECONDDIALOG1-3=О-оооо! То тепер вдаєш із себе хороброго, га?
+
+
+# Chiefrat
+### Dat attitude does not fool anyone. Ya're just a scared li'l kitty.
+GPC05D_SECONDDIALOG1-4=Така поведінка нікого не обдурить. Ти просто перелякане кошеня.
+
+
+# Graff
+### I-I'm not!
+GPC05D_SECONDDIALOG1-5=Ц-це не так!
+
+
+# Chiefrat
+### Uh-uh.
+GPC05D_SECONDDIALOG1-6=Угу.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Kins?
+GPC05D_SECONDDIALOG1-7=Кінсе?
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Kins!!!
+GPC05D_SECONDDIALOG1-8=Кінс!!!
+
+
+#----------------------------------------------------
+# Graff
+### (...)
+GPC05D_SECONDDIALOG1_PRECHOICE-1=(...)
+
+
+# Graff
+### (He's looking away...)
+GPC05D_SECONDDIALOG1_PRECHOICE-2=(Він відвернувся...)
+
+
+#----------------------------------------------------
+# Kins
+### Oh! Erm... I'm here!
+GPC05D_SECONDDIALOG1B-1=О! Е-е... Я тут!
+
+
+# Chiefrat
+### Go ahead.
+GPC05D_SECONDDIALOG1B-2=Ну давай.
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Yes chief!
+GPC05D_SECONDDIALOG1B-3=Так, шефе!
+
+
+#----------------------------------------------------
+# Ott
+### (Hey! What are you...)
+GPC05D_SECONDDIALOG2-1=(Гей! Що ви...)
+
+
+# Ott
+### (Muffled sound)
+GPC05D_SECONDDIALOG2-2=(Приглушені звуки)
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### It's... Ott!
+GPC05D_SECONDDIALOG2-3=Це... Отт!
+
+
+# Graff
+### What are you doing!
+GPC05D_SECONDDIALOG2-4=Що ви робите?!
+
+
+# Chiefrat
+### Relax. We won't hurt him.
+GPC05D_SECONDDIALOG2-5=Розслабся. Ми його не скривдимо.
+
+
+# Chiefrat
+### At least not yet.
+GPC05D_SECONDDIALOG2-6=Принаймні поки шо.
+
+
+# Graff
+### What do you want? Money?
+GPC05D_SECONDDIALOG2-7=Що ви хочете? Гроші?
+
+
+# Graff
+### Take whatever you want!
+GPC05D_SECONDDIALOG2-8=Забирайте все, що хочете!
+
+
+# Graff
+### All of it, I don't care!
+GPC05D_SECONDDIALOG2-9=Хоч усе, мені байдуже!
+
+
+# Chiefrat
+### Sure, we'll get yar money!
+GPC05D_SECONDDIALOG2-10=Звісно, ми візьмемо твої гроші!
+
+
+# Chiefrat
+### But I'm looking forward to...
+GPC05D_SECONDDIALOG2-11=Але я радше чекаю на...
+
+
+# Chiefrat
+### Somethin' else.
+GPC05D_SECONDDIALOG2-12=Дешо інше.
+
+
+# Chiefrat
+### We're gonna play a lil' game.
+GPC05D_SECONDDIALOG2-13=Ми зіграємо в маленьку гру.
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG2-14=...
+
+
+# Chiefrat
+### I ordered my guys to place bombs in two locations.
+GPC05D_SECONDDIALOG2-15=Я наказав своїм хлопцям встановити бомби в двох місцях.
+
+
+# Graff
+### Bombs?!
+GPC05D_SECONDDIALOG2-16=Бомби?!
+
+
+# Chiefrat
+### Da first one is currently sitting right below yar friend's chair in da other room.
+GPC05D_SECONDDIALOG2-17=Перша зараз знаходиться під стільцем твого друга в іншій кімнаті.
+
+
+# Graff
+### ...!
+GPC05D_SECONDDIALOG2-18=...!
+
+
+# Chiefrat
+### A bigger one is located in an hospital in Sector 55X.
+GPC05D_SECONDDIALOG2-19=А більша бомба розташована в лікарні в Секторі 55X.
+
+
+# Chiefrat
+### Ya know... where all the drunkards and other human wastes are sent to suck whatever's money they have left.
+GPC05D_SECONDDIALOG2-20=Знаєш... там, куди відправляють усіх п'яниць та інший непотріб суспільства, щоб висмоктати з них останні гроші.
+
+
+# Graff
+### A hospital?!
+GPC05D_SECONDDIALOG2-21=Лікарня?!
+
+
+# Graff
+### You're lying!
+GPC05D_SECONDDIALOG2-22=Ти брешеш!
+
+
+# Chiefrat
+### Oh, I wouldn't bet on that!
+GPC05D_SECONDDIALOG2-23=О, я б на це не сподівався!
+
+
+# Chiefrat
+### We've learnt a lot about manipulating smoke. If set off, dat bomb would probably kill a dozen of those nobodies. At least!
+GPC05D_SECONDDIALOG2-24=Ми багато дізналися про те, як керувати димом. Якшо її підірвати, ця бомба, мабуть, вбиє з десяток тих нікчем. Як мінімум!
+
+
+# Chiefrat
+### Now, here's the fun part!
+GPC05D_SECONDDIALOG2-25=А тепер найвеселіше!
+
+
+# Chiefrat
+### The choice is yours.
+GPC05D_SECONDDIALOG2-26=Ти маєш зробити вибір.
+
+
+# Graff
+### Choice?...
+GPC05D_SECONDDIALOG2-27=Вибір...?
+
+
+# Graff
+### Why would I choose to blow up someone?
+GPC05D_SECONDDIALOG2-28=Чого б це я обрав когось підірвати?
+
+
+# Chiefrat
+### No no no!
+GPC05D_SECONDDIALOG2-29=Ні, ні, ні!
+
+
+# Chiefrat
+### I'd never ask ya something as cruel as that, good lord!
+GPC05D_SECONDDIALOG2-30=Та шо ти, я б нізашо не поставив тобі таке жорстоке запитання!
+
+
+# Chiefrat
+### I just need ya to choose...
+GPC05D_SECONDDIALOG2-31=Я просто хочу, шоб ти вибрав...
+
+
+# Chiefrat
+### ...who should be saved.
+GPC05D_SECONDDIALOG2-32=...кого врятувати.
+
+
+# Chiefrat
+### But here's da thing.
+GPC05D_SECONDDIALOG2-33=Але ось у чому справа.
+
+
+# Chiefrat
+### The ones you don't choose might have their life... How should I say?...
+GPC05D_SECONDDIALOG2-34=Ті, кого ти не вибрав, їх життя... Як би мені це сказати...?
+
+
+# Chiefrat
+### Suddenly shortened.
+GPC05D_SECONDDIALOG2-35=Їх життя перерветься.
+
+
+# Graff
+### You're... a monster!
+GPC05D_SECONDDIALOG2-36=Ти... монстр!
+
+
+# Chiefrat
+### No worries! We've been extra careful.
+GPC05D_SECONDDIALOG2-37=Не хвилюйся! Ми були особливо обережні.
+
+
+# Chiefrat
+### If ya choose to save those hospital losers, the impact will only blow up one room.
+GPC05D_SECONDDIALOG2-38=Якшо ти вирішиш врятувати тих невдах з лікарні, то вибух охопить лише одну кімнату.
+
+
+# Chiefrat
+### The one yar friend's in, that is.
+GPC05D_SECONDDIALOG2-39=Ту кімнату, в якій зараз твій друг.
+
+
+# Chiefrat
+### See? Ya're safe!
+GPC05D_SECONDDIALOG2-40=Бачиш? Ти в безпеці!
+
+
+# Graff
+### I... could never!...
+GPC05D_SECONDDIALOG2-41=Я... ніколи...!
+
+
+# Chiefrat
+### Oh but you will!
+GPC05D_SECONDDIALOG2-42=Але тобі доведеться!
+
+
+# Chiefrat
+### Because if ya don't choose...
+GPC05D_SECONDDIALOG2-43=Бо якшо ти не зробиш вибір...
+
+
+# Chiefrat
+### I shall make both bombs explode.
+GPC05D_SECONDDIALOG2-44=Я зроблю так, шоб обидві бомби вибухнули.
+
+
+# Graff
+### N... No!...
+GPC05D_SECONDDIALOG2-45=Н... Ні...!
+
+
+# Graff
+### I refuse!...
+GPC05D_SECONDDIALOG2-46=Я відмовляюсь...!
+
+
+# Chiefrat
+### I made myself clear. Da rules are da rules.
+GPC05D_SECONDDIALOG2-47=Я все сказав. Правила є правила.
+
+
+# Chiefrat
+### And my hand is itching.
+GPC05D_SECONDDIALOG2-48=І в мене вже свербить рука.
+
+
+# Chiefrat
+### If we don't hurry, I might push a button by accident!
+GPC05D_SECONDDIALOG2-49=Якшо не поквапишся, я можу випадково натиснути кнопку!
+
+
+# Chiefrat
+### So! I'll give ya exactly 10 seconds before I trigger a bomb.
+GPC05D_SECONDDIALOG2-50=Отже! Даю тобі рівно 10 секунд до того, як я активую бомбу.
+
+
+# Chiefrat
+### Or both!
+GPC05D_SECONDDIALOG2-51=Або обидві!
+
+
+# Chiefrat
+### Your decision!
+GPC05D_SECONDDIALOG2-52=Твій вибір!
+
+
+# Chiefrat
+### Who will ya save?
+GPC05D_SECONDDIALOG2-53=Кого ти врятуєш?
+
+
+# Chiefrat
+### Yar friend or a dozens of losers ya've never met?
+GPC05D_SECONDDIALOG2-54=Свого друга чи купку невдах, яких ти ніколи в житті і не бачив?
+
+
+# Chiefrat
+### Tick, tock!
+GPC05D_SECONDDIALOG2-55=Тік-так!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott... Please forgive me...)
+GPC05D_CHIEFRAT_SAVEGROUP-1=(Отт... Будь ласка, пробач мені...)
+
+
+# Graff
+### I... choose to save the Sector 55X people.
+GPC05D_CHIEFRAT_SAVEGROUP-2=Я... хочу врятувати жителів Сектору 55X.
+
+
+# Chiefrat
+### Interesting. Quantity over quality, huh.
+GPC05D_CHIEFRAT_SAVEGROUP-3=Цікаво. Кількість важливіша за якість, га.
+
+
+# Chiefrat
+### Then I shall press this button.
+GPC05D_CHIEFRAT_SAVEGROUP-4=Тоді я натисну на цю кнопку.
+
+
+# Graff
+### Don't!...
+GPC05D_CHIEFRAT_SAVEGROUP-5=Не треба...!
+
+
+#----------------------------------------------------
+# Graff
+### There's got to be another solution!...
+GPC05D_CHIEFRAT_NODECISION-1=Має бути якийсь інший вихід...!
+
+
+# Chiefrat
+### Nope!
+GPC05D_CHIEFRAT_NODECISION-2=Ні!
+
+
+# Graff
+### Why are you doing this?...
+GPC05D_CHIEFRAT_NODECISION-3=Навіщо ти це робиш...?
+
+
+# Chiefrat
+### Because I can.
+GPC05D_CHIEFRAT_NODECISION-4=Бо я можу.
+
+
+# Graff
+### ...
+GPC05D_CHIEFRAT_NODECISION-5=...
+
+
+# Chiefrat
+### No reply, then?
+GPC05D_CHIEFRAT_NODECISION-6=Мовчиш, га?
+
+
+# Chiefrat
+### Oh well. Dat was yar choice.
+GPC05D_CHIEFRAT_NODECISION-7=Шо ж. Це був твій вибір.
+
+
+# Graff
+### No! Wait!!!
+GPC05D_CHIEFRAT_NODECISION-8=Ні! Зачекай!!!
+
+
+#----------------------------------------------------
+# Graff
+### I'm sorry for all these people but...
+GPC05D_CHIEFRAT_SAVEOTT-1=Мені так шкода усіх цих людей, але...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott is my best friend... I can't afford to lose him.
+GPC05D_CHIEFRAT_SAVEOTT-2=Отт - це мій найкращий друг... Я не можу його втратити.
+
+
+# Chiefrat
+### So da life of one is more important to ya than ten guys?
+GPC05D_CHIEFRAT_SAVEOTT-3=Виходить, шо життя одного важливіше, ніж життя десятьох?
+
+
+# Chiefrat
+### How egotistical. I like dat!
+GPC05D_CHIEFRAT_SAVEOTT-4=Як егоїстично. Мені це подобається!
+
+
+#----------------------------------------------------
+# Graff - Explosion sound
+### ...!!!
+GPC05D_CHIEFRAT_SAVEGROUP2-1=...!!!
+
+
+# Chiefrat
+### Oooh! Poor boy!
+GPC05D_CHIEFRAT_SAVEGROUP2-2=О-оо! Бідний хлопак!
+
+
+# Chiefrat
+### How could you reduce your best friend to a pulp?
+GPC05D_CHIEFRAT_SAVEGROUP2-3=Як ти міг перетворити на шматки свого найкращого друга?
+
+
+# Graff
+### ...
+GPC05D_CHIEFRAT_SAVEGROUP2-4=...
+
+
+# Graff
+### You...
+GPC05D_CHIEFRAT_SAVEGROUP2-5=Ти...
+
+
+# Graff
+### MURDERER!...
+GPC05D_CHIEFRAT_SAVEGROUP2-6=УБИВЦЯ...!
+
+
+# Chiefrat
+### Who, me? That was your choice, kitty!
+GPC05D_CHIEFRAT_SAVEGROUP2-7=Хто, я? Це був твій вибір, кошенятко!
+
+
+#----------------------------------------------------
+# Graff - Explosion sound
+### ...!!!
+GPC05D_CHIEFRAT_SAVEOTT2-1=...!!!
+
+
+# Chiefrat
+### Oh, yeah. I forgot.
+GPC05D_CHIEFRAT_SAVEOTT2-2=О, так. Забув.
+
+
+# Chiefrat
+### That hospital is pretty near.
+GPC05D_CHIEFRAT_SAVEOTT2-3=Лікарня доволі близько звідси.
+
+
+# Graff
+### You...
+GPC05D_CHIEFRAT_SAVEOTT2-4=Ти...
+
+
+# Graff
+### You just killed all these people?...
+GPC05D_CHIEFRAT_SAVEOTT2-5=Ти просто взяв і убив їх усіх...?
+
+
+# Chiefrat
+### Not me.
+GPC05D_CHIEFRAT_SAVEOTT2-6=Не я.
+
+
+# Chiefrat
+### I think ya did.
+GPC05D_CHIEFRAT_SAVEOTT2-7=Ти це зробив.
+
+
+# Graff
+### ...
+GPC05D_CHIEFRAT_SAVEOTT2-8=...
+
+
+# Chiefrat
+### But don't feel bad!
+GPC05D_CHIEFRAT_SAVEOTT2-9=Але не почувайся погано!
+
+
+# Chiefrat
+### They were scum nearing the end of life.
+GPC05D_CHIEFRAT_SAVEOTT2-10=Вони були покидьками, чиє життя і без того вже добігало кінця.
+
+
+# Chiefrat
+### They should be thanking ya for terminating them!
+GPC05D_CHIEFRAT_SAVEOTT2-11=Вони мають дякувати тобі, шо ти їх прикінчив!
+
+
+#----------------------------------------------------
+# Graff
+### Noooooo!!!!
+GPC05D_CHIEFRAT_NODECISION2-1=Нііііііііііі!!!!
+
+
+# Chiefrat
+### Too bad! Ya killed everyone.
+GPC05D_CHIEFRAT_NODECISION2-2=Яка прикрість! Ти вбив їх усіх.
+
+
+# Graff
+### That... can't be...!
+GPC05D_CHIEFRAT_NODECISION2-3=Це... не може бути...!
+
+
+# Chiefrat
+### It can. It is!
+GPC05D_CHIEFRAT_NODECISION2-4=Може. Так і є!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott...
+GPC05D_CHIEFRAT_NODECISION2-5=Отт...
+
+
+#----------------------------------------------------
+# Graff
+### I...
+GPC05D_SECONDDIALOG3-1=Я...
+
+
+# Graff
+### I will...
+GPC05D_SECONDDIALOG3-2=Обов'язково...
+
+
+# Chiefrat
+### Kill me? Escape?
+GPC05D_SECONDDIALOG3-3=Уб'єш мене? Втечеш?
+
+
+# Chiefrat
+### Oh, please!
+GPC05D_SECONDDIALOG3-4=Та годі!
+
+
+#----------------------------------------------------
+# Chiefrat
+### You'd have to go past that room... and the sight won't be pretty.
+GPC05D_SECONDDIALOG3_NEXTROOM-1=Тобі доведеться пройти повз ту кімнату... і видовище там буде не з приємних.
+
+
+#----------------------------------------------------
+# Chiefrat
+### You don't have the strength. Neither moral nor physical.
+GPC05D_SECONDDIALOG3_HOSPITAL-1=У тебе не вистачить сили. Як моральної, так і фізичної.
+
+
+# Chiefrat
+### Say! How about I tell yar li'l friend the choice ya've made?
+GPC05D_SECONDDIALOG3_HOSPITAL-2=Ну-ну! Може розкажемо твоєму другові про вибір, який ти зробив?
+
+
+# Chiefrat
+### Pretty sure he'd love to hear you chose to blow up ten people to save him.
+GPC05D_SECONDDIALOG3_HOSPITAL-3=Він, мабуть, зрадіє, дізнавшись, шо ти вирішив підірвати десятьох людей, аби врятувати його.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC05D_SECONDDIALOG3B-1=...
+
+
+# Graff
+### ...Urgh...
+GPC05D_SECONDDIALOG3B-2=...Ух...
+
+
+# Chiefrat
+### Ha ha ha ha ha!
+GPC05D_SECONDDIALOG3B-3=Ха-ха-ха-ха-ха!
+
+
+# Chiefrat
+### Not so clever after all, boy!
+GPC05D_SECONDDIALOG3B-4=Не такий вже ти і розумний, хлопче!
+
+
+# Chiefrat
+### Looks like our reputation precedes us.
+GPC05D_SECONDDIALOG3B-5=Схоже, репутація нас випереджає.
+
+
+# Chiefrat
+### In truth. We're no killers.
+GPC05D_SECONDDIALOG3B-6=Кажучи правду. Ми не вбивці.
+
+
+# Graff
+### What...?
+GPC05D_SECONDDIALOG3B-7=Що...?
+
+
+# Chiefrat
+### We only slay people when we have to.
+GPC05D_SECONDDIALOG3B-8=Ми вбиваємо людей лише тоді, коли це необхідно.
+
+
+# Chiefrat
+### I said it. This was just a game!
+GPC05D_SECONDDIALOG3B-9=Я ж казав, шо це була лише гра!
+
+
+# Chiefrat
+### Everyone's safe. There never was any bomb.
+GPC05D_SECONDDIALOG3B-10=Всі в безпеці. Ніяких бомб не було і немає.
+
+
+# Graff
+### But...
+GPC05D_SECONDDIALOG3B-11=Але...
+
+
+# Graff
+### The sound?... The shake?...
+GPC05D_SECONDDIALOG3B-12=Звук...? Тремтіння...?
+
+
+# Chiefrat
+### Just some old speakers we found. Mighty powerful!
+GPC05D_SECONDDIALOG3B-13=Це просто старі колонки, які ми знайшли. Дуже потужні!
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Kins. Remove his gag.
+GPC05D_SECONDDIALOG3B-14=Кінсе. Зніми його кляп.
+
+
+# Kins
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Yes chief.
+GPC05D_SECONDDIALOG3B-15=Так, шефе.
+
+
+#----------------------------------------------------
+# Ott
+### (...)
+GPC05D_SECONDDIALOG3C-1=(...)
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### (Graff?!... What's going on?...)
+GPC05D_SECONDDIALOG3C-2=(Графф...?! Що відбувається...?)
+
+
+# Ott
+### (Mmffffmf!)
+GPC05D_SECONDDIALOG3C-3=(Мфмфмфмф!)
+
+
+# Chiefrat
+### Man, dat was fun.
+GPC05D_SECONDDIALOG3C-4=Ох, це було весело.
+
+
+# Chiefrat
+### ...
+GPC05D_SECONDDIALOG3C-5=...
+
+
+# Graff
+### That's... a joke.
+GPC05D_SECONDDIALOG3C-6=Це все... жарт.
+
+
+# Chiefrat
+### Yup.
+GPC05D_SECONDDIALOG3C-7=Угу.
+
+
+# Graff
+### No. I mean...
+GPC05D_SECONDDIALOG3C-8=Ні. Я маю на увазі...
+
+
+# Graff
+### You claim you're not killers...
+GPC05D_SECONDDIALOG3C-9=Ти кажеш, що ви не вбивці, але...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### And yet you're condemning everyone in the Slums to death!
+GPC05D_SECONDDIALOG3C-10=Тим часом ви прирікаєте на смерть усіх мешканців Нетрів!
+
+
+# Chiefrat
+### The heck are ya talking about?...
+GPC05D_SECONDDIALOG3C-11=Про шо ти, чорт забирай, говориш...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### The Pipe-Pills!
+GPC05D_SECONDDIALOG3C-12=Пігулкомати!
+
+
+# Graff
+### You sabotaged them!
+GPC05D_SECONDDIALOG3C-13=Ви вивели їх з ладу!
+
+
+# Chiefrat
+### Let's make things clear.
+GPC05D_SECONDDIALOG3C-14=Давай прояснимо дешо.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Us Squealers will do whatever we can to survive. It's our way of livin'.
+GPC05D_SECONDDIALOG3C-15=Ми, Верескуни, робимо все, шо в наших силах, шоб вижити. Такий вже наш спосіб життя.
+
+
+# Chiefrat
+### We only took whatever was left inside those pipes.
+GPC05D_SECONDDIALOG3C-16=Ми лише забрали решту того, шо лишилось у трубах.
+
+
+# Graff
+### Then... You mean...
+GPC05D_SECONDDIALOG3C-17=Тоді... Ти маєш на увазі, що...
+
+
+# Chiefrat
+### We didn't start this.
+GPC05D_SECONDDIALOG3C-18=Ми цього не починали.
+
+
+# Chiefrat
+### My guys noticed bots messing with distributors in the middle of the night.
+GPC05D_SECONDDIALOG3C-19=Мої хлопці помітили, шо посеред ночі якісь боти втручалися в системи розподілу.
+
+
+# Chiefrat
+### Why? No idea.
+GPC05D_SECONDDIALOG3C-20=Чому? Не маю уявлення.
+
+
+# Graff
+### Bots?...
+GPC05D_SECONDDIALOG3C-21=Боти...?
+
+
+# Chiefrat
+### This shortage was organized from outside.
+GPC05D_SECONDDIALOG3C-22=Нестача пігулок була організована ззовні.
+
+
+# Chiefrat
+### Ya should ask those rich folks who forced us to this miserable existence!
+GPC05D_SECONDDIALOG3C-23=Краще запитай багатіїв, які змусили нас жити таким жалюгідним життям!
+
+
+# Graff
+### How can I believe you?...
+GPC05D_SECONDDIALOG3C-24=Як я можу вам вірити...?
+
+
+# Chiefrat
+### Ya do. Ya don't.
+GPC05D_SECONDDIALOG3C-25=Вір. Не вір.
+
+
+# Chiefrat
+### I dun care.
+GPC05D_SECONDDIALOG3C-26=Мені байдуже.
+
+
+#----------------------------------------------------
+# Graff
+### Wait!
+GPC05D_SECONDDIALOG4-1=Зачекай!
+
+
+#----------------------------------------------------
+# Graff
+### I still don't get it.
+GPC05D_SECONDDIALOG5-1=Я все одно не розумію.
+
+
+# Graff
+### What was the point of this mind game?
+GPC05D_SECONDDIALOG5-2=В чому був сенс цієї психологічної гри?
+
+
+# Graff
+### What exactly do you want from me?
+GPC05D_SECONDDIALOG5-3=Що конкретно ви від мене хочете?
+
+
+# Chiefrat
+### My revenge...
+GPC05D_SECONDDIALOG5-4=Моя помста...
+
+
+# Graff
+### Against me?...
+GPC05D_SECONDDIALOG5-5=Мені...?
+
+
+# Chiefrat
+### Ha ha! No.
+GPC05D_SECONDDIALOG5-6=Ха-ха! Ні.
+
+
+# Chiefrat
+### The one who's responsible for our situation...
+GPC05D_SECONDDIALOG5-7=Тому, хто відповідальний за наше скрутне становище...
+
+
+#----------------------------------------------------
+# Chiefrat
+### Yar father!
+GPC05D_SECONDDIALOG6-1=Твоєму батькові!
+
+
+# Graff
+### My... dad?
+GPC05D_SECONDDIALOG6-2=Мій... батько?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Remn": "Ремн"
+### Remn? I barely know him...
+GPC05D_SECONDDIALOG6-3=Ремн? Я його ледве знаю...
+
+
+# Chiefrat
+### Don't be silly. I'm talking about that brute playing detective.
+GPC05D_SECONDDIALOG6-4=Не мели дурниць. Я кажу про того громилу, шо грає з себе детектива.
+
+
+# Chiefrat
+### Everything's his fault!
+GPC05D_SECONDDIALOG6-5=Все це його провина!
+
+
+# Graff
+### Huh?...
+GPC05D_SECONDDIALOG6-6=Га...?
+
+
+# Graff
+### What did he do?
+GPC05D_SECONDDIALOG6-7=Що він зробив?
+
+
+# Chiefrat
+### I figured ya wouldn't know.
+GPC05D_SECONDDIALOG6-8=Я так і думав, шо ти не в курсі.
+
+
+# Chiefrat
+### Actually, ya don't seem to be aware of anything.
+GPC05D_SECONDDIALOG6-9=Здається, шо ти взагалі нічого не знаєш.
+
+
+# Chiefrat
+### He's been playing with ya.
+GPC05D_SECONDDIALOG6-10=Він з тобою грається.
+
+
+# Chiefrat
+### A bit like I did but...
+GPC05D_SECONDDIALOG6-11=Майже як я, але...
+
+
+# Chiefrat
+### In a more insidious way.
+GPC05D_SECONDDIALOG6-12=В більш підступний спосіб.
+
+
+#----------------------------------------------------
+# Graff
+### You're wrong! He's a...
+GPC05D_SECONDDIALOG6_GOOD-1=Ти помиляєшся! Він...
+
+
+# Graff
+### A good person! You're the scums!
+GPC05D_SECONDDIALOG6_GOOD-2=Добра людина! Це ви - покидьки!
+
+
+# Chiefrat
+### Ha ha ha! How funny.
+GPC05D_SECONDDIALOG6_GOOD-3=Ха-ха-ха! Як смішно.
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok...
+GPC05D_SECONDDIALOG6_BAD-1=Брок...
+
+
+# Graff
+### So it's true... ?
+GPC05D_SECONDDIALOG6_BAD-2=То це правда...?
+
+
+# Graff
+### Go ahead... Tell me.
+GPC05D_SECONDDIALOG6_BAD-3=Ну давай... Розкажи мені.
+
+
+#----------------------------------------------------
+# Chiefrat - Changes according to player actions
+### He attacked me and my guys countless times.
+GPC05D_SECONDDIALOG6B-1=Він нападав на мене і моїх хлопців незліченну кількість разів.
+
+
+#----------------------------------------------------
+# Chiefrat
+### He threw us a mine that exploded in our faces!
+GPC05D_SECONDDIALOG6B_MINE-1=Він кинув міну, яка вибухнула просто перед нашими обличчями!
+
+
+# Chiefrat
+### We're lucky we're still alive!
+GPC05D_SECONDDIALOG6B_MINE-2=Пощастило, шо ми ше живі!
+
+
+#----------------------------------------------------
+# Chiefrat
+### And not just us.
+GPC05D_SECONDDIALOG6C-1=І ми - не єдина його ціль.
+
+
+# Chiefrat
+### We've been watchin'.
+GPC05D_SECONDDIALOG6C-2=Ми спостерігали.
+
+
+# Chiefrat
+### Those bots in the streets are pretty much punching bags for him.
+GPC05D_SECONDDIALOG6C-3=Оті вуличні боти для нього, по суті, як боксерські груші.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Even police ones!
+GPC05D_SECONDDIALOG6C_POLICE-1=Навіть поліцейські боти!
+
+
+#----------------------------------------------------
+# Chiefrat
+### He shows no pity.
+GPC05D_SECONDDIALOG6C_BOLT-1=Він нікого не жаліє.
+
+
+# Chiefrat
+### One lil' sad bot couldn't resist his fists.
+GPC05D_SECONDDIALOG6C_BOLT-2=Один маленький сумний бот не зміг стримати його кулаків.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Oh, ya know that student bot?
+GPC05D_SECONDDIALOG6C_STUBOT-1=О, а знаєш отого бота-студента?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot?...
+GPC05D_SECONDDIALOG6C_STUBOT-2=Студбот...?
+
+
+# Chiefrat
+### Yup. Poof. Destroyed.
+GPC05D_SECONDDIALOG6C_STUBOT-3=Угу. Бабах. Знищений.
+
+
+# Graff
+### ...!
+GPC05D_SECONDDIALOG6C_STUBOT-4=...!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Well, these bots are disposable, but ya know what they say.
+GPC05D_SECONDDIALOG6D-1=Ну, всі ці боти - купка переробного металу, але знаєш, як вони кажуть.
+
+
+# Chiefrat
+### Whoever harms a bot harms a human.
+GPC05D_SECONDDIALOG6D-2=Той, хто завдає шкоду боту, завдасть шкоди і людині.
+
+
+#----------------------------------------------------
+# Chiefrat
+### That policeman bear got quite a beating as well. Gotta wonder if he's still alive.
+GPC05D_SECONDDIALOG6D_RJ-1=Цьому поліцейському ведмедеві теж добряче дісталося. Цікаво, чи він іще живий.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Wanna hear worse?
+GPC05D_SECONDDIALOG6D_TRAMP-1=А хочеш почути дещо гірше?
+
+
+# Chiefrat
+### Just yesterday, my guys saw him beat a homeless to death.
+GPC05D_SECONDDIALOG6D_TRAMP-2=Лише вчора мої хлопці бачили, як він побив безхатька до смерті.
+
+
+# Graff
+### He... killed...?
+GPC05D_SECONDDIALOG6D_TRAMP-3=Він... убив...?
+
+
+#----------------------------------------------------
+# Chiefrat
+### And your best friend kept a lil' secret from ya, too.
+GPC05D_SECONDDIALOG6D_OTT-1=І твій найкращий друг притримав від тебе маленький секрет.
+
+
+# Chiefrat
+### He's also on the list.
+GPC05D_SECONDDIALOG6D_OTT-2=Він теж у списку постраждалих.
+
+
+# Graff
+### What?!...
+GPC05D_SECONDDIALOG6D_OTT-3=Що...?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### He... attacked Ott?!
+GPC05D_SECONDDIALOG6D_OTT-4=Він... побив Отта?!
+
+
+# Chiefrat
+### Yup.
+GPC05D_SECONDDIALOG6D_OTT-5=Угу.
+
+
+# Chiefrat
+### Totally knocked out. Your friend told us as much. Just ask him!
+GPC05D_SECONDDIALOG6D_OTT-6=Без сумніву, його було побито. Твій друг нам про це розповів. Просто спитай його!
+
+
+# Chiefrat
+### And that croc claimed to do this... for you!
+GPC05D_SECONDDIALOG6D_OTT-7=І цей крок присягнувся, шо робить це... заради тебе!
+
+
+#----------------------------------------------------
+# Chiefrat
+### In what kind of twisted world would good guys do this?
+GPC05D_SECONDDIALOG6E-1=Це у якому хворому світі хороші люди так вчиняють?
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG6E-2=...
+
+
+#----------------------------------------------------
+# Chiefrat - Rat chief gets all nostalgic and explains his reasons
+### But anyway...
+GPC05D_SECONDDIALOG6F-1=А втім...
+
+
+# Chiefrat
+### Enough about da croc.
+GPC05D_SECONDDIALOG6F-2=Досить вже про цього крока.
+
+
+# Chiefrat
+### Let me tell our own story.
+GPC05D_SECONDDIALOG6F-3=Краще я розповім нашу власну історію.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### The Squealers arrived in this land thousands of years ago.
+GPC05D_SECONDDIALOG6F-4=Верескуни прибули в ці землі тисячі років тому.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+### We were called in after Rebirth Day to help rebuild without the help of technology.
+GPC05D_SECONDDIALOG6F-5=Нас покликали після Дня Відродження, шоб допомогти із відбудовою, не використовуючи технології.
+
+
+# Chiefrat
+### For centuries, we were assigned the most basic tasks.
+GPC05D_SECONDDIALOG6F-6=Протягом століть нам доручали найпростіші завдання.
+
+
+# Graff
+### Of course. Studies demonstrate...
+GPC05D_SECONDDIALOG6F-7=Звісно. Адже дослідження показують...
+
+
+# Chiefrat
+### Yeah, yeah. Supposedly we're not as clever as all the other folks in this land and it's getting worse.
+GPC05D_SECONDDIALOG6F-8=Так, так. Нібито ми не такі розумні, як усі інші в цій країні, і ситуація тільки погіршується.
+
+
+# Chiefrat
+### Nature denies us to have children with other species. We can only reproduce between ourselves.
+GPC05D_SECONDDIALOG6F-9=Природа забороняє нам мати дітей з іншими видами. Ми можемо розмножуватися лише між собою.
+
+
+# Chiefrat
+### Whatever.
+GPC05D_SECONDDIALOG6F-10=Начхати.
+
+
+# Chiefrat
+### Our only mistake was to not anticipate anything. We had become slaves of this society.
+GPC05D_SECONDDIALOG6F-11=Нашою єдиною помилкою було те, що ми не передбачили майбутнього. Ми стали рабами цього суспільства.
+
+
+# Chiefrat
+### Progressively, the system pushed those darn bots everywhere.
+GPC05D_SECONDDIALOG6F-12=Поступово система поширювала цих клятих ботів усюди.
+
+
+# Chiefrat
+### They took our jobs. Replaced us. Condemned us to live in poverty.
+GPC05D_SECONDDIALOG6F-13=Вони забрали нашу роботу. Замінили нас. Прирекли нас жити в бідності.
+
+
+# Graff
+### You should have made your opinion heard!
+GPC05D_SECONDDIALOG6F-14=Вам слід було голосно заявити про свою думку!
+
+
+# Chiefrat
+### Ha! How credulous.
+GPC05D_SECONDDIALOG6F-15=Ха! Як наївно.
+
+
+# Chiefrat
+### What point is there to scream when ya've got a deaf audience?
+GPC05D_SECONDDIALOG6F-16=У чому сенс кричати, коли в тебе глуха авдиторія?
+
+
+# Chiefrat
+### Of course we protested. But do ya think those higher ups cared?
+GPC05D_SECONDDIALOG6F-17=Звісно, ми протестували. Але ти думаєш, це хвилювало тих, хто нагорі?
+
+
+# Chiefrat
+### So when the time came...
+GPC05D_SECONDDIALOG6F-18=Тож коли прийшов час...
+
+
+#----------------------------------------------------
+# Chiefrat
+### Just a decade ago. Our system was collapsing.
+GPC05D_SECONDDIALOG6F2-1=Всього десяток років тому. Наша система розвалювалась.
+
+
+# Chiefrat
+### This was our opportunity.
+GPC05D_SECONDDIALOG6F2-2=Це була можливість для нас.
+
+
+# Graff
+### I know the story.
+GPC05D_SECONDDIALOG6F2-3=Я знаю цю історію.
+
+
+# Graff
+### You attempted a coup but you lost and got banished from this land.
+GPC05D_SECONDDIALOG6F2-4=Ви спробували влаштувати переворот, але програли і вас вигнали з цієї країни.
+
+
+# Chiefrat
+### Yeah. But...
+GPC05D_SECONDDIALOG6F2-5=Так. Але...
+
+
+# Chiefrat
+### The media hid some facts.
+GPC05D_SECONDDIALOG6F2-6=ЗМІ приховали деякі факти.
+
+
+# Chiefrat
+### I was the lead commander. We almost won that battle.
+GPC05D_SECONDDIALOG6F2-7=Я був головним командиром. Ми майже виграли ту битву.
+
+
+# Chiefrat
+### If it wasn't for him...
+GPC05D_SECONDDIALOG6F2-8=Якби не він...
+
+
+# Graff
+### Wait. You're saying...
+GPC05D_SECONDDIALOG6F2-9=Чекай. Ти маєш на увазі...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok was there?
+GPC05D_SECONDDIALOG6F2-10=Брок був там?
+
+
+# Graff
+### And... He defeated you?
+GPC05D_SECONDDIALOG6F2-11=І... Він переміг вас?
+
+
+# Chiefrat
+### ...
+GPC05D_SECONDDIALOG6F2-12=...
+
+
+# Graff
+### That's ridiculous!
+GPC05D_SECONDDIALOG6F2-13=Це ж абсурд!
+
+
+#----------------------------------------------------
+# Chiefrat
+### Take a gander.
+GPC05D_SECONDDIALOG6F3-1=Поглянь.
+
+
+#----------------------------------------------------
+# Graff - On the picture we see Brok defeating the rat chief during Autarcism Day
+### N... No way.
+GPC05D_SECONDDIALOG7-1=Н... Неможливо.
+
+
+#----------------------------------------------------
+# Graff
+### This picture... it's a fake.
+GPC05D_SECONDDIALOG7_NOTSEEN-1=Це фото... підробка.
+
+
+# Graff
+### It has to be!
+GPC05D_SECONDDIALOG7_NOTSEEN-2=Інакше бути не може!
+
+
+#----------------------------------------------------
+# Graff
+### I've seen this picture... At the museum.
+GPC05D_SECONDDIALOG7_SEEN-1=Я бачив це фото... В музеї.
+
+
+# Graff
+### But...
+GPC05D_SECONDDIALOG7_SEEN-2=Але...
+
+
+# Graff
+### It wasn't as clear...
+GPC05D_SECONDDIALOG7_SEEN-3=Воно не було таким чітким...
+
+
+# Graff
+### You've... modified it!...
+GPC05D_SECONDDIALOG7_SEEN-4=Ви його... відредагували...!
+
+
+#----------------------------------------------------
+# Chiefrat
+### I remember every minute of that day.
+GPC05D_SECONDDIALOG7B-1=Я пам'ятаю кожну хвилину того дня.
+
+
+# Chiefrat
+### He was there.
+GPC05D_SECONDDIALOG7B-2=Він був там.
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG7B-3=...
+
+
+# Chiefrat
+### After our banishment...
+GPC05D_SECONDDIALOG7B-4=Після нашого вигнання...
+
+
+# Chiefrat
+### A lot of us perished.
+GPC05D_SECONDDIALOG7B-5=Багато з нас загинуло.
+
+
+# Chiefrat
+### Living in the shadows, we had to make choices on who gets to live and who should die.
+GPC05D_SECONDDIALOG7B-6=Живучи в тінях, нам доводилося обирати, хто з нас виживе, а хто помре.
+
+
+# Chiefrat
+### Do you even know the pain of starving to death, Princess?
+GPC05D_SECONDDIALOG7B-7=Ти хоч уявляєш, як боляче помирати від голоду, принцеско?
+
+
+# Chiefrat
+### To be on the verge of eating the weakest so that the strongest survive?
+GPC05D_SECONDDIALOG7B-8=Бути на межі того, шоб з'їсти найслабшого, аби вижив найсильніший?
+
+
+# Graff
+### Eww!...
+GPC05D_SECONDDIALOG7B-9=Фуу...!
+
+
+# Chiefrat
+### And ya think you had such a horrible life?...
+GPC05D_SECONDDIALOG7B-10=І ти справді думаєш, шо у тебе таке жахливе життя...?
+
+
+# Chiefrat
+### Don't make me laugh!
+GPC05D_SECONDDIALOG7B-11=Не сміши мене!
+
+
+# Chiefrat
+### That said. We've got something in common.
+GPC05D_SECONDDIALOG7B-12=А втім. У нас є щось спільне.
+
+
+# Chiefrat
+### The same person to blame.
+GPC05D_SECONDDIALOG7B-13=Один і той самий винуватець у наших проблемах.
+
+
+# Graff
+### I... still can't believe you.
+GPC05D_SECONDDIALOG7B-14=Я... все ще не можу тобі вірити.
+
+
+# Chiefrat
+### Take a look.
+GPC05D_SECONDDIALOG7B-15=Дивись.
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG7B-16=...
+
+
+# Graff
+### That bank statement?...
+GPC05D_SECONDDIALOG7B-17=Ота виписка з банку...?
+
+
+# Chiefrat
+### Where do ya think this money came from?
+GPC05D_SECONDDIALOG7B-18=Звідки, по-твоєму, взялися ці гроші?
+
+
+# Graff
+### I believe... This is money from my mother.
+GPC05D_SECONDDIALOG7B-19=Думаю... Це гроші від моєї матері.
+
+
+# Chiefrat
+### The croc hid this from you, huh?
+GPC05D_SECONDDIALOG7B-20=Крок приховав це від тебе, га?
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG7B-21=...
+
+
+# Chiefrat
+### Of course he would.
+GPC05D_SECONDDIALOG7B-22=Ну звісно, він це зробив.
+
+
+# Chiefrat
+### So! Ya're supposed to get da money when ya turn sixteen. Right?
+GPC05D_SECONDDIALOG7B-23=Отже! Ти маєш отримати гроші, коли тобі стукне шістнадцять. Я правий?
+
+
+# Graff
+### I think so. I remember this question in my exam.
+GPC05D_SECONDDIALOG7B-24=Думаю, так. Я пам'ятаю подібне питання зі свого екзамену.
+
+
+# Chiefrat
+### Now. Let's say...
+GPC05D_SECONDDIALOG7B-25=А тепер. Скажімо...
+
+
+# Chiefrat
+### Ya have an unfortunate "accident" right after your birthday.
+GPC05D_SECONDDIALOG7B-26=Після твого дня народження станеться "нещасний випадок".
+
+
+# Chiefrat
+### What would happen with the money?
+GPC05D_SECONDDIALOG7B-27=Що станеться з грошима?
+
+
+# Graff
+### I...
+GPC05D_SECONDDIALOG7B-28=Я...
+
+
+# Graff
+### I guess it would go to the closest person alive...
+GPC05D_SECONDDIALOG7B-29=Мабуть, вони підуть до найближчого живого родича...
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG7B-30=...
+
+
+# Graff
+### You mean...
+GPC05D_SECONDDIALOG7B-31=Ти маєш на увазі, що...
+
+
+# Chiefrat
+### Fiiiinally! That took a while.
+GPC05D_SECONDDIALOG7B-32=Нааарешті! Довго до тебе доходило.
+
+
+# Graff
+### No! It's...
+GPC05D_SECONDDIALOG7B-33=Ні! Просто...
+
+
+# Graff
+### He would never do such a thing.
+GPC05D_SECONDDIALOG7B-34=Він би ніколи такого не зробив.
+
+
+# Chiefrat
+### Oh, come on!
+GPC05D_SECONDDIALOG7B-35=О, та годі вже!
+
+
+# Chiefrat
+### How more naive can ya be?
+GPC05D_SECONDDIALOG7B-36=Наскільки ще наївним ти можеш бути?
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+### No wonder ya were a Drumer!
+GPC05D_SECONDDIALOG7B-37=Не здивований, шо ти колись мешкав у Верхах!
+
+
+# Chiefrat
+### Can you honestly say ya truly know him?
+GPC05D_SECONDDIALOG7B-38=Чи ти впевнений, шо справді його знаєш?
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG7B-39=...
+
+
+# Chiefrat
+### It didn't take me long to figure this out.
+GPC05D_SECONDDIALOG7B-40=Мені не знадобилося багато, шоб це зрозуміти.
+
+
+# Chiefrat
+### Ever since he got ya, he's been waiting.
+GPC05D_SECONDDIALOG7B-41=Відколи ти йому дістався, він вичікував.
+
+
+# Chiefrat
+### Just doing the bare minimum to make ya live.
+GPC05D_SECONDDIALOG7B-42=Вкладав лише мінімальні зусилля, щоб ти міг вижити.
+
+
+# Chiefrat
+### Three more days.
+GPC05D_SECONDDIALOG7B-43=Ще три дні.
+
+
+# Chiefrat
+### Just three more. And then...
+GPC05D_SECONDDIALOG7B-44=Лише три. А потім...
+
+
+# Chiefrat - The sound you do when you mean someone's gonna get murdered
+### Snip!
+GPC05D_SECONDDIALOG7B-45=Кінець!
+
+
+# Graff
+### N... No!
+GPC05D_SECONDDIALOG7B-46=Н... Ні!
+
+
+# Graff
+### He... he saved me!
+GPC05D_SECONDDIALOG7B-47=Він... врятував мене!
+
+
+# Graff
+### Several times!
+GPC05D_SECONDDIALOG7B-48=Багато разів!
+
+
+# Chiefrat
+### Sure! But ya know why.
+GPC05D_SECONDDIALOG7B-49=Звісно! Але ти знаєш, чому.
+
+
+# Chiefrat
+### Ya know the explanation for his contradicting behavior.
+GPC05D_SECONDDIALOG7B-50=Ти знаєш пояснення до його дивної поведінки.
+
+
+# Chiefrat
+### Do ya understand?
+GPC05D_SECONDDIALOG7B-51=Ти розумієш?
+
+
+# Chiefrat
+### Ya're a puppet.
+GPC05D_SECONDDIALOG7B-52=Ти маріонетка.
+
+
+#----------------------------------------------------
+# Chiefrat
+### Keep da picture. Dun wanna see it anymore.
+GPC05D_SECONDDIALOG7C-1=Лиши собі те фото. Не хочу я більше його бачити.
+
+
+#----------------------------------------------------
+# Graff
+### Is this the truth?...
+GPC05D_SECONDDIALOG8-1=То це правда...?
+
+
+# Graff
+### ...
+GPC05D_SECONDDIALOG8-2=...
+
+
+#----------------------------------------------------
+# Unknown - Ott escapes
+### (Weird sounds)
+GPC05D_SECONDDIALOG8B-1=(Дивні звуки)
+
+
+# Graff
+### Huh?...
+GPC05D_SECONDDIALOG8B-2=Га...?
+
+
+#----------------------------------------------------
+# Kins
+# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+### Chief!
+GPC05D_SECONDDIALOG9-1=Шефе!
+
+
+# Kins
+### The ugly boy. He escaped!
+GPC05D_SECONDDIALOG9-2=Бридкий хлопак. Він утік!
+
+
+# Chiefrat
+### What?!
+GPC05D_SECONDDIALOG9-3=Шо?!
+
+
+# Chiefrat
+### After him!
+GPC05D_SECONDDIALOG9-4=За ним!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott?!
+GPC05D_SECONDDIALOG10-1=Отт?!
+
+
+# Graff
+### Did he manage to...
+GPC05D_SECONDDIALOG10-2=Невже йому вдалось...
+
+
+#----------------------------------------------------
+# Chiefrat
+### You!
+GPC05D_SECONDDIALOG11-1=Ти!
+
+
+# Chiefrat
+### Ya've got two seconds to tell me what he's up to!
+GPC05D_SECONDDIALOG11-2=У тебе є дві секунди, шоб пояснити, шо він задумав!
+
+
+# Graff
+### How should I know? I'm not...
+GPC05D_SECONDDIALOG11-3=Звідки я знаю? Я не...
+
+
+#----------------------------------------------------
+# Graff - Rat chief hits Graff. He doesn't want to play anymore
+### Ouch!
+GPC05D_SECONDDIALOG12-1=Ай!
+
+
+# Chiefrat
+### Time for games is over!
+GPC05D_SECONDDIALOG12-2=Час для ігор скінчився!
+
+
+# Chiefrat
+### Tell me or I might start to live up to my reputation!
+GPC05D_SECONDDIALOG12-3=Кажи негайно, бо інакше я почну виправдовувати свою репутацію!
+
+
+# Graff
+### Erm...
+GPC05D_SECONDDIALOG12-4=Е-е...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I know Ott. He won't leave me here.
+GPC05D_SECONDDIALOG12-5=Я знаю Отта. Він мене тут не залишить.
+
+
+# Graff
+### He must have gone to fetch some help.
+GPC05D_SECONDDIALOG12-6=Мабуть, він пішов просити про допомогу.
+
+
+# Chiefrat
+### Who?!
+GPC05D_SECONDDIALOG12-7=В кого?!
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I told him... If anything happens, go find Brok.
+GPC05D_SECONDDIALOG12-8=Я йому сказав... Якщо щось станеться, знайди Брока.
+
+
+# Chiefrat
+### Is that so?...
+GPC05D_SECONDDIALOG12-9=Невже...?
+
+
+# Chiefrat
+### Ha ha ha!
+GPC05D_SECONDDIALOG12-10=Ха-ха-ха!
+
+
+# Chiefrat
+### Change of plans, guys.
+GPC05D_SECONDDIALOG12-11=План змінився, чуваки.
+
+
+# Chiefrat
+### Let's wait for da lil' brat to return with da croc.
+GPC05D_SECONDDIALOG12-12=Давайте зачекаємо, поки той бешкетник повернеться з крокодилом.
+
+
+# Chiefrat
+### We shall prepare him a nice welcome committee!
+GPC05D_SECONDDIALOG12-13=Ми підготуємо для нього чудове привітання!
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC05D_SECONDDIALOG13-1=...
+
+
+# Graff
+### Great. I got everyone into this mess.
+GPC05D_SECONDDIALOG13-2=Чудово. Я усіх втягнув в цю халепу.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+### I don't know if there's such thing as a god, the Untail or whatever but...
+GPC05D_SECONDDIALOG13-3=Я не знаю, чи існує бог, Безхвостий чи щось таке, але...
+
+
+# Graff
+### Please...
+GPC05D_SECONDDIALOG13-4=Будь ласка...
+
+
+# Graff
+### Let this end well...
+GPC05D_SECONDDIALOG13-5=Хай все закінчиться добре...
+
+
+# Graff
+### For everyone.
+GPC05D_SECONDDIALOG13-6=Для всіх.
+
+
+#----------------------------------------------------
+# Chiefrat - Conversation between rat chief and his minions
+### What?...
+GPC05D_CHIEFRAT_COMES-1=Шо...?
+
+
+# Chiefrat
+### Hey butt head! Why's no one guarding the entrance?
+GPC05D_CHIEFRAT_COMES-2=Гей, дупоголовий! Чому ніхто не охороняє вхід?
+
+
+# Kins
+### Err... S'rry boss. Didn' know.
+GPC05D_CHIEFRAT_COMES-3=Е-е... Вибач, босе. Не знав.
+
+
+# Chiefrat
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart!
+GPC05D_CHIEFRAT_COMES-4=Дарте!
+
+
+# Chiefrat
+### The entrance. Now.
+GPC05D_CHIEFRAT_COMES-5=На вхід. Зараз.
+
+
+# Chiefrat
+### No one comes in or out!
+GPC05D_CHIEFRAT_COMES-6=Нікого не впускати і не випускати!
+
+
+# Dart
+### 'Kay!
+GPC05D_CHIEFRAT_COMES-7=Добре!
+
+
+#----------------------------------------------------
+# Graff - Various interactions
+### I'm too far to do anything.
+GPC05D_FAR1-1=Я занадто далеко, щоб щось зробити.
+
+
+#----------------------------------------------------
+# Graff - Graff sees Ott through the tiny hole
+### No way!... I think...
+GPC05D_WALLHOLE1-1=Невже...! Здається...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Psst! Ott! Is that you?)
+GPC05D_WALLHOLE1-2=(Пс-с! Отте! Це ти там?)
+
+
+# Graff
+### (Hey! Can you hear me?...)
+GPC05D_WALLHOLE1-3=(Гей! Ти мене чуєш...?)
+
+
+# Graff
+### He's not responding. And I can't risk screaming.
+GPC05D_WALLHOLE1-4=Він не відповідає. І я не можу ризикувати кричати.
+
+
+# Graff
+### I hope he's okay...
+GPC05D_WALLHOLE1-5=Сподіваюся, з ним усе добре...
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's in there!
+GPC05D_WALLHOLE2-1=Там Отт!
+
+
+# Graff
+### I better find a way to get both of us out of here!
+GPC05D_WALLHOLE2-2=Треба знайти спосіб витягнути нас обох звідси!
+
+
+#----------------------------------------------------
+# Graff
+### They've stored tons of food here.
+GPC05D_CUPBOARD1-1=Вони тут заховали купу їжі.
+
+
+# Graff
+### I can't open these drawers.
+GPC05D_CUPBOARD1-2=Я не можу відкрити ці шухляди.
+
+
+#----------------------------------------------------
+# Graff
+### Let's see.
+GPC05D_CUPBOARD_FREE-1=Що ж, подивимось.
+
+
+# Graff
+### Urgh... That drawer is filled with underpants...!
+GPC05D_CUPBOARD_FREE-2=Фу... Ця шухляда заповнена чиїмись трусами...!
+
+
+# Graff
+### And this one... Socks.
+GPC05D_CUPBOARD_FREE-3=А в цій... Шкарпетки.
+
+
+# Graff
+### Great. They haven't got a single knife or even a fork in this kitchen?
+GPC05D_CUPBOARD_FREE-4=Чудово. У них жодного ножа чи навіть виделки на цій кухні?
+
+
+# Graff
+### Oh, what a fool I am. They must eat with their fingers.
+GPC05D_CUPBOARD_FREE-5=О, який я дурень. Мабуть, вони їдять руками.
+
+
+#----------------------------------------------------
+# Graff
+### A bag. I can't really see what's inside from here.
+GPC05D_BAG_FAR1-1=Мішок. Я звідси не бачу, що всередині.
+
+
+#----------------------------------------------------
+# Graff
+### Food. Cereals, insects and other things I can't even put a name on.
+GPC05D_BAG_CLOSE1-1=Їжа. Каші, комахи та інші речі, які я навіть не знаю, як назвати.
+
+
+# Graff
+### At least I won't go hungry.
+GPC05D_BAG_CLOSE1-2=Принаймні я не буду голодний.
+
+
+#----------------------------------------------------
+# Graff
+### I don't have time to mess with this!
+GPC05D_OTHERS-1=Немає часу із цим возитися!
+
+
+#----------------------------------------------------
+# Graff - The hook can be used to slowly cut the rope
+### A kitchen hook? Could this help?
+GPC05D_HOOK_FAR1-1=Кухонний гачок? Чи він якось допоможе?
+
+
+#----------------------------------------------------
+# Graff
+### Could I cut my rope with this?
+GPC05D_HOOK_CLOSE1-1=Чи можу я цим перерізати мотузку?
+
+
+#----------------------------------------------------
+# Graff
+### I'm done with this!
+GPC05D_HOOK_DONE-1=Я з цим закінчив!
+
+
+#----------------------------------------------------
+# Graff
+### Argh... It's gonna take ages!...
+GPC05D_HOOK_LONG-1=Ар-р... Це займе вічність...!
+
+
+#----------------------------------------------------
+# Graff
+### Finally free!...
+GPC05D_HOOK_OVER-1=Нарешті вільний...!
+
+
+# Graff
+### Hmm... Should I keep pretending?
+GPC05D_HOOK_OVER-2=Гмм... Чи мені продовжити прикидатися?
+
+
+#----------------------------------------------------
+# Graff
+### A chunk of pipe is protruding.
+GPC05D_PIPE1-1=Звідти стирчить шматок труби.
+
+
+# Graff
+### I'm afraid I can't do much with my hands tied.
+GPC05D_PIPE1-2=Але боюсь, я не можу багато зробити, поки мої руки зв'язані.
+
+
+#----------------------------------------------------
+# Graff
+### Yeah!
+GPC05D_PIPE_CANTAKE-1=Так!
+
+
+#----------------------------------------------------
+# Graff
+### I'll keep it in my hands behind the chair.
+GPC05D_PIPE_TAKECHAIR-1=Я збережу його в руках, за спинкою стільця.
+
+
+#----------------------------------------------------
+# Graff
+### Looks like they eat here... sitting on the floor.
+GPC05D_TABLE1-1=Схоже, що вони тут їдять... сидячи на підлозі.
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC05D_DOORLEFT1-1=...
+
+
+# Graff
+### I can't see from here but...
+GPC05D_DOORLEFT1-2=Я звідси нічого не бачу, але...
+
+
+# Graff
+### I hear children and a woman's voice?...
+GPC05D_DOORLEFT1-3=Я чую голоси жінки і дитини...?
+
+
+#----------------------------------------------------
+# Graff
+### No way.
+GPC05D_DOORLEFT2-1=Не може бути.
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### There are dozens of children and women packed in there! All Squealers...
+GPC05D_DOORLEFT2-2=Там десятки жінок і дітей! Усі Верескуни...
+
+
+# Graff
+### What an awful way to live.
+GPC05D_DOORLEFT2-3=Який жахливий спосіб життя.
+
+
+#----------------------------------------------------
+# Graff
+### Can't pass through here.
+GPC05D_TUNNEL1-1=Я не зможу тут пройти.
+
+
+#----------------------------------------------------
+# Graff
+### The ladder. That's our way out!
+GPC05D_WINDOW_NOONE-1=Драбина. Це шлях на волю!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+### A guard.
+GPC05D_WINDOW1-1=Вартовий.
+
+
+# Graff
+### Fortunately for us, he's looking straight in front of him.
+GPC05D_WINDOW1-2=На щастя, він зараз дивиться прямо перед собою.
+
+
+#----------------------------------------------------
+# Graff
+### Hmm...
+GPC05D_WINDOW_THROW1-1=Гмм...
+
+
+#----------------------------------------------------
+# Graff
+### Yes!
+GPC05D_WINDOW_THROW1B-1=Так!
+
+
+# Graff
+### Huh?...
+GPC05D_WINDOW_THROW1B-2=Га...?
+
+
+#----------------------------------------------------
+# Kins
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart! Ya ok man?
+GPC05D_WINDOW_THROW1C-1=Дарте! Ти в порядку, чуваче?
+
+
+# Kins
+### Hey! Wake up!
+GPC05D_WINDOW_THROW1C-2=Гей! Прокидайся!
+
+
+#----------------------------------------------------
+# Graff - Strike like in bowling
+### And that's a strike!
+GPC05D_WINDOW_THROW2-1=А ось і страйк!
+
+
+#----------------------------------------------------
+# Chiefrat - Graff not in his room when Chief comes
+### That darn little snake!
+GPC05D_CHIEFRAT_SEARCHGRAFF-1=От же ж кляте гаденя!
+
+
+# Chiefrat
+### Where is he?!
+GPC05D_CHIEFRAT_SEARCHGRAFF-2=Де він?!
+
+
+#----------------------------------------------------
+# Graff
+### I didn't expect to see this in such a place.
+GPC05D_SPEAKER1-1=Не очікував побачити таке в цьому місці.
+
+
+#----------------------------------------------------
+# Graff - Ironic
+### Of course! I'm going to climb up the ladder while tied up to the chair!
+GPC05D_CANNOT1-1=Ну звісно! Я піднімуся по драбині, поки прив'язаний до стільця!
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I can't leave Ott here.
+GPC05D_OTTNOTHERE1-1=Я не можу залишити тут Отта.
+
+
+#----------------------------------------------------
+# Graff - When trying to escape with Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott! The ladder!
+GPC05D_OTTHERE1-1=Отте! Драбина!
+
+
+# Ott
+### Oh gosh. It's high...
+GPC05D_OTTHERE1-2=Ой-йой. Як високо...
+
+
+# Graff
+### I'll be right behind you!
+GPC05D_OTTHERE1-3=Я йтиму слідом!
+
+
+# Ott
+### Okay...
+GPC05D_OTTHERE1-4=Гаразд...
+
+
+#----------------------------------------------------
+# Kins
+### Boss! The kids! They're escaping!
+GPC05D_OTTHERE2-1=Босе! Малеча! Вони тікають!
+
+
+# Graff
+### Oh, crap...
+GPC05D_OTTHERE2-2=От дідько...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott! Take this!
+GPC05D_OTTHERE2-3=Отте! Візьми це!
+
+
+# Ott
+### What?...
+GPC05D_OTTHERE2-4=Що...?
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### This radar will take you to Brok! Tell him to come!
+GPC05D_OTTHERE2-5=Цей радар приведе тебе до Брока! Скажи йому, щоб прийшов!
+
+
+# Ott
+### But...
+GPC05D_OTTHERE2-6=Але...
+
+
+# Graff
+### Move! Quick!
+GPC05D_OTTHERE2-7=Іди! Швидше!
+
+
+# Graff - Graff gets captured
+### Argh!
+GPC05D_OTTHERE2-8=А-аа!
+
+
+# Chiefrat
+### Change of plans, guys! Da croc's coming to us!
+GPC05D_OTTHERE2-9=План змінився, чуваки! Крок іде до нас!
+
+
+# Chiefrat
+### Good job, boy!
+GPC05D_OTTHERE2-10=Хороша робота, хлопче!
+
+
+# Kins
+### Thanks boss!
+GPC05D_OTTHERE2-11=Дякую, босе!
+
+
+# Chiefrat
+### I'm not talking to ya, moron!
+GPC05D_OTTHERE2-12=Я не з тобою розмовляю, ідіоте!
+
+
+# Graff
+### He'll beat the crap out of you all! You'll see!
+GPC05D_OTTHERE2-13=Він виб'є з вас усіх лайно! От побачите!
+
+
+# Chiefrat
+### Oh, I can barely hold my impatience.
+GPC05D_OTTHERE2-14=Ох, я ледве стримую своє нетерпіння.
+
+
+# Chiefrat
+### Been waiting years to take my revenge...
+GPC05D_OTTHERE2-15=Я роками чекав, шоб помститися...
+
+
+# Chiefrat
+### And I'll finally get it!
+GPC05D_OTTHERE2-16=І я нарешті це зроблю!
+
+
+# Graff
+### ...
+GPC05D_OTTHERE2-17=...
+
+
+#----------------------------------------------------
+# Graff - Trying to use the ladder without picking stuff first
+### Oh no! I forgot...
+GPC05D_NOSTUFF1-1=О ні! Я забув...
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I need my phone to find Brok! My stuff should be around here...
+GPC05D_NOSTUFF1-2=Мені потрібен телефон, щоб знайти Брока! Мої речі мають бути десь тут...
+
+
+#----------------------------------------------------
+# Ott - Finding Ott in the next room for the first time
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+GPC05D_OTT_FIRST1-1=Граффе!
+
+
+# Graff
+### I'm so glad to see you!
+GPC05D_OTT_FIRST1-2=Я так радий тебе бачити!
+
+
+# Graff
+### Sorry I got you into this.
+GPC05D_OTT_FIRST1-3=Вибач, що я тебе в це втягнув.
+
+
+# Ott
+### No time for apologies! We must get out of here!
+GPC05D_OTT_FIRST1-4=Немає часу на вибачення! Ми повинні звідси забиратися!
+
+
+# Ott
+### And fast. I don't like the view...
+GPC05D_OTT_FIRST1-5=І якнайшвидше. Мені не подобається те, що я бачу...
+
+
+#----------------------------------------------------
+# Ott
+### By the way. How did you...
+GPC05D_OTT_TALKCHAIR_UNTIE-1=До речі. А як ти...
+
+
+# Graff
+### I'll explain later. Let me untie you!
+GPC05D_OTT_TALKCHAIR_UNTIE-2=Потім поясню. Давай я тебе розв'яжу!
+
+
+#----------------------------------------------------
+# Graff
+### How can we get free?
+GPC05D_OTT_TALKCHAIR_FAR1-1=Як нам звідси вибратись?
+
+
+# Ott
+### Hmm...
+GPC05D_OTT_TALKCHAIR_FAR1-2=Гмм...
+
+
+# Ott
+### I have an idea! Come behind me!
+GPC05D_OTT_TALKCHAIR_FAR1-3=Є ідея! Стань позаду мене!
+
+
+#----------------------------------------------------
+# Graff
+### Can you move your hands?
+GPC05D_OTT_TALKCHAIR_CLOSE1-1=Ти можеш рухати руками?
+
+
+# Ott
+### A little...
+GPC05D_OTT_TALKCHAIR_CLOSE1-2=Трохи...
+
+
+# Graff
+### Let's try and untie one another!
+GPC05D_OTT_TALKCHAIR_CLOSE1-3=Давай спробуємо одне одного розв'язати!
+
+
+#----------------------------------------------------
+# Graff
+### That's better.
+GPC05D_OTT_TALKCHAIR_CLOSE2-1=Ось так вже краще.
+
+
+# Ott
+### You don't say...
+GPC05D_OTT_TALKCHAIR_CLOSE2-2=І не кажи...
+
+
+# Graff
+### Did they... torture you?
+GPC05D_OTT_TALKCHAIR_CLOSE2-3=Вони... катували тебе?
+
+
+# Ott
+### If by that, you mean threaten to push me into that void...
+GPC05D_OTT_TALKCHAIR_CLOSE2-4=Якщо під цим ти маєш на увазі погрози зіштовхнути мене в ту прірву...
+
+
+# Ott
+### Yeah.
+GPC05D_OTT_TALKCHAIR_CLOSE2-5=То так.
+
+
+# Graff
+### Forgive me.
+GPC05D_OTT_TALKCHAIR_CLOSE2-6=Пробач мене.
+
+
+# Ott
+### Not your fault.
+GPC05D_OTT_TALKCHAIR_CLOSE2-7=Це не твоя провина.
+
+
+# Graff
+### We better scram! I'll lead the way.
+GPC05D_OTT_TALKCHAIR_CLOSE2-8=Нам треба звідси змиватися! Я поведу.
+
+
+# Ott
+### Be careful.
+GPC05D_OTT_TALKCHAIR_CLOSE2-9=Будь обережним.
+
+
+#----------------------------------------------------
+# Ott - If Graff accidentally falls into the hole
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+GPC05D_OTT_GRAFFJUMPS-1=Граффе!!!
+
+
+#----------------------------------------------------
+# Graff
+### And now?...
+GPC05D_OTT_FREE-1=А тепер...?
+
+
+# Ott
+### ...
+GPC05D_OTT_FREE-2=...
+
+
+# Ott
+### Maybe that ladder...
+GPC05D_OTT_FREE-3=Можливо, ця драбина...
+
+
+# Graff
+### Okay, let's try.
+GPC05D_OTT_FREE-4=Гаразд, спробуємо.
+
+
+#----------------------------------------------------
+# Ott - If Graff won the fight against rats
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...
+GPC05D_OTT_AFTERFIGHT-1=Граффе...!
+
+
+#----------------------------------------------------
+# Graff - Searching through stuff
+### What a mess.
+GPC05D_STUFF1-1=Який безлад.
+
+
+# Graff
+### Hey! Wait a minute. This is mine!
+GPC05D_STUFF1-2=Гей! Зачекайте. Це моє!
+
+
+#----------------------------------------------------
+# Graff
+### If only my hands were free...
+GPC05D_STUFF_FREE-1=Якби ж то мої руки не були зв'язані...
+
+
+#----------------------------------------------------
+# Graff
+### Anything more?
+GPC05D_STUFF_ALREADY-1=Тут ще щось є?
+
+
+# Graff
+### Hey! I found an ad!
+GPC05D_STUFF_ALREADY-2=Гей! Я знайшов рекламний флаєр!
+
+
+#----------------------------------------------------
+# Kins - WHen Graff gets spotted
+### Hey! You!
+GPC05D_RAT1_SPOTTED1-1=Гей! Ти!
+
+
+# Graff
+### Oops!...
+GPC05D_RAT1_SPOTTED1-2=Ой-ой...!
+
+
+#----------------------------------------------------
+# Dart
+### Duh! Da boy! He's here!
+GPC05D_RAT2_SPOTTED1-1=Та ну! Хлопчина! Він тут!
+
+
+# Graff
+### Crap!
+GPC05D_RAT2_SPOTTED1-2=Чорт!
+
+
+#----------------------------------------------------
+# Graff
+### Don't come any closer! Or else...
+GPC05D_SPOTTED_READY-1=Ані кроку ближче! Бо інакше...
+
+
+#----------------------------------------------------
+# Graff - Graff wins
+### (Pant, pant)
+GPC05D_ALLDEAD-1=(Важко дихає)
+
+
+# Graff
+### I... knocked them all out?!...
+GPC05D_ALLDEAD-2=Я... всіх їх повалив...?!
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff! How did you?...
+GPC05D_ALLDEAD_OTT-1=Граффе! Як ти...?
+
+
+# Graff
+### I... gave it all I've got...
+GPC05D_ALLDEAD_OTT-2=Я... виклався на повну...
+
+
+# Graff
+### Go ahead! I'm right behind you.
+GPC05D_ALLDEAD_OTT-3=Вперед! Я йтиму слідом.
+
+
+# Ott
+### Okay...
+GPC05D_ALLDEAD_OTT-4=Гаразд...
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC05D_ALLDEAD_OTT2-1=...
+
+
+# Chiefrat
+### Wait...
+GPC05D_ALLDEAD_OTT2-2=Зачекай...
+
+
+# Chiefrat
+### There's... something I need to tell ya.
+GPC05D_ALLDEAD_OTT2-3=Я... маю тобі дешо сказати.
+
+
+#----------------------------------------------------
+# Graff
+### Shut up. Didn't you have enough?
+GPC05D_ALLDEAD_OTT3-1=Замовкни. Хіба тобі цього було мало?
+
+
+# Chiefrat
+### Ha ha. Ya do take after your dad after all.
+GPC05D_ALLDEAD_OTT3-2=Ха-ха. Ти справді схожий на свого батька.
+
+
+# Graff
+### He's not!...
+GPC05D_ALLDEAD_OTT3-3=Він не...!
+
+
+# Chiefrat
+### So much violence within you.
+GPC05D_ALLDEAD_OTT3-4=В тобі стільки жорстокості.
+
+
+# Chiefrat
+### Did ya know... He did the same thing?
+GPC05D_ALLDEAD_OTT3-5=А ти знав... Шо він вчинив так само?
+
+
+# Graff
+### Kicking your butt?
+GPC05D_ALLDEAD_OTT3-6=Надер вам дупи?
+
+
+# Chiefrat
+### Take a look.
+GPC05D_ALLDEAD_OTT3-7=Поглянь.
+
+
+# Graff
+### Huh?
+GPC05D_ALLDEAD_OTT3-8=Га?
+
+
+#----------------------------------------------------
+# Graff
+### ...
+GPC05D_ALLDEAD_OTT4-1=...
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?...
+GPC05D_ALLDEAD_OTT4-2=Граффе...?
+
+
+# Ott
+### You're okay? What's going on?
+GPC05D_ALLDEAD_OTT4-3=Ти в порядку? Що таке?
+
+
+# Graff
+### Yeah. Don't worry.
+GPC05D_ALLDEAD_OTT4-4=Все добре. Не хвилюйся.
+
+
+# Graff
+### I'm coming.
+GPC05D_ALLDEAD_OTT4-5=Я йду.
+
+
+# Chiefrat
+### I will never forget...
+GPC05D_ALLDEAD_OTT4-6=Я ніколи не забуду...
+
+
+# Chiefrat
+### And you shouldn't eith...
+GPC05D_ALLDEAD_OTT4-7=І ти теж маєш...
+
+
+# Unknown - Graff hits chief
+### (Bang)
+GPC05D_ALLDEAD_OTT4-8=(Удар)
+
+
+# Graff
+### I've heard enough.
+GPC05D_ALLDEAD_OTT4-9=Я вже почув достатньо.
+
+
+#----------------------------------------------------
+# Chiefrat - Graff loses
+### Ya shouldn't have forced my hand, boy.
+PC05D_RATFIGHT_GAMEOVER1-1=Не треба було мене примушувати, хлопче.
+
+
+# Chiefrat
+### You're next, croc!
+PC05D_RATFIGHT_GAMEOVER1-2=Крок, ти наступний!
+
+
+#----------------------------------------------------
+# Kins
+### Oops! We killed da boy...
+PC05D_RATFIGHT_GAMEOVER2-1=Ой-ой! Ми вбили хлопчину...
+
+
+#----------------------------------------------------
+
