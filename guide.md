@@ -387,6 +387,7 @@
 | Footscreen / Foot Screen               | підлоговий екран                     |                                                        |
 | Portal                                 | вхід                                 |                                                        |
 | Power container                        | енергоблок                           |                                                        |
+| Indicator                              | індикатор                            |                                                        |
   
 **Їжа**
 

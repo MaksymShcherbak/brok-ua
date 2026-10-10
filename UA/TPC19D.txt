@@ -22,34 +22,34 @@
 
 #----- Interactions --------
 ### Indicator
-PC_INDICATOR=
+PC_INDICATOR=Індикатор
 
 ### Over there
-PC_OVERTHERE=
+PC_OVERTHERE=Онде
 
 ### Portal
-PC_PORTAL=
+PC_PORTAL=Вхід
 
 
 #----- Choices / Items --------
 
 # ----- Choices / Items --------
 ### Who should fight?
-PC19D_CHOICE_PORTAL=
+PC19D_CHOICE_PORTAL=Хто має битися?
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### How to take Sin out of jail?
-PC19D_LEAVING_CHOICE=
+PC19D_LEAVING_CHOICE=Як витягти Сіна з в'язниці?
 
 ### Fight'em all
-PC19D_SMASH=
+PC19D_SMASH=Бити їх усіх
 
 ### Infiltrate
-PC19D_INFILTRATE=
+PC19D_INFILTRATE=Просочитися
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Call Wes
-PC19D_CALL=
+PC19D_CALL=Подзвонити Весові
 
 
 
@@ -64,439 +64,439 @@ PC19D_CALL=
 ###############################################
 # Brok - Room interactions
 ### I'll get to the bottom of this...
-PC19D_PIPEPILL1-1=
+PC19D_PIPEPILL1-1=Я докопаюся до правди...
 
 
 #----------------------------------------------------
 # Brok
 ### Is the doctor still inside?...
-PC19D_PORTAL1-1=
+PC19D_PORTAL1-1=Доктор ще всередині...?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Hopefully I won't regret trusting Dee...
-PC19D_PORTAL1-2=
+PC19D_PORTAL1-2=Сподіваюся, я не пошкодую, що довірився Ді...
 
 
 #----------------------------------------------------
 # Brok
 ### A diode...
-PC19D_INDICATOR1-1=
+PC19D_INDICATOR1-1=Діод...
 
 
 # Brok
 ### Red for bad, green for good?...
-PC19D_INDICATOR1-2=
+PC19D_INDICATOR1-2=Червоне - погано, зелене - добре...?
 
 
 #----------------------------------------------------
 # Gherkin - Brok, Dee & Dr. Gherkin arrive at the bunker as they are being chased by a huge number of robots
 ### (Pant, pant) It's here!...
-PC19D_BUNKER1-1=
+PC19D_BUNKER1-1=(Важко дихає) Воно тут...!
 
 
 #----------------------------------------------------
 # Brok - Brok is addressing Dr. Gherkin
 ### Quick! Open it!
-PC19D_BUNKER1B-1=
+PC19D_BUNKER1B-1=Швидше! Відчиніть його!
 
 
 # Gherkin
 ### Sure!...
-PC19D_BUNKER1B-2=
+PC19D_BUNKER1B-2=Авжеж...!
 
 
 # Gherkin
 ### Err...
-PC19D_BUNKER1B-3=
+PC19D_BUNKER1B-3=Е-е...
 
 
 # Brok
 ### Err what?
-PC19D_BUNKER1B-4=
+PC19D_BUNKER1B-4=Що за 'е-е'?
 
 
 # Gherkin
 ### Let me think...
-PC19D_BUNKER1B-5=
+PC19D_BUNKER1B-5=Дайте подумати...
 
 
 # Gherkin
 ### Now, where did I put this key?
-PC19D_BUNKER1B-6=
+PC19D_BUNKER1B-6=Так, куди ж я поклав цей ключ?
 
 
 # Brok
 ### A key?! Like... an actual key?...
-PC19D_BUNKER1B-7=
+PC19D_BUNKER1B-7=Ключ?! Тобто... справжній ключ...?
 
 
 # Gherkin
 ### This bunker was built a long time ago during...
-PC19D_BUNKER1B-8=
+PC19D_BUNKER1B-8=Цей бункер збудували давно, ще за часів...
 
 
 # Brok
 ### Forget the history lesson!
-PC19D_BUNKER1B-9=
+PC19D_BUNKER1B-9=Забудьте про урок історії!
 
 
 # Dee
 ### They're coming! We don't have much time!
-PC19D_BUNKER1B-10=
+PC19D_BUNKER1B-10=Вони йдуть! У нас обмаль часу!
 
 
 # Gherkin
 ### Ah! There it is.
-PC19D_BUNKER1B-11=
+PC19D_BUNKER1B-11=А! Ось він.
 
 
 # Brok
 ### Gimme that!
-PC19D_BUNKER1B-12=
+PC19D_BUNKER1B-12=Ану сюди!
 
 
 #----------------------------------------------------
 # Brok
 ### ...
-PC19D_BUNKER1C-1=
+PC19D_BUNKER1C-1=...
 
 
 # Brok
 ### What's that?
-PC19D_BUNKER1C-2=
+PC19D_BUNKER1C-2=Що це?
 
 
 # Brok
 ### There seems to be another mechanism in there...
-PC19D_BUNKER1C-3=
+PC19D_BUNKER1C-3=Схоже, там ще один механізм...
 
 
 # Brok
 ### Doc!...
-PC19D_BUNKER1C-4=
+PC19D_BUNKER1C-4=Доку...!
 
 
 #----------------------------------------------------
 # Brok
 ### You've gotta be kiddin' me!
-PC19D_BUNKER1D-1=
+PC19D_BUNKER1D-1=Та ви жартуєте!
 
 
 # Gherkin
 ### I... I have to repair this one! It's my job!
-PC19D_BUNKER1D-2=
+PC19D_BUNKER1D-2=Я... Я мушу полагодити оцей! Це моя робота!
 
 
 # Brok
 ### But how do I open this portal?!
-PC19D_BUNKER1D-3=
+PC19D_BUNKER1D-3=Але як мені відчинити цей вхід?!
 
 
 # Gherkin
 ### I won't be of any help. It's my first time here!
-PC19D_BUNKER1D-4=
+PC19D_BUNKER1D-4=Від мене не буде жодної користі. Я тут уперше!
 
 
 # Brok
 ### Oh, great...
-PC19D_BUNKER1D-5=
+PC19D_BUNKER1D-5=О, чудово...
 
 
 #----------------------------------------------------
 # Dee
 ### They'll be onto us in a minute!
-PC19D_BUNKER1E-1=
+PC19D_BUNKER1E-1=За хвилину вони вже нас наздоженуть!
 
 
 # Brok
 ### One of us has got to hold them back!
-PC19D_BUNKER1E-2=
+PC19D_BUNKER1E-2=Хтось із нас мусить їх стримати!
 
 
 # Brok
 ### While the other figures this out...
-PC19D_BUNKER1E-3=
+PC19D_BUNKER1E-3=А інший тим часом розбереться з цим...
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee. Think you're up to givin' me some time?
-PC19D_DEEFIGHTS1-1=
+PC19D_DEEFIGHTS1-1=Ді. Зможеш виграти мені трохи часу?
 
 
 # Dee
 ### I can try. But...
-PC19D_DEEFIGHTS1-2=
+PC19D_DEEFIGHTS1-2=Можу спробувати. Але...
 
 
 # Brok
 ### Thanks.
-PC19D_DEEFIGHTS1-3=
+PC19D_DEEFIGHTS1-3=Дякую.
 
 
 # Dee
 ### I thought you'd be the fighting type.
-PC19D_DEEFIGHTS1-4=
+PC19D_DEEFIGHTS1-4=Я думала, ти з тих, хто любить битися.
 
 
 # Brok
 ### No time to argue. Let's do this!
-PC19D_DEEFIGHTS1-5=
+PC19D_DEEFIGHTS1-5=Немає часу сперечатися. Робімо!
 
 
 # Dee
 ### Here they come!
-PC19D_DEEFIGHTS1-6=
+PC19D_DEEFIGHTS1-6=Ось вони!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee. Can you check this?
-PC19D_BROKFIGHTS1-1=
+PC19D_BROKFIGHTS1-1=Ді. Перевіриш це?
 
 
 # Dee
 ### Sure. But...
-PC19D_BROKFIGHTS1-2=
+PC19D_BROKFIGHTS1-2=Авжеж. Але...
 
 
 # Brok
 ### I'll keep them away as long as I can.
-PC19D_BROKFIGHTS1-3=
+PC19D_BROKFIGHTS1-3=Відганятиму їх, доки зможу.
 
 
 # Dee
 ### Riddles aren't really my thing. We won't have a second chance!
-PC19D_BROKFIGHTS1-4=
+PC19D_BROKFIGHTS1-4=Загадки - не моє. Другого шансу в нас не буде!
 
 
 # Brok
 ### Just... do it, okay?...
-PC19D_BROKFIGHTS1-5=
+PC19D_BROKFIGHTS1-5=Просто... зроби це, гаразд...?
 
 
 # Dee
 ### Okay.
-PC19D_BROKFIGHTS1-6=
+PC19D_BROKFIGHTS1-6=Гаразд.
 
 
 # Brok
 ### Thanks.
-PC19D_BROKFIGHTS1-7=
+PC19D_BROKFIGHTS1-7=Дякую.
 
 
 # Dee
 ### You'll thank me if we get out of here alive.
-PC19D_BROKFIGHTS1-8=
+PC19D_BROKFIGHTS1-8=Подякуєш мені, якщо ми виберемося звідси живі.
 
 
 # Brok
 ### Nah! They won't get pass me!
-PC19D_BROKFIGHTS1-9=
+PC19D_BROKFIGHTS1-9=Та ні! Вони крізь мене не пройдуть!
 
 
 # Brok
 ### Bring'em on!
-PC19D_BROKFIGHTS1-10=
+PC19D_BROKFIGHTS1-10=Хай підходять!
 
 
 #----------------------------------------------------
 # Dee
 ### I don't get it...
-PC19D_TIMER_DEEFIGHTS_FIRST1-1=
+PC19D_TIMER_DEEFIGHTS_FIRST1-1=Не розумію...
 
 
 # Dee
 ### What's up with those bots?!
-PC19D_TIMER_DEEFIGHTS_FIRST1-2=
+PC19D_TIMER_DEEFIGHTS_FIRST1-2=Що з тими ботами?!
 
 
 # Brok
 ### Wish I knew!
-PC19D_TIMER_DEEFIGHTS_FIRST1-3=
+PC19D_TIMER_DEEFIGHTS_FIRST1-3=Якби ж я знав!
 
 
 # Brok
 ### Let's survive. Then we'll figure this out!
-PC19D_TIMER_DEEFIGHTS_FIRST1-4=
+PC19D_TIMER_DEEFIGHTS_FIRST1-4=Спершу виживімо. А тоді розберемося!
 
 
 #----------------------------------------------------
 # Dee
 ### Hurry! Huge wave of bots incoming!
-PC19D_TIMER_DEEFIGHTS_LASTSECONDS1-1=
+PC19D_TIMER_DEEFIGHTS_LASTSECONDS1-1=Мерщій! Насувається величезна хвиля ботів!
 
 
 #----------------------------------------------------
 # Dee
 ### Nooo!
-PC19D_TIMER_DEEFIGHTS_TOOLATE-1=
+PC19D_TIMER_DEEFIGHTS_TOOLATE-1=Ні-і!
 
 
 #----------------------------------------------------
 # Brok
 ### Another?!
-PC19D_PUZZLE_ANOTHER-1=
+PC19D_PUZZLE_ANOTHER-1=Ще один?!
 
 
 #----------------------------------------------------
 # Dee - Brok succeeds opening portal
 ### You did it!
-PC19D_BROK_OPENS-1=
+PC19D_BROK_OPENS-1=У тебе вийшло!
 
 
 #----------------------------------------------------
 # Dee - Dee succeeds opening portal
 ### Yes!
-PC19D_DEE_OPENS-1=
+PC19D_DEE_OPENS-1=Так!
 
 
 # Brok
 ### Congrats! Just let me finish.
-PC19D_DEE_OPENS-2=
+PC19D_DEE_OPENS-2=Вітаю! Дай мені лише закінчити.
 
 
 #----------------------------------------------------
 # Brok
 ### There ya go!
-PC19D_DEE_OPENSB-1=
+PC19D_DEE_OPENSB-1=Ось так!
 
 
 #----------------------------------------------------
 # Brok
 ### Come on, Doc!
-PC19D_AFTER_OPENED1-1=
+PC19D_AFTER_OPENED1-1=Ну ж бо, Доку!
 
 
 # Gherkin
 ### One second...
-PC19D_AFTER_OPENED1-2=
+PC19D_AFTER_OPENED1-2=Секундочку...
 
 
 # Gherkin
 ### Done!
-PC19D_AFTER_OPENED1-3=
+PC19D_AFTER_OPENED1-3=Готово!
 
 
 #----------------------------------------------------
 # Brok
 ### ...
-PC19D_AFTER_OPENED2-1=
+PC19D_AFTER_OPENED2-1=...
 
 
 # Brok
 ### Which way?
-PC19D_AFTER_OPENED2-2=
+PC19D_AFTER_OPENED2-2=Куди?
 
 
 # Dee
 ### Let's split.
-PC19D_AFTER_OPENED2-3=
+PC19D_AFTER_OPENED2-3=Розділімося.
 
 
 # Dee
 ### You take the left. I'll go with the doctor.
-PC19D_AFTER_OPENED2-4=
+PC19D_AFTER_OPENED2-4=Ти йди ліворуч. Я піду з доктором.
 
 
 # Gherkin
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### B-but... Mister Brok is...
-PC19D_AFTER_OPENED2-5=
+PC19D_AFTER_OPENED2-5=А-але... пан Брок же...
 
 
 # Dee
 ### Hurry! They're here!
-PC19D_AFTER_OPENED2-6=
+PC19D_AFTER_OPENED2-6=Швидше! Вони вже тут!
 
 
 #----------------------------------------------------
 # Brok
 ### I give up.
-PC19D_GIVEUP1-1=
+PC19D_GIVEUP1-1=Я здаюся.
 
 
 # Dee
 ### You can't! If you don't get this open, we're goners!
-PC19D_GIVEUP1-2=
+PC19D_GIVEUP1-2=Не можна! Якщо ти це не відчиниш, нам кінець!
 
 
 # Brok
 ### Hmm... That's right.
-PC19D_GIVEUP1-3=
+PC19D_GIVEUP1-3=Гмм... Слушно.
 
 
 #----------------------------------------------------
 # Brok
 ### I can't give up now!
-PC19D_GIVEUP2-1=
+PC19D_GIVEUP2-1=Я не можу здатися зараз!
 
 
 #----------------------------------------------------
 # Dee
 ### We made it?...
-PC19D_AFTER_BIGFIGHT1-1=
+PC19D_AFTER_BIGFIGHT1-1=Ми вибралися...?
 
 
 # Brok
 ### Seems so!
-PC19D_AFTER_BIGFIGHT1-2=
+PC19D_AFTER_BIGFIGHT1-2=Схоже, що так!
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Quite amazing fighting skills for a Drumer journalist!
-PC19D_AFTER_BIGFIGHT1-3=
+PC19D_AFTER_BIGFIGHT1-3=Досить вражаючі бойові навички для журналістки з Верхів!
 
 
 # Dee
 ### Huh. Save the praise for later.
-PC19D_AFTER_BIGFIGHT1-4=
+PC19D_AFTER_BIGFIGHT1-4=Гм. Похвалу залиш на потім.
 
 
 #----------------------------------------------------
 # Dee - After exiting the bunker, they leave to rescue Sin
 ### Let's go.
-PC19D_BEFORELEAVING1-1=
+PC19D_BEFORELEAVING1-1=Ходімо.
 
 
 # Brok
 ### Wait!
-PC19D_BEFORELEAVING1-2=
+PC19D_BEFORELEAVING1-2=Зачекай!
 
 
 # Brok
 ### What's your plan?
-PC19D_BEFORELEAVING1-3=
+PC19D_BEFORELEAVING1-3=Який у тебе план?
 
 
 # Dee
 ### Simple.
-PC19D_BEFORELEAVING1-4=
+PC19D_BEFORELEAVING1-4=Просто.
 
 
 # Dee
 ### I go in, kick those bots asses and come back with my man.
-PC19D_BEFORELEAVING1-5=
+PC19D_BEFORELEAVING1-5=Я зайду, надеру тим ботам дупи й повернуся зі своїм чоловіком.
 
 
 # Brok
 ### It's a police department. There are dozens of bots in there.
-PC19D_BEFORELEAVING1-6=
+PC19D_BEFORELEAVING1-6=Це відділок поліції. Там десятки ботів.
 
 
 # Brok
 ### There must be a better way...
-PC19D_BEFORELEAVING1-7=
+PC19D_BEFORELEAVING1-7=Мусить бути кращий спосіб...
 
 
 # Dee
 ### Okay. Tell me.
-PC19D_BEFORELEAVING1-8=
+PC19D_BEFORELEAVING1-8=Гаразд. Кажи.
 
 
 #----------------------------------------------------
@@ -504,191 +504,191 @@ PC19D_BEFORELEAVING1-8=
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes is the chief of this police department. I can call him.
-PC19D_LEAVE_CALL-1=
+PC19D_LEAVE_CALL-1=Вес - шеф цього відділку поліції. Я можу йому подзвонити.
 
 
 # Dee
 ### Are you serious?
-PC19D_LEAVE_CALL-2=
+PC19D_LEAVE_CALL-2=Ти серйозно?
 
 
 # Dee
 ### If by any chance he's involved into all this mess...
-PC19D_LEAVE_CALL-3=
+PC19D_LEAVE_CALL-3=Якщо він, бува, замішаний у всій цій халепі...
 
 
 # Dee
 ### We'll fall right into a trap.
-PC19D_LEAVE_CALL-4=
+PC19D_LEAVE_CALL-4=Ми втрапимо прямісінько в пастку.
 
 
 # Brok
 ### I've known him for years. He's certainly not an easy guy but...
-PC19D_LEAVE_CALL-5=
+PC19D_LEAVE_CALL-5=Я знаю його багато років. Він, звісно, не з легких, але...
 
 
 # Brok
 ### Desperate situations call for desperate measures.
-PC19D_LEAVE_CALL-6=
+PC19D_LEAVE_CALL-6=Відчайдушні ситуації вимагають відчайдушних заходів.
 
 
 # Dee
 ### OK. I trust you.
-PC19D_LEAVE_CALL-7=
+PC19D_LEAVE_CALL-7=Гаразд. Я тобі вірю.
 
 
 # Dee
 ### Do it.
-PC19D_LEAVE_CALL-8=
+PC19D_LEAVE_CALL-8=Роби.
 
 
 # Unknown
 ### ...
-PC19D_LEAVE_CALL-9=
+PC19D_LEAVE_CALL-9=...
 
 
 # Unknown
 ### ...
-PC19D_LEAVE_CALL-10=
+PC19D_LEAVE_CALL-10=...
 
 
 # Tribot
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Police department. The chief is currently busy. Please state your requ...
-PC19D_LEAVE_CALL-11=
+PC19D_LEAVE_CALL-11=Відділок поліції. Шеф наразі зайнятий. Будь ласка, висловіть своє проха...
 
 
 # Brok
 ### Darn... He's not available.
-PC19D_LEAVE_CALL-12=
+PC19D_LEAVE_CALL-12=Чорт... Він недоступний.
 
 
 # Dee
 ### Then no time to waste. Let's try my plan.
-PC19D_LEAVE_CALL-13=
+PC19D_LEAVE_CALL-13=Тоді не марнуймо часу. Спробуймо мій план.
 
 
 # Brok
 ### No...
-PC19D_LEAVE_CALL-14=
+PC19D_LEAVE_CALL-14=Ні...
 
 
 #----------------------------------------------------
 # Brok
 ### We should infiltrate the place.
-PC19D_LEAVE_INFILTRATE-1=
+PC19D_LEAVE_INFILTRATE-1=Нам варто туди просочитися.
 
 
 # Brok
 ### It'd be much less risky. Fewer tin cans to wreck.
-PC19D_LEAVE_INFILTRATE-2=
+PC19D_LEAVE_INFILTRATE-2=Це було б значно менш ризиковано. Менше бляшанок трощити.
 
 
 # Dee
 ### Hmm...
-PC19D_LEAVE_INFILTRATE-3=
+PC19D_LEAVE_INFILTRATE-3=Гмм...
 
 
 # Dee
 ### Are you certain there's a way to enter the jail discretly?
-PC19D_LEAVE_INFILTRATE-4=
+PC19D_LEAVE_INFILTRATE-4=Ти певен, що є спосіб непомітно потрапити до в'язниці?
 
 
 # Brok
 ### Yes. The main entrance.
-PC19D_LEAVE_INFILTRATE-5=
+PC19D_LEAVE_INFILTRATE-5=Так. Головний вхід.
 
 
 # Dee
 ### Is that a joke?...
-PC19D_LEAVE_INFILTRATE-6=
+PC19D_LEAVE_INFILTRATE-6=Це жарт...?
 
 
 # Brok
 ### Those bots are stupid. We can enter from the main entrance and distract them.
-PC19D_LEAVE_INFILTRATE-7=
+PC19D_LEAVE_INFILTRATE-7=Ті боти дурні. Ми можемо зайти через головний вхід і відвернути їхню увагу.
 
 
 # Brok
 ### I'll go first. Follow me.
-PC19D_LEAVE_INFILTRATE-8=
+PC19D_LEAVE_INFILTRATE-8=Я піду перший. За мною.
 
 
 # Dee
 ### Alright. Just...
-PC19D_LEAVE_INFILTRATE-9=
+PC19D_LEAVE_INFILTRATE-9=Гаразд. Тільки...
 
 
 # Dee
 ### Be careful, okay?...
-PC19D_LEAVE_INFILTRATE-10=
+PC19D_LEAVE_INFILTRATE-10=Будь обережний, гаразд...?
 
 
 # Brok
 ### Hey, I can defend myself if anything goes wrong!
-PC19D_LEAVE_INFILTRATE-11=
+PC19D_LEAVE_INFILTRATE-11=Гей, я зможу за себе постояти, якщо щось піде не так!
 
 
 # Dee
 ### Right...
-PC19D_LEAVE_INFILTRATE-12=
+PC19D_LEAVE_INFILTRATE-12=Ясно...
 
 
 # Dee
 ### Off we go!
-PC19D_LEAVE_INFILTRATE-13=
+PC19D_LEAVE_INFILTRATE-13=Рушаймо!
 
 
 #----------------------------------------------------
 # Brok
 ### I'll go in and smash my way through those tin cans.
-PC19D_LEAVE_SMASH-1=
+PC19D_LEAVE_SMASH-1=Я зайду й прорвуся крізь усі ті бляшанки.
 
 
 # Dee
 ### And... What's the difference with my plan, pray tell?
-PC19D_LEAVE_SMASH-2=
+PC19D_LEAVE_SMASH-2=І... Чим же це відрізняється від мого плану, скажи на милість?
 
 
 # Brok
 ### Well, I'll do most of the job. You'll stay behind me for support.
-PC19D_LEAVE_SMASH-3=
+PC19D_LEAVE_SMASH-3=Ну, більшість роботи зроблю я. А ти будеш позаду - на підтримці.
 
 
 # Dee
 ### Ohhh, I see.
-PC19D_LEAVE_SMASH-4=
+PC19D_LEAVE_SMASH-4=О-оо, ясно.
 
 
 # Dee
 ### Mister thinks I'm too weak to beat those AIs!
-PC19D_LEAVE_SMASH-5=
+PC19D_LEAVE_SMASH-5=Пан гадає, що я надто слабка, щоб подужати тих ШІ!
 
 
 # Brok
 ### No but I'm more experienced!
-PC19D_LEAVE_SMASH-6=
+PC19D_LEAVE_SMASH-6=Ні, але я досвідченіший!
 
 
 # Brok
 ### I eat bots chips for breakfast!
-PC19D_LEAVE_SMASH-7=
+PC19D_LEAVE_SMASH-7=Я їм чипи ботів на сніданок!
 
 
 # Dee
 ### How courteous!
-PC19D_LEAVE_SMASH-8=
+PC19D_LEAVE_SMASH-8=Як люб'язно!
 
 
 # Dee
 ### OK, tough guy. Show me what you've got!
-PC19D_LEAVE_SMASH-9=
+PC19D_LEAVE_SMASH-9=Гаразд, крутелику. Покажи, на що здатен!
 
 
 #----------------------------------------------------
 # Tribot
 ### Target acquired!
-PC19D_ENDCHAPTER6-1=
+PC19D_ENDCHAPTER6-1=Ціль виявлено!
 
 
 #----------------------------------------------------

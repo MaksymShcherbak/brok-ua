@@ -87,7 +87,7 @@
 | TPC19     | Done                | Done          |
 | TPC19B    | Done                | Done          |
 | TPC19C    | Done                | Done          |
-| TPC19D    | To Do               | To Do         |
+| TPC19D    | Done                | Done          |
 | TPC20     | To Do               | To Do         |
 | TPC21     | Postponed           | To Do         |
 | TSP01     | To Do               | To Do         |
