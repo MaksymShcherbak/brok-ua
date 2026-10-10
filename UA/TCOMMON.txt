@@ -2529,11 +2529,11 @@ ITEM_LAMPMINK=Лампа, знайдена біля тіла
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Lamp from Dr. Hush's room
-ITEM_LAMPHUSH=Лампа з кімнати д-ра Гаша
+ITEM_LAMPHUSH=Лампа з кімнати доктора Гаша
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush's tablet
-ITEM_TABLETHUSH=Планшет д-ра Гаша
+ITEM_TABLETHUSH=Планшет доктора Гаша
 
 ### Restroom pill
 ITEM_PILLHUSH=Пігулка з вбиральні
@@ -3559,7 +3559,7 @@ INTERFACE_CHAPTER4G=Бункер з Клеєм
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Escort Dr. Gherkin
-INTERFACE_CHAPTER5B=Супровід д-ра Геркіна
+INTERFACE_CHAPTER5B=Супровід доктора Геркіна
 
 ### Final trial
 INTERFACE_CHAPTER5G=Фінальне випробування

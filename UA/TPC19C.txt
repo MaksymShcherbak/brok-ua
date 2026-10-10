@@ -19,40 +19,40 @@
 ###############################################
 # Brok - AFter getting separated from Dee & Gherkin due to the bots chasing them
 ### ...
-PC19C_INIT1-1=
+PC19C_INIT1-1=...
 
 
 # Brok
 ### The door locked itself.
-PC19C_INIT1-2=
+PC19C_INIT1-2=Двері самі замкнулися.
 
 
 # Brok
 ### Why did she insist on going the other way?
-PC19C_INIT1-3=
+PC19C_INIT1-3=Чому вона наполягла на тому, щоб піти в інший бік?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### I Hope Dr. Gherkin is safe with her...
-PC19C_INIT1-4=
+PC19C_INIT1-4=Сподіваюся, доктор Геркін у безпеці з нею...
 
 
 #----------------------------------------------------
 # Brok
 ### ...!
-PC19C_SEETRAPS1-1=
+PC19C_SEETRAPS1-1=...!
 
 
 # Brok
 ### This place is booby-trapped!...
-PC19C_SEETRAPS1-2=
+PC19C_SEETRAPS1-2=Тут повно пасток...!
 
 
 #----------------------------------------------------
 # Brok
 ### Locked...
-PC19C_DOORB1-1=
+PC19C_DOORB1-1=Замкнено...
 
 
 #----------------------------------------------------

@@ -95,7 +95,7 @@ INTERROGATION_IDENTITY=Хто вона така?
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### What's the real reason she contacted Dr. Gherkin?
-INTERROGATION_WANT=Яка справжня причина її звернення до д-ра Геркіна?
+INTERROGATION_WANT=Яка справжня причина її звернення до доктора Геркіна?
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Why does she suspect Dr. Gherkin?
