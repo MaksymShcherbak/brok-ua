@@ -40,7 +40,7 @@
 | TGPC19D   | Done                | Done          |
 | THINTS1   | Done                | Done          |
 | THINTS2   | Done                | Done          |
-| THINTS3   | To Do               | To Do         |
+| THINTS3   | Done                | Done          |
 | THINTS4   | To Do               | To Do         |
 | THINTS5   | To Do               | To Do         |
 | THINTS6   | To Do               | To Do         |
