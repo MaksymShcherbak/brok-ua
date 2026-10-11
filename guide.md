@@ -282,6 +282,9 @@
 | Mixed breed               | мішана порода                                                                                                      |                                      |
 | Auto-clothes cleaner      | автоматичний очисник одягу                                                                                         |                                      |
 | Daddy                     | татусь                                                                                                             |                                      |
+| Ratty                     | Щурятко                                                                                                            |                                      |
+| Minky                     | Мінкі                                                                                                              |                                      |
+| Broky                     | Брокі                                                                                                              |                                      |
 | Scientist                 | науковець                                                                                                          |                                      |
 | Member of the Government  | член Уряду                                                                                                         |                                      |
 | Daughter                  | донька                                                                                                             |                                      |
@@ -422,6 +425,7 @@
 | Assistant bot                          | робот-помічник                       |                                                        |
 | Maintenance ladder                     | технічна драбина                     |                                                        |
 | Monitoring                             | моніторинг                           |                                                        |
+| Defective                              | дефектний / з дефектом               |                                                        |
 
 **Їжа**
 
@@ -467,9 +471,9 @@
 | Accel500               | Аксель-500                  | Пігулки доктора Гаша  |
 | Starix-500             | Старікс-500                 | Пігулки Сіна          |
 | Phoenixy flowers       | квітки Фенікса              | Рослина в лабораторії |
-| Hangalis Wallis        | Хангаліс Волліс             |                       |
+| Hangalis Wallis        | Висостінник                 | Рослина в лабораторії |
 | Rooted variety         | укорінений сорт             | Сорт Фенікса          |
-| FleeFleas              | Флі-Фліз                    | Бренд у рекламі       |
+| FleeFleas              | АнтиБліх                    | Бренд у рекламі       |
 | Oblivion               | Забуття                     | Секретні ліки         |
 | Heartrot               | гнилосердець                |                       |
 | Heartstraint           | перенапруження серця        |                       |

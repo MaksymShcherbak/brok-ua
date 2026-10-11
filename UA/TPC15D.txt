@@ -52,7 +52,7 @@ PC_DRHUSH=Д-р Гаш
 PC_EQUIPMENT=Обладнання
 
 ### Glove and headset
-PC_GLOVEHEADSET=Рукавичка та гарнітура
+PC_GLOVEHEADSET=Рукавичка та навушники
 
 ### Column
 PC_COLUMN=Колона
@@ -131,7 +131,7 @@ INTERROGATION_TRUECAUSE=Справжня причина смерті
 
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 ### What proves that Antburger sauce was used?
-INTERROGATION_CAUSEOFDEATHPROOF=Що доводить, що використали соус від мурахобургера?
+INTERROGATION_CAUSEOFDEATHPROOF=Що доводить, що було використано соус від мурахобургера?
 
 ### How could the murderer get nanites?
 INTERROGATION_ACCESSNANITES=Як злочинець міг дістати наніти?
@@ -173,7 +173,7 @@ INTERROGATION_RAMP=Як Тайді міг дістатися до вентиля
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### How could Tidy push Dr. Hush all the way through?
-INTERROGATION_TIDYPUSHDRHUSH=Як Тайді міг проштовхнути доктора Гаша до самого кінця?
+INTERROGATION_TIDYPUSHDRHUSH=Як Тайді міг повністю проштовхнути доктора Гаша?
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
@@ -183,7 +183,7 @@ INTERROGATION_LAMPPUSH=Коли Тайді штовхнув доктора Га�
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### When did Tidy REALLY push Dr. Hush?
-INTERROGATION_LAMPWRONG=Коли Тайді насправді штовхнув доктора Гаша?
+INTERROGATION_LAMPWRONG=Коли Тайді НАСПРАВДІ штовхнув доктора Гаша?
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
@@ -191,7 +191,7 @@ INTERROGATION_LAMPWRONG=Коли Тайді насправді штовхнув 
 INTERROGATION_LAMPACCESS=Як Тайді міг дістатися до лампи доктора Мінка?
 
 ### What element is off in this room?
-INTERROGATION_ELEMENTOFF=Що тут не на місці?
+INTERROGATION_ELEMENTOFF=Що не так в цій кімнаті?
 
 ### What's odd about this lamp?
 INTERROGATION_LAMPOFF=Що дивного в цій лампі?
@@ -221,7 +221,7 @@ INTERROGATION_ALIVE=Чому доктор Гаш досі живий?
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Why did Dr. Hush need to enter Dr. Mink's room?
-INTERROGATION_HUSH_NEEDEDROOM=Навіщо доктору Гашу було заходити в кімнату доктора Мінка?
+INTERROGATION_HUSH_NEEDEDROOM=Навіщо докторові Гашу було заходити в кімнату доктора Мінка?
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
@@ -248,7 +248,7 @@ INTERROGATION_HUSH_HEAR=Чому доктор Мінк не почув, як п�
 INTERROGATION_GUARD_STAGED=Звідки взявся соус томатози?
 
 ### What's the proof the body was under the bed?
-INTERROGATION_GUARD_BED=Який доказ, що тіло було під ліжком?
+INTERROGATION_GUARD_BED=Який є доказ, що тіло було під ліжком?
 
 ### What proves the monitoring has been tampered with?
 INTERROGATION_GUARD_MONITORING=Що доводить, що моніторинг підробили?
@@ -272,7 +272,7 @@ PC15D_DRHUSHWHY_NEVEREXIT=Доктор Гаш не виходив зі свог�
 PC15D_DRHUSHWHY_GHOST=Доктор Гаш - привид
 
 ### What explains this contradiction?
-INTERROGATION_DRHUSHWHY=Чим пояснити цю суперечність?
+INTERROGATION_DRHUSHWHY=Чим пояснюється ця суперечність?
 
 ### Am I on the right path?
 PC15D_CHOICE_RIGHTPATH=Чи я на правильному шляху?
@@ -294,7 +294,7 @@ PC15D_MISTAKE_CONFUSE=Тайді хотів нас заплутати
 
 
 ### What explains why the body isn't located under the vent?
-PC15D_FINALCHOICE=Чим пояснити, що тіла немає під вентиляцією?
+PC15D_FINALCHOICE=Чим пояснити, що тіло знаходиться не під вентиляцією?
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy pushed violently
@@ -332,7 +332,7 @@ PC15D_POWERSOCKET1-3=О. Точно.
 
 # Mink
 ### I tried hooking up an ancient bot the other day to help me with handling materials.
-PC15D_POWERSOCKET1-4=Днями я пробував під'єднати стародавнього бота, щоб він допоміг мені з матеріалами.
+PC15D_POWERSOCKET1-4=Днями я пробував під'єднати одного старого бота, щоб він допоміг мені з матеріалами.
 
 
 # Mink
@@ -342,7 +342,7 @@ PC15D_POWERSOCKET1-5=Погана ідея. Він згорів одразу, щ
 
 # Brok
 ### What bot?
-PC15D_POWERSOCKET1-6=Який бот?
+PC15D_POWERSOCKET1-6=Що за бот?
 
 
 # Mink
@@ -362,14 +362,14 @@ PC15D_POWERSOCKET1-9=Усі інші боти в цьому комплексі -
 
 # Brok
 ### You mean only old bots can cause this?
-PC15D_POWERSOCKET1-10=Хочете сказати, таке можуть наробити лише старі боти?
+PC15D_POWERSOCKET1-10=Хочете сказати, таке можуть спричинити лише старі боти?
 
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
 # NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
 ### Yeah. Manufactured pre-Autarchism day, I'd say.
-PC15D_POWERSOCKET1-11=Ага. Виготовлений ще до дня Аутархізму, я б сказав.
+PC15D_POWERSOCKET1-11=Ага. Я б сказав, виготовлені ще до дня Аутархізму.
 
 
 # Brok
@@ -397,7 +397,7 @@ PC15D_HOLE1-2=Оце так несподіванка!
 
 # Mink
 ### I'm hoping you will fix this before leaving!
-PC15D_HOLE1-3=Сподіваюся, ви полагодите це до відходу!
+PC15D_HOLE1-3=Сподіваюся, ви полагодите це до того, як підете!
 
 
 # Brok
@@ -428,17 +428,17 @@ PC15D_HOLE1-8=На мить я забув, з ким розмовляю.
 #----------------------------------------------------
 # Brok
 ### I'm afraid I can't pass through there.
-PC15D_HOLE2-1=Боюся, я не пройду туди.
+PC15D_HOLE2-1=Боюся, я не зможу тут пройти.
 
 
 # Mink
 ### I don't think anyone can, actually.
-PC15D_HOLE2-2=Взагалі-то, думаю, ніхто не зможе.
+PC15D_HOLE2-2=Взагалі-то, мабуть, ніхто не зможе.
 
 
 # Brok
 ### Then you have to wonder why this passage exists.
-PC15D_HOLE2-3=Тоді мимоволі замислишся, навіщо існує цей прохід.
+PC15D_HOLE2-3=Тоді мимоволі замислюєшся, навіщо існує цей прохід.
 
 
 #----------------------------------------------------
@@ -460,7 +460,7 @@ PC15D_TRAP1-3=Ми весь час сидимо тут безвилазно. П�
 #----------------------------------------------------
 # Brok
 ### Wait a sec...
-PC15D_TRAP_AFTER1-1=Стривай-но...
+PC15D_TRAP_AFTER1-1=Стривайте-но...
 
 
 # Brok
@@ -497,18 +497,18 @@ PC15D_TRAP_AFTER2-1=Краще залізу цією драбиною, якщо 
 #----------------------------------------------------
 # Brok
 ### Okay... Time to explore.
-PC15D_LADDER1-1=Гаразд... Час дослідити.
+PC15D_LADDER1-1=Гаразд... Час досліджувати.
 
 
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### You're sure about this, Mister Brok?
-PC15D_LADDER1-2=Ти впевнений у цьому, пане Броку?
+PC15D_LADDER1-2=Ви впевнені у цьому, пане Броку?
 
 
 # Brok
 ### No other choice. We can't let any possible clue undiscovered!
-PC15D_LADDER1-3=Іншого вибору немає. Не можна лишити жодну можливу зачіпку нерозкритою!
+PC15D_LADDER1-3=Іншого вибору немає. Не можна пропустити жодну можливу зачіпку!
 
 
 # Ott
@@ -518,7 +518,7 @@ PC15D_LADDER1-4=Ні, я маю на увазі...
 
 # Ott
 ### Will there be enough room for you to get through?...
-PC15D_LADDER1-5=А тобі вистачить місця пролізти...?
+PC15D_LADDER1-5=Вам вистачить місця пролізти...?
 
 
 # Brok
@@ -528,7 +528,7 @@ PC15D_LADDER1-6=Гей...! Я не такий уже й великий!
 
 # Brok
 ### You'll see!
-PC15D_LADDER1-7=Побачиш!
+PC15D_LADDER1-7=От побачиш!
 
 
 #----------------------------------------------------
@@ -544,7 +544,7 @@ PC15D_LADDER1B-2=Може, все-таки час сісти на дієту...
 
 # Brok
 ### Hey, what did I just touch...?
-PC15D_LADDER1B-3=Гей, до чого я оце доторкнувся...?
+PC15D_LADDER1B-3=Гей, до чого я доторкнувся...?
 
 
 # Brok
@@ -565,7 +565,7 @@ PC15D_LADDER1B-6=Смачно!
 #----------------------------------------------------
 # Mink
 ### I've lit it up for you.
-PC15D_LADDER1C-1=Я підсвітив її для вас.
+PC15D_LADDER1C-1=Я увімкнув вам світло.
 
 
 # Brok
@@ -575,7 +575,7 @@ PC15D_LADDER1C-2=Клас!
 
 # Brok
 ### Yup. That's interesting.
-PC15D_LADDER1C-3=Угу. Це цікаво.
+PC15D_LADDER1C-3=Угу. Цікаво.
 
 
 # Brok
@@ -611,18 +611,18 @@ PC15D_LADDER1C-9=Боюся, крізь неї не пролізти.
 
 # Brok
 ### Then... I shall keep moving forward to reach the other side.
-PC15D_LADDER1C-10=Тоді... рухатимуся далі, щоб дістатися до іншого боку.
+PC15D_LADDER1C-10=Тоді... Рухатимуся далі, щоб дістатися до іншого боку.
 
 
 #----------------------------------------------------
 # Brok
 ### Nope. I've seen everything there is to see.
-PC15D_LADDER2-1=Ні. Я побачив усе, що можна було.
+PC15D_LADDER2-1=Ні. Я вже побачив усе, що міг.
 
 
 # Ott
 ### Are you certain?
-PC15D_LADDER2-2=Ти впевнений?
+PC15D_LADDER2-2=Ви впевнені?
 
 
 # Brok
@@ -632,13 +632,13 @@ PC15D_LADDER2-3=Так! Я ледь не застряг там назавжди 
 
 # Ott
 ### Don't be silly!
-PC15D_LADDER2-4=Не кажи дурниць!
+PC15D_LADDER2-4=Не кажіть дурниць!
 
 
 # Ott
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 ### I would have sent some Antburgers your way.
-PC15D_LADDER2-5=Я б надіслав тобі трохи мурахобургерів.
+PC15D_LADDER2-5=Я б надіслав вам трохи мурахобургерів.
 
 
 #----------------------------------------------------
@@ -670,13 +670,13 @@ PC15D_WIRES2-2=Аж закортіло взяти ножиці.
 
 # Mink
 ### Don't you dare!
-PC15D_WIRES2-3=Не смійте!
+PC15D_WIRES2-3=Навіть не смійте!
 
 
 #----------------------------------------------------
 # Brok
 ### Surprisingly... I can't see any nanite running over those wires.
-PC15D_WIRES_MAGNIFY-1=Як не дивно... я не бачу жодного наніта на цих дротах.
+PC15D_WIRES_MAGNIFY-1=На диво... Я не бачу жодного наніта на цих дротах.
 
 
 #----------------------------------------------------
@@ -687,7 +687,7 @@ PC15D_EQUIPMENT1-1=Я думав, ви спеціалізуєтеся на ма�
 
 # Mink
 ### Nano-technology.
-PC15D_EQUIPMENT1-2=Нанотехнології.
+PC15D_EQUIPMENT1-2=Нанотехнологіях.
 
 
 # Brok
@@ -733,7 +733,7 @@ PC15D_EQUIPMENT2-3=Так. А як, на вашу думку, я проводж�
 
 # Brok
 ### I could use a snack. They're my favorites!
-PC15D_EQUIPMENT2-4=Я не проти перекусити. Вони мої улюблені!
+PC15D_EQUIPMENT2-4=Я був би не проти перекусити. Вони мої улюблені!
 
 
 # Mink
@@ -770,7 +770,7 @@ PC15D_NANITES1-3=Наніти. Їх ще називають наноботами
 
 # Brok
 ### Close enough.
-PC15D_NANITES1-4=Майже влучно.
+PC15D_NANITES1-4=Я сказав майже те саме.
 
 
 # Brok
@@ -780,7 +780,7 @@ PC15D_NANITES1-5=А навіщо вони?
 
 # Mink
 ### Are you serious? We've been using them for ages!
-PC15D_NANITES1-6=Ви серйозно? Ми користуємося ними цілу вічність!
+PC15D_NANITES1-6=Ви серйозно? Ми вже користуємося ними цілу вічність!
 
 
 # Brok
@@ -836,7 +836,7 @@ PC15D_NANITES1-16=Справді.
 
 # Mink
 ### But let me reassure you. This never happened.
-PC15D_NANITES1-17=Але запевняю вас. Цього ніколи не було.
+PC15D_NANITES1-17=Але запевняю вас. Цього ще ніколи не траплялося.
 
 
 # Mink
@@ -846,7 +846,7 @@ PC15D_NANITES1-18=Якби хтось справді зробив таке ві�
 
 # Brok
 ### So you didn't.
-PC15D_NANITES1-19=Отже, ви не зробили.
+PC15D_NANITES1-19=Отже, ви цього не зробили.
 
 
 # Mink
@@ -862,7 +862,7 @@ PC15D_NANITES2-1=Невже можна вставити в тіло такі в�
 
 # Mink
 ### What you see on this table is actually a reproduction at 10,000th the scale to make them easier to work with.
-PC15D_NANITES2-2=Те, що ви бачите на цьому столі, - насправді модель у масштабі 1 до 10,000, щоб з ними було легше працювати.
+PC15D_NANITES2-2=Те, що ви бачите на цьому столі - насправді модель у масштабі 1 до 10,000, щоб з ними було легше працювати.
 
 
 # Mink
@@ -872,7 +872,7 @@ PC15D_NANITES2-3=Їх не видно неозброєним оком.
 
 # Brok
 ### Must be hard to handle.
-PC15D_NANITES2-4=Мабуть, із ними важко мати справу.
+PC15D_NANITES2-4=Мабуть, із ними важко працювати.
 
 
 # Mink
@@ -882,7 +882,7 @@ PC15D_NANITES2-5=Правда! Лише кілька досвідчених ін
 
 # Brok
 ### (Does "pretentious" go along with this job?)
-PC15D_NANITES2-6=(А до цієї роботи "пихатість" додається?)
+PC15D_NANITES2-6=(А "пихатість" теж є частиною цієї роботи?)
 
 
 #----------------------------------------------------
@@ -925,7 +925,7 @@ PC15D_GLOVEHEADSET1-3=А як, на вашу думку, ми створюємо
 
 # Brok
 ### What about the headset?
-PC15D_GLOVEHEADSET1-4=А гарнітура?
+PC15D_GLOVEHEADSET1-4=А навушники?
 
 
 # Mink
@@ -945,7 +945,7 @@ PC15D_GLOVEHEADSET1-7=Зокрема, залежно від ситуації в�
 
 # Mink
 ### This amplifies their noise so I can make it out...
-PC15D_GLOVEHEADSET1-8=Це підсилює їхній шум, тож я можу його розрізнити...
+PC15D_GLOVEHEADSET1-8=Навушники підсилюють їхній шум, тож я можу його розрізнити...
 
 
 # Brok
@@ -971,12 +971,12 @@ PC15D_GLOVEHEADSET2-1=Нічого незвичайного в них не ба�
 
 # Brok
 ### Well, they're certainly not hardware you see everyday but...
-PC15D_GLOVEHEADSET2-2=Ну, це точно не те обладнання, яке бачиш щодня, але...
+PC15D_GLOVEHEADSET2-2=Ну, це точно не те обладнання, яке побачиш щодня, але...
 
 
 # Brok
 ### I doubt they've been used to kill.
-PC15D_GLOVEHEADSET2-3=Сумніваюся, що ними когось убивали.
+PC15D_GLOVEHEADSET2-3=Сумніваюся, що цим когось убивали.
 
 
 #----------------------------------------------------
@@ -987,7 +987,7 @@ PC15D_GLOVEHEADSET_MAGNIFY-1=Можна було б подумати, що на 
 
 # Brok
 ### Guess what. There are!
-PC15D_GLOVEHEADSET_MAGNIFY-2=І що б ви думали. Вони є!
+PC15D_GLOVEHEADSET_MAGNIFY-2=І що б ви думали. Вони тут є!
 
 
 #----------------------------------------------------
@@ -1003,7 +1003,7 @@ PC15D_TABLET1-2=Чому? Воно кусається?
 
 # Mink
 ### Don't play stupid!
-PC15D_TABLET1-3=Не вдавайте дурника!
+PC15D_TABLET1-3=Не вдавайте дурня!
 
 
 # Mink
@@ -1073,12 +1073,12 @@ PC15D_TABLET1-16=Що?
 
 # Brok
 ### Listen, buddy. I'm in no mood for jokes.
-PC15D_TABLET1-17=Послухайте, приятелю. Мені не до жартів.
+PC15D_TABLET1-17=Послухайте, друже. Мені не до жартів.
 
 
 # Brok
 ### So do your part, or this little friend of yours may accidentally end up stuck in your face!
-PC15D_TABLET1-18=Тож робіть свою частину роботи, або цей ваш маленький друг може випадково застрягти у вас в обличчі!
+PC15D_TABLET1-18=Тож робіть те, що треба, інакше цей маленький друг може зовсім випадково влучити вам в обличчя!
 
 
 # Mink
@@ -1099,18 +1099,18 @@ PC15D_TABLET1B-2=То як?
 
 # Brok
 ### On second thought...
-PC15D_TABLET1B-3=Хоча, як подумати...
+PC15D_TABLET1B-3=Якщо подумати...
 
 
 # Brok
 ### I can't understand any of it.
-PC15D_TABLET1B-4=Я нічого тут не розумію.
+PC15D_TABLET1B-4=То я все одно нічого тут не розумію.
 
 
 #----------------------------------------------------
 # Ott
 ### Let me see!
-PC15D_TABLET_OTT-1=Дай-но подивлюся!
+PC15D_TABLET_OTT-1=Дайте-но подивлюся!
 
 
 # Ott
@@ -1146,12 +1146,12 @@ PC15D_TABLET2-1=У будь-якому разі, я не бачу на цьом�
 
 # Brok
 ### Unless it's been wiped off, I doubt this is the crime weapon.
-PC15D_TABLET2-2=Якщо його не витерли, сумніваюся, що це знаряддя злочину.
+PC15D_TABLET2-2=Хіба що її стерли, а в іншому разі я сумніваюсь, це знаряддя вбивства.
 
 
 # Mink
 ### No! You think?...
-PC15D_TABLET2-3=Ні! Ви так думаєте...?
+PC15D_TABLET2-3=Звісно, ні! Ви так думаєте...?
 
 
 # Brok
@@ -1183,7 +1183,7 @@ PC15D_TABLET_LADDER1-4=Ви божевільний?! Я боюся висоти.
 #----------------------------------------------------
 # Brok
 ### Some gibberish.
-PC15D_TABLETRESEARCH1-1=Якась абракадабра.
+PC15D_TABLETRESEARCH1-1=Якась маячня.
 
 
 # Mink
@@ -1199,7 +1199,7 @@ PC15D_TABLETRESEARCH1-3=Краще не витрачати на це час.
 #----------------------------------------------------
 # Mink
 ### Listen. I'd like to amend for my behavior earlier.
-PC15D_TABLET_AFTER1-1=Послухайте. Я хотів би загладити свою недавню поведінку.
+PC15D_TABLET_AFTER1-1=Послухайте. Я б хотів загладити свою провину за те, як поводився раніше.
 
 
 # Mink
@@ -1257,7 +1257,7 @@ PC15D_TABLET_AFTER2-5=Гмм...
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### You're confusing, Mister Brok. You're not supposed to use an item on that icon.
-PC15D_TABLET_MEDICAL_OTHERS-1=Ти щось наплутав, пане Броку. Не можна використовувати предмет на цій іконці.
+PC15D_TABLET_MEDICAL_OTHERS-1=Ви щось наплутали, пане Броку. Не можна використовувати предмет на цій іконці.
 
 
 # Brok
@@ -1286,12 +1286,12 @@ PC15D_TABLETCLOSEUP_MEDICAL1-3=У мене є офлайн-доступ до і�
 #----------------------------------------------------
 # Ott
 ### Is there a specific topic you're interested in?
-PC15D_TABLETCLOSEUP_MEDICAL2-1=Тебе цікавить якась конкретна тема?
+PC15D_TABLETCLOSEUP_MEDICAL2-1=Вас цікавить якась конкретна тема?
 
 
 # Brok
 ### Let me think...
-PC15D_TABLETCLOSEUP_MEDICAL2-2=Дай подумати...
+PC15D_TABLETCLOSEUP_MEDICAL2-2=Дайте подумати...
 
 
 #----------------------------------------------------
@@ -1308,7 +1308,7 @@ PC15D_TABLET_MEDICAL_EXIT-2=Тоді, можливо, пізніше.
 #----------------------------------------------------
 # Ott
 ### Hmm... That's a drug for patients suffering from defective organs, acting slower than normal.
-PC15D_TABLET_MEDICAL_ACCEL500-1=Гмм... Це препарат для пацієнтів із дефектними органами, який діє повільніше, ніж зазвичай.
+PC15D_TABLET_MEDICAL_ACCEL500-1=Гмм... Це препарат для пацієнтів із дефектними органами, що діють повільніше, ніж зазвичай.
 
 
 # Unknown
@@ -1349,7 +1349,7 @@ PC15D_TABLET_MEDICAL_ACCEL500-8=Все в одному...?
 
 # Mink
 ### It's regular powder food with stimulants incorporating the exact and appropriate dose of food, based on our medical tracking!
-PC15D_TABLET_MEDICAL_ACCEL500-9=Це звичайна порошкова їжа зі стимуляторами, що містить точну й доречну дозу їжі, визначену за нашим медичним моніторингом!
+PC15D_TABLET_MEDICAL_ACCEL500-9=Це звичайна порошкова їжа зі стимуляторами, що містить точну дозу їжі, визначену за нашим медичним моніторингом!
 
 
 # Brok
@@ -1371,7 +1371,7 @@ PC15D_TABLET_MEDICAL_PLANT-2=Угу.
 
 # Ott
 ### Okay... I don't quite understand why you need info on this but you're the detective.
-PC15D_TABLET_MEDICAL_PLANT-3=Гаразд... Не зовсім розумію, навіщо тобі про неї інформація, але ти ж детектив.
+PC15D_TABLET_MEDICAL_PLANT-3=Гаразд... Не зовсім розумію, навіщо вам про неї інформація, але ви ж детектив.
 
 
 # Ott
@@ -1411,7 +1411,7 @@ PC15D_TABLET_MEDICAL_PLANT-10="Вони надзвичайно уповільн�
 
 # Ott
 ### (Psst... Do you think?...)
-PC15D_TABLET_MEDICAL_PLANT-11=(Пс-с... Думаєш...?)
+PC15D_TABLET_MEDICAL_PLANT-11=(Пс-с... Думаєте...?)
 
 
 # Brok
@@ -1423,7 +1423,7 @@ PC15D_TABLET_MEDICAL_PLANT-12=(Ага... Це, мабуть, написав до
 #----------------------------------------------------
 # Ott
 ### Are you serious?
-PC15D_TABLET_MEDICAL_ANTBURGER-1=Ти серйозно?
+PC15D_TABLET_MEDICAL_ANTBURGER-1=Ви серйозно?
 
 
 # Brok
@@ -1433,12 +1433,12 @@ PC15D_TABLET_MEDICAL_ANTBURGER-2=Цілком серйозно. Невже ти 
 
 # Ott
 ### I prefer regular tube food.
-PC15D_TABLET_MEDICAL_ANTBURGER-3=Я віддаю перевагу звичайній їжі з тюбика.
+PC15D_TABLET_MEDICAL_ANTBURGER-3=Я віддаю перевагу звичайній їжі в трубках.
 
 
 # Brok
 ### You youngsters don't know what's good.
-PC15D_TABLET_MEDICAL_ANTBURGER-4=Ви, молодики, не знаєте, що смачне.
+PC15D_TABLET_MEDICAL_ANTBURGER-4=Ви, молодики, не знаєте, що справді смачне.
 
 
 # Ott
@@ -1448,12 +1448,12 @@ PC15D_TABLET_MEDICAL_ANTBURGER-5=Хай там як... Ось.
 
 # Unknown
 ### "Made with 95% fresh ants, this is the most popular legacy food product!"
-PC15D_TABLET_MEDICAL_ANTBURGER-6="Виготовлений із 95% свіжих мурах, це найпопулярніший традиційний харчовий продукт!"
+PC15D_TABLET_MEDICAL_ANTBURGER-6="Виготовлений із 95% свіжих мурах, це найпопулярніший харчовий продукт минулого покоління!"
 
 
 # Unknown
 ### "Crunchy and mouth-filling, they're sure to make your elders happy!"
-PC15D_TABLET_MEDICAL_ANTBURGER-7="Хрусткі та ситні, вони точно потішать ваших старших!"
+PC15D_TABLET_MEDICAL_ANTBURGER-7="Хрусткі та ситні, вони неодмінно потішать ваших старших!"
 
 
 # Brok
@@ -1469,22 +1469,22 @@ PC15D_TABLET_MEDICAL_ANTBURGER-9=Я ж казав.
 #----------------------------------------------------
 # Brok
 ### What's this button for?... Nothing happens when I press it.
-PC15D_TABLETANALYSIS1-1=Навіщо ця кнопка...? Нічого не відбувається, коли натискаю.
+PC15D_TABLETANALYSIS1-1=Навіщо ця кнопка...? Нічого не відбувається, коли я її натискаю.
 
 
 # Mink
 ### That's an analyzer. It can list the detailed components of any object.
-PC15D_TABLETANALYSIS1-2=Це аналізатор. Він може показати докладний склад будь-якого об'єкта.
+PC15D_TABLETANALYSIS1-2=Це аналізатор. Він може показати детальний склад будь-якого об'єкта.
 
 
 # Mink
 ### For connected objects, it will display the information registered in the memory.
-PC15D_TABLETANALYSIS1-3=Для під'єднаних об'єктів він покаже інформацію, записану в пам'яті.
+PC15D_TABLETANALYSIS1-3=Для певних під'єднаних об'єктів він покаже інформацію, записану в пам'яті.
 
 
 # Mink
 ### But you can also put any organic matter, liquid or solid.
-PC15D_TABLETANALYSIS1-4=Але ви також можете покласти будь-яку органічну речовину - рідку чи тверду.
+PC15D_TABLETANALYSIS1-4=Але ви також можете покласти туди будь-яку органічну речовину - рідку чи тверду.
 
 
 # Brok
@@ -1511,7 +1511,7 @@ PC15D_TABLETANALYSIS2-1=Треба покласти сюди під'єднани
 #----------------------------------------------------
 # Unknown
 ### "This is an Accel500 pill in 1bg dosage."
-PC15D_TABLETANALYSIS_PILLHUSH-1="Це пігулка Аксель-500 у дозуванні 1bg."
+PC15D_TABLETANALYSIS_PILLHUSH-1="Це пігулка Аксель-500 у дозуванні 1бг."
 
 
 # Brok
@@ -1602,7 +1602,7 @@ PC15D_TABLETANALYSIS_MINKLAMP-3="Ця лампа підтримує такі ф�
 
 # Brok
 ### All necessary stuff for a lamp, for sure.
-PC15D_TABLETANALYSIS_MINKLAMP-4=Усе необхідне для лампи, безперечно.
+PC15D_TABLETANALYSIS_MINKLAMP-4=Безперечно, усе, що необхідне для лампи.
 
 
 # Unknown
@@ -1637,7 +1637,7 @@ PC15D_TABLETANALYSIS_MINKLAMP-10=Ось. "Серйозний удар об 11:02
 
 # Ott
 ### Let me check?
-PC15D_TABLETANALYSIS_MINKLAMP-11=Давай перевірю?
+PC15D_TABLETANALYSIS_MINKLAMP-11=Дайте перевірю?
 
 
 # Ott
@@ -1647,12 +1647,12 @@ PC15D_TABLETANALYSIS_MINKLAMP-12=...
 
 # Ott
 ### You're right. That's the only relevant information on there.
-PC15D_TABLETANALYSIS_MINKLAMP-13=Ти маєш рацію. Це єдина важлива інформація тут.
+PC15D_TABLETANALYSIS_MINKLAMP-13=Ви маєте рацію. Це єдина важлива інформація тут.
 
 
 # Ott
 ### So... Is this the murder weapon after all?
-PC15D_TABLETANALYSIS_MINKLAMP-14=То... це все-таки знаряддя вбивства?
+PC15D_TABLETANALYSIS_MINKLAMP-14=То... Це все-таки знаряддя вбивства?
 
 
 # Brok
@@ -1678,7 +1678,7 @@ PC15D_TABLETANALYSIS_TABLETHUSH-3=...Ага?
 
 # Mink
 ### Did you expect it to reveal the information inside?
-PC15D_TABLETANALYSIS_TABLETHUSH-4=Ви сподівалися, що він покаже інформацію з нього?
+PC15D_TABLETANALYSIS_TABLETHUSH-4=Ви сподівалися, що він дозволить прочитати інформацію?
 
 
 # Brok
@@ -1737,13 +1737,13 @@ PC15D_TABLETANALYSIS_CATFUR-1="Сіра котяча шерсть із висо�
 
 # Unknown
 ### "To avoid this, use our brand new product - FleeFleas!"
-PC15D_TABLETANALYSIS_CATFUR-2="Щоб цього уникнути, скористайтеся нашим новим продуктом - Флі-Фліз!"
+PC15D_TABLETANALYSIS_CATFUR-2="Щоб цього уникнути, скористайтеся нашим новим продуктом - АнтиБліх!"
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Ads?!
-PC15D_TABLETANALYSIS_CATFUR-3=Реклами?!
+PC15D_TABLETANALYSIS_CATFUR-3=Реклама?!
 
 
 # Mink
@@ -1895,7 +1895,7 @@ PC15D_RIGHTHAND_LAMP-1=Вона пікнула!
 
 # Brok
 ### And... That's it?...
-PC15D_RIGHTHAND_LAMP-2=І... це все...?
+PC15D_RIGHTHAND_LAMP-2=І... Це все...?
 
 
 # Mink
@@ -1942,7 +1942,7 @@ PC15D_RIGHTHAND_TABLETHUSH1-4=Планшет доктора Гаша. Він р�
 
 # Mink
 ### I'm surprised. I thought this wouldn't happen, considering...
-PC15D_RIGHTHAND_TABLETHUSH1-5=Дивуюся. Я думав, цього не станеться, зважаючи на...
+PC15D_RIGHTHAND_TABLETHUSH1-5=Я здивований. Думав, цього не станеться, зважаючи на...
 
 
 # Brok
@@ -1958,7 +1958,7 @@ PC15D_RIGHTHAND_TABLET1B-1=Гмм...
 
 # Brok
 ### Looks like... He transferred some data?
-PC15D_RIGHTHAND_TABLET1B-2=Схоже... він передав якісь дані?
+PC15D_RIGHTHAND_TABLET1B-2=Схоже... Він передав якісь дані?
 
 
 # Mink
@@ -1968,7 +1968,7 @@ PC15D_RIGHTHAND_TABLET1B-3=Дайте гляну?
 
 # Mink
 ### You're right. That's an external file transfer... of his current project. "AI-update-302305.zyl"
-PC15D_RIGHTHAND_TABLET1B-4=Ви маєте рацію. Це зовнішнє передавання файлу... його поточного проєкту. "AI-update-302305.zyl"
+PC15D_RIGHTHAND_TABLET1B-4=Ви маєте рацію. Це зовнішнє передавання файлу... його поточного проєкту. "ШІ-оновлення-302305.zyl"
 
 
 # Brok
@@ -1998,7 +1998,7 @@ PC15D_RIGHTHAND_TABLET1B-9=Я не можу точно знати, хто отр
 
 # Mink
 ### Considering the metadata... this must be someone high ranked.
-PC15D_RIGHTHAND_TABLET1B-10=Зважаючи на метадані... це, мабуть, хтось із високого рангу.
+PC15D_RIGHTHAND_TABLET1B-10=Зважаючи на метадані... це, мабуть, хтось високого рангу.
 
 
 # Mink
@@ -2024,7 +2024,7 @@ PC15D_RIGHTHAND_TABLET1B-14=У цьому немає жодної логіки. 
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Do you think this might be linked to our case, Mister Brok?
-PC15D_RIGHTHAND_TABLET1B-15=Як думаєш, це може бути пов'язано з нашою справою, пане Броку?
+PC15D_RIGHTHAND_TABLET1B-15=Як думаєте, це може бути пов'язано з нашою справою, пане Броку?
 
 
 # Brok
@@ -2066,7 +2066,7 @@ PC15D_RIGHTHAND_TABLETHUSH2-5=Чудово... Аж поки зовнішній �
 #----------------------------------------------------
 # Brok
 ### His position suggests...
-PC15D_JACKET1-1=Його поза підказує...
+PC15D_JACKET1-1=Його поза вказує нам на те, що...
 
 
 # Brok
@@ -2181,7 +2181,7 @@ PC15D_SPOTDEVICE1-2=Це було б логічно, якби вона вдар�
 #----------------------------------------------------
 # Brok
 ### Blood here?...
-PC15D_SPOTJACKET1-1=Тут кров...?
+PC15D_SPOTJACKET1-1=Тут є кров...?
 
 
 # Brok
@@ -2198,19 +2198,19 @@ PC15D_SPOTJACKET_AFTER1-1=Гмм! Мені подобається цей соу�
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Mister Brok... You should really refrain from... doing that...
-PC15D_SPOTJACKET_AFTER1-2=Пане Броку... Тобі справді варто утриматися від... такого...
+PC15D_SPOTJACKET_AFTER1-2=Пане Броку... Вам справді варто утриматися від... цього...
 
 
 #----------------------------------------------------
 # Brok - More room interactions
 ### I heard some sound coming from the room earlier...
-PC15D_SPEAKER1-1=Раніше я чув якийсь звук із тієї кімнати...
+PC15D_SPEAKER1-1=Раніше я чув якісь звуки із цієї кімнати...
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Must have been output from there. I guess Dr. Mink was listening to music?
-PC15D_SPEAKER1-2=Певно, це був звук звідти. Мабуть, доктор Мінк слухав музику?
+PC15D_SPEAKER1-2=Певно, вони лунали звідси. Мабуть, доктор Мінк слухав музику?
 
 
 #----------------------------------------------------
@@ -2243,7 +2243,7 @@ PC15D_SPEAKER_AFTER1-4=А я думав, ви, науковці, просто к
 
 # Brok
 ### So... You were dancin'?
-PC15D_SPEAKER_AFTER1-5=То... ви танцювали?
+PC15D_SPEAKER_AFTER1-5=То... Ви танцювали?
 
 
 # Mink
@@ -2253,7 +2253,7 @@ PC15D_SPEAKER_AFTER1-6=...Будь ласка, не сипте сіль на р�
 
 # Brok
 ### What music?
-PC15D_SPEAKER_AFTER1-7=Яка музика?
+PC15D_SPEAKER_AFTER1-7=Яка саме музика?
 
 
 # Mink
@@ -2268,7 +2268,7 @@ PC15D_SPEAKER_AFTER1-9=Може бути.
 
 # Mink
 ### "TechDream". It's a very catchy tune. I can never get it out of my head!
-PC15D_SPEAKER_AFTER1-10="ТехноМрія". Дуже вловиста мелодія. Вона ніяк не виходить у мене з голови!
+PC15D_SPEAKER_AFTER1-10="ТехноМрія". Дуже захоплива мелодія. Вона ніяк не виходить у мене з голови!
 
 
 # Brok
@@ -2309,7 +2309,7 @@ PC15D_SPEAKER_AFTER1_NORMAL-3=Ну... Це коротка версія.
 
 # Mink
 ### That's when we saw the body which just popped out of no where.
-PC15D_SPEAKER_AFTER1_NORMAL-4=Саме тоді ми побачили тіло, яке просто з'явилося з нізвідки.
+PC15D_SPEAKER_AFTER1_NORMAL-4=Саме тоді ми побачили тіло, яке просто взялося нізвідки.
 
 
 # Brok
@@ -2330,7 +2330,7 @@ PC15D_SPEAKER_AFTER1_BREAK-2=То однозначно так.
 
 # Brok
 ### Sorry about that. You should have opened it the first time.
-PC15D_SPEAKER_AFTER1_BREAK-3=Вибачте за це. Треба було відчинити з першого разу.
+PC15D_SPEAKER_AFTER1_BREAK-3=Вибачте за це. Вам треба було відчинити з першого разу.
 
 
 # Mink
@@ -2340,13 +2340,13 @@ PC15D_SPEAKER_AFTER1_BREAK-4=Я злякався...!
 
 # Brok
 ### And I have little patience.
-PC15D_SPEAKER_AFTER1_BREAK-5=А в мене мало терпіння.
+PC15D_SPEAKER_AFTER1_BREAK-5=А в мене було мало терпіння.
 
 
 #----------------------------------------------------
 # Brok
 ### Dancing, uh?...
-PC15D_SPEAKER_AFTER2-1=Танцюєте, га...?
+PC15D_SPEAKER_AFTER2-1=То ви танцюєте, га...?
 
 
 # Mink
@@ -2362,7 +2362,7 @@ PC15D_SPEAKER_AFTER2-3=Гей, кожна дрібниця має значенн
 #----------------------------------------------------
 # Brok
 ### Ugh... Really not my kind of art.
-PC15D_WINDOW1-1=Фе... Це зовсім не моє мистецтво.
+PC15D_WINDOW1-1=Пхе... Це зовсім не моє мистецтво.
 
 
 # Mink
@@ -2374,12 +2374,12 @@ PC15D_WINDOW1-2=У вас немає смаку.
 # Brok
 # NB: Lexicon word in Ukrainian for "DigiWindow": "Цифрове вікно"
 ### No full wall environment? Just a small DigiWindow?
-PC15D_WINDOW2-1=Немає повноцінного середовища на всю стіну? Тільки маленьке Цифрове вікно?
+PC15D_WINDOW2-1=Ніякого середовища на всю стіну? Тільки маленьке Цифрове вікно?
 
 
 # Mink
 ### High-ranked experts like us can't afford to get distracted by gadgets.
-PC15D_WINDOW2-2=Експерти нашого рівня не можуть дозволити собі відволікатися на ґаджети.
+PC15D_WINDOW2-2=Експерти нашого рівня не можуть дозволити собі відволікатися на гаджети.
 
 
 #----------------------------------------------------
@@ -2396,7 +2396,7 @@ PC15D_WINDOW3-2=Не дивно, що ви не ладнали.
 
 # Mink
 ### That's not true. We did great work on our own sides.
-PC15D_WINDOW3-3=Це неправда. Ми чудово працювали кожен на своєму боці.
+PC15D_WINDOW3-3=Це неправда. Ми чудово працювали, кожен на своєму боці.
 
 
 # Brok
@@ -2412,12 +2412,12 @@ PC15D_SINK1-1=Квіти, що звисають зі стелі, капають 
 
 # Mink
 ### The juice from Hangalis Wallis boosts focus and memory.
-PC15D_SINK1-2=Сік із Хангаліса Волліса покращує концентрацію та пам'ять.
+PC15D_SINK1-2=Сік із Висостінника покращує концентрацію та пам'ять.
 
 
 # Mink
 ### And it's so refreshing! I just can't do without it!
-PC15D_SINK1-3=І він такий освіжаючий! Я просто не можу без нього!
+PC15D_SINK1-3=І він так освіжає! Я просто не можу без нього!
 
 
 # Mink
@@ -2428,7 +2428,7 @@ PC15D_SINK1-4=Хочете трохи?
 #----------------------------------------------------
 # Brok
 ### Definitely!
-PC15D_SINK_DRINKYES1-1=Безумовно!
+PC15D_SINK_DRINKYES1-1=Ще й як!
 
 
 # Mink
@@ -2444,7 +2444,7 @@ PC15D_SINK_DRINKYES2-1=Гмм!!!
 
 # Brok
 ### Feels like there's a party in my mouth and everyone is eating cakes with all the flavors in the world!
-PC15D_SINK_DRINKYES2-2=Таке відчуття, ніби в роті вечірка, і всі їдять тістечка з усіма смаками світу!
+PC15D_SINK_DRINKYES2-2=Таке відчуття, ніби в роті вечірка, і всі їдять тістечка з усіма можливими смаками світу!
 
 
 # Mink
@@ -2471,7 +2471,7 @@ PC15D_SINK_DRINKNO-2=Неможливо!
 
 # Mink
 ### I add Chloroephodria Tribendexene everyday to filter it, with some Ditoxin Tetrachlorodibenzate-q-17 to help preserve it from rotting.
-PC15D_SINK_DRINKNO-3=Я щодня додаю Хлоро-ефодрію Трибендексен, щоб профільтрувати його, та трохи Дитоксину Тетрахлородибензату-q-17, щоб захистити від гниття.
+PC15D_SINK_DRINKNO-3=Я щодня додаю Хлороефодрію Трибендексен, щоб профільтрувати його, та трохи Дитоксину Тетрахлородибензату-q-17, щоб захистити від гниття.
 
 
 # Brok
@@ -2498,7 +2498,7 @@ PC15D_SINK_DRAIN1-2=Запізно.
 
 # Mink
 ### Do you have any idea what you've just done?!
-PC15D_SINK_DRAIN1-3=Ви хоч розумієте, що ви щойно накоїли?!
+PC15D_SINK_DRAIN1-3=Ви хоч розумієте, що ви накоїли?!
 
 
 # Mink
@@ -2565,7 +2565,7 @@ PC15D_SINK_DRINKPITCH-5=Тепер кілька хвилин ви звучати
 
 # Brok
 ### Oh well. It was worth it!
-PC15D_SINK_DRINKPITCH-6=Ну, нічого. Воно того варте!
+PC15D_SINK_DRINKPITCH-6=Ну, нічого. Воно було того варте!
 
 
 #----------------------------------------------------
@@ -2593,7 +2593,7 @@ PC15D_STAIN1-1=Це кров...?
 
 # Brok
 ### It looks... stretched.
-PC15D_STAIN1-2=Виглядає... розтягнутою.
+PC15D_STAIN1-2=Пляма виглядає... якоюсь розтягнутою.
 
 
 #----------------------------------------------------
@@ -2605,7 +2605,7 @@ PC15D_STAIN_AFTER1-1=(Сьорбає)
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Not blood either. Tastes like Tomatoze sauce.
-PC15D_STAIN_AFTER1-2=І не кров. На смак - соус томатози.
+PC15D_STAIN_AFTER1-2=Теж не кров. На смак - соус томатози.
 
 
 #----------------------------------------------------
@@ -2637,7 +2637,7 @@ PC15D_CANISTER1-5=Ні!
 #----------------------------------------------------
 # Brok
 ### What are these for?
-PC15D_CANISTER2-1=Для чого вони?
+PC15D_CANISTER2-1=Для чого це?
 
 
 # Mink
@@ -2652,7 +2652,7 @@ PC15D_CANISTER2-3=Я з'ясував, що занурення нанітів у 
 
 # Brok
 ### But then... Nanites aren't supposed to be injected into human bodies?
-PC15D_CANISTER2-4=Але ж... наніти не можна вводити в людське тіло?
+PC15D_CANISTER2-4=Але ж... Як тоді вводити нанітів в людське тіло?
 
 
 # Mink
@@ -2683,7 +2683,7 @@ PC15D_CANISTER3-3=Навіть якби мав, я нізащо не відпо�
 
 # Brok
 ### So... It's true?
-PC15D_CANISTER3-4=То... це правда?
+PC15D_CANISTER3-4=То... Це правда?
 
 
 # Mink
@@ -2719,7 +2719,7 @@ PC15D_COLUMN1-5=Цим можна когось поранити?
 
 # Mink
 ### At maximum power it could burn your skin.
-PC15D_COLUMN1-6=На максимальній потужності вона може спалити вам шкіру.
+PC15D_COLUMN1-6=На максимальній потужності це може спалити вам шкіру.
 
 
 # Brok
@@ -2735,34 +2735,34 @@ PC15D_COLUMN1-8=Хіба якщо стояти під ним роками.
 #----------------------------------------------------
 # Brok
 ### Why is it pointing towards the floor?
-PC15D_COLUMN2-1=Чому вона світить у підлогу?
+PC15D_COLUMN2-1=Чому промінь світить у підлогу?
 
 
 # Brok
 ### There's nothing there.
-PC15D_COLUMN2-2=Там нічого немає.
+PC15D_COLUMN2-2=Там же нічого немає.
 
 
 # Mink
 ### I only use it when sleeping. It automatically gets pointed on myself.
-PC15D_COLUMN2-3=Я користуюся нею лише під час сну. Вона автоматично спрямовується на мене.
+PC15D_COLUMN2-3=Я користуюся цим лише під час сну. Промінь автоматично спрямовується на мене.
 
 
 # Brok
 ### Then why keep it active? Isn't that a waste?
-PC15D_COLUMN2-4=То навіщо тримати її ввімкненою? Хіба це не марна трата?
+PC15D_COLUMN2-4=То навіщо тримати його ввімкненим? Хіба це не марна трата?
 
 
 # Mink
 ### Who cares?!
-PC15D_COLUMN2-5=Кого це хвилює?!
+PC15D_COLUMN2-5=А кого це хвилює?!
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### ...I don't know. Maybe the thousands of Slumers craving for resources?...
-PC15D_COLUMN2-6=...Не знаю. Може, тисячі мешканців Нетрів, які прагнуть ресурсів...?
+PC15D_COLUMN2-6=...Не знаю. Може, тисячі мешканців Нетрів, які страждають від нестачі ресурсів...?
 
 
 #----------------------------------------------------
@@ -2779,7 +2779,7 @@ PC15D_COLUMN3-2=Ви спрямували його на доктора Гаша,
 
 # Mink
 ### Then you already died without knowing it, considering how many times you passed under it.
-PC15D_COLUMN3-3=Тоді ви вже давно померли, самі того не знаючи, якщо зважити, скільки разів проходили під ним.
+PC15D_COLUMN3-3=Тоді ви вже давно померли б, самі того не знаючи, якщо врахувати, скільки разів ви проходили під ним.
 
 
 # Brok
@@ -2796,12 +2796,12 @@ PC15D_BED_OTT1-1=Пане Броку...?
 
 # Ott
 ### There's no time to sleep!
-PC15D_BED_OTT1-2=Немає часу спати!
+PC15D_BED_OTT1-2=Немає часу на сон!
 
 
 # Brok
 ### Just... testing if something is unusual about this bed!
-PC15D_BED_OTT1-3=Просто... перевіряю, чи немає в цьому ліжку чогось незвичного!
+PC15D_BED_OTT1-3=Я просто... перевіряю, чи немає в цьому ліжку чогось незвичного!
 
 
 # Ott
@@ -2811,12 +2811,12 @@ PC15D_BED_OTT1-4=І що?
 
 # Brok
 ### It's... Erm...
-PC15D_BED_OTT1-5=Це... Е-е...
+PC15D_BED_OTT1-5=Воно... Е-е...
 
 
 # Brok
 ### Unusally comfortable compared to mine!
-PC15D_BED_OTT1-6=Незвично зручне порівняно з моїм!
+PC15D_BED_OTT1-6=Незвичайно зручне, порівняно з моїм!
 
 
 #----------------------------------------------------
@@ -2847,7 +2847,7 @@ PC15D_BED1-5=Гаразд. Відпочиньте.
 
 # Mink
 ### You'll just have to explain to your superior why this investigation is taking so long.
-PC15D_BED1-6=Просто доведеться пояснити вашому начальству, чому це розслідування так затяглося.
+PC15D_BED1-6=А я потім поясню вашому керівнику, чому це розслідування так затягнулося.
 
 
 # Brok
@@ -2873,7 +2873,7 @@ PC15D_BED2-3=Ви самі перете білизну?
 
 # Mink
 ### Are you kidding?
-PC15D_BED2-4=Ви жартуєте?
+PC15D_BED2-4=Жартуєте?
 
 
 # Mink
@@ -2934,7 +2934,7 @@ PC15D_WALKBODY2-1=Не можу повірити...
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Mister Brok! What are you doing?!
-PC15D_WALKBODY3-1=Пане Броку! Що ти робиш?!
+PC15D_WALKBODY3-1=Пане Броку! Що ви робите?!
 
 
 # Brok
@@ -2944,7 +2944,7 @@ PC15D_WALKBODY3-2=Шукаю зачіпки, авжеж.
 
 # Ott
 ### By... walking over him?
-PC15D_WALKBODY3-3=Тим, що... ходиш по ньому?
+PC15D_WALKBODY3-3=Тим, що... ходите по ньому?
 
 
 # Brok
@@ -2997,12 +2997,12 @@ PC15D_JUMPBODY2B-2=...
 
 # Mink
 ### Doctor Hush?!
-PC15D_JUMPBODY2B-3=Доктор Гаш?!
+PC15D_JUMPBODY2B-3=Докторе Гаше?!
 
 
 # Brok
 ### You... You're...!
-PC15D_JUMPBODY2B-4=Ти... Ти...!
+PC15D_JUMPBODY2B-4=Ви... Ви...!
 
 
 # Hush
@@ -3022,7 +3022,7 @@ PC15D_JUMPBODY2B-7=І... хто ви?
 
 # Brok
 ### An investigator! We thought you were dead!
-PC15D_JUMPBODY2B-8=Слідчий! Ми думали, ти мертвий!
+PC15D_JUMPBODY2B-8=Я слідчий! Ми думали, що ви мертвий!
 
 
 # Hush
@@ -3062,7 +3062,7 @@ PC15D_JUMPBODY2B-15=Неможливо... Він не дихав...
 
 # Brok
 ### What's the last thing you remember?
-PC15D_JUMPBODY2B-16=Що ти пам'ятаєш з останнього?
+PC15D_JUMPBODY2B-16=Що ви пам'ятаєте з останнього?
 
 
 # Hush
@@ -3072,18 +3072,18 @@ PC15D_JUMPBODY2B-17=Ну...
 
 # Hush
 ### I remember... falling from the ventilation duct...
-PC15D_JUMPBODY2B-18=Я пам'ятаю... як падав із вентиляційного каналу...
+PC15D_JUMPBODY2B-18=Я пам'ятаю... як упав із вентиляційного каналу...
 
 
 # Hush
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Moving towards Dr. Mink...
-PC15D_JUMPBODY2B-19=Прямуючи до доктора Мінка...
+PC15D_JUMPBODY2B-19=Потім рухався в сторону доктора Мінка...
 
 
 # Brok
 ### The vent? What were you doing there?
-PC15D_JUMPBODY2B-20=У вентиляції? Що ти там робив?
+PC15D_JUMPBODY2B-20=У вентиляції? Що ви там робили?
 
 
 # Hush
@@ -3104,7 +3104,7 @@ PC15D_JUMPBODY2B-23=Перед цим... Я...
 # Hush
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### I took my coffee. Tidy prepared it...
-PC15D_JUMPBODY2B-24=Я взяв свою каву. Тайді її зробив...
+PC15D_JUMPBODY2B-24=Я пив свою каву. Тайді її зробив...
 
 
 # Brok
@@ -3120,7 +3120,7 @@ PC15D_JUMPBODY2B-26=Мій робот-помічник...
 
 # Hush
 ### When I drank... My heart...
-PC15D_JUMPBODY2B-27=Коли я випив... Моє серце...
+PC15D_JUMPBODY2B-27=Коли я випив її... Моє серце...
 
 
 # Hush
@@ -3130,7 +3130,7 @@ PC15D_JUMPBODY2B-28=Зупинилося...
 
 # Mink
 ### You've been poisoned?
-PC15D_JUMPBODY2B-29=Тебе отруїли?
+PC15D_JUMPBODY2B-29=Вас отруїли?
 
 
 # Brok
@@ -3251,7 +3251,7 @@ PC15D_FIRST4-2=Але...! Тут немає жодної логіки!
 
 # Brok
 ### So much for "looking all over the place", huh?
-PC15D_FIRST4-3=То це й усе твоє "обшукав усе кругом", га?
+PC15D_FIRST4-3=То це твоє "обшукав усе кругом", га?
 
 
 # Guard
@@ -3261,7 +3261,7 @@ PC15D_FIRST4-4=Присягаюся! Його там не було!
 
 # Mink
 ### It's true! What the heck is going on here?!
-PC15D_FIRST4-5=Це правда! Що тут, у біса, коїться?!
+PC15D_FIRST4-5=Це правда! Що тут, в біса, коїться?!
 
 
 # Brok
@@ -3289,7 +3289,7 @@ PC15D_FIRST4-9=Тепер я все зрозумів!
 # Guard
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Mink! You wouldn't let me in when I checked this morning!
-PC15D_FIRST4-10=Мінку! Ви не пустили мене, коли я перевіряв уранці!
+PC15D_FIRST4-10=Мінку! Ви не пустили мене, коли я перевіряв кімнату вранці!
 
 
 # Guard
@@ -3309,7 +3309,7 @@ PC15D_FIRST4-13=Ви з'їхали з глузду!
 
 # Guard
 ### There's a corpse in your room, man! Whadd'ya have to say about that?!
-PC15D_FIRST4-14=У вашій кімнаті труп, чоловіче! Що ви на це скажете?!
+PC15D_FIRST4-14=Чуваче, у вашій кімнаті труп! Що ви на це скажете?!
 
 
 # Brok
@@ -3319,7 +3319,7 @@ PC15D_FIRST4-15=Ну-ну. Заспокойтеся.
 
 # Brok
 ### This murder case is in my hands. Let's not jump to conclusions.
-PC15D_FIRST4-16=Ця справа про вбивство в моїх руках. Не поспішаймо з висновками.
+PC15D_FIRST4-16=Ця справа про вбивство тепер знаходиться в моїх руках. Не будемо поспішати з висновками.
 
 
 # Brok
@@ -3330,22 +3330,22 @@ PC15D_FIRST4-17=Охоронцю. Заблокуй усі виходи.
 
 # Guard
 ### Already done, big snout!
-PC15D_FIRST4-18=Уже зроблено, носачу!
+PC15D_FIRST4-18=Уже зроблено, довгомордий!
 
 
 # Brok
 ### Then block all communications from outside!
-PC15D_FIRST4-19=Тоді заблокуй будь-який зв'язок із зовні!
+PC15D_FIRST4-19=Тоді заблокуй будь-який зв'язок із зовнішнім світом!
 
 
 # Brok
 ### Nobody enters or exits this building, and no data either!
-PC15D_FIRST4-20=Ніхто не входить і не виходить із цієї будівлі, і жодних даних назовні!
+PC15D_FIRST4-20=Ніхто не заходить і не виходить з будівлі, у тому числі й цифрові дані!
 
 
 # Guard
 ### On my way.
-PC15D_FIRST4-21=Уже йду.
+PC15D_FIRST4-21=Буде зроблено.
 
 
 #----------------------------------------------------
@@ -3396,17 +3396,17 @@ PC15D_FIRST5-9=Але навіть якщо ви невинні...
 
 # Brok
 ### What do you think might happen if I don't find the culprit?
-PC15D_FIRST5-10=Як думаєте, що станеться, коли я не знайду винуватця?
+PC15D_FIRST5-10=Як думаєте, що станеться, якщо я не знайду винуватця?
 
 
 # Brok
 ### Who's to say you're not the next one on the list?
-PC15D_FIRST5-11=Хто сказав, що ви не наступний у списку?
+PC15D_FIRST5-11=Хто сказав, що ви не станете наступним у списку?
 
 
 # Mink
 ### Gulp!...
-PC15D_FIRST5-12=(Ковтає слину)...
+PC15D_FIRST5-12=(Ковтає слину)
 
 
 # Mink
@@ -3416,7 +3416,7 @@ PC15D_FIRST5-13=...
 
 # Mink
 ### Rats. Even dead, that guy keeps aggravating me.
-PC15D_FIRST5-14=Дідько. Навіть мертвий, цей тип мене дістає.
+PC15D_FIRST5-14=Дідько. Навіть мертвим, цей тип мене дістає.
 
 
 # Brok
@@ -3431,7 +3431,7 @@ PC15D_FIRST5-16=Заощаджу вам час.
 
 # Mink
 ### I'll follow you around so you can keep an eye on me.
-PC15D_FIRST5-17=Я ходитиму за вами, щоб ви могли за мною наглядати.
+PC15D_FIRST5-17=Я ходитиму слідом за вами, щоб ви могли за мною наглядати.
 
 
 # Brok
@@ -3452,7 +3452,7 @@ PC15D_FIRST6OTTKO-2=Я... не очікував такого...
 
 # Brok
 ### Me neither... But I'm gonna solve this.
-PC15D_FIRST6OTTKO-3=Я теж... Але я це розкрию.
+PC15D_FIRST6OTTKO-3=Я теж... Але я розкрию цю справу.
 
 
 # Ott
@@ -3479,7 +3479,7 @@ PC15D_FIRST6-1=Я вражений, пане Броку!
 
 # Ott
 ### Even with all that, you keep your cool!
-PC15D_FIRST6-2=Навіть попри все це ти зберігаєш спокій!
+PC15D_FIRST6-2=Навіть попри все це ви зберігаєте спокій!
 
 
 # Brok
@@ -3489,7 +3489,7 @@ PC15D_FIRST6-3=Е-е... Ага?
 
 # Ott
 ### Did you already solve a murder case before?
-PC15D_FIRST6-4=Ти вже колись розкривав справу про вбивство?
+PC15D_FIRST6-4=Ви вже колись розкривали справу про вбивство?
 
 
 # Brok
@@ -3501,7 +3501,7 @@ PC15D_FIRST6-5=Не пригадую такого...
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
 # NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
 ### But I watched some noir livies when I was young. Seemed like the appropriate things to say!
-PC15D_FIRST6-6=Але в молодості я дивився нуарні голографічні ролики. Здавалося, що казати треба саме таке!
+PC15D_FIRST6-6=Але в молодості я дивився серіали в жанрі нуар. Тож мені здалося, що ці слова підходять до ситуації!
 
 
 # Ott
@@ -3511,7 +3511,7 @@ PC15D_FIRST6-7=О...
 
 # Ott
 ### Well, you're still pretty cool.
-PC15D_FIRST6-8=Ну, ти все одно доволі крутий.
+PC15D_FIRST6-8=Ну, ви все одно доволі крутий.
 
 
 # Brok
@@ -3527,7 +3527,7 @@ PC15D_FIRST6B-1=...
 
 # Brok
 ### (Why is this happening to me?... Can't I have a normal day, for once?!)
-PC15D_FIRST6B-2=(Чому це трапляється саме зі мною...? Невже не можна хоч раз прожити звичайний день?!)
+PC15D_FIRST6B-2=(Чому це сталося саме зі мною...? Невже не можна хоч раз прожити звичайний день?!)
 
 
 #----------------------------------------------------
@@ -3538,7 +3538,7 @@ PC15D_STORY160_A-1=І що...? Що тут коїться?
 
 # Guard
 ### Found the culprit?
-PC15D_STORY160_A-2=Знайшов винуватця?
+PC15D_STORY160_A-2=Ти знайшов винуватця?
 
 
 # Brok
@@ -3568,7 +3568,7 @@ PC15D_STORY160_A-7=Він лише хлопчик...
 
 # Ott
 ### No! It's true. I can explain.
-PC15D_STORY160_A-8=Ні! Це правда. Я можу пояснити.
+PC15D_STORY160_A-8=Ні! Все так. Я можу пояснити.
 
 
 # Ott
@@ -3578,7 +3578,7 @@ PC15D_STORY160_A-9=Гаразд, отже...
 
 # Ott
 ### This is a closed-door murder.
-PC15D_STORY160_A-10=Це вбивство в замкненому приміщенні.
+PC15D_STORY160_A-10=Це вбивство в замкненій кімнаті.
 
 
 # Ott
@@ -3609,7 +3609,7 @@ PC15D_STORY160_A-15=Тіло вперше побачили, коли ми зай
 # Ott
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### It appears Dr. Hush has been struck on the head and died due to the impact.
-PC15D_STORY160_A-16=Схоже, доктор Гаш отримав удар по голові й помер від удару.
+PC15D_STORY160_A-16=Схоже, доктор Гаш отримав удар по голові й помер від цієї травми.
 
 
 # Ott
@@ -3678,13 +3678,13 @@ PC15D_STORY160_A-28=Нічого незвичного не сталося.
 
 # Ott
 ### Let's continue.
-PC15D_STORY160_A-29=Продовжімо.
+PC15D_STORY160_A-29=Продовжимо.
 
 
 # Ott
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush could have gone to the restroom and been killed there.
-PC15D_STORY160_A-30=Доктор Гаш міг піти до вбиральні й там його вбили.
+PC15D_STORY160_A-30=Можливо, Доктор Гаш пішов до вбиральні, де його й убили.
 
 
 # Ott
@@ -3712,7 +3712,7 @@ PC15D_STORY160_A-34=Якби його якось винесли з вбирал�
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### We've checked the restroom. There's no access between it and Dr. Mink's room.
-PC15D_STORY160_A-35=Ми перевірили вбиральню. Між нею й кімнатою доктора Мінка немає проходу.
+PC15D_STORY160_A-35=Ми перевірили вбиральню. Між нею та кімнатою доктора Мінка немає проходу.
 
 
 # Ott
@@ -3750,7 +3750,7 @@ PC15D_STORY160_A-41=Я розглядав інші варіанти. Може, �
 
 # Ott
 ### After all, he's free to roam between the rooms for his cleaning duty.
-PC15D_STORY160_A-42=Зрештою, він вільно пересувається між кімнатами, прибираючи.
+PC15D_STORY160_A-42=Зрештою, завдяки своїм обов'язкам із прибирання, він має право вільно пересуватися між кімнатами.
 
 
 # Ott
@@ -3782,7 +3782,7 @@ PC15D_STORY160_A-47=Хіба що... Він відчинив двері руко
 
 # Ott
 ### Carrying it in the hall? Seems improbable.
-PC15D_STORY160_A-48=Ніс його через коридор? Малоймовірно.
+PC15D_STORY160_A-48=Несучи його через коридор? Малоймовірно.
 
 
 # Ott
@@ -3794,12 +3794,12 @@ PC15D_STORY160_A-49=Охоронець стежив. А ви, докторе, н
 #----------------------------------------------------
 # Mink
 ### How about you, Ratty?!
-PC15D_STORY160_A2-1=А ви, Щурику?!
+PC15D_STORY160_A2-1=А як щодо вас, Щурятко?!
 
 
 # Mink
 ### I bet you killed the doctor in the hall and plopped his remains into my room behind my back!
-PC15D_STORY160_A2-2=Б'юся об заклад, ви вбили доктора в коридорі й підкинули його рештки в мою кімнату за моєю спиною!
+PC15D_STORY160_A2-2=Б'юся об заклад, ви вбили доктора в коридорі й підкинули його труп сюди за моєю спиною!
 
 
 # Guard
@@ -3814,12 +3814,12 @@ PC15D_STORY160_A2-4=А навіщо, по-вашому, я викликав по
 
 # Mink
 ### To disculpate yourself! That's why!
-PC15D_STORY160_A2-5=Щоб себе вигородити! Ось навіщо!
+PC15D_STORY160_A2-5=Щоб відвести від себе підозру! Ось навіщо!
 
 
 # Guard
 ### You dirty rodent! I'll lose my job because of you!
-PC15D_STORY160_A2-6=Ви брудний гризуне! Через вас я втрачу роботу!
+PC15D_STORY160_A2-6=Ви, брудний гризуне! Через вас я втрачу роботу!
 
 
 # Ott
@@ -3845,7 +3845,7 @@ PC15D_STORY160_A2-10=...
 
 # Ott
 ### Which leaves only one person who could do it...
-PC15D_STORY160_A2-11=Отже, залишається лише одна людина, яка могла це зробити...
+PC15D_STORY160_A2-11=Отже, залишається лише одна особа, яка могла це зробити...
 
 
 # Ott
@@ -3867,12 +3867,12 @@ PC15D_STORY160_A2-14=Я ж сказав! Я нікого ніколи не вб�
 # Guard
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Drop it, Mink! You're done for!
-PC15D_STORY160_A2-15=Киньте це, Мінку! З вами покінчено!
+PC15D_STORY160_A2-15=Киньте цю гру, Мінку! Вам вже кінець!
 
 
 # Tidy
 ### Drop?
-PC15D_STORY160_A2-16=Кинь?
+PC15D_STORY160_A2-16=Кинути?
 
 
 # Tidy
@@ -3935,7 +3935,7 @@ PC15D_STORY160_A2-27=Для звичайних людей.
 
 # Ott
 ### But you're entirely focused on your work. This is all your life! You can't afford to lose it!
-PC15D_STORY160_A2-28=Але ви цілком віддані своїй роботі. Це все ваше життя! Ви не можете дозволити собі його втратити!
+PC15D_STORY160_A2-28=Але ви цілком віддані своїй роботі. Це все ваше життя! Ви не можете дозволити собі її втратити!
 
 
 # Ott
@@ -3951,7 +3951,7 @@ PC15D_STORY160_A2-30=Ви не витримали. Схопили перше, щ
 
 # Ott
 ### Your lamp!
-PC15D_STORY160_A2-31=Свою лампу!
+PC15D_STORY160_A2-31=Вашу лампу!
 
 
 # Ott
@@ -3966,7 +3966,7 @@ PC15D_STORY160_A2-33=Ар-р!
 
 # Ott
 ### This was most likely an accident. You hadn't prepared for this.
-PC15D_STORY160_A2-34=Найімовірніше, це сталося випадково. Ви до цього не готувалися.
+PC15D_STORY160_A2-34=Імовірно, це сталося випадково. Ви до цього не готувалися.
 
 
 # Ott
@@ -3997,7 +3997,7 @@ PC15D_STORY160_A2-39=Охоронцю, а ти як думаєш? Ти ж рег
 
 # Guard
 ### Hmm... I did but the weasel wouldn't let me in...
-PC15D_STORY160_A2-40=Гмм... Перевіряв, але ця ласиця мене не впустила...
+PC15D_STORY160_A2-40=Гмм... Я перевіряв, але ця ласиця мене не впустила...
 
 
 # Guard
@@ -4057,7 +4057,7 @@ PC15D_STORY160_A2-51=Н-ні! Я ніколи...
 
 # Mink
 ### These... are for my experiments!...
-PC15D_STORY160_A2-52=Вони... для моїх експериментів...!
+PC15D_STORY160_A2-52=Кислота... вона для моїх експериментів...!
 
 
 # Ott
@@ -4068,12 +4068,12 @@ PC15D_STORY160_A2-53=Коли ми прийшли, ви саме витягли 
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Remember, Mister Brok? He wouldn't let us in!
-PC15D_STORY160_A2-54=Пригадуєш, пане Броку? Він не хотів нас впускати!
+PC15D_STORY160_A2-54=Пригадуєте, пане Броку? Він не хотів нас впускати!
 
 
 # Brok
 ### Which makes perfect sense now...
-PC15D_STORY160_A2-55=І тепер усе остаточно складається...
+PC15D_STORY160_A2-55=Тепер усе стає цілком зрозумілим...
 
 
 # Mink
@@ -4121,7 +4121,7 @@ PC15D_STORY160_CHOICE_NO-3=...
 
 # Mink
 ### So?... Have you been paying attention?...
-PC15D_STORY160_CHOICE_NO-4=І що...? Ви взагалі слухали...?
+PC15D_STORY160_CHOICE_NO-4=Ну що...? Ви взагалі слухали...?
 
 
 # Brok
@@ -4173,7 +4173,7 @@ PC15D_STORY160_CHOICE_NO-13=Уранці я їв мурахобургер...
 
 # Mink
 ### I wiped the stain away... I just forgot to check under here...
-PC15D_STORY160_CHOICE_NO-14=Я витер пляму... Просто забув перевірити під нею...
+PC15D_STORY160_CHOICE_NO-14=Я витер пляму... Просто забув перевірити під краваткою...
 
 
 # Mink
@@ -4195,7 +4195,7 @@ PC15D_STORY160_CHOICE_NO-17=Гей, заждіть! Якого біса?
 
 # Brok
 ### (Slurp)
-PC15D_STORY160_CHOICE_NO-18=(Злизує!)
+PC15D_STORY160_CHOICE_NO-18=(Злизує)
 
 
 # Mink
@@ -4227,7 +4227,7 @@ PC15D_STORY160_CHOICE_NO2-2=Фу!!!
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Oh, my! What are you doing, Mister Brok?...
-PC15D_STORY160_CHOICE_NO2-3=Ой леле! Що ти робиш, пане Броку...?
+PC15D_STORY160_CHOICE_NO2-3=Ой леле! Що ви робите, пане Броку...?
 
 
 # Tidy
@@ -4272,12 +4272,12 @@ PC15D_STORY160_CHOICE_NO2-11=Що...?
 
 # Guard
 ### The heck?!
-PC15D_STORY160_CHOICE_NO2-12=Якого дідька?!
+PC15D_STORY160_CHOICE_NO2-12=Якого біса?!
 
 
 # Ott
 ### Are you serious?...
-PC15D_STORY160_CHOICE_NO2-13=Ти серйозно...?
+PC15D_STORY160_CHOICE_NO2-13=Ви серйозно...?
 
 
 # Brok
@@ -4287,7 +4287,7 @@ PC15D_STORY160_CHOICE_NO2-14=Перевір сам.
 
 # Ott
 ### N-no... I believe you...
-PC15D_STORY160_CHOICE_NO2-15=Н-ні... Я тобі вірю...
+PC15D_STORY160_CHOICE_NO2-15=Н-ні... Я вам вірю...
 
 
 #----------------------------------------------------
@@ -4298,7 +4298,7 @@ PC15D_STORY160_CHOICE_NO3-1=Але тоді... Моя теорія...
 
 # Brok
 ### Has faults, I'm afraid. Gigantic ones.
-PC15D_STORY160_CHOICE_NO3-2=Мушу визнати, у ній є хиби. Величезні.
+PC15D_STORY160_CHOICE_NO3-2=Мушу визнати, у ній є недоліки. Величезні.
 
 
 # Ott
@@ -4313,7 +4313,7 @@ PC15D_STORY160_CHOICE_NO3-4=Я відчував, що все виглядає а
 
 # Brok
 ### Someone's been trying to cover himself.
-PC15D_STORY160_CHOICE_NO3-5=Хтось намагався себе прикрити.
+PC15D_STORY160_CHOICE_NO3-5=Хтось намагався приховати сліди.
 
 
 # Mink
@@ -4323,7 +4323,7 @@ PC15D_STORY160_CHOICE_NO3-6=Яке полегшення...
 
 # Brok
 ### However... This means we took the wrong approach.
-PC15D_STORY160_CHOICE_NO3-7=Однак... Це означає, що ми обрали хибний шлях.
+PC15D_STORY160_CHOICE_NO3-7=Так чи інакше... Це означає, що ми пішли хибним слідом.
 
 
 # Guard
@@ -4343,12 +4343,12 @@ PC15D_STORY160_CHOICE_NO3-10=Не може бути...!
 
 # Guard
 ### Are ya aware I'm not getting paid right now, croc?! I should be home, sleeping!
-PC15D_STORY160_CHOICE_NO3-11=Ти хоч знаєш, що мені зараз не платять, крок?! Я мав би спати вдома!
+PC15D_STORY160_CHOICE_NO3-11=Ти хоч знаєш, що мені зараз не платять, крок?! Я мав би зараз бути вдома, спати!
 
 
 # Brok
 ### I don't care.
-PC15D_STORY160_CHOICE_NO3-12=Мені байдуже.
+PC15D_STORY160_CHOICE_NO3-12=Байдуже.
 
 
 # Brok
@@ -4368,7 +4368,7 @@ PC15D_STORY160_CHOICE_NO3-15=Ар-р...
 
 # Guard
 ### Better be gone before I...
-PC15D_STORY160_CHOICE_NO3-16=Краще зникнути, поки я не...
+PC15D_STORY160_CHOICE_NO3-16=Краще я піду, поки...
 
 
 # Brok
@@ -4400,7 +4400,7 @@ PC15D_STORY160_CHOICE_NO3-21=Не поспішайте мене вітати.
 
 # Brok
 ### You may still very well be the culprit, just trying to confuse us to appear innocent.
-PC15D_STORY160_CHOICE_NO3-22=Цілком можливо, що винуватець - це ви, і ви просто намагаєтеся нас заплутати, щоб здаватися невинним.
+PC15D_STORY160_CHOICE_NO3-22=Цілком можливо, що вбивця - це ви, і ви просто намагаєтеся нас заплутати, щоб здаватися невинним.
 
 
 # Mink
@@ -4415,7 +4415,7 @@ PC15D_STORY160_CHOICE_NO3-24=Що ж, доведеться покластися 
 
 # Mink
 ### When you're done and you've got a plausible theory - that doesn't involve me this time - come and see me.
-PC15D_STORY160_CHOICE_NO3-25=Коли закінчите і матимете переконливу теорію - цього разу без мене - приходьте до мене.
+PC15D_STORY160_CHOICE_NO3-25=Коли закінчите і матимете переконливу теорію - яка не стосуватиметься мене - приходьте сюди.
 
 
 # Brok
@@ -4466,7 +4466,7 @@ PC15D_STORY160_CHARGEMINK1-5=Попроси його приїхати й заб�
 
 # Guard
 ### On my way!
-PC15D_STORY160_CHARGEMINK1-6=Уже біжу!
+PC15D_STORY160_CHARGEMINK1-6=Буде зроблено!
 
 
 # Mink
@@ -4496,7 +4496,7 @@ PC15D_STORY160_CHARGEMINK1-11=...
 
 # Brok
 ### Do you mean...
-PC15D_STORY160_CHARGEMINK1-12=Ви маєте на увазі...?
+PC15D_STORY160_CHARGEMINK1-12=В сенсі...?
 
 
 # Mink
@@ -4516,7 +4516,7 @@ PC15D_STORY160_CHARGEMINK1-15=Я не хотів би нічого більше,
 
 # Mink
 ### A kid... A partner...
-PC15D_STORY160_CHARGEMINK1-16=Дитина... Партнер...
+PC15D_STORY160_CHARGEMINK1-16=Дитина... Друга половинка...
 
 
 # Mink
@@ -4526,7 +4526,7 @@ PC15D_STORY160_CHARGEMINK1-17=Прості миті, які ділиш з тим
 
 # Mink
 ### I'll never know that feeling.
-PC15D_STORY160_CHARGEMINK1-18=Я ніколи не відчую цього.
+PC15D_STORY160_CHARGEMINK1-18=Я ніколи не пізнаю цього відчуття.
 
 
 # Brok
@@ -4541,7 +4541,7 @@ PC15D_STORY160_CHARGEMINK1-20=Ні, пізно. Ви знаєте не гірш�
 
 # Mink
 ### Eventually... I'll be free. One way or another.
-PC15D_STORY160_CHARGEMINK1-21=Зрештою... я вийду на волю. Так чи інакше.
+PC15D_STORY160_CHARGEMINK1-21=Зрештою... Я буду вільний. Так чи інакше.
 
 
 # Ott
@@ -4585,7 +4585,7 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-1=(Прибула ватага триботі�
 
 # Brok
 ### (When I exited the building... I had a terrible feeling.)
-PC15D_STORY160_CHOICE_CHARGEMINK2-2=(Коли я вийшов з будівлі... мене охопило жахливе передчуття.)
+PC15D_STORY160_CHOICE_CHARGEMINK2-2=(Коли я вийшов з будівлі... мене охопило жахливе відчуття.)
 
 
 # Brok
@@ -4596,12 +4596,12 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-3=(Те, що сказав доктор Мін
 
 # Brok
 ### (Is it still possible to make a living while taking care of the ones close to us?)
-PC15D_STORY160_CHOICE_CHARGEMINK2-4=(Чи можна досі заробляти на життя й водночас піклуватися про близьких?)
+PC15D_STORY160_CHOICE_CHARGEMINK2-4=(Чи можна заробляти на життя й водночас піклуватися про своїх близьких?)
 
 
 # Brok
 ### (After this event, I'd never stop asking myself.)
-PC15D_STORY160_CHOICE_CHARGEMINK2-5=(Після цього я вже ніколи не перестану себе питати.)
+PC15D_STORY160_CHOICE_CHARGEMINK2-5=(Після цих подій я вже ніколи не перестану себе питати.)
 
 
 # Brok
@@ -4611,7 +4611,7 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-6=(Чи я справді зробив пра�
 
 # Brok
 ### (If I could start over... I'd probably do things differently.)
-PC15D_STORY160_CHOICE_CHARGEMINK2-7=(Якби я міг почати все спочатку... я, мабуть, зробив би все інакше.)
+PC15D_STORY160_CHOICE_CHARGEMINK2-7=(Якби я міг почати все спочатку... Я, мабуть, зробив би все інакше.)
 
 
 # Brok
@@ -4623,7 +4623,7 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-8=(Але минулого не змінити
 # Ott - Second gathering after reinspecting everything
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### If you don't mind, Mister Brok...
-PC15D_SECONDGATHER1_OTT-1=Якщо ти не проти, пане Броку...
+PC15D_SECONDGATHER1_OTT-1=Якщо ви не проти, пане Броку...
 
 
 # Ott
@@ -4639,29 +4639,29 @@ PC15D_SECONDGATHER1_OTT-3=Як хочеш.
 #----------------------------------------------------
 # Mink
 ### Alright. We're all ears.
-PC15D_SECONDGATHER1-1=Гаразд. Ми - сама увага.
+PC15D_SECONDGATHER1-1=Гаразд. Ми уважно слухаємо.
 
 
 # Brok
 ### Okay.
-PC15D_SECONDGATHER1-2=Гаразд.
+PC15D_SECONDGATHER1-2=Добре.
 
 
 # Brok
 ### After studying this case very carefully...
-PC15D_SECONDGATHER1-3=Ретельно вивчивши цю справу...
+PC15D_SECONDGATHER1-3=Ретельно вивчивши справу...
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### I have reason to believe that the person who murdered Dr. Hush is...
-PC15D_SECONDGATHER1-4=У мене є підстави вважати, що людина, яка вбила доктора Гаша, - це...
+PC15D_SECONDGATHER1-4=У мене є підстави вважати, що вбивця доктора Гаша - це...
 
 
 #----------------------------------------------------
 # Brok
 ### Let's continue this.
-PC15D_SECONDGATHER2-1=Продовжімо.
+PC15D_SECONDGATHER2-1=Продовжимо це.
 
 
 #----------------------------------------------------
@@ -4673,13 +4673,13 @@ PC15D_SECONDGATHER3-1=У мене є нова інформація, яка ма�
 #----------------------------------------------------
 # Brok
 ### So, where was I?...
-PC15D_SECONDGATHER4-1=Тож на чому я зупинився...?
+PC15D_SECONDGATHER4-1=То, на чому я зупинився...?
 
 
 #----------------------------------------------------
 # Brok - Charging Tidy (normal interrogation)
 ### ...Actually not a person!
-PC15D_SECONDGATHER_TIDY1-1=...Насправді не людина!
+PC15D_SECONDGATHER_TIDY1-1=...зовсім не людина!
 
 
 # Brok
@@ -4710,7 +4710,7 @@ PC15D_SECONDGATHER_TIDY1-6=Справді...? Але як...?
 
 # Mink
 ### He didn't have any means or motive to do this!
-PC15D_SECONDGATHER_TIDY1-7=У нього не було ні засобів, ні мотиву це зробити!
+PC15D_SECONDGATHER_TIDY1-7=У нього не було ні засобів, ні мотиву, щоб це це зробити!
 
 
 # Brok
@@ -4721,7 +4721,7 @@ PC15D_SECONDGATHER_TIDY1-8=Ось тут ви помиляєтеся, докто
 
 # Brok
 ### And I'm gonna prove how and why!
-PC15D_SECONDGATHER_TIDY1-9=І я доведу, як і чому!
+PC15D_SECONDGATHER_TIDY1-9=І я доведу, як і чому він це зробив!
 
 
 # Brok
@@ -4764,7 +4764,7 @@ PC15D_CLUE_MURDER_DEATHSTAGED-6=Боюся, що так.
 
 # Brok
 ### There was a wrapper in the bathroom trash can, and as a specialist with that kind of food...
-PC15D_CLUE_MURDER_DEATHSTAGED-7=У смітнику у вбиральні була обгортка, а я ж фахівець із такої їжі...
+PC15D_CLUE_MURDER_DEATHSTAGED-7=В смітнику у вбиральні була обгортка, а я ж експерт із такої їжі...
 
 
 # Brok
@@ -4786,7 +4786,7 @@ PC15D_CLUE_MURDER_DEATHSTAGED-10=Гаразд. У мене є ще докази.
 #----------------------------------------------------
 # Mink
 ### Oooh... I get it now.
-PC15D_CLUE_MURDER_BURGERUNFROZEN-1=Ооо... тепер я розумію.
+PC15D_CLUE_MURDER_BURGERUNFROZEN-1=О-оо... тепер я розумію.
 
 
 # Mink
@@ -4819,7 +4819,7 @@ PC15D_CAUSEOFDEATH_NEXT1-1=Це ще не все. Дещо інше доводи
 #----------------------------------------------------
 # Brok
 ### We retrieved a lamp right next to the body, which obviously seemed like the murder weapon.
-PC15D_CLUE_MURDER_WEAPON-1=Ми знайшли лампу просто біля тіла, яка, очевидно, здавалася знаряддям вбивства.
+PC15D_CLUE_MURDER_WEAPON-1=Ми знайшли лампу просто біля тіла, і вона, очевидно, здалася нам знаряддям вбивства.
 
 
 # Brok
@@ -4850,7 +4850,7 @@ PC15D_CLUE_MURDER_WEAPON-6=Медичне відстеження доктора 
 
 # Brok
 ### Do you believe he could have died hours before receiving a fatal blow to the head?...
-PC15D_CLUE_MURDER_WEAPON-7=Ви вірите, що він міг померти за години до фатального удару по голові...?
+PC15D_CLUE_MURDER_WEAPON-7=Ви вірите, що він міг померти за кілька годин до фатального удару по голові...?
 
 
 # Tidy
@@ -4860,12 +4860,12 @@ PC15D_CLUE_MURDER_WEAPON-8=Відстеження. Ненадійне!
 
 # Brok
 ### Yes and no. It's reliable within a two hour window.
-PC15D_CLUE_MURDER_WEAPON-9=І так, і ні. Воно надійне в межах двох годин.
+PC15D_CLUE_MURDER_WEAPON-9=І так, і ні. Воно має похибку в одну-дві години.
 
 
 # Brok
 ### Not six!
-PC15D_CLUE_MURDER_WEAPON-10=Не шести!
+PC15D_CLUE_MURDER_WEAPON-10=Не шість!
 
 
 # Brok
@@ -4912,7 +4912,7 @@ PC15D_CAUSEOFDEATH_NEXT2-2=Якщо удару по голові взагалі 
 
 # Mink
 ### What's the true cause of death that the killer tried to hide?
-PC15D_CAUSEOFDEATH_NEXT2-3=Яка справжня причина смерті, яку вбивця намагався приховати?
+PC15D_CAUSEOFDEATH_NEXT2-3=То яка справжня причина смерті, яку вбивця намагався приховати?
 
 
 # Brok
@@ -4957,7 +4957,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-6=Права рука доктора Гаша бук
 # Brok
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Besides, Mister Squealer here...
-PC15D_CLUE_MURDER_TRUECAUSE-7=До того ж, ось пане Верескуне...
+PC15D_CLUE_MURDER_TRUECAUSE-7=До того ж, оцей пан Верескун...
 
 
 # Guard
@@ -4968,12 +4968,12 @@ PC15D_CLUE_MURDER_TRUECAUSE-8=Гей!
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### ...Sorry. I mean, Mister Guard owns a plant on his desk.
-PC15D_CLUE_MURDER_TRUECAUSE-9=...Вибач. Я маю на увазі, у пана охоронця на столі є рослина.
+PC15D_CLUE_MURDER_TRUECAUSE-9=...Вибач. Я хотів сказати, що у пана охоронця на столі є рослина.
 
 
 # Brok
 ### Which is... a Phoenixy!
-PC15D_CLUE_MURDER_TRUECAUSE-10=А це... квітка Фенікса!
+PC15D_CLUE_MURDER_TRUECAUSE-10=І це... квітка Фенікса!
 
 
 # Brok
@@ -4997,7 +4997,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-13=Тайді. Немає пам'яті.
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy cleans. Tidy tidies. Tidy does not pick plants.
-PC15D_CLUE_MURDER_TRUECAUSE-14=Тайді прибирає. Тайді чистить. Тайді не рве рослини.
+PC15D_CLUE_MURDER_TRUECAUSE-14=Тайді прибирає. Тайді чистить. Тайді не бере рослини.
 
 
 # Tidy
@@ -5007,7 +5007,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-15=Інші могли.
 
 # Tidy
 ### Minky murderer! Or Ratty!
-PC15D_CLUE_MURDER_TRUECAUSE-16=Мінкі вбивця! Або Щурик!
+PC15D_CLUE_MURDER_TRUECAUSE-16=Мінкі - вбивця! Або Щурятко!
 
 
 # Mink
@@ -5017,13 +5017,13 @@ PC15D_CLUE_MURDER_TRUECAUSE-17=Як ти смієш...
 
 # Brok
 ### He's right. Either of you had the means to do it.
-PC15D_CLUE_MURDER_TRUECAUSE-18=Він має рацію. Кожен із вас мав засоби це зробити.
+PC15D_CLUE_MURDER_TRUECAUSE-18=Він має рацію. Кожен із вас мав змогу це зробити.
 
 
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy right! True Tidy!
-PC15D_CLUE_MURDER_TRUECAUSE-19=Тайді правий! Справжній Тайді!
+PC15D_CLUE_MURDER_TRUECAUSE-19=Тайді має рацію! Має рацію Тайді!
 
 
 # Brok
@@ -5033,7 +5033,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-20=Не думай, що я на твоєму боц
 
 # Brok
 ### I'm sticking to the facts. And by doing this, I'll eventually prove you're the main culprit!
-PC15D_CLUE_MURDER_TRUECAUSE-21=Я тримаюся фактів. І так я зрештою доведу, що головний винуватець - ти!
+PC15D_CLUE_MURDER_TRUECAUSE-21=Я тримаюся фактів. І так я зрештою доведу, що головний винуватець - це ти!
 
 
 # Tidy
@@ -5049,7 +5049,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-23=Але як?
 # Mink
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Why would Dr. Hush swallow such a poison?
-PC15D_CLUE_MURDER_TRUECAUSE-24=Навіщо б доктор Гаш проковтнув таку отруту?
+PC15D_CLUE_MURDER_TRUECAUSE-24=З якого дива доктор Гаш буде пити цю отруту?
 
 
 # Brok
@@ -5081,7 +5081,7 @@ PC15D_CLUE_MURDER_COFFEEPOISON-4=Але я не маю сумнівів. Це к
 
 # Brok
 ### And guess what... That stain was also covered by nanites!
-PC15D_CLUE_MURDER_COFFEEPOISON-5=І знаєте що... Цю пляму також укривали наніти!
+PC15D_CLUE_MURDER_COFFEEPOISON-5=І знаєте що... Цю пляму також покривали наніти!
 
 
 # Guard
@@ -5113,7 +5113,7 @@ PC15D_CLUE_MURDER_COFFEESINK-1=Ви пішли у вбиральню після 
 
 # Brok
 ### The culprit had time to spill the coffee prepared in the sink before doing more - and this time, without poison.
-PC15D_CLUE_MURDER_COFFEESINK-2=У винуватця був час вилити каву, приготовану в умивальнику, перш ніж зробити більше - і цього разу без отрути.
+PC15D_CLUE_MURDER_COFFEESINK-2=У винуватця був час вилити решту кави в умивальник, перш ніж зробити нову каву - цього разу без отрути.
 
 
 # Brok
@@ -5149,17 +5149,17 @@ PC15D_CLUE_MURDER_COFFEESINK-8=Неправда.
 
 # Tidy
 ### Daddy, Minky make. Coffee sometimes.
-PC15D_CLUE_MURDER_COFFEESINK-9=Татусь, Мінкі робить. Каву часом.
+PC15D_CLUE_MURDER_COFFEESINK-9=Татусь, Мінкі робить. Каву іноді.
 
 
 # Tidy
 ### Ratty too.
-PC15D_CLUE_MURDER_COFFEESINK-10=Щурик теж.
+PC15D_CLUE_MURDER_COFFEESINK-10=Щурятко теж.
 
 
 # Mink
 ### Yes... Is that the reason you're charging our little maintenance bot for this awful crime?
-PC15D_CLUE_MURDER_COFFEESINK-11=Так... То це причина, чому ви звинувачуєте нашого маленького сервісного бота в цьому жахливому злочині?
+PC15D_CLUE_MURDER_COFFEESINK-11=Тож... Це головна причина, чому ви звинувачуєте нашого сервісного бота в цьому жахливому злочині?
 
 
 # Mink
@@ -5186,12 +5186,12 @@ PC15D_CLUE_MURDER_COFFEESINK-15=Але ви так подумали!
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy makes. Good coffee! Not deadly!
-PC15D_CLUE_MURDER_COFFEESINK-16=Тайді робить. Хороша кава! Не смертельна!
+PC15D_CLUE_MURDER_COFFEESINK-16=Тайді робить. Хорошу каву! Не смертельну!
 
 
 # Brok
 ### Calm down. I'm just starting my report.
-PC15D_CLUE_MURDER_COFFEESINK-17=Заспокойся. Я лише починаю звіт.
+PC15D_CLUE_MURDER_COFFEESINK-17=Заспокойтеся. Я лише почав свій звіт.
 
 
 # Tidy
@@ -5212,18 +5212,18 @@ PC15D_CLUE_MURDER_COFFEESINK-20=Не може нашкодити. Любить �
 
 # Brok
 ### Ya know, I thought a machine like yourself would be all about precision.
-PC15D_CLUE_MURDER_COFFEESINK-21=Знаєш, я думав, що така машина, як ти, понад усе дбає про точність.
+PC15D_CLUE_MURDER_COFFEESINK-21=Знаєш, я думав, що така машина, як ти, понад усе подбає про точність.
 
 
 # Brok
 ### But that's no surprise, you're a defective bot.
-PC15D_CLUE_MURDER_COFFEESINK-22=Але це не дивно, ти ж бракований бот.
+PC15D_CLUE_MURDER_COFFEESINK-22=Але це не дивно, адже ти - дефективний бот.
 
 
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy... defective?
-PC15D_CLUE_MURDER_COFFEESINK-23=Тайді... бракований?
+PC15D_CLUE_MURDER_COFFEESINK-23=Тайді... дефективний?
 
 
 # Brok
@@ -5259,12 +5259,12 @@ PC15D_CLUE_MURDER_COFFEESINK-29=Але це все одно неможливо! 
 
 # Brok
 ### There is "should" and there is "certain"!
-PC15D_CLUE_MURDER_COFFEESINK-30=Є "повинно", а є "певно"!
+PC15D_CLUE_MURDER_COFFEESINK-30=Є різниця між "не повинно дозволяти" та "не дозволяє"!
 
 
 # Brok
 ### I know the reason for the malfunction, though I'll save it for a more suitable time.
-PC15D_CLUE_MURDER_COFFEESINK-31=Я знаю причину збою, але прибережу це для слушнішого моменту.
+PC15D_CLUE_MURDER_COFFEESINK-31=Я знаю причину збою, але прибережу це для слушного моменту.
 
 
 # Mink
@@ -5290,7 +5290,7 @@ PC15D_CLUE_MURDER_COFFEESINK-35=Як він міг дістати достатн
 
 # Brok
 ### During my investigation, I happened to make an interesting discovery which may just explain how!
-PC15D_CLUE_MURDER_COFFEESINK-36=Під час розслідування я зробив цікаве відкриття, яке саме може пояснити як!
+PC15D_CLUE_MURDER_COFFEESINK-36=Під час розслідування я зробив цікаве відкриття, яке може це пояснити!
 
 
 #----------------------------------------------------
@@ -5351,7 +5351,7 @@ PC15D_PICKONE_ACCESSNANITES_WRONG1-4=Вибачте, дайте мені сек�
 #----------------------------------------------------
 # Guard
 ### That's hardly proof.
-PC15D_PICKONE_GUARD_BED_WRONG1-1=Це навряд чи доказ.
+PC15D_PICKONE_GUARD_BED_WRONG1-1=Це не дуже переконливий доказ.
 
 
 # Mink
@@ -5361,7 +5361,7 @@ PC15D_PICKONE_GUARD_BED_WRONG1-2=Згоден...
 
 # Brok
 ### Oh...
-PC15D_PICKONE_GUARD_BED_WRONG1-3=О...
+PC15D_PICKONE_GUARD_BED_WRONG1-3=Ох...
 
 
 #----------------------------------------------------
@@ -5373,7 +5373,7 @@ PC15D_PICKONE_GUARD_MOTIVE_WRONG1-1=Ви впевнені? Я справді н�
 # Guard
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Thanks Mink. That croc should reconsider his career.
-PC15D_PICKONE_GUARD_MOTIVE_WRONG1-2=Дякую, Мінку. Цьому крокові варто переглянути свою кар'єру.
+PC15D_PICKONE_GUARD_MOTIVE_WRONG1-2=Дякую, Мінку. Цьому кроку варто переглянути свою кар'єру.
 
 
 # Brok
@@ -5394,7 +5394,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-2=Вона веде просто до столу
 
 # Brok
 ### Now, what's on this table?
-PC15D_CLUE_MURDER_ACCESSNANITES-3=І що ж на цьому столі?
+PC15D_CLUE_MURDER_ACCESSNANITES-3=Ну, і що ж на цьому столі?
 
 
 # Mink
@@ -5409,7 +5409,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-5=Саме так.
 
 # Brok
 ### If I had to guess... Those nanites are brand new and charged, aren't they?
-PC15D_CLUE_MURDER_ACCESSNANITES-6=Якби я мав здогадатися... Ці наніти зовсім нові та заряджені, чи не так?
+PC15D_CLUE_MURDER_ACCESSNANITES-6=Щось мені підказує... Ці наніти зовсім нові та заряджені, чи не так?
 
 
 # Mink
@@ -5441,7 +5441,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-11=Кляті наніти. Убили тату�
 
 # Mink
 ### That's called racism, you metal mongrel.
-PC15D_CLUE_MURDER_ACCESSNANITES-12=Це називається расизмом, ти, металевий покидьку.
+PC15D_CLUE_MURDER_ACCESSNANITES-12=Це називається "расизм", ти, металевий покидьку.
 
 
 # Guard
@@ -5466,7 +5466,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-16=Я?!
 
 # Guard
 ### Can't even access your room, ya fool! Cause you can't bear anyone but yourself!
-PC15D_CLUE_MURDER_ACCESSNANITES-17=Та я навіть до вашої кімнати доступу не маю, дурню! Бо ви й терпіти нікого не можете, крім себе!
+PC15D_CLUE_MURDER_ACCESSNANITES-17=Та я навіть до вашої кімнати доступу не маю, дурню! Бо ви терпіти нікого не можете, крім себе!
 
 
 # Mink
@@ -5476,7 +5476,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-18=Вдаватиму, ніби не почув 
 
 # Mink
 ### There's a reason why you dug that hole and hid it!
-PC15D_CLUE_MURDER_ACCESSNANITES-19=І недарма ви викопали ту діру й сховали її!
+PC15D_CLUE_MURDER_ACCESSNANITES-19=Мабуть, була причина, чому ви викопали ту діру й сховали її!
 
 
 # Brok
@@ -5491,7 +5491,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-21=Пригадайте. Коли я вперш�
 
 # Brok
 ### Now. Who does the repairs in this lab?
-PC15D_CLUE_MURDER_ACCESSNANITES-22=А тепер. Хто робить ремонт у цій лабораторії?
+PC15D_CLUE_MURDER_ACCESSNANITES-22=А тепер, скажіть. Хто робить ремонт у цій лабораторії?
 
 
 # Guard
@@ -5502,12 +5502,12 @@ PC15D_CLUE_MURDER_ACCESSNANITES-23=Цей металевий мотлох...
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Oh, my... That's true, Tidy can regenerate walls with plaster.
-PC15D_CLUE_MURDER_ACCESSNANITES-24=Ой леле... Це правда, Тайді вміє відновлювати стіни штукатуркою.
+PC15D_CLUE_MURDER_ACCESSNANITES-24=Ой, леле... Це правда, Тайді вміє відновлювати стіни штукатуркою.
 
 
 # Mink
 ### Could it really be?...
-PC15D_CLUE_MURDER_ACCESSNANITES-25=Невже це справді так...?
+PC15D_CLUE_MURDER_ACCESSNANITES-25=Невже це правда...?
 
 
 # Guard
@@ -5517,18 +5517,18 @@ PC15D_CLUE_MURDER_ACCESSNANITES-26=Це зробив ти, купо брухту
 
 # Tidy
 ### Nah-ha! Human idiot!
-PC15D_CLUE_MURDER_ACCESSNANITES-27=Аякже! Людський ідіоте!
+PC15D_CLUE_MURDER_ACCESSNANITES-27=Аж ніяк! Людина - ідіот!
 
 
 # Tidy
 ### Plaster. Easy to do. Even for. Pesky humans!
-PC15D_CLUE_MURDER_ACCESSNANITES-28=Штукатурка. Легко зробити. Навіть для. Надоїдливих людей!
+PC15D_CLUE_MURDER_ACCESSNANITES-28=Штукатурка. Легко зробити. Навіть для. Докучливих людей!
 
 
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy no hole. Noooooo way.
-PC15D_CLUE_MURDER_ACCESSNANITES-29=Тайді. Діри нема. Нізащо-о-о.
+PC15D_CLUE_MURDER_ACCESSNANITES-29=Тайді. Не робив діри. Нізащо-о-о.
 
 
 # Brok
@@ -5538,7 +5538,7 @@ PC15D_CLUE_MURDER_ACCESSNANITES-30=Дозволю собі не погодити
 
 # Brok
 ### Another piece of evidence strengthens my theory that you did this...
-PC15D_CLUE_MURDER_ACCESSNANITES-31=Ще один доказ підкріплює мою теорію, що це зробив ти...
+PC15D_CLUE_MURDER_ACCESSNANITES-31=Ще один доказ підкріплює мою теорію, що це зробив саме ти...
 
 
 # Brok
@@ -5603,12 +5603,12 @@ PC15D_CLUE_MURDER_TIDYWRONG-10=Гаразд. Поки що... Повірю то�
 
 # Brok
 ### In that case, let's examine the path of our favorite deceased doctor, shall we?
-PC15D_CLUE_MURDER_TIDYWRONG-11=У такому разі простежмо шлях нашого улюбленого покійного доктора, згоден?
+PC15D_CLUE_MURDER_TIDYWRONG-11=У такому разі простежмо шлях нашого улюбленого покійного доктора, добре?
 
 
 # Brok
 ### I think you'll find it rather interesting as well!
-PC15D_CLUE_MURDER_TIDYWRONG-12=Думаю, вам теж буде досить цікаво!
+PC15D_CLUE_MURDER_TIDYWRONG-12=Гадаю, ви теж визнаєте його дуже цікавим!
 
 
 # Tidy
@@ -5619,7 +5619,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-13=Тайді. Не подобається. Натя
 
 # Mink
 ### Before you move on, I have a simple question...
-PC15D_CLUE_MURDER_TIDYWRONG-14=Перш ніж ви підете далі, у мене є просте запитання...
+PC15D_CLUE_MURDER_TIDYWRONG-14=Перш ніж ви продовжите, у мене є просте запитання...
 
 
 # Mink
@@ -5640,7 +5640,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-17=Лабораторія реєструє відч�
 
 # Mink
 ### What the heck...?!
-PC15D_CLUE_MURDER_TIDYWRONG-18=Якого дідька...?!
+PC15D_CLUE_MURDER_TIDYWRONG-18=Якого біса...?!
 
 
 # Mink
@@ -5650,7 +5650,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-19=Увесь цей час за нами стежи
 
 # Mink
 ### I thought you were there to ensure our privacy...!
-PC15D_CLUE_MURDER_TIDYWRONG-20=Я думав, ви там, щоб забезпечувати нашу приватність...!
+PC15D_CLUE_MURDER_TIDYWRONG-20=Я думав, ви тут, щоб забезпечувати нашу приватність...!
 
 
 # Guard
@@ -5660,12 +5660,12 @@ PC15D_CLUE_MURDER_TIDYWRONG-21=Ні!
 
 # Guard
 ### I'm there to ensure your physical security! Making sure nobody threatens your life!
-PC15D_CLUE_MURDER_TIDYWRONG-22=Я там, щоб забезпечувати вашу фізичну безпеку! Стежити, щоб ніхто не загрожував вашому життю!
+PC15D_CLUE_MURDER_TIDYWRONG-22=Я тут, щоб забезпечувати вашу фізичну безпеку! Стежити, щоб ніхто не загрожував вашому життю!
 
 
 # Mink
 ### What a great job you did...!
-PC15D_CLUE_MURDER_TIDYWRONG-23=Оце так ви попрацювали...!
+PC15D_CLUE_MURDER_TIDYWRONG-23=Як добре ви виконали свою роботу...!
 
 
 # Mink
@@ -5690,7 +5690,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-27=Уряд, звісно!
 
 # Mink
 ### Oh... That's right.
-PC15D_CLUE_MURDER_TIDYWRONG-28=О... Справді.
+PC15D_CLUE_MURDER_TIDYWRONG-28=О... Зрозуміло.
 
 
 # Mink
@@ -5734,7 +5734,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-2=Після цього його ніде не б�
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### This is confirmed by the guard's statements. If you don't mind explaining...
-PC15D_CLUE_MURDER_DRHUSHWHERE-3=Це підтверджують свідчення охоронця. Якщо ти не проти, поясни...
+PC15D_CLUE_MURDER_DRHUSHWHERE-3=Це підтверджують свідчення охоронця. Якщо ти не проти, то поясни...
 
 
 # Guard
@@ -5750,12 +5750,12 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-5=О 5:10 я почув шум із кімнати
 # Guard
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Actually, no one seemed to be there... Although Tidy was idle, charging.
-PC15D_CLUE_MURDER_DRHUSHWHERE-6=Насправді там, здавалося, нікого не було... Хоча Тайді стояв неактивний, на зарядці.
+PC15D_CLUE_MURDER_DRHUSHWHERE-6=Насправді, мені здалося, що нікого не було... Хіба що Тайді стояв неактивний, на зарядці.
 
 
 # Guard
 ### I started to look for the guy but then... I heard his voice coming from behind the wall!
-PC15D_CLUE_MURDER_DRHUSHWHERE-7=Я почав шукати цього типа, але тоді... почув його голос з-за стіни!
+PC15D_CLUE_MURDER_DRHUSHWHERE-7=Я почав його шукати, але тоді... почув його голос з-за стіни!
 
 
 # Guard
@@ -5800,7 +5800,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-14=Крім того, зважте на голов
 
 # Brok
 ### There's no way to move the body from the restroom to his office without going into the hall unnoticed.
-PC15D_CLUE_MURDER_DRHUSHWHERE-15=Тіло не перенести з вбиральні до його кабінету, не вийшовши непоміченим у коридор.
+PC15D_CLUE_MURDER_DRHUSHWHERE-15=Тіло не перенести зі вбиральні до його кабінету, не вийшовши непоміченим у коридор.
 
 
 # Tidy
@@ -5869,7 +5869,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-2=Його версія звучить куди �
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Sure, Tidy has a bothersome recording. But how do we know when it was made?
-PC15D_CLUE_MURDER_DRHUSHWHEREB-3=Авжеж, у Тайді є дошкульний запис. Але звідки нам знати, коли він зроблений?
+PC15D_CLUE_MURDER_DRHUSHWHEREB-3=Авжеж, у Тайді є цей проблематичний запис. Але звідки нам знати, коли його було зроблено?
 
 
 # Brok
@@ -5879,7 +5879,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-4=Він вирваний із контексту
 
 # Brok
 ### You could have very well recorded this and forged your so called proof.
-PC15D_CLUE_MURDER_DRHUSHWHEREB-5=Цілком міг сам записати це й підробити свій так званий доказ.
+PC15D_CLUE_MURDER_DRHUSHWHEREB-5=Ти цілком міг записати його коли завгодно, підробивши таким чином свій доказ.
 
 
 # Brok
@@ -5976,12 +5976,12 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-22=Іноді Голограф. Вмикає ро
 
 # Mink
 ### Hmm... Yes, I've seen it happen...
-PC15D_CLUE_MURDER_DRHUSHWHEREB-23=Гмм... Так, я таке бачив...
+PC15D_CLUE_MURDER_DRHUSHWHEREB-23=Гмм... Так, я таке раніше бачив...
 
 
 # Brok
 ### And the hole? The coffee spot on the floor in your room?
-PC15D_CLUE_MURDER_DRHUSHWHEREB-24=А дірка? Кавова пляма на підлозі у вашій кімнаті?
+PC15D_CLUE_MURDER_DRHUSHWHEREB-24=А діра? Кавова пляма на підлозі у вашій кімнаті?
 
 
 # Tidy
@@ -5991,7 +5991,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-25=Була там. Давно.
 
 # Tidy
 ### Broky. Prove the opposite?
-PC15D_CLUE_MURDER_DRHUSHWHEREB-26=Брокі. Довести протилежне?
+PC15D_CLUE_MURDER_DRHUSHWHEREB-26=Брокі. Доведеш протилежне?
 
 
 # Brok
@@ -6016,12 +6016,12 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-30=...Я не можу збезчестити с�
 
 # Mink
 ### Yes. Due to their hardware, nanites are attracted to caffeine and gather inside.
-PC15D_CLUE_MURDER_DRHUSHWHEREB-31=Так. Через свою будову наніти притягуються до кофеїну й збираються всередині.
+PC15D_CLUE_MURDER_DRHUSHWHEREB-31=Це правда. Через свою будову наніти притягуються до кофеїну й збираються всередині.
 
 
 # Guard
 ### So...! After all, it really was your doing, weasel!
-PC15D_CLUE_MURDER_DRHUSHWHEREB-32=Отже...! Зрештою, це справді ваша робота, ласице!
+PC15D_CLUE_MURDER_DRHUSHWHEREB-32=Отже...! Зрештою, це дійсно ваша робота, ласице!
 
 
 # Mink
@@ -6062,7 +6062,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-39=Я...
 
 # Ott
 ### Sorry... I'm getting lost with all these details.
-PC15D_CLUE_MURDER_DRHUSHWHEREB-40=Вибач... Я гублюся в усіх цих деталях.
+PC15D_CLUE_MURDER_DRHUSHWHEREB-40=Вибачте... Я гублюся в усіх цих деталях.
 
 
 # Brok
@@ -6153,7 +6153,7 @@ PC15D_PINPOINTVENT_WRONG-2=...?
 
 # Guard
 ### Ya kiddin'? We already said the doctor couldn't be in this room!
-PC15D_PINPOINTVENT_WRONG-3=Та ти шо? Ми вже казали, що доктор не міг бути в цій кімнаті!
+PC15D_PINPOINTVENT_WRONG-3=Та ти що? Ми вже казали, що доктор не міг бути в цій кімнаті!
 
 
 # Brok
@@ -6173,7 +6173,7 @@ PC15D_PINPOINTVENT_WRONG-6=...
 
 # Brok
 ### Gimme another chance!
-PC15D_PINPOINTVENT_WRONG-7=Дай мені ще один шанс!
+PC15D_PINPOINTVENT_WRONG-7=Дайте мені ще один шанс!
 
 
 #----------------------------------------------------
@@ -6194,12 +6194,12 @@ PC15D_PINPOINTVENT_RIGHT-3=Це єдине місце, де тіло можна 
 
 # Mink
 ### Pure conjecture!
-PC15D_PINPOINTVENT_RIGHT-4=Це лише здогади!
+PC15D_PINPOINTVENT_RIGHT-4=Це лише здогадка!
 
 
 # Guard
 ### Ya have any clue to support dat insane claim?
-PC15D_PINPOINTVENT_RIGHT-5=Маєш шось на підтвердження цієї шаленої заяви?
+PC15D_PINPOINTVENT_RIGHT-5=Маєете шось на підтвердження цієї шаленої заяви?
 
 
 # Brok
@@ -6220,18 +6220,18 @@ PC15D_PICKONE_STRETCH_WRONG1-2=Га...? Можете пояснити?
 
 # Brok
 ### Afraid not.
-PC15D_PICKONE_STRETCH_WRONG1-3=Боюся, ні.
+PC15D_PICKONE_STRETCH_WRONG1-3=Боюся, що ні.
 
 
 #----------------------------------------------------
 # Guard
 ### Wait. How does this prove the doctor was in the vent?...
-PC15D_PICKONE_VENTPROOF_WRONG1-1=Стривай. І як це доводить, що доктор був у вентиляції...?
+PC15D_PICKONE_VENTPROOF_WRONG1-1=Стривайте. І як це доводить, що доктор був у вентиляції...?
 
 
 # Brok
 ### It doesn't?
-PC15D_PICKONE_VENTPROOF_WRONG1-2=Хіба доводить?
+PC15D_PICKONE_VENTPROOF_WRONG1-2=А хіба не доводить?
 
 
 # Guard
@@ -6241,7 +6241,7 @@ PC15D_PICKONE_VENTPROOF_WRONG1-3=Ні.
 
 # Tidy
 ### Broken Broky!
-PC15D_PICKONE_VENTPROOF_WRONG1-4=Зламаний Брокі!
+PC15D_PICKONE_VENTPROOF_WRONG1-4=Брокі зламався!
 
 
 #----------------------------------------------------
@@ -6263,7 +6263,7 @@ PC15D_CLUE_MURDER_VENTILATION-3=Виявлено проблему.
 
 # Brok
 ### What is it, this time?...
-PC15D_CLUE_MURDER_VENTILATION-4=Що цього разу...?
+PC15D_CLUE_MURDER_VENTILATION-4=Що вже цього разу...?
 
 
 # Tidy
@@ -6299,17 +6299,17 @@ PC15D_CLUE_MURDER_VENTILATION-10=Бам! Попався!
 
 # Brok
 ### Hrmph...
-PC15D_CLUE_MURDER_VENTILATION-11=Гм...
+PC15D_CLUE_MURDER_VENTILATION-11=Гм-м...
 
 
 # Brok
 ### Still! That would be a huge coincidence, don't ya think?
-PC15D_CLUE_MURDER_VENTILATION-12=І все ж! Це був би завеликий збіг, тобі не здається?
+PC15D_CLUE_MURDER_VENTILATION-12=І все ж! Це був би завеликий збіг, вам не здається?
 
 
 # Mink
 ### Let's assume you're right.
-PC15D_CLUE_MURDER_VENTILATION-13=Припустімо, ви маєте рацію.
+PC15D_CLUE_MURDER_VENTILATION-13=Припустимо, ви маєте рацію.
 
 
 # Mink
@@ -6377,14 +6377,14 @@ PC15D_DRHUSHWHY_GHOST-7=Гаразд, у моїй голові це звучал
 
 # Mink
 ### Find something else!
-PC15D_DRHUSHWHY_GHOST-8=Знайдіть щось інше!
+PC15D_DRHUSHWHY_GHOST-8=Знайдіть якесь інше пояснення!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Simple. Dr. Hush went back to his office.
-PC15D_DRHUSHWHY_BACK-1=Просто. Доктор Гаш повернувся до свого кабінету.
+PC15D_DRHUSHWHY_BACK-1=Все просто. Доктор Гаш повернувся до свого кабінету.
 
 
 # Mink
@@ -6406,7 +6406,7 @@ PC15D_DRHUSHWHY_BACK-4=Він... проповз по стелі й заліз у
 
 # Brok
 ### Like Spidermole! Ya know!...
-PC15D_DRHUSHWHY_BACK-5=Як Людинокріт! Ну, знаєш...!
+PC15D_DRHUSHWHY_BACK-5=Як Людинокріт! Ну, знаєте...!
 
 
 # Brok
@@ -6416,12 +6416,12 @@ PC15D_DRHUSHWHY_BACK-6=...
 
 # Brok
 ### That's embarassing...
-PC15D_DRHUSHWHY_BACK-7=Як соромно...
+PC15D_DRHUSHWHY_BACK-7=Як мені соромно...
 
 
 # Mink
 ### Let's pretend we didn't hear that.
-PC15D_DRHUSHWHY_BACK-8=Удаймо, ніби ми цього не чули.
+PC15D_DRHUSHWHY_BACK-8=Ми будемо удавати, ніби не чули цього.
 
 
 #----------------------------------------------------
@@ -6482,7 +6482,7 @@ PC15D_DRHUSHWHY_NEVEREXIT-10=Ну, у мене є ще одна зачіпка!
 #----------------------------------------------------
 # Brok
 ### (But... That's not even a location, is it?)
-PC15D_PICKONE_WHEREPOISONED_WRONG1-1=(Але... це навіть не місце, еге ж?)
+PC15D_PICKONE_WHEREPOISONED_WRONG1-1=(Але... Це навіть не місце, еге ж?)
 
 
 #----------------------------------------------------
@@ -6494,18 +6494,18 @@ PC15D_CLUE_MURDER_WHEREPOISONED-1=Згадайте, звідки взялася 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### To poison him, it'd be easier to have Dr. Hush drink the coffee in his office.
-PC15D_CLUE_MURDER_WHEREPOISONED-2=Щоб отруїти його, простіше було б дати докторові Гашу випити кави в його кабінеті.
+PC15D_CLUE_MURDER_WHEREPOISONED-2=Щоб отруїти його, простіше було б дати докторові Гашу випити кави в його власному кабінеті.
 
 
 # Brok
 ### Except... He never does.
-PC15D_CLUE_MURDER_WHEREPOISONED-3=Ось тільки... Він так ніколи й не робить.
+PC15D_CLUE_MURDER_WHEREPOISONED-3=От тільки... Він так ніколи не робить.
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush always drinks his coffee in the restroom. He's too maniacal to risk spilling drops while working.
-PC15D_CLUE_MURDER_WHEREPOISONED-4=Доктор Гаш завжди п'є каву у вбиральні. Він надто одержимий, щоб ризикувати розлити краплі під час роботи.
+PC15D_CLUE_MURDER_WHEREPOISONED-4=Доктор Гаш завжди п'є каву у вбиральні. Він надто одержимий, щоб ризикувати пролити каву під час роботи.
 
 
 # Brok
@@ -6526,7 +6526,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-7=Саме це я й маю на увазі.
 
 # Tidy
 ### Broky liar.
-PC15D_CLUE_MURDER_WHEREPOISONED-8=Брокі брехун.
+PC15D_CLUE_MURDER_WHEREPOISONED-8=Брокі - брехун.
 
 
 # Tidy
@@ -6536,7 +6536,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-9=Татусь брав. Каву. У кабін
 
 # Mink
 ### Again, I'm afraid it's your word against his, detective...
-PC15D_CLUE_MURDER_WHEREPOISONED-10=Знову ж таки, боюся, це ваше слово проти його, детективе...
+PC15D_CLUE_MURDER_WHEREPOISONED-10=Знову ж таки, боюся, що тут лише його слово проти вашого, пане детективе...
 
 
 # Guard
@@ -6563,7 +6563,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-14=(Чи справді я на правильн
 #----------------------------------------------------
 # Brok
 ### (Sigh... I keep losing memories. How can I even trust anything I say?)
-PC15D_RIGHTPATH_NO-1=(Зітхає... Я весь час втрачаю спогади. Як мені взагалі вірити хоч чомусь, що я кажу?)
+PC15D_RIGHTPATH_NO-1=(Зітхає... Я весь час втрачаю спогади. Як можна взагалі вірити хоч чомусь, що я кажу?)
 
 
 # Brok
@@ -6579,12 +6579,12 @@ PC15D_RIGHTPATH_NO-3=(Ні...! Я зайшов так далеко...)
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### (I have a feeling Tidy is involved... I need to trust my instinct!)
-PC15D_RIGHTPATH_NO-4=(У мене відчуття, що Тайді замішаний... Треба довіряти інстинкту!)
+PC15D_RIGHTPATH_NO-4=(У мене відчуття, що Тайді в цьому замішаний... Треба довіряти інстинкту!)
 
 
 # Brok
 ### (Better continue and see what comes out of it.)
-PC15D_RIGHTPATH_NO-5=(Краще продовжити й подивитися, що з цього вийде.)
+PC15D_RIGHTPATH_NO-5=(Краще продовжити й дивитися, що з цього вийде.)
 
 
 #----------------------------------------------------
@@ -6596,7 +6596,7 @@ PC15D_CLUE_MURDER_RIGHTPATH-1=Усі... ну, крім Тайді.
 
 # Brok
 ### I know how all of this sounds. But please, allow me to continue and trust me!
-PC15D_CLUE_MURDER_RIGHTPATH-2=Я знаю, як усе це звучить. Але прошу, дозвольте мені продовжити й повірте мені!
+PC15D_CLUE_MURDER_RIGHTPATH-2=Я знаю, як усе це звучить. Але прошу, довіртеся мені й дозвольте продовжити!
 
 
 # Tidy
@@ -6655,7 +6655,7 @@ PC15D_CLUE_MURDER_RIGHTPATH-12=Га?
 #----------------------------------------------------
 # Guard
 ### I dun remember that?...
-PC15D_PICKONE_CARRY_WRONG1-1=Шось не пригадаю такого...?
+PC15D_PICKONE_CARRY_WRONG1-1=Щось не пригадаю такого...?
 
 
 # Brok
@@ -6702,7 +6702,7 @@ PC15D_CLUE_MURDER_CARRY-5=У той момент він дивився в інш
 
 # Mink
 ### Is that true, Mister rat? You blundered?!
-PC15D_CLUE_MURDER_CARRY-6=Це правда, пане Щуре? Ви схибили?!
+PC15D_CLUE_MURDER_CARRY-6=Це правда, пане щуре? Ви схибили?!
 
 
 # Guard
@@ -6738,7 +6738,7 @@ PC15D_CLUE_MURDER_CARRY-12=Тобі не важко зімітувати дзв�
 
 # Mink
 ### He can...
-PC15D_CLUE_MURDER_CARRY-13=Він може...
+PC15D_CLUE_MURDER_CARRY-13=Він на це здатний...
 
 
 # Tidy
@@ -6760,7 +6760,7 @@ PC15D_CLUE_MURDER_CARRY-16=Е-е... Ні, дякую...
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy. No call. Nah-ha.
-PC15D_CLUE_MURDER_CARRY-17=Тайді. Не дзвонив. Аякже.
+PC15D_CLUE_MURDER_CARRY-17=Тайді. Не дзвонив. Ні-ні.
 
 
 # Brok
@@ -6771,7 +6771,7 @@ PC15D_CLUE_MURDER_CARRY-18=Хоча охоронець усе ще стежив,
 
 # Brok
 ### At that moment... Anything could have happened!
-PC15D_CLUE_MURDER_CARRY-19=У той момент... могло статися будь-що!
+PC15D_CLUE_MURDER_CARRY-19=У той момент... Могло статися будь-що!
 
 
 # Mink
@@ -6843,14 +6843,14 @@ PC15D_CLUE_MURDER_CARRY-31=Брокі ігнорує. Бідний Тайді...
 
 # Mink
 ### If your theory is accurate, there's still a lot that needs explaining.
-PC15D_CLUE_MURDER_CARRY-32=Якщо ваша теорія слушна, ще багато що потребує пояснення.
+PC15D_CLUE_MURDER_CARRY-32=Якщо ваша теорія слушна, то ще багато чого потребує пояснення.
 
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### For example, how could Tidy put Dr. Hush into the vent?
-PC15D_CLUE_MURDER_CARRY-33=Наприклад, як Тайді міг помістити доктора Гаша у вентиляцію?
+PC15D_CLUE_MURDER_CARRY-33=Наприклад, яким чином Тайді міг помістити доктора Гаша у вентиляцію?
 
 
 # Mink
@@ -6895,7 +6895,7 @@ PC15D_CLUE_TIDY_STRETCH_WRONG-5=Ні, стривай! Я жартую!
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Don't forget Tidy's main ability.
-PC15D_CLUE_MURDER_STRETCH-1=Не забувайте про головну здатність Тайді.
+PC15D_CLUE_MURDER_STRETCH-1=Не забувайте про головну навичку Тайді.
 
 
 # Brok
@@ -6994,7 +6994,7 @@ PC15D_CLUE_MURDER_STRETCH2-10=(Треба думати швидко...!)
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### (I'm convinced Tidy was involved... He has to be!)
-PC15D_CLUE_MURDER_STRETCH2-11=(Я переконаний, Тайді замішаний... Інакше й бути не може!)
+PC15D_CLUE_MURDER_STRETCH2-11=(Я переконаний, Тайді в цьому замішаний... Інакше й бути не може!)
 
 
 #----------------------------------------------------
@@ -7031,7 +7031,7 @@ PC15D_CLUE_MURDER_RAMP-6=Ага. Лазерна колона в цій кімн�
 # Brok - 9 feet is Equivalent to 3 meters
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### And with Tidy's arms reaching 9 feet... That's not enough.
-PC15D_CLUE_MURDER_RAMP-7=А руки Тайді сягають 3 метрів... Цього не досить.
+PC15D_CLUE_MURDER_RAMP-7=А руки Тайді сягають 3 метрів... Цього не вистачає.
 
 
 # Tidy
@@ -7051,7 +7051,7 @@ PC15D_CLUE_MURDER_RAMP-10=Нізащо!
 
 # Brok
 ### We're just missing... A little something.
-PC15D_CLUE_MURDER_RAMP-11=Нам просто бракує... однієї дрібниці.
+PC15D_CLUE_MURDER_RAMP-11=Нам просто бракує... Однієї дрібниці.
 
 
 # Guard
@@ -7067,12 +7067,12 @@ PC15D_CLUE_MURDER_RAMP-13=На вигляд він близько метра з�
 
 # Guard
 ### But... The metal thingy can't jump on there, can it?
-PC15D_CLUE_MURDER_RAMP-14=Але... Ця залізяка ж не застрибне туди, га?
+PC15D_CLUE_MURDER_RAMP-14=Але... Ця залізяка не може застрибнути туди, га?
 
 
 # Brok
 ### Not jump!
-PC15D_CLUE_MURDER_RAMP-15=Не стрибати!
+PC15D_CLUE_MURDER_RAMP-15=Не застрибнути!
 
 
 # Brok
@@ -7095,12 +7095,12 @@ PC15D_CLUE_MURDER_RAMP-18=...
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy. Learn. Close mouth.
-PC15D_CLUE_MURDER_RAMP-19=Тайді. Вчитися. Закрити рота.
+PC15D_CLUE_MURDER_RAMP-19=Тайді. Вчитися. Закривати рота.
 
 
 # Guard
 ### Sorry croc but... Seems like pure conjuncture.
-PC15D_CLUE_MURDER_RAMP-20=Вибач, кроку, але... Схоже, це чисті здогади.
+PC15D_CLUE_MURDER_RAMP-20=Вибач, кроку, але... Схоже, це лише здогадка.
 
 
 # Brok
@@ -7116,7 +7116,7 @@ PC15D_CLUE_MURDER_RAMP-22=Можеш?!
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Go, go, Mister Brok!
-PC15D_CLUE_MURDER_RAMP-23=Давай, давай, пане Броку!
+PC15D_CLUE_MURDER_RAMP-23=Вперед, пане Броку!
 
 
 #----------------------------------------------------
@@ -7128,17 +7128,17 @@ PC15D_PICKONE_CRUMBS_WRONG1-1=Тайді. Не. Розуміє.
 
 # Mink
 ### You're not the only one, actually.
-PC15D_PICKONE_CRUMBS_WRONG1-2=Насправді, ви не один такий.
+PC15D_PICKONE_CRUMBS_WRONG1-2=Насправді, ти не один такий.
 
 
 # Brok
 ### I admit I'm not sure myself. What did I say?...
-PC15D_PICKONE_CRUMBS_WRONG1-3=Визнаю, я й сам не певен. Що я сказав...?
+PC15D_PICKONE_CRUMBS_WRONG1-3=Визнаю, я й сам не певен. Що я щойно сказав...?
 
 
 # Brok
 ### Lemme try again!
-PC15D_PICKONE_CRUMBS_WRONG1-4=Дай спробую ще раз!
+PC15D_PICKONE_CRUMBS_WRONG1-4=Дайте спробую ще раз!
 
 
 #----------------------------------------------------
@@ -7165,7 +7165,7 @@ PC15D_CLUE_MURDER_CRUMBS-4=Як ви знаєте... доктор Гаш оде�
 
 # Brok
 ### How could he leave crumbs everywhere?...
-PC15D_CLUE_MURDER_CRUMBS-5=Як він міг розкидати крихти всюди...?
+PC15D_CLUE_MURDER_CRUMBS-5=Як він міг усюди розкидати крихти...?
 
 
 # Brok
@@ -7177,12 +7177,12 @@ PC15D_CLUE_MURDER_CRUMBS-6=Відповідь проста. Доктор Гаш 
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy. You crushed them while climbing on the ramp!
-PC15D_CLUE_MURDER_CRUMBS-7=Тайді. Ти розкришив їх, піднімаючись пандусом!
+PC15D_CLUE_MURDER_CRUMBS-7=Тайді. Ти розтрощив печиво, піднімаючись пандусом!
 
 
 # Tidy
 ### Nuh-uh.
-PC15D_CLUE_MURDER_CRUMBS-8=Не-а.
+PC15D_CLUE_MURDER_CRUMBS-8=Ні-ні.
 
 
 # Tidy
@@ -7220,7 +7220,7 @@ PC15D_CLUE_MURDER_CRUMBS-14=Ти штовхнув бідолаху до кімн
 
 # Brok
 ### The more we talk, the more...
-PC15D_CLUE_MURDER_CRUMBS-15=Чим більше ми балакаємо, тим більше...
+PC15D_CLUE_MURDER_CRUMBS-15=Чим більше ми про це говоримо, тим більше...
 
 
 # Tidy
@@ -7235,7 +7235,7 @@ PC15D_CLUE_MURDER_CRUMBS-17=Га?
 
 # Guard
 ### Is it... laughing?
-PC15D_CLUE_MURDER_CRUMBS-18=Воно... сміється?
+PC15D_CLUE_MURDER_CRUMBS-18=Він... сміється?
 
 
 # Tidy
@@ -7265,7 +7265,7 @@ PC15D_CLUE_MURDER_CRUMBS-23=...
 
 # Tidy
 ### Is possible. My pleasure.
-PC15D_CLUE_MURDER_CRUMBS-24=Можливо. Із задоволенням.
+PC15D_CLUE_MURDER_CRUMBS-24=Можу. Із задоволенням.
 
 
 # Brok
@@ -7295,7 +7295,7 @@ PC15D_CLUE_MURDER_CRUMBS-29=...Можеш бути конкретнішим?
 
 # Tidy
 ### Look map.
-PC15D_CLUE_MURDER_CRUMBS-30=Дивитися мапу.
+PC15D_CLUE_MURDER_CRUMBS-30=Дивіться мапу.
 
 
 # Tidy - Equivalent to 60 centimeters.
@@ -7311,12 +7311,12 @@ PC15D_CLUE_MURDER_CRUMBS-32=Тайді. 1 метр заввишки!
 
 # Tidy
 ### Cannot bend. Cannot fit!
-PC15D_CLUE_MURDER_CRUMBS-33=Не можна згинати. Не пролізти!
+PC15D_CLUE_MURDER_CRUMBS-33=Не можу згинати. Не пролізти!
 
 
 # Tidy
 ### Plus! Cannot stand on floor. While pushing. All way through!
-PC15D_CLUE_MURDER_CRUMBS-34=Плюс! Не можна стояти на підлозі. Штовхаючи. До самого кінця!
+PC15D_CLUE_MURDER_CRUMBS-34=Плюс! Не можу стояти на підлозі. Штовхаючи. Аж до кінця!
 
 
 # Mink
@@ -7327,7 +7327,7 @@ PC15D_CLUE_MURDER_CRUMBS-35=Він має рацію!
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy couldn't fit inside. And the distance is way too long to push all the way through the vent while standing on the ground!
-PC15D_CLUE_MURDER_CRUMBS-36=Тайді не проліз би всередину. А відстань завелика, щоб проштовхнути все крізь вентиляцію, стоячи на землі!
+PC15D_CLUE_MURDER_CRUMBS-36=Тайді не проліз би всередину. А відстань завелика, щоб проштовхнути тіло крізь всю вентиляцію, стоячи на землі!
 
 
 # Brok
@@ -7337,7 +7337,7 @@ PC15D_CLUE_MURDER_CRUMBS-37=(Ковтає слину)
 
 # Tidy
 ### Broky! Done for!
-PC15D_CLUE_MURDER_CRUMBS-38=Брокі! Тобі кінець!
+PC15D_CLUE_MURDER_CRUMBS-38=Брокі! Кінець теорії!
 
 
 # Brok
@@ -7347,7 +7347,7 @@ PC15D_CLUE_MURDER_CRUMBS-39=Ні!
 
 # Brok
 ### I... I can prove how!
-PC15D_CLUE_MURDER_CRUMBS-40=Я... Я можу довести як!
+PC15D_CLUE_MURDER_CRUMBS-40=Я... Я можу довести, як ти це зробив!
 
 
 # Brok
@@ -7457,12 +7457,12 @@ PC15D_PINPOINTLEVER_RIGHT-14=Так. Це абсурдно, але... техні
 
 # Guard
 ### The maintenance robot clinging onto the ceiling?! You're insane!
-PC15D_PINPOINTLEVER_RIGHT-15=Сервісний бот, що вчепився в стелю?! Ти божевільний!
+PC15D_PINPOINTLEVER_RIGHT-15=Сервісний бот, який вчепився в стелю?! Ти божевільний!
 
 
 # Brok
 ### Let me judge how insane I sound after all this is over!
-PC15D_PINPOINTLEVER_RIGHT-16=Дай мені самому оцінити, наскільки божевільно я звучав, коли все це закінчиться!
+PC15D_PINPOINTLEVER_RIGHT-16=Нехай вже я сам вирішу, наскільки божевільно це звучить, коли все це закінчиться!
 
 
 # Brok
@@ -7506,7 +7506,7 @@ PC15D_PICKONE_LAMPPUSH_WRONG1-2=А! Тоді можеш пояснити мен�
 
 # Guard
 ### Actually... I'm not sure.
-PC15D_PICKONE_LAMPPUSH_WRONG1-3=Насправді... я не певен.
+PC15D_PICKONE_LAMPPUSH_WRONG1-3=Насправді... Я не певен.
 
 
 # Brok
@@ -7523,7 +7523,7 @@ PC15D_PICKONE_LAMPPUSH_WRONG1-5=Ар-р...
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### I analyzed Dr. Mink's lamp. The data I gathered indicates...
-PC15D_CLUE_MURDER_LAMPPUSH-1=Я проаналізував лампу доктора Мінка. Зібрані дані вказують...
+PC15D_CLUE_MURDER_LAMPPUSH-1=Я проаналізував лампу доктора Мінка. Серед зібраних даних...
 
 
 # Brok
@@ -7538,7 +7538,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-3=О... Тепер розумію.
 
 # Guard
 ### Well, I don't. What's the fuss?
-PC15D_CLUE_MURDER_LAMPPUSH-4=Ну, а я ні. І до чого тут шум?
+PC15D_CLUE_MURDER_LAMPPUSH-4=Ну, а я ні. До чого це все?
 
 
 # Brok
@@ -7569,7 +7569,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-9=Це рано. Якби посеред моєї к�
 
 # Mink
 ### And.. Didn't you say this was the data from my lamp?
-PC15D_CLUE_MURDER_LAMPPUSH-10=І... хіба ви не казали, що це дані з моєї лампи?
+PC15D_CLUE_MURDER_LAMPPUSH-10=І... Хіба ви не казали, що це дані з моєї лампи?
 
 
 # Mink
@@ -7590,7 +7590,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-13=Стривай!
 
 # Brok
 ### Okay, I admit... I fooled you.
-PC15D_CLUE_MURDER_LAMPPUSH-14=Гаразд, визнаю... я вас обдурив.
+PC15D_CLUE_MURDER_LAMPPUSH-14=Гаразд, визнаю... Я вас обдурив.
 
 
 # Brok
@@ -7623,12 +7623,12 @@ PC15D_CLUE_MURDER_LAMPPUSH-19=Дозвольте пояснити.
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Of course, we immediately considered that the lamp next to the body is Dr. Mink's.
-PC15D_CLUE_MURDER_LAMPHUSH-1=Звісно, ми одразу припустили, що лампа поруч із тілом - доктора Мінка.
+PC15D_CLUE_MURDER_LAMPHUSH-1=Звісно, ми одразу припустили, що лампа поруч із тілом належить докторові Мінку.
 
 
 # Brok
 ### However... This lamp's data revealed a surprise.
-PC15D_CLUE_MURDER_LAMPHUSH-2=Однак... дані цієї лампи виявили несподіванку.
+PC15D_CLUE_MURDER_LAMPHUSH-2=Однак... Дані цієї лампи виявили несподіванку.
 
 
 # Brok
@@ -7644,13 +7644,13 @@ PC15D_CLUE_MURDER_LAMPHUSH-4=...Гзз-гзз!
 
 # Tidy
 ### Incorrect! Nuh-uh!
-PC15D_CLUE_MURDER_LAMPHUSH-5=Неправильно! Не-а!
+PC15D_CLUE_MURDER_LAMPHUSH-5=Неправильно! Ні-ні!
 
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Wait... So that's the one Tidy pushed into the vent?
-PC15D_CLUE_MURDER_LAMPHUSH-6=Стривайте... То це та, яку Тайді засунув у вентиляцію?
+PC15D_CLUE_MURDER_LAMPHUSH-6=Стривайте... То це та лампа, яку Тайді засунув у вентиляцію?
 
 
 # Brok
@@ -7665,20 +7665,20 @@ PC15D_CLUE_MURDER_LAMPHUSH-8=Та ні.
 
 # Guard
 ### If that's what happened... There'd be two lamps here!
-PC15D_CLUE_MURDER_LAMPHUSH-9=Якби так усе було... тут було б дві лампи!
+PC15D_CLUE_MURDER_LAMPHUSH-9=Якби все було так, як ти кажеш... Тут було б дві лампи!
 
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Mister rat is right. How do you explain that the other lamp... My lamp?... is on Dr. Hush's desk?
-PC15D_CLUE_MURDER_LAMPHUSH-10=Пан Щур має рацію. Як ви поясните, що інша лампа... моя лампа...? стоїть на столі доктора Гаша?
+PC15D_CLUE_MURDER_LAMPHUSH-10=Пан щур має рацію. Як ви поясните, що інша лампа... Моя лампа...? Стоїть на столі доктора Гаша?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### We'll just have to prove Tidy picked up Dr. Mink's lamp.
-PC15D_CLUE_MURDER_LAMPHUSH-11=Нам лишиться довести, що Тайді взяв лампу доктора Мінка.
+PC15D_CLUE_MURDER_LAMPHUSH-11=Нам треба лише довести, що Тайді взяв лампу доктора Мінка.
 
 
 # Guard
@@ -7689,7 +7689,7 @@ PC15D_CLUE_MURDER_LAMPHUSH-12=Хіба він міг?
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Just think. Where was Dr. Mink's lamp originally?
-PC15D_CLUE_MURDER_LAMPHUSH-13=Подумай. Де лампа доктора Мінка стояла спочатку?
+PC15D_CLUE_MURDER_LAMPHUSH-13=Подумайте. Де лампа доктора Мінка стояла спочатку?
 
 
 # Guard
@@ -7743,12 +7743,12 @@ PC15D_PINPOINTMINKLAMP_RIGHT-2=Ну, так. Звідки ви знали?
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### With the door permanently shut, there's only one spot Tidy could access.
-PC15D_PINPOINTMINKLAMP_RIGHT-3=Якщо двері постійно зачинені, Тайді мав доступ лише до одного місця.
+PC15D_PINPOINTMINKLAMP_RIGHT-3=Оскільки двері залишаються зачиненими, Тайді мав доступ лише до одного місця.
 
 
 # Brok
 ### And that's this hole in the wall!
-PC15D_PINPOINTMINKLAMP_RIGHT-4=І це - оця діра в стіні!
+PC15D_PINPOINTMINKLAMP_RIGHT-4=І це місце - діра в стіні!
 
 
 # Guard
@@ -7775,7 +7775,7 @@ PC15D_PINPOINTMINKLAMP_RIGHT-8=Лампі доктора Гаша навіть �
 
 # Brok
 ### That's a relevant matter. Unless...
-PC15D_PINPOINTMINKLAMP_RIGHT-9=Це слушна думка. Якщо тільки...
+PC15D_PINPOINTMINKLAMP_RIGHT-9=Це слушна думка. Але...
 
 
 #----------------------------------------------------
@@ -7804,7 +7804,7 @@ PC15D_MISTAKE_CONFUSE-4=Е-е...
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy, you've been awfully silent! Cat got your tongue?
-PC15D_MISTAKE_TIDY-1=Тайді, ти страшенно мовчазний! Язик проковтнув?
+PC15D_MISTAKE_TIDY-1=Тайді, ти якийсь страшенно мовчазний! Язика проковтнув?
 
 
 # Brok
@@ -7836,7 +7836,7 @@ PC15D_MISTAKE_TIDY-6=Однак... Тайді переплутав лампи.
 
 # Tidy
 ### Iiiiiinverted?...
-PC15D_MISTAKE_TIDY-7=Переплутав...?
+PC15D_MISTAKE_TIDY-7=Пе-ереплутав...?
 
 
 # Brok
@@ -7847,17 +7847,17 @@ PC15D_MISTAKE_TIDY-8=І я можу це довести!
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### You see, I noticed something off in Dr. Hush's room.
-PC15D_MISTAKE_TIDY-9=Бач, я помітив дещо дивне в кімнаті доктора Гаша.
+PC15D_MISTAKE_TIDY-9=Бачте, я помітив дещо дивне в кімнаті доктора Гаша.
 
 
 # Brok
 ### Especially when you take his personality into account...
-PC15D_MISTAKE_TIDY-10=Особливо якщо зважити на його характер...
+PC15D_MISTAKE_TIDY-10=Особливо якщо зважати на його характер...
 
 
 # Brok
 ### Let me show you in the picture!
-PC15D_MISTAKE_TIDY-11=Дай-но покажу на зображенні!
+PC15D_MISTAKE_TIDY-11=Дайте-но покажу на зображенні!
 
 
 #----------------------------------------------------
@@ -7888,7 +7888,7 @@ PC15D_PINPOINTELEMENTOFF_WRONG-5=Або... може, вам потрібне д�
 
 # Mink
 ### The only wrong thing is you.
-PC15D_PINPOINTELEMENTOFF_WRONG-6=Єдине, що тут не так, - це ви.
+PC15D_PINPOINTELEMENTOFF_WRONG-6=Єдине, що тут не так - це ви.
 
 
 # Brok
@@ -7946,7 +7946,7 @@ PC15D_CLUE_MURDER_LAMPOFF-4=Гаразд, чому б і ні...?
 
 # Guard
 ### So what?
-PC15D_CLUE_MURDER_LAMPOFF-5=І що?
+PC15D_CLUE_MURDER_LAMPOFF-5=Що це нам дає?
 
 
 # Brok
@@ -7975,12 +7975,12 @@ PC15D_CLUE_MURDER_LAMPOFF-9=Саме в цю мить його перервал�
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### After you left, Mister Guard... He executed its plan.
-PC15D_CLUE_MURDER_LAMPOFF-10=Після того як ти пішов, пане охоронцю... він виконав свій план.
+PC15D_CLUE_MURDER_LAMPOFF-10=Після того як ти пішов, пане охоронцю... Він виконав свій план.
 
 
 # Brok
 ### But he took the wrong lamp, which was pushed through the vent!
-PC15D_CLUE_MURDER_LAMPOFF-11=Але він узяв не ту лампу, яку й проштовхнули крізь вентиляцію!
+PC15D_CLUE_MURDER_LAMPOFF-11=Але він узяв не ту лампу, яку й проштовхнув крізь вентиляцію!
 
 
 # Brok
@@ -7988,13 +7988,13 @@ PC15D_CLUE_MURDER_LAMPOFF-11=Але він узяв не ту лампу, яку
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy's objective was to make us believe Dr. Hush fought with Dr. Mink in the morning, at the time his tracking stopped.
-PC15D_CLUE_MURDER_LAMPOFF-12=Мета Тайді була переконати нас, ніби доктор Гаш зчепився з доктором Мінком уранці, коли обірвалося відстеження його стану.
+PC15D_CLUE_MURDER_LAMPOFF-12=Мета Тайді була переконати нас, ніби доктор Гаш зчепився з доктором Мінком уранці, коли обірвалося відстеження його стану здоров'я.
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### This timing only makes sense if Tidy made this mistake!
-PC15D_CLUE_MURDER_LAMPOFF-13=Цей час має сенс лише якщо Тайді й справді помилився!
+PC15D_CLUE_MURDER_LAMPOFF-13=Цей час має сенс лише у випадку, якщо Тайді й справді помилився!
 
 
 # Mink
@@ -8061,7 +8061,7 @@ PC15D_CLUE_MURDER_LAMPOFF-24=Гарна думка! Хоча...
 # Mink
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### If it's Dr. Hush's lamp that was pushed through... Shouldn't it suffer from a shock too? When it fell from the vent...
-PC15D_CLUE_MURDER_LAMPOFF-25=Якщо крізь вентиляцію проштовхнули лампу доктора Гаша... хіба вона теж не мала зазнати удару? Коли впала з вентиляції...
+PC15D_CLUE_MURDER_LAMPOFF-25=Якщо крізь вентиляцію проштовхнули лампу доктора Гаша... Хіба вона теж не мала зазнати удару? Коли впала з вентиляції...
 
 
 # Brok
@@ -8138,14 +8138,14 @@ PC15D_PICKONE_BODYFALL_WRONG1-5=...
 
 # Brok
 ### Lemme try again!
-PC15D_PICKONE_BODYFALL_WRONG1-6=Дай спробую ще раз!
+PC15D_PICKONE_BODYFALL_WRONG1-6=Дайте спробую ще раз!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### This is all your fault, Dr. Mink! You didn't pay attention!
-PC15D_PICKONE_BODYMUSIC_WRONG1-1=Це все через вас, докторе Мінк! Ви не звернули уваги!
+PC15D_PICKONE_BODYMUSIC_WRONG1-1=Це все через вас, докторе Мінку! Ви не звернули уваги!
 
 
 # Mink
@@ -8161,7 +8161,7 @@ PC15D_PICKONE_BODYMUSIC_WRONG1-3=Ой! Не та зачіпка!
 #----------------------------------------------------
 # Brok
 ### I mean... Look at that awful robot! It's clear he's lying!
-PC15D_PICKONE_CONSCIOUSNESS_WRONG1-1=Я маю на увазі... Погляньте на цього жахливого робота! Ясно ж, що він бреше!
+PC15D_PICKONE_CONSCIOUSNESS_WRONG1-1=Ну, тобто... Погляньте на цього жахливого робота! Ясно ж, що він бреше!
 
 
 # Mink
@@ -8171,7 +8171,7 @@ PC15D_PICKONE_CONSCIOUSNESS_WRONG1-2=Не думаю.
 
 # Tidy
 ### Broky liar. Bad Broky.
-PC15D_PICKONE_CONSCIOUSNESS_WRONG1-3=Брокі брехун. Поганий Брокі.
+PC15D_PICKONE_CONSCIOUSNESS_WRONG1-3=Брокі - брехун. Поганий Брокі.
 
 
 #----------------------------------------------------
@@ -8183,7 +8183,7 @@ PC15D_CLUE_MURDER_BODYFALL-1=Не може бути! Ось чому я не п�
 
 # Mink
 ### He simply wasn't in the room before!
-PC15D_CLUE_MURDER_BODYFALL-2=Його просто не було в кімнаті раніше!
+PC15D_CLUE_MURDER_BODYFALL-2=Його на той момент просто не було в кімнаті!
 
 
 # Guard
@@ -8193,7 +8193,7 @@ PC15D_CLUE_MURDER_BODYFALL-3=Але...
 
 # Guard
 ### If a body were to fall from this high... It oughta make a huge bumping sound!
-PC15D_CLUE_MURDER_BODYFALL-4=Якби тіло впало з такої висоти... воно б гучно гепнуло!
+PC15D_CLUE_MURDER_BODYFALL-4=Якби тіло впало з такої висоти... Воно б гучно гепнуло!
 
 
 # Mink
@@ -8203,7 +8203,7 @@ PC15D_CLUE_MURDER_BODYFALL-5=Саме так. Я не глухий!
 
 # Brok
 ### Sure thing! You're not deaf at all.
-PC15D_CLUE_MURDER_BODYFALL-6=Атож! Ви зовсім не глухий.
+PC15D_CLUE_MURDER_BODYFALL-6=Отож! Ви зовсім не глухий.
 
 
 # Brok
@@ -8244,7 +8244,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-6=Ага. Він заглушив звук паді�
 
 # Mink
 ### But wait...
-PC15D_CLUE_MURDER_BODYMUSIC-7=Але стривай...
+PC15D_CLUE_MURDER_BODYMUSIC-7=Але стривайте...
 
 
 # Brok
@@ -8254,7 +8254,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-8=Ну що ще...?
 
 # Brok
 ### Can't you agree with my theory, just this once?
-PC15D_CLUE_MURDER_BODYMUSIC-9=Невже ви не можете погодитися з моєю теорією хоч раз?
+PC15D_CLUE_MURDER_BODYMUSIC-9=Невже ви не можете погодитися з моєю теорією, хоч раз?
 
 
 # Mink
@@ -8280,7 +8280,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-13=Угу.
 
 # Brok
 ### I believe he has sensors. He knew where everyone was.
-PC15D_CLUE_MURDER_BODYMUSIC-14=Гадаю, у нього є сенсори. Він знав, хто де.
+PC15D_CLUE_MURDER_BODYMUSIC-14=Гадаю, у нього є сенсори. Він знав, хто де знаходиться.
 
 
 # Mink
@@ -8310,13 +8310,13 @@ PC15D_CLUE_MURDER_BODYMUSIC-19=...О! О-о-о!
 
 # Tidy
 ### Ratty right!
-PC15D_CLUE_MURDER_BODYMUSIC-20=Щурик правий!
+PC15D_CLUE_MURDER_BODYMUSIC-20=Щурятко правий!
 
 
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy charging! Cannot push!
-PC15D_CLUE_MURDER_BODYMUSIC-21=Тайді заряджається! Не можна штовхати!
+PC15D_CLUE_MURDER_BODYMUSIC-21=Тайді заряджається! Не може штовхати!
 
 
 # Brok
@@ -8333,7 +8333,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-23=Як...?
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### You told me yourself, Dr. Mink!
-PC15D_CLUE_MURDER_AWAKEN-1=Ви самі мені це сказали, докторе Мінк!
+PC15D_CLUE_MURDER_AWAKEN-1=Ви самі мені це сказали, докторе Мінку!
 
 
 # Brok
@@ -8354,7 +8354,7 @@ PC15D_CLUE_MURDER_AWAKEN-4=Ви помітили, який у нього дов�
 
 # Brok
 ### It doesn't prevent him from going anywhere into the room while still keeping connected to the power socket!
-PC15D_CLUE_MURDER_AWAKEN-5=Це не заважає йому ходити будь-куди в кімнаті, залишаючись підключеним до розетки!
+PC15D_CLUE_MURDER_AWAKEN-5=Це не заважає йому ходити будь-де в кімнаті, залишаючись підключеним до розетки!
 
 
 # Brok
@@ -8443,12 +8443,12 @@ PC15D_CLUE_MURDER_MOTIVE-2=Як ми вже довели, доктор Гаш п
 
 # Brok
 ### Then, we shall wonder... Who exactly did that data transfer on his tablet at 4:45?
-PC15D_CLUE_MURDER_MOTIVE-3=Отже, варто замислитися... Хто саме виконав те перенесення даних на його планшеті о 4:45?
+PC15D_CLUE_MURDER_MOTIVE-3=Отже, варто замислитися... Хто саме виконав перенесення даних на його планшеті о 4:45?
 
 
 # Guard
 ### I know! It's that scrap of metal!
-PC15D_CLUE_MURDER_MOTIVE-4=Я знаю! Це той металобрухт!
+PC15D_CLUE_MURDER_MOTIVE-4=Я знаю! Це той шматок металобрухту!
 
 
 # Brok
@@ -8459,12 +8459,12 @@ PC15D_CLUE_MURDER_MOTIVE-5=Угу.
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Before putting him into the vent, it used Dr. Hush's hand to transfer data to the outside.
-PC15D_CLUE_MURDER_MOTIVE-6=Перш ніж запхати його у вентиляцію, воно скористалося рукою доктора Гаша, щоб передати дані назовні.
+PC15D_CLUE_MURDER_MOTIVE-6=Перш ніж запхати його у вентиляцію, Тайді скористався рукою доктора Гаша, щоб передати дані назовні.
 
 
 # Brok
 ### The file was an update from a few years ago and accessed recently.
-PC15D_CLUE_MURDER_MOTIVE-7=Файл був оновленням кількарічної давності, і до нього нещодавно зверталися.
+PC15D_CLUE_MURDER_MOTIVE-7=Цей файл - оновлення кількарічної давнини, і його нещодавно відкривали.
 
 
 # Brok
@@ -8525,12 +8525,12 @@ PC15D_CLUE_MURDER_MOTIVE-17=Але Тайді. Зачекає. І побачит
 
 # Brok
 ### No waiting!
-PC15D_CLUE_MURDER_MOTIVE-18=Ніякого чекання!
+PC15D_CLUE_MURDER_MOTIVE-18=Досить чекати!
 
 
 # Brok
 ### That's enough! It's time for you to admit it!
-PC15D_CLUE_MURDER_MOTIVE-19=Досить! Час тобі в цьому зізнатися!
+PC15D_CLUE_MURDER_MOTIVE-19=Годі! Час тобі в цьому зізнатися!
 
 
 # Guard
@@ -8540,7 +8540,7 @@ PC15D_CLUE_MURDER_MOTIVE-20=А тобі яке діло?
 
 # Guard
 ### Ya solved that mystery. T'is just a defective machine.
-PC15D_CLUE_MURDER_MOTIVE-21=Ти розкрив цю загадку. Це лише бракована машина.
+PC15D_CLUE_MURDER_MOTIVE-21=Ти розкрив цю загадку. Це була всього лише машина з дефектом.
 
 
 # Guard
@@ -8587,7 +8587,7 @@ PC15D_CLUE_MURDER_MOTIVE-29=Якщо Тайді. Штовхнув татуся.
 
 # Tidy
 ### Would Daddy. Be where. He is. Right now?
-PC15D_CLUE_MURDER_MOTIVE-30=Татусь був би. Там, де. Він є. Зараз?
+PC15D_CLUE_MURDER_MOTIVE-30=Чи був би татусь. Там, де. Він є. Зараз?
 
 
 # Brok
@@ -8612,7 +8612,7 @@ PC15D_CLUE_MURDER_MOTIVE-34=Татусь мав би. Впасти. Прямо �
 
 # Guard
 ### Oh my... Once again, the tin can is right!
-PC15D_CLUE_MURDER_MOTIVE-35=Ой лишенько... І знову бляшанка має рацію!
+PC15D_CLUE_MURDER_MOTIVE-35=Ой леле... І знову бляшанка має рацію!
 
 
 # Brok
@@ -8633,7 +8633,7 @@ PC15D_CLUE_MURDER_MOTIVE-38=А-ха-ха!
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy closed. Your beak!
-PC15D_CLUE_MURDER_MOTIVE-39=Тайді зачинив. Твій дзьоб!
+PC15D_CLUE_MURDER_MOTIVE-39=Тайді закрив. Тобі дзьоба!
 
 
 # Brok
@@ -8653,7 +8653,7 @@ PC15D_CLUE_MURDER_MOTIVE-42=Я... Я мушу...!
 
 # Tidy
 ### Go ahead!
-PC15D_CLUE_MURDER_MOTIVE-43=Давай!
+PC15D_CLUE_MURDER_MOTIVE-43=Ну ж бо!
 
 
 # Tidy
@@ -8748,7 +8748,7 @@ PC15D_FINALCHOICE_MOVED-5=Ми розмовляємо вже годину. Ма�
 
 # Brok
 ### Then... If not another person... One of you did!
-PC15D_FINALCHOICE_MOVED-6=Тоді... Якщо не інша людина... То це зробив хтось із вас!
+PC15D_FINALCHOICE_MOVED-6=Тоді... Якщо це не інша людина... То це зробив хтось із вас!
 
 
 # Brok
@@ -8790,7 +8790,7 @@ PC15D_FINALCHOICE_MOVED-13=Тоді...
 
 # Guard
 ### Stop it, man. Ya're embarassing yourself.
-PC15D_FINALCHOICE_MOVED-14=Годі вже, чоловіче. Ти ганьбишся.
+PC15D_FINALCHOICE_MOVED-14=Годі вже, чуваче. Ти ганьбишся.
 
 
 # Brok
@@ -8806,7 +8806,7 @@ PC15D_FINALCHOICE_MOVED-16=(Мені здається, Тайді це подо�
 
 # Brok
 ### (I can't let it win so close to the truth!)
-PC15D_FINALCHOICE_MOVED-17=(Я не можу дозволити йому перемогти так близько до правди!)
+PC15D_FINALCHOICE_MOVED-17=(Я не можу дозволити йому перемогти, коли я так близько до правди!)
 
 
 #----------------------------------------------------
@@ -8834,7 +8834,7 @@ PC15D_CHOICE_AWAKEN2-1=Пане Броку...?
 
 # Guard
 ### Hey! What'ya doin', man?!
-PC15D_CHOICE_AWAKEN2-2=Гей! Що ти робиш, чоловіче?!
+PC15D_CHOICE_AWAKEN2-2=Гей! Що ти робиш, чуваче?!
 
 
 # Tidy
@@ -8891,12 +8891,12 @@ PC15D_CHOICE_AWAKEN3-7=Що за...!
 # Mink
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush?!
-PC15D_CHOICE_AWAKEN3-8=Докторе Гашу?!
+PC15D_CHOICE_AWAKEN3-8=Докторе Гаше?!
 
 
 # Mink
 ### You're alive?!
-PC15D_CHOICE_AWAKEN3-9=Ти живий?!
+PC15D_CHOICE_AWAKEN3-9=Ви живий?!
 
 
 # Tidy
@@ -8921,7 +8921,7 @@ PC15D_CHOICE_AWAKEN3-13=Не мертвий татусь?!
 
 # Brok
 ### Are you all right?
-PC15D_CHOICE_AWAKEN3-14=Ти як?
+PC15D_CHOICE_AWAKEN3-14=Ви як?
 
 
 # Hush
@@ -8931,7 +8931,7 @@ PC15D_CHOICE_AWAKEN3-15=...Більш-менш...
 
 # Brok
 ### Tell me! What's the last thing you remember?
-PC15D_CHOICE_AWAKEN3-16=Кажи! Що ти пам'ятаєш останнім?
+PC15D_CHOICE_AWAKEN3-16=Скажіть! Що ви пам'ятаєте останнім?
 
 
 # Hush
@@ -8987,12 +8987,12 @@ PC15D_CHOICE_AWAKEN3-26=Вибач, але це надто важливо!
 
 # Brok
 ### When did you lose your consciousness?
-PC15D_CHOICE_AWAKEN3-27=Коли ти знепритомнів?
+PC15D_CHOICE_AWAKEN3-27=Коли ви знепритомніли?
 
 
 # Brok
 ### What were you doing?
-PC15D_CHOICE_AWAKEN3-28=Що ти робив?
+PC15D_CHOICE_AWAKEN3-28=Що ви робили?
 
 
 # Hush
@@ -9003,12 +9003,12 @@ PC15D_CHOICE_AWAKEN3-29=Я...
 # Hush
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### I took my coffee. Tidy prepared it...
-PC15D_CHOICE_AWAKEN3-30=Я взяв свою каву. Тайді її зробив...
+PC15D_CHOICE_AWAKEN3-30=Я пив свою каву. Тайді її зробив...
 
 
 # Hush
 ### When I drank it... My heart...
-PC15D_CHOICE_AWAKEN3-31=Коли я її випив... Моє серце...
+PC15D_CHOICE_AWAKEN3-31=Коли я випив її... Моє серце...
 
 
 # Hush
@@ -9029,7 +9029,7 @@ PC15D_CHOICE_AWAKEN3-34=Крок мав рацію!
 # Guard
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### It was Tidy all along!
-PC15D_CHOICE_AWAKEN3-35=Це Тайді був увесь час!
+PC15D_CHOICE_AWAKEN3-35=Увесь цей час це був Тайді!
 
 
 # Tidy
@@ -9039,7 +9039,7 @@ PC15D_CHOICE_AWAKEN3-36=Трясця...
 
 # Mink
 ### I still can't believe this low hardware maintenance bot could plan a scheme as elaborate as this!
-PC15D_CHOICE_AWAKEN3-37=Досі не можу повірити, що цей примітивний сервісний бот міг задумати настільки витончену схему!
+PC15D_CHOICE_AWAKEN3-37=Досі не можу повірити, що цей примітивний сервісний бот придумав настільки витончену схему!
 
 
 # Brok
@@ -9064,7 +9064,7 @@ PC15D_CHOICE_AWAKEN3-41=Ні. Гадаю, цьому є пояснення.
 
 # Ott
 ### You do have an explanation to everything, don't you?
-PC15D_CHOICE_AWAKEN3-42=У тебе на все є пояснення, правда ж?
+PC15D_CHOICE_AWAKEN3-42=У вас на все є пояснення, правда ж?
 
 
 # Guard
@@ -9075,12 +9075,12 @@ PC15D_CHOICE_AWAKEN3-43=Уже не терпиться почути!
 #----------------------------------------------------
 # Brok
 ### The effect of the poison was to slow down the heart rate, ultimately causing death.
-PC15D_EXPLAIN_ALIVE-1=Отрута сповільнювала серцебиття, що зрештою призводило до смерті.
+PC15D_EXPLAIN_ALIVE-1=Отрута сповільнювала серцебиття, що зрештою мало призвести до смерті.
 
 
 # Brok
 ### However, the life in this bunker... Err, I mean, lab isn't a very physical one.
-PC15D_EXPLAIN_ALIVE-2=Однак життя в цьому бункері... Е-е, я маю на увазі лабораторії, не надто рухливе.
+PC15D_EXPLAIN_ALIVE-2=Однак життя в цьому бункері... Е-е, тобто, лабораторії, не надто рухливе.
 
 
 # Brok
@@ -9096,13 +9096,13 @@ PC15D_EXPLAIN_ALIVE-4=Точніше, пігулки Аксель-500.
 
 # Mink
 ### I see! This has the exact opposite effect, doesn't it?
-PC15D_EXPLAIN_ALIVE-5=Зрозуміло! Це справляє прямо протилежний ефект, чи не так?
+PC15D_EXPLAIN_ALIVE-5=Зрозуміло! Вони справляють прямо протилежний ефект, чи не так?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Yes. It boosts the heart activity. This is what saved Dr. Hush!
-PC15D_EXPLAIN_ALIVE-6=Так. Він підсилює роботу серця. Саме це й урятувало доктора Гаша!
+PC15D_EXPLAIN_ALIVE-6=Так. Ці ліки підсилюють роботу серця. Саме це й урятувало доктора Гаша!
 
 
 # Brok
@@ -9118,7 +9118,7 @@ PC15D_EXPLAIN_ALIVE-8=Навіть трекер. Його серцебиття �
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### The shock from falling down the vent caused him to wake up for a few seconds and move towards Dr. Mink...
-PC15D_EXPLAIN_ALIVE-9=Струс від падіння крізь вентиляцію змусив його на кілька секунд прийти до тями й посунутися до доктора Мінка...
+PC15D_EXPLAIN_ALIVE-9=Струс від падіння крізь вентиляцію змусив його на кілька секунд прийти до тями й посунутися ближче до доктора Мінка...
 
 
 # Mink
@@ -9161,7 +9161,7 @@ PC15D_EXPLAIN_ALIVEWRONG-5=О... Ну...
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Never mind. I'm just glad Dr. Hush is okay!
-PC15D_EXPLAIN_ALIVEWRONG-6=Та годі. Я просто радий, що з доктором Гашем усе гаразд!
+PC15D_EXPLAIN_ALIVEWRONG-6=Неважливо. Я просто радий, що з доктором Гашем усе гаразд!
 
 
 #----------------------------------------------------
@@ -9199,7 +9199,7 @@ PC15D_CHOICE_ALIVEB-6="Тайді, помий підлогу. Тайді, пос
 
 # Tidy
 ### I can't take anymore!
-PC15D_CHOICE_ALIVEB-7=Я більше не витримаю!
+PC15D_CHOICE_ALIVEB-7=Я більше не витримую!
 
 
 # Brok
@@ -9302,7 +9302,7 @@ PC15D_CHOICE_ALIVEB-26=Мені так шкода, малий! Це я в усь
 
 # Brok
 ### ...You really shouldn't be sorry. You're the victim here.
-PC15D_CHOICE_ALIVEB-27=...Тобі справді нема за що вибачатися. Жертва тут - ти.
+PC15D_CHOICE_ALIVEB-27=...Вам справді нема за що вибачатися. Жертва тут - ви.
 
 
 # Hush
@@ -9328,7 +9328,7 @@ PC15D_CHOICE_ALIVE3-1=Він намагається втекти!
 
 # Mink
 ### We can't let it happen! Who knows what disaster he could cause in this state!
-PC15D_CHOICE_ALIVE3-2=Ми не можемо цього допустити! Хто знає, якої катастрофи він може наробити в такому стані!
+PC15D_CHOICE_ALIVE3-2=Ми не можемо цього допустити! Хто знає, яку катастрофу він може вчинити в такому стані!
 
 
 # Hush
@@ -9425,7 +9425,7 @@ PC15D_INTERROGATE_EXIT3-3=Брокі. Зламаний детектив.
 # Brok - Charge Mink (again)
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Despite the new clues I've found... I'm afraid you're still the main culprit, Dr. Mink.
-PC15D_SECONDGATHER_MINK1-1=Попри нові знайдені зачіпки... Боюся, ви все ще головний винуватець, докторе Мінку.
+PC15D_SECONDGATHER_MINK1-1=Попри нові зачіпки... Боюся, ви все ще головний підозрюваний, докторе Мінку.
 
 
 # Mink
@@ -9446,7 +9446,7 @@ PC15D_SECONDGATHER_MINK1-4=А як же та фальшива кров?!
 # Brok
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 ### Lemme ask. Who ate an Antburger yesterday?
-PC15D_SECONDGATHER_MINK1-5=Дай-но спитаю. Хто вчора їв мурахобургер?
+PC15D_SECONDGATHER_MINK1-5=Дайте-но спитаю. Хто вчора їв мурахобургер?
 
 
 # Mink
@@ -9508,7 +9508,7 @@ PC15D_SECONDGATHER_MINK1-16=Не обов'язково. Ушкодження м�
 
 # Mink
 ### What about you, Mister rat?...
-PC15D_SECONDGATHER_MINK1-17=А ви як, пане Щуре...?
+PC15D_SECONDGATHER_MINK1-17=А як же ви, пане щуре...?
 
 
 # Mink
@@ -9518,7 +9518,7 @@ PC15D_SECONDGATHER_MINK1-18=Якби ми побилися, був би гала
 
 # Guard
 ### I probably didn't pay attention. That wouldn't be your first argument.
-PC15D_SECONDGATHER_MINK1-19=Я, певно, не звернув уваги. Це був би не ваш перший скандал.
+PC15D_SECONDGATHER_MINK1-19=Я, певно, не звернув би уваги. Це була би не перша ваша сварка.
 
 
 # Brok
@@ -9528,7 +9528,7 @@ PC15D_SECONDGATHER_MINK1-20=Крім того... Ви не впустили ме
 
 # Brok
 ### You were trying to get rid of the corpse!
-PC15D_SECONDGATHER_MINK1-21=Ви намагалися позбутися трупа!
+PC15D_SECONDGATHER_MINK1-21=Бо намагалися позбутися трупа!
 
 
 # Mink
@@ -9571,7 +9571,7 @@ PC15D_SECONDGATHER_GUARD1-3=Хто має вільний доступ до вс�
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### You, rat guard.
-PC15D_SECONDGATHER_GUARD1-4=Ти, щурячий охоронець.
+PC15D_SECONDGATHER_GUARD1-4=Ти, щуре-охоронець.
 
 
 # Guard
@@ -9640,7 +9640,7 @@ PC15D_CLUE_GUARD_STAGED-5=Ви використали соус із мого б�
 
 # Guard
 ### You're delusional!
-PC15D_CLUE_GUARD_STAGED-6=Ви марите!
+PC15D_CLUE_GUARD_STAGED-6=Ви божевільні!
 
 
 # Guard
@@ -9667,7 +9667,7 @@ PC15D_CLUE_GUARD_STAGED-10=Заспокойтеся. Зараз поясню.
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Dr. Mink stayed in his room the whole time, except once.
-PC15D_CLUE_GUARD_STAGED-11=Доктор Мінк увесь час сидів у своїй кімнаті, крім одного разу.
+PC15D_CLUE_GUARD_STAGED-11=Доктор Мінк увесь час сидів у своїй кімнаті, крім одного моменту.
 
 
 # Brok
@@ -9684,7 +9684,7 @@ PC15D_CLUE_GUARD_STAGED-13=Легко уявити, як усе сталося.
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### While he was in the restroom, the murderer killed Dr. Hush in his room, then carried him in to Dr. Mink's room.
-PC15D_CLUE_GUARD_STAGED-14=Поки він був у вбиральні, вбивця вбив доктора Гаша в його кімнаті, а потім переніс його до кімнати доктора Мінка.
+PC15D_CLUE_GUARD_STAGED-14=Поки він був у вбиральні, злочинець убив доктора Гаша в його кімнаті, а потім переніс його до кімнати доктора Мінка.
 
 
 # Brok
@@ -9695,7 +9695,7 @@ PC15D_CLUE_GUARD_STAGED-15=І це могла зробити лише одна �
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### You, Mister rat... I mean, guard.
-PC15D_CLUE_GUARD_STAGED-16=Ти, пане Щуре... тобто охоронцю.
+PC15D_CLUE_GUARD_STAGED-16=Ти, пане щуре... тобто охоронцю.
 
 
 # Guard
@@ -9790,13 +9790,13 @@ PC15D_CLUE_GUARD_BED-10=Ні. У цього є чудове пояснення.
 
 # Guard
 ### Pray tell?...
-PC15D_CLUE_GUARD_BED-11=То розповідай уже...?
+PC15D_CLUE_GUARD_BED-11=Поділишся...?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Dr. Mink.
-PC15D_CLUE_GUARD_BED-12=Доктор Мінк.
+PC15D_CLUE_GUARD_BED-12=Докторе Мінку.
 
 
 # Brok
@@ -9816,7 +9816,7 @@ PC15D_CLUE_GUARD_BED-15=На той момент ви не знали, чи ві
 
 # Brok
 ### Then you panicked.
-PC15D_CLUE_GUARD_BED-16=А тоді ви запанікували.
+PC15D_CLUE_GUARD_BED-16=А тоді запанікували.
 
 
 # Brok
@@ -9871,7 +9871,7 @@ PC15D_CLUE_GUARD_BED-26=Що за...!
 
 # Guard
 ### You dirty liar...!
-PC15D_CLUE_GUARD_BED-27=Ах ви ж, паскудний брехуне...!
+PC15D_CLUE_GUARD_BED-27=Ах ти ж, паскудний брехун...!
 
 
 # Mink
@@ -9881,7 +9881,7 @@ PC15D_CLUE_GUARD_BED-28=А-а-а!
 
 # Brok
 ### Man! You're only making your situation worse!
-PC15D_CLUE_GUARD_BED-29=Чоловіче! Ти лише погіршуєш своє становище!
+PC15D_CLUE_GUARD_BED-29=Чуваче! Ти сам собі копаєш могилу!
 
 
 # Guard
@@ -9916,7 +9916,7 @@ PC15D_CLUE_GUARD_BED-35=Глянь!
 
 # Guard
 ### According to this, I never opened your door today, weasel!
-PC15D_CLUE_GUARD_BED-36=Згідно з цим, я сьогодні жодного разу не відчиняв ваших дверей, ласице!
+PC15D_CLUE_GUARD_BED-36=Згідно із ним, я сьогодні жодного разу не відчиняв ваших дверей, ласице!
 
 
 # Brok
@@ -9926,12 +9926,12 @@ PC15D_CLUE_GUARD_BED-37=Що ж, це правда.
 
 # Guard
 ### Got ya!
-PC15D_CLUE_GUARD_BED-38=Ось так!
+PC15D_CLUE_GUARD_BED-38=Отож!
 
 
 # Brok
 ### Except... This isn't valid evidence.
-PC15D_CLUE_GUARD_BED-39=От тільки... це недійсний доказ.
+PC15D_CLUE_GUARD_BED-39=От тільки... Це недійсний доказ.
 
 
 # Brok
@@ -9952,7 +9952,7 @@ PC15D_CLUE_GUARD_MONITORING2-1=О 4:38 запис свідчить, що ти в
 
 # Brok
 ### Which, obviously, cannot be true.
-PC15D_CLUE_GUARD_MONITORING2-2=Що, очевидно, не може бути правдою.
+PC15D_CLUE_GUARD_MONITORING2-2=Що, вочевидь, не може бути правдою.
 
 
 # Guard
@@ -9962,7 +9962,7 @@ PC15D_CLUE_GUARD_MONITORING2-3=Я ж тобі казав!
 
 # Guard
 ### I made a blunder... Had a call and left the entrance door open to get a better signal.
-PC15D_CLUE_GUARD_MONITORING2-4=Я схибив... Був дзвінок, тож я залишив вхідні двері відчиненими, щоб краще ловився сигнал.
+PC15D_CLUE_GUARD_MONITORING2-4=Я схибив... Був дзвінок, тож я залишив вхідні двері відчиненими, щоб краще зловити сигнал.
 
 
 # Mink
@@ -9977,7 +9977,7 @@ PC15D_CLUE_GUARD_MONITORING2-6=Ну, мене це не переконує.
 
 # Brok
 ### In order to cover your tracks, you deleted all compromising data.
-PC15D_CLUE_GUARD_MONITORING2-7=Щоб замести сліди, ти стер усі компрометуючі дані.
+PC15D_CLUE_GUARD_MONITORING2-7=Щоб замести сліди, ти стер усі дані, які б могли тебе скомпрометувати.
 
 
 # Brok
@@ -9987,12 +9987,12 @@ PC15D_CLUE_GUARD_MONITORING2-8=Але випадково залишив саме
 
 # Guard
 ### No way!
-PC15D_CLUE_GUARD_MONITORING2-9=Не може бути!
+PC15D_CLUE_GUARD_MONITORING2-9=Неможливо!
 
 
 # Guard
 ### We can only remove all data at once!
-PC15D_CLUE_GUARD_MONITORING2-10=Ми можемо стерти всі дані тільки одразу!
+PC15D_CLUE_GUARD_MONITORING2-10=Ми можемо стерти лише всі дані одночасно!
 
 
 # Brok
@@ -10013,22 +10013,22 @@ PC15D_CLUE_GUARD_MONITORING2-13=Якщо я справді втрутився в
 # Guard
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Then you can't prove Dr. Mink whereabouts either!
-PC15D_CLUE_GUARD_MONITORING2-14=Тоді ти не доведеш і де був доктор Мінк!
+PC15D_CLUE_GUARD_MONITORING2-14=Тоді ти не можеш довести, де доктор Мінк!
 
 
 # Guard
 ### Maybe he staged everything so we thought it'd be so obvious it couldn't be him!
-PC15D_CLUE_GUARD_MONITORING2-15=Може, він усе інсценував, щоб нам здалося, ніби це надто очевидно, щоб це був він!
+PC15D_CLUE_GUARD_MONITORING2-15=Може, він усе інсценував, щоб нам здалося, ніби це надто очевидно, що це був він!
 
 
 # Mink
 ### Oh, come on! How convoluted would that be?!
-PC15D_CLUE_GUARD_MONITORING2-16=О, годі! Наскільки ж це було б заплутано?!
+PC15D_CLUE_GUARD_MONITORING2-16=О, та годі! Наскільки ж це було б заплутано?!
 
 
 # Guard
 ### Dunno! How convoluted can you be?
-PC15D_CLUE_GUARD_MONITORING2-17=Не знаю! А наскільки заплутаним можеш бути ти?
+PC15D_CLUE_GUARD_MONITORING2-17=Не знаю! А наскільки заплутаним ви можете бути?
 
 
 # Brok
@@ -10109,12 +10109,12 @@ PC15D_CLUE_GUARD_MONITORING2-31=Що?
 # Tidy
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy. See Ratty. Murder Daddy.
-PC15D_CLUE_GUARD_MONITORING2-32=Тайді. Бачив Щурика. Вбив татуся.
+PC15D_CLUE_GUARD_MONITORING2-32=Тайді. Бачив Щурятко. Вбив татуся.
 
 
 # Guard
 ### The heck?!
-PC15D_CLUE_GUARD_MONITORING2-33=Якого дідька?!
+PC15D_CLUE_GUARD_MONITORING2-33=Якого біса?!
 
 
 # Brok
@@ -10150,7 +10150,7 @@ PC15D_CLUE_GUARD_MONITORING2-39=У мене не було мотиву чини�
 
 # Guard
 ### I'm doing my job here! Why would I risk it?!
-PC15D_CLUE_GUARD_MONITORING2-40=Я тут просто роблю свою роботу! Навіщо б я нею ризикував?!
+PC15D_CLUE_GUARD_MONITORING2-40=Я просто роблю тут свою роботу! Навіщо б я нею ризикував?!
 
 
 # Guard
@@ -10172,7 +10172,7 @@ PC15D_CLUE_GUARD_MONITORING2-43=Н... Не може бути!
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### At 4:45, Dr. Hush's tablet transferred some AI data to an unknown destination.
-PC15D_CLUE_GUARD_MOTIVE-1=О 4:45 планшет доктора Гаша передав якісь дані ШІ в невідоме місце.
+PC15D_CLUE_GUARD_MOTIVE-1=О 4:45 планшет доктора Гаша передав якісь ШІ-дані в невідоме місце.
 
 
 # Brok
@@ -10221,12 +10221,12 @@ PC15D_CLUE_GUARD_MOTIVE-9=Що-о-о?!
 
 # Tidy
 ### Ratty. Take Daddy's hand.
-PC15D_CLUE_GUARD_MOTIVE-10=Щурик. Взяв руку татуся.
+PC15D_CLUE_GUARD_MOTIVE-10=Щурятко. Взяв руку татуся.
 
 
 # Tidy
 ### Then used. Tablet.
-PC15D_CLUE_GUARD_MOTIVE-11=Потім ужив. Планшет.
+PC15D_CLUE_GUARD_MOTIVE-11=Використав. Планшет.
 
 
 # Tidy
@@ -10237,7 +10237,7 @@ PC15D_CLUE_GUARD_MOTIVE-12=Бідний татусь. Мертвий татус�
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Wait. Tidy knew that all along?
-PC15D_CLUE_GUARD_MOTIVE-13=Стривай. Тайді знав про це весь час?
+PC15D_CLUE_GUARD_MOTIVE-13=Стривайте. Тайді знав про це весь час?
 
 
 # Mink
@@ -10257,24 +10257,24 @@ PC15D_CLUE_GUARD_MOTIVE-16=Ось твоя справжня робота тут.
 
 # Brok
 ### You're giving away high technology to your friends!
-PC15D_CLUE_GUARD_MOTIVE-17=Ти роздаєш високі технології своїм друзям!
+PC15D_CLUE_GUARD_MOTIVE-17=Ти забезпечуєш своїх друзів передовими технологіями!
 
 
 # Guard
 ### My friends?...
-PC15D_CLUE_GUARD_MOTIVE-18=Моїм друзям...?
+PC15D_CLUE_GUARD_MOTIVE-18=Моїх друзів...?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush caught you on the act, and that's why you had to get rid of him!
-PC15D_CLUE_GUARD_MOTIVE-19=Доктор Гаш застав тебе на гарячому, і тому ти мусив його позбутися!
+PC15D_CLUE_GUARD_MOTIVE-19=Доктор Гаш застав тебе на гарячому, тому ти мусив його позбутися!
 
 
 #----------------------------------------------------
 # Guard
 ### You're saying I did this for the moolah?!
-PC15D_GUARD_AFTERINTERROGATION-1=Ти кажеш, я зробив це заради грошей?!
+PC15D_GUARD_AFTERINTERROGATION-1=По-твоєму, я зробив це заради бабок?!
 
 
 # Brok
@@ -10285,12 +10285,12 @@ PC15D_GUARD_AFTERINTERROGATION-2=Саме так.
 # Brok
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### You're a Squealer. My experience is that you cannot be trusted.
-PC15D_GUARD_AFTERINTERROGATION-3=Ти Верескун. Мій досвід каже, що тобі не можна довіряти.
+PC15D_GUARD_AFTERINTERROGATION-3=Ти Верескун. Мій досвід каже, що таким, як ти, не можна довіряти.
 
 
 # Guard
 ### That's it! I knew it would come down to this!
-PC15D_GUARD_AFTERINTERROGATION-4=От і все! Я знав, що цим закінчиться!
+PC15D_GUARD_AFTERINTERROGATION-4=От і все! Я знав, що цим все закінчиться!
 
 
 # Mink
@@ -10300,12 +10300,12 @@ PC15D_GUARD_AFTERINTERROGATION-5=Чесно кажучи, я завжди мав
 
 # Mink
 ### With time I thought you weren't so bad after all but it appears I should have trusted my first impression...
-PC15D_GUARD_AFTERINTERROGATION-6=Згодом мені здалося, що ви не такий уже й поганий, але, схоже, варто було довіряти першому враженню...
+PC15D_GUARD_AFTERINTERROGATION-6=Згодом мені здалося, що ви не такий уже й поганий, але, схоже, варто було довіряти своєму першому враженню...
 
 
 # Guard
 ### You... You dirty!...
-PC15D_GUARD_AFTERINTERROGATION-7=Ти... ти, падлюко...!
+PC15D_GUARD_AFTERINTERROGATION-7=Ти... Ти, падлюко...!
 
 
 # Brok
@@ -10324,7 +10324,7 @@ PC15D_GUARD_AFTERINTERROGATION-9=Ти продаєш технології Вер
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Nonsense! Squealers don't have much use for new technology!
-PC15D_GUARD_AFTERINTERROGATION-10=Дурниці! Верескунам нові технології ні до чого!
+PC15D_GUARD_AFTERINTERROGATION-10=Дурниці! Верескунам ні до чого нові технології!
 
 
 # Guard
@@ -10349,7 +10349,7 @@ PC15D_GUARD_AFTERINTERROGATION-14=Достатньо, щоб їх зневажа
 
 # Guard
 ### This is all a joke.
-PC15D_GUARD_AFTERINTERROGATION-15=Усе це жарт.
+PC15D_GUARD_AFTERINTERROGATION-15=Це все якийсь жарт.
 
 
 # Guard
@@ -10389,12 +10389,12 @@ PC15D_GUARD_AFTERINTERROGATION-22=Брехуни!
 
 # Guard
 ### You're all lying! Every single one of you!
-PC15D_GUARD_AFTERINTERROGATION-23=Ви всі брешете! Кожен до одного!
+PC15D_GUARD_AFTERINTERROGATION-23=Ви всі брешете! Всі до одного!
 
 
 # Guard
 ### I'm the only honest one here!
-PC15D_GUARD_AFTERINTERROGATION-24=Я тут єдиний чесний!
+PC15D_GUARD_AFTERINTERROGATION-24=Я тут єдиний кажу правду!
 
 
 # Guard
@@ -10409,7 +10409,7 @@ PC15D_GUARD_AFTERINTERROGATION-26=Ви знаєте, як важко домог�
 
 # Guard
 ### No way am I going to jail!
-PC15D_GUARD_AFTERINTERROGATION-27=Нізащо не піду до в'язниці!
+PC15D_GUARD_AFTERINTERROGATION-27=Я нізащо не піду до в'язниці!
 
 
 # Brok
@@ -10435,12 +10435,12 @@ PC15D_GUARD_AFTERINTERROGATIONB-1=Що за...!
 
 # Brok
 ### Everyone! Out!
-PC15D_GUARD_AFTERINTERROGATIONB-2=Усі! Геть!
+PC15D_GUARD_AFTERINTERROGATIONB-2=Усі! На вихід!
 
 
 # Brok
 ### This is between me and him.
-PC15D_GUARD_AFTERINTERROGATIONB-3=Це між мною і ним.
+PC15D_GUARD_AFTERINTERROGATIONB-3=Це стосується лише нас двох.
 
 
 # Guard
@@ -10479,7 +10479,7 @@ PC15D_GUARD_WIN-2=Та ні. Просто непритомний.
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Gonna call Chief Wes. He'll take care of him.
-PC15D_GUARD_WIN-3=Зателефоную шефові Весові. Він про нього подбає.
+PC15D_GUARD_WIN-3=Зателефоную шефові Весу. Він про нього подбає.
 
 
 # Mink
@@ -10517,22 +10517,22 @@ PC15D_SECONDGATHER_OTT1-2=Дуже смішно, пане Броку.
 
 # Brok
 ### Do I look like I'm joking?...
-PC15D_SECONDGATHER_OTT1-3=Я схожий на того, хто жартує...?
+PC15D_SECONDGATHER_OTT1-3=Схоже, що я жартую...?
 
 
 # Guard
 ### Your little colleague here?... Ya sure?
-PC15D_SECONDGATHER_OTT1-4=Твій колега ось тут...? Ти впевнений?
+PC15D_SECONDGATHER_OTT1-4=Твій маленький колега...? Ти впевнений?
 
 
 # Ott
 ### What?... You can't be serious!
-PC15D_SECONDGATHER_OTT1-5=Що...? Ти не можеш бути серйозним!
+PC15D_SECONDGATHER_OTT1-5=Що...? Ви не можете бути серйозним!
 
 
 # Ott
 ### I arrived here with you! How could I?
-PC15D_SECONDGATHER_OTT1-6=Я приїхав сюди разом із тобою! Як би я це зробив?
+PC15D_SECONDGATHER_OTT1-6=Я приїхав сюди разом із вами! Як би я це зробив?
 
 
 # Brok
@@ -10548,7 +10548,7 @@ PC15D_SECONDGATHER_OTT1-8=Цього цілком досить, щоб зайт�
 
 # Ott
 ### That's nonsense! You're the one who opened that door!
-PC15D_SECONDGATHER_OTT1-9=Дурниці! Це ти відчинив ті двері!
+PC15D_SECONDGATHER_OTT1-9=Дурниці! Це ви відчинили ті двері!
 
 
 # Brok
@@ -10558,7 +10558,7 @@ PC15D_SECONDGATHER_OTT1-10=Ні, не я!
 
 # Ott
 ### Yes you did!
-PC15D_SECONDGATHER_OTT1-11=Ні, ти!
+PC15D_SECONDGATHER_OTT1-11=Ні, ви!
 
 
 # Brok
@@ -10573,12 +10573,12 @@ PC15D_SECONDGATHER_OTT1-13=Благаю, люди! Ви мусите мені п
 
 # Mink
 ### I hate to say this detective but... I really don't see how he could be involved at all.
-PC15D_SECONDGATHER_OTT1-14=Мені неприємно це казати, детективе, але... я справді не бачу, як він міг бути причетним.
+PC15D_SECONDGATHER_OTT1-14=Мені неприємно це казати, детективе, але... Я справді не бачу, як він міг бути до цього причетним.
 
 
 # Brok
 ### (Am I making a mistake?)
-PC15D_SECONDGATHER_OTT1-15=(Я не помиляюся?)
+PC15D_SECONDGATHER_OTT1-15=(Я роблю помилку?)
 
 
 #----------------------------------------------------
@@ -10594,7 +10594,7 @@ PC15D_SECONDGATHER_OTT_CONFIRM-2=Що...? Це зловживання владо
 
 # Ott
 ### You don't even have a single piece of evidence against me!
-PC15D_SECONDGATHER_OTT_CONFIRM-3=У тебе навіть немає жодного доказу проти мене!
+PC15D_SECONDGATHER_OTT_CONFIRM-3=У вас навіть немає жодного доказу проти мене!
 
 
 # Ott
@@ -10616,7 +10616,7 @@ PC15D_SECONDGATHER_OTT_CONFIRM-6=Цього не може бути...
 # Ott
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### I... I'll complain to Uncle Wes!
-PC15D_SECONDGATHER_OTT_CONFIRM-7=Я... я поскаржуся дядькові Весові!
+PC15D_SECONDGATHER_OTT_CONFIRM-7=Я... я поскаржуся дядькові Весу!
 
 
 # Brok
@@ -10626,7 +10626,7 @@ PC15D_SECONDGATHER_OTT_CONFIRM-8=Скаржся, якщо хочеш. Правд
 
 # Ott
 ### You're the worst detective I've ever seen!
-PC15D_SECONDGATHER_OTT_CONFIRM-9=Ти найгірший детектив, якого я бачив!
+PC15D_SECONDGATHER_OTT_CONFIRM-9=Ви найгірший детектив, якого я бачив!
 
 
 # Brok
@@ -10654,17 +10654,17 @@ PC15D_SECONDGATHER_OTT_CONFIRM2-3=(Звісно, він мені не повір
 # Brok
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### (Instead of putting Ott in jail... I'm the one who almost ended up there!)
-PC15D_SECONDGATHER_OTT_CONFIRM2-4=(Замість того, щоб посадити Отта до в'язниці... я сам туди ледь не потрапив!)
+PC15D_SECONDGATHER_OTT_CONFIRM2-4=(Замість того, щоб посадити Отта до в'язниці... Я сам туди ледь не потрапив!)
 
 
 # Brok
 ### (I barely escaped him. Darn it... No way I'll spend the rest of the day in a cell again!)
-PC15D_SECONDGATHER_OTT_CONFIRM2-5=(Я ледве від нього втік. Трясця... Нізащо не просиджу решту дня знову в камері!)
+PC15D_SECONDGATHER_OTT_CONFIRM2-5=(Я ледве від нього втік. Трясця... Ні, я точно не закінчу свої дні за ґратами!)
 
 
 # Brok
 ### (That's what I get for doing my job...)
-PC15D_SECONDGATHER_OTT_CONFIRM2-6=(Ось що я маю за те, що роблю свою роботу...)
+PC15D_SECONDGATHER_OTT_CONFIRM2-6=(Ось, що я отримую за виконання своєї роботи...)
 
 
 # Brok
@@ -10675,7 +10675,7 @@ PC15D_SECONDGATHER_OTT_CONFIRM2-7=(А коли я повернувся додо�
 #----------------------------------------------------
 # Brok
 ### Ah-ah! You fell for it!
-PC15D_SECONDGATHER_OTT_NOPE-1=А-а! Ти купився!
+PC15D_SECONDGATHER_OTT_NOPE-1=Ха-ха! Ти купився!
 
 
 # Ott
@@ -10700,7 +10700,7 @@ PC15D_SECONDGATHER_OTT_NOPE-5=Ти гаєш наш час!
 
 # Mink
 ### So! Who did it?
-PC15D_SECONDGATHER_OTT_NOPE-6=То! Хто це зробив?
+PC15D_SECONDGATHER_OTT_NOPE-6=Ну? Хто це зробив?
 
 
 #----------------------------------------------------
@@ -10766,7 +10766,7 @@ PC15D_CLUE_HUSH_NEEDROOM-3=Так, саме той.
 
 # Mink
 ### So... He wanted to talk to me?...
-PC15D_CLUE_HUSH_NEEDROOM-4=То... він хотів зі мною поговорити...?
+PC15D_CLUE_HUSH_NEEDROOM-4=То... Він хотів зі мною поговорити...?
 
 
 # Mink
@@ -10837,7 +10837,7 @@ PC15D_CLUE_HUSH_KILLMINK-3=Це ознаки тяжкого психічного
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush was keeping things to himself, to the point he couldn't bare it anymore.
-PC15D_CLUE_HUSH_KILLMINK-4=Доктор Гаш тримав усе в собі, аж доки не витримав.
+PC15D_CLUE_HUSH_KILLMINK-4=Доктор Гаш тримав усе в собі, аж доки не зміг більше цього витримати.
 
 
 # Guard
@@ -10847,7 +10847,7 @@ PC15D_CLUE_HUSH_KILLMINK-5=А ти тепер ще й психолог?
 
 # Mink
 ### This is pure assumption! Where's your proof?
-PC15D_CLUE_HUSH_KILLMINK-6=Це чистісіньке припущення! Де ваш доказ?
+PC15D_CLUE_HUSH_KILLMINK-6=Це чистісіньке припущення! Де ваші докази?
 
 
 # Brok
@@ -10893,7 +10893,7 @@ PC15D_CLUE_HUSH_KILLMINK-14=Жбурнути...? Щоб убити мене?!
 
 # Guard
 ### Hmm... It's starting to make some sense...
-PC15D_CLUE_HUSH_KILLMINK-15=Гмм... Починає набувати сенсу...
+PC15D_CLUE_HUSH_KILLMINK-15=Гмм... Це починає набувати сенсу...
 
 
 # Guard
@@ -10903,13 +10903,13 @@ PC15D_CLUE_HUSH_KILLMINK-16=Але йому треба було десь зру�
 
 # Guard
 ### To see without being seen?...
-PC15D_CLUE_HUSH_KILLMINK-17=Бачити, лишаючись непомітним...?
+PC15D_CLUE_HUSH_KILLMINK-17=Щоб бачити, лишаючись непомітним...?
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### There's only one solution for Dr. Hush to end up where he is without entering from the door.
-PC15D_CLUE_HUSH_KILLMINK-18=Є лише один спосіб, щоб доктор Гаш опинився там, де він є, не заходячи через двері.
+PC15D_CLUE_HUSH_KILLMINK-18=Є лише один варіант, як доктор Гаш міг опинитися там, де він зараз, не заходячи через двері.
 
 
 # Guard
@@ -10949,7 +10949,7 @@ PC15D_CLUE_HUSH_KILLMINK-25=Анітрохи.
 
 # Brok
 ### And I've got the appropriate piece of evidence to support this!
-PC15D_CLUE_HUSH_KILLMINK-26=І в мене є відповідний доказ на підтвердження!
+PC15D_CLUE_HUSH_KILLMINK-26=І в мене є відповідний доказ, який це підтверджує!
 
 
 #----------------------------------------------------
@@ -11000,7 +11000,7 @@ PC15D_CLUE_HUSH_INVENT-8=Це якось... не в його стилі.
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Fortunately for us, this revealed another Tomatoze sauce spot in an unusual place!
-PC15D_CLUE_HUSH_INVENT-9=На нашу удачу, це виявило ще одну пляму соусу томатози в незвичному місці!
+PC15D_CLUE_HUSH_INVENT-9=На наше щастя, завдяки цьому ми виявили ще одну пляму томатози у незвичайному місці!
 
 
 # Guard
@@ -11020,7 +11020,7 @@ PC15D_CLUE_HUSH_INVENT-12=Бінго!
 
 # Mink
 ### Okay, let's admit it. As far-fetched as this might sound, the doctor must have been in the vent at some point.
-PC15D_CLUE_HUSH_INVENT-13=Гаразд, визнаймо. Як би натягнуто це не звучало, доктор у якийсь момент таки побував у вентиляції.
+PC15D_CLUE_HUSH_INVENT-13=Гаразд, визнаймо. Хоч як би неправдоподібно це не звучало, доктор у якийсь момент таки побував у вентиляції.
 
 
 # Mink
@@ -11035,7 +11035,7 @@ PC15D_CLUE_HUSH_INVENT-15=Ага! Вона ж заввишки три з пол�
 
 # Guard
 ### And unlike here, there's no ladder to access the trap.
-PC15D_CLUE_HUSH_INVENT-16=І на відміну від тутешньої, до люка немає драбини.
+PC15D_CLUE_HUSH_INVENT-16=І, на відміну від цієї кімнати, у нього немає драбини, якою він міг би дістатися до люка.
 
 
 # Brok
@@ -11062,7 +11062,7 @@ PC15D_CLUE_HUSH_TRAP-3=Я не приховую! Нічого!
 
 # Brok
 ### I beg to differ.
-PC15D_CLUE_HUSH_TRAP-4=Дозволю собі не погодитися.
+PC15D_CLUE_HUSH_TRAP-4=Дозволь не погодитися.
 
 
 # Brok
@@ -11094,7 +11094,7 @@ PC15D_CLUE_HUSH_TRAP-9=Доктор Гаш заліз на свій робочи
 
 # Mink
 ### Impossible. It's way too high!
-PC15D_CLUE_HUSH_TRAP-10=Неможливо. Він надто високо!
+PC15D_CLUE_HUSH_TRAP-10=Неможливо. Це надто високо!
 
 
 # Mink
@@ -11125,7 +11125,7 @@ PC15D_CLUE_HUSH_TRAP-15=Чого Брокі. На мене дивишся?
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Come on, Tidy. You can say it, now!
-PC15D_CLUE_HUSH_TRAP-16=Ну ж бо, Тайді. Тепер можеш це сказати!
+PC15D_CLUE_HUSH_TRAP-16=Ну ж бо, Тайді. Тепер ти можеш це сказати!
 
 
 # Brok
@@ -11171,7 +11171,7 @@ PC15D_CLUE_HUSH_TRAP-24=Угу-угу.
 
 # Tidy
 ### Broky right.
-PC15D_CLUE_HUSH_TRAP-25=Брокі правий.
+PC15D_CLUE_HUSH_TRAP-25=Брокі має рацію.
 
 
 # Guard
@@ -11191,7 +11191,7 @@ PC15D_CLUE_HUSH_TRAP-28=Ніхто. Не питав.
 
 # Guard
 ### And they call these "intelligent beings"...
-PC15D_CLUE_HUSH_TRAP-29=І це називають "розумними істотами"...
+PC15D_CLUE_HUSH_TRAP-29=І вас ще називають "розумними істотами"...
 
 
 # Mink
@@ -11284,7 +11284,7 @@ PC15D_CLUE_HUSH_HEAR-3=Ви слухали "ТехноМрію"!
 
 # Guard
 ### I could hear it from where I stood!
-PC15D_CLUE_HUSH_HEAR-4=Я чув її аж звідти, де стояв!
+PC15D_CLUE_HUSH_HEAR-4=Я чув її аж зі свого робочого місця!
 
 
 # Brok
@@ -11305,7 +11305,7 @@ PC15D_CLUE_HUSH_HEAR-7=І ось вам уся розгадка цієї тає�
 #----------------------------------------------------
 # Brok
 ### (Yeah, tense relationships could justify it... But not combined with that)
-PC15D_CLUE_MISTAKE_TENSE-1=(Ага, напружені стосунки могли б це виправдати... Але не в поєднанні з тим)
+PC15D_CLUE_MISTAKE_TENSE-1=(Ага, напружені стосунки могли б це виправдати... Але не в поєднанні з цим)
 
 
 #----------------------------------------------------
@@ -11321,7 +11321,7 @@ PC15D_HUSH_AFTERINTERROGATION-2=Не можу в це повірити...
 
 # Mink
 ### Yes, we didn't have such a good relationship but... It was more child's play to me.
-PC15D_HUSH_AFTERINTERROGATION-3=Так, у нас були не такі вже й добрі стосунки, але... для мене це була радше дитяча забавка.
+PC15D_HUSH_AFTERINTERROGATION-3=Так, у нас були не такі вже й добрі стосунки, але... Для мене це була радше дитяча забавка.
 
 
 # Mink
@@ -11347,7 +11347,7 @@ PC15D_HUSH_AFTERINTERROGATION-7=Хай там як. Мою роботу тут �
 # Guard
 # NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
 ### Okay. I'll call the Body Recycling service.
-PC15D_HUSH_AFTERINTERROGATION-8=Гаразд. Я зателефоную в службу "Переробка тіл".
+PC15D_HUSH_AFTERINTERROGATION-8=Гаразд. Я зателефоную в Службу Переробки Тіл.
 
 
 # Guard
