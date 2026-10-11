@@ -213,6 +213,7 @@
 | Sentry box                         | вартова будка            |                                |
 | Garbage Sea                        | Сміттєве Море            |                                |
 | Central Light                      | Центральне Світло        | Психлікарня                    |
+| Central Hospital                   | Центральна лікарня       |                                |
 | Restroom                           | вбиральня                |                                |
 | The hall                           | коридор                  |                                |
 | Facility                           | установа                 |                                |
@@ -278,6 +279,7 @@
 | Mistress                  | пані                                                                                                               |                                      |
 | Tin can                   | бляшанка                                                                                                           | Зневажливе звертання до Трибота      |
 | First-class citizen       | громадянин першого класу                                                                                           |                                      |
+| First-class crime         | злочин першого ступеня                                                                                             |                                      |
 | Student                   | студент                                                                                                            |                                      |
 | Mixed breed               | мішана порода                                                                                                      |                                      |
 | Auto-clothes cleaner      | автоматичний очисник одягу                                                                                         |                                      |
@@ -351,7 +353,7 @@
 | Crystal controller                     | кристалічний контролер               | Матеріали для Шей                                      |
 | High precision timer                   | високоточний таймер                  | Матеріали для Шей                                      |
 | Self-modifier chip                     | чип самомодифікації                  |                                                        |
-| Memory chip                            | чип пам'яті                          |                                                        |
+| Memory chip /  Memory device           | чип пам'яті                          |                                                        |
 | Chip                                   | чип                                  |                                                        |
 | Remote control                         | пульт керування                      |                                                        |
 | Control panel                          | панель керування                     |                                                        |
@@ -378,6 +380,7 @@
 | Rubber cutter                          | різак для гуми                       |                                                        |
 | Floating ad bubble                     | плаваюча рекламна бульбашка          |                                                        |
 | Anti-intruder detection system         | система виявлення порушників         | Механізм Шей                                           |
+| Failsafe                               | запобіжник                           |                                                        |
 | Circular saw                           | циркулярна пила                      |                                                        |
 | Body print                             | відбиток тіла                        |                                                        |
 | Dumping goods                          | викидання речей                      |                                                        |
@@ -418,6 +421,7 @@
 | Membrane                               | мембрана                             |                                                        |
 | Cryo-chamber                           | кріокамера                           |                                                        |
 | Mecha                                  | меха                                 |                                                        |
+| Prototype 26 / P-26 / P-19             | Прототип 26 / П-26 / П-19            |                                                        |
 | Elevator / lift                        | ліфт                                 |                                                        |
 | Workbench                              | робочий стіл                         |                                                        |
 | Vent                                   | вентиляція                           |                                                        |
@@ -770,6 +774,7 @@
 | Reinstated           | поновлений                                            |                          |
 | Accident             | нещасний випадок                                      |                          |
 | Tip                  | наконечник / порада                                   |                          |
+| Hunch                | чуйка                                                 |                          |
 | Antique              | старовинний / старий / старожитність                  |                          |
 | Instructions         | вказівки                                              |                          |
 | Polyrectics          | поліректика                                           | Предмет в школі          |
@@ -834,6 +839,7 @@
 | (Cough) / (Cough, cough)                  | (Кашляє)                               |
 | (Cough, cough, cough)                     | (Сильно кашляє)                        |
 | (Gulp) / Gulp!                            | (Ковтає слину)                         |
+| (Glurp)                                   | (Ковтає)                               |
 | (Knocking)                                | (Стук)                                 |
 | (Knock, knock)                            | (Тук-тук)                              |
 | (Pants) / (Panting) / (Pant, pant)        | (Важко дихає)                          |
