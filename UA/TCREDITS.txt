@@ -181,7 +181,7 @@ CREDITS_SCENE_FLOWER1A-7=Звісно! Посланець всевишнього
 
 # Flower
 ### After all, we are all his flock, even those who doubt as you do.
-CREDITS_SCENE_FLOWER1A-8=Зрештою,, ми всі його паства, навіть ті, ,хто сумнівається, як ти.
+CREDITS_SCENE_FLOWER1A-8=Зрештою, ми всі його паства, навіть ті, хто сумнівається, як ти.
 
 
 # Various
@@ -342,7 +342,7 @@ CREDITS_SCENE_CHIEFRAT2A-3=Ага!
 
 # Dart
 ### I'm da boss now.
-CREDITS_SCENE_CHIEFRAT2A-4=Тепер я — бос!
+CREDITS_SCENE_CHIEFRAT2A-4=Тепер я - бос!
 
 
 # Kins
@@ -357,7 +357,7 @@ CREDITS_SCENE_CHIEFRAT2A-6=Ти навіть нормально розмовля
 
 # Dart
 ### I am!
-CREDITS_SCENE_CHIEFRAT2A-7=Я — бос!
+CREDITS_SCENE_CHIEFRAT2A-7=Я - бос!
 
 
 # Kins
@@ -1042,7 +1042,7 @@ CREDITS_SCENE_POLICE2A-8=Послухай...
 
 # Ott
 ### I'm the new leader of this department.
-CREDITS_SCENE_POLICE2A-9=Я — новий керівник цього відділу.
+CREDITS_SCENE_POLICE2A-9=Я - новий керівник цього відділу.
 
 
 # Rat
@@ -1294,7 +1294,7 @@ CREDITS_SCENE_SCHOOL1B-7=я знаю!
 # Klay
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### You're the new director!
-CREDITS_SCENE_SCHOOL1B-8=Ти — новий директор!
+CREDITS_SCENE_SCHOOL1B-8=Ти - новий директор!
 
 
 # Klay

@@ -79,7 +79,7 @@
 | TPC15     | Done                | Done          |
 | TPC15B    | Done                | Done          |
 | TPC15C    | Done                | Done          |
-| TPC15D    | In Progress         | To Do         |
+| TPC15D    | Done                | Done          |
 | TPC15E    | Done                | Done          |
 | TPC16     | Done                | Done          |
 | TPC17     | Done                | Done          |

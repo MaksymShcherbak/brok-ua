@@ -386,6 +386,8 @@
 | Hearing aid                            | слуховий апарат                      |                                                        |
 | Trax                                   | Тракс                                | Порошок для міни                                       |
 | U-Stom                                 | Ю-Стом                               | Руда                                                   |
+| Chloroephodria Tribendexene            | Хлоро-ефодрія Трибендексен           | Вигадана речовина; фільтр для соку                     |
+| Ditoxin Tetrachlorodibenzate-q-17      | Дитоксин Тетрахлородибензат-q-17     | Консервант; "q-17" латиницею                           |
 | Backup                                 | резервна копія                       |                                                        |
 | Cold backup                            | холодне резервне копіювання          |                                                        |
 | Stench canceller                       | нейтралізатор запаху                 |                                                        |
@@ -414,8 +416,11 @@
 | Cryo-chamber                           | кріокамера                           |                                                        |
 | Mecha                                  | меха                                 |                                                        |
 | Elevator / lift                        | ліфт                                 |                                                        |
-| Workbench                              | верстак                              |                                                        |
+| Workbench                              | робочий стіл                         |                                                        |
 | Vent                                   | вентиляція                           |                                                        |
+| Vent trap / Vent hatch                 | вентиляційний люк                    |                                                        |
+| Assistant bot                          | робот-помічник                       |                                                        |
+| Maintenance ladder                     | технічна драбина                     |                                                        |
 | Monitoring                             | моніторинг                           |                                                        |
 
 **Їжа**
@@ -462,6 +467,9 @@
 | Accel500               | Аксель-500                  | Пігулки доктора Гаша  |
 | Starix-500             | Старікс-500                 | Пігулки Сіна          |
 | Phoenixy flowers       | квітки Фенікса              | Рослина в лабораторії |
+| Hangalis Wallis        | Хангаліс Волліс             |                       |
+| Rooted variety         | укорінений сорт             | Сорт Фенікса          |
+| FleeFleas              | Флі-Фліз                    | Бренд у рекламі       |
 | Oblivion               | Забуття                     | Секретні ліки         |
 | Heartrot               | гнилосердець                |                       |
 | Heartstraint           | перенапруження серця        |                       |

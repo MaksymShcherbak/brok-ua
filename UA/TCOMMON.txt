@@ -5039,7 +5039,7 @@ GAMEOVERTYPE_PC05B_RATS=Вбитий каналізаційними щурами
 GAMEOVER_VA_TRAIN=Тренуйтеся на Віртуальній Арені, щоб набратися досвіду та полегшити бої!
 
 ### You can regain full health by sleeping in beds.
-GAMEOVER_FULLHEALTH=Ви можете повністю відновити здоров’я, поспавши в ліжку.
+GAMEOVER_FULLHEALTH=Ви можете повністю відновити здоров'я, поспавши в ліжку.
 
 ### Whenever possible, rest in your bed to regain health for free.
 GAMEOVER_RESTBED=За можливості відпочивайте у ліжку, щоб безкоштовно відновити здоров'я.
@@ -5187,7 +5187,7 @@ GAMEOVER_CHIEFRAT1=Після виконання своєї спеціально
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### The chief can steal your food. Restore your health when he's busy or exhausted!
-GAMEOVER_CHIEFRAT2=Шеф може вкрасти вашу їжу. Відновлюйте своє здоров’я, коли він зайнятий або виснажений!
+GAMEOVER_CHIEFRAT2=Шеф може вкрасти вашу їжу. Відновлюйте своє здоров'я, коли він зайнятий або виснажений!
 
 # NB: Lexicon word in Ukrainian for "Dart": "Дарт"
 ### Don't stay around Dart after he's getting back up or you'll get hit!
@@ -5514,7 +5514,7 @@ CLUE_TIDY_DRMINKROOM=Тайді не може відчинити двері до
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Dr. Mink's room column is 10 feet high
-CLUE_LAB_COLUMN=Висота колони в кімнаті доктора Мінка становить 3 метри
+CLUE_LAB_COLUMN=Висота колони в кімнаті доктора Мінка становить 3,5 метра
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Red stain under Dr. Mink's bed
@@ -5564,7 +5564,7 @@ CLUE_HUSH_FAKEBLOOD=Плями крові доктора Гаша - фальши
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush designed a ramp for Tidy to access the workbench
-CLUE_LAB_RAMP=Доктор Гаш сконструював пандус, щоб Тайді міг піднятися на верстак
+CLUE_LAB_RAMP=Доктор Гаш сконструював пандус, щоб Тайді міг піднятися на робочий стіл
 
 ### Fake wall between the scientists' rooms
 CLUE_LAB_FAKEWALL=Фальшива стіна між кімнатами науковців
@@ -5594,7 +5594,7 @@ CLUE_LAB_MEETYME=Голограф записав голос доктора Га�
 CLUE_MINK_BURGERUNFROZEN=Щоденний мурахобургер доктора Мінка вже був розморожений
 
 ### Nanites and a flower in the restroom sink
-CLUE_LAB_SINKNANITES=Наніти та квітка в раковині вбиральні
+CLUE_LAB_SINKNANITES=Наніти та квітка в умивальнику вбиральні
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### Dr. Hush always drinks his coffee in the restroom
@@ -5713,7 +5713,7 @@ CLUE_MURDER_TRUECAUSE=Доктора Гаша вбили за допомогою
 CLUE_MURDER_COFFEEPOISON=Кава була отруєна
 
 ### The coffee was spilled in the sink
-CLUE_MURDER_COFFEESINK=Кава розлилася в раковині
+CLUE_MURDER_COFFEESINK=Кава розлилася в умивальнику
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy could access nanites through the fake wall
@@ -6422,7 +6422,7 @@ ITEM_PUSHY_MSG=Штовхайте персонажів у лабораторії
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Drink the water from Dr Mink’s sink several times
-ITEM_CHIPMUNK_MSG=Кілька разів випийте воду з раковини доктора Мінка
+ITEM_CHIPMUNK_MSG=Кілька разів випийте воду з умивальника доктора Мінка
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
@@ -7861,7 +7861,7 @@ MOBILE_RESTOREREQUESTFAILED=Запит на відновлення покупо�
 MOBILE_WAIT=Будь ласка, зачекайте...
 
 ### The purchase window can take up to 10 seconds to appear
-MOBILE_WAIT_DESCRIPTION=Вікно покупки може з’явитися протягом 10 секунд
+MOBILE_WAIT_DESCRIPTION=Вікно покупки може з'явитися протягом 10 секунд
 
 
 ### No purchase could be retrieved for now.

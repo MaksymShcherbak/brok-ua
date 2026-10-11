@@ -172,7 +172,7 @@ HINT_CH4_160_COFFEE1=У вбиральні перевір кавовий кух�
 
 # NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
 ### See that button on that workbench in the middle of Dr. Hush's room? Push it, then take a look at the ramp that opened!
-HINT_CH4_160_RAMP1=Бачиш кнопку на тому верстаку посеред кімнати доктора Гаша? Натисни її, а тоді глянь на пандус, що відкрився!
+HINT_CH4_160_RAMP1=Бачиш кнопку на тому робочому столі посеред кімнати доктора Гаша? Натисни її, а тоді глянь на пандус, що відкрився!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### There's that weird column of light in Dr. Mink's room (near the bed) Check it!
