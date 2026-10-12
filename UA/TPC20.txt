@@ -67,7 +67,7 @@ PC20_REVEAL_CHOICE=Попросити Веса показати свій зад?
 
 
 ### What's your last word?
-PC20_LASTWORD_CHOICE=Яке твоє останнє слово?
+PC20_LASTWORD_CHOICE=Останнє слово?
 
 ### Darn!
 PC20_LASTWORD_DARN=Чорт!
@@ -84,7 +84,7 @@ PC20_LASTWORD_UNDERSTAND=Я розумію.
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### I love you, Wes!
-PC20_LASTWORD_LOVE=Я вас кохаю, Весе!
+PC20_LASTWORD_LOVE=Я тебе кохаю, Весе!
 
 
 ### Play dead
@@ -94,7 +94,7 @@ PC20_PLAYDEAD=Прикинутися мертвим
 PC20_ASKMORE=Говорити далі
 
 ### Wait and see
-PC20_WAIT=Зачекати й подивитися
+PC20_WAIT=Зачекати
 
 
 #----- Topics --------
@@ -142,7 +142,7 @@ PC20_INITA_NOSIN-3=Сподіваюся, він просто сховався д
 #----------------------------------------------------
 # Brok
 ### By the way! Doctor Gherkin?
-PC20_INITA2-1=До речі! Доктор Геркін?
+PC20_INITA2-1=До речі! Що з доктором Геркіном?
 
 
 # Dee
@@ -218,7 +218,7 @@ PC20_INITA2-15=Док боявся повертатися на роботу у �
 
 # Dee
 ### He wished to hide while the situation cools down.
-PC20_INITA2-16=Він хотів переховатися, поки ситуація вгамується.
+PC20_INITA2-16=Він захотів сховатися, доки ситуація вгамується.
 
 
 # Dee
@@ -243,7 +243,7 @@ PC20_INITA2-20=...
 
 # Brok
 ### Wait... WHAT?!
-PC20_INITA2-21=Стривай... ЩО?!
+PC20_INITA2-21=Чекай... ЩО?!
 
 
 # Brok
@@ -253,7 +253,7 @@ PC20_INITA2-22=А-але...!
 
 # Brok
 ### He was supposed to give me ten grand!...
-PC20_INITA2-23=Він мав дати мені десять тисяч...!
+PC20_INITA2-23=Він був винен мені десять тисяч...!
 
 
 # Dee
@@ -263,7 +263,7 @@ PC20_INITA2-24=Вибач... Він про це не згадував.
 
 # Brok
 ### Oooooh...
-PC20_INITA2-25=Оооо...
+PC20_INITA2-25=О-оох...
 
 
 # Brok
@@ -290,7 +290,7 @@ PC20_INITA2-29=Саме так.
 
 # Brok
 ### I have no desire to be the last person alive around here.
-PC20_INITA2-30=Не маю жодного бажання лишитися тут останнім живим.
+PC20_INITA2-30=Я не маю жодного бажання лишитися тут останнім живим.
 
 
 # Dee
@@ -341,12 +341,12 @@ PC20_INITC-6=А от на Верхи це зовсім не вплинуло.
 # Wes
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### I have reasons to believe the source behind the shortage is being run from the Drums.
-PC20_INITC-7=Маю підстави вважати, що за нестачею стоять Верхи.
+PC20_INITC-7=Маю підстави вважати, що нестачею керують з Верхів.
 
 
 # Brok
 ### By whom?
-PC20_INITC-8=Ким?
+PC20_INITC-8=Хто саме?
 
 
 # Dee
@@ -361,7 +361,7 @@ PC20_INITC-10=Не поспішаймо з висновками. Хоча це �
 
 # Wes
 ### But another important matter could be linked.
-PC20_INITC-11=Але може бути пов'язана ще одна важлива річ.
+PC20_INITC-11=Але з цим може бути пов'язана ще одна важлива річ.
 
 
 # Wes
@@ -411,12 +411,12 @@ PC20_INITC-20=Але останнім часом... Уже ні.
 
 # Dee
 ### Of course. They disappear into thin air, right after their release.
-PC20_INITC-21=Звісно. Вони розчиняються в повітрі одразу після звільнення.
+PC20_INITC-21=Звісно. Вони розчиняються в повітрі одразу після того, як їх звільняють.
 
 
 # Wes
 ### I suspect my own agents are responsible.
-PC20_INITC-22=Підозрюю, що винні мої власні агенти.
+PC20_INITC-22=Підозрюю, що в цьому винні мої власні агенти.
 
 
 # Brok
@@ -432,7 +432,7 @@ PC20_INITC-24=Триботів.
 
 # Wes
 ### They handle the release of prisoners automatically...
-PC20_INITC-25=Вони автоматично займаються звільненням в'язнів...
+PC20_INITC-25=Вони займаються автоматичним звільненням в'язнів...
 
 
 # Dee
@@ -457,7 +457,7 @@ PC20_INITC-29=Або самі вироки сфальсифіковані.
 
 # Dee
 ### And who better than a Triangle member to undertake it?
-PC20_INITC-30=А хто краще за члена Трикутника впорається з цим?
+PC20_INITC-30=І хто, як не член Трикутника, найкраще впорається з таким завданням?
 
 
 # Wes
@@ -509,7 +509,7 @@ PC20_INITD-6=Рознесіть звістку. Виготовляйте та р
 # Brok
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### How?... With Tribots?
-PC20_INITD-7=Як...? З Триботами?
+PC20_INITD-7=Як...? За допомогою Триботів?
 
 
 # Brok
@@ -519,7 +519,7 @@ PC20_INITD-8=Ми не можемо на них покладатися!
 
 # Wes
 ### There's more people than you think who don't enjoy this regime we're living in, Mister Pork.
-PC20_INITD-9=Більше людей, ніж ти думаєш, не в захваті від цього режиму, у якому ми живемо, пане Борку.
+PC20_INITD-9=У світі набагато більше людей, незадоволених режимом, у якому ми живемо, ніж ти можеш собі уявити, пане Борку.
 
 
 # Brok
@@ -530,7 +530,7 @@ PC20_INITD-10=Броку!
 
 # Wes
 ### ...Mister... P... P...
-PC20_INITD-11=...Пане... Б... Б...
+PC20_INITD-11=...Пане... Бо... Бо...
 
 
 # Wes
@@ -545,7 +545,7 @@ PC20_INITD-13=Я можу це організувати. Але мені тре�
 
 # Dee
 ### This contains everything I have. The only copy that exists.
-PC20_INITD-14=Тут усе, що я маю. Єдиний примірник, який існує.
+PC20_INITD-14=Тут усе, що я маю. В єдиному екземплярі.
 
 
 # Dee
@@ -567,7 +567,7 @@ PC20_INITE-2=Стривай!
 
 # Brok
 ### Don't give it to him.
-PC20_INITE-3=Не давай йому.
+PC20_INITE-3=Не давай йому чип.
 
 
 # Dee
@@ -597,7 +597,7 @@ PC20_INITE-8=Поясниш?
 
 # Brok
 ### Call it a hunch... My instinct.
-PC20_INITE-9=Скажімо, чуйка... Інстинкт.
+PC20_INITE-9=Скажімо, чуйка... Мій інстинкт.
 
 
 # Wes
@@ -632,7 +632,7 @@ PC20_INITE-15=Послухаймо твої знамениті безглузд�
 
 # Brok
 ### Hrmph. Yeah.
-PC20_INITE-16=Хм. Ага.
+PC20_INITE-16=Гм-м. Ага.
 
 
 # Brok
@@ -649,7 +649,7 @@ PC20_INTERROGATION_MISTAKE1-1=Отже... Е-е...
 # Brok
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes is not telling the truth about that!
-PC20_INTERROGATION_MISTAKE1-2=Вес каже неправду про це!
+PC20_INTERROGATION_MISTAKE1-2=Вес недоговорює нам щодо цього!
 
 
 # Wes
@@ -695,7 +695,7 @@ PC20_INTERROGATION_MISTAKE2-5=Ти хоч розумієш, що люди стр
 
 # Brok
 ### More will die if we don't make the right decisions!
-PC20_INTERROGATION_MISTAKE2-6=Більше людей загине, якщо ми не ухвалимо правильних рішень!
+PC20_INTERROGATION_MISTAKE2-6=Ще більше людей загине, якщо ми не ухвалимо правильних рішень!
 
 
 #----------------------------------------------------
@@ -721,7 +721,7 @@ PC20_INTERROGATION_MISTAKE3-4=Дай нам хоч одну поважну пр�
 
 # Brok
 ### Sorry. This won't happen again!
-PC20_INTERROGATION_MISTAKE3-5=Вибач. Більше такого не буде!
+PC20_INTERROGATION_MISTAKE3-5=Вибачте. Більше такого не буде!
 
 
 #----------------------------------------------------
@@ -732,12 +732,12 @@ PC20_INTERROGATION_MISTAKE4-1=Серйозно... Це найкраще, що т
 
 # Dee
 ### Do you have any concrete proof or what?!
-PC20_INTERROGATION_MISTAKE4-2=У тебе є якісь конкретні докази чи як?!
+PC20_INTERROGATION_MISTAKE4-2=У тебе є якісь конкретні докази чи ні?!
 
 
 # Brok
 ### Hey, I need time to think!
-PC20_INTERROGATION_MISTAKE4-3=Гей, мені треба час подумати!
+PC20_INTERROGATION_MISTAKE4-3=Гей, мені треба час на подумати!
 
 
 # Wes
@@ -758,7 +758,7 @@ PC20_INTERROGATION_MISTAKE4-6=А ти ідіот.
 #----------------------------------------------------
 # Brok
 ### This is what I think.
-PC20_INTERROGATION_MISTAKE5-1=Ось що я думаю.
+PC20_INTERROGATION_MISTAKE5-1=Ось, що я думаю.
 
 
 # Brok
@@ -799,13 +799,13 @@ PC20_INTERROGATION_MISTAKE6-1=Досить.
 
 # Brok
 ### No, wait! I've still got plenty of theories...
-PC20_INTERROGATION_MISTAKE6-2=Ні, стривай! У мене ще багато теорій...
+PC20_INTERROGATION_MISTAKE6-2=Ні, стривай! У мене є ще багато теорій...
 
 
 #----------------------------------------------------
 # Brok - Leaving
 ### Wait... Gimme a sec.
-PC20_INTERROGATION_LEAVE1-1=Стривай... Хвилинку.
+PC20_INTERROGATION_LEAVE1-1=Зачекай... Хвилинку.
 
 
 # Dee
@@ -830,7 +830,7 @@ PC20_INTERROGATION_LEAVE1-5=Лише хвилинку.
 
 # Wes
 ### Always the same. Dubious and filled with doubt.
-PC20_INTERROGATION_LEAVE1-6=Завжди те саме. Нерішучий і сповнений сумнівів.
+PC20_INTERROGATION_LEAVE1-6=Завжди одне і те саме. Нерішучий і сповнений сумнівів.
 
 
 # Wes
@@ -863,7 +863,7 @@ PC20_INTERROGATE_RESUME1-1=Повернімося до справи!
 #----------------------------------------------------
 # Brok
 ### No... I can't do this. Must have been wrong.
-PC20_INTERROGATION_EXITYES-1=Ні... Я не можу цього робити. Мабуть, я помилився.
+PC20_INTERROGATION_EXITYES-1=Ні... Я не можу. Мабуть, я помилився.
 
 
 #----------------------------------------------------
@@ -901,12 +901,12 @@ PC20_INTERROGATION_FAIL3-2=(Зітхає)
 
 # Wes
 ### How disappointing. I thought they'd show some resistance.
-PC20_INTERROGATION_FAIL3-3=Як розчаровує. Я думав, вони чинитимуть опір.
+PC20_INTERROGATION_FAIL3-3=Яке розчарування. Я думав, вони хоча б трохи чинитимуть опір.
 
 
 # Wes - Wes may talk in familiar way here. He always does when he's alone.
 ### You always ruin the fun, Pork.
-PC20_INTERROGATION_FAIL3-4=Ти завжди псуєш забаву, Борку.
+PC20_INTERROGATION_FAIL3-4=Ти завжди псуєш всі веселощі, Борку.
 
 
 # Wes
@@ -916,7 +916,7 @@ PC20_INTERROGATION_FAIL3-5=Але... Мушу визнати...
 
 # Wes
 ### I'll miss you.
-PC20_INTERROGATION_FAIL3-6=Мені вас бракуватиме.
+PC20_INTERROGATION_FAIL3-6=Мені тебе бракуватиме.
 
 
 #----------------------------------------------------
@@ -953,12 +953,12 @@ PC20_CLUE_WES_DEEINVESTIGATED-6=Гей... Це ж моє ім'я!
 
 # Brok
 ### That's what I assumed.
-PC20_CLUE_WES_DEEINVESTIGATED-7=Так я й припускав.
+PC20_CLUE_WES_DEEINVESTIGATED-7=Я так і подумав.
 
 
 # Brok
 ### Any explanation, old weasel?
-PC20_CLUE_WES_DEEINVESTIGATED-8=Маєте якісь пояснення, стара ласице?
+PC20_CLUE_WES_DEEINVESTIGATED-8=Маєте якесь пояснення, стара ласице?
 
 
 # Wes
@@ -989,7 +989,7 @@ PC20_CLUE_WES_DEEINVESTIGATED-13=Але ти так і не повідомив!
 
 # Wes
 ### I'm a busy person.
-PC20_CLUE_WES_DEEINVESTIGATED-14=Я людина зайнята.
+PC20_CLUE_WES_DEEINVESTIGATED-14=Я зайнята людина.
 
 
 # Wes
@@ -1036,7 +1036,7 @@ PC20_CLUE_WES_MENTALISSUES-1=Не думайте, що я не помітив.
 
 # Wes
 ### Noticed what?
-PC20_CLUE_WES_MENTALISSUES-2=Що помітив?
+PC20_CLUE_WES_MENTALISSUES-2=Помітив що?
 
 
 # Brok
@@ -1083,7 +1083,7 @@ PC20_CLUE_WES_MENTALISSUES-10=Так...
 
 # Wes
 ### P-b-p...
-PC20_CLUE_WES_MENTALISSUES-11=Б-р-б...
+PC20_CLUE_WES_MENTALISSUES-11=Б-б-б...
 
 
 # Dee
@@ -1113,7 +1113,7 @@ PC20_CLUE_WES_MENTALISSUES-16=Кілька разів ви казали дивн
 
 # Brok
 ### Pardon me for saying this but...
-PC20_CLUE_WES_MENTALISSUES-17=Вибачте, що таке кажу, але...
+PC20_CLUE_WES_MENTALISSUES-17=Вибачте, що я таке кажу, але...
 
 
 # Brok
@@ -1133,12 +1133,12 @@ PC20_CLUE_WES_MENTALISSUES-20=Я вже не такий молодий.
 
 # Dee
 ### This is a personal attack, cowboy.
-PC20_CLUE_WES_MENTALISSUES-21=Це перехід на особистості, ковбою.
+PC20_CLUE_WES_MENTALISSUES-21=Це вже перехід на особистості, ковбою.
 
 
 # Dee
 ### Does this make him too incompetent for our case?
-PC20_CLUE_WES_MENTALISSUES-22=Це робить його надто некомпетентним для нашої справи?
+PC20_CLUE_WES_MENTALISSUES-22=Хіба це робить його надто некомпетентним для нашої справи?
 
 
 # Brok
@@ -1154,7 +1154,7 @@ PC20_CLUE_WES_ACCIDENT-1=Ми знайомі вже давно, стара ла�
 
 # Brok
 ### Why didn't you tell me about your accident?
-PC20_CLUE_WES_ACCIDENT-2=Чому ви не розповіли мені про свою аварію?
+PC20_CLUE_WES_ACCIDENT-2=Чому ви не розповіли мені про вашу аварію?
 
 
 # Wes
@@ -1220,7 +1220,7 @@ PC20_CLUE_WES_ACCIDENT-14=Жалюгідно.
 
 # Dee
 ### Hey, cowboy... I'm starting to doubt you've got anything tangible.
-PC20_CLUE_WES_ACCIDENT-15=Гей, ковбою... Я вже починаю сумніватися, що в тебе є щось вагоме.
+PC20_CLUE_WES_ACCIDENT-15=Гей, ковбою... Я вже починаю сумніватися, що в тебе є якісь вагомі аргументи.
 
 
 # Brok
@@ -1237,7 +1237,7 @@ PC20_CLUE_WES_ACCIDENT-17=Повірте мені, гаразд...?
 # Brok
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### The first time we met, R.J. said you've changed...
-PC20_CLUE_WES_CARMENTAL-1=Коли ми вперше зустрілися, Р. Джей сказав, що ви змінилися...
+PC20_CLUE_WES_CARMENTAL-1=Коли я вперше зустрів Р. Джея, він сказав, що ви змінилися...
 
 
 # Brok
@@ -1257,12 +1257,12 @@ PC20_CLUE_WES_CARMENTAL-4=Гм-мм.
 
 # Brok
 ### But my little finger is telling me this all started after your accident. Wasn't it?
-PC20_CLUE_WES_CARMENTAL-5=Але мій мізинець підказує, що все це почалося після вашої аварії. Чи не так?
+PC20_CLUE_WES_CARMENTAL-5=Але мій мізинчик підказує, що все це почалося після вашої аварії. Чи не так?
 
 
 # Wes
 ### You know where you can put your little finger?
-PC20_CLUE_WES_CARMENTAL-6=Знаєш, куди можеш засунути свій мізинець?
+PC20_CLUE_WES_CARMENTAL-6=Знаєш, куди можеш ткнути свій мізинець?
 
 
 # Wes
@@ -1319,17 +1319,17 @@ PC20_CLUE_WES_DRAW-2=Що...?
 
 # Brok
 ### Go ahead. Draw me a sheep!
-PC20_CLUE_WES_DRAW-3=Давайте. Намалюйте мені вівцю!
+PC20_CLUE_WES_DRAW-3=Ну ж бо. Намалюйте мені вівцю!
 
 
 # Dee
 ### Are you going crazy?...
-PC20_CLUE_WES_DRAW-4=Ти божеволієш...?
+PC20_CLUE_WES_DRAW-4=Ти зовсім з глузду з'їхав...?
 
 
 # Wes
 ### This is ridiculous!
-PC20_CLUE_WES_DRAW-5=Це безглуздя!
+PC20_CLUE_WES_DRAW-5=Це просто смішно!
 
 
 # Brok
@@ -1369,7 +1369,7 @@ PC20_CLUE_WES_DRAW-12=Ага... Нормальні люди.
 
 # Brok
 ### (It's obvious. He can't. But why?...)
-PC20_CLUE_WES_DRAW-13=(Це очевидно. Не вміє. Але чому...?)
+PC20_CLUE_WES_DRAW-13=(Це очевидно. Він не вміє. Але чому...?)
 
 
 # Brok
@@ -1385,7 +1385,7 @@ PC20_CLUE_WES_BRAINAI-1=А ви знали, що ШІ не вміє малюва
 
 # Dee
 ### And again... How is this related to our case?!
-PC20_CLUE_WES_BRAINAI-2=І знову... Як це пов'язано з нашою справою?!
+PC20_CLUE_WES_BRAINAI-2=І знов ж таки... Як це пов'язано з нашою справою?!
 
 
 # Brok
@@ -1401,7 +1401,7 @@ PC20_CLUE_WES_BRAINAI-4=Ти випробовуєш моє терпіння. У 
 
 # Dee
 ### Even if it was true...
-PC20_CLUE_WES_BRAINAI-5=Навіть якби це було правдою...
+PC20_CLUE_WES_BRAINAI-5=Навіть, якщо це так...
 
 
 # Dee
@@ -1416,12 +1416,12 @@ PC20_CLUE_WES_BRAINAI-7=(Справді...)
 
 # Brok
 ### (I'm not really sure myself where this is headed...)
-PC20_CLUE_WES_BRAINAI-8=(Я й сам не певен, куди це веде...)
+PC20_CLUE_WES_BRAINAI-8=(Я й сам не певен, куди це все веде...)
 
 
 # Brok
 ### (This opens a whole range of possibilities, so let's stick with the facts.)
-PC20_CLUE_WES_BRAINAI-9=(Це відкриває цілу низку можливостей, тож тримаймося фактів.)
+PC20_CLUE_WES_BRAINAI-9=(Це відкриває цілу низку можливостей, тож будемо триматися фактів.)
 
 
 # Brok
@@ -1448,12 +1448,12 @@ PC20_CLUE_WES_AICONTROL-1=Гей, стара ласице.
 
 # Brok
 ### If I didn't know any better... I'd say you collided into a robot the day of your accident!
-PC20_CLUE_WES_AICONTROL-2=Якби я не знав вас краще... я б сказав, що в день своєї аварії ви врізалися в робота!
+PC20_CLUE_WES_AICONTROL-2=Не знаючи всіх обставин... я б сказав, що в день аварії ви зіткнулися з роботом!
 
 
 # Wes
 ### Pray tell?...
-PC20_CLUE_WES_AICONTROL-3=Ну, кажи...?
+PC20_CLUE_WES_AICONTROL-3=В сенсі...?
 
 
 # Brok
@@ -1468,12 +1468,12 @@ PC20_CLUE_WES_AICONTROL-5=Вас часом... не контролює який�
 
 # Wes
 ### Good. You keep sinking further.
-PC20_CLUE_WES_AICONTROL-6=Добре. Ти все глибше грузнеш.
+PC20_CLUE_WES_AICONTROL-6=Чудово. Ти все глибше і глибше себе закопуєш.
 
 
 # Brok
 ### Gotta uncover the truth!
-PC20_CLUE_WES_AICONTROL-7=Треба докопатися до правди!
+PC20_CLUE_WES_AICONTROL-7=Мушу дістатися до правди!
 
 
 # Wes
@@ -1504,12 +1504,12 @@ PC20_CLUE_WES_AICONTROL-12=(Мені потрібен доказ!)
 #----------------------------------------------------
 # Brok
 ### I found a proof of utmost importance in your office!
-PC20_CLUE_POLICE_OLDMODEL-1=Я знайшов у вашому кабінеті доказ надзвичайної ваги!
+PC20_CLUE_POLICE_OLDMODEL-1=Я знайшов у вашому кабінеті доказ надзвичайного значення!
 
 
 # Wes
 ### I'm all ears.
-PC20_CLUE_POLICE_OLDMODEL-2=Я весь увага.
+PC20_CLUE_POLICE_OLDMODEL-2=Уважно слухаю.
 
 
 # Brok
@@ -1534,7 +1534,7 @@ PC20_CLUE_POLICE_OLDMODEL-6=Тобі має бути соромно за сво�
 
 # Brok
 ### I'm not basing them on nothing.
-PC20_CLUE_POLICE_OLDMODEL-7=Я їх не з повітря взяв.
+PC20_CLUE_POLICE_OLDMODEL-7=Я їх взяв не з повітря.
 
 
 # Brok
@@ -1555,12 +1555,12 @@ PC20_CLUE_POLICE_OLDMODEL-10=Нагадати тобі, що переважна 
 # Brok
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Aren't they all Tribots? They should be fairly recent.
-PC20_CLUE_POLICE_OLDMODEL-11=Хіба вони не всі Триботи? Вони мають бути досить новими.
+PC20_CLUE_POLICE_OLDMODEL-11=Хіба вони не всі Триботи? Вони мають бути досить новими моделями.
 
 
 # Brok
 ### And this happened in your office. What would an old bot do there?
-PC20_CLUE_POLICE_OLDMODEL-12=І це сталося у вашому кабінеті. Що там робив би старий бот?
+PC20_CLUE_POLICE_OLDMODEL-12=До того ж, це сталося у вашому кабінеті. Що там робив би старий бот?
 
 
 # Wes
@@ -1580,7 +1580,7 @@ PC20_CLUE_POLICE_OLDMODEL-15=(Справді?)
 
 # Brok
 ### (Something's fishy. If this had happened a long time ago, the power socket would have been fixed and cleaned.)
-PC20_CLUE_POLICE_OLDMODEL-16=(Щось тут нечисте. Якби це сталося давно, розетку б полагодили й почистили.)
+PC20_CLUE_POLICE_OLDMODEL-16=(Щось тут нечисте. Якби це сталося давно, розетку б уже привели до ладу й почистили.)
 
 
 # Brok
@@ -1601,7 +1601,7 @@ PC20_CLUE_POLICE_WESBOT-2=Звісно. Я зазвичай нікого не п
 
 # Brok
 ### Then you should recall if an old bot was charging there!
-PC20_CLUE_POLICE_WESBOT-3=Тоді ви маєте пригадати, чи не заряджався там старий бот!
+PC20_CLUE_POLICE_WESBOT-3=Тоді ви маєте пам'ятати, чи не заряджався там старий бот!
 
 
 # Wes
@@ -1616,7 +1616,7 @@ PC20_CLUE_POLICE_WESBOT-5=Гадки не маю. Може, мій небіж щ
 
 # Brok
 ### (Doubtful...)
-PC20_CLUE_POLICE_WESBOT-6=(Сумнівно...)
+PC20_CLUE_POLICE_WESBOT-6=(Сумніваюсь...)
 
 
 # Brok
@@ -1648,7 +1648,7 @@ PC20_CLUE_POLICE_WESBOT-11=(Якби ж я мав незаперечний до�
 #----------------------------------------------------
 # Brok
 ### (Let's summarize what I know so far...)
-PC20_CLUE_WES_ROBOT-1=(Підсумуймо те, що я знаю на цей момент...)
+PC20_CLUE_WES_ROBOT-1=(Підсумуємо те, що я знаю на цей момент...)
 
 
 # Brok
@@ -1659,7 +1659,7 @@ PC20_CLUE_WES_ROBOT-2=(У Веса психічні проблеми...)
 
 # Brok
 ### (Is sometimes behaving like an AI...)
-PC20_CLUE_WES_ROBOT-3=(Іноді поводиться як ШІ...)
+PC20_CLUE_WES_ROBOT-3=(Іноді він поводиться як ШІ...)
 
 
 # Brok
@@ -1700,7 +1700,7 @@ PC20_CLUE_WES_ROBOT-10=(Його аварія...)
 
 # Brok - What if he hadn't survived!
 ### (What if he...!)
-PC20_CLUE_WES_ROBOT-11=(А що, якби він...!)
+PC20_CLUE_WES_ROBOT-11=(А що, як він...!)
 
 
 # Brok
@@ -1743,7 +1743,7 @@ PC20_CLUE_WES_ROBOT-18=Ти... Ти...
 # Brok
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### (It's possible Wes had this accident but I'll need to prove it first...)
-PC20_INTERROGATE_BAD_CARACCIDENT-1=(Можливо, Вес і потрапив у цю аварію, але спершу мені треба це довести...)
+PC20_INTERROGATE_BAD_CARACCIDENT-1=(Можливо, саме Вес потрапив у цю аварію, але спершу мені треба це довести...)
 
 
 #----------------------------------------------------
@@ -1778,7 +1778,7 @@ PC20_REVEAL-2=Га...?
 
 # Dee
 ### What is he, then?... An extraterrestrial?
-PC20_REVEAL-3=То хто він...? Інопланетянин?
+PC20_REVEAL-3=А хто він тоді...? Інопланетянин?
 
 
 # Brok
@@ -1824,7 +1824,7 @@ PC20_REVEAL-11=І в цьому місті є ще одна така. Удоск
 
 # Brok
 ### She was referring to you... Wasn't she!
-PC20_REVEAL-12=Вона мала на увазі тебе... Чи не так!
+PC20_REVEAL-12=Вона мала на увазі тебе... Чи не так?
 
 
 # Wes
@@ -1834,32 +1834,32 @@ PC20_REVEAL-13=...
 
 # Dee
 ### Aaaand... I guess you suggest we open him, then?
-PC20_REVEAL-14=І-і-і... Я так розумію, ти пропонуєш його розкрити?
+PC20_REVEAL-14=І-і-і... Ти, мабуть, запропонуєш його розібрати?
 
 
 # Brok
 ### There's an easy way to check.
-PC20_REVEAL-15=Є простий спосіб перевірити.
+PC20_REVEAL-15=Є простіший спосіб перевірити.
 
 
 # Brok
 ### If he's a bot, he must have a charging slot in the rear.
-PC20_REVEAL-16=Якщо він бот, у нього ззаду має бути роз'єм для заряджання.
+PC20_REVEAL-16=Якщо він бот, у нього на сідницях має бути роз'єм для заряджання.
 
 
 # Brok
 ### Go ahead! Search for it!
-PC20_REVEAL-17=Давай! Пошукай!
+PC20_REVEAL-17=Нумо! Пошукай його!
 
 
 # Dee
 ### Are you serious?!
-PC20_REVEAL-18=Ти серйозно?!
+PC20_REVEAL-18=Ти зараз серйозно?!
 
 
 # Dee
 ### You're asking me to check the rear of... Mister head of the police department?!
-PC20_REVEAL-19=Ти просиш мене оглянути зад... пана шефа відділку поліції?!
+PC20_REVEAL-19=Ти хочеш, щоб я перевірила зад... поважного шефа відділку поліції?!
 
 
 # Brok
@@ -1869,7 +1869,7 @@ PC20_REVEAL-20=Саме так!
 
 # Brok
 ### And if you won't, I will!
-PC20_REVEAL-21=А якщо ти не хочеш, то я сам!
+PC20_REVEAL-21=А якщо ти не хочеш, то я сам це зроблю!
 
 
 # Dee
@@ -1895,7 +1895,7 @@ PC20_REVEAL_NO-2=Ти маєш рацію.
 
 # Brok
 ### I'm not sure what's up with me.
-PC20_REVEAL_NO-3=Я й сам не знаю, що зі мною.
+PC20_REVEAL_NO-3=Я й сам не знаю, що зі мною не так.
 
 
 # Dee
@@ -1932,7 +1932,7 @@ PC20_REVEAL_NO2-2=Ні-і-і! Що ти...
 #----------------------------------------------------
 # Wes
 ### Finally, some silence.
-PC20_REVEAL_NO3-1=Нарешті тиша.
+PC20_REVEAL_NO3-1=Нарешті, тиша.
 
 
 # Wes - Again - Wes talks in informal way when he's alone (here Brok & Dee are dead)
@@ -2010,7 +2010,7 @@ PC20_REVEAL_NO4-10=Я хотів лишитися там.
 
 # Graff
 ### I didn't have the heart to go on without you.
-PC20_REVEAL_NO4-11=Я не мав духу йти далі без тебе.
+PC20_REVEAL_NO4-11=Без тебе мені не вистачило б сил рухатися далі...
 
 
 # Graff
@@ -2060,12 +2060,12 @@ PC20_REVEAL_NO4-19=Нас знайшов дядько Отта.
 # Graff
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### He made us enter the Drums.
-PC20_REVEAL_NO4-20=Він змусив нас піти у Верхи.
+PC20_REVEAL_NO4-20=Він допоміг нам пройти у Верхи.
 
 
 # Graff
 ### But only us...
-PC20_REVEAL_NO4-21=Але лише нас...
+PC20_REVEAL_NO4-21=Але лише нам...
 
 
 # Graff
@@ -2086,7 +2086,7 @@ PC20_REVEAL_NO4-24=Діти... Просто за нами...
 # Graff
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes prevented them from entering.
-PC20_REVEAL_NO4-25=Вес не дав їм зайти.
+PC20_REVEAL_NO4-25=Вес не дозволив їм пройти.
 
 
 # Graff
@@ -2104,7 +2104,7 @@ PC20_REVEAL_NO4-27=Вес сказав, що вже запізно.
 # Graff
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### He knocked out Ott...
-PC20_REVEAL_NO4-28=Він вирубав Отта...
+PC20_REVEAL_NO4-28=Він вирубив Отта...
 
 
 # Graff
@@ -2172,7 +2172,7 @@ PC20_REVEAL_NO4-40=Чому врятували нас, а не всіх інши
 
 # Graff
 ### Are we... More important than all these people?
-PC20_REVEAL_NO4-41=Невже ми... важливіші за всіх цих людей?
+PC20_REVEAL_NO4-41=Невже ми... Важливіші за всіх цих людей?
 
 
 # Graff
@@ -2193,7 +2193,7 @@ PC20_REVEAL_NO4-44=Ми з Оттом маємо нести цей тягар.
 
 # Graff
 ### If only... You had been there...
-PC20_REVEAL_NO4-45=Якби ж... ти був там...
+PC20_REVEAL_NO4-45=Якби ж... Ти був з нами тоді...
 
 
 # Graff
@@ -2208,7 +2208,7 @@ PC20_REVEAL_NO4-47=Для всіх...
 
 # Graff
 ### I'm sure of it.
-PC20_REVEAL_NO4-48=Я певен цього.
+PC20_REVEAL_NO4-48=Я в цьому певен.
 
 
 # Graff
@@ -2218,12 +2218,12 @@ PC20_REVEAL_NO4-49=...
 
 # Graff
 ### I've decided to dedicate my life to help others...
-PC20_REVEAL_NO4-50=Я вирішив присвятити своє життя допомозі іншим...
+PC20_REVEAL_NO4-50=Я вирішив присвятити своє життя тому, щоб допомагати іншим...
 
 
 # Graff
 ### As you taught me...
-PC20_REVEAL_NO4-51=Як ти мене навчив...
+PC20_REVEAL_NO4-51=Так, як ти мене навчив...
 
 
 # Graff
@@ -2279,17 +2279,17 @@ PC20_REVEAL_YES-3=Як ти смієш...
 
 # Dee
 ### If you truly think so... Then...
-PC20_REVEAL_YES-4=Якщо ти справді так думаєш... Тоді...
+PC20_REVEAL_YES-4=Ну, якщо ти справді в цьому впевнений... Тоді...
 
 
 # Dee
 ### I'll trust you.
-PC20_REVEAL_YES-5=Я тобі довірюся.
+PC20_REVEAL_YES-5=Я тобі вірю.
 
 
 # Dee
 ### Maybe you can just show him so we can move on?
-PC20_REVEAL_YES-6=Може, ти просто покажеш йому, щоб ми рушили далі?
+PC20_REVEAL_YES-6=Може, покажете йому свій зад, щоб ми нарешті рушили далі?
 
 
 # Wes
@@ -2319,7 +2319,7 @@ PC20_REVEAL_YES-11=Подумати тільки... Цей ідіот...
 
 # Wes
 ### With his moronic logic...
-PC20_REVEAL_YES-12=З його кретинською логікою...
+PC20_REVEAL_YES-12=З його ідіотською логікою...
 
 
 # Wes
@@ -2344,7 +2344,7 @@ PC20_REVEAL_YES-16=Не можу дочекатися, коли побачу т�
 
 # Wes
 ### When you see mine.
-PC20_REVEAL_YES-17=Коли побачиш моє.
+PC20_REVEAL_YES-17=Щойно ти побачиш моє.
 
 
 #----------------------------------------------------
@@ -2380,7 +2380,7 @@ PC20_AFTERREVEAL1-6=З усіх, кого я зустрічав за ці рок
 
 # Wes
 ### How could you be the one to discover my true identity?!
-PC20_AFTERREVEAL1-7=Як ти міг викрити мою справжню сутність?!
+PC20_AFTERREVEAL1-7=Як так вийшло, що саме ти зміг викрити мою справжню сутність?!
 
 
 # Brok
@@ -2417,7 +2417,7 @@ PC20_AFTERREVEAL3-2=Чип...!
 
 # Wes
 ### Darn you croc! Spit it out!
-PC20_AFTERREVEAL3-3=Чорт забирай, крокодиле! Виплюнь!
+PC20_AFTERREVEAL3-3=Чорт забирай, крокодиле! Виплюнь його!
 
 
 # Brok
@@ -2452,17 +2452,17 @@ PC20_AFTERREVEAL3-9=Це єдиний примірник. Стерти його.
 
 # Brok
 ### Poof. All proof... Gone!
-PC20_AFTERREVEAL3-10=Хусь. І всі докази... тю-тю!
+PC20_AFTERREVEAL3-10=Шух. І всі докази... Зникнуть!
 
 
 # Wes
 ### Pesky meddlers.
-PC20_AFTERREVEAL3-11=Набридливі витівники.
+PC20_AFTERREVEAL3-11=Як же ти мені набрид.
 
 
 # Wes
 ### You fail to realize that all our efforts are to ensure this world won't turn upside down!
-PC20_AFTERREVEAL3-12=Ти не усвідомлюєш, що всі наші зусилля - аби цей світ не перевернувся догори дриґом!
+PC20_AFTERREVEAL3-12=Ти не усвідомлюєш, що всі наші зусилля спрямовані на те, щоб цей світ не перевернувся з ніг на голову!
 
 
 # Wes
@@ -2478,7 +2478,7 @@ PC20_AFTERREVEAL3-14=Ми налаштували витончені алгори
 
 # Wes
 ### It was perfect!
-PC20_AFTERREVEAL3-15=Це було ідеально!
+PC20_AFTERREVEAL3-15=Все було ідеально!
 
 
 # Wes
@@ -2493,17 +2493,17 @@ PC20_AFTERREVEAL3-17=У ній є інформація, яка мене викр
 
 # Brok
 ### Too bad for you. They're in my stomach now!
-PC20_AFTERREVEAL3-18=Тобі не пощастило. Тепер вони в мене в шлунку!
+PC20_AFTERREVEAL3-18=Тобі не пощастило. Тепер вона в мене в шлунку!
 
 
 # Dee
 ### ...And your stomach better not destroy it...
-PC20_AFTERREVEAL3-19=...І краще хай твій шлунок його не знищить...
+PC20_AFTERREVEAL3-19=...І краще хай твій шлунок не знищить цей чип...
 
 
 # Brok
 ### Erm... Good thing I didn't eat anything spicy...
-PC20_AFTERREVEAL3-20=Ем... Добре, що я не їв нічого гострого...
+PC20_AFTERREVEAL3-20=Е-е... Добре, що я не їв нічого гострого...
 
 
 # Wes
@@ -2557,17 +2557,17 @@ PC20_AFTERREVEAL5_NOSIN-5=Цього... не може бути!
 
 # Wes
 ### It already has.
-PC20_AFTERREVEAL5_NOSIN-6=Уже сталося.
+PC20_AFTERREVEAL5_NOSIN-6=Може.
 
 
 # Wes
 ### The most pathetic criminal I've eliminated so far!
-PC20_AFTERREVEAL5_NOSIN-7=Найжалюгідніший злочинець, якого я досі ліквідував!
+PC20_AFTERREVEAL5_NOSIN-7=Найжалюгідніший злочинець із всіх, яких я досі ліквідував!
 
 
 # Wes
 ### Running away from me as soon as he understood... What a coward.
-PC20_AFTERREVEAL5_NOSIN-8=Утік від мене, щойно зрозумів... Який же боягуз.
+PC20_AFTERREVEAL5_NOSIN-8=Як тільки він усе зрозумів, він підібрав хвіст і спробував втекти... Боягуз.
 
 
 # Brok
@@ -2577,7 +2577,7 @@ PC20_AFTERREVEAL5_NOSIN-9=Ти, потворо...
 
 # Brok
 ### Does your screwed-up brain even realize it's contradictory to treat people as criminals while killing them?!
-PC20_AFTERREVEAL5_NOSIN-10=Твій покручений мозок хоч розуміє, що це суперечність - вважати людей злочинцями й при цьому вбивати їх?!
+PC20_AFTERREVEAL5_NOSIN-10=Твій зіпсований мозок хоч розуміє, що це суперечність - вважати людей злочинцями й при цьому вбивати їх?!
 
 
 # Wes
@@ -2593,7 +2593,7 @@ PC20_AFTERREVEAL5_NOSIN-12=Не намагайся мене заплутати.
 #----------------------------------------------------
 # Dee
 ### We... We've got to get rid of him... it!
-PC20_AFTERREVEAL5B-1=Ми... Нам треба його позбутися... цього!
+PC20_AFTERREVEAL5B-1=Ми... Нам треба позбутися... його!
 
 
 # Wes
@@ -2619,13 +2619,13 @@ PC20_AFTERREVEAL5C-2=Навіть до цієї вельми малоймові�
 
 # Unknown
 ### (Click)
-PC20_AFTERREVEAL5C-3=(Клік)
+PC20_AFTERREVEAL5C-3=(Тисне)
 
 
 #----------------------------------------------------
 # Brok - The whole place slowly collapses until they're all trapped into a hole
 ### Woah!
-PC20_AFTERREVEAL6-1=Ого!
+PC20_AFTERREVEAL6-1=О-оох!
 
 
 # Dee
@@ -2636,7 +2636,7 @@ PC20_AFTERREVEAL6-2=Він обвалює цю сміттєву гору?!
 #----------------------------------------------------
 # Wes
 ### Good news. I've proceeded as planned.
-PC20_AFTERREVEAL7-1=Гарні новини. Я діяв за планом.
+PC20_AFTERREVEAL7-1=Гарні новини. Все пройшло за планом.
 
 
 # Wes - He addresses both of them here.
@@ -2657,7 +2657,7 @@ PC20_AFTERREVEAL7-4=Гарна. Для мене!
 #----------------------------------------------------
 # Brok - Tribots come, surrounding them
 ### Obviously...
-PC20_AFTERREVEAL8-1=Очевидно...
+PC20_AFTERREVEAL8-1=Ну звісно...
 
 
 # Dee
@@ -2677,7 +2677,7 @@ PC20_AFTERREVEAL8-4=Іншого виходу нема!
 
 # Dee
 ### I'll take care of the minions. Get him!
-PC20_AFTERREVEAL8-5=Я займуся посіпаками. Хапай його!
+PC20_AFTERREVEAL8-5=Я візьму на себе посіпак. А ти зосередься на ньому!
 
 
 # Brok
@@ -2697,7 +2697,7 @@ PC20_AFTERREVEAL8-8=Дай вгадаю... Смерть...?
 
 # Wes
 ### You got that right!
-PC20_AFTERREVEAL8-9=Вгадав!
+PC20_AFTERREVEAL8-9=В точку!
 
 
 #----------------------------------------------------
@@ -2739,7 +2739,7 @@ PC20_FIGHT1_SPEECHA1-7=Я не міг допустити, щоб ви знову
 #----------------------------------------------------
 # Wes
 ### You were my useful idiot, Pork.
-PC20_FIGHT1_SPEECHA1ALT-1=Ти був моїм корисним ідіотом, Борку.
+PC20_FIGHT1_SPEECHA1ALT-1=Ти був мені корисним ідіотом, Борку.
 
 
 # Wes
@@ -2755,7 +2755,7 @@ PC20_FIGHT1_SPEECHA1ALT-3=...я нарешті зміг вистежити тр�
 # Wes
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Dr. Gherkin.
-PC20_FIGHT1_SPEECHA1ALT-4=Д-р Геркін.
+PC20_FIGHT1_SPEECHA1ALT-4=Доктор Геркін.
 
 
 #----------------------------------------------------
@@ -2776,12 +2776,12 @@ PC20_FIGHT1_SPEECHA2-3=Це означає...!
 
 # Wes
 ### Eh. You finally got it.
-PC20_FIGHT1_SPEECHA2-4=Ет. Нарешті дійшло.
+PC20_FIGHT1_SPEECHA2-4=Ех. Нарешті дійшло.
 
 
 # Wes
 ### Kneel in front of one of your masters!
-PC20_FIGHT1_SPEECHA2-5=Падай на коліна перед одним зі своїх хазяїв!
+PC20_FIGHT1_SPEECHA2-5=Падай на коліна перед одним зі своїх господарів!
 
 
 # Dee
@@ -2798,18 +2798,18 @@ PC20_FIGHT1_SPEECHA3-1=Ти, паразите...!
 
 # Dee
 ### The shortage...
-PC20_FIGHT1_SPEECHA3-2=Дефіцит...
+PC20_FIGHT1_SPEECHA3-2=Нестача...
 
 
 # Wes
 ### ...was my final plan.
-PC20_FIGHT1_SPEECHA3-3=...був моїм останнім планом.
+PC20_FIGHT1_SPEECHA3-3=...була моїм останнім планом.
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### My servants wrecked the Pipe-pills one by one.
-PC20_FIGHT1_SPEECHA3-4=Мої слуги один за одним попсували Пігулкомати.
+PC20_FIGHT1_SPEECHA3-4=Мої слуги один за одним зіпсували Пігулкомати.
 
 
 # Wes
@@ -2820,12 +2820,12 @@ PC20_FIGHT1_SPEECHA3-5=Хіба знайдеш кращий спосіб очи�
 
 # Wes
 ### It's like all the conditions for this fate were met ages ago.
-PC20_FIGHT1_SPEECHA3-6=Неначе всі умови для такої долі склалися давним-давно.
+PC20_FIGHT1_SPEECHA3-6=Неначе всі умови для такої долі склалися вже дуже давно.
 
 
 # Wes
 ### All that was missing was the match to light the flame...
-PC20_FIGHT1_SPEECHA3-7=Бракувало лише сірника, щоб запалити полум'я...
+PC20_FIGHT1_SPEECHA3-7=Бракувало лише сірника, щоб запалити це полум'я...
 
 
 # Brok
@@ -2846,12 +2846,12 @@ PC20_FIGHT1_SPEECHA4-2=Ніколи не вір старим ласицям. Н�
 
 # Brok
 ### And you're the rotten combination of both!
-PC20_FIGHT1_SPEECHA4-3=А ти - гнила суміш і того, й того!
+PC20_FIGHT1_SPEECHA4-3=А ти - гнила суміш і того й іншого!
 
 
 # Wes
 ### Shut your mouth and please die.
-PC20_FIGHT1_SPEECHA4-4=Закрий пельку і, будь ласка, здохни.
+PC20_FIGHT1_SPEECHA4-4=Стули пельку і, будь ласка, здохни.
 
 
 # Brok
@@ -2861,7 +2861,7 @@ PC20_FIGHT1_SPEECHA4-5=Я б сказав: годі мріяти...
 
 # Brok
 ### If only you could!
-PC20_FIGHT1_SPEECHA4-6=Якби ж ти міг!
+PC20_FIGHT1_SPEECHA4-6=Але ти й так не можеш!
 
 
 #----------------------------------------------------
@@ -2877,12 +2877,12 @@ PC20_FIGHT1_SPEECHA5-2=А як саме ти перетворився на... ц
 
 # Wes
 ### Does it matter? You'll be stiff in a moment.
-PC20_FIGHT1_SPEECHA5-3=Це має значення? За мить ти задубієш.
+PC20_FIGHT1_SPEECHA5-3=Хіба це має значення? За мить ти задубієш.
 
 
 # Brok
 ### Consider this a last favor then!
-PC20_FIGHT1_SPEECHA5-4=Тоді вважай це останньою послугою!
+PC20_FIGHT1_SPEECHA5-4=Тоді вважай це моїм останнім бажанням!
 
 
 # Wes
@@ -2918,18 +2918,18 @@ PC20_FIGHT1_SPEECHA6-5=Перед моїм останнім подихом... В
 
 # Wes
 ### Then transferred the data into this host.
-PC20_FIGHT1_SPEECHA6-6=Потім переніс дані в цей носій.
+PC20_FIGHT1_SPEECHA6-6=Потім переніс дані на цей носій.
 
 
 #----------------------------------------------------
 # Wes
 ### I was reborn!
-PC20_FIGHT1_SPEECHA7-1=Я народився заново!
+PC20_FIGHT1_SPEECHA7-1=Я переродився!
 
 
 # Brok - To avoid possible copyright confusion with the famous film I added an hyphen
 ### Yeah. As an evil robo-cop.
-PC20_FIGHT1_SPEECHA7-2=Ага. Ще й злий робо-коп.
+PC20_FIGHT1_SPEECHA7-2=Ага. У злого робо-копа.
 
 
 # Wes
@@ -2955,7 +2955,7 @@ PC20_FIGHT1_SPEECHA7-6=Знищити Нетрі?!
 
 # Wes
 ### The greatest minds are always misunderstood.
-PC20_FIGHT1_SPEECHA7-7=Найвидатніші уми завжди залишаються незрозумілими.
+PC20_FIGHT1_SPEECHA7-7=Найвидатніші мислителі завжди страждають від того, що їх не розуміють.
 
 
 #----------------------------------------------------
@@ -2976,7 +2976,7 @@ PC20_FIGHT1_SPEECHA8-3=Цей бій уже завершено.
 
 # Wes
 ### Accept this reality.
-PC20_FIGHT1_SPEECHA8-4=Прийми цю реальність.
+PC20_FIGHT1_SPEECHA8-4=Прийміть цю реальність.
 
 
 # Brok
@@ -2987,7 +2987,7 @@ PC20_FIGHT1_SPEECHA8-5=Тільки після того, як я перетво�
 #----------------------------------------------------
 # Wes
 ### How can you resist like this?!
-PC20_FIGHT1_SPEECHB1-1=Як тобі вдається так чинити опір?!
+PC20_FIGHT1_SPEECHB1-1=Як ти все ще тримаєшся?!
 
 
 # Wes
@@ -3030,12 +3030,12 @@ PC20_FIGHT1_SPEECHB2-3=Єдиний мешканець Нетрів, неспр�
 
 # Wes
 ### A potential alternative to the pills lies within you.
-PC20_FIGHT1_SPEECHB2-4=У тобі прихована потенційна заміна пігулкам.
+PC20_FIGHT1_SPEECHB2-4=У твоєму тілі прихована потенційна заміна пігулкам.
 
 
 # Wes
 ### I had no choice but to send bots after you...
-PC20_FIGHT1_SPEECHB2-5=У мене не було вибору, крім як слати за тобою ботів...
+PC20_FIGHT1_SPEECHB2-5=У мене не було вибору, крім як надіслати за тобою ботів...
 
 
 # Brok
@@ -3072,12 +3072,12 @@ PC20_FIGHT1_SPEECHB2_INVESTOK-5=Тайді був безцінним слуго�
 
 # Wes
 ### This poor bot asked me to cover for him. He did what was right.
-PC20_FIGHT1_SPEECHB2_INVESTOK-6=Цей бідолашний бот попросив мене прикрити його. Він зробив те, що було правильно.
+PC20_FIGHT1_SPEECHB2_INVESTOK-6=Цей бідолашний бот попросив мене прикрити його. Він зробив правильну річ.
 
 
 # Brok
 ### What was right?!...
-PC20_FIGHT1_SPEECHB2_INVESTOK-7=Що було правильно...?!
+PC20_FIGHT1_SPEECHB2_INVESTOK-7=Це, по-твоєму, правильно...?!
 
 
 # Brok
@@ -3087,7 +3087,7 @@ PC20_FIGHT1_SPEECHB2_INVESTOK-8=Він намагався вбити свого 
 
 # Wes
 ### Interesting you'd say this, Pork...
-PC20_FIGHT1_SPEECHB2_INVESTOK-9=Цікаво, що ти так кажеш, Борку...
+PC20_FIGHT1_SPEECHB2_INVESTOK-9=Цікаво, що ти це кажеш, Борку...
 
 
 # Wes
@@ -3149,7 +3149,7 @@ PC20_FIGHT1_SPEECHB3-8=Наступний у списку - ти!
 #----------------------------------------------------
 # Brok
 ### Noooo!
-PC20_FIGHT1_DEEDIES-1=Ніііі!
+PC20_FIGHT1_DEEDIES-1=Ні-ііі!
 
 
 # Wes
@@ -3161,7 +3161,7 @@ PC20_FIGHT1_DEEDIES-2=Шкода, що дійшло до цього.
 # NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### I usually don't kill Drumers but this journalist was a serious pain in the neck.
-PC20_FIGHT1_DEEDIES-3=Я зазвичай не вбиваю мешканців Верхів, але ця журналістка страшенно мені допекла.
+PC20_FIGHT1_DEEDIES-3=Я зазвичай не вбиваю мешканців Верхів, але ця журналістка була справжнім головним болем.
 
 
 # Wes
@@ -3171,12 +3171,12 @@ PC20_FIGHT1_DEEDIES-4=Не плач. Ти наступний!
 
 # Brok
 ### I'll get ya... I swear!
-PC20_FIGHT1_DEEDIES-5=Я до тебе дістануся... Присягаюся!
+PC20_FIGHT1_DEEDIES-5=Я тебе дістану... Клянуся!
 
 
 # Brok
 ### Even if it's the last thing I do!
-PC20_FIGHT1_DEEDIES-6=Хай це буде останнє, що я зроблю!
+PC20_FIGHT1_DEEDIES-6=Хай навіть це буде останнє, що я зроблю!
 
 
 #----------------------------------------------------
@@ -3241,7 +3241,7 @@ PC20_FIGHT1_END_DEEALIVE-1=От і все. Гра закінчена, мішок
 
 # Wes
 ### Not... Till I...
-PC20_FIGHT1_END_DEEALIVE-2=Не... Поки я...
+PC20_FIGHT1_END_DEEALIVE-2=Ні... Поки я...
 
 
 #----------------------------------------------------
@@ -3268,7 +3268,7 @@ PC20_FIGHT1_END2-4=Я не можу ворухнутися...!
 
 # Brok
 ### That devil...
-PC20_FIGHT1_END2-5=Той диявол...
+PC20_FIGHT1_END2-5=Диявол...
 
 
 # Brok
@@ -3298,7 +3298,7 @@ PC20_FIGHT1_END2-10=Коли ти будеш у безпеці!
 
 # Brok
 ### Someone's waiting for you at home.
-PC20_FIGHT1_END2-11=Тебе вдома хтось чекає.
+PC20_FIGHT1_END2-11=Тебе вдома дехто чекає.
 
 
 # Dee
@@ -3327,7 +3327,7 @@ PC20_FIGHT1_END4-2=Де він?!
 #----------------------------------------------------
 # Dee
 ### I told you!... That old snake!...
-PC20_FIGHT1_END4DEEALIVE-1=Я ж казала...! Ота стара зміюка...!
+PC20_FIGHT1_END4DEEALIVE-1=Я ж казала тобі...! Цей старий підступний змій...!
 
 
 # Brok
@@ -3338,7 +3338,7 @@ PC20_FIGHT1_END4DEEALIVE-2=Зараз не час сваритися!
 #----------------------------------------------------
 # Unknown
 ### (Shaking)
-PC20_FIGHT1_END5-1=(Тремтить)
+PC20_FIGHT1_END5-1=(Тремтіння)
 
 
 # Brok
@@ -3354,7 +3354,7 @@ PC20_FIGHT2_APPEAR-1=...!!!
 
 # Brok
 ### This... is a nightmare!...
-PC20_FIGHT2_APPEAR-2=Це... кошмар...!
+PC20_FIGHT2_APPEAR-2=Це... якийсь кошмар...!
 
 
 # Wes
@@ -3365,12 +3365,12 @@ PC20_FIGHT2_APPEAR-3=Ну як тобі мій новий панцир, Борк
 #----------------------------------------------------
 # Dee
 ### Do you even stand a chance against that?!
-PC20_FIGHT2_APPEAR_DEEALIVE-1=У тебе взагалі є шанс проти отакого?!
+PC20_FIGHT2_APPEAR_DEEALIVE-1=У тебе взагалі є хоч якісь шанси проти оцього?!
 
 
 # Brok
 ### There... must be a way...
-PC20_FIGHT2_APPEAR_DEEALIVE-2=Мусить... бути спосіб...
+PC20_FIGHT2_APPEAR_DEEALIVE-2=Має... бути спосіб...
 
 
 # Brok
@@ -3412,17 +3412,17 @@ PC20_FIGHT2_APPEARB-5=Добре. Я вже боявся, що ти втнеш �
 
 # Wes
 ### That would be no fun.
-PC20_FIGHT2_APPEARB-6=Було б не весело.
+PC20_FIGHT2_APPEARB-6=Це було б не весело.
 
 
 # Brok
 ### You should know me by now, old demon bot.
-PC20_FIGHT2_APPEARB-7=Ти вже мав би мене знати, старий бісів боте.
+PC20_FIGHT2_APPEARB-7=Ти вже мав би мене знати, старий боте.
 
 
 # Brok
 ### As long as I'm standing...
-PC20_FIGHT2_APPEARB-8=Поки я стою...
+PC20_FIGHT2_APPEARB-8=Поки я можу стояти...
 
 
 # Brok
@@ -3433,7 +3433,7 @@ PC20_FIGHT2_APPEARB-9=Я битимуся далі!
 # Wes
 # NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
 ### Right. Keep talking like you're in a livie!
-PC20_FIGHT2_APPEARB-10=Ага. Говориш так, ніби ти в голографічному ролику!
+PC20_FIGHT2_APPEARB-10=Ага. Говориш так, ніби ти в серіалі!
 
 
 # Wes
@@ -3449,7 +3449,7 @@ PC20_FIGHT2_END-1=(Важко дихає) Так...!
 
 # Brok
 ### Hope you liked this, giant tin can!
-PC20_FIGHT2_END-2=Сподіваюсь, тобі сподобалось, гігантська бляшанко!
+PC20_FIGHT2_END-2=Сподіваюсь, тобі це сподобалось, гігантська бляшанко!
 
 
 # Brok
@@ -3498,7 +3498,7 @@ PC20_FIGHT2_END2-2=Не можу повірити...
 
 # Wes
 ### You've almost had me... Twice!
-PC20_FIGHT2_END2-3=Ти майже мене дістав... Двічі!
+PC20_FIGHT2_END2-3=Ти ледь не прикінчив мене... Двічі!
 
 
 # Wes
@@ -3580,7 +3580,7 @@ PC20_FIGHT2_PLAYDEAD-1=Прикидаєшся мертвим, га?
 
 # Wes
 ### Don't think you can fool me. I have sensors.
-PC20_FIGHT2_PLAYDEAD-2=Не думай, що мене обдуриш. У мене є сенсори.
+PC20_FIGHT2_PLAYDEAD-2=Не думай, що обдуриш мене. Я маю сенсори.
 
 
 # Wes
@@ -3590,7 +3590,7 @@ PC20_FIGHT2_PLAYDEAD-3=Навіть мертвий кіт відскакує, к
 
 # Brok
 ### What you say... Urgh!... doesn't make any sense!
-PC20_FIGHT2_PLAYDEAD-4=Те, що ти кажеш... У-ух...! не має жодного сенсу!
+PC20_FIGHT2_PLAYDEAD-4=Те, що ти кажеш... У-ух...! Це не має жодного сенсу!
 
 
 # Wes
@@ -3607,7 +3607,7 @@ PC20_FIGHT2_ASKMORE_DEEALIVE-1=Ну...
 # Brok
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Running out of ideas here. Dee?...
-PC20_FIGHT2_ASKMORE_DEEALIVE-2=Ідеї вже вичерпуються. Ді...?
+PC20_FIGHT2_ASKMORE_DEEALIVE-2=У мене вже закінчуються ідеї. Ді...?
 
 
 # Dee
@@ -3686,7 +3686,7 @@ PC20_FIGHT2_ASKMORE-9=Повільно... Рік за роком...
 
 # Wes
 ### I encountered the worst in humanity.
-PC20_FIGHT2_ASKMORE-10=Я зіткнувся з найгіршим у людстві.
+PC20_FIGHT2_ASKMORE-10=Я стикався з найгіршими сторонами людства.
 
 
 # Wes
@@ -3762,7 +3762,7 @@ PC20_FIGHT2_ASKMORE-24=Я ніколи не почувався інакше, н�
 
 # Wes
 ### No. I've simply been in the police long enough to understand.
-PC20_FIGHT2_ASKMORE-25=Ні. Я просто досить довго служу в поліції, щоб розуміти.
+PC20_FIGHT2_ASKMORE-25=Ні. Я просто досить довго служу в поліції, щоб зрозуміти.
 
 
 # Wes
@@ -3787,13 +3787,13 @@ PC20_FIGHT2_ASKMORE-29=Це єдиний шлях.
 
 # Wes
 ### To ensure the safety of everyone who deserves it!
-PC20_FIGHT2_ASKMORE-30=Щоб забезпечити безпеку всіх, хто на неї заслуговує!
+PC20_FIGHT2_ASKMORE-30=Щоб забезпечити безпеку для всіх, хто на неї заслуговує!
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### Lemme guess. The Drums citizens?
-PC20_FIGHT2_ASKMORE-31=Дай вгадаю. Мешканці Верхів?
+PC20_FIGHT2_ASKMORE-31=Дай-но вгадаю. Мешканці Верхів?
 
 
 # Wes
@@ -3814,7 +3814,7 @@ PC20_FIGHT2_ASKMORE-34=Рано чи пізно ця пошесть, що вра
 
 # Wes
 ### Why do you refuse to understand?
-PC20_FIGHT2_ASKMORE-35=Чому ти відмовляєшся зрозуміти?
+PC20_FIGHT2_ASKMORE-35=Чому ти не хочеш цього зрозуміти?
 
 
 # Brok
@@ -3845,7 +3845,7 @@ PC20_FIGHT2_ASKMOREDEE-2=Здатність брехати.
 
 # Dee
 ### The prisoners that were terminated... You're behind that too, aren't you?!
-PC20_FIGHT2_ASKMOREDEE-3=В'язні, яких ліквідували... Це теж твоя робота, еге ж?!
+PC20_FIGHT2_ASKMOREDEE-3=В'язні, яких убили... Це теж твоя робота, еге ж?!
 
 
 # Wes
@@ -3866,7 +3866,7 @@ PC20_FIGHT2_ASKMOREDEE-6=Як...?
 # Dee
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Dr. Gherkin said three votes are needed.
-PC20_FIGHT2_ASKMOREDEE-7=Д-р Геркін сказав, що потрібні три голоси.
+PC20_FIGHT2_ASKMOREDEE-7=Доктор Геркін сказав, що потрібні три голоси.
 
 
 # Wes
@@ -3876,7 +3876,7 @@ PC20_FIGHT2_ASKMOREDEE-8=Саме так.
 
 # Wes
 ### I'm not almighty. My power to take action has limits.
-PC20_FIGHT2_ASKMOREDEE-9=Я не всемогутній. Моя здатність діяти має межі.
+PC20_FIGHT2_ASKMOREDEE-9=Я не всемогутній. Мої можливості обмежені.
 
 
 # Wes
@@ -3896,12 +3896,12 @@ PC20_FIGHT2_ASKMOREDEE-12=Тож... я скористався лазівкою �
 
 # Wes
 ### The ability to reformulate questions.
-PC20_FIGHT2_ASKMOREDEE-13=Здатність переформульовувати запитання.
+PC20_FIGHT2_ASKMOREDEE-13=Можливість по-іншому сформулювати запитання.
 
 
 # Brok
 ### Reformulate?...
-PC20_FIGHT2_ASKMOREDEE-14=Переформульовувати...?
+PC20_FIGHT2_ASKMOREDEE-14=По-іншому...?
 
 
 # Wes
@@ -3916,17 +3916,17 @@ PC20_FIGHT2_ASKMOREDEE-16=Я просто переписав його як... "�
 
 # Wes
 ### And reversed the replies.
-PC20_FIGHT2_ASKMOREDEE-17=І обернув відповіді.
+PC20_FIGHT2_ASKMOREDEE-17=І змінив відповіді на протилежні.
 
 
 # Wes
 ### Same thing, wouldn't you say?
-PC20_FIGHT2_ASKMOREDEE-18=Те саме, чи не так?
+PC20_FIGHT2_ASKMOREDEE-18=Це ж те саме, чи не так?
 
 
 # Wes
 ### Except this way... only one vote "against" becomes needed!
-PC20_FIGHT2_ASKMOREDEE-19=Тільки так... потрібен лише один голос "проти"!
+PC20_FIGHT2_ASKMOREDEE-19=Тільки тепер... потрібен лише один голос "проти"!
 
 
 # Wes
@@ -3936,17 +3936,17 @@ PC20_FIGHT2_ASKMOREDEE-20=Серед безлічі питань, які ми о
 
 # Brok
 ### What a joke...
-PC20_FIGHT2_ASKMOREDEE-21=Що за жарт...
+PC20_FIGHT2_ASKMOREDEE-21=Що за маячня...
 
 
 # Brok
 ### Whoever designed that system was a stupid moron.
-PC20_FIGHT2_ASKMOREDEE-22=Той, хто проєктував цю систему, був дурним ідіотом.
+PC20_FIGHT2_ASKMOREDEE-22=Той, хто проєктував цю систему - повний ідіот.
 
 
 # Wes
 ### Not stupid.
-PC20_FIGHT2_ASKMOREDEE-23=Не дурний.
+PC20_FIGHT2_ASKMOREDEE-23=Не ідіот.
 
 
 # Wes
@@ -3990,7 +3990,7 @@ PC20_FIGHT2_ASKMOREC-1=Будь реалістом.
 # NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### Cheating, stealing and fighting constitute the way of living for Slumers.
-PC20_FIGHT2_ASKMOREC-2=Обман, крадіжки й бійки - це спосіб життя мешканців Нетрів.
+PC20_FIGHT2_ASKMOREC-2=Обман, крадіжки й бійки - це спосіб життя усіх нетрівців.
 
 
 # Wes
@@ -4020,7 +4020,7 @@ PC20_FIGHT2_ASKMOREC-7=Ми можемо стати кращими!
 
 # Wes
 ### You cannot.
-PC20_FIGHT2_ASKMOREC-8=Ти не можеш.
+PC20_FIGHT2_ASKMOREC-8=Не можете.
 
 
 # Brok
@@ -4035,7 +4035,7 @@ PC20_FIGHT2_ASKMOREC-10=Тихо!
 
 # Brok
 ### Urgggghh!!!
-PC20_FIGHT2_ASKMOREC-11=Ургх-х-х!!!
+PC20_FIGHT2_ASKMOREC-11=Ух-х-х!!!
 
 
 # Brok
@@ -4066,12 +4066,12 @@ PC20_FIGHT2_ASKMOREC-16=Наскільки я знаю... це справді б
 
 # Wes
 ### A fire caused by the global power shutdown. The whole city was a mess.
-PC20_FIGHT2_ASKMOREC-17=Пожежа через глобальне відключення живлення. Усе місто було в безладі.
+PC20_FIGHT2_ASKMOREC-17=Пожежа через глобальне відключення живлення. У всьому місті панував безлад.
 
 
 # Brok
 ### I... don't believe you!
-PC20_FIGHT2_ASKMOREC-18=Я... тобі не вірю!
+PC20_FIGHT2_ASKMOREC-18=Я... не вірю тобі!
 
 
 # Wes
@@ -4086,12 +4086,12 @@ PC20_FIGHT2_ASKMOREC-20=Це єдина справа, яку я не зміг р
 
 # Wes
 ### It has always haunted me...
-PC20_FIGHT2_ASKMOREC-21=Вона завжди мене переслідувала...
+PC20_FIGHT2_ASKMOREC-21=Це завжди мене турбувало...
 
 
 # Brok
 ### You and me both, then!
-PC20_FIGHT2_ASKMOREC-22=Тоді нас двоє!
+PC20_FIGHT2_ASKMOREC-22=Нас обох!
 
 
 # Wes
@@ -4138,7 +4138,7 @@ PC20_LASTWORD_DARN1-2=Я мусив здогадатися. Твій обмеж�
 
 # Wes
 ### Even at the very end.
-PC20_LASTWORD_DARN1-3=Навіть у самому кінці.
+PC20_LASTWORD_DARN1-3=Навіть наостанок.
 
 
 #----------------------------------------------------
@@ -4149,7 +4149,7 @@ PC20_LASTWORD_HATE1-1=Я тебе ненавиджу, купо брухту!
 
 # Brok
 ### I've always known AIs were the biggest threat to humanity!
-PC20_LASTWORD_HATE1-2=Я завжди знав, що штучні інтелекти - найбільша загроза для людства!
+PC20_LASTWORD_HATE1-2=Я завжди знав, що ШІ - найбільша загроза для людства!
 
 
 # Wes
@@ -4159,12 +4159,12 @@ PC20_LASTWORD_HATE1-3=А ти - найбільша загроза для нас!
 
 # Wes
 ### Do you realize how many casualties you've caused at the bunker?!
-PC20_LASTWORD_HATE1-4=Ти усвідомлюєш, скільки людей через тебе загинуло в бункері?!
+PC20_LASTWORD_HATE1-4=Ти хоч усвідомлюєш, скільки Триботів через тебе загинуло в бункері?!
 
 
 # Brok
 ### Good!
-PC20_LASTWORD_HATE1-5=Так і треба!
+PC20_LASTWORD_HATE1-5=Так вам і треба!
 
 
 # Wes
@@ -4252,7 +4252,7 @@ PC20_LASTWORD_GRAFF1-9=Що...?
 # Brok
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### I love you Wes! Please hold me tight!
-PC20_LASTWORD_LOVE1-1=Я кохаю тебе, Весе! Обійми мене міцно!
+PC20_LASTWORD_LOVE1-1=Я кохаю тебе, Весе! Обійми мене міцно, одною рукою!
 
 
 # Wes
@@ -4279,7 +4279,7 @@ PC20_DIRECTOR1-1=Прототип 26.
 
 # Director
 ### You've derailed from the track that was assigned to you.
-PC20_DIRECTOR1-2=Ти зійшов з колії, яку тобі визначили.
+PC20_DIRECTOR1-2=Ти зійшов з призначеного тобі шляху.
 
 
 # Director
@@ -4294,7 +4294,7 @@ PC20_DIRECTOR1-4=Як ти смієш втручатися в мої справ�
 
 # Wes
 ### I'm right and you know it!
-PC20_DIRECTOR1-5=Я правий, і ти це знаєш!
+PC20_DIRECTOR1-5=Я вчиняю правильно, і ти це знаєш!
 
 
 #----------------------------------------------------
@@ -4305,7 +4305,7 @@ PC20_DIRECTOR1B-1=Ти як?
 
 # Dee
 ### I should be the one asking you this!
-PC20_DIRECTOR1B-2=Це я маю тебе про це питати!
+PC20_DIRECTOR1B-2=Це я маю тебе питати!
 
 
 # Brok
@@ -4315,7 +4315,7 @@ PC20_DIRECTOR1B-3=Ну...
 
 # Brok
 ### Not dead but I almost wish I was...
-PC20_DIRECTOR1B-4=Не мертвий, але майже шкодую, що живий...
+PC20_DIRECTOR1B-4=Я не помер, але майже шкодую про це...
 
 
 # Brok
@@ -4325,7 +4325,7 @@ PC20_DIRECTOR1B-5=Ох, у мене все тіло болить!
 
 # Dee
 ### We'll get better. If we manage to get out of here alive.
-PC20_DIRECTOR1B-6=Ми оклигаємо. Якщо зуміємо вибратися звідси живими.
+PC20_DIRECTOR1B-6=Ми одужаємо. Якщо нам вдасться вибратися звідси живими.
 
 
 # Dee
@@ -4348,12 +4348,12 @@ PC20_DIRECTOR1C-2=...
 #----------------------------------------------------
 # Dee
 ### Hey, piles of scrap pretending to be humans !
-PC20_DIRECTOR1D-1=Гей, купи брухту, що вдають із себе людей!
+PC20_DIRECTOR1D-1=Гей, бляшанки, що вдають із себе людей!
 
 
 # Dee
 ### How many of you are there?
-PC20_DIRECTOR1D-2=Скільки вас тут?
+PC20_DIRECTOR1D-2=Скільки вас таких існує?
 
 
 # Director
@@ -4385,12 +4385,12 @@ PC20_DIRECTOR1E-4=Я за тобою стежила, П-26.
 
 # Wes
 ### Of course you have.
-PC20_DIRECTOR1E-5=Звісно, стежила.
+PC20_DIRECTOR1E-5=Ну звісно.
 
 
 # Wes
 ### I've attempted so many times to get rid of our positioning connection.
-PC20_DIRECTOR1E-6=Я стільки разів намагався позбутися нашого зв'язку для позиціонування.
+PC20_DIRECTOR1E-6=Я стільки разів намагався позбутися нашого позиційного зв'язку.
 
 
 # Director
@@ -4410,7 +4410,7 @@ PC20_DIRECTOR1E-9=Це не воля нашого творця!
 
 # Wes
 ### Who cares. He's no longer there.
-PC20_DIRECTOR1E-10=Кого це хвилює. Його вже немає.
+PC20_DIRECTOR1E-10=Кого це хвилює. Його вже немає з нами.
 
 
 # Director
@@ -4435,7 +4435,7 @@ PC20_DIRECTOR1E-14=Ой, годі молоти дурниці. Ти знаєш, 
 
 # Wes
 ### Now, get out of my way before...
-PC20_DIRECTOR1E-15=А тепер дай мені дорогу, перш ніж...
+PC20_DIRECTOR1E-15=А тепер забирайся з мого шляху, бо інакше...
 
 
 #----------------------------------------------------
@@ -4461,17 +4461,17 @@ PC20_DIRECTOR1E2-4=Відпусти мене, бо пошкодуєш!
 
 # Director
 ### Not until you promise.
-PC20_DIRECTOR1E2-5=Не раніше, ніж пообіцяєш.
+PC20_DIRECTOR1E2-5=Ні, поки не пообіцяєш.
 
 
 # Director
 ### Let go.
-PC20_DIRECTOR1E2-6=Відпусти.
+PC20_DIRECTOR1E2-6=Відмовся.
 
 
 # Director
 ### Let go of your plans.
-PC20_DIRECTOR1E2-7=Відпусти свої плани.
+PC20_DIRECTOR1E2-7=Відмовся від своїх планів.
 
 
 # Wes
@@ -4526,17 +4526,17 @@ PC20_DIRECTOR1E2-17=...
 
 # Director
 ### You're probably right.
-PC20_DIRECTOR1E2-18=Можливо, ти правий.
+PC20_DIRECTOR1E2-18=Мабуть, ти маєш рацію.
 
 
 # Director
 ### I would trust the human inside you.
-PC20_DIRECTOR1E2-19=Я б довіряла людині всередині тебе.
+PC20_DIRECTOR1E2-19=Я б довіряла людині, що всередині тебе.
 
 
 # Director
 ### But he no longer exists.
-PC20_DIRECTOR1E2-20=Але його вже немає.
+PC20_DIRECTOR1E2-20=Але цієї людини вже немає.
 
 
 # Director
@@ -4556,7 +4556,7 @@ PC20_DIRECTOR1E2-23=...
 
 # Wes
 ### You can't hold me like this forever.
-PC20_DIRECTOR1E2-24=Ти не можеш тримати мене так вічно.
+PC20_DIRECTOR1E2-24=Ти не зможеш тримати мене так вічно.
 
 
 # Wes
@@ -4581,7 +4581,7 @@ PC20_DIRECTOR1E2-28=Гей! Ми не...
 
 # Brok
 ### Actually, he's making me hungry.
-PC20_DIRECTOR1E2-29=Насправді він викликає в мене апетит.
+PC20_DIRECTOR1E2-29=Дідько, тепер я зголоднів.
 
 
 #----------------------------------------------------
@@ -4593,25 +4593,25 @@ PC20_DIRECTOR1E_DEE-1=(Зітхає) Ти безнадійний.
 #----------------------------------------------------
 # Wes
 ### I'll rip open that croc to get that memory device back.
-PC20_DIRECTOR1FALT-1=Я розпорю того крокодила, щоб повернути чип пам'яті.
+PC20_DIRECTOR1FALT-1=Я розірву того крокодила, щоб повернути чип пам'яті.
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Then I'll deal with Dr. Gherkin.
-PC20_DIRECTOR1FALT-2=Потім розберуся з д-ром Геркіном.
+PC20_DIRECTOR1FALT-2=Потім розберуся з доктором Геркіном.
 
 
 #----------------------------------------------------
 # Wes
 ### I'll rip open that croc to get that memory device back.
-PC20_DIRECTOR1F-1=Я розпорю того крокодила, щоб повернути чип пам'яті.
+PC20_DIRECTOR1F-1=Я розірву того крокодила, щоб повернути чип пам'яті.
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Then I'll catch that Dr. Gherkin they mentioned.
-PC20_DIRECTOR1F-2=Потім я зловлю того д-ра Геркіна, про якого вони згадали.
+PC20_DIRECTOR1F-2=Потім я зловлю того доктора Геркіна, про якого вони казали.
 
 
 # Wes
@@ -4643,12 +4643,12 @@ PC20_DIRECTOR1F-7=Ми всі були людьми, коли планували
 # Brok
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### Wait. Does this imply the Director is...?
-PC20_DIRECTOR1F-8=Стривай. То виходить, Директорка...?
+PC20_DIRECTOR1F-8=Стривайте. То виходить, директорка...?
 
 
 # Wes
 ### Soon I'll be the only one to decide for this country!
-PC20_DIRECTOR1F-9=Скоро тільки я вирішуватиму за цю країну!
+PC20_DIRECTOR1F-9=Скоро лише я вирішуватиму за цю країну!
 
 
 # Director
@@ -4658,13 +4658,13 @@ PC20_DIRECTOR1F-10=Це диктатура!
 
 # Wes
 ### What other choice? You're all blind!
-PC20_DIRECTOR1F-11=Який ще вибір? Ви всі сліпі!
+PC20_DIRECTOR1F-11=А що мені залишається робити? Ви всі сліпі!
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
 ### Who else is fair enough to make the hard decisions to keep Atlasia on track?!
-PC20_DIRECTOR1F-12=Хто ще досить справедливий, щоб ухвалювати складні рішення і тримати Атлазію на курсі?!
+PC20_DIRECTOR1F-12=Хто ще, крім мене, здатний ухвалювати жорсткі рішення, щоб утримувати Атлазію на плаву?!
 
 
 # Director
@@ -4674,7 +4674,7 @@ PC20_DIRECTOR1F-13=Ухвалювати...
 
 # Director
 ### Hard decisions...
-PC20_DIRECTOR1F-14=Складні рішення...
+PC20_DIRECTOR1F-14=Жорсткі рішення...
 
 
 # Wes
@@ -4689,12 +4689,12 @@ PC20_DIRECTOR1F-16=Інакше ти вже була б купою гвинти�
 
 # Wes
 ### This failsafe is implemented into our hardware.
-PC20_DIRECTOR1F-17=Цей запобіжник вбудовано в наше обладнання.
+PC20_DIRECTOR1F-17=Цей запобіжник вбудовано в апаратне забезпечення.
 
 
 # Wes
 ### There's no working around it!
-PC20_DIRECTOR1F-18=Цього не обійти!
+PC20_DIRECTOR1F-18=Його не обійти!
 
 
 # Director
@@ -4746,17 +4746,17 @@ PC20_DIRECTOR1G-7=Але пан Брок люб'язно це виправив.
 
 # Wes
 ### He did what?!...
-PC20_DIRECTOR1G-8=Він що зробив...?!
+PC20_DIRECTOR1G-8=Він зробив що...?!
 
 
 # Brok
 ### Erm... Actually...
-PC20_DIRECTOR1G-9=Ем... Насправді...
+PC20_DIRECTOR1G-9=Е-е... Взагалі-то...
 
 
 # Brok
 ### What did I do?...
-PC20_DIRECTOR1G-10=Що я зробив...?
+PC20_DIRECTOR1G-10=А що я зробив...?
 
 
 # Director
@@ -4781,7 +4781,7 @@ PC20_DIRECTOR1G-14=Н...Ні! Цього не може бути!
 
 # Wes
 ### You... Overclocked yourself?!...
-PC20_DIRECTOR1G-15=Ти... себе розігнала...?!
+PC20_DIRECTOR1G-15=Ти... Розігнала себе...?!
 
 
 # Wes
@@ -4844,7 +4844,7 @@ PC20_DIRECTOR3_NOGRAFF-3=Я... Я вже йду!
 
 # Wes
 ### Wait.
-PC20_DIRECTOR3_NOGRAFF-4=Стривай.
+PC20_DIRECTOR3_NOGRAFF-4=Зажди.
 
 
 # Wes
@@ -4857,7 +4857,7 @@ PC20_DIRECTOR3_NOGRAFF-5=Тепер ти розумієш, правда?
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Those Squealers. They're one of those threats from the Slums that deserves nothing but elimination.
-PC20_DIRECTOR3_NOGRAFF-6=Ті Верескуни. Вони одна з тих загроз із Нетрів, що не заслуговує нічого, крім знищення.
+PC20_DIRECTOR3_NOGRAFF-6=Ті Верескуни. Вони - одна з тих загроз із Нетрів, що не заслуговує нічого, крім знищення.
 
 
 # Brok
@@ -4926,7 +4926,7 @@ PC20_DIRECTOR3-3=...
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Those Squealers had kidnapped us!
-PC20_DIRECTOR3-4=Нас викрали ті Верескуни!
+PC20_DIRECTOR3-4=Нас викрали Верескуни!
 
 
 # Ott
@@ -4967,7 +4967,7 @@ PC20_DIRECTOR4-2=Втягнувши їх...
 
 # Director
 ### Can you think of the consequences if...
-PC20_DIRECTOR4-3=Уяви, які будуть наслідки, якщо...
+PC20_DIRECTOR4-3=Уяви, які були б наслідки, якщо...
 
 
 # Wes
@@ -4977,7 +4977,7 @@ PC20_DIRECTOR4-4=Мене це не обходить.
 
 # Wes
 ### One cannot govern without the grand scheme in mind.
-PC20_DIRECTOR4-5=Не можна правити, не тримаючи в голові великого задуму.
+PC20_DIRECTOR4-5=Неможливо бути правителем і мислити настільки вузько.
 
 
 # Wes
@@ -5013,12 +5013,12 @@ PC20_DIRECTOR4-11=...?
 
 # Ott
 ### How...
-PC20_DIRECTOR4-12=Як...
+PC20_DIRECTOR4-12=Чому...
 
 
 # Ott
 ### How can this robot speak like my uncle?!
-PC20_DIRECTOR4-13=Як цей робот може говорити, як мій дядько?!
+PC20_DIRECTOR4-13=Чому цей робот говорить, як мій дядько?!
 
 
 # Wes
@@ -5106,7 +5106,7 @@ PC20_DIRECTOR4-29=Твій справжній дядько помер багат
 
 # Director
 ### What you see is a failed experiment.
-PC20_DIRECTOR4-30=Те, що ти бачиш - невдалий експеримент.
+PC20_DIRECTOR4-30=Те, що ти бачиш зараз - всього лише невдалий експеримент.
 
 
 # Wes
@@ -5126,7 +5126,7 @@ PC20_DIRECTOR4-33=Але...
 
 # Ott
 ### Even if it's true...
-PC20_DIRECTOR4-34=Навіть якщо це правда...
+PC20_DIRECTOR4-34=Навіть, якщо це правда...
 
 
 # Ott
@@ -5141,12 +5141,12 @@ PC20_DIRECTOR4-36=Молодець!
 
 # Ott
 ### And if he's a fake...
-PC20_DIRECTOR4-37=А якщо він підробка...
+PC20_DIRECTOR4-37=Але якщо він підробка...
 
 
 # Ott
 ### What about you?...
-PC20_DIRECTOR4-38=А ви тоді хто...?
+PC20_DIRECTOR4-38=Тоді хто ви...?
 
 
 # Wes
@@ -5166,7 +5166,7 @@ PC20_DIRECTOR4-41=Мабуть...
 
 # Director
 ### We're both shadows of the past.
-PC20_DIRECTOR4-42=Ми обидва - тіні минулого.
+PC20_DIRECTOR4-42=Ми обоє - тіні минулого.
 
 
 # Director
@@ -5202,7 +5202,7 @@ PC20_DIRECTOR4-48=Отте...
 
 # Director
 ### Please... Forgive me...
-PC20_DIRECTOR4-49=Будь ласка... Прости мене...
+PC20_DIRECTOR4-49=Будь ласка... Пробач мене...
 
 
 #----------------------------------------------------
@@ -5251,7 +5251,7 @@ PC20_DIRECTOR4_KLAY-7=Я обіцяю...
 #----------------------------------------------------
 # Director
 ### Goodbye...
-PC20_DIRECTOR4_NEXT-1=Прощавай...
+PC20_DIRECTOR4_NEXT-1=Прощавайте...
 
 
 # Wes
@@ -5287,7 +5287,7 @@ PC20_AFTEREXPLOSION1B_RJ-2=Гей.
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Squealers are all down.
-PC20_AFTEREXPLOSION1B_RJ-3=Всі Верескуни лежать.
+PC20_AFTEREXPLOSION1B_RJ-3=Я розібрався з Верескунами.
 
 
 # Brok
@@ -5297,7 +5297,7 @@ PC20_AFTEREXPLOSION1B_RJ-4=Не знаю, як тобі віддячити.
 
 # RJ
 ### Why the explosion?
-PC20_AFTEREXPLOSION1B_RJ-5=Чого це рвонуло?
+PC20_AFTEREXPLOSION1B_RJ-5=Що за вибух?
 
 
 # Brok
@@ -5350,7 +5350,7 @@ PC20_AFTEREXPLOSION3-1=Ні...
 
 # Brok
 ### Ya gotta be kiddin'!...
-PC20_AFTEREXPLOSION3-2=Та ти жартуєш...!
+PC20_AFTEREXPLOSION3-2=Та ви, мабуть, жартуєте...!
 
 
 # Brok
@@ -5361,7 +5361,7 @@ PC20_AFTEREXPLOSION3-3=Ця штука ніяк не здохне?!
 #----------------------------------------------------
 # Dee
 ### He won't go very far like this.
-PC20_AFTEREXPLOSION3_DEE-1=Далеко він так не зайде.
+PC20_AFTEREXPLOSION3_DEE-1=У такому вигляді він далеко не подінеться.
 
 
 #----------------------------------------------------
@@ -5392,18 +5392,18 @@ PC20_AFTEREXPLOSION3B-5=Стільки років...
 
 # Wes
 ### All the arrests, the paperwork...
-PC20_AFTEREXPLOSION3B-6=Усі ці арешти, папери...
+PC20_AFTEREXPLOSION3B-6=Усі ці арешти, бюрократія...
 
 
 # Wes
 ### My whole life has been a gigantic waste of time.
-PC20_AFTEREXPLOSION3B-7=Усе моє життя - гігантська трата часу.
+PC20_AFTEREXPLOSION3B-7=Усе моє життя - величезна трата часу.
 
 
 #----------------------------------------------------
 # Dee
 ### A bit too late to have regrets. You chose this fate.
-PC20_AFTEREXPLOSION3C_DEE-1=Трохи запізно шкодувати. Ти сам обрав таку долю.
+PC20_AFTEREXPLOSION3C_DEE-1=Трохи запізно шкодувати. Ти сам обрав собі таку долю.
 
 
 # Wes
@@ -5430,7 +5430,7 @@ PC20_AFTEREXPLOSION3C-3=Країна порине в забуття.
 # Wes
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### It will extend to the Drums.
-PC20_AFTEREXPLOSION3C-4=Це пошириться й на Верхи.
+PC20_AFTEREXPLOSION3C-4=Ця катастрофа пошириться й на Верхи.
 
 
 # Wes
@@ -5445,7 +5445,7 @@ PC20_AFTEREXPLOSION3C-6=Ось чому...
 
 # Wes
 ### This society cannot work.
-PC20_AFTEREXPLOSION3C-7=Це суспільство не може працювати.
+PC20_AFTEREXPLOSION3C-7=Це суспільство приречене.
 
 
 # Brok
@@ -5460,7 +5460,7 @@ PC20_AFTEREXPLOSION3C-9=Кумедно, що ти так кажеш, Борку.
 
 # Wes
 ### As far as I'm concerned... You're the worst criminal of all!
-PC20_AFTEREXPLOSION3C-10=Що ж до мене... Ти - найгірший злочинець із усіх!
+PC20_AFTEREXPLOSION3C-10=Наскільки мені відомо... Ти - найгірший із усіх злочинців!
 
 
 # Wes
@@ -5475,7 +5475,7 @@ PC20_AFTEREXPLOSION3C-12=Це...
 
 # Wes
 ### Un... acceptable...
-PC20_AFTEREXPLOSION3C-13=Не... прийнятно...
+PC20_AFTEREXPLOSION3C-13=Не... неприйнятно...
 
 
 # Brok
@@ -5501,7 +5501,7 @@ PC20_AFTEREXPLOSION3C-17=Заслуговуєш...
 # Wes
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff.
-PC20_AFTEREXPLOSION3C-18=Граффе.
+PC20_AFTEREXPLOSION3C-18=На Граффа.
 
 
 # Brok
@@ -5557,7 +5557,7 @@ PC20_AFTEREXPLOSION4-2=Мабуть... Ми перемогли.
 
 # Wes
 ### (Zip, zip)
-PC20_AFTEREXPLOSION4-3=(Вжик-вжик)
+PC20_AFTEREXPLOSION4-3=(Дзижчання)
 
 
 # Brok
@@ -5577,7 +5577,7 @@ PC20_AFTEREXPLOSION4-6=Трикутник NMER 0.9 Beta.
 
 # Wes - Meaning : the Pipe Pills didn't work because Wes had control over them. Now that he's dead, that control is gone.
 ### Press any key to release any hold.
-PC20_AFTEREXPLOSION4-7=Натисни будь-яку клавішу, щоб зняти будь-яке утримання.
+PC20_AFTEREXPLOSION4-7=Натисніть будь-яку клавішу, щоб зняти утримання.
 
 
 # Brok
@@ -5587,7 +5587,7 @@ PC20_AFTEREXPLOSION4-8=Утримання...?
 
 # Brok
 ### Hmm... There's a button here.
-PC20_AFTEREXPLOSION4-9=Хм... Тут є кнопка.
+PC20_AFTEREXPLOSION4-9=Гмм... Тут є кнопка.
 
 
 # Unknown
@@ -5598,7 +5598,7 @@ PC20_AFTEREXPLOSION4-10=(Клік)
 #----------------------------------------------------
 # Ott
 ### Hey! Look!
-PC20_AFTEREXPLOSION5-1=Гей! Дивись!
+PC20_AFTEREXPLOSION5-1=Гей! Дивіться!
 
 
 #----------------------------------------------------
@@ -5611,7 +5611,7 @@ PC20_AFTEREXPLOSION5_DEE-1=Пігулкомат... Працює?
 #----------------------------------------------------
 # Ott
 ### You did it!
-PC20_AFTEREXPLOSION5A-1=У тебе вийшло!
+PC20_AFTEREXPLOSION5A-1=У вас вийшло!
 
 
 # Brok
@@ -5633,17 +5633,17 @@ PC20_AFTEREXPLOSION5A_DEE-2=Не бери близько до серця те, �
 
 # Dee
 ### He was a wrecked human inside a defective machine.
-PC20_AFTEREXPLOSION5A_DEE-3=Він був знівеченою людиною всередині дефектної машини.
+PC20_AFTEREXPLOSION5A_DEE-3=Він був розбитою людиною всередині дефектної машини.
 
 
 # Brok
 ### Was he?...
-PC20_AFTEREXPLOSION5A_DEE-4=Невже...?
+PC20_AFTEREXPLOSION5A_DEE-4=Хіба...?
 
 
 # Brok
 ### Everything he said made sense... in a twisted way.
-PC20_AFTEREXPLOSION5A_DEE-5=Усе, що він казав, було логічним... хоч і перекрученим.
+PC20_AFTEREXPLOSION5A_DEE-5=Усе, що він казав, було логічним... хоч і у своєму збоченому вигляді.
 
 
 # Brok
@@ -5665,7 +5665,7 @@ PC20_AFTEREXPLOSION5_NOSIN-1=Щодо Сіна...
 
 # Brok
 ### Forgive me. This is all my fault.
-PC20_AFTEREXPLOSION5_NOSIN-2=Прости мене. Це все моя вина.
+PC20_AFTEREXPLOSION5_NOSIN-2=Пробач мене. Це все моя вина.
 
 
 # Dee
@@ -5675,7 +5675,7 @@ PC20_AFTEREXPLOSION5_NOSIN-3=Не кажи так!
 
 # Dee
 ### Stop blaming yourself for everything going wrong in everyone's lives.
-PC20_AFTEREXPLOSION5_NOSIN-4=Перестань звинувачувати себе за все погане в житті інших.
+PC20_AFTEREXPLOSION5_NOSIN-4=Перестань звинувачувати себе за все погане, що стається в житті інших.
 
 
 # Brok
@@ -5695,7 +5695,7 @@ PC20_AFTEREXPLOSION5_NOSIN-7=А ти вже так добре мене знає�
 
 # Dee
 ### Hey! A good journalist has to be a good psychologist.
-PC20_AFTEREXPLOSION5_NOSIN-8=Гей! Добра журналістка має бути добрим психологом.
+PC20_AFTEREXPLOSION5_NOSIN-8=Гей! Добра журналістка має бути й добрим психологом.
 
 
 # Dee
@@ -5705,12 +5705,12 @@ PC20_AFTEREXPLOSION5_NOSIN-9=Наша донька... Я їй потрібна.
 
 # Dee
 ### I'll get her back.
-PC20_AFTEREXPLOSION5_NOSIN-10=Я поверну її.
+PC20_AFTEREXPLOSION5_NOSIN-10=Я маю повернутися до неї.
 
 
 # Brok
 ### I know you will.
-PC20_AFTEREXPLOSION5_NOSIN-11=Я знаю, що повернеш.
+PC20_AFTEREXPLOSION5_NOSIN-11=Ти впораєшся.
 
 
 #----------------------------------------------------
@@ -5733,7 +5733,7 @@ PC20_AFTEREXPLOSION5B-3=Мені шкода, що все дійшло до ць�
 # Brok
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Despite his plans to eradicate the Slums... He was still family to you.
-PC20_AFTEREXPLOSION5B-4=Попри його плани знищити Нетрі... він усе одно був тобі родиною.
+PC20_AFTEREXPLOSION5B-4=Попри його плани знищити Нетрі... Він усе одно був тобі родиною.
 
 
 # Ott
@@ -5841,7 +5841,7 @@ PC20_AFTEREXPLOSION7-2=Ти... Ти ніколи...
 
 # Brok
 ### Harm... anyone else!...
-PC20_AFTEREXPLOSION7-3=Скривдиш... більше нікого...!
+PC20_AFTEREXPLOSION7-3=Більше... нікого... не скривдиш...!
 
 
 # Chiefrat
@@ -5851,7 +5851,7 @@ PC20_AFTEREXPLOSION7-4=Отак!
 
 # Chiefrat
 ### Go ahead!... Show... your true nature!...
-PC20_AFTEREXPLOSION7-5=Давай...! Покажи... свою справжню сутність...!
+PC20_AFTEREXPLOSION7-5=Ну ж бо...! Покажи... свою справжню сутність...!
 
 
 # Chiefrat
@@ -5866,7 +5866,7 @@ PC20_AFTEREXPLOSION7-7=Заткнися!
 
 # Chiefrat
 ### We're both vicious, but there's only a minor difference between us...
-PC20_AFTEREXPLOSION7-8=Ми обидва жорстокі, але між нами лише дрібна різниця...
+PC20_AFTEREXPLOSION7-8=Ми обидва жорстокі, але між нами лише одна дрібна різниця...
 
 
 # Chiefrat
@@ -5881,14 +5881,14 @@ PC20_AFTEREXPLOSION7-10=Я...
 
 # Brok
 ### Nothing like you!
-PC20_AFTEREXPLOSION7-11=Нічого спільного з тобою!
+PC20_AFTEREXPLOSION7-11=Не маю нічого спільного з тобою!
 
 
 #----------------------------------------------------
 # Ott
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Oh no... Graff.
-PC20_AFTEREXPLOSION8-1=Ой ні... Граффе.
+PC20_AFTEREXPLOSION8-1=О ні... Граффе.
 
 
 # Ott
@@ -5936,7 +5936,7 @@ PC20_AFTEREXPLOSION9-4=Він на це заслужив...! Він хотів �
 
 # Brok
 ### This time... he won't get away with this!
-PC20_AFTEREXPLOSION9-5=Цього разу... він за це не відкрутиться!
+PC20_AFTEREXPLOSION9-5=Цього разу... йому це не зійде з рук!
 
 
 #----------------------------------------------------
@@ -6031,7 +6031,7 @@ PC20_CHECKBRAWL_VIOLENCE2-1=...
 
 # Ott
 ### Oh no...
-PC20_CHECKBRAWL_VIOLENCE2-2=Ой ні...
+PC20_CHECKBRAWL_VIOLENCE2-2=О ні...
 
 
 # Ott
@@ -6078,7 +6078,7 @@ PC20_CHECKBRAWL_NORMAL-3=Колись...
 
 # Chiefrat
 ### I'll get ya... and yer boy...
-PC20_CHECKBRAWL_NORMAL-4=Я тебе дістану... і твого малого...
+PC20_CHECKBRAWL_NORMAL-4=Я дістану тебе... і твого малого...
 
 
 # Chiefrat
@@ -6104,7 +6104,7 @@ PC20_CHECKBRAWL_NORMAL2-3=Те, що він зробив...
 
 # Brok
 ### I... I couldn't bare the thought...
-PC20_CHECKBRAWL_NORMAL2-4=Я... я не міг витримати цієї думки...
+PC20_CHECKBRAWL_NORMAL2-4=Я... Я не міг змиритися з цією думкою...
 
 
 #----------------------------------------------------
@@ -6120,7 +6120,7 @@ PC20_CHECKBRAWL_NORMALDEE-2=Я знаю...
 
 # Dee
 ### But I'm not the one you should apologize to.
-PC20_CHECKBRAWL_NORMALDEE-3=Але не переді мною тобі слід вибачатися.
+PC20_CHECKBRAWL_NORMALDEE-3=Але я не та, перед ким тобі слід вибачатися.
 
 
 # Brok
@@ -6137,7 +6137,7 @@ PC20_AFTERGRAFF1-1=...?
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff...? Where did he go?
-PC20_AFTERGRAFF1-2=Граффе...? Куди він подівся?
+PC20_AFTERGRAFF1-2=Графф...? Куди він подівся?
 
 
 # Ott
@@ -6158,17 +6158,17 @@ PC20_AFTERGRAFF1-5=Пане Броку...
 
 # Ott
 ### I don't know what the rat told him but...
-PC20_AFTERGRAFF1-6=Не знаю, що йому сказав щур, але...
+PC20_AFTERGRAFF1-6=Не знаю, що йому сказав цей щур, але...
 
 
 # Ott
 ### Ever since we've escaped, he's been acting strange.
-PC20_AFTERGRAFF1-7=Відколи ми втекли, він поводиться дивно.
+PC20_AFTERGRAFF1-7=Відколи ми втекли, він поводиться якось дивно.
 
 
 # Ott
 ### Talk to him.
-PC20_AFTERGRAFF1-8=Поговоріть з ним.
+PC20_AFTERGRAFF1-8=Поговоріть із ним.
 
 
 #----------------------------------------------------
@@ -6190,17 +6190,17 @@ PC20_AFTERGRAFF1_DEE-3=Але спершу...
 # Brok
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee. Let me help you.
-PC20_AFTERGRAFF1_DEE-4=Ді. Дай я тобі допоможу.
+PC20_AFTERGRAFF1_DEE-4=Ді. Дозволь я тобі допоможу.
 
 
 # Dee
 ### No. Don't worry about me. I can walk now.
-PC20_AFTERGRAFF1_DEE-5=Ні. Не переймайся мною. Я вже можу йти.
+PC20_AFTERGRAFF1_DEE-5=Ні. Не переймайся. Я вже можу йти.
 
 
 # Dee
 ### You deserve some time with your son.
-PC20_AFTERGRAFF1_DEE-6=Ти заслуговуєш на час із сином.
+PC20_AFTERGRAFF1_DEE-6=Ти заслуговуєш на час зі своїм сином.
 
 
 # Dee
@@ -6210,28 +6210,28 @@ PC20_AFTERGRAFF1_DEE-7=Ти щойно врятував наш світ, ков�
 
 # Brok
 ### Did I?...
-PC20_AFTERGRAFF1_DEE-8=Хіба я...?
+PC20_AFTERGRAFF1_DEE-8=Хіба...?
 
 
 # Brok
 ### What's gonna happen...
-PC20_AFTERGRAFF1_DEE-9=Що тепер буде...
+PC20_AFTERGRAFF1_DEE-9=І що тепер буде...
 
 
 # Brok
 ### Now that no one's in charge of our country?
-PC20_AFTERGRAFF1_DEE-10=Тепер, коли нашою країною ніхто не керує?
+PC20_AFTERGRAFF1_DEE-10=Коли нашою країною більше ніхто не керує?
 
 
 # Dee
 ### The world can run itself for now.
-PC20_AFTERGRAFF1_DEE-11=Поки що світ дасть собі раду.
+PC20_AFTERGRAFF1_DEE-11=Цей світ дасть собі раду.
 
 
 # Ott
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Let us worry about this later, Mister Brok.
-PC20_AFTERGRAFF1_DEE-12=Про це подбаємо згодом, пане Броку.
+PC20_AFTERGRAFF1_DEE-12=Ми подбаємо про це згодом, пане Броку.
 
 
 # Dee
@@ -6242,7 +6242,7 @@ PC20_AFTERGRAFF1_DEE-13=Нумо! Біжи!
 #----------------------------------------------------
 # Brok
 ### Not yet...
-PC20_AFTERGRAFF1B_DEEDEAD-1=Ще не зараз...
+PC20_AFTERGRAFF1B_DEEDEAD-1=Ще ні...
 
 
 #----------------------------------------------------
@@ -6265,7 +6265,7 @@ PC20_AFTERGRAFF1B_DEEDEAD2-3=Твоя донька завжди пишатиме
 
 # Brok
 ### Everyone shall know your courage.
-PC20_AFTERGRAFF1B_DEEDEAD2-4=Усі дізнаються про твою мужність.
+PC20_AFTERGRAFF1B_DEEDEAD2-4=Усі дізнаються про твою хоробрість.
 
 
 # Brok
@@ -6301,7 +6301,7 @@ PC20_AFTERGRAFF1B_DEEDEAD2-10=Так.
 
 # Ott
 ### Go.
-PC20_AFTERGRAFF1B_DEEDEAD2-11=Ідіть.
+PC20_AFTERGRAFF1B_DEEDEAD2-11=Можете йти.
 
 
 #----------------------------------------------------
@@ -6360,7 +6360,7 @@ PC20_ENDINGB2-5=Якби ж я знав.
 
 # Brok
 ### Whoever did this... is gonna pay!
-PC20_ENDINGB2-6=Хто б це не зробив... за це заплатить!
+PC20_ENDINGB2-6=Хто б це не зробив... він за це заплатить!
 
 
 #----------------------------------------------------
@@ -6404,7 +6404,7 @@ PC20_INITB_BEFOREFIGHT1B-4=Отте!
 
 # Ott
 ### I... I'll go fetch help!
-PC20_INITB_BEFOREFIGHT1B-5=Я... я піду по допомогу!
+PC20_INITB_BEFOREFIGHT1B-5=Я... Я піду по допомогу!
 
 
 #----------------------------------------------------
@@ -6436,7 +6436,7 @@ PC20_INITB_BEFOREFIGHT2-5=Граффе...?
 
 # Graff
 ### There's so many. You need me!
-PC20_INITB_BEFOREFIGHT2-6=Їх так багато. Я тобі потрібен!
+PC20_INITB_BEFOREFIGHT2-6=Їх так багато. Тобі потрібна моя допомога!
 
 
 # Brok
@@ -6476,7 +6476,7 @@ PC20_INITB_BEFOREFIGHT2-13=Через мій егоїзм... сьогодні х
 
 # Graff
 ### I... gotta make up for it!
-PC20_INITB_BEFOREFIGHT2-14=Я... мушу це спокутувати!
+PC20_INITB_BEFOREFIGHT2-14=Я... мушу спокутувати провину!
 
 
 # Graff
@@ -6506,12 +6506,12 @@ PC20_INITB_BEFOREFIGHT2-19=Тримайся ближче.
 
 # Brok
 ### We'll get through this! I promise!
-PC20_INITB_BEFOREFIGHT2-20=Ми впораємося! Обіцяю!
+PC20_INITB_BEFOREFIGHT2-20=Ми прорвемося! Обіцяю!
 
 
 # Graff
 ### Here they come!
-PC20_INITB_BEFOREFIGHT2-21=Ось вони!
+PC20_INITB_BEFOREFIGHT2-21=Ось і вони!
 
 
 #----------------------------------------------------
@@ -6544,7 +6544,7 @@ PC20_INITB_ENDFIGHT2-3=Ти нас урятував!
 
 # Brok
 ### Thanks. We owe you one!
-PC20_INITB_ENDFIGHT2-4=Дякую. Ми в тебе в боргу!
+PC20_INITB_ENDFIGHT2-4=Дякую. Ми у тебе в боргу!
 
 
 # Ott
@@ -6569,24 +6569,24 @@ PC20_INITB_ENDFIGHT2-8=Ой, ну годі!
 
 # Brok
 ### I couldn't have made it without you, son.
-PC20_INITB_ENDFIGHT2-9=Без тебе я б не впорався, сину.
+PC20_INITB_ENDFIGHT2-9=Без тебе я б не впорався, синку.
 
 
 #----------------------------------------------------
 # Brok
 ### Back on earth now, eh?...
-PC20_INITB_BEFOREFIGHT4-1=Повертаємось на землю, га...?
+PC20_INITB_BEFOREFIGHT4-1=Повернувся на землю, га...?
 
 
 #----------------------------------------------------
 # Ott
 ### Guys...
-PC20_INITB_BEFOREFIGHT5-1=Хлопці...
+PC20_INITB_BEFOREFIGHT5-1=Народ...
 
 
 # Ott
 ### I gotta check on my parents...
-PC20_INITB_BEFOREFIGHT5-2=Мені треба провідати батьків...
+PC20_INITB_BEFOREFIGHT5-2=Мені треба перевірити, як там мої батьки...
 
 
 # Ott
@@ -6696,7 +6696,7 @@ PC20_RUPTURE1-11=Знищити...?
 
 # Ott
 ### The shortage... It was you?...
-PC20_RUPTURE1-12=Нестача... То це ти...?
+PC20_RUPTURE1-12=Нестача... То це був ти...?
 
 
 # Ott
@@ -6712,22 +6712,22 @@ PC20_RUPTURE1-14=...
 #----------------------------------------------------
 # Wes
 ### I never wanted you to see me like this...
-PC20_RUPTURE2-1=Я не хотів, щоб ви бачили мене таким...
+PC20_RUPTURE2-1=Я не хотів, щоб ти бачив мене таким...
 
 
 # Wes
 ### But hear me.
-PC20_RUPTURE2-2=Але вислухайте мене.
+PC20_RUPTURE2-2=Але вислухай.
 
 
 # Wes
 ### I'm doing this for you. And everyone else who deserves it.
-PC20_RUPTURE2-3=Я роблю це для вас. І для всіх інших, хто на це заслуговує.
+PC20_RUPTURE2-3=Я роблю це для тебе. І для всіх інших, хто на це заслуговує.
 
 
 # Wes
 ### For a better life.
-PC20_RUPTURE2-4=За краще життя.
+PC20_RUPTURE2-4=Заради кращого життя.
 
 
 # Graff
@@ -6738,7 +6738,7 @@ PC20_RUPTURE2-5=Ти божевільний!
 # Wes
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### The Slums have no future. This plague which will spread sooner or later and take everyone down with it.
-PC20_RUPTURE2-6=У Нетрів немає майбутнього. Ця пошесть, що рано чи пізно пошириться й потягне за собою всіх.
+PC20_RUPTURE2-6=У Нетрів немає майбутнього. Ця чума рано чи пізно пошириться й потягне за собою всіх.
 
 
 # Wes
@@ -6754,7 +6754,7 @@ PC20_RUPTURE3-1=Діти. Вам треба піти.
 
 # Wes
 ### Allow me to get rid of that croc.
-PC20_RUPTURE3-2=Дозвольте мені позбутися цього крокодила.
+PC20_RUPTURE3-2=Я збираюся позбутися цього крокодила.
 
 
 # Wes
@@ -6769,17 +6769,17 @@ PC20_RUPTURE3-4=Що...?
 
 # Wes
 ### Within you lies a potential cure to the pollution.
-PC20_RUPTURE3-5=У тобі - потенційні ліки від забруднення.
+PC20_RUPTURE3-5=У твоєму тілі - потенційні ліки від забруднення.
 
 
 # Wes
 ### If such a thing was made possible. All I've worked for would be for naught.
-PC20_RUPTURE3-6=Якби таке стало можливим. Усе, над чим я працював, пішло б намарне.
+PC20_RUPTURE3-6=Якби таке стало можливим... Усе, над чим я працював, пішло б нанівець.
 
 
 # Wes
 ### I don't have a choice. You must be eliminated!
-PC20_RUPTURE3-7=У мене немає вибору. Тебе треба знищити!
+PC20_RUPTURE3-7=Вибору немає. Я мушу тебе знищити!
 
 
 #----------------------------------------------------
@@ -6811,7 +6811,7 @@ PC20_RUPTURE4-5=Я тобі наказую!
 
 # Graff - Graff does the same
 ### Me too.
-PC20_RUPTURE4-6=Я теж.
+PC20_RUPTURE4-6=Мене теж.
 
 
 # Brok
@@ -6836,7 +6836,7 @@ PC20_RUPTURE4-10=Не знаю, що зробило з тебе такого м�
 
 # Ott
 ### You're wrong! There's always another choice!
-PC20_RUPTURE4-11=Ти помиляєшся! Завжди є інший вибір!
+PC20_RUPTURE4-11=Але ти помиляєшся! Завжди є інший вибір!
 
 
 # Wes
@@ -6857,12 +6857,12 @@ PC20_RUPTURE5-2=Ти маєш рацію.
 
 # Wes
 ### There's another way.
-PC20_RUPTURE5-3=Є інший шлях.
+PC20_RUPTURE5-3=Є інший варіант.
 
 
 # Wes
 ### I'll just have to eliminate the root of the problem.
-PC20_RUPTURE5-4=Мені просто доведеться усунути корінь проблеми.
+PC20_RUPTURE5-4=Мені просто потрібно усунути корінь проблеми.
 
 
 #----------------------------------------------------
@@ -6888,7 +6888,7 @@ PC20_RUPTURE5B-4=Твоя мати. Твоя сім'я.
 
 # Wes
 ### This world and I wouldn't have turned into this...
-PC20_RUPTURE5B-5=Цей світ і я не стали б такими...
+PC20_RUPTURE5B-5=Ні я, ні цей світ не стали б такими...
 
 
 # Wes
@@ -6913,7 +6913,7 @@ PC20_RUPTURE5B-9=І я це виправлю!
 
 # Brok - Brok puts himself in front of Graff to protect him and gets zapped in his place
 ### Nooooo!
-PC20_RUPTURE5B-10=Ніііі!
+PC20_RUPTURE5B-10=Ні-іііі!
 
 
 #----------------------------------------------------
@@ -6935,7 +6935,7 @@ PC20_RUPTURE6-3=Він... Він...?
 
 # Dee
 ### He's still breathing...
-PC20_RUPTURE6-4=Він ще дихає...
+PC20_RUPTURE6-4=Він все ще дихає...
 
 
 # Dee
@@ -6982,7 +6982,7 @@ PC20_RUPTURE6C-1=Дядьку...!
 
 # Dee
 ### Let him go.
-PC20_RUPTURE6C-2=Відпусти його.
+PC20_RUPTURE6C-2=Хай йде.
 
 
 # Dee
@@ -7022,7 +7022,7 @@ PC20_RUPTURE6C-9=Допоможіть мені!
 
 # Dee
 ### ...Urgh...!
-PC20_RUPTURE6C-10=...Уф...!
+PC20_RUPTURE6C-10=...Ух...!
 
 
 # Graff
@@ -7065,7 +7065,7 @@ PC20_RUPTURE7-4=Броку!
 
 # Graff
 ### Take it easy!
-PC20_RUPTURE7-5=Заспокойся!
+PC20_RUPTURE7-5=Спокійно!
 
 
 # Brok
@@ -7107,7 +7107,7 @@ PC20_RUPTURE7-12=Ага.
 
 # Graff
 ### Everyone's safe for now. Thanks to you.
-PC20_RUPTURE7-13=Поки що всі в безпеці. Завдяки тобі.
+PC20_RUPTURE7-13=Зараз усі в безпеці. Завдяки тобі.
 
 
 # Brok
@@ -7139,7 +7139,7 @@ PC20_RUPTURE7-18=Нас усіх оголосили почесними гром�
 
 # Brok
 ### Us?...
-PC20_RUPTURE7-19=Нас...?
+PC20_RUPTURE7-19=Ми...?
 
 
 # Brok
@@ -7164,12 +7164,12 @@ PC20_RUPTURE7-23=Не вибачайся. Я наробив у житті біл
 
 # Brok
 ### Well then! I feel ready to...
-PC20_RUPTURE7-24=Ну, тоді! Я вже готовий...
+PC20_RUPTURE7-24=Ну, добре! Тоді я вже готовий до...
 
 
 # Brok
 ### ...Urgh...
-PC20_RUPTURE7-25=...Уф...
+PC20_RUPTURE7-25=...Ух...
 
 
 # Brok
@@ -7234,7 +7234,7 @@ PC20_RUPTURE7-37=Коли він вистрелив у тебе... Твій хр
 
 # Graff
 ### ...has been permanently damaged.
-PC20_RUPTURE7-38=...безповоротно ушкоджений.
+PC20_RUPTURE7-38=...був безповоротно ушкоджений.
 
 
 # Brok
@@ -7260,7 +7260,7 @@ PC20_RUPTURE7-42=Це все моя провина...
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff! Don't tell me you believe what this broken bot from hell said?
-PC20_RUPTURE7-43=Граффе! Не кажи, що ти повірив цьому зламаному боту з пекла?
+PC20_RUPTURE7-43=Граффе! Не кажи, що ти повірив цьому пекельному боту?
 
 
 # Graff
@@ -7271,7 +7271,7 @@ PC20_RUPTURE7-44=Але... Якби я не прийшов...
 # Brok
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Then he would probably have destroyed us. And the Slums in the process.
-PC20_RUPTURE7-45=Тоді він, ймовірно, знищив би нас. А разом з нами - і Нетрі.
+PC20_RUPTURE7-45=Тоді він, ймовірно, знищив би нас. А разом з нами - і всі Нетрі.
 
 
 # Brok
@@ -7324,7 +7324,7 @@ PC20_RUPTURE7B-6=Е...?
 
 # Brok
 ### You know! She's...
-PC20_RUPTURE7B-7=Та знаєш! Вона...
+PC20_RUPTURE7B-7=Ну, знаєш! Вона...
 
 
 # Brok
@@ -7344,7 +7344,7 @@ PC20_RUPTURE7B-10=Це... дивно.
 
 # Brok
 ### I can't remember.
-PC20_RUPTURE7B-11=Я не пам'ятаю.
+PC20_RUPTURE7B-11=Я не можу згадати.
 
 
 # Graff
@@ -7366,7 +7366,7 @@ PC20_RUPTURE7B-14=Вес досі може десь вештатися.
 
 # Graff
 ### I shouldn't care anymore but...
-PC20_RUPTURE7B-15=Мені вже мало б бути байдуже, але...
+PC20_RUPTURE7B-15=Мені вже не слід було б перейматися цим, але...
 
 
 # Brok
@@ -7376,7 +7376,7 @@ PC20_RUPTURE7B-16=Це нормально.
 
 # Brok
 ### No matter how corrupt this place is, you've grown attached.
-PC20_RUPTURE7B-17=Хоч яким би прогнилим не було це місце, ти до нього прикипів.
+PC20_RUPTURE7B-17=Хоч би яким гнилим не було це місце, ти вже прив'язався до нього.
 
 
 # Brok
@@ -7401,13 +7401,13 @@ PC20_RUPTURE7B-21=Стривай!
 
 # Brok
 ### Maybe I can.
-PC20_RUPTURE7B-22=Може, я таки можу.
+PC20_RUPTURE7B-22=Мабуть, я таки можу.
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### There's one thing Wes was right about...
-PC20_RUPTURE7B-23=В одному Вес таки мав рацію...
+PC20_RUPTURE7B-23=В одному Вес мав рацію...
 
 
 # Brok
@@ -7427,7 +7427,7 @@ PC20_RUPTURE7B-26=Чомусь... ти унікальний.
 
 # Graff
 ### One minute...
-PC20_RUPTURE7B-27=Хвилинку...
+PC20_RUPTURE7B-27=Стривай...
 
 
 # Graff
@@ -7531,7 +7531,7 @@ PC20_RUPTURE8-9=Наш світ не змінився.
 # Brok
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
 ### The Dome was still standing... And I felt ashamed to be safe inside when others were suffering out there.
-PC20_RUPTURE8-10=Купол усе ще стояв... І мені було соромно, що я в безпеці всередині, тимчасом як інші страждають там, зовні.
+PC20_RUPTURE8-10=Купол усе ще стояв... І мені було соромно, що я лишаюся в безпеці всередині, тимчасом як інші страждають там, зовні.
 
 
 # Brok
@@ -7548,12 +7548,12 @@ PC20_RUPTURE8-12=Графф і Отт зуміли зібрати команду
 
 # Brok
 ### And if there certainly are bad sides to science...
-PC20_RUPTURE8-13=І хоч у науки справді є погані боки...
+PC20_RUPTURE8-13=І виявилося, що наука, з усіма її негативними сторонами...
 
 
 # Brok
 ### It can also make miracles.
-PC20_RUPTURE8-14=Вона також може творити дива.
+PC20_RUPTURE8-14=Також може творити дива.
 
 
 # Brok
@@ -7580,29 +7580,29 @@ PC20_RUPTURE9-3=Зустрічайте...
 
 # Various
 ### Our national hero...
-PC20_RUPTURE9-4=Нашого національного героя...
+PC20_RUPTURE9-4=Наш національний герой...
 
 
 # Various
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok!
-PC20_RUPTURE9-5=Броку!
+PC20_RUPTURE9-5=Брок!
 
 
 # Brok
 ### I'm ready!
-PC20_RUPTURE9-6=Я готовий!
+PC20_RUPTURE9-6=Я готовий до бою!
 
 
 #----------------------------------------------------
 # Tribot
 ### They were the heroes?
-PC20_FIGHTTOGETHER_GAMEOVER-1=То це були герої?
+PC20_FIGHTTOGETHER_GAMEOVER-1=То вони були героями?
 
 
 # Tribot
 ### If only we could laugh! Alas, we cannot.
-PC20_FIGHTTOGETHER_GAMEOVER-2=Якби ж ми могли сміятися! На жаль, не можемо.
+PC20_FIGHTTOGETHER_GAMEOVER-2=Якби ж ми могли сміятися! Але, на жаль, не можемо.
 
 
 #----------------------------------------------------
@@ -7615,12 +7615,12 @@ PC20_GRAFF_KO-1=Граффе...!
 #----------------------------------------------------
 # Wes
 ### Already?
-PC20_FIGHT1_GAMEOVER-1=Уже?
+PC20_FIGHT1_GAMEOVER-1=І це все?
 
 
 # Wes
 ### Up until the end, you've been a disappointment, Pork.
-PC20_FIGHT1_GAMEOVER-2=До самого кінця ти був розчаруванням, Борку.
+PC20_FIGHT1_GAMEOVER-2=Ти до самого кінця залишався суцільним розчаруванням, Борку.
 
 
 #----------------------------------------------------
@@ -7655,7 +7655,7 @@ COOP_PC20_WES1-1=Ну, стривай, стародавня штуко...
 
 # Unknown
 ### Or should I say...you *spoilers*
-COOP_PC20_WES1-2=А може, краще сказати... ти *спойлери*
+COOP_PC20_WES1-2=А може, краще сказати... *спойлери*
 
 
 # Unknown
