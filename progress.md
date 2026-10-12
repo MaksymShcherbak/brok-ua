@@ -92,4 +92,4 @@
 | TPC21     | Postponed           | To Do         |
 | TSP01     | To Do               | To Do         |
 | TSP02     | To Do               | To Do         |
-| TSUMMARY  | To Do               | To Do         |
+| TSUMMARY  | Done                | Done          |

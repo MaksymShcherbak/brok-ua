@@ -5,967 +5,967 @@
 
 #----- Translations --------
 ### Current path
-SUMMARY_PATHCURRENT=
+SUMMARY_PATHCURRENT=Поточний шлях
 
 ### Past paths
-SUMMARY_PATHPAST=
+SUMMARY_PATHPAST=Минулі шляхи
 
 ### Unexplored paths
-SUMMARY_PATHUNEXPLORED=
+SUMMARY_PATHUNEXPLORED=Нерозвідані шляхи
 
 
 ### Close the summary?
-SUMMARY_CHOICE=
+SUMMARY_CHOICE=Закрити підсумок?
 
 
 # Chapter 1
 ### Get rid of the cleaning bot
-PC01_DESTROY_HOOVER=
+PC01_DESTROY_HOOVER=Позбутися пилососа
 
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 ### Tramp attacked
-PC03_TRAMP_ATTACKED=
+PC03_TRAMP_ATTACKED=Волоцюга напав
 
 #PC03_TRAMP_KILLED=Tramp asks to get him out of his misery
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 ### Tramp's fate
-PC03_TRAMP_FATE=
+PC03_TRAMP_FATE=Доля Волоцюги
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
 ### Bolt saved
-PC12_IS_BOLT_SHAY=
+PC12_IS_BOLT_SHAY=Болта врятовано
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
 ### What happens to Bolt
-PC12_IS_BOLT_DEAD=
+PC12_IS_BOLT_DEAD=Що сталося з Болтом
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribot cop
-PC04_HAS_MESSED_COP=
+PC04_HAS_MESSED_COP=Трибот-коп
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### The Squealers
-PC05B_DEFEATED_ENEMIES=
+PC05B_DEFEATED_ENEMIES=Верескуни
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Defeat Sin
-PC07B_DEFEAT_SIN=
+PC07B_DEFEAT_SIN=Перемогти Сіна
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin's robbery
-PC07B_TRUST_SIN=
+PC07B_TRUST_SIN=Пограбування Сіна
 
 
 # Later chapters
 ### Successfully escaped
-PC09_ESCAPED=
+PC09_ESCAPED=Успішна втеча
 
 ### (< 15 min)
-PC09_ESCAPED_DETAIL=
+PC09_ESCAPED_DETAIL=(< 15 хв)
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Cheer up Sin
-PC09B_HAS_CHEEREDUP=
+PC09B_HAS_CHEEREDUP=Підбадьорити Сіна
 
 ### Escape from jail
-PC09B_HAS_KILLED_RJ=
+PC09B_HAS_KILLED_RJ=Втеча з в'язниці
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay bickering
-PC10_FIRSTFIGHT_KLAY=
+PC10_FIRSTFIGHT_KLAY=Сварка з Клеєм
 
 ### The inventions
-PC10_CHOICE_MESSUP=
+PC10_CHOICE_MESSUP=Винаходи
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok arrived on time
-PC10_CHOICE_BROKONTIME=
+PC10_CHOICE_BROKONTIME=Брок прийшов вчасно
 
 ### Explanation given
-PC01_STORY110_EXPLANATION=
+PC01_STORY110_EXPLANATION=Пояснення дано
 
 ### Drone
-PC06_HAS_FLEED_DRONE=
+PC06_HAS_FLEED_DRONE=Дрон
 
 ### Prepare dinner
-PC01_STORY110_RATING=
+PC01_STORY110_RATING=Приготувати вечерю
 
 ### Write message
-PC01_STORY180_WRITE_CHOICE=
+PC01_STORY180_WRITE_CHOICE=Написати повідомлення
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Fight against Dee
-BM02_FIGHT_OUTCOME=
+BM02_FIGHT_OUTCOME=Бій проти Ді
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Fight against R.J.
-BM02_FIGHT_OUTCOME2=
+BM02_FIGHT_OUTCOME2=Бій проти Р. Джея
 
 ### Nightmare fight
-PC11D_OUTCOME=
+PC11D_OUTCOME=Бій у кошмарі
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Child Graff
-PC11D_OUTCOME2=
+PC11D_OUTCOME2=Малий Графф
 
 ### Escape police department
-PC09_STORY100_HASTRIGGEREDALARM=
+PC09_STORY100_HASTRIGGEREDALARM=Втеча з відділку поліції
 
 # NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
 ### Given glucosite
-PC03_HAS_GIVEN_GLUCOSITE=
+PC03_HAS_GIVEN_GLUCOSITE=Глюкозит дано
 
 
 
 ### Who has priority?
-PC01_STORY140_CHOICE=
+PC01_STORY140_CHOICE=Хто має пріоритет?
 
 ### Given the chip
-PC10_DIRECTOR_GIVEN_CHIP=
+PC10_DIRECTOR_GIVEN_CHIP=Чип дано
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### Meet the Director
-PC14B_DIRECTOR_MEET=
+PC14B_DIRECTOR_MEET=Зустріч із Директоркою
 
 ### Accepted to help?
-PC14B_DIRECTOR_HELP=
+PC14B_DIRECTOR_HELP=Погодився допомогти?
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker's blackmail
-PC14B_HACKER_BLACKMAIL=
+PC14B_HACKER_BLACKMAIL=Шантаж Гакера
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Enter hacker's place
-PC14B_RJ_FOOLED=
+PC14B_RJ_FOOLED=Увійти до Гакера
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Convince hacker
-PC14C_DECISION=
+PC14C_DECISION=Переконати Гакера
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Director's decision for Graff
-PC10_DECISION_GRAFF=
+PC10_DECISION_GRAFF=Рішення Директорки щодо Граффа
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Penetrate Wes' office
-PC09_HAS_KILLED_BLINDBOT=
+PC09_HAS_KILLED_BLINDBOT=Пробратися до кабінету Веса
 
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Distract Ott
-PC09C_OTT_HASLEFT=
+PC09C_OTT_HASLEFT=Відволікти Отта
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Access Wes' computer
-PC09C_HAS_HIT_COMPUTER=
+PC09C_HAS_HIT_COMPUTER=Доступ до комп'ютера Веса
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Access Dr. Mink's room
-PC15B_CONVINCE_MINKOUT=
+PC15B_CONVINCE_MINKOUT=Доступ до кімнати д-ра Мінка
 
 ### Investigation solved
-PC15B_INVESTIGATION_RESULT=
+PC15B_INVESTIGATION_RESULT=Розслідування завершено
 
 ### Who we charged
-PC15D_CHARGED=
+PC15D_CHARGED=Кого ми звинуватили
 
 # "Chained" is for the trial part with Klay & Graff where one of them gets stuck to a wall
 ### Decide who gets chained
-PC19B_WHO=
+PC19B_WHO=Визначити, кого прикують
 
 ### Who really gets chained
-PC19B_WHO_REAL=
+PC19B_WHO_REAL=Кого насправді прикують
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay session
-PC19B_KLAY=
+PC19B_KLAY=Сеанс Клея
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff session
-PC19B_GRAFF=
+PC19B_GRAFF=Сеанс Граффа
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Free Klay
-PC19B_FREE_KLAY=
+PC19B_FREE_KLAY=Звільнити Клея
 
 ### Pill quest
-PC19D_OUTCOME=
+PC19D_OUTCOME=Завдання з пігулками
 
 ### Given prescription
-PC03_HAS_GIVEN_MEDICINE=
+PC03_HAS_GIVEN_MEDICINE=Рецепт дано
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### A pill for Graff
-PC01_STORY180_PILL_CHOICE=
+PC01_STORY180_PILL_CHOICE=Пігулка для Граффа
 
 ### Item given
-PC01_ITEM_GIFT=
+PC01_ITEM_GIFT=Предмет дано
 
 ### Bills
-PC03_HAS_BEAT_BILLDRONES=
+PC03_HAS_BEAT_BILLDRONES=Рахунки
 
 ### Materials given
-MATERIALS_GIVEN=
+MATERIALS_GIVEN=Матеріали дано
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Make Dr. Gherkin come out
-PC18_HAS_BROKEN_DOOR=
+PC18_HAS_BROKEN_DOOR=Виманити д-ра Геркіна
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Saving R.J. or Dr. Gherkin
-PC14B_RJ_SAVED=
+PC14B_RJ_SAVED=Врятувати Р. Джея чи д-ра Геркіна
 
 # NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
 ### Escape with Dr. Gherkin
-PC12_BOTS_END=
+PC12_BOTS_END=Втеча з д-ром Геркіном
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Get rid of the Squealer on the way
-PC14_GHERKIN_RAT_DEFEATED=
+PC14_GHERKIN_RAT_DEFEATED=Позбутися Верескуна дорогою
 
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### Stubot's fate
-PC10_HAS_KILLED_STUBOT=
+PC10_HAS_KILLED_STUBOT=Доля Студбота
 
 ### Last trial
-PC17_HAS_WON_PIANO=
+PC17_HAS_WON_PIANO=Останнє випробування
 
 ### Get diploma
-PC10_GRAFF_HAS_PASSED=
+PC10_GRAFF_HAS_PASSED=Отримати диплом
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Squealers ambush
-PC14_CAPTURED_HOW=
+PC14_CAPTURED_HOW=Засідка Верескунів
 
 ### Bomb choice vs Exam
-PC05D_BOMBCHOICE=
+PC05D_BOMBCHOICE=Бомба чи іспит
 
 ### Escaping
-PC05D_GRAFF_ESCAPED=
+PC05D_GRAFF_ESCAPED=Втеча
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin's fate
-SIN_CONDITION=
+SIN_CONDITION=Доля Сіна
 
 ### (Relationship > 80%)
-SIN_CONDITION_DETAIL=
+SIN_CONDITION_DETAIL=(Стосунки > 80%)
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Who goes to rescue Graff
-PC14_GRAFFORDEE=
+PC14_GRAFFORDEE=Хто йде рятувати Граффа
 
 ### Find the truth
-PC20_INTERROGATION_COMPLETED=
+PC20_INTERROGATION_COMPLETED=Знайти правду
 
 ### Last words
-PC20_LASTWORD=
+PC20_LASTWORD=Останні слова
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee fights
-PC20_IS_DEE_KILLED=
+PC20_IS_DEE_KILLED=Ді б'ється
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Chief Squealer fate
-PC20_IS_RATCHIEF_KILLED=
+PC20_IS_RATCHIEF_KILLED=Доля шефа Верескунів
 
 ### (Brawl > 80%)
-PC20_IS_RATCHIEF_KILLED_DETAIL=
+PC20_IS_RATCHIEF_KILLED_DETAIL=(Бійка > 80%)
 
 ### In front of the machine
-PC08B_HAS_OPENED_EGG=
+PC08B_HAS_OPENED_EGG=Перед машиною
 
 ### It worked
-PC08B_IS_MACHINE_FIXED=
+PC08B_IS_MACHINE_FIXED=Спрацювало
 
 ### Secret drawer
-PC08C_UNLOCKED_DRAWER=
+PC08C_UNLOCKED_DRAWER=Таємна шухляда
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff and Brok
-GRAFF_RELATION=
+GRAFF_RELATION=Графф і Брок
 
 ### (Relationship > 80%)
-GRAFF_RELATION_DETAIL=
+GRAFF_RELATION_DETAIL=(Стосунки > 80%)
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Fight Chief Squealer
-FIGHT_CHIEFRAT=
+FIGHT_CHIEFRAT=Бій із шефом Верескунів
 
 ### Sewers mines
-PC07B_RAT_MINES=
+PC07B_RAT_MINES=Міни в каналізації
 
 ### Pyramid lasers
-PC12B_LASERS_DISABLE=
+PC12B_LASERS_DISABLE=Лазери піраміди
 
 ### Open the manhole
-PC04B_SEWERS_MANHOLE=
+PC04B_SEWERS_MANHOLE=Відкрити люк
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin's entrance code
-PC06_TYPE_CRACKED=
+PC06_TYPE_CRACKED=Код від дверей Сіна
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Bunker puzzles solved
-PC19_PUZZLES=
+PC19_PUZZLES=Головоломки в бункері розв'язано
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Confrontation with Graff
-PC01_CONFRONTATION=
+PC01_CONFRONTATION=Протистояння з Граффом
 
 ### Cleaning bot
-PC08B_HOOVER_DESTINY=
+PC08B_HOOVER_DESTINY=Пилосос
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Did Ott leave?
-PC17_HAS_HIT_OTT_LEFT=
+PC17_HAS_HIT_OTT_LEFT=Отт пішов?
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Selfie with Graff
-PC13_HAS_TAKEN_SELFIE=
+PC13_HAS_TAKEN_SELFIE=Селфі з Граффом
 
 ### (Relationship > 55%)
-PC13_HAS_TAKEN_SELFIE_DETAIL=
+PC13_HAS_TAKEN_SELFIE_DETAIL=(Стосунки > 55%)
 
 ### Score exam
-PC10_SCORE_GRAFF1=
+PC10_SCORE_GRAFF1=Оцінка за іспит
 
 ### Score fair
-PC10_SCORE_GRAFF2=
+PC10_SCORE_GRAFF2=Оцінка за ярмарок
 
 ### Score bunker
-PC10_SCORE_GRAFF3=
+PC10_SCORE_GRAFF3=Оцінка за бункер
 
 ### Score last trial
-PC10_SCORE_GRAFF4=
+PC10_SCORE_GRAFF4=Оцінка за останнє випробування
 
 ### Escape the bunker
-PC19B_GOOUT_BUNKER=
+PC19B_GOOUT_BUNKER=Втекти з бункера
 
 ### Interrogation replies
-PC09D_INTERROGATION=
+PC09D_INTERROGATION=Відповіді на допиті
 
 ### How you depicted yourself
-PC09D_DEPICT=
+PC09D_DEPICT=Як ви себе зобразили
 
 ### Last bill paid?
-PC04_HAS_PAID_BILLC=
+PC04_HAS_PAID_BILLC=Останній рахунок оплачено?
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Rescue Sin
-PC19D_CHOICE_EXITSIN=
+PC19D_CHOICE_EXITSIN=Врятувати Сіна
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Is Sin alive?
-PC19D_SINALIVE=
+PC19D_SINALIVE=Сін живий?
 
 ### Who renewed the prescription?
-PC03_HAS_UPDATED_PRESCRIPTION=
+PC03_HAS_UPDATED_PRESCRIPTION=Хто поновив рецепт?
 
 ### Who unlocks the bunker?
-PC19C_WHO_FIGHTS=
+PC19C_WHO_FIGHTS=Хто відкриває бункер?
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Who is chased by the Tribots?
-PC15_WHO_CHASED=
+PC15_WHO_CHASED=За ким женуться Триботи?
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Does R.J. survive?
-PC14B_RJ_SURVIVE=
+PC14B_RJ_SURVIVE=Р. Джей вижив?
 
 ### (Relationship > 35%)
-PC14B_RJ_SURVIVE_DETAIL=
+PC14B_RJ_SURVIVE_DETAIL=(Стосунки > 35%)
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Does Klay apologize?
-PC10_KLAY_APOLOGIZE=
+PC10_KLAY_APOLOGIZE=Клей вибачився?
 
 ### (Relationship > 50%)
-PC10_KLAY_APOLOGIZE_DETAIL=
+PC10_KLAY_APOLOGIZE_DETAIL=(Стосунки > 50%)
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok's choice
-PC14_BROKCHOICE=
+PC14_BROKCHOICE=Вибір Брока
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
 ### Bolt's screw
-PC15D_HAS_SOLD_SCREW=
+PC15D_HAS_SOLD_SCREW=Шуруп Болта
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff beats Chief
-PC15D_GRAFF_BEATS_CHIEF=
+PC15D_GRAFF_BEATS_CHIEF=Графф перемагає шефа
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Defeat Wes
-PC20_WES_DEFEATED_HOW=
+PC20_WES_DEFEATED_HOW=Перемогти Веса
 
 ### Defeat the huge bot
-PC20_HUGEBOT_DEFEATED_HOW=
+PC20_HUGEBOT_DEFEATED_HOW=Перемогти величезного бота
 
 
 
 ### Fight
-CHOICE_FIGHT=
+CHOICE_FIGHT=Битися
 
 ### Escape
-CHOICE_ESCAPE=
+CHOICE_ESCAPE=Втекти
 
 ### Alive
-CHOICE_ALIVE=
+CHOICE_ALIVE=Живий
 
 ### Kill
-CHOICE_KILL=
+CHOICE_KILL=Вбити
 
 ### Spare
-CHOICE_SPARE=
+CHOICE_SPARE=Пощадити
 
 ### Killed
-CHOICE_KILLED=
+CHOICE_KILLED=Убито
 
 ### Taken away
-CHOICE_TAKENAWAY=
+CHOICE_TAKENAWAY=Забрано
 
 ### Out of battery
-CHOICE_OUTOFBATTERY=
+CHOICE_OUTOFBATTERY=Без заряду
 
 ### Tricked
-CHOICE_TRICKED=
+CHOICE_TRICKED=Обдурено
 
 ### Denounce
-CHOICE_DENOUNCE=
+CHOICE_DENOUNCE=Викрити
 
 ### Forgive
-CHOICE_FORGIVE=
+CHOICE_FORGIVE=Пробачити
 
 ### Ignore
-CHOICE_IGNORE=
+CHOICE_IGNORE=Ігнорувати
 
 ### Mess up
-CHOICE_MESSUP=
+CHOICE_MESSUP=Зіпсувати
 
 ### Repair
-CHOICE_REPAIR=
+CHOICE_REPAIR=Полагодити
 
 ### Go nuts
-CHOICE_GOCRAZY=
+CHOICE_GOCRAZY=Збожеволіти
 
 ### Truth
-CHOICE_TRUTH=
+CHOICE_TRUTH=Правда
 
 ### Lie
-CHOICE_LIE=
+CHOICE_LIE=Брехня
 
 ### No talk
-CHOICE_NOTALK=
+CHOICE_NOTALK=Без розмови
 
 ### Hungry
-CHOICE_HUNGRY=
+CHOICE_HUNGRY=Голодний
 
 ### Awful
-CHOICE_AWFUL=
+CHOICE_AWFUL=Жахливо
 
 ### Good
-CHOICE_GOOD=
+CHOICE_GOOD=Добре
 
 ### Excellent
-CHOICE_EXCELLENT=
+CHOICE_EXCELLENT=Відмінно
 
 ### Won
-CHOICE_WON=
+CHOICE_WON=Переміг
 
 ### Lost
-CHOICE_LOST=
+CHOICE_LOST=Програв
 
 ### Gave up
-CHOICE_GAVEUP=
+CHOICE_GAVEUP=Здався
 
 ### Enemies killed
-CHOICE_KILLEDENEMIES=
+CHOICE_KILLEDENEMIES=Ворогів убито
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok captured
-CHOICE_BROKCAPTURED=
+CHOICE_BROKCAPTURED=Брока схоплено
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok killed
-CHOICE_BROKKILLED=
+CHOICE_BROKKILLED=Брока вбито
 
 ### Enemies captured
-CHOICE_ENEMIESCAPTURED=
+CHOICE_ENEMIESCAPTURED=Ворогів схоплено
 
 ### Explosion
-CHOICE_EXPLOSION=
+CHOICE_EXPLOSION=Вибух
 
 # As in, someone saved
 ### Save
-CHOICE_SAVE=
+CHOICE_SAVE=Врятувати
 
 ### Run away
-CHOICE_RUNAWAY=
+CHOICE_RUNAWAY=Утекти
 
 ### Alarm
-CHOICE_ALARM=
+CHOICE_ALARM=Тривога
 
 ### No alarm
-CHOICE_NOALARM=
+CHOICE_NOALARM=Без тривоги
 
 ### Disguise
-CHOICE_DISGUISE=
+CHOICE_DISGUISE=Маскування
 
 ### Pay
-CHOICE_PAY=
+CHOICE_PAY=Заплатити
 
 ### Beat up
-CHOICE_BEAT=
+CHOICE_BEAT=Побити
 
 ### Mission
-CHOICE_MISSION=
+CHOICE_MISSION=Місія
 
 ### Convince
-CHOICE_CONVINCE=
+CHOICE_CONVINCE=Переконати
 
 ### Break
-CHOICE_BREAK=
+CHOICE_BREAK=Зламати
 
 # To wake Dr Hush, Brok can jump on his "corpse"
 ### Body jump
-CHOICE_JUMPBODY=
+CHOICE_JUMPBODY=Стрибок на тіло
 
 ### Charge someone
-CHOICE_CHARGE=
+CHOICE_CHARGE=Висунути обвинувачення
 
 ### Nice
-CHOICE_NICE=
+CHOICE_NICE=Мило
 
 ### Bad
-CHOICE_BAD=
+CHOICE_BAD=Погано
 
 ### Back home
-CHOICE_BACKHOME=
+CHOICE_BACKHOME=Додому
 
 ### Collapse
-CHOICE_COLLAPSE=
+CHOICE_COLLAPSE=Обвал
 
 ### Buy
-CHOICE_BUY=
+CHOICE_BUY=Купити
 
 ### From inventory
-CHOICE_GIVE=
+CHOICE_GIVE=З інвентаря
 
 ### Drone
-CHOICE_DRONE=
+CHOICE_DRONE=Дрон
 
 # Number of materials found
 ### None
-CHOICE_NONE=
+CHOICE_NONE=Жодного
 
 ### Some
-CHOICE_SOME=
+CHOICE_SOME=Трохи
 
 ### All
-CHOICE_ALL=
+CHOICE_ALL=Усі
 
 ### Fix bot
-CHOICE_FIXBOT=
+CHOICE_FIXBOT=Полагодити бота
 
 ### Intimidate
-CHOICE_INTIMIDATE=
+CHOICE_INTIMIDATE=Залякати
 
 ### Push
-CHOICE_PUSH=
+CHOICE_PUSH=Штовхнути
 
 ### Hide
-CHOICE_HIDE=
+CHOICE_HIDE=Сховатися
 
 ### Timeout
-CHOICE_TIMEOUT=
+CHOICE_TIMEOUT=Час вийшов
 
 ### Win
-CHOICE_WIN=
+CHOICE_WIN=Перемогти
 
 ### Total failure
-CHOICE_FAIL=
+CHOICE_FAIL=Цілковитий провал
 
 ### No
-CHOICE_PENALTY=
+CHOICE_PENALTY=Ні
 
 ### Yes
-CHOICE_PERFECTSCORE=
+CHOICE_PERFECTSCORE=Так
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Only Ott
-CHOICE_ONLYOTT=
+CHOICE_ONLYOTT=Лише Отт
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Ott and Graff
-CHOICE_OTTGRAFF=
+CHOICE_OTTGRAFF=Отт і Графф
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Beat all Squealers
-CHOICE_BEATSQUEALERS=
+CHOICE_BEATSQUEALERS=Побити всіх Верескунів
 
 ### Normal
-CHOICE_NORMAL=
+CHOICE_NORMAL=Нормально
 
 ### Silly
-CHOICE_SILLY=
+CHOICE_SILLY=Дурнувато
 
 ### Captured
-CHOICE_CAPTURED=
+CHOICE_CAPTURED=Схоплено
 
 #Enter inside
 ### Enter
-CHOICE_ENTER=
+CHOICE_ENTER=Увійти
 
 ### Unlocked
-CHOICE_UNLOCKED=
+CHOICE_UNLOCKED=Відкрито
 
 ### Locked
-CHOICE_LOCKED=
+CHOICE_LOCKED=Замкнено
 
 ### Not enough
-CHOICE_NOTENOUGH=
+CHOICE_NOTENOUGH=Замало
 
 ### No one
-CHOICE_NOONE=
+CHOICE_NOONE=Нікого
 
 ### Disable
-CHOICE_DISABLE=
+CHOICE_DISABLE=Вимкнути
 
 # In the sense of "going through", not the symbol
 ### Cross
-CHOICE_CROSS=
+CHOICE_CROSS=Перейти
 
 ### Buttons
-CHOICE_BUTTONS=
+CHOICE_BUTTONS=Кнопки
 
 ### Fall
-CHOICE_FALL=
+CHOICE_FALL=Впасти
 
 ### Weapon
-CHOICE_WEAPON=
+CHOICE_WEAPON=Зброя
 
 ### Fists
-CHOICE_FISTS=
+CHOICE_FISTS=Кулаки
 
 ### Destroy
-CHOICE_DESTROY=
+CHOICE_DESTROY=Знищити
 
 ### Enter the code
-CHOICE_ENTERCODE=
+CHOICE_ENTERCODE=Ввести код
 
 ### Inventory
-CHOICE_INVENTORY=
+CHOICE_INVENTORY=Інвентар
 
 ### Drugged
-CHOICE_DRUGGED=
+CHOICE_DRUGGED=Одурманено
 
 ### School
-CHOICE_SCHOOL=
+CHOICE_SCHOOL=Школа
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Front of Hacker's
-CHOICE_HACKERPLACE=
+CHOICE_HACKERPLACE=Перед домом Гакера
 
 ### Accept
-CHOICE_ACCEPT=
+CHOICE_ACCEPT=Погодитися
 
 ### Reinstated
-CHOICE_REINSTATED=
+CHOICE_REINSTATED=Поновлений
 
 ### Extra points
-CHOICE_EXTRAPOINTS=
+CHOICE_EXTRAPOINTS=Бонусні очки
 
 ### Chip not given
-CHOICE_NOCHIP=
+CHOICE_NOCHIP=Чип не дано
 
 ### Sold to {who}
-CHOICE_SOLDTO=
+CHOICE_SOLDTO=Продано: {who}
 
 ### Kept
-CHOICE_KEPT=
+CHOICE_KEPT=Залишено
 
 ### Killed by {who}
-CHOICE_KILLEDBY=
+CHOICE_KILLEDBY=Убито: {who}
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Puzzles
-CHOICE_PUZZLES=
+CHOICE_PUZZLES=Пазлс
 
 ### Talk
-CHOICE_TALK=
+CHOICE_TALK=Поговорити
 
 ### Unexpected
-CHOICE_UNEXPECTED=
+CHOICE_UNEXPECTED=Несподівано
 
 ### Silent
-CHOICE_SILENT=
+CHOICE_SILENT=Мовчки
 
 ### Killer
-CHOICE_KILLER=
+CHOICE_KILLER=Вбивця
 
 ### Non violent
-CHOICE_NONVIOLENT=
+CHOICE_NONVIOLENT=Без насильства
 
 ### Infiltrate
-CHOICE_INFILTRATE=
+CHOICE_INFILTRATE=Проникнути
 
 ### Paid
-CHOICE_PAID=
+CHOICE_PAID=Сплачено
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Save Graff
-CHOICE_SAVEGRAFF=
+CHOICE_SAVEGRAFF=Врятувати Граффа
 
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Save the Slums
-CHOICE_SAVESLUMS=
+CHOICE_SAVESLUMS=Врятувати Нетрі
 
 ### Punched
-CHOICE_PUNCHED=
+CHOICE_PUNCHED=Ударено
 
 ### Surprise attack
-CHOICE_SURPRISEATTACK=
+CHOICE_SURPRISEATTACK=Раптова атака
 
 
 ### Scroll left
-SCROLL_LEFT=
+SCROLL_LEFT=Прокрутити ліворуч
 
 ### Scroll right
-SCROLL_RIGHT=
+SCROLL_RIGHT=Прокрутити праворуч
 
 
 ### Relationship
-SUMMARY_RELATIONSHIP=
+SUMMARY_RELATIONSHIP=Стосунки
 
 ### Violence
-SUMMARY_VIOLENCE=
+SUMMARY_VIOLENCE=Насильство
 
 ### Brain
-SUMMARY_BRAIN=
+SUMMARY_BRAIN=Мозок
 
 ### points
-SUMMARY_POINTS=
+SUMMARY_POINTS=очки
 
 ### Alive
-SUMMARY_CHARALIVE=
+SUMMARY_CHARALIVE=Живий
 
 ### Dead
-SUMMARY_CHARDEAD=
+SUMMARY_CHARDEAD=Мертвий
 
 ### Unknown
-SUMMARY_CHARUNKNOWN=
+SUMMARY_CHARUNKNOWN=Невідомо
 
 ### Disappeared
-SUMMARY_CHARNOEXISTENCE=
+SUMMARY_CHARNOEXISTENCE=Зник
 
 
 ### Scene
-SUMMARY_SCENE=
+SUMMARY_SCENE=Сцена
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Beat up the Squealers
-SCENE_PC05D_CHIEFRAT_BROKFIGHT=
+SCENE_PC05D_CHIEFRAT_BROKFIGHT=Побити Верескунів
 
 ### Frozen
-SCENE_FOUND_ALL_ADS=
+SCENE_FOUND_ALL_ADS=Заморожено
 
 ### Another time
-SCENE_UNLOCK_ALL_ENDINGS=
+SCENE_UNLOCK_ALL_ENDINGS=Наступного разу
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff doesn't escape
-SCENE_HINT_PC05D_CHIEFRAT_BROKFIGHT=
+SCENE_HINT_PC05D_CHIEFRAT_BROKFIGHT=Графф не тікає
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Find all the ads
-SCENE_HINT_FOUND_ALL_ADS=
+SCENE_HINT_FOUND_ALL_ADS=Знайди всі реклами
 
 ### Unlock all endings
-SCENE_HINT_UNLOCK_ALL_ENDINGS=
+SCENE_HINT_UNLOCK_ALL_ENDINGS=Відкрий усі кінцівки
 
 
 ### Scroll left/right
-TUTORIAL_SCROLLLR=
+TUTORIAL_SCROLLLR=Прокрутка ліворуч/праворуч
 
 ### Scroll chapters
-TUTORIAL_SCROLLCHAPTER=
+TUTORIAL_SCROLLCHAPTER=Прокрутка розділів
 
 
 ### Hint:
-ENDING_HINT=
+ENDING_HINT=Підказка:
 
 ### Solve the main case
-ENDING_HINT1=
+ENDING_HINT1=Розкрий головну справу
 
 ### This time, enter the machine
-ENDING_HINT1_2=
+ENDING_HINT1_2=Цього разу увійди в машину
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Be a bit more distant from Graff
-ENDING_HINT1_3=
+ENDING_HINT1_3=Тримайся трохи далі від Граффа
 
 ### Do not get perfect scores for trials
-ENDING_HINT1_4=
+ENDING_HINT1_4=Не отримуй найвищих оцінок за випробування
 
 ### Kitty, let yourself get kidnapped
-ENDING_HINT1_5=
+ENDING_HINT1_5=Кошенятко, дай себе викрасти
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Solve the Wes interrogation
-ENDING_HINT1_6=
+ENDING_HINT1_6=Пройди допит Веса
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Solve puzzles more often with your brain
-ENDING_HINT1_7=
+ENDING_HINT1_7=Частіше розв'язуй головоломки мозком
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Do not unlock Shay's drawer
-ENDING_HINT1_8=
+ENDING_HINT1_8=Не відкривай шухляду Шей
 
 ### Do not destroy the machine
-ENDING_HINT1_9=
+ENDING_HINT1_9=Не знищуй машину
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### When kidnapped, do not escape with Ott
-ENDING_HINT1_10=
+ENDING_HINT1_10=Коли тебе викрадуть, не тікай з Оттом
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Save R.J.
-ENDING_HINT1_11=
+ENDING_HINT1_11=Врятуй Р. Джея
 
 #Average playthrough TODO Compare to the ending we got to give a hint
 ### Run away at the last minute
-ENDING_HINT2=
+ENDING_HINT2=Утечи в останню мить
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Give it your best to stay close to Graff
-ENDING_HINT3=
+ENDING_HINT3=Зроби все, щоб триматися ближче до Граффа
 
 ### Get the best possible score for all trials
-ENDING_HINT4=
+ENDING_HINT4=Отримай найвищі оцінки за всі випробування
 
 ### Kitty, don't let yourself get kidnapped
-ENDING_HINT5=
+ENDING_HINT5=Кошенятко, не дай себе викрасти
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Fail to find the truth about Wes
-ENDING_HINT6=
+ENDING_HINT6=Не дізнавайся правди про Веса
 
 ### No brain, only violence
-ENDING_HINT7=
+ENDING_HINT7=Без мозку, лише насильство
 
 ### Translate the language of this universe#(NB: Easier with English)
-ENDING_HINT8=
+ENDING_HINT8=Переклади мову цього всесвіту
 
 ### Destroy the machine
-ENDING_HINT9=
+ENDING_HINT9=Знищ машину
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Graff escapes with Ott (without fight), Brok chooses to save the Slums
-ENDING_HINT10=
+ENDING_HINT10=Графф тікає з Оттом (без бою), Брок обирає врятувати Нетрі
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Don't save R.J. and choose to save Graff
-ENDING_HINT11=
+ENDING_HINT11=Не рятуй Р. Джея та обери врятувати Граффа
 
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Collect all ads (in several playthroughs)
-ENDING_HINT99=
+ENDING_HINT99=Збери всі реклами (за кілька проходжень)
 
 
 ### Arrive on time for the fair
-NODE_HINT_PC14B_DIRECTOR_HELP=
+NODE_HINT_PC14B_DIRECTOR_HELP=Прийди на ярмарок вчасно
 
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### Don't accept Director mission
-NODE_HINT_PC14B_HACKER_BLACKMAIL=
+NODE_HINT_PC14B_HACKER_BLACKMAIL=Не бери місію Директорки
 
 ### Too late for the fair
-NODE_HINT_PC01_STORY140_CHOICE=
+NODE_HINT_PC01_STORY140_CHOICE=Запізно на ярмарок
 
 ### Two scientists can help
-NODE_HINT_PC03_HAS_UPDATED_PRESCRIPTION=
+NODE_HINT_PC03_HAS_UPDATED_PRESCRIPTION=Двоє науковців можуть допомогти
 
 ### Accept to get chained
-NODE_HINT_PC19B_KLAY=
+NODE_HINT_PC19B_KLAY=Погодься, щоб тебе прикували
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Force Klay to get chained
-NODE_HINT_PC19B_GRAFF=
+NODE_HINT_PC19B_GRAFF=Змусь Клея, щоб його прикували
 
 ### Do not enter the pharmacy
-NODE_HINT_PC14B_RJ_SURVIVE=
+NODE_HINT_PC14B_RJ_SURVIVE=Не заходь до аптеки
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Graff escapes with Ott (without fight)
-NODE_HINT_PC14_BROKCHOICE=
+NODE_HINT_PC14_BROKCHOICE=Графф тікає з Оттом (без бою)
 
 ### Don't escape immediately
-NODE_HINT_PC05D_BOMBCHOICE=
+NODE_HINT_PC05D_BOMBCHOICE=Не тікай одразу
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Improve relationship with Graff
-NODE_HINT_PC01_ITEM_GIFT=
+NODE_HINT_PC01_ITEM_GIFT=Покращ стосунки з Граффом
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff doesn't buy a pill
-NODE_HINT_PC01_STORY180_PILL_CHOICE=
+NODE_HINT_PC01_STORY180_PILL_CHOICE=Графф не купує пігулку
 
 ### Charge someone
-NODE_HINT_PC15D_CHARGED=
+NODE_HINT_PC15D_CHARGED=Висунути обвинувачення
 
 ### Go to Sector 56X
-NODE_HINT_PC06_HAS_FLEED_DRONE=
+NODE_HINT_PC06_HAS_FLEED_DRONE=Іди до Сектора 56X
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
 ### Don't save Bolt
-NODE_HINT_PC12_IS_BOLT_DEAD=
+NODE_HINT_PC12_IS_BOLT_DEAD=Не рятуй Болта
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Save child Graff
-NODE_HINT_PC11D_OUTCOME2=
+NODE_HINT_PC11D_OUTCOME2=Врятуй малого Граффа
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
 ### Bolt's screw
-NODE_HINT_PC15D_HAS_SOLD_SCREW=
+NODE_HINT_PC15D_HAS_SOLD_SCREW=Шуруп Болта
 
 ### Progress through this chapter
-NODE_HINT_GENERIC=
+NODE_HINT_GENERIC=Проходь цей розділ далі
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff should beat him
-NODE_HINT_PC15D_GRAFF_BEATS_CHIEF=
+NODE_HINT_PC15D_GRAFF_BEATS_CHIEF=Графф має перемогти його
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Don't fight R.J.
-NODE_HINT_PC09_STORY100_HASTRIGGEREDALARM=
+NODE_HINT_PC09_STORY100_HASTRIGGEREDALARM=Не бийся з Р. Джеєм
 
 ### Open the egg
-NODE_HINT_PC08B_HAS_OPENED_EGG=
+NODE_HINT_PC08B_HAS_OPENED_EGG=Відкрий яйце
 
 
 
 # More BROK Games
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### More Brok games
-SUMMARY_MOREBROK=
+SUMMARY_MOREBROK=Більше ігор про Брока
 
 
 #=EndOfFile
