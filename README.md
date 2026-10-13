@@ -10,9 +10,11 @@ Check out some of the pages:
 | --------- | ----------------------------------- | -------------------------------------- |
 | 🇺🇦 **UKR** | [📜 Translation Guide](guide.md)     | The main reference document            |
 | 🇺🇦 **UKR** | [👥 Formality Rules](formality.md)   | Character relationships and Formality  |
+| 🇺🇦 **UKR** | [📖 Glossary](glossary.md)           | Established translations of terms      |
 | 🇺🇦 **UKR** | [⭕ Common Errors](common-errors.md) | Common translation errors              |
 | 🇬🇧 **ENG** | [🕒 Translation Process](process.md) | Description of the translation process |
 | 🇬🇧 **ENG** | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
+| 🇬🇧 **ENG** | [📊 Progress](progress.md)           | Translation and proof-reading progress |
 
 ## Contributing 🌐
 

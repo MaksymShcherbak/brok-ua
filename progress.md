@@ -1,5 +1,11 @@
 # Translation Progress
 
+Status of every file of the translation, with one column per stage:
+**Initial Translation** (the Ukrainian text is filled in) and **Proof-Reading**
+(the file is re-checked against the guide and the glossary).
+
+Some items are posponed until I finish playing the DLC.
+
 | Item      | Initial Translation | Proof-Reading |
 | :-------- | :------------------ | :------------ |
 | LEXICON   | Done                | Done          |
