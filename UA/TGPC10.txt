@@ -765,7 +765,7 @@ PC10_DESK_OTT1-2=(Якщо бути точнішим... мій єдиний др
 # Graff
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### (Ott isn't the best student in this class but maybe he's got some answers...?)
-PC10_DESK_OTT1-3=(Отт - не найкращий учень у цьому класі, але, можливо, у нього є якісь відповіді...?)
+PC10_DESK_OTT1-3=(Отт - не найкращий студент у цьому класі, але, можливо, у нього є якісь відповіді...?)
 
 
 #----------------------------------------------------
@@ -854,7 +854,7 @@ PC10_DESK_OTT_DOCHEAT3-2=(Третє запитання... "Зять"?)
 # Graff
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### (I should keep in mind Ott isn't the best student over here.)
-PC10_DESK_OTT_DOCHEAT3-3=(Мені слід тримати в голові, що Отт - не найкращий учень.)
+PC10_DESK_OTT_DOCHEAT3-3=(Мені слід тримати в голові, що Отт - не найкращий студент.)
 
 
 #----------------------------------------------------

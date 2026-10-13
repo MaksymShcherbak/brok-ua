@@ -228,7 +228,7 @@ PC10_TO_DOOR_DAY2-1=...
 
 # Brok
 ### Erm... Where are all the students?
-PC10_TO_DOOR_DAY2-2=Е-е... А де всі учні?
+PC10_TO_DOOR_DAY2-2=Е-е... А де всі студенти?
 
 
 # Director
@@ -299,7 +299,7 @@ PC10_TO_DOOR_DAY2B-11=Менше з тим.
 # Director
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff is quite the exemplary student.
-PC10_TO_DOOR_DAY2B-12=Графф - справді зразковий учень.
+PC10_TO_DOOR_DAY2B-12=Графф - справді зразковий студент.
 
 
 # Director
@@ -829,7 +829,7 @@ PC10_DIRECTOR_GRAFF2-1=Я хотів би почути вашу думку що�
 
 # Director
 ### He's generally a very good student, albeit reserved.
-PC10_DIRECTOR_GRAFF2-2=Загалом він дуже хороший учень, хоч і замкнутий.
+PC10_DIRECTOR_GRAFF2-2=Загалом він дуже хороший студент, хоч і замкнутий.
 
 
 # Director

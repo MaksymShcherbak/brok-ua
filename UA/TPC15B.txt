@@ -848,7 +848,7 @@ PC15B_GUARD_DRHUSH1-1=Можеш щось розповісти про того �
 
 # Guard
 ### Just your average scientist in his 40's.
-PC15B_GUARD_DRHUSH1-2=Звичайнісінький учений за 40.
+PC15B_GUARD_DRHUSH1-2=Звичайнісінький науковець за 40.
 
 
 # Guard
@@ -1219,7 +1219,7 @@ PC15B_GUARD_EXIT1-2=Знаєш, я не можу чекати цілий ден�
 #----------------------------------------------------
 # Guard
 ### Come on! Do your job!
-PC15B_GUARD_EXIT2-1=Давай! Роби свою роботу!
+PC15B_GUARD_EXIT2-1=Ну ж бо! Роби свою роботу!
 
 
 # Brok
@@ -1617,7 +1617,7 @@ PC15B_KNOCK3_FAKE1-3=Ой.
 #----------------------------------------------------
 # Brok
 ### Just joking! I'm a scientist too. I'm here to help!
-PC15B_KNOCK3_FAKE2-1=Жартую! Я теж учений. Я тут, щоб допомогти!
+PC15B_KNOCK3_FAKE2-1=Жартую! Я теж науковець. Я тут, щоб допомогти!
 
 
 # Mink
@@ -1983,7 +1983,7 @@ PC15B_MONITORINGA2-3=Саме тоді я зрозумів, що доктора 
 
 # Guard
 ### I called the cops discretely.
-PC15B_MONITORINGA2-4=Я непомітно викликав поліцію.
+PC15B_MONITORINGA2-4=Я непомітно викликав копів.
 
 
 # Brok

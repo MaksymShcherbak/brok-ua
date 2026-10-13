@@ -1396,12 +1396,12 @@ PC09C_OTT_PILLS1-1=А що щодо смогових пігулок?
 
 # Ott
 ### I'm not sure but... Apparently there's a shortage going on.
-PC09C_OTT_PILLS1-2=Я не впевнений, але... Здається, виник дефіцит.
+PC09C_OTT_PILLS1-2=Я не впевнений, але... Здається, виникла нестача.
 
 
 # Brok
 ### A shortage...?
-PC09C_OTT_PILLS1-3=Дефіцит...?
+PC09C_OTT_PILLS1-3=Нестача...?
 
 
 # Ott
@@ -1660,7 +1660,7 @@ PC09C_DRINK1-2=Дякую, не хочу. Може, пізніше.
 #----------------------------------------------------
 # Brok
 ### Come on! Don't tell me you don't like this!
-PC09C_DRINK2-1=Та давай! Не кажи, що тобі це не подобається!
+PC09C_DRINK2-1=Та ну ж бо! Не кажи, що тобі це не подобається!
 
 
 # Ott

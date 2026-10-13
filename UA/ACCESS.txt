@@ -877,7 +877,7 @@ AUDIOD_CHAR_MINK=Доктор Мінк - дещо пухка норка з ко�
 AUDIOD_CHAR_OTT=Отт, маленький і повненький підліток-гібрид бородавочника та видри. Має морду бородавочника, але вуха в нього як у видри. У нього коричнева шерсть.
 
 ### RJ is a huge, burly, brown bear cop.
-AUDIOD_CHAR_RJ=Р. Джей - здоровенний кремезний бурий ведмідь-поліцейський.
+AUDIOD_CHAR_RJ=Р. Джей - здоровенний кремезний бурий ведмідь-коп.
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Shay is a blue buzzard bird with futuristic glasses. She's wearing a pink and brown outfit.

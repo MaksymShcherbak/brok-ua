@@ -4842,7 +4842,7 @@ PC01_DAY3BEGIN5-5=Набридло вирушати на розслідуван�
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff asked me to investigate the pills shortage.
-PC01_DAY3STARTS-1=Графф попросив мене розслідувати дефіцит пігулок.
+PC01_DAY3STARTS-1=Графф попросив мене розслідувати нестачу пігулок.
 
 
 # Brok

@@ -2076,7 +2076,7 @@ PC12_GHERKIN_CHITCHAT-2=Напевно, діло рук Верескунів...
 
 # Brok
 ### I bet they learned about the shortages and tried to steal as much as possible.
-PC12_GHERKIN_CHITCHAT-3=Б'юся об заклад, вони дізналися про дефіцит і спробували вкрасти якомога більше.
+PC12_GHERKIN_CHITCHAT-3=Б'юся об заклад, вони дізналися про нестачу і спробували вкрасти якомога більше.
 
 
 # Gherkin

@@ -110,7 +110,7 @@ GPC19D_INIT2-9=...(Кашляє)
 
 # Graff
 ### Come on! Reply!...
-GPC19D_INIT2-10=Давай! Відповідай...!
+GPC19D_INIT2-10=Ну ж бо! Відповідай...!
 
 
 # Graff

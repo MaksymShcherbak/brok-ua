@@ -4564,7 +4564,7 @@ PC08B_DAY2_END1-5=Що-що?!
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### There's a Toxout pill shortage going on.
-PC08B_DAY2_END1-6=Зараз дефіцит смогових пігулок.
+PC08B_DAY2_END1-6=Зараз триває нестача смогових пігулок.
 
 
 # Brok

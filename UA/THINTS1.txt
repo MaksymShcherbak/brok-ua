@@ -19,7 +19,7 @@ HINT_CH1_10_ENTERSECTOR56X1=Щоб відчинити вхідні двері С
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin sent you the code in a phone message - 4098. The device to type the code only has three buttons.##I doubt you're clever enough to figure out how to type it, so if you can't afford using another ad, just smash buttons randomly like you usually do.
-HINT_CH1_10_ENTERSECTOR56X2=Сін надіслав тобі код у повідомленні - 4098. Пристрій для введення коду має лише 3 кнопки.##Сумніваюся, що ти достатньо розумний, щоб зрозуміти, як його надрукувати. Тож, якщо ти не можеш використати ще один рекламний флаєр, просто клацай кнопки в довільному порядку, як ти це зазвичай робиш.
+HINT_CH1_10_ENTERSECTOR56X2=Сін надіслав тобі код у повідомленні - 4098. Пристрій для введення коду має лише 3 кнопки.##Сумніваюся, що ти достатньо розумний, щоб зрозуміти, як його надрукувати. Тож, якщо ти не можеш використати ще одну рекламу, просто клацай кнопки в довільному порядку, як ти це зазвичай робиш.
 
 ### Left button is two and multiplies the digit by two, right button is three and multiplies by three. Middle button changes the digit.##To enter 4098, press the buttons in this order : left, left, middle, middle, right, right, middle, left, left, left.
 HINT_CH1_10_ENTERSECTOR56X3=Ліва кнопка - два і помножує цифру на два, права кнопка - три та помножує цифру на три, середня кнопка змінює цифру.##Щоб ввести 4098, натискай кнопки в такому порядку: ліва, ліва, середня, середня, права, права, середня, ліва, ліва, ліва.
@@ -156,7 +156,7 @@ HINT_CH1_40_SEWERSMANHOLE2=На деяких кнопках є подряпин�
 HINT_CH1_40_SEWERSBEFORE1=Обстеж сліди, де залишилося трохи води. Потім забери хустинку та рухайся далі каналізацією.
 
 ### Having trouble with those mines, croc dude? Just walk slowly. Those mines are invisible devices programmed to appear when you get close enough.##Oh and... There's a way to get rid of them! Wanna know? That will cost you another ad!
-HINT_CH1_50_BEFORERAT1=Проблеми з тими мінами, чуваче? Просто йди повільніше. Це невидимі пристрої, запрограмовані з'являтися, коли ти достатньо близько.##Ого, а ще є спосіб їх позбутися! Хочеш дізнатися? Це коштуватиме ще одного рекламного флаєра!
+HINT_CH1_50_BEFORERAT1=Проблеми з тими мінами, чуваче? Просто йди повільніше. Це невидимі пристрої, запрограмовані з'являтися, коли ти достатньо близько.##Ого, а ще є спосіб їх позбутися! Хочеш дізнатися? Це коштуватиме ще однієї реклами!
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"

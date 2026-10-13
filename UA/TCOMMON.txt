@@ -82,7 +82,7 @@ CHAR_REMN=Ремн
 CHAR_TRIBOT=Трибот
 
 ### Cop
-CHAR_TRIBOTCOP=Поліцейський
+CHAR_TRIBOTCOP=Коп
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
 ### Pipe-Mail
@@ -822,7 +822,7 @@ INTERFACE_COMBINE=Поєднати предмети
 INTERFACE_COMBINE_DESCRIPTION=Виберіть перший предмет
 
 ### Choose an ad
-INTERFACE_CHOOSE_AD=Виберіть флаєр
+INTERFACE_CHOOSE_AD=Виберіть рекламу
 
 
 ### Advice
@@ -3141,7 +3141,7 @@ AD_EV_MAP_HOME=Дім
 
 #----- Common clickers --------
 ### Ad
-PC_ADVERT=Рекламний флаєр
+PC_ADVERT=Реклама
 
 ### Drink
 PC_DRINK=Напій
@@ -3157,7 +3157,7 @@ PC_ENTER=Вхід
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribot Cop
-PC_TRIBOTCOP=Трибот-поліцейський
+PC_TRIBOTCOP=Трибот-коп
 
 ### Camera
 PC_CAMERA=Камера
@@ -3627,7 +3627,7 @@ INTERFACE_ASK_HINT=Отримати підказку?
 INTERFACE_ASK_ANOTHER_HINT=Отримати іншу підказку?
 
 ### An ad!
-GOT_ADVERT=Рекламний флаєр!
+GOT_ADVERT=Реклама!
 
 ### All your stuff is back!
 GOT_STUFF=Усі ваші речі повернені!
@@ -3924,12 +3924,12 @@ HELP_JUMP2_INSTRUCTIONS=У кімнатах, які ви будете дослі
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Collect ads!
-HELP_ADS=Збирайте рекламні флаєри!
+HELP_ADS=Збирайте рекламу!
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Brok's phone is hungry for ads! There are 3 adverts hidden in each location.##Use them to get <col=BOLD>hints</col> when you're stuck!
-HELP_ADS_INSTRUCTIONS=Телефон Брока жадає реклами! У кожній локації заховано по 3 рекламні флаєри.##Використовуйте їх, щоб отримати <col=BOLD>підказки</col>, коли застрягнете!
+HELP_ADS_INSTRUCTIONS=Телефон Брока жадає реклами! У кожній локації заховано по 3 реклами.##Використовуйте їх, щоб отримати <col=BOLD>підказки</col>, коли застрягнете!
 
 
 ### Selecting hotspots
@@ -3952,7 +3952,7 @@ HELP_HINTS=Застрягли?
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### If you need help, don't forget to use some of the <col=BOLD>ads</col> you've collected to get hints!##Use this icon in the menu.##If one hint isn't enough, press it <col=BOLD>several times</col> to reveal the solution.
-HELP_HINTS_INSTRUCTIONS=Якщо вам потрібна допомога, не забудьте скористатися деякими з <col=BOLD>рекламних флаєрів</col>, які ви зібрали, щоб отримати підказки!##Натискайте на цю іконку в меню.##Якщо однієї підказки недостатньо, натисніть її <col=BOLD>кілька разів</col>, щоб побачити повне рішення.
+HELP_HINTS_INSTRUCTIONS=Якщо вам потрібна допомога, не забудьте скористатися <col=BOLD>рекламою</col>, яку ви зібрали, щоб отримати підказки!##Натискайте на цю іконку в меню.##Якщо однієї підказки недостатньо, натисніть її <col=BOLD>кілька разів</col>, щоб побачити повне рішення.
 
 
 
@@ -4015,7 +4015,7 @@ HELP_CLICKERS_INSTRUCTIONS_MOUSE=<button=INPUT_ACTION_VIEW_HOTSPOTS> або на
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### ##However some special items such as ads won't be indicated!
-HELP_CLICKERS_INSTRUCTIONS_NEXT=##Однак деякі особливі елементи, такі як рекламні флаєри, не будуть позначені!
+HELP_CLICKERS_INSTRUCTIONS_NEXT=##Однак деякі особливі елементи, такі як реклама, не будуть позначені!
 
 
 
@@ -4117,7 +4117,7 @@ HELP_SUMMARYCLOSE2=Відкриття кінцівок
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### There are <col=BOLD>11 endings</col> to unlock (and an after-credits scene by collecting all ads).
-HELP_SUMMARYCLOSE2_INSTRUCTIONS=Є <col=BOLD>11 кінцівок</col>, які можна розблокувати (а також сцена після титрів, яку можна побачити, зібравши всі рекламні флаєри).
+HELP_SUMMARYCLOSE2_INSTRUCTIONS=Є <col=BOLD>11 кінцівок</col>, які можна розблокувати (а також сцена після титрів, яку можна побачити, зібравши всю рекламу).
 
 ### ##If that's too much for you, make sure you get at least the <col=BOLD>Canonical Ending!</col>
 HELP_SUMMARYCLOSE2_INSTRUCTIONS2=##Якщо це для вас занадто, то відкрийте хоча б <col=BOLD>Канонічну кінцівку!</col>
@@ -4482,7 +4482,7 @@ MDIRECTORLATE_TITLE=Науковий ярмарок
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Mister,##As your child must have told you, a parent or tutor presence is required during this event. However you've been missing during the votes. Thus I have no other choice but to give Graff a zero for this exam.##Part of this trials existence is to measure the parenting relationship as family conflicts are proven to cause issues in students future careers. I'm hoping for your cooperation.##The Director
-MDIRECTORLATE_TEXT=Пане,##Як, мабуть, вже розповів вам ваш син, під час цього заходу обов'язкова присутність одного з батьків або опікуна. Однак під час голосування вас не було. Тому я змушена поставити Граффу нуль за цей іспит.##Однією з цілей проведення цих випробувань є оцінка стосунків учнів з батьками, оскільки доведено, що сімейні конфлікти можуть негативно впливати на майбутню кар'єру учнів. Сподіваюся на ваше розуміння.##Директорка
+MDIRECTORLATE_TEXT=Пане,##Як, мабуть, вже розповів вам ваш син, під час цього заходу обов'язкова присутність одного з батьків або опікуна. Однак під час голосування вас не було. Тому я змушена поставити Граффу нуль за цей іспит.##Однією з цілей проведення цих випробувань є оцінка стосунків студентів з батьками, оскільки доведено, що сімейні конфлікти можуть негативно впливати на майбутню кар'єру студентів. Сподіваюся на ваше розуміння.##Директорка
 
 
 ### Trial Day 2 results
@@ -4500,7 +4500,7 @@ MDIRECTOR2_TITLE=Крім того...
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff.##I would like to personally confirm you've been reinstated as a Center student. Do not worry about it anymore.## The Director
-MDIRECTOR2_TEXT=Граффе.##Я хотіла би особисто підтвердити, що твій статус учня Центру поновлено. Більше не турбуйся з цього приводу.## Директорка
+MDIRECTOR2_TEXT=Граффе.##Я хотіла би особисто підтвердити, що твій статус студента Центру поновлено. Більше не турбуйся з цього приводу.## Директорка
 
 
 ### Also...
@@ -4703,7 +4703,7 @@ GAMEOVERTYPE_PC03_FIRSTFIGHTLOSE=Був переможений Верескун�
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Killed by Tribot cop guard
-GAMEOVERTYPE_PC04_ROBOT_FIGHT=Убитий триботом-охоронцем
+GAMEOVERTYPE_PC04_ROBOT_FIGHT=Убитий триботом-копом
 
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Cut by Shay's saw
@@ -4922,7 +4922,7 @@ GAMEOVERTYPE_GPC17_LASER=Смертоносні музейні лазери
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Lose alone against Tribot cops
-GAMEOVERTYPE_CH5_TRIBOTCOPS=Бився самотужки проти триботів-поліцейських і програв
+GAMEOVERTYPE_CH5_TRIBOTCOPS=Бився самотужки проти триботів-копів і програв
 
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee has had enough
@@ -4985,7 +4985,7 @@ GAMEOVERTYPE_PC20_FIGHT2=Друга битва з Весом
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Lose with Dee against Tribot cops
-GAMEOVERTYPE_CH6_TRIBOTCOPSWITHDEE=Разом з Ді переможений триботами-поліцейськими
+GAMEOVERTYPE_CH6_TRIBOTCOPSWITHDEE=Разом з Ді переможений триботами-копами
 
 ### Fall in bottomless pit
 GAMEOVERTYPE_GPC05D_FLOOR_HOLE=Падіння в бездонну прірву
@@ -5238,11 +5238,11 @@ GAMEOVER_POUND2=Бот-дробарка може слідувати за вам�
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribot cops flee to shoot lasers from afar. Get rid of them first!
-GAMEOVER_TRIBOTCOP1=Триботи-поліцейські тікають, щоб стріляти лазерами здалеку. Від них позбавтеся першочергово!
+GAMEOVER_TRIBOTCOP1=Триботи-копи тікають, щоб стріляти лазерами здалеку. Від них позбавтеся першочергово!
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Block or dodge when Tribot cops start throwing punches.
-GAMEOVER_TRIBOTCOP2=Блокуйте або ухиляйтеся, коли триботи-поліцейські почнуть завдавати ударів.
+GAMEOVER_TRIBOTCOP2=Блокуйте або ухиляйтеся, коли триботи-копи почнуть завдавати ударів.
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### When Tidy starts his special move, nothing can stop it. Just dodge and hit Tidy afterwards!
@@ -6224,7 +6224,7 @@ CLUE_BROK_PENDANT=Кулон Брока виготовлений з гептам
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### R.J. kept his cop clothes after getting fired
-CLUE_RJ_COPCLOTHES=Р. Джей зберіг свій поліцейський одяг після звільнення
+CLUE_RJ_COPCLOTHES=Р. Джей зберіг свою поліцейську форму після звільнення
 
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes named head of office in 3030
@@ -6308,7 +6308,7 @@ ACHIEVE_FOODTHIEF=Крадій їжі
 ACHIEVE_WORSTDETECTIVE=Найгірший. Детектив. В історії.
 
 ### Bear Cop
-ACHIEVE_BEARCOP=Ведмідь-поліцейський
+ACHIEVE_BEARCOP=Ведмідь-коп
 
 ### Toilets Tormentor
 ACHIEVE_TOILETSMAN=Мучитель туалету
@@ -6374,7 +6374,7 @@ ITEM_CHAPTER6_MSG=Завершіть розділ 6
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Get all the game ads to unlock an extra scene
-ITEM_ADS_MSG=Зберіть усі рекламні флаєри у грі, щоб розблокувати додаткову сцену
+ITEM_ADS_MSG=Зберіть усю рекламу в грі, щоб розблокувати додаткову сцену
 
 ### Get all the main game endings to unlock an extra scene
 ITEM_MAINENDINGS_MSG=Відкрийте всі основні ігрові кінцівки, щоб розблокувати додаткову сцену
@@ -7006,7 +7006,7 @@ INTERFACE_WAIT_START_TITLE=Будь ласка, зачекайте
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Shadow ads can be traded in the menu store. There is no additional reward to finding them all. Unlike regular ads, they do not persist between playthroughs.
-INTERFACE_SHADOWADS_ENDMESSAGE=Тіньові реклами можна обмінювати в магазині меню. Немає додаткової винагороди за знаходження їх усіх. На відміну від звичайних рекламних флаєрів, вони не зберігаються між різними ігровими проходженнями.
+INTERFACE_SHADOWADS_ENDMESSAGE=Тіньові реклами можна обмінювати в магазині меню. Немає додаткової винагороди за знаходження їх усіх. На відміну від звичайної реклами, вони не зберігаються між різними ігровими проходженнями.
 
 
 ### How many players?
@@ -8286,7 +8286,7 @@ INTERFACE_HINT_NONE1-1=Е-е... Здається, я зараз не можу о
 # Brok
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### I should collect some ads and scan'em with my phone.
-INTERFACE_HINT_NONE1-2=Мені слід зібрати кілька рекламних флаєрів і просканувати їх телефоном.
+INTERFACE_HINT_NONE1-2=Мені слід зібрати трохи реклами і просканувати її телефоном.
 
 
 # Brok
@@ -8298,14 +8298,14 @@ INTERFACE_HINT_NONE1-3=Або я можу покластися на свою к�
 # Brok
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### That won't work. I don't have any ads for my phone!
-INTERFACE_HINT_NONE2-1=Не вийде. У мене немає рекламних флаєрів для телефона!
+INTERFACE_HINT_NONE2-1=Не вийде. У мене немає жодної реклами для телефона!
 
 
 #----------------------------------------------------
 # Graff
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Uh oh... No ads left.
-INTERFACE_HINT_GRAFF_NONE1-1=Ой-ой... Рекламні флаєри закінчились.
+INTERFACE_HINT_GRAFF_NONE1-1=Ой-ой... Реклама закінчилась.
 
 
 # Graff
@@ -8391,18 +8391,18 @@ INTERFACE_MONEY_REQUEST_NOTOK-3=(Зітхає...)
 #----------------------------------------------------
 # Brok - Use a hint
 ### So... I should scan the barcode on this ad?
-INTERFACE_HINT_YES1-1=Отже... Мені потрібно просканувати штрих-код на цьому флаєрі?
+INTERFACE_HINT_YES1-1=Отже... Мені потрібно просканувати штрих-код на цій рекламі?
 
 
 # Brok
 ### Looks like it worked, but I can only use each ad once.
-INTERFACE_HINT_YES1-2=Схоже, це спрацювало, але я можу використовувати кожен флаєр лише один раз.
+INTERFACE_HINT_YES1-2=Схоже, це спрацювало, але я можу використовувати кожну рекламу лише один раз.
 
 
 #----------------------------------------------------
 # Brok
 ### Burn this ad and gimme a clue!
-INTERFACE_HINT_YES2-1=Візьми цей флаєр і дай мені підказку!
+INTERFACE_HINT_YES2-1=Візьми цю рекламу і дай мені підказку!
 
 
 #----------------------------------------------------
@@ -10431,7 +10431,7 @@ COMMON_AD_GET1-1=Гей, це ж колекційна реклама!
 #----------------------------------------------------
 # Brok
 ### Nice... An ad coupon!
-COMMON_AD_GET2-1=Чудово... Рекламний купон!
+COMMON_AD_GET2-1=Чудово... Рекламний флаєр!
 
 
 #----------------------------------------------------

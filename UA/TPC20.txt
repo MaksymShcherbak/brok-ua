@@ -2021,7 +2021,7 @@ PC20_REVEAL_NO4-12=Але Отт наполягав...
 
 # Graff
 ### The pills shortage went on.
-PC20_REVEAL_NO4-13=Дефіцит пігулок тривав.
+PC20_REVEAL_NO4-13=Нестача пігулок тривала.
 
 
 # Graff

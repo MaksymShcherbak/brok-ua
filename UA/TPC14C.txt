@@ -164,7 +164,7 @@ PC14C_FIRST_BEATEN1-15=Ну...
 
 # Hacker
 ### Come on! You're wasting my time!
-PC14C_FIRST_BEATEN1-16=Давай уже! Ти марнуєш мій час!
+PC14C_FIRST_BEATEN1-16=Ну ж бо вже! Ти марнуєш мій час!
 
 
 # Brok
@@ -2293,7 +2293,7 @@ PC14C_HACKER_GHERKIN_MESSAGES-18=Ар-р...!
 
 # Brok
 ### Come on, pour it out!
-PC14C_HACKER_GHERKIN_MESSAGES-19=Давай, викладай усе!
+PC14C_HACKER_GHERKIN_MESSAGES-19=Ну ж бо, викладай усе!
 
 
 # Hacker

@@ -3809,7 +3809,7 @@ PC15D_STORY160_A2-3=Тепер ви звинувачуєте мене?!
 
 # Guard
 ### Why d'ya think I called the cops if I was the murderer?!
-PC15D_STORY160_A2-4=А навіщо, по-вашому, я викликав поліцію, якби був убивцею?!
+PC15D_STORY160_A2-4=А навіщо, по-вашому, я викликав копів, якби був убивцею?!
 
 
 # Mink
@@ -4580,7 +4580,7 @@ PC15D_STORY160_CHARGEMINK1-27=...
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### (A bunch of Tribot cops arrived to pick up Dr. Mink.)
-PC15D_STORY160_CHOICE_CHARGEMINK2-1=(Прибула ватага триботів-поліцейських, щоб забрати доктора Мінка.)
+PC15D_STORY160_CHOICE_CHARGEMINK2-1=(Прибула ватага триботів-копів, щоб забрати доктора Мінка.)
 
 
 # Brok

@@ -220,7 +220,7 @@ PC08C_BED_ASK2-1=5 Юні, будь ласка!
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### 5 Unis! Come on, bring the moolah!
-PC08C_BED_ASK3-1=5 Юні! Давай, діставай бабки!
+PC08C_BED_ASK3-1=5 Юні! Ну ж бо, діставай бабки!
 
 
 #----------------------------------------------------

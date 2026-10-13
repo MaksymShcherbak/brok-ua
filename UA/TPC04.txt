@@ -39,7 +39,7 @@ PC_STOREWINDOW=Вітрина магазину
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribot cop key
-PC_TRIBOTKEY=Ключ поліцейського Трибота
+PC_TRIBOTKEY=Ключ Трибота-копа
 
 ### Alley
 PC_ALLEY=Провулок
@@ -854,7 +854,7 @@ PC04_TRIBOTCOP_WELCOME3-1=Громадянине, відійдіть. Досту
 # Brok
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### I don't really like Tribot cops. They're creepy.
-PC04_TRIBOTCOP_THINK1-1=Мені не дуже подобаються поліцейські Триботи. Вони моторошні.
+PC04_TRIBOTCOP_THINK1-1=Мені не дуже подобаються Триботи-копи. Вони моторошні.
 
 
 # Brok
@@ -1243,7 +1243,7 @@ PC04_TRIBOTCOP_HIT1-1=ТРИВОГА! НАСИЛЬСТВО ПРОТИ ОФІЦЕ
 # Brok
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### The Tribot cop has left some kind of key...?
-PC04_TRIBOTKEY1-1=Поліцейський Трибот залишив якийсь ключ...?
+PC04_TRIBOTKEY1-1=Трибот-коп залишив якийсь ключ...?
 
 
 # Brok

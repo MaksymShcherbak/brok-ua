@@ -598,7 +598,7 @@ CH6_CALL_GRAFF_STORY280-1=...
 
 # Brok
 ### Come on... Reply!
-CH6_CALL_GRAFF_STORY280-2=Давай... Відповідай!
+CH6_CALL_GRAFF_STORY280-2=Ну ж бо... Відповідай!
 
 
 # Brok
@@ -1663,7 +1663,7 @@ CH6_STORY300_INITSLUMER2-20=Що б ти не зробив... Я робив і �
 
 # Brok
 ### Come on. Tell me.
-CH6_STORY300_INITSLUMER2-21=Давай. Розкажи мені.
+CH6_STORY300_INITSLUMER2-21=Ну ж бо. Розкажи мені.
 
 
 #----------------------------------------------------
