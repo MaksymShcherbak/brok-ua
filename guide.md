@@ -166,7 +166,7 @@
 | Government                        | Уряд                              | Сучасний уряд Атлазії               |
 | Virtual Arena / VR-Arena          | Віртуальна Арена / VR-Арена       |                                     |
 | Simulated VR / Simulated VR-Arena | Симулятор VR / Симулятор VR-Арени | Арена Граффа                        |
-| Science Fair                      | Науковий Ярмарок                  |                                     |
+| Science Fair                      | науковий ярмарок                  |                                     |
 | The Haze                          | Смог                              |                                     |
 | Pollution                         | забруднення                       |                                     |
 | The Blackout                      | Знеструмлення                     |                                     |

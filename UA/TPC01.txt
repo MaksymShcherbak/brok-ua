@@ -758,7 +758,7 @@ PC01_GRAFF_SCHOOL2-3=Який ярмарок?
 
 # Graff
 ### The science fair! Don't tell me you already forgot?!
-PC01_GRAFF_SCHOOL2-4=Науковий Ярмарок! Тільки не кажи, що ти вже забув?!
+PC01_GRAFF_SCHOOL2-4=Науковий ярмарок! Тільки не кажи, що ти вже забув?!
 
 
 # Brok
@@ -1566,7 +1566,7 @@ PC01_STORY110_NORMAL1-7=Усе просто.
 
 # Graff
 ### They've decided to advance the year's trials this week, and made the science fair a part of it.
-PC01_STORY110_NORMAL1-8=Вони вирішили провести річні випробування цього тижня, зробивши Науковий Ярмарок їхньою частиною.
+PC01_STORY110_NORMAL1-8=Вони вирішили провести річні випробування цього тижня, зробивши науковий ярмарок їхньою частиною.
 
 
 # Graff

@@ -205,7 +205,7 @@ CH1_CALL_SHAY_PYRAMID-11=Е-е... Гаразд...
 #----------------------------------------------------
 # Brok
 ### I'll call him right before the Science Fair.
-CH1_CALL_GRAFF_BEFOREFAIR-1=Я подзвоню йому перед початком Наукового Ярмарку.
+CH1_CALL_GRAFF_BEFOREFAIR-1=Я подзвоню йому перед початком наукового ярмарку.
 
 
 # Brok

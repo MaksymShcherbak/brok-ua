@@ -336,7 +336,7 @@ PC10_BROK_TOOFAR-1=Звідси не поговориш.
 #----------------------------------------------------
 # Brok
 ### So, the science fair contest became a final exam?
-PC10_DIRECTOR_FAIR_LATE1-1=Тож конкурс на Науковому Ярмарку став випускним іспитом?
+PC10_DIRECTOR_FAIR_LATE1-1=Тож конкурс на науковому ярмарку став випускним іспитом?
 
 
 # Director
@@ -470,7 +470,7 @@ PC10_DIRECTOR_FAIR_CHEATED1-4=Стан винаходів говорить са�
 
 # Director
 ### Rules stipulate a legal parent must be there during the science fair voting.
-PC10_DIRECTOR_FAIR_CHEATED1-5=Правила вимагають, щоб під час голосування на Науковому Ярмарку був присутній законний опікун.
+PC10_DIRECTOR_FAIR_CHEATED1-5=Правила вимагають, щоб під час голосування на науковому ярмарку був присутній законний опікун.
 
 
 # Director

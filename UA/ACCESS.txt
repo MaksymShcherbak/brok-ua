@@ -1989,7 +1989,7 @@ MDIRECTOR3_1=Граффе, як було зазначено на сьогодн�
 MDIRECTOR3_2=балів за іспит.
 
 ### For the science fair, you were awarded
-MDIRECTOR3_3=За Науковий Ярмарок тобі нараховано
+MDIRECTOR3_3=За науковий ярмарок тобі нараховано
 
 ### points for your invention.
 MDIRECTOR3_4=балів за твій винахід.

@@ -563,7 +563,7 @@ PC10_INTRO5-10=Випробування триватимуть три дні.
 
 # Director
 ### In addition, your Science fair invention will be rated and counted for the diploma.
-PC10_INTRO5-11=Крім того, ваші винаходи для Наукового Ярмарку будуть оцінені та зараховані в дипломи.
+PC10_INTRO5-11=Крім того, ваші винаходи для наукового ярмарку будуть оцінені та зараховані в дипломи.
 
 
 # Director
