@@ -697,7 +697,7 @@ PC17_EXPOTECHNOLOGICAL1-3="Ми всі живемо в золоту еру з п
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### Oh, sure... For Drumers. Conditions for us Slumers don't really advance at the same rate.
-PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе у Верхах. Умови для нас, Нетрівців, покращуються не з такою швидкістю.
+PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе на Верхах. Умови для нас, Нетрівців, покращуються не з такою швидкістю.
 
 
 # Graff

@@ -3334,7 +3334,7 @@ ITEM_HACKER_MSG=Миша, що займається гакерством. З т�
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### The rat guard at the laboratory. It's surprising he's been allowed to stay in the Drums.
-ITEM_GUARD_MSG=Щурячий охоронець в лабораторії. Дивно, що йому дозволили лишитися у Верхах.
+ITEM_GUARD_MSG=Щурячий охоронець в лабораторії. Дивно, що йому дозволили лишитися на Верхах.
 
 ### The victim in my investigation. One of those eccentric scientists working on AI algori-thingamabobs.
 ITEM_HUSH_MSG=Жертва у розслідуванні, яке я веду. Ексцентричний науковець, який працює над якимись ШІ-алго-штучками.

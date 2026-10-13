@@ -5370,7 +5370,7 @@ PC01_STORY300_INIT1D-16=З мого боку все теж ускладнило�
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### But I don't care what it takes! You deserve to be a Drumer!
-PC01_STORY300_INIT1D-17=Але мені байдуже, чого б це мені не коштувало! Ти заслуговуєш жити у Верхах!
+PC01_STORY300_INIT1D-17=Але мені байдуже, чого б це мені не коштувало! Ти заслуговуєш жити на Верхах!
 
 
 # Brok
@@ -5696,7 +5696,7 @@ PC01_STORY300_INIT1E3B-5=Тут у Нетрях немає жодного спо
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### When I was put in charge of you... I knew you'd want to become a Drumer someday.
-PC01_STORY300_INIT1E3B-6=Коли я став твоїм опікуном... я знав, що ти колись захочеш жити у Верхах.
+PC01_STORY300_INIT1E3B-6=Коли я став твоїм опікуном... я знав, що ти колись захочеш жити на Верхах.
 
 
 # Brok

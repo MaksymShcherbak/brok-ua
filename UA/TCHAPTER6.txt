@@ -1282,7 +1282,7 @@ CH6_ENDING_FIGHTTOGETHER_END-9=Так само, як і я - у його тов�
 # Brok
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### I still feel there was so much he could have done in the Drums by using his intellect.
-CH6_ENDING_FIGHTTOGETHER_END-10=Я все ще думаю про те, скільки всього він міг би досягти у Верхах із його-то розумом.
+CH6_ENDING_FIGHTTOGETHER_END-10=Я все ще думаю про те, скільки всього він міг би досягти на Верхах із його-то розумом.
 
 
 # Brok

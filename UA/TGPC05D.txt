@@ -1972,7 +1972,7 @@ GPC05D_SECONDDIALOG7B-36=Наскільки ще наївним ти можеш 
 # Chiefrat
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### No wonder ya were a Drumer!
-GPC05D_SECONDDIALOG7B-37=Не здивований, шо ти колись мешкав у Верхах!
+GPC05D_SECONDDIALOG7B-37=Не здивований, шо ти колись мешкав на Верхах!
 
 
 # Chiefrat

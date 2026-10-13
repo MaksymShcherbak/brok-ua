@@ -1144,7 +1144,7 @@ GPC14C_HACKER_HIT3-1=Досить! Подивися, що ти наробив!
 # Ott
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### I was wrong. You don't deserve to be a Drumer.
-GPC14C_HACKER_HIT3-2=Я помилявся. Ти не заслуговуєш жити у Верхах.
+GPC14C_HACKER_HIT3-2=Я помилявся. Ти не заслуговуєш жити на Верхах.
 
 
 #----------------------------------------------------

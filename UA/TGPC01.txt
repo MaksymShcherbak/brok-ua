@@ -971,13 +971,13 @@ PC01_DAY2ENDH1B-15="У чому він бреше?"
 # Nmerchat
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### "HE WAS IN THE DRUMS YESTERDAY AND THIS AFTERNOON"
-PC01_DAY2ENDH1B-16="ВІН БУВ У ВЕРХАХ ВЧОРА І СЬОГОДНІ ВДЕНЬ"
+PC01_DAY2ENDH1B-16="ВІН БУВ НА ВЕРХАХ ВЧОРА І СЬОГОДНІ ВДЕНЬ"
 
 
 # Graffchat
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### "The Drums?... Impossible!"
-PC01_DAY2ENDH1B-17="У Верхах...? Неможливо!"
+PC01_DAY2ENDH1B-17="На Верхах...? Неможливо!"
 
 
 # Nmerchat
@@ -1229,7 +1229,7 @@ PC01_DAY2ENDJ2-13=Е-е...
 # Graff
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### Well, I'll tell you. You were in the Drums.
-PC01_DAY2ENDJ2-14=Що ж, я тобі скажу. Ти був у Верхах.
+PC01_DAY2ENDJ2-14=Що ж, я тобі скажу. Ти був на Верхах.
 
 
 # Brok
@@ -1544,7 +1544,7 @@ PC01_DAY2ENDJ2_TRUTH1-39=Але завтра все це зміниться.
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### You know... When you're a Drumer...
-PC01_DAY2ENDJ2_TRUTH1-40=Знаєш... Коли ти почнеш мешкати у Верхах...
+PC01_DAY2ENDJ2_TRUTH1-40=Знаєш... Коли ти почнеш мешкати на Верхах...
 
 
 # Brok
@@ -1923,7 +1923,7 @@ GPC01_DAY2ENDJ2_GIVEAPARTMENTKEY-3=О... Я просто хотів цим ск�
 # Brok
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### It's a symbol. My home will always be your home. Even when you're a Drumer.
-GPC01_DAY2ENDJ2_GIVEAPARTMENTKEY-4=Це символ. Мій дім завжди буде твоїм домом. Навіть тоді, коли ти будеш жити у Верхах.
+GPC01_DAY2ENDJ2_GIVEAPARTMENTKEY-4=Це символ. Мій дім завжди буде твоїм домом. Навіть тоді, коли ти будеш жити на Верхах.
 
 
 # Graff
