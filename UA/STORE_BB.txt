@@ -1,0 +1,78 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=The store description specific to Brawl Bar.
+#-------------------------------
+
+### A wild party beat 'em up with crazy challenges!
+STORE_TAGLINE=Шалена вечіркова гра-бійка з карколомними випробуваннями!
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### BROK: The Brawl Bar is a wild party beat 'em up! Tackle crazy challenges, fight your way to the top of an underground bar, and make unexpected friends along the way.
+STORE_SHORT=BROK: The Brawl Bar (Бійцівський бар) - шалена вечіркова гра-бійка! Беріться до карколомних випробувань, пробивайтеся на вершину підземного бару та заводьте несподівані знайомства.
+
+
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok, a former boxer turned detective, stumbles upon an underground bar hidden deep in the Slums. Old instincts kick in, and he jumps headfirst to prove he’s still top dog! (or...gator.)#Solo or with a friend in co-op, take on creative challenges inspired by "Event matches" of platform fighters, taken to the next level with original addictive mechanics and variety. In this gritty-yet-humorous bar, meet unforgettable characters and uncover surprises around every corner as the story unfolds.#
+STORE_LONG=Брок, колишній боксер, а тепер детектив, натрапляє на підземний бар, захований у самих глибинах Нетрів. Прокидаються старі інстинкти, і він, не роздумуючи, кидається доводити, що він і досі тут найголовніший! (чи то пак... найзубатіший.)#Грайте самі чи з другом у кооперативі: на вас чекають творчі випробування, натхненні "Event matches" із платформених бійок і підняті на новий рівень оригінальною механікою, що затягує, та різноманіттям. У цьому брутальному, але сповненому гумору барі ви зустрінете незабутніх персонажів, а разом з історією на вас чекатимуть несподіванки за кожним поворотом.#
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### This game is part of the BROK the InvestiGator universe.
+STORE_ADDITIONAL=Ця гра - частина всесвіту BROK the InvestiGator.
+
+
+### - 60+ varied challenges, with unique mechanics#- 6 playable characters, each offering distinct abilities#- Local co-op for up to 4 players#- Creator mode: Build your own challenges and characters#- Steam Workshop: Share and download community challenges and characters mods#- Steam Remote Play Together: Supported for online co-op#- Additional modes: Survival, Versus, Support, Daily and Bonus Challenges#- Multiple difficulty levels#- Achievements to unlock#- Text localized in 12 languages.
+STORE_FEATURES=- Понад 60 різноманітних випробувань з унікальною механікою#- 6 ігрових персонажів, кожен зі своїми здібностями#- Локальний кооперативний режим до 4 гравців#- Режим творця: створюйте власні випробування та персонажів#- Steam Workshop: діліться власними випробуваннями й модами на персонажів та завантажуйте створене спільнотою#- Steam Remote Play Together: підтримується для онлайн-кооперативу#- Додаткові режими: виживання, один на один, підтримка, щоденні та бонусні випробування#- Кілька рівнів складності#- Досягнення, які можна розблокувати#- Текст локалізовано 12 мовами.
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### This additional content explores new aspects of the BROK the InvestiGator fighting gameplay (expect 80% action and 20% adventure/visual novel) with an innovative and addictive approach to 2D beat 'em up action, providing hours of entertainment - and potentially infinite replayability!#Controller or keyboard highly recommended. Mouse alone won't get you far here!
+STORE_PCDLC=Це доповнення розкриває нові грані бойового геймплею BROK the InvestiGator (готуйтеся до 80% екшену та 20% пригод і візуальної новели). Інноваційний підхід до 2D-бійок, що затягує, дарує години розваг - і, цілком можливо, безмежну реграбельність!#Наполегливо радимо гру з контролером або клавіатурою. З самою мишкою тут далеко не зайдете!
+
+
+### How do I access this content?
+STORE_FAQQ1=Як отримати доступ до цього вмісту?
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### Enter the leftmost door in the hacker street (the one with the "Grand opening soon" banner). If you have finished the game at least once with a "main ending" on any save file, the banner should be gone and the door should be open. Just interact with it.
+STORE_FAQR1=Увійдіть у найлівіші двері в провулку гакера (ті, що з банером "Незабаром урочисте відкриття"). Якщо ви хоч раз завершили гру з "основною кінцівкою" за будь-якого файлу збереження, банер має зникнути, а двері - відчинитися. Просто взаємодійте з ними.
+
+
+### Do I absolutely have to finish the main game before playing this content?
+STORE_FAQQ2=Чи обов'язково спершу пройти основну гру, щоб пограти в цей вміст?
+
+
+# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+### No, you can also access the DLC through the main menu, or by clicking the door in the hacker street twice and choosing to enter. You may get spoilers by doing so, though!
+STORE_FAQR2=Ні, до доповнення можна дістатися й через головне меню - або двічі клацнути на двері в провулку гакера та вибрати вхід. Щоправда, так ви можете натрапити на спойлери!
+
+
+### What save file should I choose?
+STORE_FAQQ3=Який файл збереження вибрати?
+
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "EXP": "ДОСВІД"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It doesn't matter. The DLC is programmed so that all the progress is independant from the main game. EXP and Unis in particular are not used.
+STORE_FAQR3=Не має значення. Доповнення запрограмовано так, що весь прогрес не залежить від основної гри. Зокрема, ДОСВІД і Юні не використовуються.
+
+
+### How hard is it?
+STORE_FAQQ4=Наскільки це складно?
+
+
+### You can play all challenges on "relaxed" difficulty if needed. Additionally, you can skip challenges that are still too hard for you by spending C-Tokens (the bar currency).
+STORE_FAQR4=За потреби всі випробування можна проходити на рівні складності "Розслаблений". Крім того, випробування, які все ще заважкі для вас, можна пропустити, витративши C-Жетони (валюту бару).
+
+
+### I'm not interested in combat; should I play this anyway?
+STORE_FAQQ5=Мене не цікавлять бійки - то чи варто грати?
+
+
+### Combat is the main focus of this DLC. However you'll still get to talk with various characters in the bar and experience a short story in the game universe. It is recommended you play if you enjoyed combat in the main game, but don't if you skipped all the fights.
+STORE_FAQR5=Бійки - головне в цьому доповненні. Проте ви все одно зможете поспілкуватися з різними персонажами в барі та прожити коротку історію у всесвіті гри. Радимо грати, якщо вам сподобалися бійки в основній грі, і не радимо, якщо ви пропускали всі сутички.
+

@@ -1,0 +1,36 @@
+﻿# LANGUAGE: UKR
+#-------------------------------
+#=The description of the game for store pages (Steam, GOG etc)
+#-------------------------------
+
+### A hybrid traditional adventure and side-scrolling beat 'em up with a Saturday morning cartoon style and character-driven storyline. In a grim world where animals have replaced mankind, what kind of detective will you be?
+STORE_SHORT=Гібрид класичної пригоди та бійки з бічним прокручуванням у стилі суботніх ранкових мультфільмів, з сюжетом, що тримається на персонажах. У похмурому світі, де тварини замінили людство, яким детективом станете ви?
+
+
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Narrative-driven adventure game that blends action, puzzles and investigation in never-before-seen ways. Will you use your brain... or your brawn?##In a futuristic "light cyberpunk" world where animals have replaced humans, privileged citizens live under a protective dome from the ambient air pollution while others struggle to make a living on the outside.##Brok, a private detective and former boxer, lives with Graff, the son of his deceased wife. Although he could never elucidate her accident, recent events may shed some light on an even more tragic outcome... one that may be linked to their own existence.##Will they be able to withstand the threats of this corrupted world and face their own destiny?
+STORE_LONG=Сюжетна пригодницька гра, яка поєднує екшн, головоломки та розслідування в небачений досі спосіб. Діятимете розумом... чи силою?##У футуристичному світі "легкого кіберпанку", де тварини замінили людей, привілейовані громадяни живуть під захисним куполом, сховані від забрудненого повітря, тоді як інші ледве зводять кінці з кінцями назовні.##Брок, приватний детектив і колишній боксер, живе з Граффом, сином своєї покійної дружини. Хоч він так і не з'ясував обставин її нещасного випадку, нещодавні події можуть пролити світло на ще трагічніший результат... той, що може бути пов'язаний з їхнім власним існуванням.##Чи зможуть вони вистояти перед загрозами цього порочного світу та прийняти власну долю?
+
+
+### A deep and emotional narrative-rich experience filled with characters reminiscent of classic 80s/90s cartoons.##The first game to combine a "Classic Adventure" with "Beat'em up" and RPG elements!
+STORE_ADDITIONAL=Глибока й емоційна пригода, насичена сюжетом, з персонажами, що нагадують класичні мультфільми 80-х і 90-х.##Перша гра, яка поєднує "класичну пригоду" з "бійкою" та елементами RPG!
+
+
+### This prologue contains the first chapter (out of six in the final game)##Fully voice acted##2 to 4 hours of gameplay for this prologue!
+STORE_DEMO=Цей пролог містить перший розділ (з шести у повній грі)##Повне озвучення##Від 2 до 4 годин гри в цьому пролозі!
+
+
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Text fully translated into 10 languages##Solve puzzles with your wits... or muscles!##Make choices impacting gameplay and/or story##Easy mode for pure "Point & Click" gameplay (fights can be skipped)##Level up to beat enemies and bosses##Combine clues to uncover the truth!##In-game hints##All controls supported (mouse, keyboard or controller)
+STORE_FEATURES_COMMON=Текст повністю перекладено 10 мовами##Розв'язуйте головоломки розумом... чи м'язами!##Робіть вибір, який впливає на гру та/або сюжет##Легкий режим для чистого "Point & Click" (бої можна пропустити)##Підвищуйте рівень, щоб перемагати ворогів і босів##Поєднуйте зачіпки, щоб розкрити правду!##Підказки в грі##Підтримка всіх засобів керування (миша, клавіатура чи контролер)
+
+
+### Two playable characters, switch at any time##15 to 20 hours long on first playthrough##Multiple distinct endings to unlock##Fully voice acted (23,000 lines)
+STORE_FEATURES=Два ігрові персонажі - перемикайтеся будь-коли##Від 15 до 20 годин на перше проходження##Кілька різних кінцівок, які можна відкрити##Повне озвучення (23,000 реплік)
+
+
+### This prologue contains the first chapter (out of six in the final game)##Fully voice acted##2 to 4 hours of gameplay for this prologue!
+STORE_FEATURES_DEMO=Цей пролог містить перший розділ (з шести у повній грі)##Повне озвучення##Від 2 до 4 годин гри в цьому пролозі!
+

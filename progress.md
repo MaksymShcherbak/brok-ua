@@ -17,6 +17,8 @@
 | TCPC15    | Done                | Done          |
 | TCREDITS  | To Do               | To Do         |
 | TDLC      | Postponed           | To Do         |
+| STORE     | Done                | To Do         |
+| STORE_BB  | Done                | To Do         |
 | TEV_MAP   | Done                | Done          |
 | TGAMEOVER | Done                | Done          |
 | TGBM01    | Done                | Done          |
@@ -90,6 +92,6 @@
 | TPC19D    | Done                | Done          |
 | TPC20     | Done                | Done          |
 | TPC21     | Postponed           | To Do         |
-| TSP01     | To Do               | To Do         |
+| TSP01     | Done                | Done          |
 | TSP02     | To Do               | To Do         |
 | TSUMMARY  | Done                | Done          |

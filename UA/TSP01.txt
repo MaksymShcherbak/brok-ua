@@ -10,10 +10,10 @@
 
 # ----- Choices / Items --------
 ### Boost
-INTERFACE_BOOST=
+INTERFACE_BOOST=Прискорення
 
 ### Overload!
-INTERFACE_OVERLOAD=
+INTERFACE_OVERLOAD=Перевантаження!
 
 
 #----- Topics --------
@@ -27,51 +27,51 @@ INTERFACE_OVERLOAD=
 ###############################################
 # Brok - Brok chases Tidy on the highway with an hoverbike
 ### Come back here so I can smash you into pieces!
-SP01_FIRST-1=
+SP01_FIRST-1=Ану вертайся сюди, я рознесу тебе на шматки!
 
 
 # Brok
 ### ...
-SP01_FIRST-2=
+SP01_FIRST-2=...
 
 
 # Brok
 ### Too bad I can't shoot with this thing, so no choice...
-SP01_FIRST-3=
+SP01_FIRST-3=Шкода, з цієї штуки не постріляєш... Тож вибору нема.
 
 
 # Brok
 ### I'll have to bump into that crazy bot!
-SP01_FIRST-4=
+SP01_FIRST-4=Доведеться врізатися в цього навіженого бота!
 
 
 # Brok
 ### Let's see what this baby can do!
-SP01_FIRST-5=
+SP01_FIRST-5=Поглянемо, на що здатна ця красуня!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Can't get fast enough to reach Tidy unless I use the boost!
-SP01_BOOSTTIP-1=
+SP01_BOOSTTIP-1=Я не наберу швидкості, щоб наздогнати Тайді, якщо не використаю прискорення!
 
 
 #----------------------------------------------------
 # Brok
 ### Got ya!
-SP01_TIDY_DEAD-1=
+SP01_TIDY_DEAD-1=Попався!
 
 
 #----------------------------------------------------
 # Brok
 ### Now for the hard part...
-SP01_TIDY_DEAD2-1=
+SP01_TIDY_DEAD2-1=А тепер найскладніше...
 
 
 # Brok
 ### How do I get back to the lab? (sigh)
-SP01_TIDY_DEAD2-2=
+SP01_TIDY_DEAD2-2=Як мені повернутися до лабораторії? (Зітхає)
 
 
 #----------------------------------------------------
