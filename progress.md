@@ -15,10 +15,10 @@
 | TCHAPTER6 | Done                | Done          |
 | TCOMMON   | Done                | Done          |
 | TCPC15    | Done                | Done          |
-| TCREDITS  | To Do               | To Do         |
+| TCREDITS  | Done                | Done          |
 | TDLC      | Postponed           | To Do         |
-| STORE     | Done                | To Do         |
-| STORE_BB  | Done                | To Do         |
+| STORE     | Done                | Done          |
+| STORE_BB  | Done                | Done          |
 | TEV_MAP   | Done                | Done          |
 | TGAMEOVER | Done                | Done          |
 | TGBM01    | Done                | Done          |
