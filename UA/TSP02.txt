@@ -86,7 +86,7 @@ SP02_DAY2ALTERNATIVE-3=(Нерозбірлива мова)
 
 # Wes
 ### You did? You localized the third member?!
-SP02_DAY2ALTERNATIVE-4=Дійсно? Ти вистежив третього учасника?!
+SP02_DAY2ALTERNATIVE-4=Невже? Тобі вдалось вистежити третього учасника?!
 
 
 # Unknown
@@ -160,7 +160,7 @@ SP02_CAMEO1-2=О! Привіт!
 
 # Exts
 ### Are you a friend of Bjorn?
-SP02_CAMEO1-3=Ти друг Б'єрна?
+SP02_CAMEO1-3=Ти друг Бйорна?
 
 
 # Brok
@@ -190,7 +190,7 @@ SP02_CAMEO1-8=Що?!
 
 # Exts
 ### Come on, honey! He's not a plushie!
-SP02_CAMEO1-9=Ну ж бо, сонечко! Він не плюшева іграшка!
+SP02_CAMEO1-9=Годі, сонечко! Він не плюшева іграшка!
 
 
 # Exts
@@ -200,7 +200,7 @@ SP02_CAMEO1-10=Він людина!
 
 # Exts
 ### ...I... think?...
-SP02_CAMEO1-11=...Я... думаю...?
+SP02_CAMEO1-11=...Здається...?
 
 
 # Brok
@@ -210,7 +210,7 @@ SP02_CAMEO1-12=Гей! Звісно, я людина!
 
 # Brok
 ### What ARE you?!
-SP02_CAMEO1-13=Та хто ви такі?!
+SP02_CAMEO1-13=Хто ВИ такі?!
 
 
 # Exts
@@ -230,7 +230,7 @@ SP02_CAMEO1-16=А що не так з моїм супом?
 
 # Brok
 ### (Looks like I'm not the only one with parenting trouble...)
-SP02_CAMEO1-17=(Схоже, не в мене одного проблеми з вихованням...)
+SP02_CAMEO1-17=(Схоже, не в мене одного проблеми з вихованням дитини...)
 
 
 # Extc
@@ -245,7 +245,7 @@ SP02_CAMEO1-19=Диви, хто завітав. Безмозкий ідіот.
 
 # Exts
 ### Hi Bjorn!
-SP02_CAMEO1-20=Привіт, Б'єрне!
+SP02_CAMEO1-20=Привіт, Бйорне!
 
 
 # Extb
@@ -255,12 +255,12 @@ SP02_CAMEO1-21=Гей, Сандро! Як справи...
 
 # Extb
 ### ...What the heck?!
-SP02_CAMEO1-22=...Що за чорт?!
+SP02_CAMEO1-22=...Якого хріна?!
 
 
 # Extb
 ### What is this costumed weirdo doing in my apartment?
-SP02_CAMEO1-23=Що це за дивак у костюмі робить у моїй квартирі?
+SP02_CAMEO1-23=Що цей дивак у костюмі робить в моїй квартирі?
 
 
 # Brok
@@ -270,7 +270,7 @@ SP02_CAMEO1-24=Я...
 
 # Extb
 ### Wait!!!
-SP02_CAMEO1-25=Стривай!!!
+SP02_CAMEO1-25=Стривайте!!!
 
 
 # Extb
@@ -320,12 +320,12 @@ SP02_CAMEO1-34=Н... ні!
 
 # Brok
 ### It was like this when I arrived from my time machine!
-SP02_CAMEO1-35=Так уже було, коли я прибув на машині часу!
+SP02_CAMEO1-35=Так уже було, коли я прибув сюди на машині часу!
 
 
 # Brok
 ### There was this ray of light and...
-SP02_CAMEO1-36=Був такий промінь світла, і...
+SP02_CAMEO1-36=Був такий промінь світла, а потім...
 
 
 # Extb
@@ -350,7 +350,7 @@ SP02_CAMEO1-40=Привіт, мамо! (Ригає)
 
 # Brok
 ### AaaaaAAAaaargh!
-SP02_CAMEO1-41=А-а-а-а-аАААааргх!
+SP02_CAMEO1-41=А-а-а-а-аАААааа-а!
 
 
 #----------------------------------------------------
@@ -366,7 +366,7 @@ SP02_CAMEO2-2=Витягни мене звідси!
 
 # Shay
 ### Bro'! This is all your fault!
-SP02_CAMEO2-3=Бро'! Це все через тебе!
+SP02_CAMEO2-3=Бро'! Це все твоя вина!
 
 
 # Brok
@@ -381,7 +381,7 @@ SP02_CAMEO2-5=Ти знищив мою машину!
 
 # Shay
 ### The one I've spent half of my life fixing!
-SP02_CAMEO2-6=Ту, на яку я витратив пів життя!
+SP02_CAMEO2-6=Ту, на яку я витратила пів життя!
 
 
 # Shay
@@ -391,12 +391,12 @@ SP02_CAMEO2-7=Тепер ти загубився в часі... назавжди
 
 # Brok
 ### Oops.
-SP02_CAMEO2-8=Ой.
+SP02_CAMEO2-8=Ой-ой.
 
 
 # Brok
 ### Can I try again?...
-SP02_CAMEO2-9=Можна спробувати ще раз...?
+SP02_CAMEO2-9=Я можу спробувати ще раз...?
 
 
 # Shay
@@ -435,7 +435,7 @@ SP02_DOORCANNOT1-1=Без ручки?
 #----------------------------------------------------
 # Brok
 ### What kind of demented person puts a coffin in their bedroom?
-SP02_DOORRIGHT1-1=Що за ненормальний ставить труну у своїй спальні?
+SP02_DOORRIGHT1-1=Що за псих поставить труну у своїй спальні?
 
 
 #----------------------------------------------------
@@ -488,7 +488,7 @@ SP02_RAT1-1=Верескун...?
 
 # Brok
 ### That one already got a beating!
-SP02_RAT1-2=Цьому вже добряче перепало!
+SP02_RAT1-2=Йому вже добряче перепало!
 
 
 #----------------------------------------------------
