@@ -93,5 +93,5 @@
 | TPC20     | Done                | Done          |
 | TPC21     | Postponed           | To Do         |
 | TSP01     | Done                | Done          |
-| TSP02     | To Do               | To Do         |
+| TSP02     | Done                | Done          |
 | TSUMMARY  | Done                | Done          |

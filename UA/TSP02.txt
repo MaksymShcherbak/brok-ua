@@ -36,412 +36,412 @@
 
 #----- Interactions --------
 ### Black box
-PC_BLACKBOX=
+PC_BLACKBOX=Чорна скринька
 
 ### Cat
-PC_CAT=
+PC_CAT=Кіт
 
 ### Rat
-PC_RAT=
+PC_RAT=Пацюк
 
 ### Cookie
-PC_COOKIE=
+PC_COOKIE=Печиво
 
 
 # Tribot
 ### Update in progress...
-SP02_DAY2ENDNIGHTMARE1-1=
+SP02_DAY2ENDNIGHTMARE1-1=Триває оновлення...
 
 
 # Tribot
 ### ...
-SP02_DAY2ENDNIGHTMARE1-2=
+SP02_DAY2ENDNIGHTMARE1-2=...
 
 
 # Tribot
 ### Firmware installed.
-SP02_DAY2ENDNIGHTMARE1-3=
+SP02_DAY2ENDNIGHTMARE1-3=Прошивку встановлено.
 
 
 # Tribot
 ### Target defined.
-SP02_DAY2ENDNIGHTMARE1-4=
+SP02_DAY2ENDNIGHTMARE1-4=Ціль визначено.
 
 
 #----------------------------------------------------
 # Unknown
 ### (Phone ring)
-SP02_DAY2ALTERNATIVE-1=
+SP02_DAY2ALTERNATIVE-1=(Дзвінок)
 
 
 # Wes
 ### Yes?
-SP02_DAY2ALTERNATIVE-2=
+SP02_DAY2ALTERNATIVE-2=Так?
 
 
 # Unknown
 ### (Indecipherable speech)
-SP02_DAY2ALTERNATIVE-3=
+SP02_DAY2ALTERNATIVE-3=(Нерозбірлива мова)
 
 
 # Wes
 ### You did? You localized the third member?!
-SP02_DAY2ALTERNATIVE-4=
+SP02_DAY2ALTERNATIVE-4=Дійсно? Ти вистежив третього учасника?!
 
 
 # Unknown
 ### (Indecipherable speech)
-SP02_DAY2ALTERNATIVE-5=
+SP02_DAY2ALTERNATIVE-5=(Нерозбірлива мова)
 
 
 # Wes
 ### Great news. Your improved AI is a blessing.
-SP02_DAY2ALTERNATIVE-6=
+SP02_DAY2ALTERNATIVE-6=Чудові новини. Твій удосконалений ШІ - справжнє благословення.
 
 
 # Wes
 ### You filled your part of the bargain and so did I. You're free now.
-SP02_DAY2ALTERNATIVE-7=
+SP02_DAY2ALTERNATIVE-7=Ти виконав свою частину угоди, і я теж. Тепер ти вільний.
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Good luck, Tidy.
-SP02_DAY2ALTERNATIVE-8=
+SP02_DAY2ALTERNATIVE-8=Хай щастить, Тайді.
 
 
 # Unknown
 ### [...]
-SP02_DAY2ALTERNATIVE-9=
+SP02_DAY2ALTERNATIVE-9=[...]
 
 
 # Wes
 ### ...
-SP02_DAY2ALTERNATIVE-10=
+SP02_DAY2ALTERNATIVE-10=...
 
 
 # Wes
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribots.
-SP02_DAY2ALTERNATIVE-11=
+SP02_DAY2ALTERNATIVE-11=Триботи.
 
 
 # Tribot
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Yes, chief?
-SP02_DAY2ALTERNATIVE-12=
+SP02_DAY2ALTERNATIVE-12=Так, шефе?
 
 
 # Wes
 ### We've got a criminal bot on the loose.
-SP02_DAY2ALTERNATIVE-13=
+SP02_DAY2ALTERNATIVE-13=У нас на волі розгулює робот-злочинець.
 
 
 # Wes
 ### Eliminate it.
-SP02_DAY2ALTERNATIVE-14=
+SP02_DAY2ALTERNATIVE-14=Ліквідуйте його.
 
 
 # Tribot
 ### Very well.
-SP02_DAY2ALTERNATIVE-15=
+SP02_DAY2ALTERNATIVE-15=Гаразд.
 
 
 #----------------------------------------------------
 # Brok
 ### ...!
-SP02_CAMEO1-1=
+SP02_CAMEO1-1=...!
 
 
 # Exts
 ### Oh! Hello!
-SP02_CAMEO1-2=
+SP02_CAMEO1-2=О! Привіт!
 
 
 # Exts
 ### Are you a friend of Bjorn?
-SP02_CAMEO1-3=
+SP02_CAMEO1-3=Ти друг Б'єрна?
 
 
 # Brok
 ### Huh?
-SP02_CAMEO1-4=
+SP02_CAMEO1-4=Га?
 
 
 # Extc
 ### Oh! Awesome!!! A real life plushie!
-SP02_CAMEO1-5=
+SP02_CAMEO1-5=О! Круто!!! Справжня плюшева іграшка!
 
 
 # Extc
 ### Can I rip off his head, Mommy?
-SP02_CAMEO1-6=
+SP02_CAMEO1-6=Можна я відірву йому голову, мамо?
 
 
 # Extc
 ### Pleaaase?
-SP02_CAMEO1-7=
+SP02_CAMEO1-7=Ну будь ла-а-аска?
 
 
 # Brok
 ### What?!
-SP02_CAMEO1-8=
+SP02_CAMEO1-8=Що?!
 
 
 # Exts
 ### Come on, honey! He's not a plushie!
-SP02_CAMEO1-9=
+SP02_CAMEO1-9=Ну ж бо, сонечко! Він не плюшева іграшка!
 
 
 # Exts
 ### He's human!
-SP02_CAMEO1-10=
+SP02_CAMEO1-10=Він людина!
 
 
 # Exts
 ### ...I... think?...
-SP02_CAMEO1-11=
+SP02_CAMEO1-11=...Я... думаю...?
 
 
 # Brok
 ### Hey! Of course I'm human!
-SP02_CAMEO1-12=
+SP02_CAMEO1-12=Гей! Звісно, я людина!
 
 
 # Brok
 ### What ARE you?!
-SP02_CAMEO1-13=
+SP02_CAMEO1-13=Та хто ви такі?!
 
 
 # Exts
 ### Maybe we should ask your daddy!
-SP02_CAMEO1-14=
+SP02_CAMEO1-14=Може, спитаємо в татуся!
 
 
 # Extc
 ### Eww! Next time you call him that, I'll make you eat your own soup!
-SP02_CAMEO1-15=
+SP02_CAMEO1-15=Фу! Ще раз так його назвеш - і я змушу тебе з'їсти твій власний суп!
 
 
 # Exts
 ### What's wrong with my soup?
-SP02_CAMEO1-16=
+SP02_CAMEO1-16=А що не так з моїм супом?
 
 
 # Brok
 ### (Looks like I'm not the only one with parenting trouble...)
-SP02_CAMEO1-17=
+SP02_CAMEO1-17=(Схоже, не в мене одного проблеми з вихованням...)
 
 
 # Extc
 ### Oh no...
-SP02_CAMEO1-18=
+SP02_CAMEO1-18=О ні...
 
 
 # Extc
 ### Look who's arrived. The brainless idiot.
-SP02_CAMEO1-19=
+SP02_CAMEO1-19=Диви, хто завітав. Безмозкий ідіот.
 
 
 # Exts
 ### Hi Bjorn!
-SP02_CAMEO1-20=
+SP02_CAMEO1-20=Привіт, Б'єрне!
 
 
 # Extb
 ### Hey, Sandra! How are...
-SP02_CAMEO1-21=
+SP02_CAMEO1-21=Гей, Сандро! Як справи...
 
 
 # Extb
 ### ...What the heck?!
-SP02_CAMEO1-22=
+SP02_CAMEO1-22=...Що за чорт?!
 
 
 # Extb
 ### What is this costumed weirdo doing in my apartment?
-SP02_CAMEO1-23=
+SP02_CAMEO1-23=Що це за дивак у костюмі робить у моїй квартирі?
 
 
 # Brok
 ### I...
-SP02_CAMEO1-24=
+SP02_CAMEO1-24=Я...
 
 
 # Extb
 ### Wait!!!
-SP02_CAMEO1-25=
+SP02_CAMEO1-25=Стривай!!!
 
 
 # Extb
 ### Something...
-SP02_CAMEO1-26=
+SP02_CAMEO1-26=Щось...
 
 
 # Extb
 ### Something amazing is happening...
-SP02_CAMEO1-27=
+SP02_CAMEO1-27=Щось неймовірне відбувається...
 
 
 # Extb
 ### ...I have a voice!
-SP02_CAMEO1-28=
+SP02_CAMEO1-28=...У мене є голос!
 
 
 # Exts
 ### ...
-SP02_CAMEO1-29=
+SP02_CAMEO1-29=...
 
 
 # Extc
 ### ...
-SP02_CAMEO1-30=
+SP02_CAMEO1-30=...
 
 
 # Extb
 ### No way!
-SP02_CAMEO1-31=
+SP02_CAMEO1-31=Не може бути!
 
 
 # Extb
 ### Look at the mess you've made to my apartment!
-SP02_CAMEO1-32=
+SP02_CAMEO1-32=Подивись, що ти наробив у моїй квартирі!
 
 
 # Extb
 ### You even crapped there!
-SP02_CAMEO1-33=
+SP02_CAMEO1-33=Ти навіть накакав он там!
 
 
 # Brok
 ### N... no!
-SP02_CAMEO1-34=
+SP02_CAMEO1-34=Н... ні!
 
 
 # Brok
 ### It was like this when I arrived from my time machine!
-SP02_CAMEO1-35=
+SP02_CAMEO1-35=Так уже було, коли я прибув на машині часу!
 
 
 # Brok
 ### There was this ray of light and...
-SP02_CAMEO1-36=
+SP02_CAMEO1-36=Був такий промінь світла, і...
 
 
 # Extb
 ### Yeah, right!
-SP02_CAMEO1-37=
+SP02_CAMEO1-37=Ага, звісно!
 
 
 # Extb
 ### And I have a machine to make money and clone myself!
-SP02_CAMEO1-38=
+SP02_CAMEO1-38=А в мене є машина, яка друкує гроші й клонує мене!
 
 
 # Exts
 ### By the way! Where's Bjoline?
-SP02_CAMEO1-39=
+SP02_CAMEO1-39=До речі! А де Бйолін?
 
 
 # Extj
 ### Hi mommy! (burp)
-SP02_CAMEO1-40=
+SP02_CAMEO1-40=Привіт, мамо! (Ригає)
 
 
 # Brok
 ### AaaaaAAAaaargh!
-SP02_CAMEO1-41=
+SP02_CAMEO1-41=А-а-а-а-аАААааргх!
 
 
 #----------------------------------------------------
 # Brok
 ### Shayyy!
-SP02_CAMEO2-1=
+SP02_CAMEO2-1=Ше-е-ей!
 
 
 # Brok
 ### Get me outta here!
-SP02_CAMEO2-2=
+SP02_CAMEO2-2=Витягни мене звідси!
 
 
 # Shay
 ### Bro'! This is all your fault!
-SP02_CAMEO2-3=
+SP02_CAMEO2-3=Бро'! Це все через тебе!
 
 
 # Brok
 ### What did I do?!
-SP02_CAMEO2-4=
+SP02_CAMEO2-4=Що я такого зробив?!
 
 
 # Shay
 ### You've destroyed my machine!
-SP02_CAMEO2-5=
+SP02_CAMEO2-5=Ти знищив мою машину!
 
 
 # Shay
 ### The one I've spent half of my life fixing!
-SP02_CAMEO2-6=
+SP02_CAMEO2-6=Ту, на яку я витратив пів життя!
 
 
 # Shay
 ### Now you're lost in time... forever!
-SP02_CAMEO2-7=
+SP02_CAMEO2-7=Тепер ти загубився в часі... назавжди!
 
 
 # Brok
 ### Oops.
-SP02_CAMEO2-8=
+SP02_CAMEO2-8=Ой.
 
 
 # Brok
 ### Can I try again?...
-SP02_CAMEO2-9=
+SP02_CAMEO2-9=Можна спробувати ще раз...?
 
 
 # Shay
 ### Yeah. After the credits.
-SP02_CAMEO2-10=
+SP02_CAMEO2-10=Ага. Після титрів.
 
 
 # Brok
 ### Cool!
-SP02_CAMEO2-11=
+SP02_CAMEO2-11=Круто!
 
 
 #----------------------------------------------------
 # Brok
 ### Err...
-SP02_ARRIVE-1=
+SP02_ARRIVE-1=Е-е...
 
 
 #----------------------------------------------------
 # Brok
 ### What is this place?
-SP02_ARRIVE2-1=
+SP02_ARRIVE2-1=Що це за місце?
 
 
 # Brok
 ### Eww... It reeks!
-SP02_ARRIVE2-2=
+SP02_ARRIVE2-2=Фу... Смердить!
 
 
 #----------------------------------------------------
 # Brok
 ### No handle?
-SP02_DOORCANNOT1-1=
+SP02_DOORCANNOT1-1=Без ручки?
 
 
 #----------------------------------------------------
 # Brok
 ### What kind of demented person puts a coffin in their bedroom?
-SP02_DOORRIGHT1-1=
+SP02_DOORRIGHT1-1=Що за ненормальний ставить труну у своїй спальні?
 
 
 #----------------------------------------------------
 # Brok
 ### Can't open it! Where's the handle?
-SP02_DOORCANNOT2-1=
+SP02_DOORCANNOT2-1=Не відчиняється! Де ручка?
 
 
 #----------------------------------------------------
@@ -449,59 +449,59 @@ SP02_DOORCANNOT2-1=
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
 # NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
 ### A flat version of our livies?
-SP02_TV1-1=
+SP02_TV1-1=Пласка версія наших голографічних роликів?
 
 
 #----------------------------------------------------
 # Brok
 ### ...
-SP02_CAT1-1=
+SP02_CAT1-1=...
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff! Is that you?!
-SP02_CAT1-2=
+SP02_CAT1-2=Граффе! Це ти?!
 
 
 # Unknown
 ### (Meow)
-SP02_CAT1-3=
+SP02_CAT1-3=(Нявкає)
 
 
 # Brok
 ### Don't worry, son! I'll get you back to normal!
-SP02_CAT1-4=
+SP02_CAT1-4=Не хвилюйся, синку! Я поверну тебе до норми!
 
 
 # Unknown
 ### (Purr)
-SP02_CAT1-5=
+SP02_CAT1-5=(Муркоче)
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### A Squealer?...
-SP02_RAT1-1=
+SP02_RAT1-1=Верескун...?
 
 
 # Brok
 ### That one already got a beating!
-SP02_RAT1-2=
+SP02_RAT1-2=Цьому вже добряче перепало!
 
 
 #----------------------------------------------------
 # Brok
 ### Those guys are everywhere!
-SP02_RAT2-1=
+SP02_RAT2-1=Цих хлопців тут повно!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### No thanks. I only collect ads!
-SP02_COOKIE1-1=
+SP02_COOKIE1-1=Ні, дякую. Я збираю лише рекламу!
 
 
 #----------------------------------------------------
