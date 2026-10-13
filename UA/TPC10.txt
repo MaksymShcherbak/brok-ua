@@ -1509,7 +1509,7 @@ PC10_DIRECTOR_INV_REMOTECONTROL-3=Га?
 
 # Brok
 ### Darn. Not working.
-PC10_DIRECTOR_INV_REMOTECONTROL-4=Дідько. Не працює.
+PC10_DIRECTOR_INV_REMOTECONTROL-4=Трясця. Не працює.
 
 
 #----------------------------------------------------

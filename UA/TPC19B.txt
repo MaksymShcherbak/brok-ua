@@ -699,7 +699,7 @@ PC19B_CONTROLPANEL2-1=...
 
 # Dee
 ### Wait! What are you doing?
-PC19B_CONTROLPANEL2-2=Стривай! Що ти робиш?
+PC19B_CONTROLPANEL2-2=Зажди! Що ти робиш?
 
 
 # Brok
@@ -1960,7 +1960,7 @@ PC19B_TARGET5-4=Матінко рідна!
 
 # Dee
 ### Wait a minute.
-PC19B_TARGET5-5=Стривай.
+PC19B_TARGET5-5=Зажди.
 
 
 # Dee

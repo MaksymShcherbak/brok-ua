@@ -344,7 +344,7 @@ CH6_CHOICE_BROK-7=Невдалий час, сину. Ми зараз намаг�
 
 # Brok
 ### Oh gosh! More are coming!
-CH6_CHOICE_BROK-8=Ой, леле! Їх іде ще більше!
+CH6_CHOICE_BROK-8=Ой-ой! Їх іде ще більше!
 
 
 # Unknown

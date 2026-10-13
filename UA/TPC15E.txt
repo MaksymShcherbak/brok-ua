@@ -650,7 +650,7 @@ PC15E_FRIDGE_AFTER1-17=Можливо, хоча він зазвичай не л�
 
 # Mink
 ### I bet he gave it a shot and then decided against it!
-PC15E_FRIDGE_AFTER1-18=Б'юся об заклад, він спробував, а потім передумав!
+PC15E_FRIDGE_AFTER1-18=Закладаюся, він спробував, а потім передумав!
 
 
 # Brok

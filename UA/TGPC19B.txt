@@ -345,7 +345,7 @@ GPC19B_DOORSIDE1-1=Двоє зачинених дверей без ручок.
 
 # Graff
 ### I bet these are exits and each of us ought to take a different one.
-GPC19B_DOORSIDE1-2=Б'юся об заклад, що це виходи, і кожен із нас має піти крізь свій власний.
+GPC19B_DOORSIDE1-2=Закладаюся, що це виходи, і кожен із нас має піти крізь свій власний.
 
 
 # Klay
@@ -383,7 +383,7 @@ GPC19B_KLAYROOMS1-1=Гей! І куди це ти зібрався?
 
 # Graff
 ### Darn.
-GPC19B_KLAYROOMS1-2=Чорт.
+GPC19B_KLAYROOMS1-2=Трясця.
 
 
 # Klay
@@ -595,7 +595,7 @@ GPC19B_KLAYBED_NOTINSIST1-6=Припини вдавати з себе ідеал
 
 # Graff
 ### Go check on your mother. I bet she must be rusting in the rain. Hope you don't forget to fill her oil tank!
-GPC19B_KLAYBED_NOTINSIST1-7=Іди перевір свою маму. Б'юся об заклад, вона зараз іржавіє під дощем. Сподіваюся, ти не забув залити мастило в її бак!
+GPC19B_KLAYBED_NOTINSIST1-7=Іди перевір свою маму. Закладаюся, вона зараз іржавіє під дощем. Сподіваюся, ти не забув залити мастило в її бак!
 
 
 # Klay

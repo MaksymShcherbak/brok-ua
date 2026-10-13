@@ -2976,7 +2976,7 @@ PC10_MACHINE_STUBOT1-1=Ох! Тут всередині мурахи!
 
 # Graff
 ### I bet this converts their footsteps into energy.
-PC10_MACHINE_STUBOT1-2=Б'юся об заклад, воно перетворює їхні кроки на енергію.
+PC10_MACHINE_STUBOT1-2=Закладаюся, воно перетворює їхні кроки на енергію.
 
 
 # Graff
@@ -3168,7 +3168,7 @@ PC10_VRLEARNER1-1=Гмм... Чи є у мене причина використ�
 #----------------------------------------------------
 # Graff
 ### I hate this but there's no time to waste!
-PC10_VRLEARNER_BEFORECHOICE-1=Ненавиджу його, але я не можу втрачати час!
+PC10_VRLEARNER_BEFORECHOICE-1=Ненавиджу його, але немає часу гаяти!
 
 
 # Graff
@@ -4432,7 +4432,7 @@ PC10_KLAYBED_DEAD-12=А от і ні, йолопе!
 
 # Klay
 ### Wait! Where are you going?!
-PC10_KLAYBED_DEAD-13=Чекай! Куди це ти?!
+PC10_KLAYBED_DEAD-13=Зажди! Куди це ти?!
 
 
 # Klay

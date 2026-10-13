@@ -96,7 +96,7 @@ GPC14_STORY180_SECOND5-2=Ви знаєте, хто я такий, дрібні �
 
 # Brok
 ### Well I bet your boss remembers.
-GPC14_STORY180_SECOND5-3=Ну, б'юся об заклад, ваш бос пам'ятає.
+GPC14_STORY180_SECOND5-3=Ну, закладаюся, ваш бос пам'ятає.
 
 
 # Dart

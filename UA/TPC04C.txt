@@ -1370,7 +1370,7 @@ PC04C_BUY_POWDER-4=Взагалі... ні краплі...
 
 # Brok
 ### Oh boy! What have I done?!
-PC04C_BUY_POWDER-5=Ой леле! Що ж я накоїв?!
+PC04C_BUY_POWDER-5=Ну от! Що ж я накоїв?!
 
 
 # Brok

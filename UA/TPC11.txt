@@ -165,7 +165,7 @@ PC11_FRAME1B-1=Дивно. Що тут мало бути зображено?
 
 
 ### I bet this leads to the lounge, but it's closed and surrounded by fire.
-PC11_DOORRIGHT_FAR1-1=Б'юся об заклад, цей шлях веде до вітальні. Але двері зачинені й оточені вогнем.
+PC11_DOORRIGHT_FAR1-1=Закладаюся, цей шлях веде до вітальні. Але двері зачинені й оточені вогнем.
 
 
 ### On the other hand, the door is bent. Maybe the fire will eventually destroy it?

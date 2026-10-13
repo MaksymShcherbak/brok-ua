@@ -85,7 +85,7 @@ PC05C_MACHINE1-1=Вода, що витікає з нього, чиста.
 
 # Brok
 ### I bet this is a purifying engine!
-PC05C_MACHINE1-2=Б'юся об заклад, це очисний пристрій!
+PC05C_MACHINE1-2=Закладаюся, це очисний пристрій!
 
 
 # Brok

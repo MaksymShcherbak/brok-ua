@@ -565,7 +565,7 @@ PC19D_LEAVE_CALL-12=Чорт... Він недоступний.
 
 # Dee
 ### Then no time to waste. Let's try my plan.
-PC19D_LEAVE_CALL-13=Тоді не марнуймо часу. Спробуємо мій план.
+PC19D_LEAVE_CALL-13=Тоді не будемо гаяти час. Спробуємо мій план.
 
 
 # Brok

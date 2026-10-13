@@ -16,7 +16,7 @@ HINT_CH5_210_BEFOREMUSEUM1=Кошенятко, чому б тобі не пос�
 HINT_CH5_210_GETPHONE1=Щось лежить на підлозі просто біля того трикутного каменю. Підбери!
 
 ### I bet you've got an ancient item in your inventory that could fill that empty spot on that stand! (the leftmost exposition)
-HINT_CH5_210_USEPHONE1=Б'юся об заклад, у твоєму інвентарі є якась стародавня річ, яка заповнить порожнє місце на тому стенді! (найлівіша експозиція)
+HINT_CH5_210_USEPHONE1=Закладаюся, у твоєму інвентарі є якась стародавня річ, яка заповнить порожнє місце на тому стенді! (найлівіша експозиція)
 
 
 
@@ -120,7 +120,7 @@ HINT_CH5_210_REMOVELASERS3=Стань перед тією прогалиною �
 
 
 ### Kitty, I bet you missed that 'X' mark on the far right wall. What does that kind of mark usually indicate?...
-HINT_CH5_210_MARK1=Кошенятко, б'юся об заклад, ти не помітив позначку "X" на дальній правій стіні. Що зазвичай означає така позначка...?
+HINT_CH5_210_MARK1=Кошенятко, закладаюся, ти не помітив позначку "X" на дальній правій стіні. Що зазвичай означає така позначка...?
 
 ### Switch to action mode and hit that mark!
 HINT_CH5_210_MARK2=Перемкнись у режим бійки й вдар по тій позначці!
@@ -192,7 +192,7 @@ HINT_CH5_230_HACKER1=Поговори з Р. Джеєм.
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Dude, what a choice! Who should you save first? I can't help you with that but I'll state the obvious - you'll need a daily pill to save R.J. As for the doc, I bet he returned to his favorite hiding place...
-HINT_CH5_240_SAVING1=Чуваче, ось це вибір! Кого рятувати першим? Тут я тобі не помічник, але скажу очевидне - щоб урятувати Р. Джея, тобі знадобиться щоденна пігулка. А щодо дока, то, б'юся об заклад, він повернувся до свого улюбленого сховку...
+HINT_CH5_240_SAVING1=Чуваче, ось це вибір! Кого рятувати першим? Тут я тобі не помічник, але скажу очевидне - щоб урятувати Р. Джея, тобі знадобиться щоденна пігулка. А щодо дока, то, закладаюся, він повернувся до свого улюбленого сховку...
 
 ### To enter the pharmacy, use the code indicated in the "new citizen" message you've received on day 1.
 HINT_CH5_240_SAVING2=Щоб зайти в аптеку, використай код із повідомлення "Ласкаво просимо під Купол!", яке ти отримав першого дня.

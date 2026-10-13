@@ -128,7 +128,7 @@ GPC08B_BOX2-1=Система виявлення порушників.
 #----------------------------------------------------
 # Graff
 ### Wait. How does this work?
-GPC08B_BOX_ASK-1=Чекайте. А як це працює?
+GPC08B_BOX_ASK-1=Заждіть. А як це працює?
 
 
 # Shay
@@ -338,7 +338,7 @@ GPC08B_WRENCH1-3=Ой...
 #----------------------------------------------------
 # Graff
 ### I bet there's a top-of-the-line quantanium computer in this one-inch box!
-GPC08B_COMPUTER1-1=Б'юся об заклад, у цій маленькій коробці захований першокласний квантанієвий комп'ютер!
+GPC08B_COMPUTER1-1=Закладаюся, у цій маленькій коробці захований першокласний квантанієвий комп'ютер!
 
 
 # Shay
@@ -642,7 +642,7 @@ GPC08B_SHAY_EXITFIRST1-1=Я краще піду...
 
 # Shay
 ### Wait!
-GPC08B_SHAY_EXITFIRST1-2=Чекай!
+GPC08B_SHAY_EXITFIRST1-2=Зажди!
 
 
 # Shay
@@ -1067,7 +1067,7 @@ GPC08B_SHAY_INV_DEFAULT2-1=Будь ласка, мені треба це пол�
 
 # Shay
 ### Wait. That's not broken.
-GPC08B_SHAY_INV_DEFAULT2-2=Чекай. Воно ж не зламане.
+GPC08B_SHAY_INV_DEFAULT2-2=Зажди. Воно ж не зламане.
 
 
 # Graff

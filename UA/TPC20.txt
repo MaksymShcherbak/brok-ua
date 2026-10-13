@@ -70,7 +70,7 @@ PC20_REVEAL_CHOICE=Попросити Веса показати свій зад?
 PC20_LASTWORD_CHOICE=Останнє слово?
 
 ### Darn!
-PC20_LASTWORD_DARN=Чорт!
+PC20_LASTWORD_DARN=Трясця!
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Please spare Graff!
@@ -562,7 +562,7 @@ PC20_INITE-1=...
 
 # Brok
 ### Wait!
-PC20_INITE-2=Стривай!
+PC20_INITE-2=Зажди!
 
 
 # Brok
@@ -6345,7 +6345,7 @@ PC20_ENDINGB2-2=Мені так шкода. Я прийшов запізно...
 
 # Ott
 ### Oh my gosh...
-PC20_ENDINGB2-3=Ой леле...
+PC20_ENDINGB2-3=Матінко рідна...
 
 
 # Graff
@@ -7303,7 +7303,7 @@ PC20_RUPTURE7B-2=Я знаю! Спитай Шей!
 
 # Brok
 ### I bet she can find a way.
-PC20_RUPTURE7B-3=Б'юся об заклад, вона знайде спосіб.
+PC20_RUPTURE7B-3=Закладаюся, вона знайде спосіб.
 
 
 # Graff

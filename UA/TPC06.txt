@@ -1431,7 +1431,7 @@ PC06_CLUE_DEE_GHERKINGOVERNMENT-16=Гмм...
 
 # Brok
 ### I bet this is the reason why you're directly concerned.
-PC06_CLUE_DEE_GHERKINGOVERNMENT-17=Б'юся об заклад, саме тому ти так переймаєшся.
+PC06_CLUE_DEE_GHERKINGOVERNMENT-17=Закладаюся, саме тому ти так переймаєшся.
 
 
 #----------------------------------------------------

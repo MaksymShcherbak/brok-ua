@@ -1627,7 +1627,7 @@ PC15B_KNOCK3_FAKE2-2=О! Тоді покажіть свої документи.
 
 # Brok
 ### Darn. I'm such a scatterbrain. I left them home!
-PC15B_KNOCK3_FAKE2-3=Чорт. Отакий я роззява. Залишив їх удома!
+PC15B_KNOCK3_FAKE2-3=Трясця. Отакий я роззява. Залишив їх удома!
 
 
 # Mink

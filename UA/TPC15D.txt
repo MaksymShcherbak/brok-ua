@@ -3224,7 +3224,7 @@ PC15D_FIRST2-3=Це... неможливо!
 
 # Ott
 ### Oh my gosh! Is he...?
-PC15D_FIRST2-4=Ой леле! Він...?
+PC15D_FIRST2-4=Матінко рідна! Він...?
 
 
 #----------------------------------------------------
@@ -5496,18 +5496,18 @@ PC15D_CLUE_MURDER_ACCESSNANITES-22=А тепер, скажіть. Хто роб�
 
 # Guard
 ### That metal junk...
-PC15D_CLUE_MURDER_ACCESSNANITES-23=Цей металевий мотлох...
+PC15D_CLUE_MURDER_ACCESSNANITES-23=Цей шматок металобрухту...
 
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Oh, my... That's true, Tidy can regenerate walls with plaster.
-PC15D_CLUE_MURDER_ACCESSNANITES-24=Ой, леле... Це правда, Тайді вміє відновлювати стіни штукатуркою.
+PC15D_CLUE_MURDER_ACCESSNANITES-24=Ой, леле... Так, Тайді вміє відновлювати стіни штукатуркою.
 
 
 # Mink
 ### Could it really be?...
-PC15D_CLUE_MURDER_ACCESSNANITES-25=Невже це правда...?
+PC15D_CLUE_MURDER_ACCESSNANITES-25=Невже це справді...?
 
 
 # Guard
@@ -7585,7 +7585,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-12=Добре. Теорія Брокі. Розвал�
 
 # Brok
 ### Wait!
-PC15D_CLUE_MURDER_LAMPPUSH-13=Стривай!
+PC15D_CLUE_MURDER_LAMPPUSH-13=Зажди!
 
 
 # Brok
@@ -9277,7 +9277,7 @@ PC15D_CHOICE_ALIVEB-21=Я вирішив припинити це дослідж�
 
 # Hush
 ### Oh my gosh!
-PC15D_CHOICE_ALIVEB-22=Ой леле!
+PC15D_CHOICE_ALIVEB-22=Матінко рідна!
 
 
 # Hush
