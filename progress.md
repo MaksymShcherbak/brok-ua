@@ -31,7 +31,7 @@ Some items are posponed until I finish playing the DLC.
 | TGEV_MAP  | Done                | Done          |
 | TGPC01    | Done                | Done          |
 | TGPC02    | Done                | Done          |
-| TGPC03    | To Do               | To Do         |
+| TGPC03    | Done                | Done          |
 | TGPC05D   | Done                | Done          |
 | TGPC06    | Done                | Done          |
 | TGPC08    | Done                | Done          |
