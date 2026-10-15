@@ -67,7 +67,7 @@ BM01_SUBTITLE_TUTORIAL4_MOUSE=Утримуйте кнопку захисту <bu
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Hold the guard button <button=INPUT_ACTION_GUARD> and press <spr=GAMEPAD_STICKLEFT> opposite of the direction you are facing. You can also use <spr=GAMEPAD_STICKRIGHT>.
-BM01_SUBTITLE_TUTORIAL4_GAMEPAD=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та натисніть <spr=GAMEPAD_STICKLEFT> у протилежному від себе напрямку. Також можна використовувати <spr=GAMEPAD_STICKRIGHT>.
+BM01_SUBTITLE_TUTORIAL4_GAMEPAD=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та натисніть <spr=GAMEPAD_STICKLEFT> у протилежному від себе напрямку, або використовуйте <spr=GAMEPAD_STICKRIGHT>.
 
 ### Dodge or parry to survive until timer runs out
 BM01_OBJECTIVE_TUTORIAL4=Ухиляйтеся чи парируйте, щоб вижити до закінчення часу

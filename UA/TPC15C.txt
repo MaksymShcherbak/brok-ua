@@ -270,7 +270,7 @@ PC15C_MATERIALS1B-3=Доктор Гаш - маніяк.
 # Mink
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### He hates when something isn't where it belongs, so he taught his maintenance bot to tidy items like this.
-PC15C_MATERIALS1B-4=Він терпіти не може, коли щось лежить не на своєму місці, тож навчив свого сервісного бота прибирати саме так.
+PC15C_MATERIALS1B-4=Він терпіти не може, коли щось лежить не на своєму місці, тож навчив свого бота прибирати саме так.
 
 
 # Mink
@@ -574,7 +574,7 @@ PC15C_PAINTING2C-1=Ого! Ви пробили стіну?!
 
 # Brok
 ### I barely touched it. Some paper-thin slab was obstructing this.
-PC15C_PAINTING2C-2=Я ледь торкнувся. Це перекривала якась плита товщиною з аркуш паперу.
+PC15C_PAINTING2C-2=Я ледь торкнувся. Тут була якась плита товщиною з аркуш паперу.
 
 
 # Ott
@@ -1646,7 +1646,7 @@ PC15C_TIDY_EXITFIRST-8=Що?!
 
 # Brok
 ### You little piece of...
-PC15C_TIDY_EXITFIRST-9=Ах ти ж, малий шматок...
+PC15C_TIDY_EXITFIRST-9=Ах ти ж, шматок...
 
 
 # Mink

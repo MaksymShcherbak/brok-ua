@@ -1258,7 +1258,7 @@ PC08B_SHAY_BOLT1-18=Я боявся, що ти це скажеш. Тобі по�
 
 # Shay
 ### Yup. Until it becomes useful, I'll need to pay for its energy source and the time I'll spend fixing it.
-PC08B_SHAY_BOLT1-19=Угу. Поки він не стане корисним, мені доведеться платити за його джерело енергії та час на лагодження.
+PC08B_SHAY_BOLT1-19=Угу. Поки від нього буде якась користь, мені доведеться платити за його електроенергію та витрачати час на ремонт.
 
 
 # Shay
@@ -1572,7 +1572,7 @@ PC08B_SHAY_ARENA2-15=Я б так не сказав...
 
 # Shay
 ### You're fine as long as your lifebar doesn't get emptied.
-PC08B_SHAY_ARENA2-16=З тобою все буде гаразд, допоки твоя шкала здоров'я не спорожніє.
+PC08B_SHAY_ARENA2-16=З тобою все буде гаразд, принаймні, доки не спорожніє твоя шкала здоров'я.
 
 
 # Brok
@@ -1664,7 +1664,7 @@ PC08B_SHAY_ARENA4-3=Пробийся крізь усі пастки та вор�
 
 # Shay
 ### And don't forget to train regularly! You're getting fat-bellied.
-PC08B_SHAY_ARENA4-4=І не забудь регулярно тренуватися! У тебе живіт росте.
+PC08B_SHAY_ARENA4-4=І не забудь регулярно тренуватися! У тебе пузо росте.
 
 
 # Brok
@@ -1771,7 +1771,7 @@ PC08B_SHAY_HERSELF2-3=У тому й річ.
 
 # Brok
 ### Ever since we found ourselves back a few years ago, we barely get time to talk aside from our job.
-PC08B_SHAY_HERSELF2-4=Відколи ми віднайшли одне одного кілька років тому, ми ледве маємо час поговорити поза роботою.
+PC08B_SHAY_HERSELF2-4=Ми відновили зв'язок кілька років тому, але через роботу майже не маємо часу на спілкування.
 
 
 # Brok
@@ -1808,7 +1808,7 @@ PC08B_SHAY_EXIT1-2=Добре! Не забувай регулярно трену
 #----------------------------------------------------
 # Brok
 ### I'll leave you to... whatever you're doing.
-PC08B_SHAY_EXIT2-1=Я залишу тебе з твоїми... заняттями, чим би вони не були.
+PC08B_SHAY_EXIT2-1=Залишу тебе наодинці зі своїми... справами.
 
 
 # Shay
@@ -2733,7 +2733,7 @@ PC08B_BOLTON1-4=І не кажи. Взагалі-то це я погодилас
 
 # Brok
 ### Don't listen to her. She just loves being prickly.
-PC08B_BOLTON1-5=Не слухай її. Вона просто любить до всіх бути колючою.
+PC08B_BOLTON1-5=Не слухай її. Вона просто любить бути колючою.
 
 
 # Shay
@@ -4946,7 +4946,7 @@ PC08B_DAY2_END_STAY-2=Поспішай!
 #----------------------------------------------------
 # Brok
 ### Will you be okay without those materials?
-PC08B_DAY2_END_STARTFIGHTWITHOUT-1=Чи все буде гаразд без цих матеріалів?
+PC08B_DAY2_END_STARTFIGHTWITHOUT-1=Ти впораєшся без цих матеріалів?
 
 
 # Shay
@@ -6986,7 +6986,7 @@ PC08B_PREMATURE_ENDING-9=Просто перебирав різні комбін
 
 # Shay
 ### Aww, that will teach me to use a simple lock.
-PC08B_PREMATURE_ENDING-10=Ох, це навчить мене НЕ ставити прості замки.
+PC08B_PREMATURE_ENDING-10=Ох, це навчить мене, що краще ставити прості замки.
 
 
 #----------------------------------------------------

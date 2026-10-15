@@ -363,7 +363,7 @@ PC19B_DOORBOTS_BROK-2=Гмм.
 #----------------------------------------------------
 # Brok - Room interactions
 ### Doesn't seem very practical to watch the latest Skyball match.
-PC19B_SCREEN1-1=Він не дуже підійде, щоб подивитися останній матч зі скайболу.
+PC19B_SCREEN1-1=Він не дуже підходить, щоб дивитися останній матч зі скайболу.
 
 
 #----------------------------------------------------
@@ -1464,7 +1464,7 @@ PC19B_BUTTON_NODESTROY1-1=Гей! Зупинись!
 
 # Dee
 ### I know you don't approve but I need to get this working.
-PC19B_BUTTON_NODESTROY1-2=Я знаю, що ти не схвалюєш моїх методів, але мені треба, щоб воно працювало.
+PC19B_BUTTON_NODESTROY1-2=Я знаю, що ти не схвалюєш моїх методів, але мені треба, щоб все працювало.
 
 
 #----------------------------------------------------
@@ -3370,7 +3370,7 @@ PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-24=Аби тільки я після цьог�
 # Dee
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### No problem with that. The Tribots aren't equipped with giant scissors.
-PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-25=З цим проблем не буде. Триботи поки не оснащені велетенськими ножицями.
+PC19B_CLUE_TRIANGLE_TRIBOTSUPDATE-25=З цим проблем не буде. Триботи поки що не оснащені велетенськими ножицями.
 
 
 # Brok
@@ -3575,7 +3575,7 @@ PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-8=Слушно.
 
 # Dee
 ### For years, I've witnessed many dysfunctional aspects of our society.
-PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-9=
+PC19B_CLUE_DEE_CRIMINALSDISAPPEAR-9=Роками я була свідком багатьох вад нашого суспільства.
 
 
 # Dee

@@ -744,7 +744,7 @@ PC11D_ENEMIES_APPEAR2-1=Вони йдуть по мене...!
 #----------------------------------------------------
 # Brok
 ### What?! They want another round?
-PC11D_ENEMIES_AGAIN-1=Що?! Вони хочуть ще раз побитися?
+PC11D_ENEMIES_AGAIN-1=Що?! Захотіли добавки?
 
 
 # Brok

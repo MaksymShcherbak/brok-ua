@@ -137,13 +137,13 @@ PC09_TRIBOT_TOOFAR-1=Можливо, мені вдасться його вимк
 
 # Brok
 ### If I can get close without being noticed.
-PC09_TRIBOT_TOOFAR-2=Якщо я зможу підійти ближче, не будучи поміченим.
+PC09_TRIBOT_TOOFAR-2=Якщо я зможу підійти непоміченим.
 
 
 #----------------------------------------------------
 # Brok
 ### He won't bother me anymore...
-PC09_TRIBOT_ALREADY-1=Він мене більше не турбуватиме...
+PC09_TRIBOT_ALREADY-1=Він більше мені не докучатиме...
 
 
 #----------------------------------------------------
@@ -384,7 +384,7 @@ PC09_THESITUATION-15=Звісно...
 
 # Brok
 ### (Well, I can't just sit around indefinitely.)
-PC09_THESITUATION-16=(Що ж, я не можу безкінечно сидіти, склавши руки.)
+PC09_THESITUATION-16=(Що ж, я не можу вічно сидіти, склавши руки.)
 
 
 # Brok
@@ -1126,12 +1126,12 @@ PC09_DRINK_FLOWING_WATER1-6=Гей! Ти бот! Та ще й сліпий!
 
 # Brok
 ### You're not supposed to have taste but I should.
-PC09_DRINK_FLOWING_WATER1-7=У тебе не повинно бути смаку, а от у мене - має бути.
+PC09_DRINK_FLOWING_WATER1-7=На відміну від мене, у тебе не повинно бути смаку.
 
 
 # Blindbot
 ### Exactly.
-PC09_DRINK_FLOWING_WATER1-8=Саме так.
+PC09_DRINK_FLOWING_WATER1-8=Отож-бо.
 
 
 #----------------------------------------------------

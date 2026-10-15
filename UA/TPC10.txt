@@ -1616,7 +1616,7 @@ PC10_DIRECTOR_GOTCHIP-12=Сподіваюся, тепер Графф зможе 
 
 # Director
 ### May I remind you. He still needs to prove his worth through the trials.
-PC10_DIRECTOR_GOTCHIP-13=Дозвольте нагадати. Йому все ще потрібно довести, що він гідний цього, пройшовши випробування.
+PC10_DIRECTOR_GOTCHIP-13=Дозвольте нагадати. Графф все ще має пройти випробування, щоб довести, що він гідний цього.
 
 
 # Brok

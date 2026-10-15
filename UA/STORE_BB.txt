@@ -49,7 +49,7 @@ STORE_FAQR3=Це неважливо: оберіть будь-який. Прог�
 STORE_FAQQ4=Наскільки це складно?
 
 ### You can play all challenges on "relaxed" difficulty if needed. Additionally, you can skip challenges that are still too hard for you by spending C-Tokens (the bar currency).
-STORE_FAQR4=За потреби всі випробування можна проходити на "Розслабленому" рівні складності. А ті, що виявляться заважкими, можна пропустити, витративши C-Жетони - валюту бару.
+STORE_FAQR4=За потреби всі випробування можна проходити на "Розслабленому" рівні складності. А ті, що виявляться заважкими, можна пропустити, витративши К-Жетони - валюту бару.
 
 ### I'm not interested in combat; should I play this anyway?
 STORE_FAQQ5=Мене не цікавлять бійки - чи варто грати?

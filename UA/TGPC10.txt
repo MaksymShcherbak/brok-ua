@@ -1178,7 +1178,7 @@ PC10_SENDTRIAL_RESULT_AFTER-2=Поки це все.
 
 # Director
 ### The fair will take place right here. Deliberation will occur at 5 PM.
-PC10_SENDTRIAL_RESULT_AFTER-3=Ярмарок проводитиметься просто тут. Обговорення відбудеться о 5-й вечора.
+PC10_SENDTRIAL_RESULT_AFTER-3=Ярмарок проходитиме тут. Обговорення розпочнеться о 5-й вечора.
 
 
 # Director

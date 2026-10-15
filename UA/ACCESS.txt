@@ -827,7 +827,7 @@ AUDIOD_CHAPTER6=Розділ 6: Визволення
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### The main character you're playing is Brok. Brok is a chubby yet strong alligator person wearing a brown detective coat, a black tank top, blue pants and a purple fedora. He has a grey metal plate on his muzzle, and wears a pendant shaped like a magatama, and is not wearing shoes.
-AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте - Брок. Брок пухкий, але сильний чоловік-алігатор, одягнений у плащ детектива, чорну майку, блакитні штани та фіолетовий фетровий капелюх. На морді у нього сіра металева пластина, він носить кулон у формі магатами та ходить без взуття.
+AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте - Брок. Брок пухкий, але сильний чоловік-алігатор, одягнений у пальто детектива, чорну майку, блакитні штани та фіолетовий фетровий капелюх. На морді у нього сіра металева пластина, він носить кулон у формі магатами та ходить без взуття.
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
@@ -2875,7 +2875,7 @@ PC02_AD_GROUNDCRACKED=Земля тут потріскана
 # DLC
 # -------
 ### C-Tokens
-MONEY_CTOKENS=C-Жетони
+MONEY_CTOKENS=К-Жетони
 
 ### Completed
 CHALLENGE_COMPLETED=Завершено

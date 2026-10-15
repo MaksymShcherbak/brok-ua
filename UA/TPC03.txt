@@ -145,7 +145,7 @@ PC03_TRAMP_RAT_DIALOG1-1=...не грайся з нами. Босові це н�
 
 # Kins
 ### So hand over da moolah!
-PC03_TRAMP_RAT_DIALOG1-2=То давай, гони бабло!
+PC03_TRAMP_RAT_DIALOG1-2=Гони бабло, старий!
 
 
 # Tramp
@@ -235,7 +235,7 @@ PC03_TRAMP_RAT_DIALOG2-5=У-уух! Можете покінчити зі мно�
 
 # Kins
 ### Oh, I'll make ya suffer, buddy!
-PC03_TRAMP_RAT_DIALOG2-6=О, ти в мене ще помучаєшся, друже!
+PC03_TRAMP_RAT_DIALOG2-6=О, ти в мене ще помучишся, друже!
 
 
 # Brok
@@ -314,7 +314,7 @@ PC03_TRAMP_RAT_DIALOGEND2-3=Плювати! Я не буду ризикуват�
 #----------------------------------------------------
 # Brok
 ### You okay?
-PC03_TRAMP_RAT_DIALOGEND2B-1=Ви в порядку?
+PC03_TRAMP_RAT_DIALOGEND2B-1=Все гаразд?
 
 
 # Tramp
@@ -431,7 +431,7 @@ PC03_TRAMP_RAT_DIALOGEND-13=Хоча... поки є життя, є й надія
 
 # Brok
 ### One just has to search thoroughly. I've lived with a chemist long enough to know that.
-PC03_TRAMP_RAT_DIALOGEND-14=Треба лише ретельно пошукати. Я прожив разом із хіміком достатньо довго, щоб це знати.
+PC03_TRAMP_RAT_DIALOGEND-14=Треба лише ретельно шукати. Я прожив разом із хіміком достатньо довго, щоб це знати.
 
 
 # Tramp
@@ -842,7 +842,7 @@ PC03_TRAMP_RATS2-8=Мабуть... Але їх дуже багато. Тобі �
 
 # Brok
 ### Bet on it?
-PC03_TRAMP_RATS2-9=Поспоримо?
+PC03_TRAMP_RATS2-9=Побиймося об заклад?
 
 
 #----------------------------------------------------

@@ -57,12 +57,12 @@ PC08C_CAMERA1-2=Це задля твоєї ж безпеки. А що, як із
 
 # Brok
 ### Don't you get life readings and all kinds of figures?
-PC08C_CAMERA1-3=Хіба ти вже не збираєш показники життєдіяльності та всілякі інші цифри?
+PC08C_CAMERA1-3=Хіба ти вже не відстежуєш мої медичні показники?
 
 
 # Shay
 ### Yeah but I can't take my eyes off of you.
-PC08C_CAMERA1-4=Ага, але я просто очей від тебе відвести не можу.
+PC08C_CAMERA1-4=Так, але я просто очей від тебе відвести не можу.
 
 
 # Brok

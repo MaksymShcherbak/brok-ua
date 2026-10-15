@@ -1612,7 +1612,7 @@ PC09D_Q5_HACKING-3=Тож я зайшов у ту будівлю-пірамід�
 
 # Brok
 ### Man, that was tough! That place is literally a hive of lasers!
-PC09D_Q5_HACKING-4=Хух, це було непросто! Те місце - справжній вулик з лазерів!
+PC09D_Q5_HACKING-4=Фух, це було нелегко! Це місце - справжній вулик з лазерів!
 
 
 # Brok
@@ -1818,7 +1818,7 @@ PC09D_Q6_FREEB-7=Агенте X-598. Будь ласка, надайте інф�
 
 # Tribotcop
 ### There's a 95% probability of criminals committing a new crime within 10 years.
-PC09D_Q6_FREEB-8=Існує 95% ймовірність того, що злочинці скоюють новий злочин протягом 10 років.
+PC09D_Q6_FREEB-8=95% злочинців скоюють новий злочин протягом наступних 10 років.
 
 
 # Tribotcop
@@ -2520,7 +2520,7 @@ PC09D_Q10_BOLT-1=Так... Є один робот, якого я нещодав�
 
 # Brok
 ### After losing his job, he feared being reset and losing his memory...
-PC09D_Q10_BOLT-2=Утративши роботу, він боявся перезавантаження та втрати пам'яті...
+PC09D_Q10_BOLT-2=Утративши роботу, він боявся, що йому зітруть пам'ять...
 
 
 # Brok

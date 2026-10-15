@@ -231,7 +231,7 @@ CHAR_COMPUTER=Комп'ютер
 CHAR_TRIBOTMILITARY=Військовий
 
 ### Pound
-CHAR_TRIBOTPOUND=Бот-дробарка
+CHAR_TRIBOTPOUND=Дробарка
 
 ### Blind bot
 CHAR_BLINDBOT=Сліпий бот
@@ -623,7 +623,7 @@ INTERFACE_THINK=Думати
 INTERFACE_SHOW_ITEMS=Показати предмети
 
 ### Back
-INTERFACE_BACK=Назад
+INTERFACE_BACK=Повернутися
 
 ### Calls history
 INTERFACE_CALLS_HISTORY=Історія дзвінків
@@ -1115,7 +1115,7 @@ MOVE_COMMANDS_EQUIP=Екіпірувати
 MOVE_COMMANDS_SPECIALFILLED1=Коли
 
 ### special bar
-MOVE_COMMANDS_SPECIALFILLED2=шкала спеціальної атаки
+MOVE_COMMANDS_SPECIALFILLED2=шкала спец. атаки
 
 ### filled
 MOVE_COMMANDS_SPECIALFILLED3=заповнена
@@ -3147,7 +3147,7 @@ PC_ADVERT=Реклама
 PC_DRINK=Напій
 
 ### Go back
-PC_BACK=Назад
+PC_BACK=Повернутися
 
 ### Exit
 PC_EXIT=Вихід
@@ -6770,10 +6770,10 @@ INTERFACE_RECONNECT_CONTROLLER=Підключитися знову
 INTERFACE_NEW_CONTROLLER_TITLE=Виявлено новий контролер
 
 ### Press to join co-op
-INTERFACE_NEW_CONTROLLER=Натисніть, щоб приєднатися до кооперативу
+INTERFACE_NEW_CONTROLLER=Натисніть для кооперативу
 
 ### (Any other button for single player)
-INTERFACE_NEW_CONTROLLER_PC=(Натисніть будь-яку іншу кнопку, щоб грати в одиночному режимі)
+INTERFACE_NEW_CONTROLLER_PC=#(Будь-яка інша кнопка, щоб грати в одиночному режимі)
 
 ### Character unlocked
 INTERFACE_NEW_CHARACTER_TITLE=Персонажа розблоковано
@@ -7053,7 +7053,7 @@ HELP_SHADOWADS=Кооператив - Тіньові реклами
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Each co-op player has a separate set of <col=BOLD>shadow ads</col> to find for rewards.##Shadow ads are invisible. Watch carefully for vibrations and visual effects, they mean you're close.##When they intensify, <col=BOLD>stay still on the spot for two seconds</col> to automatically obtain it!
-HELP_SHADOWADS_INSTRUCTIONS=Кожен гравець у кооперативі має окремий набір <col=BOLD>тіньових реклам</col>, які потрібно знайти, щоб отримати винагороди.##Тіньові реклами невидимі. Уважно стежте за вібраціями та візуальними ефектами, вони означають, що ви близько.##Коли вони посилюються, <col=BOLD>залишайтеся на місці протягом двох секунд</col>, щоб автоматично отримати їх!
+HELP_SHADOWADS_INSTRUCTIONS=Кожен гравець у кооперативі має власний набір <col=BOLD>тіньових реклам</col>.##Тіньові реклами невидимі. Уважно стежте за вібраціями та візуальними ефектами - вони означають, що ви близько.##Коли вони посилюються, <col=BOLD>залишайтеся на місці протягом двох секунд</col>, щоб зібрати рекламу!
 
 
 ### Co-op - Menu
@@ -8023,7 +8023,7 @@ TITLE_GAME_INSTALLIT=Встановіть, щоб грати
 TITLE_GAME_PLAYNOW=Грати зараз
 
 ### DLC
-INTERFACE_SAVE_DLC=Доповнення (DLC)
+INTERFACE_SAVE_DLC=Доповнення
 
 ### Brawl Bar
 INTERFACE_SAVE_STANDALONE=Brawl Bar
@@ -8064,13 +8064,13 @@ INTERFACE_SHORTCUT=(Скорочення)
 BM01_TITLE_TUTORIAL4=Ухилення та парирування
 
 ### To parry, stand still and press <button=INPUT_ACTION_GUARD> right before impact.
-BM01_SUBTITLE_TUTORIAL4PARRY_MOUSE=Щоб парирувати удар, стійте нерухомо та натисніть <button=INPUT_ACTION_GUARD> безпосередньо перед ударом.
+BM01_SUBTITLE_TUTORIAL4PARRY_MOUSE=Щоб парирувати, стійте нерухомо та натисніть <button=INPUT_ACTION_GUARD> безпосередньо перед ударом.
 
 ### To parry, stand still and press <button=INPUT_ACTION_GUARD> right before impact.
-BM01_SUBTITLE_TUTORIAL4PARRY_GAMEPAD=Щоб парирувати удар, стійте нерухомо та натисніть <button=INPUT_ACTION_GUARD> безпосередньо перед ударом.
+BM01_SUBTITLE_TUTORIAL4PARRY_GAMEPAD=Щоб парирувати, стійте нерухомо та натисніть <button=INPUT_ACTION_GUARD> безпосередньо перед ударом.
 
 ### To parry, stand still and tap with two fingers <spr=CONTROL_INPUT_TOUCH_TWOFINGERTAP> right before impact.
-BM01_SUBTITLE_TUTORIAL4PARRY_TOUCH=Щоб парирувати удар, стійте нерухомо та торкніться двома пальцями <spr=CONTROL_INPUT_TOUCH_TWOFINGERTAP> безпосередньо перед ударом.
+BM01_SUBTITLE_TUTORIAL4PARRY_TOUCH=Щоб парирувати, стійте нерухомо та торкніться двома пальцями <spr=CONTROL_INPUT_TOUCH_TWOFINGERTAP> безпосередньо перед ударом.
 
 
 # Duplicates, for fanarts
@@ -8846,7 +8846,7 @@ COMBINE_GRAFF_INV_INVOICEHACKER-1=Лишу оплату цього рахунк�
 # Graff
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### Nah. Better find a Pipe-Pill to pay this.
-COMBINE_GRAFF_INV_BILLC-1=Ні. Краще знайти Поштомат, щоб це оплатити.
+COMBINE_GRAFF_INV_BILLC-1=Ні. Краще знайти Пігулкомат, щоб це оплатити.
 
 
 #----------------------------------------------------
@@ -10437,7 +10437,7 @@ COMMON_AD_GET2-1=Чудово... Рекламний флаєр!
 #----------------------------------------------------
 # Brok
 ### I didn't have that one!
-COMMON_AD_GET3-1=У мене такого ще не було!
+COMMON_AD_GET3-1=Такої в мене ще не було!
 
 
 #----------------------------------------------------

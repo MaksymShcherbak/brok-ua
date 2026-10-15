@@ -872,7 +872,7 @@ PC12_BOLT2-8=Я втрачу - всі дані - з апаратної пам'я
 
 # Brok
 ### You... will be reset?
-PC12_BOLT2-9=Тебе... перезавантажать?
+PC12_BOLT2-9=Від тебе... нічого не залишиться?
 
 
 # Bolt
@@ -1208,7 +1208,7 @@ PC12_BOLT_HELPBROK1-11=Що тобі потрібно, щоб, е-е... жити
 
 # Bolt - "thermionic" is not an important term.
 ### I use - one non-rechargeable - thermionic battery - per year.
-PC12_BOLT_HELPBROK1-12=Я використовую - одну одноразову - терміонічну батарею - на рік.
+PC12_BOLT_HELPBROK1-12=Я використовую одну - одноразову - терміонічну батарею - на рік.
 
 
 # Brok
@@ -1377,7 +1377,7 @@ PC12_BOLT_HELP_GUARDSCOME1-6=Відмова підкорятися - це пор
 
 # Brok
 ### Stay down while I get them!
-PC12_BOLT_HELP_GUARDSCOME1-7=Ховайся, я розберуся з ними!
+PC12_BOLT_HELP_GUARDSCOME1-7=Тримайся, я розберуся з ними!
 
 
 #----------------------------------------------------
@@ -1680,7 +1680,7 @@ PC12_BOLT_AFTERDEAD-3=Схоже на... маленький гвинтик у ф
 #----------------------------------------------------
 # Brok
 ### Hey! That was the sound of something unlocking... But where?
-PC12_BOLT_AFTERUNLOCKED-1=Гей! Це був звук відмикання... Але звідки?
+PC12_BOLT_AFTERUNLOCKED-1=Гей! Щось відімкнулось... Але де?
 
 
 #----------------------------------------------------
@@ -1697,7 +1697,7 @@ PC12_STORY220_ARRIVE-1=...
 
 # Various
 ### "Let us through! (Cough, cough)"
-PC12_STORY220_ARRIVE-2="Пропустіть нас! (Кашель)"
+PC12_STORY220_ARRIVE-2="Пропустіть нас! (Кашляють)"
 
 
 # Various
@@ -1717,7 +1717,7 @@ PC12_STORY220_ARRIVE-5="Та ну ж бо! Ми маємо право знати
 
 # Various
 ### "Everyone! (Cough)"
-PC12_STORY220_ARRIVE-6="Усі разом! (Кашель)"
+PC12_STORY220_ARRIVE-6="Усі разом! (Кашляють)"
 
 
 # Various
@@ -1779,7 +1779,7 @@ PC12_STORY220_ARRIVE2-8=Порушення закону. Останнє попе
 
 # Unknown
 ### "What should we do? (Cough)"
-PC12_STORY220_ARRIVE2-9="Що нам робити? (Кашель)"
+PC12_STORY220_ARRIVE2-9="Що нам робити? (Кашляє)"
 
 
 # Tribotcop
@@ -1821,7 +1821,7 @@ PC12_STORY220_ARRIVE4-1=Ціль виявлено.
 
 # Brok
 ### Well I'm not going away!
-PC12_STORY220_ARRIVE4-2=А я й нікуди йти не збирався!
+PC12_STORY220_ARRIVE4-2=А я й нікуди не збирався!
 
 
 # Brok

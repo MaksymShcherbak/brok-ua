@@ -5879,7 +5879,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-4=Він вирваний із контексту
 
 # Brok
 ### You could have very well recorded this and forged your so called proof.
-PC15D_CLUE_MURDER_DRHUSHWHEREB-5=Ти цілком міг записати його коли завгодно, підробивши таким чином свій доказ.
+PC15D_CLUE_MURDER_DRHUSHWHEREB-5=Ти міг записати його коли завгодно, щоб підробити доказ.
 
 
 # Brok

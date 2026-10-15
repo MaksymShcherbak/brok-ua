@@ -711,7 +711,7 @@ PC04_FENCE1-4=Трикутником...?
 
 # Tribotcop
 ### Our Government. Puny human.
-PC04_FENCE1-5=Нашим Урядом. Нікчемна людино.
+PC04_FENCE1-5=Нашим Урядом. Нікчемна людина.
 
 
 # Brok

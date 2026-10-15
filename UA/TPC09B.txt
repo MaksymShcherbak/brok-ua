@@ -2331,12 +2331,12 @@ PC09B_ALARM_ROBOTSEND-1=Що ти робиш?!
 
 # Sin
 ### Everyone must have been alerted! You'll never be able to escape!
-PC09B_ALARM_ROBOTSEND-2=Мабуть, тривога вже всіх сповістила! Тобі ніколи не втекти звідси!
+PC09B_ALARM_ROBOTSEND-2=Мабуть, тривога вже всіх сповістила! Тобі ніколи звідси не втекти!
 
 
 # Brok
 ### Dun' care! I need to get outta here, no matter how!
-PC09B_ALARM_ROBOTSEND-3=Байдуже! Мені треба забратися звідси, неважливо як!
+PC09B_ALARM_ROBOTSEND-3=Плювати! Мені треба забратися звідси, неважливо як!
 
 
 #----------------------------------------------------

@@ -230,7 +230,7 @@ PC15B_BOX_NADA-1=Ніц немає.
 
 # Brok
 ### Guess their stock of emergency rations is out.
-PC15B_BOX_NADA-2=Мабуть, їхні екстрені продовольчі запаси закінчилися.
+PC15B_BOX_NADA-2=Схоже, їхні аварійні запаси харчів закінчилися.
 
 
 #----------------------------------------------------
@@ -424,7 +424,7 @@ PC15B_GUARD_SITUATION1-11=Неможливо. Як ти бачив, вхід п�
 
 # Guard
 ### Even the engineers aren't allowed to leave without permission, which is by request to us agents.
-PC15B_GUARD_SITUATION1-12=Навіть інженерам заборонено виходити без дозволу, який вони мають запитувати в нас, агентів.
+PC15B_GUARD_SITUATION1-12=Навіть інженерам заборонено виходити без нашого дозволу - дозволу агентів.
 
 
 # Guard

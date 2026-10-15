@@ -425,7 +425,7 @@ PC14C_FIRSTB-17=(Ковтає слину)
 
 # RJ
 ### I'll make you pay for this!
-PC14C_FIRSTB-18=Ти ще в мене за це заплатиш!
+PC14C_FIRSTB-18=Ти про це ще пошкодуєш!
 
 
 # Brok
@@ -543,7 +543,7 @@ PC14C_AFTERFIGHT_BEATEN-1=О ні...
 
 # Hacker
 ### Just my luck. An exterminator agent.
-PC14C_AFTERFIGHT_BEATEN-2=Оце так удача. Агент-ліквідатор.
+PC14C_AFTERFIGHT_BEATEN-2=Як на зло. Агент-ліквідатор.
 
 
 # Brok
@@ -585,7 +585,7 @@ PC14C_AFTERFIGHT_FIRED-2=Не... Не варто було звільняти т�
 #----------------------------------------------------
 # Hacker
 ### P-please don't put me in jail! It'd be a waste of my great intellect!
-PC14C_AFTERFIGHT_NEXT-1=Не саджай мене за ґрати, будь ласка! Це буде марнуванням мого великого інтелекту!
+PC14C_AFTERFIGHT_NEXT-1=Б-благаю, не кидайте мене за ґрати! Це буде марнуванням мого великого розуму!
 
 
 # Brok
@@ -1357,7 +1357,7 @@ PC14C_HACKER_MONEYAGAIN-3=Вибач. Це остаточна сума.
 
 # Hacker
 ### Anything lower and I'll be upside down on this deal!
-PC14C_HACKER_MONEYAGAIN-4=Якщо взяти менше, я залишуся в збитках від цієї угоди!
+PC14C_HACKER_MONEYAGAIN-4=Будь-яка нижча ціна - і я працюватиму собі у збиток!
 
 
 # Brok
