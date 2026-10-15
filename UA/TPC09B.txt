@@ -723,7 +723,7 @@ PC09B_EMERGENCYBUTTON_RJ1-2=Шо за чорт?!
 
 # RJ
 ### Why is dat alarm on?
-PC09B_EMERGENCYBUTTON_RJ1-3=Чого це тривога гуде?!
+PC09B_EMERGENCYBUTTON_RJ1-3=Шо це за тривога гуде?!
 
 
 # Brok
@@ -1916,7 +1916,7 @@ PC09B_C2_RJ_SINKBROKEN1-4=Якшо бос побачить це... Пробле�
 
 # RJ
 ### Okay. I enter and fix dat.
-PC09B_C2_RJ_SINKBROKEN1-5=Гаразд. Я зайду й полагоджу.
+PC09B_C2_RJ_SINKBROKEN1-5=Добре. Я зайду й полагоджу.
 
 
 # RJ

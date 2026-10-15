@@ -947,7 +947,7 @@ PC05B_CHIEFRAT_GAMEOVER1-2=Хлопці, заберіть його речі й �
 
 # Kins
 ### Sure, boss!
-PC05B_CHIEFRAT_GAMEOVER1-3=Звісно, босе!
+PC05B_CHIEFRAT_GAMEOVER1-3=Гаразд, босе!
 
 
 # Kins

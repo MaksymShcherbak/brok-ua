@@ -305,7 +305,7 @@ GPC14_CHOICE_RUN2-3=Ха-ха-ха!
 
 # Kins
 ### You thought you could escape us? Miserable worm!
-GPC14_CHOICE_RUN2-4=Думав, зможеш утекти від нас? Нещасний хробак!
+GPC14_CHOICE_RUN2-4=Думав, зможеш дременути від нас? Нещасний хробак!
 
 
 #----------------------------------------------------
@@ -708,7 +708,7 @@ GPC14_GRAFF_GAMEOVER-1=Ой...! Здається, він...
 
 # Kins
 ### Idiot! What have you done!!!
-GPC14_GRAFF_GAMEOVER-2=Ідіоте! Шо ти наробив!!!
+GPC14_GRAFF_GAMEOVER-2=Йолопе! Шо ти наробив!!!
 
 
 # Kins

@@ -955,7 +955,7 @@ PC15B_GUARD_DRHUSH2-1=Щодо доктора Гаша. Що ще ти може�
 
 # Guard
 ### Dunno. Ya'd better take a look at this room.
-PC15B_GUARD_DRHUSH2-2=Не знаю. Краще сам зазирни до його кімнати.
+PC15B_GUARD_DRHUSH2-2=Не знаю. Краще сам глянь ту кімнату.
 
 
 # Guard
@@ -1359,7 +1359,7 @@ PC15B_GUARD_INV_MAGNIFY-1=Бачиш? Я не брехав!
 
 # Guard
 ### Sure. Because owning a magnifying glass makes you a detective?
-PC15B_GUARD_INV_MAGNIFY-2=Звісно. Бо наявність лупи робить тебе детективом?
+PC15B_GUARD_INV_MAGNIFY-2=Аякже. Бо наявність лупи робить тебе детективом?
 
 
 # Brok
@@ -2255,7 +2255,7 @@ PC15B_CLUE_GUARD_AWAY-12=...
 
 # Guard
 ### Alright... I admit!
-PC15B_CLUE_GUARD_AWAY-13=Гаразд... Визнаю!
+PC15B_CLUE_GUARD_AWAY-13=Добре... Визнаю!
 
 
 # Guard
@@ -2361,7 +2361,7 @@ PC15B_CLUE_GUARD_AWAY-33=Гмм... Щось знайоме.
 
 # Guard
 ### Of course! It's all the rage!
-PC15B_CLUE_GUARD_AWAY-34=Звісно! Це зараз у моді!
+PC15B_CLUE_GUARD_AWAY-34=Ще б пак! Це зараз у моді!
 
 
 # Guard
@@ -2426,7 +2426,7 @@ PC15B_CLUE_GUARD_AWAY-46=Я пригадав той момент.
 
 # Guard
 ### Please... I'm begging ya...!
-PC15B_CLUE_GUARD_AWAY-47=Будь ласка... благаю тебе...!
+PC15B_CLUE_GUARD_AWAY-47=Прошу... благаю тебе...!
 
 
 # Guard
@@ -2514,7 +2514,7 @@ PC15B_CLUE_GUARD_YES-4=І все ж таки це важлива подія дл
 
 # Guard
 ### Sure. I hope my blunder didn't get the poor chap killed...
-PC15B_CLUE_GUARD_YES-5=Звісно. Сподіваюся, той бідолаха загинув не через мій промах...
+PC15B_CLUE_GUARD_YES-5=Авжеж. Сподіваюся, той бідолаха загинув не через мій промах...
 
 
 # Brok

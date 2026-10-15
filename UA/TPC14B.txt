@@ -447,7 +447,7 @@ PC14B_RJ_ENTER_ELEPHANT-1=Я слон!
 
 # RJ
 ### Oh? Okay.
-PC14B_RJ_ENTER_ELEPHANT-2=О? Гаразд.
+PC14B_RJ_ENTER_ELEPHANT-2=О? Ну добре.
 
 
 # RJ
@@ -968,7 +968,7 @@ PC14B_RJ_DISGUISE1-9=Гмм.
 
 # RJ
 ### Alright. Enter.
-PC14B_RJ_DISGUISE1-10=Гаразд. Заходьте.
+PC14B_RJ_DISGUISE1-10=Добре. Заходьте.
 
 
 # Brok
@@ -1218,7 +1218,7 @@ PC14B_GHERKIN_RJBAD1-11=...
 
 # RJ
 ### Okay. Dun care.
-PC14B_GHERKIN_RJBAD1-12=Гаразд. Байдуже.
+PC14B_GHERKIN_RJBAD1-12=Добре. Начхати.
 
 
 # RJ

@@ -1326,7 +1326,7 @@ PC01_DAY2ENDJ2-32=Звичайнісінькі бандити.
 
 # Brok
 ### They tried to steal my belongings, so... I defended myself.
-PC01_DAY2ENDJ2-33=Вони намагалися вкрасти мої речі, тому... я захищався.
+PC01_DAY2ENDJ2-33=Вони намагалися поцупити мої речі, тому... я захищався.
 
 
 # Graff

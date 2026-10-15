@@ -3809,7 +3809,7 @@ PC15D_STORY160_A2-3=Тепер ви звинувачуєте мене?!
 
 # Guard
 ### Why d'ya think I called the cops if I was the murderer?!
-PC15D_STORY160_A2-4=А навіщо, по-вашому, я викликав копів, якби був убивцею?!
+PC15D_STORY160_A2-4=А нашо, по-вашому, я викликав копів, якби був убивцею?!
 
 
 # Mink
@@ -5739,7 +5739,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-3=Це підтверджують свідченн
 
 # Guard
 ### Sure.
-PC15D_CLUE_MURDER_DRHUSHWHERE-4=Звісно.
+PC15D_CLUE_MURDER_DRHUSHWHERE-4=Ага.
 
 
 # Guard
@@ -6199,7 +6199,7 @@ PC15D_PINPOINTVENT_RIGHT-4=Це лише здогадка!
 
 # Guard
 ### Ya have any clue to support dat insane claim?
-PC15D_PINPOINTVENT_RIGHT-5=Маєете шось на підтвердження цієї шаленої заяви?
+PC15D_PINPOINTVENT_RIGHT-5=Маєте шось на підтвердження цієї шаленої заяви?
 
 
 # Brok
@@ -10002,7 +10002,7 @@ PC15D_CLUE_GUARD_MONITORING2-11=Це твоє слово проти нашого
 
 # Guard
 ### Okay! Very well!
-PC15D_CLUE_GUARD_MONITORING2-12=Гаразд! Хай так!
+PC15D_CLUE_GUARD_MONITORING2-12=Добре! Хай так!
 
 
 # Guard
@@ -10150,7 +10150,7 @@ PC15D_CLUE_GUARD_MONITORING2-39=У мене не було мотиву чини�
 
 # Guard
 ### I'm doing my job here! Why would I risk it?!
-PC15D_CLUE_GUARD_MONITORING2-40=Я просто роблю тут свою роботу! Навіщо б я нею ризикував?!
+PC15D_CLUE_GUARD_MONITORING2-40=Я просто роблю тут свою роботу! Нашо б я нею ризикував?!
 
 
 # Guard
@@ -10409,7 +10409,7 @@ PC15D_GUARD_AFTERINTERROGATION-26=Ви знаєте, як важко домог�
 
 # Guard
 ### No way am I going to jail!
-PC15D_GUARD_AFTERINTERROGATION-27=Я нізащо не піду до в'язниці!
+PC15D_GUARD_AFTERINTERROGATION-27=Я нізащо не піду до тюрми!
 
 
 # Brok
@@ -11347,7 +11347,7 @@ PC15D_HUSH_AFTERINTERROGATION-7=Хай там як. Мою роботу тут �
 # Guard
 # NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
 ### Okay. I'll call the Body Recycling service.
-PC15D_HUSH_AFTERINTERROGATION-8=Гаразд. Я зателефоную в Службу Переробки Тіл.
+PC15D_HUSH_AFTERINTERROGATION-8=Добре. Я зателефоную в Службу Переробки Тіл.
 
 
 # Guard

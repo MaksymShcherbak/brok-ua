@@ -9656,7 +9656,7 @@ INTERFACE_HACKPHONE_INSTRUCTIONS-2="Один анфас, інший в раку�
 #----------------------------------------------------
 # Brok
 ### Better not wander around with this for too long. Someone might get the wrong idea.
-DESCRIBE_INV_PHOTOWES1-1=Краще не блукати з цим надто довго. Хтось може неправильно мене зрозуміти.
+DESCRIBE_INV_PHOTOWES1-1=Краще не швендяти з цим надто довго. Хтось може неправильно мене зрозуміти.
 
 
 #----------------------------------------------------

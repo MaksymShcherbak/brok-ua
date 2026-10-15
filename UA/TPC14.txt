@@ -401,7 +401,7 @@ PC14_BADGUYS2-4=Йдіть геть. Я не хочу неприємностей
 
 # Dart
 ### Sure. Give us your stuff and you can pass.
-PC14_BADGUYS2-5=Звісно. Віддай свої речі й можеш проходити.
+PC14_BADGUYS2-5=Аякже. Віддай свої речі й можеш проходити.
 
 
 # Brok

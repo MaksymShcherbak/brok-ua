@@ -160,7 +160,7 @@ GPC05D_CHIEFRAT_SPOTTED-2=Ти реально думав, шо зможеш пр
 #----------------------------------------------------
 # Chiefrat - If Graff had picked the pipe chunk
 ### And drop dat weapon ya're hiding.
-GPC05D_CHIEFRAT_SURRENDERWEAPON-1=І викинь зброю, яку ти отам ховаєш.
+GPC05D_CHIEFRAT_SURRENDERWEAPON-1=І кинь зброю, шо ти отам ховаєш.
 
 
 # Graff
@@ -182,13 +182,13 @@ GPC05D_CHIEFRAT_SURRENDER-2=Фу. Слабак.
 #----------------------------------------------------
 # Chiefrat - If Graff moved from his original position
 ### Hey! Looks like ya travelled around, huh?
-GPC05D_CHIEFRAT_MOVED-1=Гей! Схоже, ти помандрував навколо, га?
+GPC05D_CHIEFRAT_MOVED-1=Гей! Бачу, ти вже швендяв навколо, га?
 
 
 #----------------------------------------------------
 # Chiefrat
 ### Ya better stop or I'll strengthen your ties. And... Dat might hurt.
-GPC05D_CHIEFRAT_MOVED2-1=Радше б ти зупинився, бо інакше я прив'яжу тебе ше міцніше. І... Це буде дуже боляче.
+GPC05D_CHIEFRAT_MOVED2-1=Краще б ти зупинився, бо інакше я прив'яжу тебе ше міцніше. І... Це буде дуже боляче.
 
 
 # Graff
@@ -198,7 +198,7 @@ GPC05D_CHIEFRAT_MOVED2-2=А тобі що до цього?
 
 # Chiefrat
 ### Ya're our guest!
-GPC05D_CHIEFRAT_MOVED2-3=Ти наш гість!
+GPC05D_CHIEFRAT_MOVED2-3=Ти ж у нас гість!
 
 
 #----------------------------------------------------
@@ -293,7 +293,7 @@ GPC05D_FIRSTDIALOG-5=Краще вам його не чіпати!
 
 # Chiefrat
 ### Hey! Everything will be fine. As long as ya cooperate.
-GPC05D_FIRSTDIALOG-6=Гей! Усе буде гаразд. Доки ти з нами співпрацюєш.
+GPC05D_FIRSTDIALOG-6=Гей! Усе буде добре. Доки ти з нами співпрацюєш.
 
 
 # Graff
@@ -599,7 +599,7 @@ GPC05D_SECONDDIALOG2-9=Хоч усе, мені байдуже!
 
 # Chiefrat
 ### Sure, we'll get yar money!
-GPC05D_SECONDDIALOG2-10=Звісно, ми візьмемо твої гроші!
+GPC05D_SECONDDIALOG2-10=Аякже, ми візьмемо твої гроші!
 
 
 # Chiefrat
@@ -1049,7 +1049,7 @@ GPC05D_SECONDDIALOG3-2=Обов'язково...
 
 # Chiefrat
 ### Kill me? Escape?
-GPC05D_SECONDDIALOG3-3=Уб'єш мене? Втечеш?
+GPC05D_SECONDDIALOG3-3=Уб'єш мене? Чкурнеш?
 
 
 # Chiefrat
@@ -1290,7 +1290,7 @@ GPC05D_SECONDDIALOG3C-25=Вір. Не вір.
 
 # Chiefrat
 ### I dun care.
-GPC05D_SECONDDIALOG3C-26=Мені байдуже.
+GPC05D_SECONDDIALOG3C-26=Мені начхати.
 
 
 #----------------------------------------------------
@@ -1826,7 +1826,7 @@ GPC05D_SECONDDIALOG7B-7=Ти хоч уявляєш, як боляче помир
 
 # Chiefrat
 ### To be on the verge of eating the weakest so that the strongest survive?
-GPC05D_SECONDDIALOG7B-8=Бути на межі того, шоб з'їсти найслабшого, аби вижив найсильніший?
+GPC05D_SECONDDIALOG7B-8=Бути на межі того, шоб зжерти найслабшого, аби вижив найсильніший?
 
 
 # Graff
@@ -1896,7 +1896,7 @@ GPC05D_SECONDDIALOG7B-21=...
 
 # Chiefrat
 ### Of course he would.
-GPC05D_SECONDDIALOG7B-22=Ну звісно, він це зробив.
+GPC05D_SECONDDIALOG7B-22=Ну аякже, він це зробив.
 
 
 # Chiefrat
@@ -2032,7 +2032,7 @@ GPC05D_SECONDDIALOG7B-48=Багато разів!
 
 # Chiefrat
 ### Sure! But ya know why.
-GPC05D_SECONDDIALOG7B-49=Звісно! Але ти знаєш, чому.
+GPC05D_SECONDDIALOG7B-49=Аякже! Але ти знаєш, чому.
 
 
 # Chiefrat
@@ -2639,7 +2639,7 @@ GPC05D_OTTHERE2-11=Дякую, босе!
 
 # Chiefrat
 ### I'm not talking to ya, moron!
-GPC05D_OTTHERE2-12=Я не з тобою розмовляю, ідіоте!
+GPC05D_OTTHERE2-12=Я не з тобою розмовляю, йолопе!
 
 
 # Graff
