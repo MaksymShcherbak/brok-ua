@@ -12,7 +12,7 @@ Some items are posponed until I finish playing the DLC.
 | ACCESS    | Done                | Done          |
 | TBM01     | Done                | Done          |
 | TBM02     | Done                | Done          |
-| TBM03     | Postponed           | To Do         |
+| TBM03     | Done                | Done          |
 | TCHAPTER1 | Done                | Done          |
 | TCHAPTER2 | Done                | Done          |
 | TCHAPTER3 | Done                | Done          |
