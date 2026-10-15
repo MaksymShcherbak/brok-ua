@@ -42,7 +42,7 @@ GPC03_FIRST_TRAMP1-1=(Жебрак...)
 
 # Graff
 ### (Don't look at him, keep your eyes to the ground...)
-GPC03_FIRST_TRAMP1-2=(Не дивись на нього, очі долу...)
+GPC03_FIRST_TRAMP1-2=(Не дивися на нього, дивись під ноги...)
 
 
 # Tramp
@@ -72,19 +72,19 @@ GPC03_FIRST_TRAMP1-7=Звідки ви дізналися? Ви слідкуєт
 
 # Graff
 ### I'd better call...
-GPC03_FIRST_TRAMP1-8=Краще я зателефоную...
+GPC03_FIRST_TRAMP1-8=Я зараз викличу...
 
 
 # Tramp
 ### Look at me, boy. Do you really expect that from an old geezer?
-GPC03_FIRST_TRAMP1-9=Подивись на мене, хлопче. Ти справді очікуєш подібного від старого дідугана?
+GPC03_FIRST_TRAMP1-9=Поглянь на мене, хлопче. Чи буде старий дідуган займатися шпигунством?
 
 
 # Tramp
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### I'm alive right now because your dad stood up for me against Squealers this morning.
-GPC03_FIRST_TRAMP1-10=Прямо зараз я живий тому, що твій тато заступився за мене перед Верескунами цього ранку.
+GPC03_FIRST_TRAMP1-10=Я зараз живий лише тому, що вранці твій батько заступився за мене перед Верескунами.
 
 
 # Graff
@@ -94,7 +94,7 @@ GPC03_FIRST_TRAMP1-11=Він не мій батько. Залиште мене �
 
 # Tramp
 ### Fine!
-GPC03_FIRST_TRAMP1-12=Добре!
+GPC03_FIRST_TRAMP1-12=Ну, добре!
 
 
 # Tramp
@@ -144,12 +144,12 @@ GPC03_WELCOME_TRAMP1-4=Справді...?
 
 # Graff
 ### Offering help and risking his butt for free... That doesn't sound like him.
-GPC03_WELCOME_TRAMP1-5=Пропонувати допомогу і ризикувати своєю дупою безкоштовно... Не схоже на нього.
+GPC03_WELCOME_TRAMP1-5=Прийшов на допомогу, ризикуючи власною дупою, та ще й безкоштовно... Це не схоже на нього.
 
 
 # Tramp
 ### Maybe you don't know him that well.
-GPC03_WELCOME_TRAMP1-6=Може, ти не так добре його знаєш.
+GPC03_WELCOME_TRAMP1-6=Може, ти й не так добре його знаєш.
 
 
 # Graff
@@ -159,7 +159,7 @@ GPC03_WELCOME_TRAMP1-7=Ну, в одному я точно впевнений.
 
 # Graff
 ### In the end, he always either gets fooled or screws everything up.
-GPC03_WELCOME_TRAMP1-8=Врешті-решт, він завжди або залишається в дурнях, або псує все.
+GPC03_WELCOME_TRAMP1-8=У підсумку він або залишається в дурнях, або все псує.
 
 
 # Tramp
@@ -180,7 +180,7 @@ GPC03_WELCOME_TRAMP2-1=Вітаю, мій хлопче!
 
 # Tramp
 ### I'm afraid I don't have much to offer but... Do you need anything?
-GPC03_WELCOME_TRAMP2-2=Боюся, мені нічого запропонувати, але... Тобі щось треба?
+GPC03_WELCOME_TRAMP2-2=Боюся, мені нічого запропонувати, але... Тобі щось потрібно?
 
 
 # Graff
@@ -190,7 +190,7 @@ GPC03_WELCOME_TRAMP2-3=Гмм... Я дам вам знати.
 
 # Tramp
 ### Very well. I'm not going anywhere.
-GPC03_WELCOME_TRAMP2-4=Дуже добре. Я нікуди не піду.
+GPC03_WELCOME_TRAMP2-4=Добре. Я нікуди не піду.
 
 
 # Tramp
@@ -205,7 +205,7 @@ GPC03_WELCOME_TRAMP2-6=...
 
 # Graff
 ### (Must be hard...)
-GPC03_WELCOME_TRAMP2-7=(Мабуть, важко...)
+GPC03_WELCOME_TRAMP2-7=(Мабуть, йому важко...)
 
 
 #----------------------------------------------------
@@ -221,22 +221,22 @@ GPC03_TRAMP_PILL1-2=З тобою все гаразд, мій хлопче?
 
 # Graff
 ### Yeah... I'm... (Cough, cough)
-GPC03_TRAMP_PILL1-3=Так... Я... (Кашляє)
+GPC03_TRAMP_PILL1-3=Так... я... (Кашляє)
 
 
 # Graff
 ### I'm fine...
-GPC03_TRAMP_PILL1-4=Я в порядку...
+GPC03_TRAMP_PILL1-4=Все гаразд...
 
 
 # Tramp
 ### No, you're not!
-GPC03_TRAMP_PILL1-5=Ні! Не в порядку!
+GPC03_TRAMP_PILL1-5=Ні! Не гаразд!
 
 
 # Tramp
 ### Oh no... You didn't take your pill, did you?...
-GPC03_TRAMP_PILL1-6=О ні... Ти не прийняв пігулку, чи не так...?
+GPC03_TRAMP_PILL1-6=О ні... Ти не прийняв пігулку...?
 
 
 # Graff
@@ -251,7 +251,7 @@ GPC03_TRAMP_PILL1-8=Будь ласка, скажіть, що у вас є од�
 
 # Tramp
 ### Terribly sorry... I used my last one today...
-GPC03_TRAMP_PILL1-9=Дуже шкода, сьогодні я використав свою останню...
+GPC03_TRAMP_PILL1-9=Мені дуже шкода, сьогодні я використав останню...
 
 
 # Tramp
@@ -261,12 +261,12 @@ GPC03_TRAMP_PILL1-10=Швидше! Тобі треба зайти в дім!
 
 # Graff
 ### I know... (Cough) I was going to...
-GPC03_TRAMP_PILL1-11=Я знаю... (Кашляє) Я збирався...
+GPC03_TRAMP_PILL1-11=Я знаю... (Кашляє) Я збирався це зробити...
 
 
 # Tramp
 ### I wish I could do more than give you advice...
-GPC03_TRAMP_PILL1-12=Хотів би я зробити більше, ніж дати пораду...
+GPC03_TRAMP_PILL1-12=Якби ж я міг зробити щось більше, ніж дати пораду...
 
 
 # Tramp
@@ -293,7 +293,7 @@ GPC03_WELCOME_TRAMP3-1=Вітаю, мій хлопче!
 
 # Tramp
 ### I'm glad to see you're okay!
-GPC03_WELCOME_TRAMP3-2=Радий бачити, що ти в порядку!
+GPC03_WELCOME_TRAMP3-2=Радий бачити, що у тебе все добре!
 
 
 # Graff
@@ -350,7 +350,7 @@ GPC03_STOVE_NOTRAMP1-1=Горить...
 
 # Graff
 ### No one's around. Weird.
-GPC03_STOVE_NOTRAMP1-2=Навколо нікого. Дивно...
+GPC03_STOVE_NOTRAMP1-2=Нікого немає. Дивно...
 
 
 #----------------------------------------------------
@@ -389,7 +389,7 @@ GPC03_STOVE_TRAMP1-2=...
 
 # Tramp
 ### Does fire evoke something to you?
-GPC03_STOVE_TRAMP1-3=Він щось у тебе викликає?
+GPC03_STOVE_TRAMP1-3=Він тобі щось нагадує?
 
 
 # Graff
@@ -399,22 +399,22 @@ GPC03_STOVE_TRAMP1-4=Н... Ні. Я просто...
 
 # Graff
 ### Surprised. We hardly need to make a real fire nowadays.
-GPC03_STOVE_TRAMP1-5=Здивований. Навряд чи потрібно розпалювати справжній вогонь у наші дні.
+GPC03_STOVE_TRAMP1-5=Здивований. У наш час майже ніхто не розпалює справжній вогонь.
 
 
 # Tramp
 ### Things change.
-GPC03_STOVE_TRAMP1-6=Речі змінюються.
+GPC03_STOVE_TRAMP1-6=Часи змінюються.
 
 
 # Tramp
 ### In my time, everyone could light up a fire. Sometimes for necessity, often for fun.
-GPC03_STOVE_TRAMP1-7=У мій час всі могли розпалювати вогонь. Іноді через необхідність, часто - для забави.
+GPC03_STOVE_TRAMP1-7=У мій час всі вміли розпалювати вогонь. Іноді через необхідність, часто - для забави.
 
 
 # Tramp
 ### Then our society told us what to think.
-GPC03_STOVE_TRAMP1-8=А потім наше суспільство сказало нам, що думати.
+GPC03_STOVE_TRAMP1-8=А потім суспільство почало вказувати нам, як ми маємо думати.
 
 
 # Tramp
@@ -440,7 +440,7 @@ GPC03_STOVE_TRAMP1-12=Будь-яка потенційна загроза бул
 
 # Graff
 ### What's wrong with that? It's obviously for safety reasons.
-GPC03_STOVE_TRAMP1-13=Що не так? Очевидно, це задля безпеки.
+GPC03_STOVE_TRAMP1-13=А що не так? Очевидно, це задля безпеки.
 
 
 # Tramp
@@ -479,7 +479,7 @@ GPC03_STOVE_TRAMP2-1=Гмм... Чи потрібно мені щось спал�
 #----------------------------------------------------
 # Graff
 ### May I...
-GPC03_STOVE_TRAMP_STATUETTE-1=Можу я...
+GPC03_STOVE_TRAMP_STATUETTE-1=Можна я...
 
 
 # Tramp
@@ -489,7 +489,7 @@ GPC03_STOVE_TRAMP_STATUETTE-2=Що ти робиш, мій хлопче? Спа�
 
 # Graff
 ### Ah... I forgot. To me it's just a plastic figure.
-GPC03_STOVE_TRAMP_STATUETTE-3=Ах... Я забув. Для мене це просто пластикова фігурка.
+GPC03_STOVE_TRAMP_STATUETTE-3=Ах... Я й забув. Для мене це просто пластикова фігурка.
 
 
 # Graff
@@ -499,13 +499,13 @@ GPC03_STOVE_TRAMP_STATUETTE-4=Я ризикну.
 
 # Tramp
 ### If it's important for you... Go ahead.
-GPC03_STOVE_TRAMP_STATUETTE-5=Якщо це для тебе важливо... Дій.
+GPC03_STOVE_TRAMP_STATUETTE-5=Якщо для тебе це так важливо... Вперед.
 
 
 #----------------------------------------------------
 # Tramp
 ### ...I didn't intend to use that stove anymore, anyway.
-GPC03_STOVE_TRAMP_AFTER1-1=...Все одно я більше не збирався використовувати цю плиту.
+GPC03_STOVE_TRAMP_AFTER1-1=...Я все одно не збирався більше використовувати цю плиту.
 
 
 # Graff
@@ -530,7 +530,7 @@ GPC03_STOVE_TRAMP_AFTER1-5=В жодному разі. Мій старий за�
 
 # Graff
 ### My mistake. I'll fix it.
-GPC03_STOVE_TRAMP_AFTER1-6=Моя помилка. Я це виправлю.
+GPC03_STOVE_TRAMP_AFTER1-6=Це моя помилка. Я виправлю.
 
 
 #----------------------------------------------------
@@ -552,13 +552,13 @@ GPC03_STOVE_TRAMP_AFTER2-3=До побачення!
 #----------------------------------------------------
 # Graff - Room interactions
 ### I don't have time to play! Maybe later.
-GPC03_TRASHER1-1=У мене немає часу на ігри! Може, пізніше.
+GPC03_TRASHER1-1=Немає часу на ігри! Може, пізніше.
 
 
 #----------------------------------------------------
 # Graff
 ### Hey, that's my favorite chip music band!
-GPC03_STICKERDISPLAY1-1=Гей, це ж моя улюблена чип-музична група!
+GPC03_STICKERDISPLAY1-1=Гей, це ж моя улюблена музична чип-група!
 
 
 # Graff
@@ -568,7 +568,7 @@ GPC03_STICKERDISPLAY1-2=Вони роздають наліпки для прос
 
 # Graff
 ### Nice, I'll take one!
-GPC03_STICKERDISPLAY1-3=Чудово, візьму!
+GPC03_STICKERDISPLAY1-3=Чудово, візьму одну!
 
 
 #----------------------------------------------------
@@ -590,12 +590,12 @@ GPC03_STICKERDISPLAY2-3=...
 # Graff
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### What am I saying. Even if I did, Brok would rather spend it all on living expenses.
-GPC03_STICKERDISPLAY2-4=Що я кажу. Навіть якби я це і зробив, Брок волів би витратити все на проживання.
+GPC03_STICKERDISPLAY2-4=Та що я взагалі кажу. Навіть якби я це зробив, Брок волів би витратити все на проживання.
 
 
 # Graff
 ### Darn limited account...
-GPC03_STICKERDISPLAY2-5=Клятий обмежений рахунок...
+GPC03_STICKERDISPLAY2-5=Цей дурний обмежений рахунок...
 
 
 #----------------------------------------------------
@@ -606,7 +606,7 @@ GPC03_TRAMP_HIT1-1=Ой!
 
 # Tramp
 ### I'm... okay. Don't worry.
-GPC03_TRAMP_HIT1-2=Я... В порядку. Не хвилюйся.
+GPC03_TRAMP_HIT1-2=Усе... добре. Не хвилюйся.
 
 
 # Graff
@@ -617,7 +617,7 @@ GPC03_TRAMP_HIT1-3=Перепрошую...
 #----------------------------------------------------
 # Graff
 ### Are you okay?... I'm so clumsy...
-GPC03_TRAMP_HIT2-1=З вами все гаразд? Я такий незграбний...
+GPC03_TRAMP_HIT2-1=З вами все гаразд...? Я такий незграбний...
 
 
 # Tramp
@@ -628,7 +628,7 @@ GPC03_TRAMP_HIT2-2=Я був солдатом, хлопче. Можу впора
 #----------------------------------------------------
 # Graff
 ### Take this, you old... thing!
-GPC03_TRAMP_HIT3-1=Спробуй це, ти, стара... Річ!
+GPC03_TRAMP_HIT3-1=Ось тобі, старий... дурень!
 
 
 # Tramp
