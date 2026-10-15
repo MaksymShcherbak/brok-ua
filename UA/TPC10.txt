@@ -1488,7 +1488,7 @@ PC10_DIRECTOR_INV_PREDNORMAL-2=Він не любить м'які іграшки
 
 # Brok
 ### Darn. And here I thought I had a difficult boy!
-PC10_DIRECTOR_INV_PREDNORMAL-3=Дідько. А я ще думав, що в мене складна дитина!
+PC10_DIRECTOR_INV_PREDNORMAL-3=От же ж. А я ще думав, що в мене складна дитина!
 
 
 #----------------------------------------------------

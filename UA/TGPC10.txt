@@ -1342,7 +1342,7 @@ PC10_SENDTRIAL_AFTER_BEST-6=Ми обидва складемо!
 
 # Ott
 ### Of course we will!
-PC10_SENDTRIAL_AFTER_BEST-7=Звісно!
+PC10_SENDTRIAL_AFTER_BEST-7=Ще б пак!
 
 
 #----------------------------------------------------
@@ -1451,7 +1451,7 @@ PC10_STORY100_A2-4=...вирішить наші проблеми з нестач
 
 # Ott
 ### Wow! Hmm... Don't tell me!...
-PC10_STORY100_A2-5=Вау! Гмм... Тільки не кажи, що...!
+PC10_STORY100_A2-5=Овва! Тільки не кажи, що...!
 
 
 # Ott
@@ -2160,7 +2160,7 @@ PC10_STORY100_F2-9=О, не хвилюйся! Я наздожену тебе у 
 
 # Graff
 ### Hmm...
-PC10_STORY100_F2-10=Гмм...
+PC10_STORY100_F2-10=Гм...
 
 
 # Graff
@@ -3745,7 +3745,7 @@ PC10_KLAYBED_NOTRY2-1=(Навіщо? Вдарити його...? Ні, треб�
 #----------------------------------------------------
 # Graff
 ### Erm...
-PC10_KLAYBED_EARBUDS-1=Е-е...
+PC10_KLAYBED_EARBUDS-1=Ем...
 
 
 # Klay
@@ -3790,7 +3790,7 @@ PC10_KLAYBED_EARBUDS-9=Ти ж не намагаєшся мене обдурит
 
 # Graff
 ### Of course not! Look, I'll wear them...
-PC10_KLAYBED_EARBUDS-10=Звісно, ні! Дивись, я їх надягну...
+PC10_KLAYBED_EARBUDS-10=Та звісно, ні! Дивись, я їх надягну...
 
 
 # Graff
@@ -3800,7 +3800,7 @@ PC10_KLAYBED_EARBUDS-11=Бачиш?
 
 # Klay
 ### Hmm...
-PC10_KLAYBED_EARBUDS-12=Гмм...
+PC10_KLAYBED_EARBUDS-12=Гм...
 
 
 # Klay
@@ -3810,7 +3810,7 @@ PC10_KLAYBED_EARBUDS-13=Гаразд. Дай спробувати.
 
 # Graff
 ### What?
-PC10_KLAYBED_EARBUDS-14=Що?
+PC10_KLAYBED_EARBUDS-14=Га?
 
 
 # Klay
@@ -5460,7 +5460,7 @@ PC10_DAY3BEGINE_NEXT-1=Якісь ідеї...?
 
 # Ott
 ### Hmm...
-PC10_DAY3BEGINE_NEXT-2=Гмм...
+PC10_DAY3BEGINE_NEXT-2=Ну-у...
 
 
 # Ott
@@ -6389,7 +6389,7 @@ PC10_DAY3RESULTS_GRAFFWINSANYWAY-23=Так...
 
 # Ott
 ### Let's get prepared.
-PC10_DAY3RESULTS_GRAFFWINSANYWAY-24=Давай готуватися.
+PC10_DAY3RESULTS_GRAFFWINSANYWAY-24=Готуймося.
 
 
 #----------------------------------------------------

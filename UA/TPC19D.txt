@@ -560,7 +560,7 @@ PC19D_LEAVE_CALL-11=Відділок поліції. Шеф наразі зай�
 
 # Brok
 ### Darn... He's not available.
-PC19D_LEAVE_CALL-12=Чорт... Він недоступний.
+PC19D_LEAVE_CALL-12=От халепа... Він недоступний.
 
 
 # Dee

@@ -79,7 +79,7 @@ GPC08B_TO_PC08C1-4=Вибач. Ця частина приватна.
 
 # Graff
 ### Okay...
-GPC08B_TO_PC08C1-5=Гаразд...
+GPC08B_TO_PC08C1-5=Ну добре...
 
 
 #----------------------------------------------------
@@ -860,7 +860,7 @@ GPC08B_SHAY_OPERATOR1-3=Хіба це не небезпечно?
 
 # Shay
 ### Not really. The force field would diffuse the shock all around, so it's safe.
-GPC08B_SHAY_OPERATOR1-4=Та ні. Силове поле розподілить розряд по всьому периметру, тож це безпечно.
+GPC08B_SHAY_OPERATOR1-4=Та де там. Силове поле розподілить розряд по всьому периметру, тож це безпечно.
 
 
 # Shay
@@ -1099,7 +1099,7 @@ GPC08B_SHAY_INV_EARBUDS-2=Так! Мені теж подобається кол�
 
 # Graff
 ### Erm...
-GPC08B_SHAY_INV_EARBUDS-3=Е-е...
+GPC08B_SHAY_INV_EARBUDS-3=Ем...
 
 
 #----------------------------------------------------
@@ -1202,7 +1202,7 @@ GPC08B_SHAY_STINK1-2=Тільки не кажи... Ти поплавав у бо
 
 # Graff
 ### Erm...
-GPC08B_SHAY_STINK1-3=Е-е...
+GPC08B_SHAY_STINK1-3=Ну...
 
 
 # Shay

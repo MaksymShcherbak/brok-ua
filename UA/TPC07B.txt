@@ -630,7 +630,7 @@ PC07B_SIN_NOTALLOWED2-1=Ви слухаєте?
 
 # Brok
 ### Nope.
-PC07B_SIN_NOTALLOWED2-2=Ні.
+PC07B_SIN_NOTALLOWED2-2=Та ні.
 
 
 # Sin
@@ -640,7 +640,7 @@ PC07B_SIN_NOTALLOWED2-3=Що?!
 
 # Brok
 ### Just kiddin'! Just kiddin'!
-PC07B_SIN_NOTALLOWED2-4=Та жартую! Жартую!
+PC07B_SIN_NOTALLOWED2-4=Жартую! Жартую!
 
 
 #----------------------------------------------------
@@ -1314,7 +1314,7 @@ PC07B_SIN_INV_TRAMPPRESCR-5=Я підібрав його на смітнику..
 
 # Brok
 ### Hmm.
-PC07B_SIN_INV_TRAMPPRESCR-6=Гмм.
+PC07B_SIN_INV_TRAMPPRESCR-6=Гм.
 
 
 #----------------------------------------------------

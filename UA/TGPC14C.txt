@@ -163,7 +163,7 @@ GPC14C_HACKER_FIRST2-14=Гаразд, гаразд!
 
 # Hacker
 ### Go ahead and tell me all about your lost cuddly toy.
-GPC14C_HACKER_FIRST2-15=Давайте, розкажіть мені все про свою загублену іграшку.
+GPC14C_HACKER_FIRST2-15=Розкажіть-но мені все про свою загублену іграшку.
 
 
 # Graff
@@ -810,7 +810,7 @@ GPC14C_HACKER_INV_BANKSTATEMENTOK-21=Дай мені руку, хлопче.
 
 # Hacker
 ### Hmm...
-GPC14C_HACKER_INV_BANKSTATEMENTOK-22=Гмм...
+GPC14C_HACKER_INV_BANKSTATEMENTOK-22=Гм...
 
 
 # Hacker

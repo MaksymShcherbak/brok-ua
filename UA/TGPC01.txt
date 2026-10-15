@@ -484,7 +484,7 @@ GPC01_STORY110_AFTERMESSENGERNORMAL1B-2=...Я не єдиний такий.
 #----------------------------------------------------
 # Graff
 ### Hmm...
-GPC01_STORY110_AFTERMESSENGERBROKEN1-1=Гмм...
+GPC01_STORY110_AFTERMESSENGERBROKEN1-1=Гм...
 
 
 # Unknown
@@ -900,7 +900,7 @@ PC01_DAY2ENDH1B-1=...
 
 # Graff
 ### Darn.
-PC01_DAY2ENDH1B-2=Чорт.
+PC01_DAY2ENDH1B-2=От же ж.
 
 
 # Graff
@@ -1027,7 +1027,7 @@ PC01_DAY2ENDH1B-26=...
 
 # Graff
 ### Okay.
-PC01_DAY2ENDH1B-27=Гаразд.
+PC01_DAY2ENDH1B-27=Ну добре.
 
 
 # Graff
@@ -1084,7 +1084,7 @@ PC01_DAY2ENDH1B_ALTERNATIVE-1=...
 
 # Graff
 ### Darn.
-PC01_DAY2ENDH1B_ALTERNATIVE-2=Чорт.
+PC01_DAY2ENDH1B_ALTERNATIVE-2=Дідько.
 
 
 # Graff
@@ -1178,7 +1178,7 @@ PC01_DAY2ENDJ2-3=Ти стежив за мною?
 
 # Graff
 ### Yes.
-PC01_DAY2ENDJ2-4=Так.
+PC01_DAY2ENDJ2-4=Ага.
 
 
 # Graff
@@ -1683,7 +1683,7 @@ PC01_DAY2ENDJ2_AFTER-15=Ось.
 #----------------------------------------------------
 # Graff - Giving a bad present
 ### Erm...
-GPC01_DAY2ENDJ2_GIVEBAD-1=Е-е...
+GPC01_DAY2ENDJ2_GIVEBAD-1=Ем...
 
 
 # Graff
@@ -1744,7 +1744,7 @@ GPC01_DAY2ENDJ2_GIVEPRED-4=Ти згадав!
 
 # Brok
 ### Yeah.
-GPC01_DAY2ENDJ2_GIVEPRED-5=Так.
+GPC01_DAY2ENDJ2_GIVEPRED-5=Еге.
 
 
 # Brok
@@ -1790,7 +1790,7 @@ GPC01_DAY2ENDJ2_GIVEPENDANT-2=Кулон мами...?
 
 # Brok
 ### Yeah.
-GPC01_DAY2ENDJ2_GIVEPENDANT-3=Так.
+GPC01_DAY2ENDJ2_GIVEPENDANT-3=Ага.
 
 
 # Brok
@@ -1855,7 +1855,7 @@ GPC01_DAY2ENDJ2_GIVEPENDANT-15=Я поверну його тобі.
 
 # Graff
 ### Fine...
-GPC01_DAY2ENDJ2_GIVEPENDANT-16=Гаразд...
+GPC01_DAY2ENDJ2_GIVEPENDANT-16=Ну добре...
 
 
 # Graff

@@ -975,7 +975,7 @@ PC01_GRAFF_INV_MONEY2-4=Ти перевіряв наш холодильник?
 
 # Brok
 ### Yeah...
-PC01_GRAFF_INV_MONEY2-5=Так...
+PC01_GRAFF_INV_MONEY2-5=Ага...
 
 
 #----------------------------------------------------
@@ -1028,7 +1028,7 @@ PC01_GRAFF_EXIT2-1=Мені час іти.
 
 # Graff
 ### OK.
-PC01_GRAFF_EXIT2-2=Гаразд.
+PC01_GRAFF_EXIT2-2=Добре.
 
 
 #----------------------------------------------------
@@ -1708,7 +1708,7 @@ PC01_STORY110_LIE1-7=Гаразд. Покажи свій телефон.
 
 # Brok
 ### Erm...
-PC01_STORY110_LIE1-8=Е-е...
+PC01_STORY110_LIE1-8=Ем...
 
 
 # Brok
@@ -2541,7 +2541,7 @@ PC01_STORY110_COOKINGMEDIUM-4=Ти так вважаєш? Сподіваюся, 
 
 # Graff
 ### Hmm...
-PC01_STORY110_COOKINGMEDIUM-5=Гмм...
+PC01_STORY110_COOKINGMEDIUM-5=Гм...
 
 
 # Graff
@@ -2596,7 +2596,7 @@ PC01_STORY110_COOKINGMEDIUM-15=Ми повинні робити це часті�
 
 # Graff
 ### Yeah...
-PC01_STORY110_COOKINGMEDIUM-16=Так...
+PC01_STORY110_COOKINGMEDIUM-16=Угу...
 
 
 #----------------------------------------------------
@@ -2757,7 +2757,7 @@ PC01_STORY110_COOKINGGOOD-31=Я маю на увазі... Ви однакові.
 
 # Brok
 ### Yeah...
-PC01_STORY110_COOKINGGOOD-32=Так...
+PC01_STORY110_COOKINGGOOD-32=Еге...
 
 
 # Graff
@@ -3101,7 +3101,7 @@ PC01_DAY2BEGINB1-15=...
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Darn... I forgot! I promised Graff I'd fix the situation with his diploma!
-PC01_DAY2BEGINB1-16=Чорт... Я й забув! Я обіцяв Граффові врегулювати ситуацію з його дипломом!
+PC01_DAY2BEGINB1-16=От же ж... Я й забув! Я обіцяв Граффові врегулювати ситуацію з його дипломом!
 
 
 # Brok
@@ -3118,7 +3118,7 @@ PC01_DAY2BEGINB1-18=Що ж мені робити...?
 #----------------------------------------------------
 # Brok
 ### Yeah...
-PC01_DAY2BEGIN_CHOICEGRAFF1-1=Так...
+PC01_DAY2BEGIN_CHOICEGRAFF1-1=Ага...
 
 
 # Brok
@@ -3437,7 +3437,7 @@ PC01_DAY2END_BOTARRIVES2-1=...?
 #----------------------------------------------------
 # Brok
 ### What...?
-PC01_DAY2END_BOTARRIVES3-1=Що...?
+PC01_DAY2END_BOTARRIVES3-1=Що таке...?
 
 
 #----------------------------------------------------
@@ -8065,7 +8065,7 @@ PC01_STORY330_CANNOT3-10=Те, що я написав... досі в силі.
 
 # Graff
 ### But... Let's take a break.
-PC01_STORY330_CANNOT3-11=Але... Давай зробимо перерву.
+PC01_STORY330_CANNOT3-11=Але... Зробімо перерву.
 
 
 # Brok

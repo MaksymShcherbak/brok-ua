@@ -1852,7 +1852,7 @@ PC14C_HACKER_INV_DEFAULT2-6=Відчепись.
 #----------------------------------------------------
 # Hacker
 ### Hmm...!
-PC14C_HACKER_INV_PENDANT-1=Гмм...!
+PC14C_HACKER_INV_PENDANT-1=Гм...!
 
 
 # Brok

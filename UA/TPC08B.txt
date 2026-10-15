@@ -1413,7 +1413,7 @@ PC08B_SHAY_REMEMBER_YES-5=Не сумуй! Я вже звикла, що це о�
 
 # Shay
 ### Let me explain everything from the start.
-PC08B_SHAY_REMEMBER_YES-6=Давай я поясню все від самого початку.
+PC08B_SHAY_REMEMBER_YES-6=Я поясню все від самого початку.
 
 
 # Shay
@@ -1497,7 +1497,7 @@ PC08B_SHAY_REMEMBER_NO-3=Ні за що!
 #----------------------------------------------------
 # Brok
 ### Get to the important part. How do I fight?
-PC08B_SHAY_ARENA2-1=Давай про найважливіше. Як мені битися?
+PC08B_SHAY_ARENA2-1=Про найважливіше. Як мені битися?
 
 
 # Shay
@@ -2604,7 +2604,7 @@ PC08B_SHAY_INV_LEVER_AFTER-18=(Цілує в щоку)
 
 # Shay
 ### Erm...
-PC08B_SHAY_INV_LEVER_AFTER-19=Е-е...
+PC08B_SHAY_INV_LEVER_AFTER-19=Ем...
 
 
 # Brok
@@ -3174,7 +3174,7 @@ PC08B_STORY120_THEORY-16=Неправильно!
 
 # Brok
 ### What?
-PC08B_STORY120_THEORY-17=Що?
+PC08B_STORY120_THEORY-17=Га?
 
 
 # Shay
@@ -3630,7 +3630,7 @@ PC08B_WIN1-15=І я в тебе вірю.
 
 # Brok
 ### Hmm...
-PC08B_WIN1-16=Гмм...
+PC08B_WIN1-16=Гм...
 
 
 # Brok
@@ -4408,7 +4408,7 @@ PC08B_SHAY_HACKER1-25=Сподіваюся, ні! Це означало б, що
 
 # Shay
 ### Hmm...
-PC08B_SHAY_HACKER1-26=Гмм...
+PC08B_SHAY_HACKER1-26=Ну-у...
 
 
 # Shay
@@ -5033,7 +5033,7 @@ PC08B_DAY2_AFTERFIGHT1-5=Зосередишся на своєму новому �
 
 # Shay
 ### Yeah...
-PC08B_DAY2_AFTERFIGHT1-6=Так...
+PC08B_DAY2_AFTERFIGHT1-6=Ага...
 
 
 # Shay
@@ -6380,7 +6380,7 @@ PC08B_TILLENDTIME_END7-7=Старий...?
 
 # Brok
 ### Yeah...
-PC08B_TILLENDTIME_END7-8=Так...
+PC08B_TILLENDTIME_END7-8=Угу...
 
 
 # Brok
@@ -7162,7 +7162,7 @@ PC08B_CANONICAL_SUBENDING1C-24=...
 
 # Brok
 ### Yes.
-PC08B_CANONICAL_SUBENDING1C-25=Так.
+PC08B_CANONICAL_SUBENDING1C-25=Угу.
 
 
 # Brok

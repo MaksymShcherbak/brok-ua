@@ -668,7 +668,7 @@ PC19B_CONTROLPANEL1-15=О!
 
 # Brok
 ### Let's use this to get rid of them!
-PC19B_CONTROLPANEL1-16=Давайте скористаємося щитом, щоб їх позбутися!
+PC19B_CONTROLPANEL1-16=Скористаймося щитом, щоб їх позбутися!
 
 
 # Gherkin
@@ -1784,7 +1784,7 @@ PC19B_PILLS1-12=Власне, ти щойно нагадала мені, що д
 
 # Dee
 ### Hmm.
-PC19B_PILLS1-13=Гмм.
+PC19B_PILLS1-13=Гм.
 
 
 # Dee
@@ -1856,7 +1856,7 @@ PC19B_TARGET2-3=Цей здається милим.
 
 # Brok
 ### Hmm.
-PC19B_TARGET2-4=Гмм.
+PC19B_TARGET2-4=Гм.
 
 
 # Brok
@@ -2908,7 +2908,7 @@ PC19B_CLUE_GHERKIN_SIGNATURE-4=Але не вийшло?
 
 # Gherkin
 ### Erm...
-PC19B_CLUE_GHERKIN_SIGNATURE-5=Е-е...
+PC19B_CLUE_GHERKIN_SIGNATURE-5=Ем...
 
 
 # Dee
@@ -3150,7 +3150,7 @@ PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-17=Відповідь очевидна.
 
 # Brok
 ### Hmm...
-PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-18=Гмм...
+PC19B_CLUE_GHERKIN_GHERKINGOVERNMENT2-18=Гм...
 
 
 # Brok

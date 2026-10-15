@@ -221,7 +221,7 @@ GPC05D_CHIEFRAT_DROPWEAPON-2=Погане кошенятко!
 #----------------------------------------------------
 # Chiefrat
 ### Lemme put ya back.
-GPC05D_CHIEFRAT_MOVED3-1=Давай я поставлю тебе на місце.
+GPC05D_CHIEFRAT_MOVED3-1=Зараз поставлю тебе на місце.
 
 
 #----------------------------------------------------
@@ -419,7 +419,7 @@ GPC05D_FIRSTDIALOG-30=Можеш не хвилюватись. Як закінч�
 
 # Graff
 ### No way! I'm not staying here!
-GPC05D_FIRSTDIALOG-31=У жодному разі! Я тут не залишуся!
+GPC05D_FIRSTDIALOG-31=Дідька лисого! Я тут не залишуся!
 
 
 # Graff
@@ -862,7 +862,7 @@ GPC05D_CHIEFRAT_NODECISION-1=Має бути якийсь інший вихід.
 
 # Chiefrat
 ### Nope!
-GPC05D_CHIEFRAT_NODECISION-2=Ні!
+GPC05D_CHIEFRAT_NODECISION-2=Та ні!
 
 
 # Graff
@@ -1228,7 +1228,7 @@ GPC05D_SECONDDIALOG3C-13=Ви вивели їх з ладу!
 
 # Chiefrat
 ### Let's make things clear.
-GPC05D_SECONDDIALOG3C-14=Давай прояснимо дешо.
+GPC05D_SECONDDIALOG3C-14=Прояснімо дешо.
 
 
 # Chiefrat
@@ -2188,7 +2188,7 @@ GPC05D_SECONDDIALOG12-11=План змінився, чуваки.
 
 # Chiefrat
 ### Let's wait for da lil' brat to return with da croc.
-GPC05D_SECONDDIALOG12-12=Давайте зачекаємо, поки той бешкетник повернеться з крокодилом.
+GPC05D_SECONDDIALOG12-12=Зачекаймо, поки той бешкетник повернеться з крокодилом.
 
 
 # Chiefrat
@@ -2576,7 +2576,7 @@ GPC05D_OTTHERE1-3=Я йтиму слідом!
 
 # Ott
 ### Okay...
-GPC05D_OTTHERE1-4=Гаразд...
+GPC05D_OTTHERE1-4=Ну добре...
 
 
 #----------------------------------------------------
@@ -2714,7 +2714,7 @@ GPC05D_OTT_TALKCHAIR_UNTIE-1=До речі. А як ти...
 
 # Graff
 ### I'll explain later. Let me untie you!
-GPC05D_OTT_TALKCHAIR_UNTIE-2=Потім поясню. Давай я тебе розв'яжу!
+GPC05D_OTT_TALKCHAIR_UNTIE-2=Потім поясню. Зараз я тебе розв'яжу!
 
 
 #----------------------------------------------------
@@ -2725,7 +2725,7 @@ GPC05D_OTT_TALKCHAIR_FAR1-1=Як нам звідси вибратись?
 
 # Ott
 ### Hmm...
-GPC05D_OTT_TALKCHAIR_FAR1-2=Гмм...
+GPC05D_OTT_TALKCHAIR_FAR1-2=Гм...
 
 
 # Ott
@@ -2746,7 +2746,7 @@ GPC05D_OTT_TALKCHAIR_CLOSE1-2=Трохи...
 
 # Graff
 ### Let's try and untie one another!
-GPC05D_OTT_TALKCHAIR_CLOSE1-3=Давай спробуємо одне одного розв'язати!
+GPC05D_OTT_TALKCHAIR_CLOSE1-3=Спробуймо розв'язати одне одного!
 
 
 #----------------------------------------------------
@@ -2877,7 +2877,7 @@ GPC05D_RAT2_SPOTTED1-1=Та ну! Хлопчина! Він тут!
 
 # Graff
 ### Crap!
-GPC05D_RAT2_SPOTTED1-2=Чорт!
+GPC05D_RAT2_SPOTTED1-2=Трясця!
 
 
 #----------------------------------------------------

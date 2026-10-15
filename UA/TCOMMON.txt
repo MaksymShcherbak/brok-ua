@@ -946,7 +946,7 @@ INTERFACE_OPTION_VOLUMEAMBIENT=Атмосфера
 INTERFACE_OPTION_VOLUMEVOICE=Голоси
 
 ### Enemy blink
-INTERFACE_OPTION_ENEMYBLINK=Миготіння ворога
+INTERFACE_OPTION_ENEMYBLINK=Блимання ворога
 
 
 ### All dialog
@@ -1298,7 +1298,7 @@ ITEM_INTERFACE_OPTION_DEADZONE_PS_MSG=Виберіть мертву зону д�
 ITEM_INTERFACE_OPTION_VIBRATION_MSG=Виберіть силу вібрації
 
 ### Should enemies blink when preparing an attack?
-ITEM_INTERFACE_OPTION_ENEMYBLINK_MSG=Чи мають вороги миготіти, коли готуються до атаки?
+ITEM_INTERFACE_OPTION_ENEMYBLINK_MSG=Чи мають вороги блимати, коли готуються до атаки?
 
 
 
@@ -4170,7 +4170,7 @@ HELP_SKIPFIGHT_INSTRUCTIONS_GAMEPAD=Цей бій був не надто скл�
 HELP_SKIPACTION=Пропустити сцену
 
 ### You can also skip <col=BOLD>action scenes and timed events</col> the same way.##There is <col=BOLD>no penalty</col> for skipping - but you may still want to try them once!
-HELP_SKIPACTION_INSTRUCTIONS=Таким самим чином ви можете пропустити <col=BOLD>бойові сцени та події, обмежені часом</col>.##<col=BOLD>Жодних штрафів за пропуск немає - проте ви, можливо, захочете спробувати пройти їх хоча б раз!
+HELP_SKIPACTION_INSTRUCTIONS=Так само ви можете пропустити <col=BOLD>бойові сцени та події, обмежені часом</col>.##<col=BOLD>Жодних штрафів за пропуск немає - проте ви, можливо, захочете спробувати пройти їх хоча б раз!
 
 
 # Graff can play a simulation of the VR arenas (that Brok is doing) on his computer
@@ -5160,7 +5160,7 @@ GAMEOVER_PC07B_SIN2=Сін перестає кидати склянки післ
 
 
 ### What the heck?! Anyway... You'd better avoid that saw, next time!
-GAMEOVER_PC08B_SAW=Що за чорт?! Втім... Наступного разу краще тримайтеся подалі від тієї пили!
+GAMEOVER_PC08B_SAW=Якого дідька?! Втім... Наступного разу краще тримайтеся подалі від тієї пили!
 
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
@@ -8723,7 +8723,7 @@ COMBINE_INV_PRED-1=Мені здається, ця іграшка ось-ось 
 
 # Brok
 ### "What the heck are you doing?!"
-COMBINE_INV_PRED-2="Якого біса ти робиш?!"
+COMBINE_INV_PRED-2="Якого дідька ти робиш?!"
 
 
 #----------------------------------------------------
@@ -9405,7 +9405,7 @@ DESCRIBE_INV_REMOTECONTROL1-2=Схоже, він виводить з ладу е
 
 # Brok
 ### Hmm.
-DESCRIBE_INV_REMOTECONTROL1-3=Гмм.
+DESCRIBE_INV_REMOTECONTROL1-3=Гм.
 
 
 #----------------------------------------------------
@@ -10490,7 +10490,7 @@ COMMON_GRAFF_HITOTT1-2=Це боляче, взагалі-то!
 
 # Graff
 ### Erm...
-COMMON_GRAFF_HITOTT1-3=Е-е...
+COMMON_GRAFF_HITOTT1-3=Ем...
 
 
 #----------------------------------------------------

@@ -1376,12 +1376,12 @@ PC17_OTT_KLAYKILLED1-3=Ти щось знаєш, Граффе?
 
 # Graff
 ### ...Not really...
-PC17_OTT_KLAYKILLED1-4=...Не зовсім...
+PC17_OTT_KLAYKILLED1-4=...Та не зовсім...
 
 
 # Ott
 ### Hmm?...
-PC17_OTT_KLAYKILLED1-5=Гмм...?
+PC17_OTT_KLAYKILLED1-5=Гм...?
 
 
 # Ott

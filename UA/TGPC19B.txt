@@ -162,7 +162,7 @@ GPC19B_FIRST1B-5=До того ж ти знаєш, що пігулка не по
 
 # Graff
 ### Ugh, you'll never change. Always so arrogant.
-GPC19B_FIRST1B-6=Пхе, ти ніколи не змінишся. Завжди такий пихатий.
+GPC19B_FIRST1B-6=Тю, ти ніколи не змінишся. Завжди такий пихатий.
 
 
 # Graff
@@ -957,7 +957,7 @@ GPC19B_GAMESTARTS_KLAY-1=Краще ти.
 
 # Klay
 ### No way!
-GPC19B_GAMESTARTS_KLAY-2=Ні за що!
+GPC19B_GAMESTARTS_KLAY-2=Зась!
 
 
 # Klay
@@ -2376,7 +2376,7 @@ GPC19B_KLAY_WRONG2-2=Ти... робиш це спеціально, чи не т�
 
 # Graff
 ### Erm...
-GPC19B_KLAY_WRONG2-3=Е-е...
+GPC19B_KLAY_WRONG2-3=Ем...
 
 
 #----------------------------------------------------

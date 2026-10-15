@@ -78,7 +78,7 @@ CPC15_MAGNIFY_NANITE3-2=Абсолютно нічого.
 #----------------------------------------------------
 # Brok
 ### Let's look around.
-CPC15_OTT_BEFOREBODY-1=Давай оглянемось навколо.
+CPC15_OTT_BEFOREBODY-1=Огляньмося навколо.
 
 
 # Ott
@@ -114,7 +114,7 @@ CPC15_OTT_FIRST-5=Ви не проти, якщо я триматимусь по�
 
 # Brok
 ### Of course.
-CPC15_OTT_FIRST-6=Звісно.
+CPC15_OTT_FIRST-6=Ще б пак.
 
 
 # Ott
@@ -181,7 +181,7 @@ CPC15_OTT_MEETTIDY1-2=Я не впевнений. А як щодо того бо
 
 # Brok
 ### Right. Let's check if that thing works!
-CPC15_OTT_MEETTIDY1-3=Точно. Давай перевіримо, чи працює ця штука!
+CPC15_OTT_MEETTIDY1-3=Точно. Перевірмо, чи працює ця штука!
 
 
 #----------------------------------------------------
@@ -1830,7 +1830,7 @@ CPC15_MINK_INV_SCREW_YES-2=Чудово!
 #----------------------------------------------------
 # Mink
 ### Hmm...!
-CPC15_MINK_INV_HOOVER-1=Гмм...!
+CPC15_MINK_INV_HOOVER-1=Гм...!
 
 
 # Brok

@@ -4128,7 +4128,7 @@ PC20_FIGHT2_AFTEREND-4=Ну...
 #----------------------------------------------------
 # Brok
 ### Darn!
-PC20_LASTWORD_DARN1-1=Чорт!
+PC20_LASTWORD_DARN1-1=Трясця!
 
 
 # Wes
@@ -6307,7 +6307,7 @@ PC20_AFTERGRAFF1B_DEEDEAD2-11=Можете йти.
 #----------------------------------------------------
 # Brok
 ### Okay...
-PC20_AFTERGRAFF1B-1=Гаразд...
+PC20_AFTERGRAFF1B-1=Добре...
 
 
 #----------------------------------------------------
@@ -7044,7 +7044,7 @@ PC20_RUPTURE6C-13=Директорко...?
 #----------------------------------------------------
 # Brok - After getting injured, Brok wakes up a week later in a Drumer hospital.
 ### Uh...
-PC20_RUPTURE7-1=Е-е...
+PC20_RUPTURE7-1=Ем...
 
 
 # Brok

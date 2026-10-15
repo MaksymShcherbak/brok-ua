@@ -261,7 +261,7 @@ CH6_THEIDEA1-12=Питання лише в тому... З чого нам поч
 #----------------------------------------------------
 # Graff
 ### Let's break into the Consc'.
-CH6_CHOICE_BREAK-1=Давай вдеремося в Центр Свідомості.
+CH6_CHOICE_BREAK-1=Вдеремося в Центр Свідомості.
 
 
 # Ott
@@ -292,7 +292,7 @@ CH6_CHOICE_SHAY-2=(...)
 
 # Graff
 ### Darn... She's not replying!
-CH6_CHOICE_SHAY-3=Чорт... Вона не відповідає!
+CH6_CHOICE_SHAY-3=От же ж... Вона не відповідає!
 
 
 # Graff
@@ -484,7 +484,7 @@ CH6_CHOICE_INVENTORY-18=Ходімо перевіримо!
 # Ott - Day 3 - Ott with Graff in the city
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Let's go meet that hacker!
-CH6_OTT_HACKER1-1=Давай зустрінемося із цим гакером!
+CH6_OTT_HACKER1-1=Зустрінемося з тим гакером!
 
 
 #----------------------------------------------------
@@ -538,7 +538,7 @@ CH6_OTT1-5=Маєш інші варіанти?
 
 # Graff
 ### Nope...
-CH6_OTT1-6=Ні...
+CH6_OTT1-6=Та ні...
 
 
 #----------------------------------------------------
@@ -800,7 +800,7 @@ CH6_ENDING_FIGHTTOGETHER4-2=З твоїми батьками все гаразд
 
 # Ott
 ### Yes...
-CH6_ENDING_FIGHTTOGETHER4-3=Так...
+CH6_ENDING_FIGHTTOGETHER4-3=Ага...
 
 
 # Ott
@@ -1174,7 +1174,7 @@ CH6_ENDING_FIGHTTOGETHER6-17=Поки що...
 # Brok
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Let's save the Slums.
-CH6_ENDING_FIGHTTOGETHER6-18=Давай врятуємо Нетрі.
+CH6_ENDING_FIGHTTOGETHER6-18=Врятуймо Нетрі.
 
 
 # Brok
@@ -2154,12 +2154,12 @@ CH6_STORY300_INITSLUMER5-21=Якщо це те, чого ти справді х�
 
 # Brok
 ### Alright.
-CH6_STORY300_INITSLUMER5-22=Гаразд.
+CH6_STORY300_INITSLUMER5-22=Згода.
 
 
 # Brok
 ### Gotta admit... That makes me happy.
-CH6_STORY300_INITSLUMER5-23=Але мушу визнати... Це робить мене щасливішим.
+CH6_STORY300_INITSLUMER5-23=Мушу визнати... Це робить мене щасливішим.
 
 
 # Brok

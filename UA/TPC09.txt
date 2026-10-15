@@ -779,7 +779,7 @@ PC09_PANELAFTER1_1-4=Будь ласка, сформулюйте наново.
 
 # Brok
 ### Hmm...
-PC09_PANELAFTER1_1-5=Гмм...
+PC09_PANELAFTER1_1-5=Гм...
 
 
 # Brok
@@ -1157,7 +1157,7 @@ PC09_DRINK_SEWAGE_SLUDGE1-4=Це ваш запит. Від нього не мо�
 
 # Brok
 ### Okay...
-PC09_DRINK_SEWAGE_SLUDGE1-5=Гаразд...
+PC09_DRINK_SEWAGE_SLUDGE1-5=Ну добре...
 
 
 #----------------------------------------------------
@@ -1528,7 +1528,7 @@ PC09_BARRIER1-2=Ар-р...
 
 # Dee
 ### Let's just wreck all those bots and...
-PC09_BARRIER1-3=Давай просто рознесемо всіх цих ботів і...
+PC09_BARRIER1-3=Рознесімо всіх цих ботів і...
 
 
 # Brok
@@ -1573,7 +1573,7 @@ PC09_DAY2_BARRIER-1=Я не можу пройти.
 #----------------------------------------------------
 # Brok
 ### Hmm...!
-PC09_BARRIER_REMOTECONTROL_DAY2-1=Гмм...!
+PC09_BARRIER_REMOTECONTROL_DAY2-1=Гм...!
 
 
 #----------------------------------------------------

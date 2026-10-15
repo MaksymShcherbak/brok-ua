@@ -667,7 +667,7 @@ PC15B_GUARD_SITUATION_AFTER1-12=Ми не можемо дозволити соб
 
 # Brok
 ### Hmm...
-PC15B_GUARD_SITUATION_AFTER1-13=Гмм...
+PC15B_GUARD_SITUATION_AFTER1-13=Гм...
 
 
 # Brok
@@ -709,7 +709,7 @@ PC15B_GUARD_SITUATION_AFTER2-2=Коли саме це сталося?
 
 # Guard
 ### Hmm...
-PC15B_GUARD_SITUATION_AFTER2-3=Гмм...
+PC15B_GUARD_SITUATION_AFTER2-3=Гм-м...
 
 
 # Guard
@@ -2791,7 +2791,7 @@ PC15B_CLUE_HUSH_GONE2-5=Ти не хвилювався?
 
 # Guard
 ### What?
-PC15B_CLUE_HUSH_GONE2-6=Що?
+PC15B_CLUE_HUSH_GONE2-6=Га?
 
 
 # Brok

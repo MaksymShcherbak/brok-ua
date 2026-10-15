@@ -971,12 +971,12 @@ CREDITS_SCENE_POLICE1A-13=Я візьму вас назад!
 
 # RJ
 ### For... real?
-CREDITS_SCENE_POLICE1A-14=Невже...? Серйозно?
+CREDITS_SCENE_POLICE1A-14=Серйозно...?
 
 
 # Ott
 ### Of course!
-CREDITS_SCENE_POLICE1A-15=Звісно!
+CREDITS_SCENE_POLICE1A-15=Ще б пак!
 
 
 # Ott

@@ -862,7 +862,7 @@ PC09C_OTT_HIMSELF1-16=Довга історія.
 
 # Ott
 ### Hmm...
-PC09C_OTT_HIMSELF1-17=Гмм...
+PC09C_OTT_HIMSELF1-17=Гм...
 
 
 # Ott
@@ -887,7 +887,7 @@ PC09C_OTT_HIMSELF1-21=Ви не знаєте?!
 
 # Brok
 ### Yeah...
-PC09C_OTT_HIMSELF1-22=Так...
+PC09C_OTT_HIMSELF1-22=Угу...
 
 
 # Brok
@@ -1281,7 +1281,7 @@ PC09C_WES2_LATE-1=Ви маєте на увазі... те, що Графф пр�
 
 # Brok
 ### Yeah.
-PC09C_WES2_LATE-2=Так.
+PC09C_WES2_LATE-2=Ага.
 
 
 # Ott
@@ -2112,7 +2112,7 @@ PC09C_MESS1-9=Як би там не було, я його дістав.
 #----------------------------------------------------
 # Ott
 ### Erm...
-PC09C_MESS_OTT-1=Е-е...
+PC09C_MESS_OTT-1=Ем...
 
 
 # Brok
@@ -2497,7 +2497,7 @@ PC09C_OTT_MOVEDESK1-3=Будь ласка, не треба. Я пообіцяв 
 
 # Brok
 ### Okay...
-PC09C_OTT_MOVEDESK1-4=Добре...
+PC09C_OTT_MOVEDESK1-4=Ну добре...
 
 
 #----------------------------------------------------
@@ -2964,7 +2964,7 @@ PC09C_COMPUTER_AFTEROTTKO-2=А де Отт?
 
 # Brok
 ### Darn. Sounds like trouble ahead...
-PC09C_COMPUTER_AFTEROTTKO-3=Чорт. Схоже, на мене чекають проблеми...
+PC09C_COMPUTER_AFTEROTTKO-3=От халепа. Схоже, на мене чекають проблеми...
 
 
 #----------------------------------------------------
@@ -3328,7 +3328,7 @@ PC09C_OTT_OPENS_OOPS-2=Що ви робите?!
 
 # Brok
 ### Erm...
-PC09C_OTT_OPENS_OOPS-3=Е-е...
+PC09C_OTT_OPENS_OOPS-3=Та-а...
 
 
 # Ott
@@ -3366,7 +3366,7 @@ PC09C_OTT_OPENS_OK-2=Усе гаразд?
 
 # Ott
 ### Yeah.
-PC09C_OTT_OPENS_OK-3=Так.
+PC09C_OTT_OPENS_OK-3=Ага.
 
 
 # Ott
