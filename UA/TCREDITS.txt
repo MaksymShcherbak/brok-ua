@@ -77,13 +77,13 @@ PC_ADDITIONALART=Додаткова графіка
 PC_DIALOGUE=Діалоги
 
 ### Associate Producer
-PC_ASSOCIATEPRODUCER=Асоційований продюсер
+PC_ASSOCIATEPRODUCER=Помічник продюсера
 
 ### Music Composer
 PC_MUSICCOMPOSER=Композитор
 
 ### Voice actor
-PC_VOICEACTOR=Актор озвучування
+PC_VOICEACTOR=Актор озвучення
 
 ### Sound Editor
 PC_SOUNDEDITOR=Звукорежисер
@@ -95,7 +95,7 @@ PC_ADDITIONALIDEAS=Додаткові ідеї
 PC_MARKETING=Маркетинг
 
 ### Proofreader / Text editing
-PC_PROOFREADER=Коректор / редагування тексту
+PC_PROOFREADER=Коректор / Редактор тексту
 
 ### Voice editing
 PC_SPLITTER=Редактор озвучування
@@ -110,7 +110,7 @@ PC_KICKSTARTERBACKERS=Спонсори Kickstarter
 PC_SPECIALTHANKS=Особлива подяка
 
 ### Royalty-free Resources
-PC_ROYALTYFREE=Вільні ресурси
+PC_ROYALTYFREE=Вільні матеріали
 
 ### Presented By
 PC_PRESENTEDBY=Представлено
@@ -133,7 +133,7 @@ ENDING_PLAYTIME=Час гри
 ENDING_NOTCANONIC1=Це розслідування ще не закінчено.
 
 ### Next time, try to get the canonical ending!
-ENDING_NOTCANONIC2=Наступного разу, спробуйте відкрити канонічну кінцівку!
+ENDING_NOTCANONIC2=Наступного разу спробуйте відкрити канонічну кінцівку!
 
 
 ### Accessibility
@@ -150,7 +150,7 @@ CREDITS_SCENE_FLOWER1A-1=Дякувати небесам... Пігулки зн�
 
 # Various
 ### You know what happened?
-CREDITS_SCENE_FLOWER1A-2=Ви знаєте що сталося?
+CREDITS_SCENE_FLOWER1A-2=Ви знаєте, що сталося?
 
 
 # Flower
@@ -171,7 +171,7 @@ CREDITS_SCENE_FLOWER1A-5=Можливо...
 # Various
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### Maybe someone just worked out that mess with the Pipe-Pills.
-CREDITS_SCENE_FLOWER1A-6=Можливо, хтось просто розібрався з тим безладом з пігулкоматами.
+CREDITS_SCENE_FLOWER1A-6=Можливо, хтось просто розібрався з тим безладом з Пігулкоматами.
 
 
 # Flower
@@ -186,20 +186,20 @@ CREDITS_SCENE_FLOWER1A-8=Зрештою, ми всі його паства, на
 
 # Various
 ### I suppose so.
-CREDITS_SCENE_FLOWER1A-9=Я гадаю, так.
+CREDITS_SCENE_FLOWER1A-9=Мабуть.
 
 
 # Flower
 # NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
 ### Let us pray to the Untail.
-CREDITS_SCENE_FLOWER1A-10=Помолимося Безхвостю.
+CREDITS_SCENE_FLOWER1A-10=Помолимося Безхвостому.
 
 
 # Flower
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Big sale, folks! Lovely little statue, only 10 Unis!
-CREDITS_SCENE_FLOWER1A-11=Великий розпродаж, друзі! Прекрасна маленька статуетка, лише за 10 Юні!
+CREDITS_SCENE_FLOWER1A-11=Великий розпродаж, друзі! Наймиліша статуетка, лише за 10 Юні!
 
 
 #----------------------------------------------------
@@ -210,18 +210,18 @@ CREDITS_SCENE_FLOWER2A-1=Ця крамниця... Покинута?
 
 # Various
 ### Such a shame...
-CREDITS_SCENE_FLOWER2A-2=Як шкода...
+CREDITS_SCENE_FLOWER2A-2=Шкода...
 
 
 # Various
 # NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
 ### I'm surprised it hasn't been sacked. I don't know anything about the Untail but...
-CREDITS_SCENE_FLOWER2A-3=Дивно, що його не розграбували. Я нічого не знаю про Безхвостя, але...
+CREDITS_SCENE_FLOWER2A-3=Дивно, що її не розграбували. Я нічого не знаю про Безхвостя, але...
 
 
 # Various
 ### Maybe this is a sign...
-CREDITS_SCENE_FLOWER2A-4=Може, це знак...
+CREDITS_SCENE_FLOWER2A-4=Можливо, це знак...
 
 
 # Various
@@ -231,7 +231,7 @@ CREDITS_SCENE_FLOWER2A-5=Ага! Вирішено!
 
 # Various
 ### I'll take care of it!
-CREDITS_SCENE_FLOWER2A-6=Я подбаю про це!
+CREDITS_SCENE_FLOWER2A-6=Я подбаю про неї!
 
 
 #----------------------------------------------------
@@ -242,7 +242,7 @@ CREDITS_SCENE_CHIEFRAT1A-1=(Зітхає)
 
 # Hacker
 ### Those drones just won't work! I should...
-CREDITS_SCENE_CHIEFRAT1A-2=Ці дрони просто не працюватимуть! Мені слід...
+CREDITS_SCENE_CHIEFRAT1A-2=Ці дрони не працюють! Мені слід...
 
 
 # Hacker
@@ -253,7 +253,7 @@ CREDITS_SCENE_CHIEFRAT1A-3=О... О, ні.
 #----------------------------------------------------
 # Chiefrat
 ### Ey, mousey! I know you're in there!
-CREDITS_SCENE_CHIEFRAT1B-1=Гей, мишко, я знаю, шо ти там!
+CREDITS_SCENE_CHIEFRAT1B-1=Гей, мишенятко, я знаю, шо ти там!
 
 
 #----------------------------------------------------
@@ -274,12 +274,12 @@ CREDITS_SCENE_CHIEFRAT1C-3=Ти знаєш, шо станеться, якшо т
 
 # Hacker
 ### B-but... I - I did! You had the boy!
-CREDITS_SCENE_CHIEFRAT1C-4=А-але... Я заплатив! У тебе був хлопчик!
+CREDITS_SCENE_CHIEFRAT1C-4=А-але... Я заплатив! У вас був хлопець!
 
 
 # Hacker
 ### You're the one who screwed up!
-CREDITS_SCENE_CHIEFRAT1C-5=Це ти сам усе зіпсував!
+CREDITS_SCENE_CHIEFRAT1C-5=Ви самі усе зіпсували!
 
 
 # Chiefrat
@@ -294,12 +294,12 @@ CREDITS_SCENE_CHIEFRAT1C-7=Хлопці...
 
 # Dart
 ### Yes, boss!
-CREDITS_SCENE_CHIEFRAT1C-8=Так, бос!
+CREDITS_SCENE_CHIEFRAT1C-8=Так, босе!
 
 
 # Hacker
 ### Ohh... This nightmare will never end...
-CREDITS_SCENE_CHIEFRAT1C-9=Ох, це жахіття ніколи не скінчиться...
+CREDITS_SCENE_CHIEFRAT1C-9=Ох... Це жахіття ніколи не скінчиться...
 
 
 # Hacker
@@ -357,7 +357,7 @@ CREDITS_SCENE_CHIEFRAT2A-6=Ти навіть нормально розмовля
 
 # Dart
 ### I am!
-CREDITS_SCENE_CHIEFRAT2A-7=Я вмію!
+CREDITS_SCENE_CHIEFRAT2A-7=Все одно, я бос!
 
 
 # Kins
@@ -367,7 +367,7 @@ CREDITS_SCENE_CHIEFRAT2A-8=А от і ні!
 
 # Various
 ### Would you two shut up? The children are sleeping.
-CREDITS_SCENE_CHIEFRAT2A-9=Може б вам обом заткнутися? Діти сплять.
+CREDITS_SCENE_CHIEFRAT2A-9=Коли ви замовкнете? Діти сплять.
 
 
 # Kins
@@ -383,7 +383,7 @@ CREDITS_SCENE_DEE1A-1=Мамо!
 
 # Dee
 ### Hey, sweety! Mom is so happy to see you!
-CREDITS_SCENE_DEE1A-2=Гей, солоденька! Мама так рада побачити тебе!
+CREDITS_SCENE_DEE1A-2=Гей, солоденька! Мама так рада бачити тебе!
 
 
 # Various
@@ -403,7 +403,7 @@ CREDITS_SCENE_DEE1A-5=Гмм... Вони смачні?
 
 # Various
 ### That's okay. Daddy has been eating some too!
-CREDITS_SCENE_DEE1A-6=Все добре. Тато теж трохи з'їв!
+CREDITS_SCENE_DEE1A-6=Все гаразд. Тато теж трохи з'їв!
 
 
 # Dee
@@ -418,12 +418,12 @@ CREDITS_SCENE_DEE1A-8=Е-е... Винен.
 
 # Sin
 ### Will I need to go to jail again to get some Oblivion?
-CREDITS_SCENE_DEE1A-9=Мені знову знадобиться сісти в тюрму, щоб отримати трохи Забуття?
+CREDITS_SCENE_DEE1A-9=То що, мені знов до в'язниці по Забуття?
 
 
 # Dee
 ### It'll be okay. I'm the judge here, and I find you: innocent!
-CREDITS_SCENE_DEE1A-10=Все буде добре. Я тут суддя, і я визнаю тебе: невинним!
+CREDITS_SCENE_DEE1A-10=Все буде добре. Я тут суддя, і я визнаю тебе невинним!
 
 
 # Sin
@@ -438,7 +438,7 @@ CREDITS_SCENE_DEE1A-12=Я кохаю тебе, милий.
 
 # Sin
 ### Never thought I'd hear that. Never again.
-CREDITS_SCENE_DEE1A-13=Ніколи не думав, що почую це. І більше ніколи.
+CREDITS_SCENE_DEE1A-13=Ніколи не думав, що колись знову почую це.
 
 
 # Sin
@@ -494,7 +494,7 @@ CREDITS_SCENE_DEE2A-9=Ага... Бореться.
 
 # Various
 ### Then... Why do you look so sad?
-CREDITS_SCENE_DEE2A-10=Тоді... чому в тебе такий сумний вигляд?
+CREDITS_SCENE_DEE2A-10=Тоді... Чому в тебе такий сумний вигляд?
 
 
 # Sin
@@ -504,7 +504,7 @@ CREDITS_SCENE_DEE2A-11=Нічого...
 
 # Sin
 ### I'm just... so happy to see you again.
-CREDITS_SCENE_DEE2A-12=Я просто... Такий радий побачити тебе знову.
+CREDITS_SCENE_DEE2A-12=Я просто... такий радий побачити тебе знову.
 
 
 # Various
@@ -565,7 +565,7 @@ CREDITS_SCENE_DEE3A-4=Мама так за тобою сумувала!
 
 # Various
 ### You've been fighting bad guys, huh?
-CREDITS_SCENE_DEE3A-5=Ти билася з поганими людьми? Так?
+CREDITS_SCENE_DEE3A-5=Ти билася з поганими людьми, так?
 
 
 # Dee
@@ -580,17 +580,17 @@ CREDITS_SCENE_DEE3A-7=Ось чому ти так вдягнена!
 
 # Dee
 ### Ah ah... You're really clever.
-CREDITS_SCENE_DEE3A-8=Ах ах. Ти дуже розумна.
+CREDITS_SCENE_DEE3A-8=Ха-ха... Ти дуже розумна.
 
 
 # Various
 ### Mom. Now you're here...
-CREDITS_SCENE_DEE3A-9=Мамо, тепер ти тут...
+CREDITS_SCENE_DEE3A-9=Мамо. Раз ти вже тут...
 
 
 # Various
 ### Can daddy come back? Please!
-CREDITS_SCENE_DEE3A-10=А тато може повернутися? Будь ласка!
+CREDITS_SCENE_DEE3A-10=Тато може до нас повернутися? Будь ласка!
 
 
 # Dee
@@ -605,7 +605,7 @@ CREDITS_SCENE_DEE3A-12=Мені шкода, мила...
 
 # Dee
 ### Daddy... won't come back.
-CREDITS_SCENE_DEE3A-13=Татусь... Не повернеться.
+CREDITS_SCENE_DEE3A-13=Татусь... не повернеться.
 
 
 # Various
@@ -650,7 +650,7 @@ CREDITS_SCENE_DEE3A-21=Ти втомилася. Час лягати спати!
 
 # Various
 ### Okay... But don't go away again!
-CREDITS_SCENE_DEE3A-22=Добре. Але не йди знову!
+CREDITS_SCENE_DEE3A-22=Добре... Тільки більше нікуди не йди!
 
 
 # Dee
@@ -686,7 +686,7 @@ CREDITS_SCENE_DEE4A-3=Вибач, мала. Тобі не дозволено ї�
 
 # Various
 ### What about dad?
-CREDITS_SCENE_DEE4A-4=А як тато?
+CREDITS_SCENE_DEE4A-4=А тато?
 
 
 # Various
@@ -711,7 +711,7 @@ CREDITS_SCENE_DEE4A-8=Боюся, ніхто не знає.
 
 # Various
 ### They've... disappeared.
-CREDITS_SCENE_DEE4A-9=Вони... Зникли.
+CREDITS_SCENE_DEE4A-9=Вони... зникли.
 
 
 # Various
@@ -737,12 +737,12 @@ CREDITS_SCENE_DEE4A-13=Коли я подорослішаю, я буду смі�
 #----------------------------------------------------
 # Guard - Various end of credits scene - What happens at the lab?
 ### Aah... Never thought I'd be happy to hear this bickering.
-CREDITS_SCENE_LAB1A-1=Аах... Ніколи не думав, що буду радий знову почути ці сварки.
+CREDITS_SCENE_LAB1A-1=Ах... Ніколи не думав, що буду радий знову почути ці сварки.
 
 
 # Guard
 ### Too bad it's the last time.
-CREDITS_SCENE_LAB1A-2=Шкода, що це востаннє.
+CREDITS_SCENE_LAB1A-2=Шкода, що востаннє.
 
 
 # Hush
@@ -762,17 +762,17 @@ CREDITS_SCENE_LAB1A-5=Йдете? Куди?
 
 # Mink
 ### Anywhere.
-CREDITS_SCENE_LAB1A-6=Куди-небудь.
+CREDITS_SCENE_LAB1A-6=Куди завгодно.
 
 
 # Hush
 ### You... You can't just do that!
-CREDITS_SCENE_LAB1A-7=Ви... Ви просто не можете цього зробити!
+CREDITS_SCENE_LAB1A-7=Ви... Ви не можете цього зробити!
 
 
 # Mink
 ### I thought you'd be happy.
-CREDITS_SCENE_LAB1A-8=Я думав, ви будете раді.
+CREDITS_SCENE_LAB1A-8=Я думав, вас це втішить.
 
 
 # Hush
@@ -782,7 +782,7 @@ CREDITS_SCENE_LAB1A-9=Ні...
 
 # Hush
 ### Well... I'd just like to understand!
-CREDITS_SCENE_LAB1A-10=Що ж... Я просто хотів би зрозуміти!
+CREDITS_SCENE_LAB1A-10=Що ж... Я лише хочу зрозуміти!
 
 
 # Mink
@@ -792,12 +792,12 @@ CREDITS_SCENE_LAB1A-11=Все просто.
 
 # Mink
 ### I've never been this close to losing everything...
-CREDITS_SCENE_LAB1A-12=Я ніколи не був так близько до того, щоб втратити все.
+CREDITS_SCENE_LAB1A-12=Я ніколи не був так близько до того, щоб втратити все...
 
 
 # Mink
 ### ...and this made me realize I don't have much at all.
-CREDITS_SCENE_LAB1A-13=І це змусило мене зрозуміти, що у мене майже нічого немає.
+CREDITS_SCENE_LAB1A-13=...і це змусило мене зрозуміти, що в мене майже нічого немає.
 
 
 # Mink
@@ -807,7 +807,7 @@ CREDITS_SCENE_LAB1A-14=Я присвятив життя науці. День у 
 
 # Mink
 ### Now... I just want... a normal life.
-CREDITS_SCENE_LAB1A-15=Тепер... я просто хочу... Звичайного життя.
+CREDITS_SCENE_LAB1A-15=Тепер... я просто хочу... звичайного життя.
 
 
 # Hush
@@ -822,7 +822,7 @@ CREDITS_SCENE_LAB1A-17=Я розумію.
 
 # Hush
 ### Someday... I might do the same.
-CREDITS_SCENE_LAB1A-18=Колись... можливо, я зроблю так само.
+CREDITS_SCENE_LAB1A-18=Колись... Можливо, я зроблю так само.
 
 
 # Hush
@@ -847,7 +847,7 @@ CREDITS_SCENE_LAB1A-22=Ну що ж!
 
 # Mink
 ### To a new journey!
-CREDITS_SCENE_LAB1A-23=У нову дорогу!
+CREDITS_SCENE_LAB1A-23=Назустріч новому життю!
 
 
 #----------------------------------------------------
@@ -868,7 +868,7 @@ CREDITS_SCENE_LAB2A-3=...
 
 # Various
 ### Ha ha
-CREDITS_SCENE_LAB2A-4=Ха ха
+CREDITS_SCENE_LAB2A-4=Ха-ха
 
 
 # Various
@@ -910,7 +910,7 @@ CREDITS_SCENE_POLICE1A-1=Привіт, пане ведмедю! Я радий, �
 # RJ
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Hey. Name's R.J.
-CREDITS_SCENE_POLICE1A-2=Привіт. Мене звуть Р. Джей.
+CREDITS_SCENE_POLICE1A-2=Привіт. Звати Р. Джей.
 
 
 # RJ
@@ -930,13 +930,13 @@ CREDITS_SCENE_POLICE1A-5=Мій дядько... Пішов.
 
 # Ott
 ### Not sure if I should do this... Or even if I can. But...
-CREDITS_SCENE_POLICE1A-6=Не впевнений, чи слід мені це робити, навіть якщо я можу. Але...
+CREDITS_SCENE_POLICE1A-6=Не впевнений, чи варто мені це робити... Чи взагалі я зможу. Але...
 
 
 # Ott
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### The Slums need protection. I can't do it all. Not alone.
-CREDITS_SCENE_POLICE1A-7=Нетрі потребують захисту. Я не впораюся сам.
+CREDITS_SCENE_POLICE1A-7=Нетрі потребують захисту. А я не впораюся сам.
 
 
 # Ott
@@ -946,7 +946,7 @@ CREDITS_SCENE_POLICE1A-8=Ви в ділі?
 
 # RJ
 ### Not a cop. Got fired.
-CREDITS_SCENE_POLICE1A-9=Не коп. Мене звільнили.
+CREDITS_SCENE_POLICE1A-9=Я не коп. Мене звільнили.
 
 
 # Ott
@@ -971,7 +971,7 @@ CREDITS_SCENE_POLICE1A-13=Я візьму вас назад!
 
 # RJ
 ### For... real?
-CREDITS_SCENE_POLICE1A-14=Невже? Серйозно?
+CREDITS_SCENE_POLICE1A-14=Невже...? Серйозно?
 
 
 # Ott
@@ -996,7 +996,7 @@ CREDITS_SCENE_POLICE1A-18=Ого...!
 
 # Ott
 ### Just don't crush me! I need to be alive to run this place!
-CREDITS_SCENE_POLICE1A-19=Тільки не розчавіть мене! Мені треба бути живим, щоб керувати цим місцем!
+CREDITS_SCENE_POLICE1A-19=Тільки не розчавіть мене! Щоб керувати цим місцем, мені треба бути живим!
 
 
 #----------------------------------------------------
@@ -1017,7 +1017,7 @@ CREDITS_SCENE_POLICE2A-3=...!
 
 # Ott
 ### Hey! Who are you?
-CREDITS_SCENE_POLICE2A-4=Гей! Хто ти?
+CREDITS_SCENE_POLICE2A-4=Гей! Хто ви?
 
 
 # Rat
@@ -1027,17 +1027,17 @@ CREDITS_SCENE_POLICE2A-5=Е-е...
 
 # Ott
 ### Wait! Don't go!
-CREDITS_SCENE_POLICE2A-6=Почекай! Не йди!
+CREDITS_SCENE_POLICE2A-6=Зачекайте! Не йдіть!
 
 
 # Ott
 ### I bet you were looting the place. It's okay.
-CREDITS_SCENE_POLICE2A-7=Закладаюся, ти мародерив. Все добре.
+CREDITS_SCENE_POLICE2A-7=Мабуть, ви шукали цінні предмети. Нічого страшного.
 
 
 # Ott
 ### Listen...
-CREDITS_SCENE_POLICE2A-8=Послухай...
+CREDITS_SCENE_POLICE2A-8=Послухайте...
 
 
 # Ott
@@ -1047,12 +1047,12 @@ CREDITS_SCENE_POLICE2A-9=Я - новий керівник цього відді�
 
 # Rat
 ### ...Leader?
-CREDITS_SCENE_POLICE2A-10=Керівник?
+CREDITS_SCENE_POLICE2A-10=...Керівник?
 
 
 # Rat
 ### Ha! What are ya, ten years old?!
-CREDITS_SCENE_POLICE2A-11=Ха! Тобі що, десять років?!
+CREDITS_SCENE_POLICE2A-11=Ха! Тобі шо, десять років?!
 
 
 # Ott
@@ -1083,22 +1083,22 @@ CREDITS_SCENE_POLICE2A-16=Ага, я дурень.
 
 # Ott
 ### A fool who thinks we shouldn't judge.
-CREDITS_SCENE_POLICE2A-17=Дурень, який думає, що нам не варто судити.
+CREDITS_SCENE_POLICE2A-17=Дурень, який вважає, що нам не слід судити.
 
 
 # Ott
 ### There's gotta be a first to everything.
-CREDITS_SCENE_POLICE2A-18=У всього має бути початок.
+CREDITS_SCENE_POLICE2A-18=Усе буває вперше.
 
 
 # Ott
 ### Wouldn't you say yes to a paid job? A clean job?
-CREDITS_SCENE_POLICE2A-19=Чому б тобі не погодитися на оплачувану роботу? На чисту роботу?
+CREDITS_SCENE_POLICE2A-19=Чому б вам не погодитися на оплачувану роботу? На чисту роботу?
 
 
 # Rat
 ### Paid?!...
-CREDITS_SCENE_POLICE2A-20=Оплачувана?!
+CREDITS_SCENE_POLICE2A-20=Оплачувана...?!
 
 
 # Rat
@@ -1118,7 +1118,7 @@ CREDITS_SCENE_POLICE2A-23=Ну... Я не можу найняти всіх...
 
 # Various
 ### Yeah, yeah! Just one or two guys!
-CREDITS_SCENE_POLICE2A-24=Так, так! Лише 1 чи 2 хлопці!
+CREDITS_SCENE_POLICE2A-24=Так, так! Лише один чи два хлопці!
 
 
 # Various
@@ -1133,7 +1133,7 @@ CREDITS_SCENE_POLICE2A-26=Як несподівано. Команда!
 
 # Ott
 ### Let's just hope I can lead them...
-CREDITS_SCENE_POLICE2A-27=Будемо сподіватися, що я зможу їх очолити.
+CREDITS_SCENE_POLICE2A-27=Сподіваюся, що я зможу їх очолити.
 
 
 #----------------------------------------------------
@@ -1149,7 +1149,7 @@ CREDITS_SCENE_SCHOOL1A-2=Я навіть не знаю, чому я тут...
 
 # Klay
 ### It's not like you left any belongings here, Mom.
-CREDITS_SCENE_SCHOOL1A-3=Ти не залишила тут своїх речей, мамо.
+CREDITS_SCENE_SCHOOL1A-3=Адже ти навіть не залишила тут жодних особистих речей, мамо.
 
 
 # Klay
@@ -1175,7 +1175,7 @@ CREDITS_SCENE_SCHOOL1A-7="Це прощання."
 
 # Director
 ### "I only have a few seconds left to send this message before my body fails me..."
-CREDITS_SCENE_SCHOOL1A-8="У мене є лише кілька секунд на відправку цього повідомлення до того, як моє тіло відмовить..."
+CREDITS_SCENE_SCHOOL1A-8="У мене є лише кілька секунд на це повідомлення до того, як моє тіло відмовить..."
 
 
 # Director
@@ -1186,17 +1186,17 @@ CREDITS_SCENE_SCHOOL1A-9="Я збираюся віддати своє життя
 
 # Director
 ### "To be fair... I should have died years ago."
-CREDITS_SCENE_SCHOOL1A-10="Якщо чесно, я мала б померти роки тому."
+CREDITS_SCENE_SCHOOL1A-10="Якщо чесно... Я мала б померти роки тому."
 
 
 # Director
 ### "I was living on borrowed time, to be with you, just for a little longer..."
-CREDITS_SCENE_SCHOOL1A-11="Я жила на позичений час, щоб побути з тобою трохи довше..."
+CREDITS_SCENE_SCHOOL1A-11="Я позичила час, щоб побути з тобою трохи довше..."
 
 
 # Director
 ### "To see this exceptional man you've become."
-CREDITS_SCENE_SCHOOL1A-12="Побачити ту виняткову людину, якою ти став."
+CREDITS_SCENE_SCHOOL1A-12="І побачити, яким надзвичайним юнаком ти виріс."
 
 
 # Director
@@ -1206,7 +1206,7 @@ CREDITS_SCENE_SCHOOL1A-13="Я обожнювала кожну секунду, а
 
 # Director
 ### "Please understand. Living isn't easy. Thinking for yourself, doing what you really have to..."
-CREDITS_SCENE_SCHOOL1A-14="Будь ласка, зрозумій. Жити не легко. Думай своєю головою, роби те, що справді мусиш..."
+CREDITS_SCENE_SCHOOL1A-14="Будь ласка, зрозумій. Жити не легко. Думай своєю головою і роби те, що справді мусиш..."
 
 
 # Director
@@ -1216,12 +1216,12 @@ CREDITS_SCENE_SCHOOL1A-15="Настав час робити власний ви�
 
 # Director
 ### "I hope I taught you what's right."
-CREDITS_SCENE_SCHOOL1A-16="Сподіваюся, я навчила тебе, що правильно."
+CREDITS_SCENE_SCHOOL1A-16="Сподіваюся, я навчила тебе, що є правильним."
 
 
 # Director
 ### "Be strong, son."
-CREDITS_SCENE_SCHOOL1A-17="Будь сильним, сину."
+CREDITS_SCENE_SCHOOL1A-17="Будь сильним, синку."
 
 
 # Director
@@ -1263,7 +1263,7 @@ CREDITS_SCENE_SCHOOL1B-1=В очікуванні наказів
 # Klay
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### ...Stubot?
-CREDITS_SCENE_SCHOOL1B-2=Студбот...?
+CREDITS_SCENE_SCHOOL1B-2=...Студбот?
 
 
 # Klay
@@ -1294,7 +1294,7 @@ CREDITS_SCENE_SCHOOL1B-7=Я знаю!
 # Klay
 # NB: Lexicon word in Ukrainian for "Director": "Директорка"
 ### You're the new director!
-CREDITS_SCENE_SCHOOL1B-8=Ти - нова директорка!
+CREDITS_SCENE_SCHOOL1B-8=Ти - новий директор!
 
 
 # Klay
@@ -1336,12 +1336,12 @@ CREDITS_SCENE_SCHOOL1B-15=Люди ніколи не вчаться
 # Various - Secret scene - an unknown robot is speaking while Remn is in cryo, half awaken
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Due To Tribot Losses Power Is Significantly Down.
-CREDITS_REMN1-1=Через втрату Триботів потужність значно знизилася.
+CREDITS_REMN1-1=Через втрату Триботів значно знизилася потужність.
 
 
 # Various
 ### Several Days Required For Full Recovery.
-CREDITS_REMN1-2=Потрібно кілька днів для повного відновлювання.
+CREDITS_REMN1-2=Потрібно кілька днів для повного відновлення.
 
 
 # Various
@@ -1351,7 +1351,7 @@ CREDITS_REMN1-3=Господарю.
 
 # Various
 ### I Must Return You To Deep Sleep.
-CREDITS_REMN1-4=Я повинен повернути вас до глибокого сну.
+CREDITS_REMN1-4=Я маю повернути вас до глибокого сну.
 
 
 #----------------------------------------------------
@@ -1368,12 +1368,12 @@ CREDITS_REMN1B-2=Я довго на це чекав. Можу почекати �
 # Remn
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok... You thought you had got rid of me.
-CREDITS_REMN1B-3=Броку, ти думав, що позбувся мене.
+CREDITS_REMN1B-3=Броку... Ти думав, що позбувся мене.
 
 
 # Remn
 ### Wiped me clean off the slate forever.
-CREDITS_REMN1B-4=Назавжди стер мене з дошки.
+CREDITS_REMN1B-4=Викреслив мене назавжди.
 
 
 # Remn
@@ -1388,7 +1388,7 @@ CREDITS_REMN1B-6=Трохи згодом я прокинусь...
 
 # Remn
 ### And I'll retake what's mine.
-CREDITS_REMN1B-7=І поверну своє.
+CREDITS_REMN1B-7=І поверну те, що мені належить.
 
 
 # Remn
@@ -1437,7 +1437,7 @@ CREDITS_ENDING_AFTERSHARPTEETH-3=Брате!!!
 # Shay
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### Sharpteeth is at the bar, right? Tell him not to move an inch! I'm coming!
-CREDITS_ENDING_AFTERSHARPTEETH-4=Гострозуб в барі, так? Скажи йому, щоб не рухався ні на крок! Я йду!
+CREDITS_ENDING_AFTERSHARPTEETH-4=Гострозуб в барі, так? Скажи йому, щоб не рухався ані на крок! Я йду!
 
 
 # Brok
@@ -1498,17 +1498,17 @@ CREDITS_ENDING_AFTERSHARPTEETH-15=Хай буде що?
 
 # Shay
 ### For now I'll proceed with the plan, 'cause I need you to save me.
-CREDITS_ENDING_AFTERSHARPTEETH-16=Поки я діятиму за планом, бо ти маєш мене врятувати.
+CREDITS_ENDING_AFTERSHARPTEETH-16=Поки що я діятиму за планом, бо ти маєш мене врятувати.
 
 
 # Shay
 ### But you better come back fast to the present, so I can kick your butt!
-CREDITS_ENDING_AFTERSHARPTEETH-17=Але краще тобі повернутися до теперішнього, щоб я могла тобі всипати!
+CREDITS_ENDING_AFTERSHARPTEETH-17=Але краще б тобі повернутися до теперішнього, щоб я могла тобі всипати!
 
 
 # Brok
 ### ...say what?
-CREDITS_ENDING_AFTERSHARPTEETH-18=Що-що?
+CREDITS_ENDING_AFTERSHARPTEETH-18=...що-що?
 
 
 # Brok
