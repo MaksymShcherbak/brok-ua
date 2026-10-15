@@ -695,7 +695,7 @@ PC02_SINCALL1-7=[...]
 
 # Brok
 ### Gee... What's up with that guy?
-PC02_SINCALL1-8=Ну й ну... Що не так із цим хлопцем?
+PC02_SINCALL1-8=Ну й ну... Що не так із цим чоловіком?
 
 
 # Brok

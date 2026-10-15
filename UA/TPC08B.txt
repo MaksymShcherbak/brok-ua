@@ -3977,7 +3977,7 @@ PC08B_SHAY_SELFMODIFIER1-18=Це дуже специфічний пристрі�
 
 # Shay
 ### I know a guy.
-PC08B_SHAY_SELFMODIFIER1-19=Я знаю одного хлопця.
+PC08B_SHAY_SELFMODIFIER1-19=Я знаю одного типа.
 
 
 # Shay
@@ -4281,7 +4281,7 @@ PC08B_SHAY_HELP2-5=Усе ж. Що більше знайдеш, то краще!
 #----------------------------------------------------
 # Brok
 ### So who's this guy who can help with the chip?
-PC08B_SHAY_HACKER1-1=То хто цей хлопець, який може допомогти з чипом?
+PC08B_SHAY_HACKER1-1=То хто цей тип, який може допомогти з чипом?
 
 
 # Shay

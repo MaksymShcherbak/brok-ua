@@ -1258,7 +1258,7 @@ CH5_GHERKIN_CALLS1-45=Ох, нічого собі!
 
 # Brok
 ### Just escorting that guy from one place to another and get ten grand?
-CH5_GHERKIN_CALLS1-46=Просто провести цього хлопця з одного місця в інше і отримати десять тисяч?
+CH5_GHERKIN_CALLS1-46=Просто провести цього чоловіка з одного місця в інше і отримати десять тисяч?
 
 
 # Brok

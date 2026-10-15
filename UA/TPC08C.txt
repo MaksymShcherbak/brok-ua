@@ -152,7 +152,7 @@ PC08C_EGG2-1=Я завжди із захопленням дізнаюся про
 # Brok - That name isn't important.
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### I know that guy! Sharpteeth the Thief!
-PC08C_POSTER1-1=Я знаю цього хлопця! Гострозуб Крадій!
+PC08C_POSTER1-1=Я його знаю! Це Гострозуб Крадій!
 
 
 # Brok

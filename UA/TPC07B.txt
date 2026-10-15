@@ -103,7 +103,7 @@ INTERROGATION_SIN=Що приховує Сін?
 
 # Brok - Room interactions
 ### Quite the stack... Looks like the guy loves to drink.
-PC07B_GLASSESPILE1-1=Оце так стос... Схоже, цей хлопець любить випити.
+PC07B_GLASSESPILE1-1=Оце так стос... Схоже, цей чоловік любить випити.
 
 
 #----------------------------------------------------
@@ -1683,7 +1683,7 @@ PC07B_CLUE_SIN_SLEEP-15=Можливо, й так. Але ось моя теор
 # Brok
 # NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
 ### The merchant girl on your street described a guy deeply asleep earlier this morning...in his underwear!
-PC07B_CLUE_SIN_SLEEP-16=Крамарка на вашій вулиці описувала хлопця, який міцно спав сьогодні вранці... у самій спідній білизні!
+PC07B_CLUE_SIN_SLEEP-16=Крамарка на вашій вулиці описувала чоловіка, який міцно спав сьогодні вранці... у самій спідній білизні!
 
 
 # Brok
@@ -2832,7 +2832,7 @@ PC07B_HITGLASSES3-1=Що це за магія? Що більше я розбив
 #----------------------------------------------------
 # Unknown
 ### I have ambiguous feelings about this guy...
-COOP_PC07B_SIN1-1=У мене неоднозначні почуття щодо цього хлопця...
+COOP_PC07B_SIN1-1=У мене неоднозначні почуття щодо цього чоловіка...
 
 
 #----------------------------------------------------

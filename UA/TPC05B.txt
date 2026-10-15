@@ -172,7 +172,7 @@ PC05B_CHIEFRAT_FIRST-6=Ну, як на мене, ви всі для мене н�
 #----------------------------------------------------
 # Kins
 ### Boss! He's da guy who defeated us this mornin'!
-PC05B_CHIEFRAT_TALKFIGHT-1=Босе! Це той хлопець, шо здолав нас сьогодні вранці!
+PC05B_CHIEFRAT_TALKFIGHT-1=Босе! Це той тип, шо здолав нас сьогодні вранці!
 
 
 # Chiefrat

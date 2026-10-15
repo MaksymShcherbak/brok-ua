@@ -103,7 +103,7 @@ GPC02_MAILBOX_DAY3_GET2-1=...
 
 # Graff - RECKAH = HACKER spelled backwards! This is an invoice from the hacker.
 ### An invoice... from a guy named "MISTER REKCAH".
-GPC02_MAILBOX_DAY3_GET2-2=Рахунок... від якогось хлопця на ім'я "ПАН РЕКАГ".
+GPC02_MAILBOX_DAY3_GET2-2=Рахунок... від якогось типа на ім'я "ПАН РЕКАГ".
 
 
 #----------------------------------------------------

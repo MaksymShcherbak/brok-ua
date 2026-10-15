@@ -3348,7 +3348,7 @@ ITEM_MINK_MSG=Колега доктора Гаша. Спеціалізуєтьс
 ITEM_TIDY_MSG=Асистент доктора Гаша. Може, навіть більш моторошний, порівняно зі звичайними ботами.
 
 ### Doctor scientist working at the pharmaceutical company. Seems like a good guy but who knows...
-ITEM_GHERKIN_MSG=Доктор наук, який працює у фармацевтичній компанії. Він справляє враження хорошого хлопця, але хто його знає...
+ITEM_GHERKIN_MSG=Доктор наук, який працює у фармацевтичній компанії. Він справляє враження хорошої людини, але хто його знає...
 
 ### A mysterious girl wandering in the Slum streets. Conceals herself under a hood and wields a telescopic weapon. Unusual...
 ITEM_DEE_MSG=Таємнича дівчина, що блукає вулицями Нетрів. Вона ховається під капюшоном і володіє телескопічною зброєю. Незвичайно...
@@ -3384,7 +3384,7 @@ ITEM_GRAFF_STUBOT_MSG=Звичайнісінький студентський р
 ITEM_GRAFF_SHAY_MSG=Дивна винахідниця... Хоча, мабуть, божевілля - це частина їхньої професії.
 
 ### Should I trust this guy?...
-ITEM_GRAFF_HACKER_MSG=Чи варто мені довіряти цьому хлопцю...?
+ITEM_GRAFF_HACKER_MSG=Чи варто мені довіряти цьому чоловікові...?
 
 ### A girl selling religious goods.
 ITEM_GRAFF_FLOWER_MSG=Дівчина, яка продає релігійні товари.
@@ -10827,7 +10827,7 @@ COOP_KLAY1-2=Мабуть, тому, що він нічим не примітн�
 #----------------------------------------------------
 # Unknown
 ### Round yet strong guy.
-COOP_GUARD1-1=Круглий, але сильний хлопець.
+COOP_GUARD1-1=Круглий, але сильний чолов'яга.
 
 
 # Unknown

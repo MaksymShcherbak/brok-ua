@@ -86,7 +86,7 @@ GPC14_STORY180_SECOND1-1=...!
 #----------------------------------------------------
 # Rat - During this whole scene, Graff is hidden and mistakes this for Brok attempting to steal from the Squealers (when it's actually the opposite)
 ### Argh... Does 'dat guy have steel fists or what?...
-GPC14_STORY180_SECOND5-1=Ар-р... У того хлопця кулаки зі сталі чи шо...?
+GPC14_STORY180_SECOND5-1=Ар-р... У того чолов'яги кулаки зі сталі чи шо...?
 
 
 # Brok

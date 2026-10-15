@@ -350,7 +350,7 @@ PC14C_FIRSTB-2=Хоча, навіщо я взагалі питаю...
 
 # Hacker
 ### Just take a look at this guy! He's wearing a silly disguise!
-PC14C_FIRSTB-3=Тільки поглянь на цього хлопця! На ньому безглузде маскування!
+PC14C_FIRSTB-3=Тільки поглянь на цього типа! На ньому безглузде маскування!
 
 
 # RJ
@@ -579,7 +579,7 @@ PC14C_AFTERFIGHT_FIRED-1=О ні...!
 
 # Hacker
 ### I... I shouldn't have fired that guy...
-PC14C_AFTERFIGHT_FIRED-2=Не... Не варто було звільняти того хлопця...
+PC14C_AFTERFIGHT_FIRED-2=Не... Не варто було звільняти того ведмедя...
 
 
 #----------------------------------------------------
@@ -1794,7 +1794,7 @@ PC14C_HACKER_SEARCH2-1=Отримав, що хотів.
 # Brok
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### (Better be on my guard... That guy's face screams "crook" all over.)
-PC14C_HACKER_THINK1-1=(Краще бути насторожі... Обличчя цього хлопця так і кричить "шахрай".)
+PC14C_HACKER_THINK1-1=(Краще бути насторожі... Обличчя цього типа так і кричить "шахрай".)
 
 
 #----------------------------------------------------
@@ -2548,7 +2548,7 @@ PC14C_HACKER_GHERKIN_SECOND-25=Цей здоровань-ведмідь до т�
 
 # Brok
 ### Gah... I won't get anything from that guy!...
-PC14C_HACKER_GHERKIN_SECOND-26=Пхе... Я нічого не виб'ю з цього хлопця...!
+PC14C_HACKER_GHERKIN_SECOND-26=Пхе... Я нічого не виб'ю з нього...!
 
 
 # Brok

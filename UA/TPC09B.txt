@@ -1207,7 +1207,7 @@ PC09B_SIN_HIMSELF1B-13=І з усіма доказами, що вони мают
 #----------------------------------------------------
 # Brok
 ### I refuse to believe it. You're a good person.
-PC09B_SIN_HIMSELF_FORGIVE2-1=Я відмовляюся в це вірити. Ти хороший хлопець.
+PC09B_SIN_HIMSELF_FORGIVE2-1=Я відмовляюся в це вірити. Ти хороша людина.
 
 
 # Sin
