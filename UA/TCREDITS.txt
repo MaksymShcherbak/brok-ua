@@ -98,7 +98,7 @@ PC_MARKETING=Маркетинг
 PC_PROOFREADER=Коректор / Редактор тексту
 
 ### Voice editing
-PC_SPLITTER=Редактор озвучування
+PC_SPLITTER=Редактор озвучення
 
 ### Tester
 PC_TESTER=Тестувальник
