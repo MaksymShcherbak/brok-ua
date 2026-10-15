@@ -2884,7 +2884,7 @@ CHALLENGE_COMPLETED=Завершено
 CHALLENGE_SKIPPED=Пропущено
 
 ### Community challenge
-CHALLENGE_COMMUNITY=Випробування спільноти
+CHALLENGE_COMMUNITY=Виклик спільноти
 
 ### Play as
 CHALLENGE_PLAYAS=Грати за
@@ -2900,7 +2900,7 @@ USERINPUT_DEFAULT=За замовчуванням
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok arrives from the bottom into the underground bar, with neon lights illuminating the place. To the right is a hedgehog with a bow tie, looking at a screen. A few tables are scattered in the middle and the far right of the room. The guests can change each time you enter the room. Drinks are served on the left side of the room by a big hyena, while a toad woman is using a tablet on the bottom left. In the foreground near her, you can find a jukebox and a sink which serves food. Cabins to play virtual challenges are located in the background.
-AUDIOD_PC21_BAR=Брок входить знизу до підземного бару, осяяного неоновим світлом. Праворуч - їжак у краватці-метелику, який дивиться в екран. Кілька столиків розкидано посеред кімнати та в дальньому правому куті. Відвідувачі можуть змінюватися щоразу, коли ви входите до кімнати. Напої подає у лівій частині кімнати велика гієна, а жаба-жінка користується планшетом зліва внизу. На передньому плані біля неї є музичний автомат і умивальник, що подає їжу. Кабіни для віртуальних випробувань розташовані на задньому плані.
+AUDIOD_PC21_BAR=Брок входить знизу до підземного бару, осяяного неоновим світлом. Праворуч - їжак у краватці-метелику, який дивиться в екран. Кілька столиків розкидано посеред кімнати та в дальньому правому куті. Відвідувачі можуть змінюватися щоразу, коли ви входите до кімнати. Напої подає у лівій частині кімнати велика гієна, а жаба-жінка користується планшетом зліва внизу. На передньому плані біля неї є музичний автомат і умивальник, що подає їжу. Кабіни для віртуальних викликів розташовані на задньому плані.
 
 
 ### To start The Brawl Bar immediately, press

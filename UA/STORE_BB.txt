@@ -1,22 +1,22 @@
 ﻿# LANGUAGE: UKR
 ### A wild party beat 'em up with crazy challenges!
-STORE_TAGLINE=Шалена вечірка в стилі beat 'em up з божевільними випробуваннями!
+STORE_TAGLINE=Шалена вечірка в стилі beat 'em up з божевільними викликами!
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### BROK: The Brawl Bar is a wild party beat 'em up! Tackle crazy challenges, fight your way to the top of an underground bar, and make unexpected friends along the way.
-STORE_SHORT=BROK: The Brawl Bar (Бійцівський бар) - шалена вечірка в стилі beat 'em up! Беріться до карколомних випробувань, пробивайтеся на вершину підземного бару - і заведіть друзів, яких ви зовсім не очікували.
+STORE_SHORT=BROK: The Brawl Bar (Бійцівський бар) - шалена вечірка в стилі beat 'em up! Беріться до карколомних викликів, пробивайтеся на вершину підземного бару - і заведіть друзів, яких ви зовсім не очікували.
 
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok, a former boxer turned detective, stumbles upon an underground bar hidden deep in the Slums. Old instincts kick in, and he jumps headfirst to prove he’s still top dog! (or...gator.)#Solo or with a friend in co-op, take on creative challenges inspired by "Event matches" of platform fighters, taken to the next level with original addictive mechanics and variety. In this gritty-yet-humorous bar, meet unforgettable characters and uncover surprises around every corner as the story unfolds.#
-STORE_LONG=Брок - колишній боксер, а нині детектив - натрапляє на підземний бар, захований глибоко в Нетрях. Прокидаються старі інстинкти, і він, не вагаючись, прагне довести, що досі тут найголовніший! (чи то пак... найзубастіший.)#Грайте самі чи з другом у кооперативі: на вас чекають вигадливі випробування, натхненні бійцівськими іграми - з оригінальною механікою, що затягує, та великим різноманіттям. У цьому брутальному, але й дотепному барі ви зустрінете незабутніх персонажів, а сюрпризи чекатимуть на вас за кожним поворотом історії.#
+STORE_LONG=Брок - колишній боксер, а нині детектив - натрапляє на підземний бар, захований глибоко в Нетрях. Прокидаються старі інстинкти, і він, не вагаючись, прагне довести, що досі тут найголовніший! (чи то пак... найзубастіший.)#Грайте самі чи з другом у кооперативі: на вас чекають вигадливі виклики, натхненні бійцівськими іграми - з оригінальною механікою, що затягує, та великим різноманіттям. У цьому брутальному, але й дотепному барі ви зустрінете незабутніх персонажів, а сюрпризи чекатимуть на вас за кожним поворотом історії.#
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### This game is part of the BROK the InvestiGator universe.
 STORE_ADDITIONAL=Ця гра - частина всесвіту BROK the InvestiGator.
 
 ### - 60+ varied challenges, with unique mechanics#- 6 playable characters, each offering distinct abilities#- Local co-op for up to 4 players#- Creator mode: Build your own challenges and characters#- Steam Workshop: Share and download community challenges and characters mods#- Steam Remote Play Together: Supported for online co-op#- Additional modes: Survival, Versus, Support, Daily and Bonus Challenges#- Multiple difficulty levels#- Achievements to unlock#- Text localized in 12 languages.
-STORE_FEATURES=- 60+ різних випробувань - у кожного своя механіка#- 6 ігрових персонажів - кожен зі своїми здібностями#- Локальний кооперативний режим до 4 гравців#- Режим творця: створюйте власні випробування та персонажів#- Steam Workshop: діліться власними випробуваннями й модами - або завантажуйте чужі#- Steam Remote Play Together: підтримує онлайн-кооператив#- Додаткові режими: виживання, один на один, підтримка, щоденні та бонусні випробування#- Кілька рівнів складності - від "Розслабленого" до "Жорсткого"#- Досягнення, які можна розблокувати#- Текст локалізовано 12 мовами.
+STORE_FEATURES=- 60+ різних викликів - у кожного своя механіка#- 6 ігрових персонажів - кожен зі своїми здібностями#- Локальний кооперативний режим до 4 гравців#- Режим творця: створюйте власні виклики та персонажів#- Steam Workshop: діліться власними викликами й модами - або завантажуйте чужі#- Steam Remote Play Together: підтримує онлайн-кооператив#- Додаткові режими: виживання, один на один, підтримка, щоденні та бонусні виклики#- Кілька рівнів складності - від "Розслабленого" до "Жорсткого"#- Досягнення, які можна розблокувати#- Текст локалізовано 12 мовами.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### This additional content explores new aspects of the BROK the InvestiGator fighting gameplay (expect 80% action and 20% adventure/visual novel) with an innovative and addictive approach to 2D beat 'em up action, providing hours of entertainment - and potentially infinite replayability!#Controller or keyboard highly recommended. Mouse alone won't get you far here!
@@ -49,7 +49,7 @@ STORE_FAQR3=Це неважливо: оберіть будь-який. Прог�
 STORE_FAQQ4=Наскільки це складно?
 
 ### You can play all challenges on "relaxed" difficulty if needed. Additionally, you can skip challenges that are still too hard for you by spending C-Tokens (the bar currency).
-STORE_FAQR4=За потреби всі випробування можна проходити на "Розслабленому" рівні складності. А ті, що виявляться заважкими, можна пропустити, витративши К-Жетони - валюту бару.
+STORE_FAQR4=За потреби всі виклики можна проходити на "Розслабленому" рівні складності. А ті, що виявляться заважкими, можна пропустити, витративши К-Жетони - валюту бару.
 
 ### I'm not interested in combat; should I play this anyway?
 STORE_FAQQ5=Мене не цікавлять бійки - чи варто грати?

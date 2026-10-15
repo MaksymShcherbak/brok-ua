@@ -7666,7 +7666,7 @@ DLC_BRAWLBAR_DESCRIPTION_OWNED=Ви маєте доступ до доповне�
 
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Craving for action? Unlock The Brawl Bar! Meet new faces and live an adventure in a Slums underground bar with 60+ crazy challenges!
-DLC_BRAWLBAR_DESCRIPTION_NOTOWNED=Жага до бійки? Відкрийте Бійцівський бар! Зустрічайте нові обличчя та переживіть нову пригоду в підземному барі Нетрів з більш ніж 60 шаленими випробуваннями!
+DLC_BRAWLBAR_DESCRIPTION_NOTOWNED=Жага до бійки? Відкрийте Бійцівський бар! Зустрічайте нові обличчя та переживіть нову пригоду в підземному барі Нетрів з більш ніж 60 шаленими викликами!
 
 
 ### Full Game
@@ -7676,7 +7676,7 @@ DLC_BRAWLBAR_PREMIUM=Повна гра
 DLC_BRAWLBAR_PREMIUM_DESCRIPTION_OWNED=Ви маєте доступ до повної версії гри.
 
 ### <col=BOLD>Unlock the full game!</col> All 60 challenges, the bonus challenges, the complete survival mode, all characters, support mode, daily challenges, plus save and share your own creations.
-DLC_BRAWLBAR_PREMIUM_DESCRIPTION_NOTOWNED=<col=BOLD>Розблокуйте повну версію гри!</col> Усі 60 випробувань, бонусні випробування, повний режим виживання, усі персонажі, режим підтримки, щоденні випробування, а також збереження та публікація власних творінь.
+DLC_BRAWLBAR_PREMIUM_DESCRIPTION_NOTOWNED=<col=BOLD>Розблокуйте повну версію гри!</col> Усі 60 викликів, бонусні виклики, повний режим виживання, усі персонажі, режим підтримки, щоденні виклики, а також збереження та публікація власних творінь.
 
 
 # NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
@@ -8038,7 +8038,7 @@ TITLE_MAINGAME_SUBTITLE=Вирушайте у пригоду
 
 
 ### Challenges are easier, but you earn tokens more slowly.
-DIFFICULTY_EASY_DLC=Випробування легші, але жетони заробляються повільніше.
+DIFFICULTY_EASY_DLC=Виклики легші, але жетони заробляються повільніше.
 
 ### Recommended for most players to start with.
 DIFFICULTY_NORMAL_DLC=Рекомендовано для більшості гравців.

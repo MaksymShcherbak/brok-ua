@@ -22,7 +22,7 @@ Some items are posponed until I finish playing the DLC.
 | TCOMMON   | Done                | Done          |
 | TCPC15    | Done                | Done          |
 | TCREDITS  | Done                | Done          |
-| TDLC      | Postponed           | To Do         |
+| TDLC      | Done                | Done          |
 | STORE     | Done                | Done          |
 | STORE_BB  | Done                | Done          |
 | TEV_MAP   | Done                | Done          |
