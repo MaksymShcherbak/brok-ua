@@ -119,9 +119,9 @@ HINT_CH1_30_ELECTRICBARRIER2=Пан Трибот-коп, схоже, охоро�
 HINT_CH1_30_ELECTRICBARRIER3=Ненавиджу триботів. Так, навіть якщо я й сам ШІ. Це вважається расизмом?##У будь-якому випадку, повозися з поштоматом! Спробуй зробити так, щоб щось там застрягло! Бачиш цей фонтан? Можливо, він також може бути корисним!
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Наповнювана водою іграшка"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
 ### Use the Pred toy on the fountain water, then stuff it into the Pipe-Mail. Wait a few seconds, and ta-da!##In case you didn't pick it up yet (open your eyes, croc dude!), it's located at the top of the building near your home, near the Trasher Hunt.
-HINT_CH1_30_ELECTRICBARRIER4=Використай наповнювану водою іграшку на воді з фонтану, потім засунь її у поштомат. Зачекай кілька секунд. Та-да!##Якщо ж ти її ще не взяв, відкрий очі, чуваче! Вона знаходиться нагорі твого будинку, біля "мисливства за мотлохом".
+HINT_CH1_30_ELECTRICBARRIER4=Використай іграшку "Пред" на воді з фонтану, потім засунь її у поштомат. Зачекай кілька секунд. Та-да!##Якщо ж ти її ще не взяв, відкрий очі, чуваче! Вона знаходиться нагорі твого будинку, біля "мисливства за мотлохом".
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Distracting the Tribot cop is the way to go! But you'd better do something to that power socket so he can't recharge anymore!

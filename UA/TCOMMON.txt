@@ -2376,13 +2376,13 @@ ITEM_APARTMENTKEY=Ключ від квартири
 ### Cat fur
 ITEM_CATFUR=Котяча шерсть
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Наповнювана водою іграшка"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
 ### Pred toy
-ITEM_PREDNORMAL=Наповнювана водою іграшка
+ITEM_PREDNORMAL=Іграшка "Пред"
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Наповнювана водою іграшка"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
 ### Inflated Pred toy
-ITEM_PREDINFLATED=Повна води іграшка
+ITEM_PREDINFLATED=Надута іграшка "Пред"
 
 ### Pendant
 ITEM_PENDANT=Кулон
@@ -2744,7 +2744,7 @@ ROOM_PC12=Прикордонний пост
 ROOM_PC12B=Всередині піраміди
 
 ### View
-ROOM_PC13=Вид
+ROOM_PC13=Краєвид
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker (street)
@@ -3727,9 +3727,9 @@ MONEY_50=50
 MONEY_200=200
 
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Наповнювана водою іграшка"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
 ### A Pred toy!
-GOT_PREDNORMAL=Наповнювана водою іграшка!
+GOT_PREDNORMAL=Іграшка "Пред"!
 
 ### Attachable wings!
 GOT_WINGSSTRING=Прикріплювані крила!
@@ -3933,10 +3933,10 @@ HELP_ADS_INSTRUCTIONS=Телефон Брока жадає реклами! У к
 
 
 ### Selecting hotspots
-HELP_PAD_HOTSPOTS=Вибір місць взаємодії
+HELP_PAD_HOTSPOTS=Вибір точок взаємодії
 
 ### Several hotspots are very close?#Can't select the one you want?##Use <spr=GAMEPAD_DPAD> to switch from one to another!#You can also use <spr=GAMEPAD_STICKRIGHT> to move a pointer freely.
-HELP_PAD_INSTRUCTIONS=Кілька місць взаємодії розташовані дуже близько одне до одного?#Не можете вибрати потрібне?##Використовуйте <spr=GAMEPAD_DPAD>, щоб перемикатися між ними!#Ви також можете використовувати <spr=GAMEPAD_STICKRIGHT>, щоб вільно переміщати курсор.
+HELP_PAD_INSTRUCTIONS=Кілька точок взаємодії розташовані дуже близько одне до одного?#Не можете вибрати потрібне?##Використовуйте <spr=GAMEPAD_DPAD>, щоб перемикатися між ними!#Ви також можете використовувати <spr=GAMEPAD_STICKRIGHT>, щоб вільно переміщати курсор.
 
 
 ### Clues
@@ -4001,11 +4001,11 @@ HELP_INTERROGATION_INSTRUCTIONS=Поєднайте дві <col=BOLD>пов'яз�
 
 
 ### Hotspots view
-HELP_CLICKERS=Перегляд місць взаємодії
+HELP_CLICKERS=Перегляд точок взаємодії
 
 #Leave a "space" at the end of the following line
 ### To help your search, display all the possible hotspots by pressing
-HELP_CLICKERS_INSTRUCTIONS=Щоб показати всі місця взаємодії, натисніть
+HELP_CLICKERS_INSTRUCTIONS=Щоб показати всі точки взаємодії, натисніть
 
 ### <button=INPUT_ACTION_VIEW_HOTSPOTS>
 HELP_CLICKERS_INSTRUCTIONS_GAMEPAD=<button=INPUT_ACTION_VIEW_HOTSPOTS>
@@ -6691,14 +6691,14 @@ PC_CLIMBMORE=Продовжити підйом
 INTERFACE_ACCESSIBILITY_DPAD_PS=Розширені кнопки керування напрямками
 
 ### Allow to select hotspots with directional buttons, even outside the room view (for blindness).
-ITEM_INTERFACE_ACCESSIBILITY_DPAD_PS_MSG=Дозволяє вибирати місця взаємодії за допомогою кнопок напрямку, навіть за межами огляду кімнати (для людей із порушеннями зору).
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_PS_MSG=Дозволяє вибирати точки взаємодії за допомогою кнопок напрямку, навіть за межами огляду кімнати (для людей із порушеннями зору).
 
 
 ### Advanced directional buttons
 INTERFACE_ACCESSIBILITY_DPAD_NS=Розширені кнопки керування напрямками
 
 ### Allow to select hotspots with directional buttons, even outside the room view (for blindness).
-ITEM_INTERFACE_ACCESSIBILITY_DPAD_NS_MSG=Дозволяє вибирати місця взаємодії за допомогою кнопок напрямку, навіть за межами огляду кімнати (для людей із порушеннями зору).
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_NS_MSG=Дозволяє вибирати точки взаємодії за допомогою кнопок напрямку, навіть за межами огляду кімнати (для людей із порушеннями зору).
 
 
 
@@ -9364,7 +9364,7 @@ DESCRIBE_INV_STICK1-2=Якраз потрібного розміру, тому �
 #----------------------------------------------------
 # Brok
 ### A "Pred" cuddly toy. Wet it and it gets as big as a balloon!
-DESCRIBE_INV_PREDNORMAL1-1=Наповнювана водою іграшка. Намочіть її, і вона стане завбільшки з повітряну кульку!
+DESCRIBE_INV_PREDNORMAL1-1=Іграшка "Пред". Намочіть її, і вона стане завбільшки з повітряну кульку!
 
 
 #----------------------------------------------------

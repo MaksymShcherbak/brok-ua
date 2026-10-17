@@ -64,7 +64,7 @@ PC_ACCESS=Прохід
 
 # ----- Choices / Items --------
 ### A Pred inflated!
-GOT_PREDINFLATED=Наповнена іграшка!
+GOT_PREDINFLATED=Надута іграшка "Пред"!
 
 ### What to do with this item?
 PC04_PIPEMAIL_CHOICE_ITEM=Що зробити з цим предметом?

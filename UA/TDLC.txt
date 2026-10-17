@@ -610,7 +610,7 @@ CHAR_DEFAULT=Персонаж за замовчуванням
 
 
 ### Defeat
-TYPE_DEFEAT=Перемогти
+TYPE_DEFEAT=Здолати
 
 ### Destroy
 TYPE_DESTROY=Знищити
@@ -628,7 +628,7 @@ TYPE_KINGHILL=Король
 TYPE_BATTLEROYALE=Королівська битва
 
 ### Suicide
-TYPE_SUICIDE=Нокаутуйте себе
+TYPE_SUICIDE=Нокаутувати себе
 
 ### Stage
 TYPE_STAGE=Рівень
@@ -710,7 +710,7 @@ DLC_TOKENS_OWED=Ви отримали {value} К-Жетонів, які заро
 ITEM_CHALLENGE_NEWFOE=Пташині витівки
 
 ### Beat the <col=BOLD>rooster</col> enemy within time limit
-ITEM_CHALLENGE_NEWFOE_MSG=Переможіть <col=BOLD>півня</col> за відведений час
+ITEM_CHALLENGE_NEWFOE_MSG=Здолайте <col=BOLD>півня</col> за відведений час
 
 ### Grow Up on Sodas
 ITEM_CHALLENGE_GROWSODAS=Вирости на газованці
@@ -722,7 +722,7 @@ ITEM_CHALLENGE_GROWSODAS_MSG=Випийте щонайменше <col=BOLD>{numb
 ITEM_CHALLENGE_GRABBERS=Хапуни
 
 ### Defeat the enemies without getting <col=BOLD>grabbed</col> (instant death)
-ITEM_CHALLENGE_GRABBERS_MSG=Переможіть ворогів, не даючи <col=BOLD>себе схопити</col> (миттєва смерть)
+ITEM_CHALLENGE_GRABBERS_MSG=Здолайте ворогів, не даючи <col=BOLD>себе схопити</col> (миттєва смерть)
 
 ### Crate Destroyer
 ITEM_CHALLENGE_DESTROYER=Руйнівник ящиків
@@ -735,7 +735,7 @@ ITEM_CHALLENGE_TWOBEARS=Казка про двох ведмедів
 
 # NB: Lexicon word in Ukrainian for "Rok": "Рок"
 ### Beat both bears <col=BOLD>Rok and R.J</col>.
-ITEM_CHALLENGE_TWOBEARS_MSG=Переможіть обох ведмедів: <col=BOLD>Рока та Р. Джея</col>.
+ITEM_CHALLENGE_TWOBEARS_MSG=Здолайте обох ведмедів: <col=BOLD>Рока та Р. Джея</col>.
 
 ### Rats Showdown
 ITEM_CHALLENGE_RATSSHOWDOWN=Розбірки зі щурами
@@ -745,7 +745,7 @@ ITEM_CHALLENGE_RATSSHOWDOWN=Розбірки зі щурами
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Take down all Squealers with <col=BOLD>R.J. and Graff safe!</col>
-ITEM_CHALLENGE_RATSSHOWDOWN_MSG=Подолайте всіх Верескунів, щоб <col=BOLD>Р. Джей і Графф були в безпеці!</col>
+ITEM_CHALLENGE_RATSSHOWDOWN_MSG=Здолайте всіх Верескунів, щоб <col=BOLD>Р. Джей і Графф були в безпеці!</col>
 
 ### Spiky Balloons
 ITEM_CHALLENGE_SPIKYBALLOONS=Колючі кульки
@@ -757,26 +757,26 @@ ITEM_CHALLENGE_SPIKYBALLOONS_MSG=Знищте <col=BOLD>усі повітрян�
 ITEM_CHALLENGE_ONEDCOMBAT=1D-бій
 
 ### Beat all foes with movement restricted to a <col=BOLD>line</col>
-ITEM_CHALLENGE_ONEDCOMBAT_MSG=Переможіть усіх ворогів, рухаючись лише <col=BOLD>по лінії</col>
+ITEM_CHALLENGE_ONEDCOMBAT_MSG=Здолайте усіх ворогів, рухаючись лише <col=BOLD>по лінії</col>
 
 ### Boomer
 ITEM_CHALLENGE_DYNAMITE=Бум-бум
 
 ### Beat all enemies exclusively by throwing <col=BOLD>dynamites</col>
-ITEM_CHALLENGE_DYNAMITE_MSG=Переможіть ворогів, кидаючи виключно <col=BOLD>динаміт</col>
+ITEM_CHALLENGE_DYNAMITE_MSG=Здолайте ворогів, кидаючи виключно <col=BOLD>динаміт</col>
 
 ### Killer Sneeze
 ITEM_CHALLENGE_RJSNEEZE=Смертельне чхання
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Defeat the R.J.s <col=BOLD>without getting sneezed at</col>!
-ITEM_CHALLENGE_RJSNEEZE_MSG=Переможіть усіх Р. Джеїв, <col=BOLD>не даючи на себе чхнути</col>!
+ITEM_CHALLENGE_RJSNEEZE_MSG=Здолайте усіх Р. Джеїв, <col=BOLD>не даючи на себе чхнути</col>!
 
 ### Catch Me
 ITEM_CHALLENGE_CATCHME=Наздожени мене
 
 ### Kill all the enemies that keep <col=BOLD>running away</col>!
-ITEM_CHALLENGE_CATCHME_MSG=Убийте ворогів, які <col=BOLD>постійно тікають</col>!
+ITEM_CHALLENGE_CATCHME_MSG=Здолайте ворогів, які <col=BOLD>постійно тікають</col>!
 
 ### Cinnamon Chase
 ITEM_CHALLENGE_CINNAMONCHASE=Погоня за булочками
@@ -791,7 +791,7 @@ ITEM_CHALLENGE_OTTNIGHTMARE=Кошмар Отта
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### Take down <col=BOLD>Kins the giant Squealer</col> before he breaks your neck!
-ITEM_CHALLENGE_OTTNIGHTMARE_MSG=Подолайте <col=BOLD>Кінса, велетенського Верескуна</col>, перш ніж він скрутить вам в'язи!
+ITEM_CHALLENGE_OTTNIGHTMARE_MSG=Здолайте <col=BOLD>Кінса, велетенського Верескуна</col>, перш ніж він скрутить вам в'язи!
 
 ### Arctic Bear
 ITEM_CHALLENGE_ICETRIAL=Полярний ведмідь
@@ -837,13 +837,13 @@ ITEM_CHALLENGE_PLATFORMER_MSG=Знищте <col=BOLD>усі кульки</col>, 
 ITEM_CHALLENGE_RATWAVE=Щуряча хвиля
 
 ### Eliminate a big wave of <col=BOLD>100 rats</col>!
-ITEM_CHALLENGE_RATWAVE_MSG=Знищте велику хвилю зі <col=BOLD>100 щурів</col>!
+ITEM_CHALLENGE_RATWAVE_MSG=Здолайте велику хвилю зі <col=BOLD>100 щурів</col>!
 
 ### Twin Snakes
 ITEM_CHALLENGE_TWINSNAKES=Змії-близнюки
 
 ### Eliminate the <col=BOLD>two dangerous snakes</col>
-ITEM_CHALLENGE_TWINSNAKES_MSG=Знищте <col=BOLD>двох небезпечних змій</col>
+ITEM_CHALLENGE_TWINSNAKES_MSG=Здолайте <col=BOLD>двох небезпечних змій</col>
 
 ### Domestic Argument
 ITEM_CHALLENGE_DOMESTICARGUMENT=Сімейна сварка
@@ -876,7 +876,7 @@ ITEM_CHALLENGE_RHYTHMJUMP_MSG=Стрибайте кожні <col=BOLD>4 секу
 ITEM_CHALLENGE_THREELITTLEBOTS=Троє маленьких ботів
 
 ### Defeat the <col=BOLD>three bots</col>.
-ITEM_CHALLENGE_THREELITTLEBOTS_MSG=Переможіть <col=BOLD>трьох ботів</col>.
+ITEM_CHALLENGE_THREELITTLEBOTS_MSG=Здолайте <col=BOLD>трьох ботів</col>.
 
 ### Skating Day
 ITEM_CHALLENGE_SKATINGDAY=День ковзання
@@ -901,7 +901,7 @@ ITEM_CHALLENGE_EVERYONEDIED=Усі загинули
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Kill <col=BOLD>all the Tribots</col> invading the place!
-ITEM_CHALLENGE_EVERYONEDIED_MSG=Убийте <col=BOLD>всіх Триботів</col>, які вдерлися сюди!
+ITEM_CHALLENGE_EVERYONEDIED_MSG=Здолайте <col=BOLD>всіх Триботів</col>, які вдерлися сюди!
 
 ### Beatemup Sewers
 ITEM_CHALLENGE_BEATEMUPA=Beat 'em up у каналізації
@@ -953,7 +953,7 @@ ITEM_CHALLENGE_GROWINGTHREAT=Зростаюча загроза
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes and Tidy get <col=BOLD>stronger and bigger</col>. Get rid of 'em fast!
-ITEM_CHALLENGE_GROWINGTHREAT_MSG=Вес і Тайді стають <col=BOLD>сильнішими й більшими</col>. Швидко їх позбудьтеся!
+ITEM_CHALLENGE_GROWINGTHREAT_MSG=Вес і Тайді стають <col=BOLD>сильнішими й більшими</col>. Швидко їх здолайте!
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Double Sins
@@ -993,7 +993,7 @@ ITEM_CHALLENGE_SERVICE_MSG=<col=BOLD>Обслужіть усіх клієнті�
 ITEM_CHALLENGE_COLLATERALDAMAGE=Супутня шкода
 
 ### Defeat all the enemies <col=BOLD>without touching them!</col>
-ITEM_CHALLENGE_COLLATERALDAMAGE_MSG=Переможіть всіх ворогів, <col=BOLD>не торкаючись їх!</col>
+ITEM_CHALLENGE_COLLATERALDAMAGE_MSG=Здолайте всіх ворогів, <col=BOLD>не торкаючись їх!</col>
 
 ### Kill the One
 ITEM_CHALLENGE_KILLTHEONE=Убити Єдиного
@@ -1005,7 +1005,7 @@ ITEM_CHALLENGE_KILLTHEONE_MSG=Здолайте виключно свою <col=BO
 ITEM_CHALLENGE_GETRIDOFYOURSELF=Позбудьтеся себе
 
 ### Get killed <col=BOLD>as fast as possible!</col>
-ITEM_CHALLENGE_GETRIDOFYOURSELF_MSG=Дайте себе вбити <col=BOLD>якнайшвидше!</col>
+ITEM_CHALLENGE_GETRIDOFYOURSELF_MSG=Дайте себе вирубити <col=BOLD>якнайшвидше!</col>
 
 ### Money Shadow
 ITEM_CHALLENGE_MONEYSHADOW=Гроші в тіні
@@ -1017,20 +1017,20 @@ ITEM_CHALLENGE_MONEYSHADOW_MSG=Збирайте монети <col=BOLD>у тем
 ITEM_CHALLENGE_BUMPEM=Гепніть їх
 
 ### Defeat the enemies by <col=BOLD>throwing them to the walls</col>
-ITEM_CHALLENGE_BUMPEM_MSG=Переможіть ворогів, <col=BOLD>жбурляючи їх у стіни</col>
+ITEM_CHALLENGE_BUMPEM_MSG=Здолайте ворогів, <col=BOLD>жбурляючи їх у стіни</col>
 
 ### Flip Flap
 ITEM_CHALLENGE_FLIPFLAP=Догори дриґом
 
 ### Defeat the enemies with <col=BOLD>inverted controls!</col>
-ITEM_CHALLENGE_FLIPFLAP_MSG=Переможіть ворогів із <col=BOLD>інвертованим керуванням!</col>
+ITEM_CHALLENGE_FLIPFLAP_MSG=Здолайте ворогів із <col=BOLD>інвертованим керуванням!</col>
 
 ### Rotten Food
 ITEM_CHALLENGE_ROTTENFOOD=Гнила їжа
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### Defeat the Kins by making them eat <col=BOLD>sewage sludge!</col>
-ITEM_CHALLENGE_ROTTENFOOD_MSG=Переможіть Кінсів, змушуючи їх їсти <col=BOLD>каналізаційний осад!</col>
+ITEM_CHALLENGE_ROTTENFOOD_MSG=Здолайте Кінсів, змушуючи їх їсти <col=BOLD>каналізаційний осад!</col>
 
 ### Faster!
 ITEM_CHALLENGE_FASTER=Швидше!
@@ -1042,7 +1042,7 @@ ITEM_CHALLENGE_FASTER_MSG=Вороги стають <col=BOLD>дедалі шв�
 ITEM_CHALLENGE_WARMEDDLER=Втручання у війну
 
 ### Destroy bots to <col=BOLD>help the rats</col>. No rat must die!
-ITEM_CHALLENGE_WARMEDDLER_MSG=Знищуйте ботів, щоб <col=BOLD>допомогти пацюкам</col>. Жоден пацюк не повинен загинути!
+ITEM_CHALLENGE_WARMEDDLER_MSG=Здолайте ботів, щоб <col=BOLD>допомогти пацюкам</col>. Жоден пацюк не повинен загинути!
 
 ### Invisible
 ITEM_CHALLENGE_INVISIBLE=Невидимість
@@ -1117,20 +1117,20 @@ ITEM_CHALLENGE_PIPESPARRING_MSG=Втримайтеся на <col=BOLD>крихі
 ITEM_CHALLENGE_CLASSDISMISSED=Урок закінчено
 
 ### Defeat all enemies fast, they <col=BOLD>keep recovering HP</col>!
-ITEM_CHALLENGE_CLASSDISMISSED_MSG=Переможіть ворогів швидко - вони <col=BOLD>постійно відновлюють ОЗ</col>!
+ITEM_CHALLENGE_CLASSDISMISSED_MSG=Здолайте ворогів швидко - вони <col=BOLD>постійно відновлюють ОЗ</col>!
 
 ### Air intruder
 ITEM_CHALLENGE_AIRINTRUDE=Повітряний порушник
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Among all these Broks, defeat <col=BOLD>only the real one</col>!
-ITEM_CHALLENGE_AIRINTRUDE_MSG=Серед усіх цих Броків переможіть <col=BOLD>лише справжнього</col>!
+ITEM_CHALLENGE_AIRINTRUDE_MSG=Серед усіх цих Броків здолайте <col=BOLD>лише справжнього</col>!
 
 ### Dangerous food
 ITEM_CHALLENGE_DANGEROUSF=Небезпечна їжа
 
 ### Your punches do nothing: beat the enemies by <col=BOLD>throwing them food</col>!
-ITEM_CHALLENGE_DANGEROUSF_MSG=Ваші удари не працюють: переможіть ворогів, <col=BOLD>жбурляючи в них їжу</col>!
+ITEM_CHALLENGE_DANGEROUSF_MSG=Ваші удари не працюють: здолайте ворогів, <col=BOLD>жбурляючи в них їжу</col>!
 
 ### Grabber Expert
 ITEM_CHALLENGE_GRABBEREXP=Майстер захватів
@@ -1149,14 +1149,14 @@ ITEM_CHALLENGE_ROGUELIKE_MSG=Ваші ОЗ <col=BOLD>постійно зменш
 ITEM_CHALLENGE_HYDROGENBO=Воднева акула проти кашляючого Геркіна
 
 ### Beat the shark!...
-ITEM_CHALLENGE_HYDROGENBO_MSG=Переможіть акулу...!
+ITEM_CHALLENGE_HYDROGENBO_MSG=Здолайте акулу...!
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Chief's Revenge
 ITEM_CHALLENGE_CHIEFSREVE=Помста шефа
 
 ### Defeat the crocogator!
-ITEM_CHALLENGE_CHIEFSREVE_MSG=Переможіть крокогатора!
+ITEM_CHALLENGE_CHIEFSREVE_MSG=Здолайте крокогатора!
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### The good Kins
@@ -1164,7 +1164,7 @@ ITEM_CHALLENGE_THEGOODKIN=Добрі Кінси
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### Defeat all the evil Kins, except <col=BOLD>the real one</col> who's on your side!
-ITEM_CHALLENGE_THEGOODKIN_MSG=Переможіть всіх злих Кінсів, окрім <col=BOLD>справжнього</col>, який на вашому боці!
+ITEM_CHALLENGE_THEGOODKIN_MSG=Здолайте всіх злих Кінсів, окрім <col=BOLD>справжнього</col>, який на вашому боці!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Mink is da bomb
@@ -1185,7 +1185,7 @@ ITEM_CHALLENGE_PROTECTTHE=Захистіть невидимого Клея
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay and his enemies <col=BOLD>turn invisible</col>, help him get rid of them!
-ITEM_CHALLENGE_PROTECTTHE_MSG=Клей та його вороги <col=BOLD>стають невидимими</col> - допоможіть йому їх позбутися!
+ITEM_CHALLENGE_PROTECTTHE_MSG=Клей та його вороги <col=BOLD>стають невидимими</col> - допоможіть йому їх здолати!
 
 
 # NB: Lexicon word in Ukrainian for "Clint": "Клінт"
@@ -1217,7 +1217,7 @@ ITEM_CHALLENGE_BOSSSHARK_MSG=Бій з босом Гострозубом
 ITEM_CHALLENGE_SURVIVAL=Виживання!
 
 ### Eliminate <col=BOLD>as many enemies as possible</col> to survive!
-ITEM_CHALLENGE_SURVIVAL_MSG=Знищуйте <col=BOLD>якомога більше ворогів</col>, щоб вижити!
+ITEM_CHALLENGE_SURVIVAL_MSG=Здолайте <col=BOLD>якомога більше ворогів</col>, щоб вижити!
 
 
 ### Versus
@@ -1927,7 +1927,7 @@ BM04_OPTION_BACKGROUND_HELP=Оберіть середовище для цьог�
 BM04_OPTION_ROOMSETTINGS_HELP=Налаштуйте кімнату (розмір, масштаб...)
 
 ### Choose a main objective type for this challenge.##Eg: defeat everyone, collect items, survive...
-BM04_OPTION_OBJECTIVE_HELP=Оберіть основний тип цілі для цього виклику.##Наприклад: перемогти всіх, зібрати предмети, вижити...
+BM04_OPTION_OBJECTIVE_HELP=Оберіть основний тип цілі для цього виклику.##Наприклад: здолати всіх, зібрати предмети, вижити...
 
 ### Number of seconds until the timer runs out.##Depending on the objective, this can mean losing or winning.
 BM04_OPTION_TIMER_HELP=Кількість секунд до завершення таймера.##Залежно від цілі це може означати поразку або перемогу.
@@ -3802,16 +3802,16 @@ QUIZZ_Q54_4=Кролики
 QUIZZ_Q55=Як називається м'яка іграшка Граффа?
 
 ### Pred
-QUIZZ_Q55_1=Наповнювана водою іграшка
+QUIZZ_Q55_1=Пред
 
 ### Drep
-QUIZZ_Q55_2=Наповнювана пір'ями іграшка
+QUIZZ_Q55_2=Драп
 
 ### Perd
-QUIZZ_Q55_3=Плюшевий кіт
+QUIZZ_Q55_3=Пард
 
 ### Derp
-QUIZZ_Q55_4=Плюшевий ведмідь
+QUIZZ_Q55_4=Дерп
 
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"

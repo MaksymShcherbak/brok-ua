@@ -562,146 +562,146 @@
 
 **Ігровий процес**
 
-| Оригінал                                   | Переклад                                  | Примітки                                         |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------ |
-| Point & Click                              | Point & Click                             | Не перекладаємо                                  |
-| Beat 'em up                                | Beat 'em up / бійка                       |                                                  |
-| EXP                                        | ДОСВІД                                    |                                                  |
-| Ad (Advertisement) / ads                   | реклама / реклами                         |                                                  |
-| coupon                                     | купон (на гроші) / флаєр (рекламний)      |                                                  |
-| flyer                                      | флаєр                                     |                                                  |
-| Lifebar / life bar                         | шкала здоров'я                            |                                                  |
-| Inventory                                  | інвентар                                  |                                                  |
-| Chapter                                    | розділ                                    |                                                  |
-| Puzzle                                     | головоломка                               |                                                  |
-| Trial                                      | випробування                              |                                                  |
-| Exam                                       | іспит                                     |                                                  |
-| Examination board                          | екзаменаційна комісія                     |                                                  |
-| Test                                       | тест                                      |                                                  |
-| First-class penalty                        | штраф першого класу                       |                                                  |
-| Final scores                               | підсумкові бали                           |                                                  |
-| Clue                                       | зачіпка                                   |                                                  |
-| Hint                                       | підказка                                  |                                                  |
-| Cutscene                                   | ігрова сцена                              |                                                  |
-| Points                                     | очки (ігрові) / бали (у школі)            |                                                  |
-| Uni / Unis                                 | Юні                                       |                                                  |
-| Credits                                    | гроші / кошти                             |                                                  |
-| Adventure mode                             | режим пригоди                             |                                                  |
-| Co-op / co-op mode                         | кооперативний режим                       |                                                  |
-| Main player                                | головний гравець                          | Головний гравець у кооперативі                   |
-| Main endings                               | основні кінцівки                          |                                                  |
-| Main ending                                | основна кінцівка                          |                                                  |
-| Canonical Ending                           | канонічна кінцівка                        |                                                  |
-| Host                                       | господар                                  | Головний гравець у кооперативі                   |
-| Shadow ads                                 | тіньові реклами                           |                                                  |
-| Shadow points                              | тіньові очки                              |                                                  |
-| Progress                                   | прогрес                                   |                                                  |
-| Save progress                              | прогрес гри                               |                                                  |
-| Summary                                    | підсумки                                  |                                                  |
-| Room                                       | кімната                                   | Одна ігрова локація                              |
-| Full game                                  | повна версія гри                          |                                                  |
-| Additional content                         | додатковий вміст                          |                                                  |
-| DLC                                        | доповнення                                |                                                  |
-| Extras                                     | додатки                                   |                                                  |
-| Blink                                      | блимання                                  |                                                  |
-| Hotspots                                   | точки взаємодії                           |                                                  |
-| Unlock                                     | розблокувати                              |                                                  |
-| Disable                                    | вимкнути                                  |                                                  |
-| Magnifying glass / Magnify                 | лупа / збільшення                         |                                                  |
-| Croc dude                                  | чуваче                                    | Ігрові підказки                                  |
-| Kitty                                      | кошенятко                                 | Ігрові підказки                                  |
-| Credits / End titles                       | титри                                     | Не плутати з Credits = гроші / кошти (див. вище) |
-| Junction                                   | вузол                                     |                                                  |
-| Node                                       | вузол                                     |                                                  |
-| Gauge                                      | шкала                                     |                                                  |
-| Boost                                      | прискорення / підвищення                  |                                                  |
-| Cell                                       | камера                                    |                                                  |
-| Brawl points                               | очки бійки                                |                                                  |
-| Brain points                               | очки розуму                               |                                                  |
-| Tutorial                                   | посібник                                  |                                                  |
-| Fight difficulty                           | рівень складності битв                    |                                                  |
-| Relaxed                                    | Розслаблений                              |                                                  |
-| Standard                                   | Звичайний                                 |                                                  |
-| Hardcore                                   | Жорсткий                                  |                                                  |
-| Mania                                      | Манія                                     |                                                  |
-| Novice                                     | Новачок                                   | Категорія викликів                               |
-| Intermediate                               | Боєць                                     | Категорія викликів                               |
-| Pro                                        | Профі                                     | Категорія викликів                               |
-| Bonus                                      | Бонус                                     | Категорія викликів                               |
+| Оригінал                   | Переклад                             | Примітки                                         |
+| -------------------------- | ------------------------------------ | ------------------------------------------------ |
+| Point & Click              | Point & Click                        | Не перекладаємо                                  |
+| Beat 'em up                | Beat 'em up / бійка                  |                                                  |
+| EXP                        | ДОСВІД                               |                                                  |
+| Ad (Advertisement) / ads   | реклама / реклами                    |                                                  |
+| coupon                     | купон (на гроші) / флаєр (рекламний) |                                                  |
+| flyer                      | флаєр                                |                                                  |
+| Lifebar / life bar         | шкала здоров'я                       |                                                  |
+| Inventory                  | інвентар                             |                                                  |
+| Chapter                    | розділ                               |                                                  |
+| Puzzle                     | головоломка                          |                                                  |
+| Trial                      | випробування                         |                                                  |
+| Exam                       | іспит                                |                                                  |
+| Examination board          | екзаменаційна комісія                |                                                  |
+| Test                       | тест                                 |                                                  |
+| First-class penalty        | штраф першого класу                  |                                                  |
+| Final scores               | підсумкові бали                      |                                                  |
+| Clue                       | зачіпка                              |                                                  |
+| Hint                       | підказка                             |                                                  |
+| Cutscene                   | ігрова сцена                         |                                                  |
+| Points                     | очки (ігрові) / бали (у школі)       |                                                  |
+| Uni / Unis                 | Юні                                  |                                                  |
+| Credits                    | гроші / кошти                        |                                                  |
+| Adventure mode             | режим пригоди                        |                                                  |
+| Co-op / co-op mode         | кооперативний режим                  |                                                  |
+| Main player                | головний гравець                     | Головний гравець у кооперативі                   |
+| Main endings               | основні кінцівки                     |                                                  |
+| Main ending                | основна кінцівка                     |                                                  |
+| Canonical Ending           | канонічна кінцівка                   |                                                  |
+| Host                       | господар                             | Головний гравець у кооперативі                   |
+| Shadow ads                 | тіньові реклами                      |                                                  |
+| Shadow points              | тіньові очки                         |                                                  |
+| Progress                   | прогрес                              |                                                  |
+| Save progress              | прогрес гри                          |                                                  |
+| Summary                    | підсумки                             |                                                  |
+| Room                       | кімната                              | Одна ігрова локація                              |
+| Full game                  | повна версія гри                     |                                                  |
+| Additional content         | додатковий вміст                     |                                                  |
+| DLC                        | доповнення                           |                                                  |
+| Extras                     | додатки                              |                                                  |
+| Blink                      | блимання                             |                                                  |
+| Hotspots                   | точки взаємодії                      |                                                  |
+| Unlock                     | розблокувати                         |                                                  |
+| Disable                    | вимкнути                             |                                                  |
+| Magnifying glass / Magnify | лупа / збільшення                    |                                                  |
+| Croc dude                  | чуваче                               | Ігрові підказки                                  |
+| Kitty                      | кошенятко                            | Ігрові підказки                                  |
+| Credits / End titles       | титри                                | Не плутати з Credits = гроші / кошти (див. вище) |
+| Junction                   | вузол                                |                                                  |
+| Node                       | вузол                                |                                                  |
+| Gauge                      | шкала                                |                                                  |
+| Boost                      | прискорення / підвищення             |                                                  |
+| Cell                       | камера                               |                                                  |
+| Brawl points               | очки бійки                           |                                                  |
+| Brain points               | очки розуму                          |                                                  |
+| Tutorial                   | посібник                             |                                                  |
+| Fight difficulty           | рівень складності битв               |                                                  |
+| Relaxed                    | Розслаблений                         |                                                  |
+| Standard                   | Звичайний                            |                                                  |
+| Hardcore                   | Жорсткий                             |                                                  |
+| Mania                      | Манія                                |                                                  |
+| Novice                     | Новачок                              | Категорія викликів                               |
+| Intermediate               | Боєць                                | Категорія викликів                               |
+| Pro                        | Профі                                | Категорія викликів                               |
+| Bonus                      | Бонус                                | Категорія викликів                               |
 
 **Система**
 
-| Оригінал                                   | Переклад                                  | Примітки                                         |
-| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------ |
-| Resolution                                 | роздільна здатність                       |                                                  |
-| Vsync / Vertical synchronization           | вертикальна синхронізація                 |                                                  |
-| Fullscreen                                 | повноекранний режим                       |                                                  |
-| Windowed                                   | віконний режим                            |                                                  |
-| Fully narrated                             | повне озвучення                           |                                                  |
-| Positional audio                           | позиційне аудіо                           |                                                  |
-| High contrast text                         | висококонтрастний текст                   |                                                  |
-| High contrast characters                   | висококонтрастні персонажі                |                                                  |
-| Screen shaking                             | тремтіння екрана                          |                                                  |
-| Accessibility menu                         | меню доступності                          |                                                  |
-| Screen reader                              | екранний зчитувач                         |                                                  |
-| Simplified rooms                           | спрощені кімнати                          |                                                  |
-| Repeat buttons                             | кнопки повтору                            |                                                  |
-| Repeat speech                              | повторити діалогову репліку               |                                                  |
-| Repeat instructions                        | повторити вказівки                        |                                                  |
-| Clipboard narration                        | озвучення буфера обміну                   |                                                  |
-| Hotspots aligned                           | вирівнювання точок взаємодії              |                                                  |
-| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                                  |
-| Settings                                   | налаштування                              |                                                  |
-| Debug                                      | налагодження                              |                                                  |
-| Icon                                       | іконка                                    |                                                  |
-| Download                                   | завантажити                               |                                                  |
-| Upload                                     | надіслати                                 |                                                  |
-| Import                                     | імпортувати                               |                                                  |
-| Export                                     | експортувати                              |                                                  |
-| Directory                                  | тека                                      |                                                  |
-| Default                                    | за замовчуванням                          |                                                  |
-| Thumbnail                                  | обкладинка                                |                                                  |
-| Background                                 | фон / тло                                 |                                                  |
-| Environment                                | середовище                                |                                                  |
-| Custom                                     | користувацький                            |                                                  |
-| Packaged                                   | пакетний                                  |                                                  |
-| Modifier                                   | модифікатор                               |                                                  |
-| Music track                                | музичний трек                             |                                                  |
-| Music                                      | музика                                    |                                                  |
-| Composition                                | композиція                                |                                                  |
-| Online                                     | онлайн / в мережі / в інтернеті           |                                                  |
-| Offline                                    | офлайн / в автономному режимі             |                                                  |
-| Steam Workshop                             | Майстерня Steam                           |                                                  |
+| Оригінал                                   | Переклад                                  | Примітки |
+| ------------------------------------------ | ----------------------------------------- | -------- |
+| Resolution                                 | роздільна здатність                       |          |
+| Vsync / Vertical synchronization           | вертикальна синхронізація                 |          |
+| Fullscreen                                 | повноекранний режим                       |          |
+| Windowed                                   | віконний режим                            |          |
+| Fully narrated                             | повне озвучення                           |          |
+| Positional audio                           | позиційне аудіо                           |          |
+| High contrast text                         | висококонтрастний текст                   |          |
+| High contrast characters                   | висококонтрастні персонажі                |          |
+| Screen shaking                             | тремтіння екрана                          |          |
+| Accessibility menu                         | меню доступності                          |          |
+| Screen reader                              | екранний зчитувач                         |          |
+| Simplified rooms                           | спрощені кімнати                          |          |
+| Repeat buttons                             | кнопки повтору                            |          |
+| Repeat speech                              | повторити діалогову репліку               |          |
+| Repeat instructions                        | повторити вказівки                        |          |
+| Clipboard narration                        | озвучення буфера обміну                   |          |
+| Hotspots aligned                           | вирівнювання точок взаємодії              |          |
+| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |          |
+| Settings                                   | налаштування                              |          |
+| Debug                                      | налагодження                              |          |
+| Icon                                       | іконка                                    |          |
+| Download                                   | завантажити                               |          |
+| Upload                                     | надіслати                                 |          |
+| Import                                     | імпортувати                               |          |
+| Export                                     | експортувати                              |          |
+| Directory                                  | тека                                      |          |
+| Default                                    | за замовчуванням                          |          |
+| Thumbnail                                  | обкладинка                                |          |
+| Background                                 | фон / тло                                 |          |
+| Environment                                | середовище                                |          |
+| Custom                                     | користувацький                            |          |
+| Packaged                                   | пакетний                                  |          |
+| Modifier                                   | модифікатор                               |          |
+| Music track                                | музичний трек                             |          |
+| Music                                      | музика                                    |          |
+| Composition                                | композиція                                |          |
+| Online                                     | онлайн / в мережі / в інтернеті           |          |
+| Offline                                    | офлайн / в автономному режимі             |          |
+| Steam Workshop                             | Майстерня Steam                           |          |
 
 **Brawl Bar**
 
-| Оригінал          | Переклад                        | Примітки   |
-| ----------------- | ------------------------------- | ---------- |
-| Brawl Bar         | Бійцівський бар                 |            |
-| C-Tokens          | К-Жетони                        |            |
-| CounterAttack     | Контратака                      | Назва бару |
-| Creator mode      | режим творця                    |            |
-| Creation          | витвір                          |            |
-| Survival          | виживання                       |            |
-| Versus            | один на один                    |            |
-| Support           | підтримка                       |            |
-| CPU / Computer    | бот                             |            |
-| Bonus wheel       | бонусне колесо                  |            |
-| Challenge         | виклик                          |            |
-| Goal / Objective  | ціль                            |            |
-| Battle Royale     | королівська битва               |            |
-| Within time limit | за відведений час               |            |
-| Inverted controls | інвертоване керування           |            |
-| Boxer outfit      | боксерське вбрання              |            |
-| Detective outfit  | вбрання детектива               |            |
-| Default character | персонаж за замовчуванням       |            |
-| Character mod     | мод персонажа                   |            |
-| Glitch            | глюк                            |            |
-| Arena             | арена                           |            |
-| Item drop         | випадіння предмета              |            |
-| Skin              | образ                           |            |
-| Escort            | супровід                        |            |
-| Enemy / Enemies   | ворог / вороги                  |            |
+| Оригінал          | Переклад                  | Примітки   |
+| ----------------- | ------------------------- | ---------- |
+| Brawl Bar         | Бійцівський бар           |            |
+| C-Tokens          | К-Жетони                  |            |
+| CounterAttack     | Контратака                | Назва бару |
+| Creator mode      | режим творця              |            |
+| Creation          | витвір                    |            |
+| Survival          | виживання                 |            |
+| Versus            | один на один              |            |
+| Support           | підтримка                 |            |
+| CPU / Computer    | бот                       |            |
+| Bonus wheel       | бонусне колесо            |            |
+| Challenge         | виклик                    |            |
+| Goal / Objective  | ціль                      |            |
+| Battle Royale     | королівська битва         |            |
+| Within time limit | за відведений час         |            |
+| Inverted controls | інвертоване керування     |            |
+| Boxer outfit      | боксерське вбрання        |            |
+| Detective outfit  | вбрання детектива         |            |
+| Default character | персонаж за замовчуванням |            |
+| Character mod     | мод персонажа             |            |
+| Glitch            | глюк                      |            |
+| Arena             | арена                     |            |
+| Item drop         | випадіння предмета        |            |
+| Skin              | образ                     |            |
+| Escort            | супровід                  |            |
+| Enemy / Enemies   | ворог / вороги            |            |
 
 **Бій**
 
@@ -770,7 +770,6 @@
 | Keylock                     | замок                                |                                      |
 | Keyhole                     | замочна шпарина                      |                                      |
 | Katshu                      | катшу                                | Музичний інструмент                  |
-| Pred Toy                    | наповнювана водою іграшка            |                                      |
 | Punching bag                | боксерська груша                     |                                      |
 | File                        | файл / досьє (поліцейський документ) |                                      |
 | Map                         | мапа                                 |                                      |
@@ -787,6 +786,7 @@
 | Sign                        | табличка / вивіска / знак            |                                      |
 | Bike                        | байк                                 |                                      |
 | Balloon                     | повітряна кулька / кулька            |                                      |
+| Pred toy                    | іграшка "Пред"                       |                                      |
 | Hook                        | гачок                                |                                      |
 
 **Інше**
