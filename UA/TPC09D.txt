@@ -2637,7 +2637,7 @@ PC09D_Q10_TRAMP-3=Угу.
 # Wes
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### I'm guessing he was a Slumer.
-PC09D_Q10_TRAMP-4=Думаю, він був Нетрівцем.
+PC09D_Q10_TRAMP-4=Думаю, він був нетрівцем.
 
 
 # Brok
@@ -3047,7 +3047,7 @@ PC09D_DEAD1-6=Цей інцидент не повинен розголошува
 # Wes
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### Erase all evidence including the body. Nobody will look for a Slumer.
-PC09D_DEAD1-7=Знищте всі докази, включно з тілом. Ніхто не шукатиме Нетрівця.
+PC09D_DEAD1-7=Знищте всі докази, включно з тілом. Ніхто не шукатиме нетрівця.
 
 
 # Tribotcop

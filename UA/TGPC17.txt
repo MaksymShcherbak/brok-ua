@@ -140,7 +140,7 @@ PC17_ARRIVE1-3=Що ти маєш на увазі?
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### It's an open day. Drumers don't like getting near Slumers very much.
-PC17_ARRIVE1-4=Сьогодні день відкритих дверей. Мешканці Верхів не дуже люблять наближатися до Нетрівців.
+PC17_ARRIVE1-4=Сьогодні день відкритих дверей. Мешканці Верхів не дуже люблять наближатися до нетрівців.
 
 
 # Ott
@@ -672,7 +672,7 @@ PC17_EXPOREVOLT_READ-4="Саме під час цього конфлікту ж�
 # NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### "The overwhelming violence of those revolts still resonates to this day. No further rebellion involving all united Slumers ever happened again."
-PC17_EXPOREVOLT_READ-5="Неймовірна жорстокість тих повстань відгукується й донині. Більше жодного бунту за участю всіх об'єднаних Нетрівців не було."
+PC17_EXPOREVOLT_READ-5="Неймовірна жорстокість тих повстань відгукується й донині. Більше жодного бунту за участю всіх об'єднаних нетрівців не було."
 
 
 #----------------------------------------------------
@@ -697,7 +697,7 @@ PC17_EXPOTECHNOLOGICAL1-3="Ми всі живемо в золоту еру з п
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 ### Oh, sure... For Drumers. Conditions for us Slumers don't really advance at the same rate.
-PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе на Верхах. Умови для нас, Нетрівців, покращуються не з такою швидкістю.
+PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе на Верхах. Умови для нас, нетрівців, покращуються не з такою швидкістю.
 
 
 # Graff
@@ -1313,7 +1313,7 @@ PC17_EXPORECENTB1-3="Це спричинило величезну кількіс
 # NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### "The Dome got cut off, which could have had dramatic effects if not for the military Tribots repelling Slumers from trying to enter the Drums."
-PC17_EXPORECENTB1-4="Купол відключився, що могло б мати катастрофічні наслідки, якби військові Триботи не стримали Нетрівців від спроб проникнути на Верхи."
+PC17_EXPORECENTB1-4="Купол відключився, що могло б мати катастрофічні наслідки, якби військові Триботи не стримали нетрівців від спроб проникнути на Верхи."
 
 
 # Graff

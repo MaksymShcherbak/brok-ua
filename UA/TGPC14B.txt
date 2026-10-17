@@ -375,7 +375,7 @@ GPC14B_AFTER1-4=Навіть якщо ми будемо жити під Купо
 # Graff
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### We can't just leave all the Slums people without any solution, can we?
-GPC14B_AFTER1-5=Ми ж не можемо просто залишити всіх Нетрівців без жодного рішення, правда?
+GPC14B_AFTER1-5=Ми ж не можемо просто залишити всіх нетрівців без жодного рішення, правда?
 
 
 # Ott
