@@ -378,7 +378,7 @@ PC01_DOORFRIDGE_STICK-1=Моєї руки має вистачити!
 # Brok
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 ### Ah... I remember! Someone paid me with this energy drink.
-PC01_FRIDGE_DRINK-1=А... Згадав! Хтось розплатився зі мною цим енергетичним напоєм.
+PC01_FRIDGE_DRINK-1=А... Згадав! Хтось розплатився зі мною цим енергетиком.
 
 
 # Brok
@@ -2414,7 +2414,7 @@ PC01_STORY110_COOKINGBAD-9=...Гаразд.
 
 # Graff
 ### (Slurp)
-PC01_STORY110_COOKINGBAD-10=(Сьорб)
+PC01_STORY110_COOKINGBAD-10=(Сьорбає)
 
 
 # Brok

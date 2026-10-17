@@ -118,7 +118,7 @@ GPC16_RESULT_SOMETHING3-1=Круто!
 # Graff
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 ### An energy drink? I'll take it.
-GPC16_RESULT_ENERGYDRINK-1=Енергетичний напій? Забираю.
+GPC16_RESULT_ENERGYDRINK-1=Енергетик? Заберу.
 
 
 #----------------------------------------------------

@@ -1243,7 +1243,7 @@ PC14_ENTER_BAR2-4=(Тук-тук)
 
 # Brok
 ### Anyone there?
-PC14_ENTER_BAR2-5=Хтось є?
+PC14_ENTER_BAR2-5=Тут хтось є?
 
 
 # Unknown

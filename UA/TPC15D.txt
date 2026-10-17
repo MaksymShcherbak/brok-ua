@@ -245,7 +245,7 @@ INTERROGATION_HUSH_HEAR=Чому доктор Мінк не почув, як п�
 #Charge Guard
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Where does the Tomatoze sauce come from?
-INTERROGATION_GUARD_STAGED=Звідки взявся соус томатози?
+INTERROGATION_GUARD_STAGED=Звідки взявся томатозний соус?
 
 ### What's the proof the body was under the bed?
 INTERROGATION_GUARD_BED=Який є доказ, що тіло було під ліжком?
@@ -581,7 +581,7 @@ PC15D_LADDER1C-3=Угу. Цікаво.
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### There's Tomatoze sauce!
-PC15D_LADDER1C-4=Тут соус томатози!
+PC15D_LADDER1C-4=Тут томатозний соус!
 
 
 # Brok
@@ -2605,7 +2605,7 @@ PC15D_STAIN_AFTER1-1=(Сьорбає)
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Not blood either. Tastes like Tomatoze sauce.
-PC15D_STAIN_AFTER1-2=Теж не кров. На смак - соус томатози.
+PC15D_STAIN_AFTER1-2=Теж не кров. На смак - томатозний соус.
 
 
 #----------------------------------------------------
@@ -4179,7 +4179,7 @@ PC15D_STORY160_CHOICE_NO-14=Я витер пляму... Просто забув 
 # Mink
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### This is Tomatoze sauce!
-PC15D_STORY160_CHOICE_NO-15=Це соус томатози!
+PC15D_STORY160_CHOICE_NO-15=Це томатозний соус!
 
 
 # Guard
@@ -4216,7 +4216,7 @@ PC15D_STORY160_CHOICE_NO-21=Принаймні... Тепер ви мені ві�
 #----------------------------------------------------
 # Brok - Brok goes to lick the red spot on Dr Hush's body
 ### (Slurp... Slurp)
-PC15D_STORY160_CHOICE_NO2-1=(Сьорб... Сьорб)
+PC15D_STORY160_CHOICE_NO2-1=(Злизує)
 
 
 # Mink
@@ -4749,7 +4749,7 @@ PC15D_CLUE_MURDER_DEATHSTAGED-3=То... як і моя краватка...?
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Yes. This is Antburger Tomatoze sauce.
-PC15D_CLUE_MURDER_DEATHSTAGED-4=Так. Це соус томатози від мурахобургера.
+PC15D_CLUE_MURDER_DEATHSTAGED-4=Так. Це томатозний соус від мурахобургера.
 
 
 # Guard
@@ -6248,7 +6248,7 @@ PC15D_PICKONE_VENTPROOF_WRONG1-4=Брокі зламався!
 # Guard
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Tomatoze sauce...?
-PC15D_CLUE_MURDER_VENTILATION-1=Соус томатози...?
+PC15D_CLUE_MURDER_VENTILATION-1=Томатозний соус...?
 
 
 # Brok
@@ -9607,7 +9607,7 @@ PC15D_SECONDGATHER_GUARD1-10=Спершу зосередьмося на тому
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Where does the Tomatoze sauce comes from?
-PC15D_SECONDGATHER_GUARD1-11=Звідки взявся соус томатози?
+PC15D_SECONDGATHER_GUARD1-11=Звідки взявся томатозний соус?
 
 
 #----------------------------------------------------
@@ -9646,7 +9646,7 @@ PC15D_CLUE_GUARD_STAGED-6=Ви божевільні!
 # Guard
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Should I remind you that you're the one here with Tomatoze sauce on your tie?!
-PC15D_CLUE_GUARD_STAGED-7=Нагадати вам, що це саме у вас на краватці соус томатози?!
+PC15D_CLUE_GUARD_STAGED-7=Нагадати вам, що це саме у вас на краватці томатозний соус?!
 
 
 # Mink
@@ -9739,7 +9739,7 @@ PC15D_CLUE_GUARD_STAGED-23=І в мене є доказ, що тіло докт�
 # Brok
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### That red stain under the bed... is Tomatoze sauce.
-PC15D_CLUE_GUARD_BED-1=Та червона пляма під ліжком... це соус томатози.
+PC15D_CLUE_GUARD_BED-1=Та червона пляма під ліжком... це томатозний соус.
 
 
 # Guard
@@ -10962,7 +10962,7 @@ PC15D_CLUE_HUSH_INVENT-1=Раніше я зробив цікаве відкри�
 # Guard
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Yeah. Tomatoze sauce.
-PC15D_CLUE_HUSH_INVENT-2=Ага. Соус томатози.
+PC15D_CLUE_HUSH_INVENT-2=Ага. Томатозний соус.
 
 
 # Brok

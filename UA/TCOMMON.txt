@@ -5648,7 +5648,7 @@ CLUE_HUSH_MINKDOOR=Доктор Гаш і Тайді жодного разу н�
 
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### Tomatoze sauce in the ventilation system
-CLUE_LAB_TOMATOVENTILATION=Соус томатози у вентиляційній системі
+CLUE_LAB_TOMATOVENTILATION=Томатозний соус у вентиляційній системі
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy was last recorded entering the restroom at 4:24
@@ -5700,7 +5700,7 @@ CLUE_MURDER_DEATHSTAGED=Смерть доктора Гаша була інсце
 
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### The burger was unfrozen to use the Tomatoze sauce
-CLUE_MURDER_BURGERUNFROZEN=Бургер розморозили, щоб додати соус томатози
+CLUE_MURDER_BURGERUNFROZEN=Бургер розморозили, щоб додати томатозний соус
 
 ### The lamp is not the murder weapon
 CLUE_MURDER_WEAPON=Лампа не є знаряддям вбивства

@@ -367,7 +367,7 @@ PC16_RESULT_SOMETHING5-1=О!
 # Brok
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 ### Cool, an energy drink!
-PC16_RESULT_ENERGYDRINK-1=Круто, енергетичний напій!
+PC16_RESULT_ENERGYDRINK-1=Круто, енергетик!
 
 
 #----------------------------------------------------

@@ -133,12 +133,12 @@ PC21_00_HEDGEHOG1-2=Вітаю, пане! Ласкаво просимо!
 
 # Hedgehog
 ### Sorry for earlier. Just a way to filter bots.
-PC21_00_HEDGEHOG1-3=Перепрошую за те, що було раніше. Просто так ми відсіюємо ботів.
+PC21_00_HEDGEHOG1-3=Даруйте за ту ситуацію з дверима. Просто так ми відсіюємо ботів.
 
 
 # Hedgehog
 ### They'd never say something so stupid!
-PC21_00_HEDGEHOG1-4=Боти ніколи не скажуть такої дурниці!
+PC21_00_HEDGEHOG1-4=Боти ніколи не б сказали такої дурниці, як ви!
 
 
 # Brok
@@ -196,12 +196,12 @@ PC21_00_HYENA1-2=Ні, дякую. Що це за місце, бар?
 # Hyena
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Sure is. Best bar in the Slums, I can tell ya!
-PC21_00_HYENA1-3=Ага, бар. Найкращий бар у Нетрях, кажу тобі!
+PC21_00_HYENA1-3=Ага. Кажу тобі, це найкращий бар у Нетрях!
 
 
 # Hyena - Word play "a high bar to reach"
 ### Not that the bar is high... Ha!
-PC21_00_HYENA1-4=Не те щоб у нас була висока планка... Ха!
+PC21_00_HYENA1-4=Не те, щоб нам було куди опускатися... Ха!
 
 
 # Brok
@@ -211,22 +211,22 @@ PC21_00_HYENA1-5=...?
 
 # Hyena
 ### Get it? Bar?
-PC21_00_HYENA1-6=Дійшло? Планка ж!
+PC21_00_HYENA1-6=Дійшло? Опускатися!
 
 
 # Hyena - Word play. If not possible in your language, replace with another joke.
 ### We're an underground bar, and the bar is low so... Ah, forget it.
-PC21_00_HYENA1-7=Ми ж підземний бар, тож планка в нас низько... Ох, забудь.
+PC21_00_HYENA1-7=Ми ж підземний бар, тому опускатися вже нікуди... Ох, забудь.
 
 
 # Hyena
 ### You should try our VR challenges! You'd fit right in!
-PC21_00_HYENA1-8=Спробуй наші VR-виклики! Тобі точно зайде!
+PC21_00_HYENA1-8=Спробуй наші VR-виклики! Тобі точно сподобається!
 
 
 # Brok
 ### VR? Like... Oh, those cabins.
-PC21_00_HYENA1-9=VR? Це... А, ті кабіни.
+PC21_00_HYENA1-9=VR? Типу... А, оті кабіни.
 
 
 # Hyena
@@ -246,7 +246,7 @@ PC21_00_HYENA1-12=Стривай, ти ж не пояснив м...
 
 # Hyena
 ### Leave the chitchat for later! You're clearly not that kind of guy.
-PC21_00_HYENA1-13=Балачки потім! Ти явно не з балакучих.
+PC21_00_HYENA1-13=Лишимо балачки на потім! Ти явно не з балакучих.
 
 
 # Brok
@@ -273,18 +273,18 @@ PC21_00_HYENA1B-2=Тримай!
 #----------------------------------------------------
 # Hyena
 ### Take those gloves!
-PC21_00_HYENA1C-1=Бери рукавички!
+PC21_00_HYENA1C-1=Бери їх!
 
 
 #----------------------------------------------------
 # Brok
 ### Oh man. Been years since I've worn some!
-PC21_00_HYENA2-1=Ох. Скільки років їх не вдягав!
+PC21_00_HYENA2-1=Ох. Скільки років я їх не вдягав!
 
 
 # Brok
 ### How did you know?
-PC21_00_HYENA2-2=Звідки ти знаєш?
+PC21_00_HYENA2-2=Звідки ти знав?
 
 
 # Hyena
@@ -300,18 +300,18 @@ PC21_00_HYENA2B-1=Перевдягнувся за мить. Оце суперс�
 
 # Brok
 ### Second nature to me!
-PC21_00_HYENA2B-2=Це в мене в крові!
+PC21_00_HYENA2B-2=Це у мене в крові!
 
 
 # Hyena
 ### Well, you can't exactly interact in this state. Save it for the fights, supercroc.
-PC21_00_HYENA2B-3=Ну, у такому вигляді ти ні з ким нормально не поговориш. Прибережи це для бійок, суперкрокодиле.
+PC21_00_HYENA2B-3=Ну, в такому вигляді ти ні з ким нормально не поговориш. Прибережи це для бійок, супер-кроку.
 
 
 #----------------------------------------------------
 # Hyena
 ### We'll chat later. Check the VR cabins!
-PC21_00_HYENA2C-1=Побалакаємо потім. Глянь VR-кабіни!
+PC21_00_HYENA2C-1=Побалакаємо потім. Перевір VR-кабіни!
 
 
 #----------------------------------------------------
@@ -337,7 +337,7 @@ PC21_AFTER_LOSE-4=У кабінах, до яких я звик, від кожн�
 
 # Hedgehog
 ### Oh, we set the cabins to "normal sensitivity."
-PC21_AFTER_LOSE-5=А, це ми виставили в кабінах "звичайну чутливість".
+PC21_AFTER_LOSE-5=А, то це ми виставили в кабінах "звичайну чутливість".
 
 
 # Brok
@@ -352,7 +352,7 @@ PC21_AFTER_LOSE-7=Звісно, ні! Що за дурниця!
 
 # Hedgehog
 ### That other cabin must've been set wayyy past the safety limit.
-PC21_AFTER_LOSE-8=Ту іншу кабіну, мабуть, накрутили далеко за межу безпеки.
+PC21_AFTER_LOSE-8=Ту іншу кабіну, мабуть, накрутили далеко за межі безпеки.
 
 
 # Brok
@@ -364,12 +364,12 @@ PC21_AFTER_LOSE-9=Шей...!
 #----------------------------------------------------
 # Hyena - Exit after first fight
 ### Hey! How'd your first round go?
-PC21_10_EXITVR-1=Гей! Ну як перший раунд?
+PC21_10_EXITVR-1=Гей! Ну як твій перший раунд?
 
 
 # Brok
 ### Tough...
-PC21_10_EXITVR-2=Важко...
+PC21_10_EXITVR-2=Нелегко...
 
 
 #----------------------------------------------------
@@ -387,7 +387,7 @@ PC21_10_FIRSTFIGHT_WIN-2=К-Жетони! Наша власна валюта.
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### So... I'm not getting any Unis for this?
-PC21_10_FIRSTFIGHT_WIN-3=Тобто... Юні за це я не отримаю?
+PC21_10_FIRSTFIGHT_WIN-3=Тобто... Жодних Юні за це я не отримаю?
 
 
 # Hedgehog
@@ -411,22 +411,22 @@ PC21_10_FIRSTFIGHT_WIN-6=Та ні!
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Can't convert back or forth. And you can't spend Unis, either.
-PC21_10_FIRSTFIGHT_WIN-7=Ні туди, ні назад не обміняти. І Юні взагалі ніде не витратите.
+PC21_10_FIRSTFIGHT_WIN-7=Ні туди, ні назад не обміняти. І Юні взагалі у нас не можна витратити.
 
 
 # Brok
 ### Seems like a scam to me...
-PC21_10_FIRSTFIGHT_WIN-8=Мені це видається якоюсь аферою...
+PC21_10_FIRSTFIGHT_WIN-8=Схоже на якусь аферу...
 
 
 # Hedgehog
 ### Well, that's not tooootally true.
-PC21_10_FIRSTFIGHT_WIN-9=Ну, це не зовсііім правда.
+PC21_10_FIRSTFIGHT_WIN-9=Ну, це не зо-оовсім правда.
 
 
 # Hedgehog
 ### You can purchase items from the machine near the jukebox with your tokens, but they're virtual and can only be used inside the VR cabins.
-PC21_10_FIRSTFIGHT_WIN-10=Можете купувати речі за жетони в автоматі поруч із музичним автоматом, але вони віртуальні й працюють лише всередині VR-кабін.
+PC21_10_FIRSTFIGHT_WIN-10=Ви можете купувати речі за жетони у пристрої поруч із музичним автоматом, але вони віртуальні й працюють лише всередині VR-кабін.
 
 
 #----------------------------------------------------
@@ -447,7 +447,7 @@ PC21_10_FIRSTFIGHT_WIN2-3=А, точно! Оце я дурень, вічно з�
 
 # Hedgehog
 ### Consider this bar an independent country within another independent country!
-PC21_10_FIRSTFIGHT_WIN2-4=Вважайте цей бар незалежною країною в іншій незалежній країні!
+PC21_10_FIRSTFIGHT_WIN2-4=Вважайте цей бар незалежною країною всередині іншої незалежної країни!
 
 
 # Hedgehog
@@ -469,7 +469,7 @@ PC21_10_FIRSTFIGHT_WIN2-7=(Псс... Насправді причина в інш
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### (Unis are traceable. We don't want any of that government money, or it might trace back to us.)
-PC21_10_FIRSTFIGHT_WIN2-8=(Юні можна відстежити. Нам не потрібні урядові гроші - а то ще вийдуть на нас.)
+PC21_10_FIRSTFIGHT_WIN2-8=(Юні можна відстежити. Нам не потрібні урядові гроші - а то ще вони вийдуть на нас.)
 
 
 # Brok
@@ -480,7 +480,7 @@ PC21_10_FIRSTFIGHT_WIN2-9=Гм...
 #----------------------------------------------------
 # Brok - Exit VR cabin after a few challenges
 ### Hey, quick question.
-PC21_20_EXITVR-1=Гей, одне швидке питання.
+PC21_20_EXITVR-1=Гей, одне питання.
 
 
 # Brok
@@ -490,7 +490,7 @@ PC21_20_EXITVR-2=Я не впізнаю декого з тих, з ким б'ю�
 
 # Hyena
 ### It's a mix.
-PC21_20_EXITVR-3=Усе впереміш.
+PC21_20_EXITVR-3=Усе вперемішку.
 
 
 # Hyena
@@ -500,17 +500,17 @@ PC21_20_EXITVR-4=Частина - боти, зроблені з нуля.
 
 # Hyena
 ### Others are actual citizens whose skills and appearance were recorded, and are played by an AI.
-PC21_20_EXITVR-5=Інші - справжні громадяни, чиї вміння й вигляд записали, а грає за них штучний інтелект.
+PC21_20_EXITVR-5=Інші - справжні громадяни, чиї вміння й вигляд були записані, але грає за них штучний інтелект.
 
 
 # Hedgehog
 ### You'll even encounter real folks from other VR cabins, playing live!
-PC21_20_EXITVR-6=Ви навіть зустрінете живих людей з інших VR-кабін - вони грають у реальному часі!
+PC21_20_EXITVR-6=Ти навіть можеш зустріти живих людей, що грають в реальному часі з інших VR-кабін!
 
 
 # Hyena
 ### That's the beauty of this technology. You can't tell!
-PC21_20_EXITVR-7=Оце й прекрасно в цій технології. Не відрізниш!
+PC21_20_EXITVR-7=Оце й прекрасно в цій технології. Нікого не відрізниш!
 
 
 # Brok
@@ -520,7 +520,7 @@ PC21_20_EXITVR-8=Тобто є шанс, що хтось із цих незна�
 
 # Hyena
 ### More than you'd think! Ha ha!
-PC21_20_EXITVR-9=Частіше, ніж думаєш! Ха-ха!
+PC21_20_EXITVR-9=Це стається частіше, ніж ти думаєш! Ха-ха!
 
 
 #----------------------------------------------------
@@ -547,20 +547,20 @@ PC21_EXITVR_ANOTHERCHAR-4=Я схожа на програмістку? Ми пр
 # Brok
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### That doesn't even make any sense! And Shay told me it was impossible.
-PC21_EXITVR_ANOTHERCHAR-5=Це ж безглуздя! І Шей казала, що таке неможливе.
+PC21_EXITVR_ANOTHERCHAR-5=Це ж безглуздя! І Шей казала, що це неможливо.
 
 
 # Frog
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Shay! Yes, I remember her. Slums competition! Nasty, nasty!
-PC21_EXITVR_ANOTHERCHAR-6=Шей! Так, я її пам'ятаю. Конкурентка з Нетрів! Паскудна, паскудна!
+PC21_EXITVR_ANOTHERCHAR-6=Шей! Так, я її пам'ятаю. Конкурентка з Нетрів! Гидко, гидко!
 
 
 # Frog
 # NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
 ### Well, we own private servers, separate from the Triweb.
-PC21_EXITVR_ANOTHERCHAR-7=Ну, у нас свої приватні сервери, окремі від Тривебу.
+PC21_EXITVR_ANOTHERCHAR-7=Що ж, у нас свої приватні сервери, окремі від Тривебу.
 
 
 # Frog
@@ -588,7 +588,7 @@ PC21_30_EXITVR-3=...?
 #----------------------------------------------------
 # Frog
 ### Why do I have a 350 C-Tokens hole in my accounting?
-PC21_30_EXITVR2-1=Чому в моїй бухгалтерії дірка на 350 К-Жетонів?
+PC21_30_EXITVR2-1=Чому в моїй бухгалтерії - дірка на 350 К-Жетонів?
 
 
 # Hedgehog
@@ -613,7 +613,7 @@ PC21_30_EXITVR2-5=Звинувачуєш мене?! Та як ти смієш!
 
 # Hedgehog
 ### I didn't make a mistake. You did.
-PC21_30_EXITVR2-6=Я не помилився. Це ви помилилися.
+PC21_30_EXITVR2-6=Але я ж не помилився. Це ви помилилися.
 
 
 # Frog
@@ -628,7 +628,7 @@ PC21_30_EXITVR2-8=Слухай, а чому саме К-Жетони?
 
 # Brok
 ### Why not, dunno... D-Dummies?
-PC21_30_EXITVR2-9=Чому не... не знаю... Д-Дубліки?
+PC21_30_EXITVR2-9=Чому не... ну, не знаю... Д-Дублони?
 
 
 # Hedgehog
@@ -638,12 +638,12 @@ PC21_30_EXITVR2-10="К" - це "Контратака", бо ми ж бар "Ко
 
 # Frog
 ### This place is our way of pushing back against the laws that outlawed these clubs. It's revenge.
-PC21_30_EXITVR2-11=Це місце - наш спосіб чинити опір законам, що заборонили такі клуби. Це помста.
+PC21_30_EXITVR2-11=Це місце - наша помста, наш виклик законам, які заборонили подібні клуби.
 
 
 # Hedgehog
 ### To put it bluntly.
-PC21_30_EXITVR2-12=Якщо казати прямо.
+PC21_30_EXITVR2-12=Це якщо бути відвертим.
 
 
 #----------------------------------------------------
@@ -680,23 +680,23 @@ PC21_40_EXITVR-6=Га?
 #----------------------------------------------------
 # Hedgehog
 ### We serve canned food. None of us have time to cook.
-PC21_40_EXITVR2-1=Ми подаємо консерви. Нікому з нас ніколи готувати.
+PC21_40_EXITVR2-1=Ми подаємо консервовану їжу. Ніхто з нас не має часу готувати.
 
 
 # Hedgehog
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### We scored an excellent deal on a big supply of Tomatoze Lungfish Fillet!
-PC21_40_EXITVR2-2=Ми дуже вигідно взяли велику партію філе томатози!
+PC21_40_EXITVR2-2=Ми дуже вигідно взяли велику партію філе в томатозному соусі!
 
 
 # Brok
 ### Oh man, been months since I've had seafood!
-PC21_40_EXITVR2-3=Ох, скільки місяців я не їв морських дарів!
+PC21_40_EXITVR2-3=Ох, скільки місяців я не їв морської їжі!
 
 
 # Hedgehog
 ### If you beat all the challenges, I'll make sure you get some!
-PC21_40_EXITVR2-4=Якщо пройдете всі виклики, я подбаю, щоб вам перепало!
+PC21_40_EXITVR2-4=Якщо пройдете всі виклики, я подбаю, щоб вам трохи дісталось!
 
 
 # Brok
@@ -706,12 +706,12 @@ PC21_40_EXITVR2-5=Домовились!
 
 # Brok
 ### And if you need a cook, I'm right here!
-PC21_40_EXITVR2-6=А якщо тобі потрібен кухар - я тут!
+PC21_40_EXITVR2-6=А якщо вам потрібен кухар - я тут!
 
 
 # Hedgehog
 ### Erm... we'll see!
-PC21_40_EXITVR2-7=Ем... побачимо!
+PC21_40_EXITVR2-7=Е-е... побачимо!
 
 
 #----------------------------------------------------
@@ -732,7 +732,7 @@ PC21_50_EXITVR-3=Ця їжа холодна!
 
 # Frog
 ### That's because you've been talking instead of eating.
-PC21_50_EXITVR-4=Бо ви все говорили замість того, щоб їсти.
+PC21_50_EXITVR-4=Це тому, що ви все говорили замість того, щоб їсти.
 
 
 # Backclient
@@ -742,7 +742,7 @@ PC21_50_EXITVR-5=Яка нахабність!
 
 # Backclient
 ### Here's your money, but don't expect me to come back!
-PC21_50_EXITVR-6=Ось твої гроші, але більше мене тут не побачиш!
+PC21_50_EXITVR-6=Ось ваші гроші, але більше мене тут не побачите!
 
 
 #----------------------------------------------------
@@ -758,13 +758,13 @@ PC21_50_EXITVR2-2=Я роблю послугу всім нам.
 
 # Frog
 ### Believe me, you don't want clients like this.
-PC21_50_EXITVR2-3=Повір, тобі не потрібні такі клієнти.
+PC21_50_EXITVR2-3=Повір, нікому не потрібні такі клієнти.
 
 
 #----------------------------------------------------
 # Hedgehog - Exit VR cabin after a few challenges - Puzzles does a mistake in front of a client
 ### There you go, sir! Enjoy your...
-PC21_120_EXITVR-1=Ось, пане! Смачного...
+PC21_120_EXITVR-1=Ось, пане! Смачно-о...
 
 
 # Backclient
@@ -779,7 +779,7 @@ PC21_120_EXITVR-3=(Пляшка розбивається)
 
 # Hedgehog
 ### Oh no... my hand slipped.
-PC21_120_EXITVR-4=Ой лишенько... рука зісковзнула.
+PC21_120_EXITVR-4=Ой лихо... рука зісковзнула.
 
 
 # Hedgehog
@@ -790,7 +790,7 @@ PC21_120_EXITVR-5=Перепрошую. Я зараз принесу іншу.
 #----------------------------------------------------
 # Hedgehog
 ### Boss... I'm sorry...
-PC21_120_EXITVR2-1=Босе... перепрошую...
+PC21_120_EXITVR2-1=Босе... вибачте...
 
 
 # Hedgehog
@@ -826,12 +826,12 @@ PC21_120_EXITVR2-7=Це твоя перша робота. Усі помиляю�
 
 # Frog
 ### That's what makes us human. If we wanted a bot, we would have one.
-PC21_120_EXITVR2-8=Оце й робить нас людьми. Якби ми хотіли бота, ми б його взяли.
+PC21_120_EXITVR2-8=Ось це і робить нас людьми. А якби ми хотіли бота, ми б його вже давно взяли.
 
 
 # Frog
 ### We chose you because we believe in you.
-PC21_120_EXITVR2-9=Ми обрали тебе, бо віримо в тебе.
+PC21_120_EXITVR2-9=Ми обрали тебе, бо віримо в твої сили.
 
 
 # Hyena
@@ -851,23 +851,23 @@ PC21_120_EXITVR2-12=Дякую.
 
 # Hedgehog
 ### Okay! Then I'll do my best!
-PC21_120_EXITVR2-13=Гаразд! Тоді я викладуся на повну!
+PC21_120_EXITVR2-13=Гаразд! Тоді я докладу всіх зусиль!
 
 
 #----------------------------------------------------
 # Frog
 ### Well, I still need to account for this loss.
-PC21_120_EXITVR3-1=Але цю втрату мені все одно треба провести по обліку.
+PC21_120_EXITVR3-1=Ну, мені все одно доведеться внести цю втрату в наш облік.
 
 
 # Frog
 ### Guess I'll deduct it from your salary, 'Jaw.
-PC21_120_EXITVR3-2=Тож відрахую з твоєї зарплатні, Лепку.
+PC21_120_EXITVR3-2=Тож відрахую її з твоєї зарплатні, 'Лепко.
 
 
 # Hyena
 ### Urgh...
-PC21_120_EXITVR3-3=Гр-р...
+PC21_120_EXITVR3-3=Ух-х...
 
 
 #----------------------------------------------------
@@ -878,17 +878,17 @@ PC21_130_ENTERVR-1=...
 
 # Brok
 ### Wait a minute...
-PC21_130_ENTERVR-2=Стривай-но...
+PC21_130_ENTERVR-2=Чекайте...
 
 
 # Brok
 ### What's going on? It's all glitched out!
-PC21_130_ENTERVR-3=Що коїться? Усе глючить!
+PC21_130_ENTERVR-3=Що сталося? Усе глючить!
 
 
 # Hedgehog
 ### Oh no. It's happening again.
-PC21_130_ENTERVR-4=Ой лихо. Це знову.
+PC21_130_ENTERVR-4=Ой лихо. Знову воно.
 
 
 # Hedgehog
@@ -903,7 +903,7 @@ PC21_130_ENTERVR-6=Вірус?
 
 # Hedgehog
 ### Quick, choose any previous challenge and win it!
-PC21_130_ENTERVR-7=Швидше, виберіть якийсь старий виклик і переможіть!
+PC21_130_ENTERVR-7=Швидше, виберіть якийсь старий виклик і здобудьте перемогу!
 
 
 # Brok
@@ -918,7 +918,7 @@ PC21_130_ENTERVR-9=Буде гірше, якщо нічого не робити!
 
 # Brok
 ### How?
-PC21_130_ENTERVR-10=Як?
+PC21_130_ENTERVR-10=Тобто?
 
 
 # Hedgehog
@@ -944,12 +944,12 @@ PC21_130_BUGNEW-2=Якщо почнете новий, зруйнується п�
 
 # Brok
 ### Aren't you exaggerating?
-PC21_130_BUGNEW-3=Ти не перебільшуєш?
+PC21_130_BUGNEW-3=А ти не перебільшуєш?
 
 
 # Hedgehog
 ### You're gonna try to anyway?
-PC21_130_BUGNEW-4=Ви все одно спробуєте?
+PC21_130_BUGNEW-4=Ви все одно спробуєте, так?
 
 
 # Brok
@@ -959,13 +959,13 @@ PC21_130_BUGNEW-5=...так?
 
 # Hedgehog
 ### Good thing I blocked that option, then.
-PC21_130_BUGNEW-6=Добре, що я заблокував цю опцію.
+PC21_130_BUGNEW-6=Тоді добре, що я заблокував цю опцію.
 
 
 #----------------------------------------------------
 # Hedgehog
 ### Oh no, the virus is still spreading.
-PC21_130_BUGNOPE-1=Ой ні, вірус досі поширюється.
+PC21_130_BUGNOPE-1=О ні, вірус досі поширюється.
 
 
 # Hedgehog
@@ -975,7 +975,7 @@ PC21_130_BUGNOPE-2=Лізьте назад! Вам треба знову виг�
 
 # Brok
 ### I will, I will!
-PC21_130_BUGNOPE-3=Уже, уже!
+PC21_130_BUGNOPE-3=Ну добре, добре!
 
 
 #----------------------------------------------------
@@ -996,17 +996,17 @@ PC21_130_BUGAFTER-3=Тобто...
 
 # Hedgehog
 ### There never was one. All fabricated. Part of the challenge, if you will.
-PC21_130_BUGAFTER-4=Його ніколи не було. Усе вигадка. Скажімо, частина виклику.
+PC21_130_BUGAFTER-4=Його ніколи не було. Усе це вигадка. Скажімо, частина виклику.
 
 
 # Hedgehog
 ### It was my idea to spice things up! Did you like it?
-PC21_130_BUGAFTER-5=Це я придумав, щоб додати перцю! Сподобалось?
+PC21_130_BUGAFTER-5=Це я придумав, щоб додати трохи перцю! Сподобалось?
 
 
 # Brok
 ### Let me think...
-PC21_130_BUGAFTER-6=Дай подумати...
+PC21_130_BUGAFTER-6=Дай-но подумати...
 
 
 # Brok
@@ -1026,7 +1026,7 @@ PC21_130_BUGAFTER-9=Перепрошую. Я виправлюсь...
 
 # Brok
 ### Just gimme C-Tokens after this, and my opinion will change!
-PC21_130_BUGAFTER-10=Просто дай мені за це К-Жетонів, і моя думка зміниться!
+PC21_130_BUGAFTER-10=Даси мені кількадесят К-Жетонів, і я зміню свою думку!
 
 
 # Hedgehog
@@ -1058,7 +1058,7 @@ PC21_140_EXITVR-2=Я й не знав! Оце круто!
 #----------------------------------------------------
 # Brok
 ### What's going on?
-PC21_140_EXITVR2-1=Що тут коїться?
+PC21_140_EXITVR2-1=Що таке?
 
 
 # Hedgehog
@@ -1091,18 +1091,18 @@ PC21_140_EXITVR3-4=Хіба це не Гострозуб Крадій?
 
 # Hedgehog
 ### Oh my god, I would soooo freak out to meet a legend like him!
-PC21_140_EXITVR3-5=Ой леле, я б таааак збожеволів від зустрічі з такою легендою!
+PC21_140_EXITVR3-5=Ой леле, я б та-аак збожеволів від зустрічі з цією легендою!
 
 
 # Hedgehog
 ### Why the long face, boss?
-PC21_140_EXITVR3-6=Чого такі похмурі, босе?
+PC21_140_EXITVR3-6=Чого ви такий похмурий, босе?
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### I've made mistakes and have regrets, Puzzles. You'll understand when you're older.
-PC21_140_EXITVR3-7=Я робив помилки і маю за що жалкувати, Пазлс. Зрозумієш, коли підростеш.
+PC21_140_EXITVR3-7=Я наробив помилок і маю за що жалкувати, Пазлсе. Зрозумієш, коли підростеш.
 
 
 # Hedgehog
@@ -1117,12 +1117,12 @@ PC21_140_EXITVR3-9=Я хочу стати сильним, як ви, і бити
 
 # Hedgehog
 ### And have a metal jaw! That rocks!
-PC21_140_EXITVR3-10=І мати металеву щелепу! Оце круто!
+PC21_140_EXITVR3-10=І мати металеву щелепу! Це круто!
 
 
 # Hyena
 ### You might not want that, though.
-PC21_140_EXITVR3-11=Хоча, можливо, тобі цього не треба.
+PC21_140_EXITVR3-11=На твоєму місті я б цього не хотів.
 
 
 # Hyena
@@ -1170,7 +1170,7 @@ PC21_150_EXITVR2-3=Клієнт пішов, не заплативши.
 
 # Hedgehog
 ### I'm super sorry. They didn't leave me with time to react.
-PC21_150_EXITVR2-4=Дуже перепрошую. Вони не дали мені й секунди.
+PC21_150_EXITVR2-4=Я дуже перепрошую. У мене не було достатньо часу, щоб зреагувати.
 
 
 # Frog
@@ -1181,12 +1181,12 @@ PC21_150_EXITVR2-5=Це не твоя провина, сонечко.
 # Frog
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### We're in the Slums. There are some bad seeds.
-PC21_150_EXITVR2-6=Ми в Нетрях. Тут трапляються покидьки.
+PC21_150_EXITVR2-6=Ми в Нетрях. Тут трапляються всілякі гнилі яблука.
 
 
 # Frog
 ### I told you, we need to ask payment before serving!
-PC21_150_EXITVR2-7=Я ж казала: треба брати гроші до того, як подавати!
+PC21_150_EXITVR2-7=Я ж казала: треба брати гроші до того, як подавати їжу!
 
 
 # Hyena
@@ -1196,7 +1196,7 @@ PC21_150_EXITVR2-8=Я не хочу так вести справу, і ти це
 
 # Hyena
 ### Some badly behaved individuals should not make things worse for everyone else.
-PC21_150_EXITVR2-9=Через кількох нахаб не повинно ставати гірше всім іншим.
+PC21_150_EXITVR2-9=Через кількох нахаб ми не маємо псувати життя всім іншим.
 
 
 # Hyena
@@ -1206,22 +1206,22 @@ PC21_150_EXITVR2-10=Слухай, я знаю того типа. Він живе
 
 # Hyena
 ### I'll talk to him after closing, okay?
-PC21_150_EXITVR2-11=Побалакаю з ним після закриття, гаразд?
+PC21_150_EXITVR2-11=Я побалакаю з ним після закриття, гаразд?
 
 
 # Frog
 ### Good luck with that. When they run this fast...
-PC21_150_EXITVR2-12=Щасти тобі. Коли вони так тікають...
+PC21_150_EXITVR2-12=Щасти тобі. Зазвичай, коли хтось так тікає...
 
 
 # Hyena
 ### You never know until you try!
-PC21_150_EXITVR2-13=Ніколи не знаєш, поки не спробуєш!
+PC21_150_EXITVR2-13=Ніколи не взнаєш, поки не спробуєш!
 
 
 # Frog
 ### Your optimism is, in equal parts, grating and motivating.
-PC21_150_EXITVR2-14=Твій оптимізм однаковою мірою дратує і надихає.
+PC21_150_EXITVR2-14=Твій оптимізм мене однаковою мірою дратує і надихає.
 
 
 #----------------------------------------------------
@@ -1237,7 +1237,7 @@ PC21_220_EXITVR-2=Ні!!!
 
 # Tribotcop
 ### Citizen. You've vandalized. This place.
-PC21_220_EXITVR-3=Громадянине. Ти пошкодив. Це місце.
+PC21_220_EXITVR-3=Громадянине. Ви вчинили вандалізм. В цьому місці.
 
 
 # Brok
@@ -1247,17 +1247,17 @@ PC21_220_EXITVR-4=Що?!
 
 # Brok
 ### What did you do, you insane contraptions???
-PC21_220_EXITVR-5=Що ви наробили, божевільні механізми???
+PC21_220_EXITVR-5=Що ви накоїли, божевільні машини???
 
 
 # Tribotcop
 ### Pay. Now...
-PC21_220_EXITVR-6=Плати. Негайно...
+PC21_220_EXITVR-6=Платіть. Негайно...
 
 
 # Tribotcop
 ### ...or be destroyed.
-PC21_220_EXITVR-7=...або тебе знищать.
+PC21_220_EXITVR-7=...або вас знищать.
 
 
 # Brok
@@ -1267,13 +1267,13 @@ PC21_220_EXITVR-8=Це ви зараз заплатите!!!
 
 # Brok
 ### I will avenge you... everyone!!!
-PC21_220_EXITVR-9=Я за вас помщуся... за всіх!!!
+PC21_220_EXITVR-9=Я помщуся за вас... за всіх!!!
 
 
 #----------------------------------------------------
 # Brok - After that fight
 ### Sigh...
-PC21_220_EXITVR2-1=Зітхає...
+PC21_220_EXITVR2-1=(Зітхає...)
 
 
 # Brok
@@ -1283,12 +1283,12 @@ PC21_220_EXITVR2-2=Цього... не може бути!
 
 # Brok
 ### If only...
-PC21_220_EXITVR2-3=Якби ж то...
+PC21_220_EXITVR2-3=Якби тільки...
 
 
 # Brok
 ### I should have...
-PC21_220_EXITVR2-4=Треба було...
+PC21_220_EXITVR2-4=Слід було...
 
 
 #----------------------------------------------------
@@ -1305,7 +1305,7 @@ PC21_220_EXITVR2B-2=Га...?
 #----------------------------------------------------
 # Brok - Everything back to normal
 ### The heck? What just happened?!
-PC21_220_EXITVR3-1=Що за дідько? Що взагалі сталося?!
+PC21_220_EXITVR3-1=Якого біса? Що взагалі сталося?!
 
 
 # Hedgehog
@@ -1315,17 +1315,17 @@ PC21_220_EXITVR3-2=Гмм...?
 
 # Hedgehog
 ### Oh! Right. You did that challenge.
-PC21_220_EXITVR3-3=А! Точно. Ви ж пройшли той виклик.
+PC21_220_EXITVR3-3=А! Точно. Ви пройшли ТОЙ виклик.
 
 
 # Brok
 ### That was fake?!
-PC21_220_EXITVR3-4=Це було несправжнє?!
+PC21_220_EXITVR3-4=То все це не було насправді?!
 
 
 # Brok
 ### I thought... I thought you were...!
-PC21_220_EXITVR3-5=Я думав... Я думав, ти...!
+PC21_220_EXITVR3-5=Я думав... Я думав, ви...!
 
 
 # Hedgehog
@@ -1335,17 +1335,17 @@ PC21_220_EXITVR3-6=Знаю! Чудова симуляція, еге ж?
 
 # Hedgehog
 ### How do you behave against near-certain death?
-PC21_220_EXITVR3-7=Як ви поводитеся перед майже неминучою смертю?
+PC21_220_EXITVR3-7=Як ви поводитеся перед неминучою смертю?
 
 
 # Hedgehog
 ### No better way to find out than tricking players into thinking this is real!
-PC21_220_EXITVR3-8=Кращого способу не знайти, ніж змусити гравців повірити, що це насправді!
+PC21_220_EXITVR3-8=Кращого способу не знайти, ніж змусити гравців повірити, що це відбувається насправді!
 
 
 # Hedgehog
 ### You wouldn't believe how many run away.
-PC21_220_EXITVR3-9=Ви не повірите, скільки людей тікає.
+PC21_220_EXITVR3-9=Ви б не повірили, скільки людей починає тікати.
 
 
 # Hedgehog
@@ -1370,12 +1370,12 @@ PC21_220_EXITVR3-13=Не роби так більше! Ніколи!
 
 # Hedgehog
 ### You care that much about us?
-PC21_220_EXITVR3-14=Вам аж настільки на нас не байдуже?
+PC21_220_EXITVR3-14=Вам аж настільки до нас не байдуже?
 
 
 # Brok
 ### Of course I do! Even if you're a sicko!
-PC21_220_EXITVR3-15=Звісно! Навіть якщо ти хворий на голову!
+PC21_220_EXITVR3-15=Звісно! Попри те, що ти такий хворий!
 
 
 # Hedgehog
@@ -1386,7 +1386,7 @@ PC21_220_EXITVR3-16=Ой, це так мило!
 #----------------------------------------------------
 # Frog - Bartenders discussing a strange order
 ### Hey, 'Jaw. What is this?
-PC21_230_EXITVR-1=Гей, Лепку. Що це?
+PC21_230_EXITVR-1=Гей, 'Лепко. Що це?
 
 
 # Hyena
@@ -1411,7 +1411,7 @@ PC21_230_EXITVR-5=Гарне питання. Половина стерта.
 
 # Frog
 ### Sha..o... Quantity: 100. Ordered yesterday.
-PC21_230_EXITVR-6=Ша..о... Кількість: 100. Замовлено вчора.
+PC21_230_EXITVR-6=Ша..н... Кількість: 100. Замовлено вчора.
 
 
 # Hyena
@@ -1432,7 +1432,7 @@ PC21_230_EXITVR2-2=Ось! Ваші сто шампунів.
 
 # Unknown
 ### Don't forget my part of the trade! Ciao!
-PC21_230_EXITVR2-3=Не забудьте мою частку! Бувайте!
+PC21_230_EXITVR2-3=Не забудьте про мою частку! Бувайте!
 
 
 # Hyena
@@ -1462,7 +1462,7 @@ PC21_230_EXITVR2-8=Що? Що?!
 
 # Iguana
 ### You know my hair is sensitive, I need these. And they were half price with a bulk order!
-PC21_230_EXITVR2-9=Ти ж знаєш, моє волосся чутливе, мені це потрібно. І вони були за пів ціни при оптовому замовленні!
+PC21_230_EXITVR2-9=Ти ж знаєш, моє волосся чутливе, мені це потрібно. А вони були за пів ціни при оптовому замовленні!
 
 
 # Hyena
@@ -1473,7 +1473,7 @@ PC21_230_EXITVR2-10=Айві...
 
 # Iguana
 ### Besides, my girl also loves that "Fresh Stix Island" flavor and...
-PC21_230_EXITVR2-11=Крім того, моя дівчина обожнює цей смак "Фреш Стікс Айленд" і...
+PC21_230_EXITVR2-11=Крім того, моя дівчина теж обожнює аромат "Свіжість острова Стікс" і...
 
 
 # Hyena
@@ -1484,7 +1484,7 @@ PC21_230_EXITVR2-12=Айві!
 
 # Iguana
 ### I know, I know! "Not with the business account."
-PC21_230_EXITVR2-13=Знаю, знаю! "Не з рахунку бізнесу."
+PC21_230_EXITVR2-13=Знаю, знаю! "Не з використовувати рахунок бізнесу."
 
 
 # Iguana
@@ -1504,7 +1504,7 @@ PC21_230_EXITVR2-16=Та годі, ти нестерпний! Я пішла.
 
 # Iguana
 ### Besides... oh gosh, I'm late!
-PC21_230_EXITVR2-17=Крім того... ой леле, я запізнююсь!
+PC21_230_EXITVR2-17=До того ж... ой-ой, я запізнююсь!
 
 
 # Frog
@@ -1519,12 +1519,12 @@ PC21_230_EXITVR2-19=Діти.
 
 # Frog
 ### Counting on you to clean up this mess.
-PC21_230_EXITVR2-20=Розраховую на тебе - прибери цей безлад.
+PC21_230_EXITVR2-20=Розраховую на тебе - очисти цю кімнату від безладу.
 
 
 # Frog
 ### Get it...? "Clean?"
-PC21_230_EXITVR2-21=Дійшло...? "Прибрати"?
+PC21_230_EXITVR2-21=Дійшло...? "Очисти"?
 
 
 # Hyena
@@ -1556,12 +1556,12 @@ PC21_240_EXITVR-3=Ти маєш кепський вигляд.
 
 # Hedgehog
 ### (Cough, cough)
-PC21_240_EXITVR-4=(Кахи-кахи)
+PC21_240_EXITVR-4=(Кашляє)
 
 
 # Brok
 ### Oh no...
-PC21_240_EXITVR-5=Ой лихо...
+PC21_240_EXITVR-5=О ні...
 
 
 # Brok
@@ -1572,44 +1572,44 @@ PC21_240_EXITVR-6=Смог?
 
 # Hedgehog
 ### You guessed right.
-PC21_240_EXITVR-7=Угадали.
+PC21_240_EXITVR-7=Ви вгадали.
 
 
 # Hedgehog
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### It's not as bad down here, but I haven't had a Toxout in almost two days...
-PC21_240_EXITVR-8=Тут, унизу, не так страшно, але я не вживав смогову пігулку майже два дні...
+PC21_240_EXITVR-8=Тут, унизу, не так страшно, проте я не вживав смогову пігулку майже два дні...
 
 
 # Brok
 ### That's no good...!
-PC21_240_EXITVR-9=Оце кепсько...!
+PC21_240_EXITVR-9=Кепські справи...!
 
 
 # Brok
 ### I... I'll try and find one!
-PC21_240_EXITVR-10=Я... я спробую дістати!
+PC21_240_EXITVR-10=Я... я спробую дістати пігулку!
 
 
 # Hedgehog
 ### Thanks, sir... (cough, cough)
-PC21_240_EXITVR-11=Дякую, пане... (кахи-кахи)
+PC21_240_EXITVR-11=Дякую, пане... (Кашляє)
 
 
 # Brok
 ### (I need to investigate...)
-PC21_240_EXITVR-12=(Треба це розслідувати...)
+PC21_240_EXITVR-12=(Треба розслідувати...)
 
 
 #----------------------------------------------------
 # Brok
 ### Are you holding up okay?
-PC21_240_HEDGEHOG1-1=Тримаєшся?
+PC21_240_HEDGEHOG1-1=Як тримаєшся?
 
 
 # Hedgehog
 ### (Cough, cough) Yeah... I'm okay...!
-PC21_240_HEDGEHOG1-2=(Кахи-кахи) Ага... я в порядку...!
+PC21_240_HEDGEHOG1-2=(Кашляє) Гаразд... усе нормально...!
 
 
 # Hedgehog
@@ -1619,18 +1619,18 @@ PC21_240_HEDGEHOG1-3=(Кашляє так, ніби от-от помре)
 
 # Brok
 ### No, you're not.
-PC21_240_HEDGEHOG1-4=Та ні, не помреш.
+PC21_240_HEDGEHOG1-4=Ні, не нормально.
 
 
 #----------------------------------------------------
 # Brok
 ### I'm sorry...
-PC21_240_HEDGEHOG2-1=Перепрошую...
+PC21_240_HEDGEHOG2-1=Вибач...
 
 
 # Brok
 ### I just can't find any. I'm the worst investigator ever.
-PC21_240_HEDGEHOG2-2=Ніяк не можу знайти. Я найгірший детектив у світі.
+PC21_240_HEDGEHOG2-2=Нічого не можу знайти. Я найгірший детектив у світі.
 
 
 # Hedgehog
@@ -1640,17 +1640,17 @@ PC21_240_HEDGEHOG2-3=Я... не знав... що ви детектив! (Каш�
 
 # Hedgehog
 ### That's so cool! (cough) I am such an idiot.
-PC21_240_HEDGEHOG2-4=Це так круто! (Кашляє) От я телепень.
+PC21_240_HEDGEHOG2-4=Це так круто! (Кашляє) Який я дурний.
 
 
 # Brok
 ### It doesn't matter! What matters is you!
-PC21_240_HEDGEHOG2-5=Це неважливо! Головне - ти!
+PC21_240_HEDGEHOG2-5=Це неважливо! Головне зараз - твій стан!
 
 
 # Hedgehog
 ### I'll be... (cough, cough) ...okay!
-PC21_240_HEDGEHOG2-6=Я... (Кашляє) ...оклигаю!
+PC21_240_HEDGEHOG2-6=Я... (Кашляє) ...впораюсь!
 
 
 # Brok
@@ -1660,7 +1660,7 @@ PC21_240_HEDGEHOG2-7=...
 
 # Brok
 ### Wait a minute. That glass next to you?
-PC21_240_HEDGEHOG2-8=Стривай. А що це за склянка біля тебе?
+PC21_240_HEDGEHOG2-8=Стривай. Що це за склянка біля тебе?
 
 
 # Hedgehog
@@ -1675,7 +1675,7 @@ PC21_240_HEDGEHOG2-10=...О!!!
 
 # Hedgehog
 ### I put one pill inside the other day (cough) and forgot to swallow it!
-PC21_240_HEDGEHOG2-11=Я оноді вкинув пігулку в склянку (Кашляє) і забув проковтнути!
+PC21_240_HEDGEHOG2-11=Я якось вкинув цю пігулку в склянку (Кашляє) і забув проковтнути!
 
 
 # Hedgehog
@@ -1690,7 +1690,7 @@ PC21_240_HEDGEHOG2-13=Ха! Мені вже краще!
 
 # Hedgehog
 ### See, you're a good investigator after all!
-PC21_240_HEDGEHOG2-14=Бачите, ви таки добрий детектив!
+PC21_240_HEDGEHOG2-14=Бачите, ви все-таки хороший детектив!
 
 
 # Brok
@@ -1707,20 +1707,20 @@ PC21_240_HEDGEHOG2-16=Годі гаяти час. Повертайтеся до 
 # Brok
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Not until I've found a pill for Puzzles!
-PC21_240_ANYTHING-1=Не раніше, ніж я знайду пігулку для Пазлса!
+PC21_240_ANYTHING-1=Ні, я маю знайти пігулку для Пазлса!
 
 
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### (Been a while. I should ask Puzzles how he's doing...)
-PC21_240_ANYTHINGAFTER-1=(Давно не бачились. Треба спитати Пазлса, як він.)
+PC21_240_ANYTHINGAFTER-1=(Пройшло багатенько часу. Треба спитати Пазлса, як він.)
 
 
 #----------------------------------------------------
 # Brok
 ### No... I don't have time to look outside. There has to be one in the bar.
-PC21_240_LEAVE-1=Ні... Нема часу шукати зовні. У барі неодмінно має бути.
+PC21_240_LEAVE-1=Ні... Нема часу шукати зовні. У барі неодмінно має бути пігулка.
 
 
 #----------------------------------------------------
@@ -1734,7 +1734,7 @@ PC21_240_TALK-1=Гей, я шукаю смогову пігулку!
 #----------------------------------------------------
 # Brok
 ### I was hoping but... Even now, it's closed.
-PC21_240_DOORLEFT-1=Я сподівався, але... Навіть зараз зачинено.
+PC21_240_DOORLEFT-1=Я дуже сподівався, але... Навіть зараз вони зачинені.
 
 
 #----------------------------------------------------
@@ -1745,23 +1745,23 @@ PC21_240_DOORRIGHT-1=Гмм...
 
 # Brok
 ### No pill there...
-PC21_240_DOORRIGHT-2=Там пігулки нема...
+PC21_240_DOORRIGHT-2=Тут немає пігулки...
 
 
 # Brok
 ### Maybe under the...
-PC21_240_DOORRIGHT-3=Може, під тим...
+PC21_240_DOORRIGHT-3=Може, під цим...
 
 
 # Brok
 ### Ewww!
-PC21_240_DOORRIGHT-4=Фу!
+PC21_240_DOORRIGHT-4=Фу-у!
 
 
 #----------------------------------------------------
 # Brok
 ### Nothin'... Save from the shame I feel for doing that...
-PC21_240_DOORRIGHT2-1=Нічого... Хіба що сором за те, що я туди поліз...
+PC21_240_DOORRIGHT2-1=Нічого... Хіба що тепер мені соромно, що я туди поліз...
 
 
 #----------------------------------------------------
@@ -1772,24 +1772,24 @@ PC21_240_NEWSARTICLES1-1=О! На цьому фото є пігулка...
 
 # Brok
 ### Oh, wait. That's just chewing gum.
-PC21_240_NEWSARTICLES1-2=О, стривай. Це просто жуйка.
+PC21_240_NEWSARTICLES1-2=О, чекайте. Це просто жуйка.
 
 
 #----------------------------------------------------
 # Brok
 ### This doesn't distribute pills!
-PC21_240_SINK1-1=Це не видає пігулок!
+PC21_240_SINK1-1=Він не видає пігулок!
 
 
 #----------------------------------------------------
 # Brok
 ### I can't see well from down here, but that's no pill.
-PC21_240_EMBLEME1-1=Звідси знизу погано видно, але це не пігулка.
+PC21_240_EMBLEME1-1=Звідси знизу погано видно, але це точно не пігулка.
 
 
 # Brok
 ### It's not even anything, really.
-PC21_240_EMBLEME1-2=Та це взагалі ніщо.
+PC21_240_EMBLEME1-2=Власне, це взагалі ніщо.
 
 
 #----------------------------------------------------
@@ -1806,13 +1806,13 @@ PC21_240_KITCHENWARE1-2=Це надовго...
 #----------------------------------------------------
 # Unknown
 ### Three hours later...
-PC21_240_KITCHENWARE1B-1=Три години по тому...
+PC21_240_KITCHENWARE1B-1=Три години потому...
 
 
 #----------------------------------------------------
 # Brok
 ### I've searched everywhere. No pill.
-PC21_240_KITCHENWARE1C-1=Обшукав усе. Пігулки нема.
+PC21_240_KITCHENWARE1C-1=Я все обшукав. Пігулки нема.
 
 
 # Brok
@@ -1839,7 +1839,7 @@ PC21_240_AWARDS1B-1=...
 
 # Hyena
 ### Guess what?
-PC21_240_AWARDS1B-2=Угадай що?
+PC21_240_AWARDS1B-2=Вгадай що?
 
 
 # Brok
@@ -1876,7 +1876,7 @@ PC21_240_AWARDS1B-8=Дякую, пане! Але (Кашляє) залиште �
 #----------------------------------------------------
 # Brok
 ### That was useless.
-PC21_240_AWARDS2-1=Марно.
+PC21_240_AWARDS2-1=Це було марно.
 
 
 #----------------------------------------------------
@@ -1893,17 +1893,17 @@ PC21_240_HYENA1-2=Знаю! Він у нас хворий на всю голов
 
 # Brok
 ### No! I mean, he's pollution sick!
-PC21_240_HYENA1-3=Та ні! Я маю на увазі, він захворів через забруднення!
+PC21_240_HYENA1-3=Та ні! Я маю на увазі, він задихається від забруднення!
 
 
 # Hyena
 ### Oh oh... I already took the spare I had...
-PC21_240_HYENA1-4=Ой-ой... Я вже використав свою запасну...
+PC21_240_HYENA1-4=Ой-ой... Я вже використав свою запасну пігулку...
 
 
 # Hyena
 ### I could swear I had one in the bar the other day, but where was it?
-PC21_240_HYENA1-5=Можу заприсягтися, що оноді в барі була одна, але де саме?
+PC21_240_HYENA1-5=Можу заприсягтися, що десь в барі була одна, але де саме?
 
 
 # Brok
@@ -1948,12 +1948,12 @@ PC21_240_FROG1-3=...
 
 # Brok
 ### So?
-PC21_240_FROG1-4=То?
+PC21_240_FROG1-4=Ну?
 
 
 # Brok
 ### Any solution?
-PC21_240_FROG1-5=Є якийсь вихід?
+PC21_240_FROG1-5=Є якісь ідеї?
 
 
 # Frog
@@ -1976,12 +1976,12 @@ PC21_240_FROG2-1=Вона не допоможе.
 # Hyena - Bartenders discussing the future
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Bubbles, what's the future look like for you?
-PC21_250_EXITVR-1=Баблс, як ти бачиш своє майбутнє?
+PC21_250_EXITVR-1=Баблс, яким ти бачиш своє майбутнє?
 
 
 # Frog
 ### What brought this up?
-PC21_250_EXITVR-2=Звідки це?
+PC21_250_EXITVR-2=До чого це питання?
 
 
 # Hyena
@@ -2017,12 +2017,12 @@ PC21_250_EXITVR-8=А я б із задоволенням пішов на дос�
 # Frog
 # NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
 ### 'Jaw, don't confuse dreams and reality. Atlasia's beaches are dangerous and polluted.
-PC21_250_EXITVR-9=Лепку, не плутай мрії з реальністю. Пляжі Атлазії небезпечні й забруднені.
+PC21_250_EXITVR-9='Лепко, не плутай мрії з реальністю. Пляжі Атлазії небезпечні й забруднені.
 
 
 # Hyena
 ### Sadly. But what if...
-PC21_250_EXITVR-10=Шкода. Але що як...
+PC21_250_EXITVR-10=Шкода. Якби ж...
 
 
 # Hyena
@@ -2050,7 +2050,7 @@ PC21_250_EXITVR-14=Купола б уже не було, він став би н
 # Brok
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### I'd be living in a fully rebuilt Slums, so much so that we wouldn't call it that anymore!
-PC21_250_EXITVR-15=Я жив би в повністю відбудованих Нетрях - та настільки, що ми б уже й не називали їх так!
+PC21_250_EXITVR-15=Я жив би в повністю відбудованих Нетрях - настільки, що ми б їх уже так не називали!
 
 
 # Hyena
@@ -2066,7 +2066,7 @@ PC21_250_EXITVR-17=Оце так утопія! Ха-ха!
 #----------------------------------------------------
 # Brok - A new arcade machine installed in the bar
 ### Hey! That's new!
-PC21_ARCADEMACHINE1-1=Гей! Це новеньке!
+PC21_ARCADEMACHINE1-1=Гей! Це щось новеньке!
 
 
 # Hyena
@@ -2082,12 +2082,12 @@ PC21_ARCADEMACHINE1-3=Класно, га?
 #----------------------------------------------------
 # Hyena - After winning all the challenges in novice category
 ### Hey croc, congrats on beating the beginner challenges!
-PC21_BOSS1_UNLOCKED-1=Гей, крокодиле, вітаю - ти подолав початкові виклики!
+PC21_BOSS1_UNLOCKED-1=Гей, кроку, вітаю - ти подолав початкові виклики!
 
 
 # Brok
 ### Thanks! That was... a piece of cake!
-PC21_BOSS1_UNLOCKED-2=Дякую! Це було... легше легкого!
+PC21_BOSS1_UNLOCKED-2=Дякую! Це було... простіше простого!
 
 
 # Hyena
@@ -2102,7 +2102,7 @@ PC21_BOSS1_UNLOCKED-4=О, е-е... точно...!
 
 # Brok
 ### Well, what do I win?
-PC21_BOSS1_UNLOCKED-5=І що я виграю?
+PC21_BOSS1_UNLOCKED-5=І що я виграв?
 
 
 # Hyena
@@ -2112,12 +2112,12 @@ PC21_BOSS1_UNLOCKED-6=Тебе викликали на дуель!
 
 # Brok
 ### A challenger?!
-PC21_BOSS1_UNLOCKED-7=Кинули виклик?!
+PC21_BOSS1_UNLOCKED-7=Дуель?!
 
 
 # Hyena
 ### Yep! He's waiting over there!
-PC21_BOSS1_UNLOCKED-8=Ага! Він чекає он там!
+PC21_BOSS1_UNLOCKED-8=Ага! Твій супротивник чекає он там!
 
 
 #----------------------------------------------------
@@ -2133,7 +2133,7 @@ PC21_BOSS1_UNLOCKED2-2=Ну...
 
 # Clint
 ### Oh, sorry! I just realized, I've never given you my name.
-PC21_BOSS1_UNLOCKED2-3=О, вибач! Я щойно зрозумів, що досі не назвався.
+PC21_BOSS1_UNLOCKED2-3=О, вибач! Я щойно зрозумів, що досі не назвав своє ім'я.
 
 
 # Clint
@@ -2155,7 +2155,7 @@ PC21_BOSS1_UNLOCKED2-6=Брок. Та невже? Я теж був боксер�
 
 # Clint
 ### Oh yeah? That just confirms what I was thinking!
-PC21_BOSS1_UNLOCKED2-7=Та невже? Це лише підтверджує мою думку!
+PC21_BOSS1_UNLOCKED2-7=Справді? Це лише підтверджує мою думку!
 
 
 # Brok
@@ -2165,7 +2165,7 @@ PC21_BOSS1_UNLOCKED2-8=Га?
 
 # Clint
 ### Never mind. Let's fight!
-PC21_BOSS1_UNLOCKED2-9=Забудь. Біймося!
+PC21_BOSS1_UNLOCKED2-9=Забудь. Биймося!
 
 
 #----------------------------------------------------
@@ -2177,7 +2177,7 @@ PC21_BOSS1_LETSGO-1=Ну, поїхали!
 #----------------------------------------------------
 # Clint
 ### Don't make me wait! I'm excited for this!
-PC21_BOSS1_WAIT-1=Не змушуй мене чекати! Я вже не дочекаюся!
+PC21_BOSS1_WAIT-1=Швидше! Я вже не дочекаюся нашого бою!
 
 
 #----------------------------------------------------
@@ -2206,17 +2206,17 @@ PC21_BOSS1_TRYAGAIN-1=Готовий?
 #----------------------------------------------------
 # Clint
 ### Ooof, you're good!
-PC21_BOSS1_WIN-1=У-ух, ти майстер!
+PC21_BOSS1_WIN-1=У-ух, а ти майстер!
 
 
 # Clint
 ### That was like going back to the old days!
-PC21_BOSS1_WIN-2=Це як повернутися в давні часи!
+PC21_BOSS1_WIN-2=Я ніби повернувся в старі часи!
 
 
 # Clint
 ### Even more so, since this isn't our first fight.
-PC21_BOSS1_WIN-3=Тим паче, що це не наша перша бійка.
+PC21_BOSS1_WIN-3=Тим паче, це не перша наша бійка.
 
 
 # Brok
@@ -2226,13 +2226,13 @@ PC21_BOSS1_WIN-4=Га?
 
 # Clint
 ### Gonna settle myself in. Give me a shout when you want to talk!
-PC21_BOSS1_WIN-5=Піду влаштуюся. Гукни, коли схочеш поговорити!
+PC21_BOSS1_WIN-5=Я піду відпочину. Дай знати, коли захочеш поговорити!
 
 
 #----------------------------------------------------
 # Clint - Hitting Clint
 ### Woah! If you wanna duel, just tell me!
-PC21_CLINT_HIT1-1=Овва! Якщо хочеш дуель, то скажи!
+PC21_CLINT_HIT1-1=Овва! Якщо хочеш дуель, то так і скажи!
 
 
 #----------------------------------------------------
@@ -2245,12 +2245,12 @@ PC21_CLINT_HIT2-1=Гей, не тут, Броку.
 #----------------------------------------------------
 # Brok - After winning the intermediate challenges
 ### Ha! I'm on a roll today!
-PC21_BOSS2_UNLOCKED-1=Ха! У мене сьогодні все йде!
+PC21_BOSS2_UNLOCKED-1=Ха! Я сьогодні в ударі!
 
 
 # Brok
 ### These were tougher but nothing I can't handle.
-PC21_BOSS2_UNLOCKED-2=Ці були складніші, але мені до снаги.
+PC21_BOSS2_UNLOCKED-2=Ці виклики були складніші, але мені все до снаги.
 
 
 # Iguana
@@ -2265,7 +2265,7 @@ PC21_BOSS2_UNLOCKED-4=Га...? О. Привіт!
 
 # Iguana
 ### Let me introduce mys...
-PC21_BOSS2_UNLOCKED-5=Дозволь відрекомендуватися...
+PC21_BOSS2_UNLOCKED-5=Дозвольте предста...
 
 
 # Brok
@@ -2276,12 +2276,12 @@ PC21_BOSS2_UNLOCKED-6=Я Брок, приємно познайомитися!
 
 # Iguana
 ### I know! Very spectacular!
-PC21_BOSS2_UNLOCKED-7=Знаю! Дуже ефектно!
+PC21_BOSS2_UNLOCKED-7=Я знаю! Вражаюче!
 
 
 # Brok
 ### Fan of the spectacle, then?
-PC21_BOSS2_UNLOCKED-8=То ти фанатка видовищ?
+PC21_BOSS2_UNLOCKED-8=То ти фанатка цих видовищ?
 
 
 # Iguana
@@ -2306,22 +2306,22 @@ PC21_BOSS2_UNLOCKED-12=О, навіть не дивись на мене так.
 
 # Iguana
 ### You think women don't stand a chance against a tough guy like you?
-PC21_BOSS2_UNLOCKED-13=Думаєш, жінки не мають шансів проти такого крутого хлопця, як ти?
+PC21_BOSS2_UNLOCKED-13=Думаєш, жінки не мають шансів проти такого кремезного хлопця, як ти?
 
 
 # Brok
 ### No, I'm just surpr-
-PC21_BOSS2_UNLOCKED-14=Ні, я просто здиво-
+PC21_BOSS2_UNLOCKED-14=Та ні, я просто здиво-
 
 
 # Iguana
 ### Well, croc, I'm a wrestler-in-training. I can handle you!
-PC21_BOSS2_UNLOCKED-15=Ну, крокодиле, я борчиня-початківиця. Я з тобою впораюся!
+PC21_BOSS2_UNLOCKED-15=Що ж, кроку, я - реслерка-початківиця. Я з тобою впораюся!
 
 
 # Brok
 ### I said I wouldn't back down from a challenge. You're not an exception, lady!
-PC21_BOSS2_UNLOCKED-16=Я казав, що не відступаю від виклику. Ти не виняток, панно!
+PC21_BOSS2_UNLOCKED-16=Я казав, що не відступлю від жодного виклику. Ти - не виняток, пані!
 
 
 # Iguana
@@ -2331,7 +2331,7 @@ PC21_BOSS2_UNLOCKED-17=Чудово!
 
 # Iguana
 ### So, ready?
-PC21_BOSS2_UNLOCKED-18=То, готовий?
+PC21_BOSS2_UNLOCKED-18=То що, готовий?
 
 
 #----------------------------------------------------
@@ -2347,13 +2347,13 @@ PC21_BOSS2_LOSE-2=Я... просто не вклав усієї сили.
 
 # Iguana
 ### Riiight.
-PC21_BOSS2_LOSE-3=Ага, звісно.
+PC21_BOSS2_LOSE-3=Ага, зві-іісно.
 
 
 #----------------------------------------------------
 # Iguana
 ### Wanna have another shot?
-PC21_BOSS2_TRYAGAIN-1=Хочеш іще спробувати?
+PC21_BOSS2_TRYAGAIN-1=Хочеш спробувати ще разочок?
 
 
 #----------------------------------------------------
@@ -2374,23 +2374,23 @@ PC21_BOSS2_WIN-3=Твоя донька? Я не знав...
 
 # Hyena
 ### You bet! She takes after her mother.
-PC21_BOSS2_WIN-4=Ще й як! Вона вдалася в матір.
+PC21_BOSS2_WIN-4=Авжеж! Вона вдалася в матір.
 
 
 # Iguana
 ### Oh, come on. I wouldn't be here if not for you teaching me.
-PC21_BOSS2_WIN-5=Ой, та годі. Мене б тут не було, якби не ти мене тренував.
+PC21_BOSS2_WIN-5=Ой, та годі. Мене б тут не було, якби не твої тренування.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Ivy": "Айві"
 ### Ivy, tell me you'll stay for a while!
-PC21_BOSS2_WIN-6=Айві, скажи, що ти затримаєшся!
+PC21_BOSS2_WIN-6=Айві, скажи, що ти тут затримаєшся!
 
 
 # Iguana
 ### Just a bit. My part-time job starts in an hour.
-PC21_BOSS2_WIN-7=Ненадовго. Підробіток починається за годину.
+PC21_BOSS2_WIN-7=Може, трошки. Мій підробіток починається за годину.
 
 
 #----------------------------------------------------
@@ -2402,7 +2402,7 @@ PC21_290_EXITVR-1=Гей, Броку!
 
 # Hyena
 ### Amazing job, man! I can't believe you're almost through!
-PC21_290_EXITVR-2=Неймовірно! Не вірю, що ти майже все пройшов!
+PC21_290_EXITVR-2=Неймовірно, друже! Не вірю, що ти майже все пройшов!
 
 
 # Brok
@@ -2422,7 +2422,7 @@ PC21_290_EXITVR-5=Але це ще не все. Твій останній вик
 
 # Brok
 ### If I had to bet... another duel?
-PC21_290_EXITVR-6=Якби я закладався... Ще одна дуель?
+PC21_290_EXITVR-6=Ставлю на те, що... ще одна дуель?
 
 
 # Hyena
@@ -2444,17 +2444,17 @@ PC21_290_EXITVR-9=Коли будеш готовий, заходь у кабін
 # Brok - After winning boss fight against Sharpteeth
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### It... it's you, Sharpteeth! You're really here!
-PC21_BOSS3_WIN-1=Це... це ти, Гострозубе! Ти справді тут!
+PC21_BOSS3_WIN-1=Це... ти, Гострозубе! Ти справді тут!
 
 
 # Shark
 ### I am, man.
-PC21_BOSS3_WIN-2=Так, друже.
+PC21_BOSS3_WIN-2=Так, чуваче.
 
 
 # Shark - The player name will be added here. For voice acting just stop before saying the name.
 ### Or should I say...{name}!
-PC21_BOSS3_WIN-3=Чи, може, мені сказати...{name}!
+PC21_BOSS3_WIN-3=Або, може, краще сказати...{name}!
 
 
 # Brok
@@ -2464,7 +2464,7 @@ PC21_BOSS3_WIN-4=Я... я...!
 
 # Shark
 ### Take your time collecting your thoughts, man. ...Ooof, you've got iron in those fists...!
-PC21_BOSS3_WIN-5=Не поспішай, збери думки, друже. ...У-ух, у тебе залізні кулаки...!
+PC21_BOSS3_WIN-5=Не поспішай, збери думки, чуваче. ...У-ух, у тебе залізні кулаки...!
 
 
 # Shark
@@ -2485,7 +2485,7 @@ PC21_BOSS3_SHARP-1=Гарно ти мене дістав!
 
 # Brok
 ### Guess so. You were so slippery, at first I thought I would never hit you!
-PC21_BOSS3_SHARP-2=Мабуть. Ти такий слизький, що спершу я думав, ніколи не влучу!
+PC21_BOSS3_SHARP-2=Мабуть. Ти такий слизький, що спершу я думав, що ніколи не влучу!
 
 
 # Shark
@@ -2525,17 +2525,17 @@ PC21_BOSS3_SHARP-9=Я завжди хотів вийти проти тебе, н
 
 # Brok
 ### Never thought I'd actually meet you after quitting the boxing scene.
-PC21_BOSS3_SHARP-10=Ніколи не думав, що справді зустріну тебе, пішовши з боксу.
+PC21_BOSS3_SHARP-10=Ніколи не думав, що зустріну тебе після того, як пішов з боксу.
 
 
 # Brok
 ### And that I would win, on top of that!
-PC21_BOSS3_SHARP-11=І що до того ж переможу!
+PC21_BOSS3_SHARP-11=І тим паче я не думав, що переможу в бою!
 
 
 # Shark
 ### You never really quit though, right?
-PC21_BOSS3_SHARP-12=Але ж ти насправді не пішов, еге ж?
+PC21_BOSS3_SHARP-12=Але ж ти насправді не пішов з боксу, еге ж?
 
 
 # Brok
@@ -2545,17 +2545,17 @@ PC21_BOSS3_SHARP-13=Так.
 
 # Brok
 ### The fight pits got closed, but then I found out about those VR thingies.
-PC21_BOSS3_SHARP-14=Бійцівські ями зачинили, але потім я дізнався про ті VR-штуки.
+PC21_BOSS3_SHARP-14=Бійцівські ями зачинили, але потім я дізнався про ці VR-штучки.
 
 
 # Shark
 ### They're a suitable replacement to prevent real injuries.
-PC21_BOSS3_SHARP-15=Це гідна заміна, щоб не було справжніх травм.
+PC21_BOSS3_SHARP-15=Це гідна заміна, яка дозволяє уникнути реальних травм.
 
 
 # Shark
 ### But I still miss the days where you could really feel your opponent under your hands.
-PC21_BOSS3_SHARP-16=Але я досі сумую за часами, коли відчував суперника під руками.
+PC21_BOSS3_SHARP-16=Але я досі сумую за часами, коли ти міг дійсно відчути суперника під своїми руками.
 
 
 # Brok
@@ -2566,17 +2566,17 @@ PC21_BOSS3_SHARP-17=Згоден.
 #----------------------------------------------------
 # Hyena - Talking with Sharpeeth on a table
 ### Heyyyy, Sharp!
-PC21_BOSS3_SHARP2-1=О, Гострозубе!
+PC21_BOSS3_SHARP2-1=Ге-еей, Гострозубе!
 
 
 # Shark
 ### What's cooking, 'Jaw?
-PC21_BOSS3_SHARP2-2=Як справи, Лепку?
+PC21_BOSS3_SHARP2-2=Як справи, 'Лепко?
 
 
 # Hyena
 ### Here, your favorite. Supreme delice of worms!
-PC21_BOSS3_SHARP2-3=Ось твоє улюблене. Найвищий делікатес - черв'яки!
+PC21_BOSS3_SHARP2-3=Ось твоє улюблене. Найкращий делікатес - черв'яки!
 
 
 # Shark
@@ -2597,12 +2597,12 @@ PC21_BOSS3_SHARP2-6=Смачний мурахобургер!
 
 # Brok
 ### Hey! I thought you didn't have any!
-PC21_BOSS3_SHARP2-7=Гей! Я думав, у тебе їх нема!
+PC21_BOSS3_SHARP2-7=Гей! Я думав, у вас їх нема!
 
 
 # Hyena
 ### Yeah, well... I went out for a minute to get one from the closest vending machine. Ha!
-PC21_BOSS3_SHARP2-8=Ага, ну... Я на хвильку вибіг до найближчого автомата по нього. Ха!
+PC21_BOSS3_SHARP2-8=Ага, ну... Я на хвильку вибіг до найближчого торговельного автомата. Ха!
 
 
 # Hyena
@@ -2622,23 +2622,23 @@ PC21_BOSS3_SHARP2-11=Ви друзі?
 
 # Shark
 ### We sparred for a while. It feels like another life now.
-PC21_BOSS3_SHARP2-12=Ми якийсь час спарингували. Тепер це як інше життя.
+PC21_BOSS3_SHARP2-12=Ми якийсь час спарингували. А тепер це відчувається як інше життя.
 
 
 # Hyena
 ### It was.
-PC21_BOSS3_SHARP2-13=Так і було.
+PC21_BOSS3_SHARP2-13=Саме так.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### So! What do you think, Brok?
-PC21_BOSS3_SHARP2-14=То! Що скажеш, Броку?
+PC21_BOSS3_SHARP2-14=Ну? Що скажеш, Броку?
 
 
 # Brok
 ### Hmm... Very good! (eats)
-PC21_BOSS3_SHARP2-15=Гмм... Дуже смачно! (їсть)
+PC21_BOSS3_SHARP2-15=Гмм... Дуже добре! (Їсть)
 
 
 # Hyena
@@ -2648,18 +2648,18 @@ PC21_BOSS3_SHARP2-16=Бійка чи їжа?
 
 # Brok
 ### Both!
-PC21_BOSS3_SHARP2-17=І те, й те!
+PC21_BOSS3_SHARP2-17=І те, і те!
 
 
 # Shark
 # NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
 ### You... spilled some Tomatoze on your shirt.
-PC21_BOSS3_SHARP2-18=Ти... розлив томатозу на сорочку.
+PC21_BOSS3_SHARP2-18=Ти... розлив трохи томатози на сорочку.
 
 
 # Brok
 ### Oh yeah. (Slurp)
-PC21_BOSS3_SHARP2-19=Ага. (Сьорбає)
+PC21_BOSS3_SHARP2-19=Ага. (Злизує)
 
 
 # Brok
@@ -2669,7 +2669,7 @@ PC21_BOSS3_SHARP2-20=Виправив!
 
 # Hyena
 ### Ha! You're one of a kind, supercroc.
-PC21_BOSS3_SHARP2-21=Ха! Ти в нас один такий, суперкрокодиле.
+PC21_BOSS3_SHARP2-21=Ха! Ти в нас один такий, супер-кроку.
 
 
 # Hyena
@@ -2690,17 +2690,17 @@ PC21_BOSS3_SHARP3-2=Дролл, "село за морем".
 
 # Shark
 ### We had waterfalls as far as the eye could see.
-PC21_BOSS3_SHARP3-3=У нас були водоспади, доки сягало око.
+PC21_BOSS3_SHARP3-3=Водоспади були всюди, скільки сягало око.
 
 
 # Shark
 ### Ahhh, I miss it. Makes me regret my choice, sometimes.
-PC21_BOSS3_SHARP3-4=А-ах, сумую за ним. Часом жалкую про свій вибір.
+PC21_BOSS3_SHARP3-4=А-ах, сумую за цим місцем. Часом жалкую про свій вибір.
 
 
 # Brok
 ### Whaddya mean?
-PC21_BOSS3_SHARP3-5=Що ти маєш на увазі?
+PC21_BOSS3_SHARP3-5=Тобто?
 
 
 # Shark
@@ -2733,7 +2733,7 @@ PC21_BOSS3_SHARP3-10=Чому?
 
 # Brok
 ### What could possibly be better here than your homeland?
-PC21_BOSS3_SHARP3-11=Що тут може бути краще, ніж у тебе на батьківщині?
+PC21_BOSS3_SHARP3-11=Що тут могло б бути краще, ніж у твоїй батьківщині?
 
 
 # Shark
@@ -2754,7 +2754,7 @@ PC21_BOSS3_SHARP3-14=Я хотів від життя більшого, ніж в
 # Shark
 # NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
 ### I couldn't imagine never coming back to Atlasia. I was at the top of my career, and there was so much more to experience here.
-PC21_BOSS3_SHARP3-15=Я не міг уявити, що більше ніколи не повернуся до Атлазії. Я був на вершині кар'єри, і тут було ще стільки всього.
+PC21_BOSS3_SHARP3-15=Я не міг уявити, що більше ніколи не повернуся до Атлазії. Я був на вершині кар'єри, і тут було ще стільки всього, що я хотів спробувати.
 
 
 # Shark
@@ -2781,12 +2781,12 @@ PC21_BOSS3_SHARP3-19=Я не хотів, щоб мене переслідува�
 
 # Shark
 ### Time doesn't spare anyone. Nowadays, I have different priorities.
-PC21_BOSS3_SHARP3-20=Час не щадить нікого. Нині в мене інші пріоритети.
+PC21_BOSS3_SHARP3-20=Час не щадить нікого. Зараз в мене вже інші пріоритети.
 
 
 # Shark
 ### In particular, I am helping with a team to fix the radioactive leak issue.
-PC21_BOSS3_SHARP3-21=Зокрема, я з командою допомагаю розв'язати проблему радіоактивного витоку.
+PC21_BOSS3_SHARP3-21=Зокрема, разом з командою я намагаюся вирішити проблему радіоактивного витоку.
 
 
 # Brok
@@ -2796,7 +2796,7 @@ PC21_BOSS3_SHARP3-22=Що? Радіоактивний витік?
 
 # Shark
 ### Yeah. More precisely, Chloridum 13.
-PC21_BOSS3_SHARP3-23=Ага. Точніше, Хлорид-13.
+PC21_BOSS3_SHARP3-23=Ага. Якщо бути точнішим, Хлорид-13.
 
 
 # Shark
@@ -2812,12 +2812,12 @@ PC21_BOSS3_SHARP3-25=Це недалеко від того місця, де я �
 
 # Shark
 ### It's getting worse... Spreading.
-PC21_BOSS3_SHARP3-26=Стає гірше... Поширюється.
+PC21_BOSS3_SHARP3-26=Стає гірше... Воно поширюється.
 
 
 # Shark
 ### At this rate, the contamination will reach the inhabited sectors in a few months.
-PC21_BOSS3_SHARP3-27=Такими темпами забруднення дістанеться житлових секторів за кілька місяців.
+PC21_BOSS3_SHARP3-27=За кілька місяців забруднення дістанеться житлових секторів.
 
 
 # Brok
@@ -2827,32 +2827,32 @@ PC21_BOSS3_SHARP3-28=Чудово, ще більше клопотів...
 
 # Shark
 ### Sharks are naturally more resistant to Chloridum 13, so that's in part why I'm contributing.
-PC21_BOSS3_SHARP3-29=Акули від природи стійкіші до Хлориду-13, тож частково тому я й допомагаю.
+PC21_BOSS3_SHARP3-29=Акули від природи стійкіші до Хлориду-13, тож це одна з причин, чому я допомагаю.
 
 
 # Shark
 ### I'm no scientist. None of us really are.
-PC21_BOSS3_SHARP3-30=Я не вчений. Та й ніхто з нас, власне.
+PC21_BOSS3_SHARP3-30=Я не вчений. Власне, ніхто з нас.
 
 
 # Shark
 ### But we're doing what we can to build a dry screed, big enough to cover up all the area.
-PC21_BOSS3_SHARP3-31=Але ми робимо, що можемо, щоб звести суху стяжку, достатньо велику, щоб накрити всю ділянку.
+PC21_BOSS3_SHARP3-31=Але ми робимо все, щоб побудувати суху стяжку, достатньо велику, щоб покрити всю площу.
 
 
 # Brok
 ### I had no idea! I'll help ya!
-PC21_BOSS3_SHARP3-32=Я не знав! Я допоможу!
+PC21_BOSS3_SHARP3-32=Я й не знав! Я допоможу!
 
 
 # Shark
 ### Oh no, I'm sure you're already busy with your own issues.
-PC21_BOSS3_SHARP3-33=Ой ні, я певен, ти й так зайнятий своїми справами.
+PC21_BOSS3_SHARP3-33=О ні, я певен, ти й так вже зайнятий своїми справами.
 
 
 # Shark
 ### But you can pay us a visit someday!
-PC21_BOSS3_SHARP3-34=Але колись можеш нас відвідати!
+PC21_BOSS3_SHARP3-34=Але колись ти можеш нас відвідати!
 
 
 # Brok
@@ -2874,7 +2874,7 @@ PC21_BOSS3_SHARP3-37=Ще дивніше: можу заприсягтися, щ�
 
 # Shark
 ### It was late at night, and I still wonder if I was hallucinating.
-PC21_BOSS3_SHARP3-38=Була пізня ніч, і я досі гадаю, чи не привиділося мені.
+PC21_BOSS3_SHARP3-38=Була пізня ніч, і я досі гадаю, чи не марилося мені.
 
 
 # Shark
@@ -2890,7 +2890,7 @@ PC21_BOSS3_SHARP3-40=То чому б їм це робити? Може, хтос
 
 # Shark
 ### I have no idea.
-PC21_BOSS3_SHARP3-41=Уявлення не маю.
+PC21_BOSS3_SHARP3-41=Гадки не маю.
 
 
 # Brok
@@ -2910,7 +2910,7 @@ PC21_BOSS3_SHARP3-44=Не хочу й далі псувати настрій!
 
 # Shark
 ### Congrats, champ! That was fun!
-PC21_BOSS3_SHARP3-45=Вітаю, чемпіоне! Було весело!
+PC21_BOSS3_SHARP3-45=Вітаю, чемпіоне! Це було весело!
 
 
 # Shark
@@ -2935,7 +2935,7 @@ PC21_BOSS3_SHARP3-49=Дякую за бій, сподіваюся, ще зуст
 
 # Shark
 ### I'm sure we will!
-PC21_BOSS3_SHARP3-50=Я певен, що так!
+PC21_BOSS3_SHARP3-50=Певен, що так!
 
 
 #----------------------------------------------------
@@ -2961,7 +2961,7 @@ PC21_BOSS3_END-4=Ти пройшов усі виклики! Вітаю!
 
 # Brok
 ### I... I'm done?
-PC21_BOSS3_END-5=Я... я все?
+PC21_BOSS3_END-5=Я... закінчив?
 
 
 # Brok
@@ -2976,7 +2976,7 @@ PC21_BOSS3_END-7=А чого ти чекав?
 
 # Brok
 ### Dunno... to end with a bang?
-PC21_BOSS3_END-8=Не знаю... щоб усе закінчилося з тріском?
+PC21_BOSS3_END-8=Не знаю... щоб усе закінчилося на високій ноті?
 
 
 # Hyena
@@ -2986,7 +2986,7 @@ PC21_BOSS3_END-9=Ха!
 
 # Hyena
 ### Who said anything about ending? It's a new beginning for you!
-PC21_BOSS3_END-10=Хто казав про кінець? Для тебе це новий початок!
+PC21_BOSS3_END-10=А хто казав про кінець? Для тебе це новий початок!
 
 
 # Hyena
@@ -3001,23 +3001,23 @@ PC21_BOSS3_END-12=О... гаразд!
 
 # Brok
 ### I will!
-PC21_BOSS3_END-13=Неодмінно!
+PC21_BOSS3_END-13=Так і зроблю!
 
 
 #----------------------------------------------------
 # Armadillo - The enemies arrived for real in the bar
 ### There he is!
-PC21_ENDING_FINAL-1=Ось він!
+PC21_ENDING_FINAL-1=Ось і він!
 
 
 # Boxersnake
 ### You're done for, man!
-PC21_ENDING_FINAL-2=Тобі кінець, чоловіче!
+PC21_ENDING_FINAL-2=Тобі кінець, чуваче!
 
 
 # Hedgehog
 ### Those... gentlemen burst in here.
-PC21_ENDING_FINAL-3=Ті... панове увірвалися сюди.
+PC21_ENDING_FINAL-3=Ті... панове... увірвалися сюди.
 
 
 # Brok
@@ -3027,7 +3027,7 @@ PC21_ENDING_FINAL-4=Ого. Ви прийшли сюди? Через мене?!
 
 # Rooster
 ### Dang right we did!
-PC21_ENDING_FINAL-5=Атож, прийшли!
+PC21_ENDING_FINAL-5=Атож!
 
 
 # Bear
@@ -3042,7 +3042,7 @@ PC21_ENDING_FINAL-7=Чому?
 
 # Armadillo
 ### I was the champ of crushers. You've stained my reputation!
-PC21_ENDING_FINAL-8=Я був чемпіоном серед руйнівників. Ти заплямував мою репутацію!
+PC21_ENDING_FINAL-8=Я був чемпіоном. Ти заплямував мою репутацію!
 
 
 # Boxersnake
@@ -3052,7 +3052,7 @@ PC21_ENDING_FINAL-9=Ніхто мене не виб'є з рингу!
 
 # Bear
 ### I wanna feel your skin under my claws!
-PC21_ENDING_FINAL-10=Хочу відчути твою шкіру під кігтями!
+PC21_ENDING_FINAL-10=Хочу відчути твою шкіру під своїми кігтями!
 
 
 # Rooster
@@ -3067,17 +3067,17 @@ PC21_ENDING_FINAL-12=Гаразд-гаразд. Ну...
 
 # Brok
 ### If it's a fight you want... you're gonna get one!
-PC21_ENDING_FINAL-13=Якщо ви хочете бійки... то будете мати!
+PC21_ENDING_FINAL-13=Якщо ви хочете бійки... ви її отримаєте!
 
 
 # Hyena
 ### Okay. Just this once, I'll deactivate the Anti-Scuffle system.
-PC21_ENDING_FINAL-14=Гаразд. Лише цього разу я вимкну антибійкову систему.
+PC21_ENDING_FINAL-14=Гаразд. Лише цього разу я вимкну "антибійкову систему".
 
 
 # Hyena
 ### You better not destroy the furniture. Whoever does will pay for it!
-PC21_ENDING_FINAL-15=Краще не ламайте меблі. Хто зламає - той і заплатить!
+PC21_ENDING_FINAL-15=Тільки не ламайте меблі. Хто зламає - той заплатить!
 
 
 # Clint
@@ -3092,7 +3092,7 @@ PC21_ENDING_FINAL-17=Дякую, друже!
 
 # Hedgehog
 ### Can I join? Can I?!
-PC21_ENDING_FINAL-18=Можна мені? Можна?!
+PC21_ENDING_FINAL-18=А можна мені? Можна?!
 
 
 # Hyena
@@ -3102,7 +3102,7 @@ PC21_ENDING_FINAL-19=Ні.
 
 # Hedgehog
 ### Aww...
-PC21_ENDING_FINAL-20=Ой...
+PC21_ENDING_FINAL-20=Ох...
 
 
 #----------------------------------------------------
@@ -3123,7 +3123,7 @@ PC21_ENDING_FINAL3-3=Він зламав мені ніготь...
 
 # Bear
 ### (Cries) Ma... I need my mama...
-PC21_ENDING_FINAL3-4=(Плаче) Ма... Мені треба до мами...
+PC21_ENDING_FINAL3-4=(Плаче) Ма... Хочу до мами...
 
 
 # Rooster
@@ -3138,7 +3138,7 @@ PC21_ENDING_FINAL3-6=Ну, ви самі напросилися!
 
 # Clint
 ### (Pants) You all put up a good fight, if that's any consolation.
-PC21_ENDING_FINAL3-7=(Важко дихає) Ви всі добре билися, якщо це вас хоч трохи втішить.
+PC21_ENDING_FINAL3-7=(Важко дихає) Якщо це вас трохи втішить, всі ви добре билися.
 
 
 # Clint
@@ -3154,7 +3154,7 @@ PC21_ENDING_FINAL3-9=Хлопці. Згадайте, що ми казали пе
 
 # Boxersnake
 ### "If we can't defeat him, we'll crown him"
-PC21_ENDING_FINAL3-10="Якщо не поборемо його, то коронуємо"
+PC21_ENDING_FINAL3-10="Якщо не зможемо його побороти, ми його коронуємо"
 
 
 # Bear
@@ -3170,7 +3170,7 @@ PC21_ENDING_FINAL4-1=Усі: Ти неперевершений боєць!
 
 # Brok
 ### Say what?
-PC21_ENDING_FINAL4-2=Що ти кажеш?
+PC21_ENDING_FINAL4-2=Що-що?
 
 
 # Clint
@@ -3207,7 +3207,7 @@ PC21_HYENA_WELCOME1-1=Гей, чим можу допомогти?
 #----------------------------------------------------
 # Hyena
 ### What will it be?
-PC21_HYENA_WELCOME2-1=То що тобі?
+PC21_HYENA_WELCOME2-1=Хочеш щось замовити?
 
 
 #----------------------------------------------------
@@ -3231,7 +3231,7 @@ PC21_HYENA_HIT1-1=Не пощастило тобі. За роки я вироб�
 #----------------------------------------------------
 # Hyena
 ### Don't think you're the first one to try!
-PC21_HYENA_HIT2-1=Не думай, що ти перший, хто спробував!
+PC21_HYENA_HIT2-1=Не думай, що ти перший, хто це спробував!
 
 
 #----------------------------------------------------
@@ -3243,18 +3243,18 @@ PC21_HYENA_HIT3-1=Я ж казав. Я на пенсії.
 #----------------------------------------------------
 # Brok - Think about Tenderjaw
 ### (If he was a fighter, I might have encountered him before...)
-PC21_HYENA_THINK1-1=(Якби він був бійцем, я міг би його раніше зустріти...)
+PC21_HYENA_THINK1-1=(Якщо він був бійцем, можливо, я його вже раніше зустрічав...)
 
 
 # Brok
 ### (But I can't be sure. Ah...losing my memory is dreadful.)
-PC21_HYENA_THINK1-2=(Але я не певен. Ах... Втрачати пам'ять - це жах.)
+PC21_HYENA_THINK1-2=(Але я не певен. Ех... Втрачати пам'ять - жахливо.)
 
 
 #----------------------------------------------------
 # Brok - Free talk with Tenderjaw - Brok misheard and/or forgot the term.
 ### So, those sea coppers...
-PC21_HYENA_HELP1-1=То ті... ці-токени...
+PC21_HYENA_HELP1-1=То ці... кежетони?
 
 
 # Hyena
@@ -3274,12 +3274,12 @@ PC21_HYENA_HELP1-4=Перемагай у викликах.
 
 # Hyena
 ### Victory'll get you a lot of C-Tokens, but you can also grind a few from destroying enemies, crates and more.
-PC21_HYENA_HELP1-5=За перемогу отримаєш чимало К-Жетонів, але трохи можна назбирати й за знищених ворогів, ящики та інше.
+PC21_HYENA_HELP1-5=За перемогу ти отримаєш чимало К-Жетонів, а ще трохи можеш назбирати за знищених ворогів, ящики та інше.
 
 
 # Hyena
 ### Even from already completed challenges.
-PC21_HYENA_HELP1-6=Навіть із уже пройдених викликів.
+PC21_HYENA_HELP1-6=Навіть з викликів, які ти вже пройшов.
 
 
 # Hyena
@@ -3303,12 +3303,12 @@ PC21_HYENA_HELP1-9=Наші позивні.
 # Hyena
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Did you think we'd use our real names, Brok?
-PC21_HYENA_HELP1-10=А ти думав, ми будемо називатися справжніми іменами, Броку?
+PC21_HYENA_HELP1-10=А ти думав, ми назвемося справжніми іменами, Броку?
 
 
 # Brok
 ### Right... Hey...!
-PC21_HYENA_HELP1-11=Ага... Гей...!
+PC21_HYENA_HELP1-11=Ну так... Гей...!
 
 
 # Brok
@@ -3330,7 +3330,7 @@ PC21_HYENA_HELP1-14=Облишмо це. Я Щелепка. Сподіваюся
 #----------------------------------------------------
 # Brok
 ### This is kinda tough!
-PC21_HYENA_HELP2-1=Оце так непросто!
+PC21_HYENA_HELP2-1=Це нелегко!
 
 
 # Hyena
@@ -3340,7 +3340,7 @@ PC21_HYENA_HELP2-2=Знаю! Це я придумав ці виклики!
 
 # Frog
 ### (What... taking all the credit from us again, naturally...)
-PC21_HYENA_HELP2-3=(Що... знову собі всю славу приписує, певна річ...)
+PC21_HYENA_HELP2-3=(Що... як завжди, приписує всю славу собі...)
 
 
 # Hyena
@@ -3355,17 +3355,17 @@ PC21_HYENA_HELP2-5=Пропустити їх.
 
 # Hyena
 ### I mean, yes, you can... if you're ready to fork out a hefty number of your hard-earned C-Tokens.
-PC21_HYENA_HELP2-6=Ну, так, можна... якщо готовий викласти чималу купу своїх кровно зароблених К-Жетонів.
+PC21_HYENA_HELP2-6=Ну, так, можна... якщо ти викладеш чималу купу своїх кровно зароблених К-Жетонів.
 
 
 # Frog
 ### Just lower the difficulty in the options. Like all losers do.
-PC21_HYENA_HELP2-7=Або просто знизь складність у налаштуваннях. Як усі невдахи.
+PC21_HYENA_HELP2-7=Або можеш знизити складність у налаштуваннях. Як усі невдахи.
 
 
 # Brok
 ### (Way to go and make me feel insecure about asking...)
-PC21_HYENA_HELP2-8=(От дякую, тепер я почуваюся ніяково, що взагалі спитав...)
+PC21_HYENA_HELP2-8=(Дякую, тепер я втратив свою впевненість...)
 
 
 # Frog
@@ -3375,7 +3375,7 @@ PC21_HYENA_HELP2-9=А переможці користуються розумні
 
 # Frog
 ### Select it from the challenges menu. They're one-time use, but you keep it until you win the challenge.
-PC21_HYENA_HELP2-10=Обирай у меню викликів. Вони одноразові, але залишаються в тебе, доки не пройдеш виклик.
+PC21_HYENA_HELP2-10=Обирай її у меню викликів. VR-їжа одноразова, але залишається в тебе, доки не пройдеш виклик.
 
 
 # Frog
@@ -3390,12 +3390,12 @@ PC21_HYENA_HELP2-12=У тебе ж є друзі, так?
 
 # Brok
 ### Well, yeah, of course!
-PC21_HYENA_HELP2-13=Ну, аякже, звісно!
+PC21_HYENA_HELP2-13=Ну, аякже!
 
 
 # Brok
 ### You are!
-PC21_HYENA_HELP2-14=Це ж ти!
+PC21_HYENA_HELP2-14=Ви обоє!
 
 
 # Hyena
@@ -3410,7 +3410,7 @@ PC21_HYENA_HELP2-16=Серйозно, чоловіче, не переймайс�
 
 # Hyena
 ### Don't go busting our hardware because you died ten times in a row! That's life.
-PC21_HYENA_HELP2-17=Тільки не трощи наше обладнання, бо вмер десять разів підряд! Таке життя.
+PC21_HYENA_HELP2-17=Тільки не трощи наше обладнання, якщо помреш десять разів підряд! Таке життя.
 
 
 # Hyena
@@ -3431,12 +3431,12 @@ PC21_HYENA_HELP3-2=Їх три: "Новачок", "Боєць" і "Профі".
 
 # Hyena
 ### Complete all challenges in the category to progress to the next one.
-PC21_HYENA_HELP3-3=Пройди всі виклики категорії, щоб перейти до наступної.
+PC21_HYENA_HELP3-3=Пройди всі виклики поточної категорії, щоб перейти до наступної.
 
 
 # Frog
 ### Skip the ones you're stuck on when you're hopeless.
-PC21_HYENA_HELP3-4=Пропускай ті, на яких застряг, якщо вже зовсім безнадійно.
+PC21_HYENA_HELP3-4=Пропускай ті, на яких застряг, якщо все вже зовсім безнадійно.
 
 
 # Hyena
@@ -3504,7 +3504,7 @@ PC21_HYENA_WELCOMEFIRST-5=По-друге, прочитай ось це.
 
 # Brok
 ### Err...
-PC21_HYENA_WELCOMEFIRST-6=Ем...
+PC21_HYENA_WELCOMEFIRST-6=Е-е...
 
 
 # Brok
@@ -3529,49 +3529,49 @@ PC21_HYENA_WELCOMEFIRST-10=Наше гасло.
 
 # Brok
 ### That's ridiculous.
-PC21_HYENA_WELCOMEFIRST-11=Та це ж безглуздо.
+PC21_HYENA_WELCOMEFIRST-11=Це ж безглуздо.
 
 
 # Hyena
 ### We all do what we have to survive out here, man.
-PC21_HYENA_WELCOMEFIRST-12=Тут кожен робить те, що мусить, аби вижити, чоловіче.
+PC21_HYENA_WELCOMEFIRST-12=Чуваче, тут кожен робить те, що мусить, аби вижити.
 
 
 # Hyena
 ### Even if we wanted to, this place is fully soundproof. No one can hear us, and we can't hear the street above either.
-PC21_HYENA_WELCOMEFIRST-13=Навіть якби ми хотіли, це місце повністю звукоізольоване. Нас ніхто не чує, і ми не чуємо вулицю зверху.
+PC21_HYENA_WELCOMEFIRST-13=До того ж, це місце повністю звукоізольоване. Нас ніхто не чує, і ми не чуємо вулицю зверху.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "The Haze": "Смог"
 ### If anything, being this far underground has helped people stay clear from the Haze.
-PC21_HYENA_WELCOMEFIRST-14=Якщо вже на те, то глибина під землею допомогла людям триматися подалі від Смогу.
+PC21_HYENA_WELCOMEFIRST-14=Якщо вже на те пішло, то глибина під землею допомогла нашим людям триматися подалі від Смогу.
 
 
 # Hyena
 ### That alone has probably saved more folks than you might think.
-PC21_HYENA_WELCOMEFIRST-15=Саме це, мабуть, урятувало більше людей, ніж ти думаєш.
+PC21_HYENA_WELCOMEFIRST-15=Лише це, мабуть, урятувало більше людей, ніж ти думаєш.
 
 
 # Brok
 ### If you say so. I, on the other hand, prefer to act!
-PC21_HYENA_WELCOMEFIRST-16=Як скажеш. А я, зі свого боку, волію діяти!
+PC21_HYENA_WELCOMEFIRST-16=Як скажеш. А я, навпаки, волію діяти!
 
 
 # Hyena
 ### Good for you, supercroc.
-PC21_HYENA_WELCOMEFIRST-17=Молодець, суперкрокодиле.
+PC21_HYENA_WELCOMEFIRST-17=Молодець, супер-кроку.
 
 
 #----------------------------------------------------
 # Brok
 ### Ya know, for a "brawl bar" I was expecting more... brawling among the customers.
-PC21_HYENA_WELCOMESECOND-1=Знаєш, від "бійцівського бару" я очікував більше... бійок між відвідувачами.
+PC21_HYENA_WELCOMESECOND-1=Знаєш, від "бійцівського бару" я очікував більше... бійок серед відвідувачів.
 
 
 # Hyena
 ### First, this is the "CounterAttack Bar". You must have imagined that name!
-PC21_HYENA_WELCOMESECOND-2=По-перше, це бар "Контратака". Мабуть, ти цю назву сам вигадав!
+PC21_HYENA_WELCOMESECOND-2=По-перше, це бар "Контратака". Мабуть, цю назву ти сам вигадав!
 
 
 # Hyena
@@ -3601,12 +3601,12 @@ PC21_HYENA_WELCOMESECOND-7=Ага. Якщо обидва бійці згодні
 
 # Brok
 ### In the VR cabin? It'd be better in real life.
-PC21_HYENA_WELCOMESECOND-8=У VR-кабіні? У реальності було б краще.
+PC21_HYENA_WELCOMESECOND-8=У VR-кабіні? В реальності було б краще.
 
 
 # Hyena
 ### Not that I disagree, but I can't have this place turned into a wreck, ya know?
-PC21_HYENA_WELCOMESECOND-9=Я не те щоб проти, але я не можу дозволити рознести це місце вщент, розумієш?
+PC21_HYENA_WELCOMESECOND-9=Не те, щоб я був проти, але я не можу дозволити рознести це місце вщент, розумієш?
 
 
 # Hyena
@@ -3616,7 +3616,7 @@ PC21_HYENA_WELCOMESECOND-10=Хтозна, може, хтось тебе помі
 
 # Brok
 ### Oooh, I hope someone does. I won't back down from any challenge!
-PC21_HYENA_WELCOMESECOND-11=О, сподіваюся, хтось це зробить. Я не відступлю від жодного виклику!
+PC21_HYENA_WELCOMESECOND-11=Сподіваюся, хтось це зробить. Я не відступлю від жодного виклику!
 
 
 #----------------------------------------------------
@@ -3628,13 +3628,13 @@ PC21_HYENA_CHALLENGER1-1=Хто ці нові претенденти?
 # Hyena
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### The gang of four? Yeah, they're V.R. regulars from the Slums.
-PC21_HYENA_CHALLENGER1-2=Ті четверо? Ага, це завсідники VR з Нетрів.
+PC21_HYENA_CHALLENGER1-2=Ті четверо? Та, це постійні користувачі VR з Нетрів.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Boyd": "Бойд"
 ### There's Boyd, the macho rooster with a mechanical arm. 33 years old.
-PC21_HYENA_CHALLENGER1-3=Є Бойд - крутий півень із механічною рукою. 33 роки.
+PC21_HYENA_CHALLENGER1-3=Бойд - крутий півень із механічною рукою. 33 роки.
 
 
 # Hyena
@@ -3644,7 +3644,7 @@ PC21_HYENA_CHALLENGER1-4=Самовпевнений, задерикуватий 
 
 # Hyena
 ### Not very dangerous. Just watch out for his extendable arm. If you get grabbed, there's no escaping it.
-PC21_HYENA_CHALLENGER1-5=Не дуже небезпечний. Тільки стережися його висувної руки. Якщо вхопить - не вирвешся.
+PC21_HYENA_CHALLENGER1-5=Він не дуже небезпечний. Тільки стережися його висувної руки. Якщо вхопить - не вирвешся.
 
 
 # Hyena
@@ -3654,7 +3654,7 @@ PC21_HYENA_CHALLENGER1-6=Кажуть, це ніби протез, а справ
 
 # Hyena
 ### Don't tell him that, or you'll get lectured for hours on how and why he replaced it!
-PC21_HYENA_CHALLENGER1-7=Не кажи йому цього, бо дістанеш лекцію на кілька годин про те, як і чому він її замінив!
+PC21_HYENA_CHALLENGER1-7=Не кажи йому, бо дістанеш лекцію на кілька годин про те, як і чому він її замінив!
 
 
 # Hyena
@@ -3671,7 +3671,7 @@ PC21_HYENA_CHALLENGER2-1=А хто он той великий броненосе
 # Hyena
 # NB: Lexicon word in Ukrainian for "Matt": "Метт"
 ### Matt, a delivery guy in his forties. Also a jerk.
-PC21_HYENA_CHALLENGER2-2=Метт, кур'єр, йому за сорок. Теж ще той тип.
+PC21_HYENA_CHALLENGER2-2=Метт, кур'єр, йому за сорок. Теж сумнівний тип.
 
 
 # Hyena
@@ -3681,7 +3681,7 @@ PC21_HYENA_CHALLENGER2-3=Пошта чи товар - він найшвидши�
 
 # Hyena
 ### Quite the achievement...! As long as wreckage isn't a concern to you.
-PC21_HYENA_CHALLENGER2-4=Оце так досягнення...! Якщо, звісно, тебе не хвилюють руїни.
+PC21_HYENA_CHALLENGER2-4=Оце так досягнення...! Якщо, звісно, тебе не хвилює пошкодження речей.
 
 
 # Hyena
@@ -3759,7 +3759,7 @@ PC21_HYENA_CHALLENGER3-10=Дикий, лютий звір, кажу тобі!
 
 # Brok
 ### Part of me would love to fight him in real life. The more danger, the greater the fight!
-PC21_HYENA_CHALLENGER3-11=Частина мене хотіла б поборотися з ним насправді. Чим більша небезпека, тим краща бійка!
+PC21_HYENA_CHALLENGER3-11=Частина мене хотіла б поборотися з ним в реальності. Чим більша небезпека, тим краща бійка!
 
 
 # Hyena
@@ -3769,7 +3769,7 @@ PC21_HYENA_CHALLENGER3-12=Ха! Знайоме відчуття. Ситуаці�
 
 # Hyena
 ### But hey, maybe he's a softie deep, deep inside?
-PC21_HYENA_CHALLENGER3-13=Але хтозна, може, десь глибоко-глибоко він м'якосердий?
+PC21_HYENA_CHALLENGER3-13=Але хтозна, може, десь глибоко всередині він м'якосердий?
 
 
 # Hyena
@@ -3818,13 +3818,13 @@ PC21_HYENA_CHALLENGER4-7=Не попадайся під його серію уд
 #----------------------------------------------------
 # Brok
 ### Tell me something about Mister Warthog?
-PC21_HYENA_CHALLENGER5-1=Розкажи щось про пана бородавочника?
+PC21_HYENA_CHALLENGER5-1=Розкажеш щось про пана бородавочника?
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Clint": "Клінт"
 ### Oh, Clint! He's a regular.
-PC21_HYENA_CHALLENGER5-2=А, Клінт! Він у нас завсідник.
+PC21_HYENA_CHALLENGER5-2=А, Клінт! Він у нас постійний відвідувач.
 
 
 # Hyena
@@ -3835,7 +3835,7 @@ PC21_HYENA_CHALLENGER5-3=Звичайний мешканець Нетрів, я�
 
 # Hyena
 ### Also a former boxer, but you may have guessed that from his fighting style.
-PC21_HYENA_CHALLENGER5-4=Теж колишній боксер, хоча ти, мабуть, здогадався з його стилю бою.
+PC21_HYENA_CHALLENGER5-4=Теж колишній боксер, але ти, мабуть, вже здогадався з його стилю бою.
 
 
 # Hyena
@@ -3845,12 +3845,12 @@ PC21_HYENA_CHALLENGER5-5=Він давно загубив своє боксер�
 
 # Hyena
 ### I've heard he's a father, and his son's a mixed breed!
-PC21_HYENA_CHALLENGER5-6=Кажуть, він батько, а його син - метис!
+PC21_HYENA_CHALLENGER5-6=Кажуть, він батько, а його син - мішана порода!
 
 
 # Hyena
 ### Can you imagine that? A cross-breed between him and an otter!
-PC21_HYENA_CHALLENGER5-7=Уявляєш? Помісь його та видри!
+PC21_HYENA_CHALLENGER5-7=Уявляєш? Гібрид між ним та видрою!
 
 
 # Brok
@@ -3866,12 +3866,12 @@ PC21_HYENA_CHALLENGER5-9=...гм.
 #----------------------------------------------------
 # Brok
 ### I didn't expect your own daughter to challenge me!
-PC21_HYENA_CHALLENGER6-1=Не сподівався, що твоя власна донька мене викличе!
+PC21_HYENA_CHALLENGER6-1=Не сподівався, що твоя власна донька викличе мене на дуель!
 
 
 # Hyena
 ### What can I say? On my end, I didn't expect her to follow in my footsteps.
-PC21_HYENA_CHALLENGER6-2=Що тут скажеш? Я, зі свого боку, не сподівався, що вона піде моїм шляхом.
+PC21_HYENA_CHALLENGER6-2=Що тут скажеш? Зі свого боку, я навіть не сподівався, що вона піде моїм шляхом.
 
 
 # Hyena
@@ -3891,7 +3891,7 @@ PC21_HYENA_CHALLENGER6-5=От тільки не її атаки! Ай!
 
 # Hyena
 ### Specifically for you, I told her not to hold back!
-PC21_HYENA_CHALLENGER6-6=Я спеціально для тебе сказав їй не стримуватися!
+PC21_HYENA_CHALLENGER6-6=Спеціально для тебе я сказав їй не стримуватися!
 
 
 # Brok
@@ -3903,7 +3903,7 @@ PC21_HYENA_CHALLENGER6-7=Дякую... мабуть...!
 # Brok
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### You know, I almost thought Sharpteeth the Thief was just a legend, but he's here, in the flesh!
-PC21_HYENA_CHALLENGER7-1=Знаєш, я вже думав, що Гострозуб-Крадій - просто легенда, а він тут, власною персоною!
+PC21_HYENA_CHALLENGER7-1=Знаєш, я вже думав, що Гострозуб Крадій - просто легенда, а він тут, власною персоною!
 
 
 # Hyena
@@ -3913,7 +3913,7 @@ PC21_HYENA_CHALLENGER7-2=Так! Мало хто з претендентів д�
 
 # Hyena
 ### He occasionally comes out of retirement for the ones who do. Great job!
-PC21_HYENA_CHALLENGER7-3=Він іноді виходить із пенсії заради тих, хто доходить. Гарна робота!
+PC21_HYENA_CHALLENGER7-3=Він іноді виходить із пенсії заради таких людий. Гарна робота!
 
 
 # Brok
@@ -3923,13 +3923,13 @@ PC21_HYENA_CHALLENGER7-4=Не вірю, що я його переміг!
 
 # Hyena
 ### Very impressive work! You should be proud of yourself. He's a long-time friend of mine, and I never would've been able to beat him.
-PC21_HYENA_CHALLENGER7-5=Дуже вражаюче! Тобі варто пишатися собою. Він мій давній друг, і я б ніколи його не переміг.
+PC21_HYENA_CHALLENGER7-5=Дуже вражає! Тобі варто пишатися собою. Він мій давній друг, і я б ніколи його не переміг.
 
 
 #----------------------------------------------------
 # Hyena
 ### What do you want to eat?
-PC21_HYENA_FOOD1-1=Що хочеш їсти?
+PC21_HYENA_FOOD1-1=Хочеш замовити якусь їжу?
 
 
 # Brok
@@ -3951,27 +3951,27 @@ PC21_HYENA_FOOD1-4=У ресторані?!
 
 # Brok
 ### Well... yeah?
-PC21_HYENA_FOOD1-5=Ну... ага?
+PC21_HYENA_FOOD1-5=Ну... так?
 
 
 # Hyena
 ### I'm afraid that kind of industrial-packaged, consumer product can only get pooped out by machines!
-PC21_HYENA_FOOD1-6=Боюся, таку промислово-фасовану споживчу продукцію можуть видавати хіба що автомати!
+PC21_HYENA_FOOD1-6=Боюся, таку промислову продукцію можуть виробляти хіба що автомати!
 
 
 # Brok
 ### Heyyyy, I love those!
-PC21_HYENA_FOOD1-7=Гей-ей, я їх обожнюю!
+PC21_HYENA_FOOD1-7=Ге-еей, я їх обожнюю!
 
 
 # Hyena
 ### But if you're desperate, our virtual food sink can provide you some. For a few C-Tokens.
-PC21_HYENA_FOOD1-8=Але якщо вже несила, наш віртуальний умивальник з їжею може тобі дещо видати. За кілька К-Жетонів.
+PC21_HYENA_FOOD1-8=Але якщо вже дуже хочеться, наш віртуальний умивальник з їжею може тобі дещо видати. За кілька К-Жетонів.
 
 
 # Hyena
 ### How about a real drink instead?
-PC21_HYENA_FOOD1-9=А як щодо справжнього напою?
+PC21_HYENA_FOOD1-9=Замість цього, як щодо справжнього напою?
 
 
 # Brok
@@ -3986,7 +3986,7 @@ PC21_HYENA_FOOD1-11=У нас є безліч безалкогольних ко�
 
 # Hyena
 ### Actually, that's all we have, other than sodas...
-PC21_HYENA_FOOD1-12=Власне, це все, що в нас є, крім газованої води...
+PC21_HYENA_FOOD1-12=Власне, це все, що в нас є, крім газованки...
 
 
 # Hyena
@@ -4033,7 +4033,7 @@ PC21_HYENA_FOOD_YES-6=Ну, ще цукор, мабуть, робить тебе
 
 # Brok
 ### Hmph... Not a good sale argument, man.
-PC21_HYENA_FOOD_YES-7=Гм... Не найкращий аргумент для продажу, чоловіче.
+PC21_HYENA_FOOD_YES-7=Гм... Не найкращий аргумент для продажу, чуваче.
 
 
 # Hyena
@@ -4101,7 +4101,7 @@ PC21_HYENA_HIMSELF1-6=Що...? Але...
 
 # Hyena
 ### Ha! No way! Don't tell me you're buying into this!
-PC21_HYENA_HIMSELF1-7=Ха! Та годі! Не кажи, що ти в це повірив!
+PC21_HYENA_HIMSELF1-7=Ха! Та годі! Тільки не кажи, що ти в це повірив!
 
 
 # Hyena
@@ -4111,19 +4111,19 @@ PC21_HYENA_HIMSELF1-8=Я втратив її через надто багато 
 
 # Hyena
 ### So broken and disjointed that it became easier to straight up replace it.
-PC21_HYENA_HIMSELF1-9=Вона була така розтрощена й понівечена, що легше було взяти й замінити її.
+PC21_HYENA_HIMSELF1-9=Моя щелепа була така розтрощена й понівечена, що легше було взяти й замінити її.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Amazing technology Drumers have, isn't it? Looks neat, don't you think?
-PC21_HYENA_HIMSELF1-10=Які технології у мешканців Верхів, еге ж? Гарно виглядає, як вважаєш?
+PC21_HYENA_HIMSELF1-10=Які ж все-таки технології у мешканців Верхів! Гарно виглядає, еге ж?
 
 
 # Hyena
 ### Your story is similar.
-PC21_HYENA_HIMSELF1-11=Твоя історія схожа.
+PC21_HYENA_HIMSELF1-11=Твоя історія дещо схожа.
 
 
 # Brok
@@ -4171,7 +4171,7 @@ PC21_HYENA_HIMSELF2-5=Чесно кажучи, після власного ви�
 
 # Hyena
 ### Doesn't matter, though. I'll never forgive them...
-PC21_HYENA_HIMSELF2-6=Хоч це вже неважливо. Я їх ніколи не пробачу...
+PC21_HYENA_HIMSELF2-6=Хоч це вже неважливо. Я їм ніколи не пробачу...
 
 
 # Hyena
@@ -4198,7 +4198,7 @@ PC21_HYENA_HIMSELF2-10=Але це ж не зовсім бійцівська я�
 
 # Hyena
 ### True. I changed my mind.
-PC21_HYENA_HIMSELF2-11=Правда. Я передумав.
+PC21_HYENA_HIMSELF2-11=Твоя правда. Я передумав.
 
 
 # Hyena
@@ -4229,7 +4229,7 @@ PC21_HYENA_HIMSELF2-16=А уряд про це не знає?
 
 # Hyena
 ### We do what we can to stay out of their notice.
-PC21_HYENA_HIMSELF2-17=Ми робимо все, щоб не потрапляти їм на очі.
+PC21_HYENA_HIMSELF2-17=Ми робимо все, щоб вони нас не помітили.
 
 
 # Hyena
@@ -4239,7 +4239,7 @@ PC21_HYENA_HIMSELF2-18=Може, вони знають і просто запл�
 
 # Hyena
 ### We still get drones and bots that snoop around, but we can handle those!
-PC21_HYENA_HIMSELF2-19=Дрони й боти все одно нишпорять тут, але ми з ними дамо раду!
+PC21_HYENA_HIMSELF2-19=Дрони й боти все одно нишпорять тут, але ми з ними даємо раду!
 
 
 # Hyena
@@ -4255,18 +4255,18 @@ PC21_HYENA_HIMSELF2-21=Ага! Беру свою вірну мітлу й про
 
 # Hyena
 ### Ha! You should see him! It's a riot.
-PC21_HYENA_HIMSELF2-22=Ха! Тобі варто це побачити! Це просто умора.
+PC21_HYENA_HIMSELF2-22=Ха! Тобі варто це побачити! Це просто комедія.
 
 
 #----------------------------------------------------
 # Brok
 ### Let's fight someday! Make this one of my challenges!
-PC21_HYENA_HIMSELF3-1=Якось поб'ємося! Додай це до моїх викликів!
+PC21_HYENA_HIMSELF3-1=Хочу побитися з тобою! Додай це до моїх викликів!
 
 
 # Hyena
 ### Sorry, man! I retired.
-PC21_HYENA_HIMSELF3-2=Вибачай, чоловіче! Я на пенсії.
+PC21_HYENA_HIMSELF3-2=Вибачай, чуваче! Я на пенсії.
 
 
 # Brok
@@ -4292,12 +4292,12 @@ PC21_HYENA_HIMSELF3-6=Не варто мене недооцінювати, бо 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Not before you're done with your work, Puzzles.
-PC21_HYENA_HIMSELF3-7=Але не раніше, ніж закінчиш роботу, Пазлсе.
+PC21_HYENA_HIMSELF3-7=Не раніше, ніж ти закінчиш свою роботу, Пазлсе.
 
 
 # Hedgehog
 ### Aww. You're no fun, boss.
-PC21_HYENA_HIMSELF3-8=Ой. З вами не весело, шефе.
+PC21_HYENA_HIMSELF3-8=Ох. З вами зовсім не весело, босе.
 
 
 #----------------------------------------------------
@@ -4339,7 +4339,7 @@ PC21_FROG_WELCOME1-7=Звісно!
 #----------------------------------------------------
 # Frog
 ### Sir.
-PC21_FROG_WELCOME2-1=Добродію.
+PC21_FROG_WELCOME2-1=Пане.
 
 
 #----------------------------------------------------
@@ -4362,7 +4362,7 @@ PC21_FROG_HIT1-1=(Булькає)
 
 # Brok
 ### Argh! My eyes!
-PC21_FROG_HIT1-2=Аргх! Мої очі!
+PC21_FROG_HIT1-2=Ар-р! Мої очі!
 
 
 #----------------------------------------------------
@@ -4379,19 +4379,19 @@ PC21_FROG_HIT2-2=Рятуйте! Я осліп!
 #----------------------------------------------------
 # Brok
 ### (Maybe I could do some bubbling too.)
-PC21_FROG_THINK1-1=(Може, і мені побулькати.)
+PC21_FROG_THINK1-1=(Може, і мені варто побулькати.)
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### (Well...maybe not. Graff has sensitive hearing, he'd probably hate it!)
-PC21_FROG_THINK1-2=(Ну... мабуть, ні. У Граффа чутливий слух, йому б точно не сподобалося!)
+PC21_FROG_THINK1-2=(Хоча... мабуть, ні. У Граффа чутливий слух, йому б точно не сподобалося!)
 
 
 #----------------------------------------------------
 # Brok
 ### I assume you're the second-in-command of this ship.
-PC21_FROG_HERSELF1-1=Гадаю, ти тут друга особа після капітана.
+PC21_FROG_HERSELF1-1=Гадаю, ти тут заступниця капітана.
 
 
 # Frog
@@ -4401,7 +4401,7 @@ PC21_FROG_HERSELF1-2=Ха! Смішно.
 
 # Frog
 ### I run things here.
-PC21_FROG_HERSELF1-3=Тут усім керую я.
+PC21_FROG_HERSELF1-3=Я тут усім керую.
 
 
 # Brok
@@ -4417,7 +4417,7 @@ PC21_FROG_HERSELF1-5=Мені подобається, коли він так д�
 
 # Brok
 ### I... see...?
-PC21_FROG_HERSELF1-6=А... зрозуміло...?
+PC21_FROG_HERSELF1-6=Е-е... зрозуміло...?
 
 
 # Brok
@@ -4434,18 +4434,18 @@ PC21_FROG_HERSELF1-8=Ми були сусідами на Верхах.
 # Frog
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### I left the Drums a little after 'Jaw did, but not for the same reason.
-PC21_FROG_HERSELF1-9=Я пішла з Верхів трохи пізніше за Лепка, але з іншої причини.
+PC21_FROG_HERSELF1-9=Я пішла з Верхів трохи пізніше за 'Лепку, але з іншої причини.
 
 
 # Frog
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### When I finally settled in the Slums, there he was, my neighbor again. Happy happenstance.
-PC21_FROG_HERSELF1-10=Коли я нарешті оселилася в Нетрях, а він тут як тут - знову мій сусід. Щасливий збіг.
+PC21_FROG_HERSELF1-10=Коли я нарешті оселилася в Нетрях, він тут як тут - знову мій сусід. Щасливий збіг.
 
 
 # Frog
 ### So I figured... if we're gonna be next to each other constantly, better work with the guy!
-PC21_FROG_HERSELF1-11=Тож я подумала... якщо вже будемо весь час поруч, краще працювати з ним!
+PC21_FROG_HERSELF1-11=Тож я подумала... якщо вже будемо весь час поруч, краще працювати разом із ним!
 
 
 # Brok
@@ -4471,7 +4471,7 @@ PC21_FROG_HERSELF2-2=Дуже заспокоює. Мені це потрібно
 
 # Brok
 ### You mean... this is a stressful work environment?
-PC21_FROG_HERSELF2-3=Хочеш сказати... це стресове робоче середовище?
+PC21_FROG_HERSELF2-3=Хочеш сказати... це доволі стресове робоче середовище?
 
 
 # Frog
@@ -4553,7 +4553,7 @@ PC21_FROG_CHANGEPLAYER2-1=Кого обереш?
 #----------------------------------------------------
 # Brok
 ### What just happened?!
-PC21_FROG_CHANGEPLAYER_AFTER-1=Що взагалі сталося?!
+PC21_FROG_CHANGEPLAYER_AFTER-1=Що щойно сталося?!
 
 
 # Brok
@@ -4570,7 +4570,7 @@ PC21_FROG_CHANGEPLAYER_AFTER-3=Солоденький, тобі краще за�
 #----------------------------------------------------
 # Frog - The amount might change...
 ### Come and spin our wheel.
-PC21_FROG_WHEEL1-1=Ходімо, крути наше колесо.
+PC21_FROG_WHEEL1-1=Ну ж бо, покрути наше колесо.
 
 
 # Frog
@@ -4580,7 +4580,7 @@ PC21_FROG_WHEEL1-2=10 К-Жетонів за спробу, щоб відкрит
 
 # Frog
 ### Every spin wins something.
-PC21_FROG_WHEEL1-3=Кожне обертання щось приносить.
+PC21_FROG_WHEEL1-3=Кожне обертання приносить нагороду.
 
 
 #----------------------------------------------------
@@ -4611,7 +4611,7 @@ PC21_FROG_WHEELSPIN3-1=Очікування мене вбиває.
 # Frog
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### (Bubbles)
-PC21_FROG_WHEELSPIN4-1=(Баблс)
+PC21_FROG_WHEELSPIN4-1=(Булькає)
 
 
 #----------------------------------------------------
@@ -4628,7 +4628,7 @@ PC21_FROG_WHEELCLOSE1-1=Не можу зрозуміти, на який сект
 
 # Frog
 ### Just spin it again.
-PC21_FROG_WHEELCLOSE1-2=Просто крути ще раз.
+PC21_FROG_WHEELCLOSE1-2=Просто покрути ще раз.
 
 
 #----------------------------------------------------
@@ -4687,7 +4687,7 @@ PC21_FROG_WHEEL_COUPON50-1=Ти отримуєш знижку 50%. Неймов�
 #----------------------------------------------------
 # Frog
 ### It will automatically be used the next time you buy V.R. food or skip a challenge.
-PC21_FROG_WHEEL_COUPONEXPLAIN-1=Її автоматично застосують наступного разу, коли ти купиш VR-їжу або пропустиш виклик.
+PC21_FROG_WHEEL_COUPONEXPLAIN-1=Її автоматично буде застосовано наступного разу, коли ти купиш VR-їжу або пропустиш виклик.
 
 
 # Brok
@@ -4702,7 +4702,7 @@ PC21_FROG_WHEEL_COUPONEXPLAIN-3=Ха-ха. Ні.
 
 # Frog
 ### But you can get as many coupons as you want. The deepest discounts are used first.
-PC21_FROG_WHEEL_COUPONEXPLAIN-4=Але купонів можна мати скільки завгодно. Спершу застосовують найбільші знижки.
+PC21_FROG_WHEEL_COUPONEXPLAIN-4=Але купонів можна мати скільки завгодно. Спершу застосовуються найбільші знижки.
 
 
 #----------------------------------------------------
@@ -4751,7 +4751,7 @@ PC21_FROG_WHEEL_FREEANTBURGER-1=...віртуальний мурахобурге
 # Frog
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 ### ...a virtual energy drink.
-PC21_FROG_WHEEL_FREEENERGYDRINK-1=...віртуальний енергетичний напій.
+PC21_FROG_WHEEL_FREEENERGYDRINK-1=...віртуальний енергетик.
 
 
 #----------------------------------------------------
@@ -4811,20 +4811,20 @@ PC21_FROG_WHEEL_FREEHUG_FIRST-5=Ми домовилися робити це по
 #----------------------------------------------------
 # Frog
 ### Wanna spin it again?
-PC21_FROG_WHEEL_END-1=Ще раз крутити?
+PC21_FROG_WHEEL_END-1=Бажаєш крутити ще раз?
 
 
 #----------------------------------------------------
 # Frog
 ### But... you poor thing. You don't even have that much.
-PC21_FROG_WHEEL_NOTOKENS-1=Але... бідолашний. У тебе ж навіть стільки немає.
+PC21_FROG_WHEEL_NOTOKENS-1=Але... бідолашний. У тебе навіть стільки немає.
 
 
 #----------------------------------------------------
 # Frog
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Okay. (Bubbles)
-PC21_FROG_OKAY-1=Гаразд. (Баблс)
+PC21_FROG_OKAY-1=Гаразд. (Булькає)
 
 
 #----------------------------------------------------
@@ -4850,7 +4850,7 @@ PC21_FROG_CHEATED-4=Ти щойно відредагував файл збере
 
 # Brok
 ### ...oh. Oops.
-PC21_FROG_CHEATED-5=...ой. Ой леле.
+PC21_FROG_CHEATED-5=...ой. Винуватий.
 
 
 # Frog
@@ -4866,7 +4866,7 @@ PC21_FROG_CHEATED_YES-1=Готово.
 
 # Frog
 ### Thank you for doing the right thing.
-PC21_FROG_CHEATED_YES-2=Дякую, що зробив правильно.
+PC21_FROG_CHEATED_YES-2=Дякую, що вчинив правильно.
 
 
 #----------------------------------------------------
@@ -4946,7 +4946,7 @@ PC21_FROG_AFTER1-2=Фух. Я так рада, що ти не зіпсував �
 
 # Brok
 ### Hey...! Don't serve food if you can't stand grease!
-PC21_FROG_AFTER1-3=Гей...! Не подавай їжу, якщо не терпиш жиру!
+PC21_FROG_AFTER1-3=Гей...! Не подавайте їжу, якщо не терпите жиру!
 
 
 #----------------------------------------------------
@@ -4984,7 +4984,7 @@ PC21_HEDGEHOG_WELCOME1-1=Гей, пане!
 
 # Hedgehog
 ### Let me know when you want to place your trust in a fighter!
-PC21_HEDGEHOG_WELCOME1-2=Дайте знати, коли захочете довіритися бійцеві!
+PC21_HEDGEHOG_WELCOME1-2=Дайте знати, коли захочете зробити ставку на когось із бійців!
 
 
 #----------------------------------------------------
@@ -4995,7 +4995,7 @@ PC21_HEDGEHOG_WELCOME2-1=Ох, уже не можу дочекатися!
 
 # Hedgehog
 ### What do you have in mind?
-PC21_HEDGEHOG_WELCOME2-2=Що ви маєте на думці?
+PC21_HEDGEHOG_WELCOME2-2=Що у вас на думці?
 
 
 #----------------------------------------------------
@@ -5013,12 +5013,12 @@ PC21_HEDGEHOG_EXIT2-1=Хвилинку.
 #----------------------------------------------------
 # Hedgehog - Free talk with the hedgehog
 ### Try our daily challenge!
-PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-1=Спробуй наш щоденний виклик!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-1=Спробуйте наш щоденний виклик!
 
 
 # Hedgehog
 ### One new each day, 'til the end of time!
-PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-2=Новий щодня, до кінця часів!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-2=Нове завдання щодня, до кінця часів!
 
 
 # Hedgehog
@@ -5038,7 +5038,7 @@ PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-5=Є лише одна... дрібниця.
 
 # Hedgehog
 ### They're procedurally generated, so they're random...
-PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-6=Вони генеруються процедурно, тож цілком випадкові...
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-6=Вони генеруються процедурно, тож вони цілком випадкові...
 
 
 # Hedgehog
@@ -5048,7 +5048,7 @@ PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-7=Вам можуть трапитися ви�
 
 # Hedgehog
 ### I'm still working on improvements!
-PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-8=Я ще працюю над покращеннями!
+PC21_HEDGEHOG_FIRSTDAILYCHALLENGE-8=Я досі працюю над покращеннями!
 
 
 # Brok
@@ -5071,12 +5071,12 @@ PC21_HEDGEHOG_DAILYCHALLENGES-1=Ось список!
 #----------------------------------------------------
 # Hedgehog
 ### Battling foes may pose challenges, yet there's something even more formidable.
-PC21_HEDGEHOG_SUPPORTFIRST-1=Бійка з ворогами - це виклик, але є дещо ще грізніше.
+PC21_HEDGEHOG_SUPPORTFIRST-1=Бійка з ворогами - це те ще випробування, але є дещо страшніше.
 
 
 # Hedgehog
 ### It's placing your trust in others!
-PC21_HEDGEHOG_SUPPORTFIRST-2=Це довіритися іншим!
+PC21_HEDGEHOG_SUPPORTFIRST-2=Довіритися іншим!
 
 
 # Hedgehog
@@ -5091,7 +5091,7 @@ PC21_HEDGEHOG_SUPPORTFIRST-4=Дивіться, як вони б'ються. А �
 
 # Hedgehog
 ### This is entirely free. Give it a try!
-PC21_HEDGEHOG_SUPPORTFIRST-5=Це цілком безкоштовно. Спробуйте!
+PC21_HEDGEHOG_SUPPORTFIRST-5=Ці ставки цілком безкоштовні. Спробуйте!
 
 
 #----------------------------------------------------
@@ -5112,7 +5112,7 @@ PC21_HEDGEHOG_SUPPORTSECOND-3=Звісно, значення нижче 100% о�
 
 # Hedgehog
 ### The C-Tokens awarded vary accordingly. If you trust a group who isn't likely to win, you'll get more C-Tokens!
-PC21_HEDGEHOG_SUPPORTSECOND-4=Відповідно змінюється й винагорода К-Жетонами. Якщо довіритеся групі, яка навряд чи переможе, отримаєте більше К-Жетонів!
+PC21_HEDGEHOG_SUPPORTSECOND-4=Відповідно змінюється й винагорода. Якщо довіритеся групі, яка навряд чи переможе, отримаєте більше К-Жетонів!
 
 
 #----------------------------------------------------
@@ -5130,7 +5130,7 @@ PC21_HEDGEHOG_SUPPORTWIN1-1=Чудова робота!
 #----------------------------------------------------
 # Hedgehog
 ### Better luck next time!
-PC21_HEDGEHOG_SUPPORTLOSE1-1=Пощастить наступного разу!
+PC21_HEDGEHOG_SUPPORTLOSE1-1=Наступного разу пощастить!
 
 
 #----------------------------------------------------
@@ -5142,7 +5142,7 @@ PC21_HEDGEHOG_SUPPORTDRAW1-1=Нічия? От халепа...
 #----------------------------------------------------
 # Brok
 ### (Seems like a cool guy.)
-PC21_HEDGEHOG_THINK1-1=(Схоже, класний хлопець.)
+PC21_HEDGEHOG_THINK1-1=(Схоже, хороший хлопець.)
 
 
 # Brok
@@ -5164,12 +5164,12 @@ PC21_HEDGEHOG_HIT1-2=Ви... ви хочете битися? Серйозно?!
 
 # Hedgehog
 ### Amazing! Let's go!
-PC21_HEDGEHOG_HIT1-3=Клас! Ходімо!
+PC21_HEDGEHOG_HIT1-3=Чудово! Ходімо!
 
 
 # Hyena
 ### Nope.
-PC21_HEDGEHOG_HIT1-4=Та ні.
+PC21_HEDGEHOG_HIT1-4=Зась.
 
 
 # Hedgehog
@@ -5180,7 +5180,7 @@ PC21_HEDGEHOG_HIT1-5=Ой, я забув...
 #----------------------------------------------------
 # Hedgehog
 ### Please don't...! The boss said no.
-PC21_HEDGEHOG_HIT2-1=Будь ласка, не треба...! Господар сказав ні.
+PC21_HEDGEHOG_HIT2-1=Будь ласка, не треба...! Бос сказав - ні.
 
 
 #----------------------------------------------------
@@ -5211,7 +5211,7 @@ PC21_HEDGEHOG_HIMSELF1-5=Я майбутній боєць!
 
 # Hedgehog
 ### After work, I take VR lessons in martial arts. One day, I'm gonna become a master so I can beat up thugs in real life!
-PC21_HEDGEHOG_HIMSELF1-6=Після роботи я беру VR-уроки бойових мистецтв. Колись стану майстром і зможу бити хуліганів у реальному житті!
+PC21_HEDGEHOG_HIMSELF1-6=Після роботи я беру VR-уроки бойових мистецтв. Колись я стану майстром і зможу бити хуліганів у реальному житті!
 
 
 # Hedgehog
@@ -5236,7 +5236,7 @@ PC21_HEDGEHOG_HIMSELF1-10=Та ну! Твоя історія тільки поч
 
 # Hedgehog
 ### True! Thanks, sir!
-PC21_HEDGEHOG_HIMSELF1-11=Правда! Дякую, пане!
+PC21_HEDGEHOG_HIMSELF1-11=Маєте рацію! Дякую, пане!
 
 
 #----------------------------------------------------
@@ -5247,7 +5247,7 @@ PC21_HEDGEHOG_HIMSELF2-1=Мені цікаво. Твої голки гострі
 
 # Hedgehog
 ### Both!
-PC21_HEDGEHOG_HIMSELF2-2=І те, й те!
+PC21_HEDGEHOG_HIMSELF2-2=І те, і те!
 
 
 # Hedgehog
@@ -5288,7 +5288,7 @@ PC21_HEDGEHOG_SURVIVAL1-3=Режим виживання! Усе саме так,
 
 # Hedgehog
 ### You fight a horde of enemies as long as you can until you die!
-PC21_HEDGEHOG_SURVIVAL1-4=Ви б'єтеся з ордою ворогів так довго, як зможете, поки не загинете!
+PC21_HEDGEHOG_SURVIVAL1-4=Ви б'єтеся з ордою ворогів так довго, як зможете, доки не загинете!
 
 
 # Hedgehog
@@ -5303,7 +5303,7 @@ PC21_HEDGEHOG_SURVIVAL1-6=Поки що.
 
 # Brok
 ### Erm... okay...
-PC21_HEDGEHOG_SURVIVAL1-7=Ем... гаразд...
+PC21_HEDGEHOG_SURVIVAL1-7=Е-е... гаразд...
 
 
 #----------------------------------------------------
@@ -5315,7 +5315,7 @@ PC21_HEDGEHOG_SURVIVAL_CHOICE-1=Хочете, щоб вороги були за�
 #----------------------------------------------------
 # Hedgehog - For voice acting just say "Your record so far is this number of waves"
 ### Your record so far is {number} waves!
-PC21_HEDGEHOG_SURVIVAL2-1=Твій рекорд наразі - {number} хвиль!
+PC21_HEDGEHOG_SURVIVAL2-1=Ваш рекорд наразі - {number} хвиль!
 
 
 #----------------------------------------------------
@@ -5333,12 +5333,12 @@ PC21_HEDGEHOG_VERSUS1-1=Час битися з друзями! А може, об
 #----------------------------------------------------
 # Hedgehog
 ### ...oh, wait.
-PC21_HEDGEHOG_VERSUSALONE1-1=...ой, стривай.
+PC21_HEDGEHOG_VERSUSALONE1-1=...ой, стривайте.
 
 
 # Hedgehog
 ### I hate to tell you this, but... to do versus battle, you need a friend.
-PC21_HEDGEHOG_VERSUSALONE1-2=Не хочу вам це казати, але... для бою один на один потрібен друг.
+PC21_HEDGEHOG_VERSUSALONE1-2=Не хотілося б вам це казати, але... для бою один на один потрібен друг.
 
 
 # Hedgehog
@@ -5348,17 +5348,17 @@ PC21_HEDGEHOG_VERSUSALONE1-3=Друг у реальному світі.
 
 # Brok
 ### Real world...? Am I in V.R. right now?
-PC21_HEDGEHOG_VERSUSALONE1-4=У реальному світі...? Я зараз у VR?
+PC21_HEDGEHOG_VERSUSALONE1-4=У реальному світі...? А я зараз у VR?
 
 
 # Hedgehog
 ### Ha! You never know!
-PC21_HEDGEHOG_VERSUSALONE1-5=Ха! Ніколи не знаєш!
+PC21_HEDGEHOG_VERSUSALONE1-5=Ха! Ніколи не можеш знати напевно!
 
 
 # Hedgehog
 ### Actually, that's fine! We have an alternative!
-PC21_HEDGEHOG_VERSUSALONE1-6=Насправді це не біда! У нас є альтернатива!
+PC21_HEDGEHOG_VERSUSALONE1-6=Насправді це не проблема! У нас є альтернатива!
 
 
 #----------------------------------------------------
@@ -5382,13 +5382,13 @@ PC21_HEDGEHOG_AFTER2-1=Ну як вам?
 #----------------------------------------------------
 # Hedgehog
 ### I had my eyes stuck to the screen the whole fight!
-PC21_HEDGEHOG_AFTER3-1=У мене очі прикипіли до екрана всю бійку!
+PC21_HEDGEHOG_AFTER3-1=Я не відривав очей від екрану протягом усього поєдинку!
 
 
 #----------------------------------------------------
 # Hedgehog
 ### That was so cool!
-PC21_HEDGEHOG_AFTER4-1=Оце було круто!
+PC21_HEDGEHOG_AFTER4-1=Це було так круто!
 
 
 #----------------------------------------------------
@@ -5434,12 +5434,12 @@ PC21_IGUANA1-8=Логічно. Твій стиль радше... як би це 
 
 # Iguana
 ### Free style.
-PC21_IGUANA1-9=Вільний стиль.
+PC21_IGUANA1-9=Вільний.
 
 
 # Brok
 ### Fair enough. I was never fond of following all the boxing rules.
-PC21_IGUANA1-10=Слушно. Мені ніколи не подобалося дотримуватися всіх боксерських правил.
+PC21_IGUANA1-10=Справедливо. Мені ніколи не подобалося дотримуватися всіх боксерських правил.
 
 
 # Brok
@@ -5449,13 +5449,13 @@ PC21_IGUANA1-11=Тепер я вільний алігатор!
 
 # Iguana
 ### Looks like you've found your inner fighter balance then. Fun!
-PC21_IGUANA1-12=Схоже, ти знайшов свій внутрішній баланс бійця. Класно!
+PC21_IGUANA1-12=Схоже, ти знайшов свій бійцівський внутрішній баланс. Класно!
 
 
 #----------------------------------------------------
 # Brok
 ### You're actually a pretty good wrestler!
-PC21_IGUANA2-1=Ти насправді непогана реслерка!
+PC21_IGUANA2-1=Ти справді непогана реслерка!
 
 
 # Brok
@@ -5465,7 +5465,7 @@ PC21_IGUANA2-2=А ти можеш усе це провернути й у реа�
 
 # Iguana
 ### Ha! All that and more!
-PC21_IGUANA2-3=Ха! Це ще не все!
+PC21_IGUANA2-3=Ха! Це і навіть більше!
 
 
 # Iguana
@@ -5501,12 +5501,12 @@ PC21_IGUANA2-9=І де б я взагалі взяв ринг? Їх усі зн�
 
 # Iguana
 ### We could just make our own!
-PC21_IGUANA2-10=Можна ж зробити свій!
+PC21_IGUANA2-10=Можна зробити свій!
 
 
 # Iguana
 ### You could treat the customers to some real action, and I could finally wrestle for real too!
-PC21_IGUANA2-11=Ти міг би дати клієнтам справжнього драйву, а я б нарешті могла ресліти по-справжньому!
+PC21_IGUANA2-11=Ти міг би дати клієнтам справжнього драйву, а я б нарешті могла реслити по-справжньому!
 
 
 # Hyena
@@ -5516,17 +5516,17 @@ PC21_IGUANA2-12=А коли клієнти, кульгаючи, підуть д�
 
 # Hyena
 ### No thanks! 'Sides, the VRs are easier to manage.
-PC21_IGUANA2-13=Та ні, дякую! До того ж із VR-кабінами простіше.
+PC21_IGUANA2-13=Ні, дякую! До того ж із VR-кабінами простіше.
 
 
 # Iguana
 ### Ugh. I thought you were a fun dad, now you're just a dull dad.
-PC21_IGUANA2-14=Тьху. Я думала, ти веселий тато, а тепер ти просто нудний тато.
+PC21_IGUANA2-14=Тьху. Я думала, ти веселий, тату, а тепер ти такий нудний.
 
 
 # Hyena
 ### Ow! Striking at your old man's heart. Daughters are so mean these days.
-PC21_IGUANA2-15=Ой! Прямо в серце старому. Доньки зараз такі жорстокі.
+PC21_IGUANA2-15=Ох! Прямо в серце старому. Доньки зараз такі жорстокі.
 
 
 # Iguana
@@ -5557,7 +5557,7 @@ PC21_IGUANA3-3=Він навчив мене давати собі раду. І �
 
 # Iguana
 ### Honestly, I think I learned just as much by watching him fight in his tournaments. Those were good times.
-PC21_IGUANA3-4=Чесно, я стільки ж навчилася, спостерігаючи за його боями на турнірах. То були гарні часи.
+PC21_IGUANA3-4=Чесно, я стільки ж навчилася, спостерігаючи за його боями на турнірах. То були хороші часи.
 
 
 # Brok
@@ -5624,7 +5624,7 @@ PC21_IGUANA4-4=Порівняно з боксерами, вони ніби вл�
 
 # Iguana
 ### Their moves were mesmerizing, and the crowd went crazy every time they landed one.
-PC21_IGUANA4-5=Їхні рухи заворожували, і щоразу, коли вони їх проводили, натовп шаленів.
+PC21_IGUANA4-5=Їхні рухи заворожували, і щоразу, коли вони їх виконували, натовп шаленів.
 
 
 # Iguana
@@ -5639,12 +5639,12 @@ PC21_IGUANA4-7=Що ж, я не реслер, але бачу, що в тебе 
 
 # Brok
 ### Keep fighting for it, and I'm sure you'll reach your goal!
-PC21_IGUANA4-8=Продовжуй боротися за це, і я певен, ти досягнеш мети!
+PC21_IGUANA4-8=Продовжуй боротися, і я певен, ти досягнеш мети!
 
 
 # Brok
 ### Just be sure to take care of yourself. I say this from experience in these sports.
-PC21_IGUANA4-9=Тільки дбай про себе. Кажу з досвіду в цих видах спорту.
+PC21_IGUANA4-9=Тільки не забувай дбати про себе. Кажу з досвіду в подібних видах спорту.
 
 
 # Iguana
@@ -5666,7 +5666,7 @@ PC21_IGUANA5-2=Ой, просто рум'яна.
 
 # Iguana
 ### I can fight, but that doesn't mean I can't look amazing as well. In fact, it's the opposite!
-PC21_IGUANA5-3=Я вмію битися, але це не означає, що не можу виглядати приголомшливо. Насправді все навпаки!
+PC21_IGUANA5-3=Я вмію битися, але це не означає, що я не можу виглядати приголомшливо. Насправді все навпаки!
 
 
 # Iguana
@@ -5691,7 +5691,7 @@ PC21_IGUANA5-7=І не варто відкидати можливість від
 
 # Iguana
 ### (Psst, dad probably wouldn't agree but you know... he's old fashioned)
-PC21_IGUANA5-8=(Псс, тато, мабуть, не погодився б, але знаєш... він старомодний)
+PC21_IGUANA5-8=(Пс-с, тато, мабуть, не погодився б, але знаєш... він старомодний)
 
 
 # Iguana
@@ -5701,7 +5701,7 @@ PC21_IGUANA5-9=Крім того, після роботи я йду гуляти
 
 # Brok
 ### Busy day, I see!
-PC21_IGUANA5-10=Бачу, насичений день!
+PC21_IGUANA5-10=Бачу, в тебе насичений день!
 
 
 #----------------------------------------------------
@@ -5715,7 +5715,7 @@ PC21_IGUANA6-1=То ви з партнеркою мешканці Нетрів?
 # Iguana
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Actually... she's a Drumer.
-PC21_IGUANA6-2=Насправді... вона мешканка Верхів.
+PC21_IGUANA6-2=Насправді... вона з Верхів.
 
 
 # Iguana
@@ -5733,13 +5733,13 @@ PC21_IGUANA6-4=І я не можу її звинувачувати. Її бат�
 
 # Iguana
 ### He was robbed and fought back. Things escalated and...
-PC21_IGUANA6-5=Його пограбували, він дав відсіч. Усе загострилося і...
+PC21_IGUANA6-5=Його пограбували, він дав відсіч. Усе вийшло з-під контролю і...
 
 
 # Iguana
 # NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
 ### She came to give him a proper burial, but by the time she got here, he'd already been processed in the Body Recycling Center.
-PC21_IGUANA6-6=Вона приїхала, щоб поховати його як годиться, але поки дісталася, його вже переробили в Центрі переробки тіл.
+PC21_IGUANA6-6=Вона приїхала, щоб поховати його як годиться, але поки дісталася, його тіло вже обробили в центрі переробки тіл.
 
 
 # Iguana
@@ -5749,7 +5749,7 @@ PC21_IGUANA6-7=Не мати змоги побачити рідних воста
 
 # Iguana
 ### You're not able to grieve.
-PC21_IGUANA6-8=Ти навіть не можеш як слід засумувати.
+PC21_IGUANA6-8=Ти не можеш самотужки пережити це горе.
 
 
 # Brok
@@ -5764,7 +5764,7 @@ PC21_IGUANA6-10=Я знайшла її на вулиці. Вона була та
 
 # Iguana
 ### I had to comfort her. It kinda made me feel bad, honestly, like I was taking advantage of the situation.
-PC21_IGUANA6-11=Мені довелося її втішити. Чесно, мені від цього було трохи ніяково, ніби я скористалася ситуацією.
+PC21_IGUANA6-11=Мені довелося її заспокоїти. Чесно, мені від цього було трохи ніяково, ніби я скористалася ситуацією.
 
 
 # Iguana
@@ -5775,7 +5775,7 @@ PC21_IGUANA6-12=Але їй це було потрібно. Згодом ми б
 # Iguana
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### Actually, she proposed to me just last week! We'd get married, and I'd become a Drumer with her.
-PC21_IGUANA6-13=Насправді вона освідчилася мені минулого тижня! Ми одружимося, і я стану мешканкою Верхів разом з нею.
+PC21_IGUANA6-13=Насправді вона освідчилася мені минулого тижня! Ми одружимося, і я стану мешканкою Верхів разом із нею.
 
 
 # Brok
@@ -5790,17 +5790,17 @@ PC21_IGUANA6-15=Справді? І чим усе скінчилося?
 
 # Brok
 ### ...she was taken from me before I could find out.
-PC21_IGUANA6-16=...її в мене забрали, перш ніж я встиг з'ясувати.
+PC21_IGUANA6-16=...її в мене забрали, перш ніж я встиг щось з'ясувати.
 
 
 # Iguana
 ### I'm sorry... Grr, I really just don't know.
-PC21_IGUANA6-17=Мені шкода... Гр-р, я справді не знаю, що робити.
+PC21_IGUANA6-17=Мені шкода... Гр-р, я справді не знаю.
 
 
 # Iguana
 ### Should I take the risk that our relationship evolves and we find out we're not actually compatible?
-PC21_IGUANA6-18=Чи варто ризикувати: а раптом наші стосунки розвинуться, і ми зрозуміємо, що насправді не підходимо одне одному?
+PC21_IGUANA6-18=Чи варто ризикувати: а раптом наші стосунки зміняться, і ми зрозуміємо, що насправді не підходимо одне одному?
 
 
 # Iguana
@@ -5842,7 +5842,7 @@ PC21_IGUANA6-25=Так. Таке велике, доленосне рішення
 
 # Brok
 ### Only you can decide that.
-PC21_IGUANA6-26=Це можеш вирішити тільки ти.
+PC21_IGUANA6-26=Лише ти можеш зробити цей вибір.
 
 
 # Iguana
@@ -5852,12 +5852,12 @@ PC21_IGUANA6-27=Дякую.
 
 # Brok
 ### Ha... I keep making the worst decisions in my own life, so I'm not exactly the right person to give advice!
-PC21_IGUANA6-28=Ха... Я постійно ухвалюю найгірші рішення у власному житті, тож я не найкращий порадник!
+PC21_IGUANA6-28=Ха... Я постійно ухвалюю найгірші рішення у власному житті, тож я не найкраща людина, щоб давати поради!
 
 
 # Iguana
 ### Well, thanks for listening to me. I think that alone helped.
-PC21_IGUANA6-29=Що ж, дякую, що вислухав. Здається, вже це допомогло.
+PC21_IGUANA6-29=Все одно, дякую, що вислухав. Здається, це вже допомогло.
 
 
 #----------------------------------------------------
@@ -5886,7 +5886,7 @@ PC21_IGUANA_HIT2-1=Тату! Твоя зіркова бійчиня зараз �
 #----------------------------------------------------
 # Clint - Free talk with Clint
 ### Man! You really showed me that I'm not quite as good as I used to be.
-PC21_CLINT1-1=Оце так! Ти добре показав мені, що я вже не той, що був.
+PC21_CLINT1-1=Оце так! Ти добре показав мені, що я вже не той, яким був.
 
 
 # Brok
@@ -5896,7 +5896,7 @@ PC21_CLINT1-2=Та ну! Ще одна помилка - і ти б мене ді
 
 # Clint
 ### I was an experienced boxer hog.
-PC21_CLINT1-3=Я був досвідченим боксером-кабаном.
+PC21_CLINT1-3=Я був досвідченим боксером.
 
 
 # Clint
@@ -5907,7 +5907,7 @@ PC21_CLINT1-4=У Нетрях була така бійцівська яма. Я�
 
 # Clint
 ### "The Halo".
-PC21_CLINT1-5="Гало".
+PC21_CLINT1-5="Німб".
 
 
 # Brok
@@ -5992,7 +5992,7 @@ PC21_CLINT1-21=Хіба що на тобі була боксерська екі�
 
 # Brok
 ### Gators age well!
-PC21_CLINT1-22=Алігатори добре зберігаються!
+PC21_CLINT1-22=Алігатори добре старіють!
 
 
 # Clint
@@ -6002,7 +6002,7 @@ PC21_CLINT1-23=Мабуть!
 
 # Clint
 ### Anyway, after everything shut down, I decided to focus on helping my family instead of continuing to train.
-PC21_CLINT1-24=Так чи інакше, коли все закрилося, я вирішив допомагати родині, а не тренуватися далі.
+PC21_CLINT1-24=Так чи інакше, коли все закрили, я вирішив допомагати родині, а не тренуватися далі.
 
 
 # Clint
@@ -6047,7 +6047,7 @@ PC21_CLINT1-31=Проблема в іншому... чим вони мені пл
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 # NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
 ### Good thing I love antburgers and energy drinks!
-PC21_CLINT1-32=Добре, що я люблю мурахобургери та енергетичні напої!
+PC21_CLINT1-32=Добре, що я люблю мурахобургери та енергетики!
 
 
 # Clint
@@ -6070,7 +6070,7 @@ PC21_CLINT2-2=Переважно обмінюю.
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Some guys'll pay Unis for these, believe it or not.
-PC21_CLINT2-3=Деякі хлопці платять за них Юні, віриш чи ні.
+PC21_CLINT2-3=Віриш чи ні, але деякі готові заплатити за них Юні.
 
 
 # Clint
@@ -6100,12 +6100,12 @@ PC21_CLINT2-8=Молодець, друже!
 
 # Clint
 ### Ahh, it's not completely selfless. I'll treat myself to a drink sometimes.
-PC21_CLINT2-9=Ага, це не зовсім безкорисливо. Іноді я балую себе напоєм.
+PC21_CLINT2-9=Ех, це не зовсім безкорисливо. Іноді я балую себе напоєм.
 
 
 # Clint
 ### And the fights? Feels great to get back to action!
-PC21_CLINT2-10=А бійки? Так класно знову бути в ділі!
+PC21_CLINT2-10=А щодо бійок? Так класно знову бути в ділі!
 
 
 #----------------------------------------------------
@@ -6126,7 +6126,7 @@ PC21_CLINT3-3=Вона чудово готує, і я вмовив її відк
 
 # Brok
 ### Nice! The choice is pretty limited around here.
-PC21_CLINT3-4=Клас! А то тут вибір невеликий.
+PC21_CLINT3-4=Клас! А то тут вибір тут доволі невеликий.
 
 
 # Clint
@@ -6157,7 +6157,7 @@ PC21_CLINT3-9=Моя Нела заслуговує на краще.
 
 # Clint
 ### Fortunately, her great uncle has a high-ranking job and helped us with all the administrative stuff.
-PC21_CLINT3-10=На щастя, її прадядько має високу посаду і допоміг нам з усією бюрократією.
+PC21_CLINT3-10=На щастя, її дядько має високу посаду і допоміг нам з усією бюрократією.
 
 
 # Clint
@@ -6177,7 +6177,7 @@ PC21_CLINT3-13=Ага, і як він любить нашого сина.
 
 # Clint
 ### Almost too much. He would shower him with gifts if we didn't set limits.
-PC21_CLINT3-14=Навіть занадто. Він би засипав його подарунками, якби ми не стримували.
+PC21_CLINT3-14=Навіть занадто. Він би засипав хлопця подарунками, якби ми його не стримували.
 
 
 # Clint
@@ -6228,7 +6228,7 @@ PC21_CLINT3-23=Я виховую сина своєї дружини.
 # Brok
 # NB: Lexicon word in Ukrainian for "The Blackout": "Знеструмлення"
 ### She passed away during the blackout accident six years ago.
-PC21_CLINT3-24=Вона загинула під час аварії Знеструмлення шість років тому.
+PC21_CLINT3-24=Вона загинула під час аварії e Знеструмлення шість років тому.
 
 
 # Clint
@@ -6263,7 +6263,7 @@ PC21_CLINT3-30=Ага...
 
 # Brok
 ### But I'm doing my best. I want to.
-PC21_CLINT3-31=Але я стараюся щосили. Бо хочу.
+PC21_CLINT3-31=Але я стараюся щосили. Хочу старатися.
 
 
 # Brok
@@ -6284,17 +6284,17 @@ PC21_CLINT4-1=Мушу сказати, я все ж сподівався пер�
 
 # Clint
 ### Truth is, there's a regular here that runs a second-hand store.
-PC21_CLINT4-2=Річ у тім, що тут є завсідник, який тримає крамницю вживаних речей.
+PC21_CLINT4-2=Річ у тім, що тут є постійний клієнт, який тримає крамницю вживаних речей.
 
 
 # Clint
 ### Talked to him about trading my C-Tokens to get some clothes for my boy, but he wants a lot.
-PC21_CLINT4-3=Говорив із ним, щоб обміняти свої К-Жетони на одяг для сина, але він заламує ціну.
+PC21_CLINT4-3=Я говорив із ним, щоб обміняти свої К-Жетони на одяг для сина, але він заламує ціну.
 
 
 # Clint
 ### Ah well! Guess I'll just have to keep at it until I get enough!
-PC21_CLINT4-4=Ех! Доведеться гризти далі, доки не наберу достатньо!
+PC21_CLINT4-4=Ех! Доведеться грати далі, доки не наберу достатньо!
 
 
 #----------------------------------------------------
@@ -6305,7 +6305,7 @@ PC21_CLINT_CHOICE_YES-1=Тримай.
 
 # Clint
 ### Oh my! But you won fair and square. You really shouldn't!
-PC21_CLINT_CHOICE_YES-2=Ой леле! Але ж ти переміг чесно. Не треба було!
+PC21_CLINT_CHOICE_YES-2=Ого! Але ж ти переміг чесно. Не треба було!
 
 
 # Brok
@@ -6320,7 +6320,7 @@ PC21_CLINT_CHOICE_YES-4=Ха-ха! Ну добре! Дуже дякую, дру�
 
 # Clint
 ### I should be able to trade those in for some fancy new attire.
-PC21_CLINT_CHOICE_YES-5=За них уже можна виміняти гарний новий одяг.
+PC21_CLINT_CHOICE_YES-5=За них я зможу виміняти гарний новий одяг.
 
 
 # Clint
@@ -6338,12 +6338,12 @@ PC21_CLINT_CHOICE_YES-7=Твій син - мешканець Верхів?
 # Clint
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
 ### He might not be inside the dome yet, but he will!
-PC21_CLINT_CHOICE_YES-8=Може, він ще не в Куполі, але буде!
+PC21_CLINT_CHOICE_YES-8=Може, він ще не під Куполом, але скоро буде!
 
 
 # Brok
 ### Right. I trust my son will too, he's so clever.
-PC21_CLINT_CHOICE_YES-9=Так. Сподіваюся, мій син теж - він же такий кмітливий.
+PC21_CLINT_CHOICE_YES-9=Так. Сподіваюся, мій син теж - він такий кмітливий.
 
 
 # Brok
@@ -6354,7 +6354,7 @@ PC21_CLINT_CHOICE_YES-10=Він би змарнував свій потенці�
 
 # Clint
 ### Same for mine, really!
-PC21_CLINT_CHOICE_YES-11=З моїм те саме, слово честі!
+PC21_CLINT_CHOICE_YES-11=З моїм, справді, те саме!
 
 
 #----------------------------------------------------
@@ -6365,7 +6365,7 @@ PC21_CLINT_CHOICE_NO-1=Перепрошую. Я теж збираю гроші �
 
 # Clint
 ### That's admirable! And there is no need for an apology!
-PC21_CLINT_CHOICE_NO-2=Це гідно поваги! І перепрошувати нема за що!
+PC21_CLINT_CHOICE_NO-2=Це гідно поваги! Перепрошувати нема за що!
 
 
 #----------------------------------------------------
@@ -6414,7 +6414,7 @@ PC21_BACK_DART1-5=(Га...?)
 #----------------------------------------------------
 # Dart
 ### Argh... whaddya want?
-PC21_BACK_DART2-1=Агр... шо тобі треба?
+PC21_BACK_DART2-1=Ар-р... шо тобі треба?
 
 
 # Brok
@@ -6439,7 +6439,7 @@ PC21_BACK_DART2-5=Ботів тут нема.
 
 # Dart
 ### Da guys dunno or care.
-PC21_BACK_DART2-6=Свої не знають - а може, їм байдуже.
+PC21_BACK_DART2-6=Свої не знають - або їм байдуже.
 
 
 # Dart
@@ -6459,7 +6459,7 @@ PC21_BACK_DART2-9=Якщо це щось прояснює: я захищався
 
 # Dart
 ### Oh yeah?!
-PC21_BACK_DART2-10=Ага, звісно?!
+PC21_BACK_DART2-10=Шо, справді?!
 
 
 # Dart
@@ -6470,7 +6470,7 @@ PC21_BACK_DART2-11=А як щодо того разу в каналізації 
 
 # Brok
 ### Well... you guys were in my way and wouldn't move...
-PC21_BACK_DART2-12=Ну... ви стали мені на дорозі й не хотіли відходити...
+PC21_BACK_DART2-12=Ну... ви, хлопці, стояли на моєму шляху й не хотіли відійти...
 
 
 # Dart
@@ -6480,7 +6480,7 @@ PC21_BACK_DART2-13=Шо, нам щоразу зриватися, як скажу
 
 # Dart
 ### Ya'd blame us for dat?!
-PC21_BACK_DART2-14=І за це нас винуватиш?!
+PC21_BACK_DART2-14=І за це ти нас винуватиш?!
 
 
 # Brok
@@ -6501,7 +6501,7 @@ PC21_BACK_DART2-17=Ви вбивці!
 
 # Dart
 ### Am not!
-PC21_BACK_DART2-18=Та ні!
+PC21_BACK_DART2-18=Ні!
 
 
 # Brok
@@ -6513,7 +6513,7 @@ PC21_BACK_DART2-19=Будеш заперечувати, що ви, Вереск�
 
 # Brok
 ### You killed innocent people in the process!
-PC21_BACK_DART2-20=Ви вбили невинних людей!
+PC21_BACK_DART2-20=Ви вбили тоді невинних людей!
 
 
 # Dart
@@ -6548,23 +6548,23 @@ PC21_BACK_DART2-26=Гаразд! Я згоден.
 
 # Dart
 ### Let's settle this!
-PC21_BACK_DART2-27=Зараз і вирішимо!
+PC21_BACK_DART2-27=Зараз все вирішимо!
 
 
 # Dart
 ### Gonna squeeze that dumb smirk offa yare face!
-PC21_BACK_DART2-28=Зараз зітру з твого писка ту дурну усмішку!
+PC21_BACK_DART2-28=Зітру з твого писка ту дурну усмішку!
 
 
 #----------------------------------------------------
 # Dart
 ### No way...
-PC21_BACK_DART_WIN-1=Та не може буть...
+PC21_BACK_DART_WIN-1=Не може буть...
 
 
 # Dart
 ### Guess you win, gator. I'm outta here.
-PC21_BACK_DART_WIN-2=Твоя взяла, алігаторе. Я тут зникаю.
+PC21_BACK_DART_WIN-2=Твоя взяла, алігаторе. Я забираюся.
 
 
 # Brok
@@ -6574,7 +6574,7 @@ PC21_BACK_DART_WIN-3=Ні! Стій.
 
 # Dart
 ### Can't keep losing like dat. Gotta get stronger.
-PC21_BACK_DART_WIN-4=Не можу так програвати далі. Треба ставати сильнішим.
+PC21_BACK_DART_WIN-4=Я не можу програвати. Треба ставати сильнішим.
 
 
 # Brok
@@ -6590,23 +6590,23 @@ PC21_BACK_DART_WIN-6=Шо?
 #----------------------------------------------------
 # Dart
 ### Heh, too easy!
-PC21_BACK_DART_LOSE-1=Хе, та легко ж!
+PC21_BACK_DART_LOSE-1=Хе, як легко!
 
 
 # Brok
 ### Man... My arm feels like jelly now...
-PC21_BACK_DART_LOSE-2=Ох... Рука тепер як кисіль...
+PC21_BACK_DART_LOSE-2=Ох... Рука тепер як желе...
 
 
 #----------------------------------------------------
 # Brok
 ### I admit... mayyybe I went a bit too far the other day.
-PC21_BACK_DART_AFTER-1=Визнаю... можеее, я того дня трохи перегнув.
+PC21_BACK_DART_AFTER-1=Визнаю... мо-ооже, я того дня трохи перегнув палку.
 
 
 # Brok
 ### That... tends to happen when someone gets in my way while on a mission.
-PC21_BACK_DART_AFTER-2=Так... буває, коли хтось стає мені на дорозі під час справи.
+PC21_BACK_DART_AFTER-2=Так... буває, коли хтось стає мені на моєму шляху під час справи.
 
 
 # Dart
@@ -6626,7 +6626,7 @@ PC21_BACK_DART_AFTER-5=Я розумію. Становище вашого нар
 
 # Brok
 ### But you're not the only ones who struggle out here.
-PC21_BACK_DART_AFTER-6=Але тут бідують не лише ви.
+PC21_BACK_DART_AFTER-6=Але ви не єдині, хто тут зазнає труднощів.
 
 
 # Brok
@@ -6642,12 +6642,12 @@ PC21_BACK_DART_AFTER-8=Якби мене там не було, ви б убил�
 # Dart
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Chief's orders. He's gonna die anyway. Better get our due from him before he kicks it.
-PC21_BACK_DART_AFTER-9=Наказ шефа. Він усе одно помре. Краще взяти своє з нього, поки він не врізав дуба.
+PC21_BACK_DART_AFTER-9=Наказ шефа. Він усе одно помре. Краще взяти своє, поки він не дав дуба.
 
 
 # Brok
 ### You don't know that! With the right medicine, he's cured!
-PC21_BACK_DART_AFTER-10=Ти не знаєш! З правильними ліками він одужає!
+PC21_BACK_DART_AFTER-10=Ти цього не знаєш! З правильними ліками він одужає!
 
 
 # Brok
@@ -6664,12 +6664,12 @@ PC21_BACK_DART_AFTER-12=...
 
 # Dart
 ### Maybe... maybe ya're right. About somethin', not everythin'.
-PC21_BACK_DART_AFTER-13=Може... може, ти й правий. У чомусь, не в усьому.
+PC21_BACK_DART_AFTER-13=Може... може, ти й маєш рацію. У чомусь, не в усьому.
 
 
 # Brok
 ### It's the same thing for me, too.
-PC21_BACK_DART_AFTER-14=У мене те саме.
+PC21_BACK_DART_AFTER-14=Насправді, в мене та сама ситуація.
 
 
 # Dart
@@ -6679,7 +6679,7 @@ PC21_BACK_DART_AFTER-15=Шо? Тобі теж хтось наказує?
 
 # Brok
 ### No, but I've made some decisions lately that I regret. Things that turned into disasters for Gra...
-PC21_BACK_DART_AFTER-16=Ні, але останнім часом я ухвалив кілька рішень, про які шкодую. Через них усе обернулося катастрофою для Гра...
+PC21_BACK_DART_AFTER-16=Ні, але останнім часом я ухвалив кілька рішень, про які тепер шкодую. Через них усе обернулося катастрофою для Гра...
 
 
 # Brok
@@ -6689,12 +6689,12 @@ PC21_BACK_DART_AFTER-17=Та не важливо.
 
 # Brok
 ### Y'know, you put up a good fight! Always nice to face a strong opponent!
-PC21_BACK_DART_AFTER-18=Знаєш, ти добре бився! Завжди приємно мати справу із сильним суперником!
+PC21_BACK_DART_AFTER-18=Знаєш, ти добре бився! Завжди приємно мати справу із сильним супротивником!
 
 
 # Dart
 ### Heh, yeah! Dat's da first thing ya've said that's true.
-PC21_BACK_DART_AFTER-19=Хе, ага! Це перше правдиве слово від тебе.
+PC21_BACK_DART_AFTER-19=Хе, ага! Це перша правдива річ, яку я від тебе почув.
 
 
 # Dart
@@ -6719,7 +6719,7 @@ PC21_BACK_DART_AFTER-23=Е-е... дякую.
 
 # Dart
 ### I train every day, with anythin' I can get my hands on. Dat way, I can protect my friends.
-PC21_BACK_DART_AFTER-24=Я тренуюся щодня, з усім, що під руку трапиться. Так я можу захистити друзів.
+PC21_BACK_DART_AFTER-24=Я тренуюся щодня, з усім, шо під руку трапиться. Так я можу захистити друзів.
 
 
 # Brok
@@ -6739,7 +6739,7 @@ PC21_BACK_DART_AFTER-27=Ага.
 
 # Dart
 ### S'who I wanna be.
-PC21_BACK_DART_AFTER-28=Це те, ким я хочу бути.
+PC21_BACK_DART_AFTER-28=Те, ким я хочу бути.
 
 
 # Brok
@@ -6754,12 +6754,12 @@ PC21_BACK_DART_AFTER-30=Тут, у VR-кабіні... це можливо.
 
 # Dart
 ### Pits're closed, bots always on our tails, everybody lookin' at me like I did somethin'...
-PC21_BACK_DART_AFTER-31=Ями зачинено, боти весь час нам на хвості, усі дивляться на мене, ніби я щось наробив...
+PC21_BACK_DART_AFTER-31=Ями закриті, боти весь час у нас на хвості, усі дивляться на мене, ніби я щось наробив...
 
 
 # Dart
 ### It's da only way it can be real for me.
-PC21_BACK_DART_AFTER-32=Це єдиний спосіб, щоб воно стало для мене справжнім.
+PC21_BACK_DART_AFTER-32=Це єдиний справжній спосіб для мене.
 
 
 # Brok
@@ -6780,19 +6780,19 @@ PC21_BACK_DART_AFTER-35=Ну, принаймні Атлазії.
 
 # Dart
 ### Heh... Thanks, croc.
-PC21_BACK_DART_AFTER-36=Хе... Дякую, крокодиле.
+PC21_BACK_DART_AFTER-36=Хе... Дякую, кроку.
 
 
 #----------------------------------------------------
 # Dart
 ### Wanna arm wrestle again?
-PC21_BACK_DART3-1=Ще раз армрестлінг?
+PC21_BACK_DART3-1=Хочеш ше раз в армрестлінг?
 
 
 #----------------------------------------------------
 # Dart - Hitting Dart
 ### Nuh!!!
-PC21_BACK_DART_HIT1-1=Не-а!!!
+PC21_BACK_DART_HIT1-1=Ні-і!!!
 
 
 # Dart
@@ -6825,7 +6825,7 @@ PC21_BACK_DART_WIN2-1=Підвели мене мої біцепси...
 
 # Dart
 ### Gotta train harder!
-PC21_BACK_DART_WIN2-2=Треба тренуватися більше!
+PC21_BACK_DART_WIN2-2=Треба більше тренуватися!
 
 
 #----------------------------------------------------
@@ -6879,13 +6879,13 @@ PC21_BACK_CROC8-1=(Ти просто не розумієш двійкового 
 #----------------------------------------------------
 # Backcroc
 ### (Pffft, take this and leave me alone...)
-PC21_BACK_CROC9-1=(Пхе, тримай і відчепися...)
+PC21_BACK_CROC9-1=(Пхе, тримай це і відчепися...)
 
 
 #----------------------------------------------------
 # Backcroc
 ### (Snorts)
-PC21_BACK_CROC_HIT1-1=(Фиркає)
+PC21_BACK_CROC_HIT1-1=(Хропить)
 
 
 #----------------------------------------------------
@@ -6896,17 +6896,17 @@ PC21_BACK_CROC_HIT2-1=(...)
 
 # Brok
 ### Oh no! I think I knocked him out for good!
-PC21_BACK_CROC_HIT2-2=Ой лихо! Здається, я його вирубав надовго!
+PC21_BACK_CROC_HIT2-2=Ой-ой! Здається, я вирубав його надовго!
 
 
 # Backcroc
 ### (Snorts!)
-PC21_BACK_CROC_HIT2-3=(Фиркає!)
+PC21_BACK_CROC_HIT2-3=(Хропить!)
 
 
 # Brok
 ### Never mind.
-PC21_BACK_CROC_HIT2-4=Та нічого.
+PC21_BACK_CROC_HIT2-4=Таки ні.
 
 
 #----------------------------------------------------
@@ -6938,7 +6938,7 @@ PC21_BACK_ROO1-5=Уперше в Нетрях?
 
 # Brok
 ### Nope.
-PC21_BACK_ROO1-6=Та ні.
+PC21_BACK_ROO1-6=Ні.
 
 
 # Backroo
@@ -6979,22 +6979,22 @@ PC21_BACK_ROO2-3=Як ти здогадався?
 
 # Brok
 ### You're writing them in your notepad.
-PC21_BACK_ROO2-4=Ти ж записуєш їх у блокнот.
+PC21_BACK_ROO2-4=Ти записуєш їх у блокнот.
 
 
 # Backroo
 ### No privacy, huh?
-PC21_BACK_ROO2-5=Ніякої приватності, еге ж?
+PC21_BACK_ROO2-5=Ніякої приватності, га?
 
 
 # Backroo
 ### Not even polite enough to not imply you were snooping. You're a gator alright.
-PC21_BACK_ROO2-6=Навіть не потрудився приховати, що підглядав. Ти точно алігатор.
+PC21_BACK_ROO2-6=Навіть не спробував приховати, що підглядав. Ти точно алігатор.
 
 
 # Brok
 ### Hey...! I'm not just any gator, I'm an investigator! Snooping is part of my job.
-PC21_BACK_ROO2-7=Гей...! Я не просто алігатор, я слідчий! Підглядати - частина роботи.
+PC21_BACK_ROO2-7=Гей...! Я не просто алігатор, я алігатор-детектив! Підглядати - частина моєї роботи.
 
 
 #----------------------------------------------------
@@ -7005,7 +7005,7 @@ PC21_BACK_ROO3-1=Я тебе мало не сплутав з іншим кенг
 
 # Backroo
 ### Yeah? How'd you tell the difference?
-PC21_BACK_ROO3-2=Ага? І як ти їх розрізнив?
+PC21_BACK_ROO3-2=Ага? І як ти нас розрізнив?
 
 
 # Brok
@@ -7037,7 +7037,7 @@ PC21_BACK_ROO3B-1=Дивак...
 #----------------------------------------------------
 # Brok - A play with the character name Sin
 ### I'll call him "Sinister".
-PC21_BACK_ROO4-1=Я називатиму його "Сіністер".
+PC21_BACK_ROO4-1=Я називатиму його "Сінгулярність".
 
 
 #----------------------------------------------------
@@ -7049,28 +7049,28 @@ PC21_BACK_ROO_HIT1-1=Ай! Гей, якщо тобі так кортить ду�
 #----------------------------------------------------
 # Backroo
 ### Ooof... You aren't gonna force me to leave, stupid gator...
-PC21_BACK_ROO_HIT2-1=У-ух... Ти ж не змусиш мене піти, дурний алігаторе...
+PC21_BACK_ROO_HIT2-1=У-ух... Ти не змусиш мене піти, дурний алігаторе...
 
 
 #----------------------------------------------------
 # Backfox
 ### Thanks for introducing me to this place.
-PC21_BACK_FOX1-1=Дякую, що показав мені це місце.
+PC21_BACK_FOX1-1=Дякую, що показала мені це місце.
 
 
 # Backbunny
 ### Yeah! It's pretty cool, I love their ladybug pie.
-PC21_BACK_FOX1-2=Ага! Тут класно, я обожнюю їхній пиріг із сонечок.
+PC21_BACK_FOX1-2=Ага! Тут доволі класно, я обожнюю їхній пиріг із сонечок.
 
 
 # Backfox
 ### I mean, I can finally breathe easily.
-PC21_BACK_FOX1-3=Я маю на увазі, я нарешті можу дихати вільно.
+PC21_BACK_FOX1-3=Ну, я нарешті можу дихати вільно.
 
 
 # Backbunny
 ### Right... With everything's that happening, being underground is a blessing.
-PC21_BACK_FOX1-4=Так... Коли таке коїться, бути під землею - це справжній порятунок.
+PC21_BACK_FOX1-4=Так... Коли кояться такі речі, бути під землею - це справжній порятунок.
 
 
 # Backfox
@@ -7121,12 +7121,12 @@ PC21_BACK_FOX2-6=Чому?
 
 # Backbunny
 ### I'm not programmed to move!
-PC21_BACK_FOX2-7=Мене ж не запрограмували рухатися!
+PC21_BACK_FOX2-7=Мене ж не запрограмували, щоб я рухалась!
 
 
 # Backfox
 ### Very funny, Tri-bunny-ot.
-PC21_BACK_FOX2-8=Дуже смішно, Три-кролик-от.
+PC21_BACK_FOX2-8=Дуже смішно, Три-кролико-бот.
 
 
 #----------------------------------------------------
@@ -7160,7 +7160,7 @@ PC21_BACK_FOX_HIT2-2=Пане Щелепко! Будь ласка!
 
 # Hyena
 ### Supercroc, I am thoroughly disappointed in you.
-PC21_BACK_FOX_HIT2-3=Суперкрокодиле, я в тобі цілковито розчарований.
+PC21_BACK_FOX_HIT2-3=Супер-кроку, я в тобі цілковито розчарований.
 
 
 #----------------------------------------------------
@@ -7176,7 +7176,7 @@ PC21_BACK_BADGER1-2=Гей! Що сьогодні смачного?
 
 # Backbadger
 ### Nachroachs.
-PC21_BACK_BADGER1-3=Таргани.
+PC21_BACK_BADGER1-3=Начотаргани.
 
 
 # Brok
@@ -7203,13 +7203,13 @@ PC21_BACK_BADGER2-2=(Я голоднію... Треба перестати див
 #----------------------------------------------------
 # Brok
 ### (Salivating)
-PC21_BACK_BADGER3-1=(Слина тече)
+PC21_BACK_BADGER3-1=(Тече слина)
 
 
 #----------------------------------------------------
 # Backbadger
 ### Awww!
-PC21_BACK_BADGER_HIT1-1=Ой!
+PC21_BACK_BADGER_HIT1-1=Ай!
 
 
 # Backbadger
@@ -7225,7 +7225,7 @@ PC21_BACK_BADGER_HIT1-3=Смакота!
 #----------------------------------------------------
 # Backbadger
 ### Oh no!
-PC21_BACK_BADGER_HIT2-1=Ой лихо!
+PC21_BACK_BADGER_HIT2-1=Ой-ой!
 
 
 # Backbadger
@@ -7276,12 +7276,12 @@ PC21_BACK_TRAIN1-8=Ти певен, що використовуєш усі св�
 
 # Backbat
 ### If you want a chance at winning those challenges, you better listen!
-PC21_BACK_TRAIN1-9=Якщо хочеш мати шанс виграти ці виклики, краще послухай!
+PC21_BACK_TRAIN1-9=Якщо хочеш мати шанс виграти в цих викликах, краще послухай!
 
 
 # Backbat
 ### Let's refresh your memory on what you can do!
-PC21_BACK_TRAIN1-10=Освіжимо в пам'яті, що ти вмієш!
+PC21_BACK_TRAIN1-10=Освіжімо в пам'яті, що ти вмієш!
 
 
 #----------------------------------------------------
@@ -7298,7 +7298,7 @@ PC21_BACK_TRAIN_YES-2=Поговори зі мною знову, коли зак
 #----------------------------------------------------
 # Backbat
 ### If you're using a keyboard and don't like the default keys, I wouldn't blame ya!
-PC21_BACK_TRAIN_YES2-1=Якщо ти граєш на клавіатурі й тобі не подобаються стандартні клавіші, я тебе не осуджу!
+PC21_BACK_TRAIN_YES2-1=Якщо ти граєш на клавіатурі й тобі не подобаються стандартні клавіші, я тебе не засуджую!
 
 
 # Backbat
@@ -7314,7 +7314,7 @@ PC21_BACK_TRAIN_YES2-3=А тепер іди потренуйся в цьому V
 #----------------------------------------------------
 # Backbat
 ### Don't forget to check the Tutorials in the Player menu. They have valuable info.
-PC21_BACK_TRAIN_AFTER-1=Не забудь зазирнути в розділ "Навчання" в меню гравця. Там цінна інформація.
+PC21_BACK_TRAIN_AFTER-1=Не забудь зазирнути в розділ "Навчання" в меню "Гравець". Там цінна інформація.
 
 
 # Brok
@@ -7342,7 +7342,7 @@ PC21_BACK_TRAIN_HIT2-1=У-ух!!! Клас, тренування дають ре
 #----------------------------------------------------
 # Backmouse
 ### Greetings, child. Might you be seeking a reprieve from your burdens?
-PC21_BACK_RESET1-1=Вітаю, дитя. Може, шукаєш перепочинку від своїх тягарів?
+PC21_BACK_RESET1-1=Вітаю, дитя. Можливо, шукаєш перепочинку від своїх тягарів?
 
 
 # Brok
@@ -7367,7 +7367,7 @@ PC21_BACK_RESET1-5=Тож їх треба відкинути.
 
 # Brok
 ### What is this, an Oblivion pill?
-PC21_BACK_RESET1-6=Що це, пігулка забуття?
+PC21_BACK_RESET1-6=Що це, пігулка Забуття?
 
 
 # Backmouse
@@ -7387,7 +7387,7 @@ PC21_BACK_RESET1-9=Я маю засіб стерти всі твої печал�
 
 # Brok
 ### Bar, not tavern...
-PC21_BACK_RESET1-10=Бар, не таверна...
+PC21_BACK_RESET1-10=Це бар, не таверна...
 
 
 # Backmouse
@@ -7408,7 +7408,7 @@ PC21_BACK_RESET1-13=О, ні. Це нічого тобі не коштувати
 # Backmouse
 # NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
 ### I am a humble servant of the Untail Salvation Army.
-PC21_BACK_RESET1-14=Я скромний слуга Армії Порятунку Безхвостих.
+PC21_BACK_RESET1-14=Я лише скромна служниця Армії Спасіння Безхвостого.
 
 
 # Backmouse
@@ -7445,7 +7445,7 @@ PC21_BACK_RESET2-3=Саме так, дитя.
 #----------------------------------------------------
 # Backmouse
 ### Ah, you are finally ready.
-PC21_BACK_RESET3-1=А, ти нарешті готовий.
+PC21_BACK_RESET3-1=Ах, ти нарешті готовий.
 
 
 # Brok
@@ -7466,12 +7466,12 @@ PC21_BACK_RESET3-4=Я...
 #----------------------------------------------------
 # Backmouse
 ### Why...! I offer this pill freely!
-PC21_BACK_RESET_HIT1-1=Та як...! Я ж даю цю пігулку безкоштовно!
+PC21_BACK_RESET_HIT1-1=Чому...? Я ж пропоную цю пігулку безкоштовно!
 
 
 # Brok
 ### Why not! You said I would forget everything.
-PC21_BACK_RESET_HIT1-2=А чому ні! Ти ж казав, що я все забуду.
+PC21_BACK_RESET_HIT1-2=А чому б ні! Ти ж казала, що я все забуду.
 
 
 # Backmouse
@@ -7482,7 +7482,7 @@ PC21_BACK_RESET_HIT1-3=Але я не забуду!
 #----------------------------------------------------
 # Backmouse
 ### You won't escape judgment for this!
-PC21_BACK_RESET_HIT2-1=Тобі за це не уникнути розплати!
+PC21_BACK_RESET_HIT2-1=За це тобі не уникнути розплати!
 
 
 # Brok
@@ -7518,7 +7518,7 @@ PC21_BACK_WOLF1-5=Насправді...
 
 # Backwolf
 ### I made a pretty big bet with a coworker, and now...
-PC21_BACK_WOLF1-6=Я заклався з колегою на чимало, і тепер...
+PC21_BACK_WOLF1-6=Я уклав досить серйозне парі з колегою, і тепер...
 
 
 # Brok
@@ -7559,12 +7559,12 @@ PC21_BACK_WOLF2-5=Не думай зайвого. Просто йди!
 
 # Backwolf
 ### Right... but how does that help you win?
-PC21_BACK_WOLF2-6=Ага... але як це допомагає виграти?
+PC21_BACK_WOLF2-6=Ага... але як це допоможе виграти?
 
 
 # Brok
 ### It helps moving forward!
-PC21_BACK_WOLF2-7=Це допомагає рухатися вперед!
+PC21_BACK_WOLF2-7=Це допоможе рухатися вперед!
 
 
 #----------------------------------------------------
@@ -7581,7 +7581,7 @@ PC21_BACK_WOLF_HIT1-2=Тепер у мене синець, а виклик ще 
 #----------------------------------------------------
 # Backwolf
 ### Argh...okay okay, I'll go!
-PC21_BACK_WOLF_HIT2-1=Агр... гаразд, гаразд, я вже йду!
+PC21_BACK_WOLF_HIT2-1=Ар-р... гаразд, я вже йду!
 
 
 #----------------------------------------------------
@@ -7618,27 +7618,27 @@ PC21_BACK_PLATYPUS2-2=То... що сталося?
 
 # Backplatypus
 ### Please, just go away.
-PC21_BACK_PLATYPUS2-3=Прошу, просто йди.
+PC21_BACK_PLATYPUS2-3=Прошу, просто йдіть.
 
 
 # Brok
 ### Oh, come on. I'm a great listener!
-PC21_BACK_PLATYPUS2-4=Та годі тобі. Я вмію слухати!
+PC21_BACK_PLATYPUS2-4=Та годі. Я вмію слухати!
 
 
 # Backplatypus
 ### No, you're not. What did I just tell you?
-PC21_BACK_PLATYPUS2-5=Ні, не вмієш. Що я тобі щойно сказала?
+PC21_BACK_PLATYPUS2-5=Ні, не вмієте. Що я вам щойно сказала?
 
 
 # Brok
 ### "Please listen to me?"
-PC21_BACK_PLATYPUS2-6="Прошу, вислухай мене?"
+PC21_BACK_PLATYPUS2-6="Прошу, вислухайте мене?"
 
 
 # Backplatypus
 ### No. Please leave.
-PC21_BACK_PLATYPUS2-7=Ні. Прошу, йди.
+PC21_BACK_PLATYPUS2-7=Ні. Прошу, йдіть.
 
 
 #----------------------------------------------------
@@ -7698,7 +7698,7 @@ PC21_BACK_RHINO2-1=Пхе.
 
 # Backrhino
 ### You may have won last time, but you're still the enemy.
-PC21_BACK_RHINO2-2=Може, ти й переміг минулого разу, але ти все одно ворог.
+PC21_BACK_RHINO2-2=Може, ти й переміг минулого разу, але ти все одно мій ворог.
 
 
 # Brok
@@ -7713,7 +7713,7 @@ PC21_BACK_RHINO2-4=Ти ж той дрібний бандит!
 
 # Backrhino
 ### No funny names! I'm an independant businessman.
-PC21_BACK_RHINO2-5=Без кличок! Я незалежний підприємець.
+PC21_BACK_RHINO2-5=Не треба образливих прізвиськ! Я незалежний бізнесмен.
 
 
 # Brok
@@ -7728,17 +7728,17 @@ PC21_BACK_RHINO2-7=О, тепер ясно. Твій "бізнес" - ширма
 
 # Backrhino
 ### Can't do laundry with a non-existant currency.
-PC21_BACK_RHINO2-8=Не випереш нічого валютою, якої не існує.
+PC21_BACK_RHINO2-8=Неможливо відмивати гроші за допомогою валюти, якої не існує.
 
 
 # Brok
 ### But I'm burning, right?
-PC21_BACK_RHINO2-9=Але ж я горю, правда?
+PC21_BACK_RHINO2-9=Як щодо...
 
 
 # Backrhino
 ### Buzz off. No business with the likes of ya.
-PC21_BACK_RHINO2-10=Відчепись. Не маю справ із такими, як ти.
+PC21_BACK_RHINO2-10=Відчепись. Я не веду справ із такими, як ти.
 
 
 # Brok
@@ -7754,13 +7754,13 @@ PC21_BACK_RHINO3-1=Нема коли гаяти час на дрібних зл�
 
 # Backrhino
 ### No time to waste with spare tires.
-PC21_BACK_RHINO3-2=Нема коли гаяти час на запасні шини.
+PC21_BACK_RHINO3-2=Нема коли гаяти час на телепнів.
 
 
 #----------------------------------------------------
 # Brok
 ### Come on, let’s fight! Or are you scared?
-PC21_BACK_RHINO_HIT1-1=Ну ж бо, биймося! Чи ти злякався?
+PC21_BACK_RHINO_HIT1-1=Ну ж бо, побиймося! Чи ти злякався?
 
 
 # Backrhino
@@ -7788,7 +7788,7 @@ PC21_BACK_RHINO_HIT2-1=Ні.
 # Brok
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff?! What are you...
-PC21_BACK_DAVE1-1=Графф?! Що ти...
+PC21_BACK_DAVE1-1=Граффе?! Що ти...
 
 
 # Backdave
@@ -7798,7 +7798,7 @@ PC21_BACK_DAVE1-2=Га...?
 
 # Brok
 ### Oh!... Oops, sorry. Confused you with someone else.
-PC21_BACK_DAVE1-3=О...! Ой, перепрошую. Переплутав тебе з іншим.
+PC21_BACK_DAVE1-3=О...! Ой, перепрошую. Переплутав з кимось іншим.
 
 
 # Backdave
@@ -7828,7 +7828,7 @@ PC21_BACK_DAVE1-8=Отже, ти сюди прийшов не битися.
 
 # Backdave
 ### No. My friend's Tyson's into it, though.
-PC21_BACK_DAVE1-9=Ні. Зате мій друг Тайсон тим захоплюється.
+PC21_BACK_DAVE1-9=Ні. Зате мій друг Тайсон цим захоплюється.
 
 
 # Backdave
@@ -7858,7 +7858,7 @@ PC21_BACK_DAVE1-14=У мене провали в пам'яті.
 
 # Backdave
 ### I wish I did...
-PC21_BACK_DAVE1-15=Хотів би я так...
+PC21_BACK_DAVE1-15=От би й мені так...
 
 
 #----------------------------------------------------
@@ -7900,7 +7900,7 @@ PC21_BACK_DAVE2-7=Перепрошую. Ні, бармен мені не тат�
 
 # Backdave
 ### I'm a striped hyena. He's spotted.
-PC21_BACK_DAVE2-8=Я смугаста гієна. А він плямистий.
+PC21_BACK_DAVE2-8=Я смугаста гієна. А він плямиста.
 
 
 # Brok
@@ -7915,7 +7915,7 @@ PC21_BACK_DAVE2-10=То твій тато теж смугаста гієна?
 
 # Backdave
 ### Actually...no. He's a spotted hyena.
-PC21_BACK_DAVE2-11=Власне... ні. Він плямиста гієна.
+PC21_BACK_DAVE2-11=Власне... ні. Він плямиста.
 
 
 # Brok
@@ -7946,7 +7946,7 @@ PC21_BACK_DAVE3-4=На вході.
 
 # Brok
 ### I just said anything, and it worked.
-PC21_BACK_DAVE3-5=Я сказав перше, що спало на думку, і спрацювало.
+PC21_BACK_DAVE3-5=Я тільки сказав перше, що спало на думку, і це спрацювало.
 
 
 # Backdave
@@ -7985,7 +7985,7 @@ PC21_BACK_GROUPFOUR1-2=Мене звати Брок.
 
 # Armadillo
 ### Yeah? Well, I remember ya!
-PC21_BACK_GROUPFOUR1-3=Ага? А от я тебе пам'ятаю!
+PC21_BACK_GROUPFOUR1-3=Ага? Ну, я тебе пам'ятаю!
 
 
 # Armadillo
@@ -8010,7 +8010,7 @@ PC21_BACK_GROUPFOUR1-7=Принаймні я не ношу свій дім на 
 
 # Rooster
 ### Ha! He got ya there!
-PC21_BACK_GROUPFOUR1-8=Ха! Тут він тебе впіймав!
+PC21_BACK_GROUPFOUR1-8=Ха! Тут він тебе підловив!
 
 
 #----------------------------------------------------
@@ -8036,22 +8036,22 @@ PC21_BACK_GROUPFOUR2-4=Так, я здогадався. Тому наступн�
 
 # Brok
 ### Hey now, no need to take it seriously.
-PC21_BACK_GROUPFOUR2-5=Гей, не сприймай так серйозно.
+PC21_BACK_GROUPFOUR2-5=Гей, не сприймай все так серйозно.
 
 
 # Boxersnake
 ### It was a four against two and yet I lost, I can't let that slide.
-PC21_BACK_GROUPFOUR2-6=Було четверо на двох, а я все одно програв. Такого я не спущу.
+PC21_BACK_GROUPFOUR2-6=Нас було четверо на двох, а я все одно програв. Я не можу просто так це забути.
 
 
 # Boxersnake
 ### I'll have to train harder and improve my skills enough so no other boxer can beat me so easily.
-PC21_BACK_GROUPFOUR2-7=Доведеться більше тренуватися й підтягнути майстерність, щоб жоден боксер не переміг мене так легко.
+PC21_BACK_GROUPFOUR2-7=Доведеться більше тренуватися й покращити майстерність, щоб жоден боксер не переміг мене так легко.
 
 
 # Brok
 ### Well... I admire the dedication at least so I wish you luck. I don't mind getting more duels!
-PC21_BACK_GROUPFOUR2-8=Ну... принаймні захоплююся твоєю завзятістю, тож хай щастить. Я не проти ще дуелей!
+PC21_BACK_GROUPFOUR2-8=Ну... принаймні я захоплююся твоєю завзятістю, тож хай щастить. Я завжди буду радий дуелі!
 
 
 # Brok
@@ -8066,12 +8066,12 @@ PC21_BACK_GROUPFOUR2-10=Мій плеєр, він допомагає мені т
 
 # Unknown
 ### "Slithery Snek"
-PC21_BACK_GROUPFOUR2-11="Слизький Снейк"
+PC21_BACK_GROUPFOUR2-11="Slithery Snek"
 
 
 # Boxersnake
 ### Just my current regular track to listen to.
-PC21_BACK_GROUPFOUR2-12=Просто мій теперішній трек, який я слухаю.
+PC21_BACK_GROUPFOUR2-12=Просто трек, який я слухаю на повторі.
 
 
 # Brok
@@ -8086,18 +8086,18 @@ PC21_BACK_GROUPFOUR2-14=Якщо хочеш.
 
 # Unknown
 ### <col=BOLD>"Slithery Snek"</col> added to the jukebox music tracks.
-PC21_BACK_GROUPFOUR2-15=<col=BOLD>"Слизький Снейк"</col> додано до треків музичного автомата.
+PC21_BACK_GROUPFOUR2-15=<col=BOLD>"Slithery Snek"</col> додано до треків музичного автомата.
 
 
 #----------------------------------------------------
 # Unknown - Free talk with the group of 4 enemies
 ### (Rattles nails on table)
-PC21_BACK_GROUPFOUR3-1=(Стукає кігтями по столу)
+PC21_BACK_GROUPFOUR3-1=(Барабанить кігтями по столу)
 
 
 # Brok
 ### Hmm... Nice nails...!
-PC21_BACK_GROUPFOUR3-2=Гмм... гарні кігті...!
+PC21_BACK_GROUPFOUR3-2=Гмм... Гарні кігті...!
 
 
 # Bear
@@ -8128,12 +8128,12 @@ PC21_BACK_GROUPFOUR3-7=Та ні. Засланий в'язень.
 # Bear
 # NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
 ### Outside of Atlasia, I mutated.
-PC21_BACK_GROUPFOUR3-8=За межами Атлазії я мутований.
+PC21_BACK_GROUPFOUR3-8=За межами Атлазії я зазнав мутації.
 
 
 # Brok
 ### Mutated?!
-PC21_BACK_GROUPFOUR3-9=Мутований?!
+PC21_BACK_GROUPFOUR3-9=Мутації?!
 
 
 # Bear
@@ -8163,7 +8163,7 @@ PC21_BACK_GROUPFOUR3-14=Ага. Матуся велика й сильна.
 
 # Bear
 ### Someday I'll be stronger than mommy, too!
-PC21_BACK_GROUPFOUR3-15=Колись і я буду сильніший за матусю!
+PC21_BACK_GROUPFOUR3-15=І колись я буду сильніший за матусю!
 
 
 # Brok
@@ -8174,22 +8174,22 @@ PC21_BACK_GROUPFOUR3-16=Не певен, що хочу з нею познайо�
 #----------------------------------------------------
 # Armadillo
 ### I'm so thirsty. Can you guys call one of those server buffoons?
-PC21_BACK_GROUPFOUR4-1=У мене аж у горлі пересохло. Покличте котрогось із тих блазнів-офіціантів?
+PC21_BACK_GROUPFOUR4-1=У мене аж у горлі пересохло. Покличте когось із тих дурнів-офіціантів?
 
 
 # Rooster
 ### No need, man.
-PC21_BACK_GROUPFOUR4-2=Не треба, друже.
+PC21_BACK_GROUPFOUR4-2=Не треба, чуваче.
 
 
 # Unknown
 ### (Extends arm to grab a drink)
-PC21_BACK_GROUPFOUR4-3=(Простягає руку до напою)
+PC21_BACK_GROUPFOUR4-3=(Простягає руку, щоб взяти напій)
 
 
 # Rooster
 ### Flawless catch.
-PC21_BACK_GROUPFOUR4-4=Бездоганний улов.
+PC21_BACK_GROUPFOUR4-4=Бездоганний захват.
 
 
 # Boxersnake
@@ -8204,7 +8204,7 @@ PC21_BACK_GROUPFOUR4-6=Що я можу сказати? У мене це вро�
 
 # Boxersnake
 ### There's nothing natural about that metal piece of trash.
-PC21_BACK_GROUPFOUR4-7=Нічого природного в цій металобрухтяній штуці немає.
+PC21_BACK_GROUPFOUR4-7=Нічого природного в цьому металобрухті немає.
 
 
 # Rooster
@@ -8214,7 +8214,7 @@ PC21_BACK_GROUPFOUR4-8=Тю, ти просто заздриш.
 
 # Rooster
 ### Not only does it attracts the chicks, it makes me the toughest guy around here.
-PC21_BACK_GROUPFOUR4-9=Воно не лише приваблює дівчат, а й робить мене найміцнішим хлопцем у барі.
+PC21_BACK_GROUPFOUR4-9=Воно не лише приваблює дівчат, а й робить мене найміцнішим чоловіком у барі.
 
 
 # Brok
@@ -8224,7 +8224,7 @@ PC21_BACK_GROUPFOUR4-10=Пхе, ага, такий міцний, що аж бі�
 
 # Armadillo
 ### Ha! He got you there.
-PC21_BACK_GROUPFOUR4-11=Ха! Тут він тебе впіймав.
+PC21_BACK_GROUPFOUR4-11=Ха! Тут він тебе підловив.
 
 
 # Rooster
@@ -8254,7 +8254,7 @@ PC21_BACK_GROUPFOUR4-16=Виходь зі мною один на один, і я
 
 # Brok
 ### Now you're just projecting.
-PC21_BACK_GROUPFOUR4-17=Оце ти вже своє на мене перекидаєш.
+PC21_BACK_GROUPFOUR4-17=Тепер ти просто проектуєш свої думки на іншого.
 
 
 # Brok
@@ -8264,7 +8264,7 @@ PC21_BACK_GROUPFOUR4-18=Ти заздриш, що в мене справжні �
 
 # Rooster
 ### Oh, I'll play some music for ya, stupid croc!
-PC21_BACK_GROUPFOUR4-19=О, я зараз заграю тобі музику, дурний крокодиле!
+PC21_BACK_GROUPFOUR4-19=О, я зараз заграю тобі музику, дурний кроку!
 
 
 # Armadillo
@@ -8290,7 +8290,7 @@ PC21_BACK_GROUPFOUR4-23=Ну все...!
 
 # Hyena
 ### Throw one punch, and you two will see what'll happen.
-PC21_BACK_GROUPFOUR4-24=Завдасте хоч один удар - і побачите, що буде.
+PC21_BACK_GROUPFOUR4-24=Спробуйте хоч раз замахнутися кулаками, і ви обоє побачите, що буде.
 
 
 # Rooster
@@ -8305,17 +8305,17 @@ PC21_BACK_GROUPFOUR4-26=...
 
 # Boxersnake
 ### You'd better not piss 'Jaw off.
-PC21_BACK_GROUPFOUR4-27=Краще не дратуй Лепка.
+PC21_BACK_GROUPFOUR4-27=Краще не дратувати 'Лепку.
 
 
 # Bear
 ### I did once. Broke off a tooth...
-PC21_BACK_GROUPFOUR4-28=Якось дратував. Зламав зуб...
+PC21_BACK_GROUPFOUR4-28=Якось роздратував. Зламав зуб...
 
 
 # Armadillo
 ### Haha, yeah. That was fun to watch.
-PC21_BACK_GROUPFOUR4-29=Ха-ха, ага. Було на що подивитися.
+PC21_BACK_GROUPFOUR4-29=Ха-ха, ага. Було весело на це подивитися.
 
 
 # Rooster
@@ -8335,7 +8335,7 @@ PC21_BACK_GROUPFOUR4-32=Коли завгодно.
 
 # Brok
 ### (Punks like this always back down. Just gotta stand your ground)
-PC21_BACK_GROUPFOUR4-33=(Такі шмаркачі завжди відступають. Головне - не поступатися)
+PC21_BACK_GROUPFOUR4-33=(Такі шмаркачі завжди відступають. Головне - стояти на своєму)
 
 
 #----------------------------------------------------
@@ -8347,12 +8347,12 @@ PC21_BACK_GROUPFOURHIT1-1=Та годі! Ми вже тебе коронувал
 #----------------------------------------------------
 # Bear
 ### Ya're gonna get it...
-PC21_BACK_GROUPFOURHIT2-1=Ти в мене отримаєш...
+PC21_BACK_GROUPFOURHIT2-1=Ти в мене зараз отримаєш...
 
 
 # Armadillo
 ### No way. The rules, guys.
-PC21_BACK_GROUPFOURHIT2-2=Нізащо. Правила, хлопці.
+PC21_BACK_GROUPFOURHIT2-2=Аж ніяк. Правила, хлопці.
 
 
 # Boxersnake
@@ -8373,13 +8373,13 @@ PC21_QUIZZ_FIRST-2=Га...? Шолом щось показує...
 
 # Unknown
 ### Hello and welcome to 'Counter Quizz!'
-PC21_QUIZZ_FIRST-3=Вітаю і запрошую до "Контр-Вікторини!"
+PC21_QUIZZ_FIRST-3=Вітаємо і запрошуємо до "Контр-Вікторини!"
 
 
 # Unknown
 # NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
 ### This game is provided by the CounterAttack Bar and is 100% not affiliated with the Triangle.
-PC21_QUIZZ_FIRST-4=Цю гру надає бар "Контратака", і вона на 100% не пов'язана з Трикутником.
+PC21_QUIZZ_FIRST-4=Цю гру забезпечує бар "Контратака", і вона на 100% не пов'язана з Трикутником.
 
 
 # Brok
@@ -8389,29 +8389,29 @@ PC21_QUIZZ_FIRST-5=Гра?!
 
 # Unknown
 ### Yes, a game challenge! You have 60 seconds to reply 10 questions.
-PC21_QUIZZ_FIRST-6=Так, ігровий виклик! У тебе 60 секунд, щоб відповісти на 10 запитань.
+PC21_QUIZZ_FIRST-6=Так, ігровий виклик! У вас є 60 секунд, щоб відповісти на 10 запитань.
 
 
 # Unknown
 ### You pass when you answer at least {nb} questions correctly.
-PC21_QUIZZ_FIRST-7=Ти проходиш, якщо правильно відповіси щонайменше на {nb} запитань.
+PC21_QUIZZ_FIRST-7=Щоб перемогти, ви маєте правильно відповісти щонайменше на {nb} запитань.
 
 
 # Unknown
 ### Are you ready?
-PC21_QUIZZ_FIRST-8=Готовий?
+PC21_QUIZZ_FIRST-8=Готові?
 
 
 #----------------------------------------------------
 # Unknown
 ### Your score is <col=BOLD>{value}</col>.
-PC21_QUIZZ_RESULT-1=Твій результат: <col=BOLD>{value}</col>.
+PC21_QUIZZ_RESULT-1=Ваш результат: <col=BOLD>{value}</col>.
 
 
 #----------------------------------------------------
 # Hedgehog
 ### What do you think? I coded that quiz!
-PC21_QUIZZ_ENDDIALOGUE-1=Ну як вам? Це я написав ту вікторину!
+PC21_QUIZZ_ENDDIALOGUE-1=Ну як вам? Це я програмував ту вікторину!
 
 
 # Brok
@@ -8421,7 +8421,7 @@ PC21_QUIZZ_ENDDIALOGUE-2=Це складно!
 
 # Hedgehog
 ### Yeah! You can do it!
-PC21_QUIZZ_ENDDIALOGUE-3=Ага! У вас вийде!
+PC21_QUIZZ_ENDDIALOGUE-3=Так! Але у вас все вийде!
 
 
 #----------------------------------------------------
@@ -8445,7 +8445,7 @@ PC21_JUMPTABLE2-1=А про Баблс, якій потім усе прибир�
 #----------------------------------------------------
 # Frog - Actions in the room: go behind the bar
 ### Sir.
-PC21_HYENA_OFFLIMIT1-1=Добродію.
+PC21_HYENA_OFFLIMIT1-1=Пане.
 
 
 # Frog
@@ -8461,7 +8461,7 @@ PC21_HYENA_OFFLIMIT2-1=Сюди не можна, друже.
 
 # Hyena
 ### Of course you won't listen, so I'll keep acting as if nothing happened.
-PC21_HYENA_OFFLIMIT2-2=Звісно, ти не послухаєш, тож я й далі вдаватиму, ніби нічого не сталося.
+PC21_HYENA_OFFLIMIT2-2=Звісно, ти мене не послухаєш, тож я й далі вдаватиму, ніби нічого не сталося.
 
 
 #----------------------------------------------------
@@ -8495,18 +8495,18 @@ PC21_HIT_BACKGROUNDCHAR1-1=...га? Дим?
 
 # Hyena
 ### Bad croc! You just triggered our Anti-Scuffle system.
-PC21_HIT_BACKGROUNDCHAR1-2=Поганий крокодил! Ти щойно запустив нашу "антибійкову систему".
+PC21_HIT_BACKGROUNDCHAR1-2=Поганий кроку! Ти щойно запустив нашу "антибійкову систему".
 
 
 # Frog
 ### We set it up to prevent fights in the bar. It's for the good of everyone.
-PC21_HIT_BACKGROUNDCHAR1-3=Ми поставили її, щоб у барі не було бійок. Це для загального добра.
+PC21_HIT_BACKGROUNDCHAR1-3=Ми поставили її, щоб у барі не було бійок. Це заради спільного блага.
 
 
 # Hyena
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### I got inspired by a similar thing I saw in the Drums, back when I lived there.
-PC21_HIT_BACKGROUNDCHAR1-4=Мене надихнула схожа штука, яку я бачив на Верхах, коли там жив.
+PC21_HIT_BACKGROUNDCHAR1-4=Мене надихнула схожа штука, яку я бачив на Верхах, поки там жив.
 
 
 # Frog
@@ -8521,18 +8521,18 @@ PC21_HIT_BACKGROUNDCHAR1-6=Дивовижно, що можна зробити з
 
 # Brok
 ### That sucks!
-PC21_HIT_BACKGROUNDCHAR1-7=От халепа!
+PC21_HIT_BACKGROUNDCHAR1-7=Це відстій!
 
 
 # Hyena
 ### I'll forgive you for saying that if you behave yourself.
-PC21_HIT_BACKGROUNDCHAR1-8=Прощу тобі ці слова, якщо поводитимешся як слід.
+PC21_HIT_BACKGROUNDCHAR1-8=Я пробачу тобі ці слова, якщо ти поводимитешся як слід.
 
 
 #----------------------------------------------------
 # Hedgehog
 ### I'm disappointed in you, Mister Gator...
-PC21_HIT_BACKGROUNDCHAR2-1=Я розчарований у вас, пане Алігаторе...
+PC21_HIT_BACKGROUNDCHAR2-1=Я розчарований у вас, пане алігаторе...
 
 
 # Hedgehog
@@ -8542,7 +8542,7 @@ PC21_HIT_BACKGROUNDCHAR2-2=Я думав, ви інший...
 
 # Hedgehog
 ### See, now I'm gonna cry...
-PC21_HIT_BACKGROUNDCHAR2-3=От, тепер я заплачу...
+PC21_HIT_BACKGROUNDCHAR2-3=Ну от, зараз я розплачуся...
 
 
 #----------------------------------------------------
@@ -8564,7 +8564,7 @@ PC21_HIT_BACKGROUNDCHAR3-3=Гр-р...
 # Frog
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Mister Brok.
-PC21_HIT_BACKGROUNDCHAR3-4=Пане Брок.
+PC21_HIT_BACKGROUNDCHAR3-4=Пане Броку.
 
 
 # Frog
@@ -8574,7 +8574,7 @@ PC21_HIT_BACKGROUNDCHAR3-5=Ти не привілейований клієнт. 
 
 # Brok
 ### What will happen?
-PC21_HIT_BACKGROUNDCHAR3-6=І що буде?
+PC21_HIT_BACKGROUNDCHAR3-6=То що буде?
 
 
 # Frog
@@ -8595,7 +8595,7 @@ PC21_HIT_BACKGROUNDCHAR3-9=Не випробовуй наше терпіння.
 #----------------------------------------------------
 # Hyena - He's about to say a swear word but it's interrupted
 ### THAT'S IT! YOU F...
-PC21_HIT_BACKGROUNDCHAR4-1=УСЕ! ТИ, ДУР...
+PC21_HIT_BACKGROUNDCHAR4-1=УСЕ! ТИ, ДОВБ...
 
 
 #----------------------------------------------------
@@ -8643,7 +8643,7 @@ PC21_NEWSARTICLES2-2="Ніколи не повідомляйте владі на
 
 # Brok
 ### "Make sure you are not followed before entering"
-PC21_NEWSARTICLES2-3="Перед входом переконайтеся, що вас не ведуть"
+PC21_NEWSARTICLES2-3="Перед входом переконайтеся, що за вами ніхто не стежить"
 
 
 # Brok
@@ -8721,7 +8721,7 @@ PC21_EMBLEME1-8=На нього... боляче дивитися...?
 
 # Frog
 ### I'm sure. Tsk. The beauty of abstraction is wasted on the ignorant.
-PC21_EMBLEME1-9=Ще б пак. Пхе. Краса абстракції - не для невігласів.
+PC21_EMBLEME1-9=Звісно. Ех. Краса абстракції марнується на невігласів.
 
 
 #----------------------------------------------------
@@ -8745,13 +8745,13 @@ PC21_SINK1-2=Воно не приймає Юні, лише К-Жетони. Кр
 
 # Brok
 ### Let's try it!
-PC21_SINK1-3=Спробуймо!
+PC21_SINK1-3=Спробуємо!
 
 
 #----------------------------------------------------
 # Brok
 ### Plates, glasses, trays...
-PC21_KITCHENWARE1-1=Тарілки, склянки, таці...
+PC21_KITCHENWARE1-1=Тарілки, склянки, підноси...
 
 
 # Brok
@@ -8761,13 +8761,13 @@ PC21_KITCHENWARE1-2=І пляшки. Багато пляшок - більшіс�
 
 # Brok
 ### Hey, I don't usually spend that much time in bars!
-PC21_KITCHENWARE1-3=Гей, я зазвичай не так багато часу проводжу в барах!
+PC21_KITCHENWARE1-3=Гей, я не так багато часу проводжу в барах!
 
 
 #----------------------------------------------------
 # Brok
 ### Just the usual stuff you'd expect to find in a bar.
-PC21_KITCHENWARE2-1=Усе як завжди, нічого несподіваного для бару.
+PC21_KITCHENWARE2-1=Звичайні речі для бару, нічого несподіваного.
 
 
 #----------------------------------------------------
@@ -8804,36 +8804,36 @@ PC21_DOORLEFT2-4=Та ну ж бо!
 
 # Brok
 ### You can't just name a door "secret" and not expect me to be curious about it!
-PC21_DOORLEFT2-5=Не можна просто назвати двері "секретними" і чекати, що я не зацікавлюся!
+PC21_DOORLEFT2-5=Не можна просто назвати двері "секретними" і очікувати, що я ними не зацікавлюся!
 
 
 #----------------------------------------------------
 # Brok
 ### This is killing me!
-PC21_DOORLEFT3-1=Це мене вбиває!
+PC21_DOORLEFT3-1=Очікування мене вбиває!
 
 
 #----------------------------------------------------
 # Brok
 ### If only I could hit it. Dang perspective!
-PC21_DOORLEFT4-1=Якби ж я міг його вдарити. От же ж перспектива!
+PC21_DOORLEFT4-1=Якби ж я міг їх вдарити. От же ж перспектива!
 
 
 #----------------------------------------------------
 # Brok
 ### Wait...
-PC21_DOORLEFT_OPEN-1=Зачекай...
+PC21_DOORLEFT_OPEN-1=Чекайте...
 
 
 # Brok
 ### No way... It opened?!
-PC21_DOORLEFT_OPEN-2=Та не може бути... Воно відчинилося?!
+PC21_DOORLEFT_OPEN-2=Не може бути... Вони відчинилися?!
 
 
 #----------------------------------------------------
 # Unknown
 ### (This dynamically generated picture contains clues to events in the sequel)
-PC21_DOORLEFT_OPEN_AFTER-1=(Ця динамічно згенерована картинка містить підказки про події в продовженні)
+PC21_DOORLEFT_OPEN_AFTER-1=(Ця динамічно згенерована картинка містить підказки про події в продовженні гри)
 
 
 #----------------------------------------------------
@@ -8850,7 +8850,7 @@ PC21_DOORRIGHT1-2=Я можу почекати!
 #----------------------------------------------------
 # Brok
 ### I'm fine!
-PC21_DOORRIGHT2-1=Мені добре!
+PC21_DOORRIGHT2-1=Все гаразд!
 
 
 #----------------------------------------------------
@@ -8862,13 +8862,13 @@ PC21_DOORRIGHT3-1=Мені не треба!
 #----------------------------------------------------
 # Brok
 ### I'm okay!
-PC21_DOORRIGHT4-1=Я в порядку!
+PC21_DOORRIGHT4-1=Мені не те, щоб потрібно!
 
 
 #----------------------------------------------------
 # Brok
 ### No rush!
-PC21_DOORRIGHT5-1=Не поспішаю!
+PC21_DOORRIGHT5-1=Я не поспішаю!
 
 
 #----------------------------------------------------
@@ -8886,7 +8886,7 @@ PC21_DOORRIGHT7-1=Певен, там зайнято!
 #----------------------------------------------------
 # Brok
 ### Meh!
-PC21_DOORRIGHT8-1=Та пхе!
+PC21_DOORRIGHT8-1=Тьху!
 
 
 #----------------------------------------------------
@@ -8898,7 +8898,7 @@ PC21_DOORRIGHT9-1=Я не хочу туди!
 #----------------------------------------------------
 # Brok
 ### I'm not afraid! I just won't!
-PC21_DOORRIGHT10-1=Я не боюся! Я просто не піду!
+PC21_DOORRIGHT10-1=Я не боюся! Я просто не хочу заходити!
 
 
 #----------------------------------------------------
@@ -8951,13 +8951,13 @@ PC21_DOORRIGHT_DO5-1=(Двері)
 #----------------------------------------------------
 # Unknown
 ### (Washes)
-PC21_DOORRIGHT_DO6-1=(Миється)
+PC21_DOORRIGHT_DO6-1=(Вмивається)
 
 
 #----------------------------------------------------
 # Brok
 ### Hope I didn't make you wait too long!
-PC21_DOORRIGHT_END-1=Сподіваюся, я не змусив тебе довго чекати!
+PC21_DOORRIGHT_END-1=Сподіваюся, я не змусив вас довго чекати!
 
 
 # Hedgehog
@@ -8972,13 +8972,13 @@ PC21_DOORRIGHT_END-3=...ага.
 
 # Brok
 ### Anyway, look what I've found!
-PC21_DOORRIGHT_END-4=Хай там що, поглянь, що я знайшов!
+PC21_DOORRIGHT_END-4=Хай там що, погляньте, що я знайшов!
 
 
 #----------------------------------------------------
 # Brok
 ### Which was... totally not stuck in a weird spot...!
-PC21_DOORRIGHT_END2-1=І воно... зовсім не застрягло в дивному місці...!
+PC21_DOORRIGHT_END2-1=До речі, вона застрягла в... зовсім не дивному місці...!
 
 
 #----------------------------------------------------
@@ -9005,7 +9005,7 @@ PC21_JUKEBOX1-3=...нуль?
 
 # Frog
 ### (Sigh) Use the spinning wheel next to me to unlock some.
-PC21_JUKEBOX1-4=(Зітхає) Скористайся бонусним колесом поруч зі мною, щоб відкрити кілька.
+PC21_JUKEBOX1-4=(Зітхає) Скористайся бонусним колесом поруч зі мною, щоб відкрити нові треки.
 
 
 #----------------------------------------------------
@@ -9021,7 +9021,7 @@ PC21_AWARDS1-2=Та де там.
 
 # Hyena
 ### Just won some B-grade competitions back in the old days.
-PC21_AWARDS1-3=Та просто вигравав дещо на другорядних змаганнях у давні часи.
+PC21_AWARDS1-3=Просто вигравав дещо на змаганнях у давні часи.
 
 
 # Hyena
@@ -9063,22 +9063,22 @@ PC21_AWARDS1-10=Ну...
 
 # Hyena
 ### He's a friend from the old days.
-PC21_AWARDS1-11=Він друг із давніх часів.
+PC21_AWARDS1-11=Він мій друг із давніх часів.
 
 
 # Hyena
 ### The night the bar opened, he showed up with an armful of these.
-PC21_AWARDS1-12=У ніч відкриття бару він прийшов із оберемком оцих.
+PC21_AWARDS1-12=У ніч відкриття бару він прийшов із оберемком оцих трофеїв.
 
 
 # Hyena
 ### Told me to take 'em off his hands, that they'd give the bar "legitimacy."
-PC21_AWARDS1-13=Сказав, щоб я забрав їх у нього, бо вони дадуть бару "легітимності".
+PC21_AWARDS1-13=Сказав, щоб я взяв їх, бо вони додадуть бару "легітимності".
 
 
 # Hyena
 ### Always had to one-up me. Ha!
-PC21_AWARDS1-14=Завжди мусив мене перевершити. Ха!
+PC21_AWARDS1-14=Він завжди хотів мені допомогти. Ха!
 
 
 # Frog
@@ -9104,7 +9104,7 @@ PC21_AWARDS1-18=Клас!
 #----------------------------------------------------
 # Brok
 ### A long time ago, I won a trophy like these...
-PC21_AWARDS2-1=Давно-давно я виграв трофей, схожий на ці...
+PC21_AWARDS2-1=Дуже давно я виграв трофей, схожий на ці...
 
 
 # Brok
@@ -9137,7 +9137,7 @@ PC21_LASTFIGHT_GAMEOVER1-4=Я притримаю крокодила. А ти з�
 #----------------------------------------------------
 # Unknown
 ### "Atlasian Madness" is a fan game included as bonus. Each continue costs 50 C-Tokens.
-PC21_ARCADE_WARNING_NEW-1="Атлазійське божевілля" - фанатська гра, що йде бонусом. Кожне продовження коштує 50 К-Жетонів.
+PC21_ARCADE_WARNING_NEW-1="Атлазійське Божевілля" - фанатська гра, що йде бонусом. Кожне продовження коштує 50 К-Жетонів.
 
 
 #----------------------------------------------------
@@ -9180,7 +9180,7 @@ COOP_PC21_HEDGEHOG2-1=Я чекав більше загадок від Пазл�
 #----------------------------------------------------
 # Unknown
 ### He's a cool dad!
-COOP_PC21_CLINT1-1=Класний тато!
+COOP_PC21_CLINT1-1=Він класний батько!
 
 
 #----------------------------------------------------
@@ -9210,7 +9210,7 @@ COOP_PC21_BACK2-1=Б'юся об заклад, вони не люблять пр
 #----------------------------------------------------
 # Unknown
 ### Urgh, lower class citizens.
-COOP_PC21_BACK3-1=Гр-р, громадяни нижчого ґатунку.
+COOP_PC21_BACK3-1=Гр-р, громадяни нижнього класу.
 
 
 #----------------------------------------------------

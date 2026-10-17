@@ -182,7 +182,7 @@ PC15B_BOX1-2=Тут порожньо, і в мене немає бажання �
 # Brok
 # NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
 ### An energy drink?!
-PC15B_BOX_PICKUP-1=Енергетичний напій?!
+PC15B_BOX_PICKUP-1=Енергетик?!
 
 
 # Brok
