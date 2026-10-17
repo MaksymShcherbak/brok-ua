@@ -13,13 +13,13 @@ DIFFICULTY_NORMAL=Поєднання пригоди та бійки!
 
 
 ### Want a challenge?#(Controller highly recommended!)
-DIFFICULTY_HARD=Бажаєте викликів?#(Рекомендуємо використовувати контролер!)
+DIFFICULTY_HARD=Бажаєте випробувань?#(Рекомендуємо використовувати контролер!)
 
 ### Want a challenge?
-DIFFICULTY_HARD_CONSOLE=Бажаєте викликів?
+DIFFICULTY_HARD_CONSOLE=Бажаєте випробувань?
 
 ### Want a challenge?#(Controller heavily recommended!)
-DIFFICULTY_HARD_MOBILE=Бажаєте викликів?#(Рекомендуємо використовувати контролер!)
+DIFFICULTY_HARD_MOBILE=Бажаєте випробувань?#(Рекомендуємо використовувати контролер!)
 
 
 #=EndOfFile

@@ -67,7 +67,7 @@ CHOICE_EXIT=Вийти
 CHOICE_REMOVEALL=Видалити весь прогрес доповнення
 
 ### Keep C-Tokens, food and unlockables
-CHOICE_REMOVESOME=Залишити К-Жетони, їжу та розблоковане
+CHOICE_REMOVESOME=Залишити К-Жетони, їжу та те, що ви розблокували
 
 ### Don't do anything
 CHOICE_DONT=Нічого не робити
@@ -93,7 +93,7 @@ AD_PC21_CREATOR=Режим творця
 AD_PC21_JUKEBOX=Музичний автомат
 
 ### Food sink
-AD_PC21_FOODSINK=Умивальник, що подає їжу
+AD_PC21_FOODSINK=Умивальник з їжею
 
 ### Behind right counter
 AD_PC21_COUNTERRIGHT=За правою стійкою
@@ -102,7 +102,7 @@ AD_PC21_COUNTERRIGHT=За правою стійкою
 AD_PC21_COUNTERBOX=Коробка на стійці
 
 ### News article
-AD_PC21_NEWSARTICLE=Новина
+AD_PC21_NEWSARTICLE=Новинна стаття
 
 ### Right stool
 AD_PC21_STOOLRIGHT=Правий табурет
@@ -115,12 +115,12 @@ AD_PC21_PLANT=Ліва рослина
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### I love 'em ads
-INTERFACE_JUKEBOX_AD=Обожнюю рекламу!
+INTERFACE_JUKEBOX_AD=Обожнюю рекламу
 
 
 # Achievements
 ### I'm Just Warming Up
-ACHIEVE_DLC_FIRSTWIN=Я ще тільки розігріваюся
+ACHIEVE_DLC_FIRSTWIN=Я тільки розминаюся
 
 ### Novice Category
 ACHIEVE_DLC_NOVICE=Категорія "Новачок"
@@ -144,7 +144,7 @@ ACHIEVE_DLC_COMPLETENORMAL=Завершено (Звичайний)
 ACHIEVE_DLC_COMPLETEHARD=Завершено (Жорсткий)
 
 ### A Week of Daily
-ACHIEVE_DLC_DAILY=Тиждень щоденних випробувань
+ACHIEVE_DLC_DAILY=Тиждень щоденних викликів
 
 ### I Love to Chit-Chat
 ACHIEVE_DLC_STORY=Люблю балачки
@@ -160,7 +160,7 @@ ACHIEVE_DLC_BATHROOM=Перерва на вбиральню
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Bar Ads Lover
-ACHIEVE_DLC_ADS=Фанат реклами в барі
+ACHIEVE_DLC_ADS=Любитель барної реклами
 
 
 # Achievements descriptions
@@ -228,7 +228,7 @@ INTERFACE_CHARACTERSELECTED=Персонажа вибрано
 INTERFACE_RENAMEPLAYER=Перейменувати гравця {number}
 
 ### Spin it!
-INTERFACE_SPINIT=Крутіть!
+INTERFACE_SPINIT=Крутити!
 
 ### Gameovers
 INTERFACE_GAMEOVERDLC=Поразки
@@ -241,28 +241,28 @@ INTERFACE_ALLENEMIES=Усі
 
 
 ### Win challenge
-INTERFACE_DEBUG_DLC_WIN=Виграти виклик
+INTERFACE_DEBUG_DLC_WIN=Win challenge
 
 ### Lose challenge
-INTERFACE_DEBUG_DLC_LOSE=Програти виклик
+INTERFACE_DEBUG_DLC_LOSE=Lose challenge
 
 ### Set all challenges completed
-INTERFACE_DEBUG_DLC_COMPLETEALLCHALLENGES=Позначити всі виклики завершеними
+INTERFACE_DEBUG_DLC_COMPLETEALLCHALLENGES=Set all challenges completed
 
 ### Unlock all bonus challenges
-INTERFACE_DEBUG_DLC_UNLOCKBONUSCHALLENGES=Розблокувати всі бонусні виклики
+INTERFACE_DEBUG_DLC_UNLOCKBONUSCHALLENGES=Unlock all bonus challenges
 
 ### Give C-Tokens
-INTERFACE_DEBUG_DLC_GIVECTOKENS=Видати К-Жетони
+INTERFACE_DEBUG_DLC_GIVECTOKENS=Give C-Tokens
 
 ### Display challenges attempted/won/lose stats (for the current difficulty)
-INTERFACE_DEBUG_DLC_DISPLAYSTATS=Показати статистику спроб, перемог і поразок у викликах (для поточної складності)
+INTERFACE_DEBUG_DLC_DISPLAYSTATS=Display challenges attempted/won/lose stats (for the current difficulty)
 
 ### Reset all stats to zero (for the current difficulty)
-INTERFACE_DEBUG_DLC_RESETSTATS=Скинути всю статистику до нуля (для поточної складності)
+INTERFACE_DEBUG_DLC_RESETSTATS=Reset all stats to zero (for the current difficulty)
 
 ### Set first date for DLC daily challenges
-INTERFACE_DEBUG_DLC_SETFIRSTDATE=Задати першу дату для щоденних викликів доповнення
+INTERFACE_DEBUG_DLC_SETFIRSTDATE=Set first date for DLC daily challenges
 
 
 
@@ -280,7 +280,7 @@ INTERFACE_GRABBED=Схоплено!
 
 
 ### News articles
-PC_NEWSARTICLES=Новини
+PC_NEWSARTICLES=Новинні статті
 
 ### Boxing gloves
 PC_BOXINGGLOVES=Боксерські рукавички
@@ -289,7 +289,7 @@ PC_BOXINGGLOVES=Боксерські рукавички
 PC_EMBLEME=Емблема
 
 ### Food sink
-PC_FOODSINK=Умивальник, що подає їжу
+PC_FOODSINK=Умивальник з їжею
 
 ### Jukebox
 PC_JUKEBOX=Музичний автомат
@@ -317,21 +317,21 @@ PC_ARCADE=Аркадний автомат
 ITEM_INTERFACE_SWITCHBOXER_MSG=Перемикатися між боксерським і детективним вбранням
 
 ### Brawl Bar reset
-INTERFACE_RESET_DLC=Скидання прогресу Бійцівського бару
+INTERFACE_RESET_DLC=Скидання прогресу Brawl Bar
 
 # MODIFIED
 ### Warning - This will <col=BOLD>remove all your Brawl Bar progress</col>! (unlocked challenges, C-Tokens, collectibles and story)
-INTERFACE_RESET_DLC_REMOVEALL=Увага - це <col=BOLD>видалить увесь ваш прогрес у Бійцівському барі</col>! (розблоковані виклики, К-Жетони, колекційні предмети та історію)
+INTERFACE_RESET_DLC_REMOVEALL=Увага - це <col=BOLD>видалить увесь ваш прогрес у Бійцівському барі</col>! (розблоковані виклики, К-Жетони, колекційні предмети та сюжет)
 
 ### It won't affect the main game progress and achievements.
-INTERFACE_RESET_DLC_REMOVEALL_MAIN=Це не вплине на прогрес в основній грі та досягнення.
+INTERFACE_RESET_DLC_REMOVEALL_MAIN=Це не вплине на ваш прогрес в основній грі та досягнення.
 
 ### It won't affect the achievements.
 INTERFACE_RESET_DLC_REMOVEALL_STANDALONE=Це не вплине на досягнення.
 
 # MODIFIED
 ### Warning - This will <col=BOLD>remove some of your Brawl Bar progress</col>! (unlocked challenges and story)
-INTERFACE_RESET_DLC_REMOVESOME=Увага - це <col=BOLD>видалить частину вашого прогресу в Бійцівському барі</col>! (розблоковані виклики та історію)
+INTERFACE_RESET_DLC_REMOVESOME=Увага - це <col=BOLD>видалить частину вашого прогресу в Бійцівському барі</col>! (розблоковані виклики та сюжет)
 
 ### It won't affect the main game progress, achievements and extras unlocked.
 INTERFACE_RESET_DLC_REMOVESOME_MAIN=Це не вплине на прогрес в основній грі, досягнення та розблоковані додатки.
@@ -372,7 +372,7 @@ PC21_FROG_WHEEL=Бонусне колесо
 PC21_FROG_DOWNLOAD=Завантажити
 
 ### Place your trust
-PC21_HEDGEHOG_SUPPORT=Покластися на бійця
+PC21_HEDGEHOG_SUPPORT=Ставки
 
 ### Daily challenge
 PC21_HEDGEHOG_DAILYCHALLENGE=Щоденний виклик
@@ -482,7 +482,7 @@ PC_VRCABINS=VR-кабіна
 
 
 ### 2x faster!
-INTERFACE_2FASTER=Удвічі швидше!
+INTERFACE_2FASTER=2x швидше!
 
 ### Wave {number}
 INTERFACE_WAVE=Хвиля {number}
@@ -498,14 +498,14 @@ INTERFACE_REWARD=Нагорода
 CHALLENGE_WIN=Перемога!
 
 ### Wins
-CHALLENGE_WINS=Перемоги
+CHALLENGE_WINS=Перемагає
 
 # "Draw" here refers to combat when all opponents are equals
 ### Draw
 CHALLENGE_DRAW=Нічия
 
 ### CPU
-CHALLENGE_CPU=Комп'ютер
+CHALLENGE_CPU=Бот
 
 ### Oops...
 CHALLENGE_LOSE=Ой...
@@ -523,7 +523,7 @@ CHALLENGE_LOSE_FAIL=Провал...
 CHALLENGE_LOSE_SERVICE_TIMER=Занадто пізно!
 
 ### Wrong food!
-CHALLENGE_LOSE_SERVICE_WRONG=Не та страва!
+CHALLENGE_LOSE_SERVICE_WRONG=Не та їжа!
 
 ### Don't hit them...
 CHALLENGE_LOSE_HITFAIL=Не бийте їх...
@@ -565,7 +565,7 @@ MENU_COLLECTIBLECARDS=Картки
 
 
 ### Spin fast
-TUTORIAL_SPINFAST=Крутіть швидко
+TUTORIAL_SPINFAST=Крутити швидко
 
 ### Play
 TUTORIAL_CHALLENGEPLAY=Грати
@@ -602,7 +602,7 @@ CHOICE_ARCADEMACHINE_PLAY=Грати?
 PC21_ARCADE_NOGAMEPAD_TITLE=Потрібен контролер
 
 ### This game only works with a Bluetooth controller. Please connect one to play.
-PC21_ARCADE_NOGAMEPAD_DESC=Ця гра працює лише з Bluetooth-контролером. Підключіть його, щоб пограти.
+PC21_ARCADE_NOGAMEPAD_DESC=Ця гра працює лише з Bluetooth-контролером. Підключіть його, щоб зіграти.
 
 
 ### Default character
@@ -625,13 +625,13 @@ TYPE_SURVIVE=Вижити
 TYPE_KINGHILL=Король
 
 ### Battle Royale
-TYPE_BATTLEROYALE=Battle Royale
+TYPE_BATTLEROYALE=Королевська битва
 
 ### Suicide
-TYPE_SUICIDE=Самогубство
+TYPE_SUICIDE=Нокаутуйте себе
 
 ### Stage
-TYPE_STAGE=Етап
+TYPE_STAGE=Рівень
 
 ### Quizz
 TYPE_QUIZZ=Вікторина
@@ -660,7 +660,7 @@ TYPE_UNKNOWN=???
 TYPE_OBJECTIVE_DEFEAT=всіх ворогів
 
 ### everything destructible
-TYPE_OBJECTIVE_DESTROY=все, що розбивається
+TYPE_OBJECTIVE_DESTROY=все, що можна знищити
 
 ### all items
 TYPE_OBJECTIVE_COLLECT=всі предмети
@@ -669,7 +669,7 @@ TYPE_OBJECTIVE_COLLECT=всі предмети
 TYPE_OBJECTIVE_SURVIVE=до закінчення часу
 
 ### of the hill
-TYPE_OBJECTIVE_KINGHILL=пагорба
+TYPE_OBJECTIVE_KINGHILL=гори
 
 ### stay inside the circle
 TYPE_OBJECTIVE_BATTLEROYALE=залишатися в колі
@@ -701,34 +701,34 @@ ITEM_CHALLENGEPREMIUM=Заблоковано (повна гра)
 ITEM_CHALLENGEPREMIUM_MSG=Розблокуйте повну гру, щоб зіграти всі 60 викликів
 
 ### Survival stops at <col=BOLD>wave {free}</col> in the free version. The full game goes up to wave {full}!
-DLC_SURVIVAL_FREELIMIT=У безкоштовній версії виживання зупиняється на <col=BOLD>хвилі {free}</col>. А в повній грі можна дійти до хвилі {full}!
+DLC_SURVIVAL_FREELIMIT=У безкоштовній версії виживання зупиняється на <col=BOLD>{free} хвилі</col>. А в повній грі можна дійти до {full} хвилі!
 
 ### You received {value} C-Tokens you had earned before unlocking the full game!
 DLC_TOKENS_OWED=Ви отримали {value} К-Жетонів, які заробили до розблокування повної гри!
 
 ### Fowl Play
-ITEM_CHALLENGE_NEWFOE=Пташині штучки
+ITEM_CHALLENGE_NEWFOE=Пташині витівки
 
 ### Beat the <col=BOLD>rooster</col> enemy within time limit
-ITEM_CHALLENGE_NEWFOE_MSG=Переможіть <col=BOLD>півня</col> у межах часу
+ITEM_CHALLENGE_NEWFOE_MSG=Переможіть <col=BOLD>півня</col> за відведений час
 
 ### Grow Up on Sodas
 ITEM_CHALLENGE_GROWSODAS=Вирости на газованці
 
 ### Drink at least <col=BOLD>{number} sodas</col> within time limit
-ITEM_CHALLENGE_GROWSODAS_MSG=Випийте щонайменше <col=BOLD>{number} газованок</col> у межах часу
+ITEM_CHALLENGE_GROWSODAS_MSG=Випийте щонайменше <col=BOLD>{number} газованок</col> за відведений час
 
 ### Grabbers
-ITEM_CHALLENGE_GRABBERS=Хапуни
+ITEM_CHALLENGE_GRABBERS=Захоплений
 
 ### Defeat the enemies without getting <col=BOLD>grabbed</col> (instant death)
-ITEM_CHALLENGE_GRABBERS_MSG=Перемагайте ворогів, не даючи <col=BOLD>себе схопити</col> (миттєва смерть)
+ITEM_CHALLENGE_GRABBERS_MSG=Переможіть ворогів, не даючи <col=BOLD>себе схопити</col> (миттєва смерть)
 
 ### Crate Destroyer
 ITEM_CHALLENGE_DESTROYER=Руйнівник ящиків
 
 ### Break at least <col=BOLD>{number} crates</col> within time limit
-ITEM_CHALLENGE_DESTROYER_MSG=Розбийте щонайменше <col=BOLD>{number} ящиків</col> у межах часу
+ITEM_CHALLENGE_DESTROYER_MSG=Розбийте щонайменше <col=BOLD>{number} ящиків</col> за відведений час
 
 ### A Tale of Two Bears
 ITEM_CHALLENGE_TWOBEARS=Казка про двох ведмедів
@@ -745,13 +745,13 @@ ITEM_CHALLENGE_RATSSHOWDOWN=Розбірки зі щурами
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Take down all Squealers with <col=BOLD>R.J. and Graff safe!</col>
-ITEM_CHALLENGE_RATSSHOWDOWN_MSG=Подолайте всіх Верескунів, щоб <col=BOLD>Р. Джей і Графф лишилися неушкодженими!</col>
+ITEM_CHALLENGE_RATSSHOWDOWN_MSG=Подолайте всіх Верескунів, щоб <col=BOLD>Р. Джей і Графф були в безпеці!</col>
 
 ### Spiky Balloons
 ITEM_CHALLENGE_SPIKYBALLOONS=Колючі кульки
 
 ### Destroy <col=BOLD>all the balloons</col> in a spiked environment.
-ITEM_CHALLENGE_SPIKYBALLOONS_MSG=Знищте <col=BOLD>усі кульки</col> у середовищі, всіяному шипами.
+ITEM_CHALLENGE_SPIKYBALLOONS_MSG=Знищте <col=BOLD>усі повітряні кульки</col> на шипастій арені.
 
 ### 1D Combat
 ITEM_CHALLENGE_ONEDCOMBAT=1D-бій
@@ -763,7 +763,7 @@ ITEM_CHALLENGE_ONEDCOMBAT_MSG=Переможіть усіх ворогів, ру
 ITEM_CHALLENGE_DYNAMITE=Бум-бум
 
 ### Beat all enemies exclusively by throwing <col=BOLD>dynamites</col>
-ITEM_CHALLENGE_DYNAMITE_MSG=Перемагайте ворогів, кидаючи виключно <col=BOLD>динаміт</col>
+ITEM_CHALLENGE_DYNAMITE_MSG=Переможіть ворогів, кидаючи виключно <col=BOLD>динаміт</col>
 
 ### Killer Sneeze
 ITEM_CHALLENGE_RJSNEEZE=Смертельне чхання
@@ -776,13 +776,13 @@ ITEM_CHALLENGE_RJSNEEZE_MSG=Переможіть усіх Р. Джеїв, <col=B
 ITEM_CHALLENGE_CATCHME=Наздожени мене
 
 ### Kill all the enemies that keep <col=BOLD>running away</col>!
-ITEM_CHALLENGE_CATCHME_MSG=Убийте всіх ворогів, які <col=BOLD>постійно тікають</col>!
+ITEM_CHALLENGE_CATCHME_MSG=Убийте ворогів, які <col=BOLD>постійно тікають</col>!
 
 ### Cinnamon Chase
-ITEM_CHALLENGE_CINNAMONCHASE=Погоня за булочками з корицею
+ITEM_CHALLENGE_CINNAMONCHASE=Погоня за булочками
 
 ### Eat the cinnamon rolls, they make you <col=BOLD>faster and faster</col>!
-ITEM_CHALLENGE_CINNAMONCHASE_MSG=З'їдайте булочки з корицею - від них ви <col=BOLD>розганяєтеся дедалі швидше</col>!
+ITEM_CHALLENGE_CINNAMONCHASE_MSG=З'їдайте булочки з корицею - від них ви стаєте <col=BOLD>дедалі швидше</col>!
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Ott's Nightmare
@@ -819,7 +819,7 @@ ITEM_CHALLENGE_REBEL=Бунтар
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 # NB: Lexicon word in Ukrainian for "Rogue": "Роуг"
 ### Rogue rat targets <col=BOLD>deadly Squealers</col>!
-ITEM_CHALLENGE_REBEL_MSG=Роуг-щур націлюється на <col=BOLD>смертоносних Верескунів</col>!
+ITEM_CHALLENGE_REBEL_MSG=Щур-бунтар полює на <col=BOLD>смертоносних Верескунів</col>!
 
 ### I am Bomb
 ITEM_CHALLENGE_IAMBOMB=Я - бомба
@@ -837,7 +837,7 @@ ITEM_CHALLENGE_PLATFORMER_MSG=Знищте <col=BOLD>усі кульки</col>, 
 ITEM_CHALLENGE_RATWAVE=Щуряча хвиля
 
 ### Eliminate a big wave of <col=BOLD>100 rats</col>!
-ITEM_CHALLENGE_RATWAVE_MSG=Знищте велику хвилю з <col=BOLD>100 щурів</col>!
+ITEM_CHALLENGE_RATWAVE_MSG=Знищте велику хвилю зі <col=BOLD>100 щурів</col>!
 
 ### Twin Snakes
 ITEM_CHALLENGE_TWINSNAKES=Змії-близнюки
@@ -858,13 +858,13 @@ ITEM_CHALLENGE_NEARDEATH=Герой на межі смерті
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### The Chief is invincible till your <col=BOLD>healthbar flashes red!</col>
-ITEM_CHALLENGE_NEARDEATH_MSG=Шеф невразливий, доки ваша <col=BOLD>шкала здоров'я не блимне червоним!</col>
+ITEM_CHALLENGE_NEARDEATH_MSG=Шеф невразливий, доки ваша <col=BOLD>шкала здоров'я не буде блимати червоним!</col>
 
 ### Strike Rhythm
 ITEM_CHALLENGE_RHYTHMSTRIKE=Ритм ударів
 
 ### Limit yourself to <col=BOLD>one attack every second</col> max or die!
-ITEM_CHALLENGE_RHYTHMSTRIKE_MSG=Обмежтеся <col=BOLD>однією атакою щосекунди</col>, інакше загинете!
+ITEM_CHALLENGE_RHYTHMSTRIKE_MSG=Обмежтеся <col=BOLD>однією атакою за секунду</col>, інакше загинете!
 
 ### Jump Rhythm
 ITEM_CHALLENGE_RHYTHMJUMP=Ритм стрибків
@@ -882,16 +882,16 @@ ITEM_CHALLENGE_THREELITTLEBOTS_MSG=Переможіть <col=BOLD>трьох б�
 ITEM_CHALLENGE_SKATINGDAY=День ковзання
 
 ### Defeat all enemies in <col=BOLD>extreme weather conditions</col>.
-ITEM_CHALLENGE_SKATINGDAY_MSG=Перемагайте всіх ворогів за <col=BOLD>екстремальних погодних умов</col>.
+ITEM_CHALLENGE_SKATINGDAY_MSG=Здолайте всіх ворогів за <col=BOLD>екстремальних погодних умов</col>.
 
 ### Weak
 ITEM_CHALLENGE_WEAK=Слабкий
 
 ### Grab <col=BOLD>power boosts</col> to make you stronger!
-ITEM_CHALLENGE_WEAK_MSG=Хапайте <col=BOLD>посилення</col>, щоб стати сильнішими!
+ITEM_CHALLENGE_WEAK_MSG=Хапайте <col=BOLD>посилення</col>, щоб стати сильніше!
 
 ### One HP
-ITEM_CHALLENGE_ONEHP=Одне очко здоров'я
+ITEM_CHALLENGE_ONEHP=Одне здоров'я
 
 ### Everyone only has <col=BOLD>one health point</col>
 ITEM_CHALLENGE_ONEHP_MSG=У всіх лише <col=BOLD>одне очко здоров'я</col>
@@ -907,7 +907,7 @@ ITEM_CHALLENGE_EVERYONEDIED_MSG=Убийте <col=BOLD>всіх Триботів
 ITEM_CHALLENGE_BEATEMUPA=Beat 'em up у каналізації
 
 ### Classic beat'em up in the sewers. Three lives, no more!
-ITEM_CHALLENGE_BEATEMUPA_MSG=Класичний beat 'em up у каналізації. Три життя, не більше!
+ITEM_CHALLENGE_BEATEMUPA_MSG=Класична бійка у каналізації. Три життя, не більше!
 
 # MODIFIED
 ### Beatemup Rooftops
@@ -915,25 +915,25 @@ ITEM_CHALLENGE_BEATEMUPB=Beat 'em up на дахах
 
 # MODIFIED
 ### Classic beat'em up on rooftops. Fall is instant death!
-ITEM_CHALLENGE_BEATEMUPB_MSG=Класичний beat 'em up на дахах. Падіння - миттєва смерть!
+ITEM_CHALLENGE_BEATEMUPB_MSG=Класична бійка на дахах. Падіння - миттєва смерть!
 
 ### Bosses in a Rush
 ITEM_CHALLENGE_BEATEMUPC=Парад босів
 
 ### Fight all the bosses back to back, in pairs!
-ITEM_CHALLENGE_BEATEMUPC_MSG=Бийтеся з усіма босами підряд, парами!
+ITEM_CHALLENGE_BEATEMUPC_MSG=Бийтеся з усіма босами підряд, попарно!
 
 ### Final Fight
 ITEM_CHALLENGE_FINALFIGHT=Фінальна битва
 
 ### The quartet strikes back
-ITEM_CHALLENGE_FINALFIGHT_MSG=Квартет завдає удару у відповідь
+ITEM_CHALLENGE_FINALFIGHT_MSG=Квартет бере реванш
 
 ### Mini Spawn
-ITEM_CHALLENGE_MINISPAWN=Міні-породження
+ITEM_CHALLENGE_MINISPAWN=Ділення
 
 ### Enemies <col=BOLD>spawn tougher mini versions</col>. Keep killing 'em!
-ITEM_CHALLENGE_MINISPAWN_MSG=Вороги <col=BOLD>породжують міцніших міні-клонів</col>. Добивайте їх!
+ITEM_CHALLENGE_MINISPAWN_MSG=Вороги <col=BOLD>породжують міцніших міні-клонів</col>. Продовжуйте їх добивати!
 
 ### No HUD
 ITEM_CHALLENGE_NOHUD=Без HUD
@@ -942,7 +942,7 @@ ITEM_CHALLENGE_NOHUD=Без HUD
 ITEM_CHALLENGE_NOHUD_MSG=Усі показники здоров'я приховано!
 
 ### Killing Me Softly
-ITEM_CHALLENGE_KILLINGMESOFTLY=Убиваєте мене ніжно
+ITEM_CHALLENGE_KILLINGMESOFTLY=Убивай мене ніжно
 
 ### Your <col=BOLD>health decreases quickly</col>. Hit the enemy to gain some!
 ITEM_CHALLENGE_KILLINGMESOFTLY_MSG=Ваше <col=BOLD>здоров'я швидко зменшується</col>. Ударте ворога, щоб його поповнити!
@@ -961,7 +961,7 @@ ITEM_CHALLENGE_SAFETYFIRST=Двоє Сінів
 
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Two Sins, <col=BOLD>one-hit kill</col> glasses!
-ITEM_CHALLENGE_SAFETYFIRST_MSG=Двоє Сінів, <col=BOLD>окуляри вбивають з першого удару</col>!
+ITEM_CHALLENGE_SAFETYFIRST_MSG=Двоє Сінів, <col=BOLD>склянки вбивають з першого удару</col>!
 
 ### King of The Table
 ITEM_CHALLENGE_FRIENDLYSPARRING=Король стола
@@ -981,7 +981,7 @@ ITEM_CHALLENGE_BATTLEROYALE_MSG=Один крок <col=BOLD>за межі осв
 ITEM_CHALLENGE_FLOORISLAVA=Підлога - це лава
 
 ### <col=BOLD>Collect the required coins</col> without burning to death!
-ITEM_CHALLENGE_FLOORISLAVA_MSG=<col=BOLD>Зберіть потрібні монети</col>, не згорівши!
+ITEM_CHALLENGE_FLOORISLAVA_MSG=<col=BOLD>Зберіть необхідну кількість монет</col>, не згорівши!
 
 ### Service
 ITEM_CHALLENGE_SERVICE=Обслуговування
@@ -993,13 +993,13 @@ ITEM_CHALLENGE_SERVICE_MSG=<col=BOLD>Обслужіть усіх клієнті�
 ITEM_CHALLENGE_COLLATERALDAMAGE=Супутня шкода
 
 ### Defeat all the enemies <col=BOLD>without touching them!</col>
-ITEM_CHALLENGE_COLLATERALDAMAGE_MSG=Перемагайте всіх ворогів, <col=BOLD>не торкаючись їх!</col>
+ITEM_CHALLENGE_COLLATERALDAMAGE_MSG=Переможіть всіх ворогів, <col=BOLD>не торкаючись їх!</col>
 
 ### Kill the One
 ITEM_CHALLENGE_KILLTHEONE=Убити Єдиного
 
 ### Defeat exclusively the <col=BOLD>target rat!</col>
-ITEM_CHALLENGE_KILLTHEONE_MSG=Перемагайте виключно <col=BOLD>пацюка-ціль!</col>
+ITEM_CHALLENGE_KILLTHEONE_MSG=Здолайте виключно свою <col=BOLD>ціль!</col>
 
 ### Get Rid of Yourself
 ITEM_CHALLENGE_GETRIDOFYOURSELF=Позбудьтеся себе
@@ -1017,20 +1017,20 @@ ITEM_CHALLENGE_MONEYSHADOW_MSG=Збирайте монети <col=BOLD>у тем
 ITEM_CHALLENGE_BUMPEM=Гепніть їх
 
 ### Defeat the enemies by <col=BOLD>throwing them to the walls</col>
-ITEM_CHALLENGE_BUMPEM_MSG=Перемагайте ворогів, <col=BOLD>жбурляючи їх у стіни</col>
+ITEM_CHALLENGE_BUMPEM_MSG=Переможіть ворогів, <col=BOLD>жбурляючи їх у стіни</col>
 
 ### Flip Flap
 ITEM_CHALLENGE_FLIPFLAP=Догори дриґом
 
 ### Defeat the enemies with <col=BOLD>inverted controls!</col>
-ITEM_CHALLENGE_FLIPFLAP_MSG=Перемагайте ворогів із <col=BOLD>інвертованим керуванням!</col>
+ITEM_CHALLENGE_FLIPFLAP_MSG=Переможіть ворогів із <col=BOLD>інвертованим керуванням!</col>
 
 ### Rotten Food
 ITEM_CHALLENGE_ROTTENFOOD=Гнила їжа
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### Defeat the Kins by making them eat <col=BOLD>sewage sludge!</col>
-ITEM_CHALLENGE_ROTTENFOOD_MSG=Перемагайте Кінсів, змушуючи їх їсти <col=BOLD>каналізаційний осад!</col>
+ITEM_CHALLENGE_ROTTENFOOD_MSG=Переможіть Кінсів, змушуючи їх їсти <col=BOLD>каналізаційний осад!</col>
 
 ### Faster!
 ITEM_CHALLENGE_FASTER=Швидше!
@@ -1039,7 +1039,7 @@ ITEM_CHALLENGE_FASTER=Швидше!
 ITEM_CHALLENGE_FASTER_MSG=Вороги стають <col=BOLD>дедалі швидшими</col>!
 
 ### War Meddler
-ITEM_CHALLENGE_WARMEDDLER=Втручальник у війну
+ITEM_CHALLENGE_WARMEDDLER=Втручання у війну
 
 ### Destroy bots to <col=BOLD>help the rats</col>. No rat must die!
 ITEM_CHALLENGE_WARMEDDLER_MSG=Знищуйте ботів, щоб <col=BOLD>допомогти пацюкам</col>. Жоден пацюк не повинен загинути!
@@ -1066,7 +1066,7 @@ ITEM_CHALLENGE_DONTBLOWUP_MSG=Не дайте себе підірвати та �
 ITEM_CHALLENGE_LOWGRAVITY=Низька гравітація
 
 ### Destroy all targets <col=BOLD>fast</col> and survive!
-ITEM_CHALLENGE_LOWGRAVITY_MSG=Знищте всі мішені <col=BOLD>швидко</col>, щоб вижити!
+ITEM_CHALLENGE_LOWGRAVITY_MSG=Знищте всі мішені <col=BOLD>швидко</col> та виживіть!
 
 
 # Extras
@@ -1083,11 +1083,11 @@ ITEM_CHALLENGE_SURVIVETHEPARTY=Пережити вечірку
 ITEM_CHALLENGE_SURVIVETHEPARTY_MSG=Вечірка пішла не так. Виживайте з <col=BOLD>інвертованим керуванням</col>, але <col=BOLD>не бийте своїх гостей!</col>
 
 ### Ray Rising
-ITEM_CHALLENGE_RAYRISING=Повстання Р. Джея
+ITEM_CHALLENGE_RAYRISING=Повстання Р. Джеїв
 
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Survive the zombie R.J. apocalypse!
-ITEM_CHALLENGE_RAYRISING_MSG=Переживіть зомбі-апокаліпсис Р. Джея!
+ITEM_CHALLENGE_RAYRISING_MSG=Переживіть зомбі-апокаліпсис Р. Джеїв!
 
 ### The Lost Flush
 ITEM_CHALLENGE_THELOSTFLU=Загублений скарб
@@ -1111,13 +1111,13 @@ ITEM_CHALLENGE_HIDDENCOLL_MSG=Збирайте монети - не дайте в
 ITEM_CHALLENGE_PIPESPARRING=Король труби
 
 ### Stand on a <col=BOLD>tiny pipe longer</col> than all the enemies!
-ITEM_CHALLENGE_PIPESPARRING_MSG=Вистоюйте на <col=BOLD>крихітній трубі довше</col> за всіх ворогів!
+ITEM_CHALLENGE_PIPESPARRING_MSG=Втримайтеся на <col=BOLD>крихітній трубі довше</col> за всіх ворогів!
 
 ### Class Dismissed
 ITEM_CHALLENGE_CLASSDISMISSED=Урок закінчено
 
 ### Defeat all enemies fast, they <col=BOLD>keep recovering HP</col>!
-ITEM_CHALLENGE_CLASSDISMISSED_MSG=Перемагайте ворогів швидко - вони <col=BOLD>постійно відновлюють ОЗ</col>!
+ITEM_CHALLENGE_CLASSDISMISSED_MSG=Переможіть ворогів швидко - вони <col=BOLD>постійно відновлюють ОЗ</col>!
 
 ### Air intruder
 ITEM_CHALLENGE_AIRINTRUDE=Повітряний порушник
@@ -1130,33 +1130,33 @@ ITEM_CHALLENGE_AIRINTRUDE_MSG=Серед усіх цих Броків перем
 ITEM_CHALLENGE_DANGEROUSF=Небезпечна їжа
 
 ### Your punches do nothing: beat the enemies by <col=BOLD>throwing them food</col>!
-ITEM_CHALLENGE_DANGEROUSF_MSG=Ваші удари нічого не дають: перемагайте ворогів, <col=BOLD>жбурляючи в них їжу</col>!
+ITEM_CHALLENGE_DANGEROUSF_MSG=Ваші удари не працюють: переможіть ворогів, <col=BOLD>жбурляючи в них їжу</col>!
 
 ### Grabber Expert
 ITEM_CHALLENGE_GRABBEREXP=Майстер захватів
 
 ### The roosters only grab, and <col=BOLD>a grab means death</col>. Don't let them!
-ITEM_CHALLENGE_GRABBEREXP_MSG=Півні лише хапають, а <col=BOLD>захват означає смерть</col>. Не дайте їм!
+ITEM_CHALLENGE_GRABBEREXP_MSG=Півні лише хапають, а <col=BOLD>захват означає смерть</col>. Не дайте їм цього зробити!
 
 # NB: Lexicon word in Ukrainian for "Rogue": "Роуг"
 ### Rogue-like
-ITEM_CHALLENGE_ROGUELIKE=Роуг-лайк
+ITEM_CHALLENGE_ROGUELIKE=Rogue-like
 
 ### Your HP <col=BOLD>drains away</col>, survive by <col=BOLD>eating food</col>!
 ITEM_CHALLENGE_ROGUELIKE_MSG=Ваші ОЗ <col=BOLD>постійно зменшуються</col> - виживайте, <col=BOLD>з'їдаючи їжу</col>!
 
 ### Hydrogen Shark vs Coughing Gherkin
-ITEM_CHALLENGE_HYDROGENBO=Воднева акула проти Кашляючого Геркіна
+ITEM_CHALLENGE_HYDROGENBO=Воднева акула проти кашляючого Геркіна
 
 ### Beat the shark!...
 ITEM_CHALLENGE_HYDROGENBO_MSG=Переможіть акулу...!
 
 # NB: Lexicon word in Ukrainian for "Chief": "Шеф"
 ### Chief's Revenge
-ITEM_CHALLENGE_CHIEFSREVE=Помста Шефа
+ITEM_CHALLENGE_CHIEFSREVE=Помста шефа
 
 ### Defeat the crocogator!
-ITEM_CHALLENGE_CHIEFSREVE_MSG=Переможіть крокодилоалігатора!
+ITEM_CHALLENGE_CHIEFSREVE_MSG=Переможіть крокогатора!
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### The good Kins
@@ -1164,7 +1164,7 @@ ITEM_CHALLENGE_THEGOODKIN=Добрі Кінси
 
 # NB: Lexicon word in Ukrainian for "Kins": "Кінс"
 ### Defeat all the evil Kins, except <col=BOLD>the real one</col> who's on your side!
-ITEM_CHALLENGE_THEGOODKIN_MSG=Перемагайте всіх злих Кінсів, крім <col=BOLD>справжнього</col>, який на вашому боці!
+ITEM_CHALLENGE_THEGOODKIN_MSG=Переможіть всіх злих Кінсів, окрім <col=BOLD>справжнього</col>, який на вашому боці!
 
 # NB: Lexicon word in Ukrainian for "Mink": "Мінк"
 ### Mink is da bomb
@@ -1174,7 +1174,7 @@ ITEM_CHALLENGE_MINKISDABO=Мінк - це бомба
 ITEM_CHALLENGE_MINKISDABO_MSG=<col=BOLD>Стрибайте</col> і зробіть так, щоб усі вибухнули!
 
 ### Frozen Battle Royale
-ITEM_CHALLENGE_ICYBATTLEROYAL=Крижане Battle Royale
+ITEM_CHALLENGE_ICYBATTLEROYAL=Крижана королівська битва
 
 ### Be the sole survivor and <col=BOLD>stay within the limits</col>!
 ITEM_CHALLENGE_ICYBATTLEROYAL_MSG=Станьте єдиним, хто вижив, і <col=BOLD>не виходьте за межі</col>!
@@ -1239,7 +1239,7 @@ ITEM_CHALLENGE_QUIZZA=Вікторина A
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Show off your BROK knowledge! (easy)
-ITEM_CHALLENGE_QUIZZA_MSG=Покажіть свої знання про BROK! (легка)
+ITEM_CHALLENGE_QUIZZA_MSG=Покажіть свої знання про БРОКа! (легка)
 
 
 ### Quizz B
@@ -1247,7 +1247,7 @@ ITEM_CHALLENGE_QUIZZB=Вікторина B
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Show off your BROK knowledge! (medium)
-ITEM_CHALLENGE_QUIZZB_MSG=Покажіть свої знання про BROK! (середня)
+ITEM_CHALLENGE_QUIZZB_MSG=Покажіть свої знання про БРОКа! (середня)
 
 
 ### Quizz C
@@ -1255,14 +1255,14 @@ ITEM_CHALLENGE_QUIZZC=Вікторина C
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Show off your BROK knowledge! (hard)
-ITEM_CHALLENGE_QUIZZC_MSG=Покажіть свої знання про BROK! (складна)
+ITEM_CHALLENGE_QUIZZC_MSG=Покажіть свої знання про БРОКа! (складна)
 
 
 ### Arm Wrestle
 ITEM_CHALLENGE_ARMWRESTLE=Армрестлінг
 
 ### Are you stronger than the strongest rat?
-ITEM_CHALLENGE_ARMWRESTLE_MSG=Ви сильніші за найсильнішого пацюка?
+ITEM_CHALLENGE_ARMWRESTLE_MSG=Чи сильніші ви за найсильнішого пацюка?
 
 
 #ITEM_OTT=Cinnamon Roll
@@ -1294,7 +1294,7 @@ GAMEOVER_PC21_GROUP=Останній бій
 INTERFACE_OPTION_CHARLABELS=Позначки персонажів
 
 ### Simplified - Only important ones displayed
-INTERFACE_OPTION_CHARLABELS_SIMPLIFIED=Спрощено - показуються лише важливі
+INTERFACE_OPTION_CHARLABELS_SIMPLIFIED=Спрощені - показуються лише важливі
 
 ### All
 INTERFACE_OPTION_CHARLABELS_ALL=Усі
@@ -1357,7 +1357,7 @@ ROOMINFO_PERCENTMINSCALE_HELP=Масштаб персонажів, коли во
 ROOMINFO_PERCENTMAXSCALE_HELP=Масштаб персонажів, коли вони розташовані найближче до камери.##Має бути у відсотках, напр.: 100
 
 ### An ambient color to tint the characters.##Enter three values separated by commas for red, green and blue, between 0 and 255.##Eg: <col=BOLD>0,240,255</col> for cyan.
-ROOMINFO_COLOR_HELP=Колір оточення для тонування персонажів.##Введіть три значення через кому для червоного, зеленого та синього, від 0 до 255.##Напр.: <col=BOLD>0,240,255</col> для блакитного.
+ROOMINFO_COLOR_HELP=Колір оточення для зміни відтінку персонажів.##Введіть три значення через кому для червоного, зеленого та синього, від 0 до 255.##Напр.: <col=BOLD>0,240,255</col> для блакитного.
 
 ### Transparency to use for the ambient color. The higher, the more visible.##Must be a percent, eg: 50
 ROOMINFO_COLORALPHA_HELP=Прозорість для кольору оточення. Чим вище, тим помітніше.##Має бути у відсотках, напр.: 50
@@ -1395,7 +1395,7 @@ HELP_DLC_BOXEROUTFIT_INSTRUCTIONS=Тепер ви можете використ�
 HELP_DLC_BOXEROUTFIT2=Особливості боксерського вбрання
 
 ### Handling weapons won't be possible with this outfit. However, you gain two specific moves.##{command}
-HELP_DLC_BOXEROUTFIT2_INSTRUCTIONS=З цим вбранням не вдасться користуватися зброєю. Натомість ви отримуєте два особливі прийоми.##{command}
+HELP_DLC_BOXEROUTFIT2_INSTRUCTIONS=З цим вбранням вам не вдасться користуватися зброєю. Натомість ви отримуєте два особливі прийоми.##{command}
 
 ### <col=BOLD>When performing your regular combo</col>, press <col=BOLD>UP</col> <spr=CONTROL_up> to perform an uppercut, or <col=BOLD>DOWN</col> <spr=CONTROL_down> to perform a hook!
 HELP_DLC_BOXEROUTFIT2_MOUSE=<col=BOLD>Під час звичайного комбо</col> натисніть <col=BOLD>ВГОРУ</col> <spr=CONTROL_up>, щоб виконати аперкот, або <col=BOLD>ВНИЗ</col> <spr=CONTROL_down>, щоб виконати хук!
@@ -1418,7 +1418,7 @@ HELP_DLC_STEAMCOOP_INSTRUCTIONS=Грайте з друзями онлайн че
 HELP_DLC_STEAMCOOP2=Онлайн-кооператив (далі)
 
 ### No online friend to play with? Need help setting up a co-op session?##Come to our <col=BOLD>official Discord server</col>! (link in options)
-HELP_DLC_STEAMCOOP2_INSTRUCTIONS=Немає з ким грати онлайн? Потрібна допомога з налаштуванням кооперативу?##Завітайте на наш <col=BOLD>офіційний сервер Discord</col>! (посилання в налаштуваннях)
+HELP_DLC_STEAMCOOP2_INSTRUCTIONS=Немає з ким грати онлайн? Потрібна допомога з налаштуванням кооперативу?##Завітайте на наш <col=BOLD>офіційний Discord-сервер</col>! (посилання в налаштуваннях)
 
 
 
@@ -1434,7 +1434,7 @@ HELP_DLC_DLCCARDS_INSTRUCTIONS=Тепер ви можете збирати ка�
 HELP_DLC_ARMWRESTLING=Армрестлінг
 
 ### When the game starts, {command} repeatedly and steadily to gain strength.##Watch out, <col=BOLD>do not press too fast or you will lose your stamina</col>.##There is no indication on screen. It's all about feeling it!
-HELP_DLC_ARMWRESTLING_INSTRUCTIONS=Коли гра почнеться, {command} знову й знову, рівномірно, щоб набирати силу.##Обережно: <col=BOLD>не тисніть занадто швидко, бо втратите витривалість</col>.##На екрані немає жодних підказок. Усе залежить від відчуттів!
+HELP_DLC_ARMWRESTLING_INSTRUCTIONS=Коли гра почнеться, {command} знову й знову, щоб набирати силу.##Обережно: <col=BOLD>не тисніть занадто швидко, бо втратите витривалість</col>.##На екрані немає жодних підказок. Усе залежить від ваших відчуттів!
 
 ### press <button=INPUT_ACTION_JUMP>
 HELP_DLC_ARMWRESTLING_COMMAND=натисніть <button=INPUT_ACTION_JUMP>
@@ -1444,7 +1444,7 @@ HELP_DLC_ARMWRESTLING_COMMAND=натисніть <button=INPUT_ACTION_JUMP>
 HELP_DLC_VRFOOD=VR-їжа
 
 ### When you're stuck on a challenge, buy <col=BOLD>V.R. food from the sink</col> in the bar!##Then select it on the <col=BOLD>challenges choice screen</col> by pressing {command} or the top-right "Food selected" button.
-HELP_DLC_VRFOOD_INSTRUCTIONS=Якщо ви застрягли на виклику, купіть <col=BOLD>VR-їжу з умивальника</col> в барі!##Потім виберіть її на <col=BOLD>екрані вибору викликів</col>, натиснувши {command} або кнопку "Їжу вибрано" в правому верхньому куті.
+HELP_DLC_VRFOOD_INSTRUCTIONS=Якщо ви застрягли, купіть <col=BOLD>VR-їжу з умивальника</col> в барі!##Потім виберіть її на <col=BOLD>екрані вибору викликів</col>, натиснувши {command} або кнопку "Їжу вибрано" в правому верхньому куті.
 
 ### <button=INPUT_ACTION_SWITCH_MODE>
 HELP_DLC_VRFOOD_GAMEPAD=<button=INPUT_ACTION_SWITCH_MODE>
@@ -1457,7 +1457,7 @@ HELP_DLC_VRFOOD_MOUSE=<spr=CONTROL_mouseright>
 HELP_DLC_VRFOOD2=VR-їжа (далі)
 
 ### During the next challenge you'll choose, use this food at any time <col=BOLD>in the pause menu</col>.##Warning: you can only select one item, and it'll be <col=BOLD>gone after winning</col>, no matter if you actually use it or not!
-HELP_DLC_VRFOOD2_INSTRUCTIONS=Під час наступного виклику, яке ви оберете, цю їжу можна використати будь-коли <col=BOLD>в меню паузи</col>.##Увага: можна вибрати лише один предмет, і він <col=BOLD>зникне після перемоги</col> - незалежно від того, чи ви його насправді використали!
+HELP_DLC_VRFOOD2_INSTRUCTIONS=Під час наступного виклику використайте цю їжу <col=BOLD>в меню паузи</col>.##Увага: можна вибрати лише один предмет, і він <col=BOLD>зникне після перемоги</col> - незалежно від того, чи ви його насправді використали!
 
 
 ### Play More Characters
@@ -1478,14 +1478,14 @@ HELP_DLC_DLCFINISH2=Розблокуйте бонуси
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Unlock all remaining <col=BOLD>bonus challenges and collectibles</col> with Bubbles' wheel. Earn more C-Tokens!
-HELP_DLC_DLCFINISH2_INSTRUCTIONS=Розблокуйте всі решту <col=BOLD>бонусних викликів і колекційних предметів</col> за допомогою колеса Баблс. Заробляйте більше К-Жетонів!
+HELP_DLC_DLCFINISH2_INSTRUCTIONS=Розблокуйте решту <col=BOLD>бонусних викликів і колекційних предметів</col> за допомогою колеса Баблс. Заробляйте більше К-Жетонів!
 
 
 ### Daily Challenges
 HELP_DLC_DLCFINISH3=Щоденні виклики
 
 ### A new <col=BOLD>Daily Challenge</col> awaits you every day until the end of time!
-HELP_DLC_DLCFINISH3_INSTRUCTIONS=Новий <col=BOLD>Щоденний виклик</col> чекає на вас щодня - аж до кінця часів!
+HELP_DLC_DLCFINISH3_INSTRUCTIONS=Новий <col=BOLD>щоденний виклик</col> чекатиме на вас щодня - аж до кінця часів!
 
 
 ### Creator Mode
@@ -1496,7 +1496,7 @@ HELP_DLC_DLCFINISH4=Режим творця
 HELP_DLC_DLCFINISH4_INSTRUCTIONS=Скористайтеся <col=BOLD>Режимом творця</col> Баблс, щоб створювати власні виклики.
 
 ### Share them to your friends and <col=BOLD>download</col> community ones!##You can also create <col=BOLD>environments</col> and <col=BOLD>character mods</col>. Be sure to join the Discord for help on this!
-HELP_DLC_DLCFINISH4_INSTRUCTIONS_PC=Діліться ними з друзями та <col=BOLD>завантажуйте</col> випробування спільноти!##Ви також можете створювати <col=BOLD>середовища</col> та <col=BOLD>моди персонажів</col>. Обов'язково приєднуйтеся до Discord, щоб отримати допомогу!
+HELP_DLC_DLCFINISH4_INSTRUCTIONS_PC=Діліться ними з друзями та <col=BOLD>завантажуйте</col> випробування спільноти!##Ви також можете створювати <col=BOLD>середовища</col> та <col=BOLD>моди персонажів</col>. Приєднуйтеся до Discord, щоб отримати допомогу!
 
 ### A selection of the best challenges created on computer versions are available in the challenges <col=BOLD>Community</col> tab.
 HELP_DLC_DLCFINISH4_INSTRUCTIONS_OTHER=Добірка найкращих викликів, створених на комп'ютерних версіях, доступна на вкладці викликів <col=BOLD>Спільнота</col>.
@@ -1513,14 +1513,14 @@ HELP_DLC_DLCFINISH5_INSTRUCTIONS=Розблокуйте фанатські ма�
 HELP_DLC_DLCFINISH6=Складність
 
 ### For an even bigger challenge, crank up the difficulty! Enter the <col=BOLD>Gameplay options</col> to choose it at any time.##Challenges are completed only for the difficulty you finished them on or lower, and per character.
-HELP_DLC_DLCFINISH6_INSTRUCTIONS=Хочете ще більшого виклику? Підвищте складність! Заходьте в <col=BOLD>налаштування гри</col>, щоб будь-коли її змінити.##Виклики зараховуються лише для тієї складності, на якій ви їх завершили, або нижчої - і окремо для кожного персонажа.
+HELP_DLC_DLCFINISH6_INSTRUCTIONS=Хочете більшого випробування? Підвищте складність! Заходьте в <col=BOLD>налаштування гри</col>, щоб будь-коли її змінити.##Виклики зараховуються лише для тієї складності, на якій ви їх завершили, або нижчої - і окремо для кожного персонажа.
 
 
 ### Less challenges "completed" now?
-HELP_DLC_SWITCHCOMPLETED=Менше викликів "завершено" тепер?
+HELP_DLC_SWITCHCOMPLETED=Тепер менше викликів "завершено"?
 
 ### After switching, only the challenges <col=BOLD>played with that specific character</col> are considered complete.##At any moment, switch back to <col=BOLD>Default character</col> to see all the challenges completed again.
-HELP_DLC_SWITCHCOMPLETED_INSTRUCTIONS=Після перемикання завершеними вважаються лише виклики, <col=BOLD>пройдені саме цим персонажем</col>.##Будь-коли поверніться до <col=BOLD>типового персонажа</col>, щоб знову побачити всі завершені виклики.
+HELP_DLC_SWITCHCOMPLETED_INSTRUCTIONS=Після перемикання завершеними вважаються лише виклики, <col=BOLD>пройдені саме цим персонажем</col>.##Будь-коли поверніться до <col=BOLD>персонажа за замовчуванням</col>, щоб знову побачити всі завершені виклики.
 
 
 
@@ -1561,7 +1561,7 @@ TUTORIAL_ITEMOPTIONS=Налаштування предмета
 TUTORIAL_ENVIMAGEOPTIONS=Налаштування зображення
 
 ### Duplicate
-TUTORIAL_DUPLICATE=Дублювати
+TUTORIAL_DUPLICATE=Зробити копію
 
 ### Trap options
 TUTORIAL_TRAPOPTIONS=Налаштування пастки
@@ -1585,20 +1585,20 @@ CHOICE_DELETE_CHALLENGE=Видалити цей виклик?
 CHOICE_DELETE_ENVIRONMENT=Видалити це середовище?
 
 ### (This is your own so it'll be gone forever!)
-CHOICE_DELETE_ITEM_OWNED=(Це ваше власне, тож зникне назавжди!)
+CHOICE_DELETE_ITEM_OWNED=(Це ваш власний предмет, тож він зникне назавжди!)
 
 ### (You can download it again from the workshop)
-CHOICE_DELETE_ITEM_WORKSHOP=(Ви можете знову завантажити його з Workshop)
+CHOICE_DELETE_ITEM_WORKSHOP=(Ви можете знову завантажити це з майстерні)
 
 
 ### The character will be deleted after this screen.
-CHOICE_DELETE_CHAR_POPUP=Персонажа буде видалено після цього екрана.
+CHOICE_DELETE_CHAR_POPUP=Персонажа буде видалено після закриття цього екрана.
 
 ### The challenge will be deleted after this screen.
-CHOICE_DELETE_CHALLENGE_POPUP=Виклик буде видалено після цього екрана.
+CHOICE_DELETE_CHALLENGE_POPUP=Виклик буде видалено після закриття цього екрана.
 
 ### The environment will be deleted after this screen.
-CHOICE_DELETE_ENVIRONMENT_POPUP=Середовище буде видалено після цього екрана.
+CHOICE_DELETE_ENVIRONMENT_POPUP=Середовище буде видалено після закриття цього екрана.
 
 
 # Traps
@@ -1606,7 +1606,7 @@ CHOICE_DELETE_ENVIRONMENT_POPUP=Середовище буде видалено �
 TRAP_CRATE=Ящик
 
 ### Balloon
-TRAP_BALLOONACTION=Кулька
+TRAP_BALLOONACTION=Повітряна кулька
 
 ### Mine
 TRAP_MINE=Міна
@@ -1677,7 +1677,7 @@ MODIFIER_REMOVE=Прибрати всі модифікатори
 MODIFIER_HIGHJUMPS=Місячна гравітація
 
 ### Zero damage until player HP low
-MODIFIER_ZERODAMAGEUNTILHPBELOW=Нуль шкоди, доки ОЗ гравця не впадуть
+MODIFIER_ZERODAMAGEUNTILHPBELOW=Нуль шкоди, доки у гравця не буде мало ОЗ
 
 ### No scaling effect
 MODIFIER_NOSCALING=Без ефекту масштабування
@@ -1719,7 +1719,7 @@ MODIFIER_HPGAIN=Вороги поступово набирають ОЗ
 MODIFIER_PLAYERHPGAIN=Гравець поступово набирає ОЗ
 
 ### Food is eaten right away, never stored
-MODIFIER_EATFOODNOW=Їжу з'їдають одразу, не зберігають
+MODIFIER_EATFOODNOW=Їжу з'їдають одразу, не можна зберегти
 
 ### Enemies grab constantly
 MODIFIER_GRABOFTEN=Вороги постійно хапають
@@ -1735,11 +1735,11 @@ MODIFIER_AINODANGER=Вороги ігнорують усі небезпеки
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### Guard barely protects
-MODIFIER_LOWGUARDDEFENSE=Охоронець майже не захищає
+MODIFIER_LOWGUARDDEFENSE=Захист майже не захищає
 
 
 ### Main challenge info
-BM04_MAININFO=Головна інформація про виклик
+BM04_MAININFO=Головна інформація
 
 ### Character
 BM04_CHARACTER=Персонаж
@@ -1792,7 +1792,7 @@ BM04_SHARE_WORKSHOP=Поділитися (Майстерня)
 BM04_OPTION_CHALLENGETITLE=Назва виклику
 
 ### Challenge objective
-BM04_OPTION_CHALLENGEOBJECTIVE=Мета виклику
+BM04_OPTION_CHALLENGEOBJECTIVE=Ціль виклику
 
 ### Music track
 BM04_OPTION_MUSIC=Музичний трек
@@ -1807,19 +1807,19 @@ BM04_OPTION_TIMER=Обмеження часу
 BM04_OPTION_ROOMSETTINGS=Налаштування кімнати
 
 ### Objective type
-BM04_OPTION_OBJECTIVE=Тип мети
+BM04_OPTION_OBJECTIVE=Тип цілі
 
 ### Lose if an ally dies
 BM04_OPTION_LOSEIFALLYDIES=Поразка, якщо союзник загине
 
 ### Battle Royale circle speed
-BM04_OPTION_BATTLEROYALESPEED=Швидкість кола Battle Royale
+BM04_OPTION_BATTLEROYALESPEED=Швидкість кола королівської битви
 
 ### HP change speed
 BM04_OPTION_HPRATE=Швидкість зміни ОЗ
 
 ### Battle Royale circle depth
-BM04_OPTION_BATTLEROYALEDEPTH=Глибина кола Battle Royale
+BM04_OPTION_BATTLEROYALEDEPTH=Глибина кола королівської битви
 
 ### Load challenge
 BM04_OPTION_LOADCHALLENGE=Завантажити виклик
@@ -1838,7 +1838,7 @@ BM04_OPTION_CHALLENGESHARETITLE=Назва для майстерні
 BM04_OPTION_CHALLENGESHAREDESCR=Опис для майстерні
 
 ### Thumbnail picture for the workshop
-BM04_OPTION_CHALLENGESHAREPICTURE=Мініатюра для майстерні
+BM04_OPTION_CHALLENGESHAREPICTURE=Обкладинка для майстерні
 
 ### Tags for the workshop
 BM04_OPTION_CHALLENGESHARETAGS=Теги для майстерні
@@ -1856,13 +1856,13 @@ BM04_OPTION_CHALLENGESHAREEXPORTCHALLENGE=Експортувати виклик?
 BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS=Експортувати моди персонажів?
 
 ### Export the custom environment?
-BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT=Експортувати власне середовище?
+BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT=Експортувати користувацьке середовище?
 
 ### Export the custom music?
-BM04_OPTION_CHALLENGESHAREEXPORTMUSIC=Експортувати власну музику?
+BM04_OPTION_CHALLENGESHAREEXPORTMUSIC=Експортувати користувацьку музику?
 
 ### Update the thumbnail?
-BM04_OPTION_CHALLENGESHAREUPDATETHUMB=Оновити мініатюру?
+BM04_OPTION_CHALLENGESHAREUPDATETHUMB=Оновити обкладинку?
 
 ### Update the description?
 BM04_OPTION_CHALLENGESHAREUPDATEDESCR=Оновити опис?
@@ -1883,39 +1883,39 @@ BM04_OPTION_CHALLENGESHARETITLE_HELP=Ця назва призначена лиш
 BM04_OPTION_CHALLENGESHAREDESCR_HELP=Цей опис показуватиметься в майстерні. <col=BOLD>Дуже радимо писати англійською</col>
 
 ### This picture will be displayed on the workshop as thumbnail. It must be attractive to players and match your content.##It must be <col=BOLD>wide</col> format, for example 960 x 540px. Less than 1 MB, PNG or JPG.
-BM04_OPTION_CHALLENGESHAREPICTURE_HELP=Це зображення показуватиметься в майстерні як мініатюра. Воно має приваблювати гравців і відповідати вашому вмісту.##Воно має бути у <col=BOLD>широкому</col> форматі, наприклад 960 x 540px. Менше 1 МБ, PNG або JPG.
+BM04_OPTION_CHALLENGESHAREPICTURE_HELP=Це зображення показуватиметься в майстерні як обкладинка. Воно має приваблювати гравців і відповідати вашому вмісту.##Воно має бути у <col=BOLD>широкому</col> форматі, наприклад 960 x 540px. Менше 1 МБ, PNG або JPG.
 
 ### Enter a list of tags, separated by commas.##Some tags are automatically added, such as the difficulty.
 BM04_OPTION_CHALLENGESHARETAGS_HELP=Введіть список тегів, розділених комами.##Деякі теги додаються автоматично, зокрема складність.
 
 ### Should the challenge be included?##If you only want (for example) to export a character separately, choose "no".
-BM04_OPTION_CHALLENGESHAREEXPORTCHALLENGE_HELP=Чи додати саме виклик?##Якщо ви хочете (наприклад) експортувати лише персонажа, оберіть "ні".
+BM04_OPTION_CHALLENGESHAREEXPORTCHALLENGE_HELP=Чи слід експортувати виклик?##Якщо, наприклад, ви хочете експортувати лише персонажа, оберіть "ні".
 
 ### Should your character mod(s) be included?##If you choose "yes", make sure they are good enough to become public!
-BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS_HELP=Чи додати ваші моди персонажів?##Якщо оберете "так", переконайтеся, що вони достатньо якісні для публікації!
+BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS_HELP=Чи слід експортувати ваші моди персонажів?##Якщо оберете "так", переконайтеся, що вони достатньо якісні для публікації!
 
 ### Should your custom environment be included?##If you choose "yes", make sure it is good enough to become public!
-BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT_HELP=Чи додати ваше власне середовище?##Якщо оберете "так", переконайтеся, що воно достатньо якісне для публікації!
+BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT_HELP=Чи слід експортувати ваше користувацьке середовище?##Якщо оберете "так", переконайтеся, що воно достатньо якісне для публікації!
 
 ### This sends to <col=BOLD>Steam workshop.</col> Do it again to update.##COWCAT declines responsability regarding the content you send. Make sure you are authorized.
-BM04_OPTION_CHALLENGESHARESUBMIT_HELP=Це надсилає дані до <col=BOLD>Майстерні Steam.</col> Повторіть, щоб оновити.##COWCAT не несе відповідальності за вміст, який ви надсилаєте. Переконайтеся, що маєте на це дозвіл.
+BM04_OPTION_CHALLENGESHARESUBMIT_HELP=Ця діє надсилає дані до <col=BOLD>Майстерні Steam.</col> Повторіть, щоб оновити.##COWCAT не несе відповідальності за вміст, який ви надсилаєте. Переконайтеся, що маєте на це дозвіл.
 
 ### Select how difficult, according to you, this challenge is.
 BM04_OPTION_CHALLENGESHAREDIFFICULTY_HELP=Вкажіть, наскільки складним, на вашу думку, є цей виклик.
 
 
 ### Include the challenge itself?
-BM04_OPTION_EXPORTCHALLENGE_TITLE=Додати саме виклик?
+BM04_OPTION_EXPORTCHALLENGE_TITLE=Чи слід експортувати виклик?
 
 ### Include your character mod(s)?
-BM04_OPTION_EXPORTCHARMOD_TITLE=Додати ваші моди персонажів?
+BM04_OPTION_EXPORTCHARMOD_TITLE=Чи слід експортувати ваші моди персонажів?
 
 
 ### Write a <col=BOLD>short</col> title for your challenge. It will be displayed everywhere.
 BM04_OPTION_CHALLENGETITLE_HELP=Напишіть <col=BOLD>коротку</col> назву для свого виклику. Вона показуватиметься всюди.
 
 ### Write a line that informs the player what their objective is.
-BM04_OPTION_CHALLENGEOBJECTIVE_HELP=Напишіть рядок, який пояснить гравцеві його мету.
+BM04_OPTION_CHALLENGEOBJECTIVE_HELP=Напишіть рядок, який пояснить гравцеві ціль.
 
 ### Choose a music track to play during this challenge.
 BM04_OPTION_MUSIC_HELP=Оберіть музичний трек, який гратиме під час цього виклику.
@@ -1927,25 +1927,25 @@ BM04_OPTION_BACKGROUND_HELP=Оберіть середовище для цьог�
 BM04_OPTION_ROOMSETTINGS_HELP=Налаштуйте кімнату (розмір, масштаб...)
 
 ### Choose a main objective type for this challenge.##Eg: defeat everyone, collect items, survive...
-BM04_OPTION_OBJECTIVE_HELP=Оберіть основний тип мети для цього виклику.##Наприклад: перемогти всіх, зібрати предмети, вижити...
+BM04_OPTION_OBJECTIVE_HELP=Оберіть основний тип цілі для цього виклику.##Наприклад: перемогти всіх, зібрати предмети, вижити...
 
 ### Number of seconds until the timer runs out.##Depending on the objective, this can mean losing or winning.
-BM04_OPTION_TIMER_HELP=Кількість секунд до завершення таймера.##Залежно від мети це може означати поразку або перемогу.
+BM04_OPTION_TIMER_HELP=Кількість секунд до завершення таймера.##Залежно від цілі це може означати поразку або перемогу.
 
 ### If set to yes, the challenge is lost as soon as any ally computer of your team is killed.##Useful to make escort or protection challenges. (Default = no)
-BM04_OPTION_LOSEIFALLYDIES_HELP=Якщо ввімкнути, виклик програється, щойно загине будь-який союзник-комп'ютер із вашої команди.##Стане в пригоді для викликів на супровід чи захист. (За замовчуванням = ні)
+BM04_OPTIONL_OSEIFALLYDIES_HELP=Якщо ввімкнути, то гравець зазнає поразки, щойно загине будь-який союзник-комп'ютер.##Стане в пригоді для викликів на супровід чи захист. (За замовчуванням = ні)
 
 ### Only used by the <col=BOLD>Battle Royale</col> objective: how far in front the deadly circle is drawn, exactly like the depth of an environment image.##Each environment already picks a value that suits its own decor, so only set this if you are not happy with the result.
-BM04_OPTION_BATTLEROYALEDEPTH_HELP=Використовується лише метою <col=BOLD>Battle Royale</col>: наскільки далеко вперед малюється смертельне коло, точно як глибина зображення середовища.##Кожне середовище вже має значення, що пасує його декораціям, тож змінюйте це, лише якщо вас не влаштовує результат.
+BM04_OPTION_BATTLEROYALEDEPTH_HELP=Використовується лише ціллю <col=BOLD>Королівська битва</col>: наскільки далеко вперед малюється смертельне коло, аналогічно глибині зображення середовища.##Кожне середовище вже має значення, що пасує його декораціям, тож змінюйте це, лише якщо вас не влаштовує результат.
 
 ### Only used by the modifiers that change HP on their own (<col=BOLD>HP drain</col>, <col=BOLD>enemies gain HP</col>, <col=BOLD>player gains HP</col>): how fast they do it, in percent.##100 is the speed they were designed with, a lower value makes the change gentle, a high value makes it brutal. (Default = 100)
-BM04_OPTION_HPRATE_HELP=Використовується лише модифікаторами, які самі змінюють здоров'я (<col=BOLD>витікання здоров'я</col>, <col=BOLD>вороги отримують здоров'я</col>, <col=BOLD>гравець отримує здоров'я</col>): як швидко це відбувається, у відсотках.##100 - швидкість, з якою їх задумано; менше значення робить зміну м'якою, більше - жорстокою. (За замовчуванням = 100)
+BM04_OPTION_HPRATE_HELP=Використовується лише модифікаторами, які самі змінюють здоров'я (<col=BOLD>ОЗ зменшується</col>, <col=BOLD>вороги набирають ОЗ</col>, <col=BOLD>гравець набирає ОЗ</col>): як швидко це відбувається, у відсотках.##100 - швидкість, з якою їх задумано; менше значення робить зміну м'якою, більше - жорстокою. (За замовчуванням = 100)
 
 ### Only used by the <col=BOLD>Battle Royale</col> objective: how fast the deadly circle closes in, in percent.##100 is the normal speed, a lower value gives more time, a high value shrinks the arena very fast. (Default = 100)
 BM04_OPTION_BATTLEROYALESPEED_HELP=Використовується лише метою <col=BOLD>Battle Royale</col>: як швидко звужується смертельне коло, у відсотках.##100 - звичайна швидкість; менше значення дає більше часу, більше - дуже швидко стискає арену. (За замовчуванням = 100)
 
 ### Use one or several modifiers to do special things.
-BM04_OPTION_MODIFIERADD_HELP=Використайте один або кілька модифікаторів, щоб зробити щось особливе.
+BM04_OPTION_MODIFIERADD_HELP=Використайте один або кілька модифікаторів, щоб створити особливі правила.
 
 ### Remove a modifier.
 BM04_OPTION_MODIFIERREMOVE_HELP=Прибрати модифікатор.
@@ -1962,10 +1962,10 @@ BM04_OPTION_CHALLENGESHAREUPDATETAGS_HELP=Якщо ви вносили змін�
 
 
 ### Choose a destructible object
-BM04_OPTION_DESTRUCTIBLE=Оберіть об'єкт для руйнування
+BM04_OPTION_DESTRUCTIBLE=Оберіть об'єкт для знищення
 
 ### How many must be destroyed?
-BM04_OPTION_DESTRUCTIBLE_HOWMANY=Скільки потрібно зруйнувати?
+BM04_OPTION_DESTRUCTIBLE_HOWMANY=Скільки їх потрібно знищити?
 
 
 ### Choose a trap
@@ -1975,7 +1975,7 @@ BM04_OPTION_TRAP=Оберіть пастку
 BM04_OPTION_COLLECTIBLE=Оберіть предмет
 
 ### How many must be collected?
-BM04_OPTION_COLLECTIBLE_HOWMANY=Скільки потрібно зібрати?
+BM04_OPTION_COLLECTIBLE_HOWMANY=Скільки їх потрібно зібрати?
 
 
 ### Enter a number of seconds (0 to disable)
@@ -1988,10 +1988,10 @@ BM04_OPTION_HPRATE_HOWMANY=Введіть швидкість у відсотка
 BM04_OPTION_BATTLEROYALESPEED_HOWMANY=Введіть швидкість у відсотках (від 10 до 9999, 100 = звичайна)
 
 ### Enter a depth (higher = more in front), or leave empty to let the environment decide
-BM04_OPTION_BATTLEROYALEDEPTH_HOWMANY=Введіть глибину (більше = ближче до глядача) або залиште порожнім, щоб вирішувало середовище
+BM04_OPTION_BATTLEROYALEDEPTH_HOWMANY=Введіть глибину (більше = ближче до глядача) або залиште порожнім, щоб вибрати автоматично
 
 ### Chosen by the environment
-BM04_OPTION_BATTLEROYALEDEPTH_AUTO=Обирає середовище
+BM04_OPTION_BATTLEROYALEDEPTH_AUTO=Визначається середовищем
 
 
 ### Community
@@ -2004,7 +2004,7 @@ BM04_WORKSHOP=Майстерня
 BM04_CREATOR=Творець
 
 ### Enter your name as creator. It is shown next to your challenge online.
-BM04_CREATOR_HELP=Введіть ім'я творця. Воно показується поряд із вашим викликом в інтернеті.
+BM04_CREATOR_HELP=Введіть ім'я творця. Воно показується в мережі поряд із вашим викликом.
 
 ### Current value
 BM04_CURRENTVALUE=Поточне значення
@@ -2058,7 +2058,7 @@ BM04_ROOM_MAXSCALE_DESC=Визначає розмір усіх персонаж�
 
 # BM04_ROOM_MINDEPTH_DESC=The furthest depth position allowed in this room environment. Eg: 500px from the top of the room picture.
 ### Use a room fcolor?
-BM04_ROOM_COLORIS=Використовувати колір кімнати?
+BM04_ROOM_COLORIS=Використовувати глобальний колір кімнати?
 
 ### Gives a color tint to all the characters.
 BM04_ROOM_COLORIS_DESC=Надає колірного відтінку всім персонажам.
@@ -2068,7 +2068,7 @@ BM04_ROOM_COLORIS_DESC=Надає колірного відтінку всім �
 BM04_ROOM_COLOR=Колір кімнати
 
 ### Gives a color tint to all the characters. Enter 3 values which are Red / Green / Blue respectively.
-BM04_ROOM_COLOR_DESC=Надає колірного відтінку всім персонажам. Введіть 3 значення: відповідно червоний / зелений / синій.
+BM04_ROOM_COLOR_DESC=Надає колірного відтінку всім персонажам. Введіть значення: червоний / зелений / синій.
 
 
 ### Delete the item
@@ -2078,11 +2078,11 @@ BM04_ITEM_DELETE=Видалити предмет
 BM04_TRAP_DELETE=Видалити пастку
 
 ### Delete this trap permanently.
-BM04_TRAP_DELETE_HELP=Остаточно видалити цю пастку.
+BM04_TRAP_DELETE_HELP=Назавжди видалити цю пастку.
 
 
 ### Item(s) to drop
-BM04_TRAP_ITEMDROP=Предмети, що випадають
+BM04_TRAP_ITEMDROP=Предмети
 
 ### The item(s) dropped by the trap when destroyed.
 BM04_TRAP_ITEMDROP_HELP=Предмети, які випадають із пастки, коли її зруйновано.
@@ -2158,10 +2158,10 @@ BM04_CHARACTER_OTHERPLAYER4=Гравець-суперник (Команда 4)
 
 # All these were modified more or less
 ### Decision factor
-BM04_CHARACTER_FACTORDECISION=Коефіцієнт активності
+BM04_CHARACTER_FACTORDECISION=Фактор рішучості
 
 ### Decision factor <col=BOLD>(Percent)</col>##Only for computer controlled characters. The higher, the more active the character.
-BM04_CHARACTER_FACTORDECISION_HELP=Коефіцієнт активності <col=BOLD>(Відсотки)</col>##Лише для персонажів під керуванням комп'ютера. Що вище, то активнішим буде персонаж.
+BM04_CHARACTER_FACTORDECISION_HELP=Фактор рішучості <col=BOLD>(Відсотки)</col>##Лише для персонажів під керуванням комп'ютера. Що вище, то активнішим буде персонаж.
 
 
 ### Strength
@@ -2170,7 +2170,7 @@ BM04_CHARACTER_STRENGTH=Сила
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Attack power <col=BOLD>(Percent)</col>##Do note that the attack automatically changes according to type (eg: Graff has less attack than R.J.)
-BM04_CHARACTER_STRENGTH_HELP=Сила атаки <col=BOLD>(Відсотки)</col>##Зауважте, що атака автоматично змінюється залежно від типу (напр., у Граффа атака слабша, ніж у Р. Джея)
+BM04_CHARACTER_STRENGTH_HELP=Сила атаки <col=BOLD>(Відсотки)</col>##Зауважте, що атака автоматично змінюється залежно від типу (напр. у Граффа атака слабша, ніж у Р. Джея)
 
 
 ### Defense
@@ -2179,21 +2179,21 @@ BM04_CHARACTER_DEFENSE=Захист
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Defense <col=BOLD>(Percent)</col>##Do note that the defense automatically changes according to type (eg: Graff has less defense than R.J.)
-BM04_CHARACTER_DEFENSE_HELP=Захист <col=BOLD>(Відсотки)</col>##Зауважте, що захист автоматично змінюється залежно від типу (напр., у Граффа захист слабший, ніж у Р. Джея)
+BM04_CHARACTER_DEFENSE_HELP=Захист <col=BOLD>(Відсотки)</col>##Зауважте, що захист автоматично змінюється залежно від типу (напр. у Граффа захист слабший, ніж у Р. Джея)
 
 
 ### Attack Speed
 BM04_CHARACTER_SPEEDATTACK=Швидкість атаки
 
 ### Attack speed <col=BOLD>(Percent)</col>##More means faster, less is slower. Only applies to computer controlled characters.
-BM04_CHARACTER_SPEEDATTACK_HELP=Швидкість атаки <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше. Стосується лише персонажів під керуванням комп'ютера.
+BM04_CHARACTER_SPEEDATTACK_HELP=Швидкість атаки <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше. Застосовується лише для персонажів під керуванням комп'ютера.
 
 
 ### Move Speed
-BM04_CHARACTER_SPEEDMOVE=Швидкість пересування
+BM04_CHARACTER_SPEEDMOVE=Швидкість руху
 
 ### Move speed <col=BOLD>(Percent)</col>##More means faster, less is slower.
-BM04_CHARACTER_SPEEDMOVE_HELP=Швидкість пересування <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше.
+BM04_CHARACTER_SPEEDMOVE_HELP=Швидкість руху <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше.
 
 
 ### H.P. max
@@ -2204,14 +2204,14 @@ BM04_CHARACTER_HPMAX_HELP=Максимум очок здоров'я на поч�
 
 
 ### Height position
-BM04_CHARACTER_HEIGHTPOS=Позиція за висотою
+BM04_CHARACTER_HEIGHTPOS=Вертикальна позиція
 
 ### Position of the character/item on screen (less = to the bottom, more = to the top)##Do note that any height above ground will make the character fall when created.
 BM04_CHARACTER_HEIGHTPOS_HELP=Позиція персонажа/предмета на екрані (менше = донизу, більше = догори)##Зауважте, що будь-яка висота над землею змусить персонажа впасти після створення.
 
 
 ### Horizontal position
-BM04_CHARACTER_HORIZPOS=Позиція за горизонталлю
+BM04_CHARACTER_HORIZPOS=Горизонтальна позиція
 
 ### Position of the character/item on screen (less = to the left, more = to the right)
 BM04_CHARACTER_HORIZPOS_HELP=Позиція персонажа/предмета на екрані (менше = вліво, більше = вправо)
@@ -2239,7 +2239,7 @@ BM04_DELAYCREATION_HELP=За замовчуванням персонаж ств�
 
 
 ### Specific team targetted
-BM04_CHARACTER_TEAMTARGET=Конкретна цільова команда
+BM04_CHARACTER_TEAMTARGET=Націлювання на конкретну команду
 
 ### Rarely used - When we want an enemy to target a specific team only (by default all opponent teams are targetted)##Eg: give your ally its own team, then make the enemies target that team, and they will go after your ally instead of you.
 BM04_CHARACTER_TEAMTARGET_HELP=Використовується рідко - коли треба, щоб ворог атакував лише одну конкретну команду (за замовчуванням він атакує всі команди суперників)##Наприклад: дайте своєму союзнику окрему команду, потім змусьте ворогів цілитися в цю команду - і вони підуть за союзником, а не за вами.
@@ -2248,13 +2248,13 @@ BM04_CHARACTER_TEAMTARGET_HELP=Використовується рідко - к�
 BM04_CHARACTER_TEAMTARGET_ANY=Будь-яка команда суперників
 
 ### Skin color
-BM04_CHARACTER_SKIN=Колір скіна
+BM04_CHARACTER_SKIN=Образ
 
 ### Which color scheme this character wears.##<col=BOLD>1</col> keeps the colors they normally have, which is what you want for a hero appearing as an enemy. Higher numbers pick another skin, and a number above what this character has simply cycles back to the first one. (Default = automatic)
-BM04_CHARACTER_SKIN_HELP=Яку колірну схему має цей персонаж.##<col=BOLD>1</col> зберігає звичні для нього кольори - саме те, що потрібно для героя, який виступає ворогом. Більші числа вибирають інший скін, а число, більше за кількість наявних у персонажа скінів, просто повертається до першого. (За замовчуванням = автоматично)
+BM04_CHARACTER_SKIN_HELP=Колірна схема персонажа.##<col=BOLD>1</col> зберігає звичні кольори - саме те, що потрібно для героя, який виступає ворогом. Більші числа вибирають інший образ, а число, більше за кількість наявних у персонажа образів, просто повертається до першого. (За замовчуванням = автоматично)
 
 ### Enter a skin number (0 = automatic, 1 = normal colors)
-BM04_CHARACTER_SKIN_HOWMANY=Введіть номер скіна (0 = автоматично, 1 = звичайні кольори)
+BM04_CHARACTER_SKIN_HOWMANY=Введіть номер образу (0 = автоматично, 1 = звичайні кольори)
 
 ### Automatic
 BM04_CHARACTER_SKIN_AUTO=Автоматично
@@ -2263,7 +2263,7 @@ BM04_CHARACTER_SKIN_AUTO=Автоматично
 BM04_CHARACTER_TARGETPRIORITY=Пріоритетна ціль
 
 ### Do the opponents go after this character rather than the others?##Useful to protect an ally: keep them in your team so they still have their life bar and can receive food, but make the enemies rush them. (Default = no)
-BM04_CHARACTER_TARGETPRIORITY_HELP=Чи кидаються суперники саме на цього персонажа, а не на інших?##Стане в пригоді, щоб захистити союзника: залиште його у своїй команді, щоб у нього була шкала здоров'я і він міг отримувати їжу, але змусьте ворогів накидатися на нього. (За замовчуванням = ні)
+BM04_CHARACTER_TARGETPRIORITY_HELP=Чи кидаються суперники саме на цього персонажа, а не на інших?##Стане в пригоді для завдань по захисту союзника: залиште його у своїй команді, щоб у нього була шкала здоров'я і він міг отримувати їжу, але змусьте ворогів накидатися на нього. (За замовчуванням = ні)
 
 ### No, like everyone else
 BM04_CHARACTER_TARGETPRIORITY_NORMAL=Ні, як і всі інші
@@ -2289,7 +2289,7 @@ BM04_CHARACTER_ITEMDROP_HELP=Предмети, які випадають із в
 BM04_CHARACTER_BOSS=Показувати як боса?
 
 ### Only applies to enemy computers. 3 enemies maximum can be displayed as bosses.
-BM04_CHARACTER_BOSS_HELP=Стосується лише ворогів-комп'ютерів. Босами можна показати щонайбільше 3 ворогів.
+BM04_CHARACTER_BOSS_HELP=Застосовується лише для ворогів-ботів. Босами можна позначити до трьох ворогів.
 
 
 ### Boss defeat kills everyone
@@ -2303,14 +2303,14 @@ BM04_CHARACTER_BOSSDEFEATEVERYONE_HELP=Коли його вбито, чи гин
 BM04_CHARACTER_WINLOSE=Умови перемоги/поразки
 
 ### Make the challenge end immediately depending on what happens to this character.##Useful for escort missions, targets to assassinate, or characters you must not touch.
-BM04_CHARACTER_WINLOSE_HELP=Змусьте виклик завершитися одразу залежно від того, що станеться з цим персонажем.##Стане в пригоді для місій на супровід, цілей для усунення або персонажів, яких не можна зачіпати.
+BM04_CHARACTER_WINLOSE_HELP=Виклик завершиться одразу залежно від того, що станеться з цим персонажем.##Стане в пригоді для завдань на супровід, вбивство цілі або для персонажів, яких не можна зачіпати.
 
 
 ### When this character dies
 BM04_CHARACTER_WINLOSE_GETDEAD=Коли цей персонаж гине
 
 ### What happens when this character is killed?##Eg: "Lose" turns an ally into an escort target, "Win" turns an enemy into an assassination target. (Default = nothing)
-BM04_CHARACTER_WINLOSE_GETDEAD_HELP=Що станеться, коли цього персонажа вбито?##Наприклад: "Поразка" перетворює союзника на ціль для супроводу, "Перемога" перетворює ворога на ціль для усунення. (За замовчуванням = нічого)
+BM04_CHARACTER_WINLOSE_GETDEAD_HELP=Що станеться, коли цього персонажа вбито?##Наприклад: "Поразка" перетворює союзника на ціль для супроводу, "Перемога" перетворює ворога на ціль для вбивства. (За замовчуванням = нічого)
 
 
 ### When this character is hit
@@ -2338,7 +2338,7 @@ BM04_CONDITION_LOSE=Програти виклик
 
 
 ### Character skin (Default = automatic)
-BM04_CHARACTER_CHARACTERSKIN=Скін персонажа (За замовчуванням = автоматично)
+BM04_CHARACTER_CHARACTERSKIN=Образ персонажа (За замовчуванням = автоматично)
 
 
 ### Height above ground (in pixels)
@@ -2349,7 +2349,7 @@ BM04_CHARACTER_HEIGHTPOS_TITLE=Висота над землею (у піксел
 BM04_CHARACTER_NOTPOSSIBLECOOP_TITLE=Неможливо в кооперативі
 
 ### This character type cannot be played. Either set as "Ally Computer" or choose another character type.
-BM04_CHARACTER_NOTPOSSIBLECOOP_DESC=Цим типом персонажа не можна грати. Або позначте його як "Союзник-комп'ютер", або оберіть інший тип персонажа.
+BM04_CHARACTER_NOTPOSSIBLECOOP_DESC=Цим типом персонажа не можна грати. Або позначте його як "Союзник-бот", або оберіть інший тип персонажа.
 
 
 ### Environment Title
@@ -2374,7 +2374,7 @@ BM04_ENVIRONMENTIMAGE_DEPTH_HELP=Визначає порядок наклада�
 
 
 ### Alpha transparency
-BM04_ENVIRONMENTIMAGE_ALPHA=Прозорість (альфа)
+BM04_ENVIRONMENTIMAGE_ALPHA=Прозорість
 
 ### Defines how much transparency to use. <col=BOLD>(Percent)</col>##10 = almost invisible, 100 = fully visible
 BM04_ENVIRONMENTIMAGE_ALPHA_HELP=Визначає ступінь прозорості. <col=BOLD>(Відсотки)</col>##10 = майже невидиме, 100 = повністю видиме
@@ -2412,10 +2412,10 @@ BM04_ENVIRONMENT_SUBMIT_HELP=Перевірити й згенерувати се
 BM04_ERROR_TITLE=Помилка
 
 ### One character mod could not be retrieved: {name}
-BM04_ERROR_CHARACTER=Не вдалося отримати один мод персонажа: {name}
+BM04_ERROR_CHARACTER=Не вдалося отримати модифікацію персонажа: {name}
 
 ### One environment image could not be retrieved: {name}
-BM04_ERROR_ENVIRONMENTBACK=Не вдалося отримати одне зображення середовища: {name}
+BM04_ERROR_ENVIRONMENTBACK=Не вдалося отримати зображення середовища: {name}
 
 
 
@@ -2462,7 +2462,7 @@ BM04_ENVIRONMENT_MISSINGNAME_DESCRIPTION=Будь ласка, введіть і�
 BM04_WORKSHOP_TITLE=Сторінка Майстерні Steam
 
 ### Access Steam Workshop to see your creations shared and download more
-BM04_WORKSHOP_DESCR=Завітайте до Майстерні Steam, щоб побачити свої опубліковані творіння та завантажити більше
+BM04_WORKSHOP_DESCR=Завітайте у Майстерню Steam, щоб переглянути творіння, опубліковані вами та іншими користувачами
 
 
 
@@ -2477,7 +2477,7 @@ BM04_WORKSHOP_NOTHING_EXPORT_DESCR=Ви не вибрали нічого для 
 BM04_WORKSHOP_PICTURE_EXPORT=Потрібне зображення
 
 ### A thumbnail picture is required in order to export. Please add one.
-BM04_WORKSHOP_PICTURE_EXPORT_DESCR=Для експорту потрібна мініатюра. Будь ласка, додайте її.
+BM04_WORKSHOP_PICTURE_EXPORT_DESCR=Для експорту потрібне зображення - обкладинка. Будь ласка, додайте його.
 
 
 ### Workshop elements
@@ -2494,10 +2494,10 @@ BM04_WORKSHOP_ITEMS_EXPORTPROGRESS=Триває експорт
 BM04_WORKSHOP_ITEMS_EXPORT=Експортовано предмети
 
 ### It may take a few minutes to appear on the Workshop.
-BM04_WORKSHOP_ITEMS_EXPORTOVER=Може минути кілька хвилин, перш ніж це з'явиться в майстерні.
+BM04_WORKSHOP_ITEMS_EXPORTOVER=Може минути кілька хвилин, перш ніж ваше творіння з'явиться в Майстерні.
 
 ### Your items are exporting to Steam Workshop. A notification will be displayed when it is complete.
-BM04_WORKSHOP_ITEMS_STEAM=Ваші предмети експортуються до Майстерні Steam. Коли все завершиться, з'явиться сповіщення.
+BM04_WORKSHOP_ITEMS_STEAM=Ваші предмети експортуються до Майстерні Steam. При завершенні з'явиться сповіщення.
 
 ### Your items were exported as a ZIP archive in:##<col=BOLD>{path}</col>##Give this file to your friends (or upload it online somewhere) and ask players to extract it into their own directory.
 BM04_WORKSHOP_ITEMS_DRMFREE=Ваші предмети експортовано як ZIP-архів у:##<col=BOLD>{path}</col>##Передайте цей файл друзям (або завантажте кудись в інтернет) і попросіть гравців розпакувати його у власну теку.
@@ -2517,7 +2517,7 @@ BM04_WORKSHOP_SELECT_PICTURE_COPYFAIL=Не вдалося скопіювати �
 BM04_WORKSHOP_SELECT_PICTURE_WRONGFORMAT=Вибране зображення має неправильне розширення. (має бути .png або .jpg)
 
 ### The thumbnail failed to be created
-BM04_WORKSHOP_SELECT_PICTURE_THUMB=Не вдалося створити мініатюру
+BM04_WORKSHOP_SELECT_PICTURE_THUMB=Не вдалося створити обкладинку
 
 
 ### Workshop subscriptions
@@ -2527,7 +2527,7 @@ BM04_WORKSHOP_SUBSCRIPTIONS=Підписки майстерні
 BM04_WORKSHOP_NB_SUBSCRIBED=Встановлено предметів із майстерні: {number}
 
 ### {number} workshop item(s) removed
-BM04_WORKSHOP_NB_UNSUBSCRIBED=Прибрано предметів із майстерні: {number}
+BM04_WORKSHOP_NB_UNSUBSCRIBED=Видалено предметів із майстерні: {number}
 
 ### You are not currently connected to Steam. Please try again later.
 BM04_WORKSHOP_STEAM_NOTCONNECTED=Зараз ви не під'єднані до Steam. Будь ласка, спробуйте пізніше.
@@ -2541,13 +2541,13 @@ BM04_CHALLENGE_SAVED=Виклик збережено
 BM04_CHALLENGE_MISSINGTITLE_TITLE=Немає назви
 
 ### Please enter the title of the challenge in the main challenge information (first icon).
-BM04_CHALLENGE_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву виклику в головній інформації про виклик (перша піктограма).
+BM04_CHALLENGE_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву виклику в головній інформації (перша іконка).
 
 ### Objective missing
-BM04_CHALLENGE_MISSINGOBJECTIVE_TITLE=Немає мети
+BM04_CHALLENGE_MISSINGOBJECTIVE_TITLE=Немає цілі
 
 ### Please enter the objective of the challenge in the main challenge information (first icon).
-BM04_CHALLENGE_MISSINGOBJECTIVE_DESCRIPTION=Будь ласка, введіть мету виклику в головній інформації про виклик (перша піктограма).
+BM04_CHALLENGE_MISSINGOBJECTIVE_DESCRIPTION=Будь ласка, введіть ціль виклику в головній інформації (перша іконка).
 
 ### Player character missing
 BM04_CHALLENGE_MISSINGPLAYERCHARACTER_TITLE=Немає персонажа гравця
@@ -2584,7 +2584,7 @@ BM04_CHALLENGE_TOOMANYTRAPS_DESCRIPTION=Будь ласка, приберіть 
 BM04_CHALLENGE_INVALID_TITLE=Виклик недійсний
 
 ### Unable to find this challenge or it is corrupt. Redirecting to main hub.
-BM04_CHALLENGE_INVALID_DESCRIPTION=Не вдалося знайти цей виклик, або воно пошкоджене. Повернення до головного меню.
+BM04_CHALLENGE_INVALID_DESCRIPTION=Не вдалося знайти цей виклик, або він пошкоджений. Повернення до головного меню.
 
 
 ### Create character mod
@@ -2620,7 +2620,7 @@ BM04_ENVIRONMENTIMAGE_SUBMIT=Надіслати зображення
 BM04_CREATE_CHARACTER_HELP=Використайте одного з ігрових персонажів як базову модель і замініть файли.##Отт - найпростіший для модифікації (найменше кадрів і анімацій)
 
 ### Update your current custom environment.
-BM04_UPDATE_ENVIRONMENT_HELP=Оновити ваше поточне власне середовище.
+BM04_UPDATE_ENVIRONMENT_HELP=Оновити ваше поточне користувацьке середовище.
 
 ### An environment has a background, collisions, room dimensions and potentially some foreground elements.
 BM04_CREATE_ENVIRONMENT_HELP=Середовище має тло, колізії, розміри кімнати й, за потреби, елементи переднього плану.
@@ -2632,7 +2632,7 @@ BM04_CREATE_IMAGEENVIRONMENT_HELP=Додайте зображення на ін�
 BM04_CREATE_STARTNEW_HELP=Якщо хочете почати з нуля.
 
 ### Give a name to this new image. Make sure it's not identical to a previous one.
-BM04_ENVIRONMENTIMAGE_NAME_HELP=Дайте назву цьому новому зображенню. Переконайтеся, що вона не збігається з попередньою.
+BM04_ENVIRONMENTIMAGE_NAME_HELP=Дайте назву новому зображенню. Переконайтеся, що вона не збігається з назвою попереднього зображення.
 
 ### Upload an image file.##Same technical restrictions as the main background one, but they can be smaller than the size of a screen.
 BM04_ENVIRONMENTIMAGE_PICTURE_HELP=Завантажте файл зображення.##Ті самі технічні обмеження, що й для головного тла, але воно може бути меншим за розмір екрана.
@@ -2676,14 +2676,14 @@ BM04_DIRECTORY_CHARACTER2_TITLE=Файли експортовано (далі)
 BM04_DIRECTORY_CHARACTER2_POPUP=Ви також можете замінити файли <col=BOLD>OGG-аудіо</col>.##Важливо: зберігайте ті самі розміри зображень, що й в оригіналі.
 
 ### <col=BOLD>For advanced modifications</col> to alter the dimensions and more, check the documentation provided in DOCMOD/ in the game root directory.
-BM04_DIRECTORY_CHARACTER2_POPUP_MODIF=<col=BOLD>Для складніших модифікацій</col>, як-от зміни розмірів та іншого, дивіться документацію в теці DOCMOD/ у кореневій теці гри.
+BM04_DIRECTORY_CHARACTER2_POPUP_MODIF=<col=BOLD>Для складніших модифікацій</col>, як-от зміни розмірів та ін., дивіться документацію в теці DOCMOD/ у кореневій теці гри.
 
 
 ### Enter your character name
 BM04_CHARACTERNAME_ENTER=Введіть ім'я персонажа
 
 ### Choose a character model to base your character on
-BM04_CHARACTERMODEL=Оберіть модель персонажа як основу для вашого персонажа
+BM04_CHARACTERMODEL=Оберіть основу для вашого персонажа
 
 
 ### Delete this item drop
@@ -2725,10 +2725,10 @@ BM04_ITEMDROP_REMOVE_HELP=Прибрати це випадіння предме�
 
 
 ### This character should drop this item when destroyed?
-BM04_ITEM_SETDROP_CHARACTER_TITLE=Цей персонаж має залишати цей предмет після знищення?
+BM04_ITEM_SETDROP_CHARACTER_TITLE=При знищенні персонажа випадатиме цей предмет?
 
 ### This trap should drop this item when destroyed?
-BM04_ITEM_SETDROP_TRAP_TITLE=Ця пастка має залишати цей предмет після знищення?
+BM04_ITEM_SETDROP_TRAP_TITLE=При знищенні пастки випадатиме цей предмет?
 
 ### Probably to drop? (from 0 to 100)
 BM04_ITEM_SETDROP_PROBA=Імовірність випадіння? (від 0 до 100)
@@ -2807,15 +2807,15 @@ CHALLENGE_BACK_BORDERPOSTN=Прикордонний пост (ніч)
 CHALLENGE_BACK_SERVERROOM=Серверна
 
 ### View
-CHALLENGE_BACK_VIEW=Вид
+CHALLENGE_BACK_VIEW=Краєвид
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker street (day)
-CHALLENGE_BACK_HACKERSTREETD=Гакер (вулиця, день)
+CHALLENGE_BACK_HACKERSTREETD=Провулок гакера (день)
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker street (night)
-CHALLENGE_BACK_HACKERSTREETN=Гакер (вулиця, ніч)
+CHALLENGE_BACK_HACKERSTREETN=Провулок гакера (ніч)
 
 ### Lab front (day)
 CHALLENGE_BACK_LABFRONTD=Перед лабораторією (день)
@@ -2825,22 +2825,22 @@ CHALLENGE_BACK_LABFRONTN=Перед лабораторією (ніч)
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker front (day)
-CHALLENGE_BACK_HACKERFRONTD=Гакер (зовні, день)
+CHALLENGE_BACK_HACKERFRONTD=Перед лігвом гакера (день)
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker front (night)
-CHALLENGE_BACK_HACKERFRONTN=Гакер (зовні, ніч)
+CHALLENGE_BACK_HACKERFRONTN=Перед лігвом гакера (ніч)
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker inside (day)
-CHALLENGE_BACK_HACKERINSIDED=Гакер (всередині, день)
+CHALLENGE_BACK_HACKERINSIDED=Лігво гакера (день)
 
 # NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
 ### Hacker inside (night)
-CHALLENGE_BACK_HACKERINSIDEN=Гакер (всередині, ніч)
+CHALLENGE_BACK_HACKERINSIDEN=Лігво гакера (ніч)
 
 ### Lab inside
-CHALLENGE_BACK_LABINSIDE=Лабораторія (всередині)
+CHALLENGE_BACK_LABINSIDE=Лабораторія
 
 ### Museum
 CHALLENGE_BACK_MUSEUM=Музей
@@ -2882,13 +2882,13 @@ CHALLENGE_BACK_BROKAPARTMENT=Квартира Брока
 CHALLENGE_BACK_ARENA=Арена
 
 ### Special - One dimension
-CHALLENGE_BACK_ONED=Особливе - один вимір
+CHALLENGE_BACK_ONED=Особливий - один вимір
 
 ### Special - Ice trial
-CHALLENGE_BACK_ICETRIAL=Особливе - крижане випробування
+CHALLENGE_BACK_ICETRIAL=Особливий - крижане випробування
 
 ### Special - Platformer
-CHALLENGE_BACK_PLATFORMER=Особливе - платформер
+CHALLENGE_BACK_PLATFORMER=Особливий - платформер
 
 
 #-----------------------------------
@@ -2918,7 +2918,7 @@ QUIZZ_Q2=Скільки годин у добі?
 
 # NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
 ### What are the effects of consuming Flowing Honey?
-QUIZZ_Q3=Які ефекти дає вживання Плинного меду?
+QUIZZ_Q3=Які ефекти дає вживання "плинного меду"?
 
 ### Increase defense
 QUIZZ_Q3_1=Підвищує захист
@@ -3003,7 +3003,7 @@ QUIZZ_Q7_1=Провулок на Верхах
 QUIZZ_Q7_2=Перед вашою квартирою
 
 ### In your mom
-QUIZZ_Q7_3=У вашої мами
+QUIZZ_Q7_3=У вашій мамі
 
 ### On the highway
 QUIZZ_Q7_4=На шосе
@@ -3018,7 +3018,7 @@ QUIZZ_Q8=Як називається вигнана група щурів, що 
 QUIZZ_Q8_1=Верескуни
 
 ### Ratten
-QUIZZ_Q8_2=Раттен
+QUIZZ_Q8_2=Щураттен
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Tribots
@@ -3067,7 +3067,7 @@ QUIZZ_Q10_4=3850 Д.В.
 
 
 ### Which item in the game causes damage to yourself?
-QUIZZ_Q11=Який предмет у грі завдає шкоди вам самому?
+QUIZZ_Q11=Який предмет у грі завдає вам шкоди?
 
 ### Sewage sludge
 QUIZZ_Q11_1=Каналізаційний осад
@@ -3155,7 +3155,7 @@ QUIZZ_Q15_4=П'ять років
 QUIZZ_Q16=Що не можна зробити з поштоматом на Верхах?
 
 ### Call for help
-QUIZZ_Q16_1=Викликати допомогу
+QUIZZ_Q16_1=Покликати на допомогу
 
 ### Money transfer
 QUIZZ_Q16_2=Переказати гроші
@@ -3174,17 +3174,17 @@ QUIZZ_Q17=Як називається рослина, сік якої покра
 QUIZZ_Q17_1=Висостінник
 
 ### Wally Glator
-QUIZZ_Q17_2=Воллі Ґлатор
+QUIZZ_Q17_2=Стінні Ґлатор
 
 ### Weaselwall Hanglider
-QUIZZ_Q17_3=Візелвол Ганґлайдер
+QUIZZ_Q17_3=Ласкостін Висоґлайдер
 
 ### Phoenixy Sticky
 QUIZZ_Q17_4=Липкофенікс
 
 
 ### Which species is the only one that can't reproduce with any other species?
-QUIZZ_Q18=Який вид - єдиний, що не може розмножуватися з жодним іншим?
+QUIZZ_Q18=Який вид - єдиний, що не може розмножуватися з жодним іншим видом?
 
 ### Rats
 QUIZZ_Q18_1=Щури
@@ -3216,7 +3216,7 @@ QUIZZ_Q19_3=Шафодильник
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok's cutting board
-QUIZZ_Q19_4=Дошка для нарізки Брока
+QUIZZ_Q19_4=Дошка Брока для нарізки
 
 
 # NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
@@ -3359,7 +3359,7 @@ QUIZZ_Q28_3=Туалет
 
 # NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
 ### The Guard
-QUIZZ_Q28_4=Охоронець
+QUIZZ_Q28_4=Охоронця
 
 
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
@@ -3393,7 +3393,7 @@ QUIZZ_Q31=Коли Графф заходить у бункер, скільки �
 
 
 ### In the bunker, the floor button with the - symbol indicates what kind of sound?
-QUIZZ_Q32=Який звук позначає кнопка на підлозі в бункері зі знаком мінус?
+QUIZZ_Q32=Який звук позначає кнопка на підлозі в бункері зі знаком "дефіс"?
 
 ### Bell
 QUIZZ_Q32_1=Дзвін
@@ -3411,7 +3411,7 @@ QUIZZ_Q32_4=Тиша
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### For how much the Generic Rat sells the Toxout Pill?
-QUIZZ_Q33=Скільки звичайний щур править за смогову пігулку?
+QUIZZ_Q33=За скільки щур продає смогову пігулку?
 
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
@@ -3442,7 +3442,7 @@ QUIZZ_Q34=Коли Брок маскувався, що він використа
 QUIZZ_Q34_1=Крила статуї
 
 ### String
-QUIZZ_Q34_2=Мотузка
+QUIZZ_Q34_2=Мотузку
 
 ### Bags
 QUIZZ_Q34_3=Мішки
@@ -3468,7 +3468,7 @@ QUIZZ_Q35_2=Щелепка
 QUIZZ_Q35_3=Дарт
 
 ### Stark the Shark
-QUIZZ_Q35_4=Старк-Акула
+QUIZZ_Q35_4=Акула Старк
 
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
@@ -3511,16 +3511,16 @@ QUIZZ_Q37_4=Сектор 44X
 QUIZZ_Q38=Скільки секунд вам дають на кожне запитання під час допиту Веса?
 
 ### 10s
-QUIZZ_Q38_1=10 с
+QUIZZ_Q38_1=10с
 
 ### 5s
-QUIZZ_Q38_2=5 с
+QUIZZ_Q38_2=5с
 
 ### 30s
-QUIZZ_Q38_3=30 с
+QUIZZ_Q38_3=30с
 
 ### 20s
-QUIZZ_Q38_4=20 с
+QUIZZ_Q38_4=20с
 
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
@@ -3552,7 +3552,7 @@ QUIZZ_Q39_4=400 Юні
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### When Brok enters the bunker, how many Tribots are contained in the glass room?
-QUIZZ_Q40=Коли Брок заходить у бункер, скільки триботів міститься у скляній кімнаті?
+QUIZZ_Q40=Коли Брок заходить у бункер, скільки Триботів міститься у скляній кімнаті?
 
 
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
@@ -3576,7 +3576,7 @@ QUIZZ_Q41_4=Кнопка
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Under which name does Brok register itself on Wes' Tri-home?
-QUIZZ_Q42=Під яким іменем Брок реєструється у "Трай-домі" Веса?
+QUIZZ_Q42=Під яким іменем Брок реєструється у "Три-домі" Веса?
 
 ### Whocares
 QUIZZ_Q42_1=Якарізниця
@@ -3613,7 +3613,7 @@ QUIZZ_Q43_4=Брок
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Of the four shapes Graff wins at the stone game in the museum, which one is not used?
-QUIZZ_Q44=Яку з чотирьох фігур, які Графф виграє у грі на камені в музеї, не використано?
+QUIZZ_Q44=Яку з чотирьох фігур, які Графф виграє у грі в музеї, не можна використати?
 
 ### Sphere
 QUIZZ_Q44_1=Сфера
@@ -3634,14 +3634,14 @@ QUIZZ_Q44_4=Півсфера
 QUIZZ_Q45=Що Графф намалював на поштовій скриньці біля квартири Брока?
 
 ### Little cat & croc
-QUIZZ_Q45_1=Котик і крокодил
+QUIZZ_Q45_1=Котика і крокодила
 
 ### A triangle
 QUIZZ_Q45_2=Трикутник
 
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Ott
-QUIZZ_Q45_3=Отт
+QUIZZ_Q45_3=Отта
 
 ### Two scratches
 QUIZZ_Q45_4=Дві подряпини
@@ -3706,7 +3706,7 @@ QUIZZ_Q48_4=Міні-Мінк
 # NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### What relationship does Tramp have to Brok?
-QUIZZ_Q49=Ким Волоцюга доводиться Броку?
+QUIZZ_Q49=Ким Волоцюга доводиться Брокові?
 
 ### Uncle
 QUIZZ_Q49_1=Дядько
@@ -3743,12 +3743,12 @@ QUIZZ_Q50_4=Дати глюкозит
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### What is the maximum number of items of each type that Brok and Graff can carry?
-QUIZZ_Q51=Скільки щонайбільше предметів кожного типу можуть носити Брок і Графф?
+QUIZZ_Q51=Скільки максимально предметів кожного типу можуть носити Брок і Графф?
 
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Besides detective, what other occupation is listed on the sign in front of Brok's apartment?
-QUIZZ_Q52=Окрім детектива, який ще фах зазначено на вивісці перед квартирою Брока?
+QUIZZ_Q52=Окрім детектива, який ще фах зазначено на табличці перед квартирою Брока?
 
 ### Handyman
 QUIZZ_Q52_1=Майстер на всі руки
@@ -3799,19 +3799,19 @@ QUIZZ_Q54_4=Кролики
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### What is the name of Graff's plushie?
-QUIZZ_Q55=Як зветься м'яка іграшка Граффа?
+QUIZZ_Q55=Як називається м'яка іграшка Граффа?
 
 ### Pred
-QUIZZ_Q55_1=Pred
+QUIZZ_Q55_1=Наповнювана водою іграшка
 
 ### Drep
-QUIZZ_Q55_2=Drep
+QUIZZ_Q55_2=Наповнювана пір'ями іграшка
 
 ### Perd
-QUIZZ_Q55_3=Perd
+QUIZZ_Q55_3=Плюшевий кіт
 
 ### Derp
-QUIZZ_Q55_4=Derp
+QUIZZ_Q55_4=Плюшевий ведмідь
 
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -3845,22 +3845,22 @@ QUIZZ_Q56_4=4,000 Юні
 QUIZZ_Q57=Коли Брок знаходить різак для гуми, за що він спочатку його прийняв?
 
 ### A lever
-QUIZZ_Q57_1=Важіль
+QUIZZ_Q57_1=За важіль
 
 ### A stick
-QUIZZ_Q57_2=Палиця
+QUIZZ_Q57_2=За палицю
 
 ### A remote control
-QUIZZ_Q57_3=Пульт керування
+QUIZZ_Q57_3=За пульт керування
 
 ### A toothpick
-QUIZZ_Q57_4=Зубочистка
+QUIZZ_Q57_4=За зубочистку
 
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
 ### How many Tribots are inside the pyramid near the server mainframe at the Border Post in order to become a Drumer?
-QUIZZ_Q58=Скільки триботів у піраміді біля центрального комп'ютера на Прикордонному посту, щоб стати мешканцем Верхів?
+QUIZZ_Q58=Скільки триботів у піраміді біля центрального комп'ютера на прикордонному посту?
 
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
@@ -3891,7 +3891,7 @@ QUIZZ_Q60=Як зветься препарат, який шукав Сін?
 QUIZZ_Q60_1=Забуття
 
 ### Morrowind
-QUIZZ_Q60_2=Morrowind
+QUIZZ_Q60_2=Тілонорм
 
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### Toxout
@@ -4005,32 +4005,32 @@ ITEM_NOFOOD_MSG=Немає їжі
 
 #INTERFACE_CHARSELECTED_BASE=Base character
 ### Mod based on <col=BLUE>{name}</col>
-INTERFACE_CHARSELECTED_MOD=Мод на основі <col=BLUE>{name}</col>
+INTERFACE_CHARSELECTED_MOD=Мод на основі: <col=BLUE>{name}</col>
 
 ### Packaged mod based on <col=BLUE>{name}</col>
-INTERFACE_CHARSELECTED_PACKAGED=Запакований мод на основі <col=BLUE>{name}</col>
+INTERFACE_CHARSELECTED_PACKAGED=Пакетний мод на основі: <col=BLUE>{name}</col>
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### In The Brawl Bar, shadow ads replenish each time you come back to the bar, but you keep the points. Trade them for C-Tokens in your store.
-INTERFACE_SHADOWADS_BRAWLBAR=У Бійцівському барі тіньові реклами поповнюються щоразу, коли ви повертаєтеся до бару, але очки залишаються у вас. Обміняйте їх на К-Жетони у магазині меню.
+INTERFACE_SHADOWADS_BRAWLBAR=У Бійцівському барі тіньові реклами поповнюються щоразу, коли ви повертаєтеся до бару, але очки залишаються у вас. Обміняйте їх на К-Жетони у магазині.
 
 ### 2 C-Tokens
 ITEM_CTOKENS2=2 К-Жетони
 
 ### Exchange one shadow point
-ITEM_CTOKENS2_MSG=Обміняйте одне тіньове очко
+ITEM_CTOKENS2_MSG=Обміняти одне тіньове очко
 
 ### 10 C-Tokens
 ITEM_CTOKENS10=10 К-Жетонів
 
 ### Exchange 4 shadow points
-ITEM_CTOKENS10_MSG=Обміняйте 4 тіньові очки
+ITEM_CTOKENS10_MSG=Обміняти 4 тіньові очки
 
 ### 100 C-Tokens
 ITEM_CTOKENS100=100 К-Жетонів
 
 ### Exchange 20 shadow points
-ITEM_CTOKENS100_MSG=Обміняйте 20 тіньових очок
+ITEM_CTOKENS100_MSG=Обміняти 20 тіньових очок
 
 
 ### Options
@@ -4058,7 +4058,7 @@ SAVES_BRAWLBAR2=Прогрес викликів спільний для всіх
 BM04_CHALLENGE_SIMPLEMODE_TOOMANY=Забагато викликів
 
 ### The maximum number of challenges which can be saved is reached ({number} challenges). Please delete one in the Load panel to save this.
-BM04_CHALLENGE_SIMPLEMODE_TOOMANY_DESCRIPTION=Досягнуто максимум збережених викликів ({number} викликів). Видаліть одне на панелі завантаження, щоб зберегти це.
+BM04_CHALLENGE_SIMPLEMODE_TOOMANY_DESCRIPTION=Досягнуто максимальної кількості викликів, які можна зберегти ({number} викликів). Будь ласка, видаліть одне з них на панелі завантаження, щоб зберегти це.
 
 
 ### Export as .zip file
@@ -4104,21 +4104,21 @@ ATLASIAN_UNFOCUSED=Вимкнути фокус
 ITEM_DYNAMITE=Динаміт
 
 ### Dynamite (immediate)
-ITEM_DYNAMITEBOMB=Динаміт (негайно)
+ITEM_DYNAMITEBOMB=Динаміт (миттєвий)
 
 
 ### Music assigned
 BM04_MUSIC_CREATE=Музику призначено
 
 ### The music has been assigned. It has been also added to the list of music tracks to choose from.
-BM04_MUSIC_DESCR=Музику призначено. Її також додано до списку музичних композицій для вибору.
+BM04_MUSIC_DESCR=Музику призначено. Її також додано до списку музичних треків.
 
 
 ### Title missing
 BM04_MUSIC_MISSINGTITLE_TITLE=Немає назви
 
 ### Please enter the title of this music.
-BM04_MUSIC_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву цієї композиції.
+BM04_MUSIC_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву цієї музики.
 
 
 ### Music file missing
@@ -4129,13 +4129,13 @@ BM04_MUSIC_MISSINGMUSICFILE_DESCRIPTION=Будь ласка, імпортуйт�
 
 
 ### A music track to play during your challenge.
-BM04_CREATE_MUSIC_HELP=Музична композиція, що гратиме під час вашого виклику.
+BM04_CREATE_MUSIC_HELP=Музичний трек, що гратиме під час вашого виклику.
 
 ### Music title
-BM04_MUSIC_TITLE=Назва композиції
+BM04_MUSIC_TITLE=Назва музики
 
 ### Set the title of your track.
-BM04_MUSIC_TITLE_HELP=Задайте назву своєї композиції.
+BM04_MUSIC_TITLE_HELP=Задайте назву свого треку.
 
 ### Music file
 BM04_MUSIC_FILE=Музичний файл
@@ -4147,7 +4147,7 @@ BM04_MUSIC_FILE_HELP=Виберіть файл Ogg Vorbis <col=BOLD>.ogg</col> �
 BM04_MUSIC_SUBMIT=Надіслати
 
 ### Submit the new track.
-BM04_MUSIC_SUBMIT_HELP=Надішліть нову композицію.
+BM04_MUSIC_SUBMIT_HELP=Надіслати нову композицію.
 
 
 ### The file selected is too big (should be less than {size} MB)
@@ -4182,7 +4182,7 @@ BM04_OPTION_CHALLENGESHAREEXPORTMUSIC_HELP=Чи додавати вашу вла
 INTERFACE_JUKEBOX_UNLOCKED=Розблоковано
 
 ### Packaged
-BM04_PACKAGED=Запаковано
+BM04_PACKAGED=Пакетний
 
 
 
@@ -4227,7 +4227,7 @@ ITEM_INTERFACE_OPTION_FAMILIAR_MSG=Замінює виклики, для яки�
 ITEM_CHALLENGELOCKED_CHAR=Заблоковано (для цього персонажа)
 
 ### You've <col=BOLD>already completed this challenge</col> with the default character, but not with <col=BOLD>{name}</col>
-ITEM_CHALLENGELOCKED_CHAR_MSG=Ви <col=BOLD>вже пройшли цей виклик</col> стандартним персонажем, але не персонажем <col=BOLD>{name}</col>
+ITEM_CHALLENGELOCKED_CHAR_MSG=Ви <col=BOLD>вже пройшли цей виклик</col> персонажем за замовчуванням, але не цим персонажем: <col=BOLD>{name}</col>
 
 
 # Mobile touch tutorial strings
@@ -4276,7 +4276,7 @@ BM04_ONLINE_DOWNLOAD_READY=Виклик готовий до гри
 BM04_ONLINE_DOWNLOAD_BUSY=Виклик вже завантажується
 
 ### Cannot download while offline
-BM04_ONLINE_DOWNLOAD_OFFLINE=Не вдається завантажити без з'єднання
+BM04_ONLINE_DOWNLOAD_OFFLINE=Не вдається завантажити в автономному режимі
 
 ### Download failed. Please check your connection and try again
 BM04_ONLINE_DOWNLOAD_FAILED=Не вдалося завантажити. Перевірте з'єднання та спробуйте ще раз
@@ -4323,7 +4323,7 @@ BM04_ONLINE_REJECTED_REASON=<col=BOLD>Відхилено:</col> {reason}
 BM04_ONLINE_STATUS_REJECTED=(Відхилено)
 
 ### (Unlisted)
-BM04_ONLINE_STATUS_HIDDEN=(Не в списку)
+BM04_ONLINE_STATUS_HIDDEN=(Приховано)
 
 ### (Downloading...)
 BM04_ONLINE_STATUS_DOWNLOADING=(Завантаження...)
@@ -4348,7 +4348,7 @@ BM04_ONLINE_LIMIT_DESCR=Забагато надсилань. Зачекайте,
 BM04_ONLINE_DENIED_TITLE=Доступ заборонено
 
 ### Your device is not permitted to upload challenges.
-BM04_ONLINE_DENIED_DESCR=Ваш пристрій не має дозволу надсилати виклик.
+BM04_ONLINE_DENIED_DESCR=Ваш пристрій не має дозволу надсилати виклики.
 
 ### Upload Error
 BM04_ONLINE_UPLOADERROR_TITLE=Помилка надсилання
@@ -4370,7 +4370,7 @@ BM04_ONLINE_OFFLINE_DESCR=Щоб надіслати виклик, потрібн
 BM04_ONLINE_MISSINGTITLE_TITLE=Немає назви
 
 ### Please provide a title for the challenge before sharing
-BM04_ONLINE_MISSINGTITLE_DESCR=Додайте назву виклику, перш ніж ним ділитися
+BM04_ONLINE_MISSINGTITLE_DESCR=Додайте назву виклику, перш ніж поділитися
 
 ### Invalid Character
 BM04_ONLINE_INVALIDCHAR_TITLE=Неприпустимий персонаж
@@ -4388,13 +4388,13 @@ BM04_ONLINE_INVALIDENEMY_DESCR=Файли власних персонажів-с
 BM04_ONLINE_INVALIDENV_TITLE=Неприпустиме середовище
 
 ### Custom environments cannot be shared online
-BM04_ONLINE_INVALIDENV_DESCR=Власні середовища не можна поширювати онлайн
+BM04_ONLINE_INVALIDENV_DESCR=Користувацькі середовища не можна поширювати онлайн
 
 ### Invalid Music
 BM04_ONLINE_INVALIDMUSIC_TITLE=Неприпустима музика
 
 ### Custom music files cannot be shared online
-BM04_ONLINE_INVALIDMUSIC_DESCR=Файли власної музики не можна поширювати онлайн
+BM04_ONLINE_INVALIDMUSIC_DESCR=Файли користувацької музики не можна поширювати онлайн
 
 
 ### Report this challenge?
@@ -4404,14 +4404,14 @@ BM04_ONLINE_REPORT_CHOICE=Поскаржитися на цей виклик?
 BM04_ONLINE_REPORTED_TITLE=Скаргу надіслано
 
 ### Thank you for reporting this challenge. It has been flagged for moderation review
-BM04_ONLINE_REPORTED_DESCR=Дякуємо за скаргу на цей виклик. Його позначено для перевірки модерацією
+BM04_ONLINE_REPORTED_DESCR=Дякуємо за скаргу. Цей виклик позначено для перевірки модерацією
 
 
 ### Already Reported
 BM04_ONLINE_REPORTED_ALREADY_TITLE=Уже поскаржилися
 
 ### You have already reported this challenge. It is waiting to be looked at.
-BM04_ONLINE_REPORTED_ALREADY_DESCR=Ви вже поскаржилися на цей виклик. Воно чекає на розгляд.
+BM04_ONLINE_REPORTED_ALREADY_DESCR=Ви вже поскаржилися на цей виклик. Ваша скарга чекає на розгляд.
 
 ### Report Not Sent
 BM04_ONLINE_REPORTED_FAILED_TITLE=Скаргу не надіслано

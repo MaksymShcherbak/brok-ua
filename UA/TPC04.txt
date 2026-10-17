@@ -285,7 +285,7 @@ PC04_PIPEMAIL_ASK_MAIL-2=Цей апарат призначений для пр�
 
 # Pipemail
 ### This sending method has been patented by Tri-Corp under the ID G06F13/00, following the regulations described in article 46B of the constitution related to the usage of electro-mechanical devices and private communications.
-PC04_PIPEMAIL_ASK_MAIL-3=Цей метод відправки був запатентований Трай-Корп під номером G06F13/00 відповідно до правил, описаних у статті 46B конституції щодо використання електромеханічних пристроїв і приватних комунікацій.
+PC04_PIPEMAIL_ASK_MAIL-3=Цей метод відправки був запатентований Три-Корп під номером G06F13/00 відповідно до правил, описаних у статті 46B конституції щодо використання електромеханічних пристроїв і приватних комунікацій.
 
 
 # Brok

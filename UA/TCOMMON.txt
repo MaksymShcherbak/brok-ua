@@ -6757,11 +6757,11 @@ MENU_CARD_NEWS=Новини
 # COOP STUFF
 # -----------------------------
 ### Kill co-op player
-INTERFACE_DEBUG_KILLCOOP=Вбити гравця в кооперативному режимі
+INTERFACE_DEBUG_KILLCOOP=Kill co-op player
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### Display shadow ads locations
-INTERFACE_DEBUG_DISPLAYSHADOWADS=Показати розташування тіньової реклами
+INTERFACE_DEBUG_DISPLAYSHADOWADS=Display shadow ads locations
 
 ### Reconnect
 INTERFACE_RECONNECT_CONTROLLER=Підключитися знову

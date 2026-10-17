@@ -421,6 +421,7 @@
 | Duomelon            | дуодиня               |                           |
 | Crikkit Biskkits    | цвіркопечиво          |                           |
 | Fossi berries       | давньоягоди           |                           |
+| Sewage sludge       | каналізаційний осад   |                           |
 
 **Здоров'я**
 
@@ -585,17 +586,8 @@
 | Points                                     | очки (ігрові) / бали (у школі)            |                                                  |
 | Uni / Unis                                 | Юні                                       |                                                  |
 | Credits                                    | гроші / кошти                             |                                                  |
-| C-Tokens                                   | К-Жетони                                  |                                                  |
 | Adventure mode                             | режим пригоди                             |                                                  |
 | Co-op / co-op mode                         | кооперативний режим                       |                                                  |
-| Creator mode                               | режим творця                              | Режим гри                                        |
-| Survival                                   | виживання                                 | Режим гри                                        |
-| Versus                                     | один на один                              | Режим гри                                        |
-| Support                                    | підтримка                                 | Режим гри                                        |
-| CPU                                        | Бот                                       |                                                  |
-| Bonus wheel                                | бонусне колесо                            |                                                  |
-| Steam Workshop                             | Майстерня Steam                           |                                                  |
-| Challenge                                  | виклик                                    | Рівні в Brawl Bar                                |
 | Main player                                | головний гравець                          | Головний гравець у кооперативі                   |
 | Main endings                               | основні кінцівки                          |                                                  |
 | Main ending                                | основна кінцівка                          |                                                  |
@@ -658,6 +650,48 @@
 | Pro                                        | Профі                                     | Категорія викликів                               |
 | Bonus                                      | Бонус                                     | Категорія викликів                               |
 
+**Brawl Bar**
+
+| Оригінал          | Переклад                        | Примітки   |
+| ----------------- | ------------------------------- | ---------- |
+| Brawl Bar         | Бійцівський бар                 |            |
+| C-Tokens          | К-Жетони                        |            |
+| CounterAttack     | Контратака                      | Назва бару |
+| Creator mode      | режим творця                    |            |
+| Creation          | витвір                          |            |
+| Survival          | виживання                       |            |
+| Versus            | один на один                    |            |
+| Support           | підтримка                       |            |
+| CPU / Computer    | бот                             |            |
+| Bonus wheel       | бонусне колесо                  |            |
+| Steam Workshop    | Майстерня Steam                 |            |
+| Challenge         | виклик                          |            |
+| Goal              | ціль                            |            |
+| Within time limit | за відведений час               |            |
+| Inverted controls | інвертоване керування           |            |
+| Boxer outfit      | боксерське вбрання              |            |
+| Detective outfit  | вбрання детектива               |            |
+| Background        | фон / тло                       |            |
+| Download          | завантажити                     |            |
+| Upload            | надіслати                       |            |
+| Default           | за замовчуванням                |            |
+| Default character | персонаж за замовчуванням       |            |
+| Character mod     | мод персонажа                   |            |
+| Modifier          | модифікатор                     |            |
+| Glitch            | глюк                            |            |
+| Thumbnail         | обкладинка                      |            |
+| Environment       | середовище                      |            |
+| Custom            | користувацький                  |            |
+| Item drop         | випадіння предмета              |            |
+| Skin              | образ                           |            |
+| Escort            | супровід                        |            |
+| Directory         | тека                            |            |
+| Icon              | іконка                          |            |
+| Music track       | музичний трек                   |            |
+| Online            | онлайн / в мережі / в інтернеті |            |
+| Offline           | офлайн / в автономному режимі   |            |
+| Enemy / Enemies   | ворог / вороги                  |            |
+
 **Бій**
 
 | Оригінал             | Переклад                     | Примітки |
@@ -669,6 +703,7 @@
 | Dodge                | ухилення                     |          |
 | Parry                | парирування                  |          |
 | Guard                | захист                       |          |
+| Hook                 | хук                          |          |
 | Weapon throw         | кидання зброї                |          |
 | Health Points        | очки здоров'я                |          |
 | HP / H.P.            | ОЗ                           |          |
@@ -740,6 +775,8 @@
 | Pendant                     | кулон                                |                                      |
 | Sign                        | табличка / вивіска / знак            |                                      |
 | Bike                        | байк                                 |                                      |
+| Balloon                     | повітряна кулька / кулька            |                                      |
+| Hook                        | гачок                                |                                      |
 
 **Інше**
 
