@@ -625,7 +625,7 @@ TYPE_SURVIVE=Вижити
 TYPE_KINGHILL=Король
 
 ### Battle Royale
-TYPE_BATTLEROYALE=Королевська битва
+TYPE_BATTLEROYALE=Королівська битва
 
 ### Suicide
 TYPE_SUICIDE=Нокаутуйте себе
@@ -719,7 +719,7 @@ ITEM_CHALLENGE_GROWSODAS=Вирости на газованці
 ITEM_CHALLENGE_GROWSODAS_MSG=Випийте щонайменше <col=BOLD>{number} газованок</col> за відведений час
 
 ### Grabbers
-ITEM_CHALLENGE_GRABBERS=Захоплений
+ITEM_CHALLENGE_GRABBERS=Хапуни
 
 ### Defeat the enemies without getting <col=BOLD>grabbed</col> (instant death)
 ITEM_CHALLENGE_GRABBERS_MSG=Переможіть ворогів, не даючи <col=BOLD>себе схопити</col> (миттєва смерть)
@@ -888,7 +888,7 @@ ITEM_CHALLENGE_SKATINGDAY_MSG=Здолайте всіх ворогів за <col
 ITEM_CHALLENGE_WEAK=Слабкий
 
 ### Grab <col=BOLD>power boosts</col> to make you stronger!
-ITEM_CHALLENGE_WEAK_MSG=Хапайте <col=BOLD>посилення</col>, щоб стати сильніше!
+ITEM_CHALLENGE_WEAK_MSG=Хапайте <col=BOLD>посилення</col>, щоб стати сильнішим!
 
 ### One HP
 ITEM_CHALLENGE_ONEHP=Одне здоров'я
@@ -972,7 +972,7 @@ ITEM_CHALLENGE_FRIENDLYSPARRING=Король стола
 ITEM_CHALLENGE_FRIENDLYSPARRING_MSG=<col=BOLD>Втримайтеся на столі</col> довше за Брока й Отта, щоб перемогти!
 
 ### Battle Royale
-ITEM_CHALLENGE_BATTLEROYALE=Battle Royale
+ITEM_CHALLENGE_BATTLEROYALE=Королівська битва
 
 ### One step <col=BOLD>outside the bright area</col> and you're done for!
 ITEM_CHALLENGE_BATTLEROYALE_MSG=Один крок <col=BOLD>за межі освітленої зони</col> - і вам кінець!
@@ -1898,7 +1898,7 @@ BM04_OPTION_CHALLENGESHAREEXPORTCHARMODS_HELP=Чи слід експортува
 BM04_OPTION_CHALLENGESHAREEXPORTENVIRONMENT_HELP=Чи слід експортувати ваше користувацьке середовище?##Якщо оберете "так", переконайтеся, що воно достатньо якісне для публікації!
 
 ### This sends to <col=BOLD>Steam workshop.</col> Do it again to update.##COWCAT declines responsability regarding the content you send. Make sure you are authorized.
-BM04_OPTION_CHALLENGESHARESUBMIT_HELP=Ця діє надсилає дані до <col=BOLD>Майстерні Steam.</col> Повторіть, щоб оновити.##COWCAT не несе відповідальності за вміст, який ви надсилаєте. Переконайтеся, що маєте на це дозвіл.
+BM04_OPTION_CHALLENGESHARESUBMIT_HELP=Ця дія надсилає дані до <col=BOLD>Майстерні Steam.</col> Повторіть, щоб оновити.##COWCAT не несе відповідальності за вміст, який ви надсилаєте. Переконайтеся, що маєте на це дозвіл.
 
 ### Select how difficult, according to you, this challenge is.
 BM04_OPTION_CHALLENGESHAREDIFFICULTY_HELP=Вкажіть, наскільки складним, на вашу думку, є цей виклик.
@@ -1933,7 +1933,7 @@ BM04_OPTION_OBJECTIVE_HELP=Оберіть основний тип цілі дл�
 BM04_OPTION_TIMER_HELP=Кількість секунд до завершення таймера.##Залежно від цілі це може означати поразку або перемогу.
 
 ### If set to yes, the challenge is lost as soon as any ally computer of your team is killed.##Useful to make escort or protection challenges. (Default = no)
-BM04_OPTIONL_OSEIFALLYDIES_HELP=Якщо ввімкнути, то гравець зазнає поразки, щойно загине будь-який союзник-комп'ютер.##Стане в пригоді для викликів на супровід чи захист. (За замовчуванням = ні)
+BM04_OPTION_LOSEIFALLYDIES_HELP=Якщо ввімкнути, то гравець зазнає поразки, щойно загине будь-який союзник-бот.##Стане в пригоді для викликів на супровід чи захист. (За замовчуванням = ні)
 
 ### Only used by the <col=BOLD>Battle Royale</col> objective: how far in front the deadly circle is drawn, exactly like the depth of an environment image.##Each environment already picks a value that suits its own decor, so only set this if you are not happy with the result.
 BM04_OPTION_BATTLEROYALEDEPTH_HELP=Використовується лише ціллю <col=BOLD>Королівська битва</col>: наскільки далеко вперед малюється смертельне коло, аналогічно глибині зображення середовища.##Кожне середовище вже має значення, що пасує його декораціям, тож змінюйте це, лише якщо вас не влаштовує результат.
@@ -1942,7 +1942,7 @@ BM04_OPTION_BATTLEROYALEDEPTH_HELP=Використовується лише ц�
 BM04_OPTION_HPRATE_HELP=Використовується лише модифікаторами, які самі змінюють здоров'я (<col=BOLD>ОЗ зменшується</col>, <col=BOLD>вороги набирають ОЗ</col>, <col=BOLD>гравець набирає ОЗ</col>): як швидко це відбувається, у відсотках.##100 - швидкість, з якою їх задумано; менше значення робить зміну м'якою, більше - жорстокою. (За замовчуванням = 100)
 
 ### Only used by the <col=BOLD>Battle Royale</col> objective: how fast the deadly circle closes in, in percent.##100 is the normal speed, a lower value gives more time, a high value shrinks the arena very fast. (Default = 100)
-BM04_OPTION_BATTLEROYALESPEED_HELP=Використовується лише метою <col=BOLD>Battle Royale</col>: як швидко звужується смертельне коло, у відсотках.##100 - звичайна швидкість; менше значення дає більше часу, більше - дуже швидко стискає арену. (За замовчуванням = 100)
+BM04_OPTION_BATTLEROYALESPEED_HELP=Використовується лише ціллю <col=BOLD>Королівська битва</col>: як швидко звужується смертельне коло, у відсотках.##100 - звичайна швидкість; менше значення дає більше часу, більше - дуже швидко стискає арену. (За замовчуванням = 100)
 
 ### Use one or several modifiers to do special things.
 BM04_OPTION_MODIFIERADD_HELP=Використайте один або кілька модифікаторів, щоб створити особливі правила.
@@ -2132,19 +2132,19 @@ BM04_CHARACTER_MAINPLAYER=Головний гравець (Команда 1)
 BM04_CHARACTER_COOP=Гравець у кооперативі (Команда 1)
 
 ### Ally Computer (Team 1)
-BM04_CHARACTER_ALLY=Союзник-комп'ютер (Команда 1)
+BM04_CHARACTER_ALLY=Союзник-бот (Команда 1)
 
 ### Enemy Computer (Team 0)
-BM04_CHARACTER_ENEMY0=Ворог-комп'ютер (Команда 0)
+BM04_CHARACTER_ENEMY0=Ворог-бот (Команда 0)
 
 ### Enemy Computer (Team 2)
-BM04_CHARACTER_ENEMY2=Ворог-комп'ютер (Команда 2)
+BM04_CHARACTER_ENEMY2=Ворог-бот (Команда 2)
 
 ### Enemy Computer (Team 3)
-BM04_CHARACTER_ENEMY3=Ворог-комп'ютер (Команда 3)
+BM04_CHARACTER_ENEMY3=Ворог-бот (Команда 3)
 
 ### Enemy Computer (Team 4)
-BM04_CHARACTER_ENEMY4=Ворог-комп'ютер (Команда 4)
+BM04_CHARACTER_ENEMY4=Ворог-бот (Команда 4)
 
 ### Opponent Player (Team 2)
 BM04_CHARACTER_OTHERPLAYER2=Гравець-суперник (Команда 2)
@@ -2161,7 +2161,7 @@ BM04_CHARACTER_OTHERPLAYER4=Гравець-суперник (Команда 4)
 BM04_CHARACTER_FACTORDECISION=Фактор рішучості
 
 ### Decision factor <col=BOLD>(Percent)</col>##Only for computer controlled characters. The higher, the more active the character.
-BM04_CHARACTER_FACTORDECISION_HELP=Фактор рішучості <col=BOLD>(Відсотки)</col>##Лише для персонажів під керуванням комп'ютера. Що вище, то активнішим буде персонаж.
+BM04_CHARACTER_FACTORDECISION_HELP=Фактор рішучості <col=BOLD>(Відсотки)</col>##Лише для персонажів під керуванням бота. Що вище, то активнішим буде персонаж.
 
 
 ### Strength
@@ -2186,7 +2186,7 @@ BM04_CHARACTER_DEFENSE_HELP=Захист <col=BOLD>(Відсотки)</col>##З�
 BM04_CHARACTER_SPEEDATTACK=Швидкість атаки
 
 ### Attack speed <col=BOLD>(Percent)</col>##More means faster, less is slower. Only applies to computer controlled characters.
-BM04_CHARACTER_SPEEDATTACK_HELP=Швидкість атаки <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше. Застосовується лише для персонажів під керуванням комп'ютера.
+BM04_CHARACTER_SPEEDATTACK_HELP=Швидкість атаки <col=BOLD>(Відсотки)</col>##Більше - швидше, менше - повільніше. Застосовується лише для персонажів під керуванням бота.
 
 
 ### Move Speed
@@ -2412,7 +2412,7 @@ BM04_ENVIRONMENT_SUBMIT_HELP=Перевірити й згенерувати се
 BM04_ERROR_TITLE=Помилка
 
 ### One character mod could not be retrieved: {name}
-BM04_ERROR_CHARACTER=Не вдалося отримати модифікацію персонажа: {name}
+BM04_ERROR_CHARACTER=Не вдалося отримати мод персонажа: {name}
 
 ### One environment image could not be retrieved: {name}
 BM04_ERROR_ENVIRONMENTBACK=Не вдалося отримати зображення середовища: {name}
@@ -4118,7 +4118,7 @@ BM04_MUSIC_DESCR=Музику призначено. Її також додано
 BM04_MUSIC_MISSINGTITLE_TITLE=Немає назви
 
 ### Please enter the title of this music.
-BM04_MUSIC_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву цієї музики.
+BM04_MUSIC_MISSINGTITLE_DESCRIPTION=Будь ласка, введіть назву цього треку.
 
 
 ### Music file missing
@@ -4132,7 +4132,7 @@ BM04_MUSIC_MISSINGMUSICFILE_DESCRIPTION=Будь ласка, імпортуйт�
 BM04_CREATE_MUSIC_HELP=Музичний трек, що гратиме під час вашого виклику.
 
 ### Music title
-BM04_MUSIC_TITLE=Назва музики
+BM04_MUSIC_TITLE=Назва треку
 
 ### Set the title of your track.
 BM04_MUSIC_TITLE_HELP=Задайте назву свого треку.
@@ -4147,7 +4147,7 @@ BM04_MUSIC_FILE_HELP=Виберіть файл Ogg Vorbis <col=BOLD>.ogg</col> �
 BM04_MUSIC_SUBMIT=Надіслати
 
 ### Submit the new track.
-BM04_MUSIC_SUBMIT_HELP=Надіслати нову композицію.
+BM04_MUSIC_SUBMIT_HELP=Надіслати новий трек.
 
 
 ### The file selected is too big (should be less than {size} MB)
@@ -4175,7 +4175,7 @@ CHOICE_DELETE_MUSIC_POPUP=Музику буде видалено після за
 
 
 ### Should your custom music be included?
-BM04_OPTION_CHALLENGESHAREEXPORTMUSIC_HELP=Чи додавати вашу власну музику?
+BM04_OPTION_CHALLENGESHAREEXPORTMUSIC_HELP=Чи слід експортувати вашу користувацьку музику?
 
 
 ### Unlocked

@@ -604,29 +604,10 @@
 | DLC                                        | доповнення                                |                                                  |
 | Extras                                     | додатки                                   |                                                  |
 | Blink                                      | блимання                                  |                                                  |
-| Icon                                       | іконка                                    |                                                  |
 | Hotspots                                   | точки взаємодії                           |                                                  |
 | Unlock                                     | розблокувати                              |                                                  |
 | Disable                                    | вимкнути                                  |                                                  |
-| Settings                                   | налаштування                              |                                                  |
 | Magnifying glass / Magnify                 | лупа / збільшення                         |                                                  |
-| Resolution                                 | роздільна здатність                       |                                                  |
-| Vsync / Vertical synchronization           | вертикальна синхронізація                 |                                                  |
-| Fullscreen                                 | повноекранний режим                       |                                                  |
-| Windowed                                   | віконний режим                            |                                                  |
-| Fully narrated                             | повне озвучення                           |                                                  |
-| Positional audio                           | позиційне аудіо                           |                                                  |
-| High contrast text                         | висококонтрастний текст                   |                                                  |
-| Screen shaking                             | тремтіння екрана                          |                                                  |
-| Accessibility menu                         | меню доступності                          |                                                  |
-| High contrast characters                   | висококонтрастні персонажі                |                                                  |
-| Simplified rooms                           | спрощені кімнати                          |                                                  |
-| Repeat buttons                             | кнопки повтору                            |                                                  |
-| Repeat speech                              | повторити діалогову репліку               |                                                  |
-| Repeat instructions                        | повторити вказівки                        |                                                  |
-| Clipboard narration                        | озвучення буфера обміну                   |                                                  |
-| Hotspots aligned                           | вирівнювання точок взаємодії              |                                                  |
-| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                                  |
 | Croc dude                                  | чуваче                                    | Ігрові підказки                                  |
 | Kitty                                      | кошенятко                                 | Ігрові підказки                                  |
 | Credits / End titles                       | титри                                     | Не плутати з Credits = гроші / кошти (див. вище) |
@@ -635,10 +616,8 @@
 | Gauge                                      | шкала                                     |                                                  |
 | Boost                                      | прискорення / підвищення                  |                                                  |
 | Cell                                       | камера                                    |                                                  |
-| Screen reader                              | екранний зчитувач                         |                                                  |
 | Brawl points                               | очки бійки                                |                                                  |
 | Brain points                               | очки розуму                               |                                                  |
-| Debug                                      | налагодження                              |                                                  |
 | Tutorial                                   | посібник                                  |                                                  |
 | Fight difficulty                           | рівень складності битв                    |                                                  |
 | Relaxed                                    | Розслаблений                              |                                                  |
@@ -649,6 +628,50 @@
 | Intermediate                               | Боєць                                     | Категорія викликів                               |
 | Pro                                        | Профі                                     | Категорія викликів                               |
 | Bonus                                      | Бонус                                     | Категорія викликів                               |
+
+**Система**
+
+| Оригінал                                   | Переклад                                  | Примітки                                         |
+| ------------------------------------------ | ----------------------------------------- | ------------------------------------------------ |
+| Resolution                                 | роздільна здатність                       |                                                  |
+| Vsync / Vertical synchronization           | вертикальна синхронізація                 |                                                  |
+| Fullscreen                                 | повноекранний режим                       |                                                  |
+| Windowed                                   | віконний режим                            |                                                  |
+| Fully narrated                             | повне озвучення                           |                                                  |
+| Positional audio                           | позиційне аудіо                           |                                                  |
+| High contrast text                         | висококонтрастний текст                   |                                                  |
+| High contrast characters                   | висококонтрастні персонажі                |                                                  |
+| Screen shaking                             | тремтіння екрана                          |                                                  |
+| Accessibility menu                         | меню доступності                          |                                                  |
+| Screen reader                              | екранний зчитувач                         |                                                  |
+| Simplified rooms                           | спрощені кімнати                          |                                                  |
+| Repeat buttons                             | кнопки повтору                            |                                                  |
+| Repeat speech                              | повторити діалогову репліку               |                                                  |
+| Repeat instructions                        | повторити вказівки                        |                                                  |
+| Clipboard narration                        | озвучення буфера обміну                   |                                                  |
+| Hotspots aligned                           | вирівнювання точок взаємодії              |                                                  |
+| (Controller highly / heavily recommended!) | (Рекомендуємо використовувати контролер!) |                                                  |
+| Settings                                   | налаштування                              |                                                  |
+| Debug                                      | налагодження                              |                                                  |
+| Icon                                       | іконка                                    |                                                  |
+| Download                                   | завантажити                               |                                                  |
+| Upload                                     | надіслати                                 |                                                  |
+| Import                                     | імпортувати                               |                                                  |
+| Export                                     | експортувати                              |                                                  |
+| Directory                                  | тека                                      |                                                  |
+| Default                                    | за замовчуванням                          |                                                  |
+| Thumbnail                                  | обкладинка                                |                                                  |
+| Background                                 | фон / тло                                 |                                                  |
+| Environment                                | середовище                                |                                                  |
+| Custom                                     | користувацький                            |                                                  |
+| Packaged                                   | пакетний                                  |                                                  |
+| Modifier                                   | модифікатор                               |                                                  |
+| Music track                                | музичний трек                             |                                                  |
+| Music                                      | музика                                    |                                                  |
+| Composition                                | композиція                                |                                                  |
+| Online                                     | онлайн / в мережі / в інтернеті           |                                                  |
+| Offline                                    | офлайн / в автономному режимі             |                                                  |
+| Steam Workshop                             | Майстерня Steam                           |                                                  |
 
 **Brawl Bar**
 
@@ -664,32 +687,20 @@
 | Support           | підтримка                       |            |
 | CPU / Computer    | бот                             |            |
 | Bonus wheel       | бонусне колесо                  |            |
-| Steam Workshop    | Майстерня Steam                 |            |
 | Challenge         | виклик                          |            |
-| Goal              | ціль                            |            |
+| Goal / Objective  | ціль                            |            |
+| Battle Royale     | королівська битва               |            |
 | Within time limit | за відведений час               |            |
 | Inverted controls | інвертоване керування           |            |
 | Boxer outfit      | боксерське вбрання              |            |
 | Detective outfit  | вбрання детектива               |            |
-| Background        | фон / тло                       |            |
-| Download          | завантажити                     |            |
-| Upload            | надіслати                       |            |
-| Default           | за замовчуванням                |            |
 | Default character | персонаж за замовчуванням       |            |
 | Character mod     | мод персонажа                   |            |
-| Modifier          | модифікатор                     |            |
 | Glitch            | глюк                            |            |
-| Thumbnail         | обкладинка                      |            |
-| Environment       | середовище                      |            |
-| Custom            | користувацький                  |            |
+| Arena             | арена                           |            |
 | Item drop         | випадіння предмета              |            |
 | Skin              | образ                           |            |
 | Escort            | супровід                        |            |
-| Directory         | тека                            |            |
-| Icon              | іконка                          |            |
-| Music track       | музичний трек                   |            |
-| Online            | онлайн / в мережі / в інтернеті |            |
-| Offline           | офлайн / в автономному режимі   |            |
 | Enemy / Enemies   | ворог / вороги                  |            |
 
 **Бій**
