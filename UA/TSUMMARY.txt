@@ -22,12 +22,12 @@ SUMMARY_CHOICE=Закрити підсумок?
 ### Get rid of the cleaning bot
 PC01_DESTROY_HOOVER=Позбавився пилососа
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp attacked
 PC03_TRAMP_ATTACKED=Напав на волоцюгу
 
 #PC03_TRAMP_KILLED=Tramp asks to get him out of his misery
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp's fate
 PC03_TRAMP_FATE=Доля волоцюги
 
@@ -112,7 +112,7 @@ PC11D_OUTCOME2=Малий Графф
 ### Escape police department
 PC09_STORY100_HASTRIGGEREDALARM=Втік з відділку поліції
 
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Given glucosite
 PC03_HAS_GIVEN_GLUCOSITE=Віддав глюкозит
 
@@ -124,26 +124,26 @@ PC01_STORY140_CHOICE=Хто в пріоритеті?
 ### Given the chip
 PC10_DIRECTOR_GIVEN_CHIP=Віддав чип
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Meet the Director
 PC14B_DIRECTOR_MEET=Зустрівся з Директоркою
 
 ### Accepted to help?
 PC14B_DIRECTOR_HELP=Погодився допомогти?
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker's blackmail
 PC14B_HACKER_BLACKMAIL=Шантаж гакера
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Enter hacker's place
 PC14B_RJ_FOOLED=Увійшов у лігво гакера
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Convince hacker
 PC14C_DECISION=Переконав гакера
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Director's decision for Graff
 PC10_DECISION_GRAFF=Рішення Директорки щодо Граффа
@@ -161,7 +161,7 @@ PC09C_OTT_HASLEFT=Відволік Отта
 ### Access Wes' computer
 PC09C_HAS_HIT_COMPUTER=Отримав доступ до комп'ютера Веса
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Access Dr. Mink's room
 PC15B_CONVINCE_MINKOUT=Увійшов до кімнати д-ра Мінка
 
@@ -209,16 +209,16 @@ PC03_HAS_BEAT_BILLDRONES=Рахунки
 ### Materials given
 MATERIALS_GIVEN=Віддав матеріали
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Make Dr. Gherkin come out
 PC18_HAS_BROKEN_DOOR=Змусив д-ра Геркіна вийти
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Saving R.J. or Dr. Gherkin
 PC14B_RJ_SAVED=Врятував Р. Джея чи д-ра Геркіна
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Escape with Dr. Gherkin
 PC12_BOTS_END=Втік з доктором Геркіном
 
@@ -269,7 +269,7 @@ PC20_LASTWORD=Останні слова
 PC20_IS_DEE_KILLED=Ді б'ється
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief Squealer fate
 PC20_IS_RATCHIEF_KILLED=Доля шефа Верескунів
 
@@ -294,7 +294,7 @@ GRAFF_RELATION=Графф і Брок
 GRAFF_RELATION_DETAIL=(Стосунки > 80%)
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Fight Chief Squealer
 FIGHT_CHIEFRAT=Бій із шефом Верескунів
 
@@ -397,7 +397,7 @@ PC14_BROKCHOICE=Вибір Брока
 ### Bolt's screw
 PC15D_HAS_SOLD_SCREW=Гвинт Болта
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff beats Chief
 PC15D_GRAFF_BEATS_CHIEF=Графф переміг шефа
@@ -672,7 +672,7 @@ CHOICE_DRUGGED=Одурманено
 ### School
 CHOICE_SCHOOL=Школа
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Front of Hacker's
 CHOICE_HACKERPLACE=Перед лігвом гакера
 
@@ -892,7 +892,7 @@ ENDING_HINT99=Збери всі реклами (за кілька проходж
 ### Arrive on time for the fair
 NODE_HINT_PC14B_DIRECTOR_HELP=Прийди на ярмарок вчасно
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Don't accept Director mission
 NODE_HINT_PC14B_HACKER_BLACKMAIL=Не погоджуйся на пропозицію Директорки
 

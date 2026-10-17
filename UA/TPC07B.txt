@@ -33,7 +33,7 @@ PC_GLASSES=Склянки
 ### Wall crack
 PC_WALLCRACK=Тріщина в стіні
 
-# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+# NB: Lexicon word in Ukrainian for "Wardfridge": "шафодильник"
 ### Wardfridge
 PC_WARDFRIDGE=Шафодильник
 
@@ -63,7 +63,7 @@ GOT_REMOTECONTROLDAMAGED=Пошкоджений пульт керування!
 ### A pill!
 GOT_PILL=Пігулка!
 
-# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
 ### Pour some Hot Juice?
 PC07B_CHOICE_HOTJUICE=Налити гарячого соку?
 
@@ -72,7 +72,7 @@ PC07B_CHOICE_HOTJUICE=Налити гарячого соку?
 ### Gun
 TOPIC_GUN=Пістолет
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street
 TOPIC_DRUMERSSTREET=Вулиця на Верхах
 
@@ -219,7 +219,7 @@ PC07B_TABLET1-3=М-ммм... Мабуть, мені варто радіти, щ�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
 ### Without searching through it, I can see an empty bottle of Hot Juice.
 PC07B_TRASH1-1=Навіть не риючись у ньому, я бачу порожню пляшку з-під гарячого соку.
 
@@ -393,7 +393,7 @@ PC07B_WARDFRIDGE1C-6=Зрозумів! Покваплюся.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+# NB: Lexicon word in Ukrainian for "Wardfridge": "шафодильник"
 ### Wardfridges are such a nice invention!
 PC07B_CLOTHES1-1=Шафодильники - такий чудовий винахід!
 
@@ -691,7 +691,7 @@ PC07B_SIN_FIRST-6=Я втрачу роботу! Ось чому!
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### I'm... kinda new on the force. If I tell the chief I messed up, he'll fire me!
 PC07B_SIN_FIRST-7=Я... так би мовити, новенький у поліції. Якщо скажу шефу, що накосячив, він мене звільнить!
 
@@ -755,7 +755,7 @@ PC07B_SIN_GUN1-1=Є якісь ідеї, де ви могли його загу�
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Last night, I was on duty in Drumer Street.
 PC07B_SIN_GUN1-2=Минулої ночі я був на чергуванні на Верхах.
 
@@ -843,7 +843,7 @@ PC07B_SIN_GUN2-9=Гаразд, це може знадобитися.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street, you say?
 PC07B_SIN_DRUMERSSTREET1-1=На Верхах, кажете?
 
@@ -862,8 +862,8 @@ PC07B_SIN_DRUMERSSTREET1B-1=Ви ж детектив! Я думав, у вас �
 
 # Brok
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Nope. All my clients are Slumers, I usually don't go near the Dome.
 PC07B_SIN_DRUMERSSTREET1B-2=Ні. Усі мої клієнти живуть у Нетрях, тож я зазвичай і близько не підходжу до Купола.
 
@@ -966,7 +966,7 @@ PC07B_SIN_DRUMERSSTREET1C-8=Досвід підказує мені, що реч�
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### But... I told you! I lost it on Drumer Street!
 PC07B_SIN_DRUMERSSTREET1C-9=Але... я ж казав вам! Я загубив його на Верхах!
 
@@ -1004,7 +1004,7 @@ PC07B_SIN_DRUMERSSTREET2-3=Ви були самі? Хіба Триботів і 
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief insists on keeping some humans in the crucial areas.
 PC07B_SIN_DRUMERSSTREET2-4=Шеф наполягає на тому, щоб у найважливіших зонах залишалися охоронці-люди.
 
@@ -1015,16 +1015,16 @@ PC07B_SIN_DRUMERSSTREET2-5=Найважливіших, га...?
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I see what you mean... but that's how it is. Drumers get priority.
 PC07B_SIN_DRUMERSSTREET2-6=Розумію, про що ви... але маємо, що маємо. Мешканці Верхів у пріоритеті.
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### How come you're living in the Slums? I could have sworn cops were Drumers.
 PC07B_SIN_HIMSELF1-1=Як так вийшло, що ви живете в Нетрях? Я міг би присягнутися, що всі копи - з Верхів.
@@ -1036,8 +1036,8 @@ PC07B_SIN_HIMSELF1-2=Ви помиляєтеся. Я не так багато з
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### But are Slumers allowed on the police force? I thought...
 PC07B_SIN_HIMSELF1-3=А хіба мешканцям Нетрів дозволено служити в поліції? Я думав...
 
@@ -1297,7 +1297,7 @@ PC07B_SIN_INV_TRAMPPRESCR-2=Уявлення не маю. З Мед-Трибот
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### You got one? I thought you were a Slumer?
 PC07B_SIN_INV_TRAMPPRESCR-3=У вас є такий? Я думав, ви з Нетрів?
 
@@ -1681,7 +1681,7 @@ PC07B_CLUE_SIN_SLEEP-15=Можливо, й так. Але ось моя теор
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### The merchant girl on your street described a guy deeply asleep earlier this morning...in his underwear!
 PC07B_CLUE_SIN_SLEEP-16=Крамарка на вашій вулиці описувала чоловіка, який міцно спав сьогодні вранці... у самій спідній білизні!
 
@@ -2182,7 +2182,7 @@ PC07B_SIN_WIN1-30=Я би втратив свою кваліфікацію та 
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### So you're a Drumer?
 PC07B_SIN_WIN1-31=То ви мешканець Верхів?
 
@@ -2278,7 +2278,7 @@ PC07B_SIN_WIN1-49=Я провів цілі дні в пошуках рішенн
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### A hacker lived in the apartment next to mine...
 PC07B_SIN_WIN1-50=У сусідній зі мною квартирі жив гакер...
 

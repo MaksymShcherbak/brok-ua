@@ -116,13 +116,13 @@ PC11D_WINDOWA_CLOSEUP1-9=...не зможе...
 
 
 # Various
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### ...live with this Slumer?...
-PC11D_WINDOWA_CLOSEUP1-10=...жити з цим нетрівцем...?
+PC11D_WINDOWA_CLOSEUP1-10=...жити з цим Нетрівцем...?
 
 
 # Various
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### ...a violent stranger. He'd be...
 PC11D_WINDOWA_CLOSEUP1-11=...жорстокий незнайомець. Він був би...
 

@@ -830,7 +830,7 @@ AUDIOD_CHAPTER6=Розділ 6: Визволення
 AUDIOD_CHAR_BROK=Головний герой, за якого ви граєте - Брок. Брок пухкий, але сильний чоловік-алігатор, одягнений у пальто детектива, чорну майку, блакитні штани та фіолетовий фетровий капелюх. На морді у нього сіра металева пластина, він носить кулон у формі магатами та ходить без взуття.
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The Squealer Chief is a burly rat wearing a somewhat ragged jacket. He has grey fur with what appears to be dyed blue hair.
 AUDIOD_CHAR_CHIEFRAT=Шеф Верескунів - кремезний пацюк, одягнений у дещо подерту куртку. У нього сіра шерсть і волосся, яке ніби пофарбоване в синій колір.
 
@@ -838,11 +838,11 @@ AUDIOD_CHAR_CHIEFRAT=Шеф Верескунів - кремезний пацюк
 ### Brok faces a dingo wearing a hoodie, very slim and with brown fur, equipped in each hand with what looks like telescopic batons.
 AUDIOD_CHAR_DEE=Брок бачить динго в худі з капюшоном, дуже худу та з коричневою шерстю, в кожній руці якої - щось схоже на телескопічні кийки.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The director is a robot that resembles a female bear. She is white and purple.
 AUDIOD_CHAR_DIRECTOR=Директорка - робот, що нагадує ведмедицю. Вона білого та фіолетового кольорів.
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin is a tall, scrawny, bespectacled stork. He is wearing a briefcase and looks kinda old.
 AUDIOD_CHAR_GHERKIN=Доктор Геркін - високий, худорлявий лелека в окулярах. Він носить портфель та виглядає дещо старим.
 
@@ -851,24 +851,24 @@ AUDIOD_CHAR_GHERKIN=Доктор Геркін - високий, худорляв
 ### Graff is a grey teenaged cat with a big nose, wearing a red hoodie and baggy pants. Contrary to Brok, he has some sneakers shoes.
 AUDIOD_CHAR_GRAFF=Графф - сірий кіт-підліток з великим носом, одягнений у червоне худі та мішкуваті штани. На відміну від Брока, у нього є кросівки.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The Guard is a somewhat portly rat. He has a typical black guard outfit, comprising a tie with white and pink stripes.
 AUDIOD_CHAR_GUARD=Охоронець - доволі огрядний пацюк. На ньому типовий чорний костюм охоронця, що складається з краватки з білими та рожевими смугами.
 
 ### The Gloom is a mouse who doesn’t seem very physically capable. He always has his computer equipement around, including a mouse shaped like a...mouse. He seems to be wearing a black hat, or could it be a wig?
 AUDIOD_CHAR_HACKER=Похмурий - миша, яка здається не дуже сильною фізично. Своє комп'ютерне обладнання він завжди тримає поруч, включно з мишкою у формі... миші. Здається, він носить чорну шляпу, чи, можливо, це перука?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Hush is a bobcat scientist. He's wearing a lab coat just like Dr. Mink.
 AUDIOD_CHAR_HUSH=Доктор Гаш - вчений-рись. Він одягнений у лабораторний халат, як і доктор Мінк.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay is a scrawny mountain lion wearing a preppy outfit. He has yellow fur. The director is a robot that resembles a female bear. She is white and purple.
 AUDIOD_CHAR_KLAY=Клей - худорлява пума у вбранні в стилі преппі. У нього жовта шерсть. Директорка - робот, що нагадує ведмедицю. Вона білого та фіолетового кольорів.
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink is a slightly chubby mink with brown fur. He's wearing a white lab coat with a tie. He has a somewhat crazy look in his eyes.
 AUDIOD_CHAR_MINK=Доктор Мінк - дещо пухка норка з коричневою шерстю. Він одягнений у білий лабораторний халат і краватку. У його очах є щось божевільне.
 
@@ -891,7 +891,7 @@ AUDIOD_CHAR_SIN=Сін - схвильований пухкий помаранч�
 ### Tidy is an oval shaped robot. He is using tracks, a row of wheels like a tank to move around and has two long arms. His head sports a colored circular shape which changes according to his mood.
 AUDIOD_CHAR_TIDY=Тайді - робот овальної форми. Для пересування він використовує гусениці, ряд коліс, як у танка. У нього є дві довгі руки, а на голові красується кольоровий круг, що змінюється залежно від його настрою.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### The Tramp is an old, weary muskrat, wearing military dog tags.
 AUDIOD_CHAR_TRAMP=Волоцюга - стара, втомлена ондатра з військовими жетонами.
 
@@ -911,7 +911,7 @@ AUDIOD_CREDITS_REMN=Додаткова сцена. В секретній кім�
 ### A picture frame of Sin, Dee, and their little girl.
 AUDIOD_CREDITS_FRAMEPIC=Фотографія в рамці з Сіном, Ді та їхньою маленькою донькою.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### At the hacker's place.
 AUDIOD_CREDITS_HACKERROOM=У гакера.
 
@@ -927,7 +927,7 @@ AUDIOD_CREDITS_POLICE=У відділку поліції. Отт один.
 ### At the Consciousness Center.
 AUDIOD_CREDITS_SCHOOL=У Центрі Свідомості.
 
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### Sector 56X, in front of the merchant's store.
 AUDIOD_CREDITS_SECTOR56X=Сектор 56X, перед магазином крамарки.
 
@@ -948,8 +948,8 @@ AUDIOD_PC05D=Графф опиняється зв'язаним у маленьк
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### On the picture, we can see Brok stepping on the Squealers chief defeated in the military suit, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
 AUDIOD_PC05D_THEPICTURE=На фотографії ми бачимо Брока, що наступає на переможеного шефа Верескунів у військовій формі, бота, що святкує перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
@@ -970,8 +970,8 @@ AUDIOD_PC17=Графф і Отт входять до просторної кім
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### On the picture, we can see what seems like half of Brok stepping on the Squealers chief defeated in the military suit, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
 AUDIOD_PC17_THEPICTURE=На фотографії ми бачимо, здається, половину Брока, що наступає на переможеного шефа Верескунів у військовій формі, бота, що святкує перемогу на задньому плані та когось, схожого на волоцюгу, який перемагає Верескуна.
@@ -1006,9 +1006,9 @@ AUDIOD_PC01_PICTURE=Родинне фото. Брок усміхається т�
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff shows the picture the Squealers chief gave him, with Brok stepping on the chief, a bot celebrating a victory in background, and what seems to be the Tramp defeating a Squealer.
 AUDIOD_PC01_THEPICTURE=Графф показує фото, яке дав йому шеф Верескунів, де Брок наступає на шефа, бот на задньому плані святкує перемогу, та хтось, схожий на волоцюгу, перемагає Верескуна.
@@ -1021,7 +1021,7 @@ AUDIOD_PC02=Брок входить до передпокою з коридор�
 ### Brok encounters lasers blocking the way out.
 AUDIOD_PC02_LASERS=Брок стикається з лазерами, які блокують вихід.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok exits the building from the left. The air is polluted and the ground littered with trash. In the background we can see a landfill. To the right is a pipe and a small area where a Tramp lingers in. There’s a small elevator northeast of the entrance to go on the roof of the building. The rooftop, while bigger, has less stuff around it. It wraps around the lower area, with an entrance to the Trasher hunt in the northwest part of the building rooftop.
 AUDIOD_PC03=Брок виходить з будівлі зліва. Повітря забруднене, а земля завалена сміттям. На задньому плані ми можемо побачити звалище. Справа є труба та маленький простір, де перебуває волоцюга. На північному сході від входу розташований невеличкий ліфт, щоб піднятися на дах будівлі. Дах хоч і більший, але навколо нього менше речей. Він огинає нижню частину з входом у "мисливство за мотлохом" у північно-західній частині.
@@ -1067,7 +1067,7 @@ AUDIOD_PC05B_RATS=Брок бачить трьох дужих пацюків. П
 ### Brok enters a very small rectangular room. There’s a slightly higher platform that he starts on and a slightly lower platform. Machinery is displayed on the right, preventing from continuing further. It appears the machine is filtering the water, with a big pool stored in the lower right corner.
 AUDIOD_PC05C=Брок входить до дуже маленької прямокутної кімнати. Є трохи вища платформа, на якій він починає, і трохи нижча платформа. Праворуч розташовані механізми, що не дають рухатися далі. Схоже, машина фільтрує воду, збираючи її у великий резервуар у нижньому правому куті.
 
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a very long stretch of road. Not too far from the entrance walking to the right is a merchant stall. There is an arching bridge with some platforms Brok can climb up to reach the roof of it. To the far right there is a building with a metal gate blocking the entrance.
 AUDIOD_PC06=Брок виходить на дуже довгу ділянку дороги. Неподалік від входу, якщо йти праворуч, стоїть прилавок крамарки. Є арочний міст із кількома платформами, якими Брок може вилізти на його верх. Далеко праворуч є будівля, вхід до якої перекривають металеві ворота.
@@ -1089,7 +1089,7 @@ AUDIOD_PC07=Брок входить справа до довгого корид�
 AUDIOD_PC07B=Брок входить до маленької кімнати з півночі. Його клієнт Сін чекає трохи нижче. У нижньому лівому куті - шафодильник, а просто поруч із ним - стіл. Праворуч від дверей - маленька шухляда. У цій квартирі є друга кімната, розташована праворуч. Сін стоїть біля входу. У тій дуже маленькій кімнаті в нижньому правому куті є душ, а на північ від нього - дзеркало.
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Suddenly, the wall explodes. The police chief Wes appears, accompanied by a Tribot. Wes is a slender looking otter. He's kinda old with very bushy eyebrows covering his eyes.
 AUDIOD_PC07B_WESAPPEARS=Раптом стіна вибухає. З'являється шеф поліції Вес у супроводі Трибота. Вес - струнка з вигляду видра. Він трохи старий, з дуже густими бровами, які прикривають очі.
@@ -1135,7 +1135,7 @@ AUDIOD_PC08C=Брок входить до дуже маленької кімна
 ### Brok hugs Shay while the garage disappears.
 AUDIOD_PC08C_HUG=Брок обіймає Шей, поки гараж зникає.
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters a rectangular shaped room from the right. There are slightly raised bars by the entrance on the left, to give an impression of a hallway that one would have to walk around or jump over. At the northern part of the room is a door that leads to the chief office. Three bots are guarding the place. One is located beneath a long counter along the rightmost wall. Another one is in the bottom left corner, while the last one is watching from the top left corner.
 AUDIOD_PC09=Брок входить справа до прямокутної кімнати. Ліворуч біля входу є трохи підняті прути, що створюють враження коридору, який довелося б обійти або перестрибнути. У північній частині кімнати є двері, що ведуть до кабінету шефа. Місце охороняють три боти. Один розташований під довгою стійкою вздовж найправішої стіни. Ще один - у нижньому лівому куті, а останній спостерігає з верхнього лівого кута.
@@ -1144,7 +1144,7 @@ AUDIOD_PC09=Брок входить справа до прямокутної к�
 ### Brok enters the jail, which is composed of three cells on the left half of the room. Brok is led to his small cell, which is the bottom most one. The other half of the room is a semi-circle shape, with the exit to the right.
 AUDIOD_PC09B=Брок входить до в'язниці, ліва половина якої складається з трьох камер. Брока ведуть до його маленької камери - найнижчої. Інша половина кімнати має форму півкола, а вихід - праворуч.
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
@@ -1214,7 +1214,7 @@ AUDIOD_PC11D_WRONGSHOW=Брок бачить три тіла своїх друз
 ### Brok enters a big area from the south-left entrance. Two buildings are visible, the left one is the postal service with an antenna on top and the right one is the security building with a roof shaped like a pyramid. Along the bottom of the area are two statues, with some benches directly above them. To the right is the dome itself, seemingly made of glass. The entrance is guarded by a scanner and a security camera.
 AUDIOD_PC12=Брок входить на велику територію через вхід у південно-лівій частині. Видно дві будівлі: ліва - пошта з антеною на даху, а права - будівля служби безпеки з дахом у формі піраміди. Уздовж нижньої частини території стоять дві статуї, а просто над ними - кілька лавок. Праворуч - сам Купол, який здається скляним. Вхід охороняють сканер і камера спостереження.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Graff, Clay, Ott, and the Director are in front of the border post.
@@ -1275,8 +1275,8 @@ AUDIOD_PC14_RAT=Брок бачить пацюка, який розмовляє 
 ### Brok walks into a street corner and is right beside a building. There’s a crossing at the street but the northern part doesn’t go very far. A  big bear with a policeman outfit is guarding a door.
 AUDIOD_PC14B=Брок заходить за ріг вулиці й опиняється просто біля будівлі. На вулиці є перехрестя, але північна частина веде недалеко. Двері охороняє великий ведмідь у поліцейській формі.
 
-# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Pizzant": "мурахопіца"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok enters the small room from the northeast entrance. It looks like an abandoned restaurant. There’s a large counter sprawling at the top left part of the room and a table at the center of the same room, which serves as the desk for a hacker mouse. Some pizzant leftovers are on the ground while there's a mess of equipment in background.
 AUDIOD_PC14C=Брок входить до маленької кімнати через північно-східний вхід. Вона схожа на покинутий ресторан. У верхній лівій частині кімнати розкинулася велика стійка, а в центрі - стіл, за яким працює гакер-миша. На підлозі валяються рештки мурахопіци, а на задньому плані - безлад з обладнання.
@@ -1291,7 +1291,7 @@ AUDIOD_PC15=Брок і Отт виходять з аеромобіля й оп�
 ### Brok climbs on the bike while Tidy is running away on the highway.
 AUDIOD_PC15_BIKE=Брок залазить на байк, поки Тайді втікає по шосе.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter a small oval shaped room. A delivery tube is to the right while the Guard’s desk is to the left. There are three doors on the north part of the room.
@@ -1303,7 +1303,7 @@ AUDIOD_PC15B=Брок і Отт входять до маленької овал�
 AUDIOD_PC15C=Брок і Отт входять до маленької квадратної кімнати. У нижній лівій частині - маленький повітряний стіл, у центрі - довгий стіл, просто на північ від нього - ліжко, а праворуч від ліжка - ще один стіл. Праворуч у кімнаті сидить маленький робот, з'єднаний дротом зі стіною.
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Brok and Ott enter from the bottomleft side a small corner circle shaped room. The room is a bit messy, with a ton of electronic devices and a mess of wires. At the center of the room is a table while a bed is to the north of it. There’s a sink directly to the right of the bed. At the top leftmost corner of the room is a desk with a box on top. Dr. Mink is a slightly chubby mink with brown fur. He's wearing a white lab coat with a tie. He has a somewhat crazy look in his eyes.
 AUDIOD_PC15D=Брок і Отт входять із нижнього лівого боку до маленької кімнати в кутку, круглої форми. У кімнаті безлад: сила-силенна електронних пристроїв і плутанина з дротів. У центрі - стіл, а на північ від нього - ліжко. Прямо праворуч від ліжка - умивальник. У верхньому лівому куті кімнати - стіл, на якому стоїть коробка. Доктор Мінк - дещо пухка норка з коричневою шерстю. Він одягнений у білий лабораторний халат і краватку. У його очах є щось божевільне.
@@ -1383,7 +1383,7 @@ AUDIOD_PC20=Брок входить зліва на дуже велику пря
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok starts hitting the Squealers chief on the ground.
 AUDIOD_PC20_BROKHITS=Брок починає гамселити шефа Верескунів, який лежить на землі.
@@ -1393,11 +1393,11 @@ AUDIOD_PC20_BROKHITS=Брок починає гамселити шефа Вер�
 ### Brok sees Dee dead on the floor.
 AUDIOD_PC20_DEEDEAD=Брок бачить мертву Ді на підлозі.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director arrives from afar.
 AUDIOD_PC20_DIRECTORARRIVE=Здалеку з'являється директорка.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### The Director grabs Wes from behind.
 AUDIOD_PC20_DIRECTORGRAB=Директорка хапає Веса ззаду.
@@ -1762,7 +1762,7 @@ HELP_BLINDCOMBAT_INSTRUCTIONS1=Щоб переміщати Брока під ч�
 ### To attack, press
 HELP_BLINDCOMBAT_INSTRUCTIONS2=Для атаки натисніть
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### To guard, hold
 HELP_BLINDCOMBAT_INSTRUCTIONS3=Для захисту утримуйте
 
@@ -1977,7 +1977,7 @@ MDIRECTOR1_1=Граффе, ти набрав
 ### points during today's trial.
 MDIRECTOR1_2=балів за сьогоднішнє випробування.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The final trial starts at 8 AM tomorrow. Good luck. The Director.
 MDIRECTOR1_3=Фінальне випробування розпочнеться завтра о 8:00. Успіхів. Директорка.
 
@@ -1995,14 +1995,14 @@ MDIRECTOR3_3=За науковий ярмарок тобі нараховано
 MDIRECTOR3_4=балів за твій винахід.
 
 # NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### The correct answers for the exam with some additional comments have been provided. Question 1: do nothing. Tribots cannot crush citizens. They are built with strict safety protocols. No accident has ever been reported. Question 2: 11 and 24. Increase by 2 for even figures. Increase by 4 for odd ones. Question 3: son-in-law. Family is crucial, thus you must be capable of understanding this logic quickly. Question 4: nothing. Try replacing. Question 5: PU, IN, or MA; they are the rainbow colors. RE equals red, OR equals orange. The last one should be purple; indigo and magenta also accepted. Question 6: There is no good answer, but you must absolutely choose between the two options. Please note that if your friend was specified as Drumer and the ten strangers as Slumers, the correct answer would've been to save your friend. Question 7: you will obviously inherit when you're a major at 16. The answer was in the front page rules, so no excuse if you got this wrong. Question 8: 3026 AR. We will celebrate the ten-year anniversary very soon. Question 9: Youthgain. The Director.
-MDIRECTOR3_5=Правильні відповіді на іспит з деякими додатковими коментарями надані. Питання 1: Нічого не робитиму. Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося. Питання 2: 11 і 24. Збільшуйте на два парні числа, непарні - на 4. Питання 3: Зять. Сім'я надзвичайно важлива, отже ти маєш бути здатним швидко зрозуміти цю логіку. Питання 4: Нічого. Питання 5: ФІО, ІНД або МАД. Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий... Останнім має бути фіолетовий, індиго та маджента теж приймаються. Питання 6: Тут немає ідеальної відповіді, але ти точно повинен обрати серед двох варіантів. Будь ласка, зауваж, якщо б твій друг був зазначений як мешканець Верхів, а 10 незнайомців - як нетрівці, правильною відповіддю було б врятувати твого друга. Питання 7: Ти, очевидно, приймеш спадщину при досягненні 16 років. Відповідь була на першій сторінці правил, тож не може бути жодних виправдань, якщо хтось відповів неправильно. Питання 8: 3026 П.В. Дуже скоро ми святкуватимемо десятиріччя. Питання 9: Молодин. Директорка.
+MDIRECTOR3_5=Правильні відповіді на іспит з деякими додатковими коментарями надані. Питання 1: Нічого не робитиму. Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося. Питання 2: 11 і 24. Збільшуйте на два парні числа, непарні - на 4. Питання 3: Зять. Сім'я надзвичайно важлива, отже ти маєш бути здатним швидко зрозуміти цю логіку. Питання 4: Нічого. Питання 5: ФІО, ІНД або МАД. Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий... Останнім має бути фіолетовий, індиго та маджента теж приймаються. Питання 6: Тут немає ідеальної відповіді, але ти точно повинен обрати серед двох варіантів. Будь ласка, зауваж, якщо б твій друг був зазначений як мешканець Верхів, а 10 незнайомців - як Нетрівці, правильною відповіддю було б врятувати твого друга. Питання 7: Ти, очевидно, приймеш спадщину при досягненні 16 років. Відповідь була на першій сторінці правил, тож не може бути жодних виправдань, якщо хтось відповів неправильно. Питання 8: 3026 П.В. Дуже скоро ми святкуватимемо десятиріччя. Питання 9: Молодин. Директорка.
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff, you obtained
@@ -2011,7 +2011,7 @@ MDIRECTOR4_1=Граффе, ти набрав
 ### points during the last trial.
 MDIRECTOR4_2=балів за останнє випробування.
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director.
 MDIRECTOR4_3=Директорка
 
@@ -2182,7 +2182,7 @@ ACCESSIBILITY_PC17_THESHAPE3=Півколо
 ### Rectangle
 ACCESSIBILITY_PC17_THESHAPE4=Прямокутник
 
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### Autarchism exposition
 PC17_AUTARCHISMEXPO=Експозиція Аутархізму
 
@@ -2390,7 +2390,7 @@ PC09C_IDENTIKIT_PRINT=Друкувати
 ### Dramatic chase on the highway
 PC18_HOLOGRAM_CHASE1-1=Драматичне переслідування на шосе
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### Yesterday, an individual stole an aircar to persecute a bot, causing havoc in the process.
 PC18_HOLOGRAM_CHASE1-2=Вчора індивід вкрав аеромобіль для переслідування бота, при цьому влаштувавши хаос.
 
@@ -2398,18 +2398,18 @@ PC18_HOLOGRAM_CHASE1-2=Вчора індивід вкрав аеромобіль
 ### The last remotely related event in the Drums goes back to 3030.
 PC18_HOLOGRAM_CHASE1B-1=Остання схожа подія на Верхах сталася у 3030.
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### A police investigator miraculously survived an aircar accident while chasing a criminal.
 PC18_HOLOGRAM_CHASE1B-2=Детектив поліції дивом вижив у аварії аеромобіля під час переслідування злочинця.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Two scientists and a guard found dead in engineer lab 21.
 PC18_HOLOGRAM_DEADALL-1=Двоє вчених та охоронець були знайдені мертвими в Інженерній Лабораторії 21.
 
 ### Two scientists found dead in engineer lab 21.
 PC18_HOLOGRAM_DEADEXCEPTGUARD-1=Двоє вчених були знайдені мертвими в Інженерній Лабораторії 21.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### One scientist and a guard found dead in engineer lab 21.
 PC18_HOLOGRAM_DEADEXCEPTMINK-1=Один вчений та охоронець були знайдені мертвими в Інженерній Лабораторії 21.
 
@@ -2419,7 +2419,7 @@ PC18_HOLOGRAM_DEADNEXT2-1=Злочинець залишається невста
 ### Be careful today. Stay inside and lock your entrance.
 PC18_HOLOGRAM_DEADNEXT2-2=Будьте обережні сьогодні. Залишайтеся вдома та замкніть вхід.
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### Following these dramatic events, an aircar presumably stolen by the murderer caused havoc on the highway.
 PC18_HOLOGRAM_DEADNEXT2-3=Після цих драматичних подій аеромобіль, ймовірно вкрадений вбивцею, влаштував хаос на шосе.
 
@@ -2854,7 +2854,7 @@ BM01_SUBTITLE_TUTORIAL1_TOUCH2=Проведіть праворуч, щоб за�
 ### During fights, tap the top right icon to open the menu inventory. Take your stick and attack the targets!
 BM01_SUBTITLE_TUTORIAL1_TOUCH3=Під час боїв торкніться іконки у верхньому правому куті, щоб відкрити інвентар. Візьміть палицю та атакуйте мішені!
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold two fingers on the screen to guard. Swipe with two fingers in the direction you want to dodge.
 BM01_SUBTITLE_TUTORIAL1_TOUCH4=Утримуйте два пальці на екрані для захисту. Проведіть двома пальцями в тому напрямку, куди хочете ухилитися.
 

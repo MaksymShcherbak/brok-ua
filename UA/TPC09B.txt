@@ -504,7 +504,7 @@ PC09B_SHOWER2-2=Не бачу жодної знімної деталі чи чо
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### Nope! I can't do this in front of strangers!
 PC09B_TOILETS1-1=Ні! Я не можу робити це на очах у сторонніх!
 
@@ -826,7 +826,7 @@ PC09B_CAMERASEAT_RJ3-4=...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### (It's pointless. As long as the guard is around, he'll "hear" my attempts to open this cage...)
 PC09B_CAMERASEAT_RJ3-5=(Марно. Поки охоронець поруч, він "чутиме" мої спроби відчинити цю камеру...)
 
@@ -1428,7 +1428,7 @@ PC09B_SIN_RJ1-1=Хто такий Р. Джей?
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Over there. The guard.
 PC09B_SIN_RJ1-2=Он там. Охоронець.
 
@@ -2067,7 +2067,7 @@ PC09B_C2_RJ_SNEEZEFULL3-4=(Зітхає) Тепер у мене ще більш�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### (At least the guard is out. Does this change anything?)
 PC09B_C2_RJ_SNEEZEFULL3-5=(Принаймні ми позбулися охоронця. Це щось змінює?)
 
@@ -3157,7 +3157,7 @@ PC09B_RESCUE_MINK1-1=Гей! Що відбувається?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Doctor Mink.
 PC09B_RESCUE_MINK1-2=Доктор Мінк.
 
@@ -3372,7 +3372,7 @@ PC09B_RESCUE1C-14=Як ти вибрався з в'язниці?
 
 
 # Sin
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief of police.
 PC09B_RESCUE1C-15=Шеф поліції.
 
@@ -3495,7 +3495,7 @@ PC09B_RESCUE1D-1=Зачекай! Хіба ти нікого не забула...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### We promised Dr. Gherkin we would come back.
 PC09B_RESCUE1D-2=Ми обіцяли докторові Геркіну, що повернемося.
 
@@ -3522,7 +3522,7 @@ PC09B_RESCUE1E-3=І хто твоя чарівна подруга?
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Let me guess. The chief of police?
 PC09B_RESCUE1E-4=Дай вгадаю. Шеф поліції?
 

@@ -67,14 +67,14 @@ PC18_HOLOGRAM1-1=Голографічні новини дня.
 
 #----------------------------------------------------
 # Unknown
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### "Two scientists and a guard found dead in Engineer Lab 21."
 PC18_HOLOGRAM_DEADALL-1="Двох науковців та охоронця знайдено мертвими в Інженерній Лабораторії 21."
 
 
 #----------------------------------------------------
 # Unknown
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### "One scientist and a guard found dead in Engineer Lab 21."
 PC18_HOLOGRAM_DEADEXCEPTMINK-1="Одного науковця та охоронця знайдено мертвими в Інженерній Лабораторії 21."
 
@@ -119,7 +119,7 @@ PC18_HOLOGRAM_DEADNEXT2-2="Будьте обережні сьогодні! За�
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### "Following these dramatic events, an Aircar presumably stolen by the murderer caused havoc on the highway."
 PC18_HOLOGRAM_DEADNEXT2-3="Унаслідок цих драматичних подій аеромобіль, імовірно викрадений убивцею, спричинив хаос на шосе."
 
@@ -131,7 +131,7 @@ PC18_HOLOGRAM_CHASE1-1="Драматична погоня на шосе."
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### "Yesterday an individual stole an Aircar to persecute a bot, causing havoc in the process."
 PC18_HOLOGRAM_CHASE1-2="Учора якась особа викрала аеромобіль і переслідувала бота, спричинивши хаос на шосе."
 
@@ -155,7 +155,7 @@ PC18_HOLOGRAM_CHASE1B-1="Остання віддалено схожа подія
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### "A police investigator miraculously survived an Aircar accident while chasing a criminal."
 PC18_HOLOGRAM_CHASE1B-2="Детектив поліції дивом вижив у аварії аеромобіля під час переслідування злочинця."
 
@@ -826,7 +826,7 @@ PC18_BOTSAGAIN_ENDFIGHT_PILL2-1=А тепер треба йти звідси...
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Come on, Dr. Gherkin! We can escape through there!
 PC18_EXITRIGHT1-1=Ходімо, докторе Геркіне! Втечемо цим шляхом!
 

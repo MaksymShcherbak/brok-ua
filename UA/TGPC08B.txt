@@ -201,7 +201,7 @@ GPC08B_BOX_DONE-1=Пристрою тут вже немає.
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### This could come straight from a retro livie!
 GPC08B_MASK1-1=Цю річ ніби дістали з ретро-серіалу!
 

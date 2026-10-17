@@ -33,7 +33,7 @@ HINT_CH2_100_STATUETTE1=Отримай статуетку Безхвостя в�
 ### Kitty, you need melted plastic to repair your invention. The statuette would be perfect for that! Have you seen something to burn it with?
 HINT_CH2_100_PLASTIC1=Кошенятко, щоб полагодити свій винахід, тобі потрібен розплавлений пластик. Статуетка ідеально підійде для цього! Ти бачив щось, чим можна її спалити?
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Come back to your home. The tramp has a stove! Burn the statuette on it.
 HINT_CH2_100_PLASTIC2=Повертайся додому. У волоцюги є плита! Спали на ній статуетку.
 
@@ -191,7 +191,7 @@ HINT_CH2_100_GETOUTCATFUR1=Немає предметів, чуваче...? Не 
 HINT_CH2_100_BUTTONS1=Спробуй понатискати ті кнопки в камері.
 
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Croc dude, any attempt to get out of here will require you to get rid of the guard. Maybe Sin can help?
 HINT_CH2_100_GETOUTBREAK1=Чуваче, щоб вибратися звідси, тобі в будь-якому разі доведеться позбутися охоронця. Можливо, Сін може допомогти?

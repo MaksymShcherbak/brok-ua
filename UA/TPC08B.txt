@@ -211,7 +211,7 @@ PC08B_ADHINT_PC15_JUMP=Перейдіть дорогу, уникаючи авт�
 ### Use the emergency button in restroom
 PC08B_ADHINT_PC15B_BOX=Скористайтеся кнопкою аварійного виклику в туалеті
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Jump on the guard desk then on the shelf
 PC08B_ADHINT_PC15B_SHELF=Застрибніть на стіл охоронця, а потім на полицю
 
@@ -1096,7 +1096,7 @@ PC08B_SHAY_BORDER2B-30=А якщо ні?
 
 # Shay
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Then I'm guessing you'll be chased by numerous security drones and Tribot guards.
 PC08B_SHAY_BORDER2B-31=Тоді, мабуть, тебе почнуть переслідувати численні дрони та Триботи-охоронці.
 
@@ -2149,7 +2149,7 @@ PC08B_SHAY_INV_TRAMPPRESCR2-4=Я б не питав тебе, якби це бу
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### This is for a Slumer friend who can barely move.
 PC08B_SHAY_INV_TRAMPPRESCR2-5=Це для одного мого друга з Нетрів, який ледве може пересуватися.
 
@@ -2241,7 +2241,7 @@ PC08B_SHAY_INV_MINEBROKEN1-14=Про всяк випадок. Як вигляд�
 
 
 # Shay
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### A greyish blue. Smells a bit like rotten Pampalos.
 PC08B_SHAY_INV_MINEBROKEN1-15=Сірувато-синій. Пахне трохи як гнилий пампалос.
 
@@ -2258,7 +2258,7 @@ PC08B_SHAY_INV_MINEBROKEN2-1=Тобі потрібен порошок Тракс
 
 
 # Shay
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Blue and smells like rotten Pampalos.
 PC08B_SHAY_INV_MINEBROKEN2-2=Синій і пахне як гнилий пампалос.
 
@@ -3845,7 +3845,7 @@ PC08B_DAY2_ALTERNATE-11=Слухай!
 
 
 # Shay
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### I need you to go see this hacker named "The Gloom".
 PC08B_DAY2_ALTERNATE-12=Мені потрібно, щоб ти сходив до того гакера на прізвисько "Похмурий".
 
@@ -4335,7 +4335,7 @@ PC08B_SHAY_HACKER1-11=Гадки не маю.
 
 
 # Shay
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hackers don't particularly want to be found.
 PC08B_SHAY_HACKER1-12=Гакери не особливо хочуть, щоб їх знайшли.
 
@@ -4894,7 +4894,7 @@ PC08B_MATERIALS_GIVENMONEY1-1=Непогано!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### That oughta buy an Antburger or two...
 PC08B_MATERIALS_GIVENMONEY2-1=На це можна купити мурахобургер або два...
 
@@ -6229,7 +6229,7 @@ PC08B_TILLENDTIME_END4C-2=Мусив.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Dee, Dr. Gherkin, and Wes.

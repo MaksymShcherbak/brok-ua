@@ -97,8 +97,8 @@ PC05_NEWSPAPER2-1="Сумніви щодо компетентності канд
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### The date is erased but this seems to be pre-Autarchism Day news.
 PC05_NEWSPAPER2-2=Дата витерта, але це, схоже, новини ще до дня Аутархізму.
 

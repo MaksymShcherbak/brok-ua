@@ -389,7 +389,7 @@ GPC01_STORY110_GRAFFANGRYNORMAL1-4=Я ніколи не отримаю дипл�
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Forever and ever... I'll stay a lousy Slumer... like...
 GPC01_STORY110_GRAFFANGRYNORMAL1-5=Назавжди... Я так і залишуся нікчемним мешканцем Нетрів... як...
 
@@ -1056,7 +1056,7 @@ PC01_DAY2ENDH1B-32="Ти стежиш за моїм старим?!"
 
 
 # Graffchat
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### "Are you some kind of hacker?"
 PC01_DAY2ENDH1B-33="Ти що, якийсь гакер?"
 
@@ -1542,7 +1542,7 @@ PC01_DAY2ENDJ2_TRUTH1-39=Але завтра все це зміниться.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You know... When you're a Drumer...
 PC01_DAY2ENDJ2_TRUTH1-40=Знаєш... Коли ти почнеш мешкати на Верхах...
 
@@ -1921,7 +1921,7 @@ GPC01_DAY2ENDJ2_GIVEAPARTMENTKEY-3=О... Я просто хотів цим ск�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### It's a symbol. My home will always be your home. Even when you're a Drumer.
 GPC01_DAY2ENDJ2_GIVEAPARTMENTKEY-4=Це символ. Мій дім завжди буде твоїм домом. Навіть тоді, коли ти будеш жити на Верхах.
 

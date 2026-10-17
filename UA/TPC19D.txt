@@ -448,7 +448,7 @@ PC19D_AFTER_BIGFIGHT1-2=Схоже, що так!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Quite amazing fighting skills for a Drumer journalist!
 PC19D_AFTER_BIGFIGHT1-3=Досить вражаючі бойові навички, як для журналістки з Верхів!
 
@@ -501,7 +501,7 @@ PC19D_BEFORELEAVING1-8=Гаразд. Кажи.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes is the chief of this police department. I can call him.
 PC19D_LEAVE_CALL-1=Вес - шеф цього відділку поліції. Я можу йому подзвонити.
@@ -553,7 +553,7 @@ PC19D_LEAVE_CALL-10=...
 
 
 # Tribot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Police department. The chief is currently busy. Please state your requ...
 PC19D_LEAVE_CALL-11=Відділок поліції. Шеф наразі зайнятий. Будь ласка, висловіть своє проха...
 

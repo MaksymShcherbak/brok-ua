@@ -176,7 +176,7 @@ GPC06_STATUETTE1-1=А це...
 
 
 # Flower
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### Yes. This is The Untail.
 GPC06_STATUETTE1-2=Так. Це Безхвостий.
 
@@ -1111,7 +1111,7 @@ GPC06_MERCHANTGONE1-1=...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### No trace of the merchant...
 GPC06_MERCHANTGONE1-2=Жодного сліду крамарки...
 
@@ -1303,7 +1303,7 @@ GPC06_STALL_PILL1-1=Ніякої пігулки... (Кашляє)
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### And no merchant...
 GPC06_STALL_PILL1-2=І жодної крамарки...
 
@@ -1346,7 +1346,7 @@ PC06_FLOWERS_HIT3-1=Аааххааах...!
 
 #----------------------------------------------------
 # Unknown
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### A flower merchant that doesn't sell flowers.
 COOP_GPC06_FLOWERS1-1=Квіткова крамарка, яка не продає квіти.
 

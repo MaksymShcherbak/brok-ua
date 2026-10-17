@@ -277,8 +277,8 @@ PC20_INITA2-27=Якщо тобі від цього легше...
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Soon, all Slumers won't be living at all unless we get to the bottom of this.
 PC20_INITA2-28=Невдовзі всі мешканці Нетрів узагалі не житимуть, якщо ми не докопаємося до суті.
 
@@ -1070,7 +1070,7 @@ PC20_CLUE_WES_MENTALISSUES-8=...
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok, chief. I thought you knew each other well?
 PC20_CLUE_WES_MENTALISSUES-9=Броку, шефе. Я думала, ви добре одне одного знаєте?
@@ -1163,7 +1163,7 @@ PC20_CLUE_WES_ACCIDENT-3=Аварія...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### Five years ago, a police investigator suffered from a very serious Aircar accident.
 PC20_CLUE_WES_ACCIDENT-4=П'ять років тому слідчий поліції зазнав дуже серйозної аварії на аеромобілі.
 
@@ -1307,7 +1307,7 @@ PC20_CLUE_WES_CARMENTAL-14=Мабуть, ти маєш рацію. От тіль
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Can you draw something for me, Chief?
 PC20_CLUE_WES_DRAW-1=Можете мені щось намалювати, шефе?
 
@@ -1668,7 +1668,7 @@ PC20_CLUE_WES_ROBOT-4=(У його кабінеті нещодавно підк�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### (Much more advanced than the school Director...)
 PC20_CLUE_WES_ROBOT-5=(Значно досконаліший за шкільну директорку...)
 
@@ -1807,7 +1807,7 @@ PC20_REVEAL-8=Чув.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director of my son's school. She talks exactly like a human.
 PC20_REVEAL-9=Директорка школи мого сина. Вона говорить зовсім як людина.
 
@@ -2753,7 +2753,7 @@ PC20_FIGHT1_SPEECHA1ALT-3=...я нарешті зміг вистежити тр�
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin.
 PC20_FIGHT1_SPEECHA1ALT-4=Доктор Геркін.
 
@@ -3023,7 +3023,7 @@ PC20_FIGHT1_SPEECHB2-2=Ти - загроза.
 
 # Wes
 # NB: Lexicon word in Ukrainian for "The Haze": "Смог"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### The only Slumer immune to the Haze.
 PC20_FIGHT1_SPEECHB2-3=Єдиний мешканець Нетрів, несприйнятливий до Смогу.
 
@@ -3158,8 +3158,8 @@ PC20_FIGHT1_DEEDIES-2=Шкода, що дійшло до цього.
 
 
 # Wes - This happens if Dee dies so he's talking about her
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I usually don't kill Drumers but this journalist was a serious pain in the neck.
 PC20_FIGHT1_DEEDIES-3=Я зазвичай не вбиваю мешканців Верхів, але ця журналістка була справжнім головним болем.
 
@@ -3431,7 +3431,7 @@ PC20_FIGHT2_APPEARB-9=Я битимуся далі!
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### Right. Keep talking like you're in a livie!
 PC20_FIGHT2_APPEARB-10=Ага. Говориш так, ніби ти в серіалі!
 
@@ -3626,8 +3626,8 @@ PC20_FIGHT2_ASKMORE_DEEALIVE-5=Чому?
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Why insist on wiping out Slumers?
 PC20_FIGHT2_ASKMORE_DEEALIVE-6=Чому ти так прагнеш знищити мешканців Нетрів?
 
@@ -3864,7 +3864,7 @@ PC20_FIGHT2_ASKMOREDEE-6=Як...?
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin said three votes are needed.
 PC20_FIGHT2_ASKMOREDEE-7=Доктор Геркін сказав, що потрібні три голоси.
 
@@ -3987,8 +3987,8 @@ PC20_FIGHT2_ASKMOREC-1=Будь реалістом.
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Cheating, stealing and fighting constitute the way of living for Slumers.
 PC20_FIGHT2_ASKMOREC-2=Обман, крадіжки й бійки - це спосіб життя усіх нетрівців.
 
@@ -4335,7 +4335,7 @@ PC20_DIRECTOR1B-7=Хто... Точніше... Що це?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### My son's school Director...or so I thought.
 PC20_DIRECTOR1C-1=Директорка школи мого сина... Принаймні я так думав.
 
@@ -4597,7 +4597,7 @@ PC20_DIRECTOR1FALT-1=Я розірву того крокодила, щоб по�
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Then I'll deal with Dr. Gherkin.
 PC20_DIRECTOR1FALT-2=Потім розберуся з доктором Геркіном.
 
@@ -4609,7 +4609,7 @@ PC20_DIRECTOR1F-1=Я розірву того крокодила, щоб пове
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Then I'll catch that Dr. Gherkin they mentioned.
 PC20_DIRECTOR1F-2=Потім я зловлю того доктора Геркіна, про якого вони казали.
 
@@ -4641,7 +4641,7 @@ PC20_DIRECTOR1F-7=Ми всі були людьми, коли планували
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Wait. Does this imply the Director is...?
 PC20_DIRECTOR1F-8=Стривайте. То виходить, директорка...?
 
@@ -4807,7 +4807,7 @@ PC20_DIRECTOR2-3=...
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Director?...
 PC20_DIRECTOR2-4=Директорко...?
 
@@ -5058,7 +5058,7 @@ PC20_DIRECTOR4-20=Твої зміни - це геноцид!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Director! What are you doing?!
 PC20_DIRECTOR4-21=Директорко! Що ви робите?!
 
@@ -7036,7 +7036,7 @@ PC20_RUPTURE6C-12=Дозвольте.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Director?...
 PC20_RUPTURE6C-13=Директорко...?
 
@@ -7121,7 +7121,7 @@ PC20_RUPTURE7-15=...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director... She's a member of the Government.
 PC20_RUPTURE7-16=Директорка... Вона членкиня Уряду.
 

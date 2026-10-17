@@ -79,7 +79,7 @@ CH6_OTTFOLLOWED1-7=Я не розумію...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### Why do so many people believe in the Untail...an entity watching over everyone?
 CH6_OTTFOLLOWED1-8=Чому так багато людей вірять у Безхвостого... сутність, яка наглядає за всіма нами?
 
@@ -198,7 +198,7 @@ CH6_OTTFOLLOWED2-18=І... У мене є ідея.
 
 #----------------------------------------------------
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director said the results would be transmitted to the Government's mainframe tonight.
 CH6_THEIDEA1-1=Директорка казала, що сьогодні ввечері результати відправлять на сервер Уряду.
 
@@ -429,13 +429,13 @@ CH6_CHOICE_INVENTORY-8=О! Якщо прочитати задом наперед
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker! Yeah!
 CH6_CHOICE_INVENTORY-9=Гакер! Так!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### What kind of hacker sends an invoice?!
 CH6_CHOICE_INVENTORY-10=Що це за гакер такий, який надсилає рахунки?!
 
@@ -482,14 +482,14 @@ CH6_CHOICE_INVENTORY-18=Ходімо перевіримо!
 
 #----------------------------------------------------
 # Ott - Day 3 - Ott with Graff in the city
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Let's go meet that hacker!
 CH6_OTT_HACKER1-1=Зустрінемося з тим гакером!
 
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### There's gotta be a way to get that hacker to help.
 CH6_OTT_HACKER2-1=Треба якось переконати цього гакера нам допомогти.
 
@@ -516,7 +516,7 @@ CH6_OTT1-1=Я от не розумію...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Why would the Director give me a hint? Couldn't she change the results?
 CH6_OTT1-2=Чому директорка дала мені підказку? Хіба вона сама не могла змінити результати?
 
@@ -740,7 +740,7 @@ CH6_ENDING_FIGHTTOGETHER2-3=Ти не склав.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### That's why you met that hacker.
 CH6_ENDING_FIGHTTOGETHER2-4=Саме тому ти і зустрівся з тим гакером.
 
@@ -804,7 +804,7 @@ CH6_ENDING_FIGHTTOGETHER4-3=Ага...
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff. The Director just called me.
 CH6_ENDING_FIGHTTOGETHER4-4=Граффе. Мені тільки що дзвонила директорка.
@@ -1513,13 +1513,13 @@ CH6_STORY300_INITSLUMER1-18=Я отримав штраф.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You weren't supposed to be a Drumer.
 CH6_STORY300_INITSLUMER1-19=Ти не повинен був бути мешканцем Верхів.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Me? A Drumer?...
 CH6_STORY300_INITSLUMER1-20=Я? Мешканець Верхів...?
 
@@ -1787,7 +1787,7 @@ CH6_STORY300_INITSLUMER3-23=Ми з Оттом знайшли рішення, я
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### So... The hacker?
 CH6_STORY300_INITSLUMER3-24=Тож... Гакер?
 
@@ -2074,7 +2074,7 @@ CH6_STORY300_INITSLUMER5-6=Можливо, колись... Ти й у цьому
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Well! Looks like I'll have to force that hacker to do his job.
 CH6_STORY300_INITSLUMER5-7=Що ж! Схоже, мені доведеться змусити того гакера виконати його роботу.
 
@@ -2501,7 +2501,7 @@ CH6_SLUMER_END1-24=Гарна ідея!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Flowing water": "Плинна вода"
+# NB: Lexicon word in Ukrainian for "Flowing water": "плинна вода"
 ### Hot, flowing water for me!
 CH6_SLUMER_END1-25=Гаряча, плинна вода для мене!
 

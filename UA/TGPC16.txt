@@ -116,14 +116,14 @@ GPC16_RESULT_SOMETHING3-1=Круто!
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### An energy drink? I'll take it.
 GPC16_RESULT_ENERGYDRINK-1=Енергетик? Заберу.
 
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### A Pampalos... Urgh...
 GPC16_RESULT_PAMPALOS-1=Пампалос... Фу...
 
@@ -188,7 +188,7 @@ GPC16_RESULT_UNIS500-1=500 Юні?! Неймовірно!
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Energy serum": "Енергетична сироватка"
+# NB: Lexicon word in Ukrainian for "Energy serum": "енергетична сироватка"
 ### An energy serum?
 GPC16_RESULT_ENERGYSERUM-1=Енергетична сироватка?
 

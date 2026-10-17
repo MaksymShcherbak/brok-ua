@@ -53,7 +53,7 @@ CPC15_MAGNIFY_NANITE1-1=Гмм... Якщо придивитися, то тут �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Can't see any of those tiny bots from Dr. Mink though.
 CPC15_MAGNIFY_NANITE1-2=Проте я не бачу жодного з цих крихітних ботів доктора Мінка.
 
@@ -140,7 +140,7 @@ CPC15_OTT_BODY1-3=Так. Гарна ідея!
 
 #----------------------------------------------------
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush has an office, doesn't he?
 CPC15_OTT_HUSHOFFICE1-1=У доктора Гаша є свій кабінет, чи не так?
 
@@ -174,7 +174,7 @@ CPC15_OTT_MEETTIDY1-1=Ми ж усе перевірили, чи не так?
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I'm not sure. What about that bot in Dr. Hush's room?
 CPC15_OTT_MEETTIDY1-2=Я не впевнений. А як щодо того бота в кімнаті доктора Гаша?
 
@@ -203,7 +203,7 @@ CPC15_OTT_TALKTIDY1-3=Згоден!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### I better interrogate Dr. Mink.
 CPC15_OTT_TALKMINK1-1=Краще я допитаю доктора Мінка.
 
@@ -251,7 +251,7 @@ CPC15_OTT_FIRSTSTAGE-5=Ну... Я би спочатку хотів почути 
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Okay. Let's gather everyone in Dr. Mink's room!
 CPC15_OTT_FIRSTSTAGE-6=Гаразд. Зберімо всіх у кімнаті доктора Мінка!
 
@@ -348,7 +348,7 @@ CPC15_OTT_HIT3-4=Ви божевільний!
 
 #----------------------------------------------------
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Mister Guard! Mister Guard! Help!
 CPC15_OTT_HIT4-1=Пане охоронцю! Пане охоронцю! Допоможіть!
 
@@ -483,7 +483,7 @@ CPC15_MINK_HIT3-6=...
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard! Quick!
 CPC15_MINK_HIT4-1=Охоронцю! Швидше, сюди!
 
@@ -538,13 +538,13 @@ CPC15_GUARDFIGHT_LOSE1-1=Ох...
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Thank you, Mister Guard.
 CPC15_GUARDFIGHT_LOSE1-2=Дякую, пане охоронцю.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Now we know what happened to Dr. Hush!
 CPC15_GUARDFIGHT_LOSE1-3=Тепер ми знаємо, що сталося з доктором Гашем!
 
@@ -671,7 +671,7 @@ CPC15_GUARD_HIT3B-1=Досить! Тобі кінець!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink, I have a few questions to ask you.
 CPC15_MINK_FIRST-1=Докторе Мінку, у мене до вас кілька запитань.
 
@@ -703,7 +703,7 @@ CPC15_MINK_FIRST-6=Гаразд.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What can you tell me about Dr. Hush?
 CPC15_MINK_DRHUSH1-1=Що ви можете розповісти мені про доктора Гаша?
 
@@ -846,7 +846,7 @@ CPC15_MINK_DRHUSH2-10=Зараз я не вірю нічому, окрім фа�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### About Dr. Hush...
 CPC15_MINK_DRHUSH3-1=Щодо доктора Гаша...
 
@@ -878,7 +878,7 @@ CPC15_MINK_DRHUSH4-1=Я знаю, що це прозвучить жорстко,
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Do you believe Dr. Hush commited suicide?
 CPC15_MINK_DRHUSH4-2=Чи вірите ви, що доктор Гаш міг скоїти самогубство?
 
@@ -1113,7 +1113,7 @@ CPC15_MINK_HIMSELF4-1=(Я вже достатньо його потурбува�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### (Got a feeling those nanites played a part in Dr. Hush's demise. I'll need some proof...)
 CPC15_MINK_HIMSELF4-2=(Чуйка мені підказує, що наніти відіграли роль у смерті доктора Гаша. Треба знайти докази...)
 
@@ -1151,7 +1151,7 @@ CPC15_MINK_TIDY1-6=Гмм... Власне...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard did check if everything was okay, like he always does. But he didn't enter.
 CPC15_MINK_TIDY1-7=Охоронець, як завжди, приходив перевірити, чи все гаразд. Але він не заходив всередину.
 
@@ -1215,7 +1215,7 @@ CPC15_MINK_TIDY2-2=Зазвичай ні.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### But I never programmed it. Keep in mind, Dr. Hush was doing AI experiments.
 CPC15_MINK_TIDY2-3=Але я ніколи його не програмував. Не забувайте, що доктор Гаш проводив експерименти з ШІ.
 
@@ -1232,7 +1232,7 @@ CPC15_MINK_TIDY2-5=Тайді може щиро вірити, що він гов
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### But you heard the recording. It was Dr. Hush's voice, wasn't it?
 CPC15_MINK_TIDY2-6=Але ж ви чули запис. Це був голос доктора Гаша, чи не так?
 
@@ -1275,7 +1275,7 @@ CPC15_MINK_TIDY3-3=Він не може потрапити до мого каб�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Besides, Dr. Hush is his maker. He could never...
 CPC15_MINK_TIDY3-4=Крім того, доктор Гаш - його творець. Він не зміг би...
 
@@ -1406,7 +1406,7 @@ CPC15_MINK_INVESTIGATION_YES2-2=Гаразд.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink?
 CPC15_MINK_WELCOME1-1=Докторе Мінку?
 
@@ -1641,14 +1641,14 @@ CPC15_MINK_INV_LAMPMINK-1=Моя бідна лампа...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Well, good news! You can take Dr. Hush's. He doesn't need his anymore!
 CPC15_MINK_INV_LAMPMINK-2=Ну що ж, гарні новини! Можете взяти лампу доктора Гаша. Вона йому вже не потрібна!
 
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### That's Dr. Hush's?
 CPC15_MINK_INV_LAMPHUSH-1=Це належало докторові Гашеві?
 
@@ -1697,7 +1697,7 @@ CPC15_MINK_INV_MAPBUILDING-3=Цікаво...
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's medication?
 CPC15_MINK_INV_PILLHUSH-1=Ліки доктора Гаша?
 
@@ -1724,14 +1724,14 @@ CPC15_MINK_INV_TABLETHUSH-2=Я знаю! Просто розблокуйте й�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Only Dr. Hush can.
 CPC15_MINK_INV_TABLETHUSH-3=Тільки доктор Гаш може це зробити.
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Mc Fleas's Antburger. I love these too!
 CPC15_MINK_INV_WRAPPING-1=Мурахобургер від "МакБліх". Я теж їх обожнюю!
 
@@ -1970,28 +1970,28 @@ CPC15_MISSINGCLUE_CEILING-1=(Я постійно дивлюся на те, що 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### (I didn't check Dr. Hush's room thoroughly enough.)
 CPC15_MISSINGCLUE_HUSHROOM-1=(Я недостатньо ретельно перевірив кімнату доктора Гаша.)
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (Did I miss something in Dr. Mink's room?)
 CPC15_MISSINGCLUE_MINKROOM-1=(Я щось пропустив у кімнаті доктора Мінка?)
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### (I should take a better look at Dr. Hush's body...)
 CPC15_MISSINGCLUE_BODY-1=(Мені слід краще придивитися до тіла доктора Гаша...)
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (Hmm... Maybe I should "play" a little more with Dr. Mink's tablet.)
 CPC15_MISSINGCLUE_TABLET-1=(Гмм... Можливо, мені варто трохи більше "погратися" з планшетом доктора Мінка.)
 
@@ -2004,7 +2004,7 @@ CPC15_MISSINGCLUE_INTERROGATE-1=(Упевнений, що я ще не закі�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (Dr. Mink is a nanites specialist. Maybe I should check for nanites in unusual places?)
 CPC15_MISSINGCLUE_NANITES-1=(Доктор Мінк - спеціаліст з нанітів. Тож, можливо, мені варто пошукати нанітів у незвичайних місцях?)
 
@@ -2040,7 +2040,7 @@ CPC15_INVESTIGATION_TIME-1=Здається, у мене є всі необхі�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Time to gather everyone. Let's talk to Dr. Mink.
 CPC15_INVESTIGATION_TIME-2=Час збирати всіх разом. Треба поговорити з доктором Мінком.
 

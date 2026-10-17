@@ -69,7 +69,7 @@ PC19B_CHOICE_PILLS=Нестача пігулок
 PC19B_CHOICE_LETBROK=Розібратися з Триботами
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### What is Dr. Gherkin hiding?
 INTERROGATION_GHERKIN=Що приховує доктор Геркін?
 
@@ -441,7 +441,7 @@ PC19B_DOOR_GO-3=Але я ще не здаюся!
 
 #----------------------------------------------------
 # Brok - Alternative to go out of the room - we decide to fight all the bots outside
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee attempted to find a solution with the help of Dr. Gherkin...
 PC19B_DOOR_YES3-1=Ді намагалася знайти вихід за допомогою доктора Геркіна...
@@ -1696,7 +1696,7 @@ PC19B_INIT1B-4=Що ти маєш на увазі?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin is lying to us.
 PC19B_GHERKINPROB1-1=Доктор Геркін нам бреше.
 
@@ -2149,7 +2149,7 @@ PC19B_TARGET5-42=До речі. Звідки у вас доступ до цьо�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### After all, you're a stranger to the Slums.
 PC19B_TARGET5-43=Зрештою, ви тут чужий, у Нетрях.
@@ -2280,7 +2280,7 @@ PC19B_DEE1-9=Це був спосіб розкрити правду і змін�
 
 # Dee
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### And that's why I got sick of writing articles like "How to prepare the best wormcake" or "This year's best livies".
 PC19B_DEE1-10=І саме тому мені набридло писати статті на кшталт "Як приготувати найкращий хробаковий пиріг" чи "Найкращі серіали цього року".
 
@@ -2301,8 +2301,8 @@ PC19B_DEE1-13=Так. Але журналістка завжди знайде ч
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Right. I forgot you Drumers barely work four hours a day.
 PC19B_DEE1-14=Авжеж. Забув, що ви, мешканці Верхів, ледь працюєте по чотири години на день.
 
@@ -2318,8 +2318,8 @@ PC19B_DEE1-16=З самого дитинства я помічала, як ус�
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumers became less critical. They lived in their own bubble.
 PC19B_DEE1-17=Мешканці Верхів стали менш критичними. Вони жили у власній бульбашці.
 
@@ -2799,7 +2799,7 @@ PC19B_INTERROGATE_BAD_KNOW-1=(Угу, здається логічним, що д
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### (Even the chief of police couldn't keep me in jail. I'm no criminal!)
 PC19B_INTERROGATE_OUTJAIL-1=(Навіть шеф поліції не зміг би утримати мене у в'язниці. Я не злочинець!)
 
@@ -3829,7 +3829,7 @@ PC19B_CLUE_SIN_DANGER-15=І що ти робитимеш, коли туди ді
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guards will never let you reach him, let alone escape!
 PC19B_CLUE_SIN_DANGER-16=Охоронці ніколи не дозволять тобі дістатися до нього, не кажучи вже про втечу!
 

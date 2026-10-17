@@ -135,17 +135,17 @@ PC17_ARRIVE1-3=Що ти маєш на увазі?
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### It's an open day. Drumers don't like getting near Slumers very much.
-PC17_ARRIVE1-4=Сьогодні день відкритих дверей. Мешканці Верхів не дуже люблять наближатися до нетрівців.
+PC17_ARRIVE1-4=Сьогодні день відкритих дверей. Мешканці Верхів не дуже люблять наближатися до Нетрівців.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### On the other hand, Slumers are more concerned about daily survival than culture.
 PC17_ARRIVE1-5=З іншого боку, мешканці Нетрів більше переймаються щоденним виживанням, ніж культурою.
 
@@ -358,7 +358,7 @@ PC17_EXPOUNTAIL1-1="Статуї, пернаті хвости та камені,
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### "These distinct features make them, without any shadow of a doubt, the first traces of The Untail worshipping."
 PC17_EXPOUNTAIL1-2="Ці виразні риси роблять їх, поза всяким сумнівом, першими свідченнями поклоніння Безхвостому."
 
@@ -459,7 +459,7 @@ PC17_EXPODOME1-1=О, для цього мені пояснення не потр
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 ### That's Rebirth Day. The great turning point after the catastrophe which ended up polluting the whole planet!
 PC17_EXPODOME1-2=Це день Відродження. Великий переломний момент після катастрофи, яка зрештою забруднила всю планету!
 
@@ -512,7 +512,7 @@ PC17_EXPODOME_FULLCIRCLEPRINT-1=Гарна ідея, але... Сфера нік
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 ### "Population is estimated to have grown from 50,000 on Rebirth Day to 1 million by 172 A.R."
 PC17_STONEGROWTH1-1="За оцінками, чисельність населення зросла з 50,000 у день Відродження до 1 мільйона на момент 172 П.В."
 
@@ -642,7 +642,7 @@ PC17_EXPOREVOLT1-1=Трохи історії про повстання...
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
 ### "Five centuries after the Rebirth Day, tensions increased between the descendants of nomads living outside the Dome and the domists living inside."
 PC17_EXPOREVOLT_READ-1="Через п'ять століть після дня Відродження напруга між нащадками кочівників, які жили за межами Купола, та жителями Купола зросла."
@@ -660,19 +660,19 @@ PC17_EXPOREVOLT_READ-3="Повстання переросло у війну, я�
 
 # Graff
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### "It is during this conflict that domists named the outside people 'Slumers', while they respectively started calling people living under the Dome 'Drumers.'"
 PC17_EXPOREVOLT_READ-4="Саме під час цього конфлікту жителі Купола назвали людей зовні 'мешканцями Нетрів', тоді як ті у відповідь почали називати жителів під Куполом 'мешканцями Верхів'."
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### "The overwhelming violence of those revolts still resonates to this day. No further rebellion involving all united Slumers ever happened again."
-PC17_EXPOREVOLT_READ-5="Неймовірна жорстокість тих повстань відгукується й донині. Більше жодного бунту за участю всіх об'єднаних нетрівців не було."
+PC17_EXPOREVOLT_READ-5="Неймовірна жорстокість тих повстань відгукується й донині. Більше жодного бунту за участю всіх об'єднаних Нетрівців не було."
 
 
 #----------------------------------------------------
@@ -692,12 +692,12 @@ PC17_EXPOTECHNOLOGICAL1-3="Ми всі живемо в золоту еру з п
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Oh, sure... For Drumers. Conditions for us Slumers don't really advance at the same rate.
-PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе на Верхах. Умови для нас, нетрівців, покращуються не з такою швидкістю.
+PC17_EXPOTECHNOLOGICAL1-4=О, авжеж... Для тих, хто живе на Верхах. Умови для нас, Нетрівців, покращуються не з такою швидкістю.
 
 
 # Graff
@@ -734,7 +734,7 @@ PC17_STELE1-3="У минулих століттях чоловіки та жін
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Birth Ratio": "Народжуваність"
+# NB: Lexicon word in Ukrainian for "Birth Ratio": "народжуваність"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Again, they forget to mention these rules don't apply in the Slums... but the low female birth ratio does.
 PC17_STELE1-4=І знову вони забули згадати, що ці правила не діють у Нетрях... а ось низька народжуваність самок діє.
@@ -753,8 +753,8 @@ PC17_STELE1-6=А ті нечисленні, яких я зустрічав, на
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### If we don't get to be Drumers, we can pretty much forget getting married someday.
 PC17_STELE2-1=Якщо ми не станемо мешканцями Верхів, то можна забути про те, щоб колись одружитися.
 
@@ -820,7 +820,7 @@ PC17_STELE2-13=Я...?
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Yeah. When you get to be a Drumer...
 PC17_STELE2-14=Ага. Коли ти станеш мешканцем Верхів...
 
@@ -1119,9 +1119,9 @@ PC17_LASERSCONTROL_OTHERS-2=Може, варто діяти жорсткіше.
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
-# NB: Lexicon word in Ukrainian for "Tredecium": "Тредецій"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
+# NB: Lexicon word in Ukrainian for "Tredecium": "тредецій"
 ### "3026 A.R. Tredecium 5th : The Autarchism day."
 PC17_EXPOAUTARCHISM1-1="3026 П.В. 5 тредеція: день Аутархізму."
 
@@ -1180,7 +1180,7 @@ PC17_EXPOAUTARCHISM_READ-10="Крім того, Атлазія стала нез
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 # NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
 ### "Atlasia citizens can focus on their own priorities. This freedom is what gave it the name Autarchism."
 PC17_EXPOAUTARCHISM_READ-11="Громадяни Атлазії можуть зосередитися на власних пріоритетах. Ця свобода і дала цій системі назву Аутархізм."
@@ -1227,8 +1227,8 @@ PC17_BREAKWALL_AFTER-1=Хіба я не бачив цей символ деін�
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### "Another major event happened during Autarchism Day, which was occulted by many news reportings."
 PC17_EXPORECENTA1-1="В День Аутархізму сталася ще одна важлива подія, яку замовчували у багатьох випусках новин."
 
@@ -1291,7 +1291,7 @@ PC17_CRACK_OTHERS-1=Краще її не чіпати...
 #----------------------------------------------------
 # Graff
 # NB: Lexicon word in Ukrainian for "The Blackout": "Знеструмлення"
-# NB: Lexicon word in Ukrainian for "Lorgust": "Славерпень"
+# NB: Lexicon word in Ukrainian for "Lorgust": "славерпень"
 ### "3030 A.R. Lorgust 9th : The Blackout."
 PC17_EXPORECENTB1-1="3030 П.В. 9 славерпня: Знеструмлення."
 
@@ -1308,16 +1308,16 @@ PC17_EXPORECENTB1-3="Це спричинило величезну кількіс
 
 # Graff
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### "The Dome got cut off, which could have had dramatic effects if not for the military Tribots repelling Slumers from trying to enter the Drums."
-PC17_EXPORECENTB1-4="Купол відключився, що могло б мати катастрофічні наслідки, якби військові Триботи не стримали нетрівців від спроб проникнути на Верхи."
+PC17_EXPORECENTB1-4="Купол відключився, що могло б мати катастрофічні наслідки, якби військові Триботи не стримали Нетрівців від спроб проникнути на Верхи."
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 # NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
 ### "In addition, the Triweb went down. All citizens suffered from unpredictable situations ranging from getting stuck inside elevators to falling Aircars."
 PC17_EXPORECENTB1-5="Крім того, відключився Тривеб. Усі громадяни постраждали від непередбачуваних ситуацій: від застрягання в ліфтах до падіння аеромобілів."

@@ -48,7 +48,7 @@ PC_BRACKET=Кріплення
 ### String
 PC_STRING=Мотузка
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### To Hacker's Street
 PC_TO_HACKER=До провулка гакера
 
@@ -85,7 +85,7 @@ PC14_INTRO1-1=Фу... Який сморід.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### The hacker should be around here. I'd better find him quickly, before I get sick.
 PC14_INTRO1-2=Гакер має бути десь тут. Краще знайти його швидше, поки мене не знудило.
 
@@ -700,7 +700,7 @@ PC14_LOOKGRAFF_DEECALL_NOSIN-4=Дідько...
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief of police called.
 PC14_LOOKGRAFF_DEECALL_NOSIN-5=Телефонував шеф поліції.
 
@@ -1076,7 +1076,7 @@ PC14_LOOKGRAFF_SURFACE_NEXT-3=Ну...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### I made a deal with that hacker.
 PC14_LOOKGRAFF_SURFACE_NEXT-4=Я уклав угоду з тим гакером.
 

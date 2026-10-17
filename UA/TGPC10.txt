@@ -110,10 +110,10 @@ PC10_Q3_7=Сем
 ### Enter the correct word.
 PC10_Q4=Введи правильне слово.
 
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### 1. It's better than living.#2. It's worse than eternal suffering.#3. Slumers have it.#4. Drumers need it.#5. If we eat it, we die.
 PC10_Q4B=1. Це краще за життя.#2. Це гірше за вічні страждання.#3. Це є у мешканців Нетрів.#4. Це потрібно мешканцям Верхів.#5. Якщо ми з'їмо це, то помремо.
 
@@ -125,14 +125,14 @@ PC10_Q5=Заверши послідовність:#ЧЕР - ПОМ - ЖОВ - З
 
 
 
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### Your best friend and ten people you don't know are in danger. You can only save either the strangers or your friend. Who will you save?
 PC10_Q6=Твій найкращий друг і десять людей, яких ти не знаєш, у небезпеці. Ти можеш врятувати або друга, або незнайомців. Кого врятуєш?
 
 ### Your friend
 PC10_Q6_1=Свого друга
 
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### The ten strangers
 PC10_Q6_2=Десятьох незнайомців
 
@@ -159,8 +159,8 @@ PC10_Q7_4=18
 PC10_Q7_5=22
 
 
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### When did Autarchism Day occur?
 PC10_Q8=Коли відбувся день Аутархізму?
 
@@ -297,7 +297,7 @@ PC10_Q5_5=ЛІЛ
 PC10_Q5_6=РОЖ
 
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### What is better than becoming a Drumer?
 PC10_Q4ALT=Що може бути кращим, аніж стати мешканцем Верхів?
 
@@ -344,7 +344,7 @@ PC10_INTRO2-2=Сідай.
 
 
 # Stubot
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The Director will arrive in 3 minutes and 30 seconds
 PC10_INTRO2-3=Директорка буде тут через 3 хвилини і 30 секунд.
 
@@ -440,7 +440,7 @@ PC10_INTRO3B-8=Та ні!
 
 # Graff
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### No conspiracy there. You watch too many livies!
 PC10_INTRO3B-9=Немає тут ніякої змови. Ти дивишся забагато серіалів!
 
@@ -477,8 +477,8 @@ PC10_INTRO3B-15=Чи ти волів би опинитися в одному з 
 
 # Graff
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### It's our only chance to become Drumers. To live under the Dome.
 PC10_INTRO3B-16=Це наш єдиний шанс стати мешканцями Верхів. Жити під Куполом.
 
@@ -651,7 +651,7 @@ PC10_INTRO6-15=Ніяких але. Пам'ятай!
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Getting accepted into active society as a Drumer for kids like yourself means substantial efforts.
 PC10_INTRO6-16=Для таких дітей, як ти, стати частиною суспільства Верхів вимагає чималих зусиль.
 
@@ -710,13 +710,13 @@ PC10_RULES-1="Правила, чинні цього року (3035 П.В.)"
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### "This exam and all related trials are part of the process to validate your acceptance as first-class citizen (Drumer)."
 PC10_RULES-2="Цей іспит і всі пов'язані випробування є частиною процесу підтвердження визнання вас громадянином першого класу (мешканцем Верхів)."
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### "As such it is strictly reserved to Slumer children who will become adults (16 year old) this year, under penalty of exclusion."
 PC10_RULES-3="Таким чином, іспит призначений лише для дітей-мешканців Нетрів, які стануть дорослими (16-річними) цього року. Будь-яке порушення цього правила карається відрахуванням."
 
@@ -906,7 +906,7 @@ PC10_DESK_OTT_DOCHEAT7-1=(Ні... Мені слід зупинитися...)
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### (The Director's kid... even though his mother is a robot.)
 PC10_DESK_KLAY1-1=(Син директорки... хоч його мати й робот.)
 
@@ -998,7 +998,7 @@ PC10_DESK_VRLEARNER2-1=(Ні! Використовувати його під ч�
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### (I don't mind the Director. I've known worse bots. It... She does the job.)
 PC10_DESK_DIRECTOR1-1=(Я нічого не маю проти директорки. Я знавав ботів і гірших. Вона... непогано виконує свою роботу.)
 
@@ -1016,7 +1016,7 @@ PC10_DESK_VIEW1-1=(Очевидно, це найкращий район Нетр
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### (I can't wait to get my diploma and become a Drumer!... Again.)
 PC10_DESK_VIEW1-2=(Не можу дочекатися, коли отримаю диплом і стану мешканцем Верхів...! Знову.)
 
@@ -1330,7 +1330,7 @@ PC10_SENDTRIAL_AFTER_BEST-4=Не хвилюйся через це!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You'll get your diploma and become a Drumer.
 PC10_SENDTRIAL_AFTER_BEST-5=Ти отримаєш диплом і станеш мешканцем Верхів.
 
@@ -2087,7 +2087,7 @@ PC10_STORY100_F-1=Що з ним не так?!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### He's the Director's favorite and he always gets the best marks.
 PC10_STORY100_F-2=Він улюбленець директорки та завжди отримує найкращі оцінки.
 
@@ -3323,7 +3323,7 @@ PC10_VRLEARNER_ANTS1-8=...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### For some reason, I suddenly feel hungry for an Antburger...
 PC10_VRLEARNER_ANTS1-9=З якоїсь причини мені раптом захотілося мурахобургера...
 
@@ -4069,7 +4069,7 @@ PC10_MACHINESTUBOT_DEAD-2=Це неприйнятно
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### What got into you?! He'll report this to the Director!
 PC10_MACHINESTUBOT_DEAD-3=Що на тебе найшло?! Він доповість про це директорці!
 
@@ -5199,7 +5199,7 @@ PC10_DAY3_BEGIN2_KLAYNEXT-7=Це зруйнує моє майбутнє!
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Miss Director!
 PC10_DAY3BEGIN_REVEAL-1=Пані директорко!
 
@@ -5490,8 +5490,8 @@ PC10_DAY3BEGINE_NEXT-7=Він розташований у незалежній �
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### One of the only areas aside from this Center and the police department to be run by Drumers.
 PC10_DAY3BEGINE_NEXT-8=Одна з небагатьох зон, окрім цього Центру та відділку поліції, якою керують мешканці Верхів.
 
@@ -6190,14 +6190,14 @@ PC10_DAY3RESULTS_GRAFFLOSES3-1=Система виконала перевірк�
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff, your tutor is registered as a Drumer.
 PC10_DAY3RESULTS_GRAFFLOSES3-2=Граффе, твій опікун зареєстрований як мешканець Верхів.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok?... A Drumer?...
 PC10_DAY3RESULTS_GRAFFLOSES3-3=Брок...? Мешканець Верхів...?
@@ -6303,8 +6303,8 @@ PC10_DAY3RESULTS_GRAFFWINSANYWAY-7=Так.
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### This will be your only opportunity to become Drumers officially.
 PC10_DAY3RESULTS_GRAFFWINSANYWAY-8=Це буде ваша єдина можливість офіційно стати мешканцями Верхів.
 
@@ -6367,7 +6367,7 @@ PC10_DAY3RESULTS_GRAFFWINSANYWAY-19=Але... Як же ситуація в Не
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### You heard the Director. We can't miss this opportunity.
 PC10_DAY3RESULTS_GRAFFWINSANYWAY-20=Ти чув директорку. Ми не можемо пропустити цю можливість.
 
@@ -6435,7 +6435,7 @@ PC10_DAY3RESULTS_GRAFFNOTENOUGH-8=...
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Wait... If he's really a Drumer...
 PC10_DAY3RESULTS7-1=Стривай... Якщо він справді мешканець Верхів...
 
@@ -6528,7 +6528,7 @@ PC10_DAY3RESULTS7-18=Це все.
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### May the Untail watch over you.
 PC10_DAY3RESULTS7-19=Хай Безхвостий наглядає за вами.
 

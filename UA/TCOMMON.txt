@@ -95,7 +95,7 @@ CHAR_BOLT=Болт
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Squealers Chief
 CHAR_CHIEFRAT=Шеф Верескунів
 
@@ -116,7 +116,7 @@ CHAR_RAT_KINS=Кінс
 ### Dart
 CHAR_RAT_DART=Дарт
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp
 CHAR_TRAMP=Волоцюга
 
@@ -129,7 +129,7 @@ CHAR_OTT=Отт
 CHAR_KLAY=Клей
 
 #The female robot
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Director
 CHAR_DIRECTOR=Директорка
 
@@ -141,19 +141,19 @@ CHAR_STUBOT=Студбот
 ### R.J.
 CHAR_RJ=Р. Джей
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker
 CHAR_HACKER=Гакер
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush
 CHAR_HUSH=Д-р Гаш
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard
 CHAR_GUARD=Охоронець
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink
 CHAR_MINK=Мінк
 
@@ -161,7 +161,7 @@ CHAR_MINK=Мінк
 ### Tidy
 CHAR_TIDY=Тайді
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin
 CHAR_GHERKIN=Д-р Геркін
 
@@ -174,7 +174,7 @@ CHAR_LIA=Лія
 CHAR_DEE=Ді
 
 #Religious woman selling stuff
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### Merchant
 CHAR_FLOWER=Крамарка
 
@@ -993,7 +993,7 @@ MOVE_JUMPKICKDOWN=Удар в падінні
 ### Flying Uppercut
 MOVE_UPPERCUT=Аперкот у повітрі
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard
 MOVE_GUARD=Захист
 
@@ -1074,7 +1074,7 @@ MOVE_COMMANDS_THEN=потім
 ### Jump then
 MOVE_COMMANDS_JUMPTHEN=Стрибок, потім
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard then
 MOVE_COMMANDS_GUARDTHEN=Захист, потім
 
@@ -1683,7 +1683,7 @@ INPUT_ACTION_JUMP=Стрибок
 ### Attack / action
 INPUT_ACTION_HIT=Атака / дія
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard
 INPUT_ACTION_GUARD=Захист
 
@@ -1745,7 +1745,7 @@ INPUT_ACTION_SKIP_ACTION=Пропустити бойову сцену або г�
 ### Home
 PC_HOME=Дім
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street
 PC_RICH_STREET=Вулиця на Верхах
 
@@ -1766,7 +1766,7 @@ PC_POLICE_DEPARTMENT=Відділок поліції
 ### Consciousness Center
 PC_SCHOOL=Центр Свідомості
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker Back Street
 PC_HACKER=Провулок гакера
 
@@ -1816,7 +1816,7 @@ GOAL_STORY_0=Знайти вихід
 ### Visit the client
 GOAL_STORY_10=Завітати до клієнта
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Pass the guard post
 GOAL_STORY_20=Пройти через пост охорони
 
@@ -1916,16 +1916,16 @@ GOAL_STORY_210_GRAFF=Фінальне випробування
 ### Investigate the pills case
 GOAL_STORY_210_BROK=Розслідувати справу про пігулки
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Meet Dr. Gherkin at the factory
 GOAL_STORY_220_BROK=Зустріти доктора Геркіна на заводі
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Protect Dr. Gherkin through the Slums
 GOAL_STORY_230_BROK=Захистити доктора Геркіна у Нетрях
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Help Dr. Gherkin and R.J.
 GOAL_STORY_240_BROK=Допомогти докторові Геркіну та Р. Джею
@@ -1942,7 +1942,7 @@ GOAL_STORY_255_GRAFF=Зламати дані з результатами ісп�
 ### Enter the bunker
 GOAL_STORY_255_BROK=Увійти в бункер
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Interrogate Dr. Gherkin
 GOAL_STORY_260_BROK=Допитати доктора Геркіна
 
@@ -1969,7 +1969,7 @@ GOAL_STORY_295_BROK=Продовжити допит
 ### Ending
 GOAL_STORY_300=Кінцівка
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Ending (Drumer)
 GOAL_STORY_301=Кінцівка (Мешканець Верхів)
 
@@ -2005,28 +2005,28 @@ OBJECTIVE_BILLA=Сплатити рахунок за електроенергі�
 ### Pay the rent
 OBJECTIVE_BILLB=Сплатити орендну плату
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Get medicine for the tramp
 OBJECTIVE_TRAMP=Дістати ліки для волоцюги
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Wait to meet a doctor to update the tramp prescription
 OBJECTIVE_TRAMPUPDATE=Дочекатися зустрічі з лікарем, щоб той виписав рецепт для волоцюги
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### In the mean time, give another medicine to the tramp
 OBJECTIVE_TRAMPUPDATE2=А тим часом дати волоцюзі інші ліки
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Give the medicine to the tramp
 OBJECTIVE_TRAMPGIVE=Дати волоцюзі ліки
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Get the prescribed medicine for the tramp
 OBJECTIVE_TRAMPPRESCRIBED=Дістати прописані ліки для волоцюги
 
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Give basic medicine to the tramp for now (glucosite)
 OBJECTIVE_TRAMPGLUCOSITE=Дати волоцюзі тимчасові ліки (глюкозит)
 
@@ -2040,21 +2040,21 @@ OBJECTIVE_HOOVERNOTSOLD=Ви лишили собі бота-прибиральн
 ### You paid the energy bill.
 OBJECTIVEDONE_BILLAPAID=Ви оплатили рахунок за електроенергію.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### You saved the tramp.
 OBJECTIVEDONE_TRAMPCURE=Ви врятували волоцюгу.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### You killed the tramp.
 OBJECTIVEDONE_TRAMPKILL=Ви вбили волоцюгу.
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### The tramp was killed by Squealers.
 OBJECTIVEDONE_TRAMPTHEM=Волоцюга був убитий Верескунами.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### The tramp died without medicine.
 OBJECTIVEDONE_TRAMPNOGLUCOSITE=Волоцюга помер, не отримавши ліків.
 
@@ -2078,7 +2078,7 @@ OBJECTIVEDONE_HOOVERSOLD=Ви продали Шей запчастини бот�
 ### You decided to keep the broken cleaning bot.
 OBJECTIVEDONE_HOOVERNOFIX=Ви вирішили залишити зламаного бота-прибиральника.
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### You sold the cleaning bot to Dr. Mink.
 OBJECTIVEDONE_HOOVERSOLDMINK=Ви продали бота-прибиральника докторові Мінку.
 
@@ -2089,7 +2089,7 @@ OBJECTIVEDONE_REMOTECONTROLFIXED=Шей полагодила пульт керу
 ### You found the gun.
 OBJECTIVEDONE_GUNFOUND=Ви знайшли пістолет.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### You gave basic medicine to the tramp so he holds on.
 OBJECTIVEDONE_GAVEREGULAR=Ви дали волоцюзі тимчасові ліки, щоб він протримався.
 
@@ -2154,11 +2154,11 @@ OBJECTIVEDONE_DESTROYEDINVENTIONS=Ви знищили всі винаходи.
 
 
 #Chapter 3 Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Find an arrangement with school Director
 OBJECTIVE_DIRECTORARRANGEMENT=Домовитися з директоркою школи
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Get self-modifier chip for Director
 OBJECTIVE_GETSELFMODIFIER=Дістати чип самомодифікації для директорки
 
@@ -2181,13 +2181,13 @@ OBJECTIVE_ENTERWESOFFICE=Потрапити в кабінет Веса
 ### Explore Wes' office
 OBJECTIVE_EXPLOREOFFICE=Дослідити кабінет Веса
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Give 10,000 Unis to the hacker
 OBJECTIVE_MONEYHACKER=Віддати 10,000 Юні гакерові
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Erase the hacker's file on the police mainframe
 OBJECTIVE_ERASEFILE=Стерти досьє гакера з центрального комп'ютера поліції
 
@@ -2195,23 +2195,23 @@ OBJECTIVE_ERASEFILE=Стерти досьє гакера з центрально
 ### Check on Shay
 OBJECTIVE_CHECKSHAY=Завітати до Шей
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### Pay the hacker for Shay
 OBJECTIVE_PAYHACKER=Заплатити гакерові за Шей
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You obtained the chip by attacking and stealing from the hacker.
 OBJECTIVEDONE_GOTCHIPVIOLENT=Ви отримали чип, напавши на гакера та пограбувавши його.
 
 ### You obtained the chip by paying for it.
 OBJECTIVEDONE_GOTCHIPPAY=Ви отримали чип, заплативши за нього.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You obtained the chip by fulfilling the hacker's mission.
 OBJECTIVEDONE_GOTCHIPMISSION=Ви отримали чип, виконавши завдання гакера.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You fulfilled the hacker's mission.
 OBJECTIVEDONE_GOTMISSIONONLY=Ви виконали завдання гакера.
 
@@ -2221,12 +2221,12 @@ OBJECTIVEDONE_GIVEUPMODIFIER=Ви полишили спроби здобути �
 ### You paid the rent.
 OBJECTIVEDONE_BILLBPAID=Ви сплатили орендну плату.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### You paid the hacker for Shay.
 OBJECTIVEDONE_PAIDHACKER=Ви заплатили гакерові за Шей.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### You didn't pay the hacker for Shay.
 OBJECTIVEDONE_NOPAIDHACKER=Ви не заплатили гакерові за Шей.
@@ -2289,7 +2289,7 @@ OBJECTIVEDONE_BILLCPAID=Ви оплатили рахунок за Тривеб.
 
 
 #Chapter 6 Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Check around hacker street for clues
 OBJECTIVE_SHORTAGE=Шукати зачіпки в провулку гакера
 
@@ -2309,12 +2309,12 @@ ENDING_TITLE1="Канонічна"
 ENDING_TITLE2="Поза циклом"
 
 # Normal BUT Graff has a good relationship
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### "Slumer"
 ENDING_TITLE3="Нетрівець"
 
 # Win diploma school
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### "Drumer"
 ENDING_TITLE4="Мешканець Верхів"
 
@@ -2376,11 +2376,11 @@ ITEM_APARTMENTKEY=Ключ від квартири
 ### Cat fur
 ITEM_CATFUR=Котяча шерсть
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "іграшка "Пред""
 ### Pred toy
 ITEM_PREDNORMAL=Іграшка "Пред"
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "іграшка "Пред""
 ### Inflated Pred toy
 ITEM_PREDINFLATED=Надута іграшка "Пред"
 
@@ -2423,7 +2423,7 @@ ITEM_POLLUTIONPILL=Смогова пігулка
 ### Medical prescription
 ITEM_TRAMPPRESCR=Медичний рецепт
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Medicine for tramp
 ITEM_TRAMPMEDICINE=Ліки для волоцюги
 
@@ -2527,11 +2527,11 @@ ITEM_SPEAKER=Динамік
 ### Lamp found near the body
 ITEM_LAMPMINK=Лампа, знайдена біля тіла
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Lamp from Dr. Hush's room
 ITEM_LAMPHUSH=Лампа з кімнати доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's tablet
 ITEM_TABLETHUSH=Планшет доктора Гаша
 
@@ -2619,7 +2619,7 @@ ITEM_PHONEMUSEUM=Музейний експонат
 ### Parchment
 ITEM_PARCHMENT=Пергамент
 
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 ### Rebirth day picture
 ITEM_CHIEFRATPIC=Фото дня Відродження
 
@@ -2664,7 +2664,7 @@ ROOM_PC02=Коридор Брока
 ### Outside apartment
 ROOM_PC03=Поза квартирою
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer street
 ROOM_PC04=Вулиця на Верхах
 
@@ -2746,15 +2746,15 @@ ROOM_PC12B=Всередині піраміди
 ### View
 ROOM_PC13=Краєвид
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker (street)
 ROOM_PC14=Гакер (вулиця)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker (outside)
 ROOM_PC14B=Гакер (зовні)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker (inside)
 ROOM_PC14C=Гакер (всередині)
 
@@ -2767,7 +2767,7 @@ ROOM_PC15B=Лабораторія (коридор)
 ### Lab (Hush's)
 ROOM_PC15C=Лабораторія (Гаша)
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Lab (Mink's)
 ROOM_PC15D=Лабораторія (Мінка)
 
@@ -3301,7 +3301,7 @@ ITEM_SIN_MSG=Клієнт. Здається, він дуже знервован�
 ### My good old crazy inventor friend Shay! We've known each other since kindergarten. I wonder what she did during all the years we were out of touch.
 ITEM_SHAY_MSG=Моя стара добра подруга, божевільна винахідниця Шей! Ми знайомі ще з дитячого садка. Цікаво, чим вона займалася всі ці роки, поки ми не спілкувалися?
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief of police. Also an old acquaintance.
 ITEM_WES_MSG=Шеф поліції. А ще старий знайомий.
 
@@ -3313,7 +3313,7 @@ ITEM_BOLT_MSG=Депресивний робот, якого я зустрів н
 ### The leader of those filthy Squealers. Dangerous.
 ITEM_CHIEFRAT_MSG=Ватажок отих огидних Верескунів. Небезпечний.
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Old soldier turned tramp. The poor guy has an incurable disease...
 ITEM_TRAMP_MSG=Колишній солдат, який став волоцюгою. Бідолаха страждає на невиліковну хворобу...
 
@@ -3331,7 +3331,7 @@ ITEM_RJ_MSG=Цей великий ведмідь - офіцер поліції. 
 ### A mouse who does hacking stuff. Better be careful with that kind of guy.
 ITEM_HACKER_MSG=Миша, що займається гакерством. З таким типом краще бути обережним.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Drums": "Верхи"
 ### The rat guard at the laboratory. It's surprising he's been allowed to stay in the Drums.
 ITEM_GUARD_MSG=Щурячий охоронець в лабораторії. Дивно, що йому дозволили лишитися на Верхах.
@@ -3339,11 +3339,11 @@ ITEM_GUARD_MSG=Щурячий охоронець в лабораторії. Ди
 ### The victim in my investigation. One of those eccentric scientists working on AI algori-thingamabobs.
 ITEM_HUSH_MSG=Жертва у розслідуванні, яке я веду. Ексцентричний науковець, який працює над якимись ШІ-алго-штучками.
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's colleague. Specializes in nanites and a bit weird.
 ITEM_MINK_MSG=Колега доктора Гаша. Спеціалізується на нанітах (нанороботах). Досить дивний.
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's assistant bot. Might be even creepier than your regular bot.
 ITEM_TIDY_MSG=Асистент доктора Гаша. Може, навіть більш моторошний, порівняно зі звичайними ботами.
 
@@ -3353,7 +3353,7 @@ ITEM_GHERKIN_MSG=Доктор наук, який працює у фармаце�
 ### A mysterious girl wandering in the Slum streets. Conceals herself under a hood and wields a telescopic weapon. Unusual...
 ITEM_DEE_MSG=Таємнича дівчина, що блукає вулицями Нетрів. Вона ховається під капюшоном і володіє телескопічною зброєю. Незвичайно...
 
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### One of the very few women living in the streets of the Slums. She sells all kinds of stuff related to the Untail religion.
 ITEM_FLOWER_MSG=Одна з небагатьох жінок, що живуть на вулицях Нетрів. Продає всілякі речі, пов'язані з релігією Безхвостя.
@@ -3369,7 +3369,7 @@ ITEM_GRAFF_BROK_MSG=Мій старий. Я вже понад п'ять рокі
 ITEM_GRAFF_OTT_MSG=Мій найкращий друг! Гібрид. Ми обидва так відрізняємося від наших однокласників... і добре розуміємо одне одного.
 
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### The Director of my Consciousness Center. A female robot, who also act as Klay's mom. Don't ask!
 ITEM_GRAFF_DIRECTOR_MSG=Директорка Центру Свідомості. Жінка-робот, яка також виконує роль мами Клея. Не питайте!
@@ -3392,7 +3392,7 @@ ITEM_GRAFF_FLOWER_MSG=Дівчина, яка продає релігійні т�
 
 
 #----- Food --------
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 # NB: Lexicon word in Ukrainian for "Helios": "Геліос"
 ### Helios Energy drink
 ITEM_ENERGYDRINK=Енергетичний напій Геліос
@@ -3401,7 +3401,7 @@ ITEM_ENERGYDRINK=Енергетичний напій Геліос
 ITEM_ENERGYDRINK_MSG=Концентрований гелій для додаткової енергії!#<col=BOLD>Збільшує силу на 30 секунд</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Pampalos fruit
 ITEM_PAMPALOS=Пампалос
 
@@ -3409,7 +3409,7 @@ ITEM_PAMPALOS=Пампалос
 ITEM_PAMPALOS_MSG=Свіжий фрукт! Лише 5% пестицидів.#<col=BOLD>Відновлює 25% здоров'я</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Antburger
 ITEM_ANTBURGER=Мурахобургер
 
@@ -3417,7 +3417,7 @@ ITEM_ANTBURGER=Мурахобургер
 ITEM_ANTBURGER_MSG=Смачне м'ясо мурах у вигляді порошку, багате на білок!#<col=BOLD>Відновлює 50% здоров'я</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Glucosite
 ITEM_GLUCOSITE=Глюкозит
 
@@ -3425,7 +3425,7 @@ ITEM_GLUCOSITE=Глюкозит
 ITEM_GLUCOSITE_MSG=Найкращий засіб для повного та миттєвого одужання - з божественним смаком!#<col=BOLD>Відновлює 100% здоров'я</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Rotten Pampalos fruit
 ITEM_ROTTENPAMPALOS=Гнилий пампалос
 
@@ -3440,7 +3440,7 @@ ITEM_VENDINGAD=Реклама торгового автомата
 ITEM_VENDINGAD_MSG=Спеціальна пропозиція! Придбайте торговий автомат сьогодні та отримайте 20% знижки!
 
 
-# NB: Lexicon word in Ukrainian for "Flowing water": "Плинна вода"
+# NB: Lexicon word in Ukrainian for "Flowing water": "плинна вода"
 ### Flowing water
 ITEM_FLOWINGWATER=Плинна вода
 
@@ -3462,7 +3462,7 @@ ITEM_SOLIDJUICE=Твердий сік
 ITEM_SOLIDJUICE_MSG=На 100% виготовлено зі штучних добавок!#<col=BOLD>Не дає нічого</col>, крім бажання з'їсти ще.
 
 
-# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
 ### Hot juice
 ITEM_HOTJUICE=Гарячий сік
 
@@ -3470,7 +3470,7 @@ ITEM_HOTJUICE=Гарячий сік
 ITEM_HOTJUICE_MSG=Безалкогольний напій, який хімічним шляхом відтворює ефект сп'яніння!#<col=BOLD>Блокує увесь біль протягом 60 секунд</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
+# NB: Lexicon word in Ukrainian for "Pizzant": "мурахопіца"
 ### Pizzant
 ITEM_PIZZANT=Мурахопіца
 
@@ -3478,7 +3478,7 @@ ITEM_PIZZANT=Мурахопіца
 ITEM_PIZZANT_MSG=Піца, покрита вашими улюбленими комахами!#<col=BOLD>Дозволяє негайно виконати спеціальну атаку</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
+# NB: Lexicon word in Ukrainian for "Flowing honey": "плинний мед"
 ### Flowing honey
 ITEM_FLOWINGHONEY=Плинний мед
 
@@ -3486,7 +3486,7 @@ ITEM_FLOWINGHONEY=Плинний мед
 ITEM_FLOWINGHONEY_MSG=Зміцніть свою імунну систему!#<col=BOLD>Підвищує захист на 30 секунд</col>.
 
 
-# NB: Lexicon word in Ukrainian for "Energy serum": "Енергетична сироватка"
+# NB: Lexicon word in Ukrainian for "Energy serum": "енергетична сироватка"
 ### Energy serum
 ITEM_ENERGYSERUM=Енергетична сироватка
 
@@ -3543,7 +3543,7 @@ INTERFACE_CHAPTER2B=Втеча з в'язниці
 ### Science fair
 INTERFACE_CHAPTER2G=Науковий ярмарок
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker and police department
 INTERFACE_CHAPTER3B=Гакер і відділок поліції
 
@@ -3557,7 +3557,7 @@ INTERFACE_CHAPTER4B=Розслідування вбивства
 ### Bunker with Klay
 INTERFACE_CHAPTER4G=Бункер з Клеєм
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Escort Dr. Gherkin
 INTERFACE_CHAPTER5B=Супровід доктора Геркіна
 
@@ -3727,7 +3727,7 @@ MONEY_50=50
 MONEY_200=200
 
 
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "іграшка "Пред""
 ### A Pred toy!
 GOT_PREDNORMAL=Іграшка "Пред"!
 
@@ -4370,8 +4370,8 @@ MSIN1_TEXT=У мене для вас є робота!##Будь ласка, пр
 ### About yesterday
 MOTT0_TITLE=Про вчорашнє
 
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Hey, thanks again for dropping by my place! My parents and I don't get many visits. I'm glad you're my friend. You know how the others are... I don't expect this to change when we become Drumers.
 MOTT0_TEXT=Привіт, ще раз дякую, що завітав! До нас із батьками нечасто хтось приходить у гості. Я радий, що ти мій друг. Ти ж знаєш, які вони всі... Не думаю, що це зміниться, коли ми станемо мешканцями Верхів.
 
@@ -4429,7 +4429,7 @@ MGRAFF7_TEXT=Повний провал. Точнісінько як і ти.
 ### Gone early
 MGRAFF10_TITLE=Пішов рано
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### You overslept again. Gone to the Consc. Director will await you. For once, please fix the situation and don't make things worse...
 MGRAFF10_TEXT=Ти знову проспав. Пішов до Центру. Директорка чекатиме на тебе. Хоча б цього разу, будь ласка, виправ ситуацію і не погіршуй її ще більше...
 
@@ -4470,7 +4470,7 @@ MDIRECTOR_FINALSCORES=Підсумкові бали
 ### Graff is expelled
 MDIRECTOREXCL_TITLE=Граффа відраховано
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Mister,##For unknown reasons, Graff's behavior was severely inappropriate this afternoon. Unfortunately this means he's being expelled from our center. Feel free to call me for more information.##The Director
 MDIRECTOREXCL_TEXT=Пане,##З невідомих причин поведінка Граффа сьогодні вдень була вкрай неприйнятною. На жаль, це означає, що його було відраховано з нашого центру. За додатковою інформацією, будь ласка, зателефонуйте мені.##Директорка
@@ -4479,7 +4479,7 @@ MDIRECTOREXCL_TEXT=Пане,##З невідомих причин поведін�
 ### Science fair
 MDIRECTORLATE_TITLE=Науковий ярмарок
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Mister,##As your child must have told you, a parent or tutor presence is required during this event. However you've been missing during the votes. Thus I have no other choice but to give Graff a zero for this exam.##Part of this trials existence is to measure the parenting relationship as family conflicts are proven to cause issues in students future careers. I'm hoping for your cooperation.##The Director
 MDIRECTORLATE_TEXT=Пане,##Як, мабуть, вже розповів вам ваш син, під час цього заходу обов'язкова присутність одного з батьків або опікуна. Однак під час голосування вас не було. Тому я змушена поставити Граффу нуль за цей іспит.##Однією з цілей проведення цих випробувань є оцінка стосунків студентів з батьками, оскільки доведено, що сімейні конфлікти можуть негативно впливати на майбутню кар'єру студентів. Сподіваюся на ваше розуміння.##Директорка
@@ -4488,7 +4488,7 @@ MDIRECTORLATE_TEXT=Пане,##Як, мабуть, вже розповів вам
 ### Trial Day 2 results
 MDIRECTOR1_TITLE=Результати другого дня випробувань
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff,##You obtained {amount} points during today's trial.##{ranking}##The final trial starts at 8 AM tomorrow. Good luck!##The Director
 MDIRECTOR1_TEXT=Граффе,##ти набрав {amount} балів за сьогоднішнє випробування.##{ranking}##Фінальне випробування розпочнеться завтра о 8:00. Успіхів!##Директорка
@@ -4497,7 +4497,7 @@ MDIRECTOR1_TEXT=Граффе,##ти набрав {amount} балів за сьо
 ### Also...
 MDIRECTOR2_TITLE=Крім того...
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff.##I would like to personally confirm you've been reinstated as a Center student. Do not worry about it anymore.## The Director
 MDIRECTOR2_TEXT=Граффе.##Я хотіла би особисто підтвердити, що твій статус студента Центру поновлено. Більше не турбуйся з цього приводу.## Директорка
@@ -4506,7 +4506,7 @@ MDIRECTOR2_TEXT=Граффе.##Я хотіла би особисто підтв�
 ### Also...
 MDIRECTOR2B_TITLE=Крім того...
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Graff.##Thanks to the efforts of M. Brok, you have been awarded 10 additional points.## The Director
@@ -4521,15 +4521,15 @@ MDIRECTOR3_TITLE=Результати першого дня випробуван
 #These are the replies for Graff's first exam so make sure the replies are named exactly the same as the ones in TGPC10! Question 9 also needs to be the same name of the item sold in the pharmacy TPC04C.
 #Also some replies like colors must be appropriately translated - see global instructions.
 # NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff,##As stated during class today, you earned a total of <col=BOLD>{amountexam}</col> points during the exam.##{ranking0}##For the science fair, you were awarded <col=BOLD>{amountfair}</col> points for your invention{inventionremoved}.{additional}##{ranking}##The correct answers for the exam with some additional comments have been provided.##Question 1 - <col=BOLD>"Do nothing."</col> Tribots cannot crush citizens. They are built with strict safety protocols. No accident has ever been reported.##Question 2 - <col=BOLD>"11 and 24."</col> Increase by two for even figures, increase by four for odd ones.##Question 3 - <col=BOLD>"Son in law."</col> Family is crucial, thus you must be capable of understanding this logic quickly.##Question 4 - <col=BOLD>"NOTHING"</col> Try replacing.##Question 5 - <col=BOLD>"PU", "IN", or "MA"</col> They are the rainbow colors. RE = Red, OR = Orange... The last one should be Purple (Indigo and Magenta also accepted).##Question 6 - <col=BOLD>There is no good answer</col> but you must absolutely choose between the two options.#Please note that if your friend was specified as Drumer and the ten strangers as Slumers, the correct answer would have been to save your friend.##Question 7 - You will obviously inherit when you're a major at <col=BOLD>16</col>. The answer was in the front page rules so no excuse if you got this wrong.##Question 8 - <col=BOLD>3026 A.R.</col> We will celebrate the ten year anniversary very soon.##Question 9 - <col=BOLD>Youthgain</col>##The Director
-MDIRECTOR3_TEXT=Граффе, як було зазначено на сьогоднішньому занятті, загалом ти отримав <col=BOLD>{amountexam}</col> балів за іспит.##{ranking0}##За науковий ярмарок тобі було надано <col=BOLD>{amountfair}</col> балів за твій винахід. {additional}##{ranking}##Правильні відповіді на іспит з деякими додатковими коментарями надані. ##Питання 1 - <col=BOLD>"Нічого не робитиму."</col> Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося.##Питання 2 - <col=BOLD>"11 і 24."</col> Збільшуйте на два парні числа, непарні - на 4.##Питання 3 - <col=BOLD>"Зять."</col> Сім'я надзвичайно важлива, отже ти маєш бути здатним швидко зрозуміти цю логіку.##Питання 4 - <col=BOLD>"НІЧОГО"</col>.##Питання 5 - <col=BOLD>"ФІО"</col> Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий... Останнім має бути фіолетовий.##Питання 6 - <col=BOLD>Тут немає ідеальної відповіді</col>, але ти точно повинен обрати серед двох варіантів.#Будь ласка, зауваж, якщо б твій друг був зазначений як мешканець Верхів, а 10 незнайомців - як нетрівці, правильною відповіддю було б врятувати твого друга.##Питання 7 - Ти, очевидно, приймеш спадщину при досягненні <col=BOLD>16</col> років. Відповідь була на першій сторінці правил, тож не може бути жодних виправдань, якщо хтось відповів неправильно.##Питання 8 - <col=BOLD>3026 П.В.</col> Дуже скоро ми святкуватимемо десятиріччя.##Питання 9 - <col=BOLD>Молодин</col>##Директорка
+MDIRECTOR3_TEXT=Граффе, як було зазначено на сьогоднішньому занятті, загалом ти отримав <col=BOLD>{amountexam}</col> балів за іспит.##{ranking0}##За науковий ярмарок тобі було надано <col=BOLD>{amountfair}</col> балів за твій винахід. {additional}##{ranking}##Правильні відповіді на іспит з деякими додатковими коментарями надані. ##Питання 1 - <col=BOLD>"Нічого не робитиму."</col> Триботи не можуть зашкодити громадянам. Вони створені з дотриманням строгих протоколів безпеки. Про жоден нещасний випадок ніколи не повідомлялося.##Питання 2 - <col=BOLD>"11 і 24."</col> Збільшуйте на два парні числа, непарні - на 4.##Питання 3 - <col=BOLD>"Зять."</col> Сім'я надзвичайно важлива, отже ти маєш бути здатним швидко зрозуміти цю логіку.##Питання 4 - <col=BOLD>"НІЧОГО"</col>.##Питання 5 - <col=BOLD>"ФІО"</col> Це кольори веселки. ЧЕР = червоний, ПОМ = помаранчевий... Останнім має бути фіолетовий.##Питання 6 - <col=BOLD>Тут немає ідеальної відповіді</col>, але ти точно повинен обрати серед двох варіантів.#Будь ласка, зауваж, якщо б твій друг був зазначений як мешканець Верхів, а 10 незнайомців - як Нетрівці, правильною відповіддю було б врятувати твого друга.##Питання 7 - Ти, очевидно, приймеш спадщину при досягненні <col=BOLD>16</col> років. Відповідь була на першій сторінці правил, тож не може бути жодних виправдань, якщо хтось відповів неправильно.##Питання 8 - <col=BOLD>3026 П.В.</col> Дуже скоро ми святкуватимемо десятиріччя.##Питання 9 - <col=BOLD>Молодин</col>##Директорка
 
 
 ### - which unfortunately had to be removed due to the reasons you know
@@ -4550,7 +4550,7 @@ MDIRECTOR3_TEXT_CHEAT=Однак після додаткової перевір�
 ### Final scores
 MDIRECTOR4_TITLE=Підсумкові бали
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### Graff,##You obtained {amount} points during the last trial.##{ranking}## The Director
 MDIRECTOR4_TEXT=Граффе,##За останнє випробування ти набрав {amount} балів.##{ranking}## Директорка
@@ -4696,12 +4696,12 @@ GAMEOVERTYPE_PC01_HOOVER_DIEBY=Отримав удар струмом від п�
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Lost fight against Squealers to save the Tramp
 GAMEOVERTYPE_PC03_FIRSTFIGHTLOSE=Був переможений Верескунами, намагаючись врятувати волоцюгу
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Killed by Tribot cop guard
 GAMEOVERTYPE_PC04_ROBOT_FIGHT=Убитий триботом-копом
 
@@ -4721,7 +4721,7 @@ GAMEOVERTYPE_PC12B_TRIBOT=Убитий триботами в піраміді
 ### First Squealers encounter in sewers
 GAMEOVERTYPE_PC05B_RATS_FIRST=Перша зустріч з Верескунами у каналізації
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### First fight with the chief
 GAMEOVERTYPE_PC05B_CHIEFRAT_FIRST=Перший бій з шефом
 
@@ -4798,12 +4798,12 @@ GAMEOVERTYPE_BM02_GAMEOVER=Під час нічного бою у віртуал
 ### Refused to give up
 GAMEOVERTYPE_BM02_DEE_NOGIVEUP=Відмовився здаватися
 
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### Couldn't save the merchant
 GAMEOVERTYPE_GPC06_DRONE_GAMEOVER=Не зміг врятувати крамарку
 
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Graff killed the Tramp
 GAMEOVERTYPE_GPC03_TRAMP_DEAD=Графф вбив волоцюгу
 
@@ -4812,7 +4812,7 @@ GAMEOVERTYPE_GPC03_TRAMP_DEAD=Графф вбив волоцюгу
 ### Fell into hole in dark alley
 GAMEOVERTYPE_PC14_FLOOR_HOLE=Впав у діру в нічному провулку
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Lose against R.J. in front of Hacker's
 GAMEOVERTYPE_PC14B_RJ=Переможений Р. Джеєм біля входу в лігво Гакера
@@ -4828,7 +4828,7 @@ GAMEOVERTYPE_PC03_STORY175_DRONES=Несплата рахунків - це бо�
 ### Ott surprises Brok
 GAMEOVERTYPE_PC09C_OTTJAIL=Отт здивував Брока
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker's security wins
 GAMEOVERTYPE_PC14C_HACKERFIGHT=Переможений охоронною системою Гакера
 
@@ -4844,7 +4844,7 @@ GAMEOVERTYPE_GPC02_APARTMENT_LASERS=Наполягав на тому, щоб в�
 ### Insisted to enter jail
 GAMEOVERTYPE_PC09_POLICE_LASERS=Наполягав на тому, щоб потрапити у в'язницю
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Hit the Director
 GAMEOVERTYPE_PC10_DIRECTOR_HIT=Вдарив директорку
 
@@ -4858,7 +4858,7 @@ GAMEOVERTYPE_PC16_TRIBOTS=Переможений триботами під ча�
 ### Fell from highway in front of Ott
 GAMEOVERTYPE_PC15_FLOOR_HOLE=Впав з автостради перед Оттом
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### Ran over by an Aircar
 GAMEOVERTYPE_PC15_JET=Збитий аеромобілем
 
@@ -4875,11 +4875,11 @@ GAMEOVERTYPE_PC15_BIKE=Байк вибухнув
 ### Refused to give up
 GAMEOVERTYPE_BM02_RJ_NOGIVEUP=Відмовився здаватися
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Sent back to jail by the guard
 GAMEOVERTYPE_CPC15_JAIL=Повернений до в'язниці охоронцем
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Lose fight against the guard
 GAMEOVERTYPE_CPC15_GUARDFIGHT=Переможений у битві з охоронцем
 
@@ -4895,11 +4895,11 @@ GAMEOVERTYPE_GPC19B_BUTTON=Отримав удар струмом під час 
 ### Brok hits Graff in his bedroom
 GAMEOVERTYPE_PC01_DAY2END_GRAFFKO=Брок вдарив Граффа в його кімнаті
 
-# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+# NB: Lexicon word in Ukrainian for "Hoverbike": "аероцикл"
 ### Hoverbike chase
 GAMEOVERTYPE_SP01_TRIBOT=Переслідування на аероциклі
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Lose fight against the guard
 GAMEOVERTYPE_PC15D_GUARDCHARGE_LOSE=Переможений у битві з охоронцем
 
@@ -4958,7 +4958,7 @@ GAMEOVERTYPE_GPC14_GRAFF_LOSE=Графф не піддався викраден�
 ### Hitting Ott
 GAMEOVERTYPE_CH6_GRAFF_HIT_OTT=Вдарив Отта
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hitting the hacker
 GAMEOVERTYPE_GPC14C_HACKERHIT=Вдарив Гакера
 
@@ -4970,7 +4970,7 @@ GAMEOVERTYPE_PC20_WES_HIT=Вдарив Веса до бою
 ### The Tribots wave after losing the puzzle
 GAMEOVERTYPE_PC19D_TRIBOTSWAVE=Хвиля триботів після провальної головоломки
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Killing Dr. Gherkin
 GAMEOVERTYPE_PC19B_GHERKIN_DEAD=Вбив доктора Геркіна
 
@@ -5067,8 +5067,8 @@ GAMEOVER_THROW_ITEMS=Ви можете кидати предмети з інве
 ### Squealers aren't very strong, but they attack in groups. Don't let them surround you!
 GAMEOVER_RAT=Верескуни не надто сильні, але вони нападають групами. Не дайте їм оточити вас!
 
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Use energy drinks to make you temporarily stronger! This can help break the guard of your strongest opponents.
 GAMEOVER_ENERGYDRINK=Вживайте енергетичні напої, щоб тимчасово стати сильнішим! Це допоможе прорвати захист навіть найсильніших супротивників.
 
@@ -5150,7 +5150,7 @@ GAMEOVER_PC07B_SIN_MOUSE=Натискайте <button=INPUT_ACTION_GUARD>, що�
 ### Press <button=INPUT_ACTION_GUARD> to avoid taking damage from the glasses!
 GAMEOVER_PC07B_SIN_GAMEPAD=Натискайте <button=INPUT_ACTION_GUARD>, щоб уникнути отримання шкоди від склянок!
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold the guard button to avoid taking damage from the glasses!
 GAMEOVER_PC07B_SIN_TOUCH=Утримуйте кнопку захисту, щоб уникнути шкоди від склянок!
 
@@ -5181,11 +5181,11 @@ GAMEOVER_PC20_INTERROGATIONFAIL=Не поспішайте і спробуйте 
 
 
 #----- Specific to characters --------
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief is vulnerable after his special attack. Wait for that opening!
 GAMEOVER_CHIEFRAT1=Після виконання своєї спеціальної атаки шеф стає вразливим. Дочекайтеся цього моменту!
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief can steal your food. Restore your health when he's busy or exhausted!
 GAMEOVER_CHIEFRAT2=Шеф може вкрасти вашу їжу. Відновлюйте своє здоров'я, коли він зайнятий або виснажений!
 
@@ -5215,7 +5215,7 @@ GAMEOVER_DRONE2=Пульт керування ефективно боретьс�
 ### Military bots are vulnerable from their back.
 GAMEOVER_MILITARY1=Військові роботи вразливі для ударів у спину.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Powerful attacks can break a military bot's guard, but it's more efficient to hit them from behind.
 GAMEOVER_MILITARY2=Потужні атаки можуть прорвати захист військового бота, але ефективніше атакувати його зі спини.
 
@@ -5252,7 +5252,7 @@ GAMEOVER_TIDY1=Коли Тайді починає виконувати свій 
 ### Dee is very fast, so study her movement patterns to anticipate her attacks.
 GAMEOVER_DEE1=Ді дуже швидка, тому вивчіть її рухи, щоб передбачати атаки.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard's shield can be destroyed by your attacks. Keep mashing and don't let him make another one!
 GAMEOVER_GUARD1=Щит охоронця можна знищити своїми атаками. Продовжуйте завдавати ударів і не дайте йому створити ще один!
 
@@ -5277,7 +5277,7 @@ GAMEOVER_HUGEBOT2=Величезний бот атакує залежно від
 ### Sector 56X
 CLUETYPE_SECTOR56X=Сектор 56X
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street
 CLUETYPE_DRUMERSTREET=Вулиця на Верхах
 
@@ -5288,7 +5288,7 @@ CLUETYPE_SEWERS=Каналізація
 ### Slums
 CLUETYPE_SLUMS=Нетрі
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker alley
 CLUETYPE_ALLEY=Гакерський провулок
 
@@ -5303,7 +5303,7 @@ CLUETYPE_TRIANGLE=Трикутник
 ### Police department
 CLUETYPE_POLICE=Відділок поліції
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush
 CLUETYPE_HUSH=Д-р Гаш
 
@@ -5331,8 +5331,8 @@ CLUETYPE_SPECIAL=Спеціальна атака
 ### Sin is a really stressed out client
 CLUE_SIN_STRESSED=Сін - дуже знервований клієнт
 
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### Autarchism Day shaped the current society
 CLUE_DRUMERSTREET_STATUE=День Аутархізму сформував сучасне суспільство
 
@@ -5399,8 +5399,8 @@ CLUE_DRUMERSTREET_CAMERAOFF=Камера в аптеці була відключ
 ### Pharmacy drawer has been forced open
 CLUE_DRUMERSTREET_DRAWERFORCED=Шухляду в аптеці було зламано
 
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumers society is based on semblance
 CLUE_DRUMERSTREET_SEMBLANCE=Суспільство мешканців Верхів ґрунтується на подібності.
 
@@ -5426,24 +5426,24 @@ CLUE_OTT_HYBRID=Отт належить до гібридів, що є вели�
 #Day 2 case BEFORE
 #---------------------
 #Dr. Hush room
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's life tracking stopped around 5:00
 CLUE_HUSH_TRACKING=Відстеження життя доктора Гаша припинилося о 5:00
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush is obsessive with tidiness and order
 CLUE_HUSH_MANIAC=Доктор Гаш одержимий чистотою та порядком
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush last used his tablet at 4:45
 CLUE_HUSH_LASTLOGIN=Доктор Гаш востаннє користувався своїм планшетом о 4:45
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was last recorded leaving his room at 5:04
 CLUE_HUSH_LEFT=Останній раз доктора Гаша було зафіксовано, коли він виходив зі своєї кімнати о 5:04
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Hush : "I need to settle things with Dr. Mink"
 CLUE_HUSH_RECORDING=Доктор Гаш: "Мені треба владнати справи з доктором Мінком"
 
@@ -5459,33 +5459,33 @@ CLUE_TIDY_STRETCH=Тайді може витягувати руки вертик
 ### Tidy cannot attack his creator due to the golden rule
 CLUE_TIDY_NOKILLCREATOR=Золоте правило забороняє Тайді атакувати свого творця
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Crumbs on the ramp in Dr. Hush's room
 CLUE_LAB_CRUMBS=Крихти на пандусі в кімнаті доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Coffee stain on the floor in Dr. Hush's room
 CLUE_LAB_FLOORCOFFEE=Пляма від кави на підлозі в кімнаті доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Nanites on the coffee stain in Dr. Hush's room
 CLUE_LAB_FLOORCOFFEE2=Наніти на кавовій плямі в кімнаті доктора Гаша
 
 
 #Dr. Mink room
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Black stain on Dr. Hush's hands
 CLUE_HUSH_BLACKSTAINS=Чорна пляма на руках доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Lamp right next to Dr. Hush's body
 CLUE_HUSH_LAMPNEXT=Лампа, знайдена поруч із тілом доктора Гаша
 
 ### Red stain on the lamp next to the body
 CLUE_HUSH_LAMPBLOOD=Червона пляма на лампі поруч із тілом
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Hush never came to Dr. Mink's room today
 CLUE_HUSH_NEVERCOME=Доктор Гаш сьогодні жодного разу не заходив до кімнати доктора Мінка
 
@@ -5494,11 +5494,11 @@ CLUE_HUSH_NEVERCOME=Доктор Гаш сьогодні жодного разу
 CLUE_HUSH_MAGIC=Тіло "магічним чином" з'явилося, щойно Брок зайшов до кімнати
 
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Acid solutions on Dr. Mink's workbench
 CLUE_MINK_ACID=Розчини кислот на робочому столі доктора Мінка
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink listened to "TechDream" music at 11:00
 CLUE_MINK_MUSIC=Доктор Мінк слухав музику "ТехноМрія" об 11:00
 
@@ -5506,28 +5506,28 @@ CLUE_MINK_MUSIC=Доктор Мінк слухав музику "ТехноМр�
 CLUE_MINK_BUDGET=Бюджет на нанотехнології було скорочено
 
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy cannot open Dr. Mink's door
 CLUE_TIDY_DRMINKROOM=Тайді не може відчинити двері доктора Мінка
 
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink's room column is 10 feet high
 CLUE_LAB_COLUMN=Висота колони в кімнаті доктора Мінка становить 3,5 метра
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Red stain under Dr. Mink's bed
 CLUE_LAB_STAIN=Червона пляма під ліжком доктора Мінка
 
 
 #Restroom
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Antburger "extra Tomatoze sauce" wrapping in restroom trash
 CLUE_LAB_WRAPPING=Обгортка від мурахобургера з "додатковим соусом томатози" у смітнику в туалеті
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink was drinking coffee from 4:40 to 5:04
 CLUE_MINK_COFFEE=Доктор Мінк пив каву з 4:40 до 5:04
 
@@ -5541,17 +5541,17 @@ CLUE_HUSH_TENSE=Контакти між докторами останнім ча
 CLUE_TIDY_CONSCIOUSNESS=Під час заряджання Тайді проходить через різні стадії свідомості
 
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard checks the rooms regularly
 CLUE_GUARD_CHECK=Охоронець регулярно перевіряє кімнати
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard doesn't like being reminded he's a Squealer
 CLUE_GUARD_SQUEALER=Охоронець не любить, коли йому нагадують, що він Верескун
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's blood stains are fake
 CLUE_HUSH_FAKEBLOOD=Плями крові доктора Гаша - фальшиві
 
@@ -5561,7 +5561,7 @@ CLUE_HUSH_FAKEBLOOD=Плями крові доктора Гаша - фальши
 #---------------------
 
 #Dr. Hush room
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush designed a ramp for Tidy to access the workbench
 CLUE_LAB_RAMP=Доктор Гаш сконструював пандус, щоб Тайді міг піднятися на робочий стіл
@@ -5569,44 +5569,44 @@ CLUE_LAB_RAMP=Доктор Гаш сконструював пандус, щоб 
 ### Fake wall between the scientists' rooms
 CLUE_LAB_FAKEWALL=Фальшива стіна між кімнатами науковців
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's tablet transferred AI data at 4:45
 CLUE_HUSH_DATATRANSFER=Планшет доктора Гаша передав дані ШІ о 4:45
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Nanites on Dr. Hush's hand
 CLUE_HUSH_NANITES=Наніти на руці доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush likes getting naked
 CLUE_HUSH_NAKED=Доктор Гаш любить роздягатися
 
 
 #Restroom
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
 ### The Meety-me has a recording of Dr. Hush voice
 CLUE_LAB_MEETYME=Голограф записав голос доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink's daily Antburger was already unfrozen
 CLUE_MINK_BURGERUNFROZEN=Щоденний мурахобургер доктора Мінка вже був розморожений
 
 ### Nanites and a flower in the restroom sink
 CLUE_LAB_SINKNANITES=Наніти та квітка в умивальнику вбиральні
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush always drinks his coffee in the restroom
 CLUE_HUSH_COFFEE=Доктор Гаш завжди п'є каву у вбиральні
 
 
 #Dr. Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### The lamp in Dr. Hush's room had a fatal shock at 5:10
 CLUE_MINK_LAMP=Лампа в кімнаті доктора Гаша зазнала фатального удару о 5:10
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush takes Accel 500 which boosts body activity
 CLUE_HUSH_ACCEL500=Доктор Гаш приймає препарат Аксель-500, який підвищує активність організму
 
@@ -5616,37 +5616,37 @@ CLUE_LAB_PLANTNANITES=Змішування квіток Фенікса з нан
 ### The lamp next to the body received a shock at 11:02
 CLUE_HUSH_LAMP=Лампа поруч із тілом зазнала удару об 11:02
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### The lamp in Dr. Mink's room belongs to Dr. Hush
 CLUE_LAB_WRONGLAMP=Лампа в кімнаті доктора Мінка належить докторові Гашу
 
 
 #Guard and others
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Only the guard can access the door footage
 CLUE_GUARD_MONITORING=Лише охоронець має доступ до моніторингу дверей
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard took his shift at 3:00
 CLUE_GUARD_SHIFT=Охоронець вийшов на чергування о 3:00
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard entered the lab at 4:38
 CLUE_LAB_MAINENTRANCE=Охоронець увійшов до лабораторії о 4:38
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard opened Dr. Hush's room at 5:10
 CLUE_GUARD_DRHUSHROOM=Охоронець відчинив кімнату доктора Гаша о 5:10
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush and Tidy never opened Dr. Mink's door
 CLUE_HUSH_MINKDOOR=Доктор Гаш і Тайді жодного разу не відчиняли двері доктора Мінка
 
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Tomatoze sauce in the ventilation system
 CLUE_LAB_TOMATOVENTILATION=Томатозний соус у вентиляційній системі
 
@@ -5654,58 +5654,58 @@ CLUE_LAB_TOMATOVENTILATION=Томатозний соус у вентиляцій
 ### Tidy was last recorded entering the restroom at 4:24
 CLUE_TIDY_LASTROOM=Востаннє Тайді бачили, коли він заходив до вбиральні о 4:24
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The call that distracted the guard played "TechDream"
 CLUE_GUARD_MUSIC=У дзвінку, який відволік увагу охоронця, звучала музика "ТехноМрія"
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### At 5:10 the guard only checked Dr. Hush's room
 CLUE_HUSH_ONLYCHECK=О 5:10 охоронець перевірив лише кімнату доктора Гаша
 
 
 #Deductions
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard looked away at 4:38 for a minute
 CLUE_GUARD_AWAY=О 4:38 охоронець на хвилину відвернув погляд
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### According to footage, the guard exited at 4:38 without coming back
 CLUE_GUARD_NOTBACK=Судячи з моніторингових записів, охоронець вийшов о 4:38 і більше не повертався
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard heard a noise in Dr. Hush room at 5:10
 CLUE_GUARD_NOISE=О 5:10 охоронець почув шум у кімнаті доктора Гаша
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was neither in his room nor the hall at 5:10
 CLUE_HUSH_GONE1=О 5:10 доктора Гаша не було ні в його кімнаті, ні в коридорі
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush wasn't in the hall, his office or the restroom at 5:10
 CLUE_HUSH_GONE2=О 5:10 доктора Гаша не було ні в коридорі, ні в його кімнаті, ні у вбиральні
 
 # NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard was fooled by the Meety-me voice
 CLUE_GUARD_NOTWORRIED=Охоронець був ошуканий записом Голографа.
 
 
 #Deductions Tidy big explanation
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's death was staged with Antburger sauce
 CLUE_MURDER_DEATHSTAGED=Смерть доктора Гаша була інсценована з використанням соусу від мурахобургера
 
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### The burger was unfrozen to use the Tomatoze sauce
 CLUE_MURDER_BURGERUNFROZEN=Бургер розморозили, щоб додати томатозний соус
 
 ### The lamp is not the murder weapon
 CLUE_MURDER_WEAPON=Лампа не є знаряддям вбивства
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was murdered with poisonous nanites
 CLUE_MURDER_TRUECAUSE=Доктора Гаша вбили за допомогою отруйних нанітів
 
@@ -5723,15 +5723,15 @@ CLUE_MURDER_ACCESSNANITES=Тайді міг отримати доступ до �
 ### Tidy may be lying about his timing
 CLUE_MURDER_TIDYWRONG=Тайді, можливо, бреше про час своїх дій
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was nowhere to be found at 5:10
 CLUE_MURDER_DRHUSHWHERE=О 5:10 доктора Гаша ніде не було видно
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's body was in the ventilation system at 5:10
 CLUE_MURDER_VENTILATION=О 5:10 тіло доктора Гаша перебувало у вентиляційній системі
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was poisoned in the restroom
 CLUE_MURDER_WHEREPOISONED=Доктора Гаша отруїли у вбиральні
 
@@ -5739,16 +5739,16 @@ CLUE_MURDER_WHEREPOISONED=Доктора Гаша отруїли у вбирал
 ### Tidy carried Dr hush's body from restroom to his office
 CLUE_MURDER_CARRY=Тайді переніс тіло доктора Гаша зі вбиральні до його кабінету
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush died between 4:24 and 4:38
 CLUE_MURDER_TIMEOFDEATH=Доктор Гаш помер у проміжку часу між 4:24 і 4:38
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy put Dr. Hush into the vent by stretching its arms
 CLUE_MURDER_STRETCH=Тайді помістив доктора Гаша у вентиляцію, витягнувши руки
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy climbed onto the ramp to put Dr. Hush into the vent
 CLUE_MURDER_RAMP=Тайді піднявся на пандус, щоб помістити доктора Гаша у вентиляцію
@@ -5757,28 +5757,28 @@ CLUE_MURDER_RAMP=Тайді піднявся на пандус, щоб помі�
 ### Tidy crushed some biscuits while climbing on the ramp
 CLUE_MURDER_CRUMBS=Тайді розкришив печиво, піднімаючись пандусом
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy pushed the body along with Dr. Mink's lamp
 CLUE_MURDER_LAMPPUSH=Тайді штовхнув тіло разом із лампою доктора Мінка
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink's lamp indicates it was pushed at 5:02 but...
 CLUE_MURDER_LAMPHUSH=Лампа доктора Мінка показує, що її штовхнули о 5:02, але...
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy took Dr. Mink's lamp through the hole
 CLUE_MURDER_TAKELAMP=Тайді просунув лампу доктора Мінка крізь отвір у стіні
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink's lamp is odd
 CLUE_MURDER_LAMPOFF=Лампа доктора Мінка якась дивна
 
 ### The body fell from the vent at 11:02
 CLUE_MURDER_BODYFALL=Тіло випало з вентиляції об 11:02
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink didn't hear the body fall due to the music playing
 CLUE_MURDER_BODYMUSIC=Доктор Мінк не почув падіння тіла, оскільки в нього грала музика
 
@@ -5786,7 +5786,7 @@ CLUE_MURDER_BODYMUSIC=Доктор Мінк не почув падіння ті�
 ### Tidy awakened and pushed while still connected to power socket
 CLUE_MURDER_AWAKEN=Тайді прокинувся і штовхав, залишаючись підключеним до розетки
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush is alive thanks to his Accel500 pills
 CLUE_MURDER_ALIVE=Доктор Гаш живий завдяки пігулкам Аксель-500
 
@@ -5797,47 +5797,47 @@ CLUE_MURDER_MOTIVE=Тайді зробив це через старе дефек
 
 
 #Charge Hush deductions
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Hush needed to get into Dr. Mink's room
 CLUE_HUSH_NEEDROOM=Доктору Гашу потрібно було потрапити до кімнати доктора Мінка
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Hush wanted to kill Dr. Mink
 CLUE_HUSH_KILLMINK=Доктор Гаш хотів убити доктора Мінка
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was in the vent
 CLUE_HUSH_INVENT=Доктор Гаш перебував у вентиляції
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush asked Tidy to make him climb through the trap
 CLUE_HUSH_TRAP=Доктор Гаш попросив Тайді допомогти йому пролізти через люк
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink was listening to music while Dr. Hush fell
 CLUE_HUSH_HEAR=Доктор Мінк слухав музику, коли доктор Гаш впав
 
 
 
 #Charge Guard deductions
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard staged the crime scene with burger sauce
 CLUE_GUARD_STAGED=Охоронець інсценував місце злочину, використавши соус для бургерів
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's corpse was put under the bed to hide it
 CLUE_GUARD_BED=Тіло доктора Гаша сховали під ліжком, щоб його не було видно
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The footage was tampered with by the guard
 CLUE_GUARD_MONITORING2=Охоронець підробив записи моніторингу
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### He killed Dr. Hush to sell high technology to Squealers
 CLUE_GUARD_MOTIVE=Він убив доктора Гаша, щоб продати передові технології Верескунам
@@ -5846,15 +5846,15 @@ CLUE_GUARD_MOTIVE=Він убив доктора Гаша, щоб продати
 
 
 #Useless ones
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush had strange behavior lately. Enough to commit suicide?
 CLUE_HUSH_SUICIDE=Доктор Гаш останнім часом поводився дивно. Але чи справді він наклав на себе руки?
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Only the guard inspects the trash
 CLUE_GUARD_INSPECTTRASH=Сміття перевіряє лише охоронець
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush received incomplete bot firmware data made by an unknown scientist
 CLUE_HUSH_FIRMWARESENT=Доктор Гаш отримав неповні дані про прошивку бота, створені невідомим науковцем
 
@@ -5864,12 +5864,12 @@ CLUE_HUSH_FIRMWARESENT=Доктор Гаш отримав неповні дан�
 # Day 3 Interrogate Dee
 #-------------------------
 #Here we don't know the Journalist is female
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### A journalist has called Dr. Gherkin with a secret identity
 CLUE_GHERKIN_DEECALL=Журналіст зателефонував докторові Геркіну, приховавши свою особу
 
 #Here we know it
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Warning messages about Dr. Gherkin from an unknown journalist
 CLUE_SENDER_JOURNALIST=Попереджувальні повідомлення про доктора Геркіна від невідомої журналістки
 
@@ -5892,12 +5892,12 @@ CLUE_SENDER_RESEARCHPOLLUTION=Відправник повідомлення пр
 ### Government has total control over all forms of media
 CLUE_SECTOR56X_GOVERNMENT=Уряд має повний контроль над усіма видами ЗМІ
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin said he's "part of"... something
 CLUE_GHERKIN_PARTOF=Доктор Геркін сказав, що він є "частиною"... чогось
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee is journalist and warned me about Dr. Gherkin
 CLUE_DEE_GHERKINWARN=Ді - журналістка, і вона попередила мене про доктора Геркіна
@@ -5907,12 +5907,12 @@ CLUE_DEE_GHERKINWARN=Ді - журналістка, і вона попереди
 ### Dee is worried about her husband Sin
 CLUE_DEE_WORRIEDSIN=Ді переймається через свого чоловіка Сіна
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee suspects Dr. Gherkin is a threat
 CLUE_DEE_GHERKINTHREAT=Ді підозрює, що доктор Геркін становить загрозу
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Is Dr. Gherkin part of the Government?!
 CLUE_DEE_GHERKINGOVERNMENT=Доктор Геркін є частиною Уряду?!
 
@@ -5926,12 +5926,12 @@ CLUE_DEE_GHERKINGOVERNMENT=Доктор Геркін є частиною Уря�
 ### The Tribots are exclusively attacking Brok
 CLUE_BROK_BOTS=Триботи атакують виключно Брока
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### The Tribots are exclusively attacking Dr. Gherkin
 CLUE_GHERKIN_BROKBOTS_ALT=Триботи атакують виключно доктора Геркіна
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Dr. Gherkin noticed a change in the Tribots behavior this morning
 CLUE_GHERKIN_BOTS=Сьогодні вранці доктор Геркін помітив зміни в поведінці Триботів
@@ -5941,7 +5941,7 @@ CLUE_GHERKIN_BOTS=Сьогодні вранці доктор Геркін пом
 CLUE_TRIBOT_FIRMWARE=Уряд контролює оновлення Триботів
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### Dr. Gherkin's mission is to fix the Pipe-Pills
 CLUE_GHERKIN_FIXES=Місія доктора Геркіна полягає в тому, щоб полагодити Пігулкомати
@@ -5950,13 +5950,13 @@ CLUE_GHERKIN_FIXES=Місія доктора Геркіна полягає в т
 ### The fixed Pipe-Pills still don't work
 CLUE_PILL_NOTWORK=Виправлені Пігулкомати досі не працюють
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
 ### Only Dr. Gherkin knows the signature required for the Pipe-Pills to work
 CLUE_GHERKIN_SIGNATURE=Лише доктор Геркін знає підпис, необхідний для роботи Пігулкоматів
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin is a member of the Government
 CLUE_GHERKIN_GHERKINGOVERNMENT2=Доктор Геркін є членом Уряду
 
@@ -5965,7 +5965,7 @@ CLUE_GHERKIN_GHERKINGOVERNMENT2=Доктор Геркін є членом Уря
 CLUE_SECTOR56X_TRIANGLE=Уряд також називають Трикутником
 
 # NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin is one of the three members of the Triangle
 CLUE_GHERKIN_TRIANGLE=Доктор Геркін є одним із трьох членів Трикутника
 
@@ -5986,7 +5986,7 @@ CLUE_TRIANGLE_DISAPPROVE=Достатньо одного члена Трикут
 CLUE_TRIANGLE_TRIBOTSUPDATE=Член Трикутника нацькував Триботів на Брока.
 
 # NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### A member of the Triangle sent the Tribots after Dr. Gherkin
 CLUE_TRIANGLE_TRIBOTSUPDATALT=Член Трикутника нацькував Триботів на доктора Геркіна
@@ -6004,7 +6004,7 @@ CLUE_TRIANGLE_DEELIFE=Один із членів Трикутника зруйн
 CLUE_DEE_CRIMINALSDISAPPEAR=Усе більше ув'язнених зникають
 
 # NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### All prisoners are killed by the Triangle despite Dr. Gherkin's votes
 CLUE_GHERKIN_PRISONERSKILLED=Незважаючи на голоси доктора Геркіна, Трикутник вбиває всіх в'язнів
 
@@ -6059,17 +6059,17 @@ CLUE_WES_MENTALISSUES=У Веса є психічні проблеми
 ### Wes was the investigator on Lia's case 5 years ago
 CLUE_WES_INVESTIGATOR=5 років тому Вес був слідчим у справі Лії
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### A police investigator had an Aircar accident 5 years ago
 CLUE_POLICE_CARACCIDENT=5 років тому слідчий поліції зазнав аварії на аеромобілі
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes survived a serious Aircar accident 5 years ago
 CLUE_WES_ACCIDENT=5 років тому Вес вижив після серйозної аварії на аеромобілі
 
 
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Wes developed mental problems after his Aircar accident
 CLUE_WES_CARMENTAL=У Веса виникли психічні проблеми після аварії на аеромобілі
@@ -6079,7 +6079,7 @@ CLUE_WES_CARMENTAL=У Веса виникли психічні проблеми 
 ### Incomprehensible drawings in Wes' office
 CLUE_POLICE_WEIRDRAWINGS=Незрозумілі малюнки в кабінеті Веса
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief of police suddenly stopped drawing identikits
 CLUE_POLICE_NOTE=Шеф поліції раптово припинив складати фотороботи
 
@@ -6116,7 +6116,7 @@ CLUE_POLICE_OLDMODEL=Бот старої моделі нещодавно під�
 ### An experimental bot is controlling Wes to do its wrong doings?
 CLUE_POLICE_WESBOT=Експериментальний бот контролює Веса, щоб той виконував за нього брудну роботу?
 
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### I've already met another bot even more advanced than the Director
 CLUE_DIRECTOR_ANOTHER=Я вже зустрічав іншого бота, який виявився ще досконалішим за директорку
 
@@ -6343,7 +6343,7 @@ ACHIEVE_HEALTHCHECKUP=Ваші дні полічені
 ### Hard To Wake Up
 ACHIEVE_WAKEUPHUSH=Важко прокинутися
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp Saver
 ACHIEVE_TRAMPSAVER=Рятівник волоцюги
 
@@ -6420,7 +6420,7 @@ ITEM_PACIFIST_MSG=Почніть гру спочатку та дістаньте
 ### Keep pushing characters around in the laboratory
 ITEM_PUSHY_MSG=Штовхайте персонажів у лабораторії
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Drink the water from Dr Mink’s sink several times
 ITEM_CHIPMUNK_MSG=Кілька разів випийте воду з умивальника доктора Мінка
 
@@ -6440,7 +6440,7 @@ ITEM_HEALTHCHECKUP_MSG=Оцініть стан здоров'я Брока в а�
 ### Wake up a key character by jumping on them several times
 ITEM_WAKEUPHUSH_MSG=Розбудіть ключового персонажа, стрибнувши на нього кілька разів
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Keep the Tramp alive for the whole game
 ITEM_TRAMPSAVER_MSG=Збережіть волоцюгу живим протягом усієї гри
 
@@ -6649,12 +6649,12 @@ INPUT_ACTION_ACCESSIBILITY_REPEAT_DIALOGUE=Доступність - Повтор
 ### Basic combat
 HELP_BLINDCOMBAT=Основи бою
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### To move Brok around during fights, press <spr=GAMEPAD_DPAD> or <spr=GAMEPAD_STICKLEFT>.##To attack, press <button=INPUT_ACTION_HIT>.#To guard, hold <button=INPUT_ACTION_GUARD>.
 HELP_BLINDCOMBAT_INSTRUCTIONS_GAMEPAD=Щоб переміщати Брока під час бою, натискайте <spr=GAMEPAD_DPAD> або <spr=GAMEPAD_STICKLEFT>.##Щоб атакувати, натисніть <button=INPUT_ACTION_HIT>.#Щоб захищатися, утримуйте <button=INPUT_ACTION_GUARD>.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### To move Brok around during fights, press <button=INPUT_MOVE_UP><button=INPUT_MOVE_LEFT><button=INPUT_MOVE_DOWN><button=INPUT_MOVE_RIGHT> or <spr=CONTROL_dkeys>.##To attack, press <button=INPUT_ACTION_HIT> or <spr=CONTROL_mouseleft>.##To guard, hold <button=INPUT_ACTION_GUARD>.
 HELP_BLINDCOMBAT_INSTRUCTIONS_MOUSE=Щоб переміщати Брока під час бою, натискайте <button=INPUT_MOVE_UP><button=INPUT_MOVE_LEFT><button=INPUT_MOVE_DOWN><button=INPUT_MOVE_RIGHT> або <spr=CONTROL_dkeys>.##Щоб атакувати, натисніть <button=INPUT_ACTION_HIT> або <spr=CONTROL_mouseleft>.##Щоб захищатися, утримуйте <button=INPUT_ACTION_GUARD>.
@@ -7501,11 +7501,11 @@ BM01_SUBTITLE_TUTORIAL3_TOUCH=Під час бою <button=INPUT_TOUCH_TAP> на
 BM01_SUBTITLE_TUTORIAL3_VIRTUAL=Під час бою <button=INPUT_TOUCH_TAP> натисніть на іконку у правому верхньому куті, щоб відкрити меню. Беріть свою палицю та атакуйте!
 
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold two fingers on the screen <button=INPUT_TOUCH_TWOFINGERHOLD> to guard. Swipe with two fingers in the direction you want to dodge <button=INPUT_TOUCH_TWOFINGERSWIPE>
 BM01_SUBTITLE_TUTORIAL4_TOUCH=Утримуйте два пальці на екрані <button=INPUT_TOUCH_TWOFINGERHOLD> для захисту. Проведіть двома пальцями в напрямку, куди потрібно ухилитися <button=INPUT_TOUCH_TWOFINGERSWIPE>
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold the guard button <button=INPUT_ACTION_GUARD> and press the stick <spr=GAMEPAD_STICKLEFT> in the direction you want to dodge.
 BM01_SUBTITLE_TUTORIAL4_VIRTUAL=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та відхиліть джойстик <spr=GAMEPAD_STICKLEFT> у напрямку, в якому ви хочете ухилитися.
 
@@ -7660,7 +7660,7 @@ DLC_CH6_DESCRIPTION_NOTOWNED=Розблокуйте фінальний розд�
 ### The Brawl Bar
 DLC_BRAWLBAR=The Brawl Bar
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You have access to The Brawl Bar DLC. With any save file, go to the Hacker Street and access the leftmost door which had the banner "Grand opening soon"
 DLC_BRAWLBAR_DESCRIPTION_OWNED=Ви маєте доступ до доповнення The Brawl Bar (Бійцівський бар). З будь-яким файлом збереження перейдіть на провулок гакера та увійдіть у двері зліва з банером "Незабаром урочисте відкриття"
 
@@ -8215,7 +8215,7 @@ DLC_FIRSTHAT_LAUNCH_DESC=Зайдіть у файли гри, увійдіть �
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Become the Chief of the Squealers and lead your people.
 ITEM_DLC_CELSIUS_MSG=Станьте Шефом Верескунів і поведіть свій народ.
 
@@ -8227,7 +8227,7 @@ DLC_CELSIUS_DESCRIPTION_OWNED=Ви володієте Celsius Strays.
 
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### "Banished. Hunted. Yet, we endure." In this spin-off, become the Chief of the Squealers and lead your people through a futuristic wasteland fraught with danger where every choice is about survival.
 DLC_CELSIUS_DESCRIPTION_NOTOWNED="Вигнані. Переслідувані. Але ми вистоїмо." У цій історії станьте Шефом Верескунів і поведіть свій народ крізь футуристичну пустку, сповнену небезпек, де кожен вибір - це питання виживання.
 
@@ -8935,13 +8935,13 @@ COMBINE_INV_CATFUR_DISGUISE-1=Я не намагаюся маскуватися 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's tablet is locked...
 COMBINE_INV_TABLETHUSH_ANALYZE-1=Планшет доктора Гаша заблоковано...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Maybe I could use Dr. Mink's tablet to analyze this instead?
 COMBINE_INV_TABLETHUSH_ANALYZE-2=Можливо, мені краще використати планшет доктора Мінка, щоб це проаналізувати?
 
@@ -9467,7 +9467,7 @@ DESCRIBE_INV_MINEBROKEN1-1=Здається, зламана. Сподіваюс�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Eww... Where does that rotten Pampalos smell come from?
 DESCRIBE_INV_MINEBROKEN1-2=Фуу... Звідки береться цей гнилий запах пампалоса?
 
@@ -9690,14 +9690,14 @@ DESCRIBE_INV_SPEAKER1-2=Він більше не видає звуків!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### That's the lamp I found next to the body in Dr. Mink's room.
 DESCRIBE_INV_LAMPMINK1-1=Це лампа, яку я знайшов поруч із тілом у кімнаті доктора Мінка.
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This one was on the shelf in Dr. Hush's room.
 DESCRIBE_INV_LAMPHUSH1-1=Ця лампа лежала на полиці в кімнаті доктора Гаша.
 

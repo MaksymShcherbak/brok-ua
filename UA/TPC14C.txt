@@ -112,7 +112,7 @@ PC14C_FIRST_BEATEN1-5=Тебе тут не повинно бути!
 
 
 # Hacker
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### How did you get past the guard?!
 PC14C_FIRST_BEATEN1-6=Як ти пройшов повз охоронця?!
 
@@ -204,7 +204,7 @@ PC14C_FIRST1-5=Тебе тут не повинно бути!
 
 
 # Hacker
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard let you enter?!
 PC14C_FIRST1-6=Охоронець пропустив тебе?!
 
@@ -236,7 +236,7 @@ PC14C_FIRST1-11=Га?!
 
 #----------------------------------------------------
 # Hacker - Flashback - the hacker explains the job to R.J.
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### ...so that's your job. You stay here and guard the door.
 PC14C_FIRST2-1=...тож це твоя робота. Стій тут і охороняй двері.
 
@@ -1181,7 +1181,7 @@ PC14C_FIRST_GIVEUP1-1=(Зітхає) Я здаюся.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### I'll call the Director later.
 PC14C_FIRST_GIVEUP1-2=Я зателефоную директорці пізніше.
 
@@ -1758,7 +1758,7 @@ PC14C_HACKER_SEARCH1-8=У-ух!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Well he just confirmed it. Must be what the Director was looking for!
 PC14C_HACKER_SEARCH1-9=Ну, він сам це підтвердив. Це має бути те, що шукала директорка!
 
@@ -1792,7 +1792,7 @@ PC14C_HACKER_SEARCH2-1=Отримав, що хотів.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### (Better be on my guard... That guy's face screams "crook" all over.)
 PC14C_HACKER_THINK1-1=(Краще бути насторожі... Обличчя цього типа так і кричить "шахрай".)
 
@@ -1877,7 +1877,7 @@ PC14C_HACKER_INV_MONEY1-1=Ось усе, що в мене є... Бери.
 
 
 # Hacker
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Are you kidding?! I couldn't even buy an Antburger with that!
 PC14C_HACKER_INV_MONEY1-2=Ти жартуєш?! Я за це навіть мурахобургер не куплю!
 

@@ -33,7 +33,7 @@ PC19C_INIT1-3=Чому вона наполягла на тому, щоб піт�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### I Hope Dr. Gherkin is safe with her...
 PC19C_INIT1-4=Сподіваюся, доктор Геркін у безпеці з нею...
 

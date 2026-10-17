@@ -96,7 +96,7 @@ GPC14C_HACKER_FIRST2-1=Узагалі-то, ми прийшли до тебе.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You're a hacker, right?
 GPC14C_HACKER_FIRST2-2=Ти гакер, еге ж?
 
@@ -241,7 +241,7 @@ GPC14C_HACKER_FORBIDDEN-4=Ти ж хочеш, щоб я зробив свою р
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### My old man is a Drumer, which is forbidden.
 GPC14C_HACKER_FORBIDDEN-5=Мій старий виявився мешканцем Верхів, а це заборонено.
 
@@ -452,7 +452,7 @@ GPC14C_HACKER_BROK1B-12=Тримайся від нього подалі. Він 
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Says the even shadier hacker...
 GPC14C_HACKER_BROK1B-13=Каже ще більш підозрілий гакер...
 
@@ -1142,7 +1142,7 @@ GPC14C_HACKER_HIT3-1=Досить! Подивися, що ти наробив!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I was wrong. You don't deserve to be a Drumer.
 GPC14C_HACKER_HIT3-2=Я помилявся. Ти не заслуговуєш жити на Верхах.
 

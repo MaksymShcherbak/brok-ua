@@ -240,7 +240,7 @@ PC09_OFFICE_STORY190-1=Зачинено...
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Chief Wes. Does not receive. Anyone.
 PC09_OFFICE_STORY190-2=Шеф Вес. Не приймає. Нікого.
@@ -326,7 +326,7 @@ PC09_THESITUATION-4=Він вимагав, щоб ви залишалися ту
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### We always follow the chief's orders to a T!
 PC09_THESITUATION-5=Ми завжди виконуємо накази шефа з точністю до дрібниць!
 
@@ -347,7 +347,7 @@ PC09_THESITUATION-8=Ця інформація відповідає дійсно�
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### However, you do not have the required permissions to access the chief's office.
 PC09_THESITUATION-9=Утім, ви не маєте необхідних прав доступу до кабінету шефа.
 
@@ -476,7 +476,7 @@ PC09_BLINDBOT2-10=Ми були на техобслуговуванні, але 
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### This is no trouble at all! Our microphone is functioning properly, so we can hear the visitors' requests and the chief's orders.
 PC09_BLINDBOT2-11=Це зовсім не проблема! Наш мікрофон працює належним чином, тож ми можемо чути прохання відвідувачів і накази шефа.
 
@@ -498,7 +498,7 @@ PC09_BLINDBOT3-1=Тож... Як я можу потрапити до кабіне
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Only a direct order from the chief would allow you to enter.
 PC09_BLINDBOT3-2=Лише прямий наказ шефа дозволить вам увійти.
 
@@ -510,7 +510,7 @@ PC09_BLINDBOT3-3=Прямий наказ Веса...?
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Affirmative! We always follow the chief's orders to a T!
 PC09_BLINDBOT3-4=Підтверджуємо! Ми завжди виконуємо накази шефа з точністю до дрібниць!
 
@@ -578,7 +578,7 @@ PC09_BLINDBOT_OK-1=Перевіряємо...
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief's order is confirmed. The office is unlocked for you.
 PC09_BLINDBOT_OK-2=Наказ шефа підтверджено. Кабінет відчинено для вас.
 
@@ -615,7 +615,7 @@ PC09_BLINDBOT_NOPE-2=Цей наказ недійсний.
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Our chief is always very polite when directing us.
 PC09_BLINDBOT_NOPE-3=Наш шеф завжди дуже ввічливий, віддаючи нам накази.
 
@@ -741,7 +741,7 @@ PC09_PANELAFTER0-2=Підтверджуємо.
 
 
 # Blindbot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Our chief has a lot of respect for our visitors.
 PC09_PANELAFTER0-3=Наш шеф вельми поважає відвідувачів.
 

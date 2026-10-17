@@ -53,7 +53,7 @@ GOT_LUCKYCHARM=Талісман удачі!
 ### Rats
 TOPIC_RATS=Щури
 
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Give glucosite?
 PC03_GLUCOSITE_CHOICE=Дати глюкозит?
 
@@ -202,7 +202,7 @@ PC03_TRAMP_RAT_FLEE1-5=Готово.
 
 
 # Kins
-# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
 ### Quick. Gotta scout before da Body Recycling comes ta pick it up.
 PC03_TRAMP_RAT_FLEE1-6=Швидше. Треба тікати, поки не приїхала Служба Переробки Тіл.
 
@@ -404,7 +404,7 @@ PC03_TRAMP_RAT_DIALOGEND-8=Це довга історія... Але якщо к�
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Heartstraint": "Перенапруження серця"
+# NB: Lexicon word in Ukrainian for "Heartstraint": "перенапруження серця"
 ### You see, I've been diagnosed with Heartstraint, which is incurable.
 PC03_TRAMP_RAT_DIALOGEND-9=Знаєш, у мене діагностували перенапруження серця, а це невиліковна хвороба.
 
@@ -435,8 +435,8 @@ PC03_TRAMP_RAT_DIALOGEND-14=Треба лише ретельно шукати. �
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Theoretically. But no one cares about us Slumers.
 PC03_TRAMP_RAT_DIALOGEND-15=Теоретично. Але нікого не хвилюють мешканці Нетрів.
 
@@ -517,7 +517,7 @@ PC03_TRAMP_RAT_DIALOGEND-30=Ось останній медичний рецеп�
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### This dates back to my time as a Drumer. Before they expelled me...
 PC03_TRAMP_RAT_DIALOGEND-31=Він залишився ще з тих часів, коли я був мешканцем Верхів. До того, як мене вигнали...
 
@@ -613,7 +613,7 @@ PC03_TRAMP_HIMSELF1-2=Гостре око, хлопче!
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### A few years ago, I was part of the resistance during the Autarchism fight.
 PC03_TRAMP_HIMSELF1-3=Кілька років тому... Я був частиною сил опору у битві в день Аутархізму.
 
@@ -941,7 +941,7 @@ PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-8=Скажіть! Які саме?
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Glucosite. But it's so expensive...
 PC03_TRAMP_INV_TRAMPPRESCR_NOGLUCOSITE1-9=Глюкозит. Але він такий дорогий...
 
@@ -1014,7 +1014,7 @@ PC03_TRAMP_GLUCOSITE_YES1-1=Ось.
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Glucosite...?
 PC03_TRAMP_GLUCOSITE_YES1-2=Глюкозит...?
 
@@ -1157,7 +1157,7 @@ PC03_TRAMP_INV_MONEY-1=Ось. Це вам.
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### My boy. I may be a tramp, but money isn't what I need right now.
 PC03_TRAMP_INV_MONEY-2=Мій хлопче. Я може й волоцюга, але гроші це не те, що мені зараз потрібно.
 
@@ -1337,7 +1337,7 @@ PC03_TRAMP_DEATH_NEXT-2=(Зітхає)
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
 ### Better call the Body Recycling service... So his death won't be entirely in vain.
 PC03_TRAMP_DEATH_NEXT-3=Краще зателефонувати в Службу Переробки Тіл... Щоб його смерть не була зовсім марною.
 

@@ -314,7 +314,7 @@ PC05B_CHIEFRAT_CHITCHAT2-1=Ви погрожували невинному чол
 
 
 # Chiefrat
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### That old military tramp?
 PC05B_CHIEFRAT_CHITCHAT2-2=Тому старому військовому волоцюзі?
 

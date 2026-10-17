@@ -6,7 +6,7 @@
 #----- Hints Brok --------
 # Present as in "gift"
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Go to the Consciousness Center and talk to the Director about the fair, then about the present.
 HINT_CH3_140_DIRECTORPRESENT1=Іди до Центру Свідомості та поговори з директоркою про ярмарок, а потім про подарунок.
 
@@ -63,7 +63,7 @@ HINT_CH3_140_WINGS3=Увійди в режим бійки та розбий ту
 ### You'll need something to tie the disguise elements to your face, croc dude. A string would be very nice! Where have you seen one that was almost accessible?
 HINT_CH3_140_STRING1=Тобі потрібно чимось прив'язати елементи маскування до обличчя, чуваче. Мотузка була б дуже до речі! Де ти бачив таку, до якої майже можна дістатися?
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### There's a string in the hacker back street on that balcony. But it's out of reach! Or is it?...
 HINT_CH3_140_STRING2=У провулку гакера на тому балконі є мотузка. Але до неї неможливо дістатися! Чи все-таки можливо...?
 
@@ -75,24 +75,24 @@ HINT_CH3_140_STRING3=Відв'яжи дві скоби від дошки, щоб
 HINT_CH3_140_ATTACH1=Усе готово, чуваче! Просто з'єднай мотузку з крилами, а потім результат із трубою.
 
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Use the disguise on the bear to enter and talk to the hacker.
 HINT_CH3_140_USEDISGUISE1=Застосуй маскування на ведмедя, щоб увійти та поговорити з гакером.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Enter and meet the hacker!
 HINT_CH3_140_ENTER1=Заходь і знайомся з гакером!
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Talk to that hacker. No choice, you'll have to beat those drones!
 HINT_CH3_140_FIGHTDRONES1=Поговори з тим гакером. Немає вибору, тобі доведеться подолати тих дронів!
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Too late for remorse. Search the pockets of that hacker!
 HINT_CH3_140_SEARCHHACKER1=Запізно каятися. Обшукай кишені того гакера!
 
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Man... Giving that much money to a crook like him? Anyway, gather some by doing fights in the VR arena or at the Trasher Hunt.##There's still time to change your mind though! In which case, talk to the hacker again.
 HINT_CH3_140_GIVEMONEY1=Ох... Віддати стільки грошей такому шахраєві? Що ж, збери трохи, б'ючись на VR-Арені чи на мисливстві за мотлохом.##Утім, ще є час передумати! Якщо так, поговори з гакером знову.
 
@@ -117,7 +117,7 @@ HINT_CH3_140_WESDOOR4=Тобі треба послідовно ставати н
 ### So, that boy won't let you approach Wes's computer? Hey... If it were me, I'd just knock him down!##But if you're the silly non-violent kind, my advice : focus on his urge to pee.
 HINT_CH3_140_GETRID1=Отже, той хлопець не дає тобі підійти до комп'ютера Веса? Гей... Якби це був я, то просто вирубав би його!##Але якщо ти з тих дурненьких миролюбів, моя порада: зосередься на його потребі пісяти.
 
-# NB: Lexicon word in Ukrainian for "Flowing water": "Плинна вода"
+# NB: Lexicon word in Ukrainian for "Flowing water": "плинна вода"
 ### Bring him some flowing water, croc dude! Come back to the police department entrance and step on the rightmost panel shaped like a home to get one.
 HINT_CH3_140_GETRID2=Принеси йому плинної води, чуваче! Повертайся до входу у відділок поліції та стань на найправішу панель у формі дому, щоб узяти її.
 

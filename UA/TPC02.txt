@@ -346,8 +346,8 @@ PC02_JOBBOARD1-1=Раніше це був помічник "Запитайте �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Back when right-thinking Drumers built this place.
 PC02_JOBBOARD1-2=Ще коли розсудливі мешканці Верхів збудували це місце.
 
@@ -426,7 +426,7 @@ PC02_ROBOT_POWDER1-1=З нього сиплеться якийсь блакит�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### (Sniff, sniff) Eww. Smells like rotten Pampalos...
 PC02_ROBOT_POWDER1-2=(Нюхає) Фу-у. Пахне гнилим пампалосом...
 
@@ -480,8 +480,8 @@ PC02_AD_BABYSITTER1-3=М-мм.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### "You wouldn't believe what Drumers throw away!"
 PC02_AD_TRASHERHUNT1-1="Ви й уявити не можете, що викидають мешканці Верхів!"
 
@@ -510,7 +510,7 @@ PC02_AD_TRASHERHUNT1-5=Спробую ще раз, якщо знайду час 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
 ### "Two great Katshu groups will perform next Wednesday in sector 54X. Free entry. Come join us!"
 PC02_AD_MUSIC1-1="Два чудові катшу-гурти виступатимуть наступної середи у Секторі 54X. Вхід вільний. Приєднуйтесь!"
 

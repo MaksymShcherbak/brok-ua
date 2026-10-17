@@ -423,7 +423,7 @@ GPC03_STOVE_TRAMP1-9="Не розпалюйте вогонь, це небезп�
 
 
 # Tramp
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### "Don't drive an Aircar yourself, it's dangerous."
 GPC03_STOVE_TRAMP1-10="Не водіть аеромобіль власноруч, це небезпечно."
 
@@ -454,8 +454,8 @@ GPC03_STOVE_TRAMP1-15=У сучасному світі ніхто не в без
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Not here, for sure. But Drumers are safe.
 GPC03_STOVE_TRAMP1-16=Не тут, авжеж. Але мешканці Верхів у безпеці.
 

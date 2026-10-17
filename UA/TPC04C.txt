@@ -118,7 +118,7 @@ ITEM_CHOCOLATEBAR=Ніжношкірин
 ITEM_CHOCOLATEBAR_MSG=Поєднайте ніжність шоколаду з власним тілом, щоб отримати шовковисту й гладеньку шкіру!
 
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Medicine for the tramp!
 GOT_TRAMPMEDICINE=Ліки для волоцюги!
 
@@ -392,7 +392,7 @@ PC04C_LIQUID1-1=Спаліть свій жир за допомогою <col=BOLD
 
 
 # Various
-# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Sorain": "Сорейн"
 ### Made with salt extracted from corrosive minerals from East of Sorain, this will stimulate your body to remove excess fat and get a fit, socially acceptable body!
 PC04C_LIQUID1-2=Виготовлений із солі, видобутої з їдких мінералів на Сході Сорейну, він стимулюватиме ваше тіло до видалення зайвого жиру та здобуття підтягнутої, соціально прийнятної статури!
 
@@ -720,7 +720,7 @@ PC04C_SCREEN1-2=Зріст... Адреса... І якісь графіки зм�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Hence why I don't regret my Drumer life...
 PC04C_SCREEN1-3=Ось чому я не сумую за своїм життям на Верхах...
 
@@ -1165,7 +1165,7 @@ PC04C_MACHINE_SCANNING_TRAMPPRESCR1-3=Оновити? Шматок картон�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Great... Where am I gonna find a Drumer doctor...?
 PC04C_MACHINE_SCANNING_TRAMPPRESCR1-4=Чудово... І де я знайду лікаря з Верхів...?
 

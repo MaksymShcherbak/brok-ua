@@ -541,7 +541,7 @@ GPC19B_KLAYBED2-2=Ти завжди такий напружений. Диво, �
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### Easy for you to say. You're like a Drumer dwelling in the Slums.
 GPC19B_KLAYBED2-3=Тобі легко казати. Ти ніби мешканець Верхів, який проживає в Нетрях.
@@ -609,7 +609,7 @@ GPC19B_KLAYBED_NOTINSIST1-9=Якби вона не змилувалася над
 
 
 # Klay
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You've been given a chance to become a Drumer and live your dreams, and that's how you take it?
 GPC19B_KLAYBED_NOTINSIST1-10=Тобі дали шанс стати мешканцем Верхів і здійснити свої мрії, і ось як ти до цього ставишся?
 

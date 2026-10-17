@@ -238,7 +238,7 @@ PC10_TO_DOOR_DAY2-3=На випробуванні.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Trial? Where's the Director?
 PC10_TO_DOOR_DAY2B-1=Випробуванні? А де директорка?
 
@@ -558,7 +558,7 @@ PC10_DIRECTOR_FAIR_BROKEN1B-14=Правила є правила.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Ah, come on. You're the Director.
 PC10_DIRECTOR_FAIR_BROKEN1B-15=Та годі вам. Ви ж директорка.
 
@@ -632,7 +632,7 @@ PC10_DIRECTOR_FAIR_BLAMEME1-4=Він просив мене прийти вчас
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### And in the grand scheme of things... He's no longer a Drumer because of me.
 PC10_DIRECTOR_FAIR_BLAMEME1-5=І якщо глянути ширше... Він більше не живе на Верхах саме через мене.
 
@@ -1012,7 +1012,7 @@ PC10_DIRECTOR_HERSELF2-2=Я маю на увазі... Це теж не зовс�
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Birth Ratio": "Народжуваність"
+# NB: Lexicon word in Ukrainian for "Birth Ratio": "народжуваність"
 ### You're aware of our civilization's Birth Ratio issue.
 PC10_DIRECTOR_HERSELF2-3=Ви знаєте про проблему народжуваності в нашій цивілізації.
 
@@ -1058,14 +1058,14 @@ PC10_DIRECTOR_HERSELF2-11=Стривайте...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 ### I remember Graff saying he had occasional trouble with the Director's son.
 PC10_DIRECTOR_HERSELF2-12=Я пам'ятаю, Графф казав, що у нього іноді виникали проблеми із сином директорки.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### But if you're the Director... Then...?
 PC10_DIRECTOR_HERSELF2-13=Але якщо ви і є директорка... Тоді...?
 
@@ -1316,7 +1316,7 @@ PC10_DIRECTOR_PRESENT2-13=Саме так.
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Only a handful of Drumer humans participated in this, until they were disbanded years ago.
 PC10_DIRECTOR_PRESENT2-14=Лише невелика група людей з Верхів брала в цьому участь, поки їх не розігнали кілька років тому.
 

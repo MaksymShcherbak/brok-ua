@@ -329,13 +329,13 @@ BM02_RJ_TRICK-1=Ти обдурив мене...
 
 #----------------------------------------------------
 # RJ
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief fired me...
 BM02_RJ1B-1=Шеф мене звільнив...
 
 
 # RJ
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker... too...
 BM02_RJ1B-2=Гакер... Теж...
 
@@ -564,7 +564,7 @@ BM02_RJ_TALK1-7=Я допоможу тобі.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### I'll convince the hacker to hire you back.
 BM02_RJ_TALK1-8=Я переконаю гакера знову найняти тебе.
 

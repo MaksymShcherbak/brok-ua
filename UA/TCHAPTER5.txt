@@ -117,7 +117,7 @@ CH5_OTT_IDEA3-4=Можливо, головоломки виходять за м�
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Yeah... Knowing the Director, I wouldn't be surprised if she would try and trick us.
 CH5_OTT_IDEA3-5=Так... Знаючи директорку, я б не здивувався, якби вона спробувала нас таким чином обдурити.
 
@@ -1065,7 +1065,7 @@ CH5_GHERKIN_CALLS1-8=Клянуся, вони мене переслідують!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### A Drumer, huh...
 CH5_GHERKIN_CALLS1-9=З Верхів, га...
 
@@ -1123,7 +1123,7 @@ CH5_GHERKIN_CALLS1-19=...Ну, не те, що ви в небезпеці, а т
 
 
 # Gherkin
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### It's my job. No other Drumer would agree to accompany me to this dump...
 CH5_GHERKIN_CALLS1-20=Це моя робота. Жоден інший мешканець Верхів не погодився б супроводжувати мене на це звалище...
 

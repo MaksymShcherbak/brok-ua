@@ -856,7 +856,7 @@ ITEM_CHALLENGE_DOMESTICARGUMENT_MSG=Тримайте Сіна й Ді <col=BOLD>
 ### Near-Death Hero
 ITEM_CHALLENGE_NEARDEATH=Герой на межі смерті
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The Chief is invincible till your <col=BOLD>healthbar flashes red!</col>
 ITEM_CHALLENGE_NEARDEATH_MSG=Шеф невразливий, доки ваша <col=BOLD>шкала здоров'я не буде блимати червоним!</col>
 
@@ -1151,7 +1151,7 @@ ITEM_CHALLENGE_HYDROGENBO=Воднева акула проти кашляючо�
 ### Beat the shark!...
 ITEM_CHALLENGE_HYDROGENBO_MSG=Здолайте акулу...!
 
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief's Revenge
 ITEM_CHALLENGE_CHIEFSREVE=Помста шефа
 
@@ -1166,7 +1166,7 @@ ITEM_CHALLENGE_THEGOODKIN=Добрі Кінси
 ### Defeat all the evil Kins, except <col=BOLD>the real one</col> who's on your side!
 ITEM_CHALLENGE_THEGOODKIN_MSG=Здолайте всіх злих Кінсів, окрім <col=BOLD>справжнього</col>, який на вашому боці!
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink is da bomb
 ITEM_CHALLENGE_MINKISDABO=Мінк - це бомба
 
@@ -1733,7 +1733,7 @@ MODIFIER_WEAPONSNODISAPPEAR=Кинута зброя ніколи не зника
 ### Enemies ignore all dangers
 MODIFIER_AINODANGER=Вороги ігнорують усі небезпеки
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard barely protects
 MODIFIER_LOWGUARDDEFENSE=Захист майже не захищає
 
@@ -2770,11 +2770,11 @@ CHALLENGE_BACK_OUTSIDEAPARTMENTN=Поза квартирою (ніч)
 ### Rats lair
 CHALLENGE_BACK_RATSLAIR=Щуряче лігво
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street (day)
 CHALLENGE_BACK_DRUMERSTREETD=Вулиця на Верхах (день)
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer Street (night)
 CHALLENGE_BACK_DRUMERSTREETN=Вулиця на Верхах (ніч)
 
@@ -2809,11 +2809,11 @@ CHALLENGE_BACK_SERVERROOM=Серверна
 ### View
 CHALLENGE_BACK_VIEW=Краєвид
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker street (day)
 CHALLENGE_BACK_HACKERSTREETD=Провулок гакера (день)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker street (night)
 CHALLENGE_BACK_HACKERSTREETN=Провулок гакера (ніч)
 
@@ -2823,19 +2823,19 @@ CHALLENGE_BACK_LABFRONTD=Перед лабораторією (день)
 ### Lab front (night)
 CHALLENGE_BACK_LABFRONTN=Перед лабораторією (ніч)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker front (day)
 CHALLENGE_BACK_HACKERFRONTD=Перед лігвом гакера (день)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker front (night)
 CHALLENGE_BACK_HACKERFRONTN=Перед лігвом гакера (ніч)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker inside (day)
 CHALLENGE_BACK_HACKERINSIDED=Лігво гакера (день)
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hacker inside (night)
 CHALLENGE_BACK_HACKERINSIDEN=Лігво гакера (ніч)
 
@@ -2898,7 +2898,7 @@ CHALLENGE_BACK_PLATFORMER=Особливий - платформер
 ### What is the name of the nearest nation outside of Atlasia?
 QUIZZ_Q1=Як називається найближча країна за межами Атлазії?
 
-# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Sorain": "Сорейн"
 ### Sorain
 QUIZZ_Q1_1=Сорейн
 
@@ -2916,7 +2916,7 @@ QUIZZ_Q1_4=Айрно
 QUIZZ_Q2=Скільки годин у добі?
 
 
-# NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
+# NB: Lexicon word in Ukrainian for "Flowing honey": "плинний мед"
 ### What are the effects of consuming Flowing Honey?
 QUIZZ_Q3=Які ефекти дає вживання "плинного меду"?
 
@@ -2975,7 +2975,7 @@ QUIZZ_Q5_3=50,000 Юні
 QUIZZ_Q5_4=2,500 Юні
 
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### In what type of rundown building does the Hacker operate in?
 QUIZZ_Q6=У якій занедбаній будівлі орудує Гакер?
 
@@ -3029,7 +3029,7 @@ QUIZZ_Q8_3=Триботи
 QUIZZ_Q8_4=Дарти
 
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### What is the Tramp's real name?
 QUIZZ_Q9=Яке справжнє ім'я Волоцюги?
 
@@ -3043,7 +3043,7 @@ QUIZZ_Q9_2=Рок
 ### Musk
 QUIZZ_Q9_3=Маск
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp
 QUIZZ_Q9_4=Волоцюга
 
@@ -3072,11 +3072,11 @@ QUIZZ_Q11=Який предмет у грі завдає вам шкоди?
 ### Sewage sludge
 QUIZZ_Q11_1=Каналізаційний осад
 
-# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
 ### Hot Juice
 QUIZZ_Q11_2=Гарячий сік
 
-# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
+# NB: Lexicon word in Ukrainian for "Pizzant": "мурахопіца"
 ### Pizzant
 QUIZZ_Q11_3=Мурахопіца
 
@@ -3084,7 +3084,7 @@ QUIZZ_Q11_3=Мурахопіца
 QUIZZ_Q11_4=Булочка з корицею
 
 
-# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
 ### In which sector the Katshu groups will perform?
 QUIZZ_Q12=У якому секторі виступатимуть катшу-гурти?
 
@@ -3189,7 +3189,7 @@ QUIZZ_Q18=Який вид - єдиний, що не може розмножув�
 ### Rats
 QUIZZ_Q18_1=Щури
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr Mink
 QUIZZ_Q18_2=Д-р Мінк
 
@@ -3210,7 +3210,7 @@ QUIZZ_Q19_1=Інкубатор
 ### Delistute
 QUIZZ_Q19_2=Смакозамін
 
-# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+# NB: Lexicon word in Ukrainian for "Wardfridge": "шафодильник"
 ### Wardfridge
 QUIZZ_Q19_3=Шафодильник
 
@@ -3219,7 +3219,7 @@ QUIZZ_Q19_3=Шафодильник
 QUIZZ_Q19_4=Дошка Брока для нарізки
 
 
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### How much do you heal from eating rotten Pampalos?
 QUIZZ_Q20=Скільки здоров'я відновлює гнилий пампалос?
 
@@ -3236,7 +3236,7 @@ QUIZZ_Q20_3=1%
 QUIZZ_Q20_4=Увесь світ
 
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### What is Dr. Mink's favorite science show?
 QUIZZ_Q21=Яка улюблена наукова передача д-ра Мінка?
 
@@ -3249,12 +3249,12 @@ QUIZZ_Q21_2=ТехноМрія
 ### NanoMed
 QUIZZ_Q21_3=НаноМед
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard's Stare
 QUIZZ_Q21_4=Погляд охоронця
 
 
-# NB: Lexicon word in Ukrainian for "Wardfridge": "Шафодильник"
+# NB: Lexicon word in Ukrainian for "Wardfridge": "шафодильник"
 ### What is stored at the bottom of a wardfridge?
 QUIZZ_Q22=Що зберігають на дні шафодильника?
 
@@ -3271,8 +3271,8 @@ QUIZZ_Q22_3=Заморожені продукти
 QUIZZ_Q22_4=Мертві тіла
 
 
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### What is a Slum area not run by Drumers?
 QUIZZ_Q23=Який район Нетрів не контролюють мешканці Верхів?
 
@@ -3307,7 +3307,7 @@ QUIZZ_Q24_3=Тричі на день
 QUIZZ_Q24_4=Раз на місяць
 
 
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### When did the Untail religion begin?
 QUIZZ_Q25=Коли виникла релігія Безхвостя?
 
@@ -3357,7 +3357,7 @@ QUIZZ_Q28_2=Сіль і масло
 ### Toilets
 QUIZZ_Q28_3=Туалет
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The Guard
 QUIZZ_Q28_4=Охоронця
 
@@ -3376,12 +3376,12 @@ QUIZZ_Q29_2=Завод
 ### The Alley
 QUIZZ_Q29_3=Провулок
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumer street
 QUIZZ_Q29_4=Вулиця на Верхах
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### In Dr. Gherkin's self-contained vegetation growth system, how many holes appear in the membrane?
 QUIZZ_Q30=В автономній системі вирощування рослин д-ра Геркіна скільки дір з'являється в мембрані?
 
@@ -3524,7 +3524,7 @@ QUIZZ_Q38_4=20с
 
 
 # NB: Lexicon word in Ukrainian for "Bolt": "Болт"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### How much does Dr. Mink offer for Bolt's screw?
 QUIZZ_Q39=Скільки доктор Мінк пропонує за гвинт Болта?
 
@@ -3555,7 +3555,7 @@ QUIZZ_Q39_4=400 Юні
 QUIZZ_Q40=Коли Брок заходить у бункер, скільки Триботів міститься у скляній кімнаті?
 
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### What item can be placed on Tramp's stove?
 QUIZZ_Q41=Який предмет можна покласти на плиту Волоцюги?
 
@@ -3565,7 +3565,7 @@ QUIZZ_Q41_1=Статуетка Безхвостя
 ### Book
 QUIZZ_Q41_2=Книга
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Antburger
 QUIZZ_Q41_3=Мурахобургер
 
@@ -3654,7 +3654,7 @@ QUIZZ_Q46=З якого матеріалу зроблено кулон Брок�
 ### Heptamide
 QUIZZ_Q46_1=Гептамід
 
-# NB: Lexicon word in Ukrainian for "Sorain": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Sorain": "Сорейн"
 ### Sorain
 QUIZZ_Q46_2=Сорейн
 
@@ -3686,24 +3686,24 @@ QUIZZ_Q47_4=3,028 П.В.
 ### Which item comes out of the pipemail when Brok hits the emergency button in the laboratory?
 QUIZZ_Q48=Який предмет виходить із Поштомата, коли Брок натискає кнопку тривоги в лабораторії?
 
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### Energy drink
 QUIZZ_Q48_1=Енергетичний напій
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Antburger
 QUIZZ_Q48_2=Мурахобургер
 
-# NB: Lexicon word in Ukrainian for "Flowing honey": "Плинний мед"
+# NB: Lexicon word in Ukrainian for "Flowing honey": "плинний мед"
 ### Flowing Honey
 QUIZZ_Q48_3=Плинний мед
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mini Mink
 QUIZZ_Q48_4=Міні-Мінк
 
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### What relationship does Tramp have to Brok?
 QUIZZ_Q49=Ким Волоцюга доводиться Брокові?
@@ -3721,11 +3721,11 @@ QUIZZ_Q49_3=Син
 QUIZZ_Q49_4=Господар
 
 
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### What other option besides getting his medicine is there to save Tramp?
 QUIZZ_Q50=Який ще є варіант, крім ліків, щоб урятувати Волоцюгу?
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Bring Dr. Gherkin
 QUIZZ_Q50_1=Привести д-ра Геркіна
 
@@ -3735,7 +3735,7 @@ QUIZZ_Q50_2=Убити його
 ### Give a hug
 QUIZZ_Q50_3=Обійняти його
 
-# NB: Lexicon word in Ukrainian for "Glucosite": "Глюкозит"
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
 ### Give glucosite
 QUIZZ_Q50_4=Дати глюкозит
 
@@ -3767,7 +3767,7 @@ QUIZZ_Q52_4=Доглядач
 ### What is the name of the musical instrument Brok has in his apartment?
 QUIZZ_Q53=Як зветься музичний інструмент у квартирі Брока?
 
-# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
 ### Katshu
 QUIZZ_Q53_1=Катшу
 
@@ -3858,7 +3858,7 @@ QUIZZ_Q57_4=За зубочистку
 
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### How many Tribots are inside the pyramid near the server mainframe at the Border Post in order to become a Drumer?
 QUIZZ_Q58=Скільки триботів у піраміді біля центрального комп'ютера на прикордонному посту?
 
@@ -3867,18 +3867,18 @@ QUIZZ_Q58=Скільки триботів у піраміді біля цент�
 ### Brok needs to fill a broken mine he finds with Trax powder, which smells like...
 QUIZZ_Q59=Брок має засипати знайдену зламану міну порошком Тракс, який пахне як...
 
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Rotten pampalos
 QUIZZ_Q59_1=Гнилий пампалос
 
 ### Socks
 QUIZZ_Q59_2=Шкарпетки
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Rotten antburger
 QUIZZ_Q59_3=Гнилий мурахобургер
 
-# NB: Lexicon word in Ukrainian for "Hot juice": "Гарячий сік"
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
 ### Hot juice
 QUIZZ_Q59_4=Гарячий сік
 
@@ -3974,7 +3974,7 @@ QUIZZ_Q67=Який максимальний рівень ДОСВІДу?
 # NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### What is the name of the Squealers Chief?
 QUIZZ_Q68=Як звати шефа Верескунів?
 

@@ -684,7 +684,7 @@ PC21_40_EXITVR2-1=Ми подаємо консервовану їжу. Ніхт�
 
 
 # Hedgehog
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### We scored an excellent deal on a big supply of Tomatoze Lungfish Fillet!
 PC21_40_EXITVR2-2=Ми дуже вигідно взяли велику партію філе в томатозному соусі!
 
@@ -2590,7 +2590,7 @@ PC21_BOSS3_SHARP2-5=А для нашого переможця...
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### A delicious antburger!
 PC21_BOSS3_SHARP2-6=Смачний мурахобургер!
 
@@ -2652,7 +2652,7 @@ PC21_BOSS3_SHARP2-17=І те, і те!
 
 
 # Shark
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### You... spilled some Tomatoze on your shirt.
 PC21_BOSS3_SHARP2-18=Ти... розлив трохи томатози на сорочку.
 
@@ -2704,7 +2704,7 @@ PC21_BOSS3_SHARP3-5=Тобто?
 
 
 # Shark
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### Autarchism, of course.
 PC21_BOSS3_SHARP3-6=Аутархізм, звісно.
 
@@ -2866,7 +2866,7 @@ PC21_BOSS3_SHARP3-36=Власне... ми не знаємо, що спричин
 
 
 # Shark
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Even stranger, I could swear I saw a Tribot squeeze itself through one of the cracks.
 PC21_BOSS3_SHARP3-37=Ще дивніше: можу заприсягтися, що бачив, як Трибот протиснувся крізь одну з тріщин.
@@ -3938,8 +3938,8 @@ PC21_HYENA_FOOD1-2=Гм...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### I could use an antburger right now! With extra Tomatoze sauce!
 PC21_HYENA_FOOD1-3=Мені б зараз не завадив мурахобургер! З подвійним соусом Томатоза!
 
@@ -4115,8 +4115,8 @@ PC21_HYENA_HIMSELF1-9=Моя щелепа була така розтрощена
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Amazing technology Drumers have, isn't it? Looks neat, don't you think?
 PC21_HYENA_HIMSELF1-10=Які ж все-таки технології у мешканців Верхів! Гарно виглядає, еге ж?
 
@@ -4562,7 +4562,7 @@ PC21_FROG_CHANGEPLAYER_AFTER-2=Усе втратило сенс! Я хтось �
 
 
 # Frog
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### Sweety, you better lay off the energy drinks.
 PC21_FROG_CHANGEPLAYER_AFTER-3=Солоденький, тобі краще зав'язати з енергетиками.
 
@@ -4735,21 +4735,21 @@ PC21_FROG_WHEEL_RETRY-2=Ну ж бо, крути.
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### ...a virtual pampalos.
 PC21_FROG_WHEEL_FREEPAMPALOS-1=...віртуальний пампалос.
 
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### ...a virtual antburger.
 PC21_FROG_WHEEL_FREEANTBURGER-1=...віртуальний мурахобургер.
 
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### ...a virtual energy drink.
 PC21_FROG_WHEEL_FREEENERGYDRINK-1=...віртуальний енергетик.
 
@@ -5706,21 +5706,21 @@ PC21_IGUANA5-10=Бачу, в тебе насичений день!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### So, are you and your partner Slumers?
 PC21_IGUANA6-1=То ви з партнеркою мешканці Нетрів?
 
 
 # Iguana
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Actually... she's a Drumer.
 PC21_IGUANA6-2=Насправді... вона з Верхів.
 
 
 # Iguana
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### I'm super lucky. Drumers rarely come to the Slums-they fear this place.
 PC21_IGUANA6-3=Мені дуже пощастило. Мешканці Верхів рідко приходять у Нетрі - вони бояться цього місця.
@@ -5737,7 +5737,7 @@ PC21_IGUANA6-5=Його пограбували, він дав відсіч. Ус
 
 
 # Iguana
-# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
 ### She came to give him a proper burial, but by the time she got here, he'd already been processed in the Body Recycling Center.
 PC21_IGUANA6-6=Вона приїхала, щоб поховати його як годиться, але поки дісталася, його тіло вже обробили в центрі переробки тіл.
 
@@ -5773,7 +5773,7 @@ PC21_IGUANA6-12=Але їй це було потрібно. Згодом ми б
 
 
 # Iguana
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Actually, she proposed to me just last week! We'd get married, and I'd become a Drumer with her.
 PC21_IGUANA6-13=Насправді вона освідчилася мені минулого тижня! Ми одружимося, і я стану мешканкою Верхів разом із нею.
 
@@ -6027,8 +6027,8 @@ PC21_CLINT1-28=(Або ризикувати життям на нічних бо�
 
 
 # Clint
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### All of us Slumers end up becoming handymen in one way or another. You really get clients?
 PC21_CLINT1-29=Усі ми, мешканці Нетрів, рано чи пізно стаємо майстрами на всі руки. У тебе справді є клієнти?
 
@@ -6044,8 +6044,8 @@ PC21_CLINT1-31=Проблема в іншому... чим вони мені пл
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Good thing I love antburgers and energy drinks!
 PC21_CLINT1-32=Добре, що я люблю мурахобургери та енергетики!
 
@@ -6330,7 +6330,7 @@ PC21_CLINT_CHOICE_YES-6=Не може ж мій хлопчик бігати Ве
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Is your son a Drumer?
 PC21_CLINT_CHOICE_YES-7=Твій син - мешканець Верхів?
 
@@ -6484,7 +6484,7 @@ PC21_BACK_DART2-14=І за це ти нас винуватиш?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Hey, you attack people. You steal. You even attempted to murder a tramp!
 PC21_BACK_DART2-15=Гей, ви нападаєте на людей. Крадете. Ви навіть намагалися вбити волоцюгу!
 
@@ -6640,7 +6640,7 @@ PC21_BACK_DART_AFTER-8=Якби мене там не було, ви б убил�
 
 
 # Dart
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief's orders. He's gonna die anyway. Better get our due from him before he kicks it.
 PC21_BACK_DART_AFTER-9=Наказ шефа. Він усе одно помре. Краще взяти своє, поки він не дав дуба.
 
@@ -7406,7 +7406,7 @@ PC21_BACK_RESET1-13=О, ні. Це нічого тобі не коштувати
 
 
 # Backmouse
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### I am a humble servant of the Untail Salvation Army.
 PC21_BACK_RESET1-14=Я лише скромна служниця Армії Спасіння Безхвостого.
 

@@ -147,7 +147,7 @@ PC12B_BUTTON_ALERT3-1=Мені справді слід стежити за ти�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### It worked?! Do I have a Drumer license now?
 PC12B_BUTTON_GOOD-1=Це спрацювало?! Тепер у мене є ліцензія мешканця Верхів?
 

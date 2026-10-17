@@ -31,7 +31,7 @@ HINT_CH5_210_TRIANGLEGAME2=Тобі треба "виграти" цю гру. В�
 HINT_CH5_210_HALFSPHERE1=Пам'ятаєш ту гру на трикутному камені? Грай, доки не отримаєш півсферу. (На першому етапі гри вибери малюнок півкола)
 
 
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 ### That rebirth day exposition... It represents this country. Don't you think it lacks something important?...
 HINT_CH5_210_REBIRTH1=Та експозиція про день Відродження... Вона зображає цю країну. Не думаєш, що їй бракує чогось важливого...?
 
@@ -82,12 +82,12 @@ HINT_CH5_210_KEYUSE1=Використай ключ на замку збоку с
 ### You need a new Untail statue, kitty. Where do you think you could get one?
 HINT_CH5_210_GETUNTAIL1=Тобі потрібна нова статуя Безхвостя, кошенятко. Як думаєш, де її взяти?
 
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### Sector 56X, of course! That merchant should be gone by now but her stand is still there.
 HINT_CH5_210_GETUNTAIL2=Сектор 56X, звісно! Крамарка вже мала б піти, але її прилавок досі на місці.
 
 
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### Two statues of the Untail, three pedestals...
 HINT_CH5_210_SETUNTAIL1=Дві статуї Безхвостя, три стенди...
 
@@ -166,7 +166,7 @@ HINT_CH5_220_GHERKINCONVINCE2=Той гучний насос ліворуч! В�
 ### Croc dude, I think you missed that little fix bot on the bottom left of the membrane. Take 'control' of it! Pretty sure you've already got the right thing for doing that...
 HINT_CH5_220_GHERKINCONVINCE3=Чуваче, здається, ти пропустив того маленького бота-ремонтника внизу зліва на мембрані. Візьми його "під контроль"! Майже певен, у тебе вже є потрібна штука для цього...
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Use your remote control on the fix bot. Each shock will throw it around. Make it go over all five membrane holes to fix them (and ultimately cover the pump sound). After this, talk to Dr. Gherkin again to make him come out.##Tip : The movements are not random. The red light on the front of the bots indicates the direction it will move. Between each shock the bot rotates on its own. Wait for the right moment to use the remote control so it goes into the direction you want!
 HINT_CH5_220_GHERKINCONVINCE4=Застосуй пульт керування на боті-ремонтнику. Кожен удар жбурлятиме його. Проведи його по всіх п'яти дірках у мембрані, щоб залатати їх (і зрештою заглушити звук насоса). Після цього поговори з доктором Геркіном ще раз, щоб він вийшов.##Порада: рухи не випадкові. Червоне світло спереду бота вказує напрямок його руху. Після кожного удару бот повертається сам. Чекай слушного моменту, щоб застосувати пульт керування й спрямувати бота в потрібному напрямку!
 

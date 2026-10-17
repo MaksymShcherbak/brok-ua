@@ -242,7 +242,7 @@ GPC05D_SURPRISEATTACK2-2=...?
 
 
 # Kins
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### What was dat, chief?
 GPC05D_SURPRISEATTACK2-3=Шо то було, шефе?
 
@@ -397,7 +397,7 @@ GPC05D_FIRSTDIALOG-26=Трьох днів...?
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### That's it! The hacker!
 GPC05D_FIRSTDIALOG-27=Точно! Гакер!
 
@@ -438,7 +438,7 @@ GPC05D_FIRSTDIALOG-34=Ну й маячня.
 
 
 # Chiefrat
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Ya really expect him to get in here and pass our guards?
 GPC05D_FIRSTDIALOG-35=Ти справді думаєш, шо він пробереться через вартових?
 
@@ -545,7 +545,7 @@ GPC05D_SECONDDIALOG1B-2=Ну давай.
 
 
 # Kins
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Yes chief!
 GPC05D_SECONDDIALOG1B-3=Так, шефе!
 
@@ -1152,7 +1152,7 @@ GPC05D_SECONDDIALOG3B-14=Кінсе. Зніми його кляп.
 
 
 # Kins
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Yes chief.
 GPC05D_SECONDDIALOG3B-15=Так, шефе.
 
@@ -1607,7 +1607,7 @@ GPC05D_SECONDDIALOG6F-4=Верескуни прибули в ці землі т�
 
 
 # Chiefrat
-# NB: Lexicon word in Ukrainian for "Rebirth day": "День Відродження"
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
 ### We were called in after Rebirth Day to help rebuild without the help of technology.
 GPC05D_SECONDDIALOG6F-5=Нас покликали після Дня Відродження, шоб допомогти із відбудовою, не використовуючи технології.
 
@@ -1970,7 +1970,7 @@ GPC05D_SECONDDIALOG7B-36=Наскільки ще наївним ти можеш 
 
 
 # Chiefrat
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### No wonder ya were a Drumer!
 GPC05D_SECONDDIALOG7B-37=Не здивований, шо ти колись мешкав на Верхах!
 
@@ -2080,7 +2080,7 @@ GPC05D_SECONDDIALOG8B-2=Га...?
 
 #----------------------------------------------------
 # Kins
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Chief!
 GPC05D_SECONDDIALOG9-1=Шефе!
 
@@ -2208,7 +2208,7 @@ GPC05D_SECONDDIALOG13-2=Чудово. Я усіх втягнув в цю хал�
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### I don't know if there's such thing as a god, the Untail or whatever but...
 GPC05D_SECONDDIALOG13-3=Я не знаю, чи існує бог, Безхвостий чи щось таке, але...
 
@@ -2482,7 +2482,7 @@ GPC05D_WINDOW_NOONE-1=Драбина. Це шлях на волю!
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### A guard.
 GPC05D_WINDOW1-1=Вартовий.
 

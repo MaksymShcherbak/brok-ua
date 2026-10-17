@@ -265,7 +265,7 @@ GPC02_ROBOT1-3=На жаль, тут немає корисних для мене
 
 #----------------------------------------------------
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Hopefully I'll get my diploma and become a Drumer again...
 GPC02_JOBBOARD1-1=Сподіваюся, скоро я отримаю свій диплом і знову стану мешканцем Верхів...
 

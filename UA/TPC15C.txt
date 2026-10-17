@@ -60,7 +60,7 @@ TOPIC_INVESTIGATION=Розслідування
 ### A lamp!
 GOT_LAMPHUSH=Лампа!
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's tablet!
 GOT_TABLETHUSH=Планшет доктора Гаша!
 
@@ -88,7 +88,7 @@ PC15C_WINDOW1B-2=Це ж стандартний краєвид! Хіба зна�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush, apparently?
 PC15C_WINDOW1B-3=Мабуть, доктор Гаш?
 
@@ -180,7 +180,7 @@ PC15C_BISCUITS1-1=Енергетичне печиво...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush must have been eating them before disappearing.
 PC15C_BISCUITS1-2=Доктор Гаш, мабуть, їв його перед тим, як зникнути.
 
@@ -234,7 +234,7 @@ PC15C_LAMP1-3=Чорт його знає.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This is the same model as the one next to Dr. Hush.
 PC15C_LAMP_AFTER-1=Це така ж модель, як і та, що була поруч із доктором Гашем.
 
@@ -262,7 +262,7 @@ PC15C_MATERIALS1B-2=Це можна було б назвати "організо
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush is a maniac.
 PC15C_MATERIALS1B-3=Доктор Гаш - маніяк.
 
@@ -335,7 +335,7 @@ PC15C_RAMP_AFTER1-1=Гей, Тайді!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Just a hunch. Did Dr. Hush put out that ramp for you?
 PC15C_RAMP_AFTER1-2=Я, мабуть, здогадуюсь. Доктор Гаш поставив цей пандус для тебе?
 
@@ -362,7 +362,7 @@ PC15C_RAMP_AFTER1-6=Логічно. Боти дуже важкі й не мож�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### One has to wonder why Dr. Hush couldn't just implement hovering on Tidy.
 PC15C_RAMP_AFTER2-1=Можна лише дивуватися, чому доктор Гаш просто не додав Тайді функцію польоту.
@@ -512,7 +512,7 @@ PC15C_PAINTING1B-1=Це ТелеКартина.
 
 # Mink
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### You can watch livies of course but the trend is to display a still picture permanently.
 PC15C_PAINTING1B-2=Звісно, на ній можна дивитися голографічні ролики, але зараз у тренді просто виводити статичне зображення.
 
@@ -523,7 +523,7 @@ PC15C_PAINTING1B-3=Ну так, це ж куди кращий спосіб ви�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You don't say! Dr. Hush is so old fashioned. And he calls himself an engineer... Pfft!
 PC15C_PAINTING1B-4=І не кажіть! Доктор Гаш такий старомодний. І ще називає себе інженером... Пхе!
 
@@ -588,7 +588,7 @@ PC15C_PAINTING2C-4=Схоже на те.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Aaaand this leads right to your room, Dr. Mink.
 PC15C_PAINTING2C-5=І-і-і це веде прямісінько у вашу кімнату, докторе Мінку.
 
@@ -620,7 +620,7 @@ PC15C_HOLE1-1=По той бік я бачу...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Yup. Definitely Dr. Mink's office. There's a table with a box of nanites on it.
 PC15C_HOLE1-2=Угу. Це точно кабінет доктора Мінка. Там стоїть стіл із коробкою нанітів.
 
@@ -637,7 +637,7 @@ PC15C_HOLE1-4=Тоді не казатиму. Поки що це лише при
 
 #----------------------------------------------------
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### That's surprising. I thought the restroom was next to this room, not Dr. Mink's?
 PC15C_HOLE2-1=Дивно. Я думав, що поруч із цією кімнатою знаходиться вбиральня, а не кабінет доктора Мінка.
 
@@ -675,7 +675,7 @@ PC15C_HOLE2-7=(І удача)
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### That's Dr. Hush's?
 PC15C_TABLET1-1=Це планшет доктора Гаша?
 
@@ -687,7 +687,7 @@ PC15C_TABLET1-2=Здається, заблокований.
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Yes. They're personal. Only Dr. Hush can use it.
 PC15C_TABLET1B-1=Так. Вони особисті. Користуватися цим планшетом може лише доктор Гаш.
 
@@ -881,7 +881,7 @@ PC15C_TIDY_WAKE1C-5=Тож ти...
 
 
 # Tidy
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush's assistant. Tidy!
 PC15C_TIDY_WAKE1C-6=Помічник доктора Гаша. Тайді!
@@ -910,7 +910,7 @@ PC15C_TIDY_WAKE1C-10=Не проти. Зовсім не проти!
 
 #----------------------------------------------------
 # Brok - Talking to Tidy
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### So... Dr. Hush built you?
 PC15C_TIDY_DRHUSH1-1=Отже... Доктор Гаш тебе створив?
 
@@ -1148,7 +1148,7 @@ PC15C_TIDY_SITUATION1-7=Зчитування запису...
 
 
 # Hush
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### "I need to settle things with Dr. Mink."
 PC15C_TIDY_SITUATION1-8="Мені треба владнати справи з доктором Мінком."
 
@@ -1159,7 +1159,7 @@ PC15C_TIDY_SITUATION1-9=Що?!
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This is impossible! Dr. Hush never even came to my office today!
 PC15C_TIDY_SITUATION1-10=Це неможливо! Доктор Гаш сьогодні навіть не заходив до мого кабінету!
 
@@ -1203,7 +1203,7 @@ PC15C_TIDY_SITUATION2-2=Зарядка! Потрібна енергія для �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Wait... You said you recorded Dr. Hush while you were charging?
 PC15C_TIDY_SITUATION2-3=Стривай... Ти кажеш, що записав доктора Гаша під час заряджання?
 
@@ -1220,7 +1220,7 @@ PC15C_TIDY_SITUATION2-5=Тайді. Кілька фаз сну. Як людин�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. Is that even possible?
 PC15C_TIDY_SITUATION2-6=Докторе Мінк, це взагалі можливо?
 
@@ -1258,7 +1258,7 @@ PC15C_TIDY_SITUATION2-12=Гмм...
 #----------------------------------------------------
 # Mink
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### Surely you've seen all those fantastical livies with robots rebelling against humans.
 PC15C_TIDY_RULE1-1=Певно, ви бачили усі ці фантастичні серіали про роботів, які повстають проти людей.
 
@@ -1348,7 +1348,7 @@ PC15C_TIDY_RULE1-17=Життя навчило мене... для всього б
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What makes you so certain that Dr. Hush respected the "no killing" convention?
 PC15C_TIDY_RULE2-1=Чому ви так впевнені, що доктор Гаш дотримався правила "не вбивати", коли розробляв бота?
 
@@ -1554,7 +1554,7 @@ PC15C_TIDY_HIMSELF2-11=Або в нього гвинтика бракує...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### ...or Dr. Hush is an exhibitionist.
 PC15C_TIDY_HIMSELF2-12=...або доктор Гаш - ексгібіціоніст.
 

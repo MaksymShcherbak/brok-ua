@@ -28,12 +28,12 @@ HINT_CH1_10_ENTERSECTOR56X3=Ліва кнопка - два і помножує �
 ### What are you waiting for, croc dude? Enter Center Basic 568 and talk to Sin! His apartment is the first door on the right.
 HINT_CH1_10_MEETSIN1=Чого ти чекаєш, чуваче? Заходь у Базовий Центр 568 та поговори з Сіном! Його квартира - перші двері праворуч.
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### You'd better ask Sin for more info about the gun and Drumer Street before leaving!
 HINT_CH1_20_MORETALK1=Тобі краще запитати в Сіна більше про пістолет та вулицю на Верхах, перш ніж піти!
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### You can't access Drumer Street without authorization. Maybe your friend Shay has a trick up her sleeve!
 HINT_CH1_20_DRUMERBEFORESHAY1=Ти не можеш потрапити на Верхи без авторизації. Можливо, твоя подруга Шей має козир у рукаві!
@@ -101,7 +101,7 @@ HINT_CH1_20_PYRAMIDINSIDEBOTTOM2=Зліва направо, натискай н�
 ### Hold your breath and try the scanner at the border post...
 HINT_CH1_20_PYRAMIDOK1=Схрести пальці та спробуй сканер на прикордонному посту...
 
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Enter Drumer street.
 HINT_CH1_20_BORDER1=Увійди на Верхи.
 
@@ -119,7 +119,7 @@ HINT_CH1_30_ELECTRICBARRIER2=Пан Трибот-коп, схоже, охоро�
 HINT_CH1_30_ELECTRICBARRIER3=Ненавиджу триботів. Так, навіть якщо я й сам ШІ. Це вважається расизмом?##У будь-якому випадку, повозися з поштоматом! Спробуй зробити так, щоб щось там застрягло! Бачиш цей фонтан? Можливо, він також може бути корисним!
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
-# NB: Lexicon word in Ukrainian for "Pred Toy": "Пред"
+# NB: Lexicon word in Ukrainian for "Pred Toy": "іграшка "Пред""
 ### Use the Pred toy on the fountain water, then stuff it into the Pipe-Mail. Wait a few seconds, and ta-da!##In case you didn't pick it up yet (open your eyes, croc dude!), it's located at the top of the building near your home, near the Trasher Hunt.
 HINT_CH1_30_ELECTRICBARRIER4=Використай іграшку "Пред" на воді з фонтану, потім засунь її у поштомат. Зачекай кілька секунд. Та-да!##Якщо ж ти її ще не взяв, відкрий очі, чуваче! Вона знаходиться нагорі твого будинку, біля "мисливства за мотлохом".
 
@@ -170,7 +170,7 @@ HINT_CH1_50_BEFORERAT2=Візьми пульт керування в кварт�
 HINT_CH1_50_RATSPIPE1=Серйозно? Ти не битимешся з ними?! Вау, я щодня відкриваю тебе з нового боку.##Звісно, тобі все одно потрібно просунутися далі, тож ти маєш знайти інший спосіб позбутися цих щурів. Гей, а це хіба не труба позаду Верескунів...? Може, вона з'єднана з поштоматом на вулиці зверху?
 
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Did you pick up the broken mine near those rats? Putting it inside the Pipe-Mail on Drumer street could have some... interesting effects!##But alas, it's broken... Maybe try asking for a friend's opinion?
 HINT_CH1_50_RATSPIPE2=Ти підібрав зламану міну поблизу тих Верескунів? Покласти її у поштомат на вулиці на Верхах може мати... цікавий ефект!##Але, на жаль, вона зламана... Може, спробуєш запитати думку подруги?
 
@@ -234,14 +234,14 @@ HINT_CH1_60_CLUE_DRUMERSTREET_PILL_YES1=В аптеці є сканер для �
 HINT_CH1_60_CLUE_DRUMERSTREET_PILL_YES2=Поклади пігулку Сіна на сканер в аптеці, щоб зрозуміти, що це!
 
 
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### You should talk to that merchant in Sector 56X! She might know something!
 HINT_CH1_60_CLUE_SECTOR56X_SLEEPING1=Тобі варто поговорити з крамаркою в Секторі 56X! Вона може щось знати!
 
 ### Hey! Have you checked that left drawer in the back of the pharmacy?
 HINT_CH1_60_CLUE_DRUMERSTREET_DRAWERFORCED1=Гей! Ти перевірив ліву шухляду в задній частині аптеки?
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Time to fight Sin, croc dude! Avoid his glasses or block them with your guard button. Make sure you stock enough food!
 HINT_CH1_70_FIGHTSIN1=Час битися з Сіном, чуваче! Уникай його склянок або блокуй їх кнопкою захисту. Переконайся, що у тебе достатньо їжі!

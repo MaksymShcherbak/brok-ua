@@ -4,20 +4,20 @@
 #-------------------------------
 
 #----- Hints GRAFF --------
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Kitty, the hacker lives in the back street. Go meet him!
 HINT_CH6_255_HACKERGO1=Кошенятко, гакер живе у провулку. Іди познайомся з ним!
 
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Ask the hacker about your request.
 HINT_CH6_255_HACKERMISSION1=Спитай гакера про своє прохання.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### So... That hacker guy wants a ton of moolah. There aren't too many ways to get this within a day, kitty. Actually, there's only one. Think about what you picked up today...
 HINT_CH6_255_HACKERMONEY1=Тож... Той гакер хоче купу бабла. За день не так уже й багато способів стільки роздобути, кошенятко. Насправді, лише один. Подумай, що ти сьогодні знайшов...
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Show the hacker your bank statement.
 HINT_CH6_255_HACKERMONEY2=Покажи гакерові виписку з банку.
 
@@ -51,7 +51,7 @@ HINT_CH6_260_BUNKERFRAME1=Поглянь на рамку на правій ст�
 ### Talk to Dee.
 HINT_CH6_260_BUNKERDEE1=Поговори з Ді.
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Interrogate Dr. Gherkin.
 HINT_CH6_260_BUNKERINTERROGATE1=Допитай доктора Геркіна.
 
@@ -64,14 +64,14 @@ HINT_CH6_270_BUNKERBOTS1=Знайди спосіб позбутися цих б�
 ### Take a look at those wires behind that furniture in the room where the Tribots were. Then move the furniture!
 HINT_CH6_270_FURNITURE1=Поглянь на ті дроти за меблями в кімнаті, де стояли Триботи. А тоді посунь меблі!
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Check that control panel and ask Dr. Gherkin for his opinion!
 HINT_CH6_270_CONTROLPANEL1=Перевір ту панель керування та спитай думку доктора Геркіна!
 
 ### Switch to action mode and destroy that button panel! Then pick up the box inside it.
 HINT_CH6_270_BUTTONBOX1=Перемкнися в режим бійки та знищ ту панель з кнопками! А тоді забери коробку, що всередині.
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Give the little box you have to Dr. Gherkin.
 HINT_CH6_270_GIVEBOX1=Віддай маленьку коробку докторові Геркіну.
 
@@ -87,7 +87,7 @@ HINT_CH6_280_SINJAIL2=Скористайся пультом керування, 
 ### Search around the city for Graff. You know where he was the last time, right?... You might want to prepare yourself before going there, though.
 HINT_CH6_290_SEARCHGRAFF1=Пошукай Граффа по місту. Ти ж знаєш, де він був минулого разу, правда...? Щоправда, варто підготуватися, перш ніж туди йти.
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### The hacker back street. Go talk to R.J. if he's there, otherwise go to the hacker. Then visit the street.
 HINT_CH6_290_SEARCHGRAFF2=Провулок гакера. Поговори з Р. Джеєм, якщо він там, інакше йди до гакера. Потім відвідай провулок.

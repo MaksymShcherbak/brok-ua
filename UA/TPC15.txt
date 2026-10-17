@@ -13,7 +13,7 @@
 #-------------------------------
 
 #----- Interactions --------
-# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+# NB: Lexicon word in Ukrainian for "Hoverbike": "аероцикл"
 ### Hoverbike
 PC_BIKE=Аероцикл
 
@@ -162,7 +162,7 @@ PC15_FALL_OTT-1=О ні-іііііі!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
+# NB: Lexicon word in Ukrainian for "Hoverbike": "аероцикл"
 ### Now that's a cool hoverbike!
 PC15_BIKE1-1=Оце так крутий аероцикл!
 
@@ -254,7 +254,7 @@ PC15_STORY170_TIYDYFLEES1-3=Ну добре, злови цього бляшан�
 
 #----------------------------------------------------
 # Brok - After the chase
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Hey chief!
 PC15_STORY180_BACK1-1=Гей, шефе!
 
@@ -315,8 +315,8 @@ PC15_STORY180_BACK1-12=Люди в шоці. У новинах тільки пр
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Hoverbike": "Аероцикл"
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Hoverbike": "аероцикл"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### You stole a hoverbike. You bumped into Aircars!
 PC15_STORY180_BACK1-13=Ти вкрав аероцикл. Ти врізався в аеромобілі!
 

@@ -81,7 +81,7 @@ PC04_PIPEMAIL_DESTROY=Викинути
 
 
 #----- Topics --------
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard
 TOPIC_GUARD=Охоронець
 
@@ -110,8 +110,8 @@ PC04_WELCOME1-2=Воно майже не змінилося з тих пір, я
 
 #----------------------------------------------------
 # Brok - Room interactions
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Drumers work in offices, their rears on floating chairs. Others stay in bed all day...
 PC04_FITNESSCLUB1-1=Мешканці Верхів працюють в офісах, постійно сидячи на повітряних стільцях. Інші цілими днями лежать у ліжку...
 
@@ -151,8 +151,8 @@ PC04_CAMERA1-2=Схоже, вона вимкнена.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### A memorial fountain... "Autarchism day - 3026 A.R."
 PC04_FOUNTAIN1-1=Пам'ятний фонтан... "День Аутархізму - 3026 П.В."
 
@@ -170,8 +170,8 @@ PC04_FOUNTAIN1-3=Але глибока економічна криза приз�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I'm not surprised to see this fountain here. Drumers profited from this situation... unlike us.
 PC04_FOUNTAIN2-1=Я не здивований бачити тут цей фонтан. Мешканці Верхів виграли від цієї ситуації... на відміну від нас.
 
@@ -973,7 +973,7 @@ PC04_TRIBOTCOP_HIMSELF1-1=Ну що ж! Скажи мені, гумовий др
 
 # Tribotcop
 # NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Moderately well. Our priority assignment is to guard the Pipe-Mail, but our battery level is running low.
 PC04_TRIBOTCOP_HIMSELF1-2=Посередньо. Пріоритетне завдання - охороняти Поштомат, але рівень заряду нашої батареї низький.
 
@@ -1115,13 +1115,13 @@ PC04_TRIBOTCOP_DEVICE2-2=Статистика свідчить, що фізич�
 
 
 # Tribotcop - "human pretending" is for real but players won't notice it at this point... See the end of game PC20 reveal with Wes.
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Despite this, our silly human-pretending chief prefers physical access.
 PC04_TRIBOTCOP_DEVICE2-3=Незважаючи на це, наш шеф удає з себе дурнувату пародію на людину, надаючи перевагу фізичному доступу.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### You mean... The chief of police?
 PC04_TRIBOTCOP_DEVICE2-4=Ти маєш на увазі... шефа поліції?
 
@@ -1545,8 +1545,8 @@ PC04_MATERIAL1B-1=Я не очікував, що шукатиму торт... у
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### It still looks good. Drumers are such big wasters.
 PC04_MATERIAL1B-2=Він усе ще добре виглядає. Мешканці Верхів такі марнотратники.
 
@@ -1580,7 +1580,7 @@ PC04_ACCESS2-1=Раніше я ходив туди щодня... А зараз �
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Just your high tech Drumer garbage collector.
 PC04_GARBAGE1-1=Просто високотехнологічний сміттєзбірник мешканців Верхів.
 

@@ -752,8 +752,8 @@ PC09D_Q2_HANDYMAN-7=Усі ці завдання боти можуть вико�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### We Slumers would never let our jobs in the hands of petty tin cans!
 PC09D_Q2_HANDYMAN-8=Ми, мешканці Нетрів, ніколи б не віддали нашу роботу дріб'язковим бляшанкам!
 
@@ -921,7 +921,7 @@ PC09D_Q3_GRAFF-12=Моя пам'ять - не база даних, знаєш.
 
 
 # Tribotcop
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### The chief means he's getting old and can't be as efficient as he used to.
 PC09D_Q3_GRAFF-13=Шеф має на увазі, що він старіє і не може бути таким ефективним, як раніше.
 
@@ -942,8 +942,8 @@ PC09D_Q3_GRAFF-16=Мені потрібно було заробляти на ж�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### The police ain't helping us so I figured a lot of Slumers could use my assistance...
 PC09D_Q3_GRAFF-17=Поліція нам не допомагає, тож я подумав, що багатьом мешканцям Нетрів знадобиться моя допомога...
 
@@ -1468,7 +1468,7 @@ PC09D_Q5_INVESTIGATING-7=Е-е... Ну знаєте...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I used to be a Drumer, so...
 PC09D_Q5_INVESTIGATING-8=Раніше я був мешканцем Верхів, тож...
 
@@ -1594,7 +1594,7 @@ PC09D_Q5_REVOCATION-9=(Добре. Це дає мені трохи часу.)
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin reported losing his gun in Drumer Street.
 PC09D_Q5_HACKING-1=Сін повідомив, що загубив пістолет на Верхах.
@@ -2177,7 +2177,7 @@ PC09D_Q8_KILLEDTRAMP-2=Я... Я знаю.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### This morning, I terminated a tramp on my street.
 PC09D_Q8_KILLEDTRAMP-3=Сьогодні вранці я вбив волоцюгу на своїй вулиці.
 
@@ -2203,7 +2203,7 @@ PC09D_Q8_KILLEDTRAMP-7="Добре?" І це все...?
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Tramp": "Волоцюга"
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramps aren't considered valuable people. Quite the opposite, actually.
 PC09D_Q8_KILLEDTRAMP-8=Волоцюги не вважаються цінними членами суспільства. Скоріше навпаки.
 
@@ -2635,9 +2635,9 @@ PC09D_Q10_TRAMP-3=Угу.
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### I'm guessing he was a Slumer.
-PC09D_Q10_TRAMP-4=Думаю, він був нетрівцем.
+PC09D_Q10_TRAMP-4=Думаю, він був Нетрівцем.
 
 
 # Brok
@@ -2661,8 +2661,8 @@ PC09D_Q10_TRAMP-8=Не повинна.
 
 
 # Tribotcop
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### As a general rule, the population refered to as "Slumers" aren't paying contributions to the police department.
 PC09D_Q10_TRAMP-9=За загальним правилом, населення, яке називають "мешканцями Нетрів", не сплачує внесків до відділку поліції.
 
@@ -2941,7 +2941,7 @@ PC09D_OVER3-9=Від кого?!
 
 #----------------------------------------------------
 # RJ
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### You asked me, chief?
 PC09D_OVER4-1=Ви кликали мене, шеф?
 
@@ -3003,7 +3003,7 @@ PC09D_OVER5-9=Добре, добре...!
 
 
 # RJ
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### You've changed... Chief.
 PC09D_OVER5-10=Ви змінилися... Шеф.
 
@@ -3045,13 +3045,13 @@ PC09D_DEAD1-6=Цей інцидент не повинен розголошува
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Erase all evidence including the body. Nobody will look for a Slumer.
-PC09D_DEAD1-7=Знищте всі докази, включно з тілом. Ніхто не шукатиме нетрівця.
+PC09D_DEAD1-7=Знищте всі докази, включно з тілом. Ніхто не шукатиме Нетрівця.
 
 
 # Tribotcop
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Yes, chief!
 PC09D_DEAD1-8=Так, шефе!
 

@@ -376,7 +376,7 @@ PC01_DOORFRIDGE_STICK-1=Моєї руки має вистачити!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### Ah... I remember! Someone paid me with this energy drink.
 PC01_FRIDGE_DRINK-1=А... Згадав! Хтось розплатився зі мною цим енергетиком.
 
@@ -440,7 +440,7 @@ PC01_PICTURE_CLOSEUP1-2=Ми були щасливі разом... Хоч це �
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### Pampalos fruits.
 PC01_FRUITCUP1-1=Фрукти пампалос.
 
@@ -474,7 +474,7 @@ PC01_FRUITCUP1B-4=Ну... А чому це ні?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### I already took a Pampalos fruit. Should be enough.
 PC01_FRUITCUP2-1=Я вже взяв один пампалос. Має вистачити.
 
@@ -719,8 +719,8 @@ PC01_GRAFF_SCHOOL1-6=У нас теж немає.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Yeah, but that's only because you're poor as a church mouse. School teachers are Drumers.
 PC01_GRAFF_SCHOOL1-7=Так, але це лише тому, що ти бідний як церковна миша. А вчителі школи - це мешканці Верхів.
 
@@ -1235,14 +1235,14 @@ PC01_CLOTHES_ADVERT1-2=Може знадобитись!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
 ### A katshu. I used to play this instrument when I was young.
 PC01_INSTRUMENT1-1=Катшу. Я грав на цьому інструменті, коли був молодим.
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Katshu": "Катшу"
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
 ### I'm afraid I forgot how to play the katshu. These days I barely have time for any kind of leisure...
 PC01_INSTRUMENT2-1=Боюся, я вже забув, як грати на катшу. У мене ледве вистачає часу на будь-яке дозвілля...
 
@@ -2253,7 +2253,7 @@ PC01_STORY110_BROKUNDERSTAND1-4=Щось змусило його збожево�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Tomorrow... I'll need to talk to the school director.
 PC01_STORY110_BROKUNDERSTAND1-5=Завтра... Мені треба буде поговорити з директоркою школи.
 
@@ -3139,7 +3139,7 @@ PC01_DAY2BEGIN_CHOICEWES1-1=Я не можу дозволити собі зно�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### After all, the Director ain't going anywhere. I can go to school later.
 PC01_DAY2BEGIN_CHOICEWES1-2=Зрештою, директорка нікуди не дінеться. Я можу піти до школи пізніше.
 
@@ -3571,14 +3571,14 @@ PC01_DAY2END_RJTRICK-1=(Мені соромно за те, що я обдури�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### (I smashed that hacker to get that chip.)
 PC01_DAY2END_HACKERATTACK-1=(Я відгамселив того гакера, щоб здобути той чип.)
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### (I got tricked by that hacker into spending a crazy amount of money to get that chip.)
 PC01_DAY2END_HACKERMONEY-1=(Той гакер обдурив мене, змусивши витратити шалені гроші на той чип.)
 
@@ -3622,7 +3622,7 @@ PC01_DAY2END_MURDERTIDY-1=(Я гнався за тим божевільним б
 
 #----------------------------------------------------
 # Brok - Figuratively speaking - player can choose to go crazy and attack everyone
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### (I had to fight that guard after I went off the rails...)
 PC01_DAY2END_MURDERGUARD-1=(Мені довелося битися з тим охоронцем після того, як я злетів з котушок...)
 
@@ -3983,13 +3983,13 @@ PC01_DAY2ENDD1-10=Я тебе майже не знаю!
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### To me you're just a stranger pretending to offer me shelter, when in truth...
 PC01_DAY2ENDD1-11=Для мене ти просто незнайомець, який прикидається добряком і дає мені притулок, хоча насправді...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### That stranger took everything from me.
 PC01_DAY2ENDD1-12=Цей незнайомець відібрав у мене все.
 
@@ -4025,7 +4025,7 @@ PC01_DAY2ENDD1-18=Я роблю все можливе, щоб ми могли в
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### I was destined to become Drumer!
 PC01_DAY2ENDD1-19=Мені судилося стати мешканцем Верхів!
 
@@ -4495,7 +4495,7 @@ PC01_DAY3BEGIN2_ALTERNATIVE-1=Пане.
 
 
 # Tribot
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Chief officer Wes will not need your services until further notice.
 PC01_DAY3BEGIN2_ALTERNATIVE-2=Шеф поліції Вес не потребуватиме ваших послуг до подальших розпоряджень.
@@ -4702,8 +4702,8 @@ PC01_DAY3BEGIN4-22=Іноді... Нам доводиться діяти зара
 # Graff
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
 # NB: Lexicon word in Ukrainian for "The Haze": "Смог"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### Besides. With the Haze... Slumers like us won't go very far without the Toxout pills.
 PC01_DAY3BEGIN4-23=До того ж. Через Смог... мешканці Нетрів довго не протягнуть без смогових пігулок.
@@ -4969,7 +4969,7 @@ PC01_STORY290_CALLOTT-6=(Зітхає) Ну ось, мій рівень стре
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Okay then. The school Director!
 PC01_STORY290_CALLDIRECTOR-1=Ну що ж. Тоді директорка школи!
 
@@ -5212,7 +5212,7 @@ PC01_STORY300_INIT1C-1=Ти.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You're a Drumer.
 PC01_STORY300_INIT1C-2=Ти мешканець Верхів.
 
@@ -5238,7 +5238,7 @@ PC01_STORY300_INIT1C-6=Я ж казав тобі, що я був лише тим
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### I'll tell your Director! She will...
 PC01_STORY300_INIT1C-7=Я скажу вашій директорці! Вона...
 
@@ -5295,7 +5295,7 @@ PC01_STORY300_INIT1D-2=Ти що?!
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### That hacker...
 PC01_STORY300_INIT1D-3=Той гакер...
 
@@ -5368,7 +5368,7 @@ PC01_STORY300_INIT1D-16=З мого боку все теж ускладнило�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### But I don't care what it takes! You deserve to be a Drumer!
 PC01_STORY300_INIT1D-17=Але мені байдуже, чого б це мені не коштувало! Ти заслуговуєш жити на Верхах!
 
@@ -5470,8 +5470,8 @@ PC01_STORY300_INIT1E-1=Фото...?
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### This happened at Autarchism Day.
 PC01_STORY300_INIT1E-2=Це сталося в день Аутархізму.
 
@@ -5694,7 +5694,7 @@ PC01_STORY300_INIT1E3B-5=Тут у Нетрях немає жодного спо
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### When I was put in charge of you... I knew you'd want to become a Drumer someday.
 PC01_STORY300_INIT1E3B-6=Коли я став твоїм опікуном... я знав, що ти колись захочеш жити на Верхах.
 
@@ -5803,7 +5803,7 @@ PC01_STORY300_INIT1F_VIOLENCE-6=Тому я спробував змахлюва�
 # Graff
 # NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### That hacker made me an offer. But he ended up turning us in to those Squealers.
 PC01_STORY300_INIT1F_VIOLENCE-7=Той гакер зробив мені пропозицію. Але врешті-решт здав нас тим Верескунам.
 
@@ -6139,7 +6139,7 @@ PC01_STORY300_INITG4B-2=Що?!
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### I paid the hacker with it. 100,000 Unis.
@@ -6806,7 +6806,7 @@ PC01_STORY300_INVOICEPAID-1=Вибач, але... Я мушу спитати.
 
 
 # Graffchat
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### "You're not a stranger, are you?"
 PC01_STORY300_INVOICEPAID-2="Ти ж не незнайомець, правда?"
 
@@ -7559,7 +7559,7 @@ PC01_CLUE_GARAGE_LOOP-2=Я чітко пам'ятаю тінь від того �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### What Dr. Gherkin said earlier stuck with me.
 PC01_CLUE_GARAGE_LOOP-3=У моїй голові засіло те, що сказав доктор Геркін.
 

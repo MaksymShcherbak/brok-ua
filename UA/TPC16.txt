@@ -86,10 +86,10 @@ PC16_WINDOW1-2=Мене, мабуть, мало б здивувати, що ск
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Actually Slumers aren't quite the vandals Drumers think we are. We don't break the law without good reason.
 PC16_WINDOW1-3=Взагалі-то нетрівці зовсім не такі вандали, якими нас вважають мешканці Верхів. Ми не порушуємо закон без поважної причини.
 
@@ -365,21 +365,21 @@ PC16_RESULT_SOMETHING5-1=О!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Energy drink": "Енергетичний напій"
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
 ### Cool, an energy drink!
 PC16_RESULT_ENERGYDRINK-1=Круто, енергетик!
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Pizzant": "Мурахопіца"
+# NB: Lexicon word in Ukrainian for "Pizzant": "мурахопіца"
 ### A pizzant!...
 PC16_RESULT_PIZZANT-1=Мурахопіца...!
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Pampalos": "Пампалос"
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
 ### A... Pampalos! And it's not even rotten!
 PC16_RESULT_PAMPALOS-1=О... пампалос! І навіть не зіпсований!
 
@@ -425,7 +425,7 @@ PC16_RESULT_XPUPGRADE2-1=Експертне навчальне відео!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Energy serum": "Енергетична сироватка"
+# NB: Lexicon word in Ukrainian for "Energy serum": "енергетична сироватка"
 ### Nice. A precious energy serum!
 PC16_RESULT_ENERGYSERUM-1=Чудово. Дорогоцінна енергетична сироватка!
 

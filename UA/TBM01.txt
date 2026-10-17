@@ -61,11 +61,11 @@ BM01_OBJECTIVE_TUTORIAL3=Знищіть усі цілі
 ### {command}
 BM01_SUBTITLE_TUTORIAL4={command}
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold the guard button <button=INPUT_ACTION_GUARD> and click away from the direction you are facing.
 BM01_SUBTITLE_TUTORIAL4_MOUSE=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та клацніть у протилежному від себе напрямку.
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Hold the guard button <button=INPUT_ACTION_GUARD> and press <spr=GAMEPAD_STICKLEFT> opposite of the direction you are facing. You can also use <spr=GAMEPAD_STICKRIGHT>.
 BM01_SUBTITLE_TUTORIAL4_GAMEPAD=Утримуйте кнопку захисту <button=INPUT_ACTION_GUARD> та натисніть <spr=GAMEPAD_STICKLEFT> у протилежному від себе напрямку, або використовуйте <spr=GAMEPAD_STICKRIGHT>.
 

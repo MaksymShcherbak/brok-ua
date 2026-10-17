@@ -42,7 +42,7 @@ CH4_CALL_WES-1=Не зараз.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Outside communications have been blocked by the guard...
 CH4_CALL_IMPOSSIBLE-1=Зв'язок з зовнішнім світом був заблокований цим охоронцем...
 
@@ -712,7 +712,7 @@ CHAPTER4_EXIT_KLAYDEAD2-15=Той, хто багато років тому ст�
 
 # Director
 # NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### The Consciousness Center... The opportunity to become a Drumer...
 CHAPTER4_EXIT_KLAYDEAD2-16=Центр Свідомості... Можливість стати мешканцем Верхів...
 
@@ -763,7 +763,7 @@ CHAPTER4_EXIT_KLAYDEAD2-25=Га...?
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### The Creator thought you didn't deserve to be a Drumer if you failed these tests.
 CHAPTER4_EXIT_KLAYDEAD2-26=Творець вважав, що ти не заслуговуєш бути мешканцем Верхів, якщо не пройдеш ці випробування.
 

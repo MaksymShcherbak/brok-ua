@@ -18,7 +18,7 @@
 
 #----- Interactions --------
 # Female
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### Merchant
 PC_FLOWERS=Крамарка
 
@@ -93,11 +93,11 @@ INTERROGATION_CONNECTION=Який її зв'язок із Броком?
 ### Who is she?
 INTERROGATION_IDENTITY=Хто вона така?
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### What's the real reason she contacted Dr. Gherkin?
 INTERROGATION_WANT=Яка справжня причина її звернення до доктора Геркіна?
 
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Why does she suspect Dr. Gherkin?
 INTERROGATION_WHYGHERKIN=Чому вона підозрює доктора Геркіна?
 
@@ -282,7 +282,7 @@ PC06_OTHERBUILDING2-1=Я не можу просто так заходити в �
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### All kinds of stuff related to the Untail...
 PC06_STALL1-1=Усілякі дрібниці, пов'язані з Безхвостям...
 
@@ -422,8 +422,8 @@ PC06_FLOWERS_WELCOME1-16=Ні! Він сказав мені, що працює �
 
 
 # Flower
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Goes to show that even Drumers aren't so happy with their lives after all.
 PC06_FLOWERS_WELCOME1-17=Це свідчить про те, що навіть мешканці Верхів не такі вже й щасливі зі своїм життям.
 
@@ -490,7 +490,7 @@ PC06_FLOWERS_WELCOME2-9=Ось тут ви й помиляєтеся!
 
 
 # Flower
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### The true purpose of the Untail lies exactly there. Helping us stay strong!
 PC06_FLOWERS_WELCOME2-10=Справжня мета Безхвостя полягає саме в цьому. Допомагати нам лишатися сильними!
 
@@ -589,8 +589,8 @@ PC06_GHERKIN_FIRST2-2=Я починаю хвилюватися.
 
 
 # Gherkin
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### No. I-I believe most Slumers are staying inside.
 PC06_GHERKIN_FIRST2-3=Ні. Я-я думаю, більшість мешканців Нетрів сидять по домівках.
 
@@ -742,7 +742,7 @@ PC06_GHERKIN_DEE-3=Я... не очікував...
 
 
 # Dee
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin, I explicitly told you we should meet privately.
 PC06_GHERKIN_DEE-4=Докторе Геркіне, я чітко казала, що ми маємо зустрітися приватно.
 
@@ -1074,7 +1074,7 @@ PC06_CLUE_DEE_GHERKINWARN-8=Я знаю, як витягувати факти з
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Now, considering you're the journalist who contacted Dr. Gherkin while concealing your identity...
 PC06_CLUE_DEE_GHERKINWARN-9=Враховуючи, що ти журналістка, яка зв'язалася з доктором Геркіном, приховуючи свою особу...
 
@@ -1183,7 +1183,7 @@ PC06_CLUE_DEE_WORRIEDSIN-9=Ти була на тій фотографії.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### The hacker also mentioned you did research on Sin.
 PC06_CLUE_DEE_WORRIEDSIN-10=Гакер також згадав, що ти шукала інформацію про Сіна.
@@ -1200,15 +1200,15 @@ PC06_CLUE_DEE_WORRIEDSIN-12=Усе це має сенс.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 # NB: Lexicon word in Ukrainian for "Sin": "Сін"
 ### Sin was a Drumer, so you'd have to be as well.
 PC06_CLUE_DEE_WORRIEDSIN-13=Сін раніше був мешканцем Верхів, тож ти, мабуть, теж.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Journalism is a job only Drumers can do.
 PC06_CLUE_DEE_WORRIEDSIN-14=Журналістика - це робота, яку можуть виконувати лише мешканці Верхів.
 
@@ -1281,7 +1281,7 @@ PC06_CLUE_DEE_WORRIEDSIN-27=Чого саме ти шукаєш?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### It's obvious you hold a grudge against Dr. Gherkin.
 PC06_CLUE_DEE_GHERKINTHREAT-1=Очевидно, що ти маєш зуб на доктора Геркіна.
 
@@ -1302,7 +1302,7 @@ PC06_CLUE_DEE_GHERKINTHREAT-4=Мені важко це уявити, але...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Is Dr. Gherkin a threat?
 PC06_CLUE_DEE_GHERKINTHREAT-5=Доктор Геркін становить загрозу?
 
@@ -1354,7 +1354,7 @@ PC06_CLUE_DEE_GHERKINGOVERNMENT-1=Не може бути!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### You asked the hacker for searches on the Government...
 PC06_CLUE_DEE_GHERKINGOVERNMENT-2=Ти просила гакера пошукати інформацію про Уряд...
 
@@ -1700,7 +1700,7 @@ PC06_TRAILER1-1=Нам потрібно зберігати оптимізм!
 
 #----------------------------------------------------
 # Unknown
-# NB: Lexicon word in Ukrainian for "Merchant": "Крамарка"
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
 ### One of those Untail street merchants.
 COOP_PC06_FLOWERS1-1=Одна з тих вуличних крамарок, схиблених на релігії Безхвостя.
 

@@ -106,7 +106,7 @@ PC11B_CENTERDEVICE1-1=Якщо я не помиляюся... Це Гологра
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### A multimedia holographic device to watch all your favorite programs and livies for hours in the comfort of your home!
 PC11B_CENTERDEVICE1-2=Мультимедійний голографічний пристрій, щоб годинами дивитися всі ваші улюблені програми та серіали у затишку власного дому!
 

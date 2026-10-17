@@ -18,7 +18,7 @@
 ### Back street
 PC_BACKSTREET=Провулок
 
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### To hacker street
 PC_TO_HACKER=До провулка гакера
 
@@ -1030,7 +1030,7 @@ PC14B_PIPE_CUTTING3-1=Ідеально!
 
 #----------------------------------------------------
 # Brok - Day 2 end of day - RJ isn't here
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Hmm... Looks like my hacker friend went away.
 PC14B_DOOR_STORY190-1=Гмм... Схоже, мій друг-гакер кудись пішов.
 
@@ -1101,7 +1101,7 @@ PC14B_GHERKIN_FIRSTGOOD-2=Повернув роботу?
 
 
 # RJ
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### Yeah. Hacker reconsidered.
 PC14B_GHERKIN_FIRSTGOOD-3=Ага. Гакер передумав.
 
@@ -1344,7 +1344,7 @@ PC14B_GHERKIN_RJ_COLLAPSED-3=Без допомоги йому краще не с
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### (Better not move until Dr. Gherkin is done)
 PC14B_GHERKIN_CANTMOVE-1=(Краще не рухатися, доки доктор Геркін не закінчить)
 
@@ -1574,7 +1574,7 @@ PC14B_GHERKIN_RJSAVED_AFTER-9=У тебе є робота. Тримайся за
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### That hacker may be despicable, he's still a valuable person who needs protection.
 PC14B_GHERKIN_RJSAVED_AFTER-10=Цей гакер може бути мерзотником, але він усе одно цінна особа, яка потребує захисту.
 
@@ -1904,7 +1904,7 @@ PC14B_GHERKIN_TOOLATE-46=Ох... І...
 
 
 # Gherkin
-# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
 ### I'd call the Body Recycling service but... In our situation...
 PC14B_GHERKIN_TOOLATE-47=Я б викликав Службу Переробки Тіл, але... У нашій ситуації...
 
@@ -2192,7 +2192,7 @@ PC14B_DIRECTOR_ALTERNATIVE-3=Гей! Ви...
 
 
 # Director
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### The director of the Center. We met at the fair yesterday.
 PC14B_DIRECTOR_ALTERNATIVE-4=Директорка Центру. Ми зустрічалися вчора на ярмарку.
 

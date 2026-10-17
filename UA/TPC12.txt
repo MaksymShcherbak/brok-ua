@@ -1355,7 +1355,7 @@ PC12_BOLT_HELP_GUARDSCOME1-2=Відійдіть.
 
 
 # Bolt
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Oh no - the guards!
 PC12_BOLT_HELP_GUARDSCOME1-3=О ні - охоронці!
 
@@ -1436,7 +1436,7 @@ PC12_BOLT_HELP_GUARDSCOME1D-1=Прощавайте - господарю Брок
 
 #----------------------------------------------------
 # Tribot
-# NB: Lexicon word in Ukrainian for "Stranger": "Незнайомець"
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
 ### Stranger Eliminated. Now Please Come With Us.
 PC12_BOLT_GUARDS_GAMEOVER-1=Незнайомця знищено. Тепер, будь ласка, ходімо з нами.
 
@@ -2134,7 +2134,7 @@ PC12_GHERKIN_CHITCHAT2-9=Запитуйте мене про щось, будь �
 
 #----------------------------------------------------
 # Brok - ASking Gherkin to repair the distributor
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### Dr. Gherkin! Can you fix this vending machine?
 PC12_DISTRIBUTORBROKEN_FIX-1=Докторе Геркіне! Чи можете ви полагодити цей торговельний автомат?
 
@@ -2177,7 +2177,7 @@ PC12_DISTRIBUTORBROKEN_FIX2-2=Чудово!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 ### I should have asked Dr. Gherkin to fix it...
 PC12_DISTRIBUTORBROKEN_DIDNOTFIX-1=Варто було попросити доктора Геркіна полагодити його...
 
@@ -2714,7 +2714,7 @@ PC12_DRUMER6D-2=Мій доступ анулювали...
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### But... The Director said it was permanent...!
 PC12_DRUMER6D-3=Але... директорка сказала, що він постійний...!
 
@@ -3110,7 +3110,7 @@ PC12_DRUMER12-2=Ситуація в Нетрях владналася сама �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "Д-р Геркін"
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
 # NB: Lexicon word in Ukrainian for "Dee": "Ді"
 ### Dee and Dr. Gherkin disappeared into thin air...
 PC12_DRUMER12-3=Ді та доктор Геркін розчинилися в повітрі...

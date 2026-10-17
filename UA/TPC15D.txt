@@ -44,7 +44,7 @@
 ### Wires
 PC_WIRES=Дроти
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush
 PC_DRHUSH=Д-р Гаш
 
@@ -114,7 +114,7 @@ GOT_LABFLOWER=Квітка з лабораторії!
 
 
 #----- Topics --------
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Charge Dr. Mink for the murder?
 PC15D_CHARGE_MINK=Звинуватити доктора Мінка у вбивстві?
 
@@ -129,7 +129,7 @@ INTERROGATION_CAUSEOFDEATH=Місце злочину
 ### The true cause of death
 INTERROGATION_TRUECAUSE=Справжня причина смерті
 
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### What proves that Antburger sauce was used?
 INTERROGATION_CAUSEOFDEATHPROOF=Що доводить, що було використано соус від мурахобургера?
 
@@ -140,19 +140,19 @@ INTERROGATION_ACCESSNANITES=Як злочинець міг дістати нан
 ### Prove that Tidy is lying!
 INTERROGATION_PROVETIDYLYING=Довести, що Тайді бреше!
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Where was Dr. Hush at 5:10?
 INTERROGATION_DRHUSHWHERE=Де був доктор Гаш о 5:10?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What proves Dr. Hush was in the vent?
 INTERROGATION_VENTPROOF=Що доводить, що доктор Гаш був у вентиляції?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Where was Dr. Hush poisoned?
 INTERROGATION_WHEREPOISONED=Де отруїли доктора Гаша?
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Why didn't the guard notice Tidy in the hall?
 INTERROGATION_CARRY=Чому охоронець не помітив Тайді в коридорі?
@@ -161,7 +161,7 @@ INTERROGATION_CARRY=Чому охоронець не помітив Тайді �
 ### What proves Tidy climbed the ramp?
 INTERROGATION_CRUMBS=Що доводить, що Тайді піднявся пандусом?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### How did Tidy put Dr. Hush into the vent?
 INTERROGATION_STRETCH=Як Тайді помістив доктора Гаша у вентиляцію?
@@ -170,22 +170,22 @@ INTERROGATION_STRETCH=Як Тайді помістив доктора Гаша �
 ### How could Tidy reach the vent?
 INTERROGATION_RAMP=Як Тайді міг дістатися до вентиляції?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### How could Tidy push Dr. Hush all the way through?
 INTERROGATION_TIDYPUSHDRHUSH=Як Тайді міг повністю проштовхнути доктора Гаша?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### When did Tidy push Dr. Hush?
 INTERROGATION_LAMPPUSH=Коли Тайді штовхнув доктора Гаша?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### When did Tidy REALLY push Dr. Hush?
 INTERROGATION_LAMPWRONG=Коли Тайді НАСПРАВДІ штовхнув доктора Гаша?
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### How could Tidy access Dr. Mink's lamp?
 INTERROGATION_LAMPACCESS=Як Тайді міг дістатися до лампи доктора Мінка?
@@ -199,11 +199,11 @@ INTERROGATION_LAMPOFF=Що дивного в цій лампі?
 ### What was the shock at 11:02?
 INTERROGATION_BODYFALL=Що за удар стався об 11:02?
 
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Why did Dr. Mink not hear the body fall?
 INTERROGATION_BODYMUSIC=Чому доктор Мінк не почув, як упало тіло?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### How could Tidy push Dr. Hush while charging?
 INTERROGATION_CONSCIOUSNESS=Як Тайді міг штовхнути доктора Гаша під час заряджання?
@@ -212,38 +212,38 @@ INTERROGATION_CONSCIOUSNESS=Як Тайді міг штовхнути докто
 ### What was Tidy's motive?
 INTERROGATION_MOTIVE=Який мотив був у Тайді?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Why is Dr. Hush still alive?
 INTERROGATION_ALIVE=Чому доктор Гаш досі живий?
 
 
 #Charge Hush
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Why did Dr. Hush need to enter Dr. Mink's room?
 INTERROGATION_HUSH_NEEDEDROOM=Навіщо докторові Гашу було заходити в кімнату доктора Мінка?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### What proves Dr. Hush wanted to kill Dr. Mink?
 INTERROGATION_HUSH_KILL=Що доводить, що доктор Гаш хотів убити доктора Мінка?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What proves Dr. Hush was in the vent?
 INTERROGATION_HUSH_VENT=Що доводить, що доктор Гаш був у вентиляції?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### How did Dr. Hush climb in the vent?
 INTERROGATION_HUSH_CLIMB=Як доктор Гаш заліз у вентиляцію?
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Why didn't Dr. Mink hear Dr. Hush falling?
 INTERROGATION_HUSH_HEAR=Чому доктор Мінк не почув, як падав доктор Гаш?
 
 
 #Charge Guard
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Where does the Tomatoze sauce come from?
 INTERROGATION_GUARD_STAGED=Звідки взявся томатозний соус?
 
@@ -253,21 +253,21 @@ INTERROGATION_GUARD_BED=Який є доказ, що тіло було під л
 ### What proves the monitoring has been tampered with?
 INTERROGATION_GUARD_MONITORING=Що доводить, що моніторинг підробили?
 
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### What explains the guard's motive?
 INTERROGATION_GUARD_MOTIVE=Чим пояснити мотив охоронця?
 
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush went back to his office
 PC15D_DRHUSHWHY_BACK=Доктор Гаш повернувся до свого кабінету
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush never exited his office
 PC15D_DRHUSHWHY_NEVEREXIT=Доктор Гаш не виходив зі свого кабінету
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush is a ghost
 PC15D_DRHUSHWHY_GHOST=Доктор Гаш - привид
 
@@ -279,7 +279,7 @@ PC15D_CHOICE_RIGHTPATH=Чи я на правильному шляху?
 
 
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Why did Tidy move Dr. Hush's lamp?
 PC15D_MISTAKE_CHOICES=Навіщо Тайді пересунув лампу доктора Гаша?
@@ -300,11 +300,11 @@ PC15D_FINALCHOICE=Чим пояснити, що тіло знаходиться 
 ### Tidy pushed violently
 PC15D_FINALCHOICE_PUSHED=Тайді штовхнув із силою
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush is alive
 PC15D_FINALCHOICE_ALIVE=Доктор Гаш живий
 
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Someone moved Dr. Hush
 PC15D_FINALCHOICE_MOVED=Хтось перемістив доктора Гаша
 
@@ -366,8 +366,8 @@ PC15D_POWERSOCKET1-10=Хочете сказати, таке можуть спр�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Autarchism day": "День Аутархізму"
-# NB: Lexicon word in Ukrainian for "Autarchism": "(Not yet translated)"
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
 ### Yeah. Manufactured pre-Autarchism day, I'd say.
 PC15D_POWERSOCKET1-11=Ага. Я б сказав, виготовлені ще до дня Аутархізму.
 
@@ -385,7 +385,7 @@ PC15D_POWERSOCKET2-1=Згоріла розетка. Неподалік від т
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This leads to Dr. Hush's room.
 PC15D_HOLE1-1=Це веде до кімнати доктора Гаша.
 
@@ -579,7 +579,7 @@ PC15D_LADDER1C-3=Угу. Цікаво.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### There's Tomatoze sauce!
 PC15D_LADDER1C-4=Тут томатозний соус!
 
@@ -636,7 +636,7 @@ PC15D_LADDER2-4=Не кажіть дурниць!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### I would have sent some Antburgers your way.
 PC15D_LADDER2-5=Я б надіслав вам трохи мурахобургерів.
 
@@ -1327,7 +1327,7 @@ PC15D_TABLET_MEDICAL_ACCEL500-4=Схоже радше на рекламу, ні�
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. Did you know your colleague took these?
 PC15D_TABLET_MEDICAL_ACCEL500-5=Докторе Мінку. Ви знали, що ваш колега це приймав?
 
@@ -1359,7 +1359,7 @@ PC15D_TABLET_MEDICAL_ACCEL500-10=Мене вже ніщо не дивує.
 
 #----------------------------------------------------
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Isn't that the plant lying on Mister Guard's desk?
 PC15D_TABLET_MEDICAL_PLANT-1=Хіба це не та рослина, що лежить на столі пана охоронця?
 
@@ -1415,7 +1415,7 @@ PC15D_TABLET_MEDICAL_PLANT-11=(Пс-с... Думаєте...?)
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (Yeah... Dr. Mink must have written this.)
 PC15D_TABLET_MEDICAL_PLANT-12=(Ага... Це, мабуть, написав доктор Мінк.)
 
@@ -1542,7 +1542,7 @@ PC15D_TABLETANALYSIS_LABFLOWER-4=Цікаво, чи має вона якісь �
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Will Dr. Hush's lamp reveal some secrets?...
 PC15D_TABLETANALYSIS_HUSHLAMP-1=Може, лампа доктора Гаша відкриє якісь таємниці...?
 
@@ -1553,7 +1553,7 @@ PC15D_TABLETANALYSIS_HUSHLAMP-2=...
 
 
 # Unknown
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### "This device belongs to Doctor Mink. It is currently out of service."
 PC15D_TABLETANALYSIS_HUSHLAMP-3="Цей пристрій належить докторові Мінку. Наразі він не працює."
 
@@ -1687,7 +1687,7 @@ PC15D_TABLETANALYSIS_TABLETHUSH-5=Ага.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Good thinking but his tablet is locked. The only one who could unlock it is Dr. Hush himself.
 PC15D_TABLETANALYSIS_TABLETHUSH-6=Гарна думка, але його планшет заблоковано. Розблокувати його міг би лише сам доктор Гаш.
 
@@ -1935,7 +1935,7 @@ PC15D_RIGHTHAND_TABLETHUSH1-3=Що...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's tablet. It unlocked!
 PC15D_RIGHTHAND_TABLETHUSH1-4=Планшет доктора Гаша. Він розблокувався!
 
@@ -2162,7 +2162,7 @@ PC15D_SPOTHEAD1-2=Із достатньою силою цього могло б 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### A fake injury... with Tomatoze sauce.
 PC15D_SPOTHEAD_AFTER1-1=Фальшива рана... із соусом томатози.
 
@@ -2208,7 +2208,7 @@ PC15D_SPEAKER1-1=Раніше я чув якісь звуки із цієї кі
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Must have been output from there. I guess Dr. Mink was listening to music?
 PC15D_SPEAKER1-2=Певно, вони лунали звідси. Мабуть, доктор Мінк слухав музику?
 
@@ -2221,7 +2221,7 @@ PC15D_SPEAKER2-1=За один день я бачив більше динамі�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. When we arrived... I heard some music coming out of your room.
 PC15D_SPEAKER_AFTER1-1=Докторе Мінку. Коли ми прийшли... я чув музику з вашої кімнати.
 
@@ -2372,7 +2372,7 @@ PC15D_WINDOW1-2=У вас немає смаку.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "DigiWindow": "Цифрове вікно"
+# NB: Lexicon word in Ukrainian for "DigiWindow": "цифрове вікно"
 ### No full wall environment? Just a small DigiWindow?
 PC15D_WINDOW2-1=Ніякого середовища на всю стіну? Тільки маленьке Цифрове вікно?
 
@@ -2384,7 +2384,7 @@ PC15D_WINDOW2-2=Експерти нашого рівня не можуть до�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You and Dr. Hush seem to have... very different tastes.
 PC15D_WINDOW3-1=У вас із доктором Гашем, схоже... дуже різні смаки.
 
@@ -2603,7 +2603,7 @@ PC15D_STAIN_AFTER1-1=(Сьорбає)
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Not blood either. Tastes like Tomatoze sauce.
 PC15D_STAIN_AFTER1-2=Теж не кров. На смак - томатозний соус.
 
@@ -2759,8 +2759,8 @@ PC15D_COLUMN2-5=А кого це хвилює?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Slumers": "Мешканці Нетрів"
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### ...I don't know. Maybe the thousands of Slumers craving for resources?...
 PC15D_COLUMN2-6=...Не знаю. Може, тисячі мешканців Нетрів, які страждають від нестачі ресурсів...?
 
@@ -2772,7 +2772,7 @@ PC15D_COLUMN3-1=Я знаю! Це промінь смерті!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You pointed it towards Dr. Hush and bam! Dead!
 PC15D_COLUMN3-2=Ви спрямували його на доктора Гаша, і бах! Мертвий!
 
@@ -3076,7 +3076,7 @@ PC15D_JUMPBODY2B-18=Я пам'ятаю... як упав із вентиляці�
 
 
 # Hush
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Moving towards Dr. Mink...
 PC15D_JUMPBODY2B-19=Потім рухався в сторону доктора Мінка...
 
@@ -3190,7 +3190,7 @@ PC15D_FIRST1B-2=Що за...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard!
 PC15D_FIRST1B-3=Охоронцю!
 
@@ -3212,7 +3212,7 @@ PC15D_FIRST2-1=!!!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush?!
 PC15D_FIRST2-2=Доктор Гаш?!
 
@@ -3265,7 +3265,7 @@ PC15D_FIRST4-5=Це правда! Що тут, в біса, коїться?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I'll tell you what. Dr. Hush is dead as a doornail.
 PC15D_FIRST4-6=Ось що я вам скажу. Доктор Гаш мертвий, без жодних сумнівів.
 
@@ -3287,7 +3287,7 @@ PC15D_FIRST4-9=Тепер я все зрозумів!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink! You wouldn't let me in when I checked this morning!
 PC15D_FIRST4-10=Мінку! Ви не пустили мене, коли я перевіряв кімнату вранці!
 
@@ -3323,7 +3323,7 @@ PC15D_FIRST4-16=Ця справа про вбивство тепер знахо�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard. Block all exits.
 PC15D_FIRST4-17=Охоронцю. Заблокуй усі виходи.
 
@@ -3499,7 +3499,7 @@ PC15D_FIRST6-5=Не пригадую такого...
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### But I watched some noir livies when I was young. Seemed like the appropriate things to say!
 PC15D_FIRST6-6=Але в молодості я дивився серіали в жанрі нуар. Тож мені здалося, що ці слова підходять до ситуації!
 
@@ -3607,7 +3607,7 @@ PC15D_STORY160_A-15=Тіло вперше побачили, коли ми зай
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### It appears Dr. Hush has been struck on the head and died due to the impact.
 PC15D_STORY160_A-16=Схоже, доктор Гаш отримав удар по голові й помер від цієї травми.
 
@@ -3618,7 +3618,7 @@ PC15D_STORY160_A-17=Оскільки на лампі, що стоїть прос
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### This lamp belongs to Doctor Mink. This implies the murderer had access to it.
 PC15D_STORY160_A-18=Ця лампа належить докторові Мінку. Отже, убивця мав до неї доступ.
 
@@ -3629,7 +3629,7 @@ PC15D_STORY160_A-19=Мені не подобається, до чого це в�
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush was last seen alive by his assistant bot Tidy at 5:04.
 PC15D_STORY160_A-20=Востаннє доктора Гаша живим бачив його робот-помічник Тайді о 5:04.
@@ -3651,7 +3651,7 @@ PC15D_STORY160_A-23=І знову: він не міг покинути буді�
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### He couldn't have exited his room and stayed in the hall. It wouldn't make sense, and Mister Guard would have noticed it.
 PC15D_STORY160_A-24=Він не міг вийти зі своєї кімнати й залишитися в коридорі. Це було б безглуздо, та й пан охоронець це помітив би.
 
@@ -3682,7 +3682,7 @@ PC15D_STORY160_A-29=Продовжимо.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush could have gone to the restroom and been killed there.
 PC15D_STORY160_A-30=Можливо, Доктор Гаш пішов до вбиральні, де його й убили.
 
@@ -3693,7 +3693,7 @@ PC15D_STORY160_A-31=Але тут постає одна проблема...
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### We didn't find his body there but in Dr. Mink's room.
 PC15D_STORY160_A-32=Його тіло знайшли не там, а в кімнаті доктора Мінка.
 
@@ -3704,20 +3704,20 @@ PC15D_STORY160_A-33=Отже, його довелося б перенести д
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### If he somehow got carried out of the restroom, Mister Guard would have noticed it.
 PC15D_STORY160_A-34=Якби його якось винесли з вбиральні, пан охоронець би це помітив.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### We've checked the restroom. There's no access between it and Dr. Mink's room.
 PC15D_STORY160_A-35=Ми перевірили вбиральню. Між нею та кімнатою доктора Мінка немає проходу.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### So that leaves only one option. Dr. Hush went straight from his office to Dr. Mink's.
 PC15D_STORY160_A-36=Тож залишається єдиний варіант. Доктор Гаш пішов зі свого кабінету просто до доктора Мінка.
 
@@ -3754,7 +3754,7 @@ PC15D_STORY160_A-42=Зрештою, завдяки своїм обов'язка�
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### However, he could not access Dr. Mink's room.
 PC15D_STORY160_A-43=Однак до кімнати доктора Мінка він не має доступу.
 
@@ -3775,7 +3775,7 @@ PC15D_STORY160_A-46=Ні...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Unless... He used Dr. Hush's hand to open the door...!
 PC15D_STORY160_A-47=Хіба що... Він відчинив двері рукою доктора Гаша...!
 
@@ -3786,7 +3786,7 @@ PC15D_STORY160_A-48=Несучи його через коридор? Малой�
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard was watching. As for you doctor, you didn't see or hear them enter.
 PC15D_STORY160_A-49=Охоронець стежив. А ви, докторе, не бачили й не чули, як вони заходили.
 
@@ -3833,7 +3833,7 @@ PC15D_STORY160_A2-8=Я теж про це думав. Але ця версія �
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Do you seriously think he opened your door with Dr. Hush's body in his hands and then threw it all the way there without you noticing?
 PC15D_STORY160_A2-9=Ви справді вважаєте, що він відчинив ваші двері з тілом доктора Гаша на руках, а потім закинув його аж туди, поки ви нічого не помітили?
 
@@ -3849,7 +3849,7 @@ PC15D_STORY160_A2-11=Отже, залишається лише одна особ
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### You, Doctor Mink!
 PC15D_STORY160_A2-12=Це ви, докторе Мінку!
 
@@ -3865,7 +3865,7 @@ PC15D_STORY160_A2-14=Я ж сказав! Я нікого ніколи не вб�
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Drop it, Mink! You're done for!
 PC15D_STORY160_A2-15=Киньте цю гру, Мінку! Вам вже кінець!
 
@@ -3891,7 +3891,7 @@ PC15D_STORY160_A2-19=Дуже просто.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Mister Guard mentioned hearing constant arguments between you both.
 PC15D_STORY160_A2-20=Пан охоронець казав, що чув ваші постійні сварки.
 
@@ -3908,7 +3908,7 @@ PC15D_STORY160_A2-22=Пригадайте запис Тайді!
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush came to your room to settle things with you!
 PC15D_STORY160_A2-23=Доктор Гаш прийшов до вашої кімнати, щоб владнати з вами справи!
 
@@ -3939,7 +3939,7 @@ PC15D_STORY160_A2-28=Але ви цілком віддані своїй робо
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush profited from a higher budget while yours decreased. Tensions moved up a notch.
 PC15D_STORY160_A2-29=Бюджет доктора Гаша зростав, а ваш скорочувався. Напруга загострилася.
 
@@ -3990,7 +3990,7 @@ PC15D_STORY160_A2-38=Мені це видається найкращим схо�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Guard, what do you think? You check the room regularly, right?
 PC15D_STORY160_A2-39=Охоронцю, а ти як думаєш? Ти ж регулярно перевіряєш кімнату, так?
 
@@ -4098,7 +4098,7 @@ PC15D_STORY160_CHOICE_CONFIRM-2=(Якщо я помиляюся, то відпр
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (Am I absolutely certain Dr. Mink is guilty?)
 PC15D_STORY160_CHOICE_CONFIRM-3=(Чи я цілком певен, що доктор Мінк винен?)
 
@@ -4135,7 +4135,7 @@ PC15D_STORY160_CHOICE_NO-6=На що ви дивитеся?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Your tie, Dr. Mink.
 PC15D_STORY160_CHOICE_NO-7=На вашу краватку, докторе Мінку.
 
@@ -4166,7 +4166,7 @@ PC15D_STORY160_CHOICE_NO-12=Я...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### I ate an Antburger this morning...
 PC15D_STORY160_CHOICE_NO-13=Уранці я їв мурахобургер...
 
@@ -4177,13 +4177,13 @@ PC15D_STORY160_CHOICE_NO-14=Я витер пляму... Просто забув 
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### This is Tomatoze sauce!
 PC15D_STORY160_CHOICE_NO-15=Це томатозний соус!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Are you taking us for fools, Mink?!
 PC15D_STORY160_CHOICE_NO-16=Ви тримаєте нас за дурнів, Мінку?!
 
@@ -4436,7 +4436,7 @@ PC15D_STORY160_CHOICE_NO3-28=Так, пане!
 
 #----------------------------------------------------
 # Brok - Charge Dr. Mink
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### It's over, Dr. Mink.
 PC15D_STORY160_CHARGEMINK1-1=Усе скінчено, докторе Мінку.
 
@@ -4452,8 +4452,8 @@ PC15D_STORY160_CHARGEMINK1-3=Цього... не може бути...!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Guard, restore communications and inform Chief Wes.
 PC15D_STORY160_CHARGEMINK1-4=Охоронцю, віднови зв'язок і повідом шефа Веса.
@@ -4560,7 +4560,7 @@ PC15D_STORY160_CHARGEMINK1-24=Просто... вислухайте мене.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя / Безхвостий"
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
 ### I swear to the god of science, the Untail or whatever you believe in...
 PC15D_STORY160_CHARGEMINK1-25=Клянуся богом науки, Безхвостям - чи в що ви там вірите...
 
@@ -4578,7 +4578,7 @@ PC15D_STORY160_CHARGEMINK1-27=...
 #----------------------------------------------------
 # Brok
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (A bunch of Tribot cops arrived to pick up Dr. Mink.)
 PC15D_STORY160_CHOICE_CHARGEMINK2-1=(Прибула ватага триботів-копів, щоб забрати доктора Мінка.)
 
@@ -4589,7 +4589,7 @@ PC15D_STORY160_CHOICE_CHARGEMINK2-2=(Коли я вийшов з будівлі.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (What Dr. Mink said...)
 PC15D_STORY160_CHOICE_CHARGEMINK2-3=(Те, що сказав доктор Мінк...)
 
@@ -4653,7 +4653,7 @@ PC15D_SECONDGATHER1-3=Ретельно вивчивши справу...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I have reason to believe that the person who murdered Dr. Hush is...
 PC15D_SECONDGATHER1-4=У мене є підстави вважати, що вбивця доктора Гаша - це...
 
@@ -4714,7 +4714,7 @@ PC15D_SECONDGATHER_TIDY1-7=У нього не було ні засобів, ні
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### That's where you're wrong, Dr. Mink.
 PC15D_SECONDGATHER_TIDY1-8=Ось тут ви помиляєтеся, докторе Мінку.
 
@@ -4746,8 +4746,8 @@ PC15D_CLUE_MURDER_DEATHSTAGED-3=То... як і моя краватка...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Yes. This is Antburger Tomatoze sauce.
 PC15D_CLUE_MURDER_DEATHSTAGED-4=Так. Це томатозний соус від мурахобургера.
 
@@ -4768,7 +4768,7 @@ PC15D_CLUE_MURDER_DEATHSTAGED-7=В смітнику у вбиральні бул
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### I distinctly recognize the taste of Mc Flea's Antburger trademark sauce!
 PC15D_CLUE_MURDER_DEATHSTAGED-8=Я безпомилково впізнаю смак фірмового соусу мурахобургера від МакБліх!
 
@@ -4790,7 +4790,7 @@ PC15D_CLUE_MURDER_BURGERUNFROZEN-1=О-оо... тепер я розумію.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### That's why my Antburger was already unfrozen!
 PC15D_CLUE_MURDER_BURGERUNFROZEN-2=Ось чому мій мурахобургер уже був розморожений!
 
@@ -4843,7 +4843,7 @@ PC15D_CLUE_MURDER_WEAPON-5=Насправді ти маєш рацію.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's medical tracking stopped at around 5:00.
 PC15D_CLUE_MURDER_WEAPON-6=Медичне відстеження доктора Гаша зупинилося близько 5:00.
 
@@ -4869,7 +4869,7 @@ PC15D_CLUE_MURDER_WEAPON-10=Не шість!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Isn't that right, Dr. Mink?
 PC15D_CLUE_MURDER_WEAPON-11=Чи не так, докторе Мінку?
 
@@ -4922,7 +4922,7 @@ PC15D_CAUSEOFDEATH_NEXT2-4=У мене є теорія.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. When browsing through your medical database, I noticed an interesting note from yourself.
 PC15D_CLUE_MURDER_TRUECAUSE-1=Докторе Мінку. Переглядаючи вашу медичну базу, я помітив цікаву нотатку, написану вами ж.
 
@@ -4938,7 +4938,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-3="Вони надзвичайно уповільн�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was poisoned?!
 PC15D_CLUE_MURDER_TRUECAUSE-4=Доктора Гаша отруїли?!
 
@@ -4949,7 +4949,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-5=Є докази на підтвердження ц
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's right hand is literally covered by nanites.
 PC15D_CLUE_MURDER_TRUECAUSE-6=Права рука доктора Гаша буквально вкрита нанітами.
 
@@ -4966,7 +4966,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-8=Гей!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### ...Sorry. I mean, Mister Guard owns a plant on his desk.
 PC15D_CLUE_MURDER_TRUECAUSE-9=...Вибач. Я хотів сказати, що у пана охоронця на столі є рослина.
 
@@ -4977,7 +4977,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-10=І це... квітка Фенікса!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### It's entirely possible Tidy overheard Dr. Mink mention this and picked up ingredients from the lab.
 PC15D_CLUE_MURDER_TRUECAUSE-11=Цілком можливо, що Тайді підслухав, як доктор Мінк згадав про це, і взяв інгредієнти з лабораторії.
@@ -5047,7 +5047,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-23=Але як?
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Why would Dr. Hush swallow such a poison?
 PC15D_CLUE_MURDER_TRUECAUSE-24=З якого дива доктор Гаш буде пити цю отруту?
 
@@ -5059,7 +5059,7 @@ PC15D_CLUE_MURDER_TRUECAUSE-25=Дозвольте продовжити.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I found black stains on Dr. Hush's right hand. At first, I wasn't sure what it could be...
 PC15D_CLUE_MURDER_COFFEEPOISON-1=Я знайшов чорні плями на правій руці доктора Гаша. Спочатку я не був певен, що це може бути...
 
@@ -5106,7 +5106,7 @@ PC15D_CLUE_MURDER_COFFEEPOISON-9=Саме так. Але ви не отруїл�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You went to the restroom later after Dr. Hush, didn't you?
 PC15D_CLUE_MURDER_COFFEESINK-1=Ви пішли у вбиральню після доктора Гаша, чи не так?
 
@@ -5168,7 +5168,7 @@ PC15D_CLUE_MURDER_COFFEESINK-12=Прикро це казати, але це до
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Ya mean I did it, Mink?!
 PC15D_CLUE_MURDER_COFFEESINK-13=То ви хочете сказати, що це зробив я, Мінку?!
 
@@ -5371,7 +5371,7 @@ PC15D_PICKONE_GUARD_MOTIVE_WRONG1-1=Ви впевнені? Я справді н�
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Thanks Mink. That croc should reconsider his career.
 PC15D_PICKONE_GUARD_MOTIVE_WRONG1-2=Дякую, Мінку. Цьому кроку варто переглянути свою кар'єру.
 
@@ -5559,7 +5559,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-2=Після цього його не зафіксу
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### However, the screen in Dr. Hush's office states that he had been charging from 5:10 to 11:10.
 PC15D_CLUE_MURDER_TIDYWRONG-3=Однак екран у кабінеті доктора Гаша свідчить, що він стояв на зарядці з 5:10 до 11:10.
 
@@ -5633,7 +5633,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-16=О так, справді... Ви ж не зна�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The lab registers doors openings. Only guards are supposed to know.
 PC15D_CLUE_MURDER_TIDYWRONG-17=Лабораторія реєструє відчинення дверей. Про це мали б знати лише охоронці.
 
@@ -5721,7 +5721,7 @@ PC15D_CLUE_MURDER_TIDYWRONG-33=У переміщеннях доктора є д�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### The last time Dr. Hush was recorded, he was leaving his office at 5:04.
 PC15D_CLUE_MURDER_DRHUSHWHERE-1=Востаннє доктора Гаша зафіксували, коли він виходив зі свого кабінету о 5:04.
 
@@ -5732,7 +5732,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-2=Після цього його ніде не б�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### This is confirmed by the guard's statements. If you don't mind explaining...
 PC15D_CLUE_MURDER_DRHUSHWHERE-3=Це підтверджують свідчення охоронця. Якщо ти не проти, то поясни...
 
@@ -5764,7 +5764,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-8="Я у вбиральні".
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
 ### Except this wasn't Dr. Hush at all... But a recording coming from the Meety-Me.
 PC15D_CLUE_MURDER_DRHUSHWHERE-9=Ось тільки це був зовсім не доктор Гаш... А запис із Голографа.
@@ -5786,14 +5786,14 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-12=Малоймовірно.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### The guard checks the rooms regularly and there's no hiding spot in there.
 PC15D_CLUE_MURDER_DRHUSHWHERE-13=Охоронець регулярно перевіряє кімнати, і там ніде сховатися.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Besides, keep in mind the ultimate goal - getting Dr. Hush in Dr. Mink's office.
 PC15D_CLUE_MURDER_DRHUSHWHERE-14=Крім того, зважте на головну мету - завести доктора Гаша до кабінету доктора Мінка.
 
@@ -5830,7 +5830,7 @@ PC15D_CLUE_MURDER_DRHUSHWHERE-20=Тайді ніколи не забуває. О
 
 
 # Tidy
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### "I need to settle things with Dr. Mink"
 PC15D_CLUE_MURDER_DRHUSHWHERE-21="Мені треба владнати справи з доктором Мінком"
 
@@ -5883,8 +5883,8 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-5=Ти міг записати його коли 
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Also, there's no monitoring record of Dr. Hush ever entering Dr. Mink's room.
 PC15D_CLUE_MURDER_DRHUSHWHEREB-6=До того ж у моніторингу немає запису, щоб доктор Гаш хоч колись заходив до кімнати доктора Мінка.
 
@@ -5895,7 +5895,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-7=Неправда!
 
 
 # Tidy
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink touches door. Enter with Daddy.
 PC15D_CLUE_MURDER_DRHUSHWHEREB-8=Мінк торкається дверей. Заходить із татусем.
 
@@ -5941,7 +5941,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-16=Але я цього не робив! Я йо�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Mister Guard!
 PC15D_CLUE_MURDER_DRHUSHWHEREB-17=Пане охоронцю!
 
@@ -5957,7 +5957,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-19=Ви жартуєте?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy. What about the voice the Guard heard?
 PC15D_CLUE_MURDER_DRHUSHWHEREB-20=Тайді. А як щодо голосу, який чув охоронець?
@@ -5969,7 +5969,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREB-21=Збіг. Голограф. Несправни
 
 
 # Tidy
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### Sometimes Meety Me. Play livie randomly.
 PC15D_CLUE_MURDER_DRHUSHWHEREB-22=Іноді Голограф. Вмикає ролик випадково.
 
@@ -6094,22 +6094,22 @@ PC15D_CLUE_MURDER_DRHUSHWHEREC-1=Зосередьмося.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy used the Meety-Me recording to avoid the guard getting worried that Dr. Hush disappeared.
 PC15D_CLUE_MURDER_DRHUSHWHEREC-2=Тайді скористався записом із Голографа, щоб охоронець не почав хвилюватися через зникнення доктора Гаша.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### As a result of my assumptions, Dr. Hush could neither be in his room, the restroom or the hall at 5:10...
 PC15D_CLUE_MURDER_DRHUSHWHEREC-3=За моїми припущеннями, о 5:10 доктора Гаша не могло бути ні в його кімнаті, ні у вбиральні, ні в коридорі...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### And as the monitoring confirms, he never entered Dr. Mink's room either.
 PC15D_CLUE_MURDER_DRHUSHWHEREC-4=І, як підтверджує моніторинг, до кімнати доктора Мінка він теж не заходив.
 
@@ -6141,7 +6141,7 @@ PC15D_CLUE_MURDER_DRHUSHWHEREC-9=Є четверта можливість, і я
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was right here!
 PC15D_PINPOINTVENT_WRONG-1=Доктор Гаш був ось тут!
 
@@ -6246,7 +6246,7 @@ PC15D_PICKONE_VENTPROOF_WRONG1-4=Брокі зламався!
 
 #----------------------------------------------------
 # Guard
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Tomatoze sauce...?
 PC15D_CLUE_MURDER_VENTILATION-1=Томатозний соус...?
 
@@ -6313,7 +6313,7 @@ PC15D_CLUE_MURDER_VENTILATION-13=Припустимо, ви маєте раці�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### In order to get into the vent... Dr. Hush would have to be in his office!
 PC15D_CLUE_MURDER_VENTILATION-14=Щоб потрапити у вентиляцію... доктор Гаш мав би бути у себе в кабінеті!
 
@@ -6340,7 +6340,7 @@ PC15D_CLUE_MURDER_VENTILATION-18=Як ви це поясните?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### It's obvious. Dr. Hush is dead, so he's a ghost now.
 PC15D_DRHUSHWHY_GHOST-1=Це очевидно. Доктор Гаш мертвий, тож тепер він привид.
 
@@ -6382,13 +6382,13 @@ PC15D_DRHUSHWHY_GHOST-8=Знайдіть якесь інше пояснення!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Simple. Dr. Hush went back to his office.
 PC15D_DRHUSHWHY_BACK-1=Все просто. Доктор Гаш повернувся до свого кабінету.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### When?... At 5:10 the guard came in. There's nothing before that.
 PC15D_DRHUSHWHY_BACK-2=Коли...? О 5:10 зайшов охоронець. А перед цим нічого немає.
 
@@ -6399,7 +6399,7 @@ PC15D_DRHUSHWHY_BACK-3=Я знаю...!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### He... crawled on the ceiling and moved inside when the guard came in!
 PC15D_DRHUSHWHY_BACK-4=Він... проповз по стелі й заліз усередину, коли зайшов охоронець!
 
@@ -6426,13 +6426,13 @@ PC15D_DRHUSHWHY_BACK-8=Ми будемо удавати, ніби не чули 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### It's clear Dr. Hush never left his office.
 PC15D_DRHUSHWHY_NEVEREXIT-1=Ясно, що доктор Гаш ніколи не виходив зі свого кабінету.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### There is no monitoring entry between his exit and the time the guard checked the room.
 PC15D_DRHUSHWHY_NEVEREXIT-2=У моніторингу немає запису між його виходом і тим часом, коли охоронець перевірив кімнату.
 
@@ -6449,7 +6449,7 @@ PC15D_DRHUSHWHY_NEVEREXIT-4=Навіть Тайді міг притиснути 
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This would imply Dr. Hush was dead by then?
 PC15D_DRHUSHWHY_NEVEREXIT-5=Це означало б, що доктор Гаш на той час уже був мертвий?
 
@@ -6492,7 +6492,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-1=Згадайте, звідки взялася 
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### To poison him, it'd be easier to have Dr. Hush drink the coffee in his office.
 PC15D_CLUE_MURDER_WHEREPOISONED-2=Щоб отруїти його, простіше було б дати докторові Гашу випити кави в його власному кабінеті.
 
@@ -6503,7 +6503,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-3=От тільки... Він так нікол�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush always drinks his coffee in the restroom. He's too maniacal to risk spilling drops while working.
 PC15D_CLUE_MURDER_WHEREPOISONED-4=Доктор Гаш завжди п'є каву у вбиральні. Він надто одержимий, щоб ризикувати пролити каву під час роботи.
 
@@ -6514,7 +6514,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-5=І все ж на підлозі є кавов
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What do you insinuate? That the stain was made when Dr. Hush was dead on the floor?
 PC15D_CLUE_MURDER_WHEREPOISONED-6=На що ти натякаєш? Що пляма з'явилася, коли доктор Гаш лежав мертвий на підлозі?
 
@@ -6550,7 +6550,7 @@ PC15D_CLUE_MURDER_WHEREPOISONED-12=Брокі. Кінець. Здавайся!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### (No good... Even Mink starts to think my theory is too far fetched...)
 PC15D_CLUE_MURDER_WHEREPOISONED-13=(Кепсько... Навіть Мінк починає вважати мою теорію надто притягнутою за вуха...)
 
@@ -6610,7 +6610,7 @@ PC15D_CLUE_MURDER_RIGHTPATH-4=Гаразд.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Let's assume Dr. Hush drank his coffee in the restroom and died.
 PC15D_CLUE_MURDER_RIGHTPATH-5=Припустімо, доктор Гаш випив каву у вбиральні й помер.
 
@@ -6632,7 +6632,7 @@ PC15D_CLUE_MURDER_RIGHTPATH-8=Просто. Тайді може переноси
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Ya're saying... This little metal thing carried Dr. Hush all the way to his room?!
 PC15D_CLUE_MURDER_RIGHTPATH-9=Хочеш сказати... Ця маленька залізячка дотягла доктора Гаша аж до його кімнати?!
 
@@ -6675,7 +6675,7 @@ PC15D_PICKONE_CARRY_WRONG1-4=Визнайте вже свою помилку й 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### At 4:38, the guard wasn't at his seat. He had received a phone call with terrible reception.
 PC15D_CLUE_MURDER_CARRY-1=О 4:38 охоронця не було на місці. Йому надійшов дзвінок із жахливим зв'язком.
 
@@ -6764,7 +6764,7 @@ PC15D_CLUE_MURDER_CARRY-17=Тайді. Не дзвонив. Ні-ні.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Although the guard was still making sure no one could enter or exit the lab...
 PC15D_CLUE_MURDER_CARRY-18=Хоча охоронець усе ще стежив, щоб ніхто не зайшов до лабораторії чи не вийшов із неї...
 
@@ -6791,7 +6791,7 @@ PC15D_CLUE_MURDER_CARRY-22=Технічно це можливо, просто ц
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### This would also explain why Tidy was found in Dr. Hush's room even though he supposedly stayed in the restroom.
 PC15D_CLUE_MURDER_CARRY-23=Це також пояснило б, чому Тайді знайшли в кімнаті доктора Гаша, хоча він нібито залишався у вбиральні.
@@ -6803,7 +6803,7 @@ PC15D_CLUE_MURDER_CARRY-24=Погляньмо з іншого боку.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### What would be the point of this call farce if Dr. Hush was safe and sound while returning to his room?
 PC15D_CLUE_MURDER_CARRY-25=Який сенс був би в цій виставі з дзвінком, якби доктор Гаш цілий і неушкоджений повертався до своєї кімнати?
 
@@ -6847,7 +6847,7 @@ PC15D_CLUE_MURDER_CARRY-32=Якщо ваша теорія слушна, то щ�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### For example, how could Tidy put Dr. Hush into the vent?
 PC15D_CLUE_MURDER_CARRY-33=Наприклад, яким чином Тайді міг помістити доктора Гаша у вентиляцію?
@@ -6965,7 +6965,7 @@ PC15D_CLUE_MURDER_STRETCH2-5=Боюся, це правда. Він витягн�
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush's ceiling is the same height. Thus, Tidy couldn't reach the vent.
 PC15D_CLUE_MURDER_STRETCH2-6=Стеля в доктора Гаша такої ж висоти. Отже, Тайді не міг дістатися вентиляції.
@@ -7076,7 +7076,7 @@ PC15D_CLUE_MURDER_RAMP-15=Не застрибнути!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### This is the point of the ramp Dr. Hush designed for it.
 PC15D_CLUE_MURDER_RAMP-16=Ось для чого пандус, який доктор Гаш для нього сконструював.
 
@@ -7158,7 +7158,7 @@ PC15D_CLUE_MURDER_CRUMBS-3=О... Це правда.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Now, as you know... Dr. Hush is a neat freak.
 PC15D_CLUE_MURDER_CRUMBS-4=Як ви знаєте... доктор Гаш одержимий чистотою.
 
@@ -7169,7 +7169,7 @@ PC15D_CLUE_MURDER_CRUMBS-5=Як він міг усюди розкидати кр
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### The answer is simple. Dr. Hush wasn't alive.
 PC15D_CLUE_MURDER_CRUMBS-6=Відповідь проста. Доктор Гаш був мертвий.
 
@@ -7207,13 +7207,13 @@ PC15D_CLUE_MURDER_CRUMBS-12=Визнай! Так і було!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You climbed up, stretched your arms to get in the vent and put Dr. Hush inside, then...
 PC15D_CLUE_MURDER_CRUMBS-13=Ти заліз нагору, витягнув руки, щоб дістатися вентиляції, засунув доктора Гаша всередину, а тоді...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### You pushed the poor chap towards Dr. Mink's room!
 PC15D_CLUE_MURDER_CRUMBS-14=Ти штовхнув бідолаху до кімнати доктора Мінка!
 
@@ -7419,7 +7419,7 @@ PC15D_PINPOINTLEVER_RIGHT-7=Так.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### First, Tidy opened the vent and put Dr. Hush into it...
 PC15D_PINPOINTLEVER_RIGHT-8=Спершу Тайді відчинив вентиляцію і засунув туди доктора Гаша...
@@ -7466,7 +7466,7 @@ PC15D_PINPOINTLEVER_RIGHT-16=Нехай вже я сам вирішу, наск�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Let's not forget the finale. The corpse in Dr. Mink's room.
 PC15D_PINPOINTLEVER_RIGHT-17=Не забуваймо про фінал. Труп у кімнаті доктора Мінка.
 
@@ -7521,7 +7521,7 @@ PC15D_PICKONE_LAMPPUSH_WRONG1-5=Ар-р...
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### I analyzed Dr. Mink's lamp. The data I gathered indicates...
 PC15D_CLUE_MURDER_LAMPPUSH-1=Я проаналізував лампу доктора Мінка. Серед зібраних даних...
 
@@ -7594,7 +7594,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-14=Гаразд, визнаю... Я вас обдур
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Yes, I said this was the data from Dr. Mink's lamp...
 PC15D_CLUE_MURDER_LAMPPUSH-15=Так, я сказав, що це дані з лампи доктора Мінка...
 
@@ -7621,7 +7621,7 @@ PC15D_CLUE_MURDER_LAMPPUSH-19=Дозвольте пояснити.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Of course, we immediately considered that the lamp next to the body is Dr. Mink's.
 PC15D_CLUE_MURDER_LAMPHUSH-1=Звісно, ми одразу припустили, що лампа поруч із тілом належить докторові Мінку.
 
@@ -7632,7 +7632,7 @@ PC15D_CLUE_MURDER_LAMPHUSH-2=Однак... Дані цієї лампи вияв
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### It belongs to Dr. Hush.
 PC15D_CLUE_MURDER_LAMPHUSH-3=Вона належить докторові Гашу.
 
@@ -7669,13 +7669,13 @@ PC15D_CLUE_MURDER_LAMPHUSH-9=Якби все було так, як ти каже
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Mister rat is right. How do you explain that the other lamp... My lamp?... is on Dr. Hush's desk?
 PC15D_CLUE_MURDER_LAMPHUSH-10=Пан щур має рацію. Як ви поясните, що інша лампа... Моя лампа...? Стоїть на столі доктора Гаша?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### We'll just have to prove Tidy picked up Dr. Mink's lamp.
 PC15D_CLUE_MURDER_LAMPHUSH-11=Нам треба лише довести, що Тайді взяв лампу доктора Мінка.
@@ -7687,7 +7687,7 @@ PC15D_CLUE_MURDER_LAMPHUSH-12=Хіба він міг?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Just think. Where was Dr. Mink's lamp originally?
 PC15D_CLUE_MURDER_LAMPHUSH-13=Подумайте. Де лампа доктора Мінка стояла спочатку?
 
@@ -7730,7 +7730,7 @@ PC15D_PINPOINTMINKLAMP_WRONG-5=О. Тоді...
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. Your lamp was right here!
 PC15D_PINPOINTMINKLAMP_RIGHT-1=Докторе Мінк. Ваша лампа була саме тут!
 
@@ -7762,13 +7762,13 @@ PC15D_PINPOINTMINKLAMP_RIGHT-6=Не знаю. Якби це був я...
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### I'd steal Mink's lamp then pass it through the vent so it fell in the intended location.
 PC15D_PINPOINTMINKLAMP_RIGHT-7=Я б украв лампу Мінка, а тоді просунув її крізь вентиляцію, щоб вона впала де треба.
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's lamp wouldn't even have to move!
 PC15D_PINPOINTMINKLAMP_RIGHT-8=Лампі доктора Гаша навіть не довелося б рухатися!
 
@@ -7823,7 +7823,7 @@ PC15D_MISTAKE_TIDY-4=...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### After picking up Dr. Mink's lamp, it was supposed to throw it through the vent.
 PC15D_MISTAKE_TIDY-5=Підібравши лампу доктора Мінка, він мав жбурнути її крізь вентиляцію.
 
@@ -7845,7 +7845,7 @@ PC15D_MISTAKE_TIDY-8=І я можу це довести!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### You see, I noticed something off in Dr. Hush's room.
 PC15D_MISTAKE_TIDY-9=Бачте, я помітив дещо дивне в кімнаті доктора Гаша.
 
@@ -7924,7 +7924,7 @@ PC15D_PINPOINTELEMENTOFF_RIGHT-5=Гаразд. Ця інформація має 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### After being told Dr. Hush was a maniac, I noticed the way the lamp was positioned was off.
 PC15D_CLUE_MURDER_LAMPOFF-1=Після того як мені сказали, що доктор Гаш маніяк, я помітив, що лампа стоїть якось не так.
 
@@ -7955,13 +7955,13 @@ PC15D_CLUE_MURDER_LAMPOFF-6=Це пояснює, що сталося.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush's lamp was originally on this desk, perfectly centered.
 PC15D_CLUE_MURDER_LAMPOFF-7=Лампа доктора Гаша спочатку стояла на цьому столі, ідеально по центру.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy took Dr. Mink's lamp.
 PC15D_CLUE_MURDER_LAMPOFF-8=Тайді взяв лампу доктора Мінка.
@@ -7973,7 +7973,7 @@ PC15D_CLUE_MURDER_LAMPOFF-9=Саме в цю мить його перервал�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### After you left, Mister Guard... He executed its plan.
 PC15D_CLUE_MURDER_LAMPOFF-10=Після того як ти пішов, пане охоронцю... Він виконав свій план.
 
@@ -7984,8 +7984,8 @@ PC15D_CLUE_MURDER_LAMPOFF-11=Але він узяв не ту лампу, яку
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy's objective was to make us believe Dr. Hush fought with Dr. Mink in the morning, at the time his tracking stopped.
 PC15D_CLUE_MURDER_LAMPOFF-12=Мета Тайді була переконати нас, ніби доктор Гаш зчепився з доктором Мінком уранці, коли обірвалося відстеження його стану здоров'я.
@@ -8013,15 +8013,15 @@ PC15D_CLUE_MURDER_LAMPOFF-16=Мені доведеться все пояснюв
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy was interrupted by the guard suddenly checking the room.
 PC15D_CLUE_MURDER_LAMPOFF-17=Тайді перервав охоронець, який раптом зазирнув до кімнати.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Now. Why did Mister Guard check Dr. Hush's room in the first place?
 PC15D_CLUE_MURDER_LAMPOFF-18=А тепер. Чому охоронець узагалі перевірив кімнату доктора Гаша?
 
@@ -8042,7 +8042,7 @@ PC15D_CLUE_MURDER_LAMPOFF-21=О! То це було...!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Yeah. Dr. Mink's lamp receiving a shock.
 PC15D_CLUE_MURDER_LAMPOFF-22=Ага. Лампа доктора Мінка зазнала удару.
 
@@ -8059,7 +8059,7 @@ PC15D_CLUE_MURDER_LAMPOFF-24=Гарна думка! Хоча...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### If it's Dr. Hush's lamp that was pushed through... Shouldn't it suffer from a shock too? When it fell from the vent...
 PC15D_CLUE_MURDER_LAMPOFF-25=Якщо крізь вентиляцію проштовхнули лампу доктора Гаша... Хіба вона теж не мала зазнати удару? Коли впала з вентиляції...
 
@@ -8143,7 +8143,7 @@ PC15D_PICKONE_BODYFALL_WRONG1-6=Дайте спробую ще раз!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### This is all your fault, Dr. Mink! You didn't pay attention!
 PC15D_PICKONE_BODYMUSIC_WRONG1-1=Це все через вас, докторе Мінку! Ви не звернули уваги!
 
@@ -8176,7 +8176,7 @@ PC15D_PICKONE_CONSCIOUSNESS_WRONG1-3=Брокі - брехун. Поганий �
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### No way! This is why I never noticed Dr. Hush until you came in...
 PC15D_CLUE_MURDER_BODYFALL-1=Не може бути! Ось чому я не помічав доктора Гаша, доки ви не зайшли...
 
@@ -8331,7 +8331,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-23=Як...?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### You told me yourself, Dr. Mink!
 PC15D_CLUE_MURDER_AWAKEN-1=Ви самі мені це сказали, докторе Мінку!
 
@@ -8436,7 +8436,7 @@ PC15D_CLUE_MURDER_MOTIVE-1=Гаразд, визнаю: повного мотив
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### As we proved earlier, Dr. Hush died between 4:24 and 4:38.
 PC15D_CLUE_MURDER_MOTIVE-2=Як ми вже довели, доктор Гаш помер між 4:24 та 4:38.
 
@@ -8457,7 +8457,7 @@ PC15D_CLUE_MURDER_MOTIVE-5=Угу.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Before putting him into the vent, it used Dr. Hush's hand to transfer data to the outside.
 PC15D_CLUE_MURDER_MOTIVE-6=Перш ніж запхати його у вентиляцію, Тайді скористався рукою доктора Гаша, щоб передати дані назовні.
 
@@ -8468,13 +8468,13 @@ PC15D_CLUE_MURDER_MOTIVE-7=Цей файл - оновлення кількарі
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Keep in mind Dr. Hush's job, which is to improve bots' AI!
 PC15D_CLUE_MURDER_MOTIVE-8=Зважте на те, що робота доктора Гаша - удосконалювати ШІ ботів!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### My bet is that Dr. Hush used elements from this very old update and tested them on Tidy!
 PC15D_CLUE_MURDER_MOTIVE-9=Ставлю на те, що доктор Гаш узяв елементи цього дуже старого оновлення й випробував їх на Тайді!
@@ -8496,7 +8496,7 @@ PC15D_CLUE_MURDER_MOTIVE-12=Старі прошивки не мають прог
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I guess Dr. Hush made a backup of this data in case...
 PC15D_CLUE_MURDER_MOTIVE-13=Певно, доктор Гаш зробив резервну копію цих даних на випадок...
 
@@ -8682,14 +8682,14 @@ PC15D_CLUE_MURDER_MOTIVE-48=(Я не можу дозволити цій наві
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### (What's the explanation for Dr. Hush's position in the room?)
 PC15D_CLUE_MURDER_MOTIVE-49=(Як пояснити положення доктора Гаша в кімнаті?)
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Easy. Tidy pushed so violently that Dr. Hush went flying and landed there!
 PC15D_FINALCHOICE_PUSHED-1=Легко. Тайді штовхнув так сильно, що доктор Гаш відлетів і впав он туди!
@@ -8752,7 +8752,7 @@ PC15D_FINALCHOICE_MOVED-6=Тоді... Якщо це не інша людина..
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### You, Dr. Mink!
 PC15D_FINALCHOICE_MOVED-7=Ви, докторе Мінку!
 
@@ -8889,7 +8889,7 @@ PC15D_CHOICE_AWAKEN3-7=Що за...!
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush?!
 PC15D_CHOICE_AWAKEN3-8=Докторе Гаше?!
 
@@ -8945,7 +8945,7 @@ PC15D_CHOICE_AWAKEN3-18=Здається...
 
 
 # Hush
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### I saw Dr. Mink...
 PC15D_CHOICE_AWAKEN3-19=Я бачив доктора Мінка...
 
@@ -9084,7 +9084,7 @@ PC15D_EXPLAIN_ALIVE-2=Однак життя в цьому бункері... Е-�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### As such, Dr. Hush was taking some medication to compensate.
 PC15D_EXPLAIN_ALIVE-3=Тож доктор Гаш приймав певні ліки, щоб це компенсувати.
 
@@ -9100,7 +9100,7 @@ PC15D_EXPLAIN_ALIVE-5=Зрозуміло! Вони справляють прям
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Yes. It boosts the heart activity. This is what saved Dr. Hush!
 PC15D_EXPLAIN_ALIVE-6=Так. Ці ліки підсилюють роботу серця. Саме це й урятувало доктора Гаша!
 
@@ -9116,7 +9116,7 @@ PC15D_EXPLAIN_ALIVE-8=Навіть трекер. Його серцебиття �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### The shock from falling down the vent caused him to wake up for a few seconds and move towards Dr. Mink...
 PC15D_EXPLAIN_ALIVE-9=Струс від падіння крізь вентиляцію змусив його на кілька секунд прийти до тями й посунутися ближче до доктора Мінка...
 
@@ -9159,7 +9159,7 @@ PC15D_EXPLAIN_ALIVEWRONG-5=О... Ну...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Never mind. I'm just glad Dr. Hush is okay!
 PC15D_EXPLAIN_ALIVEWRONG-6=Неважливо. Я просто радий, що з доктором Гашем усе гаразд!
 
@@ -9338,7 +9338,7 @@ PC15D_CHOICE_ALIVE3-3=Тайді...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Ott": "Отт"
 ### Ott, stay here with Dr. Hush.
 PC15D_CHOICE_ALIVE3-4=Отте, залишайся тут із доктором Гашем.
@@ -9351,7 +9351,7 @@ PC15D_CHOICE_ALIVE3-5=Я з цим розберуся!
 
 #----------------------------------------------------
 # Brok - A few comments when choosing the wrong clues combinations
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### (Unless I've got strong proof, I can't assume the guard tampered with the monitoring...)
 PC15D_INTERROGATE_MISTAKE_MONITORING-1=(Доки в мене немає вагомих доказів, я не можу стверджувати, що охоронець підробив моніторинг...)
 
@@ -9423,7 +9423,7 @@ PC15D_INTERROGATE_EXIT3-3=Брокі. Зламаний детектив.
 
 #----------------------------------------------------
 # Brok - Charge Mink (again)
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Despite the new clues I've found... I'm afraid you're still the main culprit, Dr. Mink.
 PC15D_SECONDGATHER_MINK1-1=Попри нові зачіпки... Боюся, ви все ще головний підозрюваний, докторе Мінку.
 
@@ -9444,7 +9444,7 @@ PC15D_SECONDGATHER_MINK1-4=А як же та фальшива кров?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Lemme ask. Who ate an Antburger yesterday?
 PC15D_SECONDGATHER_MINK1-5=Дайте-но спитаю. Хто вчора їв мурахобургер?
 
@@ -9480,8 +9480,8 @@ PC15D_SECONDGATHER_MINK1-11=Як на мене...
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink must have fought with Dr. Hush while he was eating his burger.
 PC15D_SECONDGATHER_MINK1-12=Мінк, певно, побився з доктором Гашем, поки їв свій бургер.
 
@@ -9553,7 +9553,7 @@ PC15D_SECONDGATHER_MINK1-25=Так кажуть усі злочинці.
 
 #----------------------------------------------------
 # Brok - Charge the Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Someone attempted to stage the crime scene to make us believe Dr. Mink was the culprit.
 PC15D_SECONDGATHER_GUARD1-1=Хтось спробував інсценувати місце злочину, щоб ми повірили, ніби винуватець - доктор Мінк.
 
@@ -9569,7 +9569,7 @@ PC15D_SECONDGATHER_GUARD1-3=Хто має вільний доступ до вс�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### You, rat guard.
 PC15D_SECONDGATHER_GUARD1-4=Ти, щуре-охоронець.
 
@@ -9605,7 +9605,7 @@ PC15D_SECONDGATHER_GUARD1-10=Спершу зосередьмося на тому
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Where does the Tomatoze sauce comes from?
 PC15D_SECONDGATHER_GUARD1-11=Звідки взявся томатозний соус?
 
@@ -9622,8 +9622,8 @@ PC15D_CLUE_GUARD_STAGED-2=Угу.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### At some point, someone entered the restroom and "stole" sauce from the Antburger to put it on Dr. Hush.
 PC15D_CLUE_GUARD_STAGED-3=У якийсь момент хтось зайшов у вбиральню й "украв" соус із мурахобургера, щоб вимазати ним доктора Гаша.
 
@@ -9644,7 +9644,7 @@ PC15D_CLUE_GUARD_STAGED-6=Ви божевільні!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Should I remind you that you're the one here with Tomatoze sauce on your tie?!
 PC15D_CLUE_GUARD_STAGED-7=Нагадати вам, що це саме у вас на краватці томатозний соус?!
 
@@ -9665,7 +9665,7 @@ PC15D_CLUE_GUARD_STAGED-10=Заспокойтеся. Зараз поясню.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink stayed in his room the whole time, except once.
 PC15D_CLUE_GUARD_STAGED-11=Доктор Мінк увесь час сидів у своїй кімнаті, крім одного моменту.
 
@@ -9681,8 +9681,8 @@ PC15D_CLUE_GUARD_STAGED-13=Легко уявити, як усе сталося.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### While he was in the restroom, the murderer killed Dr. Hush in his room, then carried him in to Dr. Mink's room.
 PC15D_CLUE_GUARD_STAGED-14=Поки він був у вбиральні, злочинець убив доктора Гаша в його кімнаті, а потім переніс його до кімнати доктора Мінка.
 
@@ -9693,7 +9693,7 @@ PC15D_CLUE_GUARD_STAGED-15=І це могла зробити лише одна �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### You, Mister rat... I mean, guard.
 PC15D_CLUE_GUARD_STAGED-16=Ти, пане щуре... тобто охоронцю.
 
@@ -9704,7 +9704,7 @@ PC15D_CLUE_GUARD_STAGED-17=Це абсурд!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### When coming back to his room, Dr. Mink would have noticed the corpse!
 PC15D_CLUE_GUARD_STAGED-18=Доктор Мінк, повертаючись до своєї кімнати, неодмінно помітив би труп!
 
@@ -9730,14 +9730,14 @@ PC15D_CLUE_GUARD_STAGED-22=Га?!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### And I have proof Dr. Hush's body was under there!
 PC15D_CLUE_GUARD_STAGED-23=І в мене є доказ, що тіло доктора Гаша було там!
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### That red stain under the bed... is Tomatoze sauce.
 PC15D_CLUE_GUARD_BED-1=Та червона пляма під ліжком... це томатозний соус.
 
@@ -9748,7 +9748,7 @@ PC15D_CLUE_GUARD_BED-2=Н... не може бути!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Actually, it didn't even matter if Dr. Mink noticed the body or not.
 PC15D_CLUE_GUARD_BED-3=Насправді навіть не мало значення, помітив доктор Мінк тіло чи ні.
 
@@ -9794,7 +9794,7 @@ PC15D_CLUE_GUARD_BED-11=Поділишся...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink.
 PC15D_CLUE_GUARD_BED-12=Докторе Мінку.
 
@@ -10011,7 +10011,7 @@ PC15D_CLUE_GUARD_MONITORING2-13=Якщо я справді втрутився в
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Then you can't prove Dr. Mink whereabouts either!
 PC15D_CLUE_GUARD_MONITORING2-14=Тоді ти не можеш довести, де доктор Мінк!
 
@@ -10032,8 +10032,8 @@ PC15D_CLUE_GUARD_MONITORING2-17=Не знаю! А наскільки заплу�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Besides, Dr. Mink cannot enter Dr. Hush's room without permission.
 PC15D_CLUE_GUARD_MONITORING2-18=Крім того, доктор Мінк не може увійти до кімнати доктора Гаша без дозволу.
 
@@ -10065,7 +10065,7 @@ PC15D_CLUE_GUARD_MONITORING2-23=Ти ж робот! Ти маєш казати �
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### If I had murdered Dr. Hush in his room, you would have been there!
 PC15D_CLUE_GUARD_MONITORING2-24=Якби я вбив доктора Гаша в його кімнаті, ти б там був!
 
@@ -10170,19 +10170,19 @@ PC15D_CLUE_GUARD_MONITORING2-43=Н... Не може бути!
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### At 4:45, Dr. Hush's tablet transferred some AI data to an unknown destination.
 PC15D_CLUE_GUARD_MOTIVE-1=О 4:45 планшет доктора Гаша передав якісь ШІ-дані в невідоме місце.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Coincidentally, Dr. Hush's tracking stopped around the same time. Which means the murderer must have performed this data send.
 PC15D_CLUE_GUARD_MOTIVE-2=За збігом обставин, відстеження доктора Гаша припинилося приблизно тоді ж. А отже, цю передачу даних здійснив саме вбивця.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Considering Dr. Mink was in the restroom at that time...
 PC15D_CLUE_GUARD_MOTIVE-3=Зважаючи на те, що доктор Мінк у той час був у вбиральні...
 
@@ -10204,7 +10204,7 @@ PC15D_CLUE_GUARD_MOTIVE-6=А ти як гадаєш, Тайді?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Guard": "Охоронець"
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Did you see the guard use your Daddy's tablet?
 PC15D_CLUE_GUARD_MOTIVE-7=Ти бачив, як охоронець користувався планшетом твого татуся?
 
@@ -10266,7 +10266,7 @@ PC15D_CLUE_GUARD_MOTIVE-18=Моїх друзів...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush caught you on the act, and that's why you had to get rid of him!
 PC15D_CLUE_GUARD_MOTIVE-19=Доктор Гаш застав тебе на гарячому, тому ти мусив його позбутися!
 
@@ -10476,7 +10476,7 @@ PC15D_GUARD_WIN-2=Та ні. Просто непритомний.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 # NB: Lexicon word in Ukrainian for "Wes": "Вес"
 ### Gonna call Chief Wes. He'll take care of him.
 PC15D_GUARD_WIN-3=Зателефоную шефові Весу. Він про нього подбає.
@@ -10541,7 +10541,7 @@ PC15D_SECONDGATHER_OTT1-7=Ти на хвилину вислизнув з-під 
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### More than enough time to enter this room and kill Dr. Hush!
 PC15D_SECONDGATHER_OTT1-8=Цього цілком досить, щоб зайти до цієї кімнати й убити доктора Гаша!
 
@@ -10705,7 +10705,7 @@ PC15D_SECONDGATHER_OTT_NOPE-6=Ну? Хто це зробив?
 
 #----------------------------------------------------
 # Brok - Charge Dr. Hush
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### No one killed Dr. Hush.
 PC15D_SECONDGATHER_HUSH1-1=Ніхто не вбивав доктора Гаша.
 
@@ -10731,7 +10731,7 @@ PC15D_SECONDGATHER_HUSH1-5=Невже це можливо...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### First we need to find out... Why did Dr. Hush end up in this room?
 PC15D_SECONDGATHER_HUSH1-6=Спершу треба з'ясувати... Чому доктор Гаш опинився в цій кімнаті?
 
@@ -10754,7 +10754,7 @@ PC15D_CLUE_HUSH_NEEDROOM-1=Пригадайте запис Тайді.
 
 
 # Tidy
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### "I need to settle things with Dr. Mink."
 PC15D_CLUE_HUSH_NEEDROOM-2="Мені треба владнати справи з доктором Мінком."
 
@@ -10795,7 +10795,7 @@ PC15D_CLUE_HUSH_NEEDROOM-9=Він не хотів розмовляти.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### He wanted to kill you, Dr. Mink.
 PC15D_CLUE_HUSH_NEEDROOM-10=Він хотів убити вас, докторе Мінку.
 
@@ -10806,7 +10806,7 @@ PC15D_CLUE_HUSH_NEEDROOM-11=Що?!
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush... A killer?...
 PC15D_CLUE_HUSH_NEEDROOM-12=Доктор Гаш... Убивця...?
 
@@ -10818,13 +10818,13 @@ PC15D_CLUE_HUSH_NEEDROOM-13=У це важко повірити, але в ме�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink. You told me yourself.
 PC15D_CLUE_HUSH_KILLMINK-1=Докторе Мінку. Ви самі мені це казали.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush barely talked to you anymore. And when he did, you'd argue with him.
 PC15D_CLUE_HUSH_KILLMINK-2=Доктор Гаш майже не розмовляв із вами. А коли розмовляв, ви з ним сварилися.
 
@@ -10835,7 +10835,7 @@ PC15D_CLUE_HUSH_KILLMINK-3=Це ознаки тяжкого психічного
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush was keeping things to himself, to the point he couldn't bare it anymore.
 PC15D_CLUE_HUSH_KILLMINK-4=Доктор Гаш тримав усе в собі, аж доки не зміг більше цього витримати.
 
@@ -10871,7 +10871,7 @@ PC15D_CLUE_HUSH_KILLMINK-10=Що...?
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush entered your room with his lamp.
 PC15D_CLUE_HUSH_KILLMINK-11=Доктор Гаш увійшов до вашої кімнати зі своєю лампою.
 
@@ -10907,7 +10907,7 @@ PC15D_CLUE_HUSH_KILLMINK-17=Щоб бачити, лишаючись непомі
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### There's only one solution for Dr. Hush to end up where he is without entering from the door.
 PC15D_CLUE_HUSH_KILLMINK-18=Є лише один варіант, як доктор Гаш міг опинитися там, де він зараз, не заходячи через двері.
 
@@ -10954,13 +10954,13 @@ PC15D_CLUE_HUSH_KILLMINK-26=І в мене є відповідний доказ,
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Earlier I made an interesting discovery about the red stains on Dr. Hush's body.
 PC15D_CLUE_HUSH_INVENT-1=Раніше я зробив цікаве відкриття щодо червоних плям на тілі доктора Гаша.
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Yeah. Tomatoze sauce.
 PC15D_CLUE_HUSH_INVENT-2=Ага. Томатозний соус.
 
@@ -10971,7 +10971,7 @@ PC15D_CLUE_HUSH_INVENT-3=Правильно.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### Your fridge contained Antburgers. Am I right?
 PC15D_CLUE_HUSH_INVENT-4=У вашому холодильнику були мурахобургери. Я маю рацію?
 
@@ -10982,7 +10982,7 @@ PC15D_CLUE_HUSH_INVENT-5=Так. Я навіть з'їв одного вчора
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Well Dr. Hush must love these too, cause he spilled a lot on his clothes!
 PC15D_CLUE_HUSH_INVENT-6=Ну, доктор Гаш, мабуть, теж їх любить, бо добряче заляпав одяг!
 
@@ -10998,7 +10998,7 @@ PC15D_CLUE_HUSH_INVENT-8=Це якось... не в його стилі.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### Fortunately for us, this revealed another Tomatoze sauce spot in an unusual place!
 PC15D_CLUE_HUSH_INVENT-9=На наше щастя, завдяки цьому ми виявили ще одну пляму томатози у незвичайному місці!
 
@@ -11066,7 +11066,7 @@ PC15D_CLUE_HUSH_TRAP-4=Дозволь не погодитися.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Did one of you notice the biscuit crumbs on Dr. Hush's workbench?
 PC15D_CLUE_HUSH_TRAP-5=Хтось із вас помітив крихти печива на робочому столі доктора Гаша?
 
@@ -11087,7 +11087,7 @@ PC15D_CLUE_HUSH_TRAP-8=Вони розчавлені.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Dr. Hush climbed on his workbench... to access the trap?
 PC15D_CLUE_HUSH_TRAP-9=Доктор Гаш заліз на свій робочий стіл... щоб дістатися до люка?
 
@@ -11200,7 +11200,7 @@ PC15D_CLUE_HUSH_TRAP-30=Стривайте...
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### So... Dr. Hush was angry at me...
 PC15D_CLUE_HUSH_TRAP-31=Отже... доктор Гаш був на мене злий...
 
@@ -11345,7 +11345,7 @@ PC15D_HUSH_AFTERINTERROGATION-7=Хай там як. Мою роботу тут �
 
 
 # Guard
-# NB: Lexicon word in Ukrainian for "Body Recycling": "Переробка тіл"
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
 ### Okay. I'll call the Body Recycling service.
 PC15D_HUSH_AFTERINTERROGATION-8=Добре. Я зателефоную в Службу Переробки Тіл.
 

@@ -59,7 +59,7 @@ PC_BAG=Сумка
 PC_SHOWER=Душ?
 
 #The combination of "Shower" and "Toilet"!
-# NB: Lexicon word in Ukrainian for "Showlet": "Душлет"
+# NB: Lexicon word in Ukrainian for "Showlet": "душлет"
 ### Showlet
 PC_SHOWLET=Душлет
 
@@ -116,14 +116,14 @@ PC15E_MEETYME1-1=Я пам'ятаю це!
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### A holographic display to watch livies.
 PC15E_MEETYME1-2=Дисплей для перегляду голографічних роликів.
 
 
 #----------------------------------------------------
 # Various
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### To watch a livie, say or think "Meety" followed by the title.
 PC15E_MEETYME2-1=Щоб переглянути голографічний ролик, скажіть або подумайте "Голограф" разом із назвою вашого ролика.
 
@@ -181,7 +181,7 @@ PC15E_MEETYME3-3=Я працюю над цим!
 
 #----------------------------------------------------
 # Various
-# NB: Lexicon word in Ukrainian for "Livie": "Голографічний ролик"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
 ### Do you wish to watch a livie?
 PC15E_MEETYME_AFTER1-1=Бажаєте переглянути голографічний ролик?
 
@@ -242,7 +242,7 @@ PC15E_MEETYME_AFTER1-12="Я у вбиральні"
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### That's Dr. Hush's voice!
 PC15E_MEETYME_AFTER1-13=Це голос доктора Гаша!
 
@@ -317,7 +317,7 @@ PC15E_TRAP2-4=Необхідне зло. Завдяки цьому ми стає
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Slumer": "Мешканець Нетрів / Нетрівець"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
 ### Don't tell me you're a Slumer?...
 PC15E_TRAP2-5=Тільки не кажіть, що ви мешканець Нетрів...?
 
@@ -339,13 +339,13 @@ PC15E_WRAPPING1-2=Гей! Я його впізнаю!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### That's the wrapping for Mc Flea's flagship Antburger!
 PC15E_WRAPPING1-3=Це обгортка фірмового мурахобургера від МакБліх!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Tomatoze": "Томатоза"
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
 ### "With extra Tomatoze sauce!" My favorites!
 PC15E_WRAPPING1-4="З додатковим соусом томатози!" Моє улюблене!
 
@@ -575,7 +575,7 @@ PC15E_FRIDGE_AFTER1-3=Щось не так?
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### There should be Antburgers in there!
 PC15E_FRIDGE_AFTER1-4=Там мали бути мурахобургери!
 
@@ -591,7 +591,7 @@ PC15E_FRIDGE_AFTER1-6=Ой, я забув... Зовнішній зв'язок н
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### You ate an Antburger?
 PC15E_FRIDGE_AFTER1-7=Ви з'їли мурахобургер?
 
@@ -617,7 +617,7 @@ PC15E_FRIDGE_AFTER1-11=Ну... у мене є певний ритуал.
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Antburger": "Мурахобургер"
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
 ### I always have an Antburger while watching my science show!
 PC15E_FRIDGE_AFTER1-12=Я завжди їм мурахобургер, коли дивлюся своє наукове шоу!
 
@@ -638,7 +638,7 @@ PC15E_FRIDGE_AFTER1-15=Цікаво...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Do you think Dr. Hush wanted to eat it?
 PC15E_FRIDGE_AFTER1-16=Думаєте, доктор Гаш хотів його з'їсти?
 
@@ -730,7 +730,7 @@ PC15E_PILLS1B-3=Не дивіться на мене! Я їх ніколи не �
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### Is Dr. Hush taking some medication?
 PC15E_PILLS1B-4=Доктор Гаш приймає якісь ліки?
 
@@ -757,7 +757,7 @@ PC15E_PILLS1B-8=Гарна ідея.
 
 #----------------------------------------------------
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### They must belong to Dr. Hush.
 PC15E_PILLS2-1=Вони мають належати докторові Гашу.
 
@@ -899,7 +899,7 @@ PC15E_SINK_MAGNIFY-3=І не тільки це. Здається, тут яка�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Dr. Mink must have flushed some experiments...
 PC15E_SINK_MAGNIFY-4=Доктор Мінк, мабуть, змив якісь експерименти...
 
@@ -956,13 +956,13 @@ PC15E_CUP1-7=Угу, звучить непогано.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Did you drink that coffee, Mink?
 PC15E_CUP1-8=Це ви пили каву, Мінк?
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Mink": "Мінк"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### It's Dr. Mink for you, and yes.
 PC15E_CUP1-9=Для вас - доктор Мінк, і так.
 
@@ -1014,7 +1014,7 @@ PC15E_CUP2-5=То хто ж її робить?
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Dr. Hush's maintenance bot, Tidy.
 PC15E_CUP2-6=Сервісний бот доктора Гаша, Тайді.
@@ -1047,7 +1047,7 @@ PC15E_CUP2-11=Оце я розумію - логіка.
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Dr. Hush": "Д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
 ### I'm surprised to see only one cup in here. Doesn't Dr. Hush drink coffee?
 PC15E_CUP3-1=Я здивований, що тут лише один кухоль. Хіба доктор Гаш не п'є каву?
 
@@ -1152,7 +1152,7 @@ PC15E_SHOWLET1-2=Душ?
 
 
 # Mink
-# NB: Lexicon word in Ukrainian for "Showlet": "Душлет"
+# NB: Lexicon word in Ukrainian for "Showlet": "душлет"
 ### What? No. A showlet.
 PC15E_SHOWLET1-3=Що? Ні. Душлет.
 

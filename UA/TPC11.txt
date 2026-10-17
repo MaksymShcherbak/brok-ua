@@ -106,7 +106,7 @@ PC11_DOORFRONT2-2=Має бути інший шлях для втечі!
 
 
 
-# NB: Lexicon word in Ukrainian for "DigiWindow": "Цифрове вікно"
+# NB: Lexicon word in Ukrainian for "DigiWindow": "цифрове вікно"
 ### I wish it was a real one... but it's just a DigiWindow.
 PC11_WINDOW1-1=Якби ж це було справжнє вікно... а не цифрове.
 

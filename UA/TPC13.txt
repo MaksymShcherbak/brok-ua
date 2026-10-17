@@ -418,7 +418,7 @@ PC13_STORY110_3B-26=Я завжди буду поруч із тобою.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 ### Tomorrow I'll meet your Director. I'll fix everything.
 PC13_STORY110_3B-27=Завтра я зустрінуся з твоєю директоркою. Я все виправлю.
 
@@ -783,7 +783,7 @@ PC13_STORY300_INIT1-17=Ти ніколи не втілиш свої мрії...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### You'll never become a Drumer...
 PC13_STORY300_INIT1-18=Ти ніколи не станеш мешканцем Верхів...
 

@@ -115,7 +115,7 @@ PC09C_INTRO_WAKEUP1-2=У-ух...
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### Man... I feel like an Aircar ran me over...
 PC09C_INTRO_WAKEUP1-3=Ох... Таке відчуття, ніби по мені аеромобіль проїхався...
 
@@ -746,7 +746,7 @@ PC09C_OTT_FOUGHT1-5=Так... Це... якось паршиво, га...?
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Chief": "Шеф"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
 ### Any idea where the chief of police might be?
 PC09C_OTT_FOUGHT1B-1=Не знаєш, де може бути шеф поліції?
 
@@ -1463,8 +1463,8 @@ PC09C_OTT_PILLS1-14=Я ніколи про таке не чув.
 
 # Ott
 # NB: Lexicon word in Ukrainian for "The Dome": "Купол"
-# NB: Lexicon word in Ukrainian for "Drumers": "Мешканці Верхів"
-# NB: Lexicon word in Ukrainian for "Drumer": "Мешканець Верхів"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
 ### Even Drumers aren't totally safe with the Dome.
 PC09C_OTT_PILLS1-15=Навіть мешканці Верхів не в повній безпеці під Куполом.
 
@@ -2851,7 +2851,7 @@ PC09C_COMPUTER_MISSION-9=(Дзвінок)
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Hacker": "Гакер"
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
 ### The hacker phone...? It's ringing!
 PC09C_COMPUTER_MISSION-10=Гакерський телефон...? Він дзвонить!
 
@@ -2912,7 +2912,7 @@ PC09C_COMPUTER_MISSION-21=Скажи, кому віддати, і я відпр�
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Director": "Директорка"
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
 # NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
 ### The Slums school Director.
 PC09C_COMPUTER_MISSION-22=Директорці школи в Нетрях.
@@ -3135,7 +3135,7 @@ PC09C_COMPUTER_AFTER_EXPLAIN-4=На жаль, у мене є інші справ
 
 #----------------------------------------------------
 # Wes
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### An Aircar is ready to take you there.
 PC09C_COMPUTER_AFTER_EXPLAIN_NOOTT-1=Аеромобіль уже готовий доправити тебе туди.
 
@@ -3244,7 +3244,7 @@ PC09C_COMPUTER_AFTER_EXPLAIN_OTT-6=Я взагалі-то тут, знаєте.
 
 
 # Wes
-# NB: Lexicon word in Ukrainian for "Aircar": "Аеромобіль"
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
 ### An Aircar is ready take you there.
 PC09C_COMPUTER_AFTER_EXPLAIN_OTT-7=Аеромобіль уже готовий доправити вас туди.
 
