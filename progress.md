@@ -97,7 +97,7 @@ Some items are posponed until I finish playing the DLC.
 | TPC19C    | Done                | Done          |
 | TPC19D    | Done                | Done          |
 | TPC20     | Done                | Done          |
-| TPC21     | Postponed           | To Do         |
+| TPC21     | Done                | Done          |
 | TSP01     | Done                | Done          |
 | TSP02     | Done                | Done          |
 | TSUMMARY  | Done                | Done          |
