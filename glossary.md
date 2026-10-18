@@ -231,7 +231,7 @@
 | My old man                | мій старий                                                                                                         |                                      |
 | Croc                      | крокодил / крок                                                                                                    |                                      |
 | Supercroc                 | супер-крок                                                                                                         |                                      |
-| Alligator / Gator         | алігатор                                                                                                           |
+| Alligator / Gator         | алігатор                                                                                                           |                                      |
 | Tutor                     | опікун                                                                                                             |                                      |
 | Stepson                   | прийомний син                                                                                                      |                                      |
 | Mister                    | пан / чоловік                                                                                                      |                                      |

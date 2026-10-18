@@ -1463,7 +1463,7 @@ CREDITS_ENDING_AFTERSHARPTEETH-8=Але я бився з ним, і виграв
 
 # Shay
 ### And you didn't think of telling me? Your best friend?!
-CREDITS_ENDING_AFTERSHARPTEETH-9=І ти не подумав розповісти мені? Своїй кращій подрузі!
+CREDITS_ENDING_AFTERSHARPTEETH-9=І ти не подумав розповісти мені? Своїй кращій подрузі?!
 
 
 # Brok

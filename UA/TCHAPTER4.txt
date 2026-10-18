@@ -243,7 +243,7 @@ CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-10=...
 # Graff
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay!
-CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-11=Клей!
+CH4_GRAFF_CALL_KLAY_AFTERBUNKER_ASKMONEY1-11=Клею!
 
 
 # Klay
@@ -539,7 +539,7 @@ CH4_GRAFF_CALL_SHAY_AFTERBUNKER-18=Чому саме зараз всі так р
 #----------------------------------------------------
 # Graff - After Graff killed Klay accidentally
 ### I roamed around the city...
-CHAPTER4_EXIT_KLAYDEAD1-1=Я блукав по місту...
+CHAPTER4_EXIT_KLAYDEAD1-1=Я блукав містом...
 
 
 # Graff
@@ -549,17 +549,17 @@ CHAPTER4_EXIT_KLAYDEAD1-2=Загублений в думках...
 
 # Graff
 ### I was going to die and...
-CHAPTER4_EXIT_KLAYDEAD1-3=Я вмирав і...
+CHAPTER4_EXIT_KLAYDEAD1-3=Я помирав і...
 
 
 # Graff
 ### It was fine.
-CHAPTER4_EXIT_KLAYDEAD1-4=Все було гаразд.
+CHAPTER4_EXIT_KLAYDEAD1-4=Я був не проти.
 
 
 # Graff
 ### I deserved it.
-CHAPTER4_EXIT_KLAYDEAD1-5=Я це заслужив.
+CHAPTER4_EXIT_KLAYDEAD1-5=Зрештою, я це заслужив.
 
 
 # Graff

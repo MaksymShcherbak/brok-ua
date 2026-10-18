@@ -57,7 +57,7 @@ STORY140_AFTERPC10_MONEY-3=Але ще гірше буде, якщо я взаг
 
 # Brok
 ### To the police department. Let's go!
-STORY140_AFTERPC10_MONEY-4=В відділок поліції. Ходімо!
+STORY140_AFTERPC10_MONEY-4=У відділок поліції. Ходімо!
 
 
 #----------------------------------------------------

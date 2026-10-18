@@ -649,7 +649,7 @@ GPC05D_SECONDDIALOG2-19=А більша бомба розташована в л�
 
 # Chiefrat
 ### Ya know... where all the drunkards and other human wastes are sent to suck whatever's money they have left.
-GPC05D_SECONDDIALOG2-20=Знаєш... там, куди відправляють усіх п'яниць та інший непотріб суспільства, щоб висмоктати з них останні гроші.
+GPC05D_SECONDDIALOG2-20=Знаєш... там, куди відправляють усіх п'яниць та інший непотріб суспільства, аби висмоктати з них останні гроші.
 
 
 # Graff
@@ -1127,7 +1127,7 @@ GPC05D_SECONDDIALOG3B-9=Я ж казав, шо це була лише гра!
 
 # Chiefrat
 ### Everyone's safe. There never was any bomb.
-GPC05D_SECONDDIALOG3B-10=Всі в безпеці. Ніяких бомб не було і немає.
+GPC05D_SECONDDIALOG3B-10=Всі в безпеці. Ніяких бомб не було й нема.
 
 
 # Graff

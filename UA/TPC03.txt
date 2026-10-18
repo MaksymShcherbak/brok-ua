@@ -1056,7 +1056,7 @@ PC03_TRAMP_GLUCOSITE_YES1-9=Не марнуй своє життя на це.
 
 # Tramp
 ### Time is money and you're clearly lacking both.
-PC03_TRAMP_GLUCOSITE_YES1-10=Час - це гроші, а тобі явно бракує і того, і іншого.
+PC03_TRAMP_GLUCOSITE_YES1-10=Час - це гроші, а тобі явно бракує й того, й іншого.
 
 
 # Brok

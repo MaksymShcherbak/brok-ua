@@ -1,0 +1,952 @@
+﻿# LANGUAGE: UKR
+
+# Everyday life
+# Context: Everyday life
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribot
+TRIBOT=Трибот
+
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers
+SQUEALERS=Верескуни
+
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Drums
+DRUMS=Верхи
+
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### Drumer
+DRUMER=мешканець Верхів
+
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### Drumers
+DRUMERS=мешканці Верхів
+
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Slums
+SLUMS=Нетрі
+
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### Slumer
+SLUMER=мешканець Нетрів / нетрівець
+
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### Slumers
+SLUMERS=мешканці Нетрів / нетрівці
+
+# NB: Lexicon word in Ukrainian for "Pipe-Pill": "Пігулкомат"
+### Pipe-Pill
+PIPEPILL=Пігулкомат
+
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Pipe-Mail
+PIPEMAIL=Поштомат
+
+# NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Toxout pill
+TOXOUTPILL=Смогова пігулка
+
+# NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
+### Toxout
+TOXOUT=Смогова пігулка
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### The Dome
+THEDOME=Купол
+
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
+### The Untail
+THEUNTAIL=Безхвостя (релігія) / Безхвостий (бог)
+
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+### The Triangle
+THETRIANGLE=Трикутник
+
+# NB: Lexicon word in Ukrainian for "Birth Ratio": "народжуваність"
+### Birth Ratio
+BIRTHRATIO=народжуваність
+
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Atlasia
+ATLASIA=Атлазія
+
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### Consciousness Center
+CONSCIOUSNESSCENTER=Центр Свідомості
+
+# NB: Lexicon word in Ukrainian for "Virtual arena": "Віртуальна Арена"
+### Virtual arena
+VIRTUALARENA=Віртуальна Арена
+
+# NB: Lexicon word in Ukrainian for "Pred Toy": "іграшка "Пред""
+### Pred Toy
+PREDTOY=іграшка "Пред"
+
+# NB: Lexicon word in Ukrainian for "The Haze": "Смог"
+### The Haze
+THEHAZE=Смог
+
+
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Uni
+UNI=Юні
+
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Unis
+UNIS=Юні
+
+# NB: Lexicon word in Ukrainian for "EXP": "ДОСВІД"
+### EXP
+EXP=ДОСВІД
+
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Ads
+ADS=Реклами
+
+
+# FOOD
+# Context: FOOD
+# NB: Lexicon word in Ukrainian for "Antburger": "мурахобургер"
+### Antburger
+ANTBURGER=мурахобургер
+
+# NB: Lexicon word in Ukrainian for "Pampalos": "пампалос"
+### Pampalos
+PAMPALOS=пампалос
+
+# NB: Lexicon word in Ukrainian for "Tomatoze": "томатоза"
+### Tomatoze
+TOMATOZE=томатоза
+
+# NB: Lexicon word in Ukrainian for "Pizzant": "мурахопіца"
+### Pizzant
+PIZZANT=мурахопіца
+
+# NB: Lexicon word in Ukrainian for "Glucosite": "глюкозит"
+### Glucosite
+GLUCOSITE=глюкозит
+
+# NB: Lexicon word in Ukrainian for "Hot juice": "гарячий сік"
+### Hot juice
+HOTJUICE=гарячий сік
+
+# NB: Lexicon word in Ukrainian for "Goga gola Soda fizz": "газованка Гога-Гола"
+### Goga gola Soda fizz
+GOGAGOLA=газованка Гога-Гола
+
+# NB: Lexicon word in Ukrainian for "Helios": "Геліос"
+### Helios
+HELIOS=Геліос
+
+# NB: Lexicon word in Ukrainian for "Energy drink": "енергетичний напій / енергетик"
+### Energy drink
+ENERGYDRINK=енергетичний напій / енергетик
+
+# NB: Lexicon word in Ukrainian for "Energy serum": "енергетична сироватка"
+### Energy serum
+ENERGYSERUM=енергетична сироватка
+
+# NB: Lexicon word in Ukrainian for "Flowing water": "плинна вода"
+### Flowing water
+FLOWINGWATER=плинна вода
+
+# NB: Lexicon word in Ukrainian for "Flowing honey": "плинний мед"
+### Flowing honey
+FLOWINGHONEY=плинний мед
+
+
+#Equipment
+# Context: Equipment
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
+### Aircar
+AIRCAR=аеромобіль
+
+# NB: Lexicon word in Ukrainian for "Hoverbike": "аероцикл"
+### Hoverbike
+HOVERBIKE=аероцикл
+
+# NB: Lexicon word in Ukrainian for "Showlet": "душлет"
+### Showlet
+SHOWLET=душлет
+
+# NB: Lexicon word in Ukrainian for "DigiWindow": "цифрове вікно"
+### DigiWindow
+DIGIWINDOW=цифрове вікно
+
+# NB: Lexicon word in Ukrainian for "Wardfridge": "шафодильник"
+### Wardfridge
+WARDFRIDGE=шафодильник
+
+# NB: Lexicon word in Ukrainian for "Medi-LiveHealth": "Живомед"
+### Medi-LiveHealth
+MEDILIVEHEALTH=Живомед
+
+# NB: Lexicon word in Ukrainian for "Medi-Tribot": "Мед-Трибот"
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Medi-Tribot
+MEDITRIBOT=Мед-Трибот
+
+# NB: Lexicon word in Ukrainian for "Infophone": "Інфофон"
+### Infophone
+INFOPHONE=Інфофон
+
+# NB: Lexicon word in Ukrainian for "Body Recycling": "переробка тіл / Служба Переробки Тіл"
+### Body Recycling
+BODYRECYCLING=переробка тіл / Служба Переробки Тіл
+
+# NB: Lexicon word in Ukrainian for "Heartstraint": "перенапруження серця"
+### Heartstraint
+HEARTSTRAINT=перенапруження серця
+
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Triweb
+TRIWEB=Тривеб
+
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
+### Livie
+LIVIE=голографічний ролик / серіал
+
+# NB: Lexicon word in Ukrainian for "Livies": "Голографічні ролики"
+# NB: Lexicon word in Ukrainian for "Livie": "голографічний ролик / серіал"
+### Livies
+LIVIES=Голографічні ролики
+
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### Meety-Me
+MEETYME=Голограф
+
+# NB: Lexicon word in Ukrainian for "Katshu": "катшу"
+### Katshu
+KATSHU=катшу
+
+
+# Events
+# Context: Events
+# NB: Lexicon word in Ukrainian for "Autarchism day": "день Аутархізму"
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
+### Autarchism day
+AUTARCHISMDAY=день Аутархізму
+
+# NB: Lexicon word in Ukrainian for "Rebirth day": "день Відродження"
+### Rebirth day
+REBIRTHDAY=день Відродження
+
+# NB: Lexicon word in Ukrainian for "The Blackout": "Знеструмлення"
+### The Blackout
+THEBLACKOUT=Знеструмлення
+
+
+# Religion
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Natal Tail
+NATALTAIL=Хвостате Різдво
+
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### Natal Untail
+NATALUNTAIL=Безхвосте Різдво
+
+
+# MEDICATION Those can be retrieved from TPC04C.txt
+# Context: MEDICATION Those can be retrieved from TPC04C.txt
+# NB: Lexicon word in Ukrainian for "Bod-Normalizer": "Тілонорм"
+### Bod-Normalizer
+BODNORMALIZER=Тілонорм
+
+# NB: Lexicon word in Ukrainian for "Calmeez-E": "Заспокоїн"
+### Calmeez-E
+CALMEEZE=Заспокоїн
+
+# NB: Lexicon word in Ukrainian for "Stopunger": "Стопголод"
+### Stopunger
+STOPUNGER=Стопголод
+
+# NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
+### Delistute
+DELISTUTE=Смакозамін
+
+# NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
+### Youthgain
+YOUTHGAIN=Молодин
+
+# NB: Lexicon word in Ukrainian for "Softskin": "Ніжношкірин"
+### Softskin
+SOFTSKIN=Ніжношкірин
+
+
+
+# CHARACTERS: For most languages they're the same but might differ for Japanese/Chinese/Russian. Those can be retrieved from TCOMMON.txt
+# Context: CHARACTERS: For most languages they're the same but might differ for Japanese/Chinese/Russian. Those can be retrieved from TCOMMON.txt
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok
+CHAR_BROK=Брок
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff
+CHAR_GRAFF=Графф
+
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin
+CHAR_SIN=Сін
+
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### Wes
+CHAR_WES=Вес
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay
+CHAR_SHAY=Шей
+
+# NB: Lexicon word in Ukrainian for "Remn": "Ремн"
+### Remn
+CHAR_REMN=Ремн
+
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Tribot
+CHAR_TRIBOT=Трибот
+
+# NB: Lexicon word in Ukrainian for "Pipe-Mail": "Поштомат"
+### Pipe-Mail
+CHAR_PIPEMAIL=Поштомат
+
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Bolt
+CHAR_BOLT=Болт
+
+# NB: Lexicon word in Ukrainian for "Squealers Chief": "Шеф Верескунів"
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### Squealers Chief
+CHAR_CHIEFRAT=Шеф Верескунів
+
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealer
+CHAR_RAT=Верескун
+
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Squealers
+CHAR_RATS=Верескуни
+
+# NB: Lexicon word in Ukrainian for "Kins": "Кінс"
+### Kins
+CHAR_RAT_KINS=Кінс
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart
+CHAR_RAT_DART=Дарт
+
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
+### Tramp
+CHAR_TRAMP=волоцюга
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott
+CHAR_OTT=Отт
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay
+CHAR_KLAY=Клей
+
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### Director
+CHAR_DIRECTOR=директорка
+
+# NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
+### Stubot
+CHAR_STUBOT=Студбот
+
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+### R.J.
+CHAR_RJ=Р. Джей
+
+# NB: Lexicon word in Ukrainian for "Hacker": "гакер"
+### Hacker
+CHAR_HACKER=гакер
+
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+### Dr. Hush
+CHAR_HUSH=д-р Гаш
+
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
+### Guard
+CHAR_GUARD=охоронець (посада) / вартовий (на варті Верескунів)
+
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
+### Mink
+CHAR_MINK=д-р Мінк
+
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy
+CHAR_TIDY=Тайді
+
+# NB: Lexicon word in Ukrainian for "Dr. Gherkin": "д-р Геркін"
+### Dr. Gherkin
+CHAR_GHERKIN=д-р Геркін
+
+# NB: Lexicon word in Ukrainian for "Lia": "Лія"
+### Lia
+CHAR_LIA=Лія
+
+# NB: Lexicon word in Ukrainian for "Dee": "Ді"
+### Dee
+CHAR_DEE=Ді
+
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+### Merchant
+CHAR_FLOWER=крамарка
+
+# NB: Lexicon word in Ukrainian for "Giant shell": "Величезний панцир"
+### Giant shell
+CHAR_HUGEBOT=Величезний панцир
+
+# NB: Lexicon word in Ukrainian for "Dart": "Дарт"
+### Dart
+CHAR_DART=Дарт
+
+
+# BRAWL BAR characters
+# NB: Lexicon word in Ukrainian for "Matt": "Метт"
+### Matt
+CHAR_ARMADILLO=Метт
+
+# NB: Lexicon word in Ukrainian for "Sly": "Слай"
+### Sly
+CHAR_BOXERSNAKE=Слай
+
+# NB: Lexicon word in Ukrainian for "Boyd": "Бойд"
+### Boyd
+CHAR_ROOSTER=Бойд
+
+# NB: Lexicon word in Ukrainian for "Rok": "Рок"
+### Rok
+CHAR_BEAR=Рок
+
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+### Puzzles
+CHAR_HEDGEHOG=Пазлс
+
+# NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
+### Tenderjaw
+CHAR_HYENA=Щелепка
+
+# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+### Bubbles
+CHAR_FROG=Баблс
+
+# NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
+### Sharpteeth
+CHAR_SHARK=Гострозуб
+
+# NB: Lexicon word in Ukrainian for "Ivy": "Айві"
+### Ivy
+CHAR_IGUANA=Айві
+
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Clint
+CHAR_CLINT=Клінт
+
+
+# CELSIUS STRAYS characters
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### Chief
+CHAR_CHIEF=шеф
+
+# NB: Lexicon word in Ukrainian for "Crix": "Крікс"
+### Crix
+CHAR_CRIX=Крікс
+
+# NB: Lexicon word in Ukrainian for "Rogue": "Роуг"
+### Rogue
+CHAR_ROGUE=Роуг
+
+# NB: Lexicon word in Ukrainian for "Whikk": "Вікк"
+### Whikk
+CHAR_WHIKK=Вікк
+
+# NB: Lexicon word in Ukrainian for "Merengue": "Меренг"
+### Merengue
+CHAR_MERENGUE=Меренг
+
+# NB: Lexicon word in Ukrainian for "Lye": "Лай"
+### Lye
+CHAR_LYE=Лай
+
+# NB: Lexicon word in Ukrainian for "Fennel": "Феннел"
+### Fennel
+CHAR_FENNEL=Феннел
+
+# NB: Lexicon word in Ukrainian for "Stranger": "незнайомець / незнайомка"
+### Stranger
+CHAR_STRANGER=незнайомець / незнайомка
+
+# NB: Lexicon word in Ukrainian for "Speck": "(Not yet translated)"
+### Speck
+CHAR_SPECK=
+
+# NB: Lexicon word in Ukrainian for "Coda": "(Not yet translated)"
+### Coda
+CHAR_CODA=
+
+# NB: Lexicon word in Ukrainian for "Yarne": "(Not yet translated)"
+### Yarne
+CHAR_YARNE=
+
+# NB: Lexicon word in Ukrainian for "Wren": "(Not yet translated)"
+### Wren
+CHAR_WREN=
+
+# NB: Lexicon word in Ukrainian for "Goldie": "(Not yet translated)"
+### Goldie
+CHAR_GOLDIE=
+
+# NB: Lexicon word in Ukrainian for "Rane": "(Not yet translated)"
+### Rane
+CHAR_RANE=
+
+# NB: Lexicon word in Ukrainian for "Juja": "(Not yet translated)"
+### Juja
+CHAR_JUJA=
+
+# NB: Lexicon word in Ukrainian for "Locke": "(Not yet translated)"
+### Locke
+CHAR_LOCKE=
+
+# NB: Lexicon word in Ukrainian for "Cressa": "(Not yet translated)"
+### Cressa
+CHAR_CRESSA=
+
+# NB: Lexicon word in Ukrainian for "Yota": "(Not yet translated)"
+### Yota
+CHAR_YOTA=
+
+# NB: Lexicon word in Ukrainian for "Carmine": "(Not yet translated)"
+### Carmine
+CHAR_CARMINE=
+
+# NB: Lexicon word in Ukrainian for "Kess": "(Not yet translated)"
+### Kess
+CHAR_KESS=
+
+# NB: Lexicon word in Ukrainian for "Brindle": "(Not yet translated)"
+### Brindle
+CHAR_BRINDLE=
+
+# NB: Lexicon word in Ukrainian for "Iris": "(Not yet translated)"
+### Iris
+CHAR_IRIS=
+
+# NB: Lexicon word in Ukrainian for "Marsh": "(Not yet translated)"
+### Marsh
+CHAR_MARSH=
+
+# NB: Lexicon word in Ukrainian for "Hale": "(Not yet translated)"
+### Hale
+CHAR_HALE=
+
+# NB: Lexicon word in Ukrainian for "Heel": "(Not yet translated)"
+### Heel
+CHAR_HEEL=
+
+# NB: Lexicon word in Ukrainian for "Borvo": "(Not yet translated)"
+### Borvo
+CHAR_BORVO=
+
+# NB: Lexicon word in Ukrainian for "Stumpy": "(Not yet translated)"
+### Stumpy
+CHAR_STUMPY=
+
+# NB: Lexicon word in Ukrainian for "Padoo": "(Not yet translated)"
+### Padoo
+CHAR_PADOO=
+
+
+# CELSIUS STRAYS Introduced vocabulary
+# NB: Lexicon word in Ukrainian for "Slumlords": "Барони Нетрів"
+### Slumlords
+SLUMLORDS=Барони Нетрів
+
+# Type of flower
+# NB: Lexicon word in Ukrainian for "Heartrot": "гнилосердець"
+### Heartrot
+HEARTROT=гнилосердець
+
+# NB: Lexicon word in Ukrainian for "Xytiphate": "кситифат"
+### Xytiphate
+XYTIPHATE=кситифат
+
+# NB: Lexicon word in Ukrainian for "ChocoLick": "ШокоЛиз"
+### ChocoLick
+CHOCOLICK=ШокоЛиз
+
+# NB: Lexicon word in Ukrainian for "Duomelon": "дуодиня"
+### Duomelon
+DUOMELON=дуодиня
+
+# NB: Lexicon word in Ukrainian for "Crikkit Biskkits": "цвіркопечиво"
+### Crikkit Biskkits
+CRIKKITBISKKITS=цвіркопечиво
+
+# NB: Lexicon word in Ukrainian for "Fossi berries": "давньоягоди"
+### Fossi berries
+FOSSIBERRIES=давньоягоди
+
+# The name of their card game
+# NB: Lexicon word in Ukrainian for "Poko": "Поко"
+### Poko
+POKOGAME=Поко
+
+
+# CELSIUS STRAYS Locations
+# NB: Lexicon word in Ukrainian for "Holo Point": "Голографічна Точка"
+### Holo Point
+HOLOPOINT=Голографічна Точка
+
+# Name of an independent settlement/commune that Locke runs in the Slums
+# NB: Lexicon word in Ukrainian for "Twinburg": "(Not yet translated)"
+### Twinburg
+TWINBURG=
+
+# Location in the Slums
+# NB: Lexicon word in Ukrainian for "Glassyard": "(Not yet translated)"
+### Glassyard
+GLASSYARD=
+
+# Location and name of building
+# NB: Lexicon word in Ukrainian for "Oasis": "(Not yet translated)"
+### Oasis
+OASIS=
+
+# Slang for "the marked areas exposed to radiation."
+# NB: Lexicon word in Ukrainian for "Redzone": "(Not yet translated)"
+### Redzone
+REDZONE=
+
+# A foreign nation the government trades with
+# NB: Lexicon word in Ukrainian for "Sorain": "Сорейн"
+### Sorain
+SORAIN=Сорейн
+
+# As in "Commonwealth Station"
+# NB: Lexicon word in Ukrainian for "Commonwealth": "(Not yet translated)"
+### Commonwealth
+COMMONWEALTH=
+
+# NB: Lexicon word in Ukrainian for "ZENI Terminal": "(Not yet translated)"
+### ZENI Terminal
+TERMINALZENI=
+
+# NB: Lexicon word in Ukrainian for "APSI Terminal": "(Not yet translated)"
+### APSI Terminal
+TERMINALAPSI=
+
+# NB: Lexicon word in Ukrainian for "The Nest": "(Not yet translated)"
+### The Nest
+COLONYNEST=
+
+# NB: Lexicon word in Ukrainian for "Mother's Den": "(Not yet translated)"
+### Mother's Den
+COLONYMOMDEN=
+
+# NB: Lexicon word in Ukrainian for "Purifier Room": "(Not yet translated)"
+### Purifier Room
+COLONYPURIFIER=
+
+# NB: Lexicon word in Ukrainian for "Stockroom": "(Not yet translated)"
+### Stockroom
+COLONYSTOCKROOM=
+
+# NB: Lexicon word in Ukrainian for "Barracks": "(Not yet translated)"
+### Barracks
+COLONYBARRACKS=
+
+# NB: Lexicon word in Ukrainian for "Generator Room": "(Not yet translated)"
+### Generator Room
+COLONYGENERATOR=
+
+# NB: Lexicon word in Ukrainian for "Tunnel Network": "(Not yet translated)"
+### Tunnel Network
+COLONYTUNNEL=
+
+# The black market district
+# NB: Lexicon word in Ukrainian for "Cataract": "(Not yet translated)"
+### Cataract
+CATARACT=
+
+# The sector the whole game takes place in
+# NB: Lexicon word in Ukrainian for "Sector 33z": "(Not yet translated)"
+### Sector 33z
+SECTOR33Z=
+
+
+
+# Context: Objects, tech and materials
+# NB: Lexicon word in Ukrainian for "Railbike": "(Not yet translated)"
+### Railbike
+RAILBIKE=
+
+# The railbike name
+# NB: Lexicon word in Ukrainian for "Vicky": "(Not yet translated)"
+### Vicky
+VICKY=
+
+# NB: Lexicon word in Ukrainian for "Datachip": "(Not yet translated)"
+### Datachip
+DATACHIP=
+
+# The two halves of a datachip
+# NB: Lexicon word in Ukrainian for "Authenticator": "(Not yet translated)"
+### Authenticator
+AUTHENTICATOR=
+
+# NB: Lexicon word in Ukrainian for "Information module": "(Not yet translated)"
+### Information module
+INFORMATIONMODULE=
+
+# NB: Lexicon word in Ukrainian for "Sparker": "(Not yet translated)"
+### Sparker
+SPARKER=
+
+# Both forms are used on purpose: a character shortens "Pre-Millennium" to "Pre-Mil"
+# NB: Lexicon word in Ukrainian for "Pre-Millennium": "(Not yet translated)"
+### Pre-Millennium
+PREMILLENNIUM=
+
+# NB: Lexicon word in Ukrainian for "Pre-Mil": "(Not yet translated)"
+### Pre-Mil
+PREMIL=
+
+# Era of technology pre-3000
+# NB: Lexicon word in Ukrainian for "Eonic": "(Not yet translated)"
+### Eonic
+EONIC=
+
+# The only plant that grows in the colony
+# NB: Lexicon word in Ukrainian for "Briarweed": "(Not yet translated)"
+### Briarweed
+BRIARWEED=
+
+# A fungus
+# NB: Lexicon word in Ukrainian for "Marshshroom": "(Not yet translated)"
+### Marshshroom
+MARSHSHROOM=
+
+# NB: Lexicon word in Ukrainian for "Fiberwire": "(Not yet translated)"
+### Fiberwire
+FIBERWIRE=
+
+# A weapon
+# NB: Lexicon word in Ukrainian for "Vega-7": "(Not yet translated)"
+### Vega-7
+VEGA7=
+
+# Government paperwork for emergency rations
+# NB: Lexicon word in Ukrainian for "Form-6": "(Not yet translated)"
+### Form-6
+FORM6=
+
+# NB: Lexicon word in Ukrainian for "Observer Bot": "(Not yet translated)"
+### Observer Bot
+OBSERVERBOT=
+
+# Old gas derricks outside the colony
+# NB: Lexicon word in Ukrainian for "Derricks": "(Not yet translated)"
+### Derricks
+DERRICKS=
+
+
+# Military slang: "going topside" means moving from inside a ship up to the open upper deck
+# NB: Lexicon word in Ukrainian for "Topside": "(Not yet translated)"
+### Topside
+TOPSIDE=
+
+
+# Context: Calendar months in-world, in order from 1 to 6
+# NB: Lexicon word in Ukrainian for "Barest": "(Not yet translated)"
+### Barest
+BAREST=
+
+# NB: Lexicon word in Ukrainian for "Caldist": "(Not yet translated)"
+### Caldist
+CALDIST=
+
+# NB: Lexicon word in Ukrainian for "Lorgust": "славерпень"
+### Lorgust
+LORGUST=славерпень
+
+# NB: Lexicon word in Ukrainian for "Septecium": "(Not yet translated)"
+### Septecium
+SEPTECIUM=
+
+# NB: Lexicon word in Ukrainian for "Tredecium": "тредецій"
+# Context: Calendar, religion
+### Tredecium
+TREDECIUM=тредецій
+
+# NB: Lexicon word in Ukrainian for "Vedecium": "(Not yet translated)"
+### Vedecium
+VEDECIUM=
+
+
+# Name given to an approaching heat surge
+# NB: Lexicon word in Ukrainian for "Delta-9": "(Not yet translated)"
+### Delta-9
+DELTA9=
+
+
+# irreverent slang to refer to the commanding officers/military as a whole, referring to the badges/insignias they would wear.
+# NB: Lexicon word in Ukrainian for "The Stripes": "(Not yet translated)"
+### The Stripes
+THESTRIPES=
+
+# NB: Lexicon word in Ukrainian for "Split-nose": "(Not yet translated)"
+### Split-nose
+SPLITNOSE=
+
+ 
+# A polluted water source, cited as the last resort for drinking water
+# NB: Lexicon word in Ukrainian for "The Spill": "(Not yet translated)"
+### The Spill
+THESPILL=
+
+
+#Context: various. A distant location couples walk to for privacy
+# NB: Lexicon word in Ukrainian for "Love Cab": "(Not yet translated)"
+### Love Cab
+LOVECAB=
+
+ 
+# What the Sector calls the masked Stranger
+# NB: Lexicon word in Ukrainian for "The Drifter": "(Not yet translated)"
+### The Drifter
+THEDRIFTER=
+
+
+# Crix's pet name for Yarne
+# NB: Lexicon word in Ukrainian for "Firefly": "(Not yet translated)"
+### Firefly
+FIREFLY=
+
+# A model of hoverbike
+# NB: Lexicon word in Ukrainian for "Vecta": "(Not yet translated)"
+### Vecta
+VECTA=
+
+# A Vecta feature that blocks out wind noise
+# NB: Lexicon word in Ukrainian for "Aural Isolation": "(Not yet translated)"
+### Aural Isolation
+AURALISOLATION=
+
+
+# A cable restraint fired by automated security to seize an intruder
+# NB: Lexicon word in Ukrainian for "Cuffshot": "(Not yet translated)"
+### Cuffshot
+CUFFSHOT=
+
+
+# Device the rats build to block bot signals
+# NB: Lexicon word in Ukrainian for "Jammer": "(Not yet translated)"
+### Jammer
+JAMMER=
+
+
+# Speck's cart for hauling his stock
+# NB: Lexicon word in Ukrainian for "Towcart": "(Not yet translated)"
+### Towcart
+TOWCART=
+
+
+# The daily record of every shipment in Atlasia
+# NB: Lexicon word in Ukrainian for "Manifest": "(Not yet translated)"
+### Manifest
+MANIFEST=
+
+
+# A quarantine cordon thrown up around an incident
+# NB: Lexicon word in Ukrainian for "Dragnet": "(Not yet translated)"
+### Dragnet
+DRAGNET=
+
+
+# Referring to autarchism day, already listed
+# NB: Lexicon word in Ukrainian for "Autarchism": "Аутархізм"
+### Autarchism
+AUTARCHISM=Аутархізм
+
+# NB: Lexicon word in Ukrainian for "Autarky": "(Not yet translated)"
+### Autarky
+AUTARKY=
+
+
+# Illegal trades sold at the Cataract
+# NB: Lexicon word in Ukrainian for "Body harvesting": "(Not yet translated)"
+### Body harvesting
+BODYHARVESTING=
+
+# NB: Lexicon word in Ukrainian for "Neurohacking": "(Not yet translated)"
+### Neurohacking
+NEUROHACKING=
+
+
+# Writing prayers in the dirt (Whikk's religion)
+# NB: Lexicon word in Ukrainian for "Sandscribe": "(Not yet translated)"
+### Sandscribe
+SANDSCRIBE=
+
+
+# A move that forces an opponent to exchange a card
+# NB: Lexicon word in Ukrainian for "Forced swap": "(Not yet translated)"
+### Forced swap
+FORCEDSWAP=
+
+
+
+# Context: Nature and food
+# An insect, its shell is tough enough to reinforce a punching bag
+# NB: Lexicon word in Ukrainian for "Duneflea": "(Not yet translated)"
+### Duneflea
+DUNEFLEA=
+
+# A fruit tree, named alongside pampalos
+# NB: Lexicon word in Ukrainian for "Tappas": "(Not yet translated)"
+### Tappas
+TAPPAS=
+
+
+# Slang meaning "lowlifes"
+# NB: Lexicon word in Ukrainian for "Scuzzer": "(Not yet translated)"
+### Scuzzer
+SCUZZER=
+
+# NB: Lexicon word in Ukrainian for "Scuzz": "(Not yet translated)"
+### Scuzz
+SCUZZ=
+
+
+# Nonsense word a rat mutters in his sleep
+# NB: Lexicon word in Ukrainian for "Puffagoo": "(Not yet translated)"
+### Puffagoo
+PUFFAGOO=
+
+
+# A childhood illness
+# NB: Lexicon word in Ukrainian for "Sturitis": "(Not yet translated)"
+### Sturitis
+STURITIS=
+
+
+# Old Tribot outposts, both wordings are used but can be translated to the same word
+# NB: Lexicon word in Ukrainian for "Sentry station": "(Not yet translated)"
+### Sentry station
+SENTRYSTATION=
+
+# NB: Lexicon word in Ukrainian for "Enforcement station": "(Not yet translated)"
+### Enforcement station
+ENFORCEMENTSTATION=
+
+

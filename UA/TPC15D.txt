@@ -4710,7 +4710,7 @@ PC15D_SECONDGATHER_TIDY1-6=Справді...? Але як...?
 
 # Mink
 ### He didn't have any means or motive to do this!
-PC15D_SECONDGATHER_TIDY1-7=У нього не було ні засобів, ні мотиву, щоб це це зробити!
+PC15D_SECONDGATHER_TIDY1-7=У нього не було ні засобів, ні мотиву, щоб це зробити!
 
 
 # Brok

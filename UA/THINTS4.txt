@@ -327,7 +327,7 @@ HINT_CH4_160_LASERS2=Відчини панель біля входу, звідк
 
 # NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
 ### Man, you're in big trouble! I wouldn't want to be in your place! Hmm, so...##That Squealer next to the bunker will sell you a pill for a high price. You may want to borrow some money from your old man and play at the Trasher Hunt to get enough. If you've got any food left, restore your health regularly.##Or you can, ya know... Go back home.
-HINT_CH4_165_GETPILL1=Ох, ти в великій халепі! Я б не хотів опинитися на твоєму місці! Хм, отже...##Той Верескун біля бункера продасть тобі пігулку за шалену ціну. Тобі варто позичити трохи грошей у свого старого й пограти у "мисливство за мотлохом", щоб назбирати. Якщо в тебе ще лишилася їжа, регулярно відновлюй здоров'я.##Або можеш, знаєш... Повернутися додому.
+HINT_CH4_165_GETPILL1=Ох, ти у великій халепі! Я б не хотів опинитися на твоєму місці! Хм, отже...##Той Верескун біля бункера продасть тобі пігулку за шалену ціну. Тобі варто позичити трохи грошей у свого старого й пограти у "мисливство за мотлохом", щоб назбирати. Якщо в тебе ще лишилася їжа, регулярно відновлюй здоров'я.##Або можеш, знаєш... Повернутися додому.
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Call Klay. Who knows... Maybe he'll help you. And a certain bot might help at school!
