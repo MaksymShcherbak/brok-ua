@@ -99,3 +99,9 @@ Status of every file of the translation, with one column per stage:
 | TSP01     | Done                | Done          |
 | TSP02     | Done                | Done          |
 | TSUMMARY  | Done                | Done          |
+
+## BROKVN Engine (common text)
+
+| Item      | Initial Translation | Proof-Reading |
+| :-------- | :------------------ | :------------ |
+| TCOMMON   | Done                | Done          |

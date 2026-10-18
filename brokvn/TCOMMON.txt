@@ -1,0 +1,1171 @@
+﻿# LANGUAGE: UKR
+### Send voice acting to clipboard
+INTERFACE_ACCESSIBILITY_CLIPBOARDVOICE=Надсилати озвучені репліки в буфер обміну
+
+### Send the voice acting to the clipboard narration as well. Turn it off if you understand the spoken language and don't want each line to be read twice.
+ITEM_INTERFACE_ACCESSIBILITY_CLIPBOARDVOICE_MSG=Надсилає текст озвучених реплік також в озвучення буфера обміну. Вимкніть цю опцію, якщо ви розумієте мову озвучення і не хочете, щоб кожна репліка читалася двічі.
+
+#-------------------------------
+#=TEXT FOR ALL THE ROOMS
+#-------------------------------
+### New game
+INTERFACE_NEW_GAME=Нова гра
+
+### Continue
+INTERFACE_CONTINUE=Продовжити
+
+### This will overwrite your automatic save. Continue?
+INTERFACE_NEWGAME_CONFIRM_MSG=Це перезапише автозбереження. Продовжити?
+
+### Click or press a button
+INTERFACE_START_MOUSE_GAMEPAD=Клацніть мишею або натисніть будь-яку кнопку
+
+### Press any button
+INTERFACE_START_GAMEPAD=Натисніть будь-яку кнопку
+
+# This one is specific to PlayStation. By default, put the same thing
+### Press any button
+INTERFACE_START_GAMEPAD_PS=Натисніть будь-яку кнопку
+
+### Start
+INTERFACE_START_LABEL=Старт
+
+
+#Menu left tabs : space is limited. If they appear too stretched, cut the word and add "."
+### Inventory
+INTERFACE_INVENTORY=Інвентар
+
+### Extras
+INTERFACE_EXTRAS=Додатки
+
+### Saves
+INTERFACE_SAVELOAD=Збереження
+
+### Logs
+INTERFACE_LOGS=Журнал
+
+### Options
+INTERFACE_OPTIONS=Налаштування
+
+### Credits
+INTERFACE_CREDITS=Титри
+
+
+#Other menu info : these are not really limited.
+### Menu
+INTERFACE_MENU=Меню
+
+### Close menu
+INTERFACE_CLOSE=Закрити меню
+
+### Dialogue
+INTERFACE_LOG=Діалоги
+
+### Messages
+INTERFACE_MESSAGES=Повідомлення
+
+### Enter a description
+INTERFACE_ENTERDESCRIPTION=Введіть опис
+
+### Options
+INTERFACE_GAMEOPTIONS=Налаштування
+
+### Exit Game
+INTERFACE_EXITGAME=Вийти з гри
+
+### Exit to main menu
+INTERFACE_OPTION_EXITMENU=Вийти до головного меню
+
+### Exit to main menu
+ITEM_INTERFACE_OPTION_EXITMENU_MSG=Вийти до головного меню
+
+### Exit to main menu?
+INTERFACE_EXITMENU_MESSAGE=Вийти до головного меню?
+
+### Items
+INTERFACE_ITEMS=Предмети
+
+### Achieve.
+INTERFACE_ACHIEVEMENTS=Досягнення
+
+### Trophies
+INTERFACE_TROPHIES=Трофеї
+
+### Save
+INTERFACE_SAVE=Зберегти
+
+### Load
+INTERFACE_LOAD=Завантажити
+
+### Exit the game?
+INTERFACE_EXIT_MESSAGE=Вийти з гри?
+
+### Back
+INTERFACE_BACK=Повернутися
+
+### Exit
+INTERFACE_EXIT=Вийти
+
+### Automatic save
+INTERFACE_AUTOMATIC_SAVE=Автозбереження
+
+### Slot
+INTERFACE_SLOT=Слот
+
+### Empty
+INTERFACE_EMPTY=Пусто
+
+### Overwrite this save?
+INTERFACE_SAVESTATE_CONFIRM=Перезаписати це збереження?
+
+### Load this save?
+INTERFACE_LOADSTATE_CONFIRM=Завантажити це збереження?
+
+### Remove
+INTERFACE_REMOVE=Видалити
+
+### Scroll up
+INTERFACE_SCROLLUP=Прокрутити вгору
+
+### Scroll down
+INTERFACE_SCROLLDOWN=Прокрутити вниз
+
+### Keyboard/Mouse
+INTERFACE_KEYBOARDMOUSE=Клавіатура/Миша
+
+### Gallery
+INTERFACE_CGS=Галерея
+
+### ???
+INTERFACE_UNKNOWN=???
+
+### or
+INTERFACE_OR=або
+
+### Choose a setting
+INTERFACE_OPTION_CHOOSE=Виберіть налаштування
+
+### Exit game
+INTERFACE_OPTION_EXIT=Вийти з гри
+
+### Display
+INTERFACE_OPTION_GRAPHIC=Екран
+
+### Sound
+INTERFACE_OPTION_SOUND=Звук
+
+### Controls
+INTERFACE_OPTION_CONTROL=Керування
+
+### Gameplay
+INTERFACE_OPTION_GAMEPLAY=Гра
+
+### Language
+INTERFACE_OPTION_LANGUAGE=Мова
+
+### Fullscreen
+INTERFACE_OPTION_FULLSCREEN=Повноекранний режим
+
+### Windowed
+INTERFACE_OPTION_WINDOW=Віконний режим
+
+### Resolution
+INTERFACE_OPTION_RESOLUTION=Роздільна здатність
+
+### Autodetect
+INTERFACE_OPTION_AUTODETECT=Авто
+
+### Very High (4K)
+INTERFACE_OPTION_2160=Дуже висока (4K)
+
+### High (1440p)
+INTERFACE_OPTION_1440=Висока (1440p)
+
+### Medium (1080p)
+INTERFACE_OPTION_1080=Середня (1080p)
+
+### Low (720p)
+INTERFACE_OPTION_720=Низька (720p)
+
+### Very low (540p)
+INTERFACE_OPTION_540=Дуже низька (540p)
+
+### Custom
+INTERFACE_OPTION_CUSTOM=Користувацька
+
+### Enter a vertical resolution (between 360 and 2160)
+INTERFACE_OPTION_CUSTOM_ENTER=Введіть вертикальну роздільність (від 360 до 2160)
+
+### Screen ratio
+INTERFACE_OPTION_RATIO=Співвідношення сторін
+
+### Keep aspect ratio (with background)
+INTERFACE_OPTION_KEEPASPECT1=Зберігати пропорції (з фоном)
+
+### Keep aspect ratio (no background)
+INTERFACE_OPTION_KEEPASPECT2=Зберігати пропорції (без фону)
+
+### Fill the screen
+INTERFACE_OPTION_FULLSCALE=Заповнити екран
+
+### Vsync
+INTERFACE_OPTION_VSYNC=Вертикальна синхронізація
+
+### Frames per second
+INTERFACE_OPTION_FPS=Частота кадрів (FPS)
+
+### 60
+INTERFACE_OPTION_FPS60=60
+
+### 30
+INTERFACE_OPTION_FPS30=30
+
+### Special effects
+INTERFACE_OPTION_SPECIALEFFECT=Спецефекти
+
+### Message speed
+INTERFACE_OPTION_MESSAGESPEED=Швидкість тексту
+
+### Automatic dialog play
+INTERFACE_OPTION_AUTOMATICPLAY=Автоматично відтворювати діалоги
+
+### Instantaneous
+INTERFACE_OPTION_INSTANTANEOUS=Миттєво
+
+### Subtitles
+INTERFACE_OPTION_SUBTITLE=Субтитри
+
+### Global
+INTERFACE_OPTION_VOLUMEGLOBAL=Загальна гучність
+
+### Sounds
+INTERFACE_OPTION_VOLUMESOUND=Звуки
+
+### Music
+INTERFACE_OPTION_VOLUMEMUSIC=Музика
+
+### Ambient
+INTERFACE_OPTION_VOLUMEAMBIENT=Атмосфера
+
+### Voices
+INTERFACE_OPTION_VOLUMEVOICE=Голоси
+
+### All dialog
+INTERFACE_OPTION_SKIPBUTTON_ALL=Усі діалоги
+
+### Already seen dialog
+INTERFACE_OPTION_SKIPBUTTON_NORMAL=Раніше переглянуті діалоги
+
+### None
+INTERFACE_OPTION_SKIPBUTTON_NONE=Жоден
+
+### Display mouse/keyboard controls
+INTERFACE_OPTION_DISPLAYKEYBOARD=Показати керування мишею/клавіатурою
+
+### Display gamepad controls
+INTERFACE_OPTION_DISPLAYGAMEPAD=Показати керування геймпадом
+
+### Redefine keyboard
+INTERFACE_OPTION_REDEFINE=Перевизначити клавіатуру
+
+### Choose gamepad
+INTERFACE_OPTION_GAMEPAD=Вибрати геймпад
+
+### Skip dialog
+INTERFACE_OPTION_SKIPBUTTON=Пропустити діалог
+
+### Skip cutscenes
+INTERFACE_OPTION_SKIPCUTSCENE=Пропустити сцену
+
+### COWCAT Socials
+INTERFACE_OPTION_SOCIALS=Соціальні мережі COWCAT
+
+### Community
+INTERFACE_OPTION_COMMUNITY=Спільнота
+
+### Accessibility
+INTERFACE_OPTION_ACCESSIBILITY=Доступність
+
+### Controllers list
+INTERFACE_OPTION_CONTROLLERSLIST=Список контролерів
+
+### Skip
+INTERFACE_SKIP=Пропустити
+
+
+#Here languages are always in English - DO NOT TRANSLATE
+
+
+
+
+
+
+#Here languages are in the country's language - DO NOT TRANSLATE
+#NB : Not all these languages may be implemented but it was easier to list them all just in case
+### English
+INTERFACE_OPTION_LANGUAGE_ENG=Англійська
+
+### Français
+INTERFACE_OPTION_LANGUAGE_FRA=Французька
+
+### Deutsch
+INTERFACE_OPTION_LANGUAGE_GER=Німецька
+
+### Italiano
+INTERFACE_OPTION_LANGUAGE_ITA=Італійська
+
+### Español
+INTERFACE_OPTION_LANGUAGE_SPA=Іспанська
+
+### Español (LATAM)
+INTERFACE_OPTION_LANGUAGE_LAS=Іспанська (Латинська Америка)
+
+### Russian
+INTERFACE_OPTION_LANGUAGE_RUS=Російська
+
+### Português Brasileiro
+INTERFACE_OPTION_LANGUAGE_BRZ=Бразильська португальська
+
+### Japanese
+INTERFACE_OPTION_LANGUAGE_JAP=Японська
+
+### Simplified Chinese
+INTERFACE_OPTION_LANGUAGE_CHI=Спрощена китайська
+
+### Traditional Chinese
+INTERFACE_OPTION_LANGUAGE_CHT=Традиційна китайська
+
+### Polski
+INTERFACE_OPTION_LANGUAGE_POL=Польська
+
+### Greek
+INTERFACE_OPTION_LANGUAGE_GRE=Грецька
+
+### Korean
+INTERFACE_OPTION_LANGUAGE_KOR=Корейська
+
+### Türkçe
+INTERFACE_OPTION_LANGUAGE_TUR=Турецька
+
+### Thaï
+INTERFACE_OPTION_LANGUAGE_THA=Тайська
+
+### Bahasa Indonesia
+INTERFACE_OPTION_LANGUAGE_IND=Індонезійська
+
+### Tiếng Việt
+INTERFACE_OPTION_LANGUAGE_VIE=В'єтнамська
+
+### Arabic
+INTERFACE_OPTION_LANGUAGE_ARA=Арабська
+
+### Nederlands
+INTERFACE_OPTION_LANGUAGE_NLD=Нідерландська
+
+### Українська
+INTERFACE_OPTION_LANGUAGE_UKR=Українська
+
+### Čeština
+INTERFACE_OPTION_LANGUAGE_CZE=Чеська
+
+### Magyar
+INTERFACE_OPTION_LANGUAGE_HUN=Угорська
+
+### Română
+INTERFACE_OPTION_LANGUAGE_RON=Румунська
+
+### Svenska
+INTERFACE_OPTION_LANGUAGE_SWE=Шведська
+
+### Dansk
+INTERFACE_OPTION_LANGUAGE_DAN=Данська
+
+### Suomi
+INTERFACE_OPTION_LANGUAGE_FIN=Фінська
+
+### Norsk
+INTERFACE_OPTION_LANGUAGE_NOR=Норвезька
+
+### Português
+INTERFACE_OPTION_LANGUAGE_POR=Португальська
+
+### Hindu
+INTERFACE_OPTION_LANGUAGE_HIN=Гінді
+
+
+### Graphical settings
+ITEM_INTERFACE_OPTION_GRAPHIC_MSG=Налаштування графіки
+
+### Volumes
+ITEM_INTERFACE_OPTION_SOUND_MSG=Гучність
+
+### Keyboard / Mouse / Controllers
+ITEM_INTERFACE_OPTION_CONTROL_MSG=Клавіатура / Миша / Геймпади
+
+### Difficulty and other gameplay settings
+ITEM_INTERFACE_OPTION_GAMEPLAY_MSG=Складність та інші налаштування гри
+
+### Text language
+ITEM_INTERFACE_OPTION_LANGUAGE_MSG=Мова тексту
+
+### Fullscreen or Window
+ITEM_INTERFACE_OPTION_FULLSCREEN_MSG=На весь екран або у вікні
+
+### Game resolution (set lower if the game runs slow)
+ITEM_INTERFACE_OPTION_RESOLUTION_MSG=Роздільна здатність (якщо гра працює повільно, зменште це значення)
+
+### Keep the original widescreen ratio (16/9) or stretch to fit
+ITEM_INTERFACE_OPTION_RATIO_MSG=Зберегти оригінальне співвідношення сторін (16:9) або розтягнути зображення
+
+### Vertical synchronization (disable it for faster speed but may cause visual artefacts)
+ITEM_INTERFACE_OPTION_VSYNC_MSG=Вертикальна синхронізація (можете вимкнути, якщо гра працює повільно, проте це може спричинити появу візуальних артефактів)
+
+### Special effects (disable them for faster speed)
+ITEM_INTERFACE_OPTION_SPECIALEFFECT_MSG=Спецефекти (вимкніть їх, щоб пришвидшити роботу гри)
+
+### Set global volume of the game
+ITEM_INTERFACE_OPTION_VOLUMEGLOBAL_MSG=Встановити загальну гучність гри
+
+### Set volume of sound effects
+ITEM_INTERFACE_OPTION_VOLUMESOUND_MSG=Встановити гучність звукових ефектів
+
+### Set volume of ambient sounds
+ITEM_INTERFACE_OPTION_VOLUMEAMBIENT_MSG=Встановити гучність атмосферних звуків
+
+### Set volume of music
+ITEM_INTERFACE_OPTION_VOLUMEMUSIC_MSG=Встановити гучність музики
+
+### Set volume of voices
+ITEM_INTERFACE_OPTION_VOLUMEVOICE_MSG=Встановити гучність голосів
+
+### Enable or disable the button to get hints. (This does not prevent the ability to collect Ads.)
+ITEM_INTERFACE_OPTION_HINTS_MSG=Увімкнути чи вимкнути кнопку для отримання підказок. (Це не вплине на можливість збирати рекламу.)
+
+### Which speed to display text?
+ITEM_INTERFACE_OPTION_MESSAGESPEED_MSG=З якою швидкістю показувати текст?
+
+### Should dialog be automatically played without interaction?
+ITEM_INTERFACE_OPTION_AUTOMATICPLAY_MSG=Відтворювати діалоги автоматично, без взаємодії?
+
+### Should text be displayed when characters talk?
+ITEM_INTERFACE_OPTION_SUBTITLE_MSG=Чи має відображатися текст, коли персонажі говорять?
+
+### Default is 60 FPS, set it to 30 FPS if the game runs slow
+ITEM_INTERFACE_OPTION_FPS_MSG=За замовчуванням встановлено 60 FPS. Якщо гра працює повільно, встановіть 30 FPS
+
+### Redefine keyboard buttons
+ITEM_INTERFACE_OPTION_REDEFINE_MSG=Перевизначити клавіші клавіатури
+
+### Exit the game
+ITEM_INTERFACE_OPTION_EXIT_MSG=Вийти з гри
+
+### Should the button skip already seen dialog, all dialog or none?
+ITEM_INTERFACE_OPTION_SKIPBUTTON_MSG=Чи повинна ця кнопка пропускати лише переглянуті діалоги, усі діалоги чи жоден?
+
+### Should the skip button accelerate cutscenes? (useful for later playthroughs)
+ITEM_INTERFACE_OPTION_SKIPCUTSCENE_MSG=Чи повинна ця кнопка пришвидшувати ігрові сцени? (корисно для повторних проходжень)
+
+### Choose the button prompts to display according to your controller
+ITEM_INTERFACE_OPTION_PROMPTS_MSG=Виберіть значки кнопок відповідно до вашого контролера
+
+### Choose the stick deadzone (useful if your analogue stick is slightly worn off or drifting)
+ITEM_INTERFACE_OPTION_DEADZONE_MSG=Виберіть мертву зону джойстика (це корисно, якщо ваш аналоговий джойстик трохи зношений або має дрейф)
+
+### Choose the stick deadzone
+ITEM_INTERFACE_OPTION_DEADZONE_PS_MSG=Виберіть мертву зону джойстика
+
+### Choose the vibration strength
+ITEM_INTERFACE_OPTION_VIBRATION_MSG=Виберіть силу вібрації
+
+### Follow the news on our games
+ITEM_INTERFACE_OPTION_SOCIALS_MSG=Слідкуйте за новинами наших ігор
+
+### Meet fans and get help
+ITEM_INTERFACE_OPTION_COMMUNITY_MSG=Спілкуйтеся з фанатами та отримуйте допомогу
+
+### Accessibility menu
+ITEM_INTERFACE_OPTION_ACCESSIBILITY_MSG=Меню доступності
+
+### See the list of connected controllers and assign them to player(s)
+ITEM_INTERFACE_OPTION_CONTROLLERSLIST_MSG=Перегляньте список підключених геймпадів та призначте їх гравцям.
+
+### Magnify
+INTERFACE_OPTION_MAGNIFYENABLED=Збільшити
+
+### Use the touch magnifying glass?
+ITEM_INTERFACE_OPTION_MAGNIFYENABLED_MSG=Використовувати сенсорну лупу?
+
+### Magnify zoom
+INTERFACE_OPTION_MAGNIFYZOOM=Рівень масштабування
+
+### Zoom level for the touch magnifying glass
+ITEM_INTERFACE_OPTION_MAGNIFYZOOM_MSG=Рівень масштабування для сенсорної лупи
+
+
+### Press a keyboard key!
+INTERFACE_OPTION_REDEFINE_MESSAGE=Натисніть клавішу на клавіатурі!
+
+### Reset to default
+INTERFACE_OPTION_REDEFINE_RESET=Скинути до початкових налаштувань
+
+### Gamepad type
+INTERFACE_OPTION_PROMPTS=Тип геймпада
+
+### Gamepad deadzone
+INTERFACE_OPTION_DEADZONE=Мертва зона геймпада
+
+### Gamepad vibration
+INTERFACE_OPTION_VIBRATION=Вібрація геймпада
+
+### Deadzone
+INTERFACE_OPTION_DEADZONE_CONSOLE=Мертва зона
+
+### Vibration
+INTERFACE_OPTION_VIBRATION_CONSOLE=Вібрація
+
+
+### Touch pad active
+INTERFACE_OPTION_TOUCHPAD_ENABLED=Сенсорну панель увімкнено
+
+### Use the touch pad?
+ITEM_INTERFACE_OPTION_TOUCHPAD_ENABLED_MSG=Використовувати сенсорну панель?
+
+### Touch pad speed
+INTERFACE_OPTION_TOUCHPAD_SPEED=Швидкість сенсорної панелі
+
+### Set the cursor movement speed
+ITEM_INTERFACE_OPTION_TOUCHPAD_SPEED_MSG=Налаштувати швидкість переміщення курсора
+
+### Touch screen active
+INTERFACE_OPTION_TOUCHSCREEN_ENABLED=Сенсорний екран увімкнено
+
+### Use the touch screen?
+ITEM_INTERFACE_OPTION_TOUCHSCREEN_ENABLED_MSG=Використовувати сенсорний екран?
+
+### Controller speaker
+INTERFACE_OPTION_CONTROLLERSPEAKER_ENABLED=Динамік геймпада
+
+### Use the controller speaker?
+ITEM_INTERFACE_OPTION_CONTROLLERSPEAKER_ENABLED_MSG=Використовувати динамік геймпада?
+
+
+### No controller is connected.
+INTERFACE_NO_CONTROLLER=Геймпад не підключено.
+
+### Unused
+INTERFACE_UNUSED_CONTROLLER=Не використовується
+
+### Active
+INTERFACE_ACTIVE_CONTROLLER=Активний
+
+### slot
+INTERFACE_SLOT_CONTROLLER=слот
+
+### Assign player
+INTERFACE_ASSIGN_CONTROLLER=Призначити гравцеві
+
+### Unknown or disconnected
+INTERFACE_UNKNOWNDISCONNECTED_CONTROLLER=Невідомий або відключений
+
+### Player {playernumber}
+INTERFACE_PLAYER_NUMBER=Гравець {playernumber}
+
+
+### #
+TUTORIAL_GENERICINV_MSG_MOUSE=#
+
+### <spr=GAMEPAD_DPAD> Navigate
+TUTORIAL_GENERICINV_MSG_GAMEPAD=<spr=GAMEPAD_DPAD> Навігація
+
+
+### Accessibility menu
+TUTORIAL_ACCESSIBILITYMENU=Меню доступності
+
+### Fully narrated
+INTERFACE_ACCESSIBILITY_FULLYNARRATED=Повне озвучення
+
+### Everything gets narrated: interactions, menus, messages...
+ITEM_INTERFACE_ACCESSIBILITY_FULLYNARRATED_MSG=Все озвучується: взаємодії, меню, повідомлення...
+
+### Positional audio
+INTERFACE_ACCESSIBILITY_SOUND3D=Позиційне аудіо
+
+### Characters noise get positioned in space according to where they're located.
+ITEM_INTERFACE_ACCESSIBILITY_SOUND3D_MSG=Звуки персонажів розміщуються в просторі відповідно до їхнього розташування.
+
+### Repeat buttons
+INTERFACE_ACCESSIBILITY_REPEATBUTTONS=Кнопки повтору
+
+### Adds two inputs to repeat the last instructions and dialogue speech.
+ITEM_INTERFACE_ACCESSIBILITY_REPEATBUTTONS_MSG=Додає команди керування для повтору останніх вказівок та діалогових реплік.
+
+### Puzzles for blindness
+INTERFACE_ACCESSIBILITY_BLINDPUZZLES=Головоломки для людей із порушеннями зору
+
+### Adapts puzzles for blindness and adds more skip options.
+ITEM_INTERFACE_ACCESSIBILITY_BLINDPUZZLES_MSG=Адаптує головоломки для гравців із порушеннями зору та додає більше можливостей для їх пропуску.
+
+### Advanced directional inputs
+INTERFACE_ACCESSIBILITY_DPAD=Розширені команди керування напрямками
+
+### Allow to select hotspots with directional inputs, even outside the room view (for blindness).
+ITEM_INTERFACE_ACCESSIBILITY_DPAD_MSG=Дозволяє вибирати точки взаємодії за допомогою команд керування напрямками, навіть поза полем видимості (для людей із порушеннями зору).
+
+### High contrast text
+INTERFACE_ACCESSIBILITY_HIGHCONTRASTTEXT=Висококонтрастний текст
+
+### Dialogue backgrounds are modified for easier reading
+ITEM_INTERFACE_ACCESSIBILITY_HIGHCONTRASTTEXT_MSG=Тло діалогів змінено для легшого читання
+
+### Large fonts
+INTERFACE_ACCESSIBILITY_LARGEFONTS=Великі шрифти
+
+### Bigger fonts overall throughout the game.
+ITEM_INTERFACE_ACCESSIBILITY_LARGEFONTS_MSG=Збільшити розмір шрифтів в усій грі.
+
+### No screen shaking
+INTERFACE_ACCESSIBILITY_NOSCREENSHAKE=Вимкнути тремтіння екрана
+
+### Disable screen shaking in fights and cutscenes.
+ITEM_INTERFACE_ACCESSIBILITY_NOSCREENSHAKE_MSG=Вимкнути тремтіння екрана в боях та ігрових сценах.
+
+### Clipboard narration
+INTERFACE_ACCESSIBILITY_CLIPBOARDNARRATED=Озвучення буфера обміну
+
+### Send the accessibility text to the clipboard instead of using pre-recorded files, delegating the narration to a text-to-speech software installed on your computer.
+ITEM_INTERFACE_ACCESSIBILITY_CLIPBOARDNARRATED_MSG=Надсилати текст доступності в буфер обміну замість використання записаних аудіофайлів, передаючи озвучення програмному забезпеченню для перетворення тексту на мовлення (TTS), встановленому на вашому комп'ютері.
+
+### Hotspots aligned
+INTERFACE_ACCESSIBILITY_DPADLINE=Вирівнювання точок взаємодії
+
+### Puts in-game hotspots on a line for easier selection (does not apply to menus and closeups)
+ITEM_INTERFACE_ACCESSIBILITY_DPADLINE_MSG=Розміщує точки взаємодії на одній лінії для зручнішого вибору (не стосується меню та великих планів).
+
+
+### Enable autoplay
+INTERFACE_ENABLE_AUTOPLAY=Увімкнути автовідтворення
+
+### Disable autoplay
+INTERFACE_DISABLE_AUTOPLAY=Вимкнути автовідтворення
+
+
+### Autoplay disabled
+PC_AUTOPLAY_DISABLED=Автовідтворення вимкнено
+
+### Autoplay enabled
+PC_AUTOPLAY_ENABLED=Автовідтворення увімкнено
+
+
+### Incorrect save
+SAVE_FILE_UNKNOWN=Неправильне збереження
+
+### This save was deleted or is corrupted. Load another save or start a new game.
+SAVE_FILE_UNKNOWN_DESCRIPTION=Це збереження було видалено або пошкоджено. Завантажте інше збереження або почніть нову гру.
+
+
+### Skip dialog
+HELP_SKIPDIALOG=Пропустити діалог
+
+
+#Do not translate
+### Xbox One / Series
+ITEM_XBOXONE=Xbox One / Series
+
+### Xbox 360
+ITEM_XBOX360=Xbox 360
+
+### PS4
+ITEM_PS4=PS4
+
+### PS5
+ITEM_PS5=PS5
+
+### Switch Pro Controller
+ITEM_SWITCHPRO=Switch Pro Controller
+
+### Steam Deck
+ITEM_STEAMDECK=Steam Deck
+
+
+### This change will take effect at the next room switch.
+SPECIAL_EFFECTS_SWITCH-1=Ця зміна набуде чинності під час наступного переходу між кімнатами.
+
+
+#----- Keyboard options
+### Validate
+INPUT_VALIDATE=Підтвердити
+
+### Cancel
+INPUT_CANCEL=Скасувати
+
+### View hotspots
+INPUT_VIEW_HOTSPOTS=Переглянути точки взаємодії
+
+### Skip dialog
+INPUT_SKIPDIALOG=Пропустити діалог
+
+### Menu
+INPUT_MENU=Меню
+
+### Pause
+INPUT_PAUSE=Пауза
+
+### Accessibility - Repeat instructions
+INPUT_ACCESSIBILITY_REPEAT_INSTRUCTIONS=Доступність - Повторити вказівки
+
+### Accessibility - Repeat speech
+INPUT_ACCESSIBILITY_REPEAT_DIALOGUE=Доступність - Повторити діалогову репліку
+
+### Start
+INPUT_START=Старт
+
+### Select
+INPUT_SELECT=Вибрати
+
+### Hide / Show UI
+INPUT_HIDE_UI=Показати/сховати інтерфейс
+
+### Action
+INPUT_ACTION=Дія
+
+### Mode
+INPUT_MODE=Режим
+
+### Left
+INPUT_LEFT=Вліво
+
+### Right
+INPUT_RIGHT=Вправо
+
+### Up
+INPUT_UP=Вгору
+
+### Down
+INPUT_DOWN=Вниз
+
+
+
+#----- Common clickers --------
+### Go back
+PC_BACK=Повернутися
+
+### Exit
+PC_EXIT=Вихід
+
+
+#----- Choices --------
+### Yes
+YES=Так
+
+### No
+NO=Ні
+
+### Yes, continue
+YES_CONTINUE=Так, продовжити
+
+
+
+# For button prompts
+### Move
+TUTORIAL_MOVE=Рухатись
+
+### Cancel
+TUTORIAL_CANCEL=Скасувати
+
+
+### Select
+TUTORIAL_SELECT=Вибрати
+
+### Describe
+TUTORIAL_DESCRIBE=Описати
+
+### Navigate
+TUTORIAL_NAVIGATE=Навігація
+
+### Scroll up/down
+TUTORIAL_SCROLLUPDOWN=Прокрутити вгору/вниз
+
+### Save
+TUTORIAL_SAVE=Зберегти
+
+### Load
+TUTORIAL_LOAD=Завантажити
+
+### Rename save
+TUTORIAL_RENAMESAVE=Перейменувати збереження
+
+### Hide description
+TUTORIAL_HIDEDESCR=Сховати опис
+
+### Previous
+TUTORIAL_PREVIOUS=Попередній
+
+### Next
+TUTORIAL_NEXT=Наступний
+
+
+#----- Keyboard keys --------
+# NB : If your country uses a standard keyboard with English letters you don't have to translate these
+#In any case, make sure these are not longer than 10 characters to stay readable
+### Backspace
+KEY_BACKSPACE=Backspace
+
+### Tab
+KEY_TAB=Tab
+
+### Enter
+KEY_ENTER=Enter
+
+### Shift
+KEY_SHIFT=Shift
+
+### Ctrl
+KEY_CTRL=Ctrl
+
+### Alt
+KEY_ALT=Alt
+
+### Pause
+KEY_PAUSE=Pause
+
+### Capslock
+KEY_CAPSLOCK=Capslock
+
+### Esc
+KEY_ESC=Esc
+
+### Space
+KEY_SPACE=Пробіл
+
+### Page Up
+KEY_PAGEUP=Page Up
+
+### Page Down
+KEY_PAGEDOWN=Page Down
+
+### End
+KEY_END=End
+
+### Home
+KEY_HOME=Home
+
+### Insert
+KEY_INSERT=Insert
+
+### Delete
+KEY_DELETE=Delete
+
+### Numpad
+KEY_NUMPAD=Numpad
+
+### Num Lock
+KEY_NUMLOCK=Num Lock
+
+### Scroll Lock
+KEY_SCROLLLOCK=Scroll Lock
+
+### Left click
+KEY_MOUSELEFT=Клік ЛКМ
+
+### Middle click
+KEY_MOUSEMIDDLE=Клік колеса миші
+
+### Right click
+KEY_MOUSERIGHT=Клік ПКМ
+
+
+# Built-in character names
+### Brok
+CHAR_BROK=Брок
+
+### Graff
+CHAR_GRAFF=Графф
+
+### Sin
+CHAR_SIN=Сін
+
+### Wes
+CHAR_WES=Вес
+
+### Shay
+CHAR_SHAY=Шей
+
+### Remn
+CHAR_REMN=Ремн
+
+### Tribot
+CHAR_TRIBOT=Трибот
+
+### Cop
+CHAR_TRIBOTCOP=Коп
+
+### Bolt
+CHAR_BOLT=Болт
+
+### Squealers Chief
+CHAR_CHIEFRAT=Шеф Верескунів
+
+### Squealer
+CHAR_RAT=Верескун
+
+### Squealers
+CHAR_RATS=Верескуни
+
+### Kins
+CHAR_RAT_KINS=Кінс
+
+### Dart
+CHAR_RAT_DART=Дарт
+
+### Tramp
+CHAR_TRAMP=Волоцюга
+
+### Ott
+CHAR_OTT=Отт
+
+### Klay
+CHAR_KLAY=Клей
+
+### Director
+CHAR_DIRECTOR=Директорка
+
+### Stubot
+CHAR_STUBOT=Студбот
+
+### R.J.
+CHAR_RJ=Р. Джей
+
+### Hacker
+CHAR_HACKER=Гакер
+
+### Dr. Hush
+CHAR_HUSH=Д-р Гаш
+
+### Guard
+CHAR_GUARD=Охоронець
+
+### Mink
+CHAR_MINK=д-р Мінк
+
+### Tidy
+CHAR_TIDY=Тайді
+
+### Dr. Gherkin
+CHAR_GHERKIN=Д-р Геркін
+
+### Lia
+CHAR_LIA=Лія
+
+### Dee
+CHAR_DEE=Ді
+
+### Dart
+CHAR_DART=Дарт
+
+### Merchant
+CHAR_FLOWER=Крамарка
+
+### Unknown
+CHAR_UNKNOWN=Невідомо
+
+
+# -------------------------------------
+# Touch screen specific input names
+# -------------------------------------
+### Tap
+INPUT_TOUCH_TAP=Натискання
+
+### Double tap
+INPUT_TOUCH_DOUBLETAP=Подвійне натискання
+
+### Long press
+INPUT_TOUCH_LONGPRESS=Тривале натискання
+
+### Scroll
+INPUT_TOUCH_SCROLL=Прокручування
+
+### Scroll
+INPUT_TOUCH_SCROLL_LR=Прокручування вліво/вправо
+
+### Slide
+INPUT_TOUCH_SLIDE=Зсув
+
+### Swipe down
+INPUT_TOUCH_SWIPEDOWN=Провести вниз
+
+### Swipe up
+INPUT_TOUCH_SWIPEUP=Провести вгору
+
+### Swipe up right
+INPUT_TOUCH_SWIPEUPRIGHT=Провести вправо-вгору
+
+### Swipe left
+INPUT_TOUCH_SWIPELEFT=Провести вліво
+
+### Swipe right
+INPUT_TOUCH_SWIPERIGHT=Провести вправо
+
+### Two-finger tap
+INPUT_TOUCH_TWOFINGERTAP=Натискання двома пальцями
+
+### Two-finger hold
+INPUT_TOUCH_TWOFINGERHOLD=Утримання двома пальцями
+
+### Two-finger slide
+INPUT_TOUCH_TWOFINGERSLIDE=Зсув двома пальцями
+
+### Two-finger swipe
+INPUT_TOUCH_TWOFINGERSWIPE=Провести двома пальцями
+
+### Pinch in/out
+INPUT_TOUCH_PINCHINOUT=Зведення/розведення пальців
+
+### Pinch in
+INPUT_TOUCH_PINCHIN=Зведення пальців
+
+### Pinch out
+INPUT_TOUCH_PINCHOUT=Розведення пальців
+
+### Three-finger tap
+INPUT_TOUCH_THREEFINGERTAP=Натискання трьома пальцями
+
+### Three-finger hold
+INPUT_TOUCH_THREEFINGERHOLD=Утримання трьома пальцями
+
+### Four-finger hold
+INPUT_TOUCH_FOURFINGERHOLD=Утримання чотирма пальцями
+
+### Shake
+INPUT_TOUCH_SHAKE=Трясти
+
+
+
+# ---------------------------
+# MOBILE SPECIFIC OPTIONS
+# ---------------------------
+### Touch or press a button
+INTERFACE_START_TOUCH=Натисніть будь-яку кнопку або торкніться екрана
+
+### Touch screen
+INTERFACE_TOUCHSCREEN=Сенсорний екран
+
+### Device vibration
+INTERFACE_OPTION_TOUCHVIBRATION=Вібрація пристрою
+
+### Touch device vibrations
+ITEM_INTERFACE_OPTION_TOUCHVIBRATION_MSG=Вібрація сенсорного пристрою
+
+### Controls
+INTERFACE_OPTION_CONTROLMOBILE=Керування
+
+### Touch controls and controllers
+ITEM_INTERFACE_OPTION_CONTROLMOBILE_MSG=Сенсорне керування та геймпади
+
+### Additional content and storage
+INTERFACE_OPTION_STORAGE=Додатковий вміст і сховище
+
+### Show the available additional content
+ITEM_INTERFACE_OPTION_STORAGE_MSG=Показати доступний додатковий вміст
+
+### Do you want to enable vibrations?
+CHOICE_VIBRATIONS=Бажаєте увімкнути вібрацію?
+
+### Store page
+INTERFACE_OPTION_STOREPAGE=Сторінка в магазині
+
+### Access the store page. Rating the game is always appreciated!
+ITEM_INTERFACE_OPTION_STOREPAGE_MSG=Перейти на сторінку гри в магазині. Оцінка гри завжди вітається!
+
+### Restore purchase
+INTERFACE_RESTOREPURCHASE=Відновити покупку
+
+### Support us on Patreon
+INTERFACE_OPTION_PATREONPAGE=Підтримайте нас на Patreon
+
+### Follow the game's progress, access Early Development Builds
+ITEM_INTERFACE_OPTION_PATREONPAGE_MSG=Стежте за розробкою гри та отримайте доступ до ранніх збірок
+
+
+### Purchased!
+THANKS_PURCHASED=Куплено!
+
+### Thank you! You now own <col=BOLD>{key}</col>
+THANKS_PURCHASED_DESCRIPTION=Дякуємо! Тепер у вас є <col=BOLD>{key}</col>
+
+### Payment in progress
+THANKS_PURCHASED_PENDING=Платіж обробляється
+
+### Thank you! You can play <col=BOLD>{key}</col> right away.##Your payment is still being confirmed by the store, there is nothing else you need to do.
+THANKS_PURCHASED_PENDING_DESCRIPTION=Дякуємо! Ви можете грати у <col=BOLD>{key}</col> прямо зараз!##Ваш платіж все ще підтверджується магазином, вам більше нічого не потрібно робити.
+
+### Oh no, that didn't work
+MOBILE_FAILEDPURCHASE_TITLE=О ні, це не спрацювало
+
+### The payment failed. Please try again later.
+MOBILE_FAILEDPURCHASE_DESCR=Платіж не вдалося здійснити. Будь ласка, спробуйте пізніше.
+
+### Your account does not allow purchases
+MOBILE_ACCOUNTNOPURCHASE=Ваш обліковий запис не підтримує здійснення покупок
+
+### Your last purchase appears to not be valid. Please check if your payment was refused and that you are logged in from the same email account.
+MOBILE_PURCHASE_INVALID=Ваша остання покупка, схоже, недійсна. Будь ласка, перевірте, чи не було відхилено ваш платіж, і чи ви ввійшли в систему з того самого облікового запису електронної пошти.
+
+### Oops, it appears some of your in-app purchases are not valid ({keys}) Check that the payment was processed and that you're connected with the correct account.
+MOBILE_DLC_INVALID=Ой, здається, деякі ваші внутрішньоігрові покупки недійсні ({keys}). Перевірте, чи був проведений платіж і чи ввійшли ви у відповідний обліковий запис.
+
+### The last purchase failed. Try again later and/or with a different payment method.
+MOBILE_PAYMENTFAILED=Остання покупка не вдалася. Спробуйте пізніше та/або скористайтеся іншим способом оплати.
+
+### The last purchase has been validated!
+MOBILE_PAYMENTVALIDATED=Останню покупку підтверджено!
+
+### Restore purchases
+MOBILE_RESTOREPURCHASES=Відновити покупки
+
+### The restore purchases request failed. Please try again.
+MOBILE_RESTOREREQUESTFAILED=Запит на відновлення покупок не вдався. Спробуйте ще раз.
+
+### Please wait...
+MOBILE_WAIT=Будь ласка, зачекайте...
+
+### The purchase window can take up to 10 seconds to appear
+MOBILE_WAIT_DESCRIPTION=Вікно покупки може з'явитися протягом 10 секунд
+
+### The purchases check may take up to 10 seconds.
+MOBILE_WAIT_DESCRIPTION_RESTORE=Перевірка покупок може тривати до 10 секунд.
+
+### No purchase could be retrieved for now.
+MOBILE_NOINAPP=Наразі не вдалося отримати дані про покупки.
+
+
+# ---------------------------
+# ENGINE SPECIFIC
+# ---------------------------
+### The game cannot start. No S00.TXT file detected. Place the VN folder inside:
+VNENGINE_NOS00=Гра не може запуститися. Файл S00.TXT не знайдено. Помістіть теку VN усередині:
+
+### The required folders have been created in:
+VNENGINE_INIT1=Потрібні теки створено тут:
+
+### ** Open and remember this path, this is your work path! **
+VNENGINE_INIT2=** Відкрийте та збережіть цей шлях: це ваша робоча тека! **
+
+### The VN_BASIC project was automatically copied into the VN work directory and will launch when you press OK.
+VNENGINE_INIT3=Проєкт VN_BASIC автоматично скопійовано в робочу теку VN, і він запуститься, коли ви натиснете OK.
+
+### After this, feel free to go into the work path (it was copied in your clipboard, just paste it) and modify the files inside the VN folder to start making your own visual novel!
+VNENGINE_INIT4=Після цього можете перейти до робочої теки (її скопійовано в буфер обміну, просто вставте) і змінювати файли в теці VN, щоб почати створювати власну візуальну новелу!
+
+### Reminder: your work path is
+VNENGINE_DOCLAUNCH=Нагадуємо: ваш робочий шлях -
+
+### I have copied it into your clipboard for you, paste it into your explorer path.
+VNENGINE_DOCLAUNCH2=Я скопіював його для вас у буфер обміну, вставте його в адресний рядок провідника.
+
+### An explorer Window has automatically opened with your work path.
+VNENGINE_DOCLAUNCHWIN=Вікно провідника з вашим робочим шляхом відкрилося автоматично.
+
+
+
+
+

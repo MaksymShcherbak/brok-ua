@@ -3,7 +3,7 @@
 """qa_check.py -- comprehensive automated QA for the BROK: The InvestiGator
 Ukrainian translation.
 
-One pass over the corpus (UA/*.txt) and the four reference docs
+One pass over the corpus (brok/*.txt + brokvn/*.txt, or UA/*.txt in the old layout) and the four reference docs
 (guide.md, glossary.md, formality.md, common-errors.md), producing a
 severity-ranked, capped report meant to be read by a human or by a model:
 
@@ -408,17 +408,34 @@ def load_file(path, name):
     return rows
 
 
+CORPUS_DIRS = ('UA', 'brok', 'brokvn')  # UA/ = old single-project layout, one dir per site project
+
+
+def corpus_dirs(root):
+    return [os.path.join(root, d) for d in CORPUS_DIRS if os.path.isdir(os.path.join(root, d))]
+
+
+def corpus_files(root, only=None):
+    """[(name, path)] of every corpus .txt. A name can appear twice (TCOMMON in both projects)."""
+    out = []
+    for d in corpus_dirs(root):
+        for f in sorted(os.listdir(d)):
+            if f.endswith('.txt'):
+                name = f[:-4]
+                if only and name not in only:
+                    continue
+                out.append((name, os.path.join(d, f)))
+    return out
+
+
 def corpus_text(root):
     """All values of the corpus, lowercased, for whole-corpus term lookups.
 
     Read directly: running the full row checks twice would duplicate findings.
     """
     out = []
-    ua_dir = os.path.join(root, 'UA')
-    for name in sorted(os.listdir(ua_dir)):
-        if not name.endswith('.txt'):
-            continue
-        text = open(os.path.join(ua_dir, name), 'rb').read().decode('utf-8-sig', errors='replace')
+    for _name, path in corpus_files(root):
+        text = open(path, 'rb').read().decode('utf-8-sig', errors='replace')
         for line in text.replace('\r\n', '\n').split('\n'):
             if line and not line.startswith('#') and '=' in line:
                 out.append(line.split('=', 1)[1].lower())
@@ -426,13 +443,16 @@ def corpus_text(root):
 
 
 def load_corpus(root, only=None):
-    ua_dir = os.path.join(root, 'UA')
-    names = sorted(f[:-4] for f in os.listdir(ua_dir) if f.endswith('.txt'))
-    if only:
-        names = [n for n in names if n in only]
+    pairs = corpus_files(root, only)
+    seen = {}
+    for n, _p in pairs:
+        seen[n] = seen.get(n, 0) + 1
     rows = []
-    for n in names:
-        rows.extend(load_file(os.path.join(ua_dir, n + '.txt'), n + '.txt'))
+    for n, path in pairs:
+        label = n + '.txt'
+        if seen[n] > 1:
+            label = os.path.basename(os.path.dirname(path)) + '/' + label
+        rows.extend(load_file(path, label))
     return rows
 
 
@@ -1048,16 +1068,20 @@ def check_docs(root, refs):
                 if is_sep(cells) or not cells[0] or cells[0] == 'Item':
                     continue
                 prog.append((lineno, cells))
-        ua_dir = os.path.join(root, 'UA')
-        files = {f[:-4] for f in os.listdir(ua_dir) if f.endswith('.txt')}
+        by_name = {}
+        for n, p in corpus_files(root):
+            by_name.setdefault(n, []).append(p)
+        files = set(by_name)
         items = {c[0] for _l, c in prog}
         for lineno, cells in prog:
             name = cells[0]
             if name not in files:
                 add('doc-progress-file', 'progress.md', lineno, '',
-                    'row «%s» has no UA/%s.txt' % (name, name))
+                    'row «%s» has no corpus file' % name)
                 continue
-            empties, total = count_keys(os.path.join(ua_dir, name + '.txt'))
+            if len(by_name[name]) > 1:
+                continue  # same file name in two projects: a progress row cannot be attributed
+            empties, total = count_keys(by_name[name][0])
             statuses = [c.lower() for c in cells[1:] if c]
             done = all('done' in st for st in statuses) if statuses else False
             if done and empties:
@@ -1068,7 +1092,7 @@ def check_docs(root, refs):
                     '«%s» is not Done but every key is filled' % name)
         for name in sorted(files - items):
             add('doc-progress-file', 'progress.md', 0, '',
-                'UA/%s.txt has no row in progress.md' % name)
+                '%s has no row in progress.md' % name)
 
     # guide claims the corpus does not follow
     hint_rows = [r for r in refs['rows'] if r.file.startswith('THINTS')]
@@ -1318,10 +1342,10 @@ def main(argv=None):
             print('%-26s %-6s %-12s %s' % (rid, sev, cat, desc))
         return 0
 
-    ua_dir = os.path.join(args.root, 'UA')
-    if not os.path.isdir(ua_dir):
-        sys.exit('ABORT: no UA/ directory under %r (use --root)' % args.root)
-    args.files_seen = [f[:-4] for f in os.listdir(ua_dir) if f.endswith('.txt')]
+    dirs = corpus_dirs(args.root)
+    if not dirs:
+        sys.exit('ABORT: no corpus directory (UA/, brok/ or brokvn/) under %r (use --root)' % args.root)
+    args.files_seen = [n for n, _p in corpus_files(args.root)]
     rows = load_corpus(args.root, args.file)
     args.keys_parsed = len(rows)
     if not rows:
@@ -1347,9 +1371,10 @@ def main(argv=None):
 def load_species(root):
     """# Speaker labels in dialogue files can be species: CHAR_HYENA=Щелепка."""
     out = {}
-    for name in ('TDLC.txt', 'TCOMMON.txt', 'TPC21.txt'):
-        path = os.path.join(root, 'UA', name)
-        if not os.path.exists(path):
+    found = {n: p for n, p in corpus_files(root) if n in ('TDLC', 'TCOMMON', 'TPC21')}
+    for name in ('TDLC', 'TCOMMON', 'TPC21'):
+        path = found.get(name)
+        if not path:
             continue
         for line in open(path, encoding='utf-8-sig', newline='').read().split('\r\n'):
             m = re.match(r'^CHAR_([A-Z0-9_]+)=(\S.*)$', line)

@@ -2,9 +2,17 @@
 
 The project started as a tribute to BROK: The Investigator, a game which brought me joy and nostalgia towards classic Point & Click adventures.
 
-The translation started on 30.06.2026 and is still ongoing. I plan to finish it by 31.10.2026, but it depends on my schedule.
+> The translation of Brok: The Investigator (main game) started on 30.06.2026 and ended on 18.10.2026.
 
-**Edit (01.10.2026)**: I am behind schedule, so the deadline might be extended to 30.11.2026.
+> The translation of BrokVN is currently ongoing.
+
+> The translation of Natal Tail is planned for the near future.
+
+> The translation of First Hat is planned, but it might take a while because I'd need to translate a bunch of images.
+
+> The translation of Celsius Strays is planned, but not sure when I will get to it.
+
+> The translation of Demetrios is not planned for now, but we'll see..
 
 ```mermaid
 flowchart TB
@@ -34,6 +42,6 @@ flowchart TB
     classDef done fill:#b2ceeb,stroke:#5b7fa6,stroke-width:1px,color:#1a1a1a
     classDef todo fill:#e0e0e0,stroke:#8a8a8a,stroke-width:1px,color:#1a1a1a
 
-    class A,B,C done
-    class D,E,F,G,H,I todo
+    class A,B,C,D,E,F,G,H done
+    class I todo
 ```
