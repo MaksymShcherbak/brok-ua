@@ -1,0 +1,2026 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Bolt - Ott (Unknown)
+#     Brok - Shay (Unknown)
+#     Brok - Tribotcop (Unknown)
+#     Brok - Wes (Unknown)
+#     Drone - Graff (Unknown)
+#     Graff - Drone (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Rat (Unknown)
+#     Graff - Stan (Unknown)
+#     Ott - Bolt (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Stan (Unknown)
+#     Ott - Wes (Unknown)
+#     Rat - Graff (Unknown)
+#     Shay - Brok (Unknown)
+#     Shay - Tribotcop (Unknown)
+#     Shay - Wes (Unknown)
+#     Stan - Graff (Unknown)
+#     Stan - Ott (Unknown)
+#     Tribotcop - Brok (Unknown)
+#     Tribotcop - Shay (Unknown)
+#     Tribotcop - Wes (Unknown)
+#     Wes - Brok (Unknown)
+#     Wes - Ott (Unknown)
+#     Wes - Shay (Unknown)
+#     Wes - Tribotcop (Unknown)
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### My name is Brok. Just...Brok.
+D02_SHAY1-1=
+
+
+# Brok
+### I'm a self-proclaimed investigator.
+D02_SHAY1-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Although most of my daily routine consists of odd jobs, helping people in need in exchange for a few Unis...in best cases.
+D02_SHAY1-3=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Been living all my life in the Slums, so that helps.
+D02_SHAY1-4=
+
+
+# Brok
+### Well...except for a few months. But I don't really wanna dwell on that.
+D02_SHAY1-5=
+
+
+# Brok
+### We may not have much over here, but we're doing what we can to survive and help each other.
+D02_SHAY1-6=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### We're certainly not as stuck-up as Drumers. The dome is nothing more than a bubble of comfort that they're stuck in, ignoring reality.
+D02_SHAY1-7=
+
+
+# Brok
+### It was suitable for some. Not for me.
+D02_SHAY1-8=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Anyway. I was going to Shay's garage, one of my childhood friends.
+D02_SHAY2-1=
+
+
+# Brok
+### We ran into each other just a few years ago, and have kept up since then. She's a bit on the crazy side, and that muffled call worried me.
+D02_SHAY2-2=
+
+
+#----------------------------------------------------
+# Brok
+### Urgh...no wonder she's so isolated out here. I'll never get used to the stench of that lake.
+D02_SHAY3-1=
+
+
+# Brok
+### The door is open. Good or bad sign?
+D02_SHAY3-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay?
+D02_SHAY3-3=
+
+
+#----------------------------------------------------
+# Brok
+### I decided to take a minute to think before going in.
+D02_SHAYOUTSIDE_DONOTENTER-1=
+
+
+### One time, I was "accidentally" exposed to a potentially deadly disease.
+D02_SHAYOUTSIDE_DONOTENTER-2=
+
+### Thankfully, she had the antidote!
+D02_SHAYOUTSIDE_DONOTENTER-3=
+
+### Another time, an alarm was "accidentally" set off, so loud my head hurt all day.
+D02_SHAYOUTSIDE_DONOTENTER-4=
+
+### But those are nothing compared to... that thing...
+D02_SHAYOUTSIDE_DONOTENTER-5=
+
+### Oh yes, THAT thing. That DARN "accidental" thing.
+D02_SHAYOUTSIDE_DONOTENTER-6=
+
+### I'll never forget it. That's for sure!
+D02_SHAYOUTSIDE_DONOTENTER-7=
+
+### Someday she might "accidentally" send me back to the dinosaur era, or worse... but I just can't help it.
+D02_SHAYOUTSIDE_DONOTENTER-8=
+
+### ...Oh well. Can't live in fear forever. Besides, I'm way too curious.
+D02_SHAYOUTSIDE_DONOTENTER-9=
+
+### Let's see what she's up to this time!
+D02_SHAYOUTSIDE_DONOTENTER-10=
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay? Where are you hiding?
+D02_SHAY4-1=
+
+
+# Shay
+### (Muffled) Behind here!
+D02_SHAY4-2=
+
+
+# Brok
+### Oh. That pile of crates, old clothes, and wires?
+D02_SHAY4-3=
+
+
+# Brok
+### I thought you had an emergency.
+D02_SHAY4-4=
+
+
+# Shay
+### This IS an emergency! I'm stuck!
+D02_SHAY4-5=
+
+
+# Brok
+### Ah, sorry if I couldn't tell. You're always half-hidden under stuff, busy with something...
+D02_SHAY4-6=
+
+
+# Shay
+### Cut the nonsense and get. Me. Out!
+D02_SHAY4-7=
+
+
+#----------------------------------------------------
+# Brok
+### It took some effort to get her free.
+D02_SHAY5-1=
+
+
+# Shay
+### Phew.
+D02_SHAY5-2=
+
+
+# Shay
+### Alright, great. Back to work.
+D02_SHAY5-3=
+
+
+# Brok
+### What?
+D02_SHAY5-4=
+
+
+# Brok
+### I came all the way here, and that's all I get?
+D02_SHAY5-5=
+
+
+# Shay
+### Look, that was a particularly unpleasant situation. I'm not in the mood.
+D02_SHAY5-6=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay!...
+D02_SHAY5-7=
+
+
+### She glanced toward me for the first time and suddenly her attitude changed.
+D02_SHAY5-8=
+
+# Shay
+### Oh, god.
+D02_SHAY5-9=
+
+
+# Brok
+### What? What?...
+D02_SHAY5-10=
+
+
+# Shay
+### Nothing.
+D02_SHAY5-11=
+
+
+# Shay
+### I just remembered why I avoid looking at you.
+D02_SHAY5-12=
+
+
+# Brok
+### You did?
+D02_SHAY5-13=
+
+
+# Shay
+### Because then I can never refuse you anything.
+D02_SHAY5-14=
+
+
+# Shay
+### (Ahem, ahem)
+D02_SHAY5-15=
+
+
+# Shay
+### "Myyyy handsome hero. Always here to save me with those big, strong arms!"
+D02_SHAY5-16=
+
+
+# Brok
+### Don't overdo it.
+D02_SHAY5-17=
+
+
+# Brok
+### I just thought you'd want to chat. Ya know, like normal people do.
+D02_SHAY5-18=
+
+
+# Shay
+### Exactly. Normal people.
+D02_SHAY5-19=
+
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### (Shay resumed work)
+D02_SHAY5-20=
+
+# Brok
+### ...
+D02_SHAY5-21=
+
+
+# Brok
+### Some days, I wonder why I'm even your friend.
+D02_SHAY5-22=
+
+
+# Shay
+### You can't resist the company of individuals who are your polar opposite.
+D02_SHAY5-23=
+
+
+# Brok
+### Do you mind at least explaining how ya got stuck like a fly on sticky tape?
+D02_SHAY5-24=
+
+
+# Shay
+### Ooooh, alright...
+D02_SHAY5-25=
+
+
+#----------------------------------------------------
+# Brok
+### (Suddenly, a certain acquaintaince barged in...)
+D02_SHAY6-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### (...accompanied by a range of police Tribots.)
+D02_SHAY6-2=
+
+
+#----------------------------------------------------
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### What the...? Wes?!
+D02_SHAY6B-1=
+
+
+# Wes
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### That's commissioner Wes for you, Pork.
+D02_SHAY6B-2=
+
+
+# Wes
+### Considering your presence here, all my suspicions of shenanigans going on in this garage were well-founded.
+D02_SHAY6B-3=
+
+
+# Tribotcop
+### One minute allocated for the individuals to fail to explain themselves.
+D02_SHAY6B-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### The explosion...Shay, it was you?!
+D02_SHAY6B-5=
+
+
+# Shay
+### A minor oopsie.
+D02_SHAY6B-6=
+
+
+# Shay
+### I was working on my cannon burst and I fed it with Zing 31 instead of Zing 21.
+D02_SHAY6B-7=
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### I misread the instructions the old Shay gave me. Anyone could make that mistake!
+D02_SHAY6B-8=
+
+
+# Brok
+### Talking to yourself in third person again, huh...
+D02_SHAY6B-9=
+
+
+# Wes
+### Cannon burst?
+D02_SHAY6B-10=
+
+
+# Tribotcop
+### Our database does not find any record.
+D02_SHAY6B-11=
+
+
+# Shay
+### Well, duh. That's the first one in this timeline.
+D02_SHAY6B-12=
+
+
+# Shay
+### Basically, feed the cannon with any material and it will multiply it into thousands of nano particles in the air.
+D02_SHAY6B-13=
+
+
+# Shay
+### For instance, you could put water inside and you'd get instant rain. Isn't that cool?
+D02_SHAY6B-14=
+
+
+# Brok
+### What would you even need that for?!
+D02_SHAY6B-15=
+
+
+# Shay
+### For my tim...thermometer.
+D02_SHAY6B-16=
+
+
+# Tribotcop
+### The statement from the individual with aqua colored feathers only makes sense at a 3 percent degree.
+D02_SHAY6B-17=
+
+
+# Wes
+### Huh-huh.
+D02_SHAY6B-18=
+
+
+# Wes
+### I'm too old to care. Lemme just confiscate it and call it a day.
+D02_SHAY6B-19=
+
+
+#----------------------------------------------------
+# Brok
+### No.
+D02_SHAY6B_NEW_REFUSE-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Wes": "Вес"
+### You won't get your stinkin' hands on it, Wes.
+D02_SHAY6B_NEW_REFUSE-2=
+
+
+# Shay
+### Bro. Don't do this.
+D02_SHAY6B_NEW_REFUSE-3=
+
+
+# Shay
+### Believe me, it's not worth it.
+D02_SHAY6B_NEW_REFUSE-4=
+
+
+# Wes
+### This isn't a question, Pork. It's an order.
+D02_SHAY6B_NEW_REFUSE-5=
+
+
+#----------------------------------------------------
+# Brok
+### Read my lips carefully.
+D02_SHAY6B_NEW_REFUSEAGAIN-1=
+
+
+# Brok
+### NO. Screw you and your pile of screws over there!
+D02_SHAY6B_NEW_REFUSEAGAIN-2=
+
+
+# Wes
+### Well, too bad for you. I'm too tired to negotiate today.
+D02_SHAY6B_NEW_REFUSEAGAIN-3=
+
+
+# Wes
+### By refusing to obey a first-class officer, you are now considered a first-class criminal.
+D02_SHAY6B_NEW_REFUSEAGAIN-4=
+
+
+#----------------------------------------------------
+### (Zap!)
+D02_SHAY6B_NEW_REFUSEAGAIN2-1=
+
+# Brok
+### As my consciousness faded into a pile of crumbs, I felt like a total fool.
+D02_SHAY6B_NEW_REFUSEAGAIN2-2=
+
+
+# Shay
+### Oh no.
+D02_SHAY6B_NEW_REFUSEAGAIN2-3=
+
+
+# Shay
+### Look what you've done. Now my beautiful feathers are disappearing!
+D02_SHAY6B_NEW_REFUSEAGAIN2-4=
+
+
+# Shay
+### [...]
+D02_SHAY6B_NEW_REFUSEAGAIN2-5=
+
+
+# Wes
+### Err...
+D02_SHAY6B_NEW_REFUSEAGAIN2-6=
+
+
+# Tribotcop
+### Master. Why did the blue bird woman disappear into thin air?
+D02_SHAY6B_NEW_REFUSEAGAIN2-7=
+
+
+# Wes
+### Beats me.
+D02_SHAY6B_NEW_REFUSEAGAIN2-8=
+
+
+# Wes
+### Well, that's turning in our favor. Two criminals down, and I got a nice gun.
+D02_SHAY6B_NEW_REFUSEAGAIN2-9=
+
+
+# Wes
+### We're out.
+D02_SHAY6B_NEW_REFUSEAGAIN2-10=
+
+
+#----------------------------------------------------
+# Wes
+### Agents.
+D02_SHAY6B_NEW_AFTER-1=
+
+
+# Tribotcop
+### Yes, sir.
+D02_SHAY6B_NEW_AFTER-2=
+
+
+#----------------------------------------------------
+# Brok
+### They're out of sight. Good riddance!
+D02_SHAY7-1=
+
+
+# Shay
+### I still wonder who built that bot.
+D02_SHAY7-2=
+
+
+# Brok
+### Why do you care?
+D02_SHAY7-3=
+
+
+# Shay
+### I mean, it was a pretty advanced one.
+D02_SHAY7-4=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Looked just like your standard Tribot to me.
+D02_SHAY7-5=
+
+
+# Shay
+### You can't be serious.
+D02_SHAY7-6=
+
+
+# Brok
+### Guess ya're right, me and technology are like water and sand...incompatible.
+D02_SHAY7-7=
+
+
+# Shay
+### The expression is "water and oil", though that works too.
+D02_SHAY7-8=
+
+
+# Shay
+### I'll have to install a security system to prevent intrusions like that in the future.
+D02_SHAY7-9=
+
+
+# Brok
+### Or...maybe just don't do illegal stuff?
+D02_SHAY7-10=
+
+
+# Shay
+### ...
+D02_SHAY7-11=
+
+
+# Shay
+### Nah. A security system is easier! And way more exciting.
+D02_SHAY7-12=
+
+
+# Brok
+### Whatever!
+D02_SHAY7-13=
+
+
+# Shay
+### Here, take this.
+D02_SHAY7-14=
+
+
+# Brok
+### Wait, what? Another gun?!
+D02_SHAY7-15=
+
+
+# Shay
+### My prototype.
+D02_SHAY7-16=
+
+
+# Shay
+### It's a bust. I'll work out my gravitation particle system differently.
+D02_SHAY7-17=
+
+
+# Shay
+### Kids can have fun with it!
+D02_SHAY7-18=
+
+
+# Brok
+### Say...The gun is nice and all but...that doesn't sound super appropriate.
+D02_SHAY7-19=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### But that makes me think...I'd love to give something nice to Graff. He's always so stressed out.
+D02_SHAY7-20=
+
+
+# Shay
+### What does he love and is missing the most from his life?
+D02_SHAY7-21=
+
+
+# Brok
+### Let's see...
+D02_SHAY7-22=
+
+
+# Brok
+### He loves electronic doodads...and his school friend. Forgot his name.
+D02_SHAY7-23=
+
+
+# Brok
+### Like, maybe something he could use to play with him from a distance?
+D02_SHAY7-24=
+
+
+# Brok
+### Does something like that even exist?
+D02_SHAY7-25=
+
+
+# Shay
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### (Groan) A computer, Brok. You just described a computer.
+D02_SHAY7-26=
+
+
+# Brok
+### Oh! Right. Got one?
+D02_SHAY7-27=
+
+
+# Shay
+### Yep. Got that one from the lake. It was starting to leak and pollute it.
+D02_SHAY7-28=
+
+
+# Shay
+### Still in working condition though!
+D02_SHAY7-29=
+
+
+# Brok
+### Eww...if you don't mind the fetidness. I'll clean it.
+D02_SHAY7-30=
+
+
+# Shay
+### Suit yourself. Consider this a gift for helping me out!
+D02_SHAY7-31=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Thanks! Now you're more like the Shay I know.
+D02_SHAY7-32=
+
+
+# Brok
+### What time is it?
+D02_SHAY7-33=
+
+
+# Shay
+### 3 P.M.
+D02_SHAY7-34=
+
+
+# Brok
+### Oh god! I'm super late! My client's gonna kill me!
+D02_SHAY7-35=
+
+
+# Shay
+### Hopefully not. That would be inconvenient.
+D02_SHAY7-36=
+
+
+# Brok
+### See ya!
+D02_SHAY7-37=
+
+
+#----------------------------------------------------
+# Wes
+### ...insert any material and it will multiply in the air.
+D02_SHAY_AFTERWES-1=
+
+
+# Wes
+### How about ice?...
+D02_SHAY_AFTERWES-2=
+
+
+# Wes
+### This could make for a handy weapon.
+D02_SHAY_AFTERWES-3=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### My name is Ott. I've been a citizen of the Slums my whole life.
+D02_OTT1-1=
+
+
+### I have Miscerigenus syndrome.
+D02_OTT1-2=
+
+### In other words, I inherited a specific combination of recessive genes from both of my parents, forming a genetical anomaly.
+D02_OTT1-3=
+
+### Usually, children have dominant genes from just one of their parents, so that species expresses itself.
+D02_OTT1-4=
+
+### Me? Both species express themselves. I'm a mixed breed.
+D02_OTT1-5=
+
+### Due to this, I've been mocked, thrown aside, and got called a lot of things in my life.
+D02_OTT1-6=
+
+### Most words I wouldn't dare to repeat.
+D02_OTT1-7=
+
+### Lately, people say I look like pastry. Probably the weirdest, but at least it's not as offensive as usual.
+D02_OTT1-8=
+
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### Slumers can't stand or understand being different. Anything they're not used to is treated as illness and they see it as ugly.
+D02_OTT1-9=
+
+### I don't know if I can blame them, but it still hurts.
+D02_OTT1-10=
+
+### Besides my parents, I don't have many friends who accept me the way I am.
+D02_OTT1-11=
+
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Will it be the same when I become an official resident of the dome?
+D02_OTT1-12=
+
+### I guess we'll see...
+D02_OTT1-13=
+
+### But first, today...I need to find a job.
+D02_OTT1-14=
+
+#----------------------------------------------------
+# Ott
+### The main Border Post.
+D02_OTT2-1=
+
+
+# Ott
+### The place that separates our world from theirs.
+D02_OTT2-2=
+
+
+# Ott
+### ...
+D02_OTT2-3=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Oh no. How can I expect to earn Unis when there's no one here...
+D02_OTT2-4=
+
+
+# Ott
+### No, actually...there is someone...or rather, something.
+D02_OTT2-5=
+
+
+# Ott
+### Hello?
+D02_OTT2-6=
+
+
+# Bolt
+### Please - do not - mind me. I am - working.
+D02_OTT2-7=
+
+
+# Ott
+### Oh, I see. You're managing those packages, right?
+D02_OTT2-8=
+
+
+# Ott
+### Well, that's exactly what I'm looking for.
+D02_OTT2-9=
+
+
+# Bolt
+### Looking for - packages?
+D02_OTT2-10=
+
+
+# Ott
+### No. Work!
+D02_OTT2-11=
+
+
+# Bolt
+### In all - these years - no human - had asked - me!
+D02_OTT2-12=
+
+
+# Ott
+### You look happy!
+D02_OTT2-13=
+
+
+# Bolt
+### I am!
+D02_OTT2-14=
+
+
+# Ott
+### Good! So, how could I help?
+D02_OTT2-15=
+
+
+# Ott
+### Looks like all you do is press those buttons, right?
+D02_OTT2-16=
+
+
+# Bolt
+### Yes! Let me - think.
+D02_OTT2-17=
+
+
+# Bolt
+### How about - sharing?
+D02_OTT2-18=
+
+
+# Ott
+### Like, splitting the tasks?
+D02_OTT2-19=
+
+
+# Bolt
+### You do - the bottom - left packages.
+D02_OTT2-20=
+
+
+# Bolt
+### I handle - the top - and the right ones.
+D02_OTT2-21=
+
+
+# Ott
+### Sounds good!
+D02_OTT2-22=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Although...I need to earn some Unis.
+D02_OTT2-23=
+
+
+# Bolt
+### Oh. I do - not make - any money.
+D02_OTT2-24=
+
+
+# Bolt
+### I am - just an - old robot.
+D02_OTT2-25=
+
+
+# Bolt
+### I cannot - even remember - for what - purpose I - was created.
+D02_OTT2-26=
+
+
+# Bolt
+### My memory - was formatted - about a decade - ago.
+D02_OTT2-27=
+
+
+# Bolt
+### I am - sorry.
+D02_OTT2-28=
+
+
+# Ott
+### It's okay! I'm still willing to help for a bit.
+D02_OTT2-29=
+
+
+# Bolt
+### You would - do that? For free?
+D02_OTT2-30=
+
+
+# Ott
+### Well...if it makes you happy, why not?
+D02_OTT2-31=
+
+
+# Ott
+### What's your name?
+D02_OTT2-32=
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### I am - Bolt.
+D02_OTT2-33=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Glad to meet you, Bolt. I'm Ott!
+D02_OTT2-34=
+
+
+# Bolt
+### Oh, you - do look - very attractive.
+D02_OTT2-35=
+
+
+# Ott
+### Er...
+D02_OTT2-36=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### No no, I mean Ott. O, T, T.
+D02_OTT2-37=
+
+
+# Bolt
+### Is that - so. My processor - cannot handle - all humans - languages subtilities.
+D02_OTT2-38=
+
+
+# Ott
+### ...should we start then?
+D02_OTT2-39=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### I helped Bolt for two hours.
+D02_OTT3-1=
+
+
+# Ott
+### He told me about his technical capabilities, how he was made for this one specific task, his fear of being replaced, and his battery running out...
+D02_OTT3-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### On my end, I told him everything about myself, about <col=BLUE>Natal Untail</col> and how it was a special day.
+D02_OTT3-3=
+
+
+# Ott
+### I know he was just a processor unit, but I still kinda felt bad for him.
+D02_OTT3-4=
+
+
+# Ott
+### In a convoluted way, I felt closer to him than with most humans.
+D02_OTT3-5=
+
+
+# Ott
+### That's just like me...having more fun with a robot over other teenagers.
+D02_OTT3-6=
+
+
+# Ott
+### Despite the monotonous work, it was a fun time.
+D02_OTT3-7=
+
+
+# Ott
+### Too much time.
+D02_OTT3-8=
+
+
+# Ott
+### I promised him to do it again someday, but I was not earning any money.
+D02_OTT3-9=
+
+
+# Ott
+### So I left and watched the border. I stayed there, lost in thought.
+D02_OTT3-10=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Suddenly, Bolt called out for me.
+D02_OTT3-11=
+
+
+#----------------------------------------------------
+# Bolt
+### I have - good news!
+D02_OTT4-1=
+
+
+# Bolt
+### While you - were away - I checked - the manual.
+D02_OTT4-2=
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### There is - a mode - to earn - Unis through - cashback!
+D02_OTT4-3=
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Only - 0.01 Uni - per package - delivered - since the - start of - the day.
+D02_OTT4-4=
+
+
+# Bolt
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### In total - I have - sent you - 40 Unis.
+D02_OTT4-5=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Oh wow! Thank you so much, Bolt!
+D02_OTT4-6=
+
+
+# Bolt
+### I was - helpful?
+D02_OTT4-7=
+
+
+# Ott
+### Very!
+D02_OTT4-8=
+
+
+# Bolt
+### I am - glad.
+D02_OTT4-9=
+
+
+# Ott
+### But I have to go now. Time to buy myself something before it's too late...
+D02_OTT4-10=
+
+
+# Bolt
+### I understand.
+D02_OTT4-11=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### Happy <col=BLUE>Natal Untail</col>!
+D02_OTT4-12=
+
+
+# Bolt
+### Goodbye, friend!
+D02_OTT4-13=
+
+
+# Ott
+### ...
+D02_OTT4-14=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
+### After the Untail believer incident, I was back in front of my apartment.
+D02_MOUSE1-1=
+
+
+# Graff
+### I had a sinking feeling that I was being followed...and it didn't take long to confirm I was.
+D02_MOUSE1-2=
+
+
+#----------------------------------------------------
+# Rat
+### Hello, kitty.
+D02_MOUSE2-1=
+
+
+# Graff
+### ...!
+D02_MOUSE2-2=
+
+
+# Graff
+### Don't move! I can defend myself!
+D02_MOUSE2-3=
+
+
+# Rat
+### No, you got it wrong, I need your help!
+D02_MOUSE2-4=
+
+
+# Graff
+### Hey, aren't you a rat?
+D02_MOUSE2-5=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### No, wait...You're a Squealer? Those banned former activists I've heard about?!
+D02_MOUSE2-6=
+
+
+# Rat
+### Of course not! I'm a mouse. Rats don't have a mustache!
+D02_MOUSE2-7=
+
+
+# Rat
+### See?
+D02_MOUSE2-8=
+
+
+# Graff
+### Err...
+D02_MOUSE2-9=
+
+
+# Rat
+### But like them, I'm homeless.
+D02_MOUSE2-10=
+
+
+# Rat
+### Sleeping on da floor is making my back ache...
+D02_MOUSE2-11=
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### When Drumers throw away their old mattresses, they're sorted out and fall into dat landfill over there.
+D02_MOUSE2-12=
+
+
+#----------------------------------------------------
+# Rat
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### Other Slumers are watching over dis spot to grab'em and do some fishy business.
+D02_MOUSE2B-1=
+
+
+# Rat
+### Thankfully, today there are several mattresses available! Lucky day!
+D02_MOUSE2B-2=
+
+
+# Rat
+### But I can't access dis area without being chased by drones.
+D02_MOUSE2B-3=
+
+
+# Rat
+### See, I may have done one or two bad things in da past and...
+D02_MOUSE2B-4=
+
+
+# Graff
+### Thought so.
+D02_MOUSE2B-5=
+
+
+# Rat
+### No, please don't leave!
+D02_MOUSE2B-6=
+
+
+# Rat
+### I'd be forever indebted to you if you could get me one!
+D02_MOUSE2B-7=
+
+
+# Graff
+### How do I know you're not going to use it in trafficking, like you mentioned?
+D02_MOUSE2B-8=
+
+
+# Rat
+### Simple. Look.
+D02_MOUSE2B-9=
+
+
+### The rat showed me his back. He wasn't lying, judging by the various bruises...
+D02_MOUSE2B-10=
+
+### Although I wondered if they were really caused by just uncomfortable conditions.
+D02_MOUSE2B-11=
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### 100 Unis. Dat's all the Unis I have on this coupon.
+D02_MOUSE2B-12=
+
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Me? Helping a Squealer?!
+D02_MOUSE2B_NEW_REFUSE-1=
+
+### Those lowlifes would cheat, lie, and betray at every turn. Basically, it's their way of life.
+D02_MOUSE2B_NEW_REFUSE-2=
+
+### Or so I've been told.
+D02_MOUSE2B_NEW_REFUSE-3=
+
+# Graff
+### Get lost!
+D02_MOUSE2B_NEW_REFUSE-4=
+
+
+# Rat
+### Aww...
+D02_MOUSE2B_NEW_REFUSE-5=
+
+
+# Rat
+### No one helps me...
+D02_MOUSE2B_NEW_REFUSE-6=
+
+
+# Graff
+### Shoo!
+D02_MOUSE2B_NEW_REFUSE-7=
+
+
+#----------------------------------------------------
+### As I watched the rodent walk away, I suddenly felt something stir deep inside me.
+D02_MOUSE2B_NEW_REFUSE2-1=
+
+### A weird, hollow sensation, like I was being sucked into a black hole...
+D02_MOUSE2B_NEW_REFUSE2-2=
+
+### Was it... remorse?...
+D02_MOUSE2B_NEW_REFUSE2-3=
+
+### So many emotions swirled inside me... like a cocktail ready to explode.
+D02_MOUSE2B_NEW_REFUSE2-4=
+
+### I... had to do something, or I felt I was going to burst.
+D02_MOUSE2B_NEW_REFUSE2-5=
+
+# Graff
+### Wait!
+D02_MOUSE2B_NEW_REFUSE2-6=
+
+
+# Graff
+### I... I've changed my mind.
+D02_MOUSE2B_NEW_REFUSE2-7=
+
+
+#----------------------------------------------------
+### In the situation I was in, I decided it was worth a shot. Hopefully I wouldn't regret it...
+D02_MOUSE2B_NEW_AFTER-1=
+
+# Graff
+### Deal.
+D02_MOUSE2B_NEW_AFTER-2=
+
+
+# Rat
+### Yessss!
+D02_MOUSE2B_NEW_AFTER-3=
+
+
+# Rat
+### I'll be waiting here at dis exact spot! Thanks, lil fella'!
+D02_MOUSE2B_NEW_AFTER-4=
+
+
+#----------------------------------------------------
+# Graff
+### He stayed in the shadows. Clearly he didn't want to take any risk.
+D02_MOUSE2C-1=
+
+
+# Graff
+### One thing was for sure, I was acting far from my comfort zone today...
+D02_MOUSE2C-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### Was this what the Director intended?
+D02_MOUSE2C-3=
+
+
+# Graff
+### I had to go through a barbed wire fence to access the landfill.
+D02_MOUSE2C-4=
+
+
+# Graff
+### Proof that I wasn't the first one to cross, a massive hole had been cut with pliers, and I was secretly thankful to this anonymous robber.
+D02_MOUSE2C-5=
+
+
+# Graff
+### I picked a small mattress, at least that'd be easier to carry.
+D02_MOUSE2C-6=
+
+
+# Graff
+### Ooof, that's still really heavy though...
+D02_MOUSE2C-7=
+
+
+### At my own pace I was slowly getting back, when...
+D02_MOUSE2C-8=
+
+#----------------------------------------------------
+# Drone
+# NB: Lexicon word in Ukrainian for "The Triangle": "Трикутник"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Unauthorized Squealer citizen. You are banned under regulation 1B of the Triangle.
+D02_MOUSE3-1=
+
+
+# Graff
+### Oh no!
+D02_MOUSE3-2=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### I was right! He was a Squealer.
+D02_MOUSE4-1=
+
+
+# Graff
+### The rat started to flee, but it was too late and there was nowhere to hide. The flying apparatus of death was about to shoot.
+D02_MOUSE4-2=
+
+
+#----------------------------------------------------
+### I didn't think twice.
+D02_MOUSE4_NEW_PUSHTHERAT-1=
+
+### Better him than me.
+D02_MOUSE4_NEW_PUSHTHERAT-2=
+
+### The drone was about to fire. I put all my strength into it...
+D02_MOUSE4_NEW_PUSHTHERAT-3=
+
+### And hurled the fat rat straight at the drone.
+D02_MOUSE4_NEW_PUSHTHERAT-4=
+
+# Rat
+### Gah!!!
+D02_MOUSE4_NEW_PUSHTHERAT-5=
+
+
+#----------------------------------------------------
+### A red light.
+D02_MOUSE4_NEW_PUSHTHERAT2-1=
+
+### A big, round shape collapsed onto the mattress...conveniently.
+D02_MOUSE4_NEW_PUSHTHERAT2-2=
+
+### The murder machine stayed there for a minute, silently observing.
+D02_MOUSE4_NEW_PUSHTHERAT2-3=
+
+### And without warning, it vanished.
+D02_MOUSE4_NEW_PUSHTHERAT2-4=
+
+### I started putting distance between myself and that awkward scene.
+D02_MOUSE4_NEW_PUSHTHERAT2-5=
+
+### Once I was far enough, I turned back. Part of me unwilling to believe what I'd just done, needing to confirm it...
+D02_MOUSE4_NEW_PUSHTHERAT2-6=
+
+### ...and then, a relief.
+D02_MOUSE4_NEW_PUSHTHERAT2-7=
+
+# NB: Lexicon word in Ukrainian for "Aircar": "аеромобіль"
+### The big mass was no longer lying flat, but hopping behind a demolished street Aircar.
+D02_MOUSE4_NEW_PUSHTHERAT2-8=
+
+### Somehow, he made it.
+D02_MOUSE4_NEW_PUSHTHERAT2-9=
+
+### Not thanks to me, anyway.
+D02_MOUSE4_NEW_PUSHTHERAT2-10=
+
+#----------------------------------------------------
+# Graff
+### I ran as fast as my legs could carry me.
+D02_MOUSE4_NEW_RUNAWAY-1=
+
+
+# Graff
+### The piercing sound of a laser.
+D02_MOUSE4_NEW_RUNAWAY-2=
+
+
+# Graff
+### For one second I thought it had missed. I kept running.
+D02_MOUSE4_NEW_RUNAWAY-3=
+
+
+# Graff
+### And then...
+D02_MOUSE4_NEW_RUNAWAY-4=
+
+
+# Graff
+### Nothing.
+D02_MOUSE4_NEW_RUNAWAY-5=
+
+
+# Graff
+### Or rather, nothingness.
+D02_MOUSE4_NEW_RUNAWAY-6=
+
+
+# Graff
+### This was one of those drones that could stun you in a single hit.
+D02_MOUSE4_NEW_RUNAWAY-7=
+
+
+# Graff
+### Now I understood what they meant by this being a "special day"!
+D02_MOUSE4_NEW_RUNAWAY-8=
+
+
+# Graff
+### Manifestly, this was my last one.
+D02_MOUSE4_NEW_RUNAWAY-9=
+
+
+#----------------------------------------------------
+### I panicked. My mind went blank.
+D02_MOUSE4_NEW_DONOTMOVE-1=
+
+### So I did the only thing I could.
+D02_MOUSE4_NEW_DONOTMOVE-2=
+
+### Which was... stand there. No breathing, no looking.
+D02_MOUSE4_NEW_DONOTMOVE-3=
+
+### No thinking.
+D02_MOUSE4_NEW_DONOTMOVE-4=
+
+### And then...
+D02_MOUSE4_NEW_DONOTMOVE-5=
+
+### Nothing.
+D02_MOUSE4_NEW_DONOTMOVE-6=
+
+#----------------------------------------------------
+# Graff
+### By instinct, I threw a rock at it. I missed, but the drone noticed.
+D02_MOUSE4_NEW_HIDE-1=
+
+
+# Graff
+### So I threw myself under the mattress. Silly idea, but maybe, just maybe...it could protect me enough.
+D02_MOUSE4_NEW_HIDE-2=
+
+
+#----------------------------------------------------
+# Graff
+### I waited, expecting to feel a sudden warmth on my skin followed by excruciating pain.
+D02_MOUSE4_NEW_AFTER-1=
+
+
+# Graff
+### But it never came.
+D02_MOUSE4_NEW_AFTER-2=
+
+
+# Graff
+### I heard the drone fly away.
+D02_MOUSE4_NEW_AFTER-3=
+
+
+# Graff
+### Getting out of my hiding place, there was neither drone nor rat visible.
+D02_MOUSE4_NEW_AFTER-4=
+
+
+# Graff
+### He managed to escape.
+D02_MOUSE4_NEW_AFTER-5=
+
+
+# Graff
+### Somehow, even though he was the one bringing me into this mess, the way it all ended gave me an odd feeling of joy mixed with sadness, deep within my chest.
+D02_MOUSE4_NEW_AFTER-6=
+
+
+# Graff
+### And then the realization came to me.
+D02_MOUSE4_NEW_AFTER-7=
+
+
+#----------------------------------------------------
+# Graff
+### Great.
+D02_MOUSE5-1=
+
+
+# Graff
+### I just broke the law, and earned absolutely nothing from it.
+D02_MOUSE5-2=
+
+
+# Graff
+### Then why didn't it bother me more?...
+D02_MOUSE5-3=
+
+
+#----------------------------------------------------
+# Graff
+### The sun was starting to set.
+D02_STORE1-1=
+
+
+# Graff
+### Thirty minutes. That's all the time I had left.
+D02_STORE1-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Crap! Quick, Graff, what's the closest store you can think of?...
+D02_STORE1-3=
+
+
+# Graff
+### I was starting to run.
+D02_STORE1-4=
+
+
+# Graff
+### My mind could not focus. My mouth was getting dry and my lungs on the verge of giving out.
+D02_STORE1-5=
+
+
+# Graff
+### So much had happened and my brain could hardly control my movements anymore.
+D02_STORE1-6=
+
+
+# Graff
+### I made a wish...that I would not get a zero for failing to complete the task.
+D02_STORE1-7=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Fifteen minutes. I arrived in a busy part of the Slums and could finally breathe.
+D02_STORE4-1=
+
+
+# Graff
+### The bazaar shop. I was right in front of it. Still open.
+D02_STORE4-2=
+
+
+# Graff
+### The owner was looking the other way, which gave me some time to peek through the window.
+D02_STORE4-3=
+
+
+# Graff
+### And a cruel awakening.
+D02_STORE4-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### There was nothing under 100 Unis.
+D02_STORE4-5=
+
+
+# Graff
+### Instinctively, my finger went to my phone's contact list.
+D02_STORE4-6=
+
+
+# Graff
+### I couldn't let this happen. This was my last chance.
+D02_STORE4-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I called Brok...
+D02_STORE4-8=
+
+
+# Graff
+### ...
+D02_STORE4-9=
+
+
+#----------------------------------------------------
+# Graff
+### Please reply...please!
+D02_STORE5-1=
+
+
+#----------------------------------------------------
+# Graff
+### ...to no avail.
+D02_STORE6-1=
+
+
+# Graff
+### Deep down, I knew this would have been a mistake anyway. The rules prevented it.
+D02_STORE6-2=
+
+
+# Graff
+### But that didn't make me any less angry at him...
+D02_STORE6-3=
+
+
+# Graff
+### ...when I really should have been angry at myself.
+D02_STORE6-4=
+
+
+# Graff
+### It's over...
+D02_STORE6-5=
+
+
+#----------------------------------------------------
+# Graff
+### Ten minutes left.
+D02_STORE7-1=
+
+
+# Graff
+### A familiar voice calling me.
+D02_STORE7-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!
+D02_STORE7-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott! Are you...
+D02_STORE7-4=
+
+
+# Ott
+### Yeah, I'm here to buy my gift.
+D02_STORE7-5=
+
+
+# Ott
+### But...
+D02_STORE7-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### He showed me his phone. 40 Unis.
+D02_STORE7-7=
+
+
+# Graff
+### Looks like he didn't have much more luck than I did.
+D02_STORE7-8=
+
+
+# Graff
+### I instantly felt anger at myself for the relief that I felt at not being the only one.
+D02_STORE7-9=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### There's nothing under 100 Unis.
+D02_STORE7-10=
+
+
+# Ott
+### I'm screwed...
+D02_STORE7-11=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### And so am I. 60 Unis.
+D02_STORE7-12=
+
+
+# Graff
+### We looked at each other. Was this a sign?
+D02_STORE7-13=
+
+
+# Graff
+### If we combined both...
+D02_STORE7-14=
+
+
+#----------------------------------------------------
+# Graff
+### No way!
+D02_STORE7_NEW_REFUSE-1=
+
+
+# Ott
+### Why?
+D02_STORE7_NEW_REFUSE-2=
+
+
+# Ott
+### This is the only option!
+D02_STORE7_NEW_REFUSE-3=
+
+
+# Graff
+### Have you thought about the consequences?
+D02_STORE7_NEW_REFUSE-4=
+
+
+# Graff
+### This would break the rules.
+D02_STORE7_NEW_REFUSE-5=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### But... Graff! There's no time left!
+D02_STORE7_NEW_REFUSE-6=
+
+
+# Ott
+### What other choice do we have?
+D02_STORE7_NEW_REFUSE-7=
+
+
+# Graff
+### Do nothing.
+D02_STORE7_NEW_REFUSE-8=
+
+
+# Ott
+### Be realistic. We'd fail anyway!
+D02_STORE7_NEW_REFUSE-9=
+
+
+# Graff
+### Then so be it.
+D02_STORE7_NEW_REFUSE-10=
+
+
+# Graff
+### This is my decision.
+D02_STORE7_NEW_REFUSE-11=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff... please...
+D02_STORE7_NEW_REFUSE-12=
+
+
+# Graff
+### ...
+D02_STORE7_NEW_REFUSE-13=
+
+
+# Graff
+### I'm sorry.
+D02_STORE7_NEW_REFUSE-14=
+
+
+# Ott
+### Very well.
+D02_STORE7_NEW_REFUSE-15=
+
+
+# Ott
+### I'll trust your judgment.
+D02_STORE7_NEW_REFUSE-16=
+
+
+#----------------------------------------------------
+# Graff
+### That's really the only option.
+D02_STORE7_NEW_AFTER-1=
+
+
+# Ott
+### I agree. Let's do it.
+D02_STORE7_NEW_AFTER-2=
+
+
+# Graff
+### We entered.
+D02_STORE7_NEW_AFTER-3=
+
+
+#----------------------------------------------------
+# Stan
+### Hello, fellas.
+D02_STORE7B-1=
+
+
+# Ott
+### Hi, Stan.
+D02_STORE7B-2=
+
+
+# Graff
+### ...
+D02_STORE7B-3=
+
+
+# Stan
+### What's wrong, kiddo? What's with that funny look on your face?
+D02_STORE7B-4=
+
+
+# Graff
+### I...remember you...
+D02_STORE7B-5=
+
+
+# Ott
+### Oh! That's right!
+D02_STORE7B-6=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, this store! It's where we...
+D02_STORE7B-7=
+
+
+# Stan
+### Meh, I really don't care.
+D02_STORE7B-8=
+
+
+# Stan
+### I'm closing up shop. Snap up something or get out.
+D02_STORE7B-9=
+
+
+# Ott
+### We'll take this.
+D02_STORE7B-10=
+
+
+# Stan
+### Oh, how cute. This piggy looks just like you!
+D02_STORE7B-11=
+
+
+# Stan
+### Well, better looking, actually.
+D02_STORE7B-12=
+
+
+# Ott
+### Hrmph. This is a connected money pig.
+D02_STORE7B-13=
+
+
+# Ott
+### As far as accuracy and efficiency goes, that should fit the bill. Don't you agree?
+D02_STORE7B-14=
+
+
+# Graff
+### We probably could have gone for something more personal, but in our situation...this will do just fine.
+D02_STORE7B-15=
+
+
+# Stan
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### It's just 100 Unis. Real bargain!
+D02_STORE7B-16=
+
+
+# Graff
+### There goes both our money combined...
+D02_STORE7B-17=
+
+
+### (Cash drawer)
+D02_STORE7B-18=
+
+# Stan
+### Thanks, fellas.
+D02_STORE7B-19=
+
+
+# Stan
+### Now, unless you intend to get something else...
+D02_STORE7B-20=
+
+
+# Graff
+### Err, no thanks.
+D02_STORE7B-21=
+
+
+# Stan
+### Then...scram!!!
+D02_STORE7B-22=
+
+
+#----------------------------------------------------
+# Graff
+### Well...it's done.
+D02_STORE8-1=
+
+
+# Graff
+### Did not expect this day to be this stressful...
+D02_STORE8-2=
+
+
+# Ott
+### You tell me.
+D02_STORE8-3=
+
+
+# Ott
+### I'm so hungry I could eat myself...
+D02_STORE8-4=
+
+
+# Graff
+### I know what you mean, but we better get back to the Consc'. We're almost out of time!
+D02_STORE8-5=
+
+
+# Ott
+### I'll run home to pick something up quick, then meet you there.
+D02_STORE8-6=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Thanks again, Graff. Without you, I couldn't have done it!
+D02_STORE8-7=
+
+
+# Graff
+### Don't mention it!
+D02_STORE8-8=
+
+
+#----------------------------------------------------
+

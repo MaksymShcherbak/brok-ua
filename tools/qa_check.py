@@ -408,7 +408,7 @@ def load_file(path, name):
     return rows
 
 
-CORPUS_DIRS = ('UA', 'brok', 'brokvn')  # UA/ = old single-project layout, one dir per site project
+CORPUS_DIRS = ('UA', 'brok', 'brok-vn', 'brokvn', 'brok-natal-tail')  # UA/ = old single-project layout, one dir per site project
 
 
 def corpus_dirs(root):

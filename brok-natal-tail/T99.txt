@@ -1,0 +1,799 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Chiefrat - Dart (Unknown)
+#     Chiefrat - Kins (Unknown)
+#     Chiefrat - Rat (Unknown)
+#     Dart - Chiefrat (Unknown)
+#     Dart - Kins (Unknown)
+#     Guard - Hush (Unknown)
+#     Guard - Mink (Unknown)
+#     Guard - Sin (Unknown)
+#     Guard - Tribotcop (Unknown)
+#     Hush - Guard (Unknown)
+#     Hush - Mink (Unknown)
+#     Hush - Tidy (Unknown)
+#     Kins - Chiefrat (Unknown)
+#     Kins - Dart (Unknown)
+#     Kins - Rat (Unknown)
+#     Mink - Guard (Unknown)
+#     Mink - Hush (Unknown)
+#     Mink - Tribotcop (Unknown)
+#     Nela - RJ (Unknown)
+#     Nela - Sin (Unknown)
+#     Rat - Chiefrat (Unknown)
+#     Rat - Kins (Unknown)
+#     Rat - Wes (Unknown)
+#     RJ - Nela (Unknown)
+#     RJ - Sin (Unknown)
+#     RJ - Tribotcop (Unknown)
+#     RJ - Wes (Unknown)
+#     Sin - Guard (Unknown)
+#     Sin - Nela (Unknown)
+#     Sin - RJ (Unknown)
+#     Tidy - Hush (Unknown)
+#     Tribotcop - Guard (Unknown)
+#     Tribotcop - Mink (Unknown)
+#     Tribotcop - RJ (Unknown)
+#     Tribotcop - Wes (Unknown)
+#     Wes - Rat (Unknown)
+#     Wes - RJ (Unknown)
+#     Wes - Tribotcop (Unknown)
+
+# Kins
+### Hey, Boss!
+D99_ENDSCENE_RATS-1=
+
+
+# Kins
+### How come Reed gets ta sleep on a mattress?! S'no fair!
+D99_ENDSCENE_RATS-2=
+
+
+# Chiefrat
+### What? What's that about?!
+D99_ENDSCENE_RATS-3=
+
+
+# Kins
+### Says he found one under da Pipe Mail.
+D99_ENDSCENE_RATS-4=
+
+
+# Chiefrat
+### So? Ya think it got sent through the Pipe for him?! Ha!
+D99_ENDSCENE_RATS-5=
+
+
+# Kins
+### Well...yeah?
+D99_ENDSCENE_RATS-6=
+
+
+# Chiefrat
+### (Sigh)
+D99_ENDSCENE_RATS-7=
+
+
+# Chiefrat
+### Reed!
+D99_ENDSCENE_RATS-8=
+
+
+# Rat
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### ...yeah, Chief?
+D99_ENDSCENE_RATS-9=
+
+
+# Chiefrat
+### Gimme that.
+D99_ENDSCENE_RATS-10=
+
+
+# Rat
+### What, hey!!!
+D99_ENDSCENE_RATS-11=
+
+
+# Rat
+### Dat's no fair, Boss.
+D99_ENDSCENE_RATS-12=
+
+
+# Rat
+### Ya already got a bed. With sheets and a mattress and everything.
+D99_ENDSCENE_RATS-13=
+
+
+# Chiefrat
+### Me is me, an' all of ya are yous.
+D99_ENDSCENE_RATS-14=
+
+
+# Chiefrat
+### Ya can't be the only guy privileged. That's a source of conflicts.
+D99_ENDSCENE_RATS-15=
+
+
+# Rat
+### But it was left for me!
+D99_ENDSCENE_RATS-16=
+
+
+# Chiefrat
+### Ha ha ha! Oh yeah?! Prove it!
+D99_ENDSCENE_RATS-17=
+
+
+# Rat
+### I...
+D99_ENDSCENE_RATS-18=
+
+
+# Rat
+### Okay, so if all da guys get a mattress, dat'd be okay, right?
+D99_ENDSCENE_RATS-19=
+
+
+# Kins
+### Ha! As if that could happen.
+D99_ENDSCENE_RATS-20=
+
+
+# Dart
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### Hey, Chief!
+D99_ENDSCENE_RATS-21=
+
+
+# Dart
+### There's now a whole lotta mattresses there!
+D99_ENDSCENE_RATS-22=
+
+
+# Chiefrat
+### What the...!
+D99_ENDSCENE_RATS-23=
+
+
+# Rat
+### Dis must be a <col=BLUE>Natal</col> miracle!
+D99_ENDSCENE_RATS-24=
+
+
+#----------------------------------------------------
+# Wes
+### Why the long face, officer?
+D99_ENDSCENE_POLICE-1=
+
+
+# RJ
+### The others. All took vacations for the <col=BLUE>Natal</col> period.
+D99_ENDSCENE_POLICE-2=
+
+
+# RJ
+### The only one left...is me. And you.
+D99_ENDSCENE_POLICE-3=
+
+
+# RJ
+### I always work. Because I'm useful. I love my job.
+D99_ENDSCENE_POLICE-4=
+
+
+# RJ
+### But...it's lonely.
+D99_ENDSCENE_POLICE-5=
+
+
+# Wes
+### Well, let me introduce you to your new colleague.
+D99_ENDSCENE_POLICE-6=
+
+
+# Tribotcop
+### Hello!
+D99_ENDSCENE_POLICE-7=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### A Tribot?!
+D99_ENDSCENE_POLICE-8=
+
+
+# Wes
+### It will assist you well on duty. Way more efficient than any of us humans.
+D99_ENDSCENE_POLICE-9=
+
+
+# RJ
+### Huh...if you say so?
+D99_ENDSCENE_POLICE-10=
+
+
+# Wes
+### Glad to help. I'll get back to my office.
+D99_ENDSCENE_POLICE-11=
+
+
+# RJ
+### You never leave this place, do you?
+D99_ENDSCENE_POLICE-12=
+
+
+# Wes
+### This is the lot of us all in the police.
+D99_ENDSCENE_POLICE-13=
+
+
+# Tribotcop
+### Pleased to meet you. I have work to do. Leaving now.
+D99_ENDSCENE_POLICE-14=
+
+
+# Tribotcop
+### Catch you later, big furry human.
+D99_ENDSCENE_POLICE-15=
+
+
+# RJ
+### ...
+D99_ENDSCENE_POLICE-16=
+
+
+# RJ
+### ...
+D99_ENDSCENE_POLICE-17=
+
+
+### (Phone call)
+D99_ENDSCENE_POLICE-18=
+
+# RJ
+### Oh!
+D99_ENDSCENE_POLICE-19=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin!
+D99_ENDSCENE_POLICE-20=
+
+
+# Sin
+### Hi, my man!
+D99_ENDSCENE_POLICE-21=
+
+
+# Sin
+### Wait, are you still at the police department? This late on <col=BLUE>Natal</col> week?!
+D99_ENDSCENE_POLICE-22=
+
+
+# RJ
+### Yeah...
+D99_ENDSCENE_POLICE-23=
+
+
+# Sin
+### We'd love to have you at our home for a special evening!
+D99_ENDSCENE_POLICE-24=
+
+
+# RJ
+### We?
+D99_ENDSCENE_POLICE-25=
+
+
+# Sin
+### Me and the two loves of my life, of course!
+D99_ENDSCENE_POLICE-26=
+
+
+# Nela
+### Girl voice (Hi, mister big bear! You're so cute!)
+D99_ENDSCENE_POLICE-27=
+
+
+# RJ
+### Oh! Hello, lil' one!
+D99_ENDSCENE_POLICE-28=
+
+
+# Nela
+### Girl voice (I wanna cuddle him like my teddy bear! Can I, can I, Daddy?)
+D99_ENDSCENE_POLICE-29=
+
+
+# Sin
+### Oh, Honey! He'll be our guest! You don't cuddle guests!
+D99_ENDSCENE_POLICE-30=
+
+
+# Sin
+### See, you really have to come now or you'll make a little girl reaaally sad.
+D99_ENDSCENE_POLICE-31=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### But...I said to the Chief...
+D99_ENDSCENE_POLICE-32=
+
+
+# Sin
+### Come on, man! This will be fun!
+D99_ENDSCENE_POLICE-33=
+
+
+# Sin
+### We'll have dinner, a lot of drinks, and we've got a gift for you!
+D99_ENDSCENE_POLICE-34=
+
+
+# RJ
+### Deal!
+D99_ENDSCENE_POLICE-35=
+
+
+# RJ
+### Thanks, man! You're my best friend!
+D99_ENDSCENE_POLICE-36=
+
+
+# Sin
+### Same!
+D99_ENDSCENE_POLICE-37=
+
+
+#----------------------------------------------------
+# Guard
+### Hey, guys!
+D99_ENDSCENE_LAB-1=
+
+
+# Guard
+### Come here! Got something to tell ya!
+D99_ENDSCENE_LAB-2=
+
+
+# Guard
+### ...
+D99_ENDSCENE_LAB-3=
+
+
+### (Presses button)
+D99_ENDSCENE_LAB-4=
+
+# Tribotcop
+### <font=emergency>Emergency. Contamination in the lab.</font>
+D99_ENDSCENE_LAB-5=
+
+
+# Tribotcop
+### <font=emergency>All personnel must exit immediately.</font>
+D99_ENDSCENE_LAB-6=
+
+
+# Mink
+### What?! What's going on!
+D99_ENDSCENE_LAB-7=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
+### You again, Mink? What have you done this time?!
+D99_ENDSCENE_LAB-8=
+
+
+# Guard
+### Hey, hey! Calm down! Everything's fine!
+D99_ENDSCENE_LAB-9=
+
+
+# Hush
+### Surely, you don't mean...
+D99_ENDSCENE_LAB-10=
+
+
+# Guard
+### Just needed your attention.
+D99_ENDSCENE_LAB-11=
+
+
+# Hush
+### Toying with the Government instruments, I see. I'll add this to your annual report.
+D99_ENDSCENE_LAB-12=
+
+
+# Guard
+### I wouldn't have to if you two would listen to me!
+D99_ENDSCENE_LAB-13=
+
+
+# Hush
+### So...what do you want?
+D99_ENDSCENE_LAB-14=
+
+
+# Guard
+### Ever heard of this new trendy thing?
+D99_ENDSCENE_LAB-15=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### <col=BOLD>Natal Tail</col>?
+D99_ENDSCENE_LAB-16=
+
+
+# Guard
+### Well, I brought all kinds of decorations I made myself at home!
+D99_ENDSCENE_LAB-17=
+
+
+# Mink
+### Is that why you're interrupting our working process?
+D99_ENDSCENE_LAB-18=
+
+
+# Mink
+### Do you realize how much precious time I'll be losing by having my brain readjust?!
+D99_ENDSCENE_LAB-19=
+
+
+# Guard
+### Yeah, yeah. Ask the Government to take it off my salary.
+D99_ENDSCENE_LAB-20=
+
+
+# Guard
+### Just look!
+D99_ENDSCENE_LAB-21=
+
+
+# Mink
+### ...
+D99_ENDSCENE_LAB-22=
+
+
+# Mink
+### They're...erm...
+D99_ENDSCENE_LAB-23=
+
+
+# Hush
+### Rubbish?
+D99_ENDSCENE_LAB-24=
+
+
+# Guard
+### Aww...I did my best.
+D99_ENDSCENE_LAB-25=
+
+
+# Mink
+### I can improve these! With some neon thermoplasma bulbs, I could transform them to be see-through walls!
+D99_ENDSCENE_LAB-26=
+
+
+# Guard
+### Err...what?
+D99_ENDSCENE_LAB-27=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Tidy, please install those garlands before we regret it.
+D99_ENDSCENE_LAB-28=
+
+
+# Tidy
+### Yup-yup!
+D99_ENDSCENE_LAB-29=
+
+
+# Tidy
+### Starting the hanging process!
+D99_ENDSCENE_LAB-30=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
+### Good Tidy!
+D99_ENDSCENE_LAB-31=
+
+
+# Guard
+### And that's not all.
+D99_ENDSCENE_LAB-32=
+
+
+# Guard
+### Got gifts for ya, guys!
+D99_ENDSCENE_LAB-33=
+
+
+# Mink
+### You mean...
+D99_ENDSCENE_LAB-34=
+
+
+# Mink
+### You are going to give me...a present?!
+D99_ENDSCENE_LAB-35=
+
+
+# Guard
+### Yeah. That's the spirit of this new thing.
+D99_ENDSCENE_LAB-36=
+
+
+# Guard
+### Here.
+D99_ENDSCENE_LAB-37=
+
+
+# Mink
+### That's...
+D99_ENDSCENE_LAB-38=
+
+
+# Mink
+### I...
+D99_ENDSCENE_LAB-39=
+
+
+# Guard
+### Well, if you're at a loss for words, that means I did it right!
+D99_ENDSCENE_LAB-40=
+
+
+# Guard
+### This one's for you, Dr Hush.
+D99_ENDSCENE_LAB-41=
+
+
+# Hush
+### Thank you so much, lad!
+D99_ENDSCENE_LAB-42=
+
+
+# Hush
+### ...
+D99_ENDSCENE_LAB-43=
+
+
+# Hush
+### These are nice...socks.
+D99_ENDSCENE_LAB-44=
+
+
+# Guard
+### I noticed you always wore the same ones!
+D99_ENDSCENE_LAB-45=
+
+
+# Hush
+### Well, thanks for...paying attention...
+D99_ENDSCENE_LAB-46=
+
+
+# Hush
+### I'm sorry. I don't have a gift for you.
+D99_ENDSCENE_LAB-47=
+
+
+# Mink
+### Erm...
+D99_ENDSCENE_LAB-48=
+
+
+# Mink
+### I...I have.
+D99_ENDSCENE_LAB-49=
+
+
+# Guard
+### You have what?
+D99_ENDSCENE_LAB-50=
+
+
+# Mink
+### A gift. For...you.
+D99_ENDSCENE_LAB-51=
+
+
+# Guard
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
+### Mink?...You made me a gift?!
+D99_ENDSCENE_LAB-52=
+
+
+# Guard
+### For real?!
+D99_ENDSCENE_LAB-53=
+
+
+# Mink
+### ...yes.
+D99_ENDSCENE_LAB-54=
+
+
+# Mink
+### I was waiting for the right moment.
+D99_ENDSCENE_LAB-55=
+
+
+# Guard
+### Oh my...you wrapped it perfectly!
+D99_ENDSCENE_LAB-56=
+
+
+# Guard
+### How?!
+D99_ENDSCENE_LAB-57=
+
+
+# Mink
+### Well, I set up a new procedural model for my nanobots specifically trained on videos of packaging.
+D99_ENDSCENE_LAB-58=
+
+
+# Mink
+### This took a few days and used 60% of the energy allocated for the lab this month, but the result is magnificent!
+D99_ENDSCENE_LAB-59=
+
+
+# Hush
+### You did WHAT?!
+D99_ENDSCENE_LAB-60=
+
+
+# Mink
+### I needed a test subject to give this to, and Hush is out of question. So that only leaves you.
+D99_ENDSCENE_LAB-61=
+
+
+# Guard
+### I...I...
+D99_ENDSCENE_LAB-62=
+
+
+# Mink
+### Oh! You're at a loss for words too!
+D99_ENDSCENE_LAB-63=
+
+
+# Mink
+### The experiment is a success! In your face, Hush!
+D99_ENDSCENE_LAB-64=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Dr. Hush": "д-р Гаш"
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
+### That's Dr. Hush to you. And this is no competition, Dr. Mink.
+D99_ENDSCENE_LAB-65=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
+### Look what you've done to our poor Guard. He's crying.
+D99_ENDSCENE_LAB-66=
+
+
+# Mink
+### Huh?!
+D99_ENDSCENE_LAB-67=
+
+
+# Guard
+### I've...never gotten an actual present before...
+D99_ENDSCENE_LAB-68=
+
+
+# Guard
+### THAAAAANK YOOOOOOU!!!
+D99_ENDSCENE_LAB-69=
+
+
+# Mink
+### Woah!
+D99_ENDSCENE_LAB-70=
+
+
+# Mink
+### Please don't kill me!
+D99_ENDSCENE_LAB-71=
+
+
+# Hush
+# NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
+### Mink. He's hugging you.
+D99_ENDSCENE_LAB-72=
+
+
+# Mink
+### Oh...
+D99_ENDSCENE_LAB-73=
+
+
+# Mink
+### I mean...OH!
+D99_ENDSCENE_LAB-74=
+
+
+# Mink
+### That's...
+D99_ENDSCENE_LAB-75=
+
+
+# Mink
+### That's nice, actually.
+D99_ENDSCENE_LAB-76=
+
+
+# Hush
+### Now, how about you two actually open your pres...
+D99_ENDSCENE_LAB-77=
+
+
+# Mink
+### NO!
+D99_ENDSCENE_LAB-78=
+
+
+# Guard
+### NO!
+D99_ENDSCENE_LAB-79=
+
+
+# Hush
+### Then what was the point?!
+D99_ENDSCENE_LAB-80=
+
+
+# Mink
+### You're just clueless as always, Hush.
+D99_ENDSCENE_LAB-81=
+
+
+# Hush
+### I give up.
+D99_ENDSCENE_LAB-82=
+
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Be sure to check out the main game this is based on, <col=BOLD>BROK the InvestiGator</col>.
+D99_CREDITS_AFTER-1=
+
+### Share the word about this little Christmas tale with your friends. Posting a review/rating helps too!
+D99_CREDITS_AFTER-2=
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### And if you enjoyed this, feel free to <col=BOLD>donate</col> a little something! It will be used to make new BROK projects, and you'll get <col=BOLD>15 digital postcards</col> to send to your family and friends.
+D99_CREDITS_AFTER2-1=
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### By the way, this game was entirely made with the <col=BOLD>BROKVN</col> engine. Did you know you can make your own BROK adventures with it? (and more!)
+D99_CREDITS_AFTER_VNENGINE-1=
+
+### It's simple and you don't need any programming knowledge to start with it. Check it out!
+D99_CREDITS_AFTER_VNENGINE-2=
+
+#----------------------------------------------------
+### You have unlocked <col=BOLD>15 postcards</col> in the extras gallery!
+D99_CREDITS_CONSOLEPOSTCARDS-1=
+
+### If you'd like to print them, you can download them on our website by scanning this QR code.
+D99_CREDITS_CONSOLEPOSTCARDS-2=
+
+#----------------------------------------------------
+

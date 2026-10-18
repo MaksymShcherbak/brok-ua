@@ -10,13 +10,13 @@ The unofficial project lead and the owner of this repository is **Maksym Shcherb
 | :------------------------------------- | :--------- | :--------- | :----------------------------- |
 | **Brok: The Investigator (main game)** | 30.06.2026 | 18.10.2026 | Completed                      |
 | **BrokVN**                             | 18.10.2026 | 18.10.2026 | Completed                      |
-| **Natal Tail**                         | —          | —          | Ongoing                        |
+| **Natal Tail**                         | 18.10.2026 | —          | Ongoing                        |
 | **First Hat**                          | —          | —          | Planned                        |
 | **Celsius Strays**                     | —          | —          | Planned (Unknown date)         |
 | **Demetrios**                          | —          | —          | Not planned (at least for now) |
 | **LarsGadiel**                         | —          | —          | Not planned                    |
 
-## Pages
+## Pages 📄
 
 | Language  | File                                | Description                            |
 | --------- | ----------------------------------- | -------------------------------------- |

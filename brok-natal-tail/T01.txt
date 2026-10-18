@@ -1,0 +1,2728 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Graff (Unknown)
+#     Bunnykid - Director (Unknown)
+#     Bunnykid - Graff (Unknown)
+#     Bunnykid - Klay (Unknown)
+#     Bunnykid - Ott (Unknown)
+#     Clint - Graff (Unknown)
+#     Clint - Nela (Unknown)
+#     Director - Bunnykid (Unknown)
+#     Director - Foxkid (Unknown)
+#     Director - Graff (Unknown)
+#     Director - Klay (Unknown)
+#     Director - Ott (Unknown)
+#     Flower - Graff (Unknown)
+#     Flower - Hippo (Unknown)
+#     Flower - Redpanda (Unknown)
+#     Flower - RJ (Unknown)
+#     Foxkid - Director (Unknown)
+#     Foxkid - Klay (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Bunnykid (Unknown)
+#     Graff - Clint (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Flower (Unknown)
+#     Graff - Hacker (Unknown)
+#     Graff - Hippo (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Nela (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - RJ (Unknown)
+#     Graff - Unknown (Unknown)
+#     Hacker - Graff (Unknown)
+#     Hippo - Flower (Unknown)
+#     Hippo - Graff (Unknown)
+#     Klay - Bunnykid (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Foxkid (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Ott (Unknown)
+#     Nela - Clint (Unknown)
+#     Nela - Graff (Unknown)
+#     Ott - Bunnykid (Unknown)
+#     Ott - Director (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Klay (Unknown)
+#     Redpanda - Flower (Unknown)
+#     RJ - Flower (Unknown)
+#     RJ - Graff (Unknown)
+#     Unknown - Graff (Unknown)
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### My name is Graff Filsh.<wait=60> I'm a cat, and I'm 15 years old.
+D01_START-1=
+
+
+# Graff
+### I always try my best...although I'm often depressed.<wait=60> Even compared to your average teenager.
+D01_START-2=
+
+
+# Graff
+### Doing your best isn't always enough.<wait=60> Life constantly gets in the way.
+D01_START-3=
+
+
+# Graff
+### That's what I feel, at least,<wait=30> having already lost both my parents.
+D01_START-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### So, I'm an orphan...or I would be,<wait=30> if not for that weird, reptile,<wait=30> "investigator" named Brok.
+D01_START-5=
+
+
+# Graff
+### He's cool enough, I guess.<wait=30> As far as legal guardians go.
+D01_START-6=
+
+
+# Graff
+### However...
+D01_START-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'm at least thankful to study at the coveted Consciousness Center in the Slums.
+D01_START-8=
+
+
+# Graff
+### ...
+D01_START-9=
+
+
+# Graff
+### Wait.
+D01_START-10=
+
+
+# Graff
+### Why am I thinking of studies...?
+D01_START-11=
+
+
+# Graff
+### Why can't I have a nice dream for once...
+D01_START-12=
+
+
+# Graff
+### Why is it always about...
+D01_START-13=
+
+
+# Unknown
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hey, Graff!<wait=60> Wake up!
+D01_START-14=
+
+
+#----------------------------------------------------
+# Graff
+### ...oh.
+D01_START2-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Hi, Ott.
+D01_START2-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hey, Graff. Stayed up last night, right?
+D01_START2-3=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Ott is a warthog-otter.)
+D01_START2_NEW-1=
+
+
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### (Half-breeds are rare in Atlasia. They say only one in a thousand births.)
+D01_START2_NEW-2=
+
+### (We've known each other for a few years now.)
+D01_START2_NEW-3=
+
+### (I consider him my...)
+D01_START2_NEW-4=
+
+#----------------------------------------------------
+# Graff
+### (Yeah! Definitely.)
+D01_START2_NEW_BESTFRIEND-1=
+
+
+### (Everyone thinks he's ugly...but he's always been kind to me.)
+D01_START2_NEW_BESTFRIEND-2=
+
+### (We help each other out with homework, and after class we hang out to play games and talk.)
+D01_START2_NEW_BESTFRIEND-3=
+
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### (Pretty much what you'd expect from two Consciousness Center friends.)
+D01_START2_NEW_BESTFRIEND-4=
+
+#----------------------------------------------------
+### (Oh man. I despise him so much.)
+D01_START2_NEW_WORSTENEMY-1=
+
+### (He keeps getting on my nerves with his superior attitude and flawless grades...)
+D01_START2_NEW_WORSTENEMY-2=
+
+### (I swear, someday I'm gonna smack his snoot so hard he'll finally have a real reason to cry for his bot mama!...)
+D01_START2_NEW_WORSTENEMY-3=
+
+### (Wait... what am I saying?...)
+D01_START2_NEW_WORSTENEMY-4=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (That's Klay! Not Ott!)
+D01_START2_NEW_WORSTENEMY-5=
+
+### (Am I mixing them up somehow?...)
+D01_START2_NEW_WORSTENEMY-6=
+
+### (Clearly, I'm sleep deprived...)
+D01_START2_NEW_WORSTENEMY-7=
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### (We face hardships constantly in the Slums, but there's one thing I know...)
+D01_START2_NEW_GUARDIANANGEL-1=
+
+### (He's always there for me...)
+D01_START2_NEW_GUARDIANANGEL-2=
+
+### (And the same goes the other way around, actually. I guess we're each other's guardian angels?)
+D01_START2_NEW_GUARDIANANGEL-3=
+
+### (Wow. Pretty deep thoughts for so early in the morning.)
+D01_START2_NEW_GUARDIANANGEL-4=
+
+#----------------------------------------------------
+# Graff
+### (I can't help but feel sorry for him.)
+D01_START2_NEW_POORTHING-1=
+
+
+### (Not only must he feel so lonely, with his genetic anomaly being so rare...)
+D01_START2_NEW_POORTHING-2=
+
+### (But everyone avoids his gaze. He's physically unable to stand up for himself.)
+D01_START2_NEW_POORTHING-3=
+
+### (He's the little runt of his family...)
+D01_START2_NEW_POORTHING-4=
+
+### (Somehow, I feel the same way... maybe that's why I feel connected to him.)
+D01_START2_NEW_POORTHING-5=
+
+#----------------------------------------------------
+# Graff
+### (!...)
+D01_START2_NEW_LOVER-1=
+
+
+# Graff
+### ...
+D01_START2_NEW_LOVER-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### You okay, Graff?
+D01_START2_NEW_LOVER-3=
+
+
+# Ott
+### Lemme guess. Knowing you, I'd say you're dreading this special day.
+D01_START2_NEW_LOVER-4=
+
+
+# Graff
+### Uh... Well...
+D01_START2_NEW_LOVER-5=
+
+
+#----------------------------------------------------
+### (Oh yes.)
+D01_START2_NEW_DELICIOUSCAKE-1=
+
+### (An irresistible cinnamon roll...)
+D01_START2_NEW_DELICIOUSCAKE-2=
+
+### (A golden crust swirled with gooey cinnamon-sugar, melting into every bite... topped with sweet, creamy icing that melts on my tongue...)
+D01_START2_NEW_DELICIOUSCAKE-3=
+
+### (...)
+D01_START2_NEW_DELICIOUSCAKE-4=
+
+### (I... really shouldn't have skipped breakfast this morning...)
+D01_START2_NEW_DELICIOUSCAKE-5=
+
+#----------------------------------------------------
+# Graff
+### Good guess.
+D01_START2_NEW_AFTER1-1=
+
+
+# Graff
+### It's so crowded. Looks like the whole class is here.
+D01_START2_NEW_AFTER1-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### Yep. The director is about to make an announcement.
+D01_START2_NEW_AFTER1-3=
+
+
+# Ott
+### Too bad there's only four chairs. Everyone else has to stand up!
+D01_START2_NEW_AFTER1-4=
+
+
+# Graff
+### We're sooo privileged.
+D01_START2_NEW_AFTER1-5=
+
+
+# Ott
+### We would be, if HE wasn't in our group.
+D01_START2_NEW_AFTER1-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay?
+D01_START2_NEW_AFTER1-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### Easy to pull strings when you're the Director's only son.
+D01_START2_NEW_AFTER1-8=
+
+
+# Ott
+### Still. That shouldn't stop him from being nicer.
+D01_START2_NEW_AFTER1-9=
+
+
+# Graff
+### Better avoid contact with him.
+D01_START2_NEW_AFTER1-10=
+
+
+# Klay
+### Hey, I'll pretend I didn't hear you guys.
+D01_START2_NEW_AFTER1-11=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### Well, the others aren't following the specific courses to become Drumers.
+D01_START2_NEW_AFTER1-12=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### I don't get it. Who wouldn't want the opportunity to live safe under the dome instead of this...
+D01_START2_NEW_AFTER1-13=
+
+
+# Graff
+### This...
+D01_START2_NEW_AFTER1-14=
+
+
+# Ott
+### Crappy land?
+D01_START2_NEW_AFTER1-15=
+
+
+# Graff
+### Pretty much.
+D01_START2_NEW_AFTER1-16=
+
+
+# Klay
+### Hey, since when are you two so based?!
+D01_START2_NEW_AFTER1-17=
+
+
+# Graff
+### I thought you were pretending not to hear us?
+D01_START2_NEW_AFTER1-18=
+
+
+# Ott
+### We won't be stuck here that much longer. Just a few more months...and we'll finally have our place!
+D01_START2_NEW_AFTER1-19=
+
+
+# Graff
+### Hopefully.
+D01_START2_NEW_AFTER1-20=
+
+
+# Ott
+### Oh, come on. Show some enthusiasm! Your evaluations are consistently great!
+D01_START2_NEW_AFTER1-21=
+
+
+# Ott
+### Better than mine, anyway...
+D01_START2_NEW_AFTER1-22=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### You'll pass, Ott.
+D01_START2_NEW_AFTER1-23=
+
+
+# Ott
+### You can't know that.
+D01_START2_NEW_AFTER1-24=
+
+
+# Graff
+### I know you.
+D01_START2_NEW_AFTER1-25=
+
+
+# Ott
+### ...
+D01_START2_NEW_AFTER1-26=
+
+
+# Bunnykid
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### Shut up, guys! The Director is here!
+D01_START2_NEW_AFTER1-27=
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### Dear students of Consciousness Center S1.
+D01_START3-1=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### As you know, tomorrow is <col=BLUE>Natal Untail</col>. The supreme holiday of Atlasia.
+D01_START3-2=
+
+
+# Director
+### Celebrating our traditions is important in our society.
+D01_START3-3=
+
+
+# Director
+### It is a mark of your integration, and proof of your desire to combine your skills into a unified whole. The collective intelligence.
+D01_START3-4=
+
+
+# Director
+### Therefore, it has been decided that this year would be special.
+D01_START3-5=
+
+
+# Foxkid
+### Special? How?
+D01_START3-6=
+
+
+# Director
+### You will be evaluated on your perform...
+D01_START3-7=
+
+
+### (Jabber...should have seen it coming...)
+D01_START3-8=
+
+# Director
+### <font=emergency>SILENCE!</font>
+D01_START3-9=
+
+
+# Ott
+### (Ouch, my ears!)
+D01_START3-10=
+
+
+# Graff
+### (Good thing she doesn't use that shriek often...)
+D01_START3-11=
+
+
+# Director
+### As I was saying, you will be evaluated to ensure the proper execution of the celebration.
+D01_START3-12=
+
+
+# Director
+### Do not worry! Only a score of zero on your evaluation would get you eliminated.
+D01_START3-13=
+
+
+# Graff
+### ...
+D01_START3-14=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### Let me remind you the grand meaning of <col=BLUE>Natal Untail</col>.
+D01_START3-15=
+
+
+# Director
+### Efficiency, accuracy, and individuality. These are the three words you should strive for.
+D01_START3-16=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### Starting from teen age and until adult age, on <col=BLUE>Natal Untail</col> day, you must earn enough to pay for one item.
+D01_START3-17=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Your money, or more precisely, your Unis accounts, are reset to zero. Parent and friend transfers are strictly controlled.
+D01_START3-18=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### It can't be relatives of your Consciousness Center friends, either.
+D01_START3-19=
+
+
+# Foxkid
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Too bad for you, Klay! No cheating this time.
+D01_START3-20=
+
+
+# Klay
+### Tsk. I don't need that!
+D01_START3-21=
+
+
+# Director
+### Terry.
+D01_START3-22=
+
+
+# Foxkid
+### Sorry...
+D01_START3-23=
+
+
+# Director
+### This single item must be a precious gift to yourself.
+D01_START3-24=
+
+
+# Director
+### The best gift you could ever want, with a value within the limits of what you've earned.
+D01_START3-25=
+
+
+# Director
+### This tradition allows you a preliminary experience to find your usefulness in society.
+D01_START3-26=
+
+
+# Director
+### Your motivation to earn something good should shine through your work.
+D01_START3-27=
+
+
+# Bunnykid
+### What if I don't need anything?
+D01_START3-28=
+
+
+# Director
+### This is good. Sparing earth's resources will always be rewarded...
+D01_START3-29=
+
+
+# Bunnykid
+### Easy peasy! Loophole found.
+D01_START3-30=
+
+
+# Director
+### ...except during this special day.
+D01_START3-31=
+
+
+# Bunnykid
+### Darn.
+D01_START3-32=
+
+
+# Director
+### Everyone needs something. Listen to your inner self.
+D01_START3-33=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### In ancient times, citizens celebrated <col=BLUE>Natal Untail</col> in a very different fashion.
+D01_START3-34=
+
+
+# Director
+### They purchased presents for family and friends.
+D01_START3-35=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Meety-Me": "Голограф"
+### From a flower pot to a new Meety-Me system...anything physical could serve as a present.
+D01_START3-36=
+
+
+# Director
+### They also spent countless amounts of valuable energy on lighting for decorations. The direct benefits on humans were vastly underwhelming when put into relation with their immense waste of energy.
+D01_START3-37=
+
+
+# Director
+### While good for the economy, it contributed to further degradation of the planet. And we suffer the effects to this very day.
+D01_START3-38=
+
+
+# Director
+### Our land cannot afford us being irresponsible anymore.
+D01_START3-39=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### (Yeah, right...as if the Drumers aren't still wasting resources buying stupid things...)
+D01_START3-40=
+
+
+# Director
+### Finally, the big family and friend reunions they organized often resulted in arguments.
+D01_START3-41=
+
+
+# Director
+### What started as a moment of joy ended all too often in depression and break-ups.
+D01_START3-42=
+
+
+# Director
+### A few centuries ago, the tradition was in danger of being abandoned altogether.
+D01_START3-43=
+
+
+# Director
+### The government in-place decided to make substantial changes to accomodate the current situation of the country, and rectified every aspect.
+D01_START3-44=
+
+
+# Director
+### Now, it was focused on the individual self and real needs. More suitable, both for you and your environment.
+D01_START3-45=
+
+
+# Director
+### Is that clear to all of you?
+D01_START3-46=
+
+
+#----------------------------------------------------
+# Graff
+### Erm...
+D01_START3_NEW_YES-1=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Yes, Graff?
+D01_START3_NEW_YES-2=
+
+
+#----------------------------------------------------
+# Graff
+### I...erm...
+D01_START3_NEW2_STUTTER-1=
+
+
+# Graff
+### Ha...
+D01_START3_NEW2_STUTTER-2=
+
+
+# Director
+### Please be clearer.
+D01_START3_NEW2_STUTTER-3=
+
+
+# Graff
+### But...I...
+D01_START3_NEW2_STUTTER-4=
+
+
+# Graff
+### Well...
+D01_START3_NEW2_STUTTER-5=
+
+
+# Director
+### Minus 10 points for wasting the entire class's time.
+D01_START3_NEW2_STUTTER-6=
+
+
+# Graff
+### Sigh...
+D01_START3_NEW2_STUTTER-7=
+
+
+# Klay
+### Wow! You're even worse than usual.
+D01_START3_NEW2_STUTTER-8=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay is going to cheat!
+D01_START3_NEW2_BLAMEKLAY-1=
+
+
+# Klay
+### The heck?!
+D01_START3_NEW2_BLAMEKLAY-2=
+
+
+# Director
+### Do you have any proof, or is this just a baseless assumption?
+D01_START3_NEW2_BLAMEKLAY-3=
+
+
+# Graff
+### He's your son! He always does!
+D01_START3_NEW2_BLAMEKLAY-4=
+
+
+# Director
+### ...
+D01_START3_NEW2_BLAMEKLAY-5=
+
+
+# Graff
+### But it's true! Come on, everyone, you know I'm right!
+D01_START3_NEW2_BLAMEKLAY-6=
+
+
+# Ott
+### ...
+D01_START3_NEW2_BLAMEKLAY-7=
+
+
+### The whole class: ...
+D01_START3_NEW2_BLAMEKLAY-8=
+
+# Director
+### Minus 20 points for making false accusations.
+D01_START3_NEW2_BLAMEKLAY-9=
+
+
+# Graff
+### ...
+D01_START3_NEW2_BLAMEKLAY-10=
+
+
+#----------------------------------------------------
+# Graff
+### I appreciated the explanation. It was very clear, concise, and I cherished every word.
+D01_START3_NEW2_COMPLIMENT-1=
+
+
+# Graff
+### Thank you, professor!
+D01_START3_NEW2_COMPLIMENT-2=
+
+
+# Director
+### How nice!
+D01_START3_NEW2_COMPLIMENT-3=
+
+
+# Director
+### However, your obvious attempt to manipulate the review process has been duly noted.
+D01_START3_NEW2_COMPLIMENT-4=
+
+
+# Director
+### Minus 5 points.
+D01_START3_NEW2_COMPLIMENT-5=
+
+
+# Graff
+### But... but!...
+D01_START3_NEW2_COMPLIMENT-6=
+
+
+# Klay
+### ...
+D01_START3_NEW2_COMPLIMENT-7=
+
+
+# Graff
+### Stop it right now.
+D01_START3_NEW2_COMPLIMENT-8=
+
+
+# Klay
+### Who, me? I didn't say anything!
+D01_START3_NEW2_COMPLIMENT-9=
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### So! You have until tomorrow evening to earn Unis through labor.
+D01_START3_NEW_AFTER-1=
+
+
+# Director
+### No friends or family involved. Find your own job today.
+D01_START3_NEW_AFTER-2=
+
+
+# Director
+### Then, buy yourself the best gift you can think of.
+D01_START3_NEW_AFTER-3=
+
+
+# Director
+### Please read and respect the rules. A copy has been sent to your phones.
+D01_START3_NEW_AFTER-4=
+
+
+# Director
+### Disqualification could result in your eviction. It is not worth trying to cheat the system.
+D01_START3_NEW_AFTER-5=
+
+
+# Director
+### Again, keep in mind: accuracy, efficiency and individuality. It must be something personal and useful to you.
+D01_START3_NEW_AFTER-6=
+
+
+#----------------------------------------------------
+# Director
+### Any questions?
+D01_START_END-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Can we access the Drums to find a job or purchase the gift?
+D01_START_END-2=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Sorry. Only the Slums.
+D01_START_END-3=
+
+
+# Ott
+### Of course...
+D01_START_END-4=
+
+
+# Director
+### Anyone else?
+D01_START_END-5=
+
+
+# Director
+### Good. We'll meet again here in the evening.
+D01_START_END-6=
+
+
+# Director
+### Students, please leave the facility now.
+D01_START_END-7=
+
+
+#----------------------------------------------------
+# Graff
+### Great. With everything that's been happening lately, I don't have a clue where to even look for a job.
+D01_START_END2-1=
+
+
+# Ott
+### Same for me, really...We have a bad leak from the rain storm yesterday.
+D01_START_END2-2=
+
+
+# Ott
+### I was supposed to help Mom and Dad fix it, but...
+D01_START_END2-3=
+
+
+# Graff
+### ...studies are the priority.
+D01_START_END2-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I could tell Brok to come help.
+D01_START_END2-5=
+
+
+# Ott
+### Naaah, you know my dad. He's too proud to have help.
+D01_START_END2-6=
+
+
+# Klay
+### Bye, suckers.
+D01_START_END2-7=
+
+
+# Bunnykid
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Where are you going, Klay?
+D01_START_END2-8=
+
+
+# Bunnykid
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Just so I know what corner of the Slums to avoid.
+D01_START_END2-9=
+
+
+# Klay
+### Then it'll be my pleasure to not tell you.
+D01_START_END2-10=
+
+
+# Bunnykid
+### Urgh.
+D01_START_END2-11=
+
+
+# Graff
+### Typical.
+D01_START_END2-12=
+
+
+# Graff
+### Hey, how about going together?
+D01_START_END2-13=
+
+
+# Ott
+### Sorry, the rules are clear. We need to do this on our own.
+D01_START_END2-14=
+
+
+# Ott
+### Besides, I'm still worried about our apartment, so I was gonna stop there first anyway.
+D01_START_END2-15=
+
+
+# Graff
+### Alright.
+D01_START_END2-16=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Later, Ott!
+D01_START_END2-17=
+
+
+#----------------------------------------------------
+# Graff
+### ...
+D01_APARTMENT1-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Zero Uni...
+D01_APARTMENT1-2=
+
+
+#----------------------------------------------------
+# Graff
+### Huh. Guess I zoned out...I'm already back at my apartment.
+D01_APARTMENT2-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ads": "Реклами"
+### Let's see those ads.
+D01_APARTMENT2-2=
+
+
+# Graff
+### "Looking for a trash collector and residue cleaner at the old structure..."
+D01_APARTMENT2-3=
+
+
+# Graff
+### Urgh, no.
+D01_APARTMENT2-4=
+
+
+# Graff
+### "Hairdresser assistant."
+D01_APARTMENT2-5=
+
+
+# Graff
+### That one's too far...and this one...
+D01_APARTMENT2-6=
+
+
+### (Door opens)
+D01_APARTMENT2-7=
+
+# Brok
+### Ooof!
+D01_APARTMENT2-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok!!! Watch out! You almost ran me over!
+D01_APARTMENT2-9=
+
+
+# Brok
+### Sorry! Thought you were at school.
+D01_APARTMENT2-10=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### Not school. Consciousness Center.
+D01_APARTMENT2-11=
+
+
+# Brok
+### Yeah, yeah. What'chya doin' here?
+D01_APARTMENT2-12=
+
+
+# Graff
+### What day is it?
+D01_APARTMENT2-13=
+
+
+# Brok
+### Huh?...
+D01_APARTMENT2-14=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### Oh! Yeah... That thing for narcissistic Drumers.
+D01_APARTMENT2-15=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### <col=BLUE>Natal Untail</col> isn't narcissistic, and it's for everyone.
+D01_APARTMENT2-16=
+
+
+# Graff
+### The goal is to elevate ourselves in society and respect the land we've been...
+D01_APARTMENT2-17=
+
+
+# Brok
+### You're smart, son. Don't buy into that crap.
+D01_APARTMENT2-18=
+
+
+# Graff
+### ...
+D01_APARTMENT2-19=
+
+
+# Brok
+### Aaaanyway, gotta fly. That door won't fix itself, and I'm already late so my client's gonna kill me...
+D01_APARTMENT2-20=
+
+
+# Brok
+### Wanna come?
+D01_APARTMENT2-21=
+
+
+# Graff
+### We're supposed to find our job by ourselves...
+D01_APARTMENT2-22=
+
+
+# Brok
+### You can always keep me company on the road.
+D01_APARTMENT2-23=
+
+
+# Brok
+### Nothing like going out in the streets to land a gig. Keep both of your feline eyes wide open!
+D01_APARTMENT2-24=
+
+
+# Graff
+### Alright.
+D01_APARTMENT2-25=
+
+
+#----------------------------------------------------
+# Graff
+### (Sigh)
+D01_OUTSIDE1-1=
+
+
+# Brok
+### What's wrong?
+D01_OUTSIDE1-2=
+
+
+# Graff
+### Dunno...I have the shivers.
+D01_OUTSIDE1-3=
+
+
+# Brok
+### It's getting colder this season. Well, sort of.
+D01_OUTSIDE1-4=
+
+
+# Brok
+### Hey, maybe we'll get snow this year!
+D01_OUTSIDE1-5=
+
+
+# Graff
+### Snow?...
+D01_OUTSIDE1-6=
+
+
+# Brok
+### You don't remember?
+D01_OUTSIDE1-7=
+
+
+# Brok
+### Once in a while, when the temperature gets low enough, water particles in the air change into ice.
+D01_OUTSIDE1-8=
+
+
+# Brok
+### Then they fall from the sky, forming little crystals that pile up into white powder.
+D01_OUTSIDE1-9=
+
+
+# Graff
+### Sounds like sand rains.
+D01_OUTSIDE1-10=
+
+
+# Brok
+### Yeah, but less threatening! And much prettier.
+D01_OUTSIDE1-11=
+
+
+# Graff
+### I...would love to see that.
+D01_OUTSIDE1-12=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### I wish you could. Atlasia hasn't seen snow in years.
+D01_OUTSIDE1-13=
+
+
+# Brok
+### Used to be more often. You must have...
+D01_OUTSIDE1-14=
+
+
+### (Roar in the distance)
+D01_OUTSIDE1-15=
+
+#----------------------------------------------------
+# Graff
+### What was that?!
+D01_OUTSIDE2-1=
+
+
+# Brok
+### Errrr...Nothing good, I assume.
+D01_OUTSIDE2-2=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### But hey, that's life in the Slums!
+D01_OUTSIDE2-3=
+
+
+# Brok
+### Let's just press on and...
+D01_OUTSIDE2-4=
+
+
+### (Phone ringing)
+D01_OUTSIDE2-5=
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### That's Shay...
+D01_OUTSIDE2-6=
+
+
+# Graff
+### Who?
+D01_OUTSIDE2-7=
+
+
+# Brok
+### "Hey, what's up?"
+D01_OUTSIDE2-8=
+
+
+### (Shouts in the phone)
+D01_OUTSIDE2-9=
+
+# Brok
+### "O...kay?..."
+D01_OUTSIDE2-10=
+
+
+### (Hangs up)
+D01_OUTSIDE2-11=
+
+# Brok
+### Seems urgent. Gotta go.
+D01_OUTSIDE2-12=
+
+
+# Graff
+### But...hey! I was supposed to...
+D01_OUTSIDE2-13=
+
+
+# Brok
+### Remember! Keep both eyes open!
+D01_OUTSIDE2-14=
+
+
+#----------------------------------------------------
+# Graff
+### There he goes.
+D01_OUTSIDE3-1=
+
+
+# Graff
+### He runs pretty fast, all things considered...
+D01_OUTSIDE3-2=
+
+
+# Graff
+### ...
+D01_OUTSIDE3-3=
+
+
+# Graff
+### No point staying here.
+D01_OUTSIDE3-4=
+
+
+#----------------------------------------------------
+### Instinctively, my feet carried me to a very familiar place.
+D01_OUTSIDE3_NEW_OTTPLACE-1=
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### A half-collapsed building, once a student residence, now home to several families...including Ott's.
+D01_OUTSIDE3_NEW_OTTPLACE2-1=
+
+### As soon as I arrived, I saw his mom, Nela, wearing boots and a raincoat.
+D01_OUTSIDE3_NEW_OTTPLACE2-2=
+
+# Nela
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Hey there! Graff, right?
+D01_OUTSIDE3_NEW_OTTPLACE2-3=
+
+
+# Graff
+### Hello! Erm...
+D01_OUTSIDE3_NEW_OTTPLACE2-4=
+
+
+# Nela
+### Aren't you supposed to be looking for a small job?
+D01_OUTSIDE3_NEW_OTTPLACE2-5=
+
+
+# Graff
+### I am. I didn't really plan anything, so...
+D01_OUTSIDE3_NEW_OTTPLACE2-6=
+
+
+# Nela
+### I see. Let me think...
+D01_OUTSIDE3_NEW_OTTPLACE2-7=
+
+
+### Then a chubby warthog suddenly appeared, clothes soaked and carrying tools.
+D01_OUTSIDE3_NEW_OTTPLACE2-8=
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ah, Ott's friend!
+D01_OUTSIDE3_NEW_OTTPLACE2-9=
+
+
+# Clint
+### How about helping us with the roof repair?
+D01_OUTSIDE3_NEW_OTTPLACE2-10=
+
+
+# Graff
+### Normally I would, but... I'm sorry...
+D01_OUTSIDE3_NEW_OTTPLACE2-11=
+
+
+# Graff
+### The rules say "No friends or family involved." I don't think this would work...
+D01_OUTSIDE3_NEW_OTTPLACE2-12=
+
+
+# Clint
+### Oh. My bad, you're right.
+D01_OUTSIDE3_NEW_OTTPLACE2-13=
+
+
+# Clint
+### Sorry, my mistake could have made you fail.
+D01_OUTSIDE3_NEW_OTTPLACE2-14=
+
+
+# Graff
+### No problem at all!
+D01_OUTSIDE3_NEW_OTTPLACE2-15=
+
+
+# Nela
+### I wish I could help, but right now I can't think of anyone who might need assistance.
+D01_OUTSIDE3_NEW_OTTPLACE2-16=
+
+
+# Nela
+### Maybe try the market district?
+D01_OUTSIDE3_NEW_OTTPLACE2-17=
+
+
+# Graff
+### I'm pretty sure most people already had that idea but... why not.
+D01_OUTSIDE3_NEW_OTTPLACE2-18=
+
+
+# Nela
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Well, I wish you and Ott good luck!
+D01_OUTSIDE3_NEW_OTTPLACE2-19=
+
+
+# Clint
+### Yeah! You've got this, boys!
+D01_OUTSIDE3_NEW_OTTPLACE2-20=
+
+
+# Graff
+### Sure!
+D01_OUTSIDE3_NEW_OTTPLACE2-21=
+
+
+#----------------------------------------------------
+### I left and started walking again...
+D01_OUTSIDE3_NEW_AFTER-1=
+
+### ...Okay... I got this...
+D01_OUTSIDE3_NEW_AFTER-2=
+
+### The market area? Where was it again...
+D01_OUTSIDE3_NEW_AFTER-3=
+
+#----------------------------------------------------
+# Graff
+### I wandered around the streets.
+D01_OUTSIDE4-1=
+
+
+# Graff
+### Near the edges of crumbling underground housings, I encountered toddlers playing in the sand with what I'll simply describe as trash.
+D01_OUTSIDE4-2=
+
+
+# Graff
+### Adults busy running around, others with a dazed smile as if they took drugs and weren't in their right minds.
+D01_OUTSIDE4-3=
+
+
+# Graff
+### In any case, nobody paid attention to me, and I seriously doubted they had anything to offer me.
+D01_OUTSIDE4-4=
+
+
+# Graff
+### But eventually...
+D01_OUTSIDE4-5=
+
+
+#----------------------------------------------------
+### Yes.
+D01_OUTSIDE3_NEW_BACKAPARTMENT-1=
+
+### There's no better place than the comfort of home, and right now... comfort is exactly what I need.
+D01_OUTSIDE3_NEW_BACKAPARTMENT-2=
+
+### Surely I'll get an idea if I just walk back and do some serious thinking.
+D01_OUTSIDE3_NEW_BACKAPARTMENT-3=
+
+# Graff
+### ...
+D01_OUTSIDE3_NEW_BACKAPARTMENT-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Well... maybe I'll check the Triweb.
+D01_OUTSIDE3_NEW_BACKAPARTMENT-5=
+
+
+#----------------------------------------------------
+### I leaped into my bed and booted my small computer.
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-1=
+
+# Graff
+### (Sigh) This thing is sooo slow to start...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-2=
+
+
+# Graff
+### (Yawn) Better get this over with...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-3=
+
+
+# Graff
+### I'll begin by...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-4=
+
+
+# Graff
+### By...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-5=
+
+
+# Graff
+### Catching up...sleep...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-6=
+
+
+# Graff
+### Just a bit...
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-7=
+
+
+# Graff
+### Yes.
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-8=
+
+
+# Graff
+### Good plan.
+D01_OUTSIDE3_NEW_BACKAPARTMENT2-9=
+
+
+#----------------------------------------------------
+### ...
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-1=
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!!!
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-2=
+
+
+# Graff
+### Huh?!
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-3=
+
+
+# Graff
+### Don't startle me like that! I almost had a heart attack!
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-4=
+
+
+# Ott
+### Tell me you bought yourself a gift! Please!
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-5=
+
+
+# Graff
+### I... what?!
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-6=
+
+
+# Ott
+### The whole class was there... and you... weren't...
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-7=
+
+
+### Oh no.
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-8=
+
+# Graff
+### What time is it?
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-9=
+
+
+# Ott
+### 7 PM...
+D01_OUTSIDE3_NEW_BACKAPARTMENT3-10=
+
+
+#----------------------------------------------------
+### No no no no...
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-1=
+
+### I... overslept... just a tad... I couldn't...
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-2=
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### I must go see the Director! Now!
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-3=
+
+
+# Director
+### No need. I am already here.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-4=
+
+
+# Graff
+### What?! How?!
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-5=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff. My duty is to inform you.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-6=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### By slacking off and not even trying in the slightest, you have officially violated rule 11 of the Consciousness Center.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-7=
+
+
+# Graff
+### B... but!
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-8=
+
+
+# Director
+### I am sorry. You are an immense disappointment.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-9=
+
+
+# Director
+### I now fear my master in cryo-state is going to force-reset his memory to erase this disaster.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-10=
+
+
+# Graff
+### What are you even babbling about?!
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-11=
+
+
+# Director
+### But do not worry.
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-12=
+
+
+# Director
+### According to my stats, your best fit would be a job at the Tri-NecroVerse, for the remembrance of defuncts....
+D01_OUTSIDE3_NEW_BACKAPARTMENT4-13=
+
+
+#----------------------------------------------------
+### This is a nightmare!
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-1=
+
+### My whole student career... no, my whole future is over...
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-2=
+
+### All because of one tiny mistake?!
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-3=
+
+### Someone must be watching and laughing at me right now... and I'm not paranoid! I just know it!
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-4=
+
+### I'll wake up...
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-5=
+
+### Yes. There's no way I'll let this be a...!
+D01_OUTSIDE3_NEW_BACKAPARTMENT5-6=
+
+#----------------------------------------------------
+### ...
+D01_OUTSIDE3_NEW_DARKALLEY-1=
+
+### There's no one in sight and yet...
+D01_OUTSIDE3_NEW_DARKALLEY-2=
+
+### I'm being watched. I'm certain of it.
+D01_OUTSIDE3_NEW_DARKALLEY-3=
+
+### I tried to control myself. Walk straight ahead, young man. Don't raise your eyes.
+D01_OUTSIDE3_NEW_DARKALLEY-4=
+
+### ...
+D01_OUTSIDE3_NEW_DARKALLEY-5=
+
+# Graff
+### I made it.
+D01_OUTSIDE3_NEW_DARKALLEY-6=
+
+
+#----------------------------------------------------
+### I finally raised my eyes...
+D01_OUTSIDE3_NEW_DARKALLEY2-1=
+
+### Only to meet, face to face, a rodent of some kind.
+D01_OUTSIDE3_NEW_DARKALLEY2-2=
+
+# Hacker
+### !...
+D01_OUTSIDE3_NEW_DARKALLEY2-3=
+
+
+# Hacker
+### Move out! They're after me!
+D01_OUTSIDE3_NEW_DARKALLEY2-4=
+
+
+# Graff
+### Who?
+D01_OUTSIDE3_NEW_DARKALLEY2-5=
+
+
+# Hacker
+### Dang it!
+D01_OUTSIDE3_NEW_DARKALLEY2-6=
+
+
+#----------------------------------------------------
+### The strange mouse disappeared from my sight before my brain could process it.
+D01_OUTSIDE3_NEW_DARKALLEY3-1=
+
+### Wait... someone's... after him?...
+D01_OUTSIDE3_NEW_DARKALLEY3-2=
+
+### Footsteps.
+D01_OUTSIDE3_NEW_DARKALLEY3-3=
+
+### I didn't think twice. I dashed toward another path leading out of this area, running as fast as my paws could carry me.
+D01_OUTSIDE3_NEW_DARKALLEY3-4=
+
+#----------------------------------------------------
+# Graff
+### Well, that was a bust... but at least I made it out alive.
+D01_OUTSIDE3_NEW_DARKALLEY4B-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Sometimes that's the best you can hope for in the Slums...
+D01_OUTSIDE3_NEW_DARKALLEY4B-2=
+
+
+#----------------------------------------------------
+### Without realizing it, I had arrived in Sector 56X.
+D01_OUTSIDE3_NEW_DARKALLEY4-1=
+
+#----------------------------------------------------
+# Graff
+### Great. Already in the poorest area. That decomposing stench of garbage doesn't lie.
+D01_SECTOR56X_1-1=
+
+
+# Graff
+### There goes all my chances of making any money...
+D01_SECTOR56X_1-2=
+
+
+# Flower
+### Hello, young man.
+D01_SECTOR56X_1-3=
+
+
+# Graff
+### ...
+D01_SECTOR56X_1-4=
+
+
+# Graff
+### Hello.
+D01_SECTOR56X_1-5=
+
+
+# Graff
+### Aren't you one of those believers?
+D01_SECTOR56X_1-6=
+
+
+# Flower
+### Oh, yes.
+D01_SECTOR56X_1-7=
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### I am currently setting up my stall. <col=BOLD>Natal Tail</col> is a crucial day for all of us!
+D01_SECTOR56X_1-8=
+
+
+# Graff
+### And for your business, I bet...
+D01_SECTOR56X_1-9=
+
+
+# Flower
+### Admittedly yes! Let's praise the almighty for this opportunity to help us celebrate his birth once more.
+D01_SECTOR56X_1-10=
+
+
+# Graff
+### His birth? Wait, did you say Natal <col=BLUE>Tail?</col>...
+D01_SECTOR56X_1-11=
+
+
+# Flower
+### Oh my, it appears you're lacking Untailism lessons.
+D01_SECTOR56X_1-12=
+
+
+# Graff
+### I dozed off during those...
+D01_SECTOR56X_1-13=
+
+
+# Flower
+### Well, it's never too late.
+D01_SECTOR56X_1-14=
+
+
+# Flower
+### What would you say about helping me clean and install my articles, while I'll read you some Un-Tales pages?
+D01_SECTOR56X_1-15=
+
+
+# Graff
+### Would I earn something? I'm actually looking for a job.
+D01_SECTOR56X_1-16=
+
+
+# Flower
+### Talai Lugdei!
+D01_SECTOR56X_1-17=
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### All young lads are following the new <col=BLUE>Natal Untail</col> tradition.
+D01_SECTOR56X_1-18=
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### How about this: I'll give you 10 Unis for each client that comes and buys something.
+D01_SECTOR56X_1-19=
+
+
+# Graff
+### That's...
+D01_SECTOR56X_1-20=
+
+
+# Graff
+### (A risk that nobody comes and buys this junk. I mean, who would?)
+D01_SECTOR56X_1-21=
+
+
+# Flower
+### Think about it. The better you install and decorate, the cleaner the stall, and the more chances someone will buy.
+D01_SECTOR56X_1-22=
+
+
+# Flower
+### Your motivation will be indirectly rewarded!
+D01_SECTOR56X_1-23=
+
+
+# Graff
+### I...guess so.
+D01_SECTOR56X_1-24=
+
+
+# Flower
+### You'll do a fine job! Our protector always rewards the youth.
+D01_SECTOR56X_1-25=
+
+
+# Graff
+### (I may regret this...)
+D01_SECTOR56X_1-26=
+
+
+#----------------------------------------------------
+# Graff
+### (...)
+D01_SECTOR56X_1_NEW_REFUSE-1=
+
+
+# Flower
+### Wait!
+D01_SECTOR56X_1_NEW_REFUSE-2=
+
+
+# Flower
+### Don't run away!
+D01_SECTOR56X_1_NEW_REFUSE-3=
+
+
+# Flower
+### ...
+D01_SECTOR56X_1_NEW_REFUSE-4=
+
+
+# Flower
+### Oh, pfft. And here I thought I'd found a sucker to do free work.
+D01_SECTOR56X_1_NEW_REFUSE-5=
+
+
+# Flower
+### Let's pray the almighty sends us another lost soul to exploit.
+D01_SECTOR56X_1_NEW_REFUSE-6=
+
+
+#----------------------------------------------------
+# Graff
+### On my way to get this stinky stall out of my sight, I suddenly realized...
+D01_SECTOR56X_1_NEW_REFUSE2-1=
+
+
+### Did I screw this up? Was this my only chance to make money today?
+D01_SECTOR56X_1_NEW_REFUSE2-2=
+
+### Yes. Yes, it was.
+D01_SECTOR56X_1_NEW_REFUSE2-3=
+
+### As it turns out, I'd spent the whole day chasing small jobs. All for nothing.
+D01_SECTOR56X_1_NEW_REFUSE2-4=
+
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### It was as if I had blocked myself from the Natal Tail spirit, and some invisible force shut me off from any opportunity.
+D01_SECTOR56X_1_NEW_REFUSE2-5=
+
+### At the last minute, tail between my legs, I returned to the stall.
+D01_SECTOR56X_1_NEW_REFUSE2-6=
+
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+### Too late. The merchant was gone.
+D01_SECTOR56X_1_NEW_REFUSE2-7=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Brok and Ott tried to cheer me up, but I knew...
+D01_SECTOR56X_1_NEW_REFUSE2-8=
+
+### This was all my fault. My lack of trust.
+D01_SECTOR56X_1_NEW_REFUSE2-9=
+
+### No miracle for me. After this, my morale declined, my grades gradually slipped, and I never graduated.
+D01_SECTOR56X_1_NEW_REFUSE2-10=
+
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Now I'm stuck with Brok, doing small jobs in the Slums... for the rest of my life!
+D01_SECTOR56X_1_NEW_REFUSE2-11=
+
+### Well, maybe that's not so bad?...
+D01_SECTOR56X_1_NEW_REFUSE2-12=
+
+### Although, for the sake of this story, it means...
+D01_SECTOR56X_1_NEW_REFUSE2-13=
+
+#----------------------------------------------------
+# Graff
+### Alright then.
+D01_SECTOR56X_1_NEW_ACCEPT-1=
+
+
+#----------------------------------------------------
+# Graff
+### I started helping with the stall. I had no idea what I was doing, but I tried my best.
+D01_SECTOR56X_2-1=
+
+
+# Graff
+### Meanwhile, the lady started telling me more about her interpretation of the old tradition...which got me intrigued.
+D01_SECTOR56X_2-2=
+
+
+#----------------------------------------------------
+# Flower
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### <col=BOLD>Natal Tail</col> was all about love and sharing.
+D01_SECTOR56X_2B-1=
+
+
+# Flower
+### Each year, children impatiently waited for this special day.
+D01_SECTOR56X_2B-2=
+
+
+# Flower
+### Parents would cut a pine tree and place it in the center of their home.
+D01_SECTOR56X_2B-3=
+
+
+# Graff
+### Oh, is that why you're selling little trees?
+D01_SECTOR56X_2B-4=
+
+
+# Flower
+### Yes! Aren't they cute?
+D01_SECTOR56X_2B-5=
+
+
+# Graff
+### A little.
+D01_SECTOR56X_2B-6=
+
+
+# Flower
+### They decorated them with little balls and garlands, but the beauty came from the tree itself.
+D01_SECTOR56X_2B-7=
+
+
+# Graff
+### Oh, and those...
+D01_SECTOR56X_2B-8=
+
+
+# Flower
+### Snow globes.
+D01_SECTOR56X_2B-9=
+
+
+# Flower
+### They capture how it was like, comfy and warm at home when it was freezing and snowing outside.
+D01_SECTOR56X_2B-10=
+
+
+# Flower
+### And when you shake them...
+D01_SECTOR56X_2B-11=
+
+
+# Graff
+### I see. So that's snow...
+D01_SECTOR56X_2B-12=
+
+
+# Flower
+### Kids loved making snowmen when they were lucky enough to get snow!
+D01_SECTOR56X_2B-13=
+
+
+# Graff
+### Lucky ones indeed.
+D01_SECTOR56X_2B-14=
+
+
+# Flower
+### Santail was a magical entity wearing red, looking like an old bear with a white beard.
+D01_SECTOR56X_2B-15=
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
+### It is said that the Untail sends him to Earth once every year to bring joy to children around the world.
+D01_SECTOR56X_2B-16=
+
+
+# Flower
+### At midnight, he enters homes to drop his presents around the pine tree while everyone is asleep.
+D01_SECTOR56X_2B-17=
+
+
+# Graff
+### Wouldn't that be...privacy violation?...Was he actually a thief?
+D01_SECTOR56X_2B-18=
+
+
+# Flower
+### Not at all. Nobody minded, as he was a benevolent spirit who would never harm anyone.
+D01_SECTOR56X_2B-19=
+
+
+# Flower
+### And if kids hung little socks on their chimney, Santail put candies in them.
+D01_SECTOR56X_2B-20=
+
+
+# Graff
+### What a swell guy.
+D01_SECTOR56X_2B-21=
+
+
+# Flower
+### The next morning, children would gather up and open their presents with all their family.
+D01_SECTOR56X_2B-22=
+
+
+# Flower
+### Tell me. What magic is there about buying your own gift?
+D01_SECTOR56X_2B-23=
+
+
+# Graff
+### Well...plain logic. No one but me could get the best present for myself.
+D01_SECTOR56X_2B-24=
+
+
+# Flower
+### You'd be surprised.
+D01_SECTOR56X_2B-25=
+
+
+# Flower
+### Sometimes, your closest friends and family can know yourself better than you do.
+D01_SECTOR56X_2B-26=
+
+
+# Flower
+### Children sent Santail a list of the gifts they wanted the most, of course, but he never needed it.
+D01_SECTOR56X_2B-27=
+
+
+# Flower
+### Santail always knew what was best.
+D01_SECTOR56X_2B-28=
+
+
+# Graff
+### Huh...Sounds like a god.
+D01_SECTOR56X_2B-29=
+
+
+# Flower
+### Of a sort.
+D01_SECTOR56X_2B-30=
+
+
+# Flower
+### But that misses the point.
+D01_SECTOR56X_2B-31=
+
+
+# Flower
+### It wasn't all about the gifts. Sharing time with loved ones was the most important thing.
+D01_SECTOR56X_2B-32=
+
+
+# Flower
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### It is incorrect to say <col=BLUE>Natal Untail</col>, as our lord and savior, was actually born with a tail.
+D01_SECTOR56X_2B-33=
+
+
+# Flower
+### I understand the motivation behind the new tradition, but...
+D01_SECTOR56X_2B-34=
+
+
+# Flower
+### It makes me sad. We've deviated so much from the original spirit.
+D01_SECTOR56X_2B-35=
+
+
+# Flower
+### I am convinced all those changes are the reason why we haven't seen Santail for so long.
+D01_SECTOR56X_2B-36=
+
+
+# Graff
+### ...
+D01_SECTOR56X_2B-37=
+
+
+# Flower
+### You know, miracles do happen.
+D01_SECTOR56X_2B-38=
+
+
+# Flower
+### I was wishing for help this morning, and here you are!
+D01_SECTOR56X_2B-39=
+
+
+# Graff
+### That's not even a coincidence, much less a miracle. All of us students are looking for a job today.
+D01_SECTOR56X_2B-40=
+
+
+# Flower
+### If you say so. Personally, I believe.
+D01_SECTOR56X_2B-41=
+
+
+# Flower
+### If you wish for something hard enough, it can happen.
+D01_SECTOR56X_2B-42=
+
+
+# Graff
+### Right...If it's that easy, guess I'll try someday.
+D01_SECTOR56X_2B-43=
+
+
+#----------------------------------------------------
+# Graff
+### So...
+D01_SECTOR56X_3-1=
+
+
+# Graff
+### Little trees, snow globes, Santail statues, decorations...and I assume those little packages are...
+D01_SECTOR56X_3-2=
+
+
+# Flower
+### Presents!
+D01_SECTOR56X_3-3=
+
+
+# Graff
+### You're selling all the symbols from the old tradition!
+D01_SECTOR56X_3-4=
+
+
+# Flower
+### I am!
+D01_SECTOR56X_3-5=
+
+
+# Graff
+### That's pretty. I'll take some pictures. Wanna show to all my friends!
+D01_SECTOR56X_3-6=
+
+
+# Graff
+### I mean...my friend.
+D01_SECTOR56X_3-7=
+
+
+# Flower
+### Feel free!
+D01_SECTOR56X_3-8=
+
+
+### (Shutter sound)
+D01_SECTOR56X_3-9=
+
+#----------------------------------------------------
+# Graff
+### The golden Santail statue is gorgeous.
+D01_SECTOR56X_4-1=
+
+
+# Flower
+### Isn't it? This is the highlight of my stand!
+D01_SECTOR56X_4-2=
+
+
+# Flower
+### It is invaluable, so I always keep it close to me. Please look after it.
+D01_SECTOR56X_4-3=
+
+
+# Graff
+### Sure.
+D01_SECTOR56X_4-4=
+
+
+# Graff
+### Hey, looks like we have our first client!
+D01_SECTOR56X_4-5=
+
+
+# Flower
+### Hello, sir. Would you like anything?
+D01_SECTOR56X_4-6=
+
+
+# Redpanda
+### Just looking. We don't often get religious stalls around here.
+D01_SECTOR56X_4-7=
+
+
+# Redpanda
+### Where's your church?
+D01_SECTOR56X_4-8=
+
+
+# Flower
+### Oh, it's not mine. I'm the pastoral assistant.
+D01_SECTOR56X_4-9=
+
+
+# Flower
+### It's just a bit further down this street.
+D01_SECTOR56X_4-10=
+
+
+# Redpanda
+### I see.
+D01_SECTOR56X_4-11=
+
+
+# Redpanda
+### Well, good luck.
+D01_SECTOR56X_4-12=
+
+
+# Flower
+### Danante!
+D01_SECTOR56X_4-13=
+
+
+# Graff
+### ...
+D01_SECTOR56X_4-14=
+
+
+# Graff
+### Too bad. They didn't buy anything.
+D01_SECTOR56X_4-15=
+
+
+# Flower
+### Have faith. More people will notice. You did a wonderful job!
+D01_SECTOR56X_4-16=
+
+
+# Graff
+### Let's hope so...
+D01_SECTOR56X_4-17=
+
+
+#----------------------------------------------------
+# Graff
+### Three hours later...we did get a few buyers.
+D01_SECTOR56X_5-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### Good enough to earn me 60 Unis.
+D01_SECTOR56X_5-2=
+
+
+# Graff
+### I was cleaning the stand again. Powder used to simulate snow had spread messily on the table.
+D01_SECTOR56X_5-3=
+
+
+# Graff
+### When...
+D01_SECTOR56X_5-4=
+
+
+#----------------------------------------------------
+# Hippo
+### Excuse me.
+D01_SECTOR56X_6-1=
+
+
+# Graff
+### Hey!...
+D01_SECTOR56X_6-2=
+
+
+# Graff
+### That woman...she bumped right into me.
+D01_SECTOR56X_6-3=
+
+
+# Flower
+### Oh no!
+D01_SECTOR56X_6-4=
+
+
+# Flower
+### My golden Santail! She's stolen it!
+D01_SECTOR56X_6-5=
+
+
+# Graff
+### What?
+D01_SECTOR56X_6-6=
+
+
+# Flower
+### I told you to look after it! What did you do?!
+D01_SECTOR56X_6-7=
+
+
+# Graff
+### I...put it to the side of the table to clean...
+D01_SECTOR56X_6-8=
+
+
+#----------------------------------------------------
+# Graff
+### I was stunned, frozen in place.
+D01_SECTOR56X_NEW_DONOTHING-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+### When I came back to my senses, the merchant had her eyes on me.
+D01_SECTOR56X_NEW_DONOTHING-2=
+
+
+# Graff
+### ...with a not-so-happy expression.
+D01_SECTOR56X_NEW_DONOTHING-3=
+
+
+# Flower
+### My most precious asset! Gone!
+D01_SECTOR56X_NEW_DONOTHING-4=
+
+
+# Flower
+### You!
+D01_SECTOR56X_NEW_DONOTHING-5=
+
+
+# Graff
+### Me?!
+D01_SECTOR56X_NEW_DONOTHING-6=
+
+
+# Flower
+### This is all your fault!
+D01_SECTOR56X_NEW_DONOTHING-7=
+
+
+# Graff
+### I... I'm sorry...
+D01_SECTOR56X_NEW_DONOTHING-8=
+
+
+# Graff
+### Wait, what are you doing?
+D01_SECTOR56X_NEW_DONOTHING-9=
+
+
+# Flower
+### Getting a refund.
+D01_SECTOR56X_NEW_DONOTHING-10=
+
+
+# Flower
+### That won't cover a hundredth of its value, but I have to get my money back somehow.
+D01_SECTOR56X_NEW_DONOTHING-11=
+
+
+# Graff
+### But... but! I did the work!
+D01_SECTOR56X_NEW_DONOTHING-12=
+
+
+# Flower
+### Good for you. Now observe the result.
+D01_SECTOR56X_NEW_DONOTHING-13=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### I'm not the thief! What about the Natal Tail spirit?!
+D01_SECTOR56X_NEW_DONOTHING-14=
+
+
+# Flower
+### Begone! Danantoell!
+D01_SECTOR56X_NEW_DONOTHING-15=
+
+
+# Graff
+### Aww...
+D01_SECTOR56X_NEW_DONOTHING-16=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### (And just like that, I flunked Natal Untail Day.)
+D01_SECTOR56X_DONOTHING2-1=
+
+
+# Graff
+### (Suddenly, I couldn't feel the spirit of this special day anymore... which meant I failed to meet the required criteria.)
+D01_SECTOR56X_DONOTHING2-2=
+
+
+# Graff
+### (How could things go so wrong, so fast?...)
+D01_SECTOR56X_DONOTHING2-3=
+
+
+#----------------------------------------------------
+# Graff
+### I could still see the thief, so I sprinted straight ahead.
+D01_SECTOR56X_NEW_STARTRUN-1=
+
+
+# Graff
+### Luckily, I'm a cat and she was a hippo.
+D01_SECTOR56X_NEW_STARTRUN-2=
+
+
+# Graff
+### I managed to catch up to her and, without thinking, tackled her.
+D01_SECTOR56X_NEW_STARTRUN-3=
+
+
+# Hippo
+### Aaarrgh!
+D01_SECTOR56X_NEW_STARTRUN-4=
+
+
+# Graff
+### The situation wasn't pretty. She fell onto a rock and her leg was bleeding.
+D01_SECTOR56X_NEW_STARTRUN-5=
+
+
+# Graff
+### Nothing too serious, thankfully, but I felt responsible anyway.
+D01_SECTOR56X_NEW_STARTRUN-6=
+
+
+# Graff
+### I'm sorry! I...
+D01_SECTOR56X_NEW_STARTRUN-7=
+
+
+# Graff
+### No, this wasn't the time for an apology. Where was that valuable statue?
+D01_SECTOR56X_NEW_STARTRUN-8=
+
+
+# Graff
+### Before I could set my eyes on it, a shadow crept behind me.
+D01_SECTOR56X_NEW_STARTRUN-9=
+
+
+# Graff
+### The overwhelming shadow of a policeman bear.
+D01_SECTOR56X_NEW_STARTRUN-10=
+
+
+# RJ
+### What's going on here?!
+D01_SECTOR56X_NEW_STARTRUN-11=
+
+
+# Graff
+### Sir! She stole that!
+D01_SECTOR56X_NEW_STARTRUN-12=
+
+
+### The bear had already retrieved the statue.
+D01_SECTOR56X_NEW_STARTRUN-13=
+
+### Judging from the thickness of those arms, none of us would ever be able to snatch it from him, that was for sure.
+D01_SECTOR56X_NEW_STARTRUN-14=
+
+### Not that I wanted to. I needed money, but stealing was out of the question.
+D01_SECTOR56X_NEW_STARTRUN-15=
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+### He forcefully brought us both back to the merchant, who was relieved...
+D01_SECTOR56X_6B-1=
+
+### For a short while anyway.
+D01_SECTOR56X_6B-2=
+
+# RJ
+### (Sneezes) A-tcha!!!
+D01_SECTOR56X_6B-3=
+
+
+# RJ
+### Oh no, here comes my allergy again...
+D01_SECTOR56X_6B-4=
+
+
+# RJ
+### So this is yours.
+D01_SECTOR56X_6B-5=
+
+
+# Flower
+### Danante! The almighty shall find a way to honor you on this holy day!
+D01_SECTOR56X_6B-6=
+
+
+# Hippo
+### ...can't believe I was caught by a kitten...
+D01_SECTOR56X_6B-7=
+
+
+# Graff
+### A sudden pat on my shoulder made me shiver.
+D01_SECTOR56X_6B-8=
+
+
+# RJ
+### Good job, boy.
+D01_SECTOR56X_6B-9=
+
+
+#----------------------------------------------------
+# Graff
+### I moved away instantly to avoid his touch.
+D01_SECTOR56X_6C-1=
+
+
+# Graff
+### He didn't understand why, and to be frank, I didn't either.
+D01_SECTOR56X_6C-2=
+
+
+# Graff
+### A part of me truly appreciated the big, comforting paw on my shoulder.
+D01_SECTOR56X_6C-3=
+
+
+# Graff
+### No, it was more than that. It was exactly what I needed at this moment.
+D01_SECTOR56X_6C-4=
+
+
+# Graff
+### Yet...another part of me screamed deep inside.
+D01_SECTOR56X_6C-5=
+
+
+# Graff
+### This was out of my control.
+D01_SECTOR56X_6C-6=
+
+
+# RJ
+### (Sneezes) A-tcha!
+D01_SECTOR56X_6C-7=
+
+
+# Graff
+### ...
+D01_SECTOR56X_6C-8=
+
+
+# RJ
+### Hey, madam.
+D01_SECTOR56X_6C-9=
+
+
+# Flower
+### Yes, good sir?
+D01_SECTOR56X_6C-10=
+
+
+# RJ
+### This stall of yours.
+D01_SECTOR56X_6C-11=
+
+
+# RJ
+### It was declared?
+D01_SECTOR56X_6C-12=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### This part of the Slums. Not supposed to have merchants.
+D01_SECTOR56X_6C-13=
+
+
+# Flower
+### I...
+D01_SECTOR56X_6C-14=
+
+
+# Flower
+### Well, I mean...
+D01_SECTOR56X_6C-15=
+
+
+# Graff
+### Clearly, her business wasn't in order.
+D01_SECTOR56X_6C-16=
+
+
+# RJ
+# NB: Lexicon word in Ukrainian for "Chief": "шеф"
+### Need to check all this with the chief.
+D01_SECTOR56X_6C-17=
+
+
+# RJ
+### Gonna take a while. Everyone, stay...
+D01_SECTOR56X_6C-18=
+
+
+# Graff
+### I didn't let him finish. This was my call to scamper off like a scolded cat.
+D01_SECTOR56X_6C-19=
+
+
+# RJ
+### Hey, boy! Wait!
+D01_SECTOR56X_6C-20=
+
+
+# RJ
+### (Sneezes) Aaa-tcha!
+D01_SECTOR56X_6C-21=
+
+
+# RJ
+### (Sigh...I'm so tired today.)
+D01_SECTOR56X_6C-22=
+
+
+# RJ
+### (If only I had a colleague...or a friend...)
+D01_SECTOR56X_6C-23=
+
+
+#----------------------------------------------------
+# Graff
+### The clock was ticking. There was no way I could afford to waste the rest of my day here.
+D01_SECTOR56X_6D-1=
+
+
+# Graff
+### I felt terrible. That was a disaster.
+D01_SECTOR56X_6D-2=
+
+
+# Graff
+### I was responsible for the statue getting stolen in the first place. I didn't even think when I moved it.
+D01_SECTOR56X_6D-3=
+
+
+# Graff
+### I accidentally hurt someone. A thief, yes, but the sight of her blood was still fresh in my mind. I hated it.
+D01_SECTOR56X_6D-4=
+
+
+# Graff
+### I ran away from a police officer. What will that bear do if I run into him again?
+D01_SECTOR56X_6D-5=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "The Untail": "Безхвостя (релігія) / Безхвостий (бог)"
+### And in the end, I may have caused trouble to the Untail believer, who was nice enough to me.
+D01_SECTOR56X_6D-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### All I had was 60 Unis.
+D01_SECTOR56X_6D-7=
+
+
+# Graff
+### Couldn't hope to purchase anything worthwhile with such a pitiful amount.
+D01_SECTOR56X_6D-8=
+
+
+# Graff
+### Without thinking, my legs led me back in front of my building.
+D01_SECTOR56X_6D-9=
+
+
+# Graff
+### It didn't take me long to figure out what was coming next...
+D01_SECTOR56X_6D-10=
+
+
+#----------------------------------------------------
+

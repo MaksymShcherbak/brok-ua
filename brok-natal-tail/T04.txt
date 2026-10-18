@@ -1,0 +1,2476 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Brok - Clint (Unknown)
+#     Brok - Director (Unknown)
+#     Brok - Graff (Unknown)
+#     Brok - Klay (Unknown)
+#     Brok - Nela (Unknown)
+#     Brok - Ott (Unknown)
+#     Brok - Unknown (Unknown)
+#     Clint - Brok (Unknown)
+#     Clint - Director (Unknown)
+#     Clint - Graff (Unknown)
+#     Clint - Nela (Unknown)
+#     Clint - Ott (Unknown)
+#     Director - Brok (Unknown)
+#     Director - Clint (Unknown)
+#     Director - Graff (Unknown)
+#     Director - Klay (Unknown)
+#     Director - Ott (Unknown)
+#     Flower - Graff (Unknown)
+#     Graff - Brok (Unknown)
+#     Graff - Clint (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Flower (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Ott (Unknown)
+#     Graff - Unknown (Unknown)
+#     Klay - Brok (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Ott (Unknown)
+#     Nela - Brok (Unknown)
+#     Nela - Clint (Unknown)
+#     Nela - Ott (Unknown)
+#     Ott - Brok (Unknown)
+#     Ott - Clint (Unknown)
+#     Ott - Director (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Klay (Unknown)
+#     Ott - Nela (Unknown)
+#     Unknown - Brok (Unknown)
+#     Unknown - Graff (Unknown)
+
+# Graff
+### I was on my bed. It took a while, but the tears had finally started to pour.
+D04_GRAFFAPARTMENTBACK1-1=
+
+
+# Graff
+### I couldn't control myself anymore.
+D04_GRAFFAPARTMENTBACK1-2=
+
+
+# Graff
+### Are these really the values we're being taught...individualism? Only thinking about ourselves?
+D04_GRAFFAPARTMENTBACK1-3=
+
+
+# Graff
+### We're supposed to feel good about receiving our own gift?
+D04_GRAFFAPARTMENTBACK1-4=
+
+
+# Graff
+### I didn't.
+D04_GRAFFAPARTMENTBACK1-5=
+
+
+# Graff
+### I was alone. Nobody cared for me.
+D04_GRAFFAPARTMENTBACK1-6=
+
+
+# Graff
+### I felt terrible. The worst since...
+D04_GRAFFAPARTMENTBACK1-7=
+
+
+# Graff
+### Since...that accident...
+D04_GRAFFAPARTMENTBACK1-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### That's it...I don't want to go to the Drums.
+D04_GRAFFAPARTMENTBACK1-9=
+
+
+# Graff
+### They've always meant bad luck for me.
+D04_GRAFFAPARTMENTBACK1-10=
+
+
+# Graff
+### So what now?
+D04_GRAFFAPARTMENTBACK1-11=
+
+
+# Graff
+### I was recalling today's events in my head, trying to think of the positives.
+D04_GRAFFAPARTMENTBACK1-12=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### "Thanks again, Graff. Without you, I couldn't have done it!"
+D04_GRAFFAPARTMENTBACK1-13=
+
+
+# Graff
+### No... You were better off without me...
+D04_GRAFFAPARTMENTBACK1-14=
+
+
+# Graff
+### Gosh, I even made someone bleed.
+D04_GRAFFAPARTMENTBACK1-15=
+
+
+# Graff
+### As usual, trying to do the right thing came back at me like a boomerang...
+D04_GRAFFAPARTMENTBACK1-16=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Stop, Graff...focus. I said positives!
+D04_GRAFFAPARTMENTBACK1B-1=
+
+
+# Graff
+### And then it dawned on me.
+D04_GRAFFAPARTMENTBACK1B-2=
+
+
+# Graff
+### The best parts were the ones we weren't forced to do.
+D04_GRAFFAPARTMENTBACK1B-3=
+
+
+# Graff
+### I loved the old tradition's tale, and all those artefacts.
+D04_GRAFFAPARTMENTBACK1B-4=
+
+
+# Graff
+### The snowglobe, the pine tree and garlands...
+D04_GRAFFAPARTMENTBACK1B-5=
+
+
+# Graff
+### They were all so pretty, so inviting, and looking at them relieved my stress.
+D04_GRAFFAPARTMENTBACK1B-6=
+
+
+#----------------------------------------------------
+# Graff
+### I enjoyed helping that rat.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATGOOD-1=
+
+
+# Graff
+### In retrospect, although he lied about his species, he really seemed to need that mattress.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATGOOD-2=
+
+
+# Graff
+### Poor guy...I wish I could do something more for him.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATGOOD-3=
+
+
+#----------------------------------------------------
+# Graff
+### I actually enjoyed pushing that rat.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATBAD-1=
+
+
+# Graff
+### Well... erm... what I mean is...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATBAD-2=
+
+
+# Graff
+### It felt really good to be in action. To feel useful.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATBAD-3=
+
+
+# Graff
+### I wish it happened more often...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATBAD-4=
+
+
+#----------------------------------------------------
+# Graff
+### Wish...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-1=
+
+
+# Flower
+### "If you wish for something hard enough, it can happen."
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-2=
+
+
+# Graff
+### That's right.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-3=
+
+
+# Graff
+### I don't really know if there's such a god or whatever the Santail is, but...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-4=
+
+
+# Graff
+### Please. I'm begging you.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-5=
+
+
+# Graff
+### I want my friend back.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-6=
+
+
+# Graff
+### This is the only gift I want. Write it down on my list.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-7=
+
+
+# Graff
+### This day is meaningless if I have no one to share it with.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-8=
+
+
+# Graff
+### If I can't be with the one person in the world I need the most.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-9=
+
+
+# Graff
+### He's always been so kind to me.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-10=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Just like the <col=BOLD>Natal Tail</col> decorations, a glance at him relieved my worries.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-11=
+
+
+# Graff
+### We always helped each other with homework.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-12=
+
+
+# Graff
+### Together...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-13=
+
+
+# Graff
+### I can't bear thinking he might fade away from my life someday, like a snowflake landing softly on warm skin.
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-14=
+
+
+# Graff
+### Wait, what a weird thought. I don't even know what snow's like?...
+D04_GRAFFAPARTMENTBACK1B_NEW_RATNEXT-15=
+
+
+#----------------------------------------------------
+# Graff
+### Right when I was laughing at the absurdity of it...
+D04_GRAFFAPARTMENTBACK1C-1=
+
+
+### (Knock, knock)
+D04_GRAFFAPARTMENTBACK1C-2=
+
+#----------------------------------------------------
+# Graff
+### ...
+D04_GRAFFAPARTMENTBACK2-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Must be Brok. Of course, he forgot to take his key again.
+D04_GRAFFAPARTMENTBACK2-2=
+
+
+# Graff
+### Just a sec!
+D04_GRAFFAPARTMENTBACK2-3=
+
+
+#----------------------------------------------------
+### (Door opens)
+D04_GRAFFAPARTMENTBACK3-1=
+
+# Graff
+### ...!
+D04_GRAFFAPARTMENTBACK3-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+D04_GRAFFAPARTMENTBACK3-3=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### ...Hi, Graff.
+D04_GRAFFAPARTMENTBACK3-4=
+
+
+# Graff
+### I...I'm sorr-
+D04_GRAFFAPARTMENTBACK3-5=
+
+
+# Ott
+### Can we talk?
+D04_GRAFFAPARTMENTBACK3-6=
+
+
+# Graff
+### Yes! Of course!
+D04_GRAFFAPARTMENTBACK3-7=
+
+
+# Ott
+### You know...I get it.
+D04_GRAFFAPARTMENTBACK3-8=
+
+
+# Ott
+### It wasn't much of a choice.
+D04_GRAFFAPARTMENTBACK3-9=
+
+
+# Graff
+### That still doesn't absolve me from what I did.
+D04_GRAFFAPARTMENTBACK3-10=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### I'll tell everything to the Director.
+D04_GRAFFAPARTMENTBACK3-11=
+
+
+# Ott
+### No!
+D04_GRAFFAPARTMENTBACK3-12=
+
+
+# Ott
+### You shouldn't! Because then...
+D04_GRAFFAPARTMENTBACK3-13=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I don't want to go to the Drums anymore.
+D04_GRAFFAPARTMENTBACK3-14=
+
+
+# Graff
+### Not like this, anyway...not if I had to lie to everyone.
+D04_GRAFFAPARTMENTBACK3-15=
+
+
+#----------------------------------------------------
+# Graff
+### Including my delicious past...
+D04_GRAFFAPARTMENTBACK3_DELICIOUS-1=
+
+
+# Graff
+### Err, I mean...
+D04_GRAFFAPARTMENTBACK3_DELICIOUS-2=
+
+
+#----------------------------------------------------
+# Graff
+### Including my lov...
+D04_GRAFFAPARTMENTBACK3_LOVER-1=
+
+
+# Graff
+### Err, I mean...
+D04_GRAFFAPARTMENTBACK3_LOVER-2=
+
+
+#----------------------------------------------------
+# Graff
+### Including my sworn enem...
+D04_GRAFFAPARTMENTBACK3_WORSTENEMY-1=
+
+
+# Graff
+### Err, I mean...
+D04_GRAFFAPARTMENTBACK3_WORSTENEMY-2=
+
+
+#----------------------------------------------------
+# Graff
+### Including my guardian ang...
+D04_GRAFFAPARTMENTBACK3_GUARDIANANGEL-1=
+
+
+# Graff
+### Err, I mean...
+D04_GRAFFAPARTMENTBACK3_GUARDIANANGEL-2=
+
+
+#----------------------------------------------------
+# Graff
+### Including you, pitiful creat...
+D04_GRAFFAPARTMENTBACK3_POORTHING-1=
+
+
+# Graff
+### Err, I mean...
+D04_GRAFFAPARTMENTBACK3_POORTHING-2=
+
+
+#----------------------------------------------------
+# Graff
+### Including my best friend.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-1=
+
+
+# Ott
+### Are we?...
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-2=
+
+
+# Graff
+### I hope so.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-3=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, I...
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-4=
+
+
+# Graff
+### Look. I'll send a message, right now.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-5=
+
+
+# Ott
+### ...
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-6=
+
+
+# Ott
+### Alright. But promise me...
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-7=
+
+
+# Ott
+### Whatever happens, we'll stay friends.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-8=
+
+
+# Graff
+### Forever.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-9=
+
+
+# Ott
+### I'll send a message too, then.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-10=
+
+
+# Ott
+### If there's one lesson to learn from all this, it's that...
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-11=
+
+
+# Graff
+### ...we have to share everything, and that includes the blame.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-12=
+
+
+# Ott
+### Wow, you read my mind!
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-13=
+
+
+# Graff
+### We should really have read those rules, huh?
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-14=
+
+
+# Ott
+### Yeah! Although, that wouldn't have changed the outcome. We were both short on money.
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-15=
+
+
+# Graff
+### Well, don't just stand there! Come in!
+D04_GRAFFAPARTMENTBACK3_NEW_NEXT-16=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### We both wrote a message to the Director, explaining our day and the reason we did what we did.
+D04_GRAFFAPARTMENTBACK4-1=
+
+
+### I knew I had screwed up my future, yet I felt relieved.
+D04_GRAFFAPARTMENTBACK4-2=
+
+### This was the right thing to do.
+D04_GRAFFAPARTMENTBACK4-3=
+
+# Graff
+### ...aaaaand sent.
+D04_GRAFFAPARTMENTBACK4-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slumers": "мешканці Нетрів / нетрівці"
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### It's done. We're both permanent Slumers now.
+D04_GRAFFAPARTMENTBACK4-5=
+
+
+# Ott
+### ...
+D04_GRAFFAPARTMENTBACK4-6=
+
+
+# Ott
+### Hey, you're smiling!
+D04_GRAFFAPARTMENTBACK4-7=
+
+
+# Graff
+### Yeah! Wanna know why?
+D04_GRAFFAPARTMENTBACK4-8=
+
+
+# Graff
+### It's silly, but...I've been told that if you wish for something hard enough, it can materialize.
+D04_GRAFFAPARTMENTBACK4-9=
+
+
+# Graff
+### Well, my wish got granted.
+D04_GRAFFAPARTMENTBACK4-10=
+
+
+# Ott
+### Did it? Where did you hide your mountain of wealth?!
+D04_GRAFFAPARTMENTBACK4-11=
+
+
+# Graff
+### Ahhh, you're stupid!
+D04_GRAFFAPARTMENTBACK4-12=
+
+
+# Ott
+### Ha ha!
+D04_GRAFFAPARTMENTBACK4-13=
+
+
+# Ott
+### Incidentally, I learned the same thing too. What are the odds it happened to both of us on the same day?...
+D04_GRAFFAPARTMENTBACK4-14=
+
+
+# Ott
+### Well...the day is far from over. Anything you wanna do?
+D04_GRAFFAPARTMENTBACK4-15=
+
+
+# Graff
+### You know...I've been thinking.
+D04_GRAFFAPARTMENTBACK4-16=
+
+
+# Graff
+### Everything that went wrong was due to one single thing.
+D04_GRAFFAPARTMENTBACK4-17=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### I know. <col=BLUE>Natal Untail</col>. I hate it.
+D04_GRAFFAPARTMENTBACK4-18=
+
+
+# Graff
+### This whole tradition is rotten.
+D04_GRAFFAPARTMENTBACK4-19=
+
+
+# Graff
+### Earlier today I helped an Untail believer set up her stall.
+D04_GRAFFAPARTMENTBACK4-20=
+
+
+# Graff
+### I took pictures. Look!
+D04_GRAFFAPARTMENTBACK4-21=
+
+
+# Ott
+### Wow! That is real pretty. I've never seen anything like it!
+D04_GRAFFAPARTMENTBACK4-22=
+
+
+# Graff
+### How about decorating our homes?
+D04_GRAFFAPARTMENTBACK4-23=
+
+
+# Ott
+### For real?! How do you suggest we even do that?
+D04_GRAFFAPARTMENTBACK4-24=
+
+
+# Ott
+### We can't afford to buy all that stuff...
+D04_GRAFFAPARTMENTBACK4-25=
+
+
+# Graff
+### Well...I've got some ideas!
+D04_GRAFFAPARTMENTBACK4-26=
+
+
+# Graff
+### Come on, it'll be fun!
+D04_GRAFFAPARTMENTBACK4-27=
+
+
+# Ott
+### Yeah!
+D04_GRAFFAPARTMENTBACK4-28=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Me and Ott rushed to the landfill next to my apartment.
+D04_GRAFFAPARTMENTBACK5-1=
+
+
+# Graff
+### We collected junk, and we were going to do the best we could with them.
+D04_GRAFFAPARTMENTBACK5-2=
+
+
+# Graff
+### With a bunch of bottle caps and wires, we made some improvised garlands.
+D04_GRAFFAPARTMENTBACK5-3=
+
+
+# Graff
+### With old lightbulbs and strings, we had balls to hang on our future pine tree.
+D04_GRAFFAPARTMENTBACK5-4=
+
+
+# Graff
+### No chance we'll ever find a pine tree though. Or any tree, for that matter.
+D04_GRAFFAPARTMENTBACK5-5=
+
+
+# Ott
+### We may not need to!
+D04_GRAFFAPARTMENTBACK5-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott approached the carcass of an old Tribot.
+D04_GRAFFAPARTMENTBACK5-7=
+
+
+# Graff
+### What?...How could this be...
+D04_GRAFFAPARTMENTBACK5-8=
+
+
+# Ott
+### Watch!
+D04_GRAFFAPARTMENTBACK5-9=
+
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott took one of the spray paints he had given me for an art lesson earlier this year.
+D04_GRAFFAPARTMENTBACK5-10=
+
+# Graff
+### He painted it green from head to toe.
+D04_GRAFFAPARTMENTBACK5-11=
+
+
+# Graff
+### To my surprise, the result was pretty good.
+D04_GRAFFAPARTMENTBACK5-12=
+
+
+# Graff
+### We proceeded to insert sticks through various holes so that we could hang our home-made garlands on it later.
+D04_GRAFFAPARTMENTBACK5-13=
+
+
+# Graff
+### Thankfully, the internal components have been already removed, so it was light enough to carry around!
+D04_GRAFFAPARTMENTBACK5-14=
+
+
+# Ott
+### Oh, got another idea!
+D04_GRAFFAPARTMENTBACK5-15=
+
+
+# Ott
+### With these two ceiling globes of different sizes...
+D04_GRAFFAPARTMENTBACK5-16=
+
+
+# Ott
+### I'll put some glue on the base here...
+D04_GRAFFAPARTMENTBACK5-17=
+
+
+# Ott
+### And spray paint them white.
+D04_GRAFFAPARTMENTBACK5-18=
+
+
+# Graff
+### ...ohhhh! Just like a snowman!
+D04_GRAFFAPARTMENTBACK5-19=
+
+
+# Ott
+### He's just missing a face. And a nose. And...
+D04_GRAFFAPARTMENTBACK5-20=
+
+
+#----------------------------------------------------
+# Graff
+### We carried on like this for an hour.
+D04_GRAFFAPARTMENTBACK6-1=
+
+
+# Graff
+### It was one of the happiest moments of my life.
+D04_GRAFFAPARTMENTBACK6-2=
+
+
+# Graff
+### How ironic that it came right after one of the worst.
+D04_GRAFFAPARTMENTBACK6-3=
+
+
+# Graff
+### We were laughing at each other for all our stupid ideas, and yet the results outshined all our expectations.
+D04_GRAFFAPARTMENTBACK6-4=
+
+
+# Graff
+### We brought all this home, when...
+D04_GRAFFAPARTMENTBACK6-5=
+
+
+#----------------------------------------------------
+# Brok
+### Huh?!
+D04_GRAFFAPARTMENTBACK6B-1=
+
+
+# Brok
+### Hey, kiddos, what are you doing with all this junk?
+D04_GRAFFAPARTMENTBACK6B-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok! You're back!
+D04_GRAFFAPARTMENTBACK6B-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### That's not junk. It's <col=BOLD>Natal Tail</col> decorations!
+D04_GRAFFAPARTMENTBACK6B-4=
+
+
+# Brok
+### Natal...what?
+D04_GRAFFAPARTMENTBACK6B-5=
+
+
+# Ott
+### Ah, just let us set up everything.
+D04_GRAFFAPARTMENTBACK6B-6=
+
+
+# Ott
+### Oh no! That reminds me!...
+D04_GRAFFAPARTMENTBACK6B-7=
+
+
+# Ott
+### I need to head home! The flood...!
+D04_GRAFFAPARTMENTBACK6B-8=
+
+
+# Brok
+### Is fixed.
+D04_GRAFFAPARTMENTBACK6B-9=
+
+
+# Graff
+### What?...
+D04_GRAFFAPARTMENTBACK6B-10=
+
+
+# Graff
+### You mean...you actually...?!
+D04_GRAFFAPARTMENTBACK6B-11=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Got your message, Graff. As soon as I was done with my client, I dropped by your friend's home.
+D04_GRAFFAPARTMENTBACK6B-12=
+
+
+# Brok
+### Was easy peasy with the right tools!
+D04_GRAFFAPARTMENTBACK6B-13=
+
+
+# Brok
+### Well, it's a temporary fix, but good enough for now.
+D04_GRAFFAPARTMENTBACK6B-14=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...I don't know what to say!
+D04_GRAFFAPARTMENTBACK6B-15=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I had felt so guilty, lost in my thoughts. Sending Brok that message was the least I could do.
+D04_GRAFFAPARTMENTBACK6B-16=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Thanks, Brok.
+D04_GRAFFAPARTMENTBACK6B-17=
+
+
+# Brok
+### Don't mention it.
+D04_GRAFFAPARTMENTBACK6B-18=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Erm, friend-of-Graff?
+D04_GRAFFAPARTMENTBACK6B-19=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+D04_GRAFFAPARTMENTBACK6B-20=
+
+
+# Brok
+### Yeah, your parents said they'll need an hour or two to clean up, so you can stay over with us for now.
+D04_GRAFFAPARTMENTBACK6B-21=
+
+
+# Ott
+### Great!
+D04_GRAFFAPARTMENTBACK6B-22=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Come on Ott, let's set everything up!
+D04_GRAFFAPARTMENTBACK6B-23=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### With the help of Brok, we went even further.
+D04_GRAFFAPARTMENTBACK7-1=
+
+
+# Graff
+### We made plenty more to decorate the hall and the front of our building.
+D04_GRAFFAPARTMENTBACK7-2=
+
+
+# Graff
+### It was inviting and friendly, like the entrance to a party.
+D04_GRAFFAPARTMENTBACK7-3=
+
+
+# Ott
+### All done!
+D04_GRAFFAPARTMENTBACK7-4=
+
+
+# Brok
+### Great job, kiddos! This is wonderful!
+D04_GRAFFAPARTMENTBACK7-5=
+
+
+# Brok
+### Well, dunno about you, but I'm starting to feel a bit peckish!
+D04_GRAFFAPARTMENTBACK7-6=
+
+
+# Graff
+### Unfortunately, it's not like we...
+D04_GRAFFAPARTMENTBACK7-7=
+
+
+### (Knock, knock)
+D04_GRAFFAPARTMENTBACK7-8=
+
+# Brok
+### Huh? Who's at the door?
+D04_GRAFFAPARTMENTBACK7-9=
+
+
+#----------------------------------------------------
+# Clint
+### Hey! Hello!
+D04_GRAFFAPARTMENTBACK8-1=
+
+
+# Ott
+### Mom? Dad?
+D04_GRAFFAPARTMENTBACK8-2=
+
+
+# Ott
+### Is it already time to pick me up?
+D04_GRAFFAPARTMENTBACK8-3=
+
+
+# Clint
+### Well, we came by to thank you for saving our day!
+D04_GRAFFAPARTMENTBACK8-4=
+
+
+# Brok
+### What a mouthwatering smell!
+D04_GRAFFAPARTMENTBACK8-5=
+
+
+# Nela
+### I prepared too many roasted bugs yesterday. With the leak, we had no time to eat properly.
+D04_GRAFFAPARTMENTBACK8-6=
+
+
+# Nela
+### Plus some dessert. I hope you like Appolze pie?
+D04_GRAFFAPARTMENTBACK8-7=
+
+
+# Brok
+### Oh, man! I love those!
+D04_GRAFFAPARTMENTBACK8-8=
+
+
+# Brok
+### I tried to make that pie before, but it was a disaster. Ya gotta give me your recipe!
+D04_GRAFFAPARTMENTBACK8-9=
+
+
+# Nela
+### Sure thing!
+D04_GRAFFAPARTMENTBACK8-10=
+
+
+# Clint
+### By the way, what's with all the weird ornaments?
+D04_GRAFFAPARTMENTBACK8-11=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Dad, we're celebrating <col=BOLD>Natal Tail</col>!
+D04_GRAFFAPARTMENTBACK8-12=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### You mean <col=BLUE>Natal Untail</col>?
+D04_GRAFFAPARTMENTBACK8-13=
+
+
+# Ott
+### Nope! We're doing it the way of the ancients!
+D04_GRAFFAPARTMENTBACK8-14=
+
+
+# Nela
+### Oh, how cute!
+D04_GRAFFAPARTMENTBACK8-15=
+
+
+# Brok
+### Hey, guys, what do you say we all have dinner together?
+D04_GRAFFAPARTMENTBACK8-16=
+
+
+# Brok
+### There's not much space, and not enough seats, but...maybe we can scooch the sofa to the table?
+D04_GRAFFAPARTMENTBACK8-17=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### That's the spirit, Brok!
+D04_GRAFFAPARTMENTBACK8-18=
+
+
+# Brok
+### Yeah! I learn fast!
+D04_GRAFFAPARTMENTBACK8-19=
+
+
+#----------------------------------------------------
+# Graff
+### And this is how we all got to spend the evening together.
+D04_GRAFFAPARTMENTBACK9-1=
+
+
+# Graff
+### We took turns and told stories.
+D04_GRAFFAPARTMENTBACK9-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott chose to explain how the best part of his day was helping a robot and a dying man at the Border Post.
+D04_GRAFFAPARTMENTBACK9-3=
+
+
+# Ott
+### I just realized he's homeless now.
+D04_GRAFFAPARTMENTBACK9-4=
+
+
+# Ott
+### I should have given him our address. We could have hosted him.
+D04_GRAFFAPARTMENTBACK9-5=
+
+
+# Clint
+### Don't feel so bad, Son. If what you say is true, you gave him the most precious gift of all.
+D04_GRAFFAPARTMENTBACK9-6=
+
+
+# Ott
+### Which one?
+D04_GRAFFAPARTMENTBACK9-7=
+
+
+# Clint
+### Hope!
+D04_GRAFFAPARTMENTBACK9-8=
+
+
+# Graff
+### I'll make sure to send a wish his way, if it helps.
+D04_GRAFFAPARTMENTBACK9-9=
+
+
+# Ott
+### We can do one together. Always worth a try!
+D04_GRAFFAPARTMENTBACK9-10=
+
+
+#----------------------------------------------------
+# Graff
+### And this is how we all spent the evening together.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-1=
+
+
+# Graff
+### We took turns sharing stories.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott chose to talk about how the best part of his day was helping a robot, but also how he regretted not helping a dying man at the Border Post.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-3=
+
+
+# Clint
+### I'm disappointed, son.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-4=
+
+
+# Ott
+### But dad...
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-5=
+
+
+# Clint
+### No "dad." Let this be a lesson for the future.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-6=
+
+
+# Clint
+### It doesn't matter how big or small you are. You should always try to help others.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-7=
+
+
+# Ott
+### I understand... and I'll pray for his safety.
+D04_GRAFFAPARTMENTBACK9_NEW_ALT-8=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I chose to mimic Ott and told all those around the table about the Squealer.
+D04_GRAFFAPARTMENTBACK10-1=
+
+
+# Graff
+### At the mention of that name, everyone thought I was crazy for helping him.
+D04_GRAFFAPARTMENTBACK10-2=
+
+
+# Graff
+### But once I finished...
+D04_GRAFFAPARTMENTBACK10-3=
+
+
+# Graff
+### They understood.
+D04_GRAFFAPARTMENTBACK10-4=
+
+
+# Graff
+### On this special day, we both loved those unplanned, selfless acts.
+D04_GRAFFAPARTMENTBACK10-5=
+
+
+# Graff
+### Even if we didn't earn money from them, we got a different, intangible reward.
+D04_GRAFFAPARTMENTBACK10-6=
+
+
+# Brok
+### Hey, that's what I do everyday! Pretty much, anyway!...
+D04_GRAFFAPARTMENTBACK10-7=
+
+
+# Graff
+### You're not wrong, ha ha!
+D04_GRAFFAPARTMENTBACK10-8=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I decided to mimic Ott and told everyone at the table about the Squealer.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-1=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff? Really?!
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-2=
+
+
+# Graff
+### Yeah! I wish you were here to see it!
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-3=
+
+
+# Graff
+### I pushed him hard, straight at the drone!
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-4=
+
+
+# Graff
+### I was so relieved to see it work.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-5=
+
+
+# Brok
+### How could you do this?!
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-6=
+
+
+# Graff
+### What do you mean?...this saved my life!
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-7=
+
+
+# Brok
+### And I'm grateful for that, but it doesn't excuse causing pain to others.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Squealers": "Верескуни"
+# NB: Lexicon word in Ukrainian for "Squealer": "Верескун"
+### Who cares! He's just one of many Squealers.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-9=
+
+
+# Brok
+### My boy, we're going to have a serious talk.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT-10=
+
+
+#----------------------------------------------------
+# Graff
+### I got the ultimate telling-off.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-1=
+
+
+# Graff
+### But he was right. That was a selfish act.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-2=
+
+
+# Graff
+### I'm not more important than this rat. And after what I did, maybe even less.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-3=
+
+
+# Graff
+### We all make mistakes, but a person's worth is defined by how willing they are to fix them.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-4=
+
+
+# Graff
+### I promised myself.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-5=
+
+
+# Graff
+### Never again. From now on, I'll put others before my own well-being.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-6=
+
+
+# Graff
+### I made peace with myself so we could continue the celebration.
+D04_GRAFFAPARTMENTBACK10_NEW_ALT2-7=
+
+
+#----------------------------------------------------
+# Graff
+### We told jokes, we laughed, we ate delicious food.
+D04_GRAFFAPARTMENTBACK11-1=
+
+
+# Graff
+### Sharing and giving. Spending time with loved ones.
+D04_GRAFFAPARTMENTBACK11-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Unknowingly, we all captured the true meaning of <col=BOLD>Natal Tail</col>.
+D04_GRAFFAPARTMENTBACK11-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I started to notice Ott had been recording videos of our private celebration.
+D04_GRAFFAPARTMENTBACK11-4=
+
+
+# Graff
+### Suddenly, he shut off his phone and made a more serious face.
+D04_GRAFFAPARTMENTBACK11-5=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff. It's time.
+D04_GRAFFAPARTMENTBACK11-6=
+
+
+# Ott
+### We owe the truth to our parents.
+D04_GRAFFAPARTMENTBACK11-7=
+
+
+# Graff
+### You mean...
+D04_GRAFFAPARTMENTBACK11-8=
+
+
+# Ott
+### Yeah.
+D04_GRAFFAPARTMENTBACK11-9=
+
+
+# Ott
+### Mom, Dad...We have some unfortunate news.
+D04_GRAFFAPARTMENTBACK11-10=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### Me and Graff...we won't be going to the Drums.
+D04_GRAFFAPARTMENTBACK11-11=
+
+
+# Clint
+### What?!
+D04_GRAFFAPARTMENTBACK11-12=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...is that true?...
+D04_GRAFFAPARTMENTBACK11-13=
+
+
+# Graff
+### ...yes. All because of stupid rules.
+D04_GRAFFAPARTMENTBACK11-14=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### We explained how a lack of Unis from our labor forced us to pay for the cheapest item together.
+D04_GRAFFAPARTMENTBACK11-15=
+
+
+# Ott
+### I'm sorry, Dad. I know how much this meant to you...
+D04_GRAFFAPARTMENTBACK11-16=
+
+
+# Clint
+### Son. Come here.
+D04_GRAFFAPARTMENTBACK11-17=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott looked as if he was preparing to get the biggest scolding of his life.
+D04_GRAFFAPARTMENTBACK11-18=
+
+
+# Clint
+### Those benevolent acts were a mistake. Spending your time on them was the cause of your failure.
+D04_GRAFFAPARTMENTBACK11-19=
+
+
+# Clint
+### We've invested so much into your future. You had no right to do this.
+D04_GRAFFAPARTMENTBACK11-20=
+
+
+# Clint
+### You failed me, you failed your family.
+D04_GRAFFAPARTMENTBACK11-21=
+
+
+# Ott
+### But dad...
+D04_GRAFFAPARTMENTBACK11-22=
+
+
+# Nela
+### Honey, I'm not sure...
+D04_GRAFFAPARTMENTBACK11-23=
+
+
+# Clint
+### Ssh!
+D04_GRAFFAPARTMENTBACK11-24=
+
+
+# Clint
+### Come closer, Son. And that's an order.
+D04_GRAFFAPARTMENTBACK11-25=
+
+
+# Ott
+### ...
+D04_GRAFFAPARTMENTBACK11-26=
+
+
+# Clint
+### That's what I would say if I was one of those heartless robots who only care about cold data.
+D04_GRAFFAPARTMENTBACK11-27=
+
+
+# Clint
+### But I'm not. I'm human, and so are you.
+D04_GRAFFAPARTMENTBACK11-28=
+
+
+# Clint
+### We make mistakes, and sometimes it's for the best.
+D04_GRAFFAPARTMENTBACK11-29=
+
+
+# Clint
+### I understand the reasons why you did it, and I won't put the blame on you, because...
+D04_GRAFFAPARTMENTBACK11-30=
+
+
+# Clint
+### Hey, I would have done the same.
+D04_GRAFFAPARTMENTBACK11-31=
+
+
+# Clint
+### Come on, give a hug to your old dad!
+D04_GRAFFAPARTMENTBACK11-32=
+
+
+# Ott
+### Erm!...
+D04_GRAFFAPARTMENTBACK11-33=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### They embraced each other, though with the expression on Ott's face I could tell he was being hugged a bit too tight.
+D04_GRAFFAPARTMENTBACK11-34=
+
+
+# Clint
+### As long as you act with your heart, with reason, we'll always support you.
+D04_GRAFFAPARTMENTBACK11-35=
+
+
+# Clint
+### I'm not saying I'm happy about it, but...
+D04_GRAFFAPARTMENTBACK11-36=
+
+
+# Brok
+### We shouldn't accept it. The kids did the right thing.
+D04_GRAFFAPARTMENTBACK11-37=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### I'll solve this with your Director tomorrow.
+D04_GRAFFAPARTMENTBACK11-38=
+
+
+# Unknown
+### That won't be necessary.
+D04_GRAFFAPARTMENTBACK11-39=
+
+
+#----------------------------------------------------
+# Graff
+### We all lifted our heads to look at an unexpected scene.
+D04_GRAFFAPARTMENTBACK12-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### At the entrance were the Director and Klay.
+D04_GRAFFAPARTMENTBACK12-2=
+
+
+# Brok
+### What's going on? And...who left the door open?!
+D04_GRAFFAPARTMENTBACK12-3=
+
+
+# Director
+### I have the keys to the whole city.
+D04_GRAFFAPARTMENTBACK12-4=
+
+
+# Klay
+### We've been here for a while, and none of you even noticed. Are you guys drunk or what?...
+D04_GRAFFAPARTMENTBACK12-5=
+
+
+# Brok
+### Well, I'm not pleased about this intrusion of our privacy...
+D04_GRAFFAPARTMENTBACK12-6=
+
+
+# Ott
+### What's going on?
+D04_GRAFFAPARTMENTBACK12-7=
+
+
+# Director
+### I'm here thanks to my son.
+D04_GRAFFAPARTMENTBACK12-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay? What did you do exactly?
+D04_GRAFFAPARTMENTBACK12-9=
+
+
+# Klay
+### ...the right thing, I hope.
+D04_GRAFFAPARTMENTBACK12-10=
+
+
+# Director
+### Let's just say, I have a better understanding of the situation from earlier today.
+D04_GRAFFAPARTMENTBACK12-11=
+
+
+# Director
+### In addition, I noticed your efforts to celebrate this evening, even after a hard day of work.
+D04_GRAFFAPARTMENTBACK12-12=
+
+
+# Director
+### Despite not being the intended way, you've shown creativity and skill. Congratulations.
+D04_GRAFFAPARTMENTBACK12-13=
+
+
+# Director
+### Therefore, I shall grant you an exception.
+D04_GRAFFAPARTMENTBACK12-14=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### You can continue your studies and hope to integrate into the Drums soon.
+D04_GRAFFAPARTMENTBACK12-15=
+
+
+# Ott
+### For real?!
+D04_GRAFFAPARTMENTBACK12-16=
+
+
+# Klay
+### If Mom says so, then it is.
+D04_GRAFFAPARTMENTBACK12-17=
+
+
+# Klay
+### Sucks I'll be stuck with you a while longer...
+D04_GRAFFAPARTMENTBACK12-18=
+
+
+# Graff
+### Thank you...
+D04_GRAFFAPARTMENTBACK12-19=
+
+
+# Graff
+### I...want this chance.
+D04_GRAFFAPARTMENTBACK12-20=
+
+
+# Director
+### It won't be easy though. You're not done yet.
+D04_GRAFFAPARTMENTBACK12-21=
+
+
+# Clint
+### Hey, Robot Madam, can you really bend the rules that easily?
+D04_GRAFFAPARTMENTBACK12-22=
+
+
+# Director
+### No rule was bent. It's solely about the interpretation.
+D04_GRAFFAPARTMENTBACK12-23=
+
+
+# Director
+### I can't punish students for not reading the rules when I didn't read them carefully enough myself.
+D04_GRAFFAPARTMENTBACK12-24=
+
+
+# Ott
+### You mean...you didn't write them?
+D04_GRAFFAPARTMENTBACK12-25=
+
+
+# Director
+### ...
+D04_GRAFFAPARTMENTBACK12-26=
+
+
+# Director
+### Maybe...maybe we've been wrong.
+D04_GRAFFAPARTMENTBACK12-27=
+
+
+# Clint
+### About?
+D04_GRAFFAPARTMENTBACK12-28=
+
+
+# Director
+### Everything.
+D04_GRAFFAPARTMENTBACK12-29=
+
+
+# Director
+### Only time will tell.
+D04_GRAFFAPARTMENTBACK12-30=
+
+
+# Director
+### Now, we're not going to be a bother much longer.
+D04_GRAFFAPARTMENTBACK12-31=
+
+
+# Ott
+### No! Please.
+D04_GRAFFAPARTMENTBACK12-32=
+
+
+# Ott
+### You can stay with us a bit longer.
+D04_GRAFFAPARTMENTBACK12-33=
+
+
+# Ott
+### Both of you.
+D04_GRAFFAPARTMENTBACK12-34=
+
+
+# Klay
+### Urgh. You guys are way too corny and smelly in here.
+D04_GRAFFAPARTMENTBACK12-35=
+
+
+# Klay
+### I'm gonna be sick.
+D04_GRAFFAPARTMENTBACK12-36=
+
+
+# Graff
+### No worries! I'll hand you a good vomit bag.
+D04_GRAFFAPARTMENTBACK12-37=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...Don't disrespect this scrawny lion boy.
+D04_GRAFFAPARTMENTBACK12-38=
+
+
+# Klay
+### Scrawny?! I'll show you scrawny!...
+D04_GRAFFAPARTMENTBACK12-39=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Oh, come on! You've got no chance in a fight against Brok!
+D04_GRAFFAPARTMENTBACK12-40=
+
+
+# Klay
+### Hmmph! Just you wait...
+D04_GRAFFAPARTMENTBACK12-41=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay. You are factually a scrawny mountain lion.
+D04_GRAFFAPARTMENTBACK12-42=
+
+
+# Klay
+### Not you too, Mom!
+D04_GRAFFAPARTMENTBACK12-43=
+
+
+#----------------------------------------------------
+# Graff
+### We enjoyed ourselves for a bit longer.
+D04_GRAFFAPARTMENTBACK13-1=
+
+
+# Graff
+### And when it was all said and done...
+D04_GRAFFAPARTMENTBACK13-2=
+
+
+# Ott
+### This was great.
+D04_GRAFFAPARTMENTBACK13-3=
+
+
+# Graff
+### You know what would make this perfect though?
+D04_GRAFFAPARTMENTBACK13-4=
+
+
+# Graff
+### Snow...
+D04_GRAFFAPARTMENTBACK13-5=
+
+
+# Brok
+### (Sigh) Sorry to disappoint, Son.
+D04_GRAFFAPARTMENTBACK13-6=
+
+
+# Brok
+### It's not like anyone could generate snow at will.
+D04_GRAFFAPARTMENTBACK13-7=
+
+
+# Graff
+### I know...
+D04_GRAFFAPARTMENTBACK13-8=
+
+
+# Director
+### ...
+D04_GRAFFAPARTMENTBACK13-9=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Well, I guess Shay could. She's not your regular hum...
+D04_GRAFFAPARTMENTBACK13-10=
+
+
+# Brok
+### Hey, wait...maybe we can after all!
+D04_GRAFFAPARTMENTBACK13-11=
+
+
+# Brok
+### The gun!
+D04_GRAFFAPARTMENTBACK13-12=
+
+
+# Graff
+### What gun?
+D04_GRAFFAPARTMENTBACK13-13=
+
+
+# Brok
+### You said you left a mattress around here, right?
+D04_GRAFFAPARTMENTBACK13-14=
+
+
+# Graff
+### Yeah, in front of our building. Why?
+D04_GRAFFAPARTMENTBACK13-15=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok retrieved a big weapon that looked like a toy, then left.
+D04_GRAFFAPARTMENTBACK14-1=
+
+
+# Graff
+### We all followed him as he picked the mattress up, only to watch him tear a hole in it.
+D04_GRAFFAPARTMENTBACK14-2=
+
+
+#----------------------------------------------------
+# Graff
+### Whoa! Hey, you're destroying it!
+D04_GRAFFAPARTMENTBACK14B-1=
+
+
+# Brok
+### Yeah, but for a good cause.
+D04_GRAFFAPARTMENTBACK14B-2=
+
+
+# Graff
+### He took the synthetic fibers, put them inside the gun, and shot it in the air.
+D04_GRAFFAPARTMENTBACK14B-3=
+
+
+#----------------------------------------------------
+# Brok
+### ...!
+D04_GRAFFAPARTMENTBACK14C-1=
+
+
+# Brok
+### That actually worked!
+D04_GRAFFAPARTMENTBACK14C-2=
+
+
+# Brok
+### It's...it's just like snow!
+D04_GRAFFAPARTMENTBACK14C-3=
+
+
+# Graff
+### The particles fell onto us, gently, as though time itself had begun to move in slow motion.
+D04_GRAFFAPARTMENTBACK14C-4=
+
+
+# Ott
+### Wow!
+D04_GRAFFAPARTMENTBACK14C-5=
+
+
+# Brok
+### Well, it's not exactly the same, not as cold or...
+D04_GRAFFAPARTMENTBACK14C-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Quiet, Brok.
+D04_GRAFFAPARTMENTBACK14C-7=
+
+
+# Graff
+### Let me...let's just enjoy this.
+D04_GRAFFAPARTMENTBACK14C-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott took his phone and started filming.
+D04_GRAFFAPARTMENTBACK14C-9=
+
+
+# Klay
+### Mom. Should we tell'em?...
+D04_GRAFFAPARTMENTBACK14C-10=
+
+
+# Director
+### Not yet.
+D04_GRAFFAPARTMENTBACK14C-11=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### The Slums deserve to experience it, too.
+D04_GRAFFAPARTMENTBACK14C-12=
+
+
+#----------------------------------------------------
+# Graff
+### I was very pleased. Everything had turned out way better than I could have ever expected.
+D04_GRAFFAPARTMENTBACK15-1=
+
+
+# Graff
+### Yet...
+D04_GRAFFAPARTMENTBACK15-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### ...there's still one part of <col=BOLD>Natal Tail</col> missing.
+D04_GRAFFAPARTMENTBACK15-3=
+
+
+# Brok
+### Explain?
+D04_GRAFFAPARTMENTBACK15-4=
+
+
+# Graff
+### The presents!
+D04_GRAFFAPARTMENTBACK15-5=
+
+
+# Klay
+### Hey, I already bought myself something.
+D04_GRAFFAPARTMENTBACK15-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### No, Klay.
+D04_GRAFFAPARTMENTBACK15-7=
+
+
+# Ott
+### Giving presents to others.
+D04_GRAFFAPARTMENTBACK15-8=
+
+
+# Klay
+### What? Why?
+D04_GRAFFAPARTMENTBACK15-9=
+
+
+# Graff
+### ...
+D04_GRAFFAPARTMENTBACK15-10=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Well, as it so happens...I do have a gift for you, Graff.
+D04_GRAFFAPARTMENTBACK15-11=
+
+
+# Graff
+### Really?!...
+D04_GRAFFAPARTMENTBACK15-12=
+
+
+# Brok
+### Yeah.
+D04_GRAFFAPARTMENTBACK15-13=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Merry <col=BOLD>Natal Tail</col>.
+D04_GRAFFAPARTMENTBACK15-14=
+
+
+# Graff
+### A computer!
+D04_GRAFFAPARTMENTBACK15-15=
+
+
+# Graff
+### Amazing! But...how?!
+D04_GRAFFAPARTMENTBACK15-16=
+
+
+# Graff
+### I didn't even say anything!
+D04_GRAFFAPARTMENTBACK15-17=
+
+
+# Brok
+### Hey, can't live with someone without figuring out a thing or two!
+D04_GRAFFAPARTMENTBACK15-18=
+
+
+# Graff
+### Thank you so much.
+D04_GRAFFAPARTMENTBACK15-19=
+
+
+# Ott
+### Maybe it can play games?
+D04_GRAFFAPARTMENTBACK15-20=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Would you let me try it, Graff?
+D04_GRAFFAPARTMENTBACK15-21=
+
+
+# Graff
+### Of course!
+D04_GRAFFAPARTMENTBACK15-22=
+
+
+# Clint
+### I see...
+D04_GRAFFAPARTMENTBACK15-23=
+
+
+# Clint
+### Son, I'll get you one too.
+D04_GRAFFAPARTMENTBACK15-24=
+
+
+# Ott
+### Really? You would?!
+D04_GRAFFAPARTMENTBACK15-25=
+
+
+# Clint
+### Not today, but...
+D04_GRAFFAPARTMENTBACK15-26=
+
+
+# Clint
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### If you keep working hard, it's a promise. Consider this a late <col=BOLD>Natal Tail</col> gift to you.
+D04_GRAFFAPARTMENTBACK15-27=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Awesome! Ott, we'll be able to play games together, even at a distance!
+D04_GRAFFAPARTMENTBACK15-28=
+
+
+# Ott
+### I can't wait!
+D04_GRAFFAPARTMENTBACK15-29=
+
+
+# Ott
+### But...Dad.
+D04_GRAFFAPARTMENTBACK15-30=
+
+
+# Ott
+### If you have to use that money for something more important, that's okay.
+D04_GRAFFAPARTMENTBACK15-31=
+
+
+# Clint
+### Nothing's more important than you, Son.
+D04_GRAFFAPARTMENTBACK15-32=
+
+
+# Ott
+### Thanks, but this is getting embarassing...
+D04_GRAFFAPARTMENTBACK15-33=
+
+
+#----------------------------------------------------
+# Klay
+### Yurgh!
+D04_GRAFFAPARTMENTBACK16-1=
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Still offering that vomit bag, Graff? I feel like I'm gonna need it...
+D04_GRAFFAPARTMENTBACK16-2=
+
+
+# Graff
+### Actually, I have something better.
+D04_GRAFFAPARTMENTBACK16-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Here, Klay. For you.
+D04_GRAFFAPARTMENTBACK16-4=
+
+
+# Klay
+### ...what?
+D04_GRAFFAPARTMENTBACK16-5=
+
+
+# Klay
+### Your piggy bank?
+D04_GRAFFAPARTMENTBACK16-6=
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Why the heck would I want this barely-less-ugly-than-Ott piggybank?!
+D04_GRAFFAPARTMENTBACK16-7=
+
+
+# Klay
+### You bought this for yourselves!
+D04_GRAFFAPARTMENTBACK16-8=
+
+
+# Ott
+### Just take it!
+D04_GRAFFAPARTMENTBACK16-9=
+
+
+# Ott
+### I'm sure you're the biggest spender of us.
+D04_GRAFFAPARTMENTBACK16-10=
+
+
+# Director
+### I cannot deny that.
+D04_GRAFFAPARTMENTBACK16-11=
+
+
+# Klay
+### Mom!...Why do you always have to shame me in public...
+D04_GRAFFAPARTMENTBACK16-12=
+
+
+# Director
+### I am merely stating a fact.
+D04_GRAFFAPARTMENTBACK16-13=
+
+
+# Klay
+### Well...
+D04_GRAFFAPARTMENTBACK16-14=
+
+
+# Klay
+### Thanks, I guess...
+D04_GRAFFAPARTMENTBACK16-15=
+
+
+# Graff
+### Holy...did I really hear what I think I did?
+D04_GRAFFAPARTMENTBACK16-16=
+
+
+# Ott
+### I heard it too!
+D04_GRAFFAPARTMENTBACK16-17=
+
+
+# Klay
+### It's called being polite, you dummies.
+D04_GRAFFAPARTMENTBACK16-18=
+
+
+# Klay
+### ...
+D04_GRAFFAPARTMENTBACK16-19=
+
+
+# Klay
+### Mom?
+D04_GRAFFAPARTMENTBACK16-20=
+
+
+# Klay
+### Why are you looking at me like that?
+D04_GRAFFAPARTMENTBACK16-21=
+
+
+# Klay
+### ...oh...
+D04_GRAFFAPARTMENTBACK16-22=
+
+
+# Director
+### ...
+D04_GRAFFAPARTMENTBACK16-23=
+
+
+# Klay
+### Alright, enough. I get you.
+D04_GRAFFAPARTMENTBACK16-24=
+
+
+# Klay
+### After all, my natural scent is amazing. Don't need this.
+D04_GRAFFAPARTMENTBACK16-25=
+
+
+# Graff
+### Your puurfume?
+D04_GRAFFAPARTMENTBACK16-26=
+
+
+# Klay
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Take it, Ott. Even if I doubt the most powerful fragrance could cover your hog stench.
+D04_GRAFFAPARTMENTBACK16-27=
+
+
+# Ott
+### That's so cool!
+D04_GRAFFAPARTMENTBACK16-28=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Thanks a lot, Klay!
+D04_GRAFFAPARTMENTBACK16-29=
+
+
+# Klay
+### ...I'm outta here.
+D04_GRAFFAPARTMENTBACK16-30=
+
+
+# Director
+### Very well. This is our time to say goodbye.
+D04_GRAFFAPARTMENTBACK16-31=
+
+
+# Director
+### Thank you.
+D04_GRAFFAPARTMENTBACK16-32=
+
+
+# Graff
+### ...
+D04_GRAFFAPARTMENTBACK16-33=
+
+
+# Graff
+### He loves that piggybank.
+D04_GRAFFAPARTMENTBACK16-34=
+
+
+# Ott
+### Sure does. Look how hard he was holding onto it!
+D04_GRAFFAPARTMENTBACK16-35=
+
+
+#----------------------------------------------------
+# Graff
+### After they left, we continued the improvised gifting.
+D04_GRAFFAPARTMENTBACK17-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Among other things, I gave Ott a poster of the MasterTweaks. We were both fans of this musical group.
+D04_GRAFFAPARTMENTBACK17-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I didn't really have anything to give to Brok, but he said he only wanted to see me happy.
+D04_GRAFFAPARTMENTBACK17-3=
+
+
+# Graff
+### I'll still find something for him in the next few days.
+D04_GRAFFAPARTMENTBACK17-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### We were going to call it an evening and Ott was leaving with his parents.
+D04_GRAFFAPARTMENTBACK17-5=
+
+
+#----------------------------------------------------
+# Graff
+### The night had arrived, but it hadn't arrived alone.
+D04_GRAFFAPARTMENTBACK17B-1=
+
+
+# Graff
+### Curious inhabitants from our building noticed the bright decorations and were attracted like flies to a flame.
+D04_GRAFFAPARTMENTBACK17B-2=
+
+
+# Graff
+### So we spent a while to explain what it all meant.
+D04_GRAFFAPARTMENTBACK17B-3=
+
+
+# Graff
+### Soon, people from the next block came to visit, and then more from further away.
+D04_GRAFFAPARTMENTBACK17B-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+### Eventually, they took videos of our decorations and posted them on the Triweb.
+D04_GRAFFAPARTMENTBACK17B-5=
+
+
+# Graff
+### The word was spreading, going viral.
+D04_GRAFFAPARTMENTBACK17B-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Me and Ott spent the last hours of the day making our own video too.
+D04_GRAFFAPARTMENTBACK17B-7=
+
+
+# Graff
+### We gave silly tips for making the decorations, which folks eventually considered as a tutorial.
+D04_GRAFFAPARTMENTBACK17B-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### In another video, we used footage of our dinner to explain the meaning of <col=BOLD>Natal Tail</col>.
+D04_GRAFFAPARTMENTBACK17B-9=
+
+
+# Graff
+### Why sharing was important to us. How gifts to others were much more rewarding than keeping them to ourselves.
+D04_GRAFFAPARTMENTBACK17B-10=
+
+
+# Graff
+### The next day, our video had garnered a thousand views.
+D04_GRAFFAPARTMENTBACK17B-11=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slumer": "мешканець Нетрів / нетрівець"
+### Slumer kids reproduced our decorations and soon the sector was filled with them.
+D04_GRAFFAPARTMENTBACK17B-12=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### That day, most who followed <col=BLUE>Natal Untail</col>'s rules and bought goods for themselves ended up giving them to someone close to them instead...
+D04_GRAFFAPARTMENTBACK17B-13=
+
+
+# Graff
+### ...promising that the next year, they would get them something more personal.
+D04_GRAFFAPARTMENTBACK17B-14=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Two days after, it was the whole Slums. Our video was reaching hundreds of thousands of views.
+D04_GRAFFAPARTMENTBACK17B-15=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Triweb": "Тривеб"
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### Basically, the entire Slums population that was connected to the Triweb experienced it, and it started expanding to the Drums.
+D04_GRAFFAPARTMENTBACK17B-16=
+
+
+# Graff
+### We got asked how we made snow happen.
+D04_GRAFFAPARTMENTBACK17B-17=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Brok decided to spend some time using Shay's gun for children to have fun under the fake snow.
+D04_GRAFFAPARTMENTBACK17B-18=
+
+
+# Graff
+### One kid or two accidentally swallowed some of the fibers.
+D04_GRAFFAPARTMENTBACK17B-19=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Thankfully, they're okay...but that made Brok be more cautious.
+D04_GRAFFAPARTMENTBACK17B-20=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I asked Brok to pick up more mattresses.
+D04_GRAFFAPARTMENTBACK17B-21=
+
+
+# Graff
+### We left them at the entrance of the sewers.
+D04_GRAFFAPARTMENTBACK17B-22=
+
+
+# Graff
+### Hopefully, that rat could finally have something soft to sleep on...
+D04_GRAFFAPARTMENTBACK17B-23=
+
+
+# Graff
+### Later on, a special announcement was made from the Government.
+D04_GRAFFAPARTMENTBACK17B-24=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### From now on, <col=BOLD>Natal Tail</col> would officially return.
+D04_GRAFFAPARTMENTBACK17B-25=
+
+
+# Graff
+### Under conditions: decorations could only be made from recycling old materials, and gifts were forbidden to be thrown away.
+D04_GRAFFAPARTMENTBACK17B-26=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### We'll see how well these rules would be followed, but in the mean time, Ott and I were pleased to be the ones who started all this.
+D04_GRAFFAPARTMENTBACK17B-27=
+
+
+# Graff
+### They also promoted Santail and sold disguises. Children were invited to make lists of wishes.
+D04_GRAFFAPARTMENTBACK17B-28=
+
+
+# Graff
+### I was starting to get concerned that the commercial aspect would take over again.
+D04_GRAFFAPARTMENTBACK17B-29=
+
+
+# Graff
+### In addition, a spectacle was organized for everyone to see.
+D04_GRAFFAPARTMENTBACK17B-30=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Our mesmerized gazes were directed to the dome, which was generating fake snow.
+D04_GRAFFAPARTMENTBACK17C-1=
+
+
+# Graff
+### I suspect this is what inspired snow globes in the first place.
+D04_GRAFFAPARTMENTBACK17C-2=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff!...Look!
+D04_GRAFFAPARTMENTBACK18-1=
+
+
+# Graff
+### Is...is it?
+D04_GRAFFAPARTMENTBACK18-2=
+
+
+# Brok
+### Yeah.
+D04_GRAFFAPARTMENTBACK18-3=
+
+
+# Brok
+### It's real.
+D04_GRAFFAPARTMENTBACK18-4=
+
+
+# Brok
+### It's snowing.
+D04_GRAFFAPARTMENTBACK18-5=
+
+
+# Brok
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Merry <col=BOLD>Natal Tail</col>, everyone.
+D04_GRAFFAPARTMENTBACK18-6=
+
+
+#----------------------------------------------------
+

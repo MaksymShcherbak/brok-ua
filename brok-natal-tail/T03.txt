@@ -1,0 +1,1767 @@
+﻿# LANGUAGE: UKR
+# FORMALITY RULES FOR THIS FILE:
+# - UNKNOWN, no rule is defined for these pairs:
+#     Bolt - Ott (Unknown)
+#     Bunnykid - Foxkid (Unknown)
+#     Bunnykid - Graff (Unknown)
+#     Director - Foxkid (Unknown)
+#     Director - Graff (Unknown)
+#     Director - Klay (Unknown)
+#     Director - Ott (Unknown)
+#     Foxkid - Bunnykid (Unknown)
+#     Foxkid - Director (Unknown)
+#     Foxkid - Graff (Unknown)
+#     Graff - Bunnykid (Unknown)
+#     Graff - Director (Unknown)
+#     Graff - Foxkid (Unknown)
+#     Graff - Klay (Unknown)
+#     Graff - Ott (Unknown)
+#     Klay - Director (Unknown)
+#     Klay - Graff (Unknown)
+#     Klay - Ott (Unknown)
+#     Ott - Bolt (Unknown)
+#     Ott - Director (Unknown)
+#     Ott - Graff (Unknown)
+#     Ott - Klay (Unknown)
+#     Ott - Tramp (Unknown)
+#     Ott - Tribotcop (Unknown)
+#     Tramp - Ott (Unknown)
+#     Tramp - Tribotcop (Unknown)
+#     Tribotcop - Ott (Unknown)
+#     Tribotcop - Tramp (Unknown)
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### I was on my way to the Consciousness Center.
+D03_SCHOOLEND1-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I saw the Director talking with Klay, and soon heard his familiar whining.
+D03_SCHOOLEND1-2=
+
+
+# Klay
+### Mom!
+D03_SCHOOLEND1-3=
+
+
+# Klay
+### Hey, Mom! You need to listen to me.
+D03_SCHOOLEND1-4=
+
+
+# Klay
+### It was horrible. The customers kept complaining, those clothes stinked, and...
+D03_SCHOOLEND1-5=
+
+
+# Director
+### Take this.
+D03_SCHOOLEND1-6=
+
+
+# Klay
+### ...
+D03_SCHOOLEND1-7=
+
+
+# Klay
+### No. I don't want to.
+D03_SCHOOLEND1-8=
+
+
+# Klay
+### Just hear me out!
+D03_SCHOOLEND1-9=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### We've discussed this before, Klay.
+D03_SCHOOLEND1-10=
+
+
+# Director
+### I am your mom. You do as I say.
+D03_SCHOOLEND1-11=
+
+
+# Director
+### Take this pill.
+D03_SCHOOLEND1-12=
+
+
+# Klay
+### I won't! I don't need an antidepressant!
+D03_SCHOOLEND1-13=
+
+
+# Director
+### I said...
+D03_SCHOOLEND1-14=
+
+
+# Director
+### TAKE. IT.
+D03_SCHOOLEND1-15=
+
+
+# Director
+### Or else...
+D03_SCHOOLEND1-16=
+
+
+# Klay
+### ...
+D03_SCHOOLEND1-17=
+
+
+# Klay
+### Fine.
+D03_SCHOOLEND1-18=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### As I entered the facility, I heard Klay whispering...
+D03_SCHOOLEND1-19=
+
+
+# Klay
+### ...
+D03_SCHOOLEND1-20=
+
+
+# Klay
+### ...but I won't.
+D03_SCHOOLEND1-21=
+
+
+#----------------------------------------------------
+# Director
+### Take a seat, sweetie!
+D03_SCHOOLEND1B-1=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Somehow, Ott was already at his desk.
+D03_SCHOOLEND2_NEW_ALT-1=
+
+
+# Graff
+### He wouldn't even look at me.
+D03_SCHOOLEND2_NEW_ALT-2=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Somehow, Ott was already there and eating at his desk.
+D03_SCHOOLEND2-1=
+
+
+# Graff
+### He's told me that he runs fast, but now I believe it!
+D03_SCHOOLEND2-2=
+
+
+# Graff
+### So, what're you eating?
+D03_SCHOOLEND2-3=
+
+
+# Ott
+### Oats.
+D03_SCHOOLEND2-4=
+
+
+# Graff
+### Ah. Plant based food's not my th...
+D03_SCHOOLEND2-5=
+
+
+#----------------------------------------------------
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay suddenly went past by us, spitting.
+D03_SCHOOLEND3-1=
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Everything fine, Klay?
+D03_SCHOOLEND3-2=
+
+
+# Klay
+### Yep! All peachy! My job was amazing.
+D03_SCHOOLEND3-3=
+
+
+# Klay
+### And I got myself a premium Musk of the Lynx Puurfume!
+D03_SCHOOLEND3-4=
+
+
+# Ott
+### You're a mountain lion. Not a lynx.
+D03_SCHOOLEND3-5=
+
+
+# Klay
+### Details!
+D03_SCHOOLEND3-6=
+
+
+# Klay
+### I'm sure you peasants got something boring and cheap like a cardboard box.
+D03_SCHOOLEND3-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Mind your own business, Klay.
+D03_SCHOOLEND3-8=
+
+
+# Klay
+### Man, you really need to improve your witty comebacks.
+D03_SCHOOLEND3-9=
+
+
+# Graff
+### ...
+D03_SCHOOLEND3-10=
+
+
+# Ott
+### He's right though.
+D03_SCHOOLEND3-11=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott!
+D03_SCHOOLEND3-12=
+
+
+# Ott
+### Hey, it wouldn't hurt to learn to defend ourselves. That includes verbally.
+D03_SCHOOLEND3-13=
+
+
+# Ott
+### (Yawn)
+D03_SCHOOLEND3-14=
+
+
+# Ott
+### I'm tired. Can't wait for this day to end...
+D03_SCHOOLEND3-15=
+
+
+#----------------------------------------------------
+# Director
+### Students!
+D03_SCHOOLEND4-1=
+
+
+# Director
+### There is no doubt in my mind that you have achieved your goal. It is time for you to celebrate!
+D03_SCHOOLEND4-2=
+
+
+# Graff
+### (Does she even have a mind?...)
+D03_SCHOOLEND4-3=
+
+
+# Director
+### One by one, you will tell the class about your day and what you bought for yourself.
+D03_SCHOOLEND4-4=
+
+
+#----------------------------------------------------
+# Graff
+### Some celebration that was. I was starting to feel weary.
+D03_SCHOOLEND5-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's situation, however...was worse.
+D03_SCHOOLEND5-2=
+
+
+# Graff
+### It'll be our turn soon.
+D03_SCHOOLEND5-3=
+
+
+# Graff
+### ...
+D03_SCHOOLEND5-4=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott? Ott! Wake up!
+D03_SCHOOLEND5-5=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Nothing worked. Ott was sleeping like a baby.
+D03_SCHOOLEND5-6=
+
+
+# Graff
+### My stress-o-meter gauge was reaching its limits.
+D03_SCHOOLEND5-7=
+
+
+# Graff
+### He probably had sleep to catch up on...
+D03_SCHOOLEND5-8=
+
+
+#----------------------------------------------------
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff?
+D03_SCHOOLEND5B-1=
+
+
+# Graff
+### Err...yeah?
+D03_SCHOOLEND5B-2=
+
+
+# Director
+### Tell us. What did you do today and...
+D03_SCHOOLEND5B-3=
+
+
+### (Class laugh)
+D03_SCHOOLEND5B-4=
+
+# Director
+### <font=emergency>SILENCE!</font>
+D03_SCHOOLEND5B-5=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's snoring probably was heard from the other side of the Slums.
+D03_SCHOOLEND5B2-1=
+
+
+# Graff
+### I attempted to respond to distract them.
+D03_SCHOOLEND5B2-2=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I...helped an Untail believer set up her stall in a poor sector of the Slums.
+D03_SCHOOLEND5B2-3=
+
+
+# Graff
+### It was full of wonderful looking items...
+D03_SCHOOLEND5B2-4=
+
+
+# Director
+### Items from the old tradition?
+D03_SCHOOLEND5B2-5=
+
+
+# Graff
+### Erm...
+D03_SCHOOLEND5B2-6=
+
+
+# Graff
+### I think so...
+D03_SCHOOLEND5B2-7=
+
+
+# Director
+### Please continue.
+D03_SCHOOLEND5B2-8=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### At the end of the day, I didn't have enough Unis to buy anything worthwhile.
+D03_SCHOOLEND5B2-9=
+
+
+#----------------------------------------------------
+# Graff
+### So we didn't.
+D03_SCHOOLEND5C_NEW_ALT-1=
+
+
+# Director
+### ...
+D03_SCHOOLEND5C_NEW_ALT-2=
+
+
+# Director
+### You didn't.
+D03_SCHOOLEND5C_NEW_ALT-3=
+
+
+# Graff
+### You heard me.
+D03_SCHOOLEND5C_NEW_ALT-4=
+
+
+# Foxkid
+### ...what an idiot!
+D03_SCHOOLEND5C_NEW_ALT-5=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff.
+D03_SCHOOLEND5C_NEW_ALT-6=
+
+
+# Director
+### If you confirm not buying a present for yourselves...
+D03_SCHOOLEND5C_NEW_ALT-7=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Couldn't get anything worthwhile. Ott trusted my judgment.
+D03_SCHOOLEND5C_NEW_ALT-8=
+
+
+# Director
+### I understand.
+D03_SCHOOLEND5C_NEW_ALT-9=
+
+
+# Director
+### It is with a heavy heart that I have to give you both an eliminatory zero.
+D03_SCHOOLEND5C_NEW_ALT-10=
+
+
+# Graff
+### What?!
+D03_SCHOOLEND5C_NEW_ALT-11=
+
+
+# Graff
+### Are you kidding me?! It's just a stupid celebration!
+D03_SCHOOLEND5C_NEW_ALT-12=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff, you are being highly disrespectful of this holy day.
+D03_SCHOOLEND5C_NEW_ALT-13=
+
+
+# Director
+### The rules are the rules. I'm afraid you didn't put much thought into it.
+D03_SCHOOLEND5C_NEW_ALT-14=
+
+
+# Graff
+### I... what?!
+D03_SCHOOLEND5C_NEW_ALT-15=
+
+
+# Graff
+### How dare you say that! You have no idea what I went through today, you purple mother of junk!
+D03_SCHOOLEND5C_NEW_ALT-16=
+
+
+# Director
+### Careful! I will not tolerate such imp...
+D03_SCHOOLEND5C_NEW_ALT-17=
+
+
+# Graff
+### Buzz off, cyber brain!
+D03_SCHOOLEND5C_NEW_ALT-18=
+
+
+#----------------------------------------------------
+# Graff
+### (Well, that's not exactly what I said. I had to censor that part. I was so enraged.)
+D03_SCHOOLEND5C_NEW_ALT2-1=
+
+
+### (Which definitely didn't help. I could get into details, but...)
+D03_SCHOOLEND5C_NEW_ALT2-2=
+
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (Me and Ott were definitely excluded from the Consciousness Center.)
+D03_SCHOOLEND5C_NEW_ALT2-3=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### (The word spread fast. Our parents, and even Ott himself, could only feel the utmost disappointment toward me.)
+D03_SCHOOLEND5C_NEW_ALT2-4=
+
+### (Oops.)
+D03_SCHOOLEND5C_NEW_ALT2-5=
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### But Ott was with me, in the same predicament.
+D03_SCHOOLEND5WITHOTT-1=
+
+
+# Graff
+### We did the best thing we could. We combined our money to get this connected piggy bank.
+D03_SCHOOLEND5WITHOTT-2=
+
+
+# Graff
+### As you instructed, it is both useful and effic...
+D03_SCHOOLEND5WITHOTT-3=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff. Do you realize what you're saying?
+D03_SCHOOLEND5WITHOTT-4=
+
+
+# Graff
+### ...?
+D03_SCHOOLEND5WITHOTT-5=
+
+
+# Foxkid
+### (Psst! Sharing your money with others is forbidden, you idiot!)
+D03_SCHOOLEND5WITHOTT-6=
+
+
+# Bunnykid
+### (You'll get eliminated! Both of you!)
+D03_SCHOOLEND5WITHOTT-7=
+
+
+# Graff
+### What...?
+D03_SCHOOLEND5WITHOTT-8=
+
+
+# Director
+### This item. Is it yours, or is it for both of you?
+D03_SCHOOLEND5WITHOTT-9=
+
+
+# Graff
+### My cheeks were burning.
+D03_SCHOOLEND5WITHOTT-10=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I was desperately looking at Ott for advice, but it was pointless.
+D03_SCHOOLEND5WITHOTT-11=
+
+
+# Director
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### I'm asking you again, Graff. Is it yours only?
+D03_SCHOOLEND5WITHOTT-12=
+
+
+# Graff
+### .......
+D03_SCHOOLEND5WITHOTT-13=
+
+
+# Graff
+### ...y...yes. Mine only. Sorry.
+D03_SCHOOLEND5WITHOTT-14=
+
+
+# Graff
+### I was just...trying to cover for him...he couldn't get one.
+D03_SCHOOLEND5WITHOTT-15=
+
+
+# Director
+### Understood.
+D03_SCHOOLEND5WITHOTT-16=
+
+
+# Director
+### You pass. However...
+D03_SCHOOLEND5WITHOTT-17=
+
+
+# Director
+### I am afraid I have to give an eliminatory zero to your friend.
+D03_SCHOOLEND5WITHOTT-18=
+
+
+### (Gasps around the class)
+D03_SCHOOLEND5WITHOTT-19=
+
+#----------------------------------------------------
+# Graff
+### My mind did not follow the rest of the "celebration."
+D03_SCHOOLEND7-1=
+
+
+# Graff
+### I was too busy thinking.
+D03_SCHOOLEND7-2=
+
+
+# Graff
+### I made the most logical decision.
+D03_SCHOOLEND7-3=
+
+
+# Graff
+### I tried hard to convince myself. I had to.
+D03_SCHOOLEND7-4=
+
+
+# Graff
+### If I hadn't, we both would have been eliminated...
+D03_SCHOOLEND7-5=
+
+
+# Graff
+### This was for the best...
+D03_SCHOOLEND7-6=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### But then Ott eventually woke up.
+D03_SCHOOLEND7-7=
+
+
+# Ott
+### ...Err?
+D03_SCHOOLEND7-8=
+
+
+# Ott
+### We're in class...oh no!
+D03_SCHOOLEND7-9=
+
+
+# Ott
+### My turn passed already?
+D03_SCHOOLEND7-10=
+
+
+# Graff
+### He could totally read my face.
+D03_SCHOOLEND7-11=
+
+
+# Graff
+### ...Unfortunately...I'm sorry.
+D03_SCHOOLEND7-12=
+
+
+# Ott
+### You don't mean...
+D03_SCHOOLEND7-13=
+
+
+# Graff
+### Yeah...you've been...disqualified...
+D03_SCHOOLEND7-14=
+
+
+# Ott
+### That's...that's not possible!
+D03_SCHOOLEND7-15=
+
+
+# Ott
+### We bought the item together! You told them that, right?
+D03_SCHOOLEND7-16=
+
+
+# Graff
+### But you weren't awake...
+D03_SCHOOLEND7-17=
+
+
+# Klay
+### Wow. And you call him a friend?
+D03_SCHOOLEND7-18=
+
+
+# Klay
+### He's literally lying to you, chump.
+D03_SCHOOLEND7-19=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Klay!
+D03_SCHOOLEND7-20=
+
+
+# Ott
+### No! Let him speak!
+D03_SCHOOLEND7-21=
+
+
+# Klay
+### You've been eliminated because buying an item together is against the rules.
+D03_SCHOOLEND7-22=
+
+
+# Klay
+### Of course, you knew. I mean, at least one of you two imbeciles actually read them, right?...
+D03_SCHOOLEND7-23=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Shut up, Klay! I don't need you insulting us. It was just a mistake!
+D03_SCHOOLEND7-24=
+
+
+# Klay
+### It's fine, though! Puss here passed!
+D03_SCHOOLEND7-25=
+
+
+# Klay
+### Be a little happy for your "friend"!
+D03_SCHOOLEND7-26=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff...is that true?...
+D03_SCHOOLEND7-27=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Director": "директорка"
+### You lied to the Director...to the whole class...and to me...just so you could pass?
+D03_SCHOOLEND7-28=
+
+
+# Graff
+### It was the only...
+D03_SCHOOLEND7-29=
+
+
+#----------------------------------------------------
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott suddenly stood from his chair and sprinted through the front door.
+D03_SCHOOLEND8-1=
+
+
+# Graff
+### That split second when I saw his face...it will remain in my memory forever.
+D03_SCHOOLEND8-2=
+
+
+# Graff
+### He was crying.
+D03_SCHOOLEND8-3=
+
+
+# Graff
+### The session wasn't over, but for him that didn't matter.
+D03_SCHOOLEND8-4=
+
+
+# Graff
+### Me, on the other hand...I was on the verge of collapsing.
+D03_SCHOOLEND8-5=
+
+
+# Graff
+### I had caused this.
+D03_SCHOOLEND8-6=
+
+
+# Graff
+### I was fully responsible.
+D03_SCHOOLEND8-7=
+
+
+#----------------------------------------------------
+# Graff
+### I must have looked like a zombie when I left the facility.
+D03_SCHOOLEND9-1=
+
+
+# Graff
+### Lifeless and unresponsive.
+D03_SCHOOLEND9-2=
+
+
+#----------------------------------------------------
+# Graff
+### I went back to my apartment...
+D03_BACKAPARTMENT-1=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### ...empty, of course. Brok hadn't come back.
+D03_BACKAPARTMENT-2=
+
+
+# Graff
+### I needed someone to talk to. Badly.
+D03_BACKAPARTMENT-3=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### I attempted to call Brok.
+D03_BACKAPARTMENT-4=
+
+
+# Graff
+### Nothing. Busy or out of network, probably.
+D03_BACKAPARTMENT-5=
+
+
+# Graff
+### He always had a good excuse.
+D03_BACKAPARTMENT-6=
+
+
+# Graff
+### I sent him a message anyway. Like throwing a bottle into the sea...
+D03_BACKAPARTMENT-7=
+
+
+# Graff
+### The lump in my stomach was widening.
+D03_BACKAPARTMENT-8=
+
+
+# Graff
+### It was as if a hole had replaced it.
+D03_BACKAPARTMENT-9=
+
+
+# Graff
+### I had failed my best friend. Ruined his future.
+D03_BACKAPARTMENT-10=
+
+
+# Graff
+### What could I possibly do to fix this?...
+D03_BACKAPARTMENT-11=
+
+
+#----------------------------------------------------
+# Graff
+### Well, count me out.
+D03_SCHOOLEND10-1=
+
+
+# Graff
+### Cold logic and doing what "made sense" had gotten me into this mess.
+D03_SCHOOLEND10-2=
+
+
+# Graff
+### There was only one thing I could think to do.
+D03_SCHOOLEND10-3=
+
+
+# Graff
+### I had to.
+D03_SCHOOLEND10-4=
+
+
+# Graff
+### It would only make things worse for me, but that didn't matter.
+D03_SCHOOLEND10-5=
+
+
+# Graff
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### I'd just have to fail on purpose. Ott wouldn't want me to, but then again, he probably doesn't ever want to be around me again, anyway.
+D03_SCHOOLEND10-6=
+
+
+# Graff
+### I was done caring.
+D03_SCHOOLEND10-7=
+
+
+# Graff
+### It didn't matter right now though...
+D03_SCHOOLEND10-8=
+
+
+# Graff
+### I couldn't move at all.
+D03_SCHOOLEND10-9=
+
+
+# Graff
+### Just an empty shell, lying on a bed.
+D03_SCHOOLEND10-10=
+
+
+#----------------------------------------------------
+# Ott
+### My best friend had betrayed me.
+D03_OTTBORDERPOSTEND1-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### I would expect this from Klay. Never could trust him.
+D03_OTTBORDERPOSTEND1-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### But Graff...who had always been so nice to me...
+D03_OTTBORDERPOSTEND1-3=
+
+
+# Ott
+### I was still dumbfounded.
+D03_OTTBORDERPOSTEND1-4=
+
+
+# Ott
+### He was the closest person I've ever been to.
+D03_OTTBORDERPOSTEND1-5=
+
+
+# Ott
+### I always could trust him with anything, without fear of getting dismissed or laughed at.
+D03_OTTBORDERPOSTEND1-6=
+
+
+# Ott
+### Whenever I'm close to him, I feel happy. A different sort of joy than what I get from my parents.
+D03_OTTBORDERPOSTEND1-7=
+
+
+# Ott
+### I didn't want to go back home. Mom and Dad would probably comfort me, but they would also be so disappointed.
+D03_OTTBORDERPOSTEND1-8=
+
+
+#----------------------------------------------------
+# Ott
+### Instead, I was at the Border Post. The same area from a few hours ealier.
+D03_OTTBORDERPOSTEND1B-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I was contemplating the Drums on the other side.
+D03_OTTBORDERPOSTEND1B-2=
+
+
+# Ott
+### It was just decided that I would never access it.
+D03_OTTBORDERPOSTEND1B-3=
+
+
+# Ott
+### Did I really want to go there? Honestly, I had no idea.
+D03_OTTBORDERPOSTEND1B-4=
+
+
+# Ott
+### What mattered to me the most was to be with the people I love, and who loved me in return.
+D03_OTTBORDERPOSTEND1B-5=
+
+
+# Ott
+### I only had one true friend...and I just lost him.
+D03_OTTBORDERPOSTEND1B-6=
+
+
+# Bolt
+### Oh! You came - back!
+D03_OTTBORDERPOSTEND1B-7=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Hello, Bolt.
+D03_OTTBORDERPOSTEND1B-8=
+
+
+# Ott
+### At least I still have you...
+D03_OTTBORDERPOSTEND1B-9=
+
+
+# Bolt
+### My main - processor unit - is telling - me that - you look - sad.
+D03_OTTBORDERPOSTEND1B-10=
+
+
+# Ott
+### I am.
+D03_OTTBORDERPOSTEND1B-11=
+
+
+# Ott
+### Unfortunately, I don't think there's anything you can do about it.
+D03_OTTBORDERPOSTEND1B-12=
+
+
+# Bolt
+### Oh...
+D03_OTTBORDERPOSTEND1B-13=
+
+
+# Bolt
+### Well, I wish - you good - luck.
+D03_OTTBORDERPOSTEND1B-14=
+
+
+# Ott
+### Wish...
+D03_OTTBORDERPOSTEND1B-15=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Bolt": "Болт"
+### Thanks, Bolt. Maybe I'll do just that!
+D03_OTTBORDERPOSTEND1B-16=
+
+
+# Bolt
+### You are - welcome!
+D03_OTTBORDERPOSTEND1B-17=
+
+
+#----------------------------------------------------
+# Ott
+### At that same moment, I heard some noise coming from the border.
+D03_OTTBORDERPOSTEND2-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### A group of people was crossing, exiting the dome.
+D03_OTTBORDERPOSTEND2-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### Approaching, I realized it was actually a single individual accompanied by a few Tribots.
+D03_OTTBORDERPOSTEND2-3=
+
+
+# Ott
+### A stocky, mustached, middle-aged muskrat.
+D03_OTTBORDERPOSTEND2-4=
+
+
+# Ott
+### The escort stood close to him, as if concerned he was going to slip away.
+D03_OTTBORDERPOSTEND2-5=
+
+
+# Tribotcop
+### Citizen 451206770.
+D03_OTTBORDERPOSTEND2-6=
+
+
+# Tribotcop
+# NB: Lexicon word in Ukrainian for "Unis": "Юні"
+# NB: Lexicon word in Ukrainian for "Uni": "Юні"
+### You have been expelled under regulation 45A: non-payment for medical invoices totalling 24,590 Unis, exceeding the maximum debt allowed.
+D03_OTTBORDERPOSTEND2-7=
+
+
+# Tramp
+### Yeah, yeah. I'm dying.
+D03_OTTBORDERPOSTEND2-8=
+
+
+# Tramp
+### Tell me something new.
+D03_OTTBORDERPOSTEND2-9=
+
+
+#----------------------------------------------------
+# Ott
+### I didn't really know what to think.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-1=
+
+
+# Ott
+### Right now, my own troubles monopolized my mind, and I couldn't focus on anything else.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-2=
+
+
+# Ott
+### This wasn't my business. Besides, that old man looked like he could handle it.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-3=
+
+
+# Ott
+### I can barely take care of myself. How presumptuous would it be to think I could help others?
+D03_OTTBORDERPOST_NEW_DONTBOTHER-4=
+
+
+# Ott
+### I started to wander, far from the Border Post.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-5=
+
+
+# Ott
+### ...
+D03_OTTBORDERPOST_NEW_DONTBOTHER-6=
+
+
+# Ott
+### And then I felt it.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-7=
+
+
+# Ott
+### Guilt.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-8=
+
+
+# Ott
+### What if that man was in trouble?
+D03_OTTBORDERPOST_NEW_DONTBOTHER-9=
+
+
+# Ott
+### What if I could have helped, after all?
+D03_OTTBORDERPOST_NEW_DONTBOTHER-10=
+
+
+# Ott
+### Is my own trouble worth more than this poor person's?
+D03_OTTBORDERPOST_NEW_DONTBOTHER-11=
+
+
+# Ott
+### I am despicable.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-12=
+
+
+# Ott
+### People might think I'm just quiet, someone who doesn't have much to say.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-13=
+
+
+# Ott
+### But that's not true. I overthink everything.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-14=
+
+
+# Ott
+### And now, I believe I made a mistake.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-15=
+
+
+# Ott
+### More than one, actually.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-16=
+
+
+# Ott
+### Maybe I deserved everything that happened.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-17=
+
+
+# Ott
+### It was all my fault. I couldn't gather enough money. I should have tried harder.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-18=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### ...I need to make things right with Graff.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-19=
+
+
+# Ott
+### Whether or not he's right... he's my only friend in this world.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-20=
+
+
+# Ott
+### It's time.
+D03_OTTBORDERPOST_NEW_DONTBOTHER-21=
+
+
+#----------------------------------------------------
+# Ott
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### I was shocked. Was this how the Drums treated citizens?
+D03_OTTBORDERPOSTEND3-1=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+# NB: Lexicon word in Ukrainian for "Drumers": "мешканці Верхів"
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### It reminded me of the strict management we had to deal with in the Consciousness Center. That made sense - Drumers were also running that place.
+D03_OTTBORDERPOSTEND3-2=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drumer": "мешканець Верхів"
+### My regret about never becoming a Drumer lifted a little.
+D03_OTTBORDERPOSTEND3-3=
+
+
+# Ott
+### Whatever. I couldn't just stay here and do nothing!
+D03_OTTBORDERPOSTEND3-4=
+
+
+# Ott
+### Hey! Are you kicking this man out because he's dying?!
+D03_OTTBORDERPOSTEND3-5=
+
+
+# Tribotcop
+### Citizen. Move.
+D03_OTTBORDERPOSTEND3-6=
+
+
+# Ott
+### And on this holy day? That's unfair!
+D03_OTTBORDERPOSTEND3-7=
+
+
+# Tramp
+### Hello, my boy. Do not feel concerned about me.
+D03_OTTBORDERPOSTEND3-8=
+
+
+# Tribotcop
+### Our sensors indicate the individual requires an explanation.
+D03_OTTBORDERPOSTEND3-9=
+
+
+# Tribotcop
+### In order to keep a flourishing state, society has to make the most accurate choices.
+D03_OTTBORDERPOSTEND3-10=
+
+
+# Tribotcop
+### Curing this man's disease implies refusing to cure other citizens with higher calculated rates of survival.
+D03_OTTBORDERPOSTEND3-11=
+
+
+# Tribotcop
+### Now, please move.
+D03_OTTBORDERPOSTEND3-12=
+
+
+# Ott
+### But...!
+D03_OTTBORDERPOSTEND3-13=
+
+
+# Tramp
+### It's fine. I've accepted my fate.
+D03_OTTBORDERPOSTEND3-14=
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Slums": "Нетрі"
+### I'll spend the little time I have left in the Slums. I'll get used to it.
+D03_OTTBORDERPOSTEND3-15=
+
+
+# Tramp
+### Please, don't threaten them or...
+D03_OTTBORDERPOSTEND3-16=
+
+
+# Ott
+### Mister, you don't deserve this!
+D03_OTTBORDERPOSTEND3-17=
+
+
+# Ott
+### I don't care if I just met you, I can see it on your face. You're a nice person!
+D03_OTTBORDERPOSTEND3-18=
+
+
+# Tribotcop
+### Protocol engaged. Target set.
+D03_OTTBORDERPOSTEND3-19=
+
+
+# Tramp
+### Oh no!
+D03_OTTBORDERPOSTEND3-20=
+
+
+# Tribotcop
+### 3...
+D03_OTTBORDERPOSTEND3-21=
+
+
+# Tramp
+### Run!!! Hide yourself!
+D03_OTTBORDERPOSTEND3-22=
+
+
+# Tribotcop
+### 2...
+D03_OTTBORDERPOSTEND3-23=
+
+
+# Tramp
+### Please! Listen to me!...
+D03_OTTBORDERPOSTEND3-24=
+
+
+#----------------------------------------------------
+# Ott
+### I was in danger, but my legs refused to move.
+D03_OTTBORDERPOSTEND4-1=
+
+
+# Ott
+### Why?...
+D03_OTTBORDERPOSTEND4-2=
+
+
+# Tramp
+### Very well, metal executioners.
+D03_OTTBORDERPOSTEND4-3=
+
+
+# Tramp
+### Even in my poor health, I won't let you harm this innocent boy!
+D03_OTTBORDERPOSTEND4-4=
+
+
+# Ott
+### The man was in fighting stance, positioning himself right between me and the three bots.
+D03_OTTBORDERPOSTEND4-5=
+
+
+# Tramp
+### I swear to protect him until my last breath!
+D03_OTTBORDERPOSTEND4-6=
+
+
+#----------------------------------------------------
+# Ott
+### At the last minute, the sound of a laser made me jump behind a bench for safety.
+D03_OTTBORDERPOSTEND5-1=
+
+
+# Ott
+### It was over. I was convinced the man was shot.
+D03_OTTBORDERPOSTEND5-2=
+
+
+# Ott
+### At that instant, I made a wish. The only thing I could do.
+D03_OTTBORDERPOSTEND5-3=
+
+
+# Ott
+### It was hopeless of course. But maybe, just maybe...if I wished strong enough...
+D03_OTTBORDERPOSTEND5-4=
+
+
+# Ott
+### And then I heard the fight.
+D03_OTTBORDERPOSTEND5-5=
+
+
+# Ott
+### Though I couldn't exactly see what was happening, not only was he alive, the man clearly had the upper hand.
+D03_OTTBORDERPOSTEND5-6=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
+### One big military Tribot exploded a bit further from me.
+D03_OTTBORDERPOSTEND5-7=
+
+
+# Ott
+### It was a stupid thought in the moment, but I was thoroughly impressed. What kind of person is able to fight those machines, armed with nothing but their fists?
+D03_OTTBORDERPOSTEND5-8=
+
+
+# Ott
+### In any case, I was thankful...and ashamed I was the cause of this.
+D03_OTTBORDERPOSTEND5-9=
+
+
+# Ott
+### If this man died because of me, no matter his fatal disease...I could never forgive myself.
+D03_OTTBORDERPOSTEND5-10=
+
+
+# Ott
+### Thankfully...
+D03_OTTBORDERPOSTEND5-11=
+
+
+# Ott
+### One last explosion.
+D03_OTTBORDERPOSTEND5-12=
+
+
+# Ott
+### I came out from under the bench to see what happened.
+D03_OTTBORDERPOSTEND5-13=
+
+
+#----------------------------------------------------
+# Ott
+### You won! You really won!
+D03_OTTBORDERPOSTEND6-1=
+
+
+# Tramp
+### Ha ha, looks like I did.
+D03_OTTBORDERPOSTEND6-2=
+
+
+# Tramp
+### I may have lost strength, but I still have experience.
+D03_OTTBORDERPOSTEND6-3=
+
+
+# Tramp
+### My boy, what you did was pretty reckless.
+D03_OTTBORDERPOSTEND6-4=
+
+
+# Ott
+### I know...I just wanted to help.
+D03_OTTBORDERPOSTEND6-5=
+
+
+# Tramp
+### And I admire that.
+D03_OTTBORDERPOSTEND6-6=
+
+
+# Tramp
+### You remind me of myself when I was your age. I joined the military, and trained every day, to protect this land.
+D03_OTTBORDERPOSTEND6-7=
+
+
+# Ott
+### And now that same society has failed you.
+D03_OTTBORDERPOSTEND6-8=
+
+
+# Tramp
+### We protected the citizens. Not the society.
+D03_OTTBORDERPOSTEND6-9=
+
+
+# Tramp
+### Citizens like you.
+D03_OTTBORDERPOSTEND6-10=
+
+
+# Ott
+### You still can! You saved me, and it was incredible!
+D03_OTTBORDERPOSTEND6-11=
+
+
+# Ott
+### Thank you so much!
+D03_OTTBORDERPOSTEND6-12=
+
+
+# Tramp
+### No. It's me who should thank you.
+D03_OTTBORDERPOSTEND6-13=
+
+
+# Tramp
+### You made me push my limits to save you. I feel better!
+D03_OTTBORDERPOSTEND6-14=
+
+
+# Tramp
+### And doing a good deed...that's a warm feeling that I still cherish.
+D03_OTTBORDERPOSTEND6-15=
+
+
+# Ott
+### That's right!
+D03_OTTBORDERPOSTEND6-16=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Natal Untail": "Безхвосте Різдво"
+### Unfortunately, the world doesn't care. We both got expelled on this <col=BLUE>Natal Untail</col> day.
+D03_OTTBORDERPOSTEND6-17=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Consciousness Center": "Центр Свідомості"
+### I failed my assignement at the Consciousness Center and got disqualified.
+D03_OTTBORDERPOSTEND6-18=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Drums": "Верхи"
+### So I can never join the Drums now.
+D03_OTTBORDERPOSTEND6-19=
+
+
+# Tramp
+### Oh no. I'm so sorry, my boy.
+D03_OTTBORDERPOSTEND6-20=
+
+
+# Tramp
+### Don't lose hope! You're the one that told me that.
+D03_OTTBORDERPOSTEND6-21=
+
+
+# Ott
+### I'm not even sure I want it anymore, after seeing what they did to you.
+D03_OTTBORDERPOSTEND6-22=
+
+
+# Tramp
+### Don't think like that. Each situation is different.
+D03_OTTBORDERPOSTEND6-23=
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "The Dome": "Купол"
+### Nothing's ever so black or white in this world. Like everything else, the dome has good and bad aspects.
+D03_OTTBORDERPOSTEND6-24=
+
+
+# Tramp
+### Don't reject it entirely just based on this one incident.
+D03_OTTBORDERPOSTEND6-25=
+
+
+# Ott
+### I guess you're right.
+D03_OTTBORDERPOSTEND6-26=
+
+
+# Ott
+### But it's worse. My best friend lied to me.
+D03_OTTBORDERPOSTEND6-27=
+
+
+# Ott
+### He lied to pass, when he really should have...
+D03_OTTBORDERPOSTEND6-28=
+
+
+# Ott
+### Should have...
+D03_OTTBORDERPOSTEND6-29=
+
+
+# Ott
+### ...
+D03_OTTBORDERPOSTEND6-30=
+
+
+# Tramp
+### Did he mean to hurt you?
+D03_OTTBORDERPOSTEND6-31=
+
+
+# Ott
+### Well...not really.
+D03_OTTBORDERPOSTEND6-32=
+
+
+# Ott
+### It wouldn't have changed anything for me, even if he hadn't lied.
+D03_OTTBORDERPOSTEND6-33=
+
+
+# Tramp
+### Did he try his best?
+D03_OTTBORDERPOSTEND6-34=
+
+
+# Ott
+### ...
+D03_OTTBORDERPOSTEND6-35=
+
+
+# Ott
+### He always does.
+D03_OTTBORDERPOSTEND6-36=
+
+
+# Ott
+### Honestly, I'm not even sure what I would have done in his place.
+D03_OTTBORDERPOSTEND6-37=
+
+
+# Ott
+### I'm just angry at this whole stupid tradition.
+D03_OTTBORDERPOSTEND6-38=
+
+
+# Ott
+### Why shouldn't we be able to share our money to help others?!
+D03_OTTBORDERPOSTEND6-39=
+
+
+# Ott
+### Why do we have to do this alone?!
+D03_OTTBORDERPOSTEND6-40=
+
+
+# Ott
+### That's stupid!
+D03_OTTBORDERPOSTEND6-41=
+
+
+# Tramp
+### You're on the right track.
+D03_OTTBORDERPOSTEND6-42=
+
+
+# Tramp
+### Do you want to be his friend still?
+D03_OTTBORDERPOSTEND6-43=
+
+
+# Ott
+### Yes. More than anything.
+D03_OTTBORDERPOSTEND6-44=
+
+
+# Tramp
+### Then you know what to do.
+D03_OTTBORDERPOSTEND6-45=
+
+
+# Ott
+### ...
+D03_OTTBORDERPOSTEND6-46=
+
+
+# Tramp
+### Maybe we owe it to ourselves to keep hoping for a better future.
+D03_OTTBORDERPOSTEND6-47=
+
+
+# Ott
+### Thank you, mister...
+D03_OTTBORDERPOSTEND6-48=
+
+
+# Tramp
+### Call me Ric.
+D03_OTTBORDERPOSTEND6-49=
+
+
+# Ott
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Alright, Ric! I'm Ott.
+D03_OTTBORDERPOSTEND6-50=
+
+
+# Tramp
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Well, Ott, it's time for me to face my new destiny...as terrible it may be.
+D03_OTTBORDERPOSTEND6-51=
+
+
+# Ott
+### Wait! Aren't you going back?
+D03_OTTBORDERPOSTEND6-52=
+
+
+# Ott
+### There's no bot to prevent you now.
+D03_OTTBORDERPOSTEND6-53=
+
+
+# Tramp
+### What for?
+D03_OTTBORDERPOSTEND6-54=
+
+
+# Tramp
+### There's nothing left for me under that dome.
+D03_OTTBORDERPOSTEND6-55=
+
+
+# Tramp
+### You, on the other hand, with such a bold and young spirit, could have a bright future there.
+D03_OTTBORDERPOSTEND6-56=
+
+
+# Ott
+### I'll try...
+D03_OTTBORDERPOSTEND6-57=
+
+
+# Tramp
+### Take care, my boy.
+D03_OTTBORDERPOSTEND6-58=
+
+
+# Ott
+### Thanks again! I hope we see each other again!
+D03_OTTBORDERPOSTEND6-59=
+
+
+# Tramp
+### Someday!
+D03_OTTBORDERPOSTEND6-60=
+
+
+#----------------------------------------------------
+# Ott
+### ...
+D03_OTTBORDERPOSTEND7-1=
+
+
+# Ott
+### He has a point...
+D03_OTTBORDERPOSTEND7-2=
+
+
+# Ott
+### Time to do what's right.
+D03_OTTBORDERPOSTEND7-3=
+
+
+#----------------------------------------------------
+

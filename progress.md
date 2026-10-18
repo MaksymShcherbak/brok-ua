@@ -107,3 +107,14 @@ Status of every file of the translation, with one column per stage:
 | Item    | Initial Translation | Proof-Reading |
 | :------ | :------------------ | :------------ |
 | TCOMMON | Done                | Done          |
+
+## Brok: Natal Tail
+
+| Item    | Initial Translation | Proof-Reading |
+| :------ | :------------------ | :------------ |
+| T00     | To Do               | To Do         |
+| T01     | To Do               | To Do         |
+| T02     | To Do               | To Do         |
+| T03     | To Do               | To Do         |
+| T04     | To Do               | To Do         |
+| T99     | To Do               | To Do         |

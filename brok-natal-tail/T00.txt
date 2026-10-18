@@ -1,0 +1,463 @@
+﻿# LANGUAGE: UKR
+#-----------------------------------------
+# VISUAL NOVEL TEXT EXAMPLE
+# Part 1
+#-----------------------------------------
+
+# -----------------------------------------
+### ???
+CHAR_UNKNOWN=
+
+### Bunny kid
+CHAR_BUNNYKID=
+
+### Fox kid
+CHAR_FOXKID=
+
+### Hippopotamus
+CHAR_HIPPO=
+
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Shay
+CHAR_SHAY=
+
+### Red Panda
+CHAR_REDPANDA=
+
+### Nela
+CHAR_NELA=
+
+# NB: Lexicon word in Ukrainian for "Clint": "Клінт"
+### Clint
+CHAR_CLINT=
+
+### Stan
+CHAR_STAN=
+
+### Drone
+CHAR_DRONE=
+
+
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Natal Tail, a new Christmas
+TITLE_GAME=
+
+### Results
+TITLE_RESULTS=
+
+# NB: Lexicon word in Ukrainian for "Natal Tail": "Хвостате Різдво"
+### Merry Christmas#and Merry Natal Tail!
+TITLE_MERRY=
+
+### COWCAT GAMES 2024/2025
+TITLE_COPYRIGHT=
+
+### Writer
+CREDITS_WRITER=
+
+### Character art
+CREDITS_CHARART=
+
+### Background art
+CREDITS_BACKART=
+
+### Music
+CREDITS_MUSIC=
+
+### Additional art
+CREDITS_ADDART=
+
+### Text editing
+CREDITS_TEXTEDIT=
+
+### Additional help
+CREDITS_ADDHELP=
+
+### Translation
+CREDITS_TRANSLATION=
+
+### Visual Novel Engine
+CREDITS_VNENGINE=
+
+### Royalty free sounds
+CREDITS_ROYALTYFREE=
+
+
+### Store page
+PC_STOREPAGE=
+
+### Support the dev.
+PC_SUPPORT=
+
+### and get postcards
+PC_GETPOSTCARDS=
+
+### Thank you!
+PC_SUPPORT_AFTER=
+
+### Get your postcards
+PC_GETPOSTCARDS_AFTER=
+
+### Thank you! You will now be redirected to a web page to download the postcards.
+PC_POSTCARDS_POPUP=
+
+### Continue
+PC_CONTINUE=
+
+### Exit
+PC_EXIT=
+
+### Start
+PC_START=
+
+### Load
+PC_LOAD=
+
+### Options
+PC_OPTIONS=
+
+### Story maker
+PC_STORYMAKE=
+
+### Make your own adventure
+PC_MAKEVN=
+
+### Wishlist
+PC_WISHLIST=
+
+### Skip credits
+PC_SKIPCREDITS=
+
+### Skip the credits?
+PC_SKIPCREDITS_QUESTION=
+
+
+### Autoplay disabled
+PC_AUTOPLAY_DISABLED=
+
+### Autoplay enabled
+PC_AUTOPLAY_ENABLED=
+
+
+# Stores specific
+### The game is "Name your own price". When downloading, simply enter your donation. Thank you!
+ITCH_DONATE_MSG=
+
+### Support the dev + Postcards
+DLC_PREMIUM=
+
+
+# Achievements titles
+### Chapter 1 Start
+ACH_PART1=
+
+### Chapter 2 Start
+ACH_PART2=
+
+### Chapter 3 Start
+ACH_PART3=
+
+### Chapter 4 Start
+ACH_PART4=
+
+### Story Complete
+ACH_FINISH=
+
+### Sugar Craving
+ACH_DELICIOUS=
+
+### Overslept
+ACH_OVERSLEEP=
+
+### Christmas Grinch
+ACH_REFUSESTALL=
+
+### Powder Trouble
+ACH_REFUSEGUN=
+
+### No Petting
+ACH_PUSHRAT=
+
+### Scaredy Cat
+ACH_DRONE=
+
+### Misplaced Trust
+ACH_REFUSEOTT=
+
+### Not My Problem
+ACH_NOTRAMP=
+
+### Mischievous
+ACH_WORST=
+
+### Angel
+ACH_BEST=
+
+
+
+# Achievements descriptions
+### Never skip the first chapter
+ACH_DESC_PART1=
+
+### Never skip the second chapter
+ACH_DESC_PART2=
+
+### Never skip the third chapter
+ACH_DESC_PART3=
+
+### Never skip the fourth chapter
+ACH_DESC_PART4=
+
+### Never quit before reaching the credits
+ACH_DESC_FINISH=
+
+### Never skip breakfast
+ACH_DESC_DELICIOUS=
+
+### Never leave home sleep-deprived
+ACH_DESC_OVERSLEEP=
+
+### Never forget it's a Christmas game
+ACH_DESC_REFUSESTALL=
+
+### Never disobey the police
+ACH_DESC_REFUSEGUN=
+
+### Never fail to push a rat
+ACH_DESC_PUSHRAT=
+
+### Never flee from danger
+ACH_DESC_DRONE=
+
+### Never disappoint your best friend
+ACH_DESC_REFUSEOTT=
+
+### Never stick your nose into others' business
+ACH_DESC_NOTRAMP=
+
+### Never stop being kind until the end
+ACH_DESC_BEST=
+
+### Never stop being mischievous until the end
+ACH_DESC_WORST=
+
+
+
+# Choices
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott is my...
+D01_START2_NEW_CHOICE_QUESTION=
+
+### Best Friend
+D01_START2_NEW_CHOICE_BESTFRIEND=
+
+### Worst Enemy
+D01_START2_NEW_CHOICE_WORSTENEMY=
+
+### Guardian Angel
+D01_START2_NEW_CHOICE_GUARDIANANGEL=
+
+### Lover
+D01_START2_NEW_CHOICE_LOVER=
+
+### Pitiful Creature
+D01_START2_NEW_CHOICE_POORTHING=
+
+### Delicious Pastry
+D01_START2_NEW_CHOICE_DELICIOUSCAKE=
+
+
+### Do I react?
+D01_START3_NEW_CHOICE_QUESTION=
+
+
+### How should I respond?
+D01_START3_NEW2_CHOICE_QUESTION=
+
+### Stutter
+D01_START3_NEW2_CHOICE_STUTTER=
+
+# NB: Lexicon word in Ukrainian for "Klay": "Клей"
+### Blame Klay
+D01_START3_NEW2_CHOICE_BLAMEKLAY=
+
+### Give a Compliment
+D01_START3_NEW2_CHOICE_COMPLIMENT=
+
+
+### Where should I go?
+D01_OUTSIDE3_NEW_CHOICE_QUESTION=
+
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Ott's Place
+D01_OUTSIDE3_NEW_CHOICE_OTTPLACE=
+
+### Back to My Apartment
+D01_OUTSIDE3_NEW_CHOICE_BACKAPARTMENT=
+
+### Dark Alley
+D01_OUTSIDE3_NEW_CHOICE_DARKALLEY=
+
+### Sector 56X
+D01_OUTSIDE3_NEW_CHOICE_SECTOR56X=
+
+
+### Do I accept?
+D01_SECTOR56X_1_NEW_CHOICE_QUESTION=
+
+
+# The thief is a woman
+### Chase the thief?
+D01_SECTOR56X_6_NEW_QUESTION=
+
+
+### Enter?
+D02_SHAYOUTSIDE_NEW_CHOICE_QUESTION=
+
+
+### Comply?
+D02_SHAY6B_NEW_CHOICE_QUESTION=
+
+
+### Help the rat?
+D02_MOUSE2B_NEW_CHOICE_QUESTION=
+
+
+### Act against the drone?
+D02_MOUSE4_NEW_CHOICE_QUESTION=
+
+### Run Away
+D02_MOUSE4_RUNAWAY=
+
+### Throw a Rock
+D02_MOUSE4_THROWROCK=
+
+### Do Not Move
+D02_MOUSE4_DONOTMOVE=
+
+### Push the Rat
+D02_MOUSE4_PUSHTHERAT=
+
+
+### Combine our money?
+D02_STORE7_NEW_QUESTION=
+
+### No Way!
+D02_STORE7_NOWAY=
+
+
+### What's happening?
+D03_OTTBORDERPOST_NEW_QUESTION=
+
+### Check
+S03_OTTBORDERPOST_NEW_CHECK=
+
+### Don't Bother
+S03_OTTBORDERPOST_NEW_DONTBOTHER=
+
+
+# Generic for gameovers
+### Game Over!
+GAMEOVER_LABEL=
+
+### Restart from…
+GAMEOVER_QUESTION=
+
+### Last Safe Choice
+GAMEOVER_QUESTION_CHECKPOINT=
+
+### Start of the Game
+GAMEOVER_QUESTION_RESTART=
+
+
+# CG gallery
+# NB: Lexicon word in Ukrainian for "Merchant": "крамарка"
+### Merchant's Stall
+CG_STALL=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+### Graff oversleeps
+CG_GRAFFOVERSLEEP=
+
+### Refuse to give the gun
+CG_REFUSEGUN=
+
+### Celebration
+CG_CELEBRATE=
+
+### Snow gun
+CG_SNOWGUN=
+
+### Snow Dome
+CG_SNOWEND=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok santa
+CG_CARD1=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Shay": "Шей"
+### Brok, Graff and Shay holidays
+CG_CARD2=
+
+# NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
+# NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
+# NB: Lexicon word in Ukrainian for "Sin": "Сін"
+### Sin, R.J. and Tramp santas
+CG_CARD3=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Brok, Graff and Ott playing videogames
+CG_CARD4=
+
+### Fathers Day
+CG_CARD5=
+
+### Distributing gifts
+CG_CARD6=
+
+### Playing in the snow
+CG_CARD7=
+
+### Detective and more
+CG_CARD8=
+
+### Happy New Year
+CG_CARD9=
+
+# NB: Lexicon word in Ukrainian for "Atlasia": "Атлазія"
+### Atlasia Map
+CG_CARD10=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### Brok's selfie
+CG_CARD11=
+
+### Merry Christmas with rodents
+CG_CARD12=
+
+### Happy Holidays with rodents
+CG_CARD13=
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### BROK the arcade game
+CG_CARD14=
+
+### Celebrating with family
+CG_CARD15=
+
+
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+### BROK the InvestiGator
+POPUP_MAIN=
+
+# NB: Lexicon word in Ukrainian for "Graff": "Графф"
+# NB: Lexicon word in Ukrainian for "Brok": "Брок"
+# NB: Lexicon word in Ukrainian for "Ott": "Отт"
+### Continue the story of Brok, Graff and Ott! An innovative adventure in a dystopia where animals have replaced humans. <col=BOLD>Available now!</col>
+POPUP_MAIN_DESCRIPTION=
+
+
