@@ -1263,7 +1263,7 @@ CREDITS_SCENE_SCHOOL1B-1=В очікуванні наказів
 # Klay
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### ...Stubot?
-CREDITS_SCENE_SCHOOL1B-2=...Студбот?
+CREDITS_SCENE_SCHOOL1B-2=...Студботе?
 
 
 # Klay
@@ -1309,7 +1309,7 @@ CREDITS_SCENE_SCHOOL1B-10=Добре
 
 # Klay
 ### Great! I can leave this place in good hands.
-CREDITS_SCENE_SCHOOL1B-11=Чудово! Я можу залишити це місце в добрих руках.
+CREDITS_SCENE_SCHOOL1B-11=Чудово! Я залишив це місце в добрих руках.
 
 
 # Stubot

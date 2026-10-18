@@ -519,13 +519,13 @@ PC20_INITD-8=Ми не можемо на них покладатися!
 
 # Wes
 ### There's more people than you think who don't enjoy this regime we're living in, Mister Pork.
-PC20_INITD-9=У світі набагато більше людей, незадоволених режимом, у якому ми живемо, ніж ти можеш собі уявити, пане Борку.
+PC20_INITD-9=Ви навіть не уявляєте, скільки людей насправді незадоволені цим режимом, Борку.
 
 
 # Brok
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok!
-PC20_INITD-10=Броку!
+PC20_INITD-10=Я Брок!
 
 
 # Wes
@@ -4451,7 +4451,7 @@ PC20_DIRECTOR1E2-2=Я... не можу вирватися!
 
 # Wes
 ### How... How can you do this?!
-PC20_DIRECTOR1E2-3=Як... Як ти це робиш?!
+PC20_DIRECTOR1E2-3=Як... Як ти посміла?!
 
 
 # Wes

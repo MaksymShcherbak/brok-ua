@@ -5322,7 +5322,7 @@ PC01_STORY300_INIT1D-7=...
 
 # Brok
 ### At least... Did it work?
-PC01_STORY300_INIT1D-8=Принаймні... Чи воно спрацювало?
+PC01_STORY300_INIT1D-8=Чи це... принаймні... спрацювало?
 
 
 # Graff
@@ -5674,7 +5674,7 @@ PC01_STORY300_INIT1E3B-1=Н... Не може бути...!
 
 # Graff
 ### He was right...
-PC01_STORY300_INIT1E3B-2=Він мав рацію...
+PC01_STORY300_INIT1E3B-2=Він казав правду...
 
 
 # Brok
@@ -5905,7 +5905,7 @@ PC01_STORY300_INIT1G-2=Краще життя...
 
 # Graff
 ### You know how you could achieve this...?!
-PC01_STORY300_INIT1G-3=Знаєш, як би ти міг його забезпечити...?!
+PC01_STORY300_INIT1G-3=Знаєш, як ти можеш його забезпечити...?!
 
 
 # Graff
