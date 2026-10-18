@@ -33,7 +33,7 @@ PC_BALL=Куля
 PC_SQUARE=Квадрат
 
 ### Trap
-PC_TRAP=Пастка
+PC_TRAP=Люк
 
 ### Key lock
 PC_KEYLOCK=Замок
