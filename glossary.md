@@ -73,10 +73,10 @@
 | Sly                  | Слай              |                                     |
 | Boyd                 | Бойд              |                                     |
 | Rok                  | Рок               |                                     |
-| Puzzles              | Пазлс             |                                     |
+| Puzzles              | Пазл              |                                     |
 | Tenderjaw            | Щелепка           |                                     |
 | 'Jaw                 | 'Лепка            |                                     |
-| Bubbles              | Баблс             |                                     |
+| Bubbles              | Бульбашка         |                                     |
 | Sharpteeth the Thief | Гострозуб Крадій  |                                     |
 | Ivy                  | Айві              |                                     |
 | Clint                | Клінт             |                                     |

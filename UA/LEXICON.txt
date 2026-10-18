@@ -429,7 +429,7 @@ CHAR_BEAR=Рок
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Puzzles
-CHAR_HEDGEHOG=Пазлс
+CHAR_HEDGEHOG=Пазл (персонаж) / головоломки
 
 # NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
 ### Tenderjaw
@@ -437,7 +437,7 @@ CHAR_HYENA=Щелепка
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Bubbles
-CHAR_FROG=Баблс
+CHAR_FROG=Бульбашка
 
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### Sharpteeth

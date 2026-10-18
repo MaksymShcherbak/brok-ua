@@ -59,7 +59,7 @@ BM03_STORY330-3=(Пане Броку? Пане?)
 # Brok
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Puzzles?
-BM03_STORY330-4=Пазлс?
+BM03_STORY330-4=Пазле?
 
 
 # Hedgehog

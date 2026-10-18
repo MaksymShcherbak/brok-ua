@@ -409,7 +409,7 @@ CHAR_BEAR=Рок
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Puzzles
-CHAR_HEDGEHOG=Пазлс
+CHAR_HEDGEHOG=Пазл
 
 # NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
 ### Tenderjaw
@@ -417,7 +417,7 @@ CHAR_HYENA=Щелепка
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Bubbles
-CHAR_FROG=Баблс
+CHAR_FROG=Бульбашка
 
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### Sharpteeth
@@ -1467,7 +1467,7 @@ HELP_DLC_DLCFINISH=Грайте іншими персонажами
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Congratulations for finishing the Brawl Bar story. But the fun is far from over!##<col=BOLD>Replay all challenges with new characters</col>! Ask Bubbles at any time to switch to Graff, R.J. and more.##{command}
-HELP_DLC_DLCFINISH_INSTRUCTIONS=Вітаємо із завершенням історії Бійцівського бару! Але веселощі ще не закінчилися!##<col=BOLD>Пройдіть усі виклики новими персонажами</col>! Будь-коли попросіть Баблс перемкнутися на Граффа, Р. Джея та інших.##{command}
+HELP_DLC_DLCFINISH_INSTRUCTIONS=Вітаємо із завершенням історії Бійцівського бару! Але веселощі ще не закінчилися!##<col=BOLD>Пройдіть усі виклики новими персонажами</col>! Будь-коли попросіть Бульбашку перемкнутися на Граффа, Р. Джея та інших.##{command}
 
 ### You can also press <button=INPUT_ACTION_SCROLL_INV_LEFT> and <button=INPUT_ACTION_SCROLL_INV_RIGHT> to switch characters at any time.
 HELP_DLC_DLCFINISH_COMMAND=Ви також можете натискати <button=INPUT_ACTION_SCROLL_INV_LEFT> та <button=INPUT_ACTION_SCROLL_INV_RIGHT>, щоб будь-коли перемикати персонажів.
@@ -1478,7 +1478,7 @@ HELP_DLC_DLCFINISH2=Розблокуйте бонуси
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Unlock all remaining <col=BOLD>bonus challenges and collectibles</col> with Bubbles' wheel. Earn more C-Tokens!
-HELP_DLC_DLCFINISH2_INSTRUCTIONS=Розблокуйте решту <col=BOLD>бонусних викликів і колекційних предметів</col> за допомогою колеса Баблс. Заробляйте більше К-Жетонів!
+HELP_DLC_DLCFINISH2_INSTRUCTIONS=Розблокуйте решту <col=BOLD>бонусних викликів і колекційних предметів</col> за допомогою колеса Бульбашки. Заробляйте більше К-Жетонів!
 
 
 ### Daily Challenges
@@ -1493,7 +1493,7 @@ HELP_DLC_DLCFINISH4=Режим творця
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Use Bubbles' <col=BOLD>Creator Mode</col> to create your own challenges.
-HELP_DLC_DLCFINISH4_INSTRUCTIONS=Скористайтеся <col=BOLD>Режимом творця</col> Баблс, щоб створювати власні виклики.
+HELP_DLC_DLCFINISH4_INSTRUCTIONS=Скористайтеся <col=BOLD>Режимом творця</col> Бульбашки, щоб створювати власні виклики.
 
 ### Share them to your friends and <col=BOLD>download</col> community ones!##You can also create <col=BOLD>environments</col> and <col=BOLD>character mods</col>. Be sure to join the Discord for help on this!
 HELP_DLC_DLCFINISH4_INSTRUCTIONS_PC=Діліться ними з друзями та <col=BOLD>завантажуйте</col> випробування спільноти!##Ви також можете створювати <col=BOLD>середовища</col> та <col=BOLD>моди персонажів</col>. Приєднуйтеся до Discord, щоб отримати допомогу!
@@ -4247,7 +4247,7 @@ HELP_DLC_VRFOOD_TOUCH=<button=INPUT_TOUCH_TAP>
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Select characters in the <col=BOLD>Menu</col> or ask Bubbles to switch at any time.
-HELP_DLC_DLCFINISH_COMMAND_TOUCH=Виберіть персонажів у <col=BOLD>Меню</col> або будь-коли попросіть Баблс перемкнути їх.
+HELP_DLC_DLCFINISH_COMMAND_TOUCH=Виберіть персонажів у <col=BOLD>Меню</col> або будь-коли попросіть Бульбашку перемкнути їх.
 
 ### Swipe UP <button=INPUT_TOUCH_SWIPEUP> or tap the fight mode icon <spr=BUTTON_modefight> to switch.
 HELP_DLC_SWITCHMODE_INSTRUCTIONS_TOUCH=Проведіть ВГОРУ <button=INPUT_TOUCH_SWIPEUP> або торкніться іконки режиму бійки <spr=BUTTON_modefight>, щоб перемкнути.

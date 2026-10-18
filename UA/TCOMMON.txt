@@ -8092,7 +8092,7 @@ CHAR_ROK=Рок
 
 # NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
 ### Puzzles
-CHAR_PUZZLES=Пазлс
+CHAR_PUZZLES=Пазл
 
 # NB: Lexicon word in Ukrainian for "Tenderjaw": "Щелепка"
 ### Tenderjaw
@@ -8100,7 +8100,7 @@ CHAR_TENDERJAW=Щелепка
 
 # NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
 ### Bubbles
-CHAR_BUBBLES=Баблс
+CHAR_BUBBLES=Бульбашка
 
 # NB: Lexicon word in Ukrainian for "Sharpteeth": "Гострозуб"
 ### Sharpteeth
