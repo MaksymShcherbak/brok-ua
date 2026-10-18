@@ -407,7 +407,7 @@ CHAR_ROOSTER=Бойд
 ### Rok
 CHAR_BEAR=Рок
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles
 CHAR_HEDGEHOG=Пазл
 
@@ -415,7 +415,7 @@ CHAR_HEDGEHOG=Пазл
 ### Tenderjaw
 CHAR_HYENA=Щелепка
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Bubbles
 CHAR_FROG=Бульбашка
 
@@ -1463,7 +1463,7 @@ HELP_DLC_VRFOOD2_INSTRUCTIONS=Під час наступного виклику 
 ### Play More Characters
 HELP_DLC_DLCFINISH=Грайте іншими персонажами
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 # NB: Lexicon word in Ukrainian for "Graff": "Графф"
 # NB: Lexicon word in Ukrainian for "R.J.": "Р. Джей"
 ### Congratulations for finishing the Brawl Bar story. But the fun is far from over!##<col=BOLD>Replay all challenges with new characters</col>! Ask Bubbles at any time to switch to Graff, R.J. and more.##{command}
@@ -1476,7 +1476,7 @@ HELP_DLC_DLCFINISH_COMMAND=Ви також можете натискати <butt
 ### Unlock Bonuses
 HELP_DLC_DLCFINISH2=Розблокуйте бонуси
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Unlock all remaining <col=BOLD>bonus challenges and collectibles</col> with Bubbles' wheel. Earn more C-Tokens!
 HELP_DLC_DLCFINISH2_INSTRUCTIONS=Розблокуйте решту <col=BOLD>бонусних викликів і колекційних предметів</col> за допомогою колеса Бульбашки. Заробляйте більше К-Жетонів!
 
@@ -1491,7 +1491,7 @@ HELP_DLC_DLCFINISH3_INSTRUCTIONS=Новий <col=BOLD>щоденний викл�
 ### Creator Mode
 HELP_DLC_DLCFINISH4=Режим творця
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Use Bubbles' <col=BOLD>Creator Mode</col> to create your own challenges.
 HELP_DLC_DLCFINISH4_INSTRUCTIONS=Скористайтеся <col=BOLD>Режимом творця</col> Бульбашки, щоб створювати власні виклики.
 
@@ -4245,7 +4245,7 @@ HELP_DLC_ARMWRESTLING_COMMAND_TOUCH=торкніться екрана <button=IN
 ### <button=INPUT_TOUCH_TAP>
 HELP_DLC_VRFOOD_TOUCH=<button=INPUT_TOUCH_TAP>
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Select characters in the <col=BOLD>Menu</col> or ask Bubbles to switch at any time.
 HELP_DLC_DLCFINISH_COMMAND_TOUCH=Виберіть персонажів у <col=BOLD>Меню</col> або будь-коли попросіть Бульбашку перемкнути їх.
 

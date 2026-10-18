@@ -102,7 +102,7 @@ GOT_PARCHMENT=Пергамент!
 ### Read?
 PC17_READ_CHOICE=Прочитати?
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Skip the museum puzzles?
 PC17_SKIP_MUSEUM=Пропустити головоломки в музеї?
 

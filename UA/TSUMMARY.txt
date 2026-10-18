@@ -311,7 +311,7 @@ PC04B_SEWERS_MANHOLE=Відкрив люк
 ### Sin's entrance code
 PC06_TYPE_CRACKED=Код від дверей Сіна
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Bunker puzzles solved
 PC19_PUZZLES=Головоломки в бункері розв'язано
 
@@ -697,7 +697,7 @@ CHOICE_KEPT=Залишив
 ### Killed by {who}
 CHOICE_KILLEDBY=Убито: {who}
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles
 CHOICE_PUZZLES=Головоломки
 
@@ -825,7 +825,7 @@ ENDING_HINT1_5=Кошенятко, дай себе викрасти
 ### Solve the Wes interrogation
 ENDING_HINT1_6=Успішно заверши допит Веса
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Solve puzzles more often with your brain
 ENDING_HINT1_7=Частіше розв'язуй головоломки, використовуючи мозок
 

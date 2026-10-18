@@ -111,7 +111,7 @@ CH5_OTT_IDEA3-3=Просто ретельно все перевіримо.
 
 
 # Ott
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### It's also possible the puzzles extend outside of here...
 CH5_OTT_IDEA3-4=Можливо, головоломки виходять за межі цього місця...
 

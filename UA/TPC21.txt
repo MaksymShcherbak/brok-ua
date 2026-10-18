@@ -575,7 +575,7 @@ PC21_30_EXITVR-1=(Важко дихає)
 
 
 # Frog
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles, I'm waiting for your explanation.
 PC21_30_EXITVR-2=Пазл, я чекаю на твої пояснення.
 
@@ -804,7 +804,7 @@ PC21_120_EXITVR2-3=Я не гідний у вас працювати.
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles...
 PC21_120_EXITVR2-4=Пазл...
 
@@ -1100,7 +1100,7 @@ PC21_140_EXITVR3-6=Чого ви такий похмурий, босе?
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### I've made mistakes and have regrets, Puzzles. You'll understand when you're older.
 PC21_140_EXITVR3-7=Я наробив помилок і маю за що жалкувати, Пазле. Зрозумієш, коли підростеш.
 
@@ -1131,7 +1131,7 @@ PC21_140_EXITVR3-12=Але... гаразд, додам ці фото в альб
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Please go back to work now, Miss Bubbles is looking daggers at us.
 PC21_140_EXITVR3-13=А тепер, будь ласка, вертайся до роботи - пані Бульбашка кидає на нас злі погляди.
 
@@ -1528,7 +1528,7 @@ PC21_230_EXITVR2-21=Дійшло...? "Очисти"?
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Bubbles, humor doesn't suit ya.
 PC21_230_EXITVR2-22=Бульбашко, гумор тобі не личить.
 
@@ -1705,14 +1705,14 @@ PC21_240_HEDGEHOG2-16=Годі гаяти час. Повертайтеся до 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Not until I've found a pill for Puzzles!
 PC21_240_ANYTHING-1=Ні, я маю знайти пігулку для Пазла!
 
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### (Been a while. I should ask Puzzles how he's doing...)
 PC21_240_ANYTHINGAFTER-1=(Пройшло багатенько часу. Треба спитати Пазла, як він.)
 
@@ -1863,7 +1863,7 @@ PC21_240_AWARDS1B-6=Ось, тримай!
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Great... I'm...sure Puzzles will like this...
 PC21_240_AWARDS1B-7=Чудово... Я... впевнений, Пазлу це сподобається...
 
@@ -1881,7 +1881,7 @@ PC21_240_AWARDS2-1=Це було марно.
 
 #----------------------------------------------------
 # Brok - After a challenge, Puzzles is pollution sick because he didn't get his daily pill - Play on the two meanings of the word "sick"
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Hey, Puzzles is sick!
 PC21_240_HYENA1-1=Гей, Пазл хворий!
 
@@ -1930,7 +1930,7 @@ PC21_240_HYENA2-2=Гмм...
 #----------------------------------------------------
 # Brok - After a challenge, Puzzles is pollution sick because he didn't get his daily pill
 # NB: Lexicon word in Ukrainian for "Toxout pill": "Смогова пігулка"
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 # NB: Lexicon word in Ukrainian for "Toxout": "Смогова пігулка"
 ### Help! Puzzles needs a Toxout pill!
 PC21_240_FROG1-1=Допоможіть! Пазлу потрібна смогова пігулка!
@@ -1974,7 +1974,7 @@ PC21_240_FROG2-1=Вона не допоможе.
 
 #----------------------------------------------------
 # Hyena - Bartenders discussing the future
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Bubbles, what's the future look like for you?
 PC21_250_EXITVR-1=Бульбашко, яким ти бачиш своє майбутнє?
 
@@ -3283,14 +3283,14 @@ PC21_HYENA_HELP1-6=Навіть з викликів, які ти вже прой
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### You can also win some with Puzzles' extras and Bubble's wheel.
 PC21_HYENA_HELP1-7=А ще - у додаткових викликах Пазла та на бонусному колесі Бульбашки.
 
 
 # Brok
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles? Bubbles?
 PC21_HYENA_HELP1-8=Пазл? Бульбашка?
 
@@ -4243,7 +4243,7 @@ PC21_HYENA_HIMSELF2-19=Дрони й боти все одно нишпорять
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Isn't that right, Puzzles?
 PC21_HYENA_HIMSELF2-20=Правда ж, Пазле?
 
@@ -4290,7 +4290,7 @@ PC21_HYENA_HIMSELF3-6=Не варто мене недооцінювати, бо 
 
 
 # Hyena
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Not before you're done with your work, Puzzles.
 PC21_HYENA_HIMSELF3-7=Не раніше, ніж ти закінчиш свою роботу, Пазле.
 
@@ -4609,7 +4609,7 @@ PC21_FROG_WHEELSPIN3-1=Очікування мене вбиває.
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### (Bubbles)
 PC21_FROG_WHEELSPIN4-1=(Булькає)
 
@@ -4822,7 +4822,7 @@ PC21_FROG_WHEEL_NOTOKENS-1=Але... бідолашний. У тебе наві�
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Okay. (Bubbles)
 PC21_FROG_OKAY-1=Гаразд. (Булькає)
 
@@ -8437,7 +8437,7 @@ PC21_JUMPTABLE1-2=Кожен. До. Одного.
 
 #----------------------------------------------------
 # Frog
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Not a single care for Bubbles, who has to clean up the mess.
 PC21_JUMPTABLE2-1=А про Бульбашку, якій потім усе прибирати, ніхто й не думає.
 
@@ -9172,7 +9172,7 @@ COOP_PC21_HEDGEHOG1-1=У нього колючий характер.
 
 #----------------------------------------------------
 # Unknown
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### I expected more puzzles from Puzzles.
 COOP_PC21_HEDGEHOG2-1=Я чекав більше загадок від Пазла.
 

@@ -1396,7 +1396,7 @@ PC08B_SHAY_REMEMBER_YES-2=Колись я можу навіть забути в�
 
 
 # Shay
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### I see. Your brain is like Goga Gola's Soda Fizz. Full of bubbles!
 PC08B_SHAY_REMEMBER_YES-3=Розумію. Твій мозок - як газованка Гога-Гола. Повний бульбашок!
 

@@ -20,7 +20,7 @@ PC_FLOOR=Підлога
 
 
 #----- Topics --------
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Skip the bunker puzzles?
 PC19_SKIP_BUNKER=Пропустити головоломки в бункері?
 
@@ -71,7 +71,7 @@ GPC19_NOWAYOUT-1=Це має бути вихід.
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Unless I solve these puzzles or give up, I can't exit.
 GPC19_NOWAYOUT-2=Поки я не розв'яжу ці головоломки або не здамся, я не зможу вийти.
 

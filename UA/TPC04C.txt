@@ -750,7 +750,7 @@ PC04C_SHOWCASE1-2=На перший погляд, я не можу збагну�
 
 #----------------------------------------------------
 # Brok
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Looks like one of those Ad Bubbles... What's it doing here on the floor?
 PC04C_CAMERA1-1=Схоже на одну з тих рекламних бульбашок... Що вона робить тут на підлозі?
 

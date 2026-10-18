@@ -202,7 +202,7 @@ GPC19B_SCREEN_GIVENUP-4=Оце так! Ну ти й слабак.
 
 
 # Klay
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### I could have solved those puzzles with my eyes closed!
 GPC19B_SCREEN_GIVENUP-5=Та я б розв'язав ці головоломки із заплющеними очима!
 
@@ -219,7 +219,7 @@ GPC19B_SCREEN_SUCCESS-1=А ти, бачу, не квапився. Я вже ві
 
 
 # Graff
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### You mean... You didn't solve your share of puzzles?
 GPC19B_SCREEN_SUCCESS-2=Тобто... Ти не розв'язав свою частину головоломок?
 

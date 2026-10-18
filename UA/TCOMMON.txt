@@ -514,7 +514,7 @@ INTERFACE_CHOOSE_DIFFICULTY=Рівень складності бійок
 ### Relaxed
 INTERFACE_CHOOSE_DIFFICULTY1=Розслаблений
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### I'm here for the puzzles and story
 INTERFACE_CHOOSE_DIFFICULTY1_TXT=Я тут заради головоломок та сюжету
 
@@ -6556,11 +6556,11 @@ INTERFACE_ACCESSIBILITY_SIMPLIFIEDROOMS=Спрощені кімнати
 ### Adapts some rooms to avoid jumps and dangerous traps.
 ITEM_INTERFACE_ACCESSIBILITY_SIMPLIFIEDROOMS_MSG=Спрощує деякі кімнати, щоб уникнути стрибків та небезпечних пасток.
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles for blindness
 INTERFACE_ACCESSIBILITY_BLINDPUZZLES=Головоломки для людей із порушеннями зору
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Adapts puzzles for blindness and adds more skip options.
 ITEM_INTERFACE_ACCESSIBILITY_BLINDPUZZLES_MSG=Адаптує головоломки для гравців із порушеннями зору та додає більше можливостей для їх пропуску.
 
@@ -8090,7 +8090,7 @@ CHAR_BOYD=Бойд
 ### Rok
 CHAR_ROK=Рок
 
-# NB: Lexicon word in Ukrainian for "Puzzles": "Пазлс"
+# NB: Lexicon word in Ukrainian for "Puzzles": "Пазл (персонаж) / головоломки"
 ### Puzzles
 CHAR_PUZZLES=Пазл
 
@@ -8098,7 +8098,7 @@ CHAR_PUZZLES=Пазл
 ### Tenderjaw
 CHAR_TENDERJAW=Щелепка
 
-# NB: Lexicon word in Ukrainian for "Bubbles": "Баблс"
+# NB: Lexicon word in Ukrainian for "Bubbles": "Бульбашка"
 ### Bubbles
 CHAR_BUBBLES=Бульбашка
 
