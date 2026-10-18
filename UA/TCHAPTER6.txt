@@ -369,7 +369,7 @@ CH6_CHOICE_BROK-12=О, чудово...
 
 # Graff
 ### I have no idea what he's involved into but... My future is at stake!
-CH6_CHOICE_BROK-13=Поняття не маю, у що він там вплутався, але... На кону моє майбутнє!
+CH6_CHOICE_BROK-13=Гадки не маю, у що він там вплутався, але... На кону моє майбутнє!
 
 
 # Graff
@@ -2219,7 +2219,7 @@ CH6_STORY300_INITSLUMER5-34=Отже, ми квити!
 
 # Brok
 ### Ah ah! Oh, man. You're right.
-CH6_STORY300_INITSLUMER5-35=Ха-ха! Ох, друже. Ти правий.
+CH6_STORY300_INITSLUMER5-35=Ха-ха! Ох, друже. Ти маєш рацію.
 
 
 # Brok

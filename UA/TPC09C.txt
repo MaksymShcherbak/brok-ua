@@ -1453,7 +1453,7 @@ PC09C_OTT_PILLS1-12=Так.
 # Brok
 # NB: Lexicon word in Ukrainian for "The Haze": "Смог"
 ### No idea how. One day I just realized the Haze didn't affect me so I stopped taking 'em.
-PC09C_OTT_PILLS1-13=Без поняття як. Одного дня я просто зрозумів, що Смог на мене не діє, і перестав їх приймати.
+PC09C_OTT_PILLS1-13=Гадки не маю, як. Одного дня я просто зрозумів, що Смог на мене не діє, і перестав їх приймати.
 
 
 # Ott

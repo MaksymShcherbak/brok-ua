@@ -911,7 +911,7 @@ PC07B_SIN_DRUMERSSTREET1B-10=Тим паче, на вході до Купола 
 
 # Brok
 ### Darn... You're right. Then... Erm...
-PC07B_SIN_DRUMERSSTREET1B-11=Дідько... Ви праві. Тоді... Е-е...
+PC07B_SIN_DRUMERSSTREET1B-11=Дідько... Ви маєте рацію. Тоді... Е-е...
 
 
 # Brok - He is talking about Shay.
@@ -1810,7 +1810,7 @@ PC07B_CLUE_SIN_PHARMACY-14=(Я не можу йому довіряти...)
 #----------------------------------------------------
 # Brok
 ### Let's assume I'm right and that gun ain't yours.
-PC07B_CLUE_SIN_STEAL-1=Припустимо, я правий і той пістолет не ваш.
+PC07B_CLUE_SIN_STEAL-1=Припустимо, я маю рацію і той пістолет не ваш.
 
 
 # Brok
@@ -2584,7 +2584,7 @@ PC07B_SIN_WIN2-10=Вибач...
 
 # Wes
 ### You're darn right to be sorry!
-PC07B_SIN_WIN2-11=Ти, дідько, правий, що вибачаєшся!
+PC07B_SIN_WIN2-11=Ти, дідько, правильно робиш, що вибачаєшся!
 
 
 # Wes

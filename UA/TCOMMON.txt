@@ -10068,7 +10068,7 @@ INTERFACE_MATERIAL_TOFIND1-1=Треба це знайти!
 # Brok
 # NB: Lexicon word in Ukrainian for "Shay": "Шей"
 ### No idea what this is but... Shay will pay a good price for it!
-INTERFACE_MATERIAL_TOFIND2-1=Поняття не маю, що це, але... Шей добре за це заплатить!
+INTERFACE_MATERIAL_TOFIND2-1=Гадки не маю, що це, але... Шей добре за це заплатить!
 
 
 #----------------------------------------------------

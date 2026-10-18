@@ -702,7 +702,7 @@ PC18_WINDOW_ALL1-2=...
 
 # Gherkin
 ### You're right!
-PC18_WINDOW_ALL1-3=Ви праві!
+PC18_WINDOW_ALL1-3=І справді!
 
 
 # Brok

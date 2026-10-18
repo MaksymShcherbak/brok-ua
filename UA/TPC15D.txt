@@ -3925,7 +3925,7 @@ PC15D_STORY160_A2-25=Ти серйозно вважаєш, що це поваж�
 
 # Ott
 ### You're right. It wouldn't...
-PC15D_STORY160_A2-26=Ви праві. Це не причина...
+PC15D_STORY160_A2-26=Ви маєте рацію. Це не причина...
 
 
 # Ott
@@ -5249,7 +5249,7 @@ PC15D_CLUE_MURDER_COFFEESINK-27=...
 
 # Mink
 ### I guess you're right... Indirect violence is on a lower level of priority, and not part of the golden rule...
-PC15D_CLUE_MURDER_COFFEESINK-28=Мабуть, ви праві... Непряме насильство має нижчий рівень пріоритету і не входить до золотого правила...
+PC15D_CLUE_MURDER_COFFEESINK-28=Мабуть, ви маєте рацію... Непряме насильство має нижчий рівень пріоритету і не входить до золотого правила...
 
 
 # Mink
@@ -8310,7 +8310,7 @@ PC15D_CLUE_MURDER_BODYMUSIC-19=...О! О-о-о!
 
 # Tidy
 ### Ratty right!
-PC15D_CLUE_MURDER_BODYMUSIC-20=Щурятко правий!
+PC15D_CLUE_MURDER_BODYMUSIC-20=Щурятко має рацію!
 
 
 # Tidy
@@ -8712,7 +8712,7 @@ PC15D_FINALCHOICE_PUSHED-4=Якою б не була сила поштовху, 
 
 # Tidy
 ### Minky right. Broky wrong!
-PC15D_FINALCHOICE_PUSHED-5=Мінкі правий. Брокі помиляється!
+PC15D_FINALCHOICE_PUSHED-5=Мінкі має рацію. Брокі помиляється!
 
 
 # Brok

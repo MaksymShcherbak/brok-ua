@@ -603,7 +603,7 @@ PC06_GHERKIN_FIRST2-4=Це інструкція на випадок, коли С
 
 # Brok
 ### Hope you're right...
-PC06_GHERKIN_FIRST2-5=Сподіваюся, ви праві...
+PC06_GHERKIN_FIRST2-5=Сподіваюся, ви маєте рацію...
 
 
 #----------------------------------------------------
@@ -629,7 +629,7 @@ PC06_GHERKIN_FIRST3-4=...
 
 # Gherkin
 ### Now that you mention it...
-PC06_GHERKIN_FIRST3-5=Так, мабуть, ви праві...
+PC06_GHERKIN_FIRST3-5=Так, мабуть, ви маєте рацію...
 
 
 # Brok
@@ -780,7 +780,7 @@ PC06_GHERKIN_DEE-10=Мені потрібна важлива інформаці�
 
 # Gherkin
 ### V-very well, then. Ask away.
-PC06_GHERKIN_DEE-11=Д-дуже добре. Запитуйте.
+PC06_GHERKIN_DEE-11=Д-добре. Запитуйте.
 
 
 # Brok
@@ -805,7 +805,7 @@ PC06_GHERKIN_DEE-15=Що відбувається? Чому вони напад�
 
 # Brok
 ### Beats me!
-PC06_GHERKIN_DEE-16=Без поняття!
+PC06_GHERKIN_DEE-16=Гадки не маю!
 
 
 # Brok
@@ -946,7 +946,7 @@ PC06_GHERKIN_FIGHTOVER1-25=Ні.
 
 # Brok
 ### My mission is to protect the Doc so he fixes the Pipe Pills. NOT to wander around for an interview!
-PC06_GHERKIN_FIGHTOVER1-26=Моє завдання - захистити Дока, щоб він відремонтував Пігулкомати. А НЕ блукати заради інтерв'ю!
+PC06_GHERKIN_FIGHTOVER1-26=Моє завдання - захистити Дока, щоб він відремонтував Пігулкомати. НЕ блукати заради інтерв'ю!
 
 
 # Brok
@@ -1245,7 +1245,7 @@ PC06_CLUE_DEE_WORRIEDSIN-20=Це не удача. Зовсім навпаки. �
 
 # Dee
 ### In any case, you're right.
-PC06_CLUE_DEE_WORRIEDSIN-21=У будь-якому разі, ти правий.
+PC06_CLUE_DEE_WORRIEDSIN-21=У будь-якому разі, ти маєш рацію.
 
 
 # Dee

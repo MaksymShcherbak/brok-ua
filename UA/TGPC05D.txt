@@ -1901,7 +1901,7 @@ GPC05D_SECONDDIALOG7B-22=Ну аякже, він це зробив.
 
 # Chiefrat
 ### So! Ya're supposed to get da money when ya turn sixteen. Right?
-GPC05D_SECONDDIALOG7B-23=Отже! Ти маєш отримати гроші, коли тобі стукне шістнадцять. Я правий?
+GPC05D_SECONDDIALOG7B-23=Отже! Ти маєш отримати гроші, коли тобі стукне шістнадцять. Я маю рацію?
 
 
 # Graff

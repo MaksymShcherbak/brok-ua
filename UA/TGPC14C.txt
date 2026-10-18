@@ -638,7 +638,7 @@ GPC14C_HACKER_INV_MONEY-3=Ти, очевидно, не вмієш рахуват
 
 # Ott
 ### You know... He's right.
-GPC14C_HACKER_INV_MONEY-4=Знаєш... Він правий.
+GPC14C_HACKER_INV_MONEY-4=Знаєш... Він має рацію.
 
 
 # Graff

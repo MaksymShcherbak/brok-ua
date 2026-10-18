@@ -1102,7 +1102,7 @@ PC15B_GUARD_PLACE3-6=Ніколи не кажи "ніколи".
 # NB: Lexicon word in Ukrainian for "Unis": "Юні"
 # NB: Lexicon word in Ukrainian for "Uni": "Юні"
 ### Take a gamble? I'd bet a hundred Unis on this!
-PC15B_GUARD_PLACE3-7=Поб'ємося об заклад? Я б поставив сто Юні на те, що я правий!
+PC15B_GUARD_PLACE3-7=Поб'ємося об заклад? Я б поставив сто Юні на те, що я маю рацію!
 
 
 # Brok

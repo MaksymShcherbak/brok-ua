@@ -744,7 +744,7 @@ PC08C_DRAWER_UNLOCK-2=Гм. Маленький щоденник?
 #----------------------------------------------------
 # Unknown
 ### How did this all begin? I have no idea.
-PC08C_DRAWER_DIARY1-1=Як усе це почалося? Поняття не маю.
+PC08C_DRAWER_DIARY1-1=Як усе це почалося? Гадки не маю.
 
 
 # Unknown

@@ -1524,7 +1524,7 @@ PC01_STORY110_ONTIME3-1=(Зітхає)
 
 # Brok
 ### He's right.
-PC01_STORY110_ONTIME3-2=Він правий.
+PC01_STORY110_ONTIME3-2=Я його розумію.
 
 
 #----------------------------------------------------
@@ -2667,7 +2667,7 @@ PC01_STORY110_COOKINGGOOD-13=...
 
 # Brok
 ### Say, you're right!
-PC01_STORY110_COOKINGGOOD-14=Слухай, а ти правий!
+PC01_STORY110_COOKINGGOOD-14=Слухай, а ти маєш рацію!
 
 
 # Graff
@@ -2677,7 +2677,7 @@ PC01_STORY110_COOKINGGOOD-15=У чому твій секрет?
 
 # Brok
 ### No idea! I had very few ingredients left... Ya know, no time to go shopping...
-PC01_STORY110_COOKINGGOOD-16=Поняття не маю! У мене майже не залишалося інгредієнтів... Знаєш, не було часу ходити за покупками...
+PC01_STORY110_COOKINGGOOD-16=Гадки не маю! У мене майже не залишалося інгредієнтів... Знаєш, не було часу ходити за покупками...
 
 
 # Graff
@@ -5674,7 +5674,7 @@ PC01_STORY300_INIT1E3B-1=Н... Не може бути...!
 
 # Graff
 ### He was right...
-PC01_STORY300_INIT1E3B-2=Він був правий...
+PC01_STORY300_INIT1E3B-2=Він мав рацію...
 
 
 # Brok
