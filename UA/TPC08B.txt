@@ -1098,7 +1098,7 @@ PC08B_SHAY_BORDER2B-30=А якщо ні?
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 # NB: Lexicon word in Ukrainian for "Guard": "охоронець (посада) / вартовий (на варті Верескунів)"
 ### Then I'm guessing you'll be chased by numerous security drones and Tribot guards.
-PC08B_SHAY_BORDER2B-31=Тоді, мабуть, тебе почнуть переслідувати численні дрони та Триботи-охоронці.
+PC08B_SHAY_BORDER2B-31=Тоді, мабуть, тебе переслідуватимуть численні дрони та Триботи-охоронці.
 
 
 # Brok

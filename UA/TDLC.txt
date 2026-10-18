@@ -4073,7 +4073,7 @@ CHALLENGE_LITE_CANNOT_LOAD=Не вдалося завантажити файл �
 
 
 ### Back to The Brawl Bar
-ATLASIAN_BACK_TITLE=Назад до Бійцівського бару
+ATLASIAN_BACK_TITLE=Назад до бару
 
 ### Adapted by COWCAT
 ATLASIAN_CREDITS=Адаптовано COWCAT

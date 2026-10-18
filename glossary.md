@@ -373,7 +373,7 @@
 | Space-time                             | простір-час                          |                                                        |
 | Vending machine                        | торговельний автомат                 |                                                        |
 | Wormhole                               | кротовина                            |                                                        |
-| VR Learner                             | навчальний VR-шолом                  |                                                        |
+| VR Learner                             | навчальні VR-навушники               |                                                        |
 | FaceBuilderHax                         | ГакерКонструкторОблич                | Програма гакера                                        |
 | Tribot deliverer                       | Трибот-кур'єр                        |                                                        |
 | Proto-copier                           | псерокс                              |                                                        |

@@ -4011,7 +4011,7 @@ HELP_CLICKERS_INSTRUCTIONS=Щоб показати всі точки взаєм�
 HELP_CLICKERS_INSTRUCTIONS_GAMEPAD=<button=INPUT_ACTION_VIEW_HOTSPOTS>
 
 ### <button=INPUT_ACTION_VIEW_HOTSPOTS> or the mouse middle button <spr=CONTROL_mousemiddle> in adventure mode.
-HELP_CLICKERS_INSTRUCTIONS_MOUSE=<button=INPUT_ACTION_VIEW_HOTSPOTS> або натискання колеса миші <spr=CONTROL_mousemiddle> у режимі пригоди.
+HELP_CLICKERS_INSTRUCTIONS_MOUSE=Затисніть <button=INPUT_ACTION_VIEW_HOTSPOTS> або колесо миші <spr=CONTROL_mousemiddle> у режимі пригоди.
 
 # NB: Lexicon word in Ukrainian for "Ads": "Реклами"
 ### ##However some special items such as ads won't be indicated!

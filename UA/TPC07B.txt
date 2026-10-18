@@ -474,7 +474,7 @@ PC07B_WALLCRACK1-6=Не ваша справа!
 
 # Brok
 ### No need to get upset! I'm just concerned whether you'll have the dough to pay me.
-PC07B_WALLCRACK1-7=Не ображайтеся! Мене просто цікавить, чи вистачить у вас бабок, щоб розплатитися зі мною.
+PC07B_WALLCRACK1-7=Не ображайтеся! Мене просто цікавить, чи вистачить у вас грошей, щоб розплатитися зі мною.
 
 
 # Sin

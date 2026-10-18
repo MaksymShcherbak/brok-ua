@@ -410,7 +410,7 @@ GPC19B_ENTRANCE_PICTURE1-1=...
 
 # Graff
 ### Is this the outside of the building?
-GPC19B_ENTRANCE_PICTURE1-2=Це вигляд назовні цієї будівлі?
+GPC19B_ENTRANCE_PICTURE1-2=Це вид назовні цієї будівлі?
 
 
 #----------------------------------------------------

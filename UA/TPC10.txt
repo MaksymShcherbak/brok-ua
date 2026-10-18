@@ -20,7 +20,7 @@ PC_SCORES=Бали
 
 # A device Graff can use (like a headset) to learn things on a topic in a very fast way
 ### VR Learner
-PC_VRLEARNER=Навчальний VR-шолом
+PC_VRLEARNER=Навчальні VR-навушники
 
 ### View
 PC_VIEW=Вид

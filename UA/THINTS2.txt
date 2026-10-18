@@ -143,7 +143,7 @@ HINT_CH2_100_STUBOTVR1=Винахід Студбота використовує 
 
 # NB: Lexicon word in Ukrainian for "Stubot": "Студбот"
 ### Use the learner headset under your desk, kitty! Then check Stubot's invention to learn how to break it.
-HINT_CH2_100_STUBOTVR2=Використай навчальний VR-шолом під своїм столом, кошенятко! Потім перевір винахід Студбота, щоб дізнатися, як зламати його!
+HINT_CH2_100_STUBOTVR2=Використай навчальні VR-навушники під своїм столом, кошенятко! Потім перевір винахід Студбота, щоб дізнатися, як зламати його!
 
 ### Have you seen a bright light that you could potentially carry with you? I like you kitty, so here's a hint : Sector 56X.
 HINT_CH2_100_STUBOTNEON1=Бачив яскраве світло, яке ти міг би взяти з собою? Ти мені подобаєшся, кошенятко, тож ось підказка: Сектор 56X.
