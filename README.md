@@ -2,9 +2,21 @@
 
 Welcome to the Ukrainian translation project for **BROK: The InvestiGator**!
 
+The project started as a tribute to BROK: The Investigator, a game which brought me joy and nostalgia towards classic Point & Click adventures.
+
 The unofficial project lead and the owner of this repository is **Maksym Shcherbak**. Contact me at [maxim.shherbak@gmail.com](mailto:maxim.shherbak@gmail.com) if you have any questions.
 
-Check out some of the pages:
+| Item                                   | Start Date | End Date   | Status                         |
+| :------------------------------------- | :--------- | :--------- | :----------------------------- |
+| **Brok: The Investigator (main game)** | 30.06.2026 | 18.10.2026 | Completed                      |
+| **BrokVN**                             | 18.10.2026 | 18.10.2026 | Completed                      |
+| **Natal Tail**                         | —          | —          | Ongoing                        |
+| **First Hat**                          | —          | —          | Planned                        |
+| **Celsius Strays**                     | —          | —          | Planned (Unknown date)         |
+| **Demetrios**                          | —          | —          | Not planned (at least for now) |
+| **LarsGadiel**                         | —          | —          | Not planned                    |
+
+## Pages
 
 | Language  | File                                | Description                            |
 | --------- | ----------------------------------- | -------------------------------------- |
@@ -13,22 +25,12 @@ Check out some of the pages:
 | 🇺🇦 **UKR** | [📖 Glossary](glossary.md)           | Established translations of terms      |
 | 🇺🇦 **UKR** | [⭕ Common Errors](common-errors.md) | Common translation errors              |
 | 🇬🇧 **ENG** | [🕒 Translation Process](process.md) | Description of the translation process |
-| 🇬🇧 **ENG** | [🗺 Roadmap](roadmap.md)             | Future plans and development stages    |
-| 🇬🇧 **ENG** | [📊 Progress](progress.md)           | Translation and proof-reading progress |
+| 🇬🇧 **ENG** | [📊 Progress](progress.md)           | Translation progress                   |
 
-## Contributing 🌐
-
-People who speak Native Ukrainian can contribute to the translation. If you would like to help, please follow these steps:
-
-1. Register at the [Translation Website](https://www.brokgame.com/translate.php). **You have to speak Native Ukrainian** to be able to register.
-
-2. Open the Ukrainian translation on the website and start filling in the missing texts. Make sure to follow the [Translation Guide (UKR)](guide.md) for consistency and quality.
-
-3. Nothing else is currently required. I am already keeping track of the progress and doing proofreading. You can help either by filling in the missing texts or suggesting improvements to the Translation Guide via pull requests.
-
-**Credits**
+## Contributors 🌐
 
 - Big thanks for **Kenzie** for helping with the translation!
+- If you want to help with the translation, contact me at [maxim.shherbak@gmail.com](mailto:maxim.shherbak@gmail.com).
 
 ## Testing the Translation 🎮
 
