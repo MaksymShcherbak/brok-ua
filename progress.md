@@ -4,6 +4,8 @@ Status of every file of the translation, with one column per stage:
 **Initial Translation** (the Ukrainian text is filled in) and **Proof-Reading**
 (the file is re-checked against the guide and the glossary).
 
+## Brok: The Investigator
+
 | Item      | Initial Translation | Proof-Reading |
 | :-------- | :------------------ | :------------ |
 | LEXICON   | Done                | Done          |
@@ -102,6 +104,6 @@ Status of every file of the translation, with one column per stage:
 
 ## BROKVN Engine (common text)
 
-| Item      | Initial Translation | Proof-Reading |
-| :-------- | :------------------ | :------------ |
-| TCOMMON   | Done                | Done          |
+| Item    | Initial Translation | Proof-Reading |
+| :------ | :------------------ | :------------ |
+| TCOMMON | Done                | Done          |
