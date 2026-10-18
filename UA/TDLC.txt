@@ -3748,7 +3748,7 @@ QUIZZ_Q51=Скільки максимально предметів кожног�
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Besides detective, what other occupation is listed on the sign in front of Brok's apartment?
-QUIZZ_Q52=Окрім детектива, який ще фах зазначено на табличці перед квартирою Брока?
+QUIZZ_Q52=Окрім детектива, який ще фах зазначено на написі перед квартирою Брока?
 
 ### Handyman
 QUIZZ_Q52_1=Майстер на всі руки

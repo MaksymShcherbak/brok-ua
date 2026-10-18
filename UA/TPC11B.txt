@@ -156,7 +156,7 @@ PC11B_ROBOT2-1=Ще один Трибот.
 #----------------------------------------------------
 # Brok
 ### No good. Are they broken?
-PC11B_ROBOT2B-1=Нічого не виходить. Вони зламані?
+PC11B_ROBOT2B-1=Не виходить. Вони зламані?
 
 
 # Brok
@@ -192,7 +192,7 @@ PC11B_ROBOT_WAKEUP1-4=Моє ім'я? Я...
 
 # Tribot
 ### Alert level 5. Burglary in progress.
-PC11B_ROBOT_WAKEUP1-5=Рівень тривоги 5. Проникнення зі зломом.
+PC11B_ROBOT_WAKEUP1-5=Рівень тривоги 5. Незаконне проникнення.
 
 
 # Brok
@@ -222,7 +222,7 @@ PC11B_ROBOT_WAKEUP1-10=Наприклад... Пожежа?!
 
 # Tribot
 ### Inappropriate attitude detected.
-PC11B_ROBOT_WAKEUP1-11=Виявлено неналежну поведінку.
+PC11B_ROBOT_WAKEUP1-11=Виявлено неналежне ставлення.
 
 
 # Tribot

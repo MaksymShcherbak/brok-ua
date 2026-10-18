@@ -24,7 +24,7 @@ PC01_DESTROY_HOOVER=Позбавився пилососа
 
 # NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
 ### Tramp attacked
-PC03_TRAMP_ATTACKED=Напав на волоцюгу
+PC03_TRAMP_ATTACKED=Напад на волоцюгу
 
 #PC03_TRAMP_KILLED=Tramp asks to get him out of his misery
 # NB: Lexicon word in Ukrainian for "Tramp": "волоцюга"
@@ -69,7 +69,7 @@ PC09_ESCAPED_DETAIL=(< 15 хв)
 PC09B_HAS_CHEEREDUP=Підбадьорив Сіна
 
 ### Escape from jail
-PC09B_HAS_KILLED_RJ=Втік з в'язниці
+PC09B_HAS_KILLED_RJ=Втеча з в'язниці
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay bickering
@@ -83,7 +83,7 @@ PC10_CHOICE_MESSUP=Винаходи
 PC10_CHOICE_BROKONTIME=Брок прийшов вчасно
 
 ### Explanation given
-PC01_STORY110_EXPLANATION=Дані пояснення
+PC01_STORY110_EXPLANATION=Пояснення
 
 ### Drone
 PC06_HAS_FLEED_DRONE=Дрон
@@ -176,7 +176,7 @@ PC15D_CHARGED=Кого ми звинуватили
 PC19B_WHO=Вирішив, кого прикують
 
 ### Who really gets chained
-PC19B_WHO_REAL=Кого насправді прикують
+PC19B_WHO_REAL=Кого насправді прикували
 
 # NB: Lexicon word in Ukrainian for "Klay": "Клей"
 ### Klay session
@@ -259,7 +259,7 @@ SIN_CONDITION_DETAIL=(Стосунки > 80%)
 PC14_GRAFFORDEE=Хто пішов рятувати Граффа
 
 ### Find the truth
-PC20_INTERROGATION_COMPLETED=Знайти істину
+PC20_INTERROGATION_COMPLETED=Знайшов істину
 
 ### Last words
 PC20_LASTWORD=Останні слова
@@ -352,7 +352,7 @@ PC19B_GOOUT_BUNKER=Вибрався з бункера
 PC09D_INTERROGATION=Відповіді на допиті
 
 ### How you depicted yourself
-PC09D_DEPICT=Як ви себе зобразили
+PC09D_DEPICT=Як ви себе назвали
 
 ### Last bill paid?
 PC04_HAS_PAID_BILLC=Останній рахунок оплачено?
@@ -418,7 +418,7 @@ CHOICE_FIGHT=Бився
 CHOICE_ESCAPE=Втік
 
 ### Alive
-CHOICE_ALIVE=Живий
+CHOICE_ALIVE=Життя
 
 ### Kill
 CHOICE_KILL=Вбив
@@ -427,13 +427,13 @@ CHOICE_KILL=Вбив
 CHOICE_SPARE=Пощадив
 
 ### Killed
-CHOICE_KILLED=Вбив
+CHOICE_KILLED=Смерть
 
 ### Taken away
-CHOICE_TAKENAWAY=Забраний
+CHOICE_TAKENAWAY=Його забрали
 
 ### Out of battery
-CHOICE_OUTOFBATTERY=Розрядився
+CHOICE_OUTOFBATTERY=Розрядив
 
 ### Tricked
 CHOICE_TRICKED=Обдурив
@@ -491,7 +491,7 @@ CHOICE_KILLEDENEMIES=Ворогів убито
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok captured
-CHOICE_BROKCAPTURED=Брока схопили
+CHOICE_BROKCAPTURED=Брока схоплено
 
 # NB: Lexicon word in Ukrainian for "Brok": "Брок"
 ### Brok killed
@@ -511,10 +511,10 @@ CHOICE_SAVE=Врятовано
 CHOICE_RUNAWAY=Втік
 
 ### Alarm
-CHOICE_ALARM=Тривога спрацювала
+CHOICE_ALARM=Тривога
 
 ### No alarm
-CHOICE_NOALARM=Тривога не спрацювала
+CHOICE_NOALARM=Без тривоги
 
 ### Disguise
 CHOICE_DISGUISE=Замаскувався
@@ -667,7 +667,7 @@ CHOICE_ENTERCODE=Ввів код
 CHOICE_INVENTORY=Інвентар
 
 ### Drugged
-CHOICE_DRUGGED=Одурманено
+CHOICE_DRUGGED=Одурманив
 
 ### School
 CHOICE_SCHOOL=Школа
@@ -714,7 +714,7 @@ CHOICE_SILENT=Мовчання
 CHOICE_KILLER=Вбивця
 
 ### Non violent
-CHOICE_NONVIOLENT=Без насильства
+CHOICE_NONVIOLENT=Не вбивця
 
 ### Infiltrate
 CHOICE_INFILTRATE=Проникнув
@@ -731,7 +731,7 @@ CHOICE_SAVEGRAFF=Врятував Граффа
 CHOICE_SAVESLUMS=Врятував Нетрі
 
 ### Punched
-CHOICE_PUNCHED=Ударив
+CHOICE_PUNCHED=Вдарив
 
 ### Surprise attack
 CHOICE_SURPRISEATTACK=Раптово атакував

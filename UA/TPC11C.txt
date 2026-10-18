@@ -185,7 +185,7 @@ PC11C_LIA_FIRST2-2=Це ти...
 
 # Brok
 ### Don't talk! You'll wear yourself out.
-PC11C_LIA_FIRST2-3=Нічого не говори! Ти себе виснажиш.
+PC11C_LIA_FIRST2-3=Нічого не кажи! Ти себе виснажиш.
 
 
 # Brok
@@ -200,7 +200,7 @@ PC11C_LIA_FIRST2-5=...не треба...
 
 # Brok
 ### Why are you saying that?
-PC11C_LIA_FIRST2-6=Чому ти це кажеш?
+PC11C_LIA_FIRST2-6=Чому ти таке кажеш?
 
 
 # Lia
@@ -320,7 +320,7 @@ PC11C_FALLEN_METALBAR-3=Ар-р-р!!!
 
 # Brok
 ### No... I'm not strong enough...
-PC11C_FALLEN_METALBAR-4=Ні... У мене замало сил...
+PC11C_FALLEN_METALBAR-4=Ні... У мене бракує сил...
 
 
 # Lia - This is a nightmare. Lia blames him (the voice will be transformed so it sounds weird)

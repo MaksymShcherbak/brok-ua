@@ -69,7 +69,7 @@ PC11_BEGIN2-1=Халепа!
 
 
 ### I'd better get out of here, fast!
-PC11_BEGIN2-2=Краще забратися звідси, і якнайшвидше!
+PC11_BEGIN2-2=Краще забиратися звідси, і якнайшвидше!
 
 
 
@@ -160,7 +160,7 @@ PC11_FRAME1-1=Це...
 
 
 ### Weird. What's this supposed to depict?
-PC11_FRAME1B-1=Дивно. Що тут мало бути зображено?
+PC11_FRAME1B-1=Дивно. Що це має зображувати?
 
 
 

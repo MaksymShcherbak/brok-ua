@@ -155,7 +155,7 @@ CHAR_GUARD=Охоронець
 
 # NB: Lexicon word in Ukrainian for "Mink": "д-р Мінк"
 ### Mink
-CHAR_MINK=Мінк
+CHAR_MINK=д-р Мінк
 
 # NB: Lexicon word in Ukrainian for "Tidy": "Тайді"
 ### Tidy
@@ -509,7 +509,7 @@ INTERFACE_OR=або
 INTERFACE_USE_CONTROLS=Використовуйте будь-який спосіб керування, який забажаєте!
 
 ### Fight difficulty
-INTERFACE_CHOOSE_DIFFICULTY=Рівень складності битв
+INTERFACE_CHOOSE_DIFFICULTY=Рівень складності бійок
 
 ### Relaxed
 INTERFACE_CHOOSE_DIFFICULTY1=Розслаблений
@@ -522,7 +522,7 @@ INTERFACE_CHOOSE_DIFFICULTY1_TXT=Я тут заради головоломок �
 INTERFACE_CHOOSE_DIFFICULTY2=Звичайний
 
 ### I like some action
-INTERFACE_CHOOSE_DIFFICULTY2_TXT=Мені подобається екшен
+INTERFACE_CHOOSE_DIFFICULTY2_TXT=Мені подобається екшн
 
 ### Hardcore
 INTERFACE_CHOOSE_DIFFICULTY3=Жорсткий
@@ -2336,7 +2336,7 @@ ENDING_TITLE8="Щоденник"
 
 # Destroy the machine
 ### "Cynical"
-ENDING_TITLE9="Цинічно"
+ENDING_TITLE9="Цинічна"
 
 # Ott & Graff escape together and Brok chooses not to save Graff => they arrive early
 ### "Rupture"
@@ -2788,7 +2788,7 @@ ROOM_PC18=Завод
 ROOM_PC19=Бункер (Графф)
 
 ### Bunker (main)
-ROOM_PC19B=Бункер (головний)
+ROOM_PC19B=Бункер (всередині)
 
 ### Bunker (entrance)
 ROOM_PC19C=Бункер (вхід)
@@ -3774,10 +3774,10 @@ TUTORIAL_MOVE_MSG_GAMEPAD=Переміщайте Брока за допомог�
 
 
 ### Open the inventory with <spr=CONTROL_mouseright> or click the upper-right icon.
-TUTORIAL_OPENINV_MSG_MOUSE=Відкрийте інвентар за допомогою <spr=CONTROL_mouseright> або натисніть на іконку у правому верхньому куті.
+TUTORIAL_OPENINV_MSG_MOUSE=Відкрийте інвентар з <spr=CONTROL_mouseright> або натисніть на іконку у правому верхньому куті.
 
 ### Open the inventory with <spr=GAMEPAD_START>.
-TUTORIAL_OPENINV_MSG_GAMEPAD=Відкрийте інвентар за допомогою <spr=GAMEPAD_START>.
+TUTORIAL_OPENINV_MSG_GAMEPAD=Відкрийте інвентар з <spr=GAMEPAD_START>.
 
 
 ### Select an item by clicking <spr=CONTROL_mouseleft>.
@@ -4676,15 +4676,15 @@ GAMEOVERTYPE_GEV_MAP_NUCLEAR=Занадто довго перебував поб
 GAMEOVERTYPE_MINEEXPLODE=Наступив на міну
 
 ### Buy Calmeze-3000
-GAMEOVERTYPE_BUY_CAPSULE=Купити Заспокоїн-3000
+GAMEOVERTYPE_BUY_CAPSULE=Купив Заспокоїн-3000
 
 # NB: Lexicon word in Ukrainian for "Delistute": "Смакозамін"
 ### Buy Delistute
-GAMEOVERTYPE_BUY_INFLATE=Купити Смакозамін
+GAMEOVERTYPE_BUY_INFLATE=Купив Смакозамін
 
 # NB: Lexicon word in Ukrainian for "Youthgain": "Молодин"
 ### Buy Youthgain
-GAMEOVERTYPE_BUY_HAIR=Купити Молодин
+GAMEOVERTYPE_BUY_HAIR=Купив Молодин
 
 ### Eat sewage sludge
 GAMEOVERTYPE_EAT_SEWAGESLUDGE=З'їв каналізаційний осад
@@ -4946,7 +4946,7 @@ GAMEOVERTYPE_PC17_TRIBOT_TOOMANY=Занадто багато помилок
 GAMEOVERTYPE_PC18_FIXBOT=Вбитий ботом-ремонтником
 
 ### Premature ending
-GAMEOVERTYPE_PC08B_PREMATURE=Передчасний кінець
+GAMEOVERTYPE_PC08B_PREMATURE=Передчасна кінцівка
 
 
 # CHAPTER6
@@ -7029,7 +7029,7 @@ CHOICE_PLAYER=Гравець {playernumber}
 HELP_COOPINFO=Режим кооперативної пригоди
 
 ### The game supports local co-op!##During the adventure, press <button=INPUT_ACTION_MENU> on a new controller to start a two player session (and up to four players!)
-HELP_COOPINFO_INSTRUCTIONS=Гра підтримує локальний кооперативний режим!##Під час пригоди натисніть <button=INPUT_ACTION_MENU> на новому контролері, щоб розпочати сеанс гри для двох гравців (і до чотирьох гравців!).
+HELP_COOPINFO_INSTRUCTIONS=Гра підтримує локальний кооперативний режим!##Під час пригоди натисніть <button=INPUT_ACTION_MENU> на новому контролері, щоб розпочати сеанс гри від двох до чотирьох гравців!
 
 
 ### Co-op
@@ -7407,7 +7407,7 @@ HELP_RADAR_INSTRUCTIONS_TOUCH=Переміщуйте гравця, щоб з'я�
 
 
 ### This game is even more fun with friends. You can play co-op <col=BOLD>on the same device</col>!##Connect and pair Bluetooth controller(s). During the adventure, press <button=INPUT_ACTION_MENU> on a controller to start a two player session (and up to four players!)
-HELP_COOPINFO_INSTRUCTIONS_TOUCH=Ця гра ще веселіша з друзями. Ви можете грати в кооперативному режимі <col=BOLD>на одному пристрої</col>!##Підключіть та сполучіть геймпад(и) по Bluetooth. Під час пригоди натисніть <button=INPUT_ACTION_MENU> на геймпаді, щоб розпочати сеанс гри для двох гравців (і до чотирьох гравців!)
+HELP_COOPINFO_INSTRUCTIONS_TOUCH=Ця гра ще веселіша з друзями. Ви можете грати в кооперативному режимі <col=BOLD>на одному пристрої</col>!##Підключіть та сполучіть геймпад(и) по Bluetooth. Під час пригоди натисніть <button=INPUT_ACTION_MENU> на геймпаді, щоб розпочати сеанс гри від двох до чотирьох гравців!
 
 
 ### Fight with touch controls

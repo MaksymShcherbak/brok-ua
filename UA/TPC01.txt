@@ -66,7 +66,7 @@ PC_INSTRUMENT=Музичний інструмент
 
 # NB: Lexicon word in Ukrainian for "Tribot": "Трибот"
 ### Auto-Clean Tribot
-PC_HOOVER=Трибот-прибиральник
+PC_HOOVER=Бот-прибиральник
 
 ### Chest
 PC_CHEST=Скриня
@@ -469,7 +469,7 @@ PC01_FRUITCUP1B-3=Але ж ти мусиш їсти тверду їжу! Не �
 
 # Graff
 ### I mean... Can't I?
-PC01_FRUITCUP1B-4=Ну... А чому це ні?
+PC01_FRUITCUP1B-4=Ну... А чому б ні?
 
 
 #----------------------------------------------------
@@ -504,7 +504,7 @@ PC01_BEDROOMDOOR_GRAFF1-2=Е-е... До твоєї кімнати?
 
 # Graff
 ### Yes. My room.
-PC01_BEDROOMDOOR_GRAFF1-3=Так. До МОЄЇ кімнати.
+PC01_BEDROOMDOOR_GRAFF1-3=Так. МОЄЇ кімнати.
 
 
 # Brok

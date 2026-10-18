@@ -21,7 +21,7 @@ PC_BROKAPARTMENT=Квартира Брока
 PC_MAILBOX=Поштова скринька
 
 ### Nameplate
-PC_NAMEPLATE=Табличка
+PC_NAMEPLATE=Напис
 
 ### Mail system
 PC_MAILSYSTEM=Поштова система
@@ -411,7 +411,7 @@ PC02_ROBOT1-1=Він не вмикається.
 
 # Brok
 ### Poor little thing. It's been rusting here for days and leaking some kind of powder on the floor.
-PC02_ROBOT1-2=Бідний. Він іржавіє тут уже кілька днів і з нього на підлогу сиплеться якийсь порошок.
+PC02_ROBOT1-2=Бідний. Він іржавіє тут уже багато днів і з нього на підлогу сиплеться якийсь порошок.
 
 
 # Brok
@@ -500,7 +500,7 @@ PC02_AD_TRASHERHUNT1-3="Участь коштує 10 Юні. Вхід на да�
 
 # Brok
 ### Yeah, I've used it before. Really a great deal when you're lucky!
-PC02_AD_TRASHERHUNT1-4=Та так, я вже цим користувався. Дійсно непогана річ, якщо тобі щастить!
+PC02_AD_TRASHERHUNT1-4=Так, я вже цим користувався. Дійсно непогана річ, якщо тобі щастить!
 
 
 # Brok
