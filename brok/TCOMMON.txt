@@ -1306,7 +1306,7 @@ ITEM_INTERFACE_OPTION_ENEMYBLINK_MSG=Чи мають вороги блимати
 INTERFACE_OPTION_REDEFINE_MESSAGE=Натисніть клавішу на клавіатурі!
 
 ### Reset to default
-INTERFACE_OPTION_REDEFINE_RESET=Скинути до початкових налаштувань
+INTERFACE_OPTION_REDEFINE_RESET=Скинути за замовчуванням
 
 #INTERFACE_OPTION_CHOOSECONTROLLER=Gamepad choice
 ### Gamepad type

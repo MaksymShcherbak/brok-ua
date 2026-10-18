@@ -506,7 +506,7 @@ ITEM_INTERFACE_OPTION_MAGNIFYZOOM_MSG=Рівень масштабування д
 INTERFACE_OPTION_REDEFINE_MESSAGE=Натисніть клавішу на клавіатурі!
 
 ### Reset to default
-INTERFACE_OPTION_REDEFINE_RESET=Скинути до початкових налаштувань
+INTERFACE_OPTION_REDEFINE_RESET=Скинути за замовчуванням
 
 ### Gamepad type
 INTERFACE_OPTION_PROMPTS=Тип геймпада
@@ -1083,7 +1083,7 @@ INTERFACE_RESTOREPURCHASE=Відновити покупку
 INTERFACE_OPTION_PATREONPAGE=Підтримайте нас на Patreon
 
 ### Follow the game's progress, access Early Development Builds
-ITEM_INTERFACE_OPTION_PATREONPAGE_MSG=Стежте за розробкою гри та отримайте доступ до ранніх збірок
+ITEM_INTERFACE_OPTION_PATREONPAGE_MSG=Стежте за розробкою гри та отримайте доступ до ранніх версій
 
 
 ### Purchased!
