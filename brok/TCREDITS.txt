@@ -83,7 +83,7 @@ PC_ASSOCIATEPRODUCER=Помічник продюсера
 PC_MUSICCOMPOSER=Композитор
 
 ### Voice actor
-PC_VOICEACTOR=Актор озвучення
+PC_VOICEACTOR=Актори озвучення
 
 ### Sound Editor
 PC_SOUNDEDITOR=Звукорежисер
